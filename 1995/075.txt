@@ -1,0 +1,4357 @@
+PARTEA
+
+Anul VII Ñ Nr. 75
+
+I
+
+Miercuri, 26 aprilie 1995
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE BÃNCII NAÞIONALE A ROMÂNIEI
+
+10/1994.Ñ Regulament privind compensarea multilateralã
+a plãților interbancare fãrã numerar pe suport
+hârtie ..........................................................................
+138.
+
+1.
+
+9.
+
+Ñ Ordin al guvernatorului Bãncii Naționale a
+României privind punerea în aplicare a
+Regulamentului nr. 8/1994, a normelor-cadru
+nr. 6, 7 și 15/1994 și a normelor tehnice nr. 9, 10 și
+16/1994, emise de Banca Naționalã a României
+Ñ Regulament privind principiile și organizarea avizãrii tehnice a sistemelor de plãți și decontãri
+fãrã numerar ..............................................................
+Ñ Circularã referitoare la evidența contabilã a plãților și decontãrilor interbancare în cadrul Bãncii
+Naționale a României ...............................................
+
+ACTE
+
+ALE
+
+BÃNCII
+
+Nr.
+10.
+
+1Ð46
+
+161.
+
+46
+11.
+47Ð51
+12.
+51Ð52
+
+Pagina
+Ñ Circularã privind orarul de plãți al Direcției de
+plãți și decontãri bancare din cadrul Bãncii Naționale
+a României ................................................................
+
+53
+
+Ñ Ordin al guvernatorului Bãncii Naționale a
+României privind sancțiunile în cazul nerespectãrii
+de cãtre unitãțile bancare a reglementãrilor privind
+compensarea multilateralã a plãților interbancare
+fãrã numerar pe suport hârtie ................................
+
+53
+
+Ñ Circularã privind organizarea participãrii la activitatea de compensare multilateralã a plãților interbancare pe suport hârtie ..........................................
+
+54Ð55
+
+Ñ Circularã privind operațiunile de decontãri cu trezoreria generalã a statului efectuate prin unitãțile
+bancare ......................................................................
+
+56
+
+NAÞIONALE
+
+A
+
+ROMÂNIEI
+
+BANCA NAÞIONALÃ A ROMÂNIEI
+
+REGULAMENT
+privind compensarea multilateralã a plãților interbancare fãrã numerar pe suport hârtie
+Articolul 1
+Obiectul regulamentului
+
+Articolul 2
+Termeni utilizați
+
+În temeiul art. 2 din Legea nr. 33/1991 și al art. 21 din Legea nr. 34/1991, Banca
+Naționalã a României emite prezentul regulament, al cãrui obiect îl constituie compensarea multilateralã a plãților interbancare fãrã numerar pe suport hârtie.
+În cuprinsul prezentului regulament:
+1. plata reprezintã orice operațiune, atât de platã cât și de încasare, rezultatã în urma
+unei operațiuni comerciale sau necomerciale realizate de o unitate bancarã pentru
+contul unui client al sãu, sau în numele și pentru contul sãu;
+2. plata fãrã numerar reprezintã orice platã efectuatã prin dispoziție, cesiune, transmitere
+(virament) în unitatea monetarã naționalã (leu), fãrã însã a întrebuința moneda în forma
+sa concretã (bilete de bancã și monedã metalicã);
+3. plata de micã valoare reprezintã o platã care are o valoare sub plafonul de 10
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+milioane lei exclusiv;
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+4. plata intrabancarã reprezintã o platã efectuatã între douã unitãți bancare care aparțin aceleiași societãți bancare;
+5. plata interbancarã reprezintã o platã efectuatã între douã unitãți bancare care nu
+aparțin aceleiași societãți bancare;
+6. plata localã reprezintã o platã efectuatã între douã unitãți bancare situate în aceeași localitate;
+7. plata intrajudețeanã reprezintã o platã efectuatã între douã unitãți bancare situate
+pe teritoriul aceluiași județ, dar nu în aceeași localitate;
+8. plata interjudețeanã reprezintã o platã efectuatã între douã unitãți bancare situate
+pe teritoriul a douã județe;
+9. compensarea multilateralã interbancarã reprezintã modalitatea de calcul al obligațiilor și creanțelor fiecãrei societãți bancare fațã de toate celelalte societãți bancare
+participante la compensare, modalitate care stã la baza decontãrii pe bazã netã;
+10. societatea bancarã reprezintã orice societate bancarã autorizatã de Banca Naționalã
+a României;
+11. unitatea bancarã reprezintã o subunitate a unei societãți bancare, unitate autorizatã de Banca Naționalã a României;
+12. unitatea bancarã inițiatoare reprezintã unitatea bancarã care ordonã o platã fãrã
+numerar pentru contul unui client al sãu, sau în numele și în contul sãu propriu, având
+astfel inițiativa începerii unei operațiuni de platã fãrã numerar;
+13. unitatea bancarã prezentatoare reprezintã unitatea bancarã care introduce în compensare instrumente de platã pe suport hârtie primite de la o unitate bancarã inițiatoare aparținând aceleiași societãți bancare;
+14. unitatea bancarã primitoare reprezintã unitatea bancarã care primește din compensare instrumente de platã pe suport hârtie, care sunt destinate unei alte unitãți
+bancare aparținând aceleiași societãți bancare;
+15. unitatea bancarã destinatarã reprezintã unitatea bancarã care primește din partea
+unei unitãți bancare inițiatoare o platã fãrã numerar (prin ordin de platã) sau care primește ordinul de a efectua o platã fãrã numerar (prin cec); unitatea bancarã destinatarã finalizeazã o operațiune de platã fãrã numerar;
+16. instrumentul de platã de debit reprezintã instrumentul de platã care circulã de la
+unitatea bancarã a beneficiarului cãtre unitatea bancarã a plãtitorului, având ca efect
+debitarea contului plãtitorului și creditarea contului beneficiarului;
+UNITATEA
+
+instrument
+
+BANCARÃ
+
+BANCARÃ
+
+A
+PLÃTITORULUI
+
+UNITATEA
+
+A
+bani
+
+BENEFICIARULUI
+
+17. instrumentul de platã de credit reprezintã instrumentul de platã care circulã de la
+unitatea bancarã a plãtitorului cãtre unitatea bancarã a beneficiarului, având ca efect
+debitarea contului plãtitorului și creditarea contului beneficiarului;
+UNITATEA
+
+instrument
+
+BANCARÃ
+
+BANCARÃ
+
+A
+PLÃTITORULUI
+
+UNITATEA
+
+A
+bani
+
+BENEFICIARULUI
+
+18. ziua de compensare (c) reprezintã ziua lucrãtoare în care se desfãșoarã ședința
+de compensare și pe baza cãreia se calculeazã intervalele obligatorii de procesare
+a plãților de micã valoare.
+Articolul 3
+Structurile Bãncii Naționale a
+României și ale societãților
+bancare participante la
+Compression by CVISION
+compensarea multilateralã a plãți-
+
+Compartimentele organizatorice din cadrul Bãncii Naționale a României, competente
+sã efectueze compensarea multilateralã a plãților interbancare fãrã numerar pe suport
+hârtie, sunt Direcția plãți și decontãri bancare din Banca Naționalã a României și
+Technologies’ PdfCompressor. For Evaluation României.
+serviciile de plãți și decontãri din sucursalele Bãncii Naționale a Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+lor interbancare fãrã numerar pe
+suport hârtie
+
+Articolul 4
+Obiectul compensãrii multilaterale
+a plãților interbancare fãrã numerar pe suport hârtie
+
+Articolul 5
+Circuitele, termenele și intervalele
+obligatorii ale plãților interbancare
+de micã valoare
+
+3
+
+Pentru efectuarea operațiunilor de compensare, fiecare societate bancarã va fi reprezentatã de o singurã unitate bancarã și va avea deschis un singur cont în fiecare
+loc de desfãșurare a compensãrii din cadrul Bãncii Naționale a României, conform
+principiului un cont Ñ o bancã.
+Obiectul compensãrii multilaterale îl constituie plãțile interbancare fãrã numerar pe suport
+hârtie care au o valoare mai micã de 10 milioane lei exclusiv, denumite în continuare plãți interbancare de micã valoare.
+Fac excepție de la dispozițiile acestui articol plãțile interbancare efectuate cu cecuri,
+care, indiferent de valoarea lor, sunt introduse în mod obligatoriu în compensarea
+multilateralã.
+
+5.1. Plãțile interbancare de micã valoare compensate multilateral conform prezentului
+regulament se proceseazã în mod obligatoriu conform schemelor de circuit prezentate în anexa nr. 1 la prezentul regulament.
+Termenele și intervalele de timp stabilite prin prezentul regulament pentru efectuarea,
+compensarea și decontarea plãților interbancare de micã valoare sunt obligatorii și se
+calculeazã în funcție de ziua de compensare (c).
+În cazul ordinelor de platã care au indicatã o anumitã zi a plãții (P), ziua de compensare (c) se stabilește în funcție de aceasta.
+Termenele și intervalele sunt exprimate în zile lucrãtoare.
+Termenele și intervalele sunt maximale.
+5.2. Unitãțile bancare sunt obligate sã sesizeze inspectorului de compensare nerespectarea de cãtre alte unitãți bancare a prevederilor art. 5.1.
+5.3. Inspectorii de compensare au obligația ca, în fiecare sãptãmânã, prin sondaj, sã
+verifice respectarea prevederilor prezentului articol de cãtre toate unitãțile bancare care
+participã la ședințele de compensare.
+
+Articolul 6
+Instrumente de plãți interbancare
+de micã valoare acceptate în compensarea multilateralã
+
+Articolul 7
+Instrumente de plãți interbancare
+de micã valoare excluse din compensarea multilateralã
+
+Societãțile bancare vor introduce și vor accepta în/din compensarea multilateralã urmãtoarele instrumente de platã pe suport hârtie, denumite în continuare instrumente de
+platã compensabile:
+a) ordinul de platã;
+b) cecul barat, denumit în continuare cec.
+Pot fi excluse din compensarea multilateralã, ca urmare a verificãrii lor, în ședința de
+compensare, de cãtre agenții de compensare ai unitãților bancare primitoare (destinatare), instrumentele de platã aflate în una dintre situațiile de mai jos:
+a) instrumentele de platã compensabile al cãror conținut și/sau formã sunt contrare
+prevederilor legii și reglementãrilor în vigoare și/sau care nu au completate toate rubricile;
+b) ordinele de platã ale cãror valori sunt mai mari decât plafonul de 10 milioane lei
+inclusiv;
+c) instrumentele de platã compensabile care prezintã modificãri privind:
+c1) suma plãții;
+c2) numele și/sau numãrul contului plãtitorului și/sau beneficiarului;
+c3) numele și/sau numãrul codului unitãții bancare a plãtitorului și/sau unitãții bancare a beneficiarului;
+d) instrumentele de platã compensabile care prezintã diferite condiționãri privind efectuarea plãții (dobânzi, penalizãri etc.);
+e) instrumentele de platã compensabile la care sunt anexate, prin diverse modalitãți,
+alte acte.
+
+Articolul 8
+Ședința de compensare
+
+Compression by CVISION
+
+În fiecare zi lucrãtoare se ține o ședințã obligatorie de compensare a plãților interbancare de micã valoare în sucursalele și centrala Bãncii Naționale a României, în
+Technologies’ PdfCompressor. scop. Evaluation Purposes Only
+sãli special amenajate și echipate în acest For
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+Ședința zilnicã se încheie prin obținerea unui rezultat unic privind poziția debitoare
+sau poziția creditoare a fiecãrei unitãți bancare care participã la compensare.
+
+Articolul 9
+Orarul ședinței de compensare
+Articolul 10
+Inspectorul de compensare
+Articolul 11
+Modificarea orarului ședinței
+de compensare
+
+Orarul ședinței zilnice de compensare este stabilit prin anexa nr. 2 la prezentul regulament.
+
+În fiecare sucursalã și în centrala Bãncii Naționale a României, ședința de compensare este condusã de un inspector de compensare sau de înlocuitorul acestuia.
+Conducerea Direcției plãți și decontãri bancare a Bãncii Naționale a României și
+inspectorii de compensare au dreptul sã modifice, fie din proprie inițiativã, fie la solicitarea societãților, respectiv a unitãților bancare, orarul ședinței de compensare, în
+situații justificate.
+Pentru modificarea orarului ședinței de compensare inspectorul de compensare are
+obligația sã solicite, în scris, aprobarea conducerii Direcției plãți și decontãri bancare
+a Bãncii Naționale a României.
+Inspectorii de compensare au obligația sã notifice din timp, telefonic sau prin telefax,
+tuturor unitãților bancare, modificarea orarului ședinței de compensare și motivele acestei modificãri.
+
+Articolul 12
+Agentul de compensare
+
+Fiecare societate bancarã este obligatã sã delege, dintre angajații sãi, pentru ședințele de compensare, câte un reprezentant pentru fiecare unitate bancarã proprie care
+participã la compensare.
+Acest reprezentant va fi numit în continuare agent de compensare.
+O datã cu desemnarea agenților de compensare, societãțile bancare vor stabili și câte
+un înlocuitor pentru fiecare dintre aceștia.
+Societãțile bancare vor comunica în scris Direcției plãți și decontãri bancare și sucursalelor Bãncii Naționale a României numele agenților de compensare și ale înlocuitorilor acestora.
+În cazuri de forțã majorã, directorul unitãții bancare are dreptul sã dea o împuternicire expresã de reprezentare, la ședința de compensare din ziua respectivã, unei alte
+persoane decât cei doi agenți de compensare mai sus menționați.
+
+Articolul 13
+Pregãtirea ședinței de compensare la unitãțile bancare
+
+13.1. Pregãtirea ședinței de compensare se desfãșoarã în afara centralei Bãncii
+Naționale a României și a sucursalelor sale.
+13.2. Pregãtirea ședinței de compensare se realizeazã prin efectuarea a patru grupe
+de operațiuni:
+GRUPA DE OPERAÞIUNI I
+a) Instrumentele de platã sunt grupate, de cãtre unitãțile bancare inițiatoare (prezentatoare), pe unitãți bancare destinatare (primitoare) și, în cadrul acestora, pe instrumente de platã compensabile, de debit și de credit.
+Instrumentele astfel grupate alcãtuiesc pachete de instrumente de platã compensabile, denumite în continuare pachete.
+Numãrul maxim al instrumentelor de platã compensabile care compun un pachet este de 100
+(una sutã).
+b) În vederea prezentãrii la compensare se pregãtesc plicuri în care se vor introduce
+pachetele de instrumente de platã compensabile.
+Plicurile au formatul și datele de identificare cuprinse în anexa nr. 3 la prezentul regulament și ele urmeazã a fi sigilate, dupã finalizarea pregãtirii ședinței de compensare,
+de cãtre unitãțile bancare.
+c) Fiecare pachet este însoțit, în mod obligatoriu, de o bandã de control totalizatoare
+a sumelor înscrise pe instrumentele pe care le conține.
+Totalul fiecãrei benzi de control este preluat într-o dispoziție centralizatoare.
+d) Dispoziția centralizatoare poate fi de douã tipuri:
+
+Compression by CVISION Technologies’ PdfCompressor.care totalizeazã sumele Purposes Only
+Ñ dispoziție centralizatoare de încasare, For Evaluation înscrise pe cecuri;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+5
+
+Ñ dispoziție centralizatoare de platã, care totalizeazã sumele înscrise pe ordinele
+de platã.
+Standardele dispozițiilor centralizatoare sunt prezentate în anexa nr. 4a) la prezentul
+regulament.
+
+*Dispozițiile centralizatoare de încasare se întocmesc în patru exemplare având același conținut, astfel:
+Ñ exemplarul nr. 1, de culoare albã;
+Ñ exemplarele nr. 2 și 3, de culoare roz;
+Ñ exemplarul nr. 4, de culoare vernil.
+Destinația fiecãrui exemplar al dispoziției centralizatoare de încasare este urmãtoarea:
+Ñ exemplarul vernil (nr. 4) este pãstrat de unitatea prezentatoare, constituind document justificativ pentru operațiunile sale;
+Ñ exemplarul roz (nr. 3) este remis, fãrã a fi introdus în compensare, în plicul
+care conține instrumente de platã compensabile (cecuri), unitãții bancare primitoare, în vederea verificãrii, constituind document justificativ pentru operațiunile acesteia;
+Ñ exemplarul roz (nr. 2) este remis, în ziua compensãrii, unitãții bancare primitoare, în vederea compensãrii instrumentelor de platã compensabile (cecuri) prezentate anterior;
+Ñ exemplarul alb (nr. 1) este remis, în cadrul ședinței de compensare, inspectorului de compensare, constituind document justificativ și de control pentru sumele
+totale preluate din borderourile dispozițiilor centralizatoare ale unitãții bancare
+prezentatoare.
+
+*Dispozițiile centralizatoare de platã se întocmesc în trei exemplare având același conținut, astfel:
+Ñ exemplarul nr. 1, de culoare albã;
+Ñ exemplarul nr. 2, de culoare roz;
+Ñ exemplarul nr. 3, de culoare vernil.
+Destinația fiecãrui exemplar al dispoziției centralizatoare de platã este urmãtoarea:
+Ñ exemplarul vernil (nr. 3) este pãstrat de unitatea bancarã prezentatoare (inițiatoare), constituind document justificativ pentru operațiunile sale;
+Ñ exemplarul roz (nr. 2) este remis, în plicul care conține pachetul de instrumente
+compensabile, unitãții bancare primitoare, constituind document justificativ pentru operațiunile acesteia;
+Ñ exemplarul alb (nr. 1) este remis, în cadrul ședinței de compensare, inspectorului de compensare, constituind document justificativ și de control pentru sumele
+totale preluate din borderourile dispozițiilor centralizatoare ale unitãții bancare
+prezentatoare.
+Modul de completare a dispozițiilor centralizatoare este descris în anexa nr. 4b) la
+prezentul regulament.
+Dispozițiile centralizatoare sunt, în mod obligatoriu, dactilografiate.
+e) Documentele componente ale unui pachet remis în plic unitãții bancare primitoare
+(destinatare) sunt prezentate, în mod obligatoriu, în urmãtoarea ordine:
+Ñ dispoziția centralizatoare (de platã sau de încasare);
+Ñ banda de control;
+Ñ instrumentele de platã compensabile.
+GRUPA DE OPERAÞIUNI II
+
+Compression by CVISION
+
+Pe baza dispozițiilor centralizatoare, unitatea bancarã prezentatoare (inițiatoare) completeazã câte un borderou al dispozițiilor centralizatoare pentru fiecare unitate banTechnologies’ PdfCompressor. For Evaluation Purposes Only
+carã primitoare (destinatarã).
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+Standardul borderoului dispozițiilor centralizatoare este prezentat în anexa nr. 5a) la
+prezentul regulament.
+Borderoul dispozițiilor centralizatoare se întocmește în trei exemplare, având același
+conținut, astfel:
+Ñ exemplarul nr. 1, de culoare albã;
+Ñ exemplarul nr. 2, de culoare roz;
+Ñ exemplarul nr. 3, de culoare vernil.
+Destinația fiecãrui exemplar al borderoului dispozițiilor centralizatoare este urmãtoarea:
+Ñ exemplarul vernil (nr. 3) este pãstrat de unitatea bancarã prezentatoare, constituind document justificativ pentru operațiunile sale;
+Ñ exemplarul roz (nr. 2) este remis, prin compensare, unitãții bancare primitoare
+(destinatare), constituind document justificativ pentru operațiunile acesteia;
+Ñ exemplarul alb (nr. 1) este remis, în ședința de compensare, inspectorului de
+compensare, constituind document justificativ și de control pentru sumele totale
+preluate din formularul de compensare al unitãții bancare participante în formularul de compensare centralizator.
+Modul de completare a borderoului dispozițiilor centralizatoare este prezentat în anexa
+nr. 5b) la prezentul regulament.
+Borderoul dispozițiilor centralizatoare de încasare cuprinde dispozițiile de încasare centralizatoare ale instrumentelor de platã compensabile (cecuri) prezentate anterior.
+Borderoul dispozițiilor centralizatoare de platã cuprinde dispozițiile de platã centralizatoare ale instrumentelor de platã compensabile (ordine de platã) prezentate efectiv
+în compensare.
+Borderourile dispozițiilor centralizatoare sunt, în mod obligatoriu, dactilografiate.
+GRUPA DE OPERAÞIUNI III
+a) Instrumentele de platã compensabile primite de la celelalte unitãți bancare participante sunt analizate de cãtre unitatea bancarã destinatarã (primitoare) în vederea
+acceptãrii sau refuzãrii lor.
+Acceptarea unui instrument de platã compensabil nu poate fi parțialã, decât cu acordul societãților bancare inițiatoare și destinatare.
+Refuzul instrumentelor de platã compensabile poate interveni în urma:
+Ñ uneia dintre situațiile menționate la art. 7;
+Ñ faptului cã unitatea bancarã respectivã nu este destinatara (primitoarea) unuia
+sau a mai multor instrumente de platã incluse în pachetele adresate ei;
+Ñ unor situații diverse legate de natura plãții sau încasãrii, ca: numere de conturi greșit înscrise, cecuri false etc.;
+Ñ inexistenței disponibilului în contul clientului plãtitor (în cazul cecurilor).
+b) Refuzul instrumentelor de platã compensabile se face, în funcție de ziua de compensare (c),
+astfel:
+Ñ instrumentele de platã compensabile de debit (cecurile) sunt refuzate de cãtre
+unitãțile bancare primitoare (destinatare) în ziua introducerii lor scriptice în compensare (c) de cãtre unitãțile bancare prezentatoare (inițiatoare), deoarece ele
+au fost prezentate anterior în vederea verificãrii lor;
+Ñ instrumentele de platã compensabile de credit (ordinele de platã) sunt refuzate
+în maximum douã zile lucrãtoare de la data compensãrii lor (c+2).
+c) Refuzul instrumentelor de platã compensabile se consemneazã în formularele denumite refuz la platã și refuz la încasare, prezentate în anexa nr. 6a) la prezentul regulament.
+
+Compression by CVISION Technologies’ PdfCompressor. refuzulEvaluation Purposes Only
+În cazul refuzului cecurilor se completeazã For la platã.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+7
+
+În cazul refuzului ordinelor de platã se completeazã refuzul la încasare.
+Numãrul maxim de instrumente de platã compensabile care pot fi refuzate printr-un
+formular de refuz la platã sau refuz la încasare este de 100 (una sutã).
+Pentru fiecare instrument de platã refuzat se completeazã, fãrã abrevieri, formularul de justificare a refuzului, prezentat în anexa nr. 7 la prezentul regulament. Acest
+formular se completeazã într-un singur exemplar, care este remis împreunã cu instrumentul de platã refuzat.
+Societãțile bancare stabilesc prin reglementãri interne nivelurile ierarhice la care se
+întocmesc și se verificã justificãrile de refuz.
+d) Fiecare formular de refuz este însoțit, în mod obligatoriu, de o bandã de control
+totalizatoare a sumelor înscrise pe instrumentele de platã compensabile refuzate.
+e) Refuzul se întocmește în trei exemplare având același conținut, astfel:
+Ñ exemplarul nr. 1, de culoare albã;
+Ñ exemplarul nr. 2, de culoare roz;
+Ñ exemplarul nr. 3, de culoare vernil.
+Destinația fiecãrui exemplar al refuzului este urmãtoarea:
+Ñ exemplarul vernil (nr. 3) este pãstrat de unitatea bancarã prezentatoare (inițiatoare) a refuzului, constituind document justificativ pentru operațiunile sale;
+Ñ exemplarul roz (nr. 2) este remis, în plicul care conține pachetul de instrumente
+de platã compensabile refuzate, unitãții bancare primitoare (destinatare) a refuzului, constituind document justificativ pentru operațiunile acesteia;
+Ñ exemplarul alb (nr. 1) este remis inspectorului de compensare, constituind document justificativ și de control pentru sumele totale refuzate, preluate în formularul de compensare centralizator.
+Modul de completare a refuzului la platã și a refuzului la încasare este descris în
+anexa nr. 6b) la prezentul regulament.
+Refuzurile sunt, în mod obligatoriu, dactilografiate.
+f) Refuzurile se grupeazã pe unitãți bancare primitoare (destinatare) și pe tipuri de
+refuz (la platã sau la încasare). Refuzurile se introduc în plicuri identice cu cele utilizate pentru pachetele de instrumente compensabile, plicuri care vor fi sigilate.
+g) Documentele componente ale unui astfel de plic trebuie prezentate în ordinea urmãtoare:
+Ñ refuzul (la platã sau la încasare);
+Ñ banda de control;
+Ñ instrumentele de platã compensabile refuzate;
+Ñ formularele de justificare a refuzurilor.
+GRUPA DE OPERAÞIUNI IV
+Dupã pregãtirea instrumentelor de platã compensabile și a refuzurilor, unitãțile bancare prezentatoare (inițiatoare) completeazã formularul de compensare prezentat în
+anexa nr. 8a) la prezentul regulament, astfel:
+Ñ pe baza borderourilor dispozițiilor centralizatoare se completeazã rubricile ,,Sume
+de încasat,, și ,,Sume de plãtit,,;
+Ñ pe baza refuzurilor se completeazã rubricile ,,Sume de încasat refuzate,, și ,,Sume
+de plãtit refuzate,,.
+Formularul de compensare se întocmește în douã exemplare, având același conținut,
+astfel:
+Ñ exemplarul nr. 1, de culoare albã;
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+Ñ exemplarul nr. 2, de culoare vernil.
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+Destinația fiecãrui exemplar al formularului de compensare este urmãtoarea:
+Ñ exemplarul vernil (nr. 2) este pãstrat de unitatea bancarã, constituind document
+justificativ pentru operațiunile sale;
+Ñ exemplarul alb (nr. 1) este remis, la sfârșitul ședinței de compensare, inspectorului de compensare, constituind document justificativ și de control pentru
+sumele totale preluate în formularul de compensare centralizator.
+Modul de completare a formularului de compensare este descris în anexa nr. 8b) la
+prezentul regulament.
+
+Articolul 14
+Desfãșurarea ședinței de compensare
+
+Ședința de compensare, Partea I, se desfãșoarã dupã urmãtoarea procedurã, în mai
+multe etape:
+Etapa 1
+Agenții de compensare ai fiecãrei unitãți bancare se prezintã în sala de compensare
+cu pachetele de instrumente compensabile, borderourile dispozițiilor centralizatoare, refuzurile și formularul de compensare, pregãtite conform art. 13.
+Etapa 2
+Inspectorul de compensare deschide ședința de compensare prin anunțarea datei compensãrii (c) și face prezența unitãților bancare care participã la compensare.
+În cazul în care constatã lipsa reprezentantului uneia sau mai multor unitãți bancare,
+amânã începerea ședinței de compensare cu maximum 15 minute.
+Dacã și dupã trecerea acestui interval de timp constatã lipsa reprezentantului(ților)
+uneia sau mai multor unitãți bancare, inspectorul de compensare anunțã numele unitãții(lor) bancare absentã (e) și dispune refacerea formularelor de compensare ale unitãților bancare prezente prin eliminarea pozițiilor aferente unitãții(lor) bancare absentã(e).
+Etapa 3
+Între agenții de compensare ai tuturor unitãților bancare care participã la ședințã se
+realizeazã schimbul reciproc de plicuri conținând:
+a) pachetele de instrumente compensabile de credit (ordinele de platã);
+b) dispozițiile centralizatoare de încasare și borderourile acestora, aferente pachetelor de instrumente de platã compensabile de debit (cecuri) prezentate anterior.
+Etapa 4
+Dupã primirea plicurilor cu pachetele de instrumente compensabile care sunt destinate unitãții bancare pe care o reprezintã, fiecare agent de compensare le desigileazã și are urmãtoarele obligații:
+a) sã verifice dacã unitatea bancarã pe care o reprezintã este primitoarea (destinatara) de drept a instrumentelor de platã compensabile;
+b) sã numere instrumentele de platã compensabile de credit pe care le conține fiecare pachet;
+c) sã verifice cu maximum de operativitate exactitatea totalurilor de pe benzile de
+control ale acestor pachete;
+d) sã verifice cu maximum de operativitate sumele preluate în borderourile dispozițiilor centralizatoare de încasare și de platã (exemplarele nr. 2 Ñ roz) și totalurile acestora.
+
+Compression by CVISION
+
+În situațiile în care unitatea bancarã pe care o reprezintã este primitoarea (destinatara) de drept a instrumentelor de platã compensabile de credit, numãrul de instrumente de platã compensabile de credit, consemnat pe dispoziția centralizatoare de
+platã, exemplarul nr. 2 (roz), corespunde cu numãrul de instrumente de platã compensabile de credit existente fizic în pachet, totalul benzii de control este exact și
+corespunde cu totalul consemnat pe dispoziția centralizatoare, agentul de compensare al unitãții bancare primitoare (destinatare) are obligația sã certifice acest fapt,
+prin semnãturã, agentului de compensare al unitãții bancare prezentatoare (inițiatoare),
+Technologies’3 PdfCompressor. For Evaluation Purposes Only
+pe exemplarul nr.
+(vernil) al dispoziției centralizatoare de platã.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+9
+
+În situațiile în care unitatea bancarã pe care o reprezintã nu este primitoarea (destinatara) de drept a instrumentelor de platã compensabile de credit, numãrul de instrumente de platã compensabile de credit existente fizic în plic nu corespunde cu numãrul
+înscris pe dispoziția centralizatoare de platã, totalul benzii de control este eronat sau
+prezintã omisiuni sau totalul benzii de control nu corespunde cu cel înscris pe dispoziția centralizatoare de platã, agentul de compensare al unitãții bancare primitoare
+(destinatare) trebuie sã semnaleze acest fapt inspectorului de compensare și agentului de compensare al unitãții bancare prezentatoare (inițiatoare), acesta din urmã
+fiind obligat sã facã modificãrile necesare pe toate cele trei exemplare ale dispoziției
+centralizatoare de platã și sã semneze în dreptul modificãrilor fãcute.
+În cazul modificãrii unor date pe o dispoziție centralizatoare de platã, agentul de compensare al unitãții bancare prezentatoare (inițiatoare) are obligația sã opereze, în mod
+similar, respectiva modificare, atât pe cele trei exemplare ale borderoului corespunzãtor dispozițiilor centralizatoare de platã, cât și pe cele douã exemplare ale formularului de compensare al unitãții bancare pe care o reprezintã și sã refacã totalurile
+respective.
+În situația în care datele preluate de pe dispozițiile centralizatoare de încasare și de
+platã și/sau totalurile borderourilor sunt eronate, agentul de compensare al unitãți bancare primitoare (destinatare) trebuie sã semnaleze acest fapt inspectorului de compensare și agentului de compensare al unitãții bancare prezentatoare (inițiatoare), acesta
+din urmã fiind obligat sã facã modificãrile necesare pe toate cele trei exemplare ale
+borderourilor dispozițiilor centralizatoare de încasare și de platã.
+În cazul modificãrii unor date pe borderourile dispozițiilor centralizatoare de încasare
+și de platã, agentul de compensare al unitãții bancare prezentatoare (inițiatoare) are
+obligația sã opereze în mod similar respectiva modificare pe formularul de compensare al unitãții bancare pe care o reprezintã și sã refacã totalurile respective;
+e) în situația în care sumele preluate în borderoul dispozițiilor centralizatoare de încasare și totalurile acestora sunt corecte, agentul de compensare al unitãții bancare primitoare (destinatare) are obligația sã certifice acest fapt, prin semnãturã și ștampila
+unitãții bancare pe care o reprezintã, agentului de compensare al unitãții bancare prezentatoare (inițiatoare) pe exemplarul nr. 4 (vernil) al dispoziției centralizatoare de încasare, în partea dreaptã a rubricii ,,Certificat,,;
+f) sã certifice exactitatea datelor preluate în borderourile dispozițiilor centralizatoare
+de încasare și de platã și totalurile acestora pe exemplarul nr. 3 (vernil) al acestor
+borderouri aparținând unitãții bancare prezentatoare (inițiatoare);
+g) dupã primirea pachetelor de instrumente de platã compensabile, agenții de compensare sunt obligați sã înscrie sumele existente pe borderourile dispozițiilor centralizatoare care le sunt destinate, în formularul de compensare al unitãții bancare pe
+care o reprezintã.
+Modul de completare a formularului de compensare în aceastã etapã este cuprins în
+anexa nr. 8b) la prezentul regulament.
+Etapa 5
+Inspectorul de compensare preia de la fiecare agent de compensare totalurile obținute prin adunarea sumelor de încasat și a sumelor de plãtit, înscriindu-le în formularul de compensare centralizator prezentat în anexa nr. 9a) la prezentul regulament.
+Modul de completare a formularului de compensare centralizator în aceastã etapã este
+cuprins în anexa nr. 9b) la prezentul regulament.
+Inspectorul de compensare calculeazã totalul general al sumelor de plãtit în compensare
+și totalul general al sumelor de încasat în compensare.
+Pentru ca prima parte a ședinței de compensare sã se încheie, este obligatoriu ca
+aceste douã totaluri generale sã fie identice.
+
+Compression by CVISION
+
+În situația în care cele douã totaluri generale diferã, inspectorul de compensare solicitã fiecãrui agent de compensare sã refacã operațiunile matematice efectuate pânã
+în acest moment, urmãrindu-se depistarea greșelii și modificarea datelor eronat
+Technologies’ PdfCompressor.în For Evaluation Purposes Only
+înscrise în formularele de compensare și
+formularul de compensare centralizator.
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+Ședința de compensare, Partea a II-a, se desfãșoarã în mai multe etape, dupã urmãtoarea procedurã:
+Etapa 1
+Între agenții de compensare ai unitãților bancare participante se realizeazã schimbul
+reciproc de plicuri conținând:
+a) refuzurile aferente instrumentelor de platã compensabile de credit (ordinele de platã)
+care au fost compensate într-o ședințã de compensare anterioarã: (cÑ1) sau (cÑ2);
+b) refuzurile aferente instrumentelor de platã compensabile de debit (cecurile) care
+au fost prezentate anterior și care sunt compensate în ședința respectivã de compensare (c).
+Etapa 2
+Dupã primirea plicurilor cu instrumentele de platã compensabile refuzate, care sunt
+destinate unitãții bancare pe care o reprezintã, fiecare agent de compensare desigileazã plicurile și are urmãtoarele obligații:
+a) sã verifice dacã unitatea bancarã pe care o reprezintã este destinatara (primitoarea) de drept a refuzurilor;
+b) sã numere instrumentele de platã compensabile refuzate;
+c) sã verifice cu maximum de operativitate exactitatea totalurilor de pe benzile de
+control ale refuzurilor.
+În situațiile în care unitatea bancarã pe care o reprezintã este primitoarea (destinatara) de drept a unui refuz, numãrul de instrumente refuzate consemnat pe refuz (exemplarul nr. 2 Ñ roz) corespunde cu numãrul de instrumente de platã compensabile
+refuzate existente fizic în plic și totalul benzii de control este exact și corespunde cu
+totalul consemnat pe formularul de refuz, agentul de compensare al unitãții bancare
+primitoare (destinatare) a refuzului are obligația sã certifice acest fapt, prin semnãturã, agentului de compensare al unitãții bancare care refuzã, pe exemplarul nr. 3
+(vernil) al refuzului.
+În situațiile în care unitatea bancarã pe care o reprezintã nu este primitoarea (destinatara) de drept a unui refuz, numãrul de instrumente de platã compensabile refuzate existente fizic în plic nu corespunde cu numãrul înscris pe formularul de refuz,
+totalul benzii de control este eronat sau prezintã omisiuni, sau totalul benzii de control nu corespunde cu cel înscris pe formularul de refuz, agentul de compensare al
+unitãții bancare primitoare (destinatare) a refuzului trebuie sã semnaleze acest fapt
+inspectorului de compensare și agentului de compensare al unitãții bancare prezentatoare (inițiatoare) a refuzului, acesta din urmã fiind obligat sã facã modificãrile necesare pe toate cele trei exemplare ale refuzului și sã semneze în dreptul modificãrilor
+fãcute.
+În cazul modificãrii unor date pe un refuz, agentul de compensare al unitãții bancare
+prezentatoare (inițiatoare) a refuzului are obligația sã opereze, în mod similar, respectiva modificare și pe cele douã exemplare ale formularului de compensare al unitãții bancare pe care o reprezintã și sã refacã totalurile respective;
+d) dupã primirea refuzurilor, agenții de compensare ai unitãților bancare primitoare
+(destinatare) ale refuzurilor sunt obligați sã înscrie sumele existente pe acestea în
+formularul de compensare.
+Modul de completare a formularului de compensare în aceastã etapã este cuprins în
+anexa nr. 8b) la prezentul regulament.
+Etapa 3
+Inspectorul de compensare preia de la agenții de compensare totalurile sumelor de
+plãtit refuzate, totalurile sumelor de încasat refuzate și soldurile din formularele de
+compensare, înscriindu-le în formularul de compensare centralizator.
+Modul de completare a formularului de compensare centralizator în aceastã etapã este
+descris în anexa nr. 9b) la prezentul regulament.
+
+Compression by CVISION
+
+Inspectorul de compensare calculeazã totalul general al sumelor de plãtit refuzate,
+totalul general al sumelor de încasat refuzate, totalul soldurilor debitoare și totalul solTechnologies’ PdfCompressor. For Evaluation Purposes Only
+durilor creditoare obținute în urma compensãrii.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+11
+
+Pentru ca a doua parte a ședinței de compensare sã se încheie, este obligatoriu ca,
+pe formularul de compensare centralizator, totalul general al sumelor de plãtit refuzate sã fie identic cu totalul general al sumelor de încasat refuzate și totalul soldurilor debitoare sã fie identic cu totalul soldurilor creditoare.
+În situația în care una dintre cele douã egalitãți nu este respectatã, inspectorul de
+compensare solicitã fiecãrui agent de compensare sã refacã operațiunile matematice
+efectuate în partea a doua a ședinței de compensare, urmãrindu-se depistarea greșelii și modificarea datelor eronat înscrise în formularele de compensare și în formularul de compensare centralizator.
+Dupã stabilirea egalitãții dintre totalul general al sumelor de plãtit refuzate și totalul
+general al sumelor de încasat refuzate și a egalitãții dintre totalul soldurilor debitoare
+și cel al soldurilor creditoare, agenții de compensare completeazã rezultatele finale
+pe formularele de compensare ale unitãților bancare pe care le reprezintã.
+Fiecare unitate bancarã participantã prezintã un sold unic ca urmare a compensãrii,
+care reprezintã fie suma totalã pe care o are de încasat, fie suma totalã pe care o
+are de plãtit în/din contul sãu.
+Formularul de compensare al fiecãrei unitãți bancare participante este semnat pe
+ambele exemplare de cãtre agentul de compensare și certificat de inspectorul de compensare, conform anexei nr. 8b) la prezentul regulament.
+Dupã certificarea rezultatelor compensãrii pe formularele de compensare ale unitãților bancare, inspectorul de compensare declarã închisã ședința de compensare.
+Articolul 15
+Prezentarea instrumentelor
+de platã compensabile de debit
+(cecuri) pentru verificare
+
+În vederea verificãrii lor, instrumentele de platã compensabile de debit sunt obligatoriu prezentate, anterior zilei de compensare, de cãtre unitãțile bancare prezentatoare
+(inițiatoare), unitãților bancare primitoare (destinatare), conform schemelor de circuit,
+termenelor și intervalelor obligatorii din anexa nr. 1 la prezentul regulament.
+Prezentarea instrumentelor de platã compensabile de debit se face în sala de compensare dupã închiderea ședinței de compensare, între orele 11,00Ñ11,30.
+Prezentarea instrumentelor de platã compensabile de debit se desfãșoarã dupã urmãtoarea procedurã:
+1. Plicurile conținând instrumentele de platã compensabile de debit și dispozițiile centralizatoare de încasare, (exemplarul nr. 3 Ñ roz), pregãtite conform art. 13 al prezentului regulament, sunt înmânate de cãtre agenții de compensare ai unitãților bancare
+prezentatoare (inițiatoare), agenților de compensare ai unitãților bancare primitoare (destinatare).
+2. Dupã primirea plicurilor cu pachetele de instrumente de platã compensabile de debit
+care sunt destinate unitãților bancare pe care le reprezintã, fiecare agent de compensare le desigileazã și are urmãtoarele obligații:
+a) sã verifice dacã unitatea bancarã pe care o reprezintã este primitoarea (destinatara) de drept a instrumentelor de platã compensabile de debit;
+b) sã numere instrumentele de platã compensabile de debit pe care le conține fiecare pachet;
+c) sã verifice cu maximum de operativitate exactitatea totalurilor de pe benzile de
+control ale acestor pachete;
+d) sã verifice cu maximum de operativitate sumele preluate în dispoziția centralizatoare de încasare (exemplarul nr. 3 Ñ roz) și totalul acesteia.
+
+Compression by CVISION
+
+3. În situațiile în care unitatea bancarã pe care o reprezintã este primitoarea (destinatara) de drept a instrumentelor de platã compensabile de debit, numãrul de instrumente de platã compensabile de debit consemnat pe dispoziția centralizatoare de
+încasare (exemplarul nr. 3 Ñ roz) corespunde cu numãrul de instrumente de platã
+compensabile de debit existente fizic în pachet, totalul benzii de control este exact
+și corespunde cu totalul consemnat pe dispoziția centralizatoare de încasare, agentul de compensare al unitãții bancare primitoare (destinatare) are obligația sã certifice acest fapt, prin semnãturã, agentului de compensare al unitãții bancare
+prezentatoare (inițiatoare) pe exemplarul nr. 4 (vernil) al dispoziției centralizatoare de
+Technologies’ stângã a rubricii ,,Certificat,,. Evaluation Purposes Only
+încasare, în partea PdfCompressor. For
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+În situațiile în care unitatea bancarã pe care o reprezintã nu este primitoarea (destinatara) de drept a instrumentelor de platã compensabile de debit, numãrul de instrumente de platã compensabile de debit existente fizic în plic nu corespunde cu numãrul
+înscris pe dispoziția centralizatoare de încasare, totalul benzii de control este eronat
+sau prezintã omisiuni sau totalul benzii de control nu corespunde cu cel înscris pe
+dispoziția centralizatoare de încasare, agentul de compensare al unitãții bancare primitoare (destinatare) trebuie sã semnaleze acest fapt agentului unitãții bancare prezentatoare (inițiatoare), acesta din urmã fiind obligat sã facã modificãrile necesare pe
+toate cele patru exemplare ale dispoziției centralizatoare de încasare și sã semneze
+în dreptul modificãrilor fãcute.
+
+Articolul 16
+Marcarea instrumentelor
+de platã compensate
+
+16.1. Dupã analizare și acceptare, unitãțile bancare primitoare (destinatare) au obligația sã marcheze instrumentele de platã compensabile acceptate prin aplicarea pe
+versoul acestora a ștampilei cu înscrisul:
+
+COMPENSAT
+ZIUA ........... LUNA ............ ANUL ...........
+
+16.2. Instrumentele de platã compensabile refuzate nu se marcheazã conform procedurii menționate mai sus. Acestea urmeazã a fi marcate ulterior rectificãrii viciilor
+de formã, fond și/sau circuit pe care le prezintã.
+Articolul 17
+Transmiterea mesajelor între
+sucursalele și centrala Bãncii
+Naționale a României
+
+Articolul 18
+Soluționarea erorilor și omisiunilor
+
+17.1. Dupã închiderea ședinței de compensare, într-un interval de maximum o orã
+(pânã la ora 12,00), inspectorul de compensare are obligația sã transmitã Bãncii
+Naționale a României, Direcția plãți și decontãri bancare, conținutul formularelor de
+compensare centralizatoare.
+
+18.1. Procedura de soluționare a erorilor și omisiunilor în activitatea de compensare desfãșuratã de cãtre unitãțile bancare este prezentatã în anexa nr. 11
+la prezentul regulament.
+18.2. Intervalul de timp cuprins între data compensãrii inițiale (c) și data soluționãrii
+erorilor sau omisiunilor (data compensãrii ulterioare) ale cãror obiecte sunt instrumentele
+de platã compensabile nu poate fi mai mare de 5 zile lucrãtoare inclusiv.
+18.3. Instrumentele de platã care fac obiectul unor erori sau omisiuni, dupã soluționarea acestora, sunt reintroduse de cãtre unitãțile bancare, prin procedura descrisã
+în anexa nr. 11 la prezentul regulament, într-un ciclu normal de compensare.
+18.4. Formularele folosite pentru soluționarea erorilor și omisiunilor conform procedurii din anexa nr. 11 la prezentul regulament nu pot constitui obiect al unui refuz
+ulterior prin compensare.
+18.5. În situația în care intervalul de timp menționat la art. 18.2 este depãșit de unitãțile bancare prezentatoare (inițiatoare) ale soluționãrii erorilor și omisiunilor, unitãțile
+bancare primitoare (destinatare) ale acestora au dreptul de a nu accepta efectuarea
+acestor operațiuni printr-un ciclu de compensare. Soluționarea acestor cazuri se face
+pe cale amiabilã sau prin instanțele judecãtorești.
+
+Articolul 19
+Arhivarea documentelor compensãrii
+
+19.1. Toatã documentația folositã în procesul compensãrii multilaterale interbancare
+se arhiveazã obligatoriu de cãtre Direcția plãți și decontãri bancare a Bãncii Naționale
+a României, sucursalele Bãncii Naționale a României și unitãțile bancare participante,
+la sediile acestora, pe o perioadã de 4 ani, dupã cum urmeazã:
+1. La Direcția plãți și decontãri bancare a Bãncii Naționale a României:
+
+Compression by CVISION Technologies’ PdfCompressor. For(mesaje);
+Ñ formularele de compensare centralizatoare Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+13
+
+Ñ procesele-verbale de constatare a încãlcãrii prevederilor Regulamentului privind
+compensarea multilateralã a plãților interbancare fãrã numerar pe suport hârtie.
+2. La sucursalele Bãncii Naționale a României:
+Ñ formularele centralizatoare de compensare;
+Ñ formularele de compensare ale unitãților bancare (exemplarul alb);
+Ñ documentele de compensare (exemplarul alb) prezentate de unitãțile bancare;
+Ñ procesele-verbale de constatare a încãlcãrii prevederilor Regulamentului privind
+compensarea multilateralã a plãților interbancare fãrã numerar pe suport hârtie.
+3. La unitãțile bancare:
+Ñ formularele de compensare proprii (exemplarul vernil);
+Ñ documentele de compensare (exemplarul vernil) prezentate de unitatea bancarã
+și documentele primite în compensare (exemplarul roz sau exemplarele roz, dupã
+caz) de unitatea bancarã, precum și benzile de control;
+Ñ procesele-verbale de constatare a încãlcãrii prevederilor Regulamentului privind
+compensarea multilateralã a plãților interbancare fãrã numerar pe suport hârtie.
+Pentru operațiunea de arhivare, prin termenul documente de compensare se înțelege:
+Ñ dispozițiile centralizatoare de încasare/platã;
+Ñ borderoul dispozițiilor centralizatoare de încasare/platã;
+Ñ refuzul la platã/încasare;
+Ñ refuzul la platã/încasare la termen;
+Ñ fișa rectificativã de refuz la platã/încasare;
+Ñ fișa rectificativã de platã.
+19.2. Direcția plãți și decontãri bancare a Bãncii Naționale a României și sucursalele
+Bãncii Naționale a României au dreptul sã solicite, prin adresã oficialã, unitãților bancare participante, orice document și date privind compensarea multilateralã a plãților
+interbancare fãrã numerar pe suport hârtie, aflate în arhiva acestora.
+Articolul 20
+Penalizãri privind nerespectarea
+de cãtre unitãțile bancare a reglementãrilor privind compensarea
+multilateralã a plãților interbancare
+fãrã numerar pe suport hârtie
+
+20.1. Inspectorii de compensare au dreptul sã stabileascã penalizãri unitãților bancare
+în urmãtoarele cazuri:
+a) introducerea în compensare a unor instrumente de platã compensabile cu o valoare
+peste plafonul de 10 milioane lei inclusiv, cu excepția cecurilor;
+b) întârzierea agentului de compensare la ședințele de compensare pânã la cincisprezece minute;
+c) întârzierea agentului de compensare cu mai mult de cincisprezece minute se considerã a fi neprezentare și se penalizeazã cu:
+Ñ excluderea în ziua respectivã din compensare a unitãții bancare pe care o reprezintã;
+Ñ plata pierderilor financiare cauzate celorlalte unitãți bancare care participã la
+compensare;
+d) solicitarea modificãrii orarului ședințelor de compensare, de cãtre o unitate bancarã sau de cãtre o societate bancarã, din motive care, ulterior, se dovedesc a fi
+nejustificate;
+e) trimiterea la ședința de compensare a unei alte persoane decât cele autorizate ca
+agent de compensare sau având o împuternicire expresã se penalizeazã cu:
+Ñ excluderea în ziua respectivã din compensare a unitãții bancare respective;
+Ñ plata pierderilor financiare cauzate celorlalte unitãți bancare participante la com-
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+pensare;
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+f) încãlcarea prevederilor art. 13 privind pregãtirea ședinței de compensare la unitãțile
+bancare;
+g) completarea eronatã repetatã a formularului de compensare, având drept consecințã obținerea unor rezultate greșite și prelungirea ședinței de compensare;
+h) refuzul sistematic, din motive nejustificate, a instrumentelor de platã compensabile;
+i) nerespectarea de cãtre unitãțile bancare prezentatoare (inițiatoare) și unitãțile bancare primitoare (destinatare) a prevederilor art. 5 privind circuitele, termenele și intervalele de timp obligatorii ale plãților interbancare de micã valoare;
+j) dirijarea greșitã repetatã a unor instrumente de platã sau refuzuri atunci când numãrul acestor situații este mai mare de zece și pot fi dovedite prin procese-verbale de
+constatare Ñ anexa nr. 10 la prezentul regulament;
+k) nerespectarea prevederilor art. 19.
+20.2. Nerespectarea de cãtre o unitate bancarã care participã la compensare a prevederilor prezentului regulament se constatã de cãtre inspectorul de compensare, care
+are obligația consemnãrii acestui fapt într-un proces-verbal întocmit în cadrul ședinței
+de compensare respective. Procesul-verbal de constatare va cuprinde, în mod obligatoriu, informațiile cuprinse în anexa nr. 10 la prezentul regulament.
+20.3. Procesul-verbal de constatare a încãlcãrii prevederilor Regulamentului privind compensarea multilateralã a plãților interbancare fãrã numerar pe suport hârtie se întocmește în trei exemplare dactilografiate.
+Destinația fiecãrui exemplar al procesului-verbal este urmãtoarea:
+Ñ primul exemplar rãmâne în arhiva sucursalelor Bãncii Naționale a României;
+Ñ al doilea exemplar este transmis Bãncii Naționale a României Ñ Direcția plãți
+și decontãri bancare;
+Ñ al treilea exemplar este înmânat pe loc agentului de compensare al unitãții bancare care a încãlcat prevederile prezentului regulament.
+20.4. Societãțile bancare și unitãțile bancare care participã la compensare au dreptul de a face contestație la un proces-verbal de constatare privind încãlcarea prevederilor prezentului regulament, depunerea acesteia urmând a se face în termen de
+10 zile calendaristice de la data întocmirii procesului-verbal.
+Contestația se va depune la Direcția plãți și decontãri bancare, care va analiza și
+va da o rezoluție privind contestația în termen de 3 zile lucrãtoare de la data depunerii sale.
+20.5. Dupã data primirii rãspunsului privind contestația la procesul-verbal de constatare a încãlcãrii prevederilor prezentului regulament, sumele rezultate din penalizãri
+sunt debitate automat, din conturile curente ale societãților bancare în cauzã, și sunt
+vãrsate la bugetul de stat de cãtre Banca Naționalã a României.
+20.6. Cuantumurile penalitãților se stabilesc prin ordin al guvernatorului Bãncii Naționale
+a României.
+
+Articolul 21
+Comisioane și speze
+
+21.1. Pentru serviciile de compensare oferite, Banca Naționalã a României percepe
+comisioane și speze.
+21.2. Cuantumurile comisioanelor și spezelor se stabilesc prin ordin al guvernatorului
+Bãncii Naționale a României.
+21.3. Comisioanele și spezele sunt folosite de Banca Naționalã a României pentru
+acoperirea cheltuielilor aferente desfãșurãrii activitãții de compensare.
+
+Articolul 22
+Operațiuni cu bugetul de stat
+
+Articolul 23
+
+Operațiunile cu bugetul de stat nu fac obiectul compensãrii multilaterale a plãților interbancare fãrã numerar pe suport hârtie.
+Prezentul regulament intrã în vigoare începând cu data de 31 martie 1995.
+Guvernatorul Bãncii Naționale a României,
+Mugur Isãrescu
+
+București, 14 noiembrie 1994.
+Nr. 10.
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+15
+
+ANEXA Nr. 1
+
+CIRCUITELE, TERMENELE ȘI INTERVALELE
+OBLIGATORII ALE PLÃÞILOR INTERBANCARE
+FÃRÃ NUMERAR PE SUPORT HÂRTIE
+COMPENSATE MULTILATERAL
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+CIRCUITUL Nr. 1 (LOCAL) AL ORDINULUI DE PLATÃ Ñ OP.1
+
+C
+
+3
+
+3
+
+C
+
+C
+
+1
+
+2
+
+4
+
+C-1
+
+C-1
+
+C
+
+CIRCUITUL Nr. 1 (LOCAL) AL ORDINULUI DE PLATÃ Ñ OP.1
+Clientul plãtitor și clientul beneficiar au conturi curente deschise la unitãți bancare situate
+în reședința de județ și care aparțin unor societãți bancare diferite
+Operațiunile din circuitul nr. 1 al ordinului de platã se efectueazã cu respectarea strictã a termenelor obligatorii, astfel:
+1.a) Clientul plãtitor remite ordinul de platã unitãții bancare la care are deschis cont curent
+Termen obligatoriu: (c-1);
+1.b) Unitatea bancarã inițiatoare completeazã ordinul de platã pe verso, la rubrica ,,Compensabil
+laÉ,,, cu numele județului respectiv (județul în care sunt situate cele douã unitãți bancare)
+Termen obligatoriu: (c-1);
+2. Unitatea bancarã inițiatoare debiteazã contul clientului plãtitor
+Termen obligatoriu: (c-1);
+3.a) Unitatea bancarã inițiatoare (prezentatoare) introduce în compensare ordinele de platã la
+sucursala Bãncii Naționale a României din județul respectiv
+Termen obligatoriu: (c);
+1.b) Unitatea bancarã destinatarã (primitoare) primește ordinele de platã prin compensare la
+sucursala Bãncii Naționale a României din județul respectiv și completeazã pe versoul acestora la
+rubrica c data compensãrii, aplicând ștampila și semnãtura autorizatã
+Termen obligatoriu: (c);
+4. Unitatea bancarã destinatarã crediteazã contul clientului beneficiar cu suma aferentã ordinului de platã acceptat
+Compression by CVISION Termen obligatoriu: (c).
+Technologies’ PdfCompressor. For Evaluation Purposes
+
+Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+17
+
+CIRCUITUL Nr. 2 (INTRAJUDEÞEAN) AL ORDINULUI DE PLATÃ Ñ OP.2
+
+C
+
+3
+
+3
+
+C
+
+C
+4
+
+1
+
+2
+
+C-1
+
+C-1
+
+C
+sau
+C+1
+
+CIRCUITUL Nr. 2 (INTRAJUDEÞEAN) AL ORDINULUI DE PLATÃ Ñ OP.2
+Clientul plãtitor și clientul beneficiar au conturi curente deschise la unitãți bancare situate
+în același județ și care aparțin unor societãți bancare diferite
+
+Operațiunile din cadrul circuitului nr. 2 al ordinului de platã se efectueazã cu respectarea
+strictã a termenelor obligatorii, astfel:
+1.a) Clientul plãtitor remite ordinul de platã unitãții bancare la care are deschis cont curent
+Termen obligatoriu: (c-1);
+1.b) Unitatea bancarã inițiatoare completeazã ordinul de platã pe verso, la rubrica ,,Compensabil
+laÉ,,, cu numele județului respectiv (județul în care sunt situate cele douã unitãți bancare)
+Termen obligatoriu: (c-1);
+2. Unitatea bancarã inițiatoare debiteazã contul clientului plãtitor
+Termen obligatoriu: (c-1);
+3.a) Unitatea bancarã inițiatoare (prezentatoare) introduce în compensare ordinele de platã la
+sucursala Bãncii Naționale a României din județul respectiv
+Termen obligatoriu: (c);
+1.b) Unitatea bancarã destinatarã (primitoare) primește ordinele de platã prin compensare la
+sucursala Bãncii Naționale a României din județul respectiv și completeazã pe versoul acestora la
+rubrica c data compensãrii, aplicând ștampila și semnãtura autorizatã
+Termen obligatoriu: (c);
+4. Unitatea bancarã destinatarã crediteazã contul clientului beneficiar cu suma aferentã ordinului de platã acceptat
+Compression by CVISION Termen obligatoriu: (c) sau (c+1).
+Technologies’ PdfCompressor. For Evaluation Purposes
+
+Only
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+CIRCUITUL Nr. 3 (INTERJUDEÞEAN) AL ORDINULUI DE PLATÃ Ñ OP.3
+
+.......................................
+.......................................
+JUDEÞUL 1
+.......................................
+.......................................
+.......................................
+.......................................
+.......................................
+.......................................
+....................................... 3
+.......................................
+1
+2
+....................................... 3
+.......................................
+.......................................
+C-2 C-2
+[C-2,
+.......................................
+..........................................
+.......................................
+.......................................
+.......................................
+.......................................
+.......................................
+
+/ / / / / / / / / / / / / / / / / / / / /C / / / / / / / / / / / / / / / / / /
+/
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /JUDEÞUL /2 / / /
+/ / / / / /
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+
+4
+
+4
+
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+/ / / / / / / / C / / / / / / / / / / / / / / / /C / / / / / / / / / / / 5 / /
+/
+/
+/
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+
+C
+
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /sau /
+/ /
+C-1]/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /C+1 /
+/ /
+/ /
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+
+CIRCUITUL Nr. 3 (INTERJUDEÞEAN) AL ORDINULUI DE PLATÃ Ñ OP.3
+Clientul plãtitor și clientul beneficiar au conturi curente deschise la unitãți bancare situate în județe diferite
+și care aparțin unor societãți bancare diferite; societatea bancarã inițiatoare dispune de o unitate bancarã
+în județul de destinație
+
+Operațiunile din cadrul circuitului nr. 3 al ordinului de platã se efectueazã cu respectarea
+strictã a termenelor și intervalelor obligatorii, astfel:
+1.a) Clientul plãtitor remite ordinul de platã unitãții bancare la care are deschis cont curent
+Termen obligatoriu: (c-2);
+1.b) Unitatea bancarã inițiatoare completeazã ordinul de platã pe verso, la rubrica ,,Compensabil
+laÉ,,, cu numele județului de destinație
+Termen obligatoriu: (c-2);
+2. Unitatea bancarã inițiatoare debiteazã contul clientului plãtitor
+Termen obligatoriu: (c-2);
+3. Unitatea bancarã inițiatoare trimite ordinele de platã, prin rețeaua intrabancarã, unitãții bancare prezentatoare (din județul de destinație)
+Interval obligatoriu: [(c-2), (c-1)];
+4.a) Unitatea bancarã prezentatoare introduce ordinele de platã în compensare, la sucursala
+Bãncii Naționale a României din județul de destinație
+Termen obligatoriu: (c);
+1.b) Unitatea bancarã destinatarã (primitoare) primește ordinele de platã prin compensare la
+sucursala Bãncii Naționale a României din județul de destinație și completeazã pe versoul acestora la rubrica c data compensãrii, aplicând ștampila și semnãtura autorizatã
+Termen obligatoriu: (c);
+5. Unitatea bancarã destinatarã crediteazã contul clientului beneficiar cu suma aferentã ordinului de platã acceptat
+Compression by CVISION Termen obligatoriu: (c) sau (c+1).
+Technologies’ PdfCompressor. For Evaluation Purposes
+
+Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+19
+
+CIRCUITUL Nr. 4 (INTERJUDEÞEAN) AL ORDINULUI DE PLATÃ Ñ OP.4
+
+C
+/ /
+..................................................................................................................................
+..................................................................................................................................
+/ /
+JUDEÞUL 1
+..................................................................................................................................
+/ /
+..................................................................................................................................
+/ /
+....................................................................................................
+/ /
+3
+3
+....................................................................................................
+/ /
+.....................................................................................................
+..................................................................................................................................
+/ /
+C
+C
+..................................................................................................................................
+/ /
+.................................................................................................................................. 4
+/ /
+..................................................................................................................................
+/ /
+..................................................................................................................................
+1
+2
+/ /
+..................................................................................................................................
+..................................................................................................................................
+/ /
+..................................................................................................................................
+C-1
+C-1
+[C, C+1]
+/ /
+..................................................................................................................................
+/ /
+..............................................................................................
+/ /
+..............................................................................................
+..............................................................................................
+/ /
+..............................................................................................
+/ /
+..............................................................................................
+/ /
+
+/ / / / / / / / / /
+/ / / / / / / /
+JUDEÞUL 2 / /
+/ / / / / / / / / /
+/ / / / / / / / /
+/ / / / / / / / / /
+/ / / / / / / / / /
+/ / / / / / / / / /
+5
+/ / / /
+/ / / / / / /C+1 /
+/ /
+/ / / / / / / / / /
+sau
+/ / / / / / / / / /
+/ / / / / / C+2 /
+/ /
+/ / / / / / / / / /
+/ / / / / / / / / /
+/ / / / / / / / / /
+/ / / / / / / / /
+/ / / / / / / / / /
+/ / / / / / / / / /
+
+CIRCUITUL Nr. 4 (INTERJUDEÞEAN) AL ORDINULUI DE PLATÃ Ñ OP.4
+Clientul plãtitor și clientul beneficiar au conturi curente deschise la unitãți bancare situate în județe diferite
+și care aparțin unor societãți bancare diferite; societatea bancarã inițiatoare nu dispune de o unitate bancarã
+în județul de destinație, iar societatea bancarã destinatarã dispune de o unitate bancarã în județul de inițiere
+
+Operațiunile din cadrul circuitului nr. 4 al ordinului de platã se efectueazã cu respectarea
+strictã a termenelor și intervalelor obligatorii, astfel:
+1.a) Clientul plãtitor remite ordinul de platã unitãții bancare la care are deschis cont curent
+Termen obligatoriu: (c-1);
+1.b) Unitatea bancarã inițiatoare completeazã ordinul de platã pe verso, la rubrica ,,Compensabil
+laÉ,,, cu numele județului de inițiere
+Termen obligatoriu: (c-1);
+2. Unitatea bancarã inițiatoare debiteazã contul clientului plãtitor
+Termen obligatoriu: (c-1);
+3.a) Unitatea bancarã inițiatoare (prezentatoare) introduce ordinele de platã în compensare la
+sucursala Bãncii Naționale a României din județul de inițiere
+Termen obligatoriu: (c);
+1.b) Unitatea bancarã primitoare primește ordinele de platã prin compensare la sucursala Bãncii
+Naționale a României din județul de inițiere și completeazã pe versoul acestora la rubrica c data
+compensãrii, aplicând ștampila și semnãtura autorizatã
+Termen obligatoriu: (c);
+4. Unitatea bancarã primitoare trimite ordinele de platã, prin rețeaua intrabancarã, unitãții bancare destinatare
+Interval obligatoriu: [(c), (c+1)];
+5. Unitatea bancarã destinatarã crediteazã contul clientului beneficiar cu suma aferentã ordinului de platã acceptat
+Compression by CVISION Termen obligatoriu: (c+1) sau (c+2).
+Technologies’ PdfCompressor. For Evaluation Purposes
+
+Only
+
+20
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+CIRCUITUL Nr. 5 (INTERJUDEÞEAN) AL ORDINULUI DE PLATÃ Ñ OP.5
+
+........................
+JUDEÞUL 1
+........................
+........................
+........................
+[C-2, C-1]
+........................
+4
+........................
+........................
+........................
+C
+3
+........................
+........................
+........................
+........................
+........................
+........................
+BUCUREȘTI
+........................
+........................
+........................
+.......................................................................................
+..............................................................................
+C-3 2
+..............................................................................
+..............................................................................
+..............................................................................
+..............................................................................
+..............................................................................
+1 C-3
+..............................................................................
+..............................................................................
+
+/
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+/
+
+/ / / / / / / / /
+/JUDEÞUL/ 2
+/ / / / / / /
+/ / / / / / / / /
+/ / / / / / / / /
+/ / / / / / / / /
+4
+/ / / / / / /
+/ / / / / / / / /
+C
+/ / / / / / / / /
+/ / / / / / / / /
+/ /5 / / / / / /
+/
+/ / / / / / /
+/ / /
+[C, C+1] / / / / / /
+/ / / / / / / / /
+/ / / / / / / / /
+/ / / / / / / / /
+/ / / / / / / / / / / / / / / / / / / / / / /
+/ / / / / / / / / / / / / / / / / / / / /
+/ / / / / / / / / / / / / / / / / / / / / / /
+/ / / / / / / / / / 6 / / / / / / / / / /
+/
+/ / / / / / / / / / / / / / / / / / / / / / /
+/ / / / / / / / / / / / / / / / / / / / / /
+/ / / / / / / / / / C+1 / / / / / / / / / /
+/ / /
+/ / / / / / / / / / / / / / / / / / / / /
+
+CIRCUITUL Nr. 5 (INTERJUDEÞEAN) AL ORDINULUI DE PLATÃ Ñ OP.5
+Clientul plãtitor și clientul beneficiar au conturi curente deschise la unitãți bancare situate în județe diferite și care
+aparțin unor societãți bancare diferite; societatea bancarã inițiatoare nu dispune de o unitate bancarã în județul de
+destinație și societatea bancarã destinatarã nu dispune de o unitate bancarã în județul de inițiere
+
+Operațiunile din cadrul circuitului nr. 5 al ordinului de platã se efectueazã, cu respectarea
+strictã a termenelor și intervalelor obligatorii, astfel:
+1.a) Clientul plãtitor remite ordinul de platã unitãții bancare la care are deschis cont curent
+Termen obligatoriu: (c-3);
+1.b) Unitatea bancarã inițiatoare completeazã ordinul de platã pe verso, la rubrica ,,Compensabil
+laÉ,,, prin înscrierea cuvintelor ,,Centrala B.N.R.,,.
+Termen obligatoriu: (c-3);
+2. Unitatea bancarã inițiatoare debiteazã contul clientului plãtitor
+Termen obligatoriu: (c-3);
+3. Unitatea bancarã inițiatoare trimite ordinul de platã, prin rețeaua intrabancarã, societãții bancare prezentatoare (centralã), în cazul în care aceasta își are sediul în București*)
+Interval obligatoriu: [(c-2), (c-1)];
+4.a) Societatea bancarã prezentatoare introduce ordinele de platã în compensare la centrala
+Bãncii Naționale a României
+Termen obligatoriu: (c);
+1.b) Societatea bancarã primitoare primește ordinele de platã prin compensare la centrala
+Bãncii Naționale a României și completeazã pe versoul acestora la rubrica c data compensãrii,
+aplicând ștampila și semnãtura autorizatã
+Termen obligatoriu: (c);
+5. Societatea bancarã primitoare trimite ordinele de platã, prin rețeaua intrabancarã, unitãții
+bancare destinatare
+Interval obligatoriu: [(c), (c+1)];
+6. Unitatea bancarã destinatarã crediteazã contul clientului beneficiar cu suma aferentã ordinului de platã acceptat
+Termen obligatoriu: (c+1).
+*) În cazul, cu totul excepțional, în care sediul centralei societãții bancare nu se aflã în București, ordinele de platã
+aflate în situația din circuitul nr. 5 (OP.5) vor fi decontate, fãrã a fi compensate, prin sistemul OIS al Bãncii Naționale a
+României.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+21
+
+CIRCUITUL Nr. 1 (LOCAL) AL CECULUI Ñ C.1
+
+C
+
+4
+
+4
+
+C
+
+C
+
+2
+1
+C-1
+
+5
+C
+
+3
+C-1
+
+C-1
+
+CIRCUITUL Nr. 1 (LOCAL) AL CECULUI Ñ C.1
+Clientul beneficiar și clientul plãtitor au conturi curente deschise la unitãți bancare situate
+în reședința de județ și care aparțin unor societãți bancare diferite
+Operațiunile din cadrul circuitului nr. 1 al cecului se efectueazã cu respectarea strictã a termenelor obligatorii, astfel:
+1.a) Clientul beneficiar remite cecul unitãții bancare la care are deschis cont curent
+Termen obligatoriu: (c-1);
+1.b) Unitatea bancarã inițiatoare completeazã cecul, la rubrica ,,Compensabil laÉ,,, cu numele
+județului respectiv (județul în care sunt situate cele douã unitãți bancare)
+Termen obligatoriu: (c-1);
+2. Unitatea bancarã inițiatoare (prezentatoare) prezintã cecurile unitãții bancare destinatare
+(primitoare), fãrã a le introduce în compensare, la sucursala Bãncii Naționale a României din județul respectiv
+* Aceastã operațiune se efectueazã între orele 11.00Ñ11.30, la sucursala Bãncii Naționale
+a României din județul respectiv
+Termen obligatoriu: (c-1);
+3. Unitatea bancarã destinatarã debiteazã contul clientului plãtitor cu suma aferentã cecurilor
+acceptate
+Termen obligatoriu: (c-1);
+4.a) Unitatea bancarã inițiatoare (prezentatoare) introduce scriptic în compensare cecurile la
+sucursala Bãncii Naționale a României din județul respectiv
+Termen obligatoriu: (c);
+1.b) Unitatea bancarã destinatarã (primitoare) acceptã sau refuzã, prin compensare, la
+sucursala Bãncii Naționale a României din județul respectiv, cecurile prezentate anterior de unitatea bancarã inițiatoare (prezentatoare)
+Termen obligatoriu: (c);
+5. Unitatea bancarã inițiatoare crediteazã contul clientului beneficiar cu suma aferentã cecului acceptat de cãtre unitatea bancarã destinatarã
+Compression by CVISION Termen obligatoriu: (c).
+Technologies’ PdfCompressor. For Evaluation Purposes
+
+Only
+
+22
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+CIRCUITUL Nr. 2 (INTRAJUDEÞEAN) AL CECULUI Ñ C.2
+
+C
+
+4
+
+4
+
+C
+
+C
+3
+
+1
+C-2
+
+5
+C
+sau
+C+1
+
+2
+
+C-1
+
+C-1
+
+CIRCUITUL Nr. 2 (INTRAJUDEÞEAN) AL CECULUI Ñ C.2
+Clientul beneficiar și clientul plãtitor au conturi curente deschise la unitãți bancare situate în același
+județ și care aparțin unor societãți bancare diferite
+Operațiunile din cadrul circuitului nr. 2 al cecului se efectueazã cu respectarea strictã a termenelor obligatorii, astfel:
+1.a) Clientul beneficiar remite cecul unitãții bancare la care are deschis cont curent
+Termen obligatoriu: (c-2);
+1.b) Unitatea bancarã inițiatoare completeazã cecul, la rubrica ,,Compensabil laÉ,,, cu numele
+județului respectiv (județul în care sunt situate cele douã unitãți bancare)
+Termen obligatoriu: (c-2);
+2. Unitatea bancarã inițiatoare (prezentatoare) prezintã cecurile unitãții bancare destinatare
+(primitoare), fãrã a le introduce în compensare, la sucursala Bãncii Naționale a României din județul respectiv
+* Aceastã operațiune se efectueazã între orele 11.00Ñ11.30, la sucursala Bãncii Naționale
+a României din județul respectiv
+Termen obligatoriu: (c-1);
+3. Unitatea bancarã destinatarã, dupã verificarea cecurilor, debiteazã contul clientului plãtitor
+cu suma aferentã cecurilor acceptate
+Termen obligatoriu: (c-1);
+4.a) Unitatea bancarã inițiatoare (prezentatoare) introduce scriptic în compensare cecurile la
+sucursala Bãncii Naționale a României din județul respectiv
+Termen obligatoriu: (c);
+1.b) Unitatea bancarã destinatarã (primitoare) acceptã sau refuzã prin compensare, la
+sucursala Bãncii Naționale a României din județul respectiv, cecurile prezentate anterior de unitatea bancarã inițiatoare (prezentatoare)
+Termen obligatoriu: (c);
+5. Unitatea bancarã inițiatoare crediteazã contul clientului beneficiar cu suma aferentã cecului acceptat de cãtre unitatea bancarã destinatarã
+Compression by CVISION Termen obligatoriu: (c) sau (c+1).
+Technologies’ PdfCompressor. For Evaluation Purposes
+
+Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+23
+
+CIRCUITUL Nr. 3 (INTERJUDEÞEAN) AL CECULUI Ñ C. 3
+
+C
+.................................
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+JUDEÞUL 1
+.................................[C, C+1] / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / 2 / /
+JUDEÞUL /
+/ / /
+.................................
+................................. 6
+.................................
+.................................
+.................................
+.................................
+.................................
+................................. 2
+................................. 3
+1
+7
+.................................
+.................................
+[C-3,
+C-3 C+1
+.................................
+.................................
+.................................
+.................................
+.................................
+.................................
+.................................
+.................................
+
+/ / /
+/ / /
+/ / /
+/ / /
+/ / /
+/ / /
+/ / /
+/ / /
+C-2]/
+/ /
+/ / /
+/ / /
+/ / /
+/ / /
+/ / /
+
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+/5/ / / / / / / / / / / / / / / / 5 / / / / / / / / / / / / / / /
+/
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+/C/ / / / / / / / / / / / / / / / C / / / / / / / / / / / / 4 / /
+/
+/
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / //
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / /C-1/ /
+/ /
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+3
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+/ / / / / / / / /C-1 / / / / / / / / / / / / / / / / / / / / / /
+/ /
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+
+CIRCUITUL Nr. 3 (INTERJUDEÞEAN) AL CECULUI Ñ C. 3
+Clientul beneficiar și clientul plãtitor au conturi curente deschise la unitãți bancare situate în județe diferite și care aparțin unor societãți bancare diferite; societatea bancarã inițiatoare dispune de o unitate
+bancarã în județul de destinație
+Operațiunile din cadrul circuitului nr. 3 al cecului se efectueazã cu respectarea strictã a termenelor și intervalelor obligatorii, astfel:
+1.a) Clientul beneficiar remite cecul unitãții bancare la care are deschis cont curent
+Termen obligatoriu: (c-3);
+1.b) Unitatea bancarã inițiatoare completeazã cecul, la rubrica ,,Compensabil la...î, cu numele
+județului de destinație
+Termen obligatoriu: (c-3);
+2. Unitatea bancarã inițiatoare trimite cecurile, prin rețeaua intrabancarã, unitãții bancare prezentatoare (din județul de destinație)
+Interval obligatoriu: [(c-3), (c-2)];
+3. Unitatea bancarã prezentatoare prezintã cecurile unitãții bancare destinatare (primitoare)
+fãrã a le introduce în compensare, la sucursala Bãncii Naționale a României din județul de destinație
+* Aceastã operațiune se efectueazã între orele 11.00Ñ11.30, la sucursala Bãncii Naționale
+a României din județul respectiv
+Termen obligatoriu: (c-1);
+4. Unitatea bancarã destinatarã, dupã verificarea cecurilor, debiteazã contul clientului plãtitor
+cu suma aferentã cecurilor acceptate
+Termen obligatoriu: (c-1);
+5.a) Unitatea bancarã prezentatoare introduce scriptic în compensare cecurile la sucursala
+Bãncii Naționale a României din județul de destinație
+Termen obligatoriu: (c);
+1.b) Unitatea bancarã destinatarã (primitoare) acceptã sau refuzã la compensare, la sucursala
+Bãncii Naționale a României din județul de destinație, cecurile prezentate anterior de unitatea bancarã prezentatoare
+Termen obligatoriu: (c);
+6. Unitatea bancarã prezentatoare (din județul de destinație) transmite unitãții bancare inițiatoare (din județul de inițiere) date privind cecurile acceptate la compensare de cãtre unitatea bancarã destinatarã
+Interval obligatoriu: [(c), (c+1)];
+7. Unitatea bancarã inițiatoare crediteazã contul clientului beneficiar cu suma aferentã cecului acceptat de cãtre unitatea bancarã destinatarã
+Termen obligatoriu: (c+1).
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+24
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+CIRCUITUL Nr. 4 (INTERJUDEÞEAN) AL CECULUI Ñ C. 4
+
+C
+....................................................................................................................
+/ /
+....................................................................................................................
+/ /
+JUDEÞUL 1
+....................................................................................................................
+/ /
+....................................................................................................................
+/ /
+5 / /
+6
+....................................................................................................................
+6
+....................................................................................................................
+/ /
+....................................................................................................................
+/ /
+C
+....................................................................................................................[C-1, C] /
+/
+C
+....................................................................................................................
+/ /
+....................................................................................................................
+3 / /
+....................................................................................................................
+/ /
+2
+....................................................................................................................
+/ /
+1
+7
+....................................................................................................................
+/ /
+....................................................................................................................
+/ /
+C-3
+....................................................................................................................
+/
+C-4 C+1
+[C-3, C-2]
+....................................................................................................................
+/ /
+....................................................................................................................
+/ /
+....................................................................................................................
+/ /
+....................................................................................................................
+/ /
+....................................................................................................................
+/ /
+....................................................................................................................
+/ /
+....................................................................................................................
+/ /
+
+/ / / / / / / / / /
+
+/ / / / / / / /
+JUDEÞUL 2 / /
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+
+/ / /
+/ / /
+/ / /
+/ / /
+/ / /
+/4 /
+/
+/ / /
+/ /
+C-1/
+/ / /
+/ / /
+/ / /
+/ / /
+
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+
+/
+/
+/
+/
+/
+/
+/
+
+CIRCUITUL Nr. 4 (INTERJUDEÞEAN) AL CECULUI Ñ C. 4
+Clientul beneficiar și clientul plãtitor au conturi curente deschise la unitãți bancare situate
+în județe diferite și care aparțin unor societãți bancare diferite; societatea bancarã inițiatoare
+nu dispune de o unitate bancarã în județul de destinație, iar societatea bancarã destinatarã dispune
+de o unitate bancarã în județul de inițiere
+Operațiunile din cadrul circuitului nr. 4 al cecului se efectueazã cu respectarea strictã a termenelor și intervalelor obligatorii, astfel:
+1.a) Clientul beneficiar remite cecul unitãții bancare la care are deschis cont curent
+Termen obligatoriu: (c-4);
+1.b) Unitatea bancarã inițiatoare completeazã cecul la rubrica ,,Compensabil la...î, cu numele
+județului de inițiere
+Termen obligatoriu: (c-4);
+2. Unitatea bancarã inițiatoare (prezentatoare) prezintã cecurile unitãții bancare primitoare, fãrã
+a le introduce în compensare, la sucursala Bãncii Naționale a României din județul respectiv
+* Aceastã operațiune se efectueazã între orele 11.00Ñ11.30 la sucursala Bãncii Naționale
+a României din județul respectiv
+Termen obligatoriu: (c-3);
+3. Unitatea bancarã primitoare trimite cecurile, prin rețeaua intrabancarã, unitãții bancare destinatare (din județul de destinație)
+Interval obligatoriu: [(c-3), (c-2)];
+4. Unitatea bancarã destinatarã, dupã verificarea cecurilor, debiteazã contul clientului plãtitor
+cu suma aferentã cecurilor acceptate
+Termen obligatoriu: (c-1);
+5. Unitatea bancarã destinatarã transmite unitãții bancare primitoare (din județul de inițiere)
+date privind cecurile care urmeazã a fi acceptate la compensare
+Interval obligatoriu: [(c-1), (c)];
+6. a) Unitatea bancarã inițiatoare (prezentatoare) introduce scriptic în compensare cecurile la
+sucursala Bãncii Naționale a României din județul de inițiere
+Termen obligatoriu: (c);
+b) Unitatea bancarã primitoare acceptã la compensare (conform datelor primite anterior de la
+unitatea bancarã destinatarã) cecurile prezentate anterior de unitatea bancarã inițiatoare (prezentatoare)
+Termen obligatoriu: (c);
+7. Unitatea bancarã inițiatoare crediteazã contul clientului beneficiar cu suma aferentã cecului acceptat de cãtre unitatea bancarã destinatarã
+Compression by CVISION Termen obligatoriu: (c+1).
+Technologies’ PdfCompressor. For Evaluation Purposes
+
+Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+25
+
+CIRCUITUL Nr. 5 (INTERJUDEÞEAN) AL CECULUI Ñ C. 5
+
+........................
+/ / / / / / / / /
+JUDEÞUL 1
+........................
+/JUDEÞUL/ 2
+/ / / / / / /
+........................
+/ / / / / / / / /
+........................
+[C-3,/ C-2] / / /
+/ / / / /
+[C-5, C-4]
+........................
+/ / / / / / / / /
+7
+7
+........................
+/ / / / / / /
+........................
+/ / / / / / / / /
+........................
+C
+C
+8
+........................
+/ / / / / / / / /
+........................
+/ / / / / / / / /
+........................
+/ / 6 / / / /4/ /
+/
+3
+........................ C+1]
+[C,
+/ / / / / / /
+........................
+2
+/ /
+........................
+[C-1, /C] / / / / / /
+C-3
+/ / / / / / / / /
+........................
+BUCUREȘTI
+/ / / / / / / / /
+........................
+........................
+/ / / / / / / / /
+.......................................................................................
+/ / / / / / / / / / / / / / / / / / / / / / / / / / /
+..............................................................................
+/ / / / / / / / / / / / / / / / / / / / / / / / /
+C+1 9
+..............................................................................
+/ / / / / / / / / / / / / / / / / / / / / / / / / / /
+..............................................................................
+/ / / / / / / / / / / / / / 5 / / / / / / / / / /
+/
+..............................................................................
+/ / / / / / / / / / / / / / / / / / / / / / / / / / /
+..............................................................................
+/ / / / / / / / / / / / / / / / / / / / / / / / / /
+..............................................................................
+C-1
+1 C-6
+/ / / / / / / / / / / / / / / / / / / / / / / / / / /
+..............................................................................
+/ / / / / / / / / / / / / / / / / / / / / / / / /
+..............................................................................
+CIRCUITUL Nr. 5 (INTERJUDEÞEAN) AL CECULUI Ñ C. 5
+Clientul beneficiar și clientul plãtitor au conturi curente deschise la unitãți bancare situate
+în județe diferite și care aparțin unor societãți bancare diferite; societatea bancarã inițiatoare
+nu dispune de o unitate bancarã în județul de destinație și societatea bancarã destinatarã
+nu dispune de o unitate bancarã în județul de inițiere
+Operațiunile din cadrul circuitului nr. 5 al cecului (C.5) se efectueazã cu respectarea strictã
+a termenelor și intervalelor obligatorii, astfel:
+1.a) Clientul beneficiar remite cecul unitãții bancare la care are deschis cont curent
+Termen obligatoriu: (c-6);
+1.b) Unitatea bancarã inițiatoare completeazã cecul la rubrica ,,Compensabil la...î, prin înscrierea cuvintelor ,,Centrala B.N.R.î
+Termen obligatoriu: (c-6);
+2. Unitatea bancarã inițiatoare trimite cecurile prin rețeaua intrabancarã centralei societãții bancare prezentatoare, în cazul în care aceasta își are sediul în București*)
+Interval obligatoriu: [(c-5), (c-4)];
+3. Centrala societãții bancare prezentatoare prezintã cecurile centralei societãții bancare primitoare fãrã a le introduce în compensare la centrala Bãncii Naționale a României
+* Aceastã operațiune se efectueazã între orele 11.00Ñ11.30 la centrala Bãncii Naționale a
+României
+Termen obligatoriu: (c-3);
+4. Centrala societãții bancare primitoare trimite cecurile, prin rețeaua intrabancarã, unitãții bancare destinatare (din județul de destinație)
+Interval obligatoriu: [(c-3), (c-2)];
+*) În cazul, cu totul excepțional, în care sediul centralei societãții bancare nu se aflã în București și aceasta nu are
+nici o unitate bancarã în București, cecurile aflate în situația din circuitul nr. 5 (C. 5) vor fi decontate prin sistemul OIS al
+Bãncii Naționale a României.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+5. Unitatea bancarã destinatarã, dupã verificarea cecurilor, debiteazã contul clientului plãtitor
+cu suma aferentã cecurilor acceptate
+Termen obligatoriu: (c-1);
+6. Unitatea bancarã destinatarã transmite centralei societãții bancare primitoare, în cazul în
+care aceasta își are sediul în București, date privind cecurile acceptate la compensare
+Interval obligatoriu: [(c-1), (c)];
+7.a) Centrala societãții bancare prezentatoare introduce scriptic în compensare cecurile la centrala Bãncii Naționale a României
+Termen obligatoriu: (c);
+7.b) Centrala societãții bancare primitoare acceptã la compensare (conform datelor primite anterior de la unitatea bancarã destinatarã) cecurile prezentate anterior de centrala societãții bancare
+prezentatoare
+Termen obligatoriu: (c);
+8. Centrala societãții bancare prezentatoare transmite unitãții bancare inițiatoare date privind
+cecurile acceptate la compensare de cãtre unitatea bancarã destinatarã
+Interval obligatoriu: [(c), (c+1)];
+9. Unitatea bancarã inițiatoare crediteazã contul clientului beneficiar cu suma aferentã cecului acceptat de cãtre unitatea bancarã destinatarã
+Termen obligatoriu: (c+1).
+
+ANEXA Nr. 2
+
+ORARUL ȘEDINÞEI DE COMPENSARE
+
+Ședința de compensare se desfãșoarã în douã pãrți, dupã urmãtorul orar:
+a) PARTEA I Ñ se desfãșoarã între orele
+
+9.00 Ñ 10.00
+b) PARTEA A II-A Ñ se desfãșoarã între orele
+
+10.00 Ñ 11.00
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+27
+ANEXA Nr. 3
+
+Plic-fațã
+DENUMIREA UNITÃÞII BANCARE PREZENTATOARE
+
+DENUMIREA UNITÃÞII BANCARE PRIMITOARE
+
+Compensabil la
+
+Data compensãrii (C)
+
+Plic-verso
+
+L.S.
+
+Sigiliu prin ștampilare
+
+Mãrimea plicului este de format A4
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+ANEXA Nr. 4 a)
+
+DISPOZIÞIE CENTRALIZATOARE DE ÎNCASARE
+
+DISPOZIÞIE CENTRALIZATOARE DE ÎNCASARE
+Compensabil la:
+
+Nr.
+
+Data compensãrii (C):
+
+Banca prezentatoare (inițiatoare)
+
+Cod
+Încasãm de la:
+Banca primitoare (destinatarã)
+
+Cod
+
+prin
+
+CECURI
+
+Numãr bucãți:
+SUMA:
+
+.
+
+.
+
+.
+
+,
+
+(suma în litere)
+
+CERTIFICAT
+
+L.S.
+
+L.S.
+
+Banca prezentatoare (inițiatoare)
+
+L.S.
+Banca primitoare (destinatarã)
+
+ANEXA Nr. 4 a)
+
+DISPOZIÞIE CENTRALIZATOARE DE PLATÃ
+
+DISPOZIÞIE CENTRALIZATOARE DE PLATÃ
+Compensabil la:
+
+Nr.
+
+Data compensãrii (C):
+
+Banca prezentatoare (inițiatoare)
+
+Cod
+Plãtim cãtre:
+Banca primitoare (destinatarã)
+
+Cod
+
+prin
+
+ORDINE DE PLATÃ
+
+Numãr bucãți:
+SUMA:
+
+.
+
+.
+
+.
+
+,
+
+(suma în litere)
+
+CERTIFICAT
+
+L.S.
+Banca prezentatoare (inițiatoare)
+
+L.S.
+Banca primitoare (destinatarã)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+29
+ANEXA Nr. 4 b)
+
+MODUL DE COMPLETARE A DISPOZIÞIEI CENTRALIZATOARE
+DE ÎNCASARE/PLATÃ
+Dispoziția centralizatoare de încasare/platã se completeazã astfel:
+Ñ Nr.: numãrul de ordine al dispoziției centralizatoare de încasare/platã;
+Ñ Compensabil la: B.N.R. Ñ ......................................................................;
+(locul unde se desfãșoarã compensarea)
+
+Ñ Data compensãrii: ziua, luna, anul în care are loc compensarea;
+Ñ Banca prezentatoare (inițiatoare): denumirea unitãții bancare care introduce pachetul de instrumente compensabile în compensare;
+Ñ Cod: numãrul codului unitãții bancare prezentatoare (inițiatoare);
+Ñ Banca primitoare (destinatarã): denumirea unitãții bancare care primește pachetul de instrumente compensabile;
+Ñ Cod: numãrul codului unitãții bancare primitoare (destinatare);
+Ñ Prin: denumirea instrumentelor de platã compensabile componente ale pachetului;
+Ñ pentru dispoziția centralizatoare de platã: ordine de platã
+Ñ pentru dispoziția centralizatoare de încasare: cecuri;
+Ñ Numãr bucãți: numãrul de instrumente de platã compensabile de același fel (de credit sau
+de debit) componente ale pachetului;
+Ñ Suma: suma rezultatã din totalizarea sumelor înscrise pe instrumentele de platã compensabile de același fel;
+Ñ Certificat: Ñ aceastã rubricã se completeazã, prin aplicarea semnãturii autorizate și a ștampilei unitãții bancare primitoare (destinatare), astfel:
+¥ pentru dispoziția centralizatoare de încasare, pe exemplarul nr. 4 Ñ vernil:
+Ñ în partea stângã a rubricii, la prezentarea cecurilor pentru verificare;
+Ñ în partea dreaptã a rubricii, la introducerea în compensare a formularisticii aferente cecurilor prezentate anterior pentru verificare.
+¥ pentru dispoziția centralizatoare de platã, pe exemplarul nr. 3 Ñ vernil.
+ANEXA Nr. 5 a)
+
+BORDEROU AL DISPOZIÞIILOR CENTRALIZATOARE
+DE ÎNCASARE
+
+BORDEROU AL DISPOZIÞIILOR CENTRALIZATOARE DE ÎNCASARE
+Compensabil la:
+Data compensãrii (C):
+Banca prezentatoare (inițiatoare)
+
+Cod
+Încasãm de la:
+Banca primitoare (destinatarã)
+
+Cod
+
+pentru
+Numãrul
+dispoziției
+centralizatoare
+de încasare
+
+Numãr
+bucãți
+
+Suma
+în cifre
+
+în litere
+
+TOTAL
+
+CERTIFICAT
+
+L.S.
+
+L.S.
+
+L.S.
+
+Banca prezentatoare (inițiatoare)
+Banca primitoare (destinatarã)
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+ANEXA Nr. 5 a)
+
+BORDEROU AL DISPOZIÞIILOR CENTRALIZATOARE
+DE PLATÃ
+
+BORDEROU AL DISPOZIÞIILOR CENTRALIZATOARE DE PLATÃ
+Compensabil la:
+Data compensãrii (C):
+Banca prezentatoare (inițiatoare)
+
+Cod
+Plãtim cãtre:
+Banca primitoare (destinatarã)
+
+Cod
+
+pentru
+Numãrul
+dispoziției
+centralizatoare
+de platã
+
+Numãr
+bucãți
+
+Suma
+în cifre
+
+în litere
+
+TOTAL
+
+CERTIFICAT
+
+L.S.
+Banca prezentatoare (inițiatoare)
+
+L.S.
+
+L.S.
+
+Banca primitoare (destinatarã)
+ANEXA Nr. 5 b)
+
+MODUL DE COMPLETARE A BORDEROULUI DISPOZIÞIILOR
+CENTRALIZATOARE DE ÎNCASARE/PLATÃ
+Borderoul dispozițiilor centralizatoare de încasare/platã se completeazã astfel:
+Ñ Compensabil la: B.N.R. Ñ ......................................................................;
+(locul unde se desfãșoarã compensarea)
+
+Ñ Data compensãrii: ziua, luna, anul în care are loc compensarea;
+Ñ Banca prezentatoare (inițiatoare): denumirea unitãții bancare care introduce în compensare
+pachetul de instrumente de platã compensabile;
+Ñ Cod: numãrul codului unitãții bancare prezentatoare (inițiatoare);
+Ñ Banca primitoare (destinatarã): denumirea unitãții bancare care primește pachetul de instrumente de platã compensabile;
+Ñ Cod: numãrul codului unitãții bancare primitoare (destinatare);
+Ñ Numãrul dispoziției centralizatoare de încasare/platã: fiecare rând se completeazã cu numãrul unei singure dispoziții centralizatoare de încasare/platã înscrise pe respectivul borderou;
+Ñ Numãr bucãți: se completeazã cu numãrul total al instrumentelor de platã înscris pe respectiva dispoziție centralizatoare de încasare/platã;
+Ñ Suma: se completeazã, în cifre și în litere, cu suma înscrisã pe respectiva dispoziție centralizatoare de încasare/platã;
+Ñ Total: totalurile coloanelor ,,Numãr bucãțiî și ,,Sumaî;
+Ñ Certificat: semnãtura autorizatã și ștampila unitãții bancare primitoare (destinatare), aplicatã pe exemplarul nr. 3 Ñ vernil (al borderoului)1).
+1)
+
+Borderoul dispozițiilor centralizatoare este completat cu datele dispozițiilor centralizatoare de înca-
+
+Compression byadresate aceleiași unitãți bancare destinatare (primitoare).
+sare/platã CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+31
+ANEXA Nr. 6 a)
+
+REFUZ LA PLATÃ
+
+REFUZ LA PLATÃ
+Compensabil la:
+
+Data compensãrii refuzului:
+
+Banca prezentatoare (inițiatoare) a refuzului
+
+Cod
+Refuzãm plata cãtre:
+Banca primitoare (destinatarã) a refuzului
+
+Cod
+
+prin
+
+CECURI
+
+Numãr bucãți
+SUMA:
+
+.
+
+.
+
+.
+
+,
+
+(suma în litere)
+
+CERTIFICAT
+
+L.S.
+Banca prezentatoare (inițiatoare) a refuzului
+
+L.S.
+Banca primitoare (destinatarã) a refuzului
+
+ANEXA Nr. 6 a)
+
+REFUZ LA ÎNCASARE
+
+REFUZ LA ÎNCASARE
+Compensabil la:
+
+Data compensãrii refuzului:
+
+Banca prezentatoare (inițiatoare) a refuzului
+
+Cod
+Refuzãm la încasare de la:
+Banca primitoare (destinatarã) a refuzului
+
+Cod
+
+prin
+
+ORDINE DE PLATÃ
+
+Numãr bucãți
+SUMA:
+
+.
+
+.
+
+.
+
+,
+
+(suma în litere)
+
+CERTIFICAT
+
+L.S.
+Banca prezentatoare (inițiatoare) a refuzului
+
+L.S.
+Banca primitoare (destinatarã) a refuzului
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+32
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+ANEXA Nr. 6 b)
+
+MODUL DE COMPLETARE A REFUZULUI
+LA PLATÃ/ÎNCASARE
+Refuzul la platã/încasare se completeazã astfel:
+Ñ Compensabil la : B.N.R. Ñ ..............................................................................................;
+(locul unde se desfãșoarã compensarea)
+
+Ñ Data compensãrii refuzului: ziua, luna, anul în care are loc compensarea refuzului;
+Ñ Banca prezentatoare (inițiatoare) a refuzului: denumirea unitãții bancare care introduce în compensare pachetul de instrumente de platã compensabile refuzate;
+Ñ Cod: numãrul codului unitãții bancare prezentatoare (inițiatoare) a refuzului;
+Ñ Banca primitoare (destinatarã) a refuzului: denumirea unitãții bancare care primește pachetul de instrumente de platã compensabile refuzate;
+Ñ Cod: numãrul codului unitãții bancare primitoare (destinatare) a refuzului;
+Ñ Prin: denumirea instrumentelor de platã compensabile refuzate:
+¥ pentru refuzul la platã: cecuri;
+¥ pentru refuzul la încasare: ordine de platã;
+Ñ Numãr bucãți: numãrul de instrumente de platã compensabile de același fel (de credit sau
+de debit) refuzate, componente ale pachetului;
+Ñ Suma: suma rezultatã din totalizarea sumelor înscrise pe instrumentele de platã compensabile refuzate, de același fel;
+Ñ Certificat: semnãtura autorizatã și ștampila unitãții bancare primitoare (destinatare), aplicatã
+pe exemplarul nr. 3 Ñ vernil (al refuzului).
+ANEXA Nr. 7
+
+JUSTIFICARE REFUZ
+
+JUSTIFICARE REFUZ
+Data compensãrii
+refuzului
+
+Banca prezentatoare (inițiatoare) a refuzului
+Cod
+
+Refuzãm la platã/încasare
+
+CECUL/ORDINUL DE PLATÃ Nr. ................. , cãtre
+Banca primitoate (destinatarã) a refuzului
+Cod
+
+din urmãtorul motiv:
+
+ÎNTOCMIT
+
+VERIFICAT
+
+L.S.
+
+L.S.
+(semnãtura)
+
+(semnãtura)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+33
+ANEXA Nr. 8 a)
+
+FORMULAR DE COMPENSARE
+Locul
+compensãrii
+
+Compensat de
+Data compensãrii
+
+FORMULAR DE COMPENSARE
+AL
+
+(denumirea unitãții bancare)
+Sume de încasat refuzate
+**
+
+Buc.
+
+Valoare
+
+1
+2
+3
+4
+
+*
+
+Buc.
+
+Unitãți
+Valoare bancare-cod
+
+1
+2
+3
+4
+5
+
+TOTAL SUME DE ÎNCASAT
+REFUZATE
+
+Buc.
+
+Valoare
+
+Sume de plãtit
+
+Sume de încasat
+
+*
+
+Buc.
+
+Valoare
+
+1
+2
+3
+4
+5
+
+TOTAL SUME DE ÎNCASAT
+
+Buc.
+
+Sume de plãtit refuzate
+**
+
+TOTAL SUME DE PLÃTIT
+
+Valoare
+
+Buc.
+
+Valoare
+
+1
+2
+3
+4
+
+Buc.
+
+Valoare
+
+TOTAL CREDIT
+
+TOTAL SUME DE PLÃTIT
+REFUZATE
+
+Buc.
+
+Valoare
+
+TOTAL DEBIT
+CREDITOR
+
+SOLD DE
+COMPENSARE
+
+DEBITOR
+
+Din compensarea interbancarã a rezultat un sold debitor/creditor de:
+(în cifre)
+
+(în litere)
+
+CERTIFICAT
+
+L.S.
+
+Serviciul de plãți și
+decontãri
+
+Unitatea bancarã
+
+Sume de încasat/plãtit
+** rândul 1 Ñ se completeazã înaintea ședinței de compensare cu datele din borderoul dispozițiilor centralizatoare proprii
+** rândul 2 Ñ se completeazã în timpul ședinței de compensare cu datele din borderoul dispozițiilor
+centralizatoare primite
+** rândul 3 Ñ se completeazã înaintea ședinței de compensare cu datele din fișele rectificative de refuz
+proprii
+** rândul 4 Ñ se completeazã în timpul ședinței de compensare cu datele din fișele rectificative de
+refuz primite
+** rândul 5 Ñ se completeazã înaintea ședinței de compensare cu datele din fișele rectificative de platã
+proprii
+** rândul 5' Ñ se completeazã în timpul ședinței de compensare cu datele din fișele rectificative de
+platã primite
+
+Sume de încasat/plãtit refuzate
+** rândul 1 Ñ se completeazã înaintea ședinței de compensare cu datele din refuzurile la platã / încasare proprii
+** rândul 2 Ñ se completeazã în timpul ședinței de compensare cu datele din refuzurile la platã / încasare primite
+** rândul 3 Ñ se completeazã înaintea ședinței de compensare cu pozițiile din refuzurile la termen proprii
+** rândul 4 Ñ se completeazã în timpul ședinței de compensare cu pozițiile din refuzurile la termen primite.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+34
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+ANEXA Nr. 8b)
+
+MODUL DE COMPLETARE A FORMULARULUI
+DE COMPENSARE
+
+Formularul de compensare se completeazã astfel:
+Ñ Locul compensãrii: B.N.R. Ñ ..................................................................................................;
+(locul unde se desfãșoarã compensarea)
+
+Ñ Compensat de: numele și prenumele inspectorului de compensare;
+Ñ Data compensãrii: ziua, luna, anul în care are loc compensarea;
+Ñ Unitãții bancare: denumirile unitãților bancare care participã la compensare;
+Ñ
+
+SUME DE ÎNCASAT:
+
+se completeazã astfel:
+
+1. Conform art. 13 (Grupa de operațiuni IV)
+Înaintea ședinței de compensare, cu sumele din borderourile dispozițiilor centralizatoare
+de încasare în dreptul rubricilor corespunzãtoare unitãților bancare primitoare (destinatare) ale acestora [rd. 1];
+[Dispozițiile centralizatoare de încasare incluse pe aceste borderouri sunt cele
+corespunzãtoare cecurilor prezentate anterior spre verificare unitãților bancare primitoare
+(destinatare)].
+2. Conform art. 14 [Partea I, Etapa 4, lit. g)]
+În timpul ședinței de compensare, cu sumele din borderourile dispozițiilor centralizatoare
+de platã primite, în dreptul rubricilor unitãților bancare prezentatoare (inițiatoare) ale acestora
+[rd. 2];
+ÎN CAZUL APARIÞIEI UNOR ERORI ȘI/SAU OMISIUNI
+3. Conform art. 18.1 și anexei nr. 11a)
+Înaintea ședinței de compensare *), cu sumele din fișele rectificative de refuz la platã,
+în dreptul rubricilor corespunzãtoare unitãților bancare prezentatoare (inițiatoare) ale refuzurilor inițiale [rd. 3];
+4. Conform art. 18.1 și anexei nr. 11a)
+În timpul ședinței de compensare, cu sumele din fișele rectificative de refuz la încasare
+primite, în dreptul rubricilor unitãților bancare prezentatoare (inițiatoare) ale acestora [rd. 4];
+5. Conform art. 18.1 și anexei nr. 11a)
+Înaintea ședinței de compensare **), cu sumele înscrise în fișele rectificative de platã, în
+dreptul rubricilor unitãților bancare cãtre care instrumentul de platã de credit a fost greșit dirijat anterior [rd. 5].
+Ñ
+
+SUME DE PLÃTIT:
+
+se completeazã astfel:
+
+1. Conform art. 13 (Grupa de operațiuni IV)
+Înaintea ședinței de compensare, cu sumele din borderourile dispozițiilor centralizatoare
+de platã, în dreptul rubricilor corespunzãtoare unitãților bancare primitoare (destinatare)
+ale acestora [rd. 1];
+
+**) Ñ din una dintre zilele de compensare ulterioare primirii greșite a unui refuz de platã sau a unui instrument de
+platã compensabil aflat într-un pachet de refuz la platã.
+Compression**) Ñ CVISION Technologies’ PdfCompressor. aFor ordin de platã. Purposes Only
+by din una dintre zilele de compensare ulterioare constatãrii dirijãrii greșite unui Evaluation
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+35
+
+2. Conform art. 14 [Partea I, Etapa 4, lit. g)]
+În timpul ședinței de compensare, cu sumele din borderourile dispozițiilor centralizatoare
+de încasare primite, în dreptul rubricilor unitãților bancare prezentatoare (inițiatoare) ale
+acestora [rd. 2];
+[Dispozițiile centralizatoare de încasare incluse pe aceste borderouri sunt cele corespunzãtoare cecurilor prezentate anterior spre verificare unitãților bancare primitoare (destinatare)].
+ÎN CAZUL APARIÞIEI UNOR ERORI ȘI/SAU OMISIUNI
+3. Conform art. 18.1 și anexei nr. 11a)
+Înaintea ședinței de compensare *), cu sumele înscrise pe fișele rectificative de refuz la
+încasare, în dreptul rubricilor corespunzãtoare unitãților bancare emitente ale refuzurilor
+la încasare inițiale [rd. 3];
+4. Conform art. 18.1 și anexei nr. 11a)
+În timpul ședinței de compensare, cu sumele din fișele rectificative de refuz la platã primite, în dreptul rubricilor unitãților bancare prezentatoare (inițiatoare) ale acestora [rd. 4];
+5. Conform art. 18.1 și anexei nr. 11a)
+În timpul ședinței de compensare, cu sumele înscrise în fișele rectificative de platã primite, în dreptul rubricilor unitãților bancare prezentatoare (inițiatoare) ale acestora [rd. 5];
+Ñ
+
+SUME DE ÎNCASAT REFUZATE:
+
+se completeazã astfel:
+
+1. Conform art. 13 (Grupa de operațiuni IV)
+Înaintea ședinței de compensare, cu sumele din refuzurile la încasare în dreptul rubricilor corespunzãtoare unitãților bancare primitoare (destinatare) ale acestora [rd. 1];
+Aceste refuzuri sunt aferente ordinelor de platã compensate într-una din zilele anterioare
+Ñ (c-1) sau (c-2).
+2. Conform art. 14 [Partea a II-a, Etapa 2, lit. d)]
+În timpul ședinței de compensare, sumele din refuzurile la platã primite, în dreptul rubricilor unitãților bancare prezentatoare (inițiatoare) ale acestora [rd. 2];
+ÎN CAZUL APARIÞIEI UNOR ERORI ȘI/SAU OMISIUNI
+3. Conform art. 18.1 și anexei nr. 11a)
+Înaintea ședinței de compensare, cu sumele din refuzurile de încasare la termen, în dreptul rubricilor corespunzãtoare unitãților bancare primitoare (destinatare) ale acestora [rd. 3];
+4. Conform art. 18.1 și anexei nr. 11a)
+În timpul ședinței de compensare, cu sumele din refuzurile de platã la termen primite,
+în dreptul rubricilor unitãților bancare prezentatoare (inițiatoare) ale acestora [rd. 4];
+Ñ
+
+SUME DE PLÃTIT REFUZATE:
+
+se completeazã astfel:
+
+1. Conform art. 13 (Grupa de operațiuni IV)
+Înaintea ședinței de compensare, cu sumele din refuzurile la platã, în dreptul rubricilor
+corespunzãtoare unitãților bancare primitoare (destinatare) ale acestora [rd. 1];
+
+*)
+una
+compensare ulterioare
+Compression byÑ din aflat dintre zilele de de refuz la încasare. primirii greșite a unui refuz la încasare sau a unui instrument
+CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+de platã de credit
+într-un pachet
+
+36
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+Aceste refuzuri sunt aferente cecurilor care au fost prezentate spre verificare anterior și
+sunt compensate în aceastã ședințã de compensare Ñ (c).
+2. Conform art. 14 [Partea a II-a, Etapa 2, lit. d)]
+În timpul ședinței de compensare, cu sumele din refuzurile la încasare primite, în dreptul rubricilor unitãților bancare prezentatoare (inițiatoare) ale acestora [rd. 2];
+
+ÎN CAZUL APARIÞIEI UNOR ERORI ȘI/SAU OMISIUNI
+3. Conform art. 18.1 și anexei nr. 11a)
+Înaintea ședinței de compensare, cu sumele din refuzurile de platã la termen, în dreptul
+rubricilor corespunzãtoare unitãților bancare primitoare (destinatare) ale acestora [rd. 3];
+4. Conform art. 18.1 și anexei nr. 11a)
+În timpul ședinței de compensare, cu sumele din refuzurile de încasare la termen primite, în dreptul rubricilor unitãților bancare prezentatoare (inițiatoare) ale acestora [rd. 4];
+
+Ñ Total sume de încasat: în Partea I a ședinței de compensare se totalizeazã sumele din coloana
+,,Sume de încasat,,;
+Ñ Total sume de plãtit: în Partea I a ședinței de compensare se totalizeazã sumele din coloana
+,,Sume de plãtit,,;
+Ñ Total sume de încasat refuzate: în Partea a II-a a ședinței de compensare se totalizeazã sumele
+din coloana ,,Sume de încasat refuzate,,;
+Ñ Total sume de plãtit refuzate: în Partea a II-a a ședinței de compensare se totalizeazã sumele
+din coloana ,,Sume de plãtit refuzate,,;
+Ñ Total credit = total sume de încasat minus total sume de încasat refuzate;
+Ñ Total debit = total sume de plãtit minus total sume de plãtit refuzate;
+
+Ñ Soldul de compensare poate fi:
+u sold creditor, în situația în care:
+
+TOTAL CREDIT > TOTAL DEBIT
+
+u sold debitor, în situația în care:
+
+TOTAL DEBIT > TOTAL CREDIT
+
+Agentul de compensare completeazã soldul debitor sau creditor, în cifre și litere, dupã ce inspectorul de compensare a anunțat valabilitatea rezultatelor compensãrii.
+Cele douã exemplare ale formularului de compensare sunt semnate de cãtre agentul de
+compensare și certificate de cãtre inspectorul de compensare, prin aplicarea semnãturii sale și a
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes
+ștampilei.
+
+Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+37
+ANEXA Nr. 9a)
+
+FORMULAR DE COMPENSARE CENTRALIZATOR
+FORMULAR DE COMPENSARE
+CENTRALIZATOR
+
+Locul
+compensãrii
+
+Compensat de
+Data compensãrii
+Ședința de compensare
+
+UNITÃÞI
+BANCARE
+COD
+
+Partea I
+Total sume de
+încasat
+Buc.
+
+Valoare
+
+TOTAL GENERAL
+SUME DE
+ÎNCASAT
+Buc.
+
+Valoare
+
+Partea a II-a
+
+Total sume de
+plãtit
+Buc.
+
+Valoare
+
+TOTAL GENERAL
+SUME DE
+PLÃTIT
+Buc.
+
+Valoare
+
+Total sume de
+încasat refuzate
+Buc.
+
+Total sume de
+plãtit refuzate
+
+Valoare
+
+Buc.
+
+Valoare
+
+Sold de compensare
+DEBITOR CREDITOR
+Valoare
+
+Valoare
+
+TOTAL GENERAL
+SUME DE
+ÎNCASAT
+REFUZATE
+
+TOTAL GENERAL TOTAL SOLDURI
+SUME DE
+PLÃTIT
+DEBITOARE CREDITOARE
+REFUZATE
+
+Buc.
+
+Buc.
+
+Valoare
+
+Valoare
+
+CERTIFICAT
+
+Valoare
+
+Valoare
+
+L.S.
+
+Serviciul de plãți și
+decontãri
+
+ANEXA Nr. 9b)
+
+MODUL DE COMPLETARE A FORMULARULUI
+DE COMPENSARE CENTRALIZATOR
+Formularul de compensare centralizator se completeazã astfel:
+Ñ Locul compensãrii: B.N.R. Ñ .........................................................;
+(locul unde se desfãșoarã compensarea)
+
+Ñ Compensat de: numele și prenumele inspectorului de compensare;
+Ñ Data compensãrii: ziua, luna, anul în care are loc compensarea;
+Ñ Unitãți bancare: denumirile unitãților bancare care participã la compensare;
+Ñ Cod: codurile unitãților bancare care participã la compensare;
+Ñ Total sume de încasat și Total sume de plãtit: se completeazã la finalul Pãrții I a ședinței de
+compensare cu totalurile rubricilor ,,Sume de încasat,,, respectiv ,,Sume de plãtit,, preluate
+din formularele de compensare ale unitãților bancare care participã la compensare;
+Ñ Total general sume de încasat și Total general sume de plãtit: în finalul Pãrții I a ședinței de
+compensare se totalizeazã sumele din coloanele ,,Total sume de încasat,,, respectiv ,,Total
+sume de plãtit,,;
+La încheierea Pãrții I a ședinței de compensare, ,,Total general sume de
+plãtit,, și ,,Total general sume de încasat,, trebuie sã fie identice în formularul de compensare centralizator.
+Aceasta reprezintã prima verificare For Evaluation Purposes
+Compression by CVISION Technologies’ PdfCompressor.a compensãrii.
+
+Only
+
+38
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+Ñ Total sume de încasat refuzate și Total sume de plãtit refuzate: se completeazã în Partea
+a II-a a ședinței de compensare cu totalul rubricilor ,,Sume de încasat refuzate,,, respectiv
+,,Sume de plãtit refuzate,, preluate din formularele de compensare ale unitãților bancare
+care participã la compensare;
+Ñ Total general sume de încasat refuzate și Total general sume de plãtit refuzate: la finalul ședinței de compensare se totalizeazã sumele din coloanele ,,Total sume de încasat refuzate,,,
+respectiv ,,Total sume de plãtit refuzate,,;
+Ñ Sold de compensare debitor: se completeazã în Partea a II-a a ședinței de compensare cu
+soldurile debitoare preluate din formularele de compensare ale unitãților bancare aflate în
+poziție debitoare;
+Ñ Sold de compensare creditor: se completeazã în Partea a II-a a ședinței de compensare
+cu soldurile creditoare preluate din formularele de compensare ale unitãților bancare aflate
+în poziție creditoare;
+Ñ Total solduri debitoare: se totalizeazã sumele înscrise în coloana ,,Sold de compensare debitor,,;
+Ñ Total solduri creditoare: se totalizeazã sumele înscrise în coloana ,,Sold de compensare creditor,,;
+Pentru ca ședința de compensare sã se poatã finaliza, este obligatoriu ca, pe formularul de compensare centralizator, Totalul general al sumelor de încasat refuzate sã fie identic cu Totalul general al sumelor de plãtit refuzate și Totalul soldurilor
+debitoare sã fi identic cu totalul soldurilor creditoare.
+Aceasta reprezintã a doua verificare a compensãrii.
+Dupã stabilirea celor douã egalitãți, inspectorul de compensare anunțã închiderea ședinței de
+compensare, semneazã și ștampileazã formularul de compensare centralizator.
+
+ANEXA Nr. 10
+
+ELEMENTE OBLIGATORII ALE PROCESULUI-VERBAL
+DE CONSTATARE A ÎNCÃLCÃRII PREVEDERILOR REGULAMENTULUI PRVIND
+COMPENSAREA PLÃÞILOR INTERBANCARE FÃRÃ NUMERAR PE SUPORT HÂRTIE
+1. Data și locul compensãrii;
+2. Numele și prenumele inspectorului de compensare;
+3. Denumirea unitãții bancare penalizate;
+4. Numele și prenumele agentului de compensare;
+5. Date detaliate cu privire la încãlcarea prevederilor Regulamentului privind compensarea
+multilateralã a plãților interbancare fãrã numerar pe suport hârtie;
+6. Penalizarea aplicatã conform art. 20 alin. 1 din Regulamentul privind compensarea
+multilateralã a plãților interbancare fãrã numerar pe suport hârtie;
+7. Semnãtura inspectorului de compensare și ștampila sucursalei Bãncii Naționale a României;
+8. Semnãtura agentului de compensare respectiv, de luare la cunoștințã a datelor cuprinse în
+procesul-verbal constatator;
+9. Data pânã la care se poate depune contestația la Direcția plãți și decontãri bancare a
+Bãncii Naționale a României.
+
+ANEXA Nr. 11a)
+
+PROCEDURA DE SOLUÞIONARE A ERORILOR ȘI OMISIUNILOR
+ÎN ACTIVITATEA DE COMPENSARE
+1. Unitãțile bancare omit sã refuze instrumente de platã compensabile
+O unitate bancarã care constatã ulterior închiderii ședinței de compensare, în care ar fi
+avut dreptul sã refuze instrumentele de platã compensabile [cec: (c); ordin de platã: (c+1)
+sau (c+2)], cã a omis sã efectueze aceastã operațiune, este obligatã sã restituie respectivele instrumente de platã compensabile unitãții bancare prezentatoare (inițiatoare), într-un
+timp cât mai scurt, conform art. 18.2, în locul unde s-a fãcut schimbul inițial, respectiv în
+sala de compensare.
+u Restituirea acestor instrumente se realizeazã în urmãtorul mod:
+
+Compression
+
+a) Unitatea bancarã prezentatoare (inițiatoare) a refuzului la termen completeazã formularul denumit Refuz de platã/încasare la termen, prezentat în anexa nr. 11b).
+by a) Modul de completare a refuzuluiPdfCompressor. For Evaluation Purposes
+CVISION Technologies’ la termen este descris în anexa nr. 11c).
+
+Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+39
+
+a) În cazul refuzului la termen al cecurilor se completeazã formularul denumit Refuz de
+platã la termen.
+a) În cazul refuzului la termen al ordinelor de platã se completeazã formularul denumit
+Refuz de încasare la termen.
+b) Unitatea bancarã prezentatoare (inițiatoare) a refuzului la termen completeazã formularul de compensare [anexa nr. 8a)] cu datele cuprinse în refuzul la termen.
+a) Completarea formularului de compensare, în aceastã situație, este aceeași ca în cazul
+refuzului obișnuit și este descrisã în anexa nr. 8b);
+c) Schimbul de documente aferente acestei situații se realizeazã între agenții de compensare în a II-a parte a uneia dintre ședințele de compensare cuprinse în intervalul
+obligatoriu de cinci zile lucrãtoare, dupã procedura obișnuitã;
+d) Datele provenite în urma schimbului de documente sunt completate de cãtre agenții
+de compensare ai unitãții bancare primitoare (destinatare) ale refuzurilor la termen, pe
+formularul de compensare, conform anexei nr. 8b).
+u Refuzul la termen se întocmește în trei exemplare având același conținut, astfel:
+Ñ exemplarul 1, de culoare albã;
+Ñ exemplarul 2, de culoare roz;
+Ñ exemplarul 3, de culoare vernil.
+Destinația fiecãrui exemplar al refuzului la termen este urmãtoarea:
+Ñ exemplarul vernil (nr. 3) este pãstrat de unitatea bancarã prezentatoare (inițiatoare) a
+refuzului la termen, constituind document justificativ pentru datele preluate în formularul de compensare propriu;
+Ñ exemplarul roz (nr. 2) este remis, în plicul care conține pachetul de instrumente refuzate la termen, unitãții bancare primitoare (destinatare) a refuzului la termen, constituind document justificativ pentru operațiunile acesteia;
+Ñ exemplarul alb (nr. 1) este remis, împreunã cu formularul de compensare, inspectorului de compensare, constituind document justificativ și de control pentru sumele totale
+preluate în formularul de compensare centralizator.
+Plicul în care este inclus un refuz la termen conține, pe lângã acest formular, urmãtoarele:
+Ñ instrumentele de platã compensabile refuzate la termen;
+Ñ justificarea refuzului la termen pentru fiecare dintre instrumentele respective.
+Justificarea refuzului la termen se face pe formularul prezentat în anexa nr. 11b), într-un
+singur exemplar.
+2. Unitãțile bancare constatã cã le-a fost dirijat greșit un refuz la platã/încasare sau un instrument
+de platã compensabil aflat într-un pachet de refuz
+O unitate bancarã care constatã ulterior închiderii ședinței de compensare cã nu este primitoarea (destinatara) de drept a unui refuz la platã, a unui refuz la încasare sau a unui
+instrument de platã compensabil aflat într-un pachet de refuz, este obligatã sã restituie, prin
+compensare, refuzul sau instrumentul respectiv unitãții bancare prezentatoare (inițiatoare) a
+acestuia, într-un timp cât mai scurt, conform art. 18.2, în locul unde s-a fãcut schimbul inițial, respectiv în sala de compensare.
+u Restituirea refuzului sau a instrumentului de platã compensabil refuzat și greșit dirijat se
+realizeazã în urmãtorul mod:
+
+Compression
+
+a) Unitatea bancarã prezentatoare (inițiatoare) a fișei rectificative de refuz completeazã
+formularul denumit Fișa rectificativã de refuz la platã/încasare prezentat în anexa nr. 11d).
+a) Modul de completare a fișei rectificative de refuz este descris în anexa nr. 11e).
+a) În cazul rectificãrii refuzului la platã al cecurilor se completeazã formularul denumit
+fișa rectificativã de refuz la platã.
+a) În cazul rectificãrii refuzului la încasare al ordinelor de platã se completeazã formularul denumit fișa rectificativã de refuz la încasare.
+b) Unitatea bancarã prezentatoare (inițiatoare) a fișei rectificative de refuz completeazã
+formularul de compensare [anexa nr. 8a)] cu datele cuprinse în fișa rectificativã de
+refuz.
+a) Completarea formularului de compensare în aceastã situație este descrisã în anexa nr. 8b).
+c) Schimbul de documente aferent acestei situații se realizeazã, între agenții de compensare, în prima parte a uneia dintre ședințele de compensare cuprinse în intervalul de timp obligatoriu de cinci zile lucrãtoare, dupã procedura obișnuitã.
+d) Datele provenite în urma schimbului de documente sunt completate de cãtre agenții
+de compensare ai unitãții bancare primitoare (destinatare) ale fișelor rectificative de
+by CVISION Technologies’ PdfCompressor. For Evaluation Purposes
+refuz, pe formularul de compensare, conform anexei nr. 8b).
+
+Only
+
+40
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+u Fișa rectificativã de refuz se întocmește în trei exemplare având același conținut, astfel:
+Ñ exemplarul 1, de culoare albã;
+Ñ exemplarul 2, de culoare roz;
+Ñ exemplarul 3, de culoare vernil.
+Destinația fiecãrui exemplar al fișei rectificative de refuz este urmãtoarea:
+Ñ exemplarul vernil (nr. 3) este pãstrat de unitatea bancarã care întocmește fișa rectificativã de refuz, constituind document justificativ pentru datele preluate în formularul
+de compensare propriu;
+Ñ exemplarul roz (nr. 2) este remis în plicul care conține pachetul cu refuzul sau instrumentele refuzate, greșit dirijate, unitãții bancare care le-a dirijat greșit, aceasta fiind
+unitatea bancarã primitoare (destinatarã) a fișei rectificative de refuz, constituind document justificativ pentru operațiunile acesteia;
+Ñ exemplarul alb (nr. 1) este remis împreunã cu formularul de compensare inspectorului de compensare, constituind document justificativ și de control pentru sumele totale
+preluate în formularul de compensare centralizator.
+Plicul în care este inclusã o fișã rectificativã de refuz conține, pe lângã acest formular, urmãtoarele:
+Ñ instrumente de platã compensabile refuzate și greșit dirijate;
+și/sau
+Ñ refuzul la platã/încasare;
+Ñ justificãrile refuzului la platã/încasare pentru fiecare dintre instrumentele respective.
+3. Unitãțile bancare constatã dupã închiderea unei ședințe de compensare cã au dirijat greșit unul
+sau mai multe instrumente de platã compensabile de credit
+
+Compression
+
+O unitate bancarã care constatã ulterior închiderii ședinței de compensare cã a dirijat greșit un instrument de platã compensabil de credit (ordin de platã) cãtre o unitate bancarã
+care nu este primitoarea (destinatara) de drept a acestuia este obligatã sã verifice la unitatea bancarã care nu este primitoarea (destinatara) de drept a instrumentului de platã greșit dirijat, dacã aceasta intenționeazã sã introducã în compensare un refuz sau un refuz la
+termen privind respectivul instrument:
+Ñ în cazul în care unitatea bancarã, care nu este primitoarea (destinatara) de drept a
+respectivului instrument, intenționeazã sã introducã în compensare un refuz sau un
+refuz la termen, se oprește procesul de introducere a acestuia în compensare și se
+procedeazã la fel ca în cazul descris mai jos;
+Ñ în cazul în care unitatea bancarã, care nu este primitoarea (destinatara) de drept a
+instrumentului, nu urmeazã sã introducã în compensare un refuz sau un refuz la termen privind instrumentul respectiv, se procedeazã în urmãtorul mod:
+a) Unitatea bancarã prezentatoare (inițiatoare) a fișei rectificative de platã completeazã
+formularul denumit fișa rectificativã de platã, prezentat în anexa nr. 11f).
+a) Modul de completare a fișei rectificative de platã este descris în anexa nr. 11g).
+b) Unitatea bancarã prezentatoare (inițiatoare) a fișei rectificative de platã completeazã
+formularul de compensare [anexa nr. 8a)] cu datele cuprinse în fișa rectificativã de
+platã.
+a) Completarea formularului de compensare în aceastã situație este descrisã în anexa
+nr. 8b).
+c) Schimbul de documente aferent acestei situații se realizeazã între agenții de compensare
+în prima parte a uneia dintre ședințele de compensare cuprinse în intervalul obligatoriu de cinci zile lucrãtoare, dupã procedura obișnuitã.
+d) Datele provenite în urma schimbului de documente sunt completate de cãtre agenții
+de compensare ai unitãții bancare primitoare (destinatare) ale fișelor rectificative de
+platã, pe formularul de compensare, conform anexei nr. 8b).
+e) Instrumentul de platã compensabil greșit dirijat, rectificat prin fișa rectificativã de platã
+respectivã, urmeazã a fi recuperat fizic de cãtre unitatea bancarã prezentatoare (inițiatoare) a fișei, pe cale amiabilã, de la unitatea bancarã primitoare (destinatarã) a
+fișei rectificative de platã.
+f) Creditarea contului clientului beneficiar care urma a fi realizatã prin instrumentul greșit dirijat anterior poate fi realizatã dupã ce sumele sunt recuperate de cãtre unitatea
+bancarã prezentatoare (inițiatoare) prin compensare în baza fișei rectificative de platã
+emise, prin întocmirea unor noi instrumente de platã compensabile de credit. Aceste
+noi instrumente pot fi incluse în pachetele obișnuite de instrumente de platã
+compensabile și înmânate unitãții bancare care le este primitoarea (destinatara) de drept.
+Diferența între data recuperãrii sumelor și data introducerii unor noi instrumente în compensare nu poate fi mai mare de o zi lucrãtoare.
+a) În momentul emiterii unui nou ordin de platã cãtre destinatarul real, ordinul de platã
+by CVISION Technologies’unei fișe rectificative de For Evaluation Purposes
+inițial, care constituie obiectul PdfCompressor. platã, este anulat de drept.
+
+Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+41
+
+u Fișa rectificativã de platã se întocmește în trei exemplare având același conținut, astfel:
+Ñ exemplarul 1, de culoare albã;
+Ñ exemplarul 2, de culoare roz;
+Ñ exemplarul 3, de culoare vernil.
+Destinația fiecãrui exemplar al fișei rectificative de platã este urmãtoarea:
+Ñ exemplarul vernil (nr. 3) este pãstrat de unitatea bancarã prezentatoare (inițiatoare) a
+fișei rectificative de platã, constituind document justificativ pentru datele preluate în
+formularul de compensare propriu;
+Ñ exemplarul roz (nr. 2) este remis în plicul care conține justificãrile rectificãrilor la platã
+unitãții bancare primitoare (destinatare) a fișei rectificative de platã, constituind document justificativ pentru aceasta;
+Ñ exemplarul alb (nr. 1) este remis, împreunã cu formularul de compensare, inspectorului de compensare, constituind document justificativ și de control pentru sumele totale
+preluate în formularul de compensare centralizator.
+Plicul în care este inclusã o fișã rectificativã de platã conține, pe lângã acest formular, și
+toate justificãrile de platã componente ale acestei fișe.
+Justificarea unei rectificãri de platã se face pe formularul prezentat în anexa nr. 11f), într-un
+singur exemplar.
+4. Unitãțile bancare constatã dupã închiderea ședinței de compensare cã li s-au refuzat, din motive
+nejustificate, instrumente de platã compensabile
+O unitate bancarã primitoare (destinatarã) a unui refuz care constatã ulterior închiderii ședinței de compensare cã i s-au refuzat nejustificat instrumente de platã compensabile ia legãtura cu unitatea bancarã prezentatoare (inițiatoare) a refuzului considerat nejustificat și îi
+solicitã soluționarea diferendului pe cale amiabilã.
+În cazul în care unitatea bancarã prezentatoare (inițiatoare) a refuzului este de acord cu
+faptul cã acesta a fost nejustificat, unitatea bancarã primitoare (destinatarã) a refuzului
+reintroduce în compensare instrumentele de platã compensabile nejustificat refuzate.
+În cazul în care diferendul nu poate fi soluționat pe cale amiabilã rezolvarea acestuia este
+de competența organelor judecãtorești.
+ANEXA Nr. 11b)
+
+REFUZ DE PLATÃ LA TERMEN
+
+REFUZ DE PLATÃ LA TERMEN
+Compensabil la:
+
+Data compensãrii refuzului
+la termen:
+
+Banca prezentatoare (inițiatoare) a refuzului la termen
+
+Cod
+Refuzãm la termen plata cãtre:
+Banca primitoare (destinatarã) a refuzului la termen
+
+Cod
+
+prin
+
+CECURI
+
+Numãr bucãți:
+SUMA:
+
+.
+
+.
+
+.
+
+,
+
+(suma în litere)
+
+L.S.
+Banca prezentatoare (inițiatoare)
+a refuzului la termen
+
+CERTIFICAT
+
+L.S.
+Banca primitoare (destinatarã)
+a refuzului la termen
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+42
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+ANEXA Nr. 11b)
+
+REFUZ DE ÎNCASARE LA TERMEN
+
+REFUZ DE ÎNCASARE LA TERMEN
+Compensabil la:
+
+Data compensãrii refuzului la termen:
+
+Banca prezentatoare (inițiatoare) a refuzului la termen
+
+Cod
+Refuzãm la termen încasarea de la:
+Banca primitoare (destinatarã) a refuzului la termen
+
+Cod
+
+prin
+
+ORDINE DE PLATÃ
+
+Numãr bucãți:
+SUMA:
+
+.
+
+.
+
+.
+
+,
+
+(suma în litere)
+
+CERTIFICAT
+
+L.S.
+Banca prezentatoare (inițiatoare)
+a refuzului la termen
+
+L.S.
+Banca primitoare (destinatarã)
+a refuzului la termen
+
+ANEXA Nr. 11b)
+
+JUSTIFICARE REFUZ LA TERMEN
+
+JUSTIFICARE REFUZ LA TERMEN
+Data compensãrii
+refuzului la termen:
+
+Banca prezentatoare (inițiatoare) a refuzului la termen
+Cod
+
+Refuzãm la termen plata/încasarea pentru
+
+CECUL/ORDINUL DE PLATÃ Nr. ................. , cãtre
+Banca primitoare (destinatarã) a refuzului la termen
+Cod
+
+din urmãtorul motiv:
+
+VERIFICAT
+
+ÎNTOCMIT
+L.S.
+
+(semnãtura)
+
+(semnãtura)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+43
+ANEXA Nr. 11c)
+
+MODUL DE COMPLETARE A REFUZULUI LA PLATÃ/ÎNCASARE LA TERMEN
+Refuzul la platã/încasare la termen se completeazã astfel:
+Ñ Compensabil la: B.N.R. Ñ ............................................................................................;
+(locul unde se desfãșoarã compensarea)
+
+Ñ Data compensãrii refuzului la termen: ziua, luna, anul în care are loc compensarea refuzului la termen;
+Ñ Banca prezentatoare (inițiatoare) a refuzului la termen: denumirea unitãții bancare care introduce în compensare pachetul de instrumente de platã compensabile refuzate la termen;
+Ñ Cod : numãrul codului unitãții bancare prezentatoare (inițiatoare) a refuzului la termen;
+Ñ Banca primitoare (destinatarã) a refuzului la termen : denumirea unitãții bancare care primește
+pachetul de instrumente de platã compensabile refuzate la termen;
+Ñ Cod : numãrul codului unitãții bancare primitoare (destinatare) a refuzului la termen;
+Ñ Prin : denumirea instrumentelor de platã compensabile refuzate la termen:
+u pentru refuzul de platã la termen: cecuri;
+u pentru refuzul de încasare la termen: ordine de platã.
+Ñ Numãr bucãți : numãrul de instrumente de platã compensabile de același fel (de credit sau
+de debit) refuzate la termen, componente ale pachetului;
+Ñ Suma : suma rezultatã din totalizarea sumelor înscrise pe instrumentele de platã compensabile, de același fel, refuzate la termen;
+Ñ Certificat : semnãtura autorizatã și ștampila unitãții bancare primitoare (destinatare) a refuzului la termen, aplicatã pe exemplarul nr. 3 Ñ vernil (al refuzului la termen).
+ANEXA Nr. 11d)
+
+FIȘA RECTIFICATIVÃ DE REFUZ LA PLATÃ
+
+FIȘA RECTIFICATIVÃ DE REFUZ LA PLATÃ
+Compensabil la:
+
+Data compensãrii fișei rectificative de refuz:
+
+Banca prezentatoare (inițiatoare) a fișei rectificative de refuz
+
+Cod
+Rectificãm refuzul la platã din partea:
+Banca prezentatoare (inițiatoare) a refuzului inițial
+
+Cod
+
+prin
+
+CECURI
+
+Numãr bucãți:
+SUMA:
+
+.
+
+.
+
+.
+
+,
+
+(suma în litere)
+
+L.S.
+Banca prezentatoare (inițiatoare) a fișei
+rectificative de refuz
+
+CERTIFICAT
+
+L.S.
+Banca prezentatoare (inițiatoare)
+a refuzului inițial
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+44
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+ANEXA Nr. 11d)
+
+FIȘA RECTIFICATIVÃ DE REFUZ LA ÎNCASARE
+
+FIȘA RECTIFICATIVÃ DE REFUZ LA ÎNCASARE
+Compensabil la:
+
+Data compensãrii fișei rectificative de refuz:
+
+Banca prezentatoare (inițiatoare) a fișei rectificative de refuz
+
+Cod
+Rectificãm refuzul la încasare din partea:
+Banca prezentatoare (inițiatoare) a refuzului inițial
+
+Cod
+
+prin
+
+ORDINE DE PLATÃ
+
+Numãr bucãți:
+SUMA:
+
+.
+
+.
+
+.
+
+,
+
+(suma în litere)
+
+CERTIFICAT
+
+L.S.
+Banca prezentatoare (inițiatoare) a fișei
+rectificative de refuz
+
+L.S.
+Banca prezentatoare (inițiatoare)
+a refuzului inițial
+ANEXA Nr. 11e)
+
+MODUL DE COMPLETARE A FIȘEI RECTIFICATIVE
+DE REFUZ LA PLATÃ/ÎNCASARE
+Fișa rectificativã de refuz la platã/încasare se completeazã astfel:
+Ñ Compensabil la : B.N.R. Ñ ......................................................................;
+(locul unde se desfãșoarã compensarea)
+
+Ñ Data compensãrii fișei rectificative de refuz : ziua, luna, anul în care are loc compensarea
+fișei rectificative de refuz;
+Ñ Banca prezentatoare (inițiatoare) a fișei rectificative de refuz : denumirea unitãții bancare care
+introduce în compensare pachetul cu refuzul sau instrumentele refuzate, greșit dirijate;
+Ñ Cod: numãrul codului unitãții bancare prezentatoare (inițiatoare) a fișei rectificative de refuz;
+Ñ Banca primitoare (destinatarã) a fișei rectificative de refuz : denumirea unitãții bancare care
+primește pachetul cu refuzul sau instrumentele refuzate, greșit dirijate;
+Ñ Cod : numãrul codului unitãții bancare primitoare (destinatare) a fișei rectificative de refuz;
+Ñ Prin : denumirea instrumentelor de platã compensabile incluse pe fișa rectificativã de refuz:
+u pentru fișa rectificativã de refuz la platã: cecuri;
+u pentru fișa rectificativã de refuz la încasare: ordine de platã.
+Ñ Numãr bucãți : numãrul de instrumente de platã compensabile de același fel (de debit sau
+de credit) incluse pe o fișã rectificativã de refuz;
+Ñ Suma : suma rezultatã din totalizarea sumelor înscrise pe instrumentele de platã compensabile de același fel, incluse pe fișa rectificativã de refuz;
+Ñ Certificat : semnãtura autorizatã și ștampila unitãții bancare primitoare (destinatare) a fișei
+
+rectificative de refuz, aplicatã pe exemplarul nr. 3 Ñ vernil (al fișei For Evaluation
+Compression by CVISION Technologies’ PdfCompressor. rectificative de refuz). Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+45
+ANEXA Nr. 11f)
+
+FIȘA RECTIFICATIVÃ DE PLATÃ
+
+FIȘA RECTIFICATIVÃ DE PLATÃ
+Compensabil la:
+
+Data compensãrii fișei rectificative de platã:
+
+Banca prezentatoare (inițiatoare) a fișei rectificative de platã
+
+Cod
+Rectificãm plata cãtre:
+Banca primitoare (destinatarã) a fișei rectificative de platã
+
+Cod
+
+prin
+
+ORDINE DE PLATÃ
+
+Numãr bucãți:
+SUMA:
+
+.
+
+.
+
+.
+
+,
+
+(suma în litere)
+
+CERTIFICAT
+
+L.S.
+
+L.S.
+Banca primitoare (destinatarã)
+a fișei rectificative de platã
+
+Banca prezentatoare (inițiatoare) a fișei
+rectificative de platã
+
+ANEXA Nr. 11f)
+
+JUSTIFICARE RECTIFICARE DE PLATÃ
+
+JUSTIFICARE RECTIFICARE DE PLATÃ
+Banca prezentatoare (inițiatoare) a fișei rectificative de platã
+
+Cod
+
+Data compensãrii
+fișei rectificative de platã:
+
+Rectificãm la platã
+
+ORDINUL DE PLATÃ
+
+, cãtre
+
+Banca primitoare (destinatarã) a fișei rectificative de platã
+Cod
+
+din urmãtorul motiv:
+
+VERIFICAT
+
+ÎNTOCMIT
+L.S.
+
+(semnãtura)
+(semnãtura)
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+46
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+ANEXA Nr. 11g)
+
+MODUL DE COMPLETARE A FIȘEI RECTIFICATIVE DE PLATÃ
+Fișa rectificativã de platã se completeazã astfel:
+Ñ Compensabil la : B.N.R. Ñ ......................................................................;
+(locul unde se desfãșoarã compensarea)
+
+Ñ Data compensãrii fișei rectificative de platã : ziua, luna, anul în care are loc compensarea
+fișei rectificative de platã;
+Ñ Banca prezentatoare (inițiatoare) a fișei rectificative de platã : denumirea unitãții bancare care
+introduce în compensare o fișã rectificativã de platã;
+Ñ Cod : numãrul codului unitãții bancare prezentatoare (inițiatoare) a fișei rectificative de platã;
+Ñ Banca primitoare (destinatarã) a fișei rectificative de platã : denumirea unitãții bancare care
+primește din compensare o fișã rectificativã de platã;
+Ñ Cod : numãrul codului unitãții bancare primitoare (destinatare) a fișei rectificative de platã;
+Ñ Prin : denumirea instrumentelor de platã compensabile incluse pe fișa rectificativã de platã:
+u ordin de platã.
+Ñ Numãr bucãți : numãrul de instrumente de platã compensabile incluse pe o fișã rectificativã de platã;
+Ñ Suma : suma rezultatã din totalizarea sumelor înscrise pe instrumentele de platã compensabile incluse pe fișa rectificativã de platã;
+Ñ Certificat : semnãtura autorizatã și ștampila unitãții bancare primitoare (destinatare) a fișei
+rectificative de platã, aplicatã pe exemplarul nr. 3 Ñ vernil (al fișei rectificative de platã).
+
+BANCA NAÞIONALÃ A ROMÂNIEI
+
+ORDIN
+privind punerea în aplicare a Regulamentului nr. 8/1994, a normelor-cadru nr. 6, 7 și 15/1994 și a
+normelor tehnice nr. 9, 10 și 16/1994, emise de Banca Naționalã a României
+Având în vedere prevederile art. 11 alin. 2 din Ordonanța Guvernului nr. 13/1995 și ale art. 23 din Regulamentul
+nr. 10/1994 al Bãncii Naționale a României,
+în temeiul art. 49 din Legea nr. 34/1991 privind Statutul Bãncii Naționale a României,
+guvernatorul Bãncii Naționale a României emite urmãtorul ordin:
+Art. 1. Ñ Pe data prezentului ordin intrã în vigoare prevederile urmãtoarelor reglementãri ale Bãncii Naționale a
+României: Regulamentul*) nr. 8/1994, normele-cadru*) nr. 6,
+7 și 15/1994 și normele tehnice*) nr. 9, 10 și 16/1994.
+Art. 2. Ñ Direcția servicii generale, probleme tehnice și
+securitate și directorii sucursalelor Bãncii Naționale a
+României vor lua toate mãsurile ce se impun pentru asigu-
+
+rarea, pânã la 30 martie 1995, a necesarului de blanchete
+de instrumente de credit și de platã pe suport hârtie, a formularisticii de compensare, precum și pentru asigurarea tuturor condițiilor materiale și organizatorice în Banca Naționalã
+a României și în sucursalele sale, pentru punerea în aplicare a Regulamentului nr. 10/1994 al Bãncii Naționale a
+României începând cu data de 31 martie 1995.
+
+Guvernatorul Bãncii Naționale a României,
+Mugur Isãrescu
+
+București, 28 februarie 1995.
+Nr. 138.
+*) Regulamentul nr. 8/1994, normele-cadru nr. 6, 7 și 15/1994 și normele tehnice nr. 9, 10 și 16/1994 se publicã ulterior și se difuzeazã celor
+
+interesați, în afara abonamentului, pe bazã Technologies’ PdfCompressor. For Evaluation Purposes Only
+Compression by CVISION de comenzi.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+47
+
+REGULAMENT
+privind principiile și organizarea avizãrii tehnice a sistemelor de plãți și decontãri fãrã numerar
+Nici un sistem, indiferent dacã utilizeazã instrumente pe
+suport hârtie sau pe alte suporturi, nu poate fi utilizat de
+Art. 1. Ñ În temeiul art. 2 din Legea nr. 33/1991 și al
+art. 21 din Legea nr. 34/1991, Banca Naționalã a României cãtre o bancã, decât în perioada și în forma în care are
+emite prezentul regulament, al cãrui obiect îl constituie prin- aprobatã în prealabil de cãtre Autoritatea de Avizare Tehnicã
+cipiile și organizarea avizãrii tehnice a sistemelor de plãți și o documentație specificã, expresã și la zi privind:
+a) conținutul și forma specimenului, condiționat astfel încât
+decontãri fãrã numerar la Banca Naționalã a României.
+sã fie arhivat, pãstrat și asigurat accesul în condițiile conArt. 2. Ñ Ca activitate de interes public desfãșuratã prin
+conturi deschise la societãțile bancare autorizate de Banca venite cu Autoritatea de Avizare Tehnicã ca referințã și modaNaționalã a României, denumite în continuare, pentru sco- litate de control în procesul emisiunii/creãrii, circulației și
+înscrierii în conturi sau evidențe deschise de bãnci a inforpurile prezentului regulament, bãnci, transferul de fonduri
+mației pe care ar putea sã o conținã un lot determinat de
+bãnești prin sisteme de plãți și decontãri fãrã numerar este
+multipli ai specimenului și care reprezintã tirajul instrumensupus reglementãrii și controlului Bãncii Naționale a României,
+tului. Specimenul cuprinde în mod explicit și întocmai inforprecum și avizãrii tehnice a sistemelor individuale de plãți
+mația care se repetã identic la toți multiplii și care se referã
+și decontãri fãrã numerar prin care serviciile de transfer de
+la identificarea și definirea tranzacției de plãți, a partenerifonduri în formã scripturalã sunt oferite publicului.
+lor, obiectului și cuantumului acesteia, precum și orice alte
+Aceste servicii nu pot fi efectuate decât de cãtre persoane
+date cerute prin lege, dispuse de reglementãrile Bãncii
+juridice. Persoanele juridice, altele decât bãncile, pot presta
+Naționale a României sau considerate revelatoare de opeservicii de plãți fãrã numerar, în condițiile legii; numai dupã
+rator Ñ dacã nu contravin prevederilor antemenționate Ñ,
+autorizarea acestora de cãtre Banca Naționalã a României.
+precum și distribuția respectivei informații pe suportul instruArt. 3. Ñ Un sistem de plãți și decontãri fãrã numerar, mentelori;
+denumit și definit în continuare pentru scopul prezentului
+b) descrierea detaliatã și evaluarea de cãtre bancã a sisregulament drept sistem, cuprinde:
+temului, fie cã banca este operatorul acestuia sau nu, pena) instrumentele de plãți fãrã numerar, reprezentând tru scopul evitãrii și gestionãrii riscurilor care ar știrbi
+suporturi tehnice de date prin care intrã și ies informații din încrederea publicului în plãțile fãrã numerar ca activitate de
+structura de prelucrare; se definesc prin specimen, creat și interes public.
+actualizat ca referințã de cãtre operator la Autoritatea de AviArt. 5. Ñ Documentația de la art. 4 se va depune de
+zare Tehnicã pentru toți multiplii sãi, individualizați prin cãtre bancã la Autoritatea de Avizare Tehnicã înainte de punemomentul în timp și alte date particulare cu care intrã în rea în circulație a tirajului tipãrit, confecționat pe suporturi
+structura de prelucrare;
+corporale sau executat prin înregistrãri dematerializate, dupã
+b) structura de prelucrare a informației de plãți fãrã nume- caz. Documentația va cuprinde, sub semnãtura autorizatã
+rar reprezintã un sistem tehnico-economic de creare, inter- care angajeazã banca, urmãtoarele documente:
+mediere, circulație și valorificare a datelor printr-un ansamblu
+a) cererea de autorizare a circulației și de luare în evidențã
+coerent și definit în prealabil de operator, cuprinzând metode, a tirajului, cuprinzând datele din anexa nr. 1, referitoare la:
+tehnici și proceduri de transfer, analizã, compunere, semniÑ date privind producerea, volumul și numerotarea speficare a datelor, efectuate prin infrastructuri de comunicare cimenului și a multiplilor; planificarea în timp a producerii și
+ordonatã, transparente și reconstituibile pentru operatori sau punerii în circulație a multiplilor Ñ denumiți în cazul matebeneficiari, dupã caz;
+rializãrii pe suport hârtie blanchete, în cazul cartelei bancare
+c) operatorul de plãți fãrã numerar, care reprezintã res- de debit sau de credit formatul cartelei, iar în cazul înreponsabilul pentru activarea și gestionarea structurii de prelu- gistrãrilor electronice dematerializate format-imagine relevat Ñ
+aria proiectatã de beneficiari; identificarea și recomandarea
+crare;
+d) beneficiarii, care reprezintã utilizatorii inițiali, interme- expresã de cãtre bancã și de cãtre operator, dupã caz, a
+întreprinzãtorului care urmeazã sã producã specimenul și muldiari și finali ai structurii de prelucrare;
+tiplii.
+e) Autoritatea de Avizare Tehnicã este Banca Naționalã a
+Dupã caz, cererea va descrie și semnificația atribuitã de
+României, reprezentatã prin Direcția plãți și decontãri bancare, împuternicitã de Consiliul de administrație al Bãncii cãtre solicitant dimensiunilor, înscrisurilor și desenelor instruNaționale a României sã angajeze Banca Naționalã a mentului, al contramãrcii și copertelor sale, cu menționarea
+României fațã de terți pentru respectarea prezentului regu- procedeelor tipografice, a nuanțelor de culoare sau a altor
+lament, inclusiv prin control al personalului propriu, desfãșurat caracteristici și procedee tehnice conforme unui standard tehnic recunoscut și larg rãspândit (STAS, ISO etc.); de aseîn bãnci și la sucursalele și filialele acestora.
+menea, se va atașa o mostrã a hârtiei sau a materialului
+2. Avizarea tehnicã a instrumentelor
+pe care s-a fãcut tipãrirea sau confecționarea suportului corde plãți fãrã numerar
+poral al instrumentului propriu-zis și, dupã caz, a contramãrcii
+Art. 4. Ñ Bãncile pot oferi servicii de plãți pe baza auto- sale, pentru parametrii de calitate atașându-se un certificat
+rizației de funcționare primite de la Banca Naționalã a emis de un laborator agreat de Autoritatea de Avizare TehRomâniei, care va continua sã supravegheze prudențial ser- nicã care sã ateste conformitatea cu reglementãrile în
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+vigoare;
+viciile de plãți.
+1. Dispoziții generale
+
+48
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+Ñ angajamentul formal și pe proprie rãspundere al bãn- datei sau în raport cu precizãrile cãruia banca nu va putea
+cii cã multiplii produși sunt identici cu specimenul, mai puțin pune în circulație respectivul tiraj. Pentru bancã, documenseria și numãrul, precum și inscripția ,,specimen,, sau o altã tul reprezintã, de asemenea, dovada cã Banca Naționalã a
+modalitate de a individualiza specimenul confecționat ca atare României a luat în evidențã datele declarate referitoare la
+prin scoaterea definitivã a unui multiplu din circulație prin anu- tiraj într-o bazã de date de interes, dar fãrã acces public.
+lare individualã (perforare, operare de inscripții lãmuritoare
+Autorizația se acordã pe timp limitat, prevãzut expres în
+ale faptului etc.);
+text.
+Ñ acordul cu efectuarea, de cãtre autoritatea de avizare
+3. Avizarea tehnicã a structurii de prelucrare
+tehnicã în contul bãncii solicitante, de cheltuieli de verificare
+de conformitate cu prevederile reglementãrilor în vigoare a
+Art. 7. Ñ În vederea eliminãrii riscurilor și întãririi discidatelor și elementelor comunicate în cerere și materializate plinei decontãrilor, fiecare bancã va depune și va menține
+în specimenul remis Autoritãții de Avizare Tehnicã;
+la zi la Autoritatea de Avizare Tehnicã, sub semnãturã autob) cinci exemplare-martor ale specimenului, numerotate rizatã, o documentație completã referitoare la structura de predistinct, care nu vor fi restituite de cãtre autoritatea de avi- lucrare proprie. Aceastã documentație va cuprinde:
+zare tehnicã;
+a) cererea de autorizare a funcționãrii structurii de prelucrare
+c) în cazul în care se intenționeazã introducerea pe piațã cuprinzând datele din anexa nr. 2;
+de instrumente noi, se va prezenta o copie integralã a stub) prezentarea structurii de prelucrare conform metodolodiului de fezabilitate aprobat de acționarii sau de conduce- giei indicate de la caz la caz, de cãtre Autoritatea de Avirea emitentului, care va cuprinde, fãrã a se limita, elemente zare Tehnicã;
+ca:
+c) o evaluare proprie a riscurilor de disfuncționalitãți în
+Ñ prezentarea generalã comparatã a instrumentului;
+structura de prelucrare, a prevenirii și împãrțirii acestora între
+Ñ procedura de emitere;
+bancã, operatori și beneficiari;
+Ñ aria de utilizatori;
+d) orice altã informație sau document suplimentar cerut
+Ñ operațiunile de decontare realizabile cu instrumentul
+de Autoritatea de Avizare Tehnicã în vederea acordãrii și menrespectiv;
+Ñ modalitãți de evaluare a riscului și de asigurare a ținerii autorizației;
+e) acordul cu efectuarea de cãtre Autoritatea de Avizare
+securitãții prin caracteristicile instrumentului, ale structurii de
+Tehnicã în contul bãncii solicitante a cheltuielilor de colecprelucrare, precum și la operatori și beneficiari;
+tare, prelucrare, verificare și evaluare a datelor de la lit. a)Ñ
+Ñ fraude estimate de emitent;
+Ñ alte informații pe care emitentul le considerã relevante d) de mai sus.
+În termen maxim de 30 de zile de la data înregistrãrii la
+pentru lansarea și succesul pe piațã a instrumentului.
+Autoritatea de Avizare Tehnicã a recepției ultimei lucrãri supliArt. 6. Ñ Documentația va fi supusã analizei Autoritãții
+de Avizare Tehnicã, care va putea efectua lucrãri suplimen- mentare edificatoare comandate unui terț, Autoritatea de Avitare proprii și comandate terților pe seama solicitantului, pen- zare Tehnicã va emite un document denumit autorizație de
+tru verificarea conformitãții datelor cererii cu caracteristicile funcționare a structurii de prelucrare a instrumentului de platã,
+datat și semnat, înaintea datei sau în raport cu precizãrile
+specimenului remis și cu reglementãrile în vigoare.
+Autoritatea de Avizare Tehnicã va face analiza documen- cãruia banca nu va putea utiliza respectiva structurã de pretației și a lucrãrilor suplimentare comandate și recepționate lucrare.
+de la terți pe bazã de metodologii și procedee proprii, bazate
+Pentru bancã, documentul reprezintã, de asemenea,
+pe o grilã de verificare a specimenului, care, dupã caz, va dovada cã Banca Naționalã a României a luat în evidențã
+cuprinde, fãrã a se limita parametrii ca dimensiunile instru- datele declarate într-o bazã de date de interes, dar fãrã acces
+mentului și ale zonelor sale, a perforațiilor, a fezabilitãții ope- public.
+rãrii de înscrieri în spațiile desemnate pentru aceasta cu
+Autorizația se acordã pe timp limitat, prevãzut expres în
+cerneluri ori alte mijloace autorizate de largã rãspândire, prin text.
+înregistrare mecanizatã ori electronicã sau prin alte mijloace
+Procesul de autorizare a Bãncii Naționale a României va
+identificabile și verificabile și, dupã caz, protejate, precum și fi organizat în scopul încurajãrii și îmbunãtãțirii eficienței
+verificarea condițiilor de securitate și prevenire a falsificãrii decontãrilor fãrã numerar, în primul rând a celor interbanprin verificarea:
+care și pentru a evita riscul de sistem, precum și pentru a
+Ñ poziționãrii seriei și numãrului;
+gestiona cazurile de forțã majorã, bãncile trebuind sã facã
+Ñ elementelor de desen din masa hârtiei:
+dovada, prin documentația înaintatã Bãncii Naționale a
+Ñ filigran;
+României, cã atât participanții, cât și furnizorii de servicii de
+Ñ rețea complexã a hârtiei;
+plãți, au voința și dispun de capacitatea de a gestiona
+Ñ textului sau desenelor în culori fluorescente;
+riscurile de creditare și lichiditate induse pentru bãnci de sisÑ tratãrii chimice a hârtiei;
+temele de plãți.
+Ñ elementelor suplimentare de securitate:
+În acest scop, bãncile vor prezenta, iar Autoritatea de AviÑ element secret;
+zare Tehnicã va analiza și, în caz de necesitate, va impune
+Ñ microtext;
+nivelurile minime de performanțã pentru sistemele de plãți
+Ñ imposibilitatea copierii prin diferite procedee.
+În termen maxim de 30 de zile de la data înregistrãrii la fãrã numerar supuse avizãrii.
+Astfel, sistemele prezentate la avizare trebuie:
+Autoritatea de Avizare Tehnicã a recepției ultimei lucrãri supli1. sã conținã scheme de compensare multilateralã care
+mentare edificatoare comandate unui terț, Autoritatea de Avizare Tehnicã va emite pe adresa solicitantului, în numele sã aibã o bazã legalã bine fundamentatã în conformitate cu
+Bãncii Naționale a României, un document denumit autori- legislația românã în vigoare și cu cea din alte jurisdicții releCompressioncirculație a tirajului, datat și semnat, înaintea vante;
+zație de punere în by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+2. sã cuprindã participanți la schemele de compensare
+multilateralã care sã facã dovada cã le înțeleg consecințele,
+inclusiv cã au o reprezentare asupra riscurilor financiare
+induse pentru bãnci;
+3. sã aibã definite detaliat procedurile pentru gestiunea
+riscurilor de credit și de lichiditate, atât pentru furnizorul serviciilor de compensare, cât și pentru participanți, fãcând
+dovada cã toate pãrțile au voința și capacitatea de a gestiona și a cuprinde fiecare dintre responsabilitãțile și consecințele lor respective pe care riscul le poate produce și, de
+asemenea, cã limitele riscului sunt plasate la limita maximã
+de expunere la credit care poate fi produsã de fiecare participant;
+4. sã fie capabile de a asigura cel puțin încheierea la
+timp a decontãrilor zilnice în situația în care participantul cu
+cea mai mare poziție debitoare se aflã în imposibilitate de
+decontare;
+5. sã aibã obiective și criterii transparente de admitere a
+participanților;
+6. sã conținã scheme de compensare multilateralã care
+sã asigure compatibilitatea operaționalã a sistemelor și infrastructurilor tehnice, dispunând de alternative viabile (backup) capabile sã îndeplineascã cererile zilnice de procesare.
+4. Modificãri
+Art. 8. Ñ Pentru orice modificare pe care intenționeazã
+sã o opereze fațã de conținutul autorizațiilor acordate conform art. 4Ñ7, banca se va conforma din proprie inițiativã
+procedurilor de la art. 4Ñ8, ca pentru un instrument sau
+structurã de prelucrare distinctã.
+5. Mãsuri de impunere a respectãrii prezentului
+regulament
+Art. 9. Ñ Autoritatea de Avizare Tehnicã constatã încãlcãrile prevederilor prezentului regulament și dacã nu se întrunesc elementele unei infracțiuni, impune bãncilor urmãtoarele
+mãsuri pentru respectarea prezentului regulament:
+Ñ sesizarea autoritãții de reglementare și supraveghere
+bancarã pentru retragerea autorizației de a emite instrumente
+de platã personalizate ale bãncii aflate în culpã;
+Ñ sesizarea autoritãții de decontare finalã din Banca
+Naționalã a României pentru întreruperea operativã a fluxului decontãrilor pe contul bãncii, constatate de Autoritatea de
+Avizare Tehnicã în culpã, la apariția în decontãri a unui astfel de instrument sau pentru impunerea altor mãsuri de restabilire a disciplinei decontãrilor, cu preluarea rãspunderilor
+materiale pentru blocarea sau întârzierea sistemelor de
+decontãri ale operatorului și beneficiarilor de cãtre banca în
+culpã;
+Ñ sesizarea încãlcãrii constatate de Autoritatea de Avizare
+Tehnicã cãtre Consiliul de Administrație al bãncii în culpã și
+a autoritãților de control ale Bãncii Naționale a României.
+6. Dispoziții finale și tranzitorii
+Art. 10. Ñ Pânã la data de 31 martie 1995 bãncile vor
+depune la Autoritatea de Avizare Tehnicã documentația conform art. 5 și 7 pentru toate instrumentele de platã proprii
+
+49
+
+aflate în circulație la acea datã, cât și pentru structurile de
+prelucrare corespunzãtoare, în vederea inițializãrii unor baze
+de date corespunzãtoare.
+Pânã la data de 15 aprilie 1995, Autoritatea de Avizare
+Tehnicã va emite Autorizații Provizorii de utilizare a instrumentelor depuse. Începând cu data de 16 aprilie 1995 vor
+putea fi refuzate la decontarea finalã în rețeaua Bãncii
+Naționale a României instrumentele care nu beneficiazã de
+autorizația provizorie a Autoritãții de Avizare Tehnicã, întreaga
+rãspundere pentru întârzieri, pagube și încãlcarea disciplinei
+în vigoare a decontãrilor revenind bãncilor care nu s-au conformat dispozițiilor Bãncii Naționale a României.
+Pânã la data de 15 aprilie 1995, Autoritatea de Avizare
+Tehnicã va emite Autorizații Provizorii de funcționare provizorie a structurilor de prelucrare declarate. Începând cu data de
+1 mai 1995, aceste autorizații pot fi retrase de cãtre Autoritatea de Avizare Tehnicã, cu o notificare prealabilã de 5 zile
+lucrãtoare adresatã în scris președintelui bãncii, întreaga rãspundere pentru întârzieri, pagube și încãlcarea disciplinei în
+vigoare a decontãrilor revenind bãncilor care nu s-au conformat dispozițiilor Bãncii Naționale a României.
+Art. 11. Ñ Pentru orice nou instrument propriu al Bãncii
+Naționale a României, Secretariatul General al Bãncii
+Naționale a României va întocmi și va actualiza documentația prevãzutã la art. 4, gestionând raporturile cu furnizorii
+Bãncii Naționale a României pentru realizarea acestuia, dupã
+obținerea de la Autoritatea de Avizare Tehnicã a unei notificãri de conformitate cu reglementãrile în vigoare, pe care o
+va solicita în scris.
+Art. 12. Ñ Autoritatea de Avizare Tehnicã poate efectua
+verificãri proprii pe parcurs atât în cadrul Bãncii Naționale a
+României, cât și la bãnci, pentru a impune respectarea prevederilor prezentului regulament.
+Art. 13. Ñ Autoritatea de Avizare Tehnicã creeazã și menține, pentru scopurile aplicãrii prezentului regulament, baze
+de date proprii protejate și închise, atât în vederea respectãrii secretului bancar, cât și a satisfacerii interesului public.
+Accesul la bazele de date ale Autoritãții de Avizare Tehnicã
+este restricționat și se face:
+Ñ pentru personalul Bãncii Naționale a României, pe baza
+cererii scrise a directorilor direcțiilor din Banca Naționalã a
+României și a directorilor sucursalelor acesteia, aprobate de
+conducãtorul Autoritãții de Avizare Tehnicã;
+Ñ pentru personalul altor instituții, pe baza cererii scrise
+a conducãtorilor acestora, cu avizul prealabil al conducãtorului Autoritãții de Avizare Tehnicã și cu aprobarea guvernatorului Bãncii Naționale a României.
+Art. 14. Ñ Pânã la 31 decembrie 1995, Autoritatea de
+Avizare Tehnicã va emite norme tehnice în aplicarea prezentului regulament, privind autorizarea de cãtre Banca
+Naționalã a României a persoanelor juridice, altele decât bãncile, de a presta servicii de plãți fãrã numerar, precum și
+norme-cadru și norme tehnice privind sistemele de plãți fãrã
+numerar prin cãrți de platã.
+Art. 15. Ñ Prezentul regulament intrã în vigoare la 1 martie 1995 și se publicã în Monitorul Oficial al României.
+
+Președintele Consiliului de administrație al Bãncii Naționale a României,
+Mugur Isãrescu,
+guvernator
+București, 7 martie 1995.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+Nr. 1.
+
+50
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+ANEXA Nr. 1
+
+CERERE
+de autorizare a circulației și de luare în evidențã a tirajului de instrumente de platã
+fãrã numerar
+INTRARE D.P.D.B. Nr.
+
+data:
+
+Societatea bancarã ......................................................................................................, înregistratã la
+Registrul comerțului sub nr. .........................................., având sediul principal în țara/județul
+..............................................., localitatea ..........................., str. ............................. nr. ....., cod poștal
+........................., prin ................................., domiciliat în localitatea ........................................, str. ...........................
+nr. ....., bloc ........, scara ........, etaj ....., apartament ......, județ/sector ............................................, B.I./Pașaport
+seria ................. nr. .............................., eliberat de ........................., la data de ................................, în calitate de1) ....................................................., solicitãm autorizarea circulației și luarea în evidențã a tirajului
+pentru2) ................................................................ în urmãtoarele condiții:
+a) tiraj ........ adicã (..............) exemplare;
+b) numerotate de la ......... pânã la .......... inclusiv;
+c) tirajul se va produce și pune în circulație conform estimãrii din anexa nr. 1.1;
+d) descrierea și semnificația atribuitã dimensiunilor, înscrisurilor și desenelor instrumentului, ale contramãrcii și copertelor sale sunt cele din anexa nr. 1.2 (se vor menționa procedeele tipografice, nuanțele de
+culoare sau alte caracteristici și procedee tehnice folosite, cu indicarea standardului tehnic aplicabil);
+e) specimenele vor fi numerotate de la ....................... pânã la ...................... inclusiv, fiind individualizate ca atare prin ..................... (inscripția ,,SPECIMEN,, operatã prin tipãrire sau orice alt procedeu).
+Executarea tirajului se va face de cãtre întreprinzãtorul ..............................................................., înregistrat la Registrul comerțului sub nr. ..............................., având sediul în localitatea
+..................................................., str. .............................. nr. ................, cod poștal ...........................
+Declarãm pe propria rãspundere cã:
+1. multiplii sunt și vor fi identici cu specimenul, mai puțin seria, numãrul și modalitatea de individualizare a specimenului;
+2. întreprinzãtorul .................................................. îndeplinește toate condițiile referitoare la mijloacele
+de tezaurizare, gestionarea hârtiei speciale, distrugerea pierderilor tehnologice și posibilitãțile tehnice de
+realizare și numerotare a instrumentelor în vederea asigurãrii calitãții cerute de norme;
+3. suntem de acord cu suportarea cheltuielilor efectuate de Autoritatea de Avizare Tehnicã, inclusiv
+a celor pentru angajarea de terți în vederea verificãrii de conformitate cu prevederile reglementãrilor în
+vigoare a datelor și elementelor comunicate și materializate în specimen;
+4. suntem de acord cu efectuarea oricãrui control ulterior al Autoritãții de Avizare Tehnicã, în condițiile reglementãrilor în vigoare, al producției și circulației instrumentului.
+Anexele fac parte integrantã din prezenta cerere și constau în:
+Ñ anexele nr. 1.1 și 1.2 completate;
+Ñ 5 specimene ale instrumentului;
+Ñ mostrã de hârtie;
+Ñ certificat de calitate pentru hârtie și pentru alte materiale, emis de autoritãți agreate de Autoritatea de Avizare Tehnicã.
+
+Semnãtura autorizatã a solicitantului,
+
+S.S./L.S.
+
+1) Se completeazã cu calitatea pe care o are persoana care semneazã cererea în societatea bancarã
+(împuternicit, reprezentant etc.).
+2) Se completeazã cu tipul instrumentului de platã.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+51
+ANEXA Nr. 2
+
+CERERE
+de autorizare a funcționãrii structurii de prelucrare a instrumentelor de platã fãrã numerar
+INTRARE D.P.D.B. Nr.
+
+data:
+
+Societatea bancarã ......................................................................................................, înregistratã la
+Registrul comerțului sub nr. .........................................., având sediul principal în țara/județul
+..............................................., localitatea ..........................., str. ............................. nr. ....., cod poștal
+........................., prin ................................., domiciliat în localitatea ........................................, str. ...........................
+nr. ....., bloc ........, scara ........, etaj ....., apartament ......, județ/sector ............................................, B.I./Pașaport
+seria ................. nr. .............................., eliberat de ........................., la data de ................................, în calitate de1) ....................................................., solicitãm autorizarea de funcționare și luarea în evidențã a structurii de prelucrare pentru2) ......................................... .
+1. Declarãm pe propria rãspundere cã datele comunicate sunt conforme cu realitatea.
+2. Suntem de acord ca suportarea cheltuielilor efectuate de Autoritatea de Avizare Tehnicã în vederea colectãrii, prelucrãrii, verificãrii și evaluãrii datelor și elementelor comunicate în cererea de autorizare
+sã se facã din contul nostru nr. ............................. .
+3. Suntem de acord cu efectuarea oricãrui control ulterior în societatea noastrã bancarã al reprezentanților Autoritãții de Avizare Tehnicã sau al altor persoane desemnate de aceasta, în condițiile reglementãrilor în vigoare, al structurii de prelucrare avizate.
+
+Semnãtura autorizatã a solicitantului,
+
+S.S./L.S.
+
+1) Se completeazã cu calitatea pe care o are persoana care semneazã cererea în societatea bancarã (împuternicit, reprezentant etc.).
+2) Se completeazã cu tipul instrumentului de platã.
+
+BANCA NAÞIONALÃ A ROMÂNIEI
+
+CIRCULARÃ
+referitoare la evidența contabilã a plãților și decontãrilor interbancare
+în cadrul Bãncii Naționale a României
+În aplicarea Regulamentului Bãncii Naționale a României nr. 10/1994 și a Programului de introducere a compensãrii multilaterale
+a plãților interbancare fãrã numerar pe suport hârtie, aprobate de Consiliul de administrație al Bãncii Naționale a României prin Încheierea
+Consiliului de administrație nr. 16/S/XII/16 din 28 octombrie 1994, începând cu data de 3 aprilie 1995:
+1. Serviciile plãți și decontãri din cadrul sucursalelor Bãncii
+Naționale a României vor administra conturile curente ale unitãților bancare, defalcate pe analitice*), dupã cum urmeazã:
+a) Biroul de compensare a plãților fãrã numerar pe suport hârtie va
+deschide și va opera, zilnic, pe baza formularului de compensare
+centralizator, conturile curente analitice:
+Ñ 50BBXSS.01.101
+Cont curent pentru decontarea operațiunilor de compensare multilateralã a
+plãților interbancare pe suport hârtie al
+unitãții bancareÉ;
+Ñ 5099X00.01.1JJ
+Cont curent cumulativ pentru compensarea multilateralã a plãților interbancare
+pe suport hârtie al sucursalei B.N.R.
+É(JJ = nr. de ordine al județului Ñ
+anexa).
+Soldurile conturilor 50.BBXSS.01.101 se vireazã zilnic, fãrã percepere de comision, pânã la ora 12,00, pe bazã de note contabile, cu aviz OIS de creditare sau debitare, la Banca Naționalã a
+României Ñ Direcția plãți și decontãri bancare, Serviciul de com-
+
+pensare multilateralã a plãților fãrã numerar pe suport hârtie Ñ
+cod OIS 96117, prin telex sau modem.
+b) Biroul viramente interbancare pe bazã brutã și decontãri al
+Bãncii Naționale a României va deschide și va opera, zilnic, conturile curente analitice:
+Ñ 50BBXSS.01.201
+Cont curent privind operațiuni de decontãri cu B.N.R. al unitãții bancareÉ;
+Ñ 50BBXSS.01.202
+Cont curent privind operațiunile cu
+numerar al unitãții bancareÉ;
+Ñ 50BBXSS.01.203
+Cont curent privind operațiunile de soldare zilnicã a conturilor de corespondent
+al unitãții bancareÉ;
+Ñ 50BBXSS.01.204
+Cont curent privind alte operațiuni de
+decontãri al unitãții bancareÉ .
+Soldurile acestor conturi se vireazã zilnic, fãrã percepere de
+comision, pânã la ora 15,00, pe bazã de note contabile, cu aviz
+OIS de creditare sau debitare, la Banca Naționalã a României Ñ
+Direcția plãți și decontãri bancare, Serviciul viramente interbancare
+pe bazã brutã și urmãrirea riscului în sistemul de plãți și decontãri Ñ cod OIS 96133, prin telex sau modem.
+
+*) Primele nouã caractere din simbolurile conturilor curente analitice ale unitãților bancare se conformeazã reglementãrilor în vigoare ale Bãncii
+
+Naționale a României.
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+52
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+c) Biroul de decontãri pentru bugetul statului va deschide și va
+opera, zilnic, conturile curente analitice:
+Ñ 50BBXSS.01.307
+Cont curent pentru operațiuni de decontare cu bugetul statului al unitãții bancareÉ;
+Ñ 50BBXSS.01.308
+Cont curent pentru operațiuni de
+decontare cu fondul pentru plata
+ajutorului de șomaj al unitãții bancareÉ;
+Ñ 50BBXSS.01.309
+Cont curent pentru operațiuni privind
+disponibilitãțile extrabugetare ale
+Ministerului Finanțelor al unitãții
+bancareÉ;
+Ñ 50BBXSS.01.312
+Cont curent privind alte operațiuni de
+decontare cu bugetul statului al unitãții
+bancareÉ
+Soldurile acestor conturi se vireazã zilnic, fãrã percepere de
+comision, pânã la ora 15,00, pe bazã de note contabile, cu aviz
+OIS de creditare sau debitare, la Banca Naționalã a României Ñ
+Direcția plãți și decontãri bancare, Serviciul conturi curente societãți bancare Ñ cod OIS 96100, prin telex sau modem.
+d) Sucursalele Bãncii Naționale a României, Biroul decontãri
+pentru bugetul statului, din județele pe teritoriul cãrora se aflã centrale de societãți bancare, pot deschide Ñ la solicitarea acestora
+și cu aprobarea Direcției plãți și decontãri bancare a Bãncii
+Naționale a României Ñ urmãtoarele conturi curente analitice în
+care vor fi reflectate operațiuni dispuse de centrala societãții bancare respective:
+Ñ 50BBX99.01.301
+Decontãri aferente creditelor B.N.R. ale
+centralei societãții bancareÉ;
+Ñ 50BBX99.01.302
+Decontãri aferente pieței valutare interbancare ale centralei societãții bancareÉ;
+Ñ 50BBX99.01.303
+Decontãri privind operațiuni cu titluri de
+stat ale centralei societãții bancareÉ;
+Ñ 50BBX99.01.304
+Decontãri aferente operațiunilor valutare
+cu B.N.R. ale centralei societãții bancareÉ;
+Ñ 50BBX99.01.310
+Plasamente interbancare, rambursãri și
+dobânzi aferente ale centralei societãții
+bancareÉ;
+Ñ 50BBX99.01.311
+Credite interbancare și dobânzi aferente
+ale centralei societãții bancareÉ;
+Ñ 50BBX99.01.904
+Alte operațiuni de decontare ale centralei
+societãții bancareÉ
+Operațiunile înregistrate în conturile curente analitice enumerate
+la pct. 1.d) se vor vira zilnic, cu aviz OIS, pânã la ora 17,30, la
+Banca Naționalã a României, Direcția plãți și decontãri bancare,
+Serviciul conturi curente societãți bancare, cod OIS 96100.
+e) Centralele societãților bancare, al cãror sediu nu se aflã în
+municipiul București, pot solicita sucursalelor Bãncii Naționale a
+României din județul lor de reședințã deschiderea de conturi
+
+curente analitice din grupele de la pct. 1.b), 1.c) și 1.d), dar numai
+cu aprobarea Direcției plãți și decontãri bancare din Banca Naționalã
+a României.
+f) Sucursala Bãncii Naționale a României din municipiul București
+va menține deschise, pentru centralele societãților bancare din
+București care nu au subunitãți, conturile curente Ñ operațiuni cu
+numerar Ñ al cãror sold se va vira, zilnic, pânã la ora 15,00, la
+Direcția plãți și decontãri bancare, Serviciul viramente interbancare,
+pe bazã brutã și urmãrirea riscului în sistemul de plãți și decontãri, cod OIS 96133.
+g) Toate conturile curente analitice menționate în prezenta circularã nu pot înregistra sold la sfârșitul zilei.
+2. Sucursalele Bãncii Naționale a României vor stabili programul de ghișeu pe care îl vor comunica, în scris, unitãților bancare,
+în așa fel încât sã se poatã încadra în orarul menționat la pct. 1.
+O copie a acestui program de ghișeu va fi remisã Direcției plãți și
+decontãri bancare a Bãncii Naționale a României pânã la data de
+25 martie 1995.
+3. Sucursalele Bãncii Naționale a României vor remite unitãților bancare extrase de cont curent zilnice în care vor fi reflectate
+toate operațiunile efectuate în ziua respectivã prin conturile curente
+analitice menționate la pct. 1.
+4. Pentru activitatea de compensare care se desfãșoarã în centrala Bãncii Naționale a României și în sucursalele sale, Banca
+Naționalã a României percepe societãților bancare, pentru prezentarea și primirea unui instrument de platã compensabil (bucatã), un
+comision de 5 (cinci) lei.
+Pentru operațiunile în care Banca Naționalã a României reprezintã la compensare centralele societãților bancare, aceasta
+percepe societãților bancare respective, în plus, un comision de
+5 (cinci) lei pentru fiecare instrument de platã prezentat sau primit
+în compensare.
+5. Comisioanele pentru activitatea de compensare se percep de
+cãtre Banca Naționalã a României Ñ Direcția plãți și decontãri bancare, Serviciul de compensare multilateralã a plãților fãrã numerar
+pe suport hârtie.
+Pentru operațiunile dispuse de centralele societãților bancare a
+se efectua prin conturile analitice de la pct. 1.d), comisioanele și
+spezele telex se percep la nivelul Bãncii Naționale a României Ñ
+Direcția plãți și decontãri bancare, Serviciul conturi curente societãți bancare.
+6. Direcția plãți și decontãri bancare și Direcția contabilitãții generale ale Bãncii Naționale a României vor efectua, pânã la data de
+25 martie 1995, instruirea contabililor șefi din sucursalele Bãncii
+Naționale a României privind evidența contabilã a conturilor curente
+analitice menționate la pct. 1.
+7. O datã cu intrarea în vigoare a prezentei circulare, se modificã corespunzãtor prevederile pct. 4 din Normele nr. VI/3150/1992,
+prin includerea posibilitãții de transmitere prin modem a avizelor
+OIS ale Bãncii Naționale a României.
+8. La data intrãrii în vigoare a prezentei circulare își înceteazã
+aplicabilitatea orice dispoziție contrarã.
+
+Guvernatorul Bãncii Naționale a României,
+Mugur Isãrescu
+București, 14 martie 1995.
+Nr. 9.
+ANEXÃ
+Denumire județ
+
+ALBA
+ARAD
+ARGEȘ
+BACÃU
+BIHOR
+BISTRIÞA-NÃSÃUD
+BOTOȘANI
+BRAȘOV
+BRÃILA
+BUZÃU
+CARAȘ-SEVERIN
+CÃLÃRAȘI
+CLUJ
+CONSTANÞA
+COVASNA
+DÂMBOVIÞA
+DOLJ
+GALAÞI
+GIURGIU
+GORJ
+
+Nr. ordine județ
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+Denumire județ
+
+HARGHITA
+HUNEDOARA
+IALOMIÞA
+IAȘI
+MARAMUREȘ
+MEHEDINÞI
+MUREȘ
+NEAMÞ
+OLT
+PRAHOVA
+SATU MARE
+SÃLAJ
+SIBIU
+SUCEAVA
+TELEORMAN
+TIMIȘ
+TULCEA
+VASLUI
+VÂLCEA
+VRANCEA
+BUCUREȘTI
+
+Nr. ordine județ
+
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+53
+
+BANCA NAÞIONALÃ A ROMÂNIEI
+
+CIRCULARÃ
+privind orarul de plãți al Direcției plãți și decontãri bancare din cadrul
+Bãncii Naționale a României
+Banca Naționalã a României Ñ Direcția plãți și decontãri bancare are urmãtorul program de ghișeu pentru operațiunile cu centralele societãților bancare:
+Ñ între orele 8,30Ñ10,00, pentru primirea instrumentelor de platã referitoare la decontãrile în lei aferente operațiunilor pieței
+valutare interbancare, care urmeazã a fi efectuate în ziua lucrãtoare urmãtoare sau la o datã ulterioarã;
+Ñ între orele 8,30Ñ10,00, pentru primirea instrumentelor de platã referitoare la decontãrile privind operațiunile cu titluri de stat;
+Ñ între orele 8,30Ñ10,00, respectiv 16,30Ñ17,30, pentru primirea instrumentelor de platã referitoare la plasamente interbancare,
+rambursãri ale acestora și dobânzile aferente lor, credite interbancare, rambursãri ale acestora și dobânzile aferente lor;
+Ñ între orele 18,30Ñ19,00, pentru ridicarea extraselor de cont de cãtre centralele societãților bancare la care se înregistreazã
+sold creditor, respectiv a doua zi, între orele 10,00Ñ10,30, pentru ridicarea extraselor de cont de cãtre centralele societãților bancare la care se înregistreazã sold debitor.
+
+Guvernatorul Bãncii Naționale a României,
+Mugur Isãrescu
+București, 14 martie 1995.
+Nr. 10.
+
+BANCA NAÞIONALÃ A ROMÂNIEI
+
+ORDIN
+privind sancțiunile în cazul nerespectãrii de cãtre unitãțile bancare a reglementãrilor
+privind compensarea multilateralã a plãților interbancare fãrã numerar pe suport hârtie
+Având în vedere prevederile art. 49 și 50 din Legea nr. 33/1991 și ale art. 20 din Regulamentul Bãncii Naționale a României
+nr. 10/1994,
+în temeiul art. 49 din Legea nr. 34/1991 privind Statutul Bãncii Naționale a României,
+guvernatorul Bãncii Naționale a României emite urmãtorul ordin:
+Art. 1. Ñ Întârzierea agentului de compensare la ședințele de
+compensare pânã la cincisprezece minute se sancționeazã cu
+amendã de 50.000 lei.
+Art. 2. Ñ Solicitarea modificãrii orarului ședințelor de compensare, de cãtre o unitate bancarã sau de cãtre o societate bancarã,
+din motive care, ulterior, se dovedesc a fi nejustificate, se sancționeazã cu amendã de 200.000 lei.
+Art. 3. Ñ Încãlcarea prevederilor art. 13 din Regulamentul Bãncii
+Naționale a României nr. 10/1994 privind pregãtirea ședinței de compensare la unitãțile bancare se sancționeazã cu amendã de
+1.000.000 lei.
+Art. 4. Ñ Completarea eronatã repetatã a formularului de compensare, având drept consecințã obținerea unor rezultate greșite
+și prelungirea ședinței de compensare, se sancționeazã cu amendã
+de 200.000 lei.
+Art. 5. Ñ Refuzul, de mai mult de douã ori, din motive ce se
+dovedesc ulterior a fi nejustificate, denumit refuz sistematic, al instrumentelor de platã compensabile se sancționeazã cu o penalitate
+de 1% din sumele înscrise pe instrumentele în cauzã pentru fiecare zi de întârziere doveditã, peste termenele și intervalele obligatorii stabilite în art. 5 din Regulamentul nr. 10/1994.
+Art. 6. Ñ Nerespectarea de cãtre unitãțile bancare prezentatoare (inițiatoare) și unitãțile bancare primitoare (destinatare) a prevederilor art. 5 din Regulamentul nr. 10/1994 privind circuitele,
+termenele și intervalele de timp obligatorii ale plãților interbancare
+de micã valoare, se sancționeazã cu o penalitate de 0,5% din
+sumele înscrise pe instrumentele în cauzã pentru fiecare zi de întârziere.
+
+Art. 7. Ñ Dirijarea greșitã repetatã a unor instrumente de platã
+sau refuzuri atunci când numãrul acestor situații este mai mare de
+zece și pot fi dovedite prin procese-verbale de constatare întocmite în baza formularelor de compensare și a formularelor de compensare centralizatoare se sancționeazã cu amendã de la 1.000.000
+lei la 20.000.000 lei.
+Art. 8. Ñ Nerespectarea prevederilor art. 19.1 pct. 3 din
+Regulamentul nr. 10/1994 se sancționeazã cu câte 10.000 lei pentru fiecare document care trebuia sã se afle în arhivele unitãților
+bancare și pe care organul de control al Bãncii Naționale a
+României nu l-a gãsit pe parcursul controlului.
+Art. 9. Ñ Nerespectarea prevederilor art. 19.2 din Regulamentul
+nr. 10/1994, privind remiterea documentelor solicitate prin adresã
+oficialã de cãtre Direcția plãți și decontãri bancare și sucursalele
+Bãncii Naționale a României, se sancționeazã cu câte 50.000 lei
+pentru fiecare zi de întârziere peste data limitã stabilitã de Banca
+Naționalã a României, care însã nu va fi mai micã de o zi lucrãtoare.
+Art. 10. Ñ Conform art. 20.3, 20.4 și 20.5 din Regulamentul
+nr. 10/1994, procesele-verbale, exemplarele 2, întocmite de inspectorii de compensare, vor fi transmise atât letric, cât și prin fax la
+Direcția plãți și decontãri bancare a Bãncii Naționale a României,
+cu adresã oficialã din partea sucursalelor respective ale Bãncii
+Naționale a României, în ziua întocmirii lor, în vederea soluționãrii
+lor și debitãrii conturilor curente ale centralelor societãților bancare.
+
+Guvernatorul Bãncii Naționale a României,
+Mugur Isãrescu
+București, 15 martie 1995.
+
+Nr. 161.
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+54
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+BANCA NAÞIONALÃ A ROMÂNIEI
+
+CIRCULARÃ
+privind organizarea participãrii la activitatea de compensare multilateralã
+a plãților interbancare pe suport hârtie
+În aplicarea Regulamentului Bãncii Naționale a României nr. 10/1994 și a Programului de introducere a compensãrii multilaterale
+a plãților interbancare fãrã numerar pe suport hârtie aprobate de Consiliul de administrație al Bãncii Naționale a României prin Încheierea
+Consiliului de administrație nr. 16/S/XII/16 din 28 octombrie 1994, începând cu data de 3 aprilie 1995:
+1. Conturile curente ale centralelor societãților bancare se deschid
+și se opereazã zilnic la Direcția plãți și decontãri bancare din Banca
+Naționalã a României.
+Prin conturile curente ale centralelor societãților bancare nu se
+efectueazã operațiuni cu numerar.
+Centralele societãților bancare care au subunitãți teritoriale
+deruleazã operațiunile în numerar proprii prin conturile curente ale
+sucursalelor lor, deschise și menținute la sucursalele Bãncii
+Naționale a României.
+Centralele societãților bancare, care nu au alte unitãți bancare
+deschise în localitatea în care își au sediul, pot derula operațiunile în numerar prin conturile curente Ñ operațiuni cu numerar,
+deschise la sucursalele Bãncii Naționale a României din localitatea respectivã.
+2. Conturile de refinanțare ale centralelor societãților bancare se
+deschid și se opereazã la Direcția credit și operațiuni de piațã din
+Banca Naționalã a României.
+3. Centralele societãților bancare au obligația sã prezinte zilnic
+la compensare la Banca Naționalã a României Ñ Direcția plãți și
+decontãri bancare, în condițiile stabilite prin Regulamentul Bãncii
+Naționale a României nr. 10/1994, toate plãțile interbancare proprii, cu excepția celor aferente decontãrilor privind operațiunile cu
+titluri de stat, plãțile în lei aferente pieței valutare interbancare, plasamentele sau creditele interbancare, rambursãrile acestora și
+dobânzile aferente.
+Operațiunile exceptate de la compensare, enumerate în alineatul
+precedent, vor fi decontate separat, bilateral, în conturile curente
+ale centralelor societãților bancare deschise la Banca Naționalã a
+României Ñ Direcția plãți și decontãri bancare.
+Exceptarea de la compensare a unor operațiuni de plãți, altele
+decât cele menționate în primul alineat al punctului 3 al prezentei
+circulare, necesitã aprobarea prealabilã a Direcției plãți și decontãri bancare a Bãncii Naționale a României.
+4. În cazul în care sediul centralei societãții bancare nu se aflã
+în București, compensarea plãților interbancare proprii ale centralei respective se poate efectua prin intermediul unitãților sale bancare participante la compensare, urmând ca soldurile obținute în
+urma compensãrii sã se deconteze prin conturile curente ale acestora din urmã deschise la sucursalele Bãncii Naționale a României.
+5. Banca Naționalã a României poate reprezenta la compensare centralele societãților bancare care nu au sediul în București
+și care nu au deschisã nici o unitate bancarã în municipiul
+București, cu condiția încheierii, în prealabil, a unui protocol scris
+care va cuprinde detaliat procedurile pe care atât Banca Naționalã
+a României ca reprezentantã la compensare, cât și respectivele
+centrale de societãți bancare ca reprezentate, au obligația sã le
+respecte privind aplicarea Regulamentului Bãncii Naționale a
+României nr. 10/1994.
+Acest punct din prezenta circularã completeazã notele explicative din anexele nr. 1/O.P.5 și, respectiv, nr. 1/C.5 din Regulamentul
+Bãncii Naționale a României nr. 10/1994.
+6. Direcția plãți și decontãri bancare poate aproba, pentru societãțile bancare care nu au sediul centralei în București și care nu
+au nici o unitate bancarã în București, la cererea acestora, efectuarea prin sistemul OIS al Bãncii Naționale a României a decontãrilor privind operațiunile cu titluri de stat și operațiunile în lei
+aferente pieței valutare interbancare, a plasamentelor sau creditelor interbancare, a rambursãrilor acestora și dobânzilor aferente,
+cu condiția încheierii, în prealabil, a unui protocol scris.
+7. Pânã la crearea condițiilor tehnice necesare, obiectul compensãrii multilaterale îl constituie plãțile interbancare fãrã numerar
+pe suport hârtie, indiferent de valoarea lor.
+8. În compensare pot fi acceptate ordine de platã sub formã
+de mesaje transmise prin telex sau modem, cu condiția ca societatea bancarã inițiatoare și societatea bancarã destinatarã sã
+încheie, în prealabil, o înțelegere scrisã în acest sens. O copie a
+oricãrei înțelegeri de acest fel va trebui sã fie transmisã Direcției
+plãți și decontãri bancare din Banca Naționalã a României, în termen de 2 zile lucrãtoare de la data încheierii ei.
+
+În cazul în care cele douã societãți bancare renunțã la înțelegerea privind acceptarea în compensare a ordinelor de platã sub
+formã de mesaje, transmise prin telex sau modem, Direcția plãți
+și decontãri bancare din Banca Naționalã a României va fi înștiințatã, în scris, în termen de 2 zile lucrãtoare de la luarea acestei decizii.
+9. În sensul art. 7 lit. e) din Regulamentul Bãncii Naționale a
+României nr. 10/1994 nu sunt cuprinse cecurile barate care au anexate borderouri de cecuri sau ordinele de platã care au anexate
+borderouri de mandate poștale, mandate poștale sau facturi, cu condiția ca societatea bancarã inițiatoare și societatea bancarã destinatarã sã încheie, în prealabil, o înțelegere scrisã în acest sens.
+O copie a oricãrei înțelegeri de acest fel va trebui sã fie transmisã
+Direcției plãți și decontãri bancare din Banca Naționalã a României,
+în termen de 2 zile lucrãtoare de la data încheierii ei.
+În cazul în care cele douã societãți bancare renunțã la o înțelegere de acest fel, Direcția plãți și decontãri bancare din Banca
+Naționalã a României va fi înștiințatã, în scris, în termen de 2 zile
+lucrãtoare de la luarea acestei decizii.
+10. Operațiunile de plãți și decontãri interbancare proprii ale
+Bãncii Naționale a României nu fac obiectul compensãrii multilaterale.
+11. Societãțile bancare au obligația sã închidã conturile de corespondent pe care le au deschise, la toate nivelurile de organizare,
+cu excepția celor deschise între unitãțile bancare care au sediul
+în aceeași localitate, alta decât reședința de județ.
+12. Zilnic, pânã la ora 14,00, soldurile tuturor conturilor de corespondent deschise de unitãțile bancare din localitãțile care nu sunt
+reședințe de județ se vor stinge prin decontarea lor prin conturile
+curente ale unitãților bancare care aparțin aceleiași societãți bancare, deschise la sucursalele județene ale Bãncii Naționale a
+României. În mod obligatoriu pe ordinul de platã depus în acest
+scop la sucursala județeanã a Bãncii Naționale a României se va
+face mențiunea ,,Soldare cont corespondent deschis între unitatea
+bancarã A și unitatea bancarã B,,. Aceste ordine de platã nu vor
+fi introduse în compensare.
+13. Societãțile bancare pot efectua la orice nivel de organizare
+operațiuni prin conturi de corespondent cu Casa de Economii și
+Consemnațiuni.
+14. Societãțile bancare au obligația sã raporteze în ultima zi
+bancarã lucrãtoare a fiecãrei luni, la Direcția plãți și decontãri bancare din Banca Naționalã a României, conturile de corespondent
+pentru operațiunile în lei pe care le au deschise la toate nivelurile
+de organizare cu alte societãți bancare, inclusiv cu Casa de
+Economii și Consemnațiuni.
+15. Termenele și intervalele de timp în care se efectueazã plãțile
+intrabancare locale sau interjudețene nu pot depãși termenele și
+intervalele de timp privind plãțile interbancare de aceeași categorie stabilite prin Regulamentul Bãncii Naționale a României
+nr. 10/1994.
+16. Sucursalele Bãncii Naționale a României vor deschide conturi curente unitãților bancare numai cu aprobarea scrisã a Direcției
+plãți și decontãri bancare din Banca Naționalã a României.
+17. La Banca Naționalã a României Ñ sucursala municipiului
+București Ñ vor participa la compensarea multilateralã toate unitãțile bancare care au conturi curente deschise la aceastã sucursalã.
+Pânã la data de 31 decembrie 1995, societãțile bancare vor
+lua mãsuri pentru a avea deschis un singur cont curent în Banca
+Naționalã a României Ñ sucursala municipiului București.
+18. Pânã la crearea condițiilor tehnice necesare, ședința zilnicã
+de verificare a cecurilor se desfãșoarã între orele 14,00Ñ14,30, la
+sediul sucursalelor Bãncii Naționale a României.
+19. Pentru a asigura continuitatea operațiunilor de plãți, pânã
+la data de 1 iunie 1995 vor fi acceptate în compensare, pe lângã
+ordine de platã și cecuri barate, dispoziții de platã și cecuri din
+carnete cu limitã de sumã, emise pânã la data de 30 aprilie 1995
+inclusiv.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+20. Centralele societãților bancare și toate unitãțile bancare participante la compensare au obligația ca, pânã la data de 25 martie 1995, sã depunã la Direcția plãți și decontãri bancare și,
+respectiv, la sucursalele Bãncii Naționale a României specimenele
+de semnãturi ale agenților de compensare pe fișa cuprinsã în anexa
+la prezenta circularã.
+21. În vederea aplicãrii pct. 1 și 2 ale prezentei circulare transferul conturilor curente și de refinanțare ale centralelor societãților
+
+55
+
+bancare care au fost deschise la sucursalele Bãncii Naționale a
+României Cluj și Târgu Mureș se va efectua conform prevederilor
+pct. 58Ñ61 din Normele metodologice nr. 20/1985 ale Bãncii
+Naționale a României.
+22. La data intrãrii în vigoare a prezentei circulare își înceteazã
+aplicabilitatea Regulamentul Bãncii Naționale a României nr. 4/1994,
+precum și orice alte dispoziții contrare.
+
+Guvernatorul Bãncii Naționale a României,
+Mugur Isãrescu
+București, 15 martie 1995.
+Nr. 11.
+ANEXÃ
+Confidențial
+
+Nr./data fișa. .....................................
+(Nr./data ieșire în registrul de corespondențã al bãncii).....................
+Președinte...........................................
+
+FIȘA AGENTULUI DE COMPENSARE AUTORIZAT
+SÃ ANGAJEZE .....................................................
+(denumirea unitãții bancare)
+
+ÎN CADRUL ACTIVITÃÞII DE COMPENSARE
+
+Numele și prenumele agentului de compensare ..................................................................................................
+Funcția conform statului de funcții la 01.04.1995 ..............................................................................................
+Date de identificare a agentului de compensare: data și locul nașterii .................................................................
+....................................................................................................................................................................................
+Nr./seria actului de identitate .................................... . Adresa permanentã ...........................................................
+....................................................................................................................................................................................
+Date profesionale ale agentului de compensare:
+tip studii(S/M) ...............................................................................................................................................................
+anul absolvirii.....................alte studii............................vechimea în bancã............................ani.
+Semnãtura agentului de compensare este suficientã pentru angajarea rãspunderii
+...........................................................................................................................................................................
+(denumirea unitãții bancare)
+
+a) DA
+b) NU Ñ valabilã numai cu semnãtura .....................................................................................................
+(numele și prenumele altei persoane împuternicite)
+
+Specimen semnãturã agent de compensare
+
+Specimen ștampilã însoțitoare
+
+Președinte,
+
+CompressionSe completeazã de cãtre D.P.D.B.: Acordat PdfCompressor. For Evaluation Purposes Only
+by CVISION Technologies’ codul personal.........
+
+56
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75
+
+BANCA NAÞIONALÃ A ROMÂNIEI
+
+CIRCULARÃ
+privind operațiunile de decontãri cu trezoreria generalã a statului efectuate prin unitãțile bancare
+1. În sensul art. 22 al Regulamentului nr. 10/1994 al Bãncii
+Naționale a României și al prezentei circulare, prin operațiuni de
+decontãri cu trezoreria generalã a statului se înțelege: operațiunile de
+decontãri cu bugetul de stat, cu bugetele locale, cu bugetul asigurãrilor sociale de stat, cu fondurile speciale, cu mijloacele extrabugetare și alte conturi ale instituțiilor publice.
+2. Unitãțile bancare au obligația de a prezenta centralei Bãncii
+Naționale a României sau sucursalelor sale documentele privind
+operațiunile de decontãri cu trezoreria generalã a statului, grupate
+pe urmãtoarele categorii:
+a) operațiuni de decontãri cu bugetul de stat;
+b) operațiuni de decontãri cu bugetele locale;
+c) operațiuni de decontãri cu bugetul asigurãrilor sociale de stat;
+d) operațiuni de decontãri cu fondurile speciale constituite în
+condițiile legii;
+e) operațiuni de decontãri privind mijloacele extrabugetare ale
+instituțiilor publice;
+f) operațiuni de decontãri privind alte conturi ale instituțiilor
+publice.
+Documentele privind operațiunile de decontãri cu trezoreria
+generalã a statului, astfel grupate, se totalizeazã în benzi de control al cãror total se preia în dispoziții de platã centralizatoare alcãtuite pentru fiecare categorie.
+3. Durata operațiunilor de decontãri cu trezoreria generalã a statului nu poate depãși durata maximã a unei operațiuni de decontare interbancarã de același tip, localã sau interjudețeanã, stabilitã
+prin art. 5 al Regulamentului nr. 10/1994 al Bãncii Naționale a
+României.
+4. Pânã la data de 31 decembrie 1995, pentru operațiunile de
+decontãri cu trezoreria generalã a statului, agenții economici și instituțiile publice, plãtitori de impozite, taxe și alte venituri, vor folosi,
+
+ca document de decontare, dispoziția de platã, reglementatã prin
+Normele nr. 2/1980 ale Bãncii Naționale a României.
+Pe aceste dispoziții de platã, agenții economici vor înscrie, în
+mod obligatoriu, codul fiscal și explicația privind natura și scadența
+venitului respectiv, precum și contul de venituri.
+În cazul plãților, instituțiile publice vor folosi, de asemenea, dispoziția de platã.
+Conform Legii nr. 59/1934 asupra cecului, modificatã prin Legea
+nr. 83/1994, nu vor fi acceptate la decontare de cãtre unitãțile bancare alte cecuri decât cele prevãzute în aceste legi.
+5. Societãțile bancare vor primi la decontare dispoziții de încasare cu titlu de executare silitã, în condițiile art. 40 din Legea bugetului de stat pe anul 1995 nr. 22/1995.
+6. În cazul în care ordonatorul operațiunii de decontare cu trezoreria generalã a statului solicitã unitãții bancare transmiterea acesteia prin telex, cu menționarea expresã pe document, spezele telex
+sunt suportate de respectivul ordonator.
+7. Nerespectarea de cãtre unitãțile bancare a duratelor maxime
+de decontare a operațiunilor cu trezoreria generalã a statului, constatatã de cãtre organele de control ale Bãncii Naționale a
+României, se sancționeazã cu o penalitate de 0,5% din sumele
+înscrise pe documentele respective pentru fiecare zi de întârziere,
+penalitate care se varsã la bugetul de stat.
+8. Operațiunile de decontãri cu trezoreria generalã a statului nu
+fac obiectul compensãrii multilaterale a plãților interbancare fãrã
+numerar, conform art. 22 al Regulamentului nr. 10/1994 al Bãncii
+Naționale a României.
+9. Prezenta circularã intrã în vigoare la data de 3 aprilie 1995.
+10. La data intrãrii în vigoare a prezentei circulare își înceteazã
+aplicabilitatea orice dispoziție contrarã.
+
+Guvernatorul Bãncii Naționale a României,
+Mugur Isãrescu
+București, 23 martie 1995.
+Nr. 12.
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ,,Monitorul Oficial,,, București, Calea 13 Septembrie Ñ Palatul Parlamentului, sectorul 5,
+cont nr. 30.98.12.301 B.C.R. Ñ S.M.B.
+Adresa pentru publicitate : Serviciul relații cu publicul și agenții economici, București,
+Str. Blanduziei nr. 1, sectorul 2, telefon 211.57.30.
+Tiparul : Tipografia ,,Monitorul Oficial,,, București, Str. Jiului nr. 163, sectorul 1, telefon 668.55.58.
+Monitorul Oficial al României, Partea I, nr. 75/1995 conține 56 de pagini.
+Prețul 616 lei
+40.816
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+

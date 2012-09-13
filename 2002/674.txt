@@ -1,0 +1,1966 @@
+PARTEA
+
+Anul XIV Ñ Nr. 674
+
+I
+
+Miercuri, 11 septembrie 2002
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+
+397.
+
+ACTE
+ALE
+
+ALE
+
+Ñ Ordin al ministrului industriei și resurselor privind aprobarea Prescripției tehnice PT A1Ñ2002
+”Cerințe tehnice privind utilizarea aparatelor consumatoare de combustibili gazoși,, ..............................
+
+ORGANELOR
+
+ADMINISTRAÞIEI
+
+DE
+
+1Ð32
+
+SPECIALITATE
+
+PUBLICE
+
+CENTRALE
+
+MINISTERUL INDUSTRIEI ȘI RESURSELOR
+
+ORDIN
+privind aprobarea Prescripției tehnice PT A1Ñ2002 ”Cerințe tehnice privind utilizarea aparatelor
+consumatoare de combustibili gazoși,,
+Ministrul industriei și resurselor,
+în aplicarea Hotãrârii Guvernului nr. 1.340/2001 privind organizarea și funcționarea Inspecției de Stat pentru
+Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat, publicatã în Monitorul Oficial al României,
+Partea I, nr. 37 din 21 ianuarie 2002,
+în temeiul Hotãrârii Guvernului nr. 19/2001 privind organizarea și funcționarea Ministerului Industriei și Resurselor,
+cu modificãrile și completãrile ulterioare,
+emite urmãtorul ordin:
+Art. 1. Ñ Se aprobã Prescripția tehnicã PT A1Ñ
+2002, ediția 1, ”Cerințe tehnice privind utilizarea aparatelor consumatoare de combustibili gazoși,,, cuprinsã în
+
+anexa care face parte integrantã din prezentul ordin.
+Art. 2. Ñ Prezentul ordin va fi publicat în Monitorul
+Oficial al României, Partea I.
+
+Ministrul industriei și resurselor,
+Dan Ioan Popescu
+
+București, 22 august 2002.
+Nr. 397.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+ANEXÃ
+
+PRESCRIPÞIE TEHNICÃ PT A1Ñ2002
+”Cerințe tehnice privind utilizarea aparatelor
+consumatoare de combustibili gazoși,,
+1. GENERALITÃÞI
+
+1.1. Scop
+Prescripția tehnicã PT A1Ñ2002, ediția 1, ”Cerințe tehnice
+privind utilizarea aparatelor consumatoare de combustibili
+gazoși,,, denumitã în continuare prescripție tehnicã, face parte
+din reglementãrile tehnice naționale referitoare la aparatele
+consumatoare de combustibili gazoși.
+Prezenta prescripție tehnicã stabilește cerințele tehnice
+minime obligatorii pe care trebuie sã le satisfacã aparatele
+consumatoare de combustibili gazoși pentru a putea fi autorizatã exploatarea lor la utilizatorii finali din România.
+Cerințele privind proiectarea, construirea, funcționarea, echiparea cu facilitãți opționale, siguranța în funcționare și certificarea acestor tipuri de aparate se adreseazã producãtorilor.
+Cerințele privind montarea/instalarea, punerea în funcțiune,
+exploatarea, verificarea tehnicã periodicã, repararea, service-ul,
+garanția și siguranța în exploatare a aparatelor consumatoare
+de combustibili gazoși se adreseazã prestatorilor de specialitate, autorizați de Inspecția de Stat pentru Controlul Cazanelor,
+Recipientelor sub Presiune și Instalațiilor de Ridicat, denumitã
+în continuare ISCIR, și utilizatorilor finali. Aceste cerințe au
+drept scop asigurarea protecției utilizatorilor finali.
+De asemenea, prescripția tehnicã stabilește modul de verificare a respectãrii acestor cerințe.
+Autoritatea tehnicã care asigurã punerea în aplicare și respectarea prevederilor prezentei prescripții tehnice este ISCIR,
+care, în conformitate cu prevederile Hotãrârii Guvernului
+nr. 1.340/2001, este organ de specialitate cu personalitate juridicã în subordinea Ministerului Industriei și Resurselor, având
+ca principal obiect de activitate asigurarea în numele statului a
+protecției utilizatorilor și siguranței în funcționare pentru
+instalațiile și aparatele în categoria cãrora se integreazã și
+aparatele consumatoare de combustibili gazoși.
+1.2. Domeniu de aplicare
+1.2.1. Categorii de aparate și echipamente
+1.2.1.1. Aparate consumatoare de combustibili gazoși nominalizate în Hotãrârea Guvernului nr. 761/2001 privind stabilirea
+condițiilor de introducere pe piațã pentru aparatele consumatoare
+de combustibili gazoși
+
+Prevederile prezentei prescripții tehnice se aplicã:
+a) aparatelor folosite pentru gãtit, încãlzit, producerea apei
+calde, refrigerare, iluminare sau spãlare și având, când este
+cazul, o temperaturã normalã a apei de cel mult 105¼C, de
+exemplu:
+Ñ aparate de gãtit de uz casnic;
+Ñ aparate de gãtit de uz profesional;
+Ñ încãlzitoare instantanee pentru producerea apei calde
+menajere;
+Ñ încãlzitoare de apã cu acumulare pentru producerea
+apei calde menajere;
+Ñ cazane pentru încãlzire centralã, cu arzãtoare atmosferice având puterea P < 70 kW;
+Ñ cazane pentru încãlzire centralã având puterea 70 kW <
+P ² 300 kW;
+Ñ primusuri;
+Ñ barbecue;
+Ñ convectoare independente;
+Ñ șemineuri și sobe;
+Ñ convectoare de uz casnic având puterea P < 70 kW;
+Ñ convectoare având puterea P < 300 kW;
+Ñ convectoare mobile sau portabile;
+Ñ sisteme de încãlzire cu tuburi radiante multiarzãtoare;
+Ñ tuburi radiante cu un arzãtor;
+
+Ñ generatoare de aer cald;
+Ñ generatoare de aer cald specializate;
+Ñ aparate de aer condiționat având puterea P < 70 kW;
+Ñ mașini de spãlat având puterea P < 20 kW;
+Ñ uscãtoare de uz casnic având puterea P < 6 kW;
+Ñ uscãtoare având puterea P < 20 kW;
+Ñ aparate cu gaz pentru efecte decorative;
+b) arzãtoarelor cu aer insuflat și corpurilor de încãlzire care
+urmeazã sã fie echipate cu astfel de arzãtoare, denumite în
+continuare aparate;
+c) dispozitivelor de siguranțã, de control și de reglaj și subansamblurilor, altele decât arzãtoarele cu aer insuflat și corpurile de încãlzire care urmeazã sã fie echipate cu astfel de
+arzãtoare, care sunt comercializate separat pentru uzul producãtorilor și sunt destinate sã fie încorporate într-un aparat
+sau asamblate cu scopul de a constitui un aparat, denumite în
+continuare echipamente, de exemplu:
+Ñ arzãtoare cu aer autoaspirat (a se vedea anexa I);
+Ñ regulatoare de presiune pentru p < 200 mbar;
+Ñ dispozitive de supraveghere a flãcãrii;
+Ñ dispozitive de control multifuncțional;
+Ñ robinete de închidere automatã pentru aparate și
+arzãtoare;
+Ñ termostate mecanice;
+Ñ sisteme și dispozitive automate de reglare pentru
+arzãtoare cu/fãrã ventilator;
+Ñ supape pentru aparate;
+Ñ regulatoare de presiune pentru arzãtoare;
+Ñ sisteme și dispozitive de control și siguranțã pentru
+arzãtoare.
+Prevederile prezentei prescripții tehnice nu se aplicã aparatelor definite mai sus, special destinate folosirii în procesele
+industriale care se desfãșoarã în incinte industriale.
+1.2.1.2. Aparate consumatoare de combustibili gazoși, altele
+decât cele nominalizate în Hotãrârea Guvernului nr. 761/2001
+
+Prevederile prezentei prescripții tehnice se aplicã tuturor
+aparatelor consumatoare de combustibili gazoși, care necesitã
+autorizarea funcționãrii pentru a se asigura securitatea în
+funcționare, chiar dacã nu fac obiectul Hotãrârii Guvernului
+nr. 761/2001, ca de exemplu:
+Ñ cuptoare de panificație;
+Ñ cuptoare de încãlzire și de tratament termic;
+Ñ cabine de vopsire;
+Ñ cabine pentru uscarea lemnului sau a produselor agricole și altele asemenea,
+în cazul în care acestea sunt echipate cu instalații de ardere
+cu funcționare pe combustibili gazoși.
+1.2.1.3. Prezenta prescripție tehnicã reglementeazã, pentru
+toate tipurile de aparate consumatoare de combustibili gazoși
+menționate la pct. 1.2.1, inclusiv condițiile de montare/instalare, exploatare și verificare tehnicã periodicã la utilizatorii
+finali din România, fãrã a interzice, restrânge sau împiedica
+introducerea pe piațã și/sau punerea în funcțiune a aparatelor
+care respectã cerințele esențiale prevãzute în Hotãrârea
+Guvernului nr. 761/2001.
+1.2.1.4. Prezenta prescripție tehnicã reglementeazã inclusiv
+situațiile specificate mai jos, în vederea garantãrii siguranței în
+funcționare a aparatelor și echipamentelor aflate la utilizatorii
+finali din România, și anume:
+a) existența aparatelor consumatoare de combustibili gazoși,
+aflate deja în exploatare la utilizatorii finali din România, dar
+care nu au fost evaluate și certificate în conformitate cu
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+prevederile Hotãrârii Guvernului nr. 761/2001 și care nu pot fi
+scoase din uz de la utilizatorii finali;
+b) existența posibilitãții reintroducerii pe piațã a unui aparat
+care a fost utilizat (schimbarea utilizatorului final).
+1.3. Referințe normative
+Prezenta prescripție tehnicã face referiri explicite sau implicite la acte legislative, standarde, normative, prescripții tehnice
+și alte reglementãri naționale.
+1.3.1. Legi și hotãrâri
+
+¥ Legea nr. 608/2001 privind evaluarea conformitãții produselor
+¥ Hotãrârea Guvernului nr. 761/2001 privind stabilirea
+condițiilor de introducere pe piațã pentru aparatele consumatoare de combustibili gazoși
+¥ Hotãrârea Guvernului nr. 270/2002 privind stabilirea
+cerințelor referitoare la eficiența și etichetarea energeticã pentru introducerea pe piațã a cazanelor noi de apã caldã care
+funcționeazã cu combustibil lichid sau gazos
+¥ Hotãrârea Guvernului nr. 567/2002 privind asigurarea
+securitãții utilizatorilor de echipamente electrice de joasã
+tensiune
+¥ Hotãrârea Guvernului nr. 1.340/2001 privind organizarea
+și funcționarea Inspecției de Stat pentru Controlul Cazanelor,
+Recipientelor sub Presiune și Instalațiilor de Ridicat
+¥ Hotãrârea Guvernului nr. 394/1995 privind obligațiile ce
+revin agenților economici Ñ persoane fizice sau juridice Ñ în
+comercializarea produselor de folosințã îndelungatã, destinate
+consumatorilor, republicatã, cu modificãrile ulterioare
+¥ Ordonanța Guvernului nr. 21/1992 privind protecția consumatorilor, republicatã, cu modificãrile ulterioare
+¥ Ordinul ministrului industriei și resurselor nr. 50/2002 pentru aprobarea Listei cuprinzând tipurile de gaze și presiunile
+de alimentare utilizate la aparatele consumatoare de combustibili gazoși
+¥ Ordinul ministrului industriilor nr. 462/1993 privind
+Condițiile tehnice privind protecția atmosferei și Norma metodologicã privind determinarea emisiilor de poluanți atmosferici
+produși de surse staționare
+1.3.2. Standarde și normative
+
+Standardele și normativele aplicabile, în condițiile precizate
+în nota de mai jos, sunt menționate în anexa A.
+NOTÃ: Referirile la aceste standarde nu implicã un caracter obligatoriu pentru utilizarea lor de cãtre producãtori în
+demonstrarea respectãrii cerințelor esențiale din Hotãrârea
+Guvernului nr. 761/2001. Producãtorii au la dispoziție oricând
+opțiunea utilizãrii altor cãi de demonstrare a respectãrii
+cerințelor esențiale din Hotãrârea Guvernului nr. 761/2001.
+1.4. Definiții
+1.4.1. accesibilitate pentru întreținere și utilizare Ñ însușire
+(caracteristicã) a aparatului de a permite utilizatorului final sau
+personalului de specialitate accesul la piesele componente în
+timpul utilizãrii și întreținerii, fãrã a conduce la situații care pot
+provoca prejudicii ori rãniri ale acestora;
+1.4.2. activitate de instalare Ñ ansamblu de operațiuni de
+poziționare a aparatului la locul de funcționare, de fixare a
+acestuia în/pe poziția de funcționare și de racordare a acestuia la circuitele tehnologice de apã, aer, combustibil, evacuare de gaze arse, energie auxiliarã (electricã, pneumaticã
+sau hidraulicã) și la circuitele tehnologice ale ”consumatorilor,,/rețelei de consum. Aceastã activitate se poate efectua
+numai de cãtre un agent economic autorizat de ISCIR;
+1.4.3. activitate de montare Ñ ansamblu de operațiuni de
+asamblare la locul de funcționare a aparatelor consumatoare
+de combustibili gazoși, la care prin proiect se permite livrarea
+pe subansambluri. Aceastã activitate implicã efectuarea unor
+operațiuni asimilabile celor de la producãtor (de exemplu, în
+secția de montaj final). Unele dintre operațiunile activitãții de
+montare a aparatelor pot necesita autorizare din partea ISCIR
+(sudarea, brazarea și alte procese speciale). Cuplarea
+arzãtorului la aparatul consumator de combustibili gazoși pe
+
+3
+
+care îl deservește este o activitate de montare. Aceastã activitate se poate efectua numai de un agent economic autorizat
+de ISCIR;
+1.4.4. activitate de punere în funcțiune Ñ ansamblu de
+lucrãri de specialitate care definitiveazã montarea/instalarea
+aparatului la locul de funcționare de la utilizatorul final, menite
+sã îi confirme acestuia, pe baza încercãrilor funcționale executate în condiții reale de lucru, disponibilitatea de funcționare
+a aparatului și aptitudinea acestuia de a realiza și funcționarea la parametrii de siguranțã și de performanțã declarați de
+producãtor. Aceastã activitate se poate efectua numai de cãtre
+un agent economic autorizat de ISCIR;
+1.4.5. activitate de reparare Ñ ansamblu de lucrãri și de
+operațiuni specializate pentru:
+Ñ investigarea defectelor apãrute;
+Ñ asigurarea pieselor de schimb originale;
+Ñ efectuarea depanãrilor și/sau înlocuirilor de componente
+defecte;
+Ñ încercarea funcționalã a aparatului pentru demonstrarea
+calitãții reparației efectuate, menitã sã readucã aparatul în
+stare bunã de funcționare în condiții de siguranțã.
+Limitele de competențã ale agentului economic autorizat de
+ISCIR, care ar putea efectua lucrãrile pentru repararea aparatului și a componentelor sale individuale, decurg din specificațiile producãtorului referitoare la condițiile și la restricțiile
+reparațiilor pentru fiecare tip de aparat.
+Lucrãrile specifice de reparare, fiind dedicate fiecãrui tip de
+aparat, nu se pot efectua decât de agenți economici care
+dețin manuale de service elaborate de producãtor, redactate
+sau traduse în limba românã. Manualele de service traduse în
+limba românã trebuie sã fie legalizate. Capacitatea unui agent
+economic de a efectua lucrãrile de reparare trebuie sã fie
+atestatã printr-o autorizație emisã de ISCIR;
+1.4.6. aparat folosit în mod normal Ñ un aparat:
+Ñ corect instalat și întreținut regulamentar, în conformitate
+cu instrucțiunile producãtorului;
+_ folosit la o variație normalã a calitãții gazelor și cu o
+fluctuație normalã a presiunii de alimentare;
+Ñ folosit în conformitate cu destinația sa sau într-un alt
+mod care poate fi prevãzut;
+1.4.7. autorizarea funcționãrii Ñ ansamblu de activitãți de
+verificare și validare a rezultatelor mãsurãtorilor și încercãrilor
+funcționale executate la punerea în funcțiune inițialã a aparatelor sau cu ocazia verificãrilor tehnice periodice ale acestora,
+în scopul confirmãrii îndeplinirii condițiilor de funcționare în
+siguranțã a aparatelor instalate la utilizatorul final. Se executã
+numai de ISCIR sau, dupã caz, de personalul de specialitate
+autorizat și împuternicit de ISCIR în acest sens, nominalizat
+în autorizația pentru efectuarea lucrãrilor de verificare tehnicã
+periodicã a aparatelor, acordatã de ISCIR unui agent economic;
+1.4.8. autorizația de montare/instalare Ñ document emis de
+ISCIR prin care se atestã exclusiv capabilitatea tehnicã a unui
+agent economic de a efectua activitatea de montare definitã
+la pct. 1.4.3 și/sau de instalare definitã la pct. 1.4.2 și de a
+garanta utilizatorului final rezultatele acestora. Prin acest document i se dã utilizatorului final încrederea în prestatorul de
+specialitate. Acest document emis de ISCIR nu conferã instalatorului dreptul de a efectua punerea în funcțiune și service-ul
+aparatului;
+1.4.9. autorizația de punere în funcțiune Ñ document emis
+de ISCIR prin care se atestã capacitatea unui agent economic
+de a efectua punerea în funcțiune și reglarea unui aparat, de
+a demonstra realizarea parametrilor declarați de producãtor și
+de a instrui utilizatorul final pentru exploatarea de duratã a
+aparatului în condiții de siguranțã. Prin acest document se
+confirmã cã agentul economic dispune de personal tehnic de
+specialitate, de aparaturã de mãsurare și control adecvatã, de
+proceduri de lucru specifice și cã poate garanta siguranța
+aparatului pus în funcțiune;
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+
+1.4.10. autorizație de service Ñ document emis de ISCIR
+care atestã, pentru agenții economici definiți la pct. 1.4.32,
+capabilitatea tehnicã de specialitate de a efectua lucrãrile definite la pct. 1.4.29;
+1.4.11. autorizație de verificãri tehnice periodice Ñ document
+prin care ISCIR atestã capabilitatea de specialitate a unui
+agent economic de a efectua verificãrile prevãzute la
+pct. 1.4.34 și, dupã caz, pentru anumite puteri ale aparatelor,
+îi conferã prestatorului de specialitate prerogativele de a aviza
+rezultatele acestor verificãri. Avizarea rezultatelor semnificã
+autorizarea de funcționare în continuare a aparatului și se realizeazã practic prin avizarea raportului de verificare tehnicã
+periodicã de cãtre personalul tehnic nominalizat în autorizația
+eliberatã de ISCIR pentru respectivul agent economic. Pentru
+domeniul în limitele cãruia agentul economic are dreptul de a
+acorda autorizația de funcționare în continuare acesta poate
+acorda și autorizația inițialã de funcționare;
+1.4.12. combustibil gazos Ñ orice combustibil care este în
+stare gazoasã la o temperaturã de 15¼C, la o presiune de 1 bar;
+1.4.13. distribuitor autorizat (recunoscut) de producãtor Ñ
+agent economic care asigurã în principal furnizarea aparatelor
+împreunã cu serviciile asociate postvânzãrii cãtre utilizatorul
+final, în conformitate cu legislația din România. Distribuitorul
+autorizat asigurã legãtura dintre producãtor și utilizatorul final,
+este recunoscut de producãtor și este înregistrat la ISCIRÑSP.
+Distribuitorul autorizat poate fi și vânzãtor în relația directã cu
+utilizatorul final sau poate nominaliza alți vânzãtori pentru care
+asigurã îndeplinirea obligațiilor ce decurg din calitatea sa de
+distribuitor autorizat al producãtorului. Pentru aparatele importate distribuitorul autorizat este și importator direct;
+1.4.14. echiparea aparatelor (cu facilitãți opționale) Ñ
+situația în care la un aparat este prevãzutã posibilitatea
+atașãrii unor dispozitive/accesorii ce îmbunãtãțesc comoditatea
+exploatãrii și nivelul de control automat al funcționãrii acestuia
+(de exemplu: programatoare zilnice sau sãptãmânale, dispozitive de comandã a pornirii de la distanțã prin comandã telefonicã, termostate de ambianțã etc.). Dispozitivele/accesoriile
+sunt opționale, iar lipsa sau cuplarea acestora nu trebuie sã
+influențeze siguranța în funcționare a aparatului. Echipãrile
+opționale se monteazã numai de cãtre prestatori de specialitate autorizați de ISCIR pentru executarea lucrãrilor din categoriile definite la pct. 1.4.4, 1.4.5 sau 1.4.29. Aceste facilitãți
+opționale se pot monta oricând, cu condiția sã fie cele recomandate de producãtor;
+1.4.15. evaluarea conformitãții Ñ activitatea al cãrei obiect
+este determinarea în mod direct sau indirect a faptului cã sunt
+îndeplinite condițiile specificate;
+1.4.16. incintã industrialã Ñ spațiu închis din cadrul unei
+unitãți productive în care se desfãșoarã procesele definite la
+pct. 1.4.24;
+1.4.17. instalator Ñ agent economic autorizat de ISCIR,
+care executã instalarea aparatului la locul de funcționare de
+la utilizatorul final, precum și racordarea aparatului la
+instalațiile conexe (de alimentare cu combustibil, cu aer de
+ardere, cu apã, cu energie electricã și de evacuare a gazelor
+arse). Dacã deține și autorizație de punere în funcțiune, instalatorul poate efectua și punerea în funcțiune și reglarea aparatului;
+1.4.18. introducere pe piațã Ñ acțiunea de a face disponibil
+un aparat, contra cost sau gratuit, în vederea distribuirii și/sau
+utilizãrii lui;
+1.4.19. livretul aparatului Ñ document de identificare a unui
+aparat aflat în exploatare la utilizatorul final și de evidențã a
+tuturor evenimentelor, intervențiilor, reparațiilor și verificãrilor
+tehnice periodice la care a fost supus de-a lungul perioadei
+de utilizare, începând de la prima punere în funcțiune și terminând cu scoaterea definitivã din uz. Documentul se completeazã de prestatorii de specialitate autorizați de ISCIR pentru
+executarea lucrãrilor ale cãror rezultate se înscriu în livret, se
+pãstreazã permanent de cãtre utilizatorul final împreunã cu
+
+documentația tehnicã a aparatului și se transferã o datã cu
+aparatul în cazul schimbãrii proprietarului (aceastã schimbare
+constituie un eveniment care se înscrie în livret);
+1.4.20. oprirea imediatã în condiții de siguranțã Ñ manevrã
+obligatorie ce trebuie efectuatã de cãtre utilizatorul final atunci
+când constatã o schimbare evidentã în funcționarea aparatului
+sau o anomalie în funcționarea acestuia comparativ cu
+instrucțiunile de utilizare pe care le are la dispoziție sau când
+manifestãrile aparatului în funcționare depãșesc puterea lui de
+înțelegere privind funcționarea acestuia în mod normal.
+Oprirea într-o astfel de situație este necesarã și obligatorie
+pentru a evita pericolele ce ar decurge din menținerea în
+funcționare a aparatului și presupune urmãtoarele:
+Ñ întreruperea alimentãrii cu combustibil gazos;
+Ñ întreruperea alimentãrii cu energie electricã;
+Ñ izolarea aparatului fațã de circuitul de alimentare cu apã;
+Ñ izolarea aparatului fațã de circuitul de aer de ardere;
+Ñ ventilarea puternicã a incintei în care este instalat aparatul;
+Ñ chemarea de urgențã a unui agent economic autorizat
+pentru service/reparații sau intervenții.
+Repunerea în funcțiune nu este permisã decât dupã remedierea defectului de cãtre un agent economic autorizat de
+ISCIR;
+1.4.21. organism de certificare (ISCIRÑCERT) Ñ organism
+desemnat și recunoscut de Ministerul Industriei și Resurselor,
+în calitate de autoritate publicã în domeniu, pentru evaluarea
+și certificarea conformitãții aparatelor înaintea introducerii lor
+pe piațã;
+1.4.22. organism de control (ISCIRÑSP) Ñ organism
+desemnat și recunoscut de Ministerul Industriei și Resurselor
+pentru verificarea respectãrii prevederilor Hotãrârii Guvernului
+nr. 761/2001;
+1.4.23. prestator de specialitate Ñ persoanã juridicã autorizatã de ISCIR pentru prestarea de servicii/activitãți (lucrãri)
+specializate. Se deosebesc diferite categorii de activitãți specializate: montare/instalare, punere în funcțiune, reparații, service, încercãri funcționale pentru demonstrarea realizãrii
+parametrilor de performanțã și siguranțã declarați, verificãri
+tehnice periodice și verificãri tehnice și investigații pentru evaluarea gradului de siguranțã în funcționare a aparatelor vechi.
+Un agent economic (prestator de specialitate) poate fi autorizat de ISCIR pentru una sau mai multe categorii de
+activitãți/servicii specializate;
+1.4.24. proces industrial Ñ succesiune de operațiuni tehnologice de fabricație a unor produse care necesitã utilizarea
+directã fie a energiei termice furnizate de un aparat consumator de combustibili gazoși integrat în proces, fie a aparatului
+însuși în realizarea produsului finit. Aparatul pornește numai o
+datã cu linia tehnologicã și este dedicat exclusiv utilizãrii în
+cadrul acesteia;
+1.4.25. producãtor Ñ agent economic care își asumã
+întreaga responsabilitate asupra concepției, fabricației și calitãții
+unui aparat consumator de combustibili gazoși, în vederea
+introducerii pe piațã a acestuia în numele sãu.
+Responsabilitatea asupra concepției include stabilirea soluțiilor
+tehnice și a condițiilor tehnice de aprovizionare/recepție a
+materialelor, dimensionarea funcționalã și de rezistențã, alegerea materialelor, stabilirea condițiilor tehnice de fabricație, de
+montaj, de punere în funcțiune și de încercãri;
+1.4.26. program de verificare a funcțiilor de protecție și reglare
+automatã a aparatului Ñ ansamblu de încercãri specificat într-o
+procedurã proprie a executantului și avizatã de ISCIR, care se
+executã la punerea în funcțiune a aparatului și/sau cu ocazia
+verificãrii tehnice periodice a aparatului în scopul evaluãrii aptitudinii de funcționare în continuare a acestuia în condiții de
+siguranțã. Se verificã funcționarea corectã și eficiența dispozitivelor de protecție și de reglare din sistemul de automatizare
+al aparatului. Aceastã activitate se poate efectua numai de
+cãtre un agent economic autorizat de ISCIR;
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+1.4.27. raport de verificare tehnicã periodicã Ñ document
+emis de un agent economic autorizat de ISCIR pentru prestarea activitãților definite la pct. 1.4.34, în care se înscriu rezultatele verificãrilor tehnice periodice sau ale verificãrilor tehnice
+la prima punere în funcțiune, prin care se atestã conformitatea
+aparatului cu prevederile prezentei prescripții tehnice și care,
+avizat de ISCIR sau, dupã caz, de un agent economic autorizat de ISCIR în acest sens, constituie autorizația de
+funcționare a aparatului (a se vedea modelele din anexele B
+și C). O copie de pe raport se atașeazã la livretul aparatului;
+1.4.28. revizie Ñ ansamblu de operațiuni de control al
+stãrii unui aparat menite sã corecteze eventualele abateri de
+la starea de funcționare normalã și sã preîntâmpine apariția
+unor defecte majore. Activitatea se executã numai de prestatori de specialitate autorizați de ISCIR;
+1.4.29. service Ñ ansamblu de activitãți precizate în mod
+expres de producãtor și specifice fiecãrui tip de aparat, menite
+a face sã dureze starea bunã de funcționare a aparatului în
+condiții de siguranțã. De asemenea, prin service se înțelege
+ansamblul lucrãrilor de întreținere, specifice unui anumit tip de
+aparat, efectuate de un agent economic autorizat în acest
+sens, și rezultatele acestor lucrãri (a se face distincție fațã de
+lucrãrile de întreținere specificate de producãtor în
+instrucțiunile de utilizare destinate utilizatorului final). Lucrãrile
+specifice de service, fiind dedicate fiecãrui tip de aparat, nu
+se pot efectua decât de cãtre agenți economici care dețin
+manuale de service elaborate de producãtor, redactate sau
+traduse în limba românã. Manualele de service traduse în
+limba românã trebuie sã fie legalizate. Capacitatea unui agent
+economic de a efectua lucrãrile de service trebuie sã fie atestatã printr-o autorizație emisã de ISCIR;
+1.4.30. țãri de destinație directã Ñ țãri pentru care aparatul
+a fost certificat și care sunt indicate de producãtor ca țãri de
+destinație. În momentul introducerii pe piațã și/sau instalãrii
+aparatul trebuie sã fie capabil sã funcționeze fãrã reglare
+suplimentarã sau modificãri cu unul dintre tipurile de gaze de
+distribuție din țara respectivã, la o presiune de distribuție
+corespunzãtoare;
+1.4.31. țãri de destinație indirectã Ñ țãri pentru care aparatul a fost certificat, dar pentru care acesta nu este adaptat în
+starea inițialã de reglare. Trebuie efectuate modificãri și reglãri
+suplimentare pentru ca aparatul sã poatã fi utilizat corect și în
+deplinã siguranțã în aceste țãri;
+1.4.32. unitate de service Ñ agent economic care presteazã
+activitãțile definite la pct. 1.4.29 dupã vânzarea aparatului la
+utilizatorul final. Agentul economic trebuie sã fie autorizat de
+ISCIR;
+1.4.33. utilizator final Ñ persoanã fizicã sau juridicã
+deținãtoare a unui aparat consumator de combustibili gazoși,
+pe care îl exploateazã în folos propriu, și care are obligația
+de a utiliza aparatul numai dacã acesta a fost supus
+verificãrilor tehnice periodice și dacã a obținut autorizația de
+funcționare în urma acestora. În perioada dintre douã verificãri
+tehnice periodice utilizatorul final, în cazul în care constatã o
+funcționare necorespunzãtoare a aparatului, este obligat sã îl
+opreascã imediat din funcțiune și sã apeleze la un prestator
+de specialitate autorizat pentru service/reparare; termen echivalent: beneficiar;
+1.4.34. verificare tehnicã periodicã Ñ serviciu/activitate solicitat/solicitatã de un utilizator final unui prestator de specialitate autorizat de ISCIR, la intervale predeterminate sau ori de
+câte ori utilizatorul final considerã necesar, pentru a se asigura cã aparatul pe care îl deține și îl utilizeazã satisface
+cerințele de funcționare în siguranțã. Activitatea cuprinde un
+ansamblu de operațiuni și încercãri menite sã constate starea
+de bunã funcționare în condiții de siguranțã a aparatului și
+aptitudinea acestuia de a-și îndeplini rolul funcțional conform
+specificațiilor producãtorului. Dupã caz, verificarea tehnicã
+periodicã poate oferi și soluțiile tehnice calificate pentru
+restabilirea stãrii de funcționare în condiții de siguranțã.
+
+5
+
+Activitatea se efectueazã de cãtre prestatori de specialitate
+autorizați în acest sens, iar validarea rezultatelor ei se face
+de ISCIR sau, dupã caz, chiar de prestatorul de specialitate
+care a executat-o, dacã acesta este autorizat de ISCIR.
+1.5. Abrevieri
+ANRGN Ñ Autoritatea Naționalã de Reglementare în
+Domeniul Gazelor Naturale
+PIF Ñ Punere în funcțiune
+PT Ñ Prescripție tehnicã
+SP Ñ Supravegherea pieței
+ISCIRÑSP Ñ ISCIR Supraveghere Piațã
+ISCIRÑCERT Ñ ISCIR Certificare
+2. CERINÞE ESENÞIALE
+
+2.1. Cerințele esențiale sunt condiții minime obligatorii, specificate în anexa nr. 1 la Hotãrârea Guvernului nr. 761/2001,
+referitoare la proiectarea, fabricarea, materialele utilizate,
+funcționarea și documentația de însoțire (instrucțiunile de instalare și utilizare) a aparatelor.
+2.2. Respectarea cerințelor esențiale trebuie demonstratã și
+confirmatã prin certificarea tipului de aparat. Respectarea
+acestor cerințe esențiale garanteazã cã în cazul folosirii aparatelor în mod normal ele nu prezintã nici un pericol pentru
+persoane, mediu sau proprietate.
+2.3. Când sunt introduse pe piațã toate aparatele trebuie
+sã fie însoțite de instrucțiuni în limba românã pentru:
+a) prestatorii de specialitate definiți la pct. 1.4.23 și, dupã
+caz, 1.4.17, care efectueazã lucrãri de natura celor definite la
+pct. 1.4.2, 1.4.3, 1.4.4 și, dupã caz, 1.4.29;
+b) utilizatorul final definit la pct. 1.4.33.
+N O T Ã:
+
+Instrucțiunile pentru utilizare curentã trebuie sã conținã
+toate condițiile necesare pentru utilizarea în siguranțã, pentru
+regimul de întreținere și service recomandate de producãtor și,
+în special, trebuie sã atragã atenția utilizatorului final asupra
+eventualelor restricții de utilizare. Aceste instrucțiuni trebuie sã fie
+în concordanțã cu prevederile legislației în vigoare în România.
+2.4. Când sunt introduse pe piațã toate aparatele trebuie
+sã aibã etichete de avertisment corespunzãtoare, redactate și
+în limba românã, care trebuie sã existe și pe ambalaj.
+2.5. Pot fi introduse pe piațã numai aparate care corespund
+condițiilor particulare specifice în România, conform situațiilor
+naționale din standardele române care au adoptat standardele
+europene armonizate.
+3. DOCUMENTAÞIE TEHNICÃ DE IDENTIFICARE A APARATULUI
+
+3.1. Generalitãți
+Pentru a se putea executa în serie aparate consumatoare
+de combustibili gazoși sau echipamente destinate a fi integrate
+în aparate este necesar sã se întocmeascã în prealabil o
+documentație tehnicã din care sã rezulte cã au fost proiectate:
+a) fie conform prevederilor tuturor standardelor ce conferã
+prezumția de conformitate cu cerințele esențiale cuprinse în
+Hotãrârea Guvernului nr. 761/2001;
+b) fie conform specificațiilor tehnice proprii elaborate de
+producãtor, care dovedesc respectarea cerințelor esențiale
+cuprinse în Hotãrârea Guvernului nr. 761/2001.
+Aceastã documentație tehnicã trebuie sã permitã evaluarea
+conformitãții aparatelor cu cerințele esențiale cuprinse în
+Hotãrârea Guvernului nr. 761/2001.
+3.2. Cerințe referitoare la conținutul documentației elaborate de producãtor
+3.2.1. Nici una dintre cerințele de mai jos nu contravine în
+nici un mod prevederilor capitolului I, secțiunea a 4-a ”Deținerea documentației,, și/sau ale anexei nr. 3 ”Dosarul tehnic de
+fabricație,, din Hotãrârea Guvernului nr. 761/2001, oferind în
+schimb utilizatorilor prezentei prescripții tehnice un ghid explicativ al acestor prevederi.
+Documentația tehnicã trebuie sã conținã informații privind:
+Ñ proiectarea aparatului;
+Ñ fabricarea aparatului;
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+
+Ñ funcționarea aparatului;
+Ñ întreținerea, exploatarea și verificarea tehnicã periodicã
+a aparatului.
+Aceastã condiție se poate realiza de cãtre producãtor prin
+asigurarea urmãtoarelor:
+Ñ desenul de ansamblu al aparatului (a se vedea
+pct. 3.2.1.1);
+Ñ descrierea funcționalã a aparatului (a se vedea
+pct. 3.2.1.2);
+Ñ instrucțiunile de montare/instalare, întreținere și reparare
+(a se vedea pct. 3.2.1.3);
+Ñ instrucțiunile de utilizare (a se vedea pct. 3.2.1.4);
+Ñ identificarea echipamentelor încorporate în aparat și
+anexarea certificatelor de conformitate ale acestora (a se
+vedea pct. 3.2.1.5).
+3.2.1.1. Desenul de ansamblu al aparatului
+
+3.2.1.1.1. Desenul de ansamblu, care poate fi format din
+una sau mai multe planșe, va cuprinde suficiente schițe,
+vederi și secțiuni pentru descrierea și identificarea completã a
+aparatului.
+De asemenea, desenul de ansamblu al aparatului trebuie
+sã conținã toate datele tehnice de identificare completã a
+caracteristicilor constructive, condițiilor tehnice, caracteristicilor
+funcționale și parametrilor garantați, așa cum sunt menționate
+în continuare.
+3.2.1.1.1.1. Caracteristici constructive:
+Ñ categoria aparatului;
+Ñ denumirea aparatului;
+Ñ denumirea comercialã și simbolul modelului;
+Ñ placa de timbru (modul de etichetare a aparatelor destinate utilizatorilor finali din România);
+Ñ dimensiunile de gabarit;
+Ñ debitul caloric nominal;
+Ñ descrierea dispozitivelor de siguranțã/sistemelor de protecție automatã;
+Ñ descrierea modului de reglare;
+Ñ temperaturile maxime admisibile;
+Ñ volumul interior al incintelor de ardere;
+Ñ suprafața totalã de schimb de cãldurã;
+Ñ dimensiunile racordurilor de intrare/ieșire;
+Ñ metodele de protejare a suprafețelor de schimb în contact cu medii de lucru care le-ar putea afecta sau pe care
+suprafețele le-ar putea contamina;
+Ñ valorile de reglare, de protecție și de semnalizare, dupã
+caz;
+Ñ cotele de poziționare a elementelor aparatului, care pot
+influența funcționarea;
+Ñ soluțiile de fixare, dupã caz, a arzãtorului (arzãtoarelor),
+a elementelor interioare, care sã asigure demontarea și
+remontarea lor fãrã dificultate, corectã și sigurã;
+Ñ organele de reglare;
+Ñ datele despre injectoare și presiunea gazului la arzãtor;
+Ñ tipurile de gaz pentru care a fost proiectat aparatul;
+Ñ sistemul de evacuare a gazelor de ardere;
+Ñ dispozitivul de aprindere;
+Ñ schema de principiu care cuprinde și expliciteazã componentele fiecãrui circuit tehnologic, precum și legãturile și
+intercondiționãrile funcționale dintre acestea:
+¥ aer de ardere;
+¥ combustibil;
+¥ gaze de ardere;
+Ñ sistemele de etanșare a aparatului;
+Ñ sistemele de fixare a robinetelor la conducta distribuitoare de gaz;
+Ñ modul de marcare a pozițiilor de funcționare a robinetelor de gaz;
+Ñ sistemele de racordare la sursa de alimentare cu gaz;
+Ñ greutatea aparatului;
+Ñ schema (diagrama) de funcționare a dispozitivelor de
+siguranțã și reglaj;
+Ñ etichetarea aparatului.
+
+3.2.1.1.1.2. Condiții tehnice:
+Ñ titlul standardelor, normativelor/specificațiilor tehnice
+dupã care se executã aparatul;
+Ñ mãrcile materialelor de bazã, simbolurile materialelor de
+adaos, clasa de calitate;
+Ñ detaliile îmbinãrilor prin sudurã sau alte procese speciale (forme și dimensiuni);
+Ñ tipuri de controale prevãzute de proiectant pentru aparatele executate în serie.
+3.2.1.1.1.3. Caracteristici funcționale:
+Ñ debitul nominal de gaz;
+Ñ presiunea normalã de alimentare a gazului combustibil;
+Ñ încãrcarea termicã parțialã și totalã;
+Ñ temperatura maximã admisã pe suprafețele aparatului și
+ale elementelor de manevrã și reglare;
+Ñ neetanșeitatea admisã;
+Ñ condiții de stabilitate a flãcãrii;
+Ñ condiții de rezistențã la topire a arzãtoarelor;
+Ñ aptitudinea de schimbare a gazului de alimentare.
+3.2.1.1.1.4. Parametri garantați:
+Ñ randamentul;
+Ñ conținutul maxim de CO (α = 1) în gazele de ardere;
+Ñ încãrcarea termicã pentru menținerea stãrii de regim;
+Ñ temperatura maximã a gazelor de ardere evacuate;
+Ñ sarcina minimã de funcționare a aparatului în condiții de
+siguranțã;
+Ñ timpul de intrare în regim a aparatului;
+Ñ timpul de siguranțã la stingere;
+Ñ timpul de siguranțã la aprindere.
+3.2.1.2. Descrierea funcționalã a aparatului
+
+3.2.1.2.1. Documentația tehnicã de identificare a aparatului
+trebuie sã conținã descrieri și note explicative necesare pentru
+înțelegerea funcționãrii acestuia, inclusiv a elementelor componente înglobate în aparat, dacã de aceasta depinde înțelegerea funcționãrii aparatului.
+Nivelul de detaliere a acestor descrieri și notele explicative
+trebuie sã asigure înțelegerea completã și corectã cel puțin a
+urmãtoarelor:
+Ñ destinația și domeniul de utilizare normalã a aparatului;
+Ñ principiul de funcționare;
+Ñ soluția constructivã adoptatã;
+Ñ parametrii de intrare;
+Ñ parametrii de ieșire;
+Ñ tipul și timpul de rãspuns la perturbații;
+Ñ facilitãțile de care dispune;
+Ñ rolul și modul de funcționare a elementelor din dotare;
+Ñ limitele de rãspuns la variații extreme ale parametrilor
+de intrare;
+Ñ funcționarea sistemului de automatizare;
+Ñ accesibilitatea și controlabilitatea aparatului pentru determinarea disponibilitãții de funcționare/intervenție corectã a sistemului de protecție automatã și pentru constatarea gradului
+de îndeplinire a funcțiilor proiectate ale sistemului de automatizare;
+Ñ gradul de reparabilitate al aparatului și al diverselor elemente componente;
+Ñ durata estimatã de serviciu a aparatului în condiții de
+utilizare normalã;
+Ñ conservarea pe perioade scurte de scoatere din serviciu
+și pe perioade mai lungi.
+N O T Ã:
+
+”Descrierea funcționalã a aparatului,, este o componentã a
+documentației tehnice de identificare a aparatului, care trebuie
+sã îndeplineascã concomitent urmãtoarele condiții:
+a) sã constituie în cadrul dosarului tehnic de fabricație
+documentul care face posibilã înțelegerea corectã a modului
+de funcționare și exploatare a aparatului;
+b) sã constituie suport în cadrul cursurilor de formare/specializare a instalatorilor;
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+c) sã constituie material informativ în cadrul instrucțiunilor
+pentru utilizare destinate utilizatorului final.
+3.2.1.2.2. În cazul în care ”Descrierea funcționalã a aparatului,, este întocmitã exclusiv în varianta destinatã utilizatorului
+final este necesar ca aceasta sã fie suficient de clarã și detaliatã pentru a putea fi înțeleasã corect și complet de un utilizator final cãruia nu i se pot pretinde nici un fel de cunoștințe
+de specialitate preliminare în domeniu.
+3.2.1.3. Instrucțiuni de montare/instalare, întreținere și reparare
+
+Aceste instrucțiuni sunt destinate prestatorilor de specialitate definiți la pct. 1.4.17 și 1.4.23 și trebuie organizate dupã
+natura lucrãrilor care trebuie sã fie realizate la locul de utilizare a aparatului.
+Dacã pentru a face operațional un aparat la utilizatorul
+final sunt necesare lucrãri de montare, așa cum sunt definite
+la pct. 1.4.3, aceste lucrãri vor fi prezentate explicit în ordinea efectuãrii lor, inclusiv operațiunile de verificare a conformitãții efectuãrii lor.
+O deosebitã atenție trebuie acordatã elaborãrii instrucțiunilor de montare pentru cazurile în care se livreazã utilizatorului
+final corpuri de încãlzire (ce satisfac condițiile de introducere
+pe piața din România, conform prevederilor Hotãrârii
+Guvernului nr. 761/2001) la care se vor monta arzãtoare cu
+aer insuflat.
+Referitor la asamblarea la locul de funcționare producãtorul
+trebuie:
+a) sã precizeze aparatele care se pot asambla la locul de
+funcționare;
+b) sã punã la dispoziție procedura de asamblare în limba
+românã;
+c) sã punã la dispoziție metodele de verificare care sã
+confirme corectitudinea operațiunii de asamblare.
+Pentru lucrãrile de instalare a aparatului la locul de
+funcționare de la utilizatorul final (lucrãrile definite la
+pct. 1.4.2) și pentru lucrãrile de întreținere/service și reparare,
+adresate exclusiv prestatorilor de specialitate autorizați de
+ISCIR, instrucțiunile redactate în limba românã trebuie sã
+conținã toate informațiile tehnice și îndrumãrile necesare pentru a se asigura cã aceste lucrãri/operațiuni sunt efectuate
+corect și cã aparatul, dupã ce a fost instalat, poate fi utilizat
+în siguranțã.
+Având în vedere cã instrucțiunile de întreținere (care nu
+necesitã o calificare/specializare în domeniu) pot fi adresate și
+utilizatorului final, trebuie fãcutã o distincție clarã între tipurile
+de lucrãri de întreținere adresate celor douã categorii fie prin
+precizarea adresantului la fiecare operațiune, fie prin precizarea lucrãrilor de întreținere care pot fi executate și de utilizatorul final (lucrãri de întreținere curentã).
+În ceea ce privește reparațiile, aceste tipuri de lucrãri trebuie sã fie executate numai de prestatori de specialitate autorizați de ISCIR, iar limitele de competențã trebuie sã fie
+stabilite precis de producãtor.
+De exemplu:
+Ñ ce elemente se pot repara și cum;
+Ñ ce elemente trebuie sã fie înlocuite integral și cum.
+Împuternicirea de reparare, în limitele competențelor stabilite, se acordã prestatorilor de specialitate formați/specializați
+în acest domeniu și atestați de producãtor în ceea ce privește
+capabilitatea tehnicã a acestora.
+Instrucțiunile destinate a fi folosite de prestatorii de specialitate autorizați de ISCIR trebuie sã specifice, în special:
+Ñ tipul de gaz;
+Ñ presiunea de alimentare;
+Ñ debitul de aer proaspãt necesar atât pentru necesitãțile
+de aer de combustie, cât și pentru necesitãțile prevenirii și
+evitãrii formãrii de amestecuri periculoase de gaze nearse la
+aparatele care nu au un dispozitiv special pentru eliminarea
+situațiilor de acumulare periculoasã de gaze în spațiile închise
+unde sunt instalate;
+Ñ condițiile pentru evacuarea gazelor arse;
+
+7
+
+Ñ criteriile de alegere a locului/amplasamentului de instalare;
+Ñ modul de cuplare a aparatului la circuitele tehnologice
+de alimentare cu combustibil, cu aer de ardere, cu apã, cu
+energie electricã, de evacuare a gazelor de ardere, de consum al energiei termice furnizate de aparat;
+Ñ modul de punere în funcțiune;
+Ñ modalitãțile de încercare funcționalã în vederea
+demonstrãrii realizãrii parametrilor de siguranțã declarați pentru
+autorizarea funcționãrii și predarea aparatului pentru exploatarea de duratã/curentã de cãtre utilizatorul final;
+Ñ modul de verificare tehnicã periodicã și necesitatea
+efectuãrii acesteia pentru garantarea funcționãrii conforme în
+continuare;
+Ñ modul de efectuare a operațiunilor de service și definirea acestora;
+Ñ modalitãțile specifice de depistare a cauzelor defectelor;
+Ñ modul recomandat de demontare-remontare a dispozitivelor/componentelor înglobate în aparat, în cadrul activitãților
+de întreținere, în cazul în care este necesarã înlocuirea componentelor;
+Ñ modurile de reparare, cu precizarea limitelor de competențã;
+Ñ formularele tipizate recomandate de producãtor pentru
+înregistrarea lucrãrilor, efectuate eventual în perioada de
+garanție, și pentru luarea în evidențã a aparatului de cãtre
+prestatorii de specialitate, dupã caz.
+Prestatorii de specialitate trebuie sã elaboreze, pe baza
+informațiilor de mai sus și cu respectarea prevederilor legislației aplicabile în România, procedurile și instrucțiunile proprii
+de lucru, care vor fi prezentate la ISCIR pentru avizare o datã
+cu dosarul depus în vederea autorizãrii.
+3.2.1.4. Instrucțiuni de utilizare
+
+Instrucțiunile de utilizare sunt destinate utilizatorului final și
+de aceea ele trebuie sã fie redactate în limba românã, trebuie
+sã fie lizibile, clare, explicite, utile, ușor de reținut și sã nu
+presupunã pentru înțelegerea și însușirea de cãtre utilizatorul
+final cunoștințe prealabile de specialitate.
+Chiar în aceste condiții este recomandabil ca instrucțiunile
+de utilizare sã conținã suficiente ilustrații sugestive, diagrame
+explicative și simboluri grafice de avertisment, care sã descrie
+operațiunile/manevrele pe care eventual trebuie sã le facã utilizatorul pe perioada exploatãrii aparatului, precum și restricțiile
+de intervenție asupra aparatului, deoarece acestea se rețin și
+se asimileazã mai ușor decât textele scrise referitoare la aceleași subiecte.
+Informațiile esențiale din instrucțiunile de utilizare trebuie sã
+fie dublate cu informații inscripționate pe aparat, pe butoanele/manetele ce trebuie sã fie acționate și cu etichete de
+avertisment, în așa fel încât sã se reducã riscul unei
+manevrãri incorecte în lipsa manualului cuprinzând instrucțiuni
+de utilizare. Dependența utilizãrii conforme a aparatului de
+existența la fața locului, de consultarea permanentã și/sau de
+învãțarea/memorarea textului instrucțiunilor de utilizare trebuie
+limitatã la maximum.
+Instrucțiunile de utilizare trebuie sã ofere utilizatorului suficiente informații și explicațiile referitoare la toate situațiile previzibile în exploatarea curentã, astfel încât sã nu îl punã pe
+acesta în fața unor situații de funcționare neprevãzute, care
+prin consecința efectelor neașteptate pot provoca reacții
+necontrolate și manevre periculoase executate în urma unor
+decizii luate în necunoștințã de cauzã, sub impulsul panicii.
+Instrucțiunile de utilizare nu trebuie sã prevadã operațiuni
+de service sau de întreținere curentã în sarcina utilizatorului
+final, care sã presupunã cunoașterea caracteristicilor constructive ale aparatului la nivelul specialiștilor în domeniu sau detalii despre rolul și funcționarea anumitor elemente componente
+ale aparatului.
+Instrucțiunile de utilizare vor avea o paginã care identificã
+amãnunțit unitãțile de service și asistențã tehnicã autorizate,
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+
+care pot acorda utilizatorului final toate tipurile de servicii asociate garantãrii utilizãrii aparatului în condiții de siguranțã și
+rezolvãrii problemelor de deranjament funcțional al aparatului.
+Instrucțiunile de utilizare destinate beneficiarului trebuie sã
+conținã:
+Ñ informații descriptive privind destinația și funcționalitatea
+aparatului;
+Ñ informații privind posibilitãțile de funcționare;
+Ñ toate informațiile necesare pentru utilizarea aparatului în
+siguranțã;
+Ñ avertismente care sã atragã atenția asupra eventualelor
+restricții de utilizare;
+Ñ avertismente, dublate cu etichete de avertisment pe
+aparat și pe ambalajul acestuia, care trebuie sã indice clar
+tipul de gaz utilizat, presiunea gazului de alimentare și orice
+restricții de utilizare;
+Ñ informații referitoare la necesitatea instalãrii aparatului
+numai în zonele în care existã suficientã ventilare;
+Ñ informații și procedurã explicitã privind aprinderea;
+Ñ informații explicite privind reglarea aparatului pentru
+funcționare în regim ”automat,,;
+Ñ informații privind modul de reglare ”manualã,, a sarcinii
+aparatului;
+Ñ informații privind modul de oprire a aparatului în condiții
+de siguranțã;
+Ñ informații privind conservarea aparatului și, eventual, a
+instalației tehnologice în care acesta este integrat;
+Ñ instrucțiuni privind întreținerea curentã;
+Ñ informații privind depistarea cauzelor defectelor.
+3.2.1.5. Identificarea echipamentelor încorporate în aparat și
+anexarea certificatelor de conformitate ale acestora
+
+Producãtorii de aparate consumatoare de combustibili
+gazoși pot opta între urmãtoarele variante:
+Ñ producerea proprie a dispozitivelor de siguranțã și
+reglare care se înglobeazã în aparat;
+Ñ înglobarea în aparat a echipamentelor produse de terți.
+În ambele situații sunt admise a fi înglobate în aparat doar
+echipamentele care respectã cerințele esențiale aplicabile
+cuprinse în Hotãrârea Guvernului nr. 761/2001 și care sunt
+certificate în acest sens.
+Aceste echipamente trebuie sã fie identificate individual în
+documentație prin fișe tehnice, prospecte, diagrame
+funcționale, desene tehnice etc., la care se vor atașa documentele de dovedire a certificãrii (certificat de conformitate).
+Documentul de certificare trebuie sã însoțeascã echipamentul.
+De asemenea, certificatul în care se declarã conformitatea
+echipamentului cu prevederile Hotãrârii Guvernului nr. 761/2001
+trebuie sã indice caracteristicile echipamentului și modul în
+care acesta trebuie sã fie încorporat în aparat pentru ca aparatul finit sã corespundã cerințelor esențiale aplicabile.
+Exemple de echipamente încorporate în aparat, care necesitã copie de pe certificatul precizat mai sus, se regãsesc la
+pct. 1.2.1.1 lit. c).
+4. EVALUAREA CONFORMITÃÞII
+
+4.1. Generalitãți
+Evaluarea conformitãții aparatelor se face de cãtre organisme de certificare desemnate.
+Pentru evaluarea conformitãții aparatelor se poate utiliza o
+singurã procedurã sau o combinație de proceduri, la libera
+alegere a producãtorului, astfel încât sã fie cel mai potrivit
+pentru producția sa proprie.
+Evaluarea conformitãții aparatelor consumatoare de combustibili gazoși se va efectua înainte de introducerea pe piațã
+a aparatelor.
+Procedurile utilizate la evaluarea conformitãții aparatelor
+consumatoare de combustibili gazoși sunt precizate în detaliu
+în capitolul II din Hotãrârea Guvernului nr. 761/2001.
+4.2. Evaluarea conformitãții aparatelor consumatoare de
+combustibili gazoși, altele decât cele nominalizate în
+
+Hotãrârea Guvernului nr. 761/2001, cu cerințele minime privind autorizarea funcționãrii acestora în România
+Pentru aparatele consumatoare de combustibili gazoși din
+domeniul de aplicare a prezentei prescripții tehnice, dar care
+nu sunt nominalizate explicit în Hotãrârea Guvernului
+nr. 761/2001 sau care sunt exceptate de la prevederile acesteia, autorizarea de funcționare se poate obține numai dacã
+este asiguratã conformitatea cu prevederile prezentei prescripții
+tehnice privind:
+a) documentația tehnicã de identificare a aparatului (conform cap. 3);
+b) adaptarea aparatului la condițiile specifice din România
+privind gazele disponibile;
+c) instrucțiunile de instalare și utilizare;
+d) garantarea existenței serviciilor specializate de garanție,
+conform legislației în vigoare din România;
+e) existența rapoartelor de încercãri de tip, realizate în
+condițiile de funcționare din România, pentru demonstrarea
+îndeplinirii parametrilor de siguranțã și performanțã în
+funcționare.
+Evaluarea conformitãții cu aceste cerințe se face de cãtre
+un organism de certificare a produselor desemnat.
+5. CONDIÞII DE INTRODUCERE PE PIAÞÃ A APARATELOR ȘI
+DISTRIBUIREA ACESTORA LA UTILIZATORII FINALI
+
+5.1. În conformitate cu prevederile Hotãrârii Guvernului
+nr. 761/2001, aparatele consumatoare de combustibili gazoși
+se pot introduce pe piațã și se pot pune în funcțiune numai
+dacã:
+Ñ poartã marcajul național de conformitate CS, aplicat de
+producãtor sau de reprezentantul autorizat al acestuia, și sunt
+însoțite de declarația de conformitate CS, redactatã în limba
+românã;
+Ñ poartã marcajul european de conformitate CE, aplicat
+de un producãtor dintr-un stat membru al Uniunii Europene, și
+sunt însoțite de declarația de conformitate CE, tradusã în
+limba românã.
+Marcajul de conformitate, național sau european, aplicat pe
+un aparat semnificã faptul cã acesta respectã cerințele
+esențiale aplicabile din Hotãrârea Guvernului nr. 761/2001.
+5.2. Pentru producãtorii de aparate consumatoare de combustibili gazoși, care nu au sediul social pe teritoriul României,
+distribuirea se face prin intermediul distribuitorilor autorizați
+(recunoscuți), asigurându-se condiția menționatã la pct. 5.4.
+5.3. Pentru producãtorii de aparate consumatoare de combustibili gazoși din România distribuirea aparatelor consumatoare de combustibili gazoși se face prin rețeaua proprie sau
+prin distribuitori autorizați (recunoscuți), asigurându-se condiția
+menționatã la pct. 5.4.
+5.4. Distribuitorul autorizat (recunoscut) de producãtor poate
+realiza prin personal propriu punerea în funcțiune, service-ul și
+garanția (dacã este autorizat de ISCIR pentru aceste activitãți)
+sau, în cazul în care nu este autorizat pentru aceste lucrãri,
+prin grija sa va asigura aceste activitãți prin alți agenți economici autorizați de ISCIR.
+Aceste condiții au drept scop asigurarea protecției utilizatorului final și sunt în responsabilitatea distribuitorului autorizat
+(recunoscut), conform legislației în vigoare (Hotãrârea
+Guvernului nr. 394/1995, republicatã, cu modificãrile ulterioare,
+și Ordonanța Guvernului nr. 21/1992, republicatã, cu modificãrile ulterioare).
+5.5. Distribuitorul autorizat (recunoscut) de producãtor este
+obligat sã asigure asistențã tehnicã și suport tehnic utilizatorului final în perioada de garanție, în condițiile stabilite la
+pct. 5.4.
+5.6. Producãtorii au responsabilitatea, conform prevederilor
+prezentei prescripții tehnice, sã asigure condițiile tehnice de
+pregãtire/formare și specializare a instalatorilor pentru tipurile
+de aparate pe care le introduc pe piața din România.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+5.7. Producãtorii au obligația sã asigure instrucțiuni complete de instalare și utilizare în limba românã, conform legislației aplicabile în România, servicii de garanție și piese de
+schimb pentru aparatele introduse pe piațã.
+6. CONDIÞII PENTRU AUTORIZAREA FUNCÞIONÃRII APARATELOR
+
+6.1. Prevederile tehnice din prezenta prescripție tehnicã
+urmãresc:
+Ñ sã asigure protecția persoanelor, mediului și proprietãții,
+interzicând existența în funcționare la utilizatorii finali a unor
+aparate necorespunzãtoare;
+Ñ sã asigure introducerea disciplinei în exploatare la utilizatorii finali.
+În acest scop prezenta prescripție tehnicã, elaboratã în
+baza legislației în vigoare privind funcționarea în condiții de
+siguranțã a aparatelor consumatoare de combustibili gazoși și
+a dispozitivelor de siguranțã aferente acestora, stabilește
+urmãtoarele:
+Ñ autorizarea de funcționare a aparatelor se va face la
+prima punere în funcțiune și periodic cel puțin o datã la 2 ani;
+Ñ furnizarea combustibilului gazos se va face numai la
+aparatele care îndeplinesc condițiile de funcționare în siguranțã
+și care au verificarea tehnicã periodicã efectuatã, conform prevederilor prezentei prescripții tehnice;
+Ñ furnizorul de combustibil gazos va sista livrarea combustibilului la utilizatorul final care nu face dovada îndeplinirii
+condițiilor cuprinse în prezenta prescripție tehnicã privind
+funcționarea în condiții de siguranțã a aparatului pe care îl
+deține;
+Ñ utilizatorul final are obligația sã supunã aparatele unor
+verificãri tehnice periodice cel puțin o datã la 2 ani din
+momentul încetãrii garanției asigurate de vânzãtor;
+Ñ aparatele instalate și puse în funcțiune la utilizatorii
+finali din România vor fi înregistrate, luate în evidențã și
+supuse verificãrilor tehnice inițiale (la prima punere în
+funcțiune) și verificãrilor tehnice periodice de cãtre ISCIR
+direct sau prin intermediul prestatorilor de specialitate autorizați
+de ISCIR și împuterniciți în acest scop;
+Ñ prestatorii de specialitate autorizați de ISCIR pentru
+punere în funcțiune, service, reparare și pentru efectuarea
+verificãrilor tehnice periodice trebuie sã facã dovada
+cunoștințelor tehnice și de specialitate.
+6.2. Activitãțile de montare/instalare, punere în funcțiune și
+service se vor efectua numai de agenți economici autorizați
+de ISCIR, conform prevederilor prezentei prescripții tehnice.
+6.3. Verificãrile tehnice periodice se efectueazã de agenți
+economici autorizați de ISCIR.
+6.4. Prestatorii de specialitate care urmeazã sã desfãșoare
+activitãți de punere în funcțiune, service, reparare, revizii, precum și verificãri tehnice periodice trebuie sã urmeze și sã promoveze cursuri de specializare în domeniu.
+6.5. Autorizarea prestatorilor de specialitate
+6.5.1. Condiții minime obligatorii pe care trebuie sã le îndeplineascã agenții economici în vederea autorizãrii pentru
+montarea/instalarea, punerea în funcțiune, service-ul și garanția
+aparatelor, precum și pentru efectuarea verificãrilor tehnice periodice
+
+6.5.1.1. Orice agent economic/prestator de specialitate,
+înregistrat în registrul comerțului și având în statut ca obiect
+de activitate (specificat prin codul CAEN corespunzãtor) una
+sau mai multe activitãți asociate montãrii/instalãrii, punerii în
+funcțiune, service-ului și verificãrii tehnice periodice a aparatelor consumatoare de combustibili gazoși, poate solicita autorizarea din partea ISCIR dacã:
+a) este specializat în domeniul respectiv și poate prezenta
+dovezile de capabilitate tehnicã în acest sens;
+b) își desfãșoarã activitãțile pentru care solicitã autorizarea
+din partea ISCIR în regim de asigurare a calitãții și garantare
+a siguranței în funcționare pentru aparatele consumatoare de
+combustibili gazoși;
+
+9
+
+c) cunoaște și respectã în derularea activitãților desfãșurate
+prevederile prescripțiilor tehnice Ñ Colecția ISCIR aplicabile;
+d) deține prescripțiile tehnice aplicabile în domeniul pentru
+care solicitã autorizarea;
+e) cunoaște cerințele esențiale cuprinse în Hotãrârea
+Guvernului nr. 761/2001 și deține standardele specifice aplicabile domeniului pentru care solicitã autorizarea din partea
+ISCIR;
+f) deține documentațiile tehnice specifice în limba românã
+(documentațiile tehnice de identificare a aparatelor și manualele de service redactate sau traduse în limba românã) pentru
+toate tipurile de aparate la care executã lucrãrile pentru care
+solicitã autorizarea;
+g) dispune de:
+Ñ mijloacele tehnico-materiale proprii adecvate;
+Ñ personal propriu calificat și specializat în domeniu pentru execuție;
+Ñ personal tehnic propriu cu pregãtire tehnicã superioarã,
+învestit cu responsabilitãțile de supraveghere tehnicã și de avizare a conformitãții lucrãrilor efectuate, care poate fi propus
+pentru nominalizare în autorizația solicitatã;
+h) deține proceduri proprii referitoare la lucrãrile pe care le
+executã în regim de asigurare a calitãții și a siguranței în
+funcționare;
+i) deține, dupã caz, atestat de specializare de la
+producãtor;
+j) înainteazã la ISCIR un dosar de solicitare a autorizãrii.
+Dosarul de autorizare va fi întocmit conform cerințelor
+prevãzute la pct. 6.5.2.
+6.5.2. Cerințe privind conținutul și întocmirea dosarului în vederea autorizãrii prestatorilor de specialitate
+
+Dosarul trebuie sã conținã urmãtoarele:
+a) opisul documentelor;
+b) cerere explicitã privind domeniul pentru care solicitã
+autorizarea.
+Domeniile pentru care se poate solicita autorizarea și pentru care ISCIR emite autorizații sunt:
+(i) montare/instalare;
+(ii) punere în funcțiune;
+(iii) service și reparare;
+(iv) verificãri tehnice periodice și autorizarea funcționãrii
+aparatelor;
+c) precizarea tipurilor de aparate la care se vor executa
+lucrãrile pentru care se solicitã autorizarea din partea ISCIR:
+Ñ precizarea tipurilor de aparate;
+Ñ precizarea parametrilor maximali de funcționare ai
+fiecãrui tip de aparat și/sau a caracteristicilor tehnice de identificare a tipurilor de aparate;
+d) memoriu tehnic justificativ care va conține:
+Ñ elementele de identificare (denumirea corectã și completã a agentului economic, adresa, telefonul etc.);
+Ñ profilul agentului economic;
+Ñ organigrama de funcționare;
+Ñ sistemul de asigurare a calitãții implementat;
+Ñ dotãri tehnico-materiale;
+Ñ certificãri/autorizații deținute de agentul economic de la
+alte organisme;
+Ñ alte date relevante, dacã este cazul;
+e) actele legale ale agentului economic:
+Ñ copie de pe statutul agentului economic (trebuie sã evidențieze codurile CAEN asociate tipurilor de activitãți pentru
+care se solicitã autorizarea din partea ISCIR);
+Ñ copie de pe certificatul de înregistrare la Camera de
+Comerț și Industrie a României și a Municipiului București;
+f) lista cuprinzând personalul propriu de specialitate
+Având în vedere natura lucrãrilor care se executã (montare/instalare, punere în funcțiune, reglaje, service/reparații,
+verificãri tehnice periodice la aparate consumatoare de combustibili gazoși), lucrãri care implicã intervenții la circuite sub
+tensiune electricã, conducte sub presiune conținând apã caldã
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+
+pânã la 105¼C, conducte și dispozitive sub presiune conținând
+gaze combustibile, tubulaturi de gaze arse conținând gaze
+potențial nocive, orice execuție necesitã o echipã de minimum
+2 persoane.
+Având în vedere nivelul de responsabilitate sub care se
+desfãșoarã aceste lucrãri și necesitatea identificãrii personalului care rãspunde de calitatea și garanția lucrãrilor, agenții
+economici trebuie sã aibã:
+Ñ personal de execuție;
+Ñ personal de supraveghere tehnicã și avizare a conformitãții lucrãrilor executate.
+Agenții economici autorizați pentru verificãri tehnice periodice, care vor fi autorizați de ISCIR sã avizeze și rapoartele
+acestor verificãri, ceea ce semnificã autorizarea de funcționare
+a aparatelor, trebuie sã dispunã de personal tehnic cu studii
+superioare de lungã duratã, calificat și specializat corespunzãtor
+prin cursuri organizate de ISCIR.
+În acest sens se va prezenta o listã cuprinzând personalul
+propriu al agentului economic și precizarea tipului de activitate
+pe care o presteazã (execuție, supraveghere tehnicã și/sau
+avizare a conformitãții lucrãrilor).
+La aceastã listã trebuie sã se anexeze documente din care
+sã rezulte:
+Ñ pregãtirea profesionalã;
+Ñ calificãrile și specializãrile personalului;
+Ñ atestãri acordate de producãtori;
+Ñ experiența în domeniu (curriculum vitae).
+ISCIR poate solicita și verificarea documentelor din care sã
+reiasã cã personalul tehnic de specialitate propus de agentul
+economic pentru autorizare este angajat al acestuia și are
+experiențã în domeniu.
+N O T Ã:
+
+Agenții economici care solicitã autorizarea pentru verificãri
+tehnice periodice și avizarea rapoartelor trebuie sã aibã cel
+puțin un angajat cu studii tehnice superioare de lungã duratã,
+care urmeazã sã fie verificat în vederea autorizãrii pentru
+supravegherea tehnicã, avizarea conformitãții lucrãrilor executate și semnarea documentelor specifice autorizãrii de
+funcționare a aparatelor;
+g) dovezi de existențã a dotãrilor tehnico-materiale necesare în vederea autorizãrii de cãtre ISCIR a agenților economici
+Agenții economici trebuie sã prezinte dovezi de existențã a
+mijloacelor de execuție, a dotãrilor și facilitãților auxiliare, a
+aparaturii de mãsurare și control adecvate și a documentațiilor
+tehnice necesare.
+Pentru garantarea executãrii lucrãrilor în regim de asigurare
+a calitãții și de îndeplinire a prevederilor prescripțiilor tehnice Ñ
+Colecția ISCIR privind siguranța în funcționare a aparatelor la
+care se executã aceste lucrãri, agentul economic trebuie sã
+deținã:
+1. mijloace de execuție (utilaje, scule, echipamente, unelte
+etc.)
+Se va prezenta lista cuprinzând mijloacele de execuție
+pentru tipul de activitate/lucrare/operațiune la care sunt folosite.
+Se vor atașa pentru mijloacele de execuție importante (cele
+indispensabile executãrii tipului de lucrãri pentru care se solicitã autorizarea) documentele doveditoare de proprietate a mijloacelor de execuție, fișa tehnicã de identificare și, dupã caz,
+documentele care dovedesc verificarea acestora (buletine de
+verificare metrologicã, verificarea stãrii tehnice dupã revizii etc.);
+2. dotãri și facilitãți auxiliare (de exemplu: standuri de
+încercãri, autoutilitare, echipament de biroticã pentru procesare/stocare de date privind execuția lucrãrilor, mijloace de
+înregistrare/evidențã/arhivare a lucrãrilor, depozitarea pieselor
+de schimb și a materialelor, centru de instruire și perfecționare
+a personalului de execuție etc.).
+Se vor prezenta dotãrile materiale care sunt considerate de
+cãtre solicitant ca fiind relevante pentru demonstrarea capabi-
+
+litãții sale tehnice de a executa lucrãrile pentru care solicitã
+autorizarea din partea ISCIR la un nivel de profesionalism
+corespunzãtor, în regim de asigurare a calitãții și cu responsabilitãți asumate privind garantarea lucrãrilor;
+3. aparaturã de mãsurare și control
+Agenții economici care executã lucrãri de specialitate la
+aparate și echipamente, în sensul prevederilor prezentei prescripții tehnice, trebuie sã dispunã de aparatele de mãsurare
+și control specifice fiecãrui tip de operațiune executatã.
+Aparatele de mãsurare și control utilizate pentru verificarea
+conformitãții lucrãrilor executate trebuie sã fie permanent în
+stare bunã de funcționare, sã fie pãstrate corespunzãtor și sã
+asigure acuratețea și precizia mãsurãtorilor efectuate.
+Îndeplinirea acestor cerințe trebuie demonstratã în dosar
+prin documente și proceduri specifice pentru marcarea, pãstrarea și verificarea periodicã a aparaturii/instrumentelor de
+mãsurare și control.
+Aparatura de control deținutã de solicitant trebuie sã fie
+adecvatã cel puțin pentru:
+Ñ controlul etanșeitãții;
+Ñ controlul dimensional;
+Ñ controlul vizual;
+Ñ reglarea și punerea în funcțiune a sistemelor de ardere;
+Ñ mãsurarea presiunilor;
+Ñ mãsurarea temperaturilor;
+Ñ controlul/mãsurarea parametrilor circuitelor electrice.
+În funcție de complexitatea lucrãrilor efectuate mai pot fi
+necesare dotãri cu aparaturã și instrumentație specificã:
+¥ pentru verificarea îmbinãrilor sudate;
+¥ pentru controlul regimului chimic al apei.
+Nu poate exista operațiune executatã, din ansamblul
+lucrãrilor pentru care se solicitã autorizarea, fãrã sã existe în
+dotarea agentului economic cel puțin un aparat de mãsurare
+și control specific.
+Se va atașa pentru fiecare aparat de mãsurare și control
+documentul doveditor de proprietate a acestuia, fișa tehnicã
+de identificare a aparatului și, în mod obligatoriu, documentele
+care dovedesc efectuarea verificãrilor metrologice la termen
+(buletine de verificare metrologicã).
+Nu se admite soluția de verificare de conformitate a unei
+operațiuni, esențialã din punct de vedere al siguranței și al eficienței pentru echipamentul la care se executã, care prevede
+pentru partea de verificare a conformitãții execuției ei exclusiv
+”control vizual,,;
+4. documentații tehnice aplicabile
+Se va prezenta lista cuprinzând documentațiile tehnice
+deținute;
+h) proceduri de executare a lucrãrilor pentru care se solicitã autorizarea din partea ISCIR
+Procedurile de executare a lucrãrilor asigurã repetabilitatea,
+controlabilitatea, trasabilitatea, calitatea fiecãrei lucrãri și garantarea siguranței în funcționare a aparatelor la care se executã
+aceste lucrãri.
+Pentru a putea fi autorizați de ISCIR agenții economici trebuie sã dispunã de un sistem de asigurare a calitãții implementat, care sã asigure îndeplinirea cerințelor cuprinse în
+prescripțiile tehnice Ñ Colecția ISCIR privind siguranța în
+funcționare.
+Toate activitãțile agentului economic trebuie sã se
+desfãșoare conform procedurilor acestui sistem. Nu este obligatoriu ca sistemul de asigurare a calitãții sã fie certificat de
+o terțã parte.
+În acest sens solicitantul va prezenta în dosarul de autorizare cel puțin urmãtoarele proceduri operaționale și formulare,
+în funcție de domeniul de autorizare solicitat [a se vedea
+lit. b)]:
+¥ proceduri și documente asociate de contractare/deschidere a lucrãrilor;
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+¥ proceduri și documente asociate de recepție a materiilor
+prime și materialelor, subansamblurilor, echipamentelor etc. și
+de recepție a instalației tehnologice la care se executã
+lucrãrile de specialitate, la începutul lucrãrilor și pe parcursul
+desfãșurãrii lor;
+¥ proceduri și documente asociate de acceptare/însușire a
+prevederilor proiectelor tehnice de execuție;
+¥ proceduri specifice de derulare a tuturor fazelor de
+execuție efectivã a lucrãrilor: montare/instalare, punere în
+funcțiune, probe la rece, probe la cald, intervenții, service,
+revizii, optimizãri etc.;
+¥ proceduri de control și verificare pe parcursul execuției,
+inclusiv documentele asociate;
+¥ proceduri de verificare la rece, specifice subsistemelor
+tehnologice individuale (apã, gaze de ardere, aer de ardere,
+alimentare cu energie electricã etc.) care deservesc aparatul;
+¥ proceduri de verificare la cald/probe funcționale în condiții
+reale de utilizare a aparatelor asupra cãrora s-au efectuat
+lucrãrile pentru demonstrarea realizãrii parametrilor
+declarați/proiectați;
+¥ proceduri și documente asociate pentru service și lucrãri
+specifice de garanție și postgaranție, desfãșurate la locul de
+funcționare a aparatului;
+¥ proceduri pentru intervenții și asigurarea pieselor de
+schimb;
+¥ înregistrãri (proceduri privind circulația documentelor, registre
+de urmãrire a derulãrii unei lucrãri și de înregistrare/arhivare a
+lucrãrilor executate);
+¥ formulare tipizate utilizate de agentul economic pentru
+lucrãrile executate (rapoarte de probe, rapoarte de investigații
+preoperatorii, de instruire a personalului propriu și a utilizatorului final, procese-verbale de predare-primire, de punere în
+funcțiune, de efectuare a intervențiilor, certificate de calitate și
+de garanție etc.);
+¥ proceduri de asigurare a înregistrãrii verificãrii metrologice
+și trasabilitãții aparatelor de mãsurare și control;
+¥ procedurã de înregistrare a reclamațiilor, inclusiv tratarea
+reclamațiilor/neconformitãților;
+¥ alte proceduri relevante de execuție a lucrãrilor în regim
+de asigurare a calitãții și de îndeplinire a prevederilor
+prescripțiilor tehnice Ñ Colecția ISCIR aplicabile, privind asigurarea siguranței în funcționare a aparatelor la care se executã lucrãrile (pãstrarea aparatelor de mãsurare și control,
+asigurarea verificãrilor metrologice periodice la timp, protecția
+muncii, instruirea periodicã și continuã a personalului propriu
+și, dupã caz, a utilizatorului final al aparatelor etc.).
+Dosarul poate cuprinde orice alte dovezi de capabilitate
+tehnicã pe care solicitantul le considerã relevante în sprijinul
+cererii sale de autorizare;
+i) documente din care sã rezulte execuția și verificarea
+lucrãrilor de montare/instalare, punere în funcțiune, service și
+reparare, precum și formulare impuse pentru autorizarea de
+funcționare a aparatelor
+Rezultatele verificãrii aparatelor consumatoare de combustibili gazoși vor fi consemnate de persoanele care le-au efectuat, astfel:
+Ñ pentru verificãrile efectuate pe parcursul montãrii/
+instalãrii, pe parcursul probelor funcționale la rece și la cald,
+precum și pentru verificãrile efectuate la terminarea instalãrii
+și a probelor de punere în funcțiune sau la finalizarea
+operațiunilor de intervenție/service, se vor întocmi documente
+de verificare semnate de responsabilul autorizat cu supravegherea tehnicã și cu avizarea conformitãții lucrãrilor al agentului economic;
+Ñ pentru verificãrile tehnice efectuate dupã terminarea
+punerii în funcțiune și pentru verificãrile tehnice periodice se
+vor întocmi rapoarte de verificare, conform modelelor prezentate în anexele B și C;
+
+11
+
+Ñ rapoartele de verificare menționate mai sus, atestând
+demonstrarea realizãrii parametrilor de performanțã și siguranțã în funcționare, vor fi semnate în mod obligatoriu și de
+utilizatorul final care preia aparatul pus în funcțiune pentru
+exploatarea de duratã, pentru confirmarea însușirii de cãtre
+acesta a obligațiilor ce îi revin privind utilizarea numai în
+modurile specificate în instrucțiunile destinate lui și supunerea
+aparatului verificãrilor tehnice periodice în continuare.
+6.5.3. Eliberarea autorizației pentru agentul economic
+
+Dupã analizarea dosarului, în cazul în care se constatã
+îndeplinirea tuturor condițiilor, agentul economic va susține un
+examen cu ISCIRÐINSPECT, examen care se va desfãșura în
+douã etape:
+Ñ probã de evaluare a cunoștințelor teoretice ale personalului tehnic propus pentru autorizare, prin lucrãri scrise și interviuri;
+Ñ probã practicã.
+În cazul promovãrii examenului ISCIRÐINSPECT va elibera
+acestuia o autorizație în care se va preciza domeniul de activitate, iar termenul de valabilitate a autorizației va fi de 2 ani.
+ISCIRÐINSPECT va elibera pentru fiecare domeniu precizat la
+pct. 6.5.2 lit. b) câte o autorizație.
+Modelul de autorizație este prezentat în anexa H.
+6.6. Verificãri tehnice în vederea autorizãrii de funcționare
+a aparatelor
+6.6.1. Aparatele consumatoare de combustibili gazoși pot fi
+date în exploatare de duratã la utilizatorul final numai dupã
+finalizarea montãrii/instalãrii, punerii în funcțiune și verificãrilor
+tehnice efectuate de un agent economic autorizat de ISCIR și
+dupã avizarea rapoartelor de verificare de cãtre ISCIR sau,
+dupã caz, de cãtre un agent economic autorizat de ISCIR în
+acest sens. Avizarea rapoartelor de verificare semnificã autorizarea
+de funcționare a aparatului.
+Aparatele care sunt supuse prevederilor prezentei prescripții
+tehnice prezintã pericol sporit în exploatare și ca urmare
+necesitã montarea/instalarea, punerea în funcțiune, service,
+luarea în evidențã și supravegherea prin efectuarea verificãrilor
+tehnice periodice de cãtre un agent economic autorizat de
+ISCIR.
+Verificãrile tehnice și întocmirea rapoartelor de verificare în
+vederea autorizãrii de funcționare se efectueazã numai de
+cãtre prestatori de specialitate autorizați în acest sens (prestatori de specialitate autorizați pentru verificãri tehnice periodice).
+Aparatele, dupã pericolul pe care îl prezintã efectele dinamice care ar putea sã aparã în caz de explozie și în funcție
+de puterea termicã, primesc autorizația de funcționare (prin
+avizarea rapoartelor de verificãri la prima punere în funcțiune
+și ulterior prin avizarea rapoartelor de verificãri tehnice periodice pentru autorizarea de funcționare în continuare) dupã
+cum urmeazã:
+a) pentru aparatele cu o putere termicã mai micã de
+70 kW avizarea rapoartelor de verificare la punerea în
+funcțiune și ulterior la verificãrile tehnice periodice se va
+efectua de cãtre agenți economici autorizați de ISCIR în acest
+sens.
+ISCIRÐINSPECT își rezervã dreptul de a aviza prin sondaj
+rapoartele de verificare menționate mai sus;
+b) pentru aparatele cu o putere termicã egalã sau mai
+mare de 70 kW avizarea rapoartelor de verificare se va face
+de ISCIRÐINSPECT. În cazul avizãrii fãcute de ISCIRÐINSPECT
+avizarea rapoartelor de verificare se va face, dupã cum
+decide ISCIRÐINSPECT, cu sau fãrã participarea sa la verificãri, încercãri și probe.
+N O T Ã:
+
+Avizarea rapoartelor de verificare precizate la lit. a) și b)
+reprezintã autorizarea de funcționare a aparatelor respective
+(care au fost supuse verificãrilor);
+c) în cazul în care se monteazã în aceeași incintã mai
+multe aparate cu puteri mai mici de 70 kW, dar a cãror
+putere însumatã depãșește 70 kW, autorizarea inițialã de
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+
+funcționare și autorizarea periodicã se vor efectua de
+ISCIRÐINSPECT prin avizarea rapoartelor de verificare.
+Avizarea rapoartelor de verificare se va face cu sau fãrã participarea ISCIRÐINSPECT la verificãri, încercãri și probe.
+6.6.2. Verificãri tehnice și lucrãri care se efectueazã la prima
+punere în funcțiune și autorizarea inițialã de funcționare
+
+6.6.2.0. În cazul utilizãrii unui aparat consumator de combustibili gazoși care se va racorda la rețeaua de gaze naturale, la punerea în funcțiune a acestuia este obligatorie
+prezența reprezentantului operatorului de distribuție a gazelor
+naturale licențiat și a reprezentantului agentului economic autorizat de ANRGN în lucrãri de execuție pentru instalații de utilizare a gazelor naturale.
+6.6.2.1. Pentru efectuarea lucrãrilor de punere în funcțiune
+și a verificãrilor aferente autorizãrii inițiale de funcționare utilizatorul final are obligația de a pune la dispoziție agentului
+economic care urmeazã sã efectueze punerea în funcțiune și
+verificãrile tehnice urmãtoarele documente:
+a) documentația tehnicã însoțitoare a aparatului și toate
+documentele referitoare la proveniența acestuia
+Documentele referitoare la proveniența aparatului înseamnã:
+1. pentru aparatele provenite din import și achiziționate de
+utilizatorul final de la un distribuitor autorizat (recunoscut) de
+un producãtor din strãinãtate sau de la un vânzãtor recunoscut de acesta:
+Ñ copia de pe avizul tehnic/dovada de acceptare în vederea importului (eliberate de ISCIR);
+Ñ factura de cumpãrare;
+Ñ certificatul de calitate și de garanție (completat de ultimul vânzãtor în relație directã cu utilizatorul final).
+Nota 1: Distribuitorul autorizat/vânzãtorul are obligația sã
+punã la dispoziție utilizatorului final o datã cu aparatul o
+copie de pe avizul tehnic/dovada de acceptare în vederea
+importului în baza cãruia/cãreia a introdus în România aparatul respectiv. Pe copia sus-menționatã, confirmatã prin
+semnãturã și ștampilã în original, se înscriu datele de identificare a aparatului (seria și anul de fabricație).
+Nota 2: În cazul în care aparatul este achiziționat de utilizatorul final de la un vânzãtor care se aflã la capãtul unui lanț
+de distribuție, copia de pe avizul tehnic/dovada de acceptare
+în vederea importului va fi confirmatã prin semnãturã și ștampilã în original atât de importatorul inițial care a efectuat
+importul, cât și de vânzãtorul final care va înscrie seria și anul
+de fabricație ale aparatului pe copia de pe avizul
+tehnic/dovada de acceptare.
+Nota 3: Modelul avizului tehnic în vederea importului este
+prezentat în anexa F iar modelul dovezii de acceptare în
+vederea importului este prezentat în anexa G;
+2. pentru aparatele provenite din strãinãtate, importate de
+utilizatorul final în nume propriu:
+Ñ copia de pe avizul tehnic/dovada de acceptare în vederea importului (eliberate de ISCIR);
+Ñ factura de import;
+Ñ certificatul de calitate și de garanție.
+Nota 1: Avizul tehnic/dovada de acceptare în vederea
+importului trebuie sã fie personalizat/personalizatã, eliberat/eliberatã în numele utilizatorului final și sã nu cuprindã la rubrica
+”Observații,, restricții de utilizare nesoluționate. În cazul în care
+avizul tehnic/dovada de acceptare are astfel de restricții, se
+vor prezenta și actele care dovedesc rezolvarea acestora.
+Nota 2: Nu se admite începerea lucrãrilor de punere în
+funcțiune la aparatele care au fos importate cu condiționãri și
+care sunt nerezolvate la data punerii în funcțiune;
+b) proiectul instalației în care urmeazã sã fie încorporat
+aparatul;
+c) documentele care dovedesc legalitatea instalãrii și utilizãrii aparatului;
+
+d) procesele-verbale de recepție a lucrãrilor adiacente
+(racordãri la rețeaua de combustibil gazos, racordãri la
+rețeaua de energie electricã, racordãri la rețeaua de apã etc.).
+6.6.2.2. Prestatorul de specialitate va efectua urmãtoarele
+operațiuni:
+a) verificã integritatea aparatului care urmeazã sã fie pus
+în funcțiune și compatibilitatea acestuia cu tipul de gaz utilizat;
+b) verificã instalarea corectã a aparatului și faptul cã nu
+contravine instrucțiunilor producãtorului privind instalarea;
+c) verificã racordarea corectã a aparatului la rețeaua de
+combustibil gazos, rețeaua electricã, rețeaua de apã, evacuarea gazelor arse etc.;
+d) verificã presiunile de combustibil gazos și de apã existente în circuitele de intrare ale aparatului;
+e) verificã racordarea corectã a aparatului la rețeaua electricã și parametrii acesteia;
+f) verificã sistemul de evacuare a gazelor de ardere disponibil;
+g) verificã prizele de aer neobturabile.
+6.6.2.3. În conformitate cu instrucțiunile producãtorului și cu
+propriile proceduri de lucru prestatorul de specialitate poate
+efectua punerea în funcțiune a aparatului doar dacã în urma
+verificãrilor efectuate prevãzute la pct. 6.6.2.1 și 6.6.2.2 nu
+se constatã abateri de la legislația în vigoare, de la caracteristicile aparatului și de la recomandãrile producãtorului.
+Punerea în funcțiune se va face de cãtre prestatorul de
+specialitate, conform instrucțiunilor aplicabile specifice fiecãrui
+tip de aparat, ținând seama de parcurgerea urmãtoarelor
+etape:
+a) alimentarea aparatului cu combustibil gazos, apã și
+energie electricã;
+b) verificarea etanșeitãții circuitelor de combustibil gazos și
+de apã;
+c) verificarea funcționãrii sistemelor de reglare și de protecție;
+d) reglarea parametrilor de intrare în aparat;
+e) pornirea aparatului, efectuarea reglajelor necesare pentru
+o funcționare optimã a aparatului în condițiile reale existente
+la utilizatorul final;
+f) reverificarea funcțiilor de reglare și protecție la cald (în
+funcționarea normalã a aparatului);
+g) verificarea la cald a evacuãrii gazelor de ardere, a tirajului și a etanșeitãții circuitului de evacuare a gazelor de
+ardere;
+h) aducerea aparatului în funcționare la parametrii nominali
+și efectuarea verificãrii arderii;
+i) mãsurarea parametrilor de funcționare și înregistrarea
+acestora în buletine, fișe de mãsurãtori etc. (în conformitate
+cu propriile proceduri) și, în mod obligatoriu, într-un raport de
+verificare, conform modelelor prezentate în anexele B și C;
+j) instruirea utilizatorului final cãruia i se va explica modul
+de exploatare și întreținere curentã a aparatului, subliniindu-se
+urmãtoarele obligații și restricții:
+Ñ utilizatorul final are obligația sã opreascã imediat din
+funcțiune aparatul la care constatã o anomalie/defecțiune și sã
+se adreseze unui prestator de specialitate autorizat de ISCIR
+pentru remedierea defectelor;
+Ñ este interzisã repunerea în funcțiune a aparatului pânã
+la remedierea defectelor, care trebuie sã fie efectuatã numai
+de agenți economici autorizați de ISCIR;
+Ñ este strict interzisã încredințarea aparatelor de cãtre utilizatorii finali unor persoane sau agenți economici neautorizați
+de ISCIR pentru a se efectua intervenții și reparații la acestea;
+k) editarea și completarea livretului aparatului, conform
+modelului prezentat în anexa D, și predarea acestuia utilizatorului final;
+l) contrasemnarea raportului de verificare de cãtre utilizatorul final, care semnificã faptul cã acesta și-a asumat obligațiile
+privind utilizarea în continuare a aparatului numai în condițiile
+în care îl va supune verificãrilor tehnice periodice.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+6.6.2.4. Autorizarea inițialã de funcționare
+
+Dupã parcurgerea etapelor prevãzute la pct. 6.6.2.3 cu
+bune rezultate prestatorul de specialitate prezintã raportul de
+verificare specificat la pct. 6.6.2.3 lit. i) spre avizare celor în
+drept sã avizeze acest raport. Raportul se avizeazã în conformitate cu prevederile pct. 6.6.1.
+Dacã deține autorizație de la ISCIR și aparatul pus în
+funcțiune se încadreazã în domeniul pentru care prestatorul de
+specialitate este autorizat, avizarea raportului de verificare se
+poate face de însuși prestatorul de specialitate care a efectuat
+punerea în funcțiune.
+Dacã nu deține autorizație pentru acest lucru, prestatorul
+de specialitate care a efectuat punerea în funcțiune se va adresa
+la ISCIR sau, dupã caz, unui prestator de specialitate autorizat de ISCIR pentru avizarea acestor rapoarte de verificare.
+În cazul în care avizarea raportului de verificare se face de
+ISCIR sau de alt agent economic autorizat de ISCIR în acest
+sens, ISCIR sau agentul economic autorizat poate condiționa
+avizarea raportului de verificare de participarea la probele și
+mãsurãtorile de punere în funcțiune menționate la pct. 6.6.2.3.
+În urma avizãrii de cãtre unul dintre cei doi raportul de
+verificare și probe constituie autorizația de funcționare inițialã
+și se atașeazã la livretul aparatului. O copie de pe raportul
+de verificare se pãstreazã la agentul economic care a efectuat punerea în funcțiune și o altã copie se pãstreazã la cei
+care au avizat raportul.
+6.6.2.5. Verificãri tehnice periodice și autorizarea de funcționare
+în continuare a aparatelor
+
+Prezenta prescripție tehnicã stabilește obligativitatea verificãrii tehnice periodice a aparatelor consumatoare de combustibili gazoși.
+O funcționare sigurã și de duratã a aparatelor consumatoare de combustibili gazoși presupune ca uzura și fenomenul
+de îmbãtrânire a materialelor sã fie cunoscute din timp și sã
+fie înlãturate prin mãsuri adecvate.
+Pentru realizarea acestor scopuri, precum și pentru protejarea utilizatorilor aparatelor consumatoare de combustibili
+gazoși a apãrut necesitatea efectuãrii verificãrilor tehnice periodice.
+Având în vedere cã în primul rând utilizatorii aparatelor
+consumatoare de combustibili gazoși trebuie sã fie conștienți
+de necesitatea funcționãrii în condiții de securitate a aparatului, responsabilitatea inițierii verificãrilor tehnice periodice revine
+utilizatorului final.
+Despre obligativitatea efectuãrii acestor verificãri tehnice
+periodice utilizatorul va fi informat prin:
+Ñ instruirea inițialã cu ocazia primei puneri în funcțiune și
+înmânãrii și semnãrii livretului aparatului. Semnarea acestui
+livret de cãtre utilizatorul final semnificã însușirea de cãtre
+acesta a obligației de a supune aparatul verificãrii tehnice
+periodice și de a nu îl utiliza în lipsa autorizației de
+funcționare;
+Ñ furnizorul de combustibil gazos care nu deschide sau
+care întrerupe alimentarea cu combustibil gazos la aparatele
+care nu au autorizația de funcționare și, respectiv, verificãrile
+tehnice la zi (a se vedea pct. 6.6.1).
+Toate aparatele consumatoare de combustibili gazoși, aflate
+în domeniul de aplicare al prezentei prescripții tehnice, trebuie
+sã fie verificate fãrã omisiuni, la intervale regulate, în ceea ce
+privește securitatea în timpul funcționãrii aparatului.
+Verificãrile tehnice periodice trebuie sã fie extinse și asupra
+aparatelor care au fost instalate înainte de intrarea în vigoare
+a prezentei prescripții tehnice.
+Verificãrile tehnice periodice trebuie sã fie efectuate numai
+de cãtre agenți economici autorizați de ISCIR pentru aceastã
+activitate.
+La verificãrile tehnice periodice ale aparatelor se efectueazã toate lucrãrile specificate la pct. 6.6.2.2 și 6.6.2.3, adaptate situației unui aparat care deja a funcționat o anumitã
+perioadã.
+
+13
+
+În funcție de rezultatele obținute verificarea tehnicã periodicã poate avea rezoluția:
+a) ”se admite continuarea utilizãrii,,;
+b) ”se interzice funcționarea în continuare a aparatului,,.
+Rezultatele se consemneazã într-un ”Raport de verificãri,
+încercãri și probe în vederea autorizãrii funcționãrii aparatului,,
+(conform modelelor prezentate în anexele B și C), a cãrui avizare va fi decisã de cei în drept (conform celor precizate la
+pct. 6.6.1). Avizarea raportului verificãrilor tehnice periodice
+constituie autorizarea de funcționare în continuare a aparatului.
+Rezoluția ”admis pentru funcționare,, se acordã numai dacã
+la verificarea tehnicã periodicã se constatã îndeplinirea
+condițiilor prevãzute în prezenta prescripție tehnicã privind
+siguranța în funcționare.
+Utilizarea aparatelor fãrã verificarea tehnicã periodicã efectuatã de un agent economic autorizat de ISCIR și fãrã avizarea raportului de verificare de cãtre cei autorizați sã o facã
+este interzisã și atrage decuplarea de la rețeaua de combustibil
+gazos a acestuia.
+În raportul de verificare tehnicã periodicã sau/și în livretul
+aparatului se vor consemna parametrii de funcționare maximi
+admiși, valorile parametrilor de protecție pentru care s-a verificat condiția de oprire în siguranțã a aparatului, precum și data
+(luna și anul) stabilitã pentru urmãtoarea verificare periodicã.
+Verificarea tehnicã periodicã se va efectua la maximum 2 ani.
+Utilizatorul final poate opta pentru efectuarea verificãrilor
+tehnice periodice și poate sã se adreseze de fiecare datã
+aceluiași prestator de specialitate autorizat de ISCIR sau, la
+fiecare termen scadent, unui alt prestator de specialitate autorizat de ISCIR. Orice agent economic autorizat de ISCIR, care
+efectueazã aceste lucrãri, are obligația de a consemna rezultatele verificãrilor efectuate în livretul aparatului. De asemenea,
+fiecare agent economic autorizat pentru efectuarea verificãrilor
+tehnice periodice (indiferent dacã are inclusã în autorizație și
+împuternicirea de a aviza rapoartele de verificare, deci de a
+acorda autorizația de funcționare a aparatelor) trebuie sã ținã
+evidența aparatelor aflate în grija sa. Registrul de evidențã se
+întocmește în conformitate cu modelul prezentat în anexa E.
+Acest registru va fi prezentat la ISCIR pentru control, la cererea ISCIR, de cãtre agentul economic.
+Utilizatorul final este obligat sã pãstreze în bune condiții
+livretul aparatului care evidențiazã verificãrile tehnice periodice
+și care descrie condițiile de exploatare pe toatã durata de serviciu a aparatului, de la prima punere în funcțiune și pânã la
+scoaterea din uz a acestuia.
+Livretul aparatului, împreunã cu documentația tehnicã de
+identificare a aparatului și instrucțiunile de utilizare/întreținere,
+trebuie sã fie transmis o datã cu aparatul, în cazul transferãrii
+acestuia unui alt utilizator final.
+În perioada dintre douã verificãri tehnice periodice utilizatorul final este obligat sã respecte instrucțiunile de utilizare ale
+producãtorului, care îi sunt special destinate, instrucțiunile și
+recomandãrile agentului economic autorizat care a efectuat
+lucrãrile de punere în funcțiune și, dupã caz, de verificare tehnicã periodicã, iar în cazul constatãrii unui defect sã opreascã
+imediat aparatul în siguranțã și sã anunțe un prestator de
+specialitate autorizat. Repunerea în funcțiune este permisã
+numai dupã efectuarea remedierilor defectului de cãtre un
+prestator de specialitate autorizat de ISCIR în acest sens.
+6.6.3. Se excepteazã de la prevederile pct. 6.6.2 urmãtoarele tipuri de aparate:
+Ñ aparate de gãtit de uz casnic;
+Ñ primusuri;
+Ñ barbecue;
+Ñ convectoare mobile sau portabile;
+Ñ aparate pentru efecte decorative;
+Ñ sobe și șemineuri,
+toate celelalte precizãri privind aparatele menționate mai sus
+rãmânând valabile.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+
+7. CONDIÞII PENTRU ACCEPTAREA UTILIZÃRII APARATELOR
+VECHI
+
+7.1. Introducerea pe piațã și funcționarea legalã în
+România a aparatelor vechi, consumatoare de combustibili
+gazoși de proveniențã strãinã, este posibilã numai dupã efectuarea unor verificãri și încercãri prealabile care sã permitã
+concluzionarea asupra stãrii lor tehnice și asupra gradului de
+siguranțã în funcționare pe care aparatele le mai prezintã.
+Nu se admite introducerea în țarã a aparatelor cu o
+vechime mai mare de 6 ani de la data fabricãrii.
+7.2. Aparatele vechi vor suporta 3 etape de verificãri în
+vederea acceptãrii funcționãrii lor în România, dupã cum este
+menționat în continuare.
+7.2.1. Verificarea și avizarea de principiu a documentației tehnice
+a aparatelor vechi, inclusiv verificarea cãrții tehnice în original, în
+vederea eliberãrii avizului de introducere în țarã a aparatelor vechi
+
+Aparatele vechi trebuie sã corespundã din punct de vedere
+tehnic prevederilor prescripțiilor tehnice Ñ Colecția ISCIR aplicabile, în vigoare. De asemenea, documentația tehnicã trebuie
+sã fie însoțitã de un certificat de calitate și de garanție, de
+dosarul/registrul de exploatare/funcționare anterioarã și de
+instrucțiunile de instalare și utilizare.
+Se vor putea accepta condițiile tehnice prevãzute în normele din țara producãtorului sau alte norme internaționale, în
+mãsura în care nu afecteazã siguranța în funcționare a aparatelor respective și numai dacã aparatul are posibilitatea de a fi
+reglat/modificat pentru tipurile de gaze și presiunile de alimentare corespunzãtoare utilizate pe teritoriul României.
+Documentația va fi pusã la dispoziție ISCIRÐINSPECT de
+cãtre importator.
+Avizarea documentației tehnice depuse se va face de cãtre
+ISCIRÐINSPECT.
+Dupã verificarea și avizarea de principiu a documentației
+tehnice inspectorul ISCIR va încheia un proces-verbal în care
+se vor prezenta concluziile desprinse în urma analizei și dispozițiile cu privire la verificãrile și încercãrile ulterioare.
+Procesul-verbal va fi semnat pentru luare la cunoștințã de
+cãtre importatorul aparatelor respective.
+Pe baza acestui document prin care solicitantul își asumã
+responsabilitatea îndeplinirii prevederilor specificate de ISCIR
+și își asumã riscul neprimirii autorizației de funcționare pentru
+echipamentul pe care intenționeazã sã îl introducã în țarã, se
+poate acorda un accept de introducere a aparatului în țarã
+pentru efectuarea unor verificãri și investigații tehnice în vederea
+stabilirii posibilitãților de acordare a autorizației de funcționare.
+7.2.2. Verificãri și investigații tehnice în vederea eliberãrii acceptului de utilizare
+
+Dupã avizarea importului pentru aparate vechi, conform
+pct. 7.2.1, se vor efectua verificãri și investigații tehnice de
+cãtre ISCIR sau de cãtre un prestator de specialitate autorizat
+de ISCIR, pe baza cãrora se va decide asupra eliberãrii
+acceptului de utilizare. Mãsurãtorile se vor efectua în laboratoare autorizate de ISCIR.
+În cazul efectuãrii verificãrilor și investigațiilor tehnice de
+cãtre un prestator de specialitate autorizat de ISCIR, înainte
+de începerea acestora se va transmite spre avizare la ISCIR
+planul de verificãri și încercãri pentru investigații tehnice.
+Scopul verificãrilor și investigațiilor tehnice este de a se
+stabili dacã aparatul mai poate funcționa în condiții de siguranțã.
+Aparatul propriu-zis se examineazã în raport cu documentația tehnicã, în ceea ce privește:
+Ñ principalele caracteristici constructive și dimensionale;
+Ñ execuția principalelor subansambluri sau pãrți componente;
+Ñ modul de realizare în practicã a condițiilor tehnice generale prevãzute în prescripțiile tehnice sau în standardele în
+vigoare aplicabile;
+Ñ materialele folosite;
+
+Ñ sudurile și îmbinãrile sudate;
+Ñ elementele supuse la presiune (suprafața interioarã/exterioarã, abateri de formã și dimensiuni, inclusiv grosime);
+Ñ izolația exterioarã.
+De asemenea, se verificã starea elementelor componente:
+Ñ robinete manuale de izolare;
+Ñ site/filtre;
+Ñ regulatorul de presiune a gazului;
+Ñ dispozitivul de supraveghere a presiunii gazului;
+Ñ camera de combustie/ardere;
+Ñ arzãtorul de pornire sau pilot;
+Ñ instalația de evacuare a gazelor arse, tirajul;
+Ñ dispozitivul de control al flãcãrii;
+Ñ dispozitivul de control al temperaturii în camera de
+ardere, limitatorul de temperaturã;
+Ñ dulapul/panoul de comandã al aparatului;
+Ñ sistemul electric;
+Ñ armãturi, dispozitive de alimentare cu apã, aparate de
+mãsurare și control și automatizare.
+Se efectueazã proba hidraulicã sau proba de verificare a
+etanșeitãții circuitelor, conform prevederilor prescripțiilor tehnice Ñ
+Colecția ISCIR.
+Se verificã dacã funcționarea dispozitivelor de protecție
+este independentã de buclele de reglare.
+Probele și încercãrile, cu mãsurarea principalilor parametri
+și indici de performanțã declarați, în funcționare sau în laboratoare autorizate se vor efectua în țarã înainte de acordarea
+autorizației de funcționare.
+De rezultatele acestor probe și încercãri depinde acordarea
+autorizației de funcționare a aparatelor.
+7.2.3. Probe și verificãri pentru obținerea autorizației de
+funcționare
+
+În urma probelor, încercãrilor și mãsurãtorilor efectuate cu
+ocazia verificãrilor și investigațiilor tehnice se va întocmi un
+raport de verificãri și investigații tehnice în care se va concluziona dacã aparatul mai poate funcționa în condiții de siguranțã.
+8. CONDIÞII PRIVIND SCOATEREA DIN UZ ȘI CASAREA APARATELOR
+
+8.1. Scoaterea definitivã din uz și casarea aparatului, ce
+depind de voința utilizatorului final și de încheierea ciclului de
+viațã, sunt în responsabilitatea utilizatorului final și se vor face
+în conformitate cu legislația în vigoare în România privind
+casarea aparatelor și depozitarea deșeurilor.
+8.2. Reutilizarea aparatelor scoase din uz și casate, de
+cãtre alți utilizatori finali, este strict interzisã.
+8.3. Refolosirea pieselor componente ale aparatelor scoase
+din uz este strict interzisã.
+8.4. La scoaterea din uz utilizatorul final are obligația sã
+consemneze evenimentul în livretul aparatului și sã comunice
+seria aparatului prestatorului de specialitate care a efectuat
+ultima verificare tehnicã periodicã. Prestatorul de specialitate va
+consemna acest eveniment în registrul de evidențã a aparatelor.
+9. DISPOZIÞII FINALE
+
+9.1. Nerespectarea prevederilor prezentei prescripții tehnice
+atrage, în condițiile prevãzute de lege, sancțiuni contravenționale
+mergând pânã la retragerea autorizațiilor acordate.
+9.2. Utilizatorii prezentei prescripții tehnice sunt obligați sã
+se asigure cã sunt în posesia ultimei ediții și a tuturor modificãrilor apãrute dupã publicare.
+9.3. La data intrãrii în vigoare a prezentei prescripții tehnice își înceteazã valabilitatea ”Prescripțiile tehnice privind
+încercarea în vederea omologãrii aparatelor consumatoare de
+gaze combustibile de uz neindustrial,, A4-82.
+9.4. Anexele AÑI*) fac parte integrantã din prezenta prescripție tehnicã.
+
+*) Anexele AÑI sunt reproduse în facsimil.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+
+15
+ANEXA A
+la prescripția tehnicã
+
+STANDARDE ȘI NORMATIVE
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+
+17
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+ANEXA B*)
+la prescripția tehnicã
+
+AVIZAT
+ISCIR IT
+
+PRIMA PUNERE ÎN FUNCÞIUNE
+
+.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+
+19
+
+INSPECTOR ISCIR I.T.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+20
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+
+AVIZAT
+VERIFICARE TEHNICÃ PERIODICÃ
+
+ISCIR IT
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+
+21
+
+INSPECTOR ISCIR I.T.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+22
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+ANEXA C*)
+la prescripția tehnicã
+
+AVIZAT
+PRIMA PUNERE ÎN FUNCÞIUNE
+
+Agent economic:
+
+Autorizație pentru
+avizare
+Nr. ........../.............
+
+.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+
+23
+
+AGENT ECONOMIC
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+24
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+
+AVIZAT
+Agent economic:
+
+VERIFICARE TEHNICÃ PERIODICÃ
+
+Autorizație pentru
+avizare rapoarte
+Nr. ......../...........
+
+Racordãri
+corecte
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+
+25
+
+AGENT ECONOMIC
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+ANEXA D
+la prescripția tehnicã
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+
+27
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+ANEXA E
+la prescripția tehnicã
+
+EVIDENÞA
+
+aparatelor consumatoare de combustibili gazoși aflate în supravegherea tehnicã
+a agentului economic
+..........................................................................................................
+
+Nr.
+înregistrare
+
+Locul funcționãrii
+aparatului (Utilizator
+final, localitatea,
+strada, nr.,
+sector, județ)
+Contract de luare
+în evidențã,
+supraveghere,
+service garanții,
+verificãri tehnice
+periodice
+
+Denumirea
+aparatului,
+parametri
+principali
+
+Nr. de
+fabricație
+Producãtor/
+sau inventar/
+Furnizor
+an de fabricație
+
+Raport
+de verificare
+a evaluãrii
+aptitudinilor
+de funcționare
+în condiții de
+siguranțã/data
+
+Scadența
+urmãtoarei
+verificãri
+
+Obs.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+
+29
+ANEXA F
+la prescripția tehnicã
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+ANEXA G
+la prescripția tehnicã
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+
+31
+ANEXA H
+la prescripția tehnicã
+
+Nr. ....................................
+
+S.C. ”...................................................,,
+Cod poștal, Localitatea, Județul, Strada, Nr., Bl., sc., ap.,
+Înregistrare la Registrul comerțului: J .../.............../............., Cod fiscal: .........................
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+32
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 674/11.IX.2002
+ANEXA I
+la prescripția tehnicã
+CERINÞE TEHNICE SPECIFICE
+
+arzãtoarelor cu autoaspirație consumatoare de combustibili gazoși
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 5069427282 Trezoreria sector 5, București (alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 411.97.54, tel./fax 410.77.36.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: ramomrk@bx.logicnet.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 674/11.IX.2002 conține 32 de pagini.
+
+Prețul de vânzare 20.500 lei
+
+ISSN 1453Ñ4495
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+

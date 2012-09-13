@@ -1,0 +1,733 @@
+Anul 173 (XVII) — Nr. 866
+
+PARTEA
+
+I
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+Luni, 26 septembrie 2005
+
+SUMAR
+Nr.
+
+Pagina
+ORDONANȚE ALE GUVERNULUI ROMÂNIEI
+
+128.
+
+— Ordonanță de urgență privind înființarea,
+organizarea și funcționarea Sistemului Informatic
+Național de Semnalări ..............................................
+
+444.
+
+— Decizie pentru numirea domnului Octavian
+Nichifor Bîgiu în funcția de secretar de stat la
+Ministerul Economiei și Comerțului..........................
+— Decizie pentru numirea domnului Ovidiu Iuliu
+Marian în funcția de președinte, cu rang de
+secretar de stat, al Autorității Naționale pentru
+Turism ........................................................................
+
+ORDONANȚE
+
+ALE
+
+Pagina
+
+447. — Decizie pentru numirea domnului Ion Codescu
+în funcția de secretar de stat la Ministerul Justiției
+
+3.122. — Ordin pentru aprobarea Normelor privind
+drepturile,
+obligațiile
+și
+competențele
+administratorului special ............................................
+
+6–7
+
+ACTE ALE CONSILIULUI NAȚIONAL
+AL AUDIOVIZUALULUI
+
+5
+
+5
+
+6
+
+ACTE ALE COMISIEI DE SUPRAVEGHERE
+A ASIGURĂRILOR
+
+1–4
+
+DECIZII ALE PRIMULUI-MINISTRU
+443.
+
+Nr.
+
+496. — Decizie pentru modificarea Deciziei Consiliului
+Național al Audiovizualului nr. 312/2004 privind
+difuzarea programelor locale și a programelor
+retransmise.................................................................
+
+GUVERNULUI
+
+8
+
+ROMÂNIEI
+
+GUVERNUL ROMÂNIEI
+
+ORDONANȚĂ DE URGENȚĂ
+privind înființarea, organizarea și funcționarea Sistemului Informatic Național de Semnalări
+Având în vedere importanța creării la nivel național a unui sistem informatic compatibil cu Sistemul Informatic
+Schengen în contextul nevoii de securizare a frontierei de stat, cerință fundamentală pentru integrarea României în
+Uniunea Europeană, a cărei neîndeplinire ar putea activa clauza de salvgardare,
+pornind de la faptul că orice întârziere în adoptarea cadrului legal necesar ar împiedica, pe de o parte, crearea
+sistemului informatic sub aspect instituțional și al facilităților tehnice, iar pe de altă parte, adoptarea legislației subsecvente
+care să stabilească direcțiile și mecanismele de lucru ale sistemului,
+în vederea respectării calendarului de măsuri asumate prin Planul de acțiuni Schengen revizuit 2005,
+ținând seama de faptul că toate aceste elemente vizează interesul public și constituie situații extraordinare, a
+căror reglementare nu poate fi amânată,
+în temeiul art. 115 alin. (4) din Constituția României, republicată,
+Guvernul României adoptă prezenta ordonanță de urgență.
+CAPITOLUL I
+Dispoziții generale
+Art. 1. — (1) Se înființează Sistemul Informatic Național
+de Semnalări, denumit în continuare SINS, ca etapă
+
+prealabilă în procesul de aderare a României la Convenția
+de punere în aplicare a Acordului Schengen din 14 iunie
+1985 între guvernele statelor din Uniunea Economică
+Benelux, Republicii Federale Germania și Republicii
+Franceze privind eliminarea treptată a controalelor la
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 866/26.IX.2005
+
+frontierele comune, denumită în continuare Convenția de
+aplicare a Acordului Schengen.
+(2) Până la data aderării României la Convenția de
+aplicare a Acordului Schengen, SINS permite autorităților
+competente ca prin intermediul unei proceduri de căutare
+automată în sistem să aibă acces la semnalările cu privire
+la persoane și bunuri, în scopul îndeplinirii atribuțiilor
+specifice în domeniile controlului trecerii frontierei de stat,
+al respectării regimului vamal, al eliberării vizelor și
+permiselor de ședere, precum și al celorlalte controale și
+activități specifice efectuate de organele de poliție sau de
+către alte autorități în scopul asigurării ordinii și siguranței
+publice.
+(3) La data aderării României la Convenția de aplicare
+a Acordului Schengen, SINS va furniza date către Sistemul
+Informatic Schengen, în conformitate cu reglementările
+europene în materie.
+Art. 2. — În înțelesul prezentei ordonanțe de urgență,
+termenii și expresiile de mai jos se definesc după cum
+urmează:
+a) semnalări — date referitoare la bunuri sau persoane
+identificate ori identificabile care trebuie supuse unor
+măsuri dispuse de o autoritate competentă, în condițiile
+legii, în vederea realizării unui interes public, al respectării
+regimului liberei circulații a persoanelor și bunurilor sau,
+după caz, al asigurării ordinii și siguranței publice;
+b) autorități competente — autorități cu atribuții în
+furnizarea și/sau consultarea semnalărilor conținute în
+SINS, prevăzute la art. 5;
+c) tranzacție — orice operație de introducere,
+modificare, ștergere sau consultare a semnalărilor conținute
+în SINS;
+d) Sistemul Informatic Schengen — suportul tehnic al
+sistemului de informații comun, creat prin Convenția de
+aplicare a Acordului Schengen.
+CAPITOLUL II
+Autorități cu competențe în gestionarea
+și exploatarea SINS
+Art. 3. — (1) Ministerul Administrației și Internelor este
+autoritatea publică centrală care gestionează și răspunde
+de buna funcționare a SINS, de integritatea semnalărilor
+conținute în acesta, precum și de alimentarea cu semnalări
+a SIS, conform exigențelor acquis-ului Schengen.
+(2) SINS este gestionat din punct de vedere tehnic de
+structura centrală din Ministerul Administrației și Internelor
+cu atribuții în domeniul comunicațiilor și informaticii.
+(3) Se înființează Comitetul de Coordonare Strategică,
+denumit în continuare CCS, ca organism cu atribuții de
+analiză și coordonare a funcționării SINS, compus din
+reprezentanți ai autorităților competente, la nivel de
+secretar de stat sau, după caz, subsecretar de stat. CCS
+este prezidat de ministrul administrației și internelor.
+(4) Se înființează Comitetul Tehnic, denumit în
+continuare CT, în coordonarea Ministerului Administrației și
+Internelor, ca organism cu atribuții de analiză și soluționare
+a problemelor de ordin tehnic ce pot apărea în
+funcționarea SINS, compus din reprezentanții la nivel de
+experți ai tuturor autorităților competente, prevăzute în
+anexa care face parte integrantă din prezenta ordonanță
+de ugență.
+(5) Organizarea, funcționarea, componența și atribuțiile
+structurilor prevăzute la alin. (3) și (4) se stabilesc prin
+normele de aplicare a prezentei ordonanțe de urgență.
+Art. 4. — (1) Ministerul Administrației și Internelor și
+autoritățile competente sunt obligate să adopte măsuri de
+
+securitate în legătură cu gestionarea și utilizarea SINS,
+care vizează:
+a) controlul accesului la echipamente pentru a împiedica
+accesul persoanelor neautorizate la echipamentele de
+prelucrare a datelor cu caracter personal;
+b) controlul suportului de date pentru a împiedica citirea,
+copierea, modificarea sau ștergerea suportului de date în
+mod neautorizat;
+c) controlul stocării pentru a împiedica introducerea
+neautorizată de date și inspectarea, modificarea sau
+ștergerea neautorizată a datelor cu caracter personal;
+d) controlul utilizării pentru a împiedica utilizarea
+sistemelor de prelucrare automată a datelor de către
+persoane neautorizate cu ajutorul echipamentelor de
+transmitere a datelor;
+e) controlul accesului la date pentru a limita accesul
+persoanelor autorizate să utilizeze un sistem de prelucrare
+automată a datelor, numai la datele pentru care au fost
+autorizate;
+f) controlul comunicațiilor astfel încât să se poată
+asigura verificarea și stabilirea organismelor cărora le pot
+fi transmise datele cu caracter personal folosind
+echipamentele de comunicații;
+g) controlul introducerii de date pentru a se asigura că
+este posibil ulterior să se verifice și să se stabilească ce
+date cu caracter personal au fost introduse în sistemele de
+prelucrare automată a datelor, când și pentru cine au fost
+introduse datele;
+h) controlul transportului de date pentru a împiedica
+citirea, copierea, modificarea sau ștergerea neautorizată a
+datelor cu caracter personal în timpul transmiterii acestora
+sau în timpul transportului de suporturi de date.
+(2) Ministerul Administrației și Internelor și autoritățile
+competente vor adopta măsuri tehnice, operative și de
+procedură, potrivit următoarelor principii:
+a) confidențialitate: informațiile sunt accesibile numai
+pentru persoanele autorizate în funcție de competențe;
+b) integritate: asigurarea exactității și caracterului
+complet al informațiilor, precum și a metodelor de
+prelucrare;
+c) disponibilitate: asigurarea accesului la informații în
+termenul solicitat;
+d) identificare și autentificare: toți utilizatorii sunt
+identificați și autentificați în mod corespunzător, în funcție
+de competențe, înainte de orice tranzacție;
+e) autorizare: participanții la o tranzacție sunt autorizați
+să acceseze datele din SINS în funcție de competențe.
+CAPITOLUL III
+Regimul juridic al datelor din SINS
+Art. 5. — (1) Datele care se introduc în SINS sunt în
+legătură cu unele persoane sau bunuri, după criteriile
+prevăzute la art. 6 și 7, și sunt furnizate și/sau consultate
+de următoarele instituții:
+a) Poliția Română;
+b) Poliția de Frontieră Română;
+c) Jandarmeria Română;
+d) Autoritatea pentru străini;
+e) Biroul SIRENE, de la data operaționalizării acestuia;
+f) Oficiul Național pentru Refugiați;
+g) Inspectoratul Național pentru Evidența Persoanelor;
+h) Direcția Generală de Pașapoarte;
+i) Direcția Regim Permise de Conducere și Înmatriculare
+a Vehiculelor;
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 866/26.IX.2005
+j) Autoritatea Națională a Vămilor;
+k) Ministerul Afacerilor Externe;
+l) Ministerul Justiției.
+(2) Modul de furnizare și/sau de consultare de către
+instituțiile prevăzute la alin. (1) a datelor conținute în SINS
+este prevăzut în anexa care face parte integrantă din
+prezenta ordonanță de urgență.
+Art. 6. — Datele în legătură cu persoanele, care se
+introduc în SINS, sunt următoarele:
+a) date privind persoanele care fac obiectul unor
+proceduri de extrădare sau de predare în baza unui
+mandat european de arestare;
+b) date privind străinii împotriva cărora s-a dispus
+măsura nepermiterii intrării;
+c) date privind străinii împotriva cărora a fost dispusă
+măsura expulzării, returnării sau împotriva cărora a fost
+dispusă o măsură de îndepărtare de pe teritoriul României;
+d) date privind străinii împotriva cărora s-a dispus
+măsura nepermiterii ieșirii;
+e) date privind persoanele dispărute sau persoanele
+care, în interesul propriei protecții sau pentru prevenirea
+amenințărilor, trebuie plasate în mod provizoriu într-un loc
+sigur la cererea autorității competente sau a autorității
+judiciare competente;
+f) date privind persoanele citate pentru a se prezenta în
+fața autorităților judiciare în cadrul unei proceduri penale
+care antrenează răspunderea cu privire la fapte pentru
+care au fost urmărite sau persoanele cărora trebuie să li
+se comunice o hotărâre penală ori o cerere de a se
+prezenta pentru a executa o pedeapsă privativă de
+libertate, introduse, la cererea autorităților judiciare
+competente, în scopul comunicării locului unde își au
+reședința sau domiciliul.
+Art. 7. — (1) Date în legătură cu bunuri, care se
+introduc în SINS, privesc acele bunuri care pot constitui
+mijloace materiale de probă sau fac obiectul unei măsuri
+asigurătorii în cadrul procedurii penale referitoare la:
+a) vehiculele cu motor cu o capacitate cilindrică mai
+mare de 50 cm3, care au fost furate, tăinuite sau pierdute;
+b) documentele furate, tăinuite sau pierdute care privesc
+vehicule;
+c) plăcile cu numere de înmatriculare furate, tăinuite sau
+pierdute;
+d) remorcile și rulotele cu o greutate netă mai mare de
+750 kg, care au fost furate, tăinuite sau pierdute;
+e) armele letale furate, tăinuite sau pierdute;
+f) date privind înscrisuri oficiale necompletate, care au
+fost furate, tăinuite sau pierdute;
+g) documentele de identificare ale persoanelor fizice,
+respectiv acte de identitate, pașapoarte, permise de
+conducere, permise de rezidență și de muncă, furate,
+tăinuite sau pierdute, precum și cărțile de identitate false
+ori eliberate ca urmare a declinării unor identități false;
+h) bancnotele sau titlurile de valoare furate, tăinuite sau
+pierdute;
+i) alte obiecte care poartă elemente de identificare
+stabilite și care au fost furate, tăinuite sau pierdute.
+(2) Datele prevăzute la alin. (1) se introduc în SINS și
+în vederea localizării, identificării, restituirii către proprietar
+ori alt deținător legal sau distrugerii lor, în condițiile legii.
+Art. 8. — Datele cu caracter personal introduse în SINS
+cuprind cel mult următoarele elemente:
+a) numele și prenumele, pseudonimele care au fost
+eventual înregistrate separat;
+b) semnele fizice particulare, obiective și inalterabile;
+
+3
+
+c) data și locul nașterii;
+d) sexul;
+e) cetățenia;
+f) mențiunea că persoanele în cauză sunt înarmate,
+violente sau evadate;
+g) motivul semnalării;
+h) măsura care trebuie luată.
+Art. 9. — (1) Accesarea și exploatarea datelor conținute
+în SINS se fac potrivit prevederilor interne în materia
+protecției datelor personale și Convenției pentru protejarea
+persoanelor față de prelucrarea automatizată a datelor cu
+caracter personal, adoptată la Strasbourg la 28 ianuarie
+1981, ratificată prin Legea nr. 682/2001, cu modificările
+ulterioare, exclusiv de autoritățile competente și numai în
+scopul îndeplinirii atribuțiilor stabilite prin lege și în condițiile
+prevăzute de aceasta.
+(2) Condițiile privind accesul la datele prevăzute la
+art. 6 și 7, precum și perioadele de stocare a datelor în
+SINS se stabilesc prin normele de aplicare a prezentei
+ordonanțe de urgență.
+(3) Datele se exploatează exclusiv în scopurile pentru
+care au fost introduse în SINS.
+(4) Gestiunea și utilizarea datelor conținute în SINS, cu
+privire la prelucrarea datelor cu caracter personal, sunt
+supuse controlului de către Autoritatea Națională de
+Supraveghere a Prelucrării Datelor cu Caracter Personal,
+denumită în continuare ANSPDCP. În acest scop,
+ANSPDCP are acces la datele conținute în SINS.
+Art. 10. — (1) Autoritățile competente răspund de
+exactitatea, urgența, actualitatea și legalitatea datelor
+introduse în SINS.
+(2) Autoritatea competentă care a introdus anumite date
+este singura autorizată să le modifice, să le completeze,
+să le rectifice sau să le șteargă până la expirarea
+perioadei maxime de păstrare, stabilită în condițiile legii.
+(3) Orice persoană interesată sau autoritate competentă,
+alta decât cea care a introdus datele, poate semnala
+autorității competente prevăzute la alin. (2) faptul că unele
+date introduse în SINS nu corespund stării de fapt sau de
+drept. Autoritatea competentă prevăzută la alin. (2) are
+obligația de a verifica semnalarea și, dacă este necesar,
+modifică, completează, rectifică sau șterge fără întârziere
+datele respective.
+Art. 11. — (1) Orice persoană interesată poate solicita
+Ministerului Administrației și Internelor, în condițiile legii,
+informații cu privire la datele cu caracter personal existente
+în SINS, care o vizează.
+(2) Orice persoană prejudiciată prin introducerea sau
+exploatarea datelor cu caracter personal în SINS poate
+solicita potrivit legii repararea prejudiciului astfel cauzat.
+CAPITOLUL IV
+Dispoziții finale
+Art. 12. — Finanțarea cheltuielilor curente și de capital
+aferente realizării suportului tehnic al sistemului și
+desfășurării activității SINS se asigură de la bugetul de stat
+prin bugetul Ministerului Administrației și Internelor, în
+condițiile legii.
+Art. 13. — Dezvoltarea SINS se realizează în baza unui
+plan de implementare care se abrobă prin hotărâre a
+Guvernului în termen de 6 luni de la data intrării în
+vigoare a prezentei ordonanțe de urgență.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 866/26.IX.2005
+
+Art. 14. — Normele de aplicare a prezentei ordonanțe
+de urgență se aprobă prin hotărâre a Guvernului în
+termen de un an de la data intrării în vigoare a prezentei
+ordonanțe de urgență.
+
+Art. 15. — Anexa la prezenta ordonanță de urgență se
+poate modifica prin hotărâre a Guvernului, în funcție de
+modificarea atribuțiilor legale ale autorităților competente,
+precum și a categoriilor de semnalări gestionate de SIS.
+
+PRIM-MINISTRU
+
+CĂLIN POPESCU-TĂRICEANU
+Contrasemnează:
+p. Ministrul administrației și internelor,
+Anghel Andreescu,
+secretar de stat
+Ministrul comunicațiilor și tehnologiei informației,
+Zsolt Nagy
+Ministrul afacerilor externe,
+Mihai Răzvan Ungureanu
+p. Ministrul integrării europene,
+Adrian Ciocănea,
+secretar de stat
+Ministrul finanțelor publice,
+Sebastian Teodor Gheorghe Vlădescu
+București, 15 septembrie 2005.
+Nr. 128.
+ANEXĂ*)
+
+*) Anexa este reprodusă în facsimil.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 866/26.IX.2005
+
+5
+
+DECIZII ALE PRIMULUI-MINISTRU
+GUVERNUL ROMÂNIEI
+PRIMUL-MINISTRU
+
+DECIZIE
+pentru numirea domnului Octavian Nichifor Bîgiu în funcția
+de secretar de stat la Ministerul Economiei și Comerțului
+În temeiul art. 15 lit. d) și al art. 19 din Legea nr. 90/2001 privind
+organizarea și funcționarea Guvernului României și a ministerelor, cu
+modificările și completările ulterioare,
+primul-ministru emite prezenta decizie.
+Articol unic. — Pe data intrării în vigoare a prezentei decizii domnul
+Octavian Nichifor Bîgiu se numește în funcția de secretar de stat la
+Ministerul Economiei și Comerțului.
+PRIM-MINISTRU
+
+CĂLIN POPESCU-TĂRICEANU
+Contrasemnează:
+Șeful Cancelariei Primului-Ministru,
+Aleodor Marian Frâncu
+București, 21 septembrie 2005.
+Nr. 443.
+GUVERNUL ROMÂNIEI
+PRIMUL-MINISTRU
+
+DECIZIE
+pentru numirea domnului Ovidiu Iuliu Marian
+în funcția de președinte, cu rang de secretar de stat,
+al Autorității Naționale pentru Turism
+Având în vedere propunerea formulată de ministrul transporturilor,
+construcțiilor și turismului,
+în temeiul art. 15 lit. e) și al art. 19 din Legea nr. 90/2001 privind
+organizarea și funcționarea Guvernului României și a ministerelor, cu
+modificările și completările ulterioare, al art. 8 alin. (2) din Ordonanța de
+urgență a Guvernului nr. 11/2004 privind stabilirea unor măsuri de
+reorganizare în cadrul administrației publice centrale, aprobată cu modificări
+și completări prin Legea nr. 228/2004, cu modificările și completările
+ulterioare, precum și al art. 8 alin. (1) din Hotărârea Guvernului
+nr. 413/2004 privind organizarea și funcționarea Autorității Naționale pentru
+Turism,
+primul-ministru emite prezenta decizie.
+Articol unic. — Pe data intrării în vigoare a prezentei decizii domnul
+Ovidiu Iuliu Marian se numește în funcția de președinte, cu rang de
+secretar de stat, al Autorității Naționale pentru Turism.
+PRIM-MINISTRU
+
+CĂLIN POPESCU-TĂRICEANU
+Contrasemnează:
+Șeful Cancelariei Primului-Ministru,
+Aleodor Marian Frâncu
+București, 21 septembrie 2005.
+Nr. 444.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 866/26.IX.2005
+GUVERNUL ROMÂNIEI
+PRIMUL-MINISTRU
+
+DECIZIE
+pentru numirea domnului Ion Codescu
+în funcția de secretar de stat la Ministerul Justiției
+În temeiul art. 15 lit. d) și al art. 19 din Legea nr. 90/2001 privind
+organizarea și funcționarea Guvernului României și a ministerelor, cu
+modificările și completările ulterioare,
+primul-ministru emite prezenta decizie.
+Articol unic. — Pe data intrării în vigoare a prezentei decizii domnul
+Ion Codescu se numește în funcția de secretar de stat la Ministerul Justiției.
+PRIM-MINISTRU
+
+CĂLIN POPESCU-TĂRICEANU
+Contrasemnează:
+Șeful Cancelariei Primului-Ministru,
+Aleodor Marian Frâncu
+București, 23 septembrie 2005.
+Nr. 447.
+
+ACTE ALE COMISIEI DE SUPRAVEGHERE A ASIGURĂRILOR
+COMISIA DE SUPRAVEGHERE A ASIGURĂRILOR
+
+ORDIN
+pentru aprobarea Normelor privind drepturile, obligațiile și competențele administratorului special
+În temeiul prevederilor art. 4 alin. (26) și (27) din Legea nr. 32/2000 privind societățile de asigurare și
+supravegherea asigurărilor, cu modificările și completările ulterioare,
+potrivit Hotărârii Consiliului Comisiei de Supraveghere a Asigurărilor din data de 20 septembrie 2005, prin care
+s-au adoptat Normele privind drepturile, obligațiile și competențele administratorului special,
+președintele Comisiei de Supraveghere a Asigurărilor emite următorul ordin:
+Art. 1. — Se aprobă Normele privind drepturile,
+obligațiile și competențele administratorului special, cuprinse
+în anexa care face parte integrantă din prezentul ordin.
+Art. 2. — Direcția generală reglementări, Direcția
+generală control, Direcția generală supraveghere
+
+solvabilitate și raportări financiare și Departamentul
+Fond de garantare din cadrul Comisiei de
+Supraveghere a Asigurărilor vor lua măsuri pentru
+ducerea la îndeplinire a prevederilor prezentului
+ordin.
+
+Președintele Comisiei de Supraveghere a Asigurărilor,
+Nicolae Eugen Crișan
+București, 21 septembrie 2005.
+Nr. 3.122.
+ANEXĂ
+
+NORME
+privind drepturile, obligațiile și competențele administratorului special
+Art. 1. — În conformitate cu dispozițiile art. 16 din
+Legea nr. 503/2004 privind redresarea financiară și
+falimentul societăților de asigurare, în situația aplicării
+modalității de redresare financiară prin administrare specială,
+prevăzută la art. 8 alin. (1) lit. b) din aceeași lege, Comisia
+de Supraveghere a Asigurărilor desemnează, prin decizie,
+
+o persoană fizică sau juridică, în calitate de administrator
+special.
+Art. 2. —
+(1) Începând cu data desemnării
+administratorului special se suspendă:
+a) atribuțiile acționarilor semnificativi și ale persoanelor
+semnificative ale societății de asigurare; aceste atribuții se
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 866/26.IX.2005
+transferă administratorului special desemnat, care este în
+drept să le exercite pe toată perioada procedurii de
+redresare financiară prin administrare specială;
+b) activitatea, atribuțiile și competențele consiliului de
+administrație/administratorului societății de asigurare,
+precum și dreptul acestora la remunerație;
+c) exercitarea dreptului de vot al acționarilor în privința
+numirii și/sau a revocării consiliului de administrație/
+administratorului societății de asigurare;
+d) dreptul acționarilor la dividende.
+(2) Suspendarea prevăzută la alin. (1) operează și își
+produce efectele pe toată durata procedurii de redresare
+financiară prin administrare specială.
+(3) De la data desemnării, administratorul special preia
+integral atribuțiile consiliului de administrație/administratorului
+societății de asigurare supuse procedurii de redresare
+financiară, așa cum acestea rezultă potrivit legii și actelor
+constitutive ale societății de asigurare.
+Art. 3. — (1) Principalele atribuții și competențe ale
+administratorului special sunt următoarele:
+a) îndeplinirea măsurilor și/sau a dispozițiilor Comisiei
+de Supraveghere a Asigurărilor, la termenele și în condițiile
+prevăzute în decizia de redresare financiară;
+b) examinarea activității societății de asigurare și
+întocmirea unui raport amănunțit cu privire la situația
+financiară a acesteia, cu precizarea inclusiv a cauzelor
+care au condus la declanșarea procedurii de redresare
+financiară și menționarea persoanelor a căror activitate este
+imputabilă în acest sens. Raportul va preciza, de
+asemenea, măsurile întreprinse de administratorul special,
+precum și posibilitățile reale și operative de redresare
+financiară a societății de asigurare sau, după caz, motivele
+care împiedică atingerea scopului acestei proceduri.
+Raportul se întocmește și se transmite Comisiei de
+Supraveghere a Asigurărilor în termen de cel mult 10 zile
+lucrătoare de la data desemnării administratorului special.
+La cererea administratorului special, pentru motive
+temeinice, durata de întocmire și de prezentare a raportului
+poate fi prelungită de Comisia de Supraveghere a
+Asigurărilor cu cel mult 15 zile lucrătoare. Un exemplar al
+raportului se comunică, după caz, și administratorului
+Fondului de garantare;
+c) ducerea la îndeplinire a demersurilor necesare pentru
+efectuarea unei majorări/infuzii de capital, în vederea
+redresării financiare a societății de asigurare;
+d) conducerea activității societății de asigurare, cu
+supravegherea și controlul inclusiv al condițiilor de
+efectuare a plăților din/în conturile societății de asigurare;
+e) întocmirea și transmiterea către Comisia de
+Supraveghere a Asigurărilor, precum și către administratorul
+Fondului de garantare, după caz, a unor rapoarte lunare
+privind stadiul procedurii de redresare financiară; rapoartele
+se transmit cel mai târziu în ultima zi a lunii pentru care
+se face raportarea;
+f) îndeplinirea oricăror alte dispoziții ale Comisiei de
+Supraveghere a Asigurărilor și/sau ale administratorului
+Fondului de garantare, după caz, necesare asigurării
+apărării drepturilor și intereselor legitime ale asiguraților.
+(2) Executarea mandatului, precum și/sau exercitarea
+atribuțiilor administratorului special se duc la îndeplinire de
+către persoana expres desemnată prin decizia Comisiei de
+Supraveghere a Asigurărilor, fără ca administratorul special
+să poată conferi atribuțiile sale, în tot sau în parte, unei
+terțe persoane.
+
+7
+
+(3) În îndeplinirea atribuțiilor sale, administratorul special
+angajează societatea de asigurare supusă procedurii de
+redresare financiară în raporturile acesteia cu terții și
+răspunde, potrivit legii, de modul de executare a deciziei
+de redresare financiară și a dispozițiilor Comisiei de
+Supraveghere a Asigurărilor ori, după caz, ale
+administratorului Fondului de garantare.
+Art. 4. — Pentru activitatea depusă, administratorul
+special are dreptul la remunerație/salariu, care se va stabili,
+de la caz la caz, de către Comisia de Supraveghere a
+Asigurărilor,
+având
+ca
+punct
+de
+referință
+remunerația/salariul avut de persoanele semnificative ale
+asigurătorului supus administrării speciale.
+Art. 5. — (1) Administratorul special este obligat să
+ducă la îndeplinire și să ia toate măsurile necesare
+restabilirii situației financiare a societății de asigurare, cu
+respectarea dispozițiilor, a termenelor și a condițiilor
+cuprinse în decizia de redresare financiară emisă de
+Comisia de Supraveghere a Asigurărilor.
+(2) Pentru motive întemeiate, Comisia de Supraveghere
+a Asigurărilor poate dispune, oricând în cursul procedurii
+de redresare financiară, înlocuirea administratorului special.
+Art. 6. — (1) Încetarea calității de administrator special
+are loc în următoarele cazuri:
+a) prin revocarea deciziei de redresare financiară prin
+administrare specială:
+b) prin înlocuirea sau, după caz, prin renunțarea
+administratorului special la mandatul primit;
+c) prin decesul administratorului special persoană fizică
+sau, după caz, ca urmare a dizolvării/lichidării ori a
+constatării stării de insolvabilitate a administratorului special
+persoană juridică;
+d) prin orice alte cauze de încetare prevăzute de lege.
+(2) Încetarea calității de administrator special se dispune
+prin decizie a Comisiei de Supraveghere a Asigurărilor.
+Art. 7. — (1) În toate cazurile în care, ca urmare a
+analizării rapoartelor administratorului special, se constată
+că nu sunt condiții pentru restabilirea sau pentru
+menținerea situației financiare a societății de asigurare,
+Comisia de Supraveghere a Asigurărilor dispune închiderea
+procedurii de redresare financiară și retragerea autorizației
+de funcționare a acesteia.
+(2) În cazul în care măsurile întreprinse de
+administratorul special nu au putut conduce la atingerea
+scopului urmărit și/sau la înlăturarea cauzelor care au
+condus la declanșarea procedurii de redresare financiară,
+Comisia de Supraveghere a Asigurărilor constată starea de
+insolvabilitate a societății de asigurare potrivit art. 3 lit. j)
+pct. 3 din Legea nr. 503/2004 și dispune, prin decizie
+motivată, închiderea procedurii de redresare financiară,
+retragerea autorizației de funcționare a societății de
+asigurare, precum și înregistrarea cererii de declanșare a
+falimentului, în condițiile legii.
+(3) Prin decizia de închidere a procedurii de redresare
+financiară Comisia de Supraveghere a Asigurărilor dispune
+revocarea administratorului special, precum și încetarea
+calității și a atribuțiilor acestuia. Administratorul special este
+ținut de obligația de a da socoteală despre modul de
+îndeplinire a mandatului primit, conform măsurilor și
+dispozițiilor stabilite de Comisia de Supraveghere a
+Asigurărilor, prin decizia de redresare financiară.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 866/26.IX.2005
+
+ACTE ALE CONSILIULUI NAȚIONAL AL AUDIOVIZUALULUI
+CONSILIUL NAȚIONAL AL AUDIOVIZUALULUI
+
+DECIZIE
+pentru modificarea Deciziei Consiliului Național al Audiovizualului nr. 312/2004
+privind difuzarea programelor locale și a programelor retransmise
+Având în vedere dubla calitate a Consiliului Național al Audiovizualului de garant al interesului public și de unică
+autoritate de reglementare în domeniul programelor audiovizuale,
+în temeiul art. 17 alin. (1) lit. d) din Legea audiovizualului nr. 504/2002, cu modificările și completările ulterioare,
+membrii Consiliului Național al Audiovizualului adoptă următoarea decizie:
+Articol unic. — Decizia Consiliului Național al
+Audiovizualului nr. 312/2004 privind difuzarea programelor
+locale și a programelor retransmise, publicată în Monitorul
+Oficial al României, Partea I, nr. 911 din 6 octombrie 2004,
+se modifică după cum urmează:
+
+— Alineatul (1) al articolului 5 va avea următorul
+cuprins:
+îArt. 5. — (1) Renunțarea la realizarea și difuzarea
+programului local, în condițiile prevăzute la art. 2 și 3, va fi
+pusă în aplicare numai după aprobarea de către Consiliul
+Național al Audiovizualului a solicitării radiodifuzorului.“
+
+Președintele Consiliului Național al Audiovizualului,
+Ralu Filip
+București, 19 septembrie 2005.
+Nr. 496.
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+Regia Autonomă îMonitorul Oficial“, Str. Parcului nr. 65, sectorul 1, București,
+IBAN: RO75RNCB5101000000120001 Banca Comercială Română — S.A. — Sucursala îUnirea“ București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 318.51.29/150, fax 318.51.15, E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 410.47.30, tel./fax 410.77.36 și 410.47.23
+Tiparul: Regia Autonomă îMonitorul Oficial“
+Monitorul Oficial al României, Partea I, nr. 866/26.IX.2005 conține 8 pagini.
+
+Prețul: 0,55 lei noi/5.500 lei vechi
+
+&JUYDGY|048515]
+ISSN 1453—4495
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+

@@ -1,0 +1,1750 @@
+PARTEA I
+
+Anul 179 (XXIII) — Nr. 39
+
+Luni, 17 ianuarie 2011
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+SUMAR
+
+Nr.
+
+Pagina
+ACTE ALE AUTORITĂȚII NAȚIONALE
+PENTRU ADMINISTRARE ȘI REGLEMENTARE
+ÎN COMUNICAȚII
+
+7.
+
+— Decizie privind implementarea serviciului universal
+în sectorul comunicațiilor electronice ........................
+
+2–16
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 39/17.I.2011
+
+ACTE ALE AUTORITĂȚII NAȚIONALE PENTRU
+A D M I N I S T R A R E Ș I R E G L E M E N TA R E Î N C O M U N I C A Ț I I
+AUTORITATEA NAȚIONALĂ PENTRU ADMINISTRARE ȘI REGLEMENTARE ÎN COMUNICAȚII
+
+DECIZIE
+privind implementarea serviciului universal în sectorul comunicațiilor electronice
+Având în vedere Strategia națională privind implementarea serviciului universal în sectorul comunicațiilor electronice,
+aprobată prin Ordinul ministrului comunicațiilor și societății informaționale nr. 461/2009,
+în temeiul art. 6 alin. (2) lit. d), art. 10 alin. (2) pct. 25 și 26, art. 11 alin. (1) și art. 12 alin. (1) și (3) din Ordonanța de urgență
+a Guvernului nr. 22/2009 privind înființarea Autorității Naționale pentru Administrare și Reglementare în Comunicații, aprobată prin
+Legea nr. 113/2010, precum și ale art. 4 alin. (3)—(5) și ale art. 13 alin. (2) din Legea nr. 304/2003 pentru serviciul universal și
+drepturile utilizatorilor cu privire la rețelele și serviciile de comunicații electronice, republicată,
+președintele Autorității Naționale pentru Administrare și Reglementare în Comunicații emite prezenta decizie.
+CAPITOLUL I
+Dispoziții generale
+Art. 1. — (1) Prezenta decizie reglementează modalitățile de
+implementare a serviciului universal în sectorul comunicațiilor
+electronice, prin stabilirea condițiilor și a procedurii de
+desemnare a furnizorilor de serviciu universal, astfel cum
+aceștia sunt definiți la art. 2 alin. (1) lit. g) din Legea nr. 304/2003
+pentru serviciul universal și drepturile utilizatorilor cu privire la
+rețelele și serviciile de comunicații electronice, republicată,
+precum și prin stabilirea mecanismului de compensare a
+costului net determinat de furnizarea serviciilor din sfera
+serviciului universal.
+(2) În aplicarea prevederilor prezentei decizii, Autoritatea
+Națională pentru Administrare și Reglementare în Comunicații,
+denumită în continuare ANCOM, asigură dreptul de acces la
+serviciul universal, la un anumit nivel de calitate, indiferent de
+localizarea geografică, și la tarife accesibile, cu respectarea
+principiului neutralității tehnologice, prin realizarea obiectivelor
+prevăzute la pct. 5 din Strategia națională privind implementarea
+serviciului universal în sectorul comunicațiilor electronice,
+aprobată prin Ordinul ministrului comunicațiilor și societății
+informaționale nr. 461/2009.
+Art. 2. — (1) Orice persoană are dreptul de acces la serviciile
+incluse în sfera serviciului universal, în condițiile stabilite de
+prezenta decizie.
+(2) Serviciile incluse în sfera serviciului universal, care fac
+obiectul prezentei decizii, sunt:
+a) furnizarea accesului la rețeaua publică de telefonie, la un
+punct fix;
+b) accesul la telefoanele publice cu plată;
+c) serviciul de informații privind abonații și punerea la
+dispoziție a registrelor abonaților.
+(3) Pot fi desemnați ca furnizori de serviciu universal:
+a) pentru serviciile prevăzute la alin. (2) lit. a) și b),
+persoanele care dețin cumulativ calitatea de furnizori de rețele
+publice de comunicații electronice și de servicii de telefonie
+destinate publicului;
+b) pentru serviciul prevăzut la alin. (2) lit. c), furnizorii de
+servicii de comunicații electronice destinate publicului.
+Art. 3. — (1) În înțelesul prezentei decizii, următorii termeni
+se definesc astfel:
+a) acces funcțional la internet — asigurarea serviciului de
+acces la internet, la un punct fix, care permite o viteză maximă
+de transfer a datelor pentru descărcare (download) de cel puțin
+144 kbps;
+
+b) cerere rezonabilă — cererea transmisă de un utilizator
+final pentru a i se asigura conectarea și accesul la un punct fix
+la o rețea publică de telefonie, care întrunește cumulativ
+următoarele condiții:
+— se solicită furnizarea accesului și conectării la un punct fix
+la o rețea publică de telefonie într-o localitate în care niciun
+furnizor de rețele și servicii de comunicații electronice nu poate
+oferi serviciile de acces la un punct fix la un anumit nivel minim
+de calitate;
+— nu se solicită furnizarea serviciului de către un anumit
+furnizor de servicii de telefonie destinate publicului la puncte
+fixe;
+— costurile de instalare a serviciului de acces la un punct fix
+la rețeaua publică de telefonie nu depășesc echivalentul în lei a
+5.000 de euro, la cursul de schimb valutar comunicat de Banca
+Națională a României din ziua primirii cererii;
+c) serviciu de acces la rețeaua publică de telefonie —
+punerea la dispoziția utilizatorilor finali, pe baza unui contract în
+formă scrisă și în schimbul unui tarif periodic, de regulă lunar, a
+echipamentelor sau serviciilor necesare pentru ca aceștia să
+poată beneficia de servicii de telefonie destinate publicului;
+d) serviciu de tip ăhomezone” — serviciul de telefonie
+destinat publicului la puncte fixe care se bazează pe utilizarea
+exclusivă a rețelei publice mobile de telefonie, pentru care nu
+este disponibilă procedura de predare a gestiunii apelului de la
+o celulă la alta (procedura de ăhand-over”), utilizatorii finali
+având posibilitatea să efectueze și să primească apeluri doar
+într-o zonă limitată, clar definită;
+e) serviciu de informații privind abonații — structura
+organizată de date de identificare ale abonaților serviciilor de
+telefonie destinate publicului, în formă electronică, accesibilă
+publicului printr-un serviciu de consultare prin formarea unui
+număr național scurt de forma 118(xyz) din Planul național de
+numerotație, alocat furnizorului de serviciu universal, conform
+procedurii stabilite de ANCOM, care furnizează utilizatorului
+acestui serviciu informații privind numărul sau, după caz,
+numerele de telefon sau de fax al/ale abonatului;
+f) registru al abonaților — structura organizată de date de
+identificare ale abonaților serviciilor de telefonie destinate
+publicului, accesibilă publicului în formă electronică sau tipărită,
+după caz.
+(2) În cuprinsul prezentei decizii sunt, de asemenea,
+aplicabile definițiile relevante prevăzute la art. 3 din Legea
+nr. 677/2001 pentru protecția persoanelor cu privire la
+prelucrarea datelor cu caracter personal și libera circulație a
+acestor date, cu modificările și completările ulterioare, la art. 2
+din Ordonanța Guvernului nr. 34/2002 privind accesul la rețelele
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 39/17.I.2011
+publice de comunicații electronice și infrastructura asociată,
+precum și interconectarea acestora, aprobată cu modificări și
+completări prin Legea nr. 527/2002, cu modificările și
+completările ulterioare, la art. 2 alin. (1) din Ordonanța de
+urgență a Guvernului nr. 79/2002 privind cadrul general de
+reglementare a comunicațiilor, aprobată cu modificări și
+completări prin Legea nr. 591/2002, cu modificările și
+completările ulterioare, la art. 2 alin. (1) din Legea nr. 304/2003,
+republicată, și la art. 2 alin. (1) din Legea nr. 506/2004 privind
+prelucrarea datelor cu caracter personal și protecția vieții private
+în sectorul comunicațiilor electronice, cu completările ulterioare.
+Art. 4. — (1) În domeniul de reglementare al prezentei decizii
+sunt aplicabile, în mod corespunzător, dispozițiile legale privind
+compensarea serviciilor de interes economic general.
+(2) Prevederile alin. (1) nu aduc atingere obligațiilor ce pot fi
+impuse de ANCOM în sarcina furnizorilor de rețele sau de
+servicii de comunicații electronice desemnați ca având putere
+semnificativă pe piață, în conformitate cu legislația specială din
+domeniul comunicațiilor electronice.
+(3) Obligațiile impuse furnizorilor de serviciu universal,
+desemnați în conformitate cu prezenta decizie, sunt
+suplimentare față de cele stabilite prin regimul de autorizare
+generală.
+(4) ANCOM desemnează furnizorii de serviciu universal
+pentru serviciile prevăzute la art. 2 alin. (2) prin licitație publică
+deschisă sau, ca excepție, din oficiu, în condițiile stabilite în
+prezenta decizie.
+(5) Furnizorii de serviciu universal vor fi desemnați de
+ANCOM, în condițiile alin. (4), pentru o perioadă care se
+stabilește prin decizia de desemnare a furnizorului de serviciu
+universal.
+CAPITOLUL II
+Măsuri în vederea realizării obiectivelor stabilite prin
+Strategia națională privind implementarea serviciului
+universal în sectorul comunicațiilor electronice
+SECȚIUNEA 1
+Asigurarea accesului și conectarea la un punct fix la rețelele
+publice de telefonie și a accesului la un punct fix la serviciile
+de telefonie destinate publicului
+
+Art. 5. — ANCOM desemnează furnizorii de serviciu
+universal care vor avea obligația de a asigura accesul și
+conectarea la un punct fix la rețelele publice de telefonie și a
+accesului la un punct fix la serviciile de telefonie destinate
+publicului la tarife accesibile și la un anumit nivel de calitate,
+pentru acele localități în care, pe baza studiilor efectuate, se
+constată că cererile rezonabile nu pot fi satisfăcute în condiții
+comerciale.
+Art. 6. — (1) Localitățile în care se asigură accesul la un
+punct fix la rețele publice de telefonie, potrivit art. 5, se
+determină pe baza unui studiu realizat de ANCOM, avându-se
+în vedere cererea și gradul de disponibilitate a serviciilor de
+telefonie destinate publicului.
+(2) Până la stabilirea localităților prevăzute la alin. (1),
+furnizorii de servicii de telefonie destinate publicului au obligația
+de a transmite ANCOM, în format tabelar, statistica cererilor,
+pentru fiecare localitate, în formatul prevăzut în anexa nr. 1, prin
+care li s-a solicitat asigurarea conectării și accesului la un punct
+fix, la rețeaua publică de telefonie, care nu au putut fi satisfăcute
+în condiții comerciale.
+(3) Furnizorii de servicii de telefonie destinate publicului au
+obligația de a transmite informațiile prevăzute la alin. (2) în
+format electronic, în termen de două luni de la data intrării în
+
+3
+
+vigoare a prezentei decizii, pentru toate cererile primite până la
+momentul respectiv, indiferent de vechimea acestora, precum
+și ulterior, astfel:
+a) până la data de 25 iulie, pentru cererile primite în perioada
+1 ianuarie—30 iunie;
+b) până la data de 25 ianuarie, pentru cererile primite în
+perioada 1 iulie—31 decembrie.
+(4) ANCOM poate solicita furnizorilor de servicii de telefonie
+destinate publicului să transmită copii de pe cererile incluse în
+statistica prevăzută la alin. (2).
+Art. 7. — (1) Furnizorul de serviciu universal desemnat în
+condițiile art. 5 are obligația de a rezolva toate cererile
+rezonabile în localitatea în care a fost desemnat, în termenul și
+condițiile stabilite de ANCOM.
+(2) În cazul în care cererea rezonabilă nu îndeplinește
+condiția prevăzută la art. 3 alin. (1) lit. b) a treia liniuță, utilizatorul
+final poate opta să suporte costurile suplimentare determinate
+de asigurarea conexiunii.
+(3) Conexiunea furnizată de furnizorul de serviciu universal
+desemnat trebuie să asigure servicii de telefonie destinate
+publicului la puncte fixe, inclusiv comunicații prin fax, și accesul
+funcțional la internet.
+(4) Conexiunea prevăzută la alin. (3) poate fi asigurată
+inclusiv prin intermediul unui serviciu de tip ăhomezone”.
+(5) Furnizorul de serviciu universal nu poate condiționa
+furnizarea serviciilor din sfera serviciului universal pentru care a
+fost desemnat de plata unor servicii sau facilități suplimentare,
+care nu au legătură cu serviciul furnizat, cu excepția situației în
+care acestea au fost solicitate în mod expres de utilizatorul final.
+Art. 8. — (1) Furnizorul de serviciu universal desemnat în
+condițiile prezentei secțiuni are obligația de a asigura abonaților
+următoarele facilități:
+a) la cerere, restricționarea selectivă, gratuită, a anumitor
+categorii de apeluri sau către anumite categorii de numere;
+b) plata eșalonată a tarifului de conectare la rețeaua publică
+de telefonie, inclusiv a costurilor suplimentare prevăzute la art. 7
+alin. (2).
+(2) Furnizorul de serviciu universal transmite ANCOM, în
+vederea aprobării, măsurile specifice pe care le aplică în caz de
+neplată a facturilor, în termen de 30 de zile de la data
+desemnării.
+(3) Măsurile aprobate potrivit alin. (2) se publică pe pagina de
+internet a furnizorului de serviciu universal și sunt puse la
+dispoziția utilizatorilor finali, la cerere.
+(4) În toate cazurile, în caz de neplată a facturilor,
+suspendarea serviciului nu se poate realiza decât în urma
+notificării abonatului aflat în această situație.
+(5) Deconectarea serviciului nu poate avea loc mai devreme
+de 60 de zile de la suspendare, perioadă în care abonatul poate
+iniția și primi apeluri care nu presupun nicio plată din partea
+acestuia.
+Art. 9. — (1) Tarifele percepute de furnizorul de serviciu
+universal se stabilesc pe baza principiilor transparenței și
+nediscriminării.
+(2) Tarifele practicate de furnizorul de serviciu universal în
+localitățile unde a fost desemnat să furnizeze serviciile stabilite
+de prezenta secțiune se stabilesc astfel încât abonații să nu fie
+discriminați față de alți utilizatori, pe baza localizării geografice.
+(3) Prevederile alin. (2) nu aduc atingere dreptului furnizorului
+de serviciu universal de a stabili tarife diferite pentru apeluri în
+funcție de destinație.
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 39/17.I.2011
+
+(4) Modificarea tarifelor practicate de furnizorul de serviciu
+universal pentru serviciile pentru care a fost desemnat potrivit
+prezentei secțiuni nu se poate realiza decât cu acordul prealabil
+al ANCOM, pe baza unei cereri transmise cu cel puțin 90 de zile
+în avans.
+Art. 10. — (1) Furnizorul de serviciu universal are obligația de
+a respecta și de a publica valorile parametrilor de calitate stabiliți
+de ANCOM, precum și de a aplica metodele de evaluare a
+respectării acestora.
+(2) Furnizorul de serviciu universal are obligația de a
+transmite ANCOM toate informațiile necesare în vederea
+monitorizării respectării obligațiilor prevăzute la alin. (1).
+
+Art. 11. — Modalitatea de aplicare a dispozițiilor art. 7—10 se
+stabilește prin decizia de desemnare a furnizorului de serviciu
+universal.
+Art. 12. — (1) În cazul în care consideră că furnizarea
+serviciilor incluse în sfera serviciului universal în condițiile
+prezentei secțiuni poate constitui o sarcină injustă pentru
+furnizorul de serviciu universal, ANCOM determină costul net al
+furnizării acestor servicii.
+(2) Costul net aferent furnizării serviciilor din sfera serviciului
+universal în condițiile prezentei secțiuni se determină pe baza
+următoarei formule:
+
+unde:
+Cnet — reprezintă costul net al furnizării accesului și
+conectării la un punct fix la rețeaua publică de telefonie, precum
+și a accesului la un punct fix la serviciile de telefonie destinate
+publicului înregistrat ca urmare a desemnării ca furnizor de
+serviciu universal;
+VSU — reprezintă veniturile obținute din vânzarea serviciilor
+de acces și conectare la un punct fix la rețeaua publică de
+telefonie, precum și a accesului la un punct fix la serviciile de
+telefonie destinate publicului generate de furnizarea serviciului
+universal;
+CSU — reprezintă costurile înregistrate cu furnizarea
+serviciilor de acces și conectare la un punct fix la o rețea publică
+de telefonie, precum și a accesului la un punct fix la serviciile
+de telefonie destinate publicului generate de furnizarea
+serviciului universal;
+Valte servicii — reprezintă veniturile obținute din vânzarea altor
+servicii de comunicații electronice decât cele incluse în sfera
+serviciului universal pentru care a fost desemnat către utilizatorii
+finali din localitatea în care a fost desemnat furnizorul de serviciu
+universal;
+Calte servicii — reprezintă costurile generate de furnizarea altor
+servicii de comunicații electronice decât cele incluse în sfera
+serviciului universal pentru care a fost desemnat către utilizatorii
+finali din localitatea pentru care a fost desemnat furnizorul de
+serviciu universal;
+Bintangibile — reprezintă beneficiile obținute de către furnizorul
+de serviciu universal ca urmare a deținerii calității de furnizor de
+serviciu universal, precum cele care rezultă din notorietate,
+ubicuitate sau garanția calității serviciilor certificată de
+respectarea parametrilor de calitate stabiliți prin decizia de
+desemnare.
+(3) În vederea aplicării dispozițiilor alin. (2), în cazul diferenței
+dintre veniturile și costurile rezultate din vânzarea altor servicii
+de comunicații electronice, se ia în considerare numai diferența
+pozitivă.
+(4) Veniturile obținute din vânzarea serviciilor de acces și
+conectare la un punct fix la rețeaua publică de telefonie, precum
+și a accesului la un punct fix la serviciile de telefonie destinate
+publicului generate de furnizarea serviciilor incluse în sfera
+serviciului universal includ:
+a) taxa de conectare la rețea;
+b) abonamentul lunar;
+c) veniturile obținute din furnizarea serviciilor de apeluri la
+puncte fixe (naționale, internaționale, acces dial-up la internet,
+
+către rețele publice mobile, către servicii diverse, către servicii
+cu tarif special, către numere naționale scurte);
+d) veniturile obținute din furnizarea serviciilor de terminare a
+apelurilor la puncte fixe pentru apelurile efectuate din alte rețele,
+naționale sau internaționale, către abonații din localitățile în care
+a fost desemnat furnizorul de serviciu universal.
+(5) Costurile înregistrate cu furnizarea serviciilor de acces și
+conectare la un punct fix la o rețea publică de telefonie, precum
+și a accesului la un punct fix la serviciile de telefonie destinate
+publicului generate de furnizarea serviciilor din sfera serviciului
+universal includ costurile directe determinate de:
+a) instalarea liniei de acces;
+b) gestionarea abonaților;
+c) furnizarea serviciilor de apeluri la puncte fixe (naționale,
+internaționale, acces dial-up la internet, către rețele mobile,
+către servicii diverse, către servicii cu tarif special, către numere
+naționale scurte);
+d) furnizarea serviciilor de terminare a apelurilor la puncte
+fixe pentru apelurile efectuate din alte rețele (naționale sau
+internaționale) către abonații din localitățile în care a fost
+desemnat furnizor de serviciu universal;
+e) acordarea facilităților pentru utilizatorii finali cu handicap,
+în condițiile secțiunii a 4-a.
+(6) La determinarea costurilor înregistrate cu furnizarea
+serviciilor din sfera serviciului universal se va lua în considerare
+o marjă aferentă cheltuielilor indirecte.
+(7) Veniturile obținute din vânzarea altor servicii de
+comunicații electronice decât cele incluse în sfera serviciului
+universal către utilizatorii finali din localitatea pentru care a fost
+desemnat furnizorul de serviciu universal includ, printre altele,
+veniturile obținute din furnizarea serviciilor de acces la internet,
+serviciilor de transmisiuni de date, serviciilor de retransmisie a
+programelor audiovizuale și a serviciilor de linii închiriate.
+(8) Costurile înregistrate cu furnizarea altor servicii de
+comunicații electronice decât cele incluse în sfera serviciului
+universal către utilizatorii finali din localitatea pentru care a fost
+desemnat furnizorul de serviciu universal includ, printre altele,
+costurile generate de furnizarea serviciilor de acces la internet,
+serviciilor de transmisiuni de date, serviciilor de retransmisie a
+programelor audiovizuale și a serviciilor de linii închiriate.
+(9) La determinarea costului net nu se vor lua în considerare
+costurile determinate de realizarea de către utilizatorii finali a
+apelurilor către numărul unic pentru apeluri de urgență 112.
+(10) La determinarea costului net se vor avea în vedere doar
+costurile eficiente înregistrate cu furnizarea serviciului universal
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 39/17.I.2011
+și a altor servicii de comunicații electronice către utilizatorii finali
+din localitatea pentru care a fost desemnat furnizorul de serviciu
+universal. De asemenea, se va lua în considerare și o rată
+rezonabilă de recuperare a capitalului investit.
+(11) În cazul în care există tarife orientate în funcție de costuri
+pentru furnizarea anumitor servicii, acestea vor fi utilizate pentru
+determinarea costului net.
+(12) Beneficiile intangibile se determină de ANCOM, la
+evaluarea cererii de compensare a costului net al furnizării
+serviciilor din sfera serviciului universal.
+Art. 13. — (1) În scopul aplicării dispozițiilor art. 12, furnizorul
+de serviciu universal are obligația de a ține evidența contabilă
+separată, în cadrul contabilității interne de gestiune, pentru
+activitățile care au legătură cu furnizarea serviciilor din sfera
+serviciului universal pentru care a fost desemnat, astfel încât să
+asigure o imagine clară și fidelă a activității de furnizare a
+serviciilor de comunicații electronice în localitățile în care a fost
+desemnat furnizor de serviciu universal, ca și cum aceasta ar fi
+realizată de o entitate distinctă.
+(2) În cazul în care solicită, potrivit art. 55, compensarea
+costului net, furnizorul de serviciu universal are obligația de a
+transmite anual ANCOM, în vederea calculării costului net, în
+termen de 30 de zile de la data depunerii situațiilor financiare la
+organele competente, o situație privind costurile, veniturile și
+capitalul angajat aferente furnizării de servicii de comunicații
+electronice în localitățile în care a fost desemnat furnizor de
+serviciu universal, certificată de un auditor independent care să
+asigure un nivel calitativ ridicat al auditului, într-un raport de
+constatări faptice adresat atât acționarilor operatorului
+desemnat, cât și ANCOM.
+(3) Documentul prevăzut la alin. (2) va evidenția în mod
+separat costurile și veniturile prevăzute la art. 12 alin. (4) — (9),
+precum și capitalul angajat necesar pentru furnizarea acestor
+servicii.
+(4) Raportul auditorului va indica dacă situația prevăzută la
+alin. (2) reflectă, în toate aspectele materiale, informațiile din
+documentele contabile și situațiile financiare relevante ale
+furnizorului de serviciu universal și că procedurile de colectare
+și prelucrare a informațiilor contabile respectă principiile și
+criteriile de calcul și evidență separată a costurilor, veniturilor și
+capitalului angajat stabilite de ANCOM, în conformitate cu
+Standardul internațional privind serviciile conexe 4400 al
+Federației Internaționale a Contabililor (IFAC) — Angajamente
+pentru realizarea procedurilor convenite privind informațiile
+financiare.
+(5) Principiile și criteriile de alocare a veniturilor și costurilor
+prevăzute la art. 12 alin. (4)—(9) vor fi detaliate în decizia de
+desemnare a furnizorului de serviciu universal.
+SECȚIUNEA a 2-a
+Asigurarea accesului la telefoanele publice cu plată
+
+Art. 14. — (1) ANCOM desemnează furnizorii de serviciu
+universal care vor avea obligația de a asigura accesul la
+telefoanele publice cu plată, la tarife accesibile și la un anumit
+nivel de calitate, în acele locații în care se solicită instalarea unui
+telefon public cu plată, iar niciun furnizor de servicii de
+comunicații electronice nu poate da curs solicitării în condiții
+comerciale.
+(2) Autoritățile administrației publice locale ale municipiilor,
+orașelor și comunelor pot solicita ANCOM instalarea unor
+telefoane publice cu plată, în cazul prevăzut la alin. (1), dacă
+sunt îndeplinite, în mod cumulativ, următoarele condiții:
+a) asigură cu titlu gratuit folosința unei locații adecvate
+instalării și funcționării în condiții corespunzătoare a telefonului
+
+5
+
+public cu plată (inclusiv asigurarea alimentării cu energie
+electrică a locației și/sau asigurarea locației necesare instalării
+antenei, dacă este cazul);
+b) suportă cheltuielile de întreținere a locației (energie
+electrică, salubritate etc.);
+c) asigură posibilitatea utilizatorilor finali de a efectua apeluri
+permanent (24 h/zi, 7 zile/săptămână).
+(3) ANCOM poate decide să desemneze un furnizor de
+serviciu universal pentru a asigura accesul la telefoanele publice
+cu plată, dacă sunt îndeplinite cerințele de la alin. (2), în
+următoarele condiții:
+a) nu este instalat niciun telefon public cu plată pe o rază de
+1.000 m, în cazul localităților urbane;
+b) nu este instalat niciun telefon public cu plată, în cazul
+localităților rurale sau, în cazul localităților rurale cu mai mult de
+1.000 de locuitori, este instalat un singur telefon public cu plată.
+Art. 15. — (1) Furnizorul de serviciu universal desemnat în
+condițiile art. 14 alin. (1) are obligația de a instala în localitățile
+urbane un telefon public cu plată, în aria geografică stabilită.
+(2) În cazul localităților rurale, furnizorul de serviciu universal
+desemnat are obligația de a instala un telefon public cu plată.
+Dacă localitatea respectivă are mai mult de 1.000 de locuitori,
+acesta poate instala un al doilea telefon public cu plată.
+(3) La determinarea costului net pentru furnizarea serviciilor
+din sfera serviciului universal vor fi luate în considerare doar
+costurile și veniturile aferente telefoanelor publice cu plată
+instalate cu respectarea prezentului articol.
+(4) Conexiunea pusă la dispoziție de furnizorul de serviciu
+universal desemnat trebuie să asigure posibilitatea de a realiza
+toate categoriile de apeluri locale, naționale și internaționale,
+precum și apeluri către numărul național unic pentru apeluri de
+urgență, fără a folosi niciun mijloc de plată.
+Art. 16. — (1) Tarifele percepute de furnizorul de serviciu
+universal desemnat în condițiile art. 14 alin. (1) se stabilesc pe
+baza principiilor transparenței și nediscriminării.
+(2) Tarifele practicate de furnizorul de serviciu universal
+pentru apelurile realizate de la telefoanele publice cu plată în
+localitățile unde a fost desemnat să furnizeze serviciile stabilite
+de prezenta secțiune se stabilesc astfel încât utilizatorii finali să
+nu fie discriminați față de alți utilizatori, pe baza localizării
+geografice.
+(3) Prevederile alin. (2) nu aduc atingere dreptului furnizorului
+de serviciu universal de a stabili tarife diferite pentru apeluri în
+funcție de destinație.
+(4) Modificarea tarifelor practicate de furnizorul de serviciu
+universal pentru apelurile prevăzute la alin. (2) nu se poate
+realiza decât cu acordul prealabil al ANCOM, pe baza unei cereri
+transmise cu cel puțin 90 de zile în avans.
+Art. 17. — (1) Furnizorul de serviciu universal desemnat în
+condițiile art. 14 alin. (1) are obligația de a respecta și de a
+publica valorile parametrilor de calitate stabiliți de ANCOM,
+precum și de a aplica metodele de evaluare a respectării
+acestora.
+(2) Furnizorul de serviciu universal are obligația de a
+transmite ANCOM toate informațiile necesare în vederea
+monitorizării respectării obligațiilor prevăzute la alin. (1).
+Art. 18. — (1) Furnizorul de serviciu universal desemnat în
+condițiile prezentei secțiuni poate înceta să furnizeze servicii
+prin intermediul telefonului public cu plată instalat în următoarele
+condiții:
+a) dacă cel puțin una dintre condițiile prevăzute la art. 14
+alin. (2) nu mai este îndeplinită;
+b) dacă telefonul public cu plată instalat a fost vandalizat în
+mod repetat;
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 39/17.I.2011
+
+c) dacă telefonul public cu plată are un grad scăzut de
+utilizare.
+(2) Încetarea furnizării serviciilor din sfera serviciului
+universal în condițiile alin. (1) nu se poate realiza decât cu
+acordul prealabil al ANCOM.
+Art. 19. — Modalitatea de aplicare a dispozițiilor art. 15—18
+se stabilește prin decizia de desemnare a furnizorului de serviciu
+universal.
+Art. 20. — (1) În cazul în care consideră că furnizarea
+serviciilor incluse în sfera serviciului universal în condițiile
+prezentei secțiuni poate constitui o sarcină injustă pentru
+furnizorul de serviciu universal, ANCOM determină costul net al
+furnizării serviciilor.
+(2) Costul net aferent asigurării accesului la telefoanele
+publice cu plată se determină pe baza următoarei formule:
+
+unde:
+Cnet — reprezintă costul net al asigurării accesului la
+telefoanele publice cu plată și al asigurării serviciilor de telefonie
+destinate publicului de la aceste echipamente, înregistrat ca
+urmare a desemnării ca furnizor de serviciu universal;
+VSU — reprezintă veniturile obținute din serviciile de
+comunicații electronice furnizate prin intermediul telefoanelor
+publice cu plată generate de furnizarea serviciului universal și
+din alte servicii determinate de existența telefoanelor publice cu
+plată;
+CSU — reprezintă costurile înregistrate cu furnizarea
+serviciilor de comunicații electronice prin intermediul telefoanelor
+publice cu plată generate de furnizarea serviciilor din sfera
+serviciului universal și a altor servicii determinate de existența
+telefoanelor publice cu plată;
+Bintangibile — reprezintă beneficiile obținute de către furnizorul
+de serviciu universal ca urmare a deținerii acestei calități,
+precum cele care rezultă din notorietate, ubicuitate sau garanția
+calității serviciilor certificată de respectarea parametrilor de
+calitate stabiliți prin decizia de desemnare.
+(3) Veniturile obținute din asigurarea accesului la telefoanele
+publice cu plată generate de furnizarea serviciilor din sfera
+serviciului universal și din alte servicii determinate de existența
+telefoanelor publice cu plată includ:
+a) veniturile obținute din furnizarea serviciilor de apeluri la
+puncte fixe (naționale, internaționale, către rețele publice mobile,
+către servicii diverse, către servicii cu tarif special, către numere
+naționale scurte), prin intermediul cartelelor preplătite sau al
+altor mijloace de plată;
+b) veniturile obținute din furnizarea serviciilor de originare a
+apelurilor și a serviciilor de terminare a apelurilor, dacă este
+cazul;
+c) veniturile obținute din materialele publicitare afișate în
+locația telefonului public cu plată.
+(4) Costurile înregistrate cu furnizarea serviciilor de
+comunicații electronice prin intermediul telefoanelor publice cu
+plată generate de furnizarea serviciilor din sfera serviciului
+universal și din alte servicii determinate de existența telefoanelor
+publice cu plată includ costurile directe determinate de:
+a) instalarea telefonului public cu plată și întreținerea
+acestuia;
+b) furnizarea serviciilor de apeluri la puncte fixe (naționale,
+internaționale, către rețele publice mobile, către servicii diverse,
+către servicii cu tarif special, către numere naționale scurte);
+c) acordarea facilităților pentru utilizatorii finali cu handicap,
+în condițiile secțiunii a 4-a.
+
+(5) La determinarea costurilor înregistrate cu furnizarea
+serviciilor din sfera serviciului universal se va lua în considerare
+o marjă aferentă cheltuielilor indirecte.
+(6) La determinarea costului net nu se vor lua în considerare
+costurile determinate de realizarea de către utilizatorii finali a
+apelurilor către numărul unic pentru apeluri de urgență 112.
+(7) La determinarea costului net se vor avea în vedere doar
+costurile eficiente înregistrate cu furnizarea serviciilor de
+comunicații electronice prin intermediul telefoanelor publice cu
+plată generate de furnizarea serviciilor din sfera serviciului
+universal și din alte servicii determinate de existența telefoanelor
+publice cu plată. De asemenea, se va lua în considerare și o
+rată rezonabilă de recuperare a capitalului investit.
+(8) Beneficiile intangibile se determină de ANCOM, la
+evaluarea cererii de compensare a costului net al furnizării
+serviciilor din sfera serviciului universal.
+Art. 21. — (1) În scopul aplicării dispozițiilor art. 20, furnizorul
+de serviciu universal are obligația de a ține evidența contabilă
+separată, în cadrul contabilității interne de gestiune, pentru
+activitățile care au legătură cu asigurarea accesului la
+telefoanele publice cu plată, astfel încât să asigure o imagine
+clară și fidelă a performanțelor activității de furnizare a serviciilor
+de comunicații electronice și a altor servicii determinate de
+existența telefoanelor publice cu plată în localitățile în care a fost
+desemnat furnizor de serviciu universal, ca și cum aceasta ar fi
+realizată de o entitate distinctă.
+(2) În cazul în care solicită, potrivit art. 55, compensarea
+costului net, furnizorul de serviciu universal are obligația de a
+transmite anual ANCOM, în vederea calculării costului net, în
+termen de 30 de zile de la data depunerii situațiilor financiare la
+organele competente, o situație privind costurile, veniturile și
+capitalul angajat aferente furnizării de servicii de comunicații
+electronice și a altor servicii determinate de existența
+telefoanelor publice cu plată în localitățile în care a fost
+desemnat furnizor de serviciu universal, certificată de un auditor
+independent care să asigure un nivel calitativ ridicat al auditului,
+într-un raport de constatări faptice adresat atât acționarilor
+operatorului desemnat, cât și ANCOM.
+(3) Documentul prevăzut la alin. (2) va evidenția în mod
+separat costurile și veniturile prevăzute la art. 20 alin. (3)—(6),
+precum și capitalul angajat necesar pentru furnizarea acestor
+servicii.
+(4) Raportul auditorului va indica dacă situația prevăzută la
+alin. (2) reflectă, în toate aspectele materiale, informațiile din
+documentele contabile și situațiile financiare relevante ale
+furnizorului de serviciu universal și că procedurile de colectare
+și prelucrare a informațiilor contabile respectă principiile și
+criteriile de calcul și evidența separată a costurilor, veniturilor și
+capitalului angajat stabilite de ANCOM, în conformitate cu
+Standardul internațional privind serviciile conexe 4400 al
+Federației Internaționale a Contabililor (IFAC) — Angajamente
+pentru realizarea procedurilor convenite privind informațiile
+financiare.
+(5) Principiile și criteriile de alocare a veniturilor și costurilor
+prevăzute la art. 20 alin. (3)—(6) vor fi detaliate în decizia de
+desemnare a furnizorului de serviciu universal.
+SECȚIUNEA a 3-a
+Punerea la dispoziția utilizatorilor finali a unui serviciu
+de informații privind abonații și a registrului abonaților
+
+Art. 22. — (1) ANCOM desemnează furnizorii de serviciu
+universal care vor avea obligația de a pune la dispoziția
+utilizatorilor finali de pe întreg teritoriul României un serviciu de
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 39/17.I.2011
+informații privind abonații și un registru al abonaților, la tarife
+accesibile și la un anumit nivel de calitate.
+(2) Registrul abonaților și serviciul de informații privind
+abonații puse la dispoziție în condițiile prezentei secțiuni vor
+conține informații privind abonații serviciilor de telefonie
+destinate publicului, furnizate la puncte fixe sau la puncte
+mobile, indiferent dacă plata pentru serviciile de telefonie
+destinate publicului se realizează în avans sau ulterior furnizării
+serviciilor.
+Art. 23. — (1) Furnizorii de serviciu universal desemnați
+conform prevederilor art. 22 alin. (1) vor avea următoarele
+obligații:
+a) de a realiza și a administra o bază de date completă, care
+să includă numerele de telefon și anumite date de identificare
+ale tuturor abonaților serviciilor de telefonie destinate publicului,
+în formatul prevăzut la art. 24, în vederea respectării obligațiilor
+prevăzute la lit. b) și c);
+b) de a pune la dispoziția utilizatorilor finali un registru al
+abonaților pe o pagină de internet;
+c) de a pune la dispoziția tuturor utilizatorilor finali conectați
+la o rețea publică de telefonie, indiferent de tipul rețelei și de
+tehnologia utilizată, inclusiv a utilizatorilor de telefoane publice
+cu plată, în permanență, un serviciu de informații privind
+abonații;
+d) de a actualiza, până la data de 15 a fiecărei luni, baza de
+date prevăzută la lit. a).
+(2) Serviciul de informații privind abonații și registrul
+abonaților puse la dispoziție de furnizorii de serviciu universal, în
+condițiile prezentei decizii, vor permite exclusiv căutarea
+numerelor de telefon și de fax ale abonaților, pe baza
+parametrilor prevăzuți la alin. (3). Utilizarea serviciului de
+informații privind abonații și a registrului abonaților în alte scopuri
+se realizează cu respectarea prevederilor Legii nr. 506/2004, cu
+completările ulterioare, și a altor dispoziții legale relevante.
+(3) Pentru căutarea numărului sau, după caz, a numerelor
+de telefon sau de fax al/ale abonaților serviciilor de telefonie
+destinate publicului, utilizatorii serviciului de informații privind
+abonații și ai registrului abonaților puse la dispoziție de furnizorii
+de serviciu universal, în condițiile prezentei decizii, vor utiliza
+următorii parametri:
+a) numele abonatului persoană fizică, respectiv denumirea
+abonatului persoană juridică, după caz;
+b) prenumele abonatului persoană fizică;
+c) denumirea filialei sau, după caz, a sucursalei abonatului
+persoană juridică;
+d) domiciliul abonatului persoană fizică, respectiv sediul
+social al abonatului persoană juridică, după caz, cu respectarea
+prevederilor alin. (5).
+(4) Registrul abonaților pus la dispoziție de către furnizorii de
+serviciu universal, în condițiile prezentei decizii, va furniza
+utilizatorilor acestui serviciu următoarele informații:
+a) numele abonatului persoană fizică, respectiv denumirea
+abonatului persoană juridică, după caz;
+b) prenumele abonatului persoană fizică;
+c) denumirea filialei sau, după caz, a sucursalei abonatului
+persoană juridică;
+d) domiciliul abonatului persoană fizică, respectiv sediul
+social al abonatului persoană juridică, după caz, cu respectarea
+prevederilor alin. (5);
+e) numărul sau, după caz, numerele de telefon sau de fax
+al/ale abonaților serviciilor de telefonie destinate publicului.
+(5) Informațiile prevăzute la alin. (3) lit. d) și alin. (4) lit. d) vor
+cuprinde:
+a) strada;
+b) numărul străzii;
+
+7
+
+c) localitatea: satul, orașul sau municipiul;
+d) unitatea administrativ-teritorială de bază: comuna sau
+orașul;
+e) sectorul;
+f) județul.
+Art. 24. — (1) Câmpurile bazei de date complete prevăzute
+la art. 23 alin. (1) lit. a) vor cuprinde următoarele informații cu
+privire la abonații serviciilor de telefonie destinate publicului, cu
+respectarea prevederilor legale din domeniul protecției datelor
+cu caracter personal:
+a) numele abonatului persoană fizică, respectiv denumirea
+abonatului persoană juridică, după caz (un câmp alfanumeric
+de maximum 256 de caractere);
+b) prenumele abonatului persoană fizică (un câmp
+alfanumeric de maximum 256 de caractere);
+c) domiciliul abonatului persoană fizică, respectiv sediul
+social al abonatului persoană juridică, după caz, cu respectarea
+alin. (2);
+d) codul unic de înregistrare al abonatului persoană juridică
+(un câmp numeric de maximum 13 caractere sau, după caz,
+conform formatului codului unic de înregistrare în vigoare);
+e) denumirea filialei sau, după caz, a sucursalei abonatului
+persoană juridică (un câmp alfanumeric de maximum 256 de
+caractere);
+f) numărul sau numerele de telefon al/ale abonatului, după
+caz (câte un câmp numeric de maximum 13 caractere pentru
+fiecare element);
+g) numărul sau numerele de fax al/ale abonatului, după caz
+(câte un câmp numeric de maximum 13 caractere pentru fiecare
+element).
+(2) Informațiile prevăzute la alin. (1) lit. c) vor cuprinde:
+a) strada (un câmp alfanumeric de maximum 50 de
+caractere);
+b) numărul străzii, blocul, scara, apartamentul (un câmp
+alfanumeric de maximum 60 de caractere);
+c) localitatea: satul, orașul sau municipiul (un câmp
+alfanumeric de maximum 25 de caractere);
+d) unitatea administrativ-teritorială de bază: comuna sau
+orașul (un câmp alfanumeric de maximum 25 de caractere);
+e) sectorul (un câmp alfanumeric de maximum 12 caractere);
+f) județul (un câmp alfanumeric de maximum 25 de
+caractere).
+Art. 25. — (1) În vederea îndeplinirii obligațiilor prevăzute la
+art. 23 alin. (1), în termen de 14 zile de la data comunicării
+deciziei de desemnare, furnizorii de serviciu universal vor
+solicita furnizorilor de servicii de telefonie destinate publicului,
+care atribuie numere de telefon abonaților, transmiterea tuturor
+informațiilor relevante necesare în vederea realizării bazei de
+date complete prevăzute la art. 23 alin. (1) lit. a).
+(2) ANCOM va transmite furnizorilor de serviciu universal
+lista furnizorilor de servicii de telefonie destinate publicului,
+titulari de licențe de utilizare a resurselor de numerotație, care
+atribuie numere de telefon abonaților, pentru asigurarea
+respectării obligației prevăzute la alin. (1).
+(3) Furnizorii de serviciu universal pot pune la dispoziția
+utilizatorilor finali un registru al abonaților, în formă tipărită,
+utilizând informațiile relevante puse la dispoziție de furnizorii de
+servicii de telefonie destinate publicului, care atribuie numere
+de telefon abonaților, conform prevederilor art. 26 alin. (1) — (6).
+Art. 26. — (1) Furnizorii de servicii de telefonie destinate
+publicului, care atribuie numere de telefon abonaților, au
+obligația de a pune la dispoziția furnizorilor de serviciu universal,
+în termen de 6 luni de la primirea unei solicitări, conform art. 25
+alin. (1), în condiții echitabile, obiective, nediscriminatorii și la
+tarife orientate către costuri, toate informațiile relevante în
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 39/17.I.2011
+
+vederea realizării bazei de date complete prevăzute la art. 23
+alin. (1) lit. a) și de a actualiza, până la data de 10 a fiecărei luni,
+informațiile transmise.
+(2) În vederea îndeplinirii obligațiilor prevăzute la alin. (1),
+furnizorii de servicii de telefonie destinate publicului, care
+atribuie numere de telefon abonaților, realizează și
+administrează, în format TXT, utilizând ca separator de câmpuri
+simbolul ăpipe”, baze de date cuprinzând informații cu privire la
+abonații proprii, în formatul prevăzut la art. 24.
+(3) În vederea îndeplinirii obligațiilor prevăzute la alin. (1),
+furnizorii de servicii de telefonie destinate publicului, care
+atribuie numere de telefon abonaților, încheie cu furnizorii de
+serviciu universal acorduri prin care se stabilesc condițiile în
+care se realizează transmiterea informațiilor relevante prevăzute
+la alin. (1).
+(4) Acordurile prevăzute la alin. (3) vor cuprinde cel puțin
+următoarele aspecte:
+a) condițiile de interoperabilitate a bazelor de date transmise
+în formatul și în termenele stabilite conform prezentei decizii;
+b) procedura de transmitere și, respectiv, de actualizare a
+informațiilor relevante prevăzute la alin. (1);
+c) tarifele pentru punerea la dispoziția furnizorilor de serviciu
+universal a informațiilor relevante prevăzute la alin. (1);
+d) răspunderea asupra corectitudinii informațiilor relevante
+transmise de furnizorii de servicii de telefonie destinate
+publicului, care atribuie numere de telefon abonaților;
+e) măsurile tehnice și organizatorice necesare pentru
+protecția datelor de identificare ale abonaților incluși în bazele
+de date împotriva distrugerii accidentale sau ilegale, pierderii,
+modificării, dezvăluirii sau accesului neautorizat, precum și
+împotriva oricărei forme de prelucrare ilegală, în condițiile Legii
+nr. 677/2001, cu modificările și completările ulterioare.
+(5) Prin derogare de la prevederile alin. (1) și ale art. 25
+alin. (1), furnizorii de servicii de telefonie destinate publicului
+nou-intrați pe piață, care atribuie numere de telefon abonaților,
+au următoarele obligații:
+a) de a solicita furnizorilor de serviciu universal, în termen de
+45 de zile de la data începerii atribuirii numerelor de telefon către
+abonați, încheierea acordurilor prevăzute la alin. (3);
+b) de a pune la dispoziția furnizorilor de serviciu universal,
+în condiții echitabile, obiective, nediscriminatorii și la tarife
+orientate către costuri, informațiile relevante în vederea realizării
+bazei de date complete prevăzute la art. 23 alin. (1) lit. a), în
+termen de 6 luni de la data începerii atribuirii numerelor de
+telefon către abonați;
+c) de a actualiza informațiile transmise furnizorilor de serviciu
+universal conform lit. b), până la data de 10 a fiecărei luni.
+(6) Furnizorii de serviciu universal au obligația să aplice
+principiul nediscriminării în tratamentul informațiilor care le-au
+fost puse la dispoziție de furnizorii de servicii de telefonie
+destinate publicului, care atribuie numere de telefon abonaților.
+(7) Furnizorii de serviciu universal au obligația de a transmite
+ANCOM o copie de pe fiecare dintre acordurile prevăzute la
+alin. (3), în termen de 10 zile de la data încheierii acestora. De
+asemenea, furnizorii de serviciu universal transmit ANCOM
+toate informațiile referitoare la modificarea sau la încetarea
+acestor acorduri, însoțite de actele doveditoare, după caz, în
+termen de 10 zile de la data la care a survenit modificarea sau
+încetarea.
+Art. 27. — (1) La stabilirea tarifelor pentru punerea la
+dispoziția furnizorilor de serviciu universal de către furnizorii de
+servicii de telefonie destinate publicului, care atribuie numere
+de telefon abonaților, a informațiilor relevante în vederea
+
+realizării bazei de date complete prevăzute la art. 23 alin. (1)
+lit. a) vor fi luate în calcul următoarele elemente de cost:
+a) costurile aferente creării și transmiterii către furnizorii de
+serviciu universal a bazei de date în formatul prevăzut la art. 24;
+b) costurile aferente actualizării și transmiterii către furnizorii
+de serviciu universal a bazei de date actualizate.
+(2) Costurile prevăzute la alin. (1) lit. a) vor cuprinde, după
+caz, costurile cu:
+a) crearea, implementarea și testarea procedurii de export a
+bazei de date în format TXT, utilizând ca separator de câmpuri
+simbolul ăpipe”;
+b) utilizarea software-ului și a hardware-ului necesare pentru
+crearea și gestiunea bazei de date prevăzute la lit. a);
+c) utilizarea serverului de comunicații, în cazul transmiterii
+on-line a bazei de date prevăzute la lit. a);
+d) suportul, respectiv cheltuielile transmiterii acestuia, în
+cazul transmiterii pe suport optic a bazei de date prevăzute la
+lit. a);
+e) manopera.
+(3) Costurile prevăzute la alin. (1) lit. b) vor cuprinde, după
+caz, costurile cu:
+a) utilizarea software-ului și hardware-ului necesare pentru
+gestiunea bazei de date prevăzute la alin. (2) lit. a);
+b) manopera;
+c) utilizarea serverului de comunicații, în cazul transmiterii
+on-line a bazei de date actualizate;
+d) suportul, respectiv cheltuielile transmiterii acestuia, în
+cazul transmiterii pe suport optic a bazei de date actualizate.
+(4) În vederea asigurării respectării obligației de orientare
+către costuri a tarifelor pentru punerea la dispoziția furnizorilor
+de serviciu universal a informațiilor relevante în vederea
+realizării bazei de date complete, furnizorii de servicii de
+telefonie destinate publicului, care atribuie numere de telefon
+abonaților, au obligația de a transmite ANCOM justificarea
+fundamentării în funcție de costuri a acestor tarife, pe baza unor
+documente contabile, comerciale ori de management intern din
+care să reiasă în mod corect și complet baza de determinare a
+costurilor, pentru fiecare dintre elementele prevăzute la
+alin. (1)—(3), detaliind totodată activitățile componente cuprinse
+în fiecare dintre acestea, inclusiv costul unitar, intervalul de timp
+alocat, resursele umane implicate, precum și costul total al
+fiecărei activități.
+(5) Justificarea prevăzută la alin. (4) va fi transmisă ANCOM
+în termen de 30 de zile de la data încheierii acordurilor
+prevăzute la art. 26 alin. (3) și, acolo unde este cazul, de la data
+modificării tarifelor prevăzute în aceste acorduri.
+Art. 28. — (1) Furnizorul de serviciu universal desemnat
+pentru asigurarea serviciului de informații privind abonații are
+obligația de a lua măsurile necesare astfel încât să asigure
+tuturor utilizatorilor finali conectați la o rețea publică de telefonie
+accesul la serviciul pe care îl oferă, inclusiv de la telefoanele
+publice cu plată.
+(2) Tarifele cu amănuntul și tarifele de gros percepute de
+furnizorul de serviciu universal desemnat în condițiile art. 22
+alin. (1) pentru furnizarea serviciului de informații privind abonații
+se stabilesc pe baza principiilor transparenței și nediscriminării.
+Art. 29. — (1) Accesul la registrul complet al abonaților în
+formă electronică se realizează în mod gratuit.
+(2) Pentru punerea la dispoziția utilizatorilor finali a unui
+registru complet al abonaților în formă tipărită, furnizorul de
+serviciu universal poate percepe un tarif rezonabil, stabilit cu
+respectarea principiilor transparenței și nediscriminării.
+Art. 30. — Modificarea tarifelor practicate de furnizorul de
+serviciu universal pentru serviciile pentru care a fost desemnat
+în condițiile prezentei secțiuni nu se poate realiza decât cu
+acordul prealabil al ANCOM, pe baza unei cereri transmise cu
+cel puțin 90 de zile în avans.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 39/17.I.2011
+Art. 31. — (1) Furnizorul de serviciu universal desemnat în
+condițiile art. 22 alin. (1) are obligația de a respecta și de a
+publica valorile parametrilor de calitate stabiliți de ANCOM,
+precum și de a aplica metodele de evaluare a respectării
+acestora.
+(2) Furnizorul de serviciu universal are obligația de a
+transmite ANCOM toate informațiile necesare în vederea
+monitorizării respectării obligațiilor prevăzute la alin. (1).
+Art. 32. — Modalitatea de aplicare a dispozițiilor art. 23—31
+se stabilește prin decizia de desemnare a furnizorului de serviciu
+universal.
+Art. 33. — (1) În cazul în care consideră că furnizarea
+serviciilor incluse în sfera serviciului universal în condițiile
+prezentei secțiuni poate constitui o sarcină injustă pentru
+furnizorul de serviciu universal, ANCOM determină costul net al
+furnizării serviciilor.
+(2) Costul net aferent punerii la dispoziția utilizatorilor finali a
+unui serviciu de informații privind abonații și a unui registru al
+abonaților se determină pe baza următoarei formule:
+
+unde:
+Cnet — reprezintă costul net al punerii la dispoziția
+utilizatorilor finali a unui serviciu de informații privind abonații
+sau a unui registru al abonaților, înregistrat ca urmare a
+desemnării ca furnizor de serviciu universal;
+VSU — reprezintă veniturile obținute din furnizarea serviciului
+de informații privind abonații sau a registrului abonaților
+generate de furnizarea serviciului universal și din servicii conexe
+determinate de furnizarea serviciilor din sfera serviciului
+universal prevăzute de prezenta secțiune;
+CSU — reprezintă costurile înregistrate cu furnizarea
+serviciului de informații privind abonații sau a registrului
+abonaților generate de furnizarea serviciilor din sfera serviciului
+universal și a unor servicii conexe determinate de furnizarea
+serviciilor din sfera serviciului universal prevăzute de prezenta
+secțiune;
+Bintangibile — reprezintă beneficiile obținute de către furnizorul
+de serviciu universal ca urmare a deținerii acestei calități,
+precum cele care rezultă din notorietate, ubicuitate sau garanția
+calității serviciilor certificată de respectarea parametrilor de
+calitate stabiliți prin decizia de desemnare.
+(3) Veniturile obținute din punerea la dispoziția utilizatorilor
+finali a serviciului de informații privind abonații și a unor servicii
+conexe includ:
+a) veniturile obținute din asigurarea accesului pe piața cu
+amănuntul la serviciul de informații privind abonații;
+b) veniturile obținute din furnizarea serviciilor de terminare a
+apelurilor la serviciul de informații privind abonații;
+c) veniturile obținute din publicitatea oferită la acest serviciu;
+d) veniturile rezultate din punerea la dispoziția unor terți a
+bazelor de date cu abonații furnizorilor de servicii de telefonie
+destinate publicului, dacă este cazul;
+e) veniturile obținute din punerea la dispoziția utilizatorilor
+finali a altor servicii determinate de furnizarea serviciilor din sfera
+serviciului universal, precum punerea la dispoziția utilizatorilor
+finali a unor registre în formă electronică sau tipărită.
+(4) Costurile înregistrate cu furnizarea serviciilor de informații
+privind abonații generate de furnizarea serviciilor din sfera
+serviciului universal și din servicii conexe determinate de
+
+9
+
+furnizarea serviciilor incluse în sfera serviciului universal cuprind
+costurile directe determinate de:
+a) costurile pentru obținerea informațiilor relevante de la
+furnizorii de servicii de telefonie destinate publicului;
+b) costurile asigurării accesului utilizatorilor finali la serviciul
+de informații privind abonații, precum echipamentele de rețea,
+legăturile de interconectare, sau pentru asigurarea accesului la
+rețea etc.;
+c) costurile aferente funcționării dispeceratului de apeluri;
+d) costurile aferente punerii la dispoziția utilizatorilor finali a
+unor servicii conexe determinate de furnizarea serviciilor din
+sfera serviciului universal, precum punerea la dispoziția
+utilizatorilor finali a unor registre în formă electronică sau tipărită;
+e) acordarea facilităților pentru utilizatorii finali cu handicap,
+în condițiile secțiunii a 4-a.
+(5) Veniturile obținute din punerea la dispoziția utilizatorilor
+finali a unui registru al abonaților în formă electronică și a unor
+servicii conexe includ:
+a) veniturile obținute din publicitatea oferită;
+b) veniturile rezultate din punerea la dispoziția unor terți a
+bazelor de date cu abonații furnizorilor de servicii de telefonie
+destinate publicului, dacă este cazul;
+c) veniturile obținute din punerea la dispoziția utilizatorilor
+finali a altor servicii determinate de furnizarea serviciilor din sfera
+serviciului universal, precum punerea la dispoziția utilizatorilor
+finali a unor registre în formă tipărită sau a unui serviciu de
+informații privind abonații.
+(6) Costurile înregistrate cu punerea la dispoziția utilizatorilor
+finali a unui registru al abonaților în formă electronică și a unor
+servicii conexe includ costurile directe determinate de:
+a) costurile pentru obținerea informațiilor relevante de la
+furnizorii de servicii de telefonie destinate publicului;
+b) costurile asigurării accesului utilizatorilor finali la registrul
+abonaților în formă electronică, precum echipamentele dedicate,
+asigurarea accesului la internet etc.;
+c) costurile aferente punerii la dispoziția utilizatorilor finali a
+unor servicii conexe furnizării serviciilor din sfera serviciului
+universal, precum punerea la dispoziția utilizatorilor finali a unor
+registre în formă tipărită sau a unui serviciu de informații privind
+abonații;
+d) acordarea facilităților pentru utilizatorii finali cu handicap,
+în condițiile secțiunii a 4-a.
+(7) La determinarea costurilor înregistrate cu furnizarea
+serviciilor din sfera serviciului universal potrivit prezentului articol
+se va lua în considerare o marjă aferentă cheltuielilor indirecte.
+(8) La determinarea costului net se vor avea în vedere doar
+costurile eficiente înregistrate cu furnizarea serviciilor de
+informații privind abonații sau a registrelor abonaților generate
+de furnizarea serviciilor din sfera serviciului universal și din alte
+servicii conexe. De asemenea, se va lua în considerare și o rată
+rezonabilă de recuperare a capitalului investit.
+(9) Beneficiile intangibile se determină de ANCOM la
+evaluarea cererii de compensare a costului net al furnizării
+serviciilor din sfera serviciului universal.
+Art. 34. — (1) În scopul aplicării dispozițiilor art. 33, furnizorul
+de serviciu universal are obligația de a ține evidența contabilă
+separată, în cadrul contabilității interne de gestiune, pentru
+activitățile care au legătură cu furnizarea serviciilor de informații
+privind abonații sau cu furnizarea registrelor abonaților, astfel
+încât să asigure o imagine clară și fidelă a performanțelor
+activității de furnizare a serviciilor din sfera serviciului universal
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 39/17.I.2011
+
+și a altor servicii conexe, ca și cum acesta ar fi realizat de o
+entitate distinctă.
+(2) În cazul în care solicită compensarea costului net, potrivit
+art. 55, furnizorul de serviciu universal are obligația de a
+transmite anual ANCOM, în vederea calculării costului net, în
+termen de 30 de zile de la data depunerii situațiilor financiare la
+organele competente, o situație privind costurile, veniturile și
+capitalul angajat aferente furnizării serviciilor din sfera serviciului
+universal pe care le furnizează potrivit prezentei secțiuni,
+certificată de un auditor independent care să asigure un nivel
+calitativ ridicat al auditului, într-un raport de constatări faptice
+adresat atât acționarilor operatorului desemnat, cât și ANCOM.
+(3) Documentul prevăzut la alin. (2) va evidenția în mod
+separat costurile și veniturile prevăzute la art. 33 alin. (3)—(7),
+precum și capitalul angajat necesar pentru furnizarea acestor
+servicii.
+(4) Raportul auditorului va indica dacă situația prevăzută la
+alin. (2) reflectă, în toate aspectele materiale, informațiile din
+documentele contabile și situațiile financiare relevante ale
+furnizorului de serviciu universal și dacă procedurile de colectare
+și prelucrare a informațiilor contabile respectă principiile și
+criteriile de calcul și evidența separată a costurilor, veniturilor și
+capitalului angajat, stabilite de ANCOM, în conformitate cu
+Standardul internațional privind serviciile conexe 4400 al
+Federației Internaționale a Contabililor (IFAC) — Angajamente
+pentru realizarea procedurilor convenite privind informațiile
+financiare.
+(5) Principiile și criteriile de alocare a veniturilor și costurilor
+prevăzute la art. 33 alin. (3)—(7) vor fi detaliate în decizia de
+desemnare a furnizorului de serviciu universal.
+SECȚIUNEA a 4-a
+Asigurarea condițiilor echivalente de acces la serviciile incluse
+în sfera serviciului universal pentru utilizatorii finali cu handicap
+
+Art. 35. — (1) ANCOM poate impune în sarcina furnizorilor de
+serviciu universal, desemnați în condițiile art. 5, art. 14 alin. (1)
+și art. 22 alin. (1), obligații privind acordarea de facilități specifice
+pentru a se asigura că utilizatorii finali cu handicap beneficiază
+de serviciile de telefonie destinate publicului, de accesul la
+telefoane publice cu plată și de serviciile de informații privind
+abonații și registrele abonaților la un nivel echivalent celui de
+care beneficiază ceilalți utilizatori finali.
+(2) Obligațiile impuse în sarcina furnizorilor de serviciu
+universal desemnați în condițiile art. 5 pot viza:
+a) transmiterea gratuită, la cerere, a condițiilor contractuale
+de prestare a serviciilor, a facturilor simple sau a oricăror
+materiale promoționale tipărite cu fonturi mai mari, în limbaj
+Braille sau prin poștă electronică, într-un format care este
+compatibil cu majoritatea programelor de citire a documentelor;
+b) asigurarea accesului facil în punctele proprii de lucru
+pentru persoanele cu deficiențe locomotorii;
+c) asigurarea accesului prin mesaje scurte scrise sau
+text-relay la numărul unic pentru apeluri de urgență;
+d) asigurarea de pachete tarifare speciale pentru persoanele
+cu deficiențe de vorbire sau de auz.
+(3) Obligațiile impuse în sarcina furnizorilor de serviciu
+universal desemnați în condițiile art. 14 alin. (1) pot include
+cerințe privind amplasarea telefoanelor publice cu plată în așa
+fel încât să fie permanent accesibile persoanelor cu deficiențe
+locomotorii sau vizuale.
+
+(4) Furnizorii de serviciu universal desemnați în condițiile
+art. 22 alin. (1) pot fi obligați să asigure, printre altele, în anumite
+limite, accesul gratuit la serviciul de informații privind abonații
+pentru persoanele care se găsesc în imposibilitatea de a
+consulta registrul abonaților din cauza deficiențelor de vedere.
+Art. 36. — (1) Pentru a beneficia de facilitățile individuale
+prevăzute la art. 35, utilizatorii finali cu handicap trebuie să
+transmită furnizorului de serviciu universal o cerere, însoțită de
+o copie de pe certificatul privind încadrarea în gradul și tipul de
+handicap.
+(2) Acordarea facilităților prevăzute la art. 35 se realizează în
+funcție de necesitățile de protecție a utilizatorului final cu
+handicap, care depune o cerere în condițiile alin. (1).
+Art. 37. — Obligațiile specifice privind asigurarea facilităților
+pentru utilizatorii finali cu handicap se stabilesc prin decizia de
+desemnare a furnizorului de serviciu universal.
+CAPITOLUL III
+Desemnarea prin licitație publică deschisă
+Art. 38. — (1) Desemnarea prin licitație publică deschisă a
+furnizorilor de serviciu universal, în conformitate cu prevederile
+prezentei decizii, se organizează cu respectarea principiilor
+liberei concurențe, transparenței, nediscriminării, confidențialității,
+eficienței și obiectivității.
+(2) Etapele de desfășurare a licitației sunt următoarele:
+a) elaborarea documentației licitației și publicarea anunțului
+de participare la licitație;
+b) obținerea documentației de către persoanele interesate;
+c) depunerea ofertelor de către persoanele care au obținut
+documentația licitației;
+d) evaluarea ofertelor și desemnarea câștigătorului;
+e) comunicarea rezultatului licitației.
+Art. 39. — (1) Licitația va fi organizată de o comisie
+desemnată prin decizie a președintelui ANCOM.
+(2) Comisia de licitație va fi formată dintr-un președinte și
+minimum 4 membri din cadrul ANCOM, specialiști în domeniile
+economic, tehnic și juridic. Comisia de licitație va avea la
+dispoziție un secretar care va întocmi procesele-verbale.
+(3) Comisia de licitație are următoarele atribuții:
+a) elaborarea documentației licitației și publicarea anunțului
+de participare la licitație;
+b) verificarea documentației depuse de ofertanți;
+c) verificarea îndeplinirii condițiilor de eligibilitate a
+ofertanților;
+d) evaluarea ofertelor și desemnarea câștigătorului;
+e) comunicarea rezultatului licitației;
+f) elaborarea proiectului deciziei de desemnare a furnizorului
+de serviciu universal.
+(4) Nu pot fi membri ai comisiei de licitație:
+a) soțul/soția ori rudele și afinii, până la gradul al IV-lea
+inclusiv, ai persoanelor care fac parte din consiliul de
+administrație/organul de conducere sau de supervizare a unuia
+dintre ofertanți;
+b) persoanele despre care se constată că pot avea un interes
+de natură să le afecteze imparțialitatea pe parcursul procedurii
+de licitație;
+c) persoanele care în exercitarea funcției pe care o dețin în
+ANCOM se află în situația existenței unui conflict de interese,
+astfel cum acesta este reglementat de Legea nr. 161/2003
+privind unele măsuri pentru asigurarea transparenței în
+exercitarea demnităților publice, a funcțiilor publice și în mediul
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 39/17.I.2011
+de afaceri, prevenirea și sancționarea corupției, cu modificările
+și completările ulterioare.
+Art. 40. — (1) În vederea inițierii procedurii de licitație,
+ANCOM publică un anunț de participare la licitație cel puțin
+într-un cotidian național de mare tiraj și pe pagina sa de internet,
+cu minimum 45 de zile înainte de data deschiderii ofertelor.
+(2) Anunțul de participare la licitație va conține, în mod
+obligatoriu, următoarele informații:
+a) serviciile din sfera serviciului universal, precum și
+localitățile, în cazul serviciilor prevăzute la art. 5 și art. 14
+alin. (1), pentru care se intenționează desemnarea unor furnizori
+de serviciu universal;
+b) data organizării licitației;
+c) locul de unde poate fi procurată documentația licitației;
+d) data-limită până la care poate fi procurată documentația
+licitației;
+e) data-limită pentru solicitarea clarificărilor;
+f) data-limită pentru depunerea ofertelor, care nu va fi mai
+devreme de 40 de zile de la data publicării anunțului de
+participare;
+g) locul unde trebuie depuse ofertele;
+h) data, ora și locul deschiderii ofertelor.
+Art. 41. — (1) ANCOM pune la dispoziția oricărui solicitant,
+începând cu data publicării anunțului de participare la licitație,
+documentația licitației, care cuprinde:
+a) cererea-tip de desemnare ca furnizor de serviciu universal;
+b) informații privind datele-limită care trebuie respectate și
+formalitățile ce trebuie îndeplinite, dacă este cazul, pentru a
+participa la procedura de licitație;
+c) documentele care urmează să fie prezentate de ofertant
+pentru evaluarea eligibilității solicitanților;
+d) cerințele minime de calificare, precum și documentele care
+urmează să fie prezentate de ofertanți pentru îndeplinirea
+criteriilor de calificare și selecție;
+e) caietul de sarcini;
+f) instrucțiuni privind modul de elaborare a propunerii tehnice
+și a celei financiare;
+g) informații detaliate și complete privind criteriile aplicate
+pentru desemnarea furnizorului de serviciu universal, inclusiv
+grila de punctaj;
+h) alte documente necesare în vederea participării la licitație.
+(2) ANCOM asigură obținerea documentației licitației și în
+format electronic, prin asigurarea accesului direct de pe pagina
+proprie de internet.
+Art. 42. — Cererea-tip de desemnare ca furnizor de serviciu
+universal are formatul prevăzut în anexa nr. 2 și este însoțită de
+următoarele documente:
+a) certificat constatator emis de Oficiul Național al Registrului
+Comerțului privind inexistența unei proceduri de dizolvare
+voluntară, judiciară sau ca urmare a aplicării procedurilor de
+insolvență, unei proceduri de reorganizare judiciară ori a unei
+proceduri de concordat preventiv;
+b) copii ale situațiilor financiare anuale pentru ultimii 3 ani
+sau pentru toată perioada scursă de la înființare, în cazul în care
+aceasta este mai mică de 3 ani, depuse la organele competente
+la care se înregistrează, potrivit legislației în vigoare;
+c) propunerea tehnică împreună cu descrierea detaliată a
+mijloacelor tehnologice, materiale și umane pe baza cărora
+solicitantul va asigura furnizarea serviciilor din sfera serviciului
+universal pentru care solicită desemnarea;
+
+11
+
+d) propunerea financiară împreună cu justificarea
+eventualelor pierderi determinate de furnizarea serviciilor din
+sfera serviciului universal pentru care solicită desemnarea;
+e) orice alte documente solicitate prin documentația licitației.
+Art. 43. — Caietul de sarcini conține cel puțin următoarele:
+a) specificațiile tehnice, cerințele economice și calitative
+minime de furnizare a serviciilor din sfera serviciului universal;
+b) cerințele financiare pe care ofertantul trebuie să le
+îndeplinească;
+c) obligațiile care incumbă furnizorului de serviciu universal
+în urma desemnării;
+d) drepturile furnizorului de serviciu universal.
+Art. 44. — (1) ANCOM va accepta orice solicitare de
+clarificări cu privire la procedura de licitație până la data-limită
+prevăzută în anunțul de participare la licitație.
+(2) Solicitările de clarificări trebuie întocmite în scris și
+depuse la sediul central al ANCOM de către un reprezentant al
+solicitantului, sub luare de semnătură, sau transmise prin
+serviciul de trimitere recomandată cu confirmare de primire.
+(3) ANCOM publică răspunsurile la solicitările primite, însoțite
+de întrebările aferente, pe pagina proprie de internet, cu cel
+puțin 6 zile lucrătoare înainte de data-limită stabilită pentru
+depunerea ofertelor, fără a dezvălui identitatea solicitantului.
+Art. 45. — (1) ANCOM poate aduce modificări documentației
+licitației, din propria inițiativă sau în urma solicitărilor primite.
+(2) Modificările se publică pe pagina de internet a ANCOM,
+cu cel puțin 7 zile lucrătoare înainte de data-limită pentru
+depunerea ofertelor.
+(3) În cazul în care modificările realizate schimbă semnificativ
+condițiile prevăzute în documentația licitației, ANCOM poate
+decide prelungirea termenului-limită pentru depunerea ofertelor.
+Art. 46. — (1) Licitația se desfășoară pe bază de oferte
+ferme, definitive, irevocabile și necondiționate, depuse în
+conformitate cu documentația licitației.
+(2) Ofertele se depun personal de către reprezentantul
+solicitantului, în plic închis, sigilat, sub luare de semnătură, sau
+prin serviciul de trimitere recomandată cu confirmare de primire.
+(3) Oferta are caracter obligatoriu, din punctul de vedere al
+conținutului, pe toată perioada de valabilitate stabilită de
+ANCOM.
+(4) Ofertantul are obligația de a depune oferta la adresa și
+până la data și ora-limită pentru depunere stabilite în anunțul de
+participare.
+(5) Riscurile transmiterii ofertei, inclusiv forța majoră, cad în
+sarcina ofertantului.
+(6) Oferta depusă la o altă adresă a ANCOM decât cea
+stabilită ori după data sau ora-limită pentru depunere se
+returnează nedeschisă.
+Art. 47. — (1) Mai mulți furnizori de rețele sau de servicii de
+comunicații electronice au dreptul de a se asocia și de a depune
+o ofertă în comun, fără a fi obligați să își prezinte asocierea într-o
+formă legalizată. Aceștia își vor asuma în solidar obligația pentru
+oferta comună.
+(2) Solicitantul are dreptul de a contracta cu alte persoane
+lucrări sau servicii specifice în scopul îndeplinirii cerințelor
+tehnice, economice și calitative de furnizare a serviciilor din
+sfera
+serviciului
+universal.
+Solicitantul
+își
+asumă
+responsabilitatea pentru toate obligațiile din ofertă.
+(3) Solicitantul nu are posibilitatea de a depune oferte
+alternative.
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 39/17.I.2011
+
+(4) Ofertantul nu are dreptul, în cadrul aceleiași proceduri:
+a) să depună două sau mai multe oferte individuale sau
+comune, sub sancțiunea excluderii tuturor ofertelor;
+b) să depună ofertă individuală sau comună și să fie
+nominalizat ca subcontractant, potrivit alin. (2), în cadrul unei
+alte oferte, sub sancțiunea excluderii ofertei individuale ori
+comune.
+(5) ANCOM poate interzice, prin documentație, participarea
+cu oferte individuale la aceeași procedură de licitație a
+persoanelor din același grup de operatori economici.
+(6) În înțelesul prezentei decizii, grupul de operatori
+economici este definit astfel:
+a) ofertantul;
+b) operatorii economici la care ofertantul implicat, în mod
+direct sau indirect, îndeplinește una dintre următoarele condiții:
+— deține mai mult de jumătate din capitalul social subscris
+sau din active;
+— are puterea de a exercita mai mult de jumătate din
+drepturile de vot în adunarea generală a asociaților/acționarilor;
+— are puterea de a desemna mai mult de jumătate din
+numărul membrilor consiliului de administrație, consiliului de
+supraveghere, directoratului sau ai oricăror altor structuri care îi
+reprezintă legal pe operatorii economici;
+— are dreptul să conducă afacerile operatorilor economici
+respectivi;
+c) operatorii economici care dețin la ofertantul implicat
+drepturile sau puterile prevăzute la lit. b);
+d) operatorii economici la care un operator economic dintre
+cei prevăzuți la lit. c) deține drepturile sau puterile prevăzute la
+lit. b);
+e) operatorii economici (societățile în comun) la care 2 sau
+mai mulți operatori economici dintre cei prevăzuți la lit. a)—c)
+dețin în comun drepturile ori puterile prevăzute la lit. b).
+Art. 48. — (1) Comisia de licitație evaluează exclusiv ofertele
+depuse până la data-limită de depunere a ofertelor.
+(2) Comisia de licitație are obligația de a deschide ofertele la
+data, ora și în locul indicate în anunțul de participare la licitație.
+(3) Licitația se desfășoară în prezența tuturor membrilor
+comisiei de licitație.
+(4) Orice ofertant are dreptul de a fi reprezentat la
+deschiderea ofertelor.
+(5) Comisia de licitație are dreptul de a respinge o ofertă în
+unul dintre următoarele cazuri:
+a) oferta nu conține cererea-tip de desemnare ca furnizor de
+serviciu universal sau vreunul dintre documentele prevăzute la
+art. 42;
+b) oferta nu îndeplinește condițiile de formă prevăzute în
+documentația licitației;
+c) ofertantul nu și-a îndeplinit sau și-a îndeplinit în mod
+defectuos în ultimii 5 ani obligațiile care îi incumbau în calitate
+de furnizor de serviciu universal;
+d) ofertantul prezintă informații false sau nu prezintă
+informațiile solicitate de către ANCOM în scopul demonstrării
+îndeplinirii criteriilor de calificare și selecție;
+e) ofertantul nu și-a îndeplinit obligațiile de plată către
+bugetul ANCOM.
+(6) Comisia de licitație poate solicita ofertanților orice
+documente, informații suplimentare sau clarificări necesare în
+vederea stabilirii ofertei câștigătoare, indicând și termenul în
+care acestea trebuie depuse.
+
+(7) Rezultatele deschiderii ofertelor se constată printr-un
+proces-verbal, semnat de membrii comisiei de licitație și de
+reprezentanții ofertanților prezenți.
+Art. 49. — În cazul în care nu a fost depusă nicio ofertă sau
+dacă ofertele participanților au fost respinse potrivit art. 48
+alin. (1) sau (5), licitația se poate repeta după trecerea a cel
+puțin 15 zile de la data stabilită pentru deschiderea ofertelor
+precedentei licitații sau se poate proceda la desemnarea din
+oficiu a furnizorului de serviciu universal, în conformitate cu
+prevederile cap. IV.
+Art. 50. — (1) Termenul de analizare a ofertelor de către
+comisia de licitație în vederea stabilirii ofertei câștigătoare nu
+poate depăși 60 de zile de la data deschiderii ofertelor.
+(2) Termenul prevăzut la alin. (1) poate fi prelungit de comisia
+de licitație o singură dată, temeinic motivat, pentru o perioadă de
+cel mult 30 de zile.
+(3) Justificarea prevăzută la alin. (2) se transmite tuturor
+ofertanților.
+(4) În vederea stabilirii ofertei câștigătoare, comisia de
+licitație ia în considerare unul sau mai multe dintre următoarele
+criterii:
+a) propunerea cea mai avantajoasă din punct de vedere
+economic;
+b) capacitatea tehnică, economică și financiară a ofertantului;
+c) propunerea cea mai avantajoasă din punct de vedere
+tehnic;
+d) serviciile oferite și capacitatea ofertantului de a le asigura;
+e) tarifele la nivel de gros sau la nivel cu amănuntul
+practicate, după caz, pentru asigurarea serviciilor din sfera
+serviciului universal și a eventualelor servicii suplimentare;
+f) calitatea serviciilor;
+g) facilitățile puse la dispoziția utilizatorilor finali cu handicap
+pentru a le asigura condiții echivalente de acces la serviciile
+incluse în sfera serviciului universal;
+h) alte criterii prevăzute în caietul de sarcini.
+(5) Pe baza criteriilor prevăzute la alin. (4), comisia de licitație
+completează grila de punctaj, în conformitate cu documentația
+licitației, pentru fiecare ofertant.
+(6) Comisia de licitație va declara câștigătoare oferta care a
+întrunit cel mai mare număr de puncte, pe baza grilei de punctaj.
+(7) Rezultatul licitației se consemnează într-un proces-verbal,
+care se aprobă de președintele ANCOM.
+(8) ANCOM va transmite simultan tuturor ofertanților o
+înștiințare privind rezultatul licitației.
+(9) Ofertanții a căror ofertă nu a fost declarată câștigătoare
+vor fi informați cu privire la motivele care au stat la baza
+respingerii propriei oferte sau cu privire la motivele care au
+determinat desemnarea unei alte oferte ca fiind câștigătoare.
+Art. 51. — (1) Persoanele interesate pot depune contestație
+privind rezultatul licitației, în termen de 5 zile lucrătoare de la
+primirea înștiințării prevăzute la art. 50 alin. (8). Contestația
+trebuie întocmită în scris și depusă la sediul central al ANCOM
+de către un reprezentant al solicitantului, sub luare de
+semnătură, sau transmisă prin serviciul de trimitere
+recomandată cu confirmare de primire.
+(2) În termen de 10 zile lucrătoare de la data depunerii
+contestațiilor, o comisie desemnată de președintele ANCOM prin
+decizie, cu respectarea condițiilor prevăzute la art. 39, formată
+din alte persoane decât cele care au făcut parte din comisia de
+licitație, soluționează contestațiile și încheie un proces-verbal,
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 39/17.I.2011
+aprobat de președintele ANCOM. Rezultatul se comunică în
+scris contestatarilor.
+(3) Pe baza rezultatelor licitației, comisia de licitație sau,
+respectiv, comisia de soluționare a contestațiilor elaborează
+proiectul deciziei de desemnare a furnizorului de serviciu
+universal, pe care îl supune spre aprobare președintelui
+ANCOM.
+Art. 52. — În cazul în care comisia de licitație sau comisia
+de soluționare a contestațiilor constată, în urma analizării
+ofertelor, că niciunul dintre ofertanți nu îndeplinește condițiile
+pentru a fi desemnat ca furnizor de serviciu universal, licitația
+se poate repeta după trecerea a cel puțin 15 zile de la data
+procesului-verbal de constatare a rezultatului licitației sau,
+respectiv, a procesului-verbal de soluționare a contestației ori
+se poate proceda la desemnarea din oficiu a furnizorului de
+serviciu universal, în conformitate cu prevederile cap. IV.
+CAPITOLUL IV
+Desemnarea din oficiu
+Art. 53. — (1) ANCOM poate desemna din oficiu un furnizor
+de rețele sau de servicii de comunicații electronice ca furnizor de
+serviciu universal în cazurile prevăzute la art. 49 și 52.
+(2) Desemnarea din oficiu a furnizorului de serviciu universal
+se realizează prin decizie a președintelui ANCOM, cu
+respectarea procedurii de consultare prevăzute la art. 50 din
+Ordonanța de urgență a Guvernului nr. 79/2002, aprobată cu
+modificări și completări prin Legea nr. 591/2002, cu modificările
+și completările ulterioare.
+Art. 54. — (1) În vederea desemnării din oficiu a furnizorului
+de serviciu universal, președintele ANCOM stabilește, prin
+decizie, o comisie de evaluare care îndeplinește condițiile
+prevăzute la art. 39.
+(2) Comisia de evaluare propune desemnarea unui furnizor
+de rețele sau de servicii de comunicații electronice ca furnizor de
+serviciu universal pe baza unuia ori a mai multor criterii dintre
+cele prevăzute la art. 50 alin. (4), precum și, dacă este cazul,
+pe baza altor criterii relevante, cu respectarea principiului
+eficienței, în special din punctul de vedere al costurilor,
+obiectivității, transparenței și al nediscriminării.
+CAPITOLUL V
+Compensarea costului net al furnizării serviciilor din sfera
+serviciului universal și mecanismul de finanțare
+Art. 55. — (1) Dacă în urma calculării costului net al furnizării
+serviciilor din sfera serviciului universal potrivit dispozițiilor
+art. 12, 20 sau 33, ANCOM constată că furnizarea serviciilor din
+sfera serviciului universal constituie o sarcină injustă pentru
+furnizorul de serviciu universal, poate decide, la cererea
+acestuia, compensarea costului net determinat de furnizarea
+serviciilor pentru care a fost desemnat.
+(2) Cererea prevăzută la alin. (1) se transmite anual,
+împreună cu situația privind costurile, veniturile și capitalul
+angajat aferente furnizării serviciilor din sfera serviciului
+universal și a serviciilor conexe, cu respectarea dispozițiilor
+art. 13, 21 sau 34.
+(3) În toate cazurile, când este vorba despre desemnări prin
+licitație publică deschisă, potrivit cap. III, costul net al furnizării
+serviciilor din sfera serviciului universal compensat nu poate
+depăși suma stabilită în propunerea economică a furnizorului de
+serviciu universal.
+
+13
+
+(4) În cazul desemnării din oficiu, se poate compensa costul
+net al furnizării serviciilor din sfera serviciului universal
+determinat de ANCOM, potrivit alin. (1).
+(5) ANCOM decide cu privire la compensarea costului net și,
+dacă este cazul, cu privire la suma ce urmează a fi compensată,
+în termen de 90 de zile de la primirea unei cereri în condițiile
+prezentului articol.
+Art. 56. — Compensarea costului net al furnizării serviciilor
+din sfera serviciului universal se bazează pe resurse financiare
+provenite din contribuțiile furnizorilor de rețele publice de
+comunicații electronice și ale furnizorilor de servicii de telefonie
+destinate publicului, ce vor fi administrate de ANCOM, fiind
+evidențiate în mod distinct în cadrul bugetului de venituri și
+cheltuieli al instituției.
+Art. 57. — (1) Pentru necesitățile de finanțare a serviciului
+universal, ANCOM percepe de la furnizorii de rețele publice de
+comunicații electronice și de la furnizorii de servicii de telefonie
+destinate publicului cu o cifră de afaceri înregistrată în anul
+precedent mai mare sau egală cu 3.000.000 de euro o
+contribuție direct proporțională cu cifra lor de afaceri.
+(2) În vederea determinării cuantumului contribuției, din cifra
+de afaceri se scad în prealabil veniturile provenite din furnizarea
+accesului pe piața de gros, inclusiv din serviciile de
+interconectare și din serviciile de roaming, precum și din
+furnizarea serviciilor de retransmisie a programelor audiovizuale
+pe piața cu amănuntul.
+(3) Necesarul total de finanțare al serviciului universal se
+stabilește anual prin însumarea costurilor nete rezultate în
+condițiile prezentei decizii.
+(4) Cifra de afaceri este cea prevăzută în situațiile financiare
+anuale întocmite pentru anul anterior celui pentru care se
+datorează contribuția.
+(5) Persoanele obligate la plata contribuției se stabilesc în
+funcție de cuantumul cifrei de afaceri calculat în euro la cursul
+de schimb valutar mediu al anului în care a fost realizată cifra de
+afaceri, comunicat de Banca Națională a României.
+(6) Persoanele obligate la plata contribuției sunt cele care au
+calitatea de furnizor de rețele publice de comunicații electronice
+sau de furnizor de servicii de telefonie destinate publicului la
+data de 31 decembrie a anului anterior celui pentru care se
+datorează contribuția.
+(7) În vederea determinării cuantumului contribuțiilor
+individuale datorate de furnizorii prevăzuți la alin. (1), aceștia
+sunt obligați să transmită ANCOM, până la data de 30 iunie, o
+situație în care să fie evidențiate veniturile realizate în anul
+anterior din furnizarea accesului pe piața de gros, inclusiv din
+serviciile de interconectare și din serviciile de roaming, precum
+și din furnizarea serviciilor de retransmisie a programelor
+audiovizuale pe piața cu amănuntul.
+(8) În situația în care furnizorii prevăzuți la alin. (1) nu
+transmit declarațiile pe propria răspundere în condițiile alin. (7),
+la determinarea cuantumului contribuțiilor individuale se ia în
+calcul întreaga cifră de afaceri a acestora.
+Art. 58. — (1) În vederea determinării furnizorilor obligați la
+plata contribuției, precum și în vederea stabilirii cuantumului
+contribuției, furnizorii de rețele publice de comunicații electronice
+și furnizorii de servicii de telefonie destinate publicului pot solicita
+luarea în considerare a veniturilor rezultate exclusiv din
+furnizarea de rețele sau servicii de comunicații electronice, în
+locul cifrei de afaceri prevăzute în situațiile financiare anuale
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 39/17.I.2011
+
+întocmite pentru anul anterior celui pentru care se datorează
+contribuția.
+(2) În vederea stabilirii veniturilor rezultate exclusiv din
+furnizarea de rețele sau servicii de comunicații electronice,
+furnizorii sunt obligați să țină contabilitatea în mod distinct în
+ceea ce privește veniturile obținute din aceste activități, în
+același mod în care acest lucru s-ar realiza dacă aceste activități
+ar fi desfășurate de entități cu personalitate juridică distinctă.
+(3) Certificarea veniturilor prevăzute la alin. (2), precum și a
+veniturilor realizate din furnizarea accesului pe piața de gros,
+inclusiv din serviciile de interconectare și din serviciile de
+roaming, precum și din furnizarea serviciilor de retransmisie a
+programelor audiovizuale pe piața cu amănuntul, se va realiza
+de un auditor independent, în condițiile stabilite de ANCOM.
+Art. 59. — Procedura de aplicare a prevederilor art. 57 și 58
+se stabilește prin decizie a președintelui ANCOM.
+Art. 60. — (1) Cuantumul contribuțiilor individuale datorate
+de furnizorii prevăzuți la art. 57 alin. (1) se stabilește anual, prin
+decizie a președintelui ANCOM, în termen de 30 de zile de la
+data stabilirii necesarului de finanțare determinat potrivit art. 57
+alin. (3).
+(2) Plata contribuției se efectuează în termen de 45 de zile de
+la comunicarea deciziei prevăzute la alin. (1).
+Art. 61. — Furnizorilor de serviciu universal li se virează
+suma ce constituie costul net al furnizării serviciilor incluse în
+sfera serviciului universal pentru care au fost desemnați în
+termen de 7 luni de la primirea unei cereri realizate cu
+respectarea tuturor condițiilor stabilite la art. 55.
+CAPITOLUL VI
+Dispoziții speciale, tranzitorii și finale
+Art. 62. — Calitatea de furnizor de serviciu universal poate fi
+retrasă, prin decizie a președintelui ANCOM, în cazul în care
+furnizorul de serviciu universal se face vinovat de
+nerespectarea, în mod grav sau repetat, a obligațiilor, condițiilor,
+standardelor, regulilor, procedurilor și a termenelor prevăzute în
+sarcina furnizorului de serviciu universal prin decizia de
+desemnare.
+
+Art. 63. — Calitatea de furnizor de serviciu universal
+încetează în următoarele cazuri:
+a) ca urmare a încetării dreptului de a furniza rețelele și
+serviciile de comunicații electronice pentru care a fost desemnat
+furnizor de serviciu universal, potrivit art. 2 alin. (3);
+b) la expirarea perioadei pentru care a fost desemnat;
+c) ca urmare a retragerii acestei calități de către ANCOM în
+condițiile prevăzute la art. 62;
+d) în cazul în care furnizorul de serviciu universal se află în
+imposibilitatea obiectivă de a furniza serviciile pentru care a fost
+desemnat, din motive neimputabile acestuia, pentru o perioadă
+mai lungă de 90 de zile de la primirea unei notificări din partea
+ANCOM cu privire la limitarea parțială sau totală a accesului
+utilizatorilor finali la serviciile furnizate și la cauzele care
+determină limitarea.
+Art. 64. — Obligațiile impuse furnizorilor de serviciu universal
+potrivit dispozițiilor Deciziei președintelui Autorității Naționale de
+Reglementare în Comunicații nr. 1.074/EN/2004 privind
+implementarea serviciului universal în sectorul comunicațiilor
+electronice, cu modificările și completările ulterioare, în urma
+aplicării procedurilor de desemnare prin licitație, își produc
+efectele, până la încetarea acestora, în limitele și în condițiile
+stabilite prin deciziile de desemnare a furnizorilor de serviciu
+universal.
+Art. 65. — Dispozițiile prevăzute la art. 57—60 se aplică de
+la data stabilită prin decizie a președintelui ANCOM.
+Art. 66. — Anexele nr. 1 și 2 fac parte integrantă din prezenta
+decizie.
+Art. 67. — (1) Prezenta decizie se publică în Monitorul Oficial
+al României, Partea I, și intră în vigoare la 3 zile de la publicare.
+(2) La data intrării în vigoare a prezentei decizii se abrogă
+Decizia președintelui Autorității Naționale de Reglementare în
+Comunicații nr. 1.074/EN/2004 privind implementarea serviciului
+universal în sectorul comunicațiilor electronice, publicată în
+Monitorul Oficial al României, Partea I, nr. 750 din 18 august
+2004, cu modificările și completările ulterioare.
+
+Președintele Autorității Naționale pentru Administrare și Reglementare în Comunicații,
+Marius Cătălin Marinescu
+București, 4 ianuarie 2011.
+Nr. 7.
+ANEXA Nr. 1
+
+S TAT I S T I C A
+
+cererilor de asigurare a conectării și accesului la un punct fix la rețeaua publică de telefonie
+care nu au putut fi satisfăcute în condiții comerciale
+în perioada ....................... — .......................
+depuse la ................................
+(denumirea furnizorului)
+Nr.
+crt.
+
+Județul
+
+Comuna/Orașul/Municipiul
+de care aparține localitatea
+
+Localitatea
+
+Numele și prenumele
+solicitantului
+
+Adresa
+
+Datele de contact
+
+Data depunerii
+cererii
+
+...................................................................................
+(numele, prenumele, funcția și semnătura persoanei autorizate,
+precum și ștampila furnizorului)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 39/17.I.2011
+
+15
+ANEXA Nr. 2
+
+CERERE*)
+de desemnare ca furnizor
+A. Date necesare identificării solicitantului și comunicării eficiente cu acesta
+
+*) Cererea este reprodusă în facsimil.
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 39/17.I.2011
+
+B. Descrierea serviciilor din sfera serviciului universal
+pe care solicitantul intenționează să le furnizeze în calitate
+de furnizor de serviciu universal:
+B.1. Furnizarea accesului și conectarea la un punct fix la
+o rețea publică de telefonie și asigurarea accesului la un punct
+fix la serviciile de telefonie destinate publicului
+B.2. Accesul la telefoanele publice cu plată
+B.3. Serviciul de informații privind abonații
+B.4. Punerea la dispoziție a registrelor abonaților.
+C. Localitatea/localitățile pentru care se solicită
+desemnarea ca furnizor de serviciu universal, pentru
+furnizarea accesului și conectarea la un punct fix la o rețea
+publică de telefonie, a accesului la un punct fix la servicii de
+telefonie destinate publicului sau pentru furnizarea
+accesului la telefoane publice cu plată (în cazul în care
+spațiul nu este suficient, se va prezenta o anexă la cererea
+de desemnare):
+D. La prezenta cerere de desemnare ca furnizor de
+serviciu universal sunt anexate următoarele documente:
+certificat constatator emis de Oficiul Național al Registrului
+Comerțului privind inexistența unei proceduri de dizolvare
+
+voluntară, judiciară sau ca urmare a aplicării procedurilor de
+insolvență, unei proceduri de reorganizare judiciară ori a unei
+proceduri de concordat preventiv;
+copii ale situațiilor financiare anuale pentru ultimii 3 ani
+sau pentru toată perioada scursă de la înființare, în cazul în care
+aceasta este mai mică de 3 ani, depuse la organele competente
+la care se înregistrează, potrivit legislației în vigoare;
+propunerea tehnică împreună cu descrierea detaliată a
+mijloacelor tehnologice, materiale și umane pe baza cărora
+solicitantul va asigura furnizarea serviciilor din sfera serviciului
+universal pentru care solicită desemnarea;
+propunerea financiară împreună cu justificarea eventualelor
+pierderi determinate de furnizarea serviciilor din sfera serviciului
+universal pentru care solicită desemnarea;
+alte documente solicitate prin documentația licitației.
+E. Subsemnatul, ......................................... reprezentant
+legal al solicitantului, declar pe propria răspundere,
+cunoscând prevederile art. 292 din Codul penal privind
+infracțiunea de fals în declarații, că toate datele și
+informațiile cuprinse în prezenta cerere și în documentele
+anexate sunt corecte și complete.
+
+Data completării:
+Semnătura reprezentantului legal și ștampila solicitantului
+
+Gabriel S. Popa
+
+Motivul: Format electronic AUTENTIC, conform Legii nr. 202/1998, republicata.
+Locatia: Bucuresti
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+ăMonitorul Oficial” R.A., Str. Parcului nr. 65, sectorul 1, București; C.I.F. RO427282,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala ăUnirea” București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 021.318.51.29/150, fax 021.318.51.15, e-mail: marketing@ramo.ro, internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 021.401.00.70, fax 021.401.00.71 și 021.401.00.72
+Tiparul: ăMonitorul Oficial” R.A.
+Monitorul Oficial al României, Partea I, nr. 39/17.I.2011 conține 16 pagini.
+
+Prețul: 3,20 lei
+
+&JUYDGY|449237]
+ISSN 1453—4495
+
+

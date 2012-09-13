@@ -1,0 +1,1859 @@
+PARTEA
+
+Anul XIV Ñ Nr. 677
+
+I
+
+Joi, 12 septembrie 2002
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+
+127.
+
+Ñ Ordin al președintelui Comisiei Naționale
+pentru Controlul Activitãților Nucleare pentru aprobarea Normelor de securitate radiologicã privind
+radioprotecția operaționalã în mineritul și prepararea
+minereurilor de uraniu și toriu..................................
+
+1Ð16
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+MINISTERUL APELOR ȘI PROTECÞIEI MEDIULUI
+COMISIA NAÞIONALÃ PENTRU CONTROLUL ACTIVITÃÞILOR NUCLEARE
+
+ORDIN
+pentru aprobarea Normelor de securitate radiologicã
+privind radioprotecția operaționalã în mineritul și prepararea minereurilor de uraniu și toriu
+Președintele Comisiei Naționale pentru Controlul Activitãților Nucleare,
+în conformitate cu prevederile Hotãrârii Guvernului nr. 17/2001 privind organizarea și funcționarea Ministerului
+Apelor și Protecției Mediului, cu modificãrile și completãrile ulterioare, ale Ordinului ministrului apelor și protecției mediului
+nr. 86/2002, precum și ale art. 5 din Legea nr. 111/1996 privind desfãșurarea în siguranțã a activitãților nucleare,
+republicatã, cu modificãrile și completãrile ulterioare,
+emite urmãtorul ordin:
+Art. 1. Ñ Se aprobã Normele de securitate radiologicã
+privind radioprotecția operaționalã în mineritul și prepararea
+minereurilor de uraniu și toriu, prevãzute în anexa care
+face parte integrantã din prezentul ordin.
+Art. 2. Ñ Prezentul ordin va fi publicat în Monitorul
+Oficial al României, Partea I.
+Art. 3. Ñ Normele menționate la art. 1 vor intra în
+vigoare la data de 1 ianuarie 2003.
+
+Art. 4. Ñ Direcția securitate nuclearã, Direcția asigurarea calitãții și autorizare operatori, Direcția aplicații surse cu
+radiații ionizante, Direcția supraveghere CNE Cernavodã,
+Direcția dezvoltare și resurse și serviciile independente din
+cadrul Comisiei Naționale pentru Controlul Activitãților
+Nucleare vor aduce la îndeplinire prevederile prezentului
+ordin.
+
+Președintele Comisiei Naționale pentru Controlul Activitãților Nucleare,
+Lucian Biro
+București, 27 mai 2002.
+Nr. 127.
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 677/12.IX.2002
+ANEXÃ
+
+NORME
+de securitate radiologicã privind radioprotecția operaționalã în mineritul și prepararea minereurilor de uraniu și toriu
+CAPITOLUL I
+Considerații generale, scop, definiții
+Art. 1. Ñ Normele de securitate radiologicã privind radioprotecția
+operaționalã în mineritul și prepararea minereurilor de uraniu și toriu
+sunt emise de Autoritate în baza prevederilor art. 5 alin. (1) din
+Legea nr. 111/1996 privind desfãșurarea în siguranțã a activitãților
+nucleare, republicatã, cu modificãrile și completãrile ulterioare.
+Art. 2. Ñ Scopul prezentelor norme este de a completa prevederile Normelor fundamentale de securitate radiologicã, aprobate prin
+Ordinul președintelui Comisiei Naționale pentru Controlul Activitãților
+Nucleare nr. 14/2000, publicate în Monitorul Oficial al României,
+Partea I, nr. 404 și 404 bis din 29 august 2000, cu cerințele privind
+asigurarea și optimizarea radioprotecției operaționale pentru lucrãtorii
+expuși profesional, pentru populație și mediul înconjurãtor, în mineritul
+și prepararea minereurilor de uraniu și toriu.
+Art. 3. Ñ Termenii și expresiile utilizate în prezentele norme sunt
+definite în anexa nr. 1.
+CAPITOLUL II
+Domeniul de aplicabilitate. Exceptãri
+Art. 4. Ñ Prevederile prezentelor norme se aplicã urmãtoarelor
+activitãți din domeniul mineritului și preparãrii minereurilor de uraniu și
+toriu:
+a) prospectarea, explorarea, exploatarea, prepararea în laborator,
+în stații-pilot și în instalații industriale a minereurilor de uraniu și de
+toriu, inclusiv amplasarea și construcția acestora;
+b) conversia concentratelor de uraniu natural în combustibil
+nuclear;
+c) conservarea și dezafectarea minelor și instalațiilor în care au
+fost desfãșurate activitãțile menționate la lit. a) și b), inclusiv a celor
+abandonate fãrã a fi dezafectate în baza unui plan de dezafectare și
+de remediere a mediului înconjurãtor afectat;
+d) gospodãrirea deșeurilor radioactive rezultate de la desfãșurarea
+activitãților descrise la lit. a), b) și c);
+e) determinarea, înregistrarea, metodica de lucru și sistemul de
+raportare a nivelurilor de expunere la radiații ionizante a personalului
+expus profesional, precum și urmãrirea nivelului de contaminare radioactivã a spațiilor de lucru și a mediului înconjurãtor din incintele de
+lucru ale titularilor de autorizații care desfãșoarã activitãțile specificate
+la lit. a), b), c) și d).
+Art. 5. Ñ Se supun prevederilor prezentelor norme și urmãtoarele
+activitãți, dacã evaluãrile efectuate conform prevederilor art. 90 din
+Normele fundamentale de securitate radiologicã demonstreazã cã
+expunerea lucrãtorilor și/sau a mediului are valori ce nu pot fi neglijate din punct de vedere al radioprotecției:
+a) lucrãri similare cu cele menționate la art. 4 lit. a), care se executã pentru alte substanțe minerale utile în cazul în care aceste substanțe sunt asociate cu uraniu sau toriu în conținuturi ce depãșesc
+limitele de exceptare;
+b) lucrãri cu materiale care în mod obișnuit nu sunt considerate
+radioactive, dar care conțin radionuclizi naturali, care prin concentrare
+în produse intermediare sau în reziduuri conduc la creșterea semnificativã a expunerii populației sau a lucrãtorilor;
+c) lucrãrile de la locurile de muncã de tipul celor descrise la
+lit. a), în atmosfera cãrora se constatã prezența radonului, toronului
+sau descendenților acestora, în concentrații ce genereazã expuneri ce
+depãșesc limita dozei efective pentru populație, prevãzutã în Normele
+fundamentale de securitate radiologicã.
+Art. 6. Ñ Prevederile prezentelor norme se aplicã de asemenea
+activitãților de deținere, depozitare, stocare, utilizare, transport, aprovizionare, desfacere, transfer, import și export de minereuri și concentrate de uraniu sau toriu ori instalațiilor și aparatelor ce conțin
+asemenea materiale radioactive.
+Art. 7. Ñ Limitele de dozã, criteriile și prevederile prezentelor
+norme se utilizeazã obligatoriu la proiectarea instalațiilor de minerit și
+
+de preparare a minereurilor de uraniu și toriu, la elaborarea proiectelor tehnice de dezafectare (închidere) a instalațiilor de minerit și de
+preparare a minereurilor de uraniu și toriu și la fundamentarea concluziilor analizelor de securitate radiologicã privind activitãțile de minerit și de preparare a minereurilor de uraniu și de toriu.
+Art. 8. Ñ (1) Sunt exceptate de la prevederile prezentelor norme:
+a) activitãțile care implicã surse și materiale a cãror radioactivitate
+este datã de elemente radioactive naturale din seriile radioactive ale
+uraniului și toriului și a cãror activitate totalã nu depãșește nivelul de
+exceptare prevãzut în coloana 5 a tabelului 2-B din anexa nr. 2 la
+Normele fundamentale de securitate radiologicã sau, în cazuri speciale, alt nivel de exceptare stabilit de Autoritate, care satisface criteriile
+fundamentale prevãzute în anexa nr. 2 la Normele fundamentale de
+securitate radiologicã;
+b) activitãțile care implicã surse radioactive și materiale radioactive conținând radionuclizi naturali din seria uraniului și toriului, a cãror
+concentrație a activitãții pe unitatea de masã nu depãșește nivelul de
+exceptare prevãzut în coloana 4 a tabelului 2-B din anexa nr. 2 la
+Normele fundamentale de securitate radiologicã sau, în cazuri speciale, alt nivel de exceptare stabilit de Autoritate, care satisface criteriile
+fundamentale prevãzute în anexa nr. 2 la aceleași norme;
+c) activitãțile cu materiale care în mod obișnuit nu sunt considerate radioactive, dar provin din practici autorizate și prezintã o contaminare superficialã cu radionuclizi naturali din seriile uraniului și
+toriului, care nu depãșește urmãtoarele niveluri de eliberare:
+i(i) 0,4 Bq/cm2 pentru emițãtorii beta și gama și emițãtorii alfa
+cu toxicitate scãzutã;
+(ii) 0,04 Bq/cm2 pentru toți ceilalți emițãtori alfa.
+(2) Dispozițiile alin. (1) nu se aplicã practicilor care implicã importul, furnizarea, repararea și montarea-instalarea de surse radioactive
+și materiale radioactive conținând radionuclizi naturali din seria uraniului și toriului, dacã concentrația activitãții pe unitatea de masã este
+mai mare de 0,2 Bq/g pentru cel puțin un radionuclid natural din
+seriile radioactive menționate.
+Art. 9. Ñ Prevederile prezentelor norme nu se aplicã la depozitarea temporarã și finalã, la reciclarea și reutilizarea materialelor rezultate în urma dezafectãrii instalațiilor de minerit și de preparare a
+minereurilor de uraniu și toriu, dacã îndeplinesc condițiile privind nivelurile de eliberare stabilite prin normele de conservare și dezafectare
+a instalațiilor de minerit și preparare a minereurilor de uraniu și toriu.
+Art. 10. Ñ Aplicarea prezentelor norme nu exonereazã titularii de
+autorizație care desfãșoarã activitãțile menționate la art. 4, 5 și 6 de
+respectarea normelor de securitate radiologicã privind lucrul cu surse
+de radiații, în cazul în care utilizeazã dispozitive generatoare de
+radiații ionizante, surse, instalații sau aparate care conțin alte materiale radioactive decât radionuclizi naturali din seria uraniului și toriului.
+CAPITOLUL III
+Justificarea, optimizarea și limitarea dozelor
+pentru activitãțile din domeniul mineritului și preparãrii minereurilor
+de uraniu și toriu
+Art. 11. Ñ (1) Toate activitãțile nominalizate în cap. II trebuie justificate în scris de cãtre inițiatorul acestora, precizându-se avantajele
+economice, sociale sau de altã naturã în comparație cu detrimentul
+pe care ar putea sã îl producã stãrii de sãnãtate și daunele pe care
+ar putea sã le provoace mediului înconjurãtor.
+(2) La justificarea scrisã a inițiatorului se va anexa analiza preliminarã de securitate radiologicã privind consecințele radiologice ce se
+estimeazã a fi generate de activitatea respectivã. Analiza preliminarã
+de securitate radiologicã trebuie sã fie elaboratã de un expert acreditat sau de un organism acreditat de protecție radiologicã.
+(3) Autoritatea va autoriza conform legii oricare dintre activitãțile
+nominalizate în cap. II numai dacã considerã justificarea ca fiind
+temeinicã.
+Art. 12. Ñ Persoana legal constituitã care solicitã sau deține autorizație pentru desfãșurarea activitãților de minerit sau preparare a
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 677/12.IX.2002
+
+3
+
+minereurilor de uraniu și toriu este obligatã sã demonstreze cã sunt
+întreprinse toate acțiunile pentru a asigura optimizarea radioprotecției,
+în sensul de a asigura ca expunerile pe toate cãile, inclusiv cele
+potențiale, din cadrul activitãții desfãșurate sã fie menținute la cel mai
+scãzut nivel rezonabil posibil, luând în considerare factori economici și
+sociali Ñ principiul ALARA.
+Art. 13. Ñ Expunerea lucrãtorilor se restricționeazã astfel încât
+doza totalã datã de combinarea expunerilor pe toate cãile specifice
+activitãților de minerit și preparare a minereurilor de uraniu și toriu sã
+nu depãșeascã limitele de dozã specificate la art. 22, 27, 28 și 29
+din Normele fundamentale de securitate radiologicã.
+Art. 14. Ñ (1) Doza efectivã pentru populația aparținând grupului
+critic existent în zona de influențã a instalației operaționale de minerit
+sau de preparare a minereurilor de uraniu sau toriu se restricționeazã
+la 0,3 mSv/an, cu condiția ca doza colectivã pentru grupul critic sã
+nu depãșeascã 0,2 Sv/om/an.
+(2) Limita dozei efective pentru persoanele din rândul populației
+de pe amplasamentele de pe care s-au dezafectat instalații de minerit sau preparare a minereurilor de uraniu sau toriu nu va depãși, din
+toate sursele și cãile de expunere, valoarea de 1 mSv/an.
+(3) Valorile de dozã efectivã de 0,3 mSv/an și de 1 mSv/an, precizate la alin. (1) și (2), nu includ doza efectivã generatã de fondul
+natural local.
+Art. 15. Ñ (1) În procesul de optimizare se vor analiza numai variantele care asigurã conformarea cu limitele de dozã efectivã pentru
+personalul expus profesional, precum și cu limitele de dozã efectivã
+pentru populație și constrângerile de dozã precizate la art. 14.
+(2) Constrângerile de dozã prevãzute prin art. 14 se utilizeazã ca
+limite superioare în procesul de optimizare a radioprotecției.
+(3) În procesul de optimizare este obligatoriu sã se ia în calcul și
+expunerile potențiale.
+Art. 16. Ñ Limitele de dozã specificate la art. 13 și 14 se aplicã
+sumei dozelor date de expunerea externã și celei date de încorporarea radionuclizilor naturali.
+Art. 17. Ñ Îndeplinirea cerințelor privind limita de dozã se verificã
+prin una dintre urmãtoarele metode:
+a) prin compararea dozei efective E, încasatã de o persoanã din
+grupul de vârstã g cu limita de dozã, în care doza efectivã încasatã
+este estimatã prin formula urmãtoare:
+
+Art. 20. Ñ (1) În termeni de concentrație echivalentã de echilibru
+limita dozei efective pentru personalul expus profesional, de
+20 mSv/an, este datã de o concentrație a radonului de 1.110 Bq/m3,
+aflat în echilibru cu descendenții sãi.
+(2) Similar, limita dozei efective pentru populație, de 1 mSv/an,
+este datã de o concentrație a radonului de 55 Bq/m3, aflat în echilibru cu descendenții sãi.
+Art. 21. Ñ În cazul pulberilor de minereu de uraniu cu diametrul
+aerodinamic median al activitãții (AMAD) de 5 microni, între limita de
+dozã efectivã de 20 mSv și activitatea alfa totalã încorporatã, considerând cã 238U și 235U sunt în echilibru cu descendenții lor, existã
+urmãtoarea relație: 20 mSv corespund cu 3.600 Bq activitate alfa
+totalã mãsuratã și încorporatã, presupunând cã nuclizii din minereu
+sunt de tipul S, conform anexei nr. 2 la prezentele norme.
+Art. 22. Ñ În cazul pulberilor de minereu de toriu cu diametrul
+aerodinamic median al activitãții (AMAD) de 5 microni, între doza
+efectivã și activitatea alfa totalã încorporatã, considerând cã Th-232
+este în echilibru cu descendenții sãi, existã urmãtoarea relație:
+20 mSv corespund cu 1.200 Bq activitate alfa totalã mãsuratã și
+încorporatã.
+Art. 23. Ñ Dacã în corpul de minereu echilibrul este perturbat,
+limitele pentru ingerare trebuie calculate utilizându-se raporturile
+actuale dintre radionuclizi.
+Art. 24. Ñ (1) Limitele de încorporare pentru concentratele de
+uraniu și de toriu se calculeazã pe baza factorilor de conversie de
+dozã derivați, conform anexei nr. 2 la prezentele norme.
+(2) Dacã concentratul de toriu este obținut dintr-un minereu
+conținând uraniu și toriu, limitele de încorporare pentru toriu se reduc
+ținându-se seama de prezența uraniului.
+Art. 25. Ñ Limitele de încorporare pentru compușii de uraniu cu o
+solubilitate de tip F sau M sunt date de toxicitatea chimicã care este
+mai importantã decât efectul radiologic. În baza concentrației de prag
+de 900 mg uraniu în rinichi se poate tolera o încorporare acutã prin
+inhalare de 30 mg uraniu de tip F sau o inhalare de 200 mg uraniu
+de tip M. În cazul expunerilor prelungite se poate tolera pentru mulți
+ani o încorporare zilnicã de 1 mg uraniu de tip F sau de 2 mg pe zi
+pentru uraniul de tip M.
+
+E=Eexternã + ·h(g)j,ingJj,ing + ·h(g)j,inhJj,inh,
+j
+j
+în care: Eexternã reprezintã doza efectivã de interes din expunerea
+externã; h(g)j,ing și h(g)j,inh sunt dozele efective angajate pe unitatea
+de activitate de încorporare a unui radionuclid, j, (Sv/Bq), prin inhalare, respectiv prin ingestie, de o persoanã din grupul de vârstã g;
+Jj,ing și Jj,inh reprezintã încorporarea de radionuclid j, (Bq), prin ingestie, respectiv inhalare;
+b) prin îndeplinirea urmãtoarei condiții:
+
+Autorizarea
+Art. 26. Ñ Autorizarea se realizeazã prin una dintre cele douã
+componente:
+a) înregistrarea;
+b) autorizarea.
+Art. 27. Ñ (1) Toate persoanele legal constituite care
+intenționeazã sã desfãșoare sau desfãșoarã activitãți de tipul celor
+prevãzute la art. 5 au obligația sã solicite Autoritãții înregistrarea.
+(2) Activitãțile prevãzute la art. 4 și 6 pot fi desfãșurate de persoane legal constituite numai dacã sunt autorizate de Autoritate, conform prevederilor art. 5 din Normele fundamentale de securitate
+radiologicã.
+(3) Cererile de înregistrare, cererile de autorizare și documentațiile
+tehnice suport se întocmesc conform prevederilor normei specifice
+referitoare la procedurile de autorizare a activitãților de minerit și preparare a minereurilor de uraniu și de toriu.
+Art. 28. Ñ (1) Toate persoanele legal constituite, înregistrate conform art. 27 alin. (1), au obligația sã identifice prin mãsurare și verificare expunerea lucrãtorilor de la locurile de muncã.
+(2) Verificarea și evaluarea expunerii se fac de un expert acreditat sau de un organism acreditat de protecție radiologicã.
+(3) Persoana legal constituitã are obligația sã raporteze Autoritãții
+rezultatele verificãrilor efectuate conform alin. (1).
+Art. 29. Ñ Dacã rezultatul evaluãrii efectuate conform prevederilor
+art. 28 alin. (1) stabilește creșterea expunerii lucrãtorilor și/sau
+populației la valori ce nu pot fi neglijate din punct de vedere al radioprotecției, adicã sunt mai mari decât limita dozei efective pentru
+populație, persoana legal constituitã are urmãtoarele obligații:
+a) de a solicita autorizarea conform art. 27 alin. (2), dacã expunerea lucrãtorilor depãșește limita dozei pentru populație;
+
+Hp(d)DL+·jIj,ing/lj,ing,L+·jIj,inh/·Ij,inh,L<1,
+în care: Hp(d) este echivalentul de dozã de la expunerea la radiații
+penetrante, DL este limita de dozã efectivã, I j,ing. și I j,inh. sunt
+preluãrile prin ingestie și inhalare a radionuclidului j, iar Ij,ing.L și Ij,inh,L
+sunt limitele anuale admise pentru ingestia, respectiv inhalarea radionuclidului j.
+Art. 18. Ñ Pentru expunerile la descendenții radonului și toronului
+limitele de dozã pentru persoanele expuse profesional pot fi interpretate astfel:
+Ñ pentru descendenții radonului (222Rn):
+20 mSv corespund la 14 mJ h m-3 (4 WLM);
+Ñ pentru descendenții toronului (220Rn):
+20 mSv corespund la 42 mJ h m-3 (12 WLM).
+Art. 19. Ñ Alternativ limitele pot fi exprimate în termeni de energie alfa potențialã încorporatã:
+Ñ pentru descendenții radonului (222Rn):
+20 mSv corespund la 17 mJ;
+Ñ pentru descendenții toronului (220Rn):
+20 mSv corespund la 51 mJ.
+
+CAPITOLUL IV
+Responsabilitãți
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 677/12.IX.2002
+
+b) de a apela la experți calificați sau organisme acreditate de protecție radiologicã pentru a elabora un program de mãsuri tehnice, cu
+termene de conformare, care sã reducã expunerea lucrãtorilor la valorile admise pentru populație;
+c) de a aplica programul de mãsuri tehnice de reducere a dozelor, dupã aprobarea acestuia de Autoritate.
+Responsabilitãțile persoanelor legal constituite înregistrate
+Art. 30. Ñ Persoana legal constituitã înregistratã are urmãtoarele
+responsabilitãți:
+a) sã verifice anual, printr-un expert acreditat sau organism acreditat de radioprotecție, nivelul expunerii lucrãtorilor;
+b) sã desemneze și sã împuterniceascã cu autoritate o persoanã
+responsabilã cu implementarea programului de verificare periodicã a
+expunerii și a programului de mãsuri tehnice de reducere a expunerii;
+aceasta trebuie sã deținã permis de exercitare de nivel 2;
+c) sã aplice întocmai programul de mãsuri tehnice de menținere a
+expunerii în domeniul admis pentru populație;
+d) sã raporteze Autoritãții anual rezultatul verificãrii;
+e) sã pãstreze o perioadã de minimum 10 ani toate documentele
+referitoare la verificãrile expunerii și programele de mãsuri tehnice de
+menținere a expunerii în domeniul admis pentru populație.
+Responsabilitãțile titularilor de autorizații
+Art. 31. Ñ Titularul de autorizație este responsabil pentru controlul expunerii lucrãtorilor la radiații ionizante, controlul încorporãrii de
+materiale radioactive și pentru starea de sãnãtate a lucrãtorilor expuși
+profesional.
+Art. 32. Ñ Titularul de autorizație are urmãtoarele obligații:
+a) sã asigure protecția stãrii de sãnãtate și siguranței lucrãtorilor
+în toate stadiile de proiectare, construcție, operare, conservare și dezafectare a instalațiilor de minerit și de preparare a minereurilor de
+uraniu sau de toriu;
+b) sã asigure toate resursele materiale și financiare pentru a pune
+în aplicare cerințele prezentelor norme;
+c) sã utilizeze în activitãțile autorizate numai personal care este
+posesor al unui permis de exercitare, valabil pentru aceste activitãți,
+eliberat conform prevederilor normelor specifice emise de Autoritate;
+d) sã stabileascã un program de radioprotecție, corelat cu
+mãrimea riscurilor radiologice;
+e) sã demonstreze cã expunerea la radiații ionizante și încorporarea prin ingestie și inhalare a substanțelor radioactive sunt controlate
+pentru fiecare lucrãtor și cã nu este depãșitã limita dozei efective
+pentru personalul expus profesional;
+f) sã asigure echipamentele tehnice de protecție a personalului,
+echipamentul individual de radioprotecție, aparatura de mãsurã și control al parametrilor fizici, aparatura de mãsurã și control dozimetric,
+instalațiile de decontaminare și acordare a primului ajutor;
+g) sã doteze conform cerințelor Autoritãții laboratoarele care
+funcționeazã în cadrul programului de radioprotecție și sã asigure
+pregãtirea de specialitate a personalului care lucreazã în aceste laboratoare;
+h) sã menținã performanțele programului de radioprotecție la nivelul cerut de prezentele norme;
+i) sã întreținã și sã inspecteze conform procedurilor instalațiile,
+echipamentele, aparatura și amenajãrile menționate la lit. g) și h);
+j) sã se asigure prin supraveghere cã lucrãtorii își desfãșoarã activitatea respectând instrucțiunile specifice de operare de la locul de
+muncã;
+k) sã se asigure cã fiecare lucrãtor și supraveghetor expus profesional este instruit corespunzãtor asupra practicilor de radioprotecție
+și cã este informat în scris despre natura, sursa și efectele potențiale
+ale expunerii la radiații ionizante asupra stãrii de sãnãtate, precum și
+asupra modului de asigurare a controlului concentrațiilor de gaze și
+pulberi radioactive din atmosfera locurilor de muncã prin ventilație
+adecvatã, funcționarea corectã a sistemelor de protecție și radioprotecție, igienã personalã și utilizarea corectã a echipamentului individual de radioprotecție;
+l) sã stabileascã niveluri de referințã ale concentrației de gaze și
+pulberi radioactive, la depãșirea cãrora se va interveni prin intensificarea ventilației sau alte mãsuri tehnice, în vederea reducerii sub
+nivelurile de referințã;
+m) sã informeze lucrãtorii cã fumatul asociat cu expunerea la
+radon crește riscurile pentru starea de sãnãtate și sã îi sfãtuiascã sã
+renunțe la fumat;
+
+n) sã transmitã Autoritãții, la termenele stabilite de aceasta,
+informații privind mãrimea dozelor și concentrațiilor de gaze și pulberi
+radioactive mãsurate la locurile de muncã;
+o) sã asigure informarea lucrãtorilor privind rezultatele monitorizãrii
+individuale și radiologice a mediului de lucru;
+p) sã întreținã și sã dezvolte un sistem care:
+iii(i) sã încurajeze o atitudine de interes și învãțare fațã de
+radioprotecție;
+ii(ii) sã descurajeze o atitudine de nerespectare a politicilor și
+procedurilor;
+i(iii) sã identifice problemele ce afecteazã protecția și securitatea;
+i(iv) sã identifice în mod clar responsabilitãțile individuale;
+ii(v) sã asigure calificarea, instruirea și reinstruirea lucrãtorilor
+expuși profesional, conform cerințelor prezentelor norme;
+i(vi) sã stabileascã limite clare ale nivelurilor administrative la
+care se iau deciziile;
+(vii) sã asigure consultarea și cooperarea lucrãtorilor, dupã caz;
+q) sã stabileascã programe de asigurare a calitãții privind respectarea cerințelor de radioprotecție și proceduri de evaluare a eficacitãții
+mãsurilor de radioprotecție, în conformitate cu prevederile normelor de
+asigurare a calitãții și standardelor ISO 9002;
+r) sã raporteze Autoritãții orice eliberare accidentalã sau neprogramatã de contaminanți radioactivi din ori în interiorul instalației de
+minerit, de preparare sau de gospodãrire a deșeurilor, precum și sã
+informeze Autoritatea despre degradarea, slãbirea anormalã ori
+cãderea iminentã a oricãror componente sau sisteme, acolo unde o
+astfel de eliberare, degradare, slãbire ori cãdere poate constitui sau
+contribui la un risc radiologic semnificativ pentru starea de sãnãtate și
+securitatea lucrãtorilor ori ar putea avea un impact radiologic semnificativ asupra mediului;
+s) sã implementeze numai cu acordul prealabil în scris al
+Autoritãții orice modificare în structura sa organizatoricã și orice alte
+modificãri care pot afecta direct sau indirect capacitatea sa de a
+îndeplini responsabilitãțile privind radioprotecția personalului expus profesional, a populației și a mediului înconjurãtor;
+t) sã asigure supravegherea medicalã a personalului expus profesional la radiații ionizante, prin servicii de medicina muncii acreditate
+de Ministerul Sãnãtãții și Familiei.
+Art. 33. Ñ (1) Titularul de autorizație întocmește instrucțiuni practice de operare localã, scrise, pentru fiecare loc de muncã.
+(2) Instrucțiunile de operare localã vor include nivelurile de referințã relevante și mãsurile de control al expunerilor, debitelor de dozã
+și concentrațiilor contaminanților.
+(3) Pentru situațiile de depãșire a fiecãrui nivel de referințã se
+stabilesc acțiuni corective ce se efectueazã într-un interval de timp
+prestabilit.
+(4) Instrucțiunile de operare localã vor include prevederi din
+diverse componente ale programului de radioprotecție, dupã caz, cum
+sunt:
+a) monitorizarea expunerii și contaminãrii;
+b) menținerea calitãții și cantitãții adecvate de aer ventilat;
+c) controlul ventilației, incluzând prevederile acțiunilor alternative
+pentru situația de cãdere a sistemului de ventilație;
+d) folosirea echipamentului individual de protecție;
+e) igiena personalã;
+f) supravegherea stãrii de sãnãtate;
+g) gospodãrirea deșeurilor radioactive;
+h) monitorizarea mediului;
+i) controlul calitãții;
+j) pregãtirea personalului și asigurarea cunoștințelor de securitate
+radiologicã;
+k) pãstrarea înregistrãrilor, dosarelor și rapoartelor;
+l) raportãri.
+Art. 34. Ñ (1) Titularul de autorizație este obligat sã instituie un
+sistem propriu de control care trebuie:
+a) sã asigure examinarea echipamentelor noi sau modificate semnificativ, înainte de a deveni operaționale, și supravegherea instalãrii
+acestora, în scopul asigurãrii integritãții și funcționãrii corecte a sistemelor de securitate și avertizare;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 677/12.IX.2002
+b) sã verifice eficacitatea controalelor tehnice și sã asigure evaluarea consecințelor oricãror modificãri;
+c) sã verifice dacã existã o repartizare scrisã a sarcinilor pe
+diverse niveluri de conducere, corelate cu structurile organizatorice
+corespunzãtoare;
+d) sã verifice dacã toți lucrãtorii beneficiazã periodic de reinstruire
+și dacã dețin permis de exercitare valabil pentru activitatea respectivã;
+e) sã verifice dacã toți lucrãtorii înțeleg responsabilitãțile individuale și de grup privind controlul expunerii la radiații, la gaze și la pulberi radioactive și dacã sunt supravegheați adecvat;
+f) sã verifice dacã la toate locurile de muncã existã copii ale
+instrucțiunilor practice de operare relevante, lizibile și ușor accesibile
+lucrãtorilor;
+g) sã verifice dacã conținutul instrucțiunilor practice de operare
+este cunoscut de toți lucrãtorii interesați și dacã prevederile acestora
+sunt integral respectate;
+h) sã facã evaluãri periodice ale programelor de radioprotecție cu
+scopul identificãrii deficiențelor și redundanțelor; intervalul dintre
+evaluãri depinde de amploarea activitãților, de mãrimea dozelor încasate obișnuit, de mãrimea riscului și de alți parametri de operare;
+i) sã identifice tendințele și sã aplice mãsuri de corectare;
+j) sã ținã sub supraveghere posturi și locuri de muncã în vederea
+reducerii dozelor cât mai mult, rațional, posibil;
+k) sã verifice dacã supravegherea stãrii de sãnãtate a lucrãtorilor
+este asiguratã conform prevederilor reglementãrilor specifice emise de
+Ministerul Sãnãtãții și Familiei.
+(2) Toate controalele prevãzute la alin. (1) se înregistreazã și se
+includ într-un sistem de evidențã ce va conține și modul de remediere a deficiențelor constatate.
+Art. 35. Ñ (1) Titularul de autorizație trebuie sã numeascã una
+sau mai multe persoane cu autoritatea de a dispune mãsuri imediate
+de corecție, atunci când o lucrare sau o activitate devine nesigurã
+din punct de vedere al radioprotecției.
+(2) Persoana numitã conform alin. (1) trebuie învestitã cu autoritatea de a opri o lucrare sau o activitate dacã nu se pot aplica
+mãsuri imediate de corecție sau dacã mãsurile imediate aplicate nu
+remediazã în totalitate deficiențele de radioprotecție.
+Responsabilitãțile lucrãtorilor
+Art. 36. Ñ Lucrãtorii au urmãtoarele obligații:
+a) sã respecte toate regulile, procedurile și reglementãrile pentru
+controlul expunerii la radiații ionizante și substanțe radioactive, stabilite de titular;
+b) sã utilizeze conform instrucțiunilor de lucru:
+i(i) dispozitivele, utilitãțile și echipamentele de protecție colectivã și individualã destinate limitãrii expunerii la radiații ionizante și substanțe radioactive;
+(ii) dozimetrele individuale și alte dispozitive de monitorizare
+destinate evaluãrii expunerii la radiații și substanțe radioactive;
+c) sã coopereze cu titularul de autorizație în domeniile securitãții
+radiologice, supravegherii stãrii de sãnãtate și programelor de
+evaluare a dozelor;
+d) sã raporteze administrației orice situație de care a luat
+cunoștințã și despre care crede cã poate contribui sau cauza o
+creștere a riscului pentru starea lor de sãnãtate ori a oricãror alți
+lucrãtori sau care ar putea provoca o eliberare accidentalã ori neprogramatã de contaminanți radioactivi;
+e) sã se abținã de la orice manipulãri neatente sau nechibzuite
+de materiale, utilaje ori dispozitive sau de la orice acțiuni intenționate
+care pot produce riscuri ori expuneri inutile pentru ei și ceilalți
+lucrãtori;
+f) sã accepte sfaturile, instrucțiunile și pregãtirea privind securitatea radiologicã, care îi vor ajuta sã efectueze lucrul în acord cu recomandãrile prezentelor norme;
+g) sã aplice întocmai procedurile concepute pentru înlãturarea
+generãrii și eliberãrii de pulberi conținând uraniu și toriu și procedurile
+privind verificarea nivelurilor expunerii și a concentrațiilor de materiale
+radioactive în atmosfera locurilor de muncã;
+h) sã evite eliberarea accidentalã și neprogramatã de substanțe
+radioactive în exteriorul sau în interiorul instalațiilor de minerit și de
+
+5
+
+preparare a minereurilor de uraniu și de toriu sau al instalațiilor de
+gospodãrire a deșeurilor radioactive asociate acestora;
+i) sã raporteze orice inhalare accidentalã sau suspiciune de inhalare accidentalã de substanțe radioactive;
+j) sã respecte semnificația tuturor avertismentelor, semnelor și
+semnalelor de avertizare;
+k) sã respecte regulile de igienã personalã cum sunt: spãlarea
+mâinilor înainte de masã, utilizarea de haine de lucru curate și
+îmbãierea sub duș la sfârșitul programului de lucru;
+l) sã fumeze numai în zonele în care fumatul este permis și
+numai dupã spãlarea temeinicã a mâinilor;
+m) sã dea curs solicitãrii de a participa la monitorizarea biologicã
+în vederea evaluãrii contaminãrii interne;
+n) sã informeze responsabilul cu radioprotecția și administrația
+despre orice afecțiune medicalã aflatã în incompatibilitate cu cerințele
+privind starea de sãnãtate, specifice locului de muncã;
+o) femeile trebuie sã informeze de îndatã responsabilul cu radioprotecția și administrația în caz cã alãpteazã sau în caz de sarcinã.
+Art. 37. Ñ Nici un lucrãtor, cu excepția celor împuterniciți, nu trebuie sã acționeze, sã schimbe locul, sã avarieze sau sã îndepãrteze
+semnele de avertizare, dispozitivele de siguranțã, echipamentele de
+ventilație ori alte echipamente de radioprotecție individualã sau colectivã ori sã intervinã în orice metodã sau proces tehnic de mãsurã
+sau control al expunerii la radiații și substanțe radioactive.
+CAPITOLUL V
+Programul de radioprotecție în instalațiile
+de minerit și de preparare a minereurilor de uraniu și toriu
+Scopul și structura programului de radioprotecție
+Art. 38. Ñ Programul de radioprotecție reprezintã documentul de
+referințã (factorul-cheie) pentru dezvoltarea și implementarea unei culturi de securitate radiologicã, care încurajeazã atitudinea de învãțare
+în domeniul protecției și securitãții radiologice.
+Art. 39. Ñ Programul de radioprotecție are urmãtoarea structurã:
+a) atribuirea responsabilitãților la diferite niveluri de conducere,
+luând în considerare toate aranjamentele de organizare (de exemplu,
+cazul lucrãtorilor externi);
+b) desemnarea zonelor controlate și supravegheate;
+c) reglementãri locale pentru lucrãtori și supraveghetori;
+d) organizarea supravegherii lucrãtorilor și locurilor de muncã,
+incluzând achiziționarea, calibrarea și întreținerea instrumentelor utilizate în radioprotecție;
+e) sistemul pentru înregistrarea și raportarea tuturor informațiilor
+legate de controlul expunerii, deciziile privind mãsurile pentru protecția
+și securitatea radiologicã și supravegherea indivizilor;
+f) programele de instruire privind riscurile, protecția și securitatea
+radiologicã;
+g) metodele de analizare periodicã și de audit al programelor de
+radioprotecție;
+h) planificarea în cazul acțiunilor de remediere;
+i) supravegherea stãrii de sãnãtate a personalului expus la radiații
+ionizante;
+j) recomandãrile pentru asigurarea calitãții și îmbunãtãțirea programului de radioprotecție.
+Art. 40. Ñ Structura și conținutul programului de radioprotecție se
+aprobã de Autoritate în procesul de autorizare.
+Atribuirea responsabilitãților
+Art. 41. Ñ Responsabilitatea pentru implementarea programului de
+radioprotecție revine titularului de autorizație și persoanei legal constituite și înregistrate.
+Art. 42. Ñ Titularul de autorizație are obligația sã utilizeze la conceperea și aplicarea programului de radioprotecție experți acreditați
+sau organisme acreditate de protecție radiologicã, în conformitate cu
+prevederile art. 80 din Normele fundamentale de securitate radiologicã.
+Art. 43. Ñ Experții acreditați sau organismele acreditate care concep și implementeazã programul de radioprotecție conform art. 42 pot
+fi și din afara persoanei legal constituite care solicitã autorizarea sau
+este titular de autorizație, dar aceasta pãstreazã responsabilitatea
+pentru acțiunile întreprinse în domeniul asigurãrii securitãții radiologice.
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 677/12.IX.2002
+
+Art. 44. Ñ Programul de radioprotecție trebuie sã defineascã în
+mod clar responsabilitãțile fiecãrui nivel ierarhic al conducerii, pornind
+de sus în jos, și al fiecãrui lucrãtor pentru fiecare aspect al programului de radioprotecție.
+Art. 45. Ñ Programul de radioprotecție trebuie conceput astfel încât
+sã asigure cooperarea dintre persoanele implicate.
+Art. 46. Ñ (1) Titularul de autorizație, în funcție de amploarea
+activitãților desfãșurate în domeniul nuclear, poate constitui cu acordul
+Autoritãții un consiliu de reprezentanți din diferite departamente
+preocupate de expunerea profesionalã, cu rolul de a aviza conducerea executivã a programului de radioprotecție.
+(2) Consiliul constituit conform alin. (1) are numai atribuții administrative și nu preia sub nici o formã atribuțiile sau sarcinile experților
+în radioprotecție și ale organismului acreditat de protecție radiologicã.
+Gestionarea surselor și materialelor radioactive
+Art. 47. Ñ (1) Titularii de autorizație și persoanele legal constituite înregistrate trebuie sã conceapã și sã menținã un sistem de
+evidențã a surselor.
+(2) Sistemul de evidențã menționat la alin. (1) este parte a programului de radioprotecție și constituie condiție de autorizare.
+Art. 48. Ñ Pentru minereurile de uraniu și toriu și pentru concentratele obținute din prepararea acestora și de la stațiile de tratare a
+apelor de minã sistemul menționat la art. 47 alin. (1) trebuie sã asigure evidența scrisã, strictã și la zi a:
+a) cantitãților de minereu scoase la gura fiecãrei mine;
+b) tuturor locațiilor de depozitare și a cantitãților depozitate în fiecare locație;
+c) cantitãților de minereu transportate și expediate, pentru analize,
+cercetãri sau preparare, pentru fiecare destinatar;
+d) minereurilor intrate în zona controlatã pentru analize fizico-chimice, cercetãri tehnologice sau preparare;
+e) cantitãților de minereuri preparate, a concentratelor de uraniu și
+toriu produse, pe tipuri de concentrate, a tuturor locațiilor de depozitare a acestora și a cantitãților depozitate în fiecare locație;
+f) cantitãților de concentrate expediate, pentru fiecare destinatar.
+Art. 49. Ñ Pentru toate celelalte surse, inclusiv pentru dispozitivele generatoare de radiații ionizante, sistemul trebuie sã asigure evidența scrisã, strictã și la zi a intrãrilor, a ieșirilor, a circulației și a
+consumului de astfel de surse, precizând urmãtoarele:
+a) localizarea și descrierea fiecãrei surse de radiații pentru care
+este responsabil;
+b) activitatea și forma fizicã a fiecãrei surse pentru care este responsabil;
+c) instrucțiunile de manipulare a acestora și toate detaliile privind
+eliminarea sau casarea acestora.
+Cerințe privind zonarea
+Art. 50. Ñ (1) La toate locurile de muncã la care existã posibilitatea unei expuneri la radiații ionizante, superioarã limitelor de dozã
+pentru populație prevãzute la art. 25 și 26 din Normele fundamentale
+de securitate radiologicã, titularul de autorizație trebuie sã ia mãsuri
+în scop de radioprotecție, care vor fi adaptate cãilor specifice de
+expunere și naturii instalațiilor și surselor.
+(2) Locurile de muncã prevãzute la alin. (1) vor fi clasificate în
+zone controlate și zone supravegheate conform urmãtoarelor criterii:
+a) existența sau probabilitatea apariției unor câmpuri semnificative
+de radiații gama;
+b) existența sau probabilitatea apariției unor concentrații semnificative de gaze și pulberi radioactive;
+c) existența pericolului de contaminare prin împrãștierea materialelor radioactive sau prin deversãri necontrolate de efluenți radioactivi.
+Zonele controlate
+Art. 51. Ñ Titularul de autorizație desemneazã ca zonã controlatã
+orice zonã în care sunt necesare mãsuri specifice de radioprotecție
+pentru:
+a) controlarea expunerilor normale sau prevenirea împrãștierii contaminãrii în timpul condițiilor normale de lucru;
+b) prevenirea sau limitarea pericolului de expunere la radiații.
+Art. 52. Ñ Din motive practice este recomandabil ca minele de
+uraniu sau toriu și instalațiile de preparare sã fie desemnate în totalitate ca zone controlate.
+
+Art. 53. Ñ La delimitarea zonei controlate titularul de autorizație
+va lua în calcul mãrimea expunerii normale din zonã, probabilitatea și
+mãrimea potențialului de expunere și necesitatea unor proceduri
+operaționale pentru atingerea unor niveluri optime de radioprotecție.
+Art. 54. Ñ Referitor la zonele controlate titularul de autorizație, în
+funcție de tipul instalației (minerit subteran, minerit de suprafațã,
+instalație de preparare), are urmãtoarele obligații:
+a) sã delimiteze zona controlatã prin mijloace fizice;
+b) sã instaleze panouri de avertizare cu simbolul pericolului de
+radiații în toate punctele de acces în zona controlatã și în toate locurile de interes din interiorul zonei controlate;
+c) sã stabileascã mãsuri de radioprotecție, incluzând practici și
+proceduri adecvate riscurilor de iradiere și de expunere la substanțe
+radioactive;
+d) sã impunã restricții de acces;
+e) sã minimizeze riscul de extindere a contaminãrilor radioactive
+prin confinarea și izolarea materialelor radioactive în interiorul zonei
+controlate;
+f) sã doteze orice persoanã, înainte de a intra în zona controlatã,
+cu echipament de radioprotecție individualã și instrumente de monitorizare și totodatã sã asigure locuri de depozitare și pãstrare a obiectelor personale și a hainelor curate pânã la terminarea programului
+de lucru;
+g) sã organizeze colectarea echipamentelor de radioprotecție contaminate în spații separate, astfel încât sã fie eliminatã orice posibilitate de contaminare a hainelor curate;
+h) sã amenajeze și sã punã la dispoziție tuturor celor care își
+desfãșoarã activitatea în zona controlatã instalații de decontaminare
+prin spãlare și instrumente de mãsurã a contaminãrii atât pentru personal, cât și pentru echipamentul individual de radioprotecție;
+i) sã organizeze mãsurarea contaminãrii oricãrui obiect sau material ce urmeazã sã fie scos din zona controlatã;
+j) sã evalueze periodic condițiile din zona controlatã în vederea
+revizuirii și îmbunãtãțirii mãsurilor de radioprotecție sau a restrângerii
+limitelor zonei controlate.
+Zonele supravegheate
+Art. 55. Ñ Titularul de autorizație desemneazã ca zonã supravegheatã acea zonã care nu este desemnatã ca zonã controlatã, dar în
+care expunerile trebuie ținute sub observație, chiar dacã mãsurile
+specifice de radioprotecție nu sunt necesare în condițiile funcționãrii
+normale a instalațiilor.
+Art. 56. Ñ Referitor la zonele supravegheate titularul de autorizație, în funcție de natura și mãrimea riscului de iradiere, are
+urmãtoarele obligații:
+a) sã delimiteze zona supravegheatã prin metode adecvate;
+b) sã asigure monitorizarea radiologicã a mediului de lucru;
+c) sã instaleze la toate punctele de acces în zona supravegheatã
+panouri de avertizare cu indicații privind tipul zonei, natura surselor și
+a riscurilor asociate;
+d) sã evalueze periodic condițiile din zona supravegheatã, în
+vederea revizuirii și îmbunãtãțirii programului de monitorizare sau a
+modificãrii limitelor zonei supravegheate.
+Controlul accesului
+Art. 57. Ñ Titularul de autorizație are obligația sã restricționeze
+accesul lucrãtorilor în zonele controlate și în zonele supravegheate
+strict la intervalul de timp aprobat, în scopul atribuirii corecte a dozei
+pe baza monitorizãrii locului de muncã.
+Art. 58. Ñ Restricționarea accesului în zonele controlate se realizeazã prin oricare dintre sistemele bazate pe: utilizarea cartelelor
+magnetice, utilizarea etichetelor sau supravegherea directã și înregistrarea intrãrilor și ieșirilor de persoane, combinate cu amplasarea barierelor fizice prevãzute în Normele de protecție fizicã în domeniul
+nuclear, aprobate prin Ordinul președintelui Comisiei Naționale pentru
+Controlul Activitãților Nucleare nr. 382/2001.
+Experții acreditați
+Art. 59. Ñ La alcãtuirea și implementarea programelor de radioprotecție în instalațiile de minerit și preparare a minereurilor de uraniu
+și toriu titularii de autorizație vor utiliza experți în urmãtoarele domenii:
+a) radioprotecție și dozimetrie;
+b) ventilație;
+c) medicina muncii;
+d) securitate industrialã.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 677/12.IX.2002
+Art. 60. Ñ Experții în radioprotecție și dozimetrie trebuie sã fie
+acreditați de Autoritate conform reglementãrilor specifice.
+Art. 61. Ñ Experții acreditați în radioprotecție și dozimetrie sau
+organismele acreditate de radioprotecție din afara structurii titularului
+de autorizație vor fi angajate de acesta prin contract de consultanțã.
+Art. 62. Ñ (1) Titularul de autorizație are obligația sã se asigure
+cã experții acreditați angajați pentru radioprotecție coopereazã strâns
+cu persoanele responsabile pentru controlul riscurilor neradiologice
+specifice acestor activitãți.
+(2) Titularul de autorizație are obligația de a asigura experților acreditați autoritatea necesarã aducerii la îndeplinire a prevederilor art. 35.
+Responsabilul cu securitatea radiologicã
+Art. 63. Ñ Titularul de autorizație are obligația sã desemneze în
+scris, în condițiile art. 42 din Normele fundamentale de securitate
+radiologicã, cel puțin câte un responsabil cu securitatea radiologicã
+pentru fiecare zonã controlatã/supravegheatã din domeniul mineritului
+și preparãrii minereurilor de uraniu și toriu, care va rãspunde de aplicarea prezentelor norme.
+Art. 64. Ñ Responsabilul cu securitatea radiologicã are urmãtoarele atribuții:
+a) sã coordoneze elaborarea și implementarea programului de
+radioprotecție;
+b) sã informeze în scris conducerea executivã a titularului de
+autorizație despre toate aspectele radioprotecției, incluzând monitorizarea individualã, echipamentele individuale de radioprotecție și procedurile administrative;
+c) sã identifice toate sursele și materialele radioactive din mediul
+de lucru;
+d) sã coordoneze întocmirea procedurilor în baza cãrora sã se
+desfãșoare activitãțile de radioprotecție;
+e) sã conducã activitãțile de monitorizare individualã, de monitorizare a locurilor de muncã și orice alt program special de monitorizare;
+f) sã conducã, dupã caz, împreunã cu responsabilul cu ventilația,
+programele de combatere, prelevare și monitorizare a pulberilor;
+g) sã conducã programele de calibrare a tuturor dozimetrelor și
+instrumentelor folosite la monitorizarea individualã și la monitorizarea
+locurilor de muncã;
+h) sã se asigure cã dozele sunt evaluate corect;
+i) sã organizeze pãstrarea tuturor înregistrãrilor referitoare la expuneri, sã se asigure cã înregistrãrile sunt bine pãstrate și periodic sã
+elaboreze rezumate privind mãrimea expunerilor;
+j) sã analizeze înregistrãrile expunerilor pentru a depista orice
+date anormale, depãșiri ale nivelurilor de referințã sau orice alte
+expuneri accidentale, sã investigheze aceste date, sã elaboreze și sã
+transmitã conducerii administrative rapoarte scrise cu recomandãri
+adecvate;
+k) sã colaboreze și sã informeze medicul abilitat despre condițiile
+de mediu de la locurile de muncã;
+l) sã se asigure cã protecția respiratorie, atunci când este necesarã, este în concordanțã cu prevederile prezentelor norme;
+m) sã evalueze periodic programul de radioprotecție;
+n) sã conducã partea de radioprotecție a oricãrui program de
+monitorizare;
+o) sã participe la programele de instruire a lucrãtorilor; sã dezvolte și sã aprobe toate materialele de instruire legate de radioprotecție;
+p) semestrial sã elaboreze rapoarte complete de radioprotecție;
+q) sã transmitã conducerii administrative a titularului de autorizație
+informãrile și rapoartele de radioprotecție;
+r) sã transmitã Autoritãții prin titularul de autorizație informãrile și
+rapoartele de radioprotecție.
+Responsabilul cu ventilația
+Art. 65. Ñ Responsabilul cu ventilația trebuie sã fie posesor de
+permis de exercitare de nivel 2.
+Art. 66. Ñ Responsabilul cu ventilația are urmãtoarele atribuții și
+responsabilitãți:
+a) sã informeze conducerea administrativã asupra tuturor problemelor legate de sistemele de ventilație și purificare a aerului;
+
+7
+
+b) sã asigure buna funcționare a sistemelor de ventilație, conform
+proiectãrii, și sã inițieze modificarea și dezvoltarea acestora în funcție
+de necesitãți;
+c) sã certifice cã mãsurãtorile de debite și viteze ale aerului sunt
+fãcute corect;
+d) sã se asigure cã toate instrumentele utilizate în ventilație sunt
+calibrate;
+e) sã conducã împreunã cu responsabilul cu radioprotecția programul de mãsurare și control al concentrației de pulberi;
+f) sã participe la programele de instruire a lucrãtorilor; sã dezvolte
+și sã aprobe toate materialele de instruire legate de ventilație și controlul concentrațiilor de pulberi;
+g) sã cunoascã proprietãțile radonului, toronului și ale descendenților acestora.
+Art. 67. Ñ Titularul de autorizație, cu acordul prealabil al
+Autoritãții, poate încredința exercitarea atribuțiilor responsabilului cu
+radioprotecția și ale responsabilului cu ventilația unei singure persoane.
+Medicul abilitat
+Art. 68. Ñ Responsabilitãțile medicului abilitat, la care se face
+referire la art. 59, sunt stabilite în reglementãrile specifice emise de
+Ministerul Sãnãtãții și Familiei.
+Art. 69. Ñ Persoana care a fost scoasã din motive medicale de
+la un loc de muncã cu expunere profesionalã se poate întoarce în
+mediul radioactiv numai cu avizul medicului abilitat.
+Art. 70. Ñ Lucrãtorul expus profesional, descoperit inapt din punct
+de vedere medical în raport cu cerințele stãrii de sãnãtate specifice
+locului sãu de muncã, trebuie sã fie transferat la un alt loc de muncã
+compatibil cu starea sa de sãnãtate, la propunerea medicului abilitat.
+Monitorizarea și evaluarea dozei
+Art. 71. Ñ (1) Titularul de autorizație are obligația sã asigure
+monitorizarea corespunzãtoare a tuturor lucrãtorilor care lucreazã permanent sau ocazional în zona controlatã a instalațiilor de minerit și
+de preparare a minereurilor de uraniu și toriu.
+(2) Este obligatorie asigurarea dozimetriei individuale pentru toți
+lucrãtorii din categoria A, care pot fi expuși la o dozã totalã rezultatã
+pe toate cãile de expunere de cel puțin 6 mSv/an, conform art. 48 și
+55 din Normele fundamentale de securitate radiologicã.
+(3) În acest scop toți lucrãtorii din categoria A de expunere la
+radiații ionizante trebuie sã poarte în mod obligatoriu dozimetre individuale.
+Art. 72. Ñ În anumite cazuri bine fundamentate, în care monitorizarea individualã este nepotrivitã sau inadecvatã, prin excepție de la
+prevederile art. 71 și cu acordul prealabil al Autoritãții, doza se poate
+calcula și atribui de un organism dozimetric acreditat, pe baza rezultatelor monitorizãrii locului de muncã și a informațiilor privind localizarea și durata expunerii lucrãtorului.
+Art. 73. Ñ În toate cazurile dozele se atribuie de un organism
+dozimetric acreditat care ține și evidența acestora.
+Art. 74. Ñ Pentru orice lucrãtor care lucreazã în zona supravegheatã sau care intrã ocazional într-o zonã controlatã, dar care nu
+poate încasa pe toate cãile de expunere o dozã efectivã însumatã de
+cel puțin 6 mSv/an, cu acordul Autoritãții se poate renunța la monitorizarea individualã, dar expunerea profesionalã a acestuia se evalueazã pe baza monitorizãrii locurilor de muncã, în condițiile art. 72.
+Mãsurarea debitelor dozei date de expunerea externã
+Art. 75. Ñ (1) Mãsurarea debitelor dozei date de expunerea
+externã se face la toate locurile de muncã din zonele controlate și
+supravegheate, precum și pe traseele principale de circulație a personalului, cu dispozitive de însumare a dozei pe perioada fiecãrui
+schimb sau pe perioade mai lungi.
+(2) Prin excepție de la prevederile alin. (1), cu acordul Autoritãții,
+monitorizarea unor locuri de muncã din zona controlatã și a locurilor
+de muncã din zona supravegheatã se poate efectua prin determinarea debitului dozei date de expunerea externã, cu o frecvențã de
+mãsurare stabilitã în procesul de autorizare și consemnatã în procedurile de operare localã.
+(3) La fiecare loc de muncã mãsurãtorile se efectueazã în zona
+în care lucrãtorii stau cea mai mare parte a timpului de lucru.
+Mãsurãtorile concentrației radonului și a descendenților sãi
+Art. 76. Ñ (1) Mãsurarea concentrației radonului și a descendenților sãi și, dupã caz, a toronului se face la toate locurile de
+muncã din zonele controlate, precum și pe traseele principale de
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 677/12.IX.2002
+
+circulație a personalului, cu dispozitive de mãsurare și înregistrare
+continuã pe perioada fiecãrui schimb sau pe perioade mai lungi.
+(2) Prin excepție de la prevederile alin. (1), cu acordul Autoritãții,
+monitorizarea unor locuri de muncã din zona controlatã și a locurilor
+de muncã din zona supravegheatã se poate efectua prin mãsurarea
+discontinuã a concentrației radonului și a descendenților acestuia și,
+dupã caz, a toronului, cu o frecvențã de mãsurare stabilitã în procesul de autorizare și consemnatã în procedurile de operare localã.
+(3) La fiecare loc de muncã mãsurãtorile se efectueazã în zona
+în care lucrãtorii stau cea mai mare parte a timpului de lucru.
+Art. 77. Ñ În cazul mãsurãtorilor discontinue, efectuate conform
+art. 76 alin. (2), factorul de echilibru se determinã cel puțin trimestrial.
+Art. 78. Ñ Frecvența de mãsurare a concentrației radonului și a
+descendenților acestuia și, dupã caz, a toronului se mãrește dacã:
+a) concentrația mãsuratã depãșește valoarea mãsuratã în mod
+obișnuit în acel loc de muncã;
+b) au loc schimbãri majore în sistemul de ventilație, în planul
+minei sau în metoda de extragere a minereului;
+c) nivelul de referințã al concentrației radonului în aer, de
+370 Bq/m3, este depãșit, radonul fiind considerat în echilibru de
+100% cu descendenții sãi de viațã scurtã;
+d) este suspectatã o creștere a concentrației de radon;
+e) se verificã eficacitatea unor mãsuri corective.
+Mãsurarea concentrației și activitãții pulberilor
+Art. 79. Ñ Activitatea alfa a pulberilor aeropurtate se monitorizeazã printr-o metodã de mãsurare continuã, pe perioada de
+funcționare a instalațiilor de ventilație, la locurile de muncã unde
+expunerea datoratã inhalãrii pulberilor radioactive aeropurtate este mai
+mare de 1/10 din limita dozei efective pentru personalul expus profesional.
+Art. 80. Ñ Pentru celelalte locuri de muncã frecvența mãsurãrii
+activitãții alfa a pulberilor atmosferice aeropurtate se stabilește în procesul de autorizare și se consemneazã în procedurile de operare
+localã.
+Art. 81. Ñ Mãrimea expunerii generate de nivelul concentrației
+pulberilor radioactive aeropurtate este factorul determinant în stabilirea tipului și conținutului oricãrui program de monitorizare individualã.
+Mãsurarea contaminãrii nefixate de suprafațã
+Art. 82. Ñ (1) Contaminarea nefixatã de suprafațã a lucrãtorilor și
+a echipamentului individual de protecție se mãsoarã la orice pãrãsire
+a zonei controlate, ce trebuie sã coincidã cu intrarea dinspre zona
+controlatã în grupul social ce include vestiarele speciale de pãstrare a
+echipamentului de radioprotecție și instalațiile de decontaminare a
+personalului.
+(2) Persoanele declarate contaminate extern dupã efectuarea
+mãsurãtorilor conform alin. (1) se remãsoarã dupã decontaminarea
+prin îmbãiere.
+(3) Contaminarea nefixatã a suprafețelor structurilor instalațiilor și
+a echipamentelor de la locurile de muncã din zona controlatã și
+supravegheatã se mãsoarã cu o frecvențã ce se stabilește în procesul de autorizare și se consemneazã în procedurile de operare localã.
+Art. 83. Ñ (1) Nivelurile contaminãrii maxime admise pentru
+suprafețele de lucru și echipamentul individual de protecție la radiații
+sunt cele prevãzute în coloana 3 a tabelului nr. 2-B din Normele fundamentale de securitate radiologicã.
+(2) Nivelurile maxime ale contaminãrii nefixate, admise pentru
+suprafețele echipamentelor individuale de lucru, sunt de 0,4 Bq/cm2
+pentru emițãtorii beta, emițãtorii gama și emițãtorii alfa de toxicitate
+scãzutã și de 0,04 Bq/cm2 pentru toți ceilalți emițãtori alfa.
+Controlul sistemului de ventilație
+Art. 84. Ñ (1) La proiectarea sistemului de aeraj se utilizeazã cel
+mai mare debit de aer proaspãt rezultat din calculele în care se ia în
+considerare potențialul de emanare al gazelor radioactive.
+(2) Suplimentar, în cazul minelor declarate grizutoase, la proiectarea sistemului de aeraj trebuie îndeplinite și cerințele specifice impuse
+de pericolul de explozie a metanului.
+(3) Este recomandabil ca lucrãrile miniere subterane destinate
+dirijãrii curenților de aer proaspãt sã fie sãpate în steril, iar acolo
+unde condițiile locale nu permit acest lucru, zonele mineralizate traversate sã fie acoperite cu materiale care împiedicã difuzia radonului
+și toronului.
+
+Art. 85. Ñ Mãsurãtorile debitelor la intrarea și la ieșirea canalelor
+de circulație a aerului trebuie sã demonstreze cã scurgerile și pierderile de aer sunt sub control și cã sistemul de aeraj în ansamblu
+funcționeazã la parametrii proiectați.
+Art. 86. Ñ Întreținerea și controlul sistemului de aeraj se asigurã
+în baza unui program astfel conceput încât sã detecteze imediat orice
+deteriorãri sau deficiențe și sã asigure remedierea rapidã a acestora.
+Art. 87. Ñ La locurile de muncã în care sistemul primar de ventilație nu asigurã reducerea concentrațiilor de pulberi și de gaze
+radioactive sub limitele stabilite prin programul de radioprotecție se
+introduce suplimentar un sistem auxiliar de aeraj, alcãtuit din conducte flexibile. Sistemul auxiliar de aeraj se poziționeazã astfel încât
+sã evite orice recirculare a aerului contaminat la locurile de muncã.
+Art. 88. Ñ (1) Valorile debitelor de aer se verificã și se înregistreazã periodic la toate locurile de muncã și stațiile fixe cu frecvența
+stabilitã în procedura de operare localã.
+(2) Valorile mãsurate se comparã cu cele așteptate din modelarea
+termenilor sursã pe tipuri de contaminanți.
+(3) Sursele parazite de contaminare a aerului, reprezentate de
+aerul recirculat din vechile zone de lucru sau din zonele în care temporar nu se mai lucreazã, se eliminã prin izolarea acestora prin
+îndiguire.
+Art. 89. Ñ Aerajul în serie al locurilor de muncã se admite numai
+în cazuri bine justificate și numai cu acordul Autoritãții, cu condiția ca
+în ultimul loc de muncã doza efectivã încasatã pe toate cãile sã nu
+depãșeascã limita de dozã efectivã pentru personalul expus
+profesional.
+Art. 90. Ñ Orice lucrare minierã subteranã care depãșește
+lungimea de 6 m se asigurã cu aeraj mecanizat.
+Art. 91. Ñ La puțurile și șanțurile de prospecțiuni pentru minereuri
+de uraniu și toriu, la care se mãsoarã concentrații de gaze radioactive care genereazã o dozã efectivã mai mare de 6 mSv/an, se
+vor lua mãsuri de reducere a concentrațiilor acestora prin instalarea
+și punerea în funcțiune a unor sisteme mecanice de aeraj.
+Art. 92. Ñ Dupã orice întrerupere a funcționãrii instalațiilor principale de aeraj, precum și dupã pușcare accesul lucrãtorilor la locurile
+de muncã se va admite numai dupã un timp de funcționare neîntreruptã a sistemului de ventilație, stabilit prin procedura localã de operare, astfel încât sã se asigure situarea nivelurilor concentrațiilor de
+activitate din atmosfera locurilor de muncã sub limitele de referințã
+stabilite conform art. 32 lit. l).
+Sistemul de evaluare a expunerii profesionale și de atribuire a
+dozelor
+Art. 93. Ñ Sistemul de evaluare a expunerii profesionale și de
+atribuire a dozelor este parte a programului de radioprotecție și
+condiție prealabilã de autorizare.
+Art. 94. Ñ Sistemul de evaluare a expunerii profesionale și de
+calculare și atribuire a dozelor trebuie sã demonstreze cã dozele
+efective sunt suficient de mici și se încadreazã în limitele admise și
+totodatã trebuie sã asigure informații complete pentru înregistrarea
+expunerilor profesionale individuale.
+Art. 95. Ñ Sistemul de evaluare a expunerii profesionale și de
+calculare și atribuire a dozelor trebuie sã asigure utilizarea tuturor
+datelor provenite din monitorizarea individualã și din monitorizarea
+locurilor de muncã.
+Art. 96. Ñ Acolo unde dozele rezultate din expunerea internã
+sunt calculate numai pe baza monitorizãrii locului de muncã conform
+prevederilor art. 72, pentru comparare și verificare este obligatoriu ca
+cel puțin un lucrãtor pe schimb și loc de muncã și cel puțin 10% din
+totalul lucrãtorilor sã fie dotați cu:
+a) dozimetre alfa individuale de tipul celor prevãzute în anexa
+nr. 3 la prezentele norme, pentru mãsurarea concentrației descendenților radonului, și instrumente individuale de mãsurare a concentrației și radioactivitãții pulberilor aeropurtate, în activitãțile de minerit
+și numai în anumite faze ale activitãții de preparare, stabilite de
+Autoritate în procesul de autorizare;
+b) dozimetre alfa individuale pentru mãsurarea concentrației și
+radioactivitãții pulberilor aeropurtate, în anumite faze ale activitãții de
+preparare, stabilite de Autoritate în procesul de autorizare.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 677/12.IX.2002
+Art. 97. Ñ Expunerea profesionalã individualã poate fi estimatã pe
+baza monitorizãrii locurilor de muncã și a cunoașterii timpului de lucru
+numai dacã sunt îndeplinite urmãtoarele condiții:
+a) instrumentele folosite pentru determinarea debitelor dozei și
+concentrațiilor contaminanților trebuie întreținute și calibrate periodic
+conform programului de asigurare a calitãții definit în procedura de
+operare;
+b) locațiile în care sunt instalate instrumentele de monitorizare a
+locurilor de muncã trebuie alese cu grijã pentru ca înregistrãrile sã
+fie semnificative;
+c) condițiile ambientale de temperaturã și umiditate de la locul de
+instalare a instrumentelor trebuie monitorizate cu grijã pentru a estima
+influența lor asupra înregistrãrilor;
+d) probele recoltate în scopul monitorizãrii locurilor de muncã trebuie sã reprezinte condițiile medii specifice;
+e) perioadele de staționare la locurile de muncã trebuie înregistrate detaliat conform procedurii de operare.
+Art. 98. Ñ Pentru un anumit grup de lucrãtori care își desfãșoarã
+activitatea în condiții de lucru similare se poate stabili o expunere
+medie cu ajutorul monitorizãrii individuale a unui subgrup reprezentativ de lucrãtori.
+Art. 99. Ñ În situația în care se suspecteazã cã un lucrãtor a
+încorporat cantitãți semnificative de material radioactiv este obligatorie
+monitorizarea individualã a lucrãtorului prin recoltarea și analizarea
+produselor biologice (urinã și fecale).
+Art. 100. Ñ Lucrãtorii care au încasat pe toate cãile, conform
+rezultatelor monitorizãrii, în ultimii 10 ani o dozã egalã sau mai mare
+de 200 mSv se mãsoarã cu un contor pentru corpul uman.
+Înregistrarea rezultatelor monitorizãrii expunerii
+Art. 101. Ñ (1) Titularul de autorizație va pãstra în condițiile și pe
+perioadele menționate la art. 64 din Normele fundamentale de securitate radiologicã, atât în format electronic, cât și în formulare tipizate,
+aprobate de Autoritate în procesul de autorizare, înregistrãrile privind
+expunerea profesionalã a lucrãtorilor, obținute prin monitorizarea locurilor de muncã și prin monitorizare individualã.
+(2) Înregistrãrile privind întreținerea și calibrarea echipamentelor de
+monitorizare personalã se pãstreazã pânã când lucrãtorul împlinește
+75 de ani, dar nu mai puțin de 30 de ani de la încetarea lucrului ca
+persoanã expusã profesional.
+(3) Înregistrãrile cu valorile debitului dozei și concentrațiile gazelor
+și pulberilor radioactive, pe locuri de muncã, se pãstreazã conform
+alin. (2).
+(4) Înregistrãrile privind întreținerea și calibrarea echipamentelor de
+monitorizare a locurilor de muncã se pãstreazã cel puțin 10 ani.
+Instruirea personalului
+Art. 102. Ñ Programul general de pregãtire și instruire periodicã
+a lucrãtorilor expuși profesional privind bazele securitãții radiologice și
+implicațiile expunerii la radiații ionizante asupra stãrii de sãnãtate trebuie sã cuprindã cel puțin urmãtoarele:
+a) principiile radioprotecției (limite, optimizare);
+b) mãrimile de bazã și unitãțile de mãsurã în radioprotecție;
+c) proprietãțile uraniului, toriului, descendenților acestora și
+pulberilor;
+d) scopul și metodele de estimare a dozelor efective încasate de
+lucrãtori, incluzând monitorizarea individualã și monitorizarea locurilor
+de muncã, mãsurarea concentrațiilor de pulberi, mãsurarea uraniului
+și toriului din pulberi, mãsurarea concentrațiilor radonului, toronului și
+descendenților acestora, mãsurarea nivelurilor radiațiilor beta și gama
+și a altor mãrimi de interes;
+e) practici de eliminare, limitare sau control al dozei încasate de
+lucrãtor, incluzând igiena personalã și tehnicile de bazã de reducere
+a dozei, cum sunt ecranarea, distanța fațã de sursã și timpul de
+expunere;
+f) persoanele care trebuie contactate în problemele de medicina
+muncii, igiena radiațiilor și securitate radiologicã;
+g) obligațiile lucrãtorilor conform prevederilor legale emise de
+Autoritate;
+h) efectele expunerii la radiații asupra stãrii de sãnãtate și riscul
+suplimentar reprezentat de asocierea expunerii la radon și descendenți cu fumatul;
+i) semnificația semnelor de avertizare.
+
+9
+
+Art. 103. Ñ Programul specific de pregãtire și instruire periodicã a
+lucrãtorilor privind riscul pentru starea de sãnãtate, reprezentat de
+specificul locurilor de muncã din domeniul mineritului și preparãrii
+minereurilor de uraniu, trebuie sã cuprindã cel puțin urmãtoarele:
+a) locul de muncã și riscul reprezentat de acesta pentru starea
+de sãnãtate;
+b) metode și tehnici de lucru în siguranțã; ce este indicat și ce
+este contraindicat în mineritul și prepararea minereurilor de uraniu și
+toriu;
+c) mãsurile care trebuie luate dupã contactul fizic accidental cu o
+substanțã radioactivã sau dupã ingestia acutã a unor radionuclizi;
+d) selecția, folosirea atentã și întreținerea instrumentelor, echipamentelor și dozimetrelor individuale pentru radioprotecție;
+e) scopul și modul de funcționare a sistemului de ventilație,
+importanța respectãrii recomandãrilor responsabilului cu ventilația și a
+necesitãții ca sistemul de ventilație sã funcționeze în permanențã;
+f) necesitatea raportãrii imediate a oricãror probleme privind sistemul de ventilație cãtre șeful direct sau responsabilul cu ventilația;
+g) scopul și metodele de control și de diminuare a concentrațiilor
+pulberilor radioactive în instalațiile de minerit și de preparare;
+h) cerințe de autorizare, instrucțiuni de operare și modul specific
+de aplicare în instalațiile de minerit și de preparare;
+i) calea de contactare a responsabilului cu radioprotecția, a
+responsabilului cu ventilația, a medicului abilitat, a Autoritãții și a
+reprezentanților lucrãtorilor;
+j) localizarea și modul de funcționare a sistemelor de avertizare,
+alarmare și comunicare;
+k) cunoașterea planurilor de evacuare și localizarea ieșirilor de
+urgențã;
+l) localizarea punctului de prim ajutor.
+Art. 104. Ñ Supraveghetorii trebuie sã fie instruiți suplimentar în
+urmãtoarele domenii:
+a) radioprotecție și securitatea muncii;
+b) analizarea dozelor și cunoașterea detaliatã a tipurilor de expuneri specifice mineritului și preparãrii minereurilor de uraniu și toriu;
+c) moduri și tehnici de supraveghere a factorilor condițiilor de
+muncã.
+Art. 105. Ñ (1) Titularul de autorizație trebuie sã pãstreze înregistrãrile fiecãrei instruiri a fiecãrui lucrãtor.
+(2) Înregistrãrile trebuie sã conținã data la care a avut loc instruirea, tipul instruirii, certificãrile și programãrile reinstruirii.
+Art. 106. Ñ (1) Programele de instruire, materialele și metodele
+de instruire se avizeazã de expertul acreditat sau de organismul acreditat de protecție radiologicã.
+(2) Toate înregistrãrile privind instruirea trebuie puse la dispoziția
+Autoritãții, la cererea acesteia.
+Art. 107. Ñ Titularul de autorizație este obligat sã asigure
+pregãtirea și reciclarea persoanelor expuse profesional în conformitate
+cu prevederile art. 50 din Normele fundamentale de securitate radiologicã.
+CAPITOLUL VI
+Mãsuri tehnice și administrative de radioprotecție
+Sistemul de ventilație în instalațiile de minerit și preparare
+Art. 108. Ñ (1) Metodele cele mai eficiente pentru minimizarea
+expunerii la aerosoli radioactivi în mineritul și prepararea minereurilor
+de uraniu și toriu sunt:
+a) proiectarea adecvatã a sistemului de aeraj;
+b) montarea, întreținerea și operarea sistemului de aeraj în cele
+mai bune condiții;
+c) izolarea cu diguri etanșe a tuturor lucrãrilor miniere în care nu
+se mai lucreazã, în scopul reducerii suprafeței de emanare a gazelor
+radioactive;
+d) o structurã administrativã cu niveluri de decizie bine stabilite și
+instruirea corespunzãtoare a personalului care opereazã sistemele de
+ventilație.
+(2) Mãsurile tehnice menționate la alin. (1) trebuie aplicate cu prioritate fațã de utilizarea echipamentului individual de radioprotecție în
+scopul minimizãrii expunerii la aerosoli radioactivi și pulberi
+aeropurtate.
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 677/12.IX.2002
+
+Art. 109. Ñ Sistemele primare și auxiliare de ventilație trebuie
+astfel proiectate încât sã îndeplineascã urmãtoarele condiții:
+a) sã ținã seama de planurile de dezvoltare ale minei radioactive;
+b) sã separe eficient circuitele de aer proaspãt de circuitele de
+aer uzat;
+c) sã asigure o cantitate suficientã de aer proaspãt pentru a prezerva starea de sãnãtate a lucrãtorilor și pentru a minimiza expunerea la pulberi și gaze radioactive la toate locurile de muncã;
+d) sã menținã la cel mai mic nivel rezonabil posibil factorul de
+echilibru între radon, toron și descendenții de viațã scurtã ai acestora.
+Art. 110. Ñ (1) Sistemele primare și auxiliare de ventilație și sistemele de mãsurare a concentrațiilor pulberilor trebuie sã funcționeze
+în mod continuu pe perioadele de lucru.
+(2) Lucrãtorii trebuie sã pãrãseascã locul de muncã la oprirea sau
+defectarea sistemului de ventilație, cu excepția celor implicați în
+lucrãrile de reparații ale acestui sistem de ventilație.
+(3) În perioadele în care în sistemul de ventilație se opereazã
+schimbãri, este defect sau este oprit se interzice reîntoarcerea
+lucrãtorilor la locul de muncã pânã la repornirea acestuia și reducerea concentrațiilor de contaminanți din atmosfera locurilor de muncã
+la nivelurile stabilite prin procedurile de operare.
+Art. 111. Ñ Titularul de autorizație trebuie sã conceapã și sã
+implementeze un program de inspecție și de întreținere a echipamentelor de ventilație, incluzând ventilatoarele principale și auxiliare, sistemele de rãcire, sistemele de încãlzire și sistemele de conducte
+utilizate la transportul aerului.
+Art. 112. Ñ (1) Titularul de autorizație trebuie sã ia toate mãsurile
+necesare pentru a împiedica intrarea neautorizatã în orice zonã subteranã neventilatã a minei.
+(2) Lucrãrile de întreținere, de modificare sau reparare a unui sistem de ventilație care nu funcționeazã se vor efectua numai în
+condițiile îndeplinirii în totalitate a prevederilor art. 30, 31 și 32 din
+Normele fundamentale de securitate radiologicã.
+Art. 113. Ñ Procedurile de operare a sistemului de ventilație trebuie sã conținã toate mãsurile ce trebuie luate în cazul în care sistemul de ventilație se defecteazã.
+Art. 114. Ñ (1) Este necesar sã se evite plasarea oricãror stații
+de lucru fixe în curenții de aer uzat evacuat sau în zone în care
+debitul dozei expunerii externe este semnificativ.
+(2) Stațiile de lucru fixe pot fi amplasate în condițiile de mediu
+menționate la alin. (1) numai dacã operatorul acționeazã din cabine
+de protecție alimentate cu aer filtrat.
+Art. 115. Ñ (1) Trebuie sã fie monitorizate condițiile atmosferice
+speciale provocate de inversiunile de temperaturã, întrucât în cazul
+carierelor acestea conduc la mãrirea concentrațiilor de gaze radioactive.
+(2) Atunci când prin mãsurãtorile de monitorizare menționate la
+alin. (1) se constatã cã din cauza condițiilor atmosferice speciale concentrația gazelor radioactive depãșește nivelul de referințã stabilit, titularul de autorizație trebuie sã dispunã mãsuri tehnice pentru scãderea
+concentrațiilor sub limita de referințã sau sã limiteze timpul de
+staționare a lucrãtorilor în zona controlatã.
+Art. 116. Ñ În instalațiile de preparare a minereurilor de uraniu și
+toriu sistemul de ventilație trebuie sã realizeze urmãtoarele:
+a) sã menținã fiecare zonã în depresiune;
+b) sã împrospãteze aerul incintelor deservite pentru a împiedica
+depãșirea contaminãrii admise;
+c) sã împiedice dispersia contaminãrii radioactive pe calea aerului;
+d) sã asigure minimum 5 schimburi de aer pe orã;
+e) deplasarea aerului între zonele de lucru se face de la cele mai
+puțin contaminate spre cele mai intens contaminate;
+f) gurile de introducere și cele de aspirație vor fi plasate în așa
+fel încât sã se asigure eliminarea eficace și omogenã a aerului din
+încãperi, respectiv din zonele de interes;
+g) gurile de aspirație vor fi prevãzute cu prefiltre pentru a împiedica colmatarea prea rapidã a filtrelor principale, permițând fixarea
+pulberilor la nivelul sursei de formare și reținerea aerosolilor lichizi;
+h) aerul evacuat în atmosferã va fi filtrat și, dupã caz, trecut prin
+capcane de reținere a particulelor radioactive. Filtrele și capcanele vor
+fi situate cât mai aproape de sursele de contaminare și instalate în
+așa fel încât sã poatã fi manipulate ușor și fãrã a produce
+contaminãri;
+
+i) coșul de evacuare și priza de aer se plaseazã astfel încât sã
+se evite recircularea aerului uzat;
+j) ventilatoarele de introducere și cele de aspirație vor fi prevãzute
+cu dispozitive care sã împiedice inversarea sensului de circulație a
+aerului în caz de defectare;
+k) în locurile unde este necesar trebuie sã se prevadã ventilatoare de rezervã pentru ventilația de absorbție;
+l) conductele de aer proaspãt trebuie sã se amplaseze astfel
+încât sã nu treacã prin încãperi sau spații contaminate;
+m) coloana de aspirație a aerului din încãperile contaminate va fi
+amplasatã astfel încât conducta de evacuare sã nu treacã prin
+încãperi sau spații de lucru a cãror contaminare trebuie evitatã.
+Metode de diminuare a cantitãții de pulberi
+Art. 117. Ñ Titularul de autorizație trebuie sã conceapã și sã
+aplice un program unitar de prelevare a probelor de pulberi aeropurtate în vederea verificãrii mãsurilor tehnice aplicate pentru minimizarea cantitãții acestora.
+Art. 118. Ñ (1) În scopul reducerii concentrațiilor pulberilor aeropurtate titularul de autorizație are obligația sã aplice cel puțin
+urmãtoarele mãsuri:
+a) sã minimizeze generarea pulberilor prin utilizarea unor tehnici
+miniere adecvate, cum sunt: utilizarea de scheme de împușcare
+adecvate, perforajul umed, utilizarea altor mecanisme și tehnici specifice de reducere a pulberilor;
+b) pulberile vor fi reținute în imediata apropiere a sursei de generare prin încasetare, reducerea presiunii aerului în zona sursei și eliberarea acestuia numai dupã filtrare;
+c) concentrația de pulberi ce nu a putut fi reținutã la sursã se va
+dilua pânã la niveluri acceptate prin introducerea în zona de lucru a
+aerului proaspãt la debitul necesar;
+d) se vor optimiza vitezele de curgere a aerului astfel ca acesta
+sã nu recircule pulberile depuse;
+e) dacã mãsurile tehnice menționate nu asigurã reducerea concentrațiilor de pulberi la nivelul admis, lucrãtorii vor opera din cabine
+închise alimentate cu aer filtrat.
+(2) În instalațiile de preparare a minereurilor de uraniu și toriu se
+aplicã în plus urmãtoarele mãsuri specifice de reducere a concentrațiilor de pulberi și gaze radioactive:
+a) la toate locurile de muncã cu degajare de pulberi, radon,
+vapori și gaze toxice sau iritante se va asigura o ventilație localã
+aspirantã, viteza de aspirație fiind de minimum 0,5 m/s în spațiul dintre hote și suprafețele de lucru;
+b) este interzisã evacuarea în atmosferã a aerului aspirat prin
+rețeaua de ventilație fãrã o prealabilã epurare. Distanța dintre capãtul
+de evacuare al coloanei de ventilație și cea mai apropiatã clãdire nu
+va fi mai micã de 20 m;
+c) la toate locurile de muncã cu degajare de pulberi se va face
+curãțarea pulberilor depuse pe suprafețele de lucru la terminarea
+fiecãrui schimb și cel puțin o datã pe sãptãmânã se va face
+curãțarea generalã. Curãțarea se face cu apã din abundențã, dupã
+aspirarea prealabilã a pulberilor;
+d) mãturarea sau ștergerea uscatã a pulberilor este interzisã.
+Calitatea curãțeniei se controleazã zilnic de cãtre personalul responsabil cu securitatea radiologicã;
+e) la toate locurile de muncã la care existã posibilitatea apariției
+unor concentrații periculoase de radon sau a creșterii nivelului expunerii externe peste nivelurile de referințã stabilite se vor instala dispozitive automate de avertizare și semnalizare;
+f) punctele de transbordare și încãrcare a minereului și concentratelor trebuie construite astfel încât sã se împiedice dispersia pulberilor în aer, inclusiv prin utilizarea procedeelor umede pentru
+îndepãrtarea pulberilor produse;
+g) benzile transportoare trebuie construite astfel încât la funcționarea lor sã se reducã cât mai mult posibil riscul de producere și de
+dispersare accidentalã a pulberilor;
+h) pulberile fine care aderã de benzile transportoare trebuie
+îndepãrtate în mod continuu printr-un sistem adecvat.
+Eliberarea materialelor și echipamentelor de sub regimul de
+autorizare
+Art. 119. Ñ Titularul de autorizație va întocmi și va aplica proceduri de decontaminare și de mãsurare a contaminãrii pentru toate
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 677/12.IX.2002
+tipurile de materiale și echipamente pe care intenționeazã sã le elibereze de sub regimul de autorizare și sã le scoatã din zonele controlate sau supravegheate.
+Art. 120. Ñ Materialele și echipamentele se scot din zonele controlate ale instalațiilor autorizate de minerit și preparare a minereurilor
+de uraniu și toriu numai dacã sunt respectate cumulativ urmãtoarele
+condiții:
+a) expertul acreditat a certificat cã nivelurile de contaminare a
+materialelor și echipamentelor ce se intenționeazã sã fie eliberate de
+sub regimul de autorizare și scoase din zona controlatã sunt mai mici
+decât limitele de eliberare prevãzute de prezentele norme;
+b) titularul de autorizație ține evidența strictã și la zi a tuturor
+materialelor și echipamentelor scoase, inclusiv a datelor de eliberare
+și a destinației acestora;
+c) titularul de autorizație notificã de fiecare datã Autoritãții intenția
+de eliberare și de scoatere a materialelor cu cel puțin 20 de zile
+înainte de data efectivã de scoatere;
+d) în notificare titularul de autorizație va preciza tipurile și cantitãțile de materiale ce urmeazã a fi eliberate și scoase din zona controlatã, precum și destinațiile acestora pe tipuri și cantitãți.
+Art. 121. Ñ Materialele și echipamentele care dupã decontaminare
+prezintã o activitate mai mare decât limitele de eliberare prevãzute
+de legislația în vigoare se gestioneazã ca deșeuri radioactive.
+Echipamentul individual de protecție la radiații ionizante și
+asigurarea igienei personale
+Art. 122. Ñ În funcție de riscul de contaminare titularul de autorizație are obligația sã doteze lucrãtorii expuși profesional cu echipament individual de protecție la radiații ionizante, alcãtuit, dupã caz,
+din: haine de lucru cu rol de radioprotecție, cãști, mãnuși de
+protecție, ochelari de protecție, costume etanșe, încãlțãminte impermeabilã de protecție, bonete, lenjerie, ciorapi și șorțuri de protecție.
+Art. 123. Ñ Lucrãtorii care utilizeazã echipamentele individuale de
+protecție la radiații ionizante, în funcție de complexitatea acestora, trebuie instruiți asupra modului de folosire, de verificare și întreținere,
+precum și asupra limitelor acestora.
+Art. 124. Ñ Echipamentul individual de protecție la radiații ionizante trebuie sã îndeplineascã urmãtoarele condiții:
+a) sã corespundã tuturor cerințelor prevãzute în Normativul de
+acordare și de utilizare a echipamentului individual de protecție la
+radiații ionizante RP06/1997, aprobat prin Ordinul ministrului apelor,
+pãdurilor și protecției mediului nr. 318/1997, publicat în Monitorul
+Oficial al României, Partea I, nr. 111 bis din 4 iunie 1997;
+b) sã fie certificat prin autorizație de securitate radiologicã și
+aprobat de Ministerul Sãnãtãții și Familiei;
+c) sã fie confortabil și ușor de utilizat.
+Art. 125. Ñ (1) Titularul de autorizație nu va distribui echipament
+de protecție respiratorie doar pentru a se încadra în limita de dozã
+efectivã pentru personalul expus profesional, exceptând cazurile de
+urgențã, pentru reparare și întreținere, în condițiile art. 30Ñ32 din
+Normele fundamentale de securitate radiologicã.
+(2) Echipamentul de protecție respiratorie trebuie sã îndeplineascã
+cerințele prevãzute în anexa nr. 4 la prezentele norme.
+Art. 126. Ñ (1) Îmbrãcãmintea de stradã și echipamentul individual de radioprotecție se pãstreazã în vestiare speciale separate,
+amenajate în grupul social amplasat la limita dintre zona controlatã și
+zona supravegheatã.
+(2) În grupurile sociale menționate la alin. (1) se organizeazã
+trasee care împiedicã rãspândirea contaminãrii la schimbarea hainelor
+de stradã cu cele de lucru și invers și se amenajeazã obligatoriu
+dușuri pentru decontaminarea lucrãtorilor.
+Art. 127. Ñ (1) Titularul de autorizație trebuie sã asigure serviciile
+de decontaminare a echipamentului individual de protecție la radiații
+ionizante prin sisteme cu vacuum și prin spãlare, dupã caz.
+(2) Eficiența decontaminãrii se verificã prin mãsurarea adecvatã a
+echipamentului care a fost decontaminat conform alin. (1).
+(3) Echipamentele individuale care dupã aspirarea contaminãrii
+nefixate, prin vacuumare și spãlare, prezintã niveluri ale contaminãrii
+mai ridicate decât limitele admise se trateazã ca deșeuri radioactive.
+(4) Serviciile de decontaminare a echipamentului individual de protecție la radiații ionizante pot fi efectuate și de alte persoane legal
+constituite, altele decât cele care opereazã în domeniul mineritului și
+
+11
+
+preparãrii minereurilor de uraniu și toriu, cu condiția ca acestea sã
+deținã autorizație eliberatã de Autoritate conform legii.
+Art. 128. Ñ În vederea asigurãrii igienei personale a lucrãtorilor
+expuși profesional titularul de autorizație trebuie sã îndeplineascã
+urmãtoarele condiții:
+a) sã amenajeze grupuri sociale disponibile pentru toți lucrãtorii la
+limita dintre zonele controlate și supravegheate, conform art. 126;
+b) sã amenajeze în interiorul zonei controlate grupuri sanitare disponibile pentru toți lucrãtorii;
+c) sã aloce un timp suficient pentru ca fiecare lucrãtor sã se
+poatã spãla înainte de pauza de masã și la sfârșitul programului de
+lucru;
+d) sã asigure în zona supravegheatã amenajãri curate, ușor accesibile fiecãrui lucrãtor pentru servirea mesei, dotate cu apã potabilã,
+aer curat și instalații de spãlare a mâinilor;
+e) toate amenajãrile de asigurare a igienei personale trebuie sã
+fie proiectate, supravegheate și întreținute într-o manierã
+corespunzãtoare normelor specifice de asigurare a sãnãtãții publice.
+Primul ajutor
+Art. 129. Ñ (1) Titularul de autorizație are obligația sã amplaseze
+și sã amenajeze corespunzãtor cel puțin câte un punct de prim ajutor
+în fiecare zonã controlatã.
+(2) Titularul de autorizație trebuie sã organizeze instruirea
+lucrãtorilor în acordarea primului ajutor și sã se asigure cã punctele
+de prim ajutor sunt cunoscute de toți lucrãtorii.
+(3) Titularul de autorizație elaboreazã împreunã cu alte organisme
+specializate planul de acțiune în caz de accident.
+(4) Titularul de autorizație are obligația de a organiza verificarea
+periodicã a integritãții dotãrii și funcționalitãții punctelor de prim ajutor
+și a truselor de urgențã.
+(5) Titularul de autorizație are obligația de a afișa la loc vizibil
+instrucțiunile privind funcționalitatea punctelor de prim ajutor și de a
+organiza împreunã cu organisme specializate simulãri de intervenții în
+caz de accident.
+Rotația personalului expus profesional
+Art. 130. Ñ (1) Rotația personalului expus profesional nu constituie o soluție de înlocuire a mijloacelor și mãsurilor tehnice de ținere
+sub control a expunerii la radiații ionizante.
+(2) Titularul de autorizație poate apela la rotația personalului
+numai pentru perioade limitate și numai la acele locuri de muncã la
+care, deși se aplicã toate mãsurile tehnice de ținere sub control, se
+înregistreazã niveluri înalte ale expunerii, cu condiția sã fie respectate limitele de dozã prevãzute la art. 22 din Normele fundamentale
+de securitate radiologicã.
+CAPITOLUL VII
+Supravegherea stãrii de sãnãtate
+Art. 131. Ñ Titularul de autorizație are obligația sã asigure examenul medical la angajarea în muncã și cel de adaptare, controlul
+medical periodic și examenul medical la reluarea muncii, precum și la
+sfârșitul angajãrii, conform reglementãrilor Ministerului Sãnãtãții și
+Familiei.
+Art. 132. Ñ Activitatea de supraveghere a stãrii de sãnãtate trebuie astfel organizatã încât sã permitã în orice moment urmãtoarele:
+a) evaluarea stãrii de sãnãtate a lucrãtorilor;
+b) asigurarea compatibilitãții inițiale și pe parcurs dintre starea de
+sãnãtate a lucrãtorilor și condițiile de la locul de muncã;
+c) accesul rapid la informații utile în caz de:
+ii(i) expunere accidentalã sau boalã profesionalã;
+i(ii) efectuarea studiilor epidemiologice;
+(iii) alte necesitãți medico-legale;
+d) consilierea competentã în caz de contaminare sau supraexpunere.
+Art. 133. Ñ Evaluarea medicalã la angajare trebuie sã aibã în
+vedere și abilitãțile persoanei de a purta echipament de protecție, de
+a auzi și de a rãspunde în mod adecvat la alarma declanșatã de
+depãșirea unor limite ale concentrațiilor activitãții în atmosfera locurilor
+de muncã sau la depãșirea nivelului prestabilit al debitului iradierii
+externe, precum și de a lucra cu echipamente și instrumente
+specializate.
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 677/12.IX.2002
+
+Art. 134. Ñ (1) La stabilirea conținutului controlului medical periodic în mineritul și prepararea minereurilor de uraniu și toriu se vor
+avea în vedere urmãtoarele condiții de lucru specifice acestor
+activitãți:
+a) lucrãtorii sunt expuși profesional și la zgomot, precum și la alte
+pulberi, gaze și substanțe chimice nocive;
+b) riscurile asupra stãrii de sãnãtate reprezentate de expunerile la
+radon și descendenți se cumuleazã cu riscurile asupra stãrii de
+sãnãtate legate de obiceiul de a fuma.
+(2) În funcție de natura, de nivelul și durata expunerilor, controlul
+medical trebuie sã includã investigații speciale conform reglementãrilor
+Ministerului Sãnãtãții și Familiei.
+Art. 135. Ñ Înregistrãrile medicale sunt confidențiale și trebuie sã
+includã toate evaluãrile medicale la angajare, periodice, speciale,
+postîmbolnãvire și la pãrãsirea locului de muncã, rezultatele analizelor
+de laborator, ale foilor medicale de observație din timpul îmbolnãvirilor
+și anamneza, dar exclud informațiile privind expunerea la radiații.
+Art. 136. Ñ Înregistrãrile medicale se pãstreazã pe durata și în
+condițiile prevãzute în reglementãrile specifice emise de Ministerul
+Sãnãtãții și Familiei.
+CAPITOLUL VIII
+Transferarea în mediu a deșeurilor radioactive
+rezultate de la mineritul și prepararea minereurilor
+de uraniu și toriu
+Art. 137. Ñ (1) Deșeurile radioactive rezultate de la mineritul și
+prepararea minereurilor de uraniu și toriu pot fi transferate în mediu
+numai în condițiile respectãrii în totalitate a prevederilor cap. IX din
+Normele fundamentale de securitate radiologicã.
+(2) Deșeurile radioactive solide conținând numai radionuclizi naturali, proveniți de la mineritul și prepararea minereurilor de uraniu și
+toriu, pot fi depozitate definitiv de cãtre titularul de autorizație de
+minerit sau de preparare numai dacã titularul însuși este autorizat
+pentru tratarea, condiționarea și depozitarea finalã a deșeurilor proprii.
+(3) Deșeurile radioactive solide se depoziteazã final de cãtre titularii autorizați, conform alin. (2), la termenele și cu ritmicitatea impuse
+prin autorizație și numai dacã activitãțile totale, concentrațiile activitãții
+și contaminãrile de suprafațã sunt inferioare valorilor stabilite de
+Autoritate prin reglementãri specifice.
+Art. 138. Ñ Toate sursele radioactive care nu mai sunt utilizate în
+practicile de minerit și preparare a minereurilor de uraniu și toriu, precum și toate deșeurile radioactive rezultate de la aceste practici, pentru care titularul de autorizație nu este autorizat el însuși sã le
+depoziteze temporar sau final, trebuie transferate, conform reglementãrilor specifice, la organizațiile autorizate sã colecteze, sã trateze, sã condiționeze sau sã depoziteze final astfel de materiale
+radioactive.
+Art. 139. Ñ Titularul de autorizație are obligația sã optimizeze eliberarea în mediu a efluenților radioactivi lichizi și gazoși.
+Art. 140. Ñ (1) Eliberarea în mediu a efluenților radioactivi lichizi
+sau gazoși se poate face numai dacã sunt respectate în totalitate limitele derivate de eliberare aprobate de Autoritate în cadrul procesului
+de autorizare și condițiile privind evidențele, raportãrile și anunțãrile
+prevãzute în Normele fundamentale de securitate radiologicã.
+(2) Pentru eliberarea în mediu a efluenților radioactivi lichizi trebuie îndeplinite cumulativ și urmãtoarele condiții:
+ii(i) sã fie sub formã de soluții neutre și perfect miscibile cu
+apa;
+i(ii) sã fie deversați în ape curgãtoare;
+(iii) sã nu conținã suspensii radioactive solide;
+(iv) concentrațiile activitãții pe unitatea de volum în apa receptoare, dupã diluție, sã fie în limitele stabilite în procesul de
+autorizare.
+(3) Efluenții radioactivi gazoși trebuie filtrați înainte de evacuarea
+în atmosferã în vederea reținerii pulberilor radioactive aeropurtate cu
+conținut de uraniu și/sau de toriu.
+Art. 141. Ñ Eliminarea efluenților radioactivi în canalizarea publicã
+se poate face numai dacã sunt îndeplinite cumulativ urmãtoarele
+condiții:
+a) efluenții radioactivi lichizi sã fie sub formã de soluții neutre și
+perfect miscibile cu apa;
+b) sã nu conținã suspensii radioactive solide;
+c) activitãțile totale și concentrațiile activitãții sã fie inferioare limitelor derivate de evacuare în canalizarea publicã a efluenților radioactivi lichizi, aprobate de Autoritate în procesul de autorizare;
+
+d) eliberarea sã fie prevãzutã expres în autorizația emisã de
+Autoritate.
+Art. 142. Ñ Dacã deșeurile radioactive lichide și gazoase nu
+îndeplinesc condițiile de eliminare prevãzute la art. 140 sau, dupã
+caz, la art. 141, titularul de autorizație are obligația de a asigura
+depozitarea temporarã și tratarea acestora astfel încât sã fie îndeplinite condițiile de eliminare sau de a le transfera cãtre un organism
+autorizat pentru tratare.
+Art. 143. Ñ Eliminarea efluenților radioactivi lichizi dupã tratare se
+poate face numai dacã sunt îndeplinite condițiile prevãzute la art. 140
+sau, dupã caz, la art. 141.
+Art. 144. Ñ Titularul de autorizație are obligația de a limita emisiile de radon în atmosferã, inclusiv pe cele provenite de la depozitarea deșeurilor radioactive solide și lichide, astfel ca la marginea zonei
+controlate radonul din atmosferã sã nu depãșeascã acea concentrație care genereazã o dozã efectivã la nivelul limitei admise pentru
+populație, respectiv de 0,03 x 10-10 Ci/l (111 Bq/m3), cu un factor de
+echilibru de 0,4.
+Art. 145. Ñ (1) Titularul de autorizație are obligația de a ține sub
+control eliberarea în mediu sau în canalizarea publicã a deșeurilor
+radioactive solide și a efluenților radioactivi lichizi și gazoși, astfel
+încât sã fie permanent îndeplinite condițiile impuse de Autoritate în
+procesul de autorizare, privind metodologia, periodicitatea, volumele și
+activitãțile maxime admise.
+(2) Titularul de autorizație are obligația de a monitoriza deșeurile
+radioactive solide și efluenții radioactivi lichizi și gazoși, conform
+metodologiei și cu periodicitatea aprobate de Autoritate în procesul de
+autorizare, și de a înregistra și pãstra pentru o perioadã de cel puțin
+15 ani înregistrãrile cu rezultatele monitorizãrii.
+Art. 146. Ñ Deșeurile radioactive rezultate de la mineritul și prepararea minereurilor de uraniu și toriu se gospodãresc conform
+cerințelor tehnice detaliate, stabilite de Autoritate prin reglementãri
+specifice.
+CAPITOLUL IX
+Asigurarea radioprotecției populației
+și controlul radioactivitãții mediului înconjurãtor
+Art. 147. Ñ (1) Titularul de autorizație trebuie sã stabileascã o
+zonã de excludere și o zonã cu populație redusã în jurul instalațiilor
+de minerit și preparare a minereurilor de uraniu și toriu, în care sã
+ia mãsuri de excludere, respectiv de restricționare a amplasãrii
+reședințelor permanente pentru populație și a desfãșurãrii de practici
+social-economice.
+(2) Criteriile pentru stabilirea celor douã zone se bazeazã pe eliberãrile în mediu de efluenți radioactivi și sunt cele precizate în normele specifice privind amplasarea instalațiilor de minerit și de
+preparare a minereurilor de uraniu și toriu.
+Art. 148. Ñ (1) Titularul de autorizație trebuie sã organizeze
+desfãșurarea activitãților de minerit și preparare în concordanțã cu
+principiile radioprotecției populației și cu cerințele descrise în cap. IV
+și la art. 102 din Normele fundamentale de securitate radiologicã.
+(2) Conform prevederilor art. 105 din Normele fundamentale de
+securitate radiologicã, titularul de autorizație are obligația sã apeleze
+la serviciile experților acreditați sau ale organismelor acreditate de
+protecție radiologicã pentru îndeplinirea obligațiilor ce îi revin referitor
+la radioprotecția populației.
+(3) Dozele efective pentru populație și grupurile critice, provenind
+de la expunerile pe toate cãile, generate de minerit și preparare, se
+pot estima numai în baza unei metodologii de lucru aprobate de
+Autoritate.
+Art. 149. Ñ Titularul de autorizație are obligația sã asigure prin
+mãsurãtori controlul nivelului radioactivitãții mediului înconjurãtor din
+zona de excludere și din zona cu populație redusã, stabilite în jurul
+instalațiilor de minerit și de preparare a minereurilor de uraniu și de
+toriu.
+Art. 150. Ñ Controlul nivelului radioactivitãții mediului înconjurãtor
+se realizeazã conform unui program de monitorizare a radioactivitãții
+urmãtorilor factori de mediu:
+a) sol;
+b) vegetație;
+c) ape curgãtoare de suprafațã;
+d) ape subterane;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 677/12.IX.2002
+e) aer (radon, toron, descendenții lor, conținut de pulberi radioactive aeropurtate);
+f) sedimente;
+g) alți factori specifici indicați de Autoritate în procesul de autorizare.
+Art. 151. Ñ Programul de monitorizare a radioactivitãții factorilor
+de mediu, incluzând tipurile de mãsurãtori, periodicitatea de mãsurare,
+metodologia de recoltare a probelor și modul de înregistrare a datelor, este parte a programului de radioprotecție și se aprobã de
+Autoritate în procesul de autorizare.
+Art. 152. Ñ Titularul de autorizație poate încredința unui laborator
+desemnat de Autoritate realizarea programului de monitorizare a
+radioactivitãții factorilor de mediu.
+CAPITOLUL X
+Reguli privind transportul minereurilor de uraniu și toriu
+Art. 153. Ñ Activitatea de transport al minereurilor de uraniu și
+toriu pe drumurile publice și pe calea feratã se va desfãșura în conformitate cu prevederile normelor specifice elaborate de Autoritate
+pentru transportul materialelor radioactive.
+Art. 154. Ñ La transportul minereurilor de uraniu și toriu cu mijloace auto în incintele instalațiilor de minerit și de preparare, precum
+și pe drumurile publice se vor respecta suplimentar urmãtoarele
+reguli:
+a) în scopul reducerii cantitãții de pulberi care se formeazã în timpul transportului minereului cu mijloace auto în zonele controlate și
+supravegheate, drumurile din aceste zone se vor curãța și stropi sistematic;
+b) titularul de autorizație are obligația sã asigure monitorizarea
+individualã a expunerii la radiații pentru toți conducãtorii autovehiculelor implicate în transportul minereurilor de uraniu și toriu;
+c) cabinele autovehiculelor folosite la transportul minereurilor se
+doteazã cu ecrane de protecție astfel dimensionate încât expunerea
+în interiorul acestora sã fie inferioarã limitelor de dozã efectivã
+prevãzute la art. 22 din Normele fundamentale de securitate radiologicã;
+d) punctele de transbordare și de încãrcare a minereului trebuie
+construite astfel încât sã se împiedice dispersia pulberilor în aer sau
+pulberile produse sã poatã fi suprimate prin procedeul umed;
+e) mișcãrile mijloacelor de transport trebuie astfel planificate încât
+sã fie evitate aglomerãrile în punctele de transbordare;
+f) minereul transportat nu trebuie expus la un curent de aer de
+mare vitezã, cu excepția cazului în care este bine acoperit și este
+asiguratã împiedicarea degajãrii de pulberi;
+g) transportul ocazional de persoane în vehicule care transportã
+minereuri ori concentrate de uraniu sau toriu este interzis. Se admite
+prezența în cabina vehiculului de transport numai a persoanelor care
+îndeplinesc cumulativ urmãtoarele condiții:
+ii(i) au calitatea de persoane expuse profesional;
+i(ii) au sarcini de serviciu în legãturã cu transportul;
+(iii) sunt înscrise pe foaia de parcurs.
+Art. 155. Ñ La transportul minereurilor cu benzi transportoare
+este obligatoriu sã se respecte urmãtoarele reguli:
+a) acestea trebuie construite, instalate și folosite astfel încât sã
+se reducã cât mai mult posibil producerea și dispersia accidentalã a
+pulberilor;
+b) pulberile fine care aderã de benzile transportoare trebuie în
+mod continuu îndepãrtate cu sisteme special concepute.
+Art. 156. Ñ (1) Toate mijloacele de transport folosite la transportarea în vrac a minereurilor pe calea feratã și pe drumurile publice
+vor fi prevãzute cu sisteme de etanșare și de acoperire a minereului
+pe timpul transportului.
+(2) Sistemele de etanșare și de acoperire a minereului pe timpul
+transportului se aprobã de Autoritate în procesul de autorizare a mijloacelor de transport menționate la alin. (1).
+CAPITOLUL XI
+Alte dispoziții, evidențe, raportãri și anunțãri
+Alte dispoziții
+Art. 157. Ñ Titularii de autorizație din domeniul mineritului și preparãrii minereurilor de uraniu și toriu au obligația sã asigure protecția
+
+13
+
+fizicã a tuturor materialelor radioactive conform prevederilor Normelor
+de protecție fizicã în domeniul nuclear.
+Art. 158. Ñ Titularii de autorizație din domeniul mineritului și preparãrii minereurilor de uraniu și toriu au obligația de a îndeplini în
+totalitate prevederile Normelor de control de garanții în domeniul
+nuclear, aprobate prin Ordinul președintelui Comisiei Naționale pentru
+Controlul Activitãților Nucleare nr. 363/2001.
+Art. 159. Ñ Titularul de autorizație are obligația sã elaboreze planurile de dezafectare și sã asigure dezafectarea instalațiilor nucleare
+de minerit și de preparare a minereurilor de uraniu și toriu, precum și
+sã restaureze și sã elibereze terenurile restaurate conform prevederilor și criteriilor din normele specifice emise de Autoritate.
+Alte evidențe
+Art. 160. Ñ (1) Titularul de autorizație are obligația sã ținã evidența strictã și la zi a deșeurilor radioactive rezultate de la mineritul
+și prepararea minereurilor de uraniu și de toriu, a deșeurilor radioactive tratate și depozitate definitiv de el însuși, a deșeurilor radioactive
+transferate persoanelor legal constituite, autorizate sã le trateze și sã
+le depoziteze final, precum și a efluenților radioactivi eliminați în
+mediul înconjurãtor.
+(2) Conținutul evidențelor menționate la alin. (1) este stabilit în
+normele specifice emise de Autoritate privind modul de gospodãrire a
+deșeurilor provenite de la mineritul și prepararea minereurilor de uraniu și toriu.
+Art. 161. Ñ Titularul de autorizație trebuie sã pãstreze evidențele
+prevãzute la art. 160 și dupã încetarea activitãților de minerit și de
+preparare a minereurilor de uraniu sau toriu, pe o perioadã de cel
+puțin 15 ani.
+Raportãri
+Art. 162. Ñ Titularul de autorizație trebuie sã transmitã periodic
+Autoritãții urmãtoarele rapoarte de securitate radiologicã pentru fiecare
+amplasament în care desfãșoarã activitãți de minerit și preparare a
+minereurilor de uraniu și/sau toriu:
+a) raport anual privind activitãțile autorizate desfãșurate;
+b) raport anual privind aplicarea programului de radioprotecție;
+c) raport semestrial privind situația deșeurilor radioactive produse,
+tratate, depozitate definitiv sau temporar, transferate, precum și a
+efluenților radioactivi tratați și eliberați în mediu;
+d) raport anual privind rezultatele monitorizãrii mediului
+înconjurãtor și asigurarea radioprotecției populației;
+e) alte rapoarte specifice, solicitate de Autoritate;
+f) planul anual de dotare și mãsuri cu caracter tehnic de
+îmbunãtãțire a securitãții radiologice a persoanelor expuse profesional, a populației și a mediului înconjurãtor.
+Anunțãri
+Art. 163. Ñ (1) Titularul de autorizație va notifica de îndatã
+Autoritãții în caz de:
+a) eliberare de efluenți radioactivi lichizi sau gazoși peste limitele
+derivate de emisie stabilite în documentația de autorizare și în autorizație sau dacã concentrațiile activitãții pe unitatea de volum în apa
+receptoare, dupã diluție, nu mai îndeplinesc condițiile stabilite în procesul de autorizare;
+b) eliberare de efluenți radioactivi sub limitele de emisie, dacã
+autorizația și/sau documentația de autorizare prevãd acest lucru;
+c) producere de evenimente care pun în pericol securitatea radiologicã în minele și instalațiile de preparare, cum sunt: avarii semnificative ale sistemelor de ventilație, avarii semnificative ale instalațiilor
+de evacuare a apelor de minã, incendii;
+d) producere de evenimente care pun în pericol stabilitatea depozitelor și haldelor de deșeuri radioactive, de minereuri de uraniu și
+toriu sau de steril ori a iazurilor de depozitare a deșeurilor radioactive
+provenite de la prepararea minereurilor de uraniu și de toriu;
+e) nefuncționare pe o perioadã mai mare de 12 ore a instalațiilor
+de tratare a apelor radioactive de minã și a efluenților lichizi proveniți
+de la instalațiile de preparare a minereurilor;
+f) producere de evenimente la transportul de materiale radioactive,
+pe drumuri publice sau calea feratã, care prezintã pericol de
+contaminare a mediului înconjurãtor;
+g) depãșiri ale limitelor de dozã, supraexpuneri și expuneri anormale, în conformitate cu prevederile art. 72Ñ75 din Normele fundamentale de securitate radiologicã.
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 677/12.IX.2002
+
+(2) Titularul de autorizație va notifica de îndatã Autoritãții,
+autoritãții medico-sanitare teritoriale și organelor locale de poliție orice
+pierdere sau furt de instalații nucleare, de surse de radiații ionizante
+sau de materiale radioactive.
+CAPITOLUL XII
+Dispoziții tranzitorii și finale
+Art. 164. Ñ Cu data prezentelor norme se abrogã dispozițiile
+cuprinse în cap. I, II, IV, V, VI, VII și X din Normele republicane de
+
+securitate nuclearã pentru activitãțile de cercetare geologicã, extracție
+și prelucrare a materiilor prime nucleare, aprobate prin Ordinul
+președintelui Comitetului de Stat pentru Energia Nuclearã
+nr. 320/1975.
+Art. 165. Ñ Autorizațiile emise înaintea intrãrii în vigoare a prezentelor norme își pãstreazã valabilitatea pânã la data expirãrii acestora.
+Art. 166. Ñ Anexele nr. 1Ñ4 fac parte integrantã din prezentele
+norme.
+
+ANEXA Nr. 1
+la norme
+DEFINIÞII
+
+În scopul aplicãrii prezentelor norme, pe lângã termenii și expresiile definite în Legea nr. 111/1996, republicatã, cu modificãrile și
+completãrile ulterioare, și în Normele fundamentale de securitate
+radiologicã, expresiile urmãtoare sunt definite astfel:
+1. absorbție de tip F, M și S Ñ viteza de absorbție în plãmâni;
+literele F, M și S au semnificația de vitezã de absorbție rapidã,
+moderatã și lentã;
+2. Autoritate Ñ Comisia Naționalã pentru Controlul Activitãților
+Nucleare (CNCAN), care, în baza art. 4 alin. (1) din Legea
+nr. 111/1996, republicatã, cu modificãrile și completãrile ulterioare,
+reprezintã autoritatea naționalã competentã în domeniul nuclear, care
+exercitã atribuțiile de reglementare, autorizare și control prevãzute în
+lege;
+3. cãi de expunere Ñ rutele pe care radiația sau radionuclizii
+pãtrund în corpul uman și produc expuneri;
+4. concentrație echivalentã de echilibru Ñ concentrația activitãții
+radonului în echilibru radioactiv cu descendenții sãi de viațã scurtã,
+care ar avea același conținut potențial de energie alfa ca și amestecul existent la un moment dat, dar aflat în dezechilibru;
+5. contaminare radioactivã nefixatã Ñ prezența nedoritã, dar care
+poate fi îndepãrtatã, a unor radionuclizi naturali pe o suprafațã, cu o
+activitate ce depãșește 0,4 Bq/cm2 pentru emițãtorii beta, emițãtorii
+gama și emițãtorii alfa de joasã toxicitate sau 0,04 Bq/cm2 pentru toți
+ceilalți emițãtori alfa;
+6. culturã de securitate radiologicã Ñ ansamblu de mãsuri și atitudini la nivel de titular de autorizație și de lucrãtor, care stabilește cã
+asigurarea radioprotecției este prioritarã și cã toate problemele de
+radioprotecție sunt tratate corespunzãtor importanței și semnificației lor;
+7. descendenții radonului Ñ radionuclizii cu viațã scurtã rezultați
+din dezintegrarea radonului;
+8. deșeuri radioactive rezultate de la mineritul și prepararea minereurilor de uraniu și toriu:
+Ñ orice efluenți gazoși și lichizi proveniți de la practici autorizate
+de minerit și de preparare, care au volume și activitãți pe unitatea de
+volum superioare limitelor derivate de eliberare în mediu, aprobate de
+Autoritate în cadrul procesului de autorizare conform prevederilor
+Normelor fundamentale de securitate radiologicã, și pentru care nu se
+întrevede o altã utilizare în cadrul practicii respective;
+Ñ orice materiale solide provenite de la practici autorizate de
+minerit și de preparare, care în mod obișnuit nu sunt considerate ca
+radioactive, dar care au un nivel al contaminãrii superficiale superior
+nivelurilor de eliberare prevãzute la art. 8 alin. (1) lit. c) din prezentele norme și pentru care nu se întrevede o altã utilizare în cadrul
+practicii respective;
+Ñ orice materiale solide provenite de la practici autorizate de
+minerit și de preparare, inclusiv minereuri de uraniu și toriu și roci
+mineralizate cu uraniu și toriu, excavate și scoase la suprafațã, care
+conțin cel puțin un radionuclid natural din seriile uraniului și toriului
+cu o concentrație a activitãții pe unitatea de masã mai mare decât
+nivelul de eliberare în scopul utilizãrii fãrã restricții, respectiv mai mare
+de 0,2 Bq/g, și pentru care nu se întrevãd alte utilizãri în cadrul practicii respective;
+
+9. diametru aerodinamic al unei particule aeropurtate Ñ diametrul pe
+care o sferã de densitate unitarã ar trebui sã îl aibã pentru a putea
+avea aceeași vitezã de depunere ca și particula de interes;
+10. diametru aerodinamic median al activitãții (AMAD) Ñ valoarea
+diametrului aerodinamic al particulelor aeropurtate, astfel încât 50%
+din activitatea aeropurtatã într-un aerosol specific este asociatã cu
+particule mai mici decât AMAD și 50% din activitate este asociatã cu
+particule mai mari decât AMAD;
+11. echilibru radioactiv Ñ stare a unei serii naturale de dezintegrare radioactivã (sau parte a acesteia), caracterizatã prin faptul cã
+toți radionuclizii seriei (sau ai pãrții de interes din serie) au aceeași
+activitate;
+12. factor de echilibru Ñ raportul dintre concentrația echivalentã de
+echilibru și concentrația radonului în momentul mãsurãrii;
+13. instalație de minerit Ñ totalitatea lucrãrilor și instalațiilor miniere
+de la suprafațã și din subteran, inclusiv instalațiile de gospodãrire a
+deșeurilor radioactive asociate, care, împreunã, alcãtuiesc o minã;
+14. instrucțiuni de operare localã Ñ instrucțiunile afișate la locul de
+muncã privind manipularea corectã a echipamentelor și dispozitivelor
+de la locul de muncã, incluzând nivelurile de referințã relevante și
+modul de realizare a controlului expunerii externe și al concentrațiilor
+de gaze și pulberi radioactive;
+15. încorporare Ñ procesul de pãtrundere în corpul uman a radionuclizilor din mediul înconjurãtor prin inhalare, ingestie sau prin piele;
+16. lucrãtor Ñ o persoanã expusã profesional, aparținând titularului de autorizație, care executã lucrãri în zona controlatã și supravegheatã;
+17. minereu de uraniu și/sau toriu Ñ substanța mineralã aflatã în
+zãcãmânt sau extrasã prin metode miniere, care are un conținut de
+uraniu și/sau toriu de minimum 0,004%;
+18. mineritul uraniului și toriului Ñ prospectarea, explorarea, deschiderea, pregãtirea și exploatarea minereului de uraniu și toriu, conservarea și dezafectarea minelor de uraniu și toriu, inclusiv restaurarea
+mediului contaminat de mineritul uraniului și toriului;
+19. monitorizare Ñ mãsurarea dozelor sau a concentrațiilor activitãții radionuclizilor și interpretarea rezultatelor în vederea evaluãrii
+sau controlului expunerii la radiații ionizante;
+20. monitorizarea locului de muncã Ñ monitorizare utilizând
+mãsurãtori efectuate în mediul de lucru;
+21. monitorizare individualã Ñ monitorizare folosind mãsurãtori cu
+ajutorul unui echipament individual, purtat de un lucrãtor, sau
+mãsurãtori ale activitãții radionuclizilor din sau de pe corpul lui;
+22. nivel de lucru (WL) Ñ unitate de mãsurã pentru concentrația
+potențialã de energie alfa ce rezultã din prezența descendenților
+radonului sau toronului, egalã cu 1,3 x 105 MeV/dm3. În unitãți SI un
+nivel de lucru este egal cu 2,1 x 10-5 Jxm-3;
+23. nivel de lucru lunar (WLM) Ñ atunci când concentrația radonului este datã în WL, pentru expunerea cumulatã într-o lunã, considerând cã timpul lunar de lucru este de 170 de ore, se utilizeazã
+noțiunea de nivel de lucru lunar (WLM);
+24. nivel de referințã Ñ niveluri ale debitului dozei date de iradierea externã și niveluri ale concentrațiilor activitãții gazelor și pulberilor
+
+15
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 677/12.IX.2002
+aeropurtate de la locul de muncã, stabilite de titularul de autorizație,
+la depãșirea cãrora sunt demarate acțiuni de remediere prestabilite;
+25. persoanã legal constituitã Ñ entitate cu sau fãrã personalitate
+juridicã, constituitã în baza unei legi, ordonanțe sau a unei hotãrâri a
+Guvernului;
+26. responsabil cu securitatea radiologicã Ñ persoanã care
+rãspunde de aplicarea prevederilor prezentelor norme într-o zonã controlatã și/sau într-o zonã supravegheatã;
+
+27. risc radiologic Ñ parametru complex exprimând neprevãzutul,
+pericolul sau posibilitatea apariției unor consecințe dãunãtoare asociate expunerilor actuale sau potențiale; se referã la probabilitatea
+apariției anumitor consecințe asupra stãrii de sãnãtate și la caracterul
+și severitatea acestor consecințe;
+28. titular de autorizație Ñ orice persoanã legal constituitã care a
+obținut din partea Autoritãții o autorizație de a desfãșura o practicã
+sau o altã acțiune din domeniul prezentelor norme.
+ANEXA Nr. 2
+la norme
+
+FACTORII
+
+de conversie de dozã pentru tipurile de absorbție mixtã
+Depunerea particulelor inhalate se calculeazã pentru fiecare zonã
+a tractului respirator, ținându-se seama atât de inhalare, cât și de
+exhalare. Depunerea este dependentã de mãrimea particulei, de parametrii respiratori și de efortul depus în procesul de muncã și se presupune cã este independentã de forma chimicã. Coeficienții de dozã
+prin inhalare sunt dați pentru diametrul aerodinamic median al activitãții (AMAD) de 5 microni, care se considerã cã este cea mai
+potrivitã mãrime pentru aerosolii radioactivi de la locul de muncã.
+Când pentru un material specific sunt cunoscute fracțiunile componentelor cu absorbții de tip F, M și S se poate calcula un factor
+combinat de conversie de dozã astfel:
+h = fFhF + fMhM + fShS,
+unde fF, fM și fS reprezintã fracția componentelor cu absorbție rapidã,
+moderatã și lentã, iar hF, hM și hS sunt factorii corespunzãtori de conversie de dozã.
+Doza datã de o unitate de activitate încorporatã de concentrat de
+uraniu variazã cu un ordin de mãrime în funcție de tipul de absorbție
+(între absorbția de tip F și cea de tip S), amândouã calculate pentru
+aerosoli cu AMAD = 5 microni. Compoziția concentratelor de uraniu
+depinde foarte mult de condițiile existente în fazele de extracție și
+postextracție. În particular, folosirea unei temperaturi ridicate de calcinare are ca rezultat o creștere a fracțiunii compușilor uraniului care
+se dizolvã relativ încet în plãmân. Concentratele de toriu care nu
+implicã separare chimicã pot fi evaluate în același fel ca pulberile de
+minereu de toriu. Valorile pentru factorii de conversie în dozã,
+exprimați în termeni de dozã pe unitatea de dezintegrare alfa pe
+
+secundã, pentru concentratele de uraniu și toriu, sunt date în tabelul
+urmãtor:
+Tipul de absorbție
+
+F
+
+M
+
+S
+
+Factori de conversie de dozã
+(AMAD = 5 microni)
+(mSv/Bqalfa)
+Concentrate de uraniu
+(238U, 234U și 235U)
+
+6,1x10-4
+
+1,8x10-3
+
+6,2x10-3
+
+Concentrate de toriu
+(seria de dezintegrare
+a 232Th)
+
+Ñ
+
+9,3x10-3
+
+8,0x10-3
+
+Dacã nu sunt disponibile informații suficiente cu privire la comportamentul probabil de solubilitate a concentratelor de uraniu inhalate în
+plãmân, pot fi utilizate tehnici de determinare a solubilitãții in vitro
+pentru a se determina caracteristicile de solubilitate ale concentratelor
+de uraniu de la locurile de muncã. În același mod se poate
+determina factorul de dozã pe unitatea de activitate încorporatã, când
+în pulberile de minereu de uraniu sau toriu sunt prezente amestecuri
+de componente cu absorbție de tip F, M sau S. În cazul în care nu
+se poate determina comportamentul probabil de solubilitate a particulelor inhalate se va utiliza factorul de dozã ce corespunde tipului S.
+
+ANEXA Nr. 3
+la norme
+INSTRUMENTE
+
+de monitorizare individualã a radonului, toronului, descendenților acestora și a radionuclizilor alfa de viațã lungã
+I. Instrumente de monitorizare individualã a radonului
+Instrumentele pentru monitorizarea individualã pot fi dispozitive
+pasive sau active. Dozimetrele pasive se bazeazã pe difuzia naturalã
+a activitãții din aer pe zona sensibilã a detectorului, în timp ce dozimetrele active înregistreazã activitatea unui volum cunoscut de aer
+aspirat de o pompã printr-un filtru.
+Dozimetre individuale pasive
+
+Aceste echipamente folosesc în general detectori de urme
+nucleare solide (SSNTDs) ce sunt expuși pentru o perioadã determinatã la radiații ionizante și apoi analizați prin metode chimice sau
+electrochimice. Numãrul urmelor care impresioneazã filmul poate fi
+determinat pentru evaluarea nivelului de expunere. Echipamentele sunt
+operaționale pentru mãsurãtori integrate ale concentrațiilor aproximative de radon sau de descendenți ai radonului.
+Dozimetre individuale active
+
+Aceste dispozitive implicã utilizarea unui volum de aer cunoscut
+trecut printr-un filtru cu ajutorul unei pompe acționate de o baterie.
+Particulele alfa emise de descendenții radonului depuși pe filtru sunt
+înregistrate cu ajutorul urmãtoarelor dispozitive: discuri detectoare tip
+
+TLD, detectoare de silicon în stare solidã cu componente electronice
+asociate sau filme detectoare de urme nucleare. Echipamentele care
+au încorporate filme pentru detectarea urmelor nucleare au capacitatea de a mãsura descendenții individuali ai radonului, nu numai activitatea alfa propriu-zisã.
+II. Monitorizarea toronului și a descendenților sãi
+Pentru monitorizarea locului de muncã diversele metode de contorizare descrise mai sus pentru radon și descendenții sãi pot fi în principiu adaptate și pentru toron și descendenții sãi.
+Dispozitivele integrate bazate pe principiul impresionãrii filmului de
+cãtre radiațiile nucleare au capacitatea de a mãsura descendenții individuali ai toronului și expunerea generatã de aceștia, putând fi utilizate pentru monitorizare individualã.
+III. Radionuclizii de viațã lungã alfa activi
+Cu excepția zonelor în care nivelul expunerii provenind de la uraniu este în mod semnificativ mai ridicat, emisiile alfa ale radionuclizilor de viațã lungã din pulberile de minereu nu sunt în general o
+sursã serioasã de expunere. Expuneri semnificative pot apãrea prin
+inhalarea concentratelor de uraniu sau de toriu în unele zone din
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 677/12.IX.2002
+
+unitãțile de preparare. Mãsurarea radioactivitãții alfa propriu-zise dupã
+dezintegrarea descendenților de viațã scurtã ai radonului și toronului
+poate fi folositã pentru a evalua probele de pulberi, dar poate conduce la rezultate eronate dacã în corpul de minereu nu este realizat
+echilibrul radioactiv dintre toți membrii seriei uraniului.
+Monitorizarea locului de muncã sau monitorizarea individualã a
+unui individ reprezentativ poate fi utilizatã pentru a se stabili dozele
+în cazul grupurilor de lucrãtori aflați în locații particulare. Prelevatorul
+personal de probe este alcãtuit dintr-un recipient mic pentru filtru și o
+pompã acționatã de o baterie, care asigurã un debit nominal de aer
+de 1Ñ3 l/min. Utilizarea prelevatorului personal de probe poate
+implica costuri suplimentare și inconveniente. Cu toate acestea, prelevatoarele personale asigurã o mãsurãtoare directã a expunerii unui
+lucrãtor, iar decizia de utilizare a acestor echipamente trebuie bazatã
+pe probabilitatea ca un lucrãtor sã fie expus pe aceastã cale la o
+dozã semnificativã.
+
+IV. Calibrarea instrumentelor
+Pentru toate metodele de mãsurare calibrarea repetatã a instrumentelor este importantã și trebuie efectuatã în legãturã cu standardele naționale recunoscute. Aceasta se poate obține fie prin utilizarea
+surselor de referințã ce au fost calibrate prin utilizarea surselor
+standard primare, fie prin utilizarea instrumentelor de referințã ce au
+fost antecalibrate cu standardele primare de un laborator național
+principal sau de un laborator autorizat de referințã care deține standardele potrivite. Pentru majoritatea activitãților de minerit și de preparare a minereurilor de uraniu și de toriu prima metodã de calibrare
+este mai practicã.
+V. Alte condiții
+Orice model de instrument utilizat pentru monitorizarea radonului,
+toronului, descendenților acestora și a radionuclizilor alfa de viațã
+lungã poate fi utilizat de titularii de autorizație în cadrul programului de
+radioprotecție numai dacã pentru modelul respectiv Autoritatea a eliberat autorizația de securitate radiologicã, conform prevederilor legale.
+
+ANEXA Nr. 4
+la norme
+RECOMANDÃRI DE BAZÃ
+
+pentru utilizarea echipamentului de radioprotecție a cãilor respiratorii
+1. Utilizarea echipamentelor de radioprotecție a cãilor respiratorii
+va fi supravegheatã atent pentru a se asigura cã protecția așteptatã
+este realizatã.
+2. Titularul de autorizație trebuie sã demonstreze cã echipamentele pentru radioprotecția cãilor respiratorii sunt adecvate scopului propus și sunt folosite în mod corespunzãtor.
+3. Trebuie evaluatã încorporarea realã a radionuclizilor de cãtre
+lucrãtori pentru a se defini tipul de protecție.
+4. Perioada de utilizare a echipamentelor pentru radioprotecția
+cãilor respiratorii nu trebuie prelungitã astfel încât sã descurajeze folosirea corectã.
+5. Echipamentele de radioprotecție a cãilor respiratorii, prevãzute
+cu filtru, trebuie sã aibã o rezistențã scãzutã la respirație și trebuie
+sã asigure o eficiențã ridicatã de reținere a particulelor de pulberi cu
+dimensiuni de interes.
+6. Când se folosește echipamentul pentru respirat, aerul furnizat
+trebuie sã fie curat, în cantitate suficientã și sã asigure o respirație
+lejerã.
+7. Echipamentele pentru respirat acționate electric sau cãștile cu
+vizor sunt preferabile altor tipuri, dacã asigurã protecție respiratorie
+efectivã, deoarece oferã confort lucrãtorilor.
+8. La alegerea echipamentului pentru o operație specialã trebuie
+avut în vedere și confortul lucrãtorilor ca factor de protecție. În acest
+
+sens se vor avea în vedere urmãtoarele caracteristici ale echipamentului: greutatea, restricțiile oculare, temperatura și mobilitatea.
+9. Echipamentele de radioprotecție a cãilor respiratorii trebuie
+curãțate, întreținute și verificate la intervale potrivite de cãtre personal
+special instruit în unitãți echipate corespunzãtor.
+10. Echipamentul de radioprotecție pentru cãile respiratorii trebuie
+examinat, reglat și testat în mod corespunzãtor de o persoanã competentã înainte de a fi dat în folosințã și cel puțin trimestrial atunci
+când este în uz. Rezultatele acestor examinãri și teste și orice
+reparații trebuie consemnate într-un registru special destinat acestui
+scop, care se pãstreazã de titularul de autorizație cel puțin o perioadã de 10 ani.
+11. Frecvența testãrii echipamentelor pentru respirat depinde de
+tipul de aparat, de mediul în care este folosit și de modul de
+utilizare.
+12. Echipamentele pentru radioprotecția cãilor respiratorii trebuie
+verificate de utilizatori înainte de fiecare utilizare și de personalul responsabil cu întreținerea, dupã curãțare. Totodatã aceste echipamente
+se testeazã periodic la presiune, în funcție de parametrii de utilizare.
+13. Programul de utilizare a echipamentelor de radioprotecție a
+cãilor respiratorii se aprobã de Autoritate în procesul de autorizare,
+ca parte a programului de radioprotecție.
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 5069427282 Trezoreria sector 5, București (alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 411.97.54, tel./fax 410.77.36.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: ramomrk@bx.logicnet.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 677/12.IX.2002 conține 16 pagini.
+
+Prețul de vânzare 10.500 lei
+
+ISSN 1453Ñ4495
+
+

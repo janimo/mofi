@@ -1,0 +1,2114 @@
+Anul XIII Ñ Nr. 847
+
+PARTEA
+
+I
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+
+Vineri, 28 decembrie 2001
+
+SUMAR
+Nr.
+
+Pagina
+
+Nr.
+
+HOTÃRÂRI ALE GUVERNULUI ROMÂNIEI
+1.259. Ñ Hotãrâre privind aprobarea Normelor tehnice și
+metodologice pentru aplicarea Legii nr. 455/2001
+privind semnãtura electronicã .................................
+
+protecției mediului pentru aprobarea Instrucțiunilor
+tehnice privind aplicarea și urmãrirea mãsurilor
+stabilite în Programul de conformare și în planul
+de refacere a mediului, precum și reglementarea
+modului de operare cu garanția bancarã pentru
+refacerea mediului afectat de activitãțile miniere .......
+
+1Ð21
+
+1.275. Ñ Hotãrâre pentru modificarea și completarea
+Hotãrârii Guvernului nr. 710/1999 privind asigurarea
+securitãții utilizatorilor de jucãrii ...............................
+
+Pagina
+
+22Ð24
+
+1.287. Ñ Hotãrâre privind înființarea Clubului Sportiv
+Municipal Brașov în subordinea Ministerului
+Tineretului și Sportului ..............................................
+
+ACTE ALE BÃNCII NAÞIONALE A ROMÂNIEI
+25Ð26
+
+5.
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+179.
+
+151./22.740. Ñ Ordin al președintelui Agenției Naționale
+pentru Resurse Minerale și al ministrului apelor și
+
+HOTÃRÂRI
+
+ALE
+
+27Ð30
+
+Ñ Norme privind documentația necesarã în vederea autorizãrii operațiunilor financiar-bancare,
+prevãzute de Ordonanța de urgențã a Guvernului
+nr. 159/2001 ..............................................................
+
+31Ð32
+
+Ñ Hotãrâre privind instituirea administrãrii speciale
+a Bãncii Române de Scont Ñ S.A. ......................
+
+32
+
+GUVERNULUI
+
+ROMÂNIEI
+
+GUVERNUL ROMÂNIEI
+
+HOTÃRÂRE
+privind aprobarea Normelor tehnice și metodologice pentru aplicarea Legii nr. 455/2001
+privind semnãtura electronicã
+În temeiul prevederilor art. 107 din Constituția României și ale art. 52 din Legea nr. 455/2001 privind semnãtura electronicã
+Guvernul României adoptã prezenta hotãrâre.
+Articol unic. Ñ Se aprobã Normele tehnice și metodologice pentru aplicarea Legii nr. 455/2001 privind semnãtura
+
+electronicã, prevãzute în anexa care face parte integrantã
+din prezenta hotãrâre.
+
+PRIM-MINISTRU
+
+ADRIAN NÃSTASE
+Contrasemneazã:
+Ministrul comunicațiilor și tehnologiei informației,
+Dan Nica
+Ministrul finanțelor publice,
+Mihai Nicolae Tãnãsescu
+București, 13 decembrie 2001.
+Nr. 1.259.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+ANEXÃ
+
+NORME TEHNICE ȘI METODOLOGICE
+pentru aplicarea Legii nr. 455/2001 privind semnãtura electronicã
+CAPITOLUL I
+Dispoziții generale
+Art. 1. Ñ Orice persoanã, fizicã sau juridicã, aflatã pe
+eritoriul României poate beneficia de servicii de certificare
+în vederea utilizãrii semnãturii electronice în sensul definit
+a art. 4 din Legea nr. 455/2001 privind semnãtura electronicã, denumitã în continuare lege.
+Art. 2. Ñ (1) În înțelesul prezentelor norme tehnice și
+metodologice, termenii utilizați au urmãtoarele definiții:
+a) client Ñ beneficiarul serviciilor de certificare, care, în
+baza unui contract încheiat cu un furnizor de servicii de
+certificare, denumit în continuare furnizor, deține o pereche
+uncționalã cheie publicãÑcheie privatã și are o identitate
+probatã printr-un certificat digital emis de acel furnizor;
+b) hash-code Ñ funcție care returneazã amprenta unui
+document electronic;
+c) cheie privatã Ñ un cod digital cu caracter de uniciate, generat printr-un dispozitiv hardware și/sau software
+specializat. În contextul semnãturii digitale cheia privatã
+reprezintã datele de creare a semnãturii electronice, așa
+cum apar ele definite în lege;
+d) cheia publicã Ñ cod digital, perechea cheii private
+necesarã verificãrii semnãturii electronice. În contextul
+semnãturii digitale cheia publicã reprezintã datele de verificare a semnãturii electronice, așa cum apar ele definite în
+ege;
+e) mecanismul de creare a semnãturii electronice Ñ
+asupra documentului se aplicã o funcție hash-code,
+obținându-se amprenta documentului. Printr-un algoritm se
+aplicã cheia privatã peste amprenta documentului, rezultând
+semnãtura electronicã;
+f) mecanismul de verificare a semnãturii electronice se
+bazeazã pe utilizarea cheii publice, a funcției hash-code și
+a semnãturii electronice primite. Verificarea semnãturii este
+o operație automatã;
+g) pagina web Ñ document electronic, disponibil prin
+nternet.
+(2) În înțelesul prezentelor norme, abrevierile utilizate au
+urmãtoarele semnificații:
+a) ETSI Ñ Institutul European de Standarde în
+Telecomunicații;
+b) RFC Ñ desemneazã documente care au fost supuse
+analizei publice în cadrul unui proces coordonat de Grupul
+de Lucru pentru Ingineria Internetului;
+c) FIPS Ñ desemneazã standarde federale emise de
+nstitutul Național de Standarde și Tehnologie din Statele
+Unite ale Americii;
+d) IEEE Ñ Institutul de Inginerie Electricã și Electronicã;
+e) ITSEC Ñ desemneazã standardele și criteriile europene de evaluare a securitãții sistemelor informatice;
+f) RSA Ñ algoritmul de criptare cu cheie publicã, dezvoltat de cercetãtorii Rivest, Shamir și Adleman;
+g) DSA Ñ Algoritmul de Semnãturã Digitalã;
+h) SHA Ñ Algoritm Securizat de Hash-code;
+i) PKI Ñ Infrastructurã de chei publice;
+j) RTF Ñ format de document ce permite alinierea texului, introducerea unor caractere speciale, utilizarea culorior și a fonturilor de dimensiuni diferite, precum și inserarea
+altor obiecte;
+
+k) PDF Ñ format ce permite transferarea documentelo
+electronice fãrã a afecta aranjarea în paginã; documentele
+pot conține text, imagini și sunete;
+l) PostScript Ñ format de document utilizat în specia
+pentru tipãrire la imprimante PostScript.
+m) TXT Ñ format de document conținând exclusiv text
+CAPITOLUL II
+Autoritatea de reglementare și supraveghere
+Art. 3. Ñ (1) Autoritatea de reglementare și suprave
+ghere, denumitã în continuare autoritate, genereazã sau
+achiziționeazã o pereche funcționalã cheie privatãÑcheie
+publicã și trebuie sã își protejeze cheia sa privatã, utilizând
+un sistem fiabil și luând precauțiile necesare pentru a pre
+veni pierderea, dezvãluirea, modificarea sau utilizarea neau
+torizatã a cheii sale private.
+(2) Cheia privatã nu poate fi dedusã în nici un fel din
+cheia sa publicã pereche.
+Art. 4. Ñ Autoritatea gestioneazã Registrul furnizorilo
+de servicii de certificare, denumit în continuare registru
+Art. 5. Ñ Conținutul informațional și structura registrulu
+sunt prezentate în anexa nr. 1.
+Art. 6. Ñ (1) Actualizarea registrului se face exclusiv de
+cãtre autoritate și urmãrește toate modificãrile survenite în
+statutul furnizorului Ñ acreditare, terminarea perioadei de
+acreditare, suspendare, îmbogãțirea tipurilor de certificate
+oferite.
+(2) Dupã fiecare actualizare autoritatea transmite furni
+zorului o copie de pe documentul prevãzut la pct. 43 din
+anexa nr. 1.
+Art. 7. Ñ Autoritatea gestioneazã datele utilizând un sis
+tem informatic în mãsurã sã asigure securitatea sistemelor
+comunicațiilor, tranzacțiilor și datelor conform standardelo
+recunoscute Ñ ISO/IEC 15408Ñ1, 2, 3 și ISO 17799. În
+acest sens se utilizeazã o soluție ce asigurã managementu
+unei baze de date replicate, garantându-se accesul perma
+nent prin Internet.
+Art. 8. Ñ Autoritatea face publice, spre consultare
+urmãtoarele date din registru:
+a) tipul furnizorului Ñ persoanã fizicã sau juridicã;
+b) numele sau denumirea furnizorului;
+c) data la care și-a început activitatea;
+d) cheia publicã a furnizorului;
+e) indicații privind acreditarea Ñ acreditat sau neacredi
+tat;
+f) perioada de acreditare Ñ început/sfârșit;
+g) indicații privind dreptul de a emite certificate calificate
+h) descrierea politicii generale a furnizorului;
+i) forma de organizare a furnizorului Ñ societate comer
+cialã, regie autonomã, instituție publicã, organizație negu
+vernamentalã, alte tipuri;
+j) adresa sau sediul Ñ țarã, oraș, județ/sector, stradã
+numãr, bloc, scarã, etaj, apartament, cod poștal;
+k) naționalitatea, pentru persoanã juridicã;
+l) cetãțenia, pentru persoanã fizicã;
+m) telefon, fax, e-mail, adresã în pagina web;
+n) categoriile de servicii destinate publicului: tipul de cer
+tificate, mod de utilizare, pentru fiecare tip de certificate
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+o) tipurile de dispozitive de creare a semnãturii electronice utilizate;
+p) situația dispozitivelor Ñ dacã sunt omologate sau nu;
+q) situația furnizorului: operațional, suspendat, activitatea
+încetatã, în curs de transferare a activitãții, în curs de
+remediere a unor probleme identificate de autoritate Ñ
+ndicând termenul limitã;
+r) istoric al furnizorului: data de începere a activitãții,
+perioade de suspendare, perioade în care a avut dreptul
+de a emite certificate calificate, alte asemenea situații.
+Art. 9. Ñ (1) Informațiile prevãzute la art. 8 din prezentele norme tehnice și metodologice sunt disponibile public,
+prin Internet, în pagina web a autoritãții.
+(2) Pagina web va mai conține informații cu privire la
+egea semnãturii electronice, normele tehnice și metodologice privind aplicarea legii semnãturii electronice, informații
+generale cu privire la utilizarea semnãturii electronice,
+nformații noi din domeniul semnãturii electronice, trimiteri
+cãtre paginile web ale furnizorilor de servicii de certificare.
+(3) Autoritatea va publica permanent tehnologiile Internet
+prin care se pot consulta informațiile prevãzute la alin. (1)
+și (2).
+CAPITOLUL III
+Furnizorii de servicii de certificare
+SECÞIUNEA 1
+Dispoziții comune
+
+Art. 10. Ñ (1) Un furnizor este obligat sã genereze sau
+sã achiziționeze o pereche funcționalã cheie privatãÑcheie
+publicã și sã își protejeze cheia sa privatã, utilizând un sistem fiabil și luând precauțiile necesare pentru a preveni
+pierderea, dezvãluirea, modificarea sau utilizarea neautorizatã a cheii sale private.
+(2) Cheia privatã nu poate fi dedusã în nici un fel din
+cheia sa publicã pereche.
+Art. 11. Ñ (1) Înainte de începerea activitãții furnizorul
+va notifica autoritatea, conform formularului prevãzut în
+anexa nr. 2.
+(2) Toate datele vor fi înaintate autoritãții pe suport de
+hârtie și în format electronic, documentul electronic fiind
+semnat digital de cãtre furnizor și prezentat în unul dintre
+urmãtoarele formate: RTF, PDF, TXT și PostScript.
+Art. 12. Ñ (1) Înregistrarea în registru se face pe baza
+unei cereri individuale.
+(2) La primirea cererii autoritatea include datele furnizorului în registru și genereazã pentru acesta un cod de
+dentificare format prin alipirea anului, lunii și datei de începere a activitãții și a numãrului de ordine al furnizorului.
+SECÞIUNEA a 2-a
+Furnizarea serviciilor de certificare calificatã
+
+Art. 13. Ñ (1) Furnizorul poate furniza servicii de certificare bazate pe certificate simple și calificate.
+(2) Certificatul calificat va avea structura conformã cu
+anexa nr. 3, potrivit ETSI TS 101 862 v. 1.2.1. (2001-06),
+RFC 2459 și cu Recomandãrile ITU-T X. 509.
+(3) Autoritatea va publica eventualele modificãri ale formatului descris, pe baza evoluției tehnologiilor sau a normelor internaționale recunoscute în domeniu.
+(4) Certificatul are și o rubricã de extensii. Lista celor
+mai uzuale extensii este prevãzutã în anexa nr. 4.
+
+3
+
+(5) Codul de identificare a certificatului calificat se formeazã prin alipirea codului de identificare a furnizorului ș
+a numãrului de ordine al certificatului.
+(6) Codul personal de identificare a semnatarului rezultã
+prin alipirea codului de identificare a furnizorului, inițialele
+numelui sau pseudonimului semnatarului și numãrul de
+ordine al acestuia în lista clienților cu aceleași inițiale.
+Art. 14. Ñ (1) În vederea emiterii de certificate calificate
+furnizorul trebuie sã îndeplineascã condițiile enunțate la
+art. 20Ñ22 din lege.
+(2) Furnizorul trebuie sã dovedeascã autoritãții cã dispune de resursele financiare pentru acoperirea prejudiciilor
+pe care le-ar putea cauza cu prilejul desfãșurãrii activitãți
+de certificare și trebuie sã fie capabil sã acopere pierderile
+suferite de cãtre o persoanã care își întemeiazã conduita
+pe efectele juridice ale certificatelor calificate, pânã la
+concurența echivalentului în lei al sumei de 10.000 euro
+pentru fiecare risc asigurat. Riscul asigurat este fiecare
+prejudiciu produs, chiar dacã se produc mai multe asemenea prejudicii ca urmare a neîndeplinirii de cãtre furnizor a
+unei obligații prevãzute de lege. Furnizorul va trebui sã
+depunã o scrisoare de garanție din partea unei instituți
+financiare de specialitate sau o polițã de asigurare la o
+societate de asigurãri, în favoarea autoritãții, în valoare ce
+puțin egalã cu echivalentul în lei al sumei de
+500.000 euro; scrisoarea de garanție are forma prevãzutã
+în anexa nr. 5.
+(3) Furnizorul trebuie sã asigure un nivel de securitate
+a sistemelor, comunicațiilor, tranzacțiilor și datelor conform
+standardelor recunoscute Ñ ISO/IEC 15408-1,2,3; ISO
+17799; ETSI TS 101 456 v.1.1.1. (2000-12); ITSEC-E3
+FIPS 140-1.
+(4) Furnizorul trebuie sã asigure operarea rapidã a
+registrului de evidențã a certificatelor, conform art. 20 lit. b)
+din lege; structura registrului este prezentatã în anexa
+nr. 6.
+(5) Furnizorul trebuie sã foloseascã numai dispozitive
+securizate de creare a semnãturii electronice.
+(6) Autoritatea verificã datele conținute în documentația
+depusã, în termen de maximum 10 zile, în raport cu standardele recunoscute și cu prezentele norme tehnice ș
+metodologice.
+(7) Autoritatea trebuie sã informeze furnizorul, în termen
+de maximum 10 zile, cu privire la îndeplinirea condițiilor ș
+sã solicite, dacã e cazul, completarea documentației.
+(8) În cazul în care toate criteriile sunt îndeplinite, autoritatea emite decizia prin care furnizorul dobândește dreptu
+de a furniza servicii de certificare calificatã și actualizeazã
+registrul înscriind noul statut al furnizorului. Decizia este
+comunicatã furnizorului pe suport de hârtie și în format
+electronic, semnat digital de autoritate.
+(9) Dacã documentația nu a fost completatã sau nu
+îndeplinește condițiile, autoritatea emite o decizie motivatã
+prin care respinge solicitarea furnizorului de a i se acorda
+dreptul de furnizare de servicii de certificare calificatã
+Decizia este comunicatã furnizorului pe suport de hârtie ș
+în format electronic, semnat digital de autoritate.
+Art. 15. Ñ În cazul în care nu mai sunt îndeplinite
+condițiile prevãzute la art. 20Ñ22 din lege, autoritatea va
+lua decizia de suspendare a dreptului furnizorului în cauzã
+de a emite certificate calificate, pânã la remedierea neajunsurilor și îndeplinirea tuturor condițiilor legale. Decizia este
+comunicatã furnizorului pe suport de hârtie și în format
+electronic, semnat digital de autoritate.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+SECÞIUNEA a 3-a
+Acreditarea voluntarã
+
+Art. 16. Ñ (1) Furnizorul care dorește sã își desfãșoare
+activitatea ca furnizor acreditat trebuie sã solicite obținerea
+acreditãrii din partea autoritãții.
+(2) În acest sens furnizorul trebuie sã îndeplineascã
+toate condițiile necesare emiterii de certificate calificate și
+sã utilizeze dispozitive securizate de generare a semnãturii
+electronice, omologate de o agenție de omologare agreatã
+de autoritate.
+(3) Verificãrile se fac atât asupra declarațiilor conținute
+în documentația depusã la autoritate, cât și asupra concordanței dintre sistemele, procedurile și practicile afirmate și
+cele existente în realitate.
+(4) Auditul este realizat de autoritate sau de o terțã
+parte numitã de aceasta, conform normelor europene pentru acest gen de activitate.
+(5) Autoritatea trebuie sã informeze în termen de maximum 30 de zile furnizorul cu privire la îndeplinirea
+condițiilor și sã solicite, dacã e cazul, completarea documentației.
+Art. 17. Ñ (1) În cazul în care se constatã cã toate criteriile sunt îndeplinite, autoritatea decide acreditarea furnizorului.
+(2) Decizia de acreditare, condițiile și efectele suspendãrii sau ale retragerii sunt comunicate furnizorului pe
+suport de hârtie și în format electronic, semnat digital de
+autoritate.
+(3) La cererea furnizorului autoritatea actualizeazã registrul prin înscrierea noului statut de furnizor acreditat. Se
+ntroduc informații despre garanții, omologarea dispozitiveor, agenția de omologare, perioada de acreditare.
+Art. 18. Ñ (1) Durata acreditãrii este de 3 ani și se
+poate reînnoi.
+(2) Procedura de reînnoire este identicã cu cea de
+obținere a acreditãrii.
+Art. 19. Ñ Suspendarea deciziei de acreditare se face
+în urmãtoarele cazuri:
+a) se constatã cã furnizorul nu mai îndeplinește una
+sau mai multe dintre condițiile prevãzute pentru acordarea
+deciziei de acreditare. În acest caz autoritatea notificã furnizorului și stabilește un interval de timp de maximum
+30 de zile în care furnizorul trebuie sã remedieze deficiențele semnalate;
+b) declanșarea procedurii falimentului furnizorului.
+Art. 20. Ñ Autoritatea retrage decizia de acreditare în
+urmãtoarele cazuri:
+a) dacã furnizorul nu remediazã deficiențele prevãzute
+a art. 19 lit. a), în termenul acordat de cãtre autoritate;
+b) dacã intervine o hotãrâre judecãtoreascã definitivã și
+revocabilã prin care se declarã falimentul furnizorului.
+SECÞIUNEA a 4-a
+Agrearea agențiilor de omologare
+
+Art. 21. Ñ (1) Decizia de agreare a agențiilor de omoogare se face pe baza unei cereri a agenției cãtre autoritate și în urma verificãrii condițiilor menționate în normele
+europene pentru acest gen de activitate.
+(2) Decizia de agreare este valabilã 1 an și se poate
+reînnoi.
+(3) Decizia se retrage în cazul în care se constatã cã
+agenția nu mai îndeplinește condițiile prevãzute la alin. (1)
+și (2). Autoritatea transmite agenției o notã explicativã în
+care descrie motivele retragerii deciziei de agreare.
+
+CAPITOLUL IV
+Proceduri de utilizare a semnãturii electronice
+Art. 22. Ñ Principiul de funcționare și procedurile de
+utilizare a semnãturii electronice sunt prevãzute în anexa
+nr. 7.
+Art. 23. Ñ Orice persoanã, fizicã sau juridicã, care
+dorește ca un furnizor sã îi elibereze un certificat trebuie
+a) sã furnizeze informațiile cerute pentru tipul de
+certificat dorit, conform formularului prevãzut în anexa
+nr. 8;
+b) sã genereze sau sã achiziționeze o pereche
+funcționalã cheie privatãÑcheie publicã; cheia privatã nu
+poate fi dedusã în nici un fel din cheia sa publicã pereche
+c) sã probeze funcționalitatea perechii cheie privatãÑ
+cheie publicã;
+d) sã protejeze cheia privatã de furturi, deteriorãri, modificãri ale conținutului sau alte compromiteri ale acesteia
+este interzisã duplicarea cheii private;
+e) sã propunã un nume sau un pseudonim distinct pentru identificare;
+f) sã supunã examinãrii furnizorului: cererea de furnizare
+a unui certificat, acordul de a respecta obligațiile în calitate
+de client și cheia sa publicã.
+Art. 24. Ñ La primirea cererii de eliberare a certificatului furnizorul în cauzã va verifica, înainte de eliberarea certificatului, urmãtoarele aspecte:
+a) dacã solicitantul certificatului este persoana identificatã în cerere, prin procedura adecvatã categoriei din care
+face parte certificatul;
+b) dacã solicitantul certificatului deține cheia privatã
+corespunzãtoare cheii publice listate în certificat;
+c) dacã informația listatã în certificat este exactã.
+Art. 25. Ñ (1) Durata verificãrii informațiilor din cerere ș
+a eliberãrii certificatului nu poate depãși:
+a) o zi lucrãtoare, pentru certificatele simple;
+b) 5 zile lucrãtoare, pentru certificatele calificate.
+(2) Termenele prevãzute la alin. (1) se calculeazã din
+momentul primirii de cãtre furnizorul în cauzã a tuturo
+informațiilor cerute pentru acest scop.
+Art. 26. Ñ Furnizorul nu poate emite un certificat fãrã
+consimțãmântul expres al celui pe numele cãruia este
+emis.
+Art. 27. Ñ Durata valabilitãții unui certificat este de
+maximum 1 an de la data comunicãrii cãtre client.
+Art. 28. Ñ Certificatul poate fi transmis solicitantului în
+urmãtoarele modalitãți:
+a) personal;
+b) prin poștã, cu confirmare de primire;
+c) prin poștã electronicã Ñ numai pentru certificate simple; observațiile, dacã existã, se comunicã pe aceeași cale
+furnizorului.
+Art. 29. Ñ Prin acceptarea certificatului clientul:
+a) își asumã responsabilitatea controlului cheii sale private și a luãrii unor mãsuri pentru a preveni pierderea
+dezvãluirea, modificarea sau utilizarea neautorizatã a acesteia;
+b) certificã veridicitatea informațiilor conținute în certificat
+c) se angajeazã sã foloseascã certificatul exclusiv în
+scopuri autorizate, conform legii;
+d) nu are dreptul de a utiliza cheia sa privatã corespunzãtoare cheii publice listate în certificat, pentru semnarea altor certificate, decât în cazurile în care acest lucru a
+fost prevãzut expres în contractul semnat cu furnizorul sãu
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+Art. 30. Ñ (1) Furnizorul gestioneazã direct cheile
+publice ale clienților persoane fizice și persoane juridice.
+Gestionarea cheilor publice presupune implicit acordarea
+tuturor serviciilor de certificare prevãzute în contractul cu
+clienții.
+(2) Serviciile de certificare se referã la emiterea, verificarea, suspendarea, reînnoirea, revocarea și furnizarea de
+nformații cu privire la certificatele emise, precum și depozitarea sigurã a acestora pe durata valabilitãții lor, la care
+se adaugã o perioadã de minimum 10 ani de la data
+încetãrii valabilitãții certificatului, conform prevederilor
+art. 20 lit. h) din lege.
+(3) Serviciile de verificare a semnãturilor electronice se
+asigurã automat, prin Internet, asemenea servicii fiind
+menționate expres în contract.
+Art. 31. Ñ (1) Arhivele unui furnizor aflat în cazul
+prevãzut la art. 24 alin. (4) din lege sunt preluate de autoritate.
+(2) Formularul de informare cu privire la încetarea activitãții unui furnizor de servicii de certificare este prevãzut
+în anexa nr. 9.
+(3) În cazul în care autoritatea dispune încetarea activitãții unui furnizor și nu existã un alt furnizor care sã îi
+preia activitatea, aceasta va asigura revocarea certificateor, dacã nu a fost deja realizatã de cãtre furnizor, pe
+cheltuiala furnizorului; autoritatea va prelua și va menține
+arhivele și registrul electronic, fãrã conectare permanentã
+a Internet.
+Art. 32. Ñ Un furnizor poate solicita unui alt furnizor
+eliberarea unui certificat, cel de-al doilea furnizor gestionând astfel cheia publicã a primului. Aceastã situație
+este prevãzutã în anexa nr. 10.
+CAPITOLUL V
+Detalii tehnice
+SECÞIUNEA 1
+Datele de creare a semnãturii
+
+Art. 33. Ñ Generarea datelor de creare a semnãturii
+electronice a autoritãții se face utilizând un sistem izolat,
+fiabil, proiectat special în acest scop, protejat împotriva utiizãrii neautorizate.
+Art. 34. Ñ Autoritatea va folosi pentru semnãtura electronicã algoritmul RSA.
+Art. 35. Ñ (1) Lungimea minimã a cheii private utilizate
+de un semnatar pentru crearea semnãturii electronice
+extinse trebuie sã fie de minim:
+a) 1.024 de biți pentru algoritmul RSA;
+b) 1.024 de biți pentru algoritmul DSA;
+c) 160 de biți pentru algoritmul DSA bazat pe curbe
+eliptice.
+(2) Lungimea nu include secvența de 0 biți de pe cele
+mai semnificative poziții.
+(3) Generarea repetatã de date de creare a semnãturii
+electronice nu trebuie sã coboare nivelul de siguranțã a
+acesteia, fiind obligatorie condiția de unicitate. Se exclud
+procedeele de generare a datelor de creare a semnãturii
+electronice care, prin utilizare repetatã, ar putea reduce
+calitatea cheii.
+Art. 36. Ñ (1) Numãrul minim de biți din datele de
+creare a semnãturii electronice determinați pe baza unor
+numere real aleatoare tehnice este de:
+a) 1.024 de biți pentru algoritmul RSA;
+
+5
+
+b) 1.024 de biți pentru algoritmul DSA;
+c) 160 de biți pentru algoritmul DSA bazat pe curbe
+eliptice.
+(2) Este interzisã utilizarea numerelor pseudoaleatorii ca
+punct de pornire în generarea datelor de creare a
+semnãturii.
+(3) Dacã sistemul de generare este utilizat pentru
+obținerea cheilor mai multor semnatari, calitatea elementelor generate trebuie verificatã statistic cel puțin o datã pe
+lunã. Rezultatele testelor efectuate trebuie înregistrate. În
+cazul în care rezultatul testului este negativ, toate certificatele emise de la data ultimului test vor fi revocate.
+Art. 37. Ñ (1) Dacã datele de creare a semnãturii sunt
+generate de furnizorul de servicii de certificare, acesta trebuie sã asigure confidențialitatea acestora, precum și a
+datelor pe baza cãrora s-au generat cheile.
+(2) Aceleași prevederi se aplicã în cazul operațiunilor de
+transferare a datelor de creare a semnãturii în dispozitivele
+de creare a semnãturii, precum și a datelor de identificare
+a semnatarului necesare în cazul utilizãrii dispozitivului.
+Art. 38. Ñ Dacã datele de creare a semnãturii sunt
+generate de un terț, acesta trebuie sã utilizeze dispozitive
+de generare fiabile, protejate împotriva utilizãrii neautorizate. Fiecare acces la dispozitivul de generare a datelor de
+creare a semnãturii trebuie monitorizat.
+SECÞIUNEA a 2-a
+Sisteme și proceduri utilizate pentru crearea semnãturii
+electronice
+
+Art. 39. Ñ Autoritatea folosește doar funcția hash-code
+SHA-1 și algoritmul de criptare RSA. Este interzisã utilizarea teoremei chinezești a resturilor.
+Art. 40. Ñ (1) În vederea obținerii unei semnãturi electronice extinse se pot utiliza urmãtoarele funcții hash-code
+a) RIPEMD Ñ 160;
+b) Funcția SHA-1.
+(2) Pot fi folosite numere pseudoaleatorii pentru a mãr
+lungimea amprentei documentului. Algoritmii de criptare a
+amprentei, în cazul semnãturii electronice extinse, sunt
+a) RSA;
+b) DSA;
+c) DSA pe curbe eliptice potrivit ISO/IEC 14883-3
+anexa A.2.2, IEEE standard P1363, secțiunile 5.3.3, 5.3.4
+(3) În cazul algoritmilor ce implicã numere aleatorii se
+pot utiliza numere pseudoaleatorii.
+(4) Se considerã echivalente și alte proceduri de creare
+a semnãturii, dacã oferã același nivel de securitate certificat de un organism autorizat recunoscut.
+Art. 41. Ñ Dacã pentru declanșarea procedurii de
+creare a semnãturii electronice se folosește o metodã de
+acces anume proiectatã pentru a preveni utilizarea neautorizatã, codul respectiv nu mai trebuie folosit în alt scop
+Art. 42. Ñ Formatul semnãturii electronice trebuie sã
+corespundã prevederilor legale în domeniu Ñ PKCS#7
+Standard de sintaxã al mesajelor criptate.
+Art. 43. Ñ Rezultatul verificãrii unei semnãturi electronice extinse este sigur doar dacã se utilizeazã un dispozitiv de verificare a semnãturii electronice specificat de cãtre
+furnizorul de servicii de certificare care a emis certificatu
+pe baza cãruia se face validarea semnãturii.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+SECÞIUNEA a 3-a
+Certificatele calificate
+
+Art. 44. Ñ În cazul reînnoirii unui certificat calificat se
+emite un nou certificat cu aceleași date de identificare și
+de verificare a semnãturii electronice, dar cu alte date de
+valabilitate.
+Art. 45. Ñ Formatul certificatului calificat, conform
+art. 13, trebuie sã fie descris de cãtre furnizor utilizând un
+imbaj formal standard Ñ CCITT sau Recomandãrile
+ITU-T X.208 Ñ, într-un document atașat notificãrii cãtre
+autoritate.
+Art. 46. Ñ Registrul electronic de evidențã a certificateor eliberate trebuie sã corespundã unui format recunoscut
+nternațional. Urmãtoarele standarde sunt recomandate:
+a) 1988 CCITT (ITU-T) X.500/ISO IS9594;
+b) RFC 2587 Internet X.509 Infrastructura de chei
+publice LDAPv2;
+c) RFC 2587 Internet X.509 Infrastructura de chei
+publice Ñ certificate și profil CRL;
+d) RFC 2589 Ñ LDAPv3 Extensii pentru servicii de
+director dinamic.
+SECÞIUNEA a 4-a
+Revocarea certificatelor și marcarea timpului
+
+Art. 47. Ñ Furnizorul trebuie sã informeze clienții și
+terții care pot influența atributele clientului, înscrise în certificatul calificat, cu privire la modul prin care pot solicita
+revocarea certificatului.
+Art. 48. Ñ (1) Marca temporalã dovedește existența
+unor date la un moment de timp precizat.
+(2) Prin aplicarea unei astfel de mãrci, numitã
+time-stamp, se poate demonstra existența unor informații la
+momentul respectiv.
+(3) Serviciile de marcare temporalã pot fi furnizate de
+furnizor sau de terți, conform standardelor recunoscute Ñ
+ETSI TS 101 861 Ștampilare temporalã; ETSI TS 101 733 v1.
+2.2 (2000-12); RFC3161 Internet X.509 PKI Protocol de
+ștampilare temporalã.
+(4) În vederea menționãrii datei și a orei se utilizeazã
+servicii bazate pe certificate calificate și se folosește data
+și ora Europei Centrale, ținându-se seama de schimbarea
+orei Ñ ora de varã/iarnã. Eroarea maximum admisã este
+de 1 minut.
+CAPITOLUL VI
+Alte prevederi
+Art. 49. Ñ Autoritatea trebuie sã verifice un furnizor cel
+puțin o datã la 2 ani sau când se modificã procedurile de
+ucru.
+Art. 50. Ñ (1) Autoritatea dispune suspendarea activitãții
+furnizorului pânã la încetarea cauzelor care au determinat
+uarea mãsurii în urmãtoarele situații:
+a) furnizorul a încãlcat obligațiile de confidențialitate
+prevãzute la art. 15 alin. (1) din lege;
+b) furnizorul nu notificã autoritatea în condițiile prevãzute
+a art. 13 alin. (1) și (2) din lege;
+c) complementar cu aplicarea sancțiunii contravenționale
+prevãzute la art. 45 din lege;
+d) furnizorul nu plãtește în termenul stabilit despãgubirile
+a plata cãrora a fost obligat printr-o decizie definitivã și
+revocabilã a unei instanțe judecãtorești;
+
+e) furnizorul nu achitã, în cel mult 10 zile, costu
+operațiunilor prevãzute la art. 31 alin. (3).
+(2) În aceastã perioadã autoritatea efectueazã verificarea furnizorului și comunicã neajunsurile identificate
+Autoritatea stabilește un interval de timp de maximum 30 de
+zile, în care furnizorul trebuie sã rezolve problemele cu
+care se confruntã.
+(3) Dacã furnizorul nu remediazã deficiențele în termenul acordat, autoritatea dispune încetarea activitãții acestuia
+și/sau retragerea deciziei de acreditare și/sau suspendarea
+dreptului de a emite certificate calificate, în funcție de
+problemele identificate și de tipul de servicii oferite de
+furnizor.
+(4) În perioada în care are activitatea suspendatã, furnizorul are obligația sã asigure serviciile de suspendare
+revocare și verificare a certificatelor, precum și consultarea
+prin Internet a registrului electronic, cu excepția cazului în
+care deficiențele se gãsesc la nivelul acestor sisteme.
+Art. 51. Ñ În cazurile prevãzute la art. 50 alin. (1)
+lit. d) și e) autoritatea are dreptul de a emite pretenți
+asupra scrisorii de garanție sau a poliței de asigurare, în
+limita prejudiciului creat.
+Art. 52. Ñ (1) Dispozitivele de creare a semnãturii electronice constituie produse asociate semnãturii electronice
+în sensul art. 4 pct. 15 din lege.
+(2) Produsele asociate semnãturii electronice sunt pre
+zumate sã îndeplineascã condițiile prevãzute la art. 4
+pct. 8 și la art. 20 lit. f) din lege, în cazul în care sun
+conforme cu cel puțin unul dintre:
+a) standardele române sau pãrțile relevante ale aces
+tora, care adoptã acele standarde europene armonizate ale
+cãror numere de referințã au fost publicate în Jurnalu
+Oficial al Comunitãților Europene, în mãsura în care
+condițiile în cauzã sunt acoperite de aceste standarde;
+b) standardele europene armonizate ale cãror numere
+de referințã au fost publicate în Jurnalul Oficial a
+Comunitãților Europene, în mãsura în care condițiile în
+cauzã sunt acoperite de aceste standarde;
+c) standardele române sau pãrțile relevante ale acestora, adoptate potrivit dispozițiilor legale în vigoare, în
+mãsura în care condițiile în cauzã sunt acoperite de aceste
+standarde și nu existã standarde române din categoria
+celor prevãzute la lit. a), care sã fie aplicabile.
+(3) Lista standardelor prevãzute la alin. (2) se publicã
+prin ordin al ministrului comunicațiilor și tehnologie
+informației.
+Art. 53. Ñ Dispozitivele securizate de creare a
+semnãturii electronice, recunoscute ca fiind conforme cu
+cerințele anexei III a Directivei 1999/93/EC de un organism
+desemnat de unul dintre statele membre ale Uniuni
+Europene sã efectueze determinãri ale conformitãții acesto
+dispozitive, sunt considerate omologate în sensul art. 11
+alin. (2) din lege.
+Art. 54. Ñ În conformitate cu art. 40 din lege certificatu
+calificat, eliberat de cãtre un furnizor înregistrat într-unu
+dintre statele membre ale Uniunii Europene, este recunoscut ca fiind echivalent din punct de vedere al efectelor juridice cu certificatul calificat eliberat de un furnizor de
+servicii de certificare cu domiciliul sau cu sediul în
+România, în baza acordului european de asociere dintre
+România, pe de o parte, și Comunitatea Europeanã și statele membre, pe de altã parte.
+Art. 55. Ñ Anexele nr. 1Ñ10 fac parte integrantã din
+prezentele norme tehnice și metodologice.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+
+7
+
+ANEXA Nr. 1*
+la normele tehnice și metodologice
+
+La punctele 10, 11 și 12 furnizorul trebuie sã se refere la:
+a) procedura de solicitare a certificatului;
+b) tipuri de pseudonime admise, dacã e cazul;
+c) metoda de includere în certificat a atributelor suplimentare;
+d) orele de program;
+e) modul de generare a datelor de creare a semnãturii
+urnizorului;
+f) formatul datelor de creare a semnãturii furnizorului;
+g) procedura de generare a datelor de creare a
+semnãturii clienților;
+h) formatul datelor de creare a semnãturii clienților;
+i) funcțiile hash și procedurile de criptare folosite;
+j) lista cuprinzând produsele asociate semnãturii electronice folosite și recomandate;
+
+k) formatul documentelor ce pot fi semnate electronic
+l) formatul și perioada de valabilitate a certificatelor;
+m) standarde tehnice și metode de acces la registru
+electronic de evidențã a certificatelor eliberate;
+n) intervalele de timp în care se oferã servicii de ștam
+pilare electronicã a datei și orei, dacã este cazul, conform
+art. 52 din normele tehnice și metodologice;
+o) metode detaliate de verificare a semnãturilor;
+p) descrierea practicilor, procedurilor și sistemelor care
+asigurã securitatea și integritatea datelor, accesul autoriza
+permanent la acestea și care previn orice acces neautorizat
+q) politicile de personal;
+r) structura personalului;
+s) parteneriate și politica în domeniu.
+
+*) Anexa este reprodusã în facsimil.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+ANEXA Nr. 2*
+la normele tehnice și metodologic
+
+*) Anexa este reprodusã în facsimil.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+
+9
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+ANEXA Nr. 3*
+la normele tehnice și metodologic
+
+*) Anexa este reprodusã în facsimil.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+
+11
+
+ANEXA Nr. 4*
+la normele tehnice și metodologice
+
+*) Anexa este reprodusã în facsimil.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+13
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+ANEXA Nr. 5
+la normele tehnice și metodologice
+
+ANTETUL INSTITUÞIEI FINANCIARE
+Data ................................................
+Subiect .............................................
+
+Aceastã scrisoare confirmã cã ........................................................................................................
+(instituție financiarã)
+
+garanteazã irevocabil efectuarea plãții/plãților ordonate de .........................................................
+(FSC)
+
+pânã la limita de ..................................................................din contul .....................................
+(minimum 500.000 euro)
+
+(contul FSC).
+
+Aceastã garanție se referã la condițiile prevãzute în legea și în normele metodologice privind
+aplicarea semnãturii electronice. Aceastã scrisoare de garanție este validã pânã la data de
+................................................................................................................................................................... .
+(data limitã de valabilitate a scrisorii de garanție).
+
+Pentru verificãri, contactați .......................................................................................................... .
+(contact instituție financiarã).
+
+..............................................................................
+(semnãtura împuternicitului instituției financiare)
+
+..............................................................................
+(semnãtura împuternicitului FSC).
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+ANEXA Nr. 6*
+la normele tehnice și metodologic
+
+*) Anexa este reprodusã în facsimil.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+
+15
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+ANEXA Nr. 7*
+la normele tehnice și metodologic
+
+*) Anexa este reprodusã în facsimil.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+
+17
+
+ANEXA Nr. 8*
+la normele tehnice și metodologice
+
+*) Anexa este reprodusã în facsimil.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+
+19
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+20
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+ANEXA Nr. 9*
+la normele tehnice și metodologic
+
+*) Anexa este reprodusã în facsimil.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+
+21
+
+ANEXA Nr. 10*
+la normele tehnice și metodologice
+
+*) Anexa este reprodusã în facsimil.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+22
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+GUVERNUL ROMÂNIEI
+
+HOTÃRÂRE
+pentru modificarea și completarea Hotãrârii Guvernului nr. 710/1999 privind asigurarea securitãții
+utilizatorilor de jucãrii
+În temeiul prevederilor art. 107 din Constituția României și ale art. 6 din Ordonanța Guvernului nr. 21/1992
+privind protecția consumatorilor, republicatã, cu modificãrile și completãrile ulterioare,
+Guvernul României adoptã prezenta hotãrâre.
+Art. I. Ñ Hotãrârea Guvernului nr. 710/1999 privind asigurarea securitãții utilizatorilor de jucãrii, publicatã în
+Monitorul Oficial al României, Partea I, nr. 450 din 16 sepembrie 1999, se modificã și se completeazã dupã cum
+urmeazã:
+1. Alineatul 2 al articolului 2 va avea urmãtorul cuprins:
+”Prin introducere pe piațã se înțelege vânzarea sau orice
+altã formã de distribuire a jucãriei, inclusiv cu titlu gratuit,
+pentru prima datã.,,
+2. Articolul 4 va avea urmãtorul cuprins:
+”Art. 4. Ñ Se considerã cã sunt respectate cerințele
+esențiale de securitate prevãzute la art. 3 și se admite
+ntroducerea pe piațã a jucãriei în urmãtoarele situații:
+1. are marcajul național de conformitate CS aplicat de
+producãtor sau de reprezentantul autorizat al acestuia, persoanã juridicã cu sediul în România. Acest marcaj se
+aplicã în urmãtoarele situații:
+a) jucãria este conformã cu standardele române care
+adoptã standardele europene armonizate din domeniul
+securitãții jucãriilor, denumite în continuare standarde
+române. Lista cuprinzând standardele române pentru asigurarea securitãții utilizatorilor de jucãrii se aprobã și se actualizeazã prin ordin al ministrului industriei și resurselor, care
+se publicã în Monitorul Oficial al României, Partea I;
+b) jucãria este conformã cu modelul aprobat în baza
+examinãrii CS de tip prevãzute la art. 7, în situația în care
+producãtorul nu aplicã în totalitate sau aplicã parțial standardele române ori când nu existã standarde române aplicabile;
+2. are marcajul european de conformitate CE aplicat de
+un producãtor dintr-un stat membru al Uniunii Europene
+sau de reprezentantul autorizat al acestuia, persoanã juridicã cu sediul în România.,,
+3. Articolul 5 va avea urmãtorul cuprins:
+”Art. 5. Ñ Producãtorul sau reprezentantul autorizat al
+acestuia, persoanã juridicã cu sediul în România, are
+obligația ca înainte de introducerea pe piațã a jucãriei sã
+întocmeascã și sã deținã documentele ce atestã conformiatea, care vor fi puse la dispoziție, la cerere, în copie,
+organelor de supraveghere a pieței, pentru examinare.
+Documentele ce atestã conformitatea se pãstreazã timp de
+10 ani de la data fabricãrii ultimei jucãrii din seria sau
+modelul respectiv de fabricație.
+Documentele ce atestã conformitatea sunt:
+a) documentația tehnicã cu privire la proiectare, producție și funcționare, care sã demonstreze conformitatea
+ucãriei cu cerințele esențiale de securitate;
+b) adresele spațiilor de producție și/sau de depozitare;
+c) declarația de conformitate, pentru cazul prevãzut la
+art. 4 alin. 1 lit. a);
+
+d) certificatul de examinare CS de tip și declarația de
+conformitate cu modelul aprobat pentru cazul prevãzut la
+art. 4 pct. 1 lit. b);
+e) declarația de conformitate și certificatul de examinare
+CE de tip emis de un organism notificat în Uniunea
+Europeanã, pentru cazul prevãzut la art. 4 pct. 2, care se
+realizeazã în conformitate cu modelul aprobat.
+În situația în care nici producãtorul, nici reprezentantu
+autorizat al acestuia nu este persoanã juridicã cu sediul în
+România, obligația de a deține și de a pune la dispoziție
+organelor de supraveghere a pieței documentele ce atestã
+conformitatea revine importatorului.,,
+4. Articolul 6 va avea urmãtorul cuprins:
+”Art. 6. Ñ În cazul în care nerespectarea obligațiilor pri
+vind conformitatea jucãriei cu cerințele esențiale de securi
+tate este evidentã, autoritatea de supraveghere a pieței va
+solicita producãtorului sau reprezentantului autorizat a
+acestuia, persoanã juridicã cu sediul în România, sã efec
+tueze din surse proprii, într-un termen stabilit de comun
+acord, încercãrile necesare la un laborator de încercãri sau
+la un organism de certificare recunoscut, în vederea stabili
+rii unui punct de vedere autorizat.,,
+5. Articolul 7 va avea urmãtorul cuprins:
+”Art. 7. Ñ Examinarea CS de tip este procedura prin
+care un organism notificat constatã și certificã faptul cã un
+exemplar reprezentativ de jucãrie, denumit în continuare
+model, respectã cerințele esențiale prevãzute la art. 3.
+Solicitarea unei examinãri CS de tip va fi depusã de
+producãtor sau de reprezentantul autorizat al acestuia, per
+soanã juridicã cu sediul în România, la un singur organism
+notificat, ales de cãtre acesta. Solicitarea trebuie sã conținã
+minimum urmãtoarele informații:
+a) numele și adresa producãtorului sau ale reprezentan
+tului autorizat, persoanã juridicã cu sediul în România, ș
+locul unde se fabricã jucãria;
+b) descrierea jucãriei;
+c) date detaliate privind proiectarea, producția ș
+funcționarea jucãriei;
+d) modelul jucãriei;
+e) declarația potrivit cãreia aceeași solicitare nu a fos
+înaintatã nici unui alt organism notificat.
+Pentru efectuarea încercãrilor organismul notificat poate
+solicita mai multe exemplare ale jucãriei dacã acestea sun
+necesare pentru realizarea programului de încercãri.
+Examinarea CS de tip se efectueazã de cãtre organis
+mul notificat în urmãtorul mod:
+a) se examineazã documentele care îi sunt puse la dis
+poziție de cãtre solicitant și se stabilește dacã acestea sun
+complete;
+b) se verificã dacã jucãria este conformã cu prevederile
+art. 2 alin. 1;
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+c) se efectueazã examinãrile și încercãrile
+corespunzãtoare, utilizându-se pe cât posibil standardele
+române, pentru a verifica dacã modelul jucãriei respectã
+cerințele esențiale de securitate prevãzute la art. 3.
+În cazul în care modelul jucãriei corespunde cerințelor
+esențiale de securitate prevãzute la art. 3, organismul notificat emite un certificat de examinare CS de tip, care se
+transmite solicitantului și care va cuprinde:
+a) denumirea și sediul producãtorului;
+b) concluziile examinãrii;
+c) condițiile pentru valabilitatea acestuia;
+d) datele necesare identificãrii modelului aprobat;
+e) perioada de valabilitate a certificatului.
+La certificatul de examinare CS de tip se anexeazã o
+istã cuprinzând elementele importante pentru evaluarea
+conformitãții din documentația tehnicã, iar o copie de pe
+aceastã listã se pãstreazã de cãtre organismul notificat.
+În cazul în care solicitantul aduce modificãri modelului
+aprobat, acesta va informa organismul notificat care a emis
+certificatul de examinare CS de tip și care deține documentația tehnicã referitoare la acesta. Dacã aceste modificãri afecteazã conformitatea cu cerințele esențiale de
+securitate sau cu condițiile prevãzute pentru utilizarea
+ucãriei, aceasta primește o certificare suplimentarã.
+Certificarea suplimentarã este datã sub forma unei completãri la certificatul de examinare CS de tip inițial.
+Organismul notificat informeazã celelalte organisme notificate cu privire la certificatele de examinare CS de tip
+emise și completãrile la acestea, precum și cu privire la
+certificatele de examinare CS de tip retrase.
+În cazul în care modelul jucãriei nu corespunde
+cerințelor esențiale prevãzute la art. 3, organismul notificat
+va informa solicitantul și Ministerul Industriei și Resurselor
+asupra neconformitãților depistate.
+Ministerul Industriei și Resurselor poate obține, la
+cerere, o copie de pe certificatul de examinare CS de tip
+și copii de pe proiectul jucãriei și de pe rapoartele de
+încercãri.,,
+6. Articolul 8 va avea urmãtorul cuprins:
+”Art. 8. Ñ Producãtorul sau reprezentantul autorizat al
+acestuia, persoanã juridicã cu sediul în România, aplicã
+marcajul CS pe fiecare jucãrie și întocmește o declarație
+de conformitate cu modelul aprobat prevãzut în anexa nr. 6.
+Producãtorul va lua toate mãsurile necesare pentru a
+garanta cã procesul de fabricație asigurã conformitatea cu
+modelul aprobat, astfel cum se prevede în certificatul de
+examinare CS de tip, și cu cerințele esențiale de securitate.,,
+7. Dupã articolul 8 se introduce articolul 8 1 cu
+urmãtorul cuprins:
+”Art. 81. Ñ În domeniul jucãriilor competența organismeor de certificare și a laboratoarelor de încercãri este recunoscutã de Ministerul Industriei și Resurselor pe baza unei
+metodologii de evaluare, care se aprobã prin ordin al
+ministrului industriei și resurselor.
+Listele cuprinzând laboratoarele de încercãri și organismele recunoscute pentru efectuarea verificãrilor conform
+prevederilor art. 6 și organismele notificate pentru realizarea examinãrii CS de tip conform prevederilor art. 7 se
+aprobã și se actualizeazã periodic prin ordin al ministrului
+ndustriei și resurselor și se publicã în Monitorul Oficial al
+României, Partea I. Condițiile minime ce trebuie îndeplinite
+de cãtre organisme pentru a fi desemnate sunt prevãzute
+în anexa nr. 4.
+
+23
+
+În cazul în care Ministerul Industriei și Resurselor constatã sau este sesizat cã un organism de certificare sau
+un laborator de încercãri desemnat conform prevederilor
+alin. 1 nu mai respectã condițiile minime prevãzute în
+anexa nr. 4, va retrage notificarea, respectiv recunoașterea
+și va publica acest lucru în Monitorul Oficial al României
+Partea I.,,
+8. La articolul 10, alineatul 2 se abrogã.
+9. Dupã articolul 10 se introduce articolul 10 1 cu
+urmãtorul cuprins:
+”Art. 101. Ñ Avertismentele, indicațiile de utilizare ș
+specificațiile prevãzute la art. 9 și 10 se redacteazã în
+limba românã.,,
+10. Articolul 11 va avea urmãtorul cuprins:
+”Art. 11. Ñ Încãlcarea dispozițiilor prezentei hotãrâr
+atrage rãspunderea materialã, civilã, disciplinarã, contravenționalã sau penalã, dupã caz, a celor vinovați.
+Constituie contravenții și se sancționeazã dupã cum
+urmeazã:
+a) nerespectarea prevederilor art. 3, cu amendã de la
+50.000.000 lei la 100.000.000 lei;
+b) nerespectarea prevederilor art. 5, cu amendã de la
+25.000.000 lei la 50.000.000 lei;
+c) nerespectarea prevederilor art. 6, 9 și 10, cu amendã
+de la 10.000.000 lei la 30.000.000 lei și, dupã caz, se dispune mãsura de oprire temporarã a introducerii pe piațã.,,
+11. Dupã articolul 11 se introduce articolul 11 1 cu
+urmãtorul cuprins:
+”Art. 111. Ñ În cazul în care se constatã cã jucãria
+introdusã pe piațã și utilizatã conform destinației sau într-un
+mod previzibil, având în vedere comportamentul normal a
+copiilor, pune în pericol viața, sãnãtatea și/sau securitatea
+utilizatorilor sau a unor terțe persoane, autoritãțile responsabile cu supravegherea pieței vor lua toate mãsurile necesare pentru a interzice distribuirea sub orice formã și, dupã
+caz, retragerea jucãriei de pe piațã.,,
+12. Dupã articolul 11 1 se introduce articolul 11 2 cu
+urmãtorul cuprins:
+”Art. 112. Ñ În cazul în care se constatã cã pentru
+jucãria introdusã pe piațã nu se respectã obligațiile
+prevãzute la art. 5, autoritãțile de supraveghere a pieței vor
+restricționa temporar distribuirea sub orice formã a jucãriei
+perioadã în care producãtorul sau reprezentantul autorizat
+al acestuia, persoanã juridicã cu sediul în România, ori
+dupã caz, importatorul va lua mãsurile necesare pentru eliminarea neconformitãților constatate în legãturã cu documentele ce atestã conformitatea. În situația neeliminãri
+neconformitãților se va interzice distribuirea sub orice formã
+a jucãriei și/sau se va dispune retragerea de pe piațã a
+acesteia.,,
+13. Articolul 12 va avea urmãtorul cuprins:
+”Art. 12. Ñ Constatarea încãlcãrii prevederilor prezente
+hotãrâri și aplicarea sancțiunilor se fac de reprezentanți
+autoritãții responsabile cu supravegherea pieței, respectiv
+de Autoritatea Naționalã pentru Protecția Consumatorilor.,,
+14. Dupã articolul 12 se introduce articolul 12 1 cu
+urmãtorul cuprins:
+”Art. 121. Ñ Contravențiilor prevãzute la art. 11 le sunt
+aplicabile dispozițiile Ordonanței Guvernului nr. 2/2001 privind regimul juridic al contravențiilor.,,
+15. Articolele 13 și 14 se abrogã.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+24
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+
+16. Articolul 15 va avea urmãtorul cuprins:
+”Art. 15. Ñ Anexele nr. 1Ñ6 fac parte integrantã din
+prezenta hotãrâre.,,
+17. Anexa nr. 5 se înlocuiește cu anexa nr. 1 la prezenta hotãrâre.
+18. Dupã anexa nr. 5 se introduce anexa nr. 6 având
+conținutul anexei nr. 2 la prezenta hotãrâre.
+
+Art. II. Ñ Prezenta hotãrâre va intra în vigoare în termen de 120 de zile de la data publicãrii ei în Monitoru
+Oficial al României, Partea I.
+Art. III. Ñ Hotãrârea Guvernului nr. 710/1999 privind
+asigurarea securitãții utilizatorilor de jucãrii, cu modificãrile
+și completãrile aduse prin prezenta hotãrâre, va fi republicatã în Monitorul Oficial al României, Partea I, dându-se
+textelor o nouã numerotare.
+
+PRIM-MINISTRU
+
+ADRIAN NÃSTASE
+Contrasemneazã:
+Ministrul industriei și resurselor,
+Dan Ioan Popescu
+Ministrul integrãrii europene,
+Hildegard Carola Puwak
+Președintele Autoritãții Naționale
+pentru Protecția Consumatorilor,
+Rovana Plumb,
+secretar de stat
+București, 20 decembrie 2001.
+Nr. 1.275.
+ANEXA Nr. 1
+MARCAJUL DE CONFORMITATE CS
+
+Marcajul de conformitate CS este format din literele C și S, cu forma prezentatã în figura
+urmãtoare:
+
+CS
+NOTÃ:
+
+Ñ fontul (stilul literei): Times New Roman, corp 36;
+Ñ diametrul cercului: 20 mm.
+În cazul în care marcajul CS trebuie sã fie mãrit sau micșorat, este necesar sã se respecte
+proporțiile prezentate în schița de mai sus.
+Componentele C și S ale marcajului CS trebuie sã aibã aceeași dimensiune pe verticalã,
+dar aceasta nu trebuie sã fie mai micã de 5 mm.
+
+ANEXA Nr. 2
+DECLARAÞIE DE CONFORMITATE
+
+Noi ÉÉÉÉ...................................................................................................................................
+(numele furnizorului și adresa)
+
+declarãm pe propria rãspundere cã produsul ÉÉÉÉÉ..........................................................
+(denumirea, tipul sau modelul, numãrul lotului, seriei și numãrul de exemplare)
+
+ÉÉÉÉÉÉ..................................................................................................................................
+este în conformitate cu urmãtorul/urmãtoarele standard/standarde sau altã/alte reglementare tehnicã/
+reglementãri tehnice ÉÉÉÉÉ.....................................................................................................É
+(titlul și/sau numãrul și data publicãrii standardului/standardelor sau altui/altor document/documente normativ/normative)
+
+și respectã cerințele esențiale.
+Încercãrile au fost realizate de laboratorul ÉÉÉÉ.............................................................ÉÉ
+ÉÉÉÉÉ...................................................................................................................................É,
+(denumirea)
+
+ÉÉÉÉÉ...................................................................................................................................É
+(adresa)
+
+Raport de încercãri/Certificat de examinare de tip nr. É..............ÉÉ din ÉÉ...............ÉÉ .
+(data)
+
+ÉÉ......................ÉÉ
+
+.........................................................
+
+(locul și data emiterii)
+
+(numele și semnãtura sau marcajul
+echivalent al persoanei autorizate)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+
+25
+
+GUVERNUL ROMÂNIEI
+
+HOTÃRÂRE
+privind înființarea Clubului Sportiv Municipal Brașov în subordinea Ministerului Tineretului
+și Sportului
+În temeiul prevederilor art. 107 din Constituția României, ale art. 22 alin. (2), ale art. 29 alin. (1) și ale art. 30
+din Legea educației fizice și sportului nr. 69/2000, cu modificãrile ulterioare,
+Guvernul României adoptã prezenta hotãrâre.
+Art. 1. Ñ Se înființeazã Clubul Sportiv Municipal Brașov,
+nstituție publicã cu personalitate juridicã, în subordinea
+Ministerului Tineretului și Sportului, cu sediul în municipiul
+Brașov, Bd Gãrii nr. 21, județul Brașov, prin reorganizarea
+unitãții fãrã personalitate juridicã de administrare a bazelor
+sportive din subordinea Direcției pentru tineret și sport a
+udețului Brașov, care se desființeazã.
+Art. 2. Ñ Obiectul de activitate al clubului sportiv înființat
+potrivit art. 1 îl reprezintã performanța, selecția, pregãtirea și
+participarea la competiții sportive interne și internaționale.
+Art. 3. Ñ Bunurile imobile, proprietate publicã a statului,
+având datele de identificare prevãzute în anexa care face
+parte integrantã din prezenta hotãrâre, care erau date în
+administrarea unitãții fãrã personalitate juridicã de adminisrare a bazelor sportive din subordinea Direcției pentru tineet și sport a județului Brașov, precum și celelalte bunuri
+aflate în patrimoniul acestei unitãți se transmit în adminisrarea Clubului Sportiv Municipal Brașov.
+Art. 4. Ñ Predarea-preluarea bunurilor prevãzute la art. 3
+se face pe bazã de protocol încheiat între pãrți, în termen de
+30 de zile de la data intrãrii în vigoare a prezentei hotãrâri.
+Nr.
+crt.
+
+Art. 5. Ñ Finanțarea cheltuielilor curente și de capita
+ale Clubului Sportiv Municipal Brașov se asigurã din veni
+turi extrabugetare și din alocații de la bugetul de stat.
+Art. 6. Ñ Structura organizatoricã, statele de funcții ș
+regulamentul de organizare și funcționare ale Clubulu
+Sportiv Municipal Brașov se aprobã prin ordin al ministrulu
+tineretului și sportului.
+Art. 7. Ñ Personalul salariat preluat de la unitatea fãrã
+personalitate juridicã de administrare a bazelor sportive din
+subordinea Direcției pentru tineret și sport a județulu
+Brașov se considerã transferat la Clubul Sportiv Municipa
+Brașov și beneficiazã de drepturile prevãzute de legislația
+în vigoare.
+Art. 8. Ñ Anexa nr. 2 ”Unitãțile care funcționeazã în
+subordinea Ministerului Tineretului și Sportului,, lit. A pct. II
+la Hotãrârea Guvernului nr. 6/2001 privind organizarea ș
+funcționarea Ministerului Tineretului și Sportului, publicatã în
+Monitorul Oficial al României, Partea I, nr. 14 din 10 ianu
+arie 2001, cu modificãrile ulterioare, se completeazã cu
+poziția nr. 44 care va avea urmãtorul cuprins:
+
+Denumirea unitãții
+
+Sursa de finanțare
+
+”44. Clubul Sportiv Municipal Brașov
+
+Venituri extrabugetare și alocații de la bugetul
+de stat,,
+PRIM-MINISTRU
+
+ADRIAN NÃSTASE
+Contrasemneazã:
+Ministrul tineretului și sportului,
+Georgiu Gingãraș
+Ministrul finanțelor publice,
+Mihai Nicolae Tãnãsescu
+Ministrul muncii și solidaritãții sociale,
+Marian Sârbu
+București, 20 decembrie 2001.
+Nr. 1.287.
+ANEXÃ
+DATELE DE IDENTIFICARE
+
+a bunurilor imobile care se transmit în administrarea Clubului Sportiv Municipal Brașov,
+instituție publicã în subordinea Ministerului Tineretului și Sportului
+Adresa
+bunurilor imobile
+care se transmit
+
+Municipiul Brașov,
+Bd Gãrii nr. 21,
+județul Brașov
+
+Persoana juridicã
+de la care se transmit
+bunurile imobile
+
+Unitatea fãrã personalitate
+juridicã de administrare
+a bazelor sportive din
+subordinea Direcției pentru
+tineret și sport a județului
+Brașov
+
+Persoana juridicã
+la care se transmit
+bunurile imobile
+
+Clubul Sportiv Municipal
+Brașov din subordinea
+Ministerului Tineretului
+și Sportului
+
+Specificație
+
+1. 3.436,46 m 2 Ñ Sala Sporturilor
+din care:
+1.333,80 m2 Ñ suprafațã de joc
+800,00 m2 Ñ tribunã
+387,40 m2 Ñ foaier salã
+115,90 m2 Ñ salã micã
+86,36 m2 Ñ salã micã
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+Adresa
+bunurilor imobile
+care se transmit
+
+Persoana juridicã
+de la care se transmit
+bunurile imobile
+
+Persoana juridicã
+la care se transmit
+bunurile imobile
+
+Specificație
+
+16,00 m2 Ñ birou tehnic
+16,00 m2 Ñ vestiar pentru femei
+4,00 m2 Ñ cabinã pentru portar
+25,00 m2 Ñ salã de protocol
+22,00 m2 Ñ vestiar I
+30,00 m2 Ñ vestiar II
+30,00 m2 Ñ vestiar III
+30,00 m2 Ñ vestiar IV
+9,00 m2 Ñ WC
+9,00 m2 Ñ WC
+9,00 m2 Ñ dușuri
+9,00 m2 Ñ dușuri
+12,00 m2 Ñ hol vestiare
+12,00 m2 Ñ hol vestiare
+24,00 m2 Ñ saunã
+12,00 m2 Ñ birou pentru administrato
+14,00 m2 Ñ magazie pentru materiale
+128,00 m2 Ñ hol mare
+6,00 m2 Ñ magazie
+16,00 m2 Ñ vestiar pentru arbitri
+280,00 m2 Ñ centralã termicã.
+La partea superioarã a tribunei: 9,00 m2 Ñ
+cabinã de tensiune și 28,00 m 2 Ñ
+cabine pentru transmisiuni TV
+2. 2.016,20 m 2 Ñ Bazinul de înot
+din care:
+1.050,00 m2 Ñ bazin mare
+87,50 m2 Ñ bazin mic
+310,88 m2 Ñ tribunã
+95,12 m2 Ñ foaier
+33,80 m2 Ñ depozit
+6,00 m2 Ñ cabinet medical
+6,00 m2 Ñ încãpere pentru arbitri
+47,60 m2 Ñ dușuri
+43,80 m2 Ñ dușuri
+48,00 m2 Ñ garderobã
+80,00 m2 Ñ cabine
+13,00 m2 Ñ vestiar
+13,00 m2 Ñ vestiar
+21,50 m2 Ñ vestiar
+22,00 m2 Ñ vestiar
+21,00 m2 Ñ dușuri
+21,00 m2 Ñ dușuri
+80,00 m2 Ñ hol
+12,00 m2 Ñ birou
+4,00 m2 Ñ casã de bilete
+340,00 m2 Ñ subsol tehnic
+Municipiul Brașov,
+str. Suișul
+Castelului nr. 1Ñ3,
+județul Brașov
+Poiana Brașov,
+Poiana Micã,
+județul Brașov
+
+Direcția pentru tineret și
+sport a județului Brașov
+din subordinea Ministerului
+Tineretului și Sportului
+
+Clubul Sportiv Municipal
+Brașov din subordinea
+Ministerului Tineretului
+și Sportului
+
+98,5 m2 Ñ construcție, din care
+75,50 m2 Ñ poligon tir
+16,00 m2 Ñ birou poligon
+7,00 m2 Ñ magazie armament
+100,50 m 2 Ñ Cabana pentru biatlon
+din care:
+42,00 m2 Ñ camerã
+42,00 m2 Ñ camerã
+10,00 m2 Ñ magazie
+6,00 m2 Ñ hol
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+
+27
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+AGENÞIA NAÞIONALÃ PENTRU RESURSE MINERALE
+Nr. 151/28 septembrie 2001
+
+MINISTERUL APELOR ȘI PROTECÞIEI MEDIULUI
+Nr. 22.740 /18 octombrie 2001
+
+ORDIN
+pentru aprobarea Instrucțiunilor tehnice privind aplicarea și urmãrirea mãsurilor stabilite
+în Programul de conformare și în planul de refacere a mediului, precum și reglementarea
+modului de operare cu garanția bancarã pentru refacerea mediului afectat de activitãțile miniere
+Președintele Agenției Naționale pentru Resurse Minerale și ministrul apelor și protecției mediului,
+având în vedere:
+Ñ Legea protecției mediului nr. 137/1995, republicatã;
+Ñ prevederile art. 40 alin. (1) lit. k) din Legea minelor nr. 61/1998;
+Ñ Hotãrârea Guvernului nr. 639/1998 privind aprobarea Normelor pentru aplicarea Legii minelor nr. 61/1998,
+în temeiul prevederilor Hotãrârii Guvernului nr. 368/1999 privind reorganizarea Agenției Naționale pentru Resurse
+Minerale și ale Hotãrârii Guvernului nr. 17/2001 privind organizarea și funcționarea Ministerului Apelor și Protecție
+Mediului,
+emit urmãtorul ordin:
+Art. 1. Ñ Se aprobã Instrucțiunile tehnice privind aplicaea și urmãrirea mãsurilor stabilite în Programul de conformare și în planul de refacere a mediului, precum și
+eglementarea modului de operare cu garanția bancarã
+pentru refacerea mediului afectat de activitãțile miniere,
+prevãzute în anexa care face parte integrantã din prezentul
+ordin.
+Președintele Agenției Naționale pentru Resurse Minerale,
+Maria Iuliana Stratulat
+
+Art. 2. Ñ Prezentele instrucțiuni vor fi publicate în
+Monitorul Oficial al României, Partea I, și vor intra în
+vigoare începând cu data de 1 ianuarie 2002.
+Art. 3. Ñ Compartimentele de resort din cadrul Agenție
+Naționale pentru Resurse Minerale, agenții economici din
+industria minierã și geologie și direcțiile generale și inspec
+toratele teritoriale de protecție a mediului din cadru
+Ministerului Apelor și Protecției Mediului vor aduce la înde
+plinire prevederile prezentului ordin.
+p. Ministrul apelor și protecției mediului,
+Ioan Jelev,
+secretar de stat
+ANEXÃ
+
+INSTRUCÞIUNI TEHNICE
+
+privind aplicarea și urmãrirea mãsurilor stabilite în Programul de conformare și în planul de refacere a mediului,
+precum și reglementarea modului de operare cu garanția bancarã pentru refacerea mediului afectat
+de activitãțile miniere
+Prezentele instrucțiuni tehnice fac referire la prevederile
+Legii protecției mediului nr. 137/1995, republicatã, ale art. 9
+alin. (1) și ale art. 10 alin. (3) lit. d) din Legea minelor
+nr. 61/1998, ale art. 16 și 28 din Normele pentru aplicarea
+Legii minelor nr. 61/1998, aprobate prin Hotãrârea
+Guvernului nr. 639/1998.
+Art. 1. Ñ Lucrãrile de refacere a mediului afectat de
+activitãțile miniere sunt cele prevãzute în programul de
+ucrãri de explorare, în planul de dezvoltare a exploatãrii
+miniere, în planul de refacere a mediului și în Programul
+de conformare al autorizației de mediu, care se vor regãsi
+defalcate în programele anuale de lucrãri.
+Art. 2. Ñ Programele anuale de lucrãri vor cuprinde și
+ucrãrile pentru protecția mediului înconjurãtor aferent perimetrului de explorare/exploatare.
+Art. 3. Ñ Concesionarii care desfãșoarã activitãți miniere
+de explorare/exploatare vor trimite inspectoratului/secției
+eritoriale a Agenției Naționale pentru Resurse Minerale
+situația privind valoarea lucrãrilor prevãzute în programele
+anuale de explorare/exploatare, lucrãrile de refacere a
+mediului înconjurãtor (cuprinse în Programul de conformare
+al autorizației de mediu) și a lucrãrilor pentru protecția
+mediului, potrivit anexei nr. I.
+
+Art. 4. Ñ Titularii concesiunilor de explorare/exploatare
+și agenții economici, beneficiari ai prevederilor art. 46 din
+Legea minelor nr. 61/1998, care nu au negociat licențele
+de explorare/exploatare vor depune și vor urmãri avizarea
+calculãrii garanției bancare pentru refacerea mediului, con
+form anexei nr. I, de cãtre inspectoratele/secțiile teritoriale
+ale Agenției Naționale pentru Resurse Minerale, inspectora
+tele de protecție a mediului teritoriale aflate în subordinea
+Ministerului Apelor și Protecției Mediului și de Direcția pro
+tecția și refacerea mediului din cadrul Direcției generale
+control și protecția mediului a Agenției Naționale pentru
+Resurse Minerale.
+Art. 5. Ñ Valoarea lucrãrilor prevãzute în programele
+anuale de explorare/exploatare, precum și cea a lucrãrilo
+de protecție și de refacere a mediului afectat de activitãțile
+miniere se declarã de cãtre agenții economici care executã
+lucrãri miniere de explorare/exploatare, pe propria rãspun
+dere, sub sancțiunile prevãzute de legea penalã.
+Art. 6. Ñ Garanția bancarã pentru refacerea mediului se
+calculeazã conform anexei nr. I, aplicându-se procentul con
+form art. 16 și 28 din Hotãrârea Guvernului nr. 639/1998, pentru
+beneficiarii prevederilor art. 46 din Legea minelor nr. 61/1998
+care nu au negociat licențele de explorare/exploatare sau ce
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+
+stabilit în licențã. Garanția bancarã pentru refacerea mediuui nu poate fi mai micã decât valoarea lucrãrilor de refacere a mediului care trebuie executate în anul respectiv.
+Prin valoarea sa garanția bancarã pentru refacerea mediuui trebuie sã asigure, în cazul încetãrii activitãții de cãtre
+titularul licenței și al neexecutãrii lucrãrilor de refacere a
+mediului, executarea acestor lucrãri.
+Art. 7. Ñ Garanția bancarã pentru refacerea mediului
+va fi depusã în prima lunã a perioadei la care se referã,
+dupã avizarea programului anual de lucrãri, la o bancã
+agreatã de Agenția Naționalã pentru Resurse Minerale.
+Art. 8. Ñ Garanția bancarã anualã se constituie prin
+depunerea cu ordin de platã a sumei reprezentând valoarea acesteia la banca și în contul comunicate de Agenția
+Naționalã pentru Resurse Minerale.
+Art. 9. Ñ Concesionarii au obligația ca, dupã achitarea
+garanției bancare aferente fiecãrui perimetru de explorare/exploatare, sã transmitã inspectoratului/secției teritoriale
+a Agenției Naționale pentru Resurse Minerale copii de pe
+ordinul de platã, cu specificarea denumirii perimetrelor pentru care s-a achitat garanția bancarã.
+Art. 10. Ñ Garanția bancarã pentru refacerea mediului
+se poate acumula în cont, este purtãtoare de dobândã la
+vedere și se restituie concesionarului numai în mãsura în
+care acesta și-a îndeplinit obligațiile referitoare la executarea lucrãrilor de refacere a mediului aferente perioadei de 1 an.
+Art. 11. Ñ Concesionarii și agenții economici au
+obligația ca anual sã întocmeascã, conform anexei nr. II,
+Situația privind lucrãrile executate pentru refacerea mediului
+afectat de activitãțile miniere; aceastã situație va fi înaintatã spre avizare inspectoratului/secției teritoriale a Agenției
+Naționale pentru Resurse Minerale, inspectoratului de protecție a mediului teritorial și Direcției protecția și refacerea
+mediului din cadrul Direcției generale control și protecția
+mediului a Agenției Naționale pentru Resurse Minerale cu
+cel puțin 30 de zile înaintea datei constituirii garanției bancare pentru anul urmãtor.
+
+Art. 12. Ñ Constatarea îndeplinirii obligațiilor referitoare
+la executarea lucrãrilor de refacere a mediului se face pe
+baza prezentãrii de cãtre concesionari și agenți economic
+a Situației privind lucrãrile executate pentru refacerea
+mediului afectat de activitãțile miniere (anexa nr. II), fundamentatã de un raport privind executarea acestor lucrãri
+avizate de inspectoratul teritorial de protecție a mediului ș
+verificate de inspectoratul/secția teritorialã a Agenție
+Naționale pentru Resurse Minerale și de Direcția protecția
+și refacerea mediului din cadrul Direcției generale control ș
+protecția mediului a Agenției Naționale pentru Resurse
+Minerale.
+Art. 13. Ñ Direcția generalã control și protecția mediulu
+a Agenției Naționale pentru Resurse Minerale, prin Direcția
+protecția și refacerea mediului și prin inspectoratele/secțiile
+teritoriale ale Agenției Naționale pentru Resurse Minerale, va
+urmãri și va controla periodic, pe parcursul întregului an, stadiul executãrii lucrãrilor de refacere a mediului, pe care concesionarii și le-au asumat prin programele anuale de lucrãri
+La efectuarea controalelor vor participa și inspectori din
+cadrul inspectoratelor de protecția mediului teritoriale.
+Art. 14. Ñ În situația neexecutãrii lucrãrilor din planu
+de refacere a mediului și Programul de conformare în conformitate cu etapele și ritmul prevãzute de programele anuale se vor aplica sancțiunile prevãzute la art. 83 pct. 3 din
+Legea protecției mediului nr. 137/1995, pentru nerespectarea prevederilor art. 35 alin. 2, și cele prevãzute la art. 42
+lit. a) din Legea minelor nr. 61/1998, pentru nerespectarea
+prevederilor art. 29 alin. (1) lit. b), i) și j). În situația retragerii licenței titularul licenței pierde dreptul asupra garanțiilo
+bancare, care devin fonduri la dispoziția Agenției Naționale
+pentru Resurse Minerale, urmând sã fie utilizate la efectua
+rea lucrãrilor de refacere a mediului, prin intermediul une
+persoane juridice competente, române sau strãine, selec
+tate prin concurs de ofertã publicã, organizat și desfãșura
+în condiții stabilite în conformitate cu prevederile legale privind achizițiile publice de execuție de lucrãri.
+ANEXA Nr. I
+la instrucțiuni
+
+Agent economic.............................
+Perimetrul.......................................
+Anul................................................
+MODUL DE CALCUL
+
+al valorii garanției bancare pentru refacerea mediului
+LUCRÃRI PREVÃZUTE ÎN PROGRAMUL ANUAL DE EXPLOATARE
+
+A. Lucrãri de dezvoltare
+Nr.
+crt.
+
+Obiectivul
+
+U.M.
+
+Cantitatea
+
+Prețul unitar
+
+Total
+valoare
+
+Procent
+garanție
+mediu (%)
+
+Valoarea garanției
+bancare pentru
+refacerea mediului (lei)
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+1. Lucrãri de cercetare
+geologicã pentru dirijarea
+exploatãrii
+1.1 ..................................
+1.2 ..................................
+2. Lucrãri de deschidere
+2.1 ..................................
+2.2 ..................................
+3. Lucrãri de pregãtire
+3.1. .................................
+3.2 ..................................
+4. Drumuri de acces
+la zãcãmânt, instalații
+de prelucrare/preparare,
+halde de steril, stocuri etc.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+29
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+6
+
+7
+
+4.1 .................................
+4.2 .................................
+5. Halde de steril
+5.1 ................................
+5.2 ...............................
+6. Iazuri de steril
+6.1 ..............................
+6.2 ..............................
+7. Alte lucrãri care se executã
+7.1 .............................
+7.2 .............................
+Total A
+B. Lucrãrile de refacere a mediului*)
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1. Lucrãri executate în zona
+afectatã de exploatare
+1.1. Depunere de pãmânt
+pe berme și compactare
+1.2. Plantare de arbuști
+1.3. Lucrãri de întreținere
+.........................................
+2. Lucrãri în zona haldelor
+de steril
+2.1. Amenajare suprafațã
+2.2. Acoperire teren cu plasã
+2.3. Transport sol vegetal
+2.4. Fertilizare
+2.5. Semãnat iarbã
+2.6. Întreținere
+.........................................
+3. Alte lucrãri pentru
+refacerea mediului
+.........................................
+Total B
+C. Lucrãri pentru protecția mediului
+Nr.
+crt.
+
+Obiectivul
+
+U/M
+
+Cantitatea
+
+Prețul unitar
+
+Total
+valoare
+
+Procent
+garanție
+mediu (%)
+
+Valoarea garanției
+bancare pentru
+refacerea mediului (lei)
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+1. Lucrãri pentru
+protecția aerului
+..........................
+..........................
+2. Lucrãri pentru
+protecția apelor
+de suprafațã
+.......................................
+3. Lucrãri pentru
+protecția apelor
+subterane
+........................................
+........................................
+4. Lucrãri pentru
+protecția solului
+........................................
+.........................................
+5. Mãsuri pentru reducerea
+zgomotului și a vibrațiilor
+..........................................
+..........................................
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+6. Lucrãri de reducere a
+impactului vizual (peisagistic)
+.........................................
+.........................................
+7. Alte lucrãri
+.........................................
+.........................................
+TOTAL C
+TOTAL A+B+C
+
+*) Potrivit Programului de conformare.
+Agent economic
+Director general,
+..................................
+Avizat:
+Ministerul Apelor
+și Protecției Mediului
+Inspectoratul de protecție
+a mediului
+Director,
+............................
+
+Avizat:
+Agenția Naționalã pentru
+Resurse Minerale
+Inspectoratul/Secția teritorialã
+pentru resurse minerale
+Inspector-șef,
+..............................
+
+ANEXA Nr. II
+la instrucțiuni
+
+Agent economic...........................
+Perimetrul.....................................
+Anul...............
+SITUAÞIA
+
+privind lucrãrile executate pentru refacerea mediului afectat de activitãțile miniere
+Nr.
+crt.
+
+Obiectivul
+
+U/M
+
+Cantitatea
+
+Prețul unitar
+
+Total valoare
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1.
+
+Lucrãri de remediere
+executate în zona
+afectatã de exploatare
+1.1. Depunere de pãmânt
+pe berme și compactare
+1.2. Plantare de arbuști
+1.3. Lucrãri de întreținere
+...............................................
+2. Lucrãri în zona haldelor
+de steril
+2.1. Amenajare suprafațã
+2.2. Acoperire teren cu plasã
+2.3. Transport sol vegetal
+2.4. Fertilizare
+2.5. Semãnat iarbã
+2.6. Întreținere
+................................................
+3. Alte lucrãri pentru refacerea
+mediului
+................................................
+................................................
+TOTAL
+
+Agent economic
+Director general,
+..................................
+Verificat:
+Agenția Naționalã pentru
+Resurse Minerale
+Inspectoratul/Secția teritorialã
+pentru resurse minerale
+Inspector-șef,
+..............................
+
+Avizat:
+Ministerul Apelor
+și Protecției Mediului
+Inspectoratul de protecție
+a mediului
+Director,
+............................
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+
+ACTE
+
+ALE
+
+BÃNCII
+
+NAÞIONALE
+
+A
+
+31
+
+ROMÂNIEI
+
+BANCA NAÞIONALÃ A ROMÂNIEI
+
+NORME
+privind documentația necesarã în vederea autorizãrii operațiunilor financiar-bancare,
+prevãzute de Ordonanța de urgențã a Guvernului nr. 159/2001
+Având în vedere prevederile art. 6 și 8 din Ordonanța de urgențã a Guvernului nr. 159/2001 pentru prevenirea și combaterea utilizãrii sistemului financiar-bancar în scopul finanțãrii de acte de terorism,
+în temeiul prevederilor art. 50 din Legea nr. 101/1998 privind Statutul Bãncii Naționale a României, cu modificãrile ș
+completãrile ulterioare,
+Banca Naționalã a României emite prezentele norme.
+Art. 1. Ñ Prezentele norme se aplicã bãncilor, persoane
+uridice române, sucursalelor bãncilor strãine, organizațiilor
+cooperatiste de credit, caselor de schimb valutar și societãților
+comerciale care dețin în administrare unitãți hoteliere în care
+sunt organizate ghișee de schimb valutar, autorizate de Banca
+Naționalã a României, și au în vedere toate operațiunile bancare prevãzute la art. 1 alin. (1) din Ordonanța de urgențã a
+Guvernului nr. 159/2001 pentru prevenirea și combaterea utiizãrii sistemului financiar-bancar în scopul finanțãrii de acte de
+erorism, denumitã în continuare ordonanțã, în care sunt implicate persoanele nominalizate în lista întocmitã în conformitate
+cu prevederile art. 5 din ordonanțã.
+Art. 2. Ñ În vederea autorizãrii prealabile a operațiunilor
+prevãzute la art. 6 din ordonanțã, persoanele juridice
+menționate la art. 1 vor transmite/depune la registratura Bãncii
+Naționale a României, sub semnãtura conducerii acestora sau
+a persoanelor împuternicite, documentația necesarã în vederea
+autorizãrii operațiunii, însoțitã de o solicitare de autorizare a
+operațiunii respective, în care se vor menționa documentele de
+autorizare anexate la solicitare, o descriere a operațiunii, precum și orice informație relevantã.
+Solicitarea de autorizare va purta în mod obligatoriu
+mențiunea ”În baza art. 6 din Ordonanța de urgențã a
+Guvernului nr. 159/2001,,, înscrisã în preambulul solicitãrii.
+Art. 3. Ñ Documentația va fi prezentatã în fotocopie certificatã pentru conformitate cu originalul de cãtre persoanele juridice menționate la art. 1.
+Documentele redactate într-o limbã strãinã vor fi însoțite și
+de traducerea legalizatã a acestora.
+
+Art. 4. Ñ Documentația necesarã pentru obținerea autorizãri
+este cea cuprinsã în anexa care face parte integrantã din pre
+zentele norme. Persoanele juridice menționate la art. 1, prin
+intermediul cãrora urmeazã sã se efectueze operațiunea, vo
+solicita pentru/de la persoanele înscrise în lista prevãzutã la
+art. 5 din ordonanțã documentația necesarã, dupã cum urmeazã
+a) pentru operațiunile de cont curent: D1ÑD4 și D6 din
+anexã;
+b) pentru operațiunile de cont de capital: D1ÑD6 din
+anexã;
+c) pentru operațiuni de schimb valutar, în funcție de natura
+operațiunii în vederea cãreia se efectueazã schimbul valutar
+documentele prevãzute la lit. a) ori b).
+Pentru situațiile în care documentele care stau la baza
+operațiunii sunt redactate în format electronic, acestea vor f
+acceptate dacã sunt emise în condițiile respectãrii prevederilo
+legale în materie.
+Art. 5. Ñ În termen de 5 zile de la primirea documentație
+complete prevãzute de prezentele norme Banca Naționalã a
+României va autoriza operațiunea solicitatã sau va refuza emi
+terea autorizației.
+Termenul prevãzut la alin. 1 se poate prelungi cu 10 zile
+în situația în care Banca Naționalã a României considerã
+necesarã confirmarea identitãții persoanelor implicate în
+operațiune.
+Art. 6. Ñ Prevederile prezentelor norme se aplicã și în
+cazul celorlalte solicitãri de autorizare/raportare prezentate
+Bãncii Naționale a României în baza altor reglementãri, în
+situațiile în care sunt implicate persoane înscrise în lista
+prevãzutã la art. 5 din ordonanțã.
+
+PREȘEDINTELE CONSILIULUI DE ADMINISTRAÞIE AL BÃNCII NAÞIONALE A ROMÂNIEI,
+
+MUGUR CONSTANTIN ISÃRESCU
+București, 21 decembrie 2001.
+Nr. 5.
+ANEXÃ
+DOCUMENTELE
+
+necesare în vederea obținerii autorizației Bãncii Naționale a României pentru persoanele prevãzute la art. 5
+din ordonanțã
+D1 Ñ actul constitutiv ori alte documente privind înființarea
+a) pentru investiții directe Ñ actul constitutiv/proiectul actu
+entitãții și, dacã este cazul, documentele care atestã autorizarea lui constitutiv al societãții la care urmeazã a se face investiția
+activitãții în condițiile legii sau, dupã caz, carte de identitate ori alt actul de subscriere/cesiune/vânzare-cumpãrare de acțiuni sau
+document de identitate emis în condițiile legii de organele abilitate alte titluri de naturã participativã ori alte documente care stau
+la baza operațiunii, dupã caz;
+egal pentru persoanele fizice
+b) pentru investiții imobiliare Ñ contractul/antecontractul de
+D2 Ñ certificatele emise de oficiul registrului comerțului, de
+direcția generalã a finanțelor publice județeanã sau a munici- vânzare-cumpãrare sau alt document de achiziționare a bunu
+piului București, de Registrul asociațiilor sau fundațiilor ori alt lui imobil, dupã caz;
+c) pentru investiții
+și pe piața de capital
+act de înregistrare la organele abilitate, în cazul rezidenților; inclusiv în unitãți ale pe piața monetarã plasament colectiv Ñ
+organismelor de
+actul de înregistrare la organele abilitate din țara de origine, în documente referitoare la admiterea valorilor mobiliare pe piața
+cazul nerezidenților
+de capital, cum ar fi: autorizarea/avizul privind introducerea la
+D3 Ñ documentele care atestã sursa activelor implicate în bursã, prospectul de emisiune, contracte/convenții încheiate cu
+operațiunea respectivã: de cont curent, de cont de capital, de intermediarii autorizați pe piața monetarã și de capital, sem
+schimb valutar
+nate bilateral, sau alte documente specifice fiecãrei operațiuni
+D4 Ñ factura externã definitivã/pro-forma, contract de dupã caz, contracte de intermediere, administrare etc.;
+ivrare de mãrfuri/executãri de lucrãri/prestãri de servicii,
+d) pentru credite/împrumuturi legate de comerțul internaționa
+declarație vamalã de import, declarație vamalã de export, alte și financiare Ñ contractele semnate bilateral;
+documente care stau la baza operațiunii, dupã caz
+e) pentru deschiderea de conturi curente și de depozit la
+D5 Ñ documente pentru operațiuni de capital:
+bãnci și la alte entitãți autorizate sã desfãșoare activitate
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+32
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 847/28.XII.2001
+
+bancarã Ñ proiectul contractului de deschidere de cont, extrasul de cont care atestã existența disponibilitãților în valutã sau
+în lei în vederea constituirii depozitului, document de schimb
+valutar, dupã caz;
+f) pentru transferul de capital decurgând din contracte de
+asigurare de viațã și de credite Ð polițe de asigurare/contracte
+de reasigurare și orice alte documente specifice;
+g) pentru garanții Ñ contracte de garanție încheiate în formele prevãzute de lege și documentul care certificã înregistrarea acestora potrivit legii ori alte documente care atestã
+constituirea garanției, dupã caz;
+h) pentru transferurile cu caracter personal Ñ contracte de
+vânzare-cumpãrare/împrumut/donație, certificat de moștenitor,
+
+hotãrâri/sentințe/decizii emise de organele abilitate în aces
+sens și alte documente din care sã rezulte suma pentru care
+se solicitã transferul;
+i) pentru alte mișcãri de capital Ñ documentele care atestã
+necesitatea operațiunii și sumele aferente acesteia
+D6 Ñ autorizația/avizul instituțiilor cu atribuții de suprave
+ghere și control, precum Ministerul Finanțelor Publice, Comisia
+Naționalã a Valorilor Mobiliare, Comisia de Supraveghere a
+Asigurãrilor etc., dupã caz, precum și al instituțiilor similare din
+strãinãtate
+D7 Ñ orice documente solicitate de Banca Naționalã a
+României ulterior depunerii documentației, necesare pentru
+analizarea operațiunii respective.
+
+BANCA NAÞIONALÃ A ROMÂNIEI
+
+HOTÃRÂRE
+privind instituirea administrãrii speciale a Bãncii Române de Scont Ñ S.A.
+Având în vedere deficiențele constatate și consemnate în:
+Ñ Raportul întocmit la data de 30 octombrie 2001 de Comisia de Supraveghere Specialã;
+Ñ procesele-verbale nr. 2.424/28 august 2001, 5.563/28 august 2001, 2.905/8 octombrie 2001, 6.617/8 octombrie 2001
+3.304/12 noiembrie 2001, 7.361/13 noiembrie 2001, 7.542/23 noiembrie 2001, 7.841/7 decembrie 2001 și nr. 3.519/7 decembrie
+2001, precum și:
+Ñ deteriorarea dramaticã a situației financiare dupã încetarea mãsurii de supraveghere specialã;
+Ñ nerespectarea mãsurilor stabilite prin ”Programul de mãsuri,, aprobat de consiliul de administrație al bãncii la data de
+28 august 2001 și devenite obligatorii potrivit prevederilor Ordinului guvernatorului Bãncii Naționale a României nr. 395/31 august 2001
+Ñ refuzul conducerii bãncii de a colabora cu organele de inspecție ale Bãncii Naționale a României și de a le pune
+acestora la dispoziție documentele solicitate;
+Ñ faptul cã Banca Românã de Scont Ñ S.A. a încãlcat în mod repetat prevederile Legii bancare nr. 58/1998, cu
+modificãrile și completãrile ulterioare, și ale reglementãrilor emise în aplicarea acesteia,
+în baza art. 79 din Legea bancarã nr. 58/1998, cu modificãrile și completãrile ulterioare, în temeiul art. 34 alin. (1
+it. b) din Legea nr. 101/1998 privind statutul Bãncii Naționale a României,
+Consiliul de administrație al Bãncii Naționale a României hotãrãște:
+Art. 1. Ñ Se instituie administrarea specialã a Bãncii Române
+de Scont Ñ S.A. începând cu data de 3 ianuarie 2002.
+Art. 2. Ñ În calitate de administrator special se desemneazã domnul Hidan Ioan. Remunerația acestuia se stabilește
+a nivelul drepturilor bãnești ale președintelui Bãncii Române
+de Scont Ñ S.A. la data de 30 noiembrie 2001 și va fi suporatã împreunã cu cheltuielile de cazare, diurnã și transport de
+banca administratã.
+În caz de imposibilitate a acestuia de a-și exercita atribuțiile
+calitatea de administrator special al Bãncii Române de Scont Ñ
+S.A. va fi deținutã de domnul Onețiu Dorel, care va avea aceeași drepturi și obligații ca și titularul.
+Art. 3. Ñ Activitatea de administrare specialã a Bãncii
+Române de Scont Ñ S.A. va fi efectuatã de administratorul
+special, care preia integral atribuțiile consiliului de administrație al
+bãncii, aduce la îndeplinire hotãrârile adunãrii generale a acționarilor și stabilește condițiile optime pentru conservarea activelor și
+pentru încasarea creanțelor în interesul deponenților și al altor
+creditori.
+Art. 4. Ñ În perioada aplicãrii administrãrii speciale se suspendã activitatea consiliului de administrație al Bãncii Române
+de Scont Ñ S.A. și a cenzorilor, dreptul de vot al acționarilor
+
+în privința numirii și revocãrii administratorilor și dreptul la divi
+dende, precum și dreptul la remunerație al administratorilor ș
+cenzorilor.
+Art. 5. Ñ Administratorul special va înștiința de îndatã
+compartimentele din cadrul Bãncii Române de Scont Ñ S.A.
+precum și sediile secundare ale acesteia în legãturã cu înce
+perea administrãrii speciale și cu mãsurile prevãzute de lege
+cu privire la desfãșurarea activitãții bãncii.
+Art. 6. Ñ În termen de 45 de zile de la numire adminis
+tratorul special va prezenta consiliului de administrație a
+Bãncii Naționale a României un raport scris cu privire la
+situația financiarã a Bãncii Române de Scont Ñ S.A.
+Art. 7. Ñ Pe perioada exercitãrii funcției de administrato
+special domnului Hidan Ioan i se suspendã contractul indivi
+dual de muncã încheiat cu Banca Naționalã a României
+urmând ca la încheierea mandatului de administrator specia
+domnul Hidan Ioan sã revinã la funcția deținutã anterior în
+Banca Naționalã a României.
+Art. 8 Ñ Prezenta hotãrâre va fi transmisã acționarilo
+semnificativi și Consiliului de administrație al Bãncii Române
+de Scont Ñ S.A. și va fi publicatã în Monitorul Oficial a
+României, Partea I.
+
+PREȘEDINTELE CONSILIULUI DE ADMINISTRAÞIE AL BÃNCII NAÞIONALE A ROMÂNIEI,
+
+MUGUR CONSTANTIN ISÃRESCU
+București, 20 decembrie 2001.
+Nr. 179.
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 5069427282 Trezoreria sector 5, București (alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate : Centrul pentru relații cu publicul și agenții economici, București,
+șos. Panduri nr. 1, bloc P33, parter, sectorul 5, telefon 411.58.33.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: ramomrk@bx.logicnet.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 847/28.XII.2001 conține 32 de pagini.
+
+Prețul 14.752 lei
+
+ISSN 1453Ñ4495
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+

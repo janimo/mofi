@@ -1,0 +1,2250 @@
+PARTEA
+
+Anul 174 (XVIII) — Nr. 500
+
+I
+
+Vineri, 9 iunie 2006
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+
+141.
+
+ACTE
+ALE
+
+ALE
+
+— Ordin al președintelui Comisiei Naționale pentru
+Controlul Activităților Nucleare pentru aprobarea
+Normelor privind protecția centralelor nuclearoelectrice împotriva incendiilor și exploziilor interne
+
+ORGANELOR
+
+ADMINISTRAȚIEI
+
+DE
+
+1–16
+
+SPECIALITATE
+
+PUBLICE
+
+CENTRALE
+
+GUVERNUL ROMÂNIEI
+COMISIA NAȚIONALĂ PENTRU CONTROLUL ACTIVITĂȚILOR NUCLEARE
+
+ORDIN
+pentru aprobarea Normelor privind protecția centralelor nuclearoelectrice
+împotriva incendiilor și exploziilor interne
+În conformitate cu prevederile:
+• Legii nr. 111/1996 privind desfășurarea în siguranță a activităților nucleare, republicată, cu modificările și
+completările ulterioare;
+• Hotărârii Guvernului nr. 1.627/2003 privind aprobarea Regulamentului de organizare și funcționare a Comisiei
+Naționale pentru Controlul Activităților Nucleare, cu modificările ulterioare,
+președintele Comisiei Naționale pentru Controlul Activităților Nucleare emite următorul ordin:
+Art. 1. — Se aprobă Normele privind protecția
+centralelor nuclearoelectrice împotriva incendiilor și
+exploziilor interne, prevăzute în anexa care face parte
+integrantă din prezentul ordin.
+Art. 2. — Prezentul ordin va fi publicat în Monitorul
+Oficial al României, Partea I.
+
+Art. 3. — Normele prevăzute la art. 1 intră în vigoare la
+data publicării în Monitorul Oficial al României, Partea I.
+Art. 4. — Direcția reactori nucleari va duce la îndeplinire
+prevederile prezentului ordin.
+
+Președintele Comisiei Naționale pentru Controlul Activităților Nucleare,
+Vilmos Zsombori
+București, 12 mai 2006.
+Nr. 141.
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 500/9.VI.2006
+ANEXĂ
+
+NORME
+privind protecția centralelor nuclearoelectrice împotriva incendiilor și exploziilor interne
+CAPITOLUL I
+Dispoziții generale
+
+d) au fost aprobate de către CNCAN odată cu autorizarea
+sistemului de management al calității al titularului de
+autorizație.
+
+SECȚIUNEA 1
+
+SECȚIUNEA a 3-a
+Obiective și principii de bază
+
+Scop, domeniu, definiții
+
+Principiul apărării în adâncime
+
+Scop
+
+Art. 1. — În conformitate cu prevederile Legii nr. 111/1996
+privind desfășurarea în siguranță a activităților nucleare,
+republicată, cu modificările și completările ulterioare, prezentele
+norme stabilesc cerințele pentru protecția centralelor
+nuclearoelectrice împotriva incendiilor și exploziilor interne.
+Definiții
+
+Art. 2. — (1) În prezentele norme se utilizează termenul
+îunitate“ pentru o unitate a centralei nuclearoelectrice.
+(2) În prezentele norme se utilizează abrevierea SSCE
+pentru sistemele, structurile, componentele și echipamentele
+centralei nuclearoelectrice.
+(3) Expresiile și termenii utilizați în prezentele norme sunt
+definiți în anexa nr. 1, cu excepția celor ale căror definiții se
+regăsesc în textul prezentelor norme.
+Domeniu
+
+Art. 3. — (1) Prezentele norme se aplică organizării și
+desfășurării acelor activități și practici ale titularului autorizației
+de proiectare, construcție, punere în funcțiune, exploatare,
+conservare sau dezafectare a unei unități a centralei
+nuclearoelectrice și organizațiilor implicate, care privesc
+protecția la incendiu a SSCE importante pentru securitatea
+nucleară, în toate etapele de viață ale unității.
+(2) Prezentele norme se aplică, de asemenea, protecției la
+incendiu a acelor SSCE ale unității care nu sunt importante
+pentru securitatea nucleară, dar care în caz de incendiu pot
+afecta semnificativ, prin propagarea focului, a căldurii sau a
+produselor de ardere, SSCE importante pentru securitatea
+nucleară.
+Art. 4. — Aspectele convenționale ale protecției la incendiu
+și securitatea proprietății în caz de incendiu nu fac obiectul
+prezentelor norme.
+Art. 5. — (1) Face obiectul prezentelor norme protecția
+împotriva exploziilor datorate eliberărilor de lichide și gaze
+inflamabile/combustibile provenite de la sistemele unității.
+(2) Protecția împotriva exploziilor în interiorul sistemelor
+unității nu face obiectul prezentelor norme; protecția împotriva
+acestui tip de explozii trebuie realizată prin proiectarea
+sistemelor unității.
+SECȚIUNEA a 2-a
+Reglementări, standarde și ghiduri
+
+Art. 6. — (1) SSCE trebuie să fie proiectate, realizate și
+utilizate în conformitate cu reglementările și standardele
+naționale în vigoare sau cu alte tipuri de standarde identificate
+de către titularul de autorizație și agreate de Comisia
+Națională pentru Controlul Activităților Nucleare, numită în
+continuare CNCAN.
+(2) Standardele și ghidurile utilizate de către titularul de
+autorizație în realizarea protecției la incendiu a unității trebuie
+agreate de CNCAN.
+(3) Se consideră agreate de CNCAN acele standarde și
+ghiduri care:
+a) sunt menționate în autorizațiile emise de CNCAN; sau
+b) sunt menționate în documentația protecției la incendiu,
+aprobată de CNCAN; sau
+c) sunt menționate în rapoartele de securitate ale unității,
+aprobate de CNCAN; sau
+
+Art. 7. — Principiul general de îapărare în adâncime“
+pentru asigurarea securității nucleare a unității, utilizat pe plan
+internațional pentru protecția la incendiu a centralelor
+nuclearoelectrice, stă la baza prezentelor norme.
+Art. 8. — Titularul autorizației și organizațiile concurente la
+protecția centralei împotriva incendiilor, pentru fiecare dintre
+fazele de proiectare, construcție, punere în funcțiune,
+exploatare și dezafectare, au obligația să instituie toate
+măsurile tehnice și organizatorice necesare pentru
+implementarea principiului apărării în adâncime în ceea ce
+privește protecția la incendiu, precum și a celorlalte principii
+amintite în prezenta secțiune.
+Art. 9. — (1) Conceptul de îapărare în adâncime“ implică
+niveluri succesive de protecție, respectiv prevenire, detecție și
+alarmare, stingere și limitare a efectelor incendiului, și trebuie
+extins la toate activitățile privind securitatea nucleară, incluzând
+aspectele organizaționale, de comportament sau legate de
+SSCE din structura unității. Aceste niveluri de protecție trebuie
+să compenseze erorile umane sau defectările sistemelor
+unității, să prevină și să atenueze pericolele potențiale și
+consecințele acestora, astfel încât să fie asigurată protecția
+radiologică a personalului de exploatare a unității, a populației
+și a mediului.
+(2) SSCE importante pentru securitatea nucleară trebuie
+proiectate și amplasate astfel încât să se minimizeze, în
+concordanță cu alte cerințe de securitate, probabilitatea de
+apariție și efectele incendiilor și exploziilor cauzate de
+evenimente externe sau interne.
+(3) Trebuie prevăzute mijloace pentru prevenirea și
+limitarea efectelor incendiilor, astfel încât să fie menținute,
+pentru orice eveniment de incendiu din unitate, pe durata și
+după producerea acestuia, următoarele funcții generale de
+securitate nucleară:
+a) oprirea reactorului și menținerea acestuia într-o stare de
+oprire sigură pentru o perioadă de timp nedeterminată;
+b) răcirea combustibilului nuclear;
+c) menținerea barierelor fizice în calea eliberărilor de
+materiale radioactive;
+d) monitorizarea stării unității și furnizarea serviciilor-suport
+necesare pentru menținerea funcțiilor prevăzute la lit. a), b) și c).
+(4) Cerințele prevăzute la alin. (3) trebuie satisfăcute prin
+prevederea corespunzătoare a redundanței și diversității
+sistemelor, separare fizică și proiectare în vederea asigurării
+unei stări sigure la defectare, astfel încât să fie atinse
+următoarele obiective:
+a) prevenirea izbucnirii incendiilor;
+b) detectarea și stingerea rapidă a incendiilor izbucnite, în
+scopul limitării consecințelor;
+c) prevenirea propagării acelor incendii care nu au fost
+stinse, în scopul minimizării efectelor acestora asupra funcțiilor
+generale de securitate nucleară menționate la alin. (3).
+(5) Îndeplinirea obiectivului menționat în alin. (4) lit. a) cere
+ca proiectul unității să fie astfel conceput încât să fie
+minimizată probabilitatea izbucnirii unui incendiu.
+(6) Îndeplinirea obiectivului menționat în alin. (4) lit. b) cere
+detectarea în timp util a incendiilor și stingerea acestora, prin
+combinarea sistemelor automate și/sau manuale de stingere a
+incendiilor.
+(7) Îndeplinirea obiectivului menționat în alin. (4) lit. c) cere
+utilizarea separării fizice, respectiv utilizarea barierelor de foc
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 500/9.VI.2006
+și amplasarea acestora la distanțe de siguranță, pentru
+prevenirea propagării incendiului la orice sursă de pericol
+radiologic, inclusiv la instalațiile ce conțin combustibil uzat și
+deșeuri radioactive.
+(8) Pentru protecția împotriva exploziilor trebuie luate
+următoarele măsuri, în ordinea importanței:
+a) prevenirea formării atmosferelor explozive și a apariției
+surselor de inițiere a exploziilor;
+b) minimizarea riscurilor de producere a unei explozii, în
+cazul în care nu s-a putut evita formarea unei atmosfere
+explozive;
+c) proiectarea și implementarea măsurilor necesare limitării
+consecințelor unei explozii.
+Principii de bază pentru proiectarea protecției la incendiu
+
+Art. 10. — (1) Protecția la incendiu a unității trebuie să
+respecte principiile enumerate în prezentul articol, ținându-se
+seama de obiectivele prevăzute la art. 9.
+(2) Protecția la incendiu a unității trebuie să fie astfel
+proiectată încât probabilitatea apariției unui incendiu sau a
+unei explozii și efectele acestora să fie minime și să fie
+menținute funcțiile generale de securitate nucleară menționate
+la art. 9 alin. (3).
+(3) Clădirile care adăpostesc SSCE importante pentru
+securitatea nucleară trebuie proiectate astfel încât să fie
+rezistente la foc, să fie împărțite în compartimente de incendiu
+care să separe aceste SSCE față de pericolul de incendiu și,
+de asemenea, să separe între ele SSCE redundante
+importante pentru securitatea nucleară.
+(4) În cazurile excepționale în care nu se poate practica
+împărțirea în compartimente de incendiu în conformitate cu
+cerințele menționate la alin. (3), trebuie prevăzute celule de
+incendiu, în care pe baza concluziilor analizei pericolelor de
+incendiu se realizează un echilibru între măsurile active și
+pasive de protecție la incendiu.
+(5) În măsura în care este practic posibil, la proiectarea
+tuturor SSCE trebuie utilizate numai materiale necombustibile;
+în cazul în care nu se pot utiliza numai materiale
+necombustibile, se întreprind măsuri pentru reducerea
+combustibilității materialelor utilizate și/sau se optează pentru
+materiale cu proprietăți de întârziere și limitare a propagării
+flăcării.
+(6) La proiectarea unității trebuie identificate potențiale
+surse de aprindere și trebuie luate măsuri pentru minimizarea
+acestora.
+(7) Clădirile care conțin materiale radioactive sau care ar
+putea afecta securitatea nucleară a unității în eventualitatea
+unui incendiu trebuie să fie rezistente la foc.
+(8) Trebuie asigurate căi de acces, intervenție și evacuare
+pentru personalul serviciului de urgență și pentru personalul
+unității.
+(9) Proiectarea protecției la incendiu trebuie realizată pe
+baze deterministe, luându-se în considerare următoarele
+ipoteze:
+a) se postulează că un incendiu poate să apară oriunde
+sunt amplasate materiale combustibile permanente sau
+tranzitorii;
+b) un singur incendiu poate să apară independent în orice
+moment de timp, într-o singură unitate de pe amplasament;
+c) se postulează că un incendiu poate să apară în orice
+stare de funcționare normală s-ar afla unitatea, atât de
+funcționare la putere, cât și de oprire.
+(10) La proiectarea măsurilor active și pasive de protecție
+la incendiu trebuie luate în considerare combinațiile relevante
+de incendiu și alte evenimente de inițiere postulate ce se pot
+produce independent față de acesta cu o probabilitate
+semnificativă.
+Corelarea cu nivelul tehnicii internaționale
+
+Art. 11. — Proiectarea protecției la incendiu a SSCE
+trebuie corelată cu nivelul exigențelor și tehnicii internaționale
+în domeniu și nu poate fi restrânsă din considerente
+economice atât timp cât această restrângere conduce la
+
+3
+
+deteriorarea capacității de îndeplinire a funcțiilor de securitate
+nucleară sau la diminuarea securității radiologice.
+ALARA
+
+Art. 12. — În contextul prezentelor norme, principiul
+ALARA trebuie aplicat.
+Defectări de cauză comună
+
+Art. 13. — (1) Incendiul este un pericol potențial care poate
+produce defectări de cauză comună ale SSCE, pentru care
+trebuie stabilite măsuri de prevenire și de limitare a efectelor.
+(2) Principalul obiectiv al prevenirii incendiilor este de a
+asigura prin măsuri pasive, cum sunt proiectarea clădirilor și
+structurilor, proiectarea și instalarea componentelor,
+echipamentelor și sistemelor redundante, că un incendiu nu
+poate provoca pierderea unei funcții de securitate nucleară.
+(3) În cazurile în care persistă potențialul pentru defectări
+de cauză comună, este necesară instalarea unuia sau mai
+multor mijloace de protecție la incendiu sau demonstrarea
+existenței unor SSCE redundante neafectate de incendiu,
+capabile să îndeplinească funcția de securitate nucleară
+respectivă.
+Managementul calității
+
+Art. 14. — În toate etapele de viață ale unității —
+proiectare, construcție-montaj, punere în funcțiune, exploatare
+și dezafectare — activitățile și practicile de protecție împotriva
+incendiilor trebuie executate în cadrul unui sistem de
+management al calității, în conformitate cu cerințele CNCAN
+pentru sistemele de management al calității în domeniul
+nuclear.
+CAPITOLUL II
+Programul de protecție la incendiu,
+obligații și responsabilități
+Programul de protecție la incendiu
+
+Art. 15. — (1) Practicile și activitățile planificate și
+coordonate între diferitele discipline și organizații care
+colaborează la realizarea protecției la incendiu a unității
+trebuie să se bazeze pe un program de protecție la incendiu,
+având obiectivele menționate în secțiunea a 3-a a cap. I.
+(2) Programul de protecție la incendiu a unității trebuie să
+extindă aplicarea principiului de îapărare în adâncime“ cu
+prioritate la acele zone ale unității considerate importante
+pentru securitatea nucleară și protecția radiologică.
+(3) Titularului autorizației îi revine responsabilitatea generală
+de gestionare a programului de protecție la incendiu a unității.
+(4) Programul de protecție la incendiu a unității, prevăzut
+la alin. (1), considerat a fi format din două părți, trebuie
+descris în următoarele documente:
+a) în Raportul preliminar de securitate și în Raportul final
+de securitate — prima parte a programului care se va referi
+la evaluarea securității nucleare și concepția proiectului
+protecției la incendiu a unității;
+b) în documentele de referință, proceduri, instrucțiuni, din
+cadrul ierarhiei documentelor centralei — a doua parte a
+programului care se va referi la organizarea protecției la
+incendiu a centralei pentru fiecare etapă de viață a centralei.
+(5) Prin descrierea programului de protecție la incendiu în
+Raportul preliminar de securitate și în Raportul final de
+securitate se înțelege menționarea acelor elemente esențiale
+ale evaluării securității nucleare, în legătură cu protecția la
+incendiu, privind SSCE importante pentru securitatea nucleară,
+în cadrul capitolelor, secțiunilor și subsecțiunilor acestor rapoarte.
+Descrierea concepției protecției la incendiu a unității, unde prin
+incendiu se înțelege un eveniment bază de proiect, se va face
+în subsecțiunea îProtecția la incendiu“ din aceste rapoarte.
+(6) Prin descrierea programului de protecție la incendiu în
+documentele de referință, proceduri, instrucțiuni din cadrul
+ierarhiei documentelor unității se înțelege descrierea modului în
+care este realizată și implementată organizarea protecției
+unității împotriva incendiului pe toată durata de viață a unității.
+(7) În anexa nr. 2 sunt prevăzute cerințele specifice
+minime adresate conținutului acestui program.
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 500/9.VI.2006
+
+Obligații și responsabilități
+
+Art. 16. — (1) Titularul de autorizație are următoarele
+obligații:
+a) să instituie realizarea programului de protecție la
+incendiu și descrierea acestuia în documentele menționate în
+art. 15; să asigure implementarea acestui program, conform
+prevederilor prezentelor norme, precum și altor norme și
+normative tehnice în vigoare, cerințelor de proiect pentru
+unitatea în cauză și practicilor internaționale;
+b) să organizeze identificarea, evaluarea și controlul
+pericolelor și riscurilor de incendiu, pe întreaga durată de viață
+a unității;
+c) să întreprindă măsurile necesare pentru elaborarea
+analizei pericolelor de incendiu specifice unității de către o
+organizație de proiectare cu experiență în elaborarea unor
+asemenea analize pentru centralele nuclearoelectrice.
+Art. 17. — (1) Titularul de autorizație poate delega, în
+parte ori în întregime, orice responsabilitate stabilită prin
+prezentele norme, cu excepția responsabilității generale, unor
+organizații agreate de CNCAN.
+(2) În situația delegării responsabilității prevăzute la
+alin. (1), titularul de autorizație are obligația:
+a) de a exercita controlul asupra activităților delegate;
+b) de a evalua activitățile delegate;
+c) de a transmite la CNCAN, în vederea aprobării,
+documentația aferentă activităților delegate, după caz.
+(3) În situația delegării responsabilității prevăzute la
+alin. (1), titularul de autorizație nu este exonerat de
+responsabilitatea generală privind protecția la incendiu.
+Art. 18. — Obligațiile organizațiilor participante la
+proiectarea clădirilor, structurilor, echipamentelor și instalațiilor
+și obligațiile executanților lucrărilor de construcții și de montaj
+de echipamente și instalații sunt reglementate în secțiunea a 7-a
+îObligațiile proiectanților și executanților“ din Ordonanța
+Guvernului nr. 60/1997 privind apărarea împotriva incendiilor,
+aprobată cu modificări prin Legea nr. 212/1997, cu modificările
+și completările ulterioare.
+Art. 19. — Organizația de exploatare a unității răspunde
+pentru: îndeplinirea cerințelor conținute în programul de
+protecție la incendiu, implementarea măsurilor administrative
+de prevenire a incendiului, întreținerea sistemelor de protecție
+împotriva incendiilor conform specificațiilor tehnice, asigurarea
+de personal calificat și echipament adecvat pentru intervenția
+la incendii, precum și pentru îndeplinirea altor obligații ce îi
+revin în temeiul prevederilor prezentei reglementări și al altor
+prevederi legale în vigoare privind prevenirea și stingerea
+incendiilor.
+Art. 20. — Responsabilitățile personalului de pe
+amplasamentul implicat în realizarea, implementarea și
+managementul programului de protecție la incendiu trebuie
+identificate și documentate. Documentația trebuie să includă
+identificarea posturilor, responsabilitățile specifice, autoritatea și
+ierarhia de comandă, pozițiile în schema organizatorică. Ariile
+de responsabilitate identificate trebuie să includă cel puțin
+următoarele:
+a) măsurile administrative pentru controlul materialelor
+combustibile și al surselor de aprindere;
+b) inspecția, întreținerea și testarea mijloacelor pasive și
+active de protecție la incendiu;
+c) capabilitățile de intervenție manuală la incendiu;
+d) planurile de urgență, inclusiv relațiile cu organizațiile din
+afara amplasamentului implicate în intervenția la incendii pe
+amplasament;
+e) revizia modificărilor centralei în scopul evaluării efectelor
+acestora asupra protecției la incendiu;
+f) pregătirea personalului în domeniul protecției la incendiu
+și simulările de incendiu;
+g) sistemul de management al calității aplicat în protecția
+împotriva incendiilor;
+h) sistemul de management al înregistrărilor, inclusiv
+mijloacele pentru documentarea și analiza incendiilor pe
+
+amplasament și urmărirea implementării acțiunilor corective
+rezultate;
+i) revizia și actualizarea analizei pericolelor de incendiu.
+CAPITOLUL III
+Analiza pericolelor de incendiu
+Obiective
+
+Art. 21. — (1) O analiză a pericolelor de incendiu,
+abreviată în continuare API, trebuie realizată pe baze
+deterministe și actualizată pentru fiecare unitate pentru a
+demonstra îndeplinirea obiectivelor protecției la incendiu,
+proiectarea adecvată a măsurilor active și pasive de protecție
+la incendiu și pentru a recomanda, după caz, măsuri
+compensatorii de protecție la incendiu.
+(2) API trebuie elaborată inițial în faza de început a
+proiectării unității și trebuie actualizată înaintea primei încărcări
+cu combustibil nuclear a unității.
+(3) API trebuie să demonstreze modul în care au fost
+luate în considerare posibilele consecințe ale incendiilor și ale
+funcționării sistemelor de protecție la incendiu.
+(4) API se complementează cu analiza probabilistică de
+securitate nucleară pentru evenimente de tip incendiu.
+Împreună cu evenimentele de inițiere considerate în Evaluarea
+probabilistică de securitate de nivel 1, incendiile trebuie
+analizate în scopul evaluării măsurilor de protecție la incendiu
+și al identificării și cuantificării riscurilor pentru securitatea
+nucleară aferente producerii incendiilor în unitate.
+Art. 22. — Prin API, aplicată întregii unități, se urmărește:
+a) identificarea SSCE importante pentru securitatea
+nucleară din unitate și a amplasării componentelor individuale
+în compartimentele și celulele de incendiu;
+b) definirea incendiilor bază de proiect;
+c) analiza dezvoltării și a consecințelor incendiilor bază de
+proiect asupra SSCE importante pentru securitatea nucleară;
+d) determinarea rezistenței la foc calificate necesare pentru
+barierele de foc;
+e) stabilirea măsurilor pasive și active de protecție la
+incendiu necesare;
+f) identificarea cazurilor care necesită separări sau protecții
+suplimentare;
+g) considerarea defectărilor de cauză comună;
+h) verificarea alegerii măsurilor și mijloacelor necesare
+pentru menținerea funcțiilor generale de securitate nucleară
+prevăzute în art. 9 alin. (3), în situația unui incendiu bază de
+proiect;
+i) evaluarea efectelor secundare ale incendiilor și ale
+substanțelor de stingere a incendiilor asupra SSCE importante
+pentru securitatea nucleară.
+Metodologia și reactualizarea
+
+Art. 23. — (1) API se efectuează în conformitate cu
+metodologii recunoscute pe plan internațional, aplicabile
+centralelor nuclearoelectrice.
+(2) API se reactualizează periodic sau ca urmare a
+realizării de modificări în proiectul sau în funcționarea unității
+cu implicații asupra nivelurilor și localizării pericolelor de
+incendiu, după metodologii și proceduri specifice, aprobate de
+către titularul autorizației.
+(3) Revizia trebuie să includă orice modificări ale centralei,
+de la ultima revizie a analizei, care afectează sau ar putea
+afecta protecția la incendiu a unității. Se includ modificările
+sistemelor de protecție la incendiu, modificările SSCE
+importante pentru securitate, modificările sarcinilor termice,
+modificările proceselor sau procedurilor, temporare ori
+permanente.
+(4) La proiectarea unei unități noi, API se elaborează în
+scopul identificării cerințelor specifice de protecție la incendiu
+pentru diferitele zone. După finalizarea proiectului unității, API
+trebuie elaborată pentru a demonstra dacă funcțiile generale
+de securitate nucleară pot fi menținute în cazul tuturor
+incendiilor postulate.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 500/9.VI.2006
+Pentru unitățile în exploatare, la care API nu a fost elaborată
+în procesul de proiectare, trebuie elaborată o API care să
+evalueze dacă măsurile de protecție la incendiu prevăzute
+sunt adecvate pentru a asigura menținerea funcțiilor generale
+de securitate nucleară. Dacă în urma acestei evaluări rezultă
+că aceste măsuri sunt insuficiente și/sau inadecvate, API
+trebuie să recomande, în consecință, acțiunile corective și
+măsurile de îmbunătățire necesar a fi implementate.
+Documentația
+
+Art. 24. — (1) Rezultatele API se constituie într-o
+documentație de sine stătătoare ce trebuie prevăzută în
+rapoartele preliminare și finale de securitate nucleară; această
+documentație trebuie astfel întocmită încât să poată fi utilizată
+de titularul autorizației și de CNCAN, în special în situații care
+impun modificări ale protecției la incendiu în faza de
+exploatare a unității.
+(2) Documentația API trebuie să conțină minimum
+următoarele elemente:
+a) informațiile relevante pentru funcțiile de securitate
+nucleară și SSCE importante pentru securitatea nucleară din
+fiecare zonă a unității;
+b) ipotezele utilizate în definirea incendiilor bază de proiect;
+c) limitările analizei și ale metodologiilor aplicate;
+d) evaluarea consecințelor acțiunii focului în zonele
+prevăzute la lit. a);
+e) alte ipoteze, dacă este cazul, metodele proprii de
+evaluare folosite, referiri la metodologii practicate pe plan
+internațional și utilizate în analiză, precum și orice alte
+informații utile CNCAN și titularului de autorizație;
+f) concluzii.
+Art. 25. — (1) Concluziile analizei pericolelor de incendiu
+nu se transpun situațiilor care nu au format obiectul analizei
+decât în cazurile în care aceste situații sunt luate în
+considerare la reactualizările periodice ale analizei.
+(2) În faza de exploatare a unității, pe perioade scurte și
+zone limitate, se poate modifica nivelul mijloacelor de protecție
+împotriva incendiilor, fără reactualizarea analizei pericolelor de
+incendiu, în condițiile respectării prevederilor prezentelor
+norme, ale normelor de prevenire și stingere a incendiilor și în
+conformitate cu procedurile aprobate ale unității.
+CAPITOLUL IV
+Cerințe generale de apărare în adâncime
+pentru protecția împotriva incendiilor și exploziilor
+SECȚIUNEA 1
+Prevenirea incendiilor
+
+5
+
+Sisteme de încălzire, ventilare și climatizare
+
+Art. 29. — Componentele sistemelor de încălzire, ventilare
+și climatizare trebuie realizate din materiale necombustibile, în
+măsura în care este practic posibil.
+Echipamentul electric
+
+Art. 30. — (1) În scopul reducerii vitezei de propagare a
+focului și a consecințelor unui incendiu trebuie redusă la
+minimum utilizarea materialelor combustibile în echipamentele
+electrice, cum sunt de exemplu comutatoarele și întreruptoarele.
+(2) Traseele și suporturile pentru cablurile electrice trebuie
+confecționate din materiale necombustibile; izolațiile cablurilor
+electrice de alimentare și control pentru SSCE importante
+pentru securitatea nucleară sau ale acelor cabluri care sunt
+localizate în apropierea unor astfel de SSCE importante pentru
+securitatea nucleară trebuie să fie rezistente la foc sau să
+aibă proprietăți de întârziere și limitare a propagării flăcării
+astfel stabilite încât să nu fie pusă în pericol realizarea
+funcțiilor de securitate nucleară de către aceste SSCE.
+Echipamente ce conțin fluide combustibile
+
+Art. 31. — (1) În echipamentele unității trebuie menținut la
+minimum volumul lichidelor și gazelor inflamabile și/sau
+combustibile.
+(2) SSCE de proces se protejează la incendiu în situațiile
+în care este necesară utilizarea gazelor și lichidelor inflamabile
+și/sau combustibile.
+(3) O atenție deosebită trebuie acordată toxicității și
+efectelor asupra mediului atunci când se adoptă alternative
+incombustibile.
+(4) Trebuie luate toate măsurile pentru a preveni formarea
+de amestecuri explozive datorate acumulării de lichide
+inflamabile și/sau vapori inflamabili în materialele de izolare
+utilizate la componente amplasate în apropierea SSCE care
+conțin lichide inflamabile.
+(5) Componentele sau conductele care conțin ori
+transportă lichide combustibile sau inflamabile trebuie proiectate
+astfel încât să se reducă la minimum scurgerile. Locurile
+susceptibile de rupere sau de scurgere trebuie protejate cu
+dispozitive speciale de colectare în siguranță a scurgerilor și
+de dirijare a acestora spre locuri protejate la incendiu.
+PARAGRAFUL 2
+Controlul surselor de aprindere
+Cerințe generale
+
+Art. 32. — Sursele potențiale de aprindere trebuie
+identificate și trebuie luate măsuri pentru eliminarea lor. Acolo
+unde eliminarea nu este posibilă, sursele potențiale de
+aprindere trebuie reduse la minimum.
+Considerații de proiectare
+
+Considerații generale
+
+Art. 26. — Măsurile instituite în vederea prevenirii
+incendiilor trebuie să se refere la:
+a) limitarea utilizării materialelor combustibile;
+b) controlul surselor de aprindere;
+c) controlul pericolelor de explozie.
+PARAGRAFUL 1
+Limitarea utilizării materialelor combustibile
+Cerințe generale
+
+Art. 27. — (1) În fazele de construcție, punere în
+funcțiune, funcționare, conservare și dezafectare a unității,
+trebuie inventariate materialele combustibile și trebuie evaluate
+consecințele unor potențiale incendii, măsurile de protecție
+împotriva incendiilor trebuie justificate corespunzător.
+(2) În măsura în care este practic posibil, cantitatea de
+materiale combustibile trebuie menținută la minimum pe toate
+suprafața unității.
+Materiale de construcție
+
+Art. 28. — În măsura în care este practic posibil, trebuie
+utilizate numai materiale de construcție necombustibile.
+
+Art. 33. — (1) Prin proiectare trebuie eliminate acele
+procese care produc scântei sau flăcări; dacă nu este posibil,
+aceste procese trebuie izolate prin închideri sau amplasate la
+o distanță sigură față de materialele ori lichidele combustibile.
+(2) Trebuie identificate acele componente cu temperaturi
+ridicate ale echipamentelor localizate în apropierea materialelor
+combustibile și, dacă este necesar, trebuie amplasate la
+distanțe de siguranță sau trebuie utilizat orice alt mijloc de
+protecție prin care să se prevină aprinderea acestor materiale,
+luându-se în considerare și acele procese lente de încălzire
+cauzate de reacții chimice.
+(3) Echipamentul electric localizat în zone cu pericol de
+explozie trebuie să fie calificat pentru funcționare în acest
+mediu.
+(4) Trebuie prevăzută protecția împotriva descărcărilor
+electrice atmosferice a structurilor care conțin SSCE
+importante pentru securitatea nucleară.
+(5) Pentru echipamentele și utilajele folosite la
+manipularea, depozitarea sau transferarea lichidelor inflamabile
+sau combustibile se prevăd împământări prin legături
+corespunzătoare, pentru a preveni apariția descărcărilor
+electrostatice.
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 500/9.VI.2006
+PARAGRAFUL 3
+
+SECȚIUNEA a 2-a
+Detecția, alarmarea și stingerea incendiilor
+
+Controlul pericolelor de explozie
+Cerințe generale
+
+Art. 34. — În măsura în care este posibil, pericolele de
+explozie trebuie eliminate prin proiectare.
+Art. 35. — Lichidele și gazele inflamabile și materialele
+combustibile care ar putea contribui la formarea de amestecuri
+explozive trebuie excluse din compartimentele și celulele de
+incendiu, din zonele adiacente acestora și din zonele
+conectate cu acestea prin sisteme de ventilație. Atunci când
+aceste măsuri nu pot fi utilizate, cantitățile acestor materiale
+trebuie strict limitate, trebuie prevăzute spații de depozitare
+adecvate, iar substanțele reactive, oxidanții și materialele
+combustibile trebuie separate unele de altele.
+Art. 36. — Pericolele de explozie trebuie identificate pentru
+compartimentele și celulele de incendiu și pentru alte locații
+care constituie un pericol de explozie semnificativ. Exploziile
+chimice, cum sunt explozii ale amestecurilor de gaze, inclusiv
+explozii ale transformatoarelor cu ulei, exploziile provocate de
+expunerea la flăcări și exploziile fizice trebuie luate în
+considerare. Efectele evenimentelor de inițiere postulate, cum
+ar fi ruperea conductelor ce conțin gaze inflamabile, trebuie
+luate în considerare la identificarea pericolelor de explozie.
+Art. 37. — Pericolele de explozii fizice, cum sunt cele
+create de arcuri electrice de înaltă tensiune, trebuie minimizate
+prin selecția adecvată a componentelor și echipamentelor
+electrice și prin proiectarea sistemelor, pentru a limita
+probabilitatea de apariție, magnitudinea și durata potențialelor
+arcuri electrice.
+Măsuri de prevenire
+
+Art. 38. — Acolo unde formarea unei atmosfere inflamabile
+nu poate fi evitată, trebuie luate măsuri adecvate de
+proiectare sau operare pentru minimizarea riscurilor: limitarea
+volumelor de gaze inflamabile, eliminarea surselor de
+aprindere, debite de ventilație adecvate, selectarea de
+echipamente electrice calificate la funcționarea în atmosfere
+explozive, neutralizarea, utilizarea de dispozitive de protecție la
+suprapresiune și separarea de SSCE importante pentru
+securitatea nucleară.
+Art. 39. — În zonele cu potențial de producere a
+hidrogenului, deuteriului, tritiului sau a oricărei substanțe sub
+formă de gaz inflamabil, în condiții de operare normală sau în
+caz de accident, trebuie luate măsuri de prevenire a
+incendiului și a exploziei.
+Art. 40. — Acolo unde există un pericol potențial de
+producere a exploziilor datorită utilizării sau producerii
+hidrogenului trebuie luate măsuri pentru controlul pericolelor
+prin utilizarea echipamentelor de monitorizare, de recombinare,
+ventilație adecvată, sisteme de ardere controlată a
+hidrogenului sau alte măsuri adecvate.
+Art. 41. — Camerele bateriilor de acumulatoare trebuie
+prevăzute cu o ventilație proprie corespunzătoare pentru a
+preveni acumularea hidrogenului, iar o funcționare
+necorespunzătoare a ventilației trebuie semnalizată prin
+sistemul de detecție și alarmare a incendiului.
+Art. 42. — Depozitarea buteliilor cu gaze presurizate:
+a) nu este permisă în aproprierea transformatoarelor
+electrice, rezervoarelor cu ulei, structurilor care conțin
+materiale combustibile sau în apropierea acelor locuri care
+prezintă pericol de incendiu;
+b) trebuie efectuată de preferat în afara clădirilor; dacă
+acest lucru nu este posibil, se iau măsuri pentru minimizarea
+pericolului de explozie și pentru ca o eventuală explozie să
+nu afecteze SSCE importante pentru securitatea nucleară sau
+personalul centralei.
+Limitarea efectelor
+
+Art. 43. — Acolo unde pericolele de explozie nu pot fi
+eliminate trebuie luate măsuri pentru limitarea efectelor
+acestora.
+
+Cerințe generale
+
+Art. 44. — (1) Acolo unde sunt creditate ca elemente
+active ale protecției la incendiu, sistemele de detecție,
+alarmare și stingere a incendiului trebuie să asigure
+capacitatea de a detecta din timp și de a stinge prompt
+incendiul, iar un defect singular al acestor sisteme nu trebuie
+să le diminueze capacitatea de detectare și stingere.
+(2) Acolo unde sistemele de detecție, alarmare și stingere
+a incendiilor sunt creditate pentru protecția la incendiu ca
+urmare a unui eveniment bază de proiect aceste sisteme
+trebuie proiectate astfel încât să reziste efectelor acestui
+eveniment.
+(3) Toate sistemele de stingere a incendiilor trebuie
+proiectate și amplasate astfel încât funcționarea lor normală
+sau intempestivă ori defectarea lor să nu afecteze menținerea
+funcțiilor de securitate nucleară.
+Art. 45. — Toate sistemele de detecție și alarmare a
+incendiilor trebuie să fie complet operaționale înainte de
+aducerea combustibilului nuclear pe amplasament și trebuie să
+fie disponibile suficiente echipamente de stingere a incendiilor
+pentru protecția combustibilului în tranzit și pe perioada de
+depozitare. Toate sistemele de stingere a incendiilor trebuie să
+fie complet disponibile înainte de încărcarea inițială a
+combustibilului în reactor.
+PARAGRAFUL 1
+Sisteme de detecție și alarmare
+Cerințe generale
+
+Art. 46. — (1) Unitatea trebuie prevăzută cu un sistem
+fiabil de detecție automată a incendiului pentru fiecare
+compartiment sau celulă de incendiu și de alarmare detaliată
+în camera de comandă principală, astfel încât să existe timp
+suficient de răspuns pentru stingere, evacuare sau pentru alte
+acțiuni necesare limitării efectelor incendiului, cu excepția
+zonelor unde se poate demonstra că asemenea sisteme nu
+sunt practice sau nu sunt necesare.
+(2) Sistemele de detecție și alarmare trebuie prevăzute cu
+sisteme neîntreruptibile de alimentare cu energie electrică și
+cabluri de alimentare corespunzătoare, rezistente la foc.
+Detecția
+
+Art. 47. — (1) Detectorii de incendiu trebuie selectați și
+poziționați în conformitate cu rezultatele analizei de pericol la
+incendiu, acordându-se atenție:
+a) accesibilității pentru întreținere și testare și reducerii
+alarmelor false;
+b) flexibilității, pentru a se permite adăugarea sau
+repoziționarea detectorilor în timpul punerii în funcțiune și/sau
+în timpul funcționării unității;
+c) declanșării lor nedorite de către factori de mediu, cum
+ar fi căldura solară.
+(2) Trebuie să se țină seama de faptul că există
+componente în câmpul tehnologic al sistemului de detecție,
+cum sunt circuitele electronice, ale căror performanțe pot fi
+afectate pe termen lung de intensitățile mari ale câmpului
+radiațiilor ionizante; dacă este necesar, trebuie utilizați
+detectori a căror funcționare nu este influențată de prezența
+radiațiilor ionizante; ecranarea detectorilor împotriva radiațiilor
+ionizante nu trebuie să compromită funcția detectorului;
+componentele sensibile ale sistemului de detecție din câmpul
+tehnologic trebuie poziționate în zone cu o intensitate scăzută
+a radiației ionizante sau trebuie asigurată ecranarea lor.
+(3) Dispozitivele de detecție și semnalizare și circuitele
+aferente trebuie poziționate și protejate într-un astfel de mod
+încât defectarea acestora datorată incendiului să nu aibă loc
+înainte ca incendiul să fie detectat și semnalizat.
+Alarmarea
+
+Art. 48. — Sistemul de alarmare la incendiu trebuie să
+monitorizeze componentele sistemelor de protecție la incendiu,
+cum sunt vanele principale de izolare ale sistemului de
+
+7
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 500/9.VI.2006
+alimentare cu apă de incendiu, armăturile automate de
+declanșare a sistemelor de stingere pe bază de apă, starea
+pompelor de apă de incendiu și nivelul din rezervoarele de
+apă de incendiu, armăturile automate de descărcare a gazelor,
+pulberilor stingătoare și a spumei, sistemele de evacuare a
+fumului cu acționare automată, precum și alte componente
+care fac parte din sistem.
+Art. 49. — (1) Sistemul de alarmare la incendiu trebuie să
+furnizeze cel puțin următoarele informații:
+a) alarme sonore și vizuale;
+b) indicarea funcțiilor de control inițiate direct de sistemul
+de detecție la incendiu;
+c) indicarea locului de unde provine semnalul de alarmare,
+prin localizarea dispozitivului sau prin localizarea
+compartimentului ori zonei de incendiu;
+d) situația alimentării cu energie a sistemelor de detecție
+și de alarmare la incendiu;
+e) indicarea apariției unor condiții anormale în sistemele de
+stingere a incendiului.
+(2) Sistemul de alarmare la incendiu va furniza alarme
+sonore și optice în camera principală de comandă a unității și
+la serviciul privat pentru situații de urgență de pe
+amplasament.
+(3) Trebuie să existe mijloace de alarmare a incendiului în
+întreaga unitate; în locurile cu un nivel ridicat de zgomot
+trebuie prevăzută, după caz, semnalizarea stroboscopică.
+(4) Trebuie prevăzută o sursă de alimentare cu energie
+astel încât alimentarea sistemului de detecție și alarmare a
+incendiului să fie asigurată un timp suficient pentru ca
+sistemul să își îndeplinească funcțiile.
+PARAGRAFUL 2
+Sisteme de stingere a incendiilor
+Cerințe generale
+
+Art. 50. — (1) Sistemele de stingere și/sau măsurile de
+separare la foc trebuie să corespundă pericolelor la incendiu
+identificate în API.
+(2) Acolo unde protecția la incendiu a SSCE importante
+pentru securitatea nucleară este realizată prin sistemele de
+stingere a incendiului ca mijloace principale de stingere,
+aceste sisteme de stingere trebuie să aibă capacitatea
+corespunzătoare, fără a fi necesare echipamentele-suport sau
+de intervenție din exteriorul centralei.
+Art. 51. — La proiectarea, executarea și exploatarea
+sistemelor și instalațiilor de stingere a incendiilor se vor
+respecta prevederile Normativului pentru proiectarea,
+executarea și exploatarea instalațiilor de stingere a incendiilor,
+indicativ NP 086-05, în măsura în care acestea nu contravin
+altor reglementări.
+Sisteme fixe de stingere a incendiilor
+
+Art. 52. — Se prevăd sisteme fixe de stingere a incendiilor,
+după caz, acolo unde:
+a) zonele unității prezintă densități de sarcini termice
+importante;
+b) zonele unității nu prezintă densități de sarcini termice
+importante, dar prezintă mediu de propagare rapidă a focului
+datorită conținutului de materiale combustibile și condițiilor
+fizice existente;
+c) zonele sau echipamentele au potențial de întreținere a
+incendiului;
+d) zonele sunt inaccesibile sau accesul în aceste zone
+este dificil;
+e) intervenția nu este posibilă datorită pericolelor existente;
+f) incendiul are potențialul de a afecta SSCE importante
+pentru securitatea nucleară.
+Acționarea automată
+
+Art. 53. — Toate sistemele fixe de stingere a incendiilor
+trebuie prevăzute cu acționare automată și cu sisteme de
+acționare manuală proiectate să reziste acțiunii incendiului pe
+durata de timp necesară acționării lor de către operatori.
+Art. 54. — Sistemele fixe de stingere a incendiilor cu
+acționare automată trebuie prevăzute cu mijloace de oprire
+
+manuală, pentru
+intempestive.
+
+a
+
+permite
+
+întreruperea
+
+acționărilor
+
+Considerarea efectelor dăunătoare
+
+Art. 55. — Proiectarea fiecărui sistem fix de stingere a
+incendiilor trebuie să se bazeze pe evaluarea incendiilor bază
+de proiect pentru zona pe care o protejează, astfel încât
+sistemul să stingă incendiul în cea mai eficientă manieră. În
+plus, următorii factori trebuie luați în considerare:
+a) efectele dăunătoare ale eliberării agenților de stingere
+asupra echipamentelor care ard și asupra altor echipamente
+aflate în aceeași zonă de incendiu, cum sunt: inundațiile,
+încărcările suplimentare ale structurilor, scurtcircuitele, efectele
+de răcire, presurizarea, coroziunea;
+b) considerente legate de protecția muncii pentru operatori
+și echipele de intervenție, cum sunt șocurile electrice sau
+gazele toxice.
+Sistemele de stingere pe bază de gaze
+
+Art. 56. — (1) Trebuie să se renunțe la sistemele de
+stingere cu halon, în contextul internațional al eliminării acestui
+tip de agent de stingere a incendiilor.
+(2) Zonele în care se renunță la sistemele de stingere cu
+halon trebuie protejate prin una sau mai multe combinații ale
+următoarelor măsuri, după caz, iar proiectul specific trebuie să
+se bazeze pe analiza pericolelor de incendiu în zonele în
+cauză:
+a) îmbunătățirea prevenirii incendiului și utilizarea barierelor
+de foc;
+b) echiparea cu un sistem fiabil de detecție a focului
+pentru a asigura stingerea în timp util a incendiului;
+c) instalarea unui alt sistem, aprobat, de stingere cu gaz.
+(3) Agentul gazos de stingere poate afecta semnificativ
+abilitatea operatorilor din camera de comandă a centralei în
+îndeplinirea atribuțiilor și în consecință aceste efecte trebuie
+luate în considerare în procesul de selectare a sistemului de
+stingere și în detaliile de proiectare.
+Sisteme de stingere pe bază de pulberi sau alți agenți chimici
+
+Art. 57. — Tipul pulberii sau al agentului chimic trebuie
+selecționat în așa fel încât să fie compatibil cu pericolul
+identificat de analiza pericolelor de incendiu.
+Art. 58. — Trebuie acordată atenție utilizării acestor
+sisteme în zone în care este posibilă contaminarea cu
+materiale radioactive. De asemenea, trebuie luată în
+considerare posibilitatea colmatării filtrelor.
+Sistemele de stingere pe bază de apă
+
+Art. 59. — (1) Sistemele de stingere pe bază de apă
+trebuie să fie în permanență conectate la o sursă adecvată și
+fiabilă de apă de incendiu.
+(2) Următorii factori trebuie luați în cosiderare la
+proiectarea sistemelor de stingere pe bază de apă: tipurile și
+caracteristicile hidraulice, geometrice și funcționale ale
+capetelor de sprinklere sau ale armăturilor de descărcare,
+amplasarea și distanțele dintre acestea, temperaturile de
+declanșare și timpul de răspuns al dispozitivelor de acționare
+sau al capetelor de sprinklere, intensitățile de stropire, debitele
+specifice ale capetelor și duzelor de refulare a apei și altele.
+Art. 60. — Potențialele căi de scurgere a apei spre
+echipamentele electrice și de control al unității trebuie
+identificate la proiectare. În acest sens trebuie să existe o
+coordonare între proiectanții echipamentelor electrice și
+proiectanții clădirilor sau structurilor pentru a reduce la
+minimum deteriorarea echipamentelor și pierderea funcțiilor de
+proces sau de securitate.
+Hidranți exteriori și interiori
+
+Art. 61. — Suplimentar față de alte măsuri de protecție la
+incendiu, toate zonele accesibile ale centralei trebuie
+prevăzute cu un sistem de hidranți exteriori sau interiori, cu
+excepția acelor zone pentru care această măsură de protecție
+nu este realizabilă practic sau nu este necesară.
+Art. 62. — Clădirea reactorului trebuie prevăzută cu un
+sistem de cămine de alimentare și furtunuri, cu sistem de
+acționare locală și de la distanță.
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 500/9.VI.2006
+
+Art. 63. — Suficiente accesorii adecvate, cum sunt
+furtunurile, reducțiile, dispozitivele pentru obținerea spumei și
+duzele, trebuie să fie disponibile în locații strategice pe
+amplasament, identificate în analiza pericolelor de incendiu.
+PARAGRAFUL 3
+Sistemul de alimentare cu apă de incendiu
+Cerințe generale
+
+Art. 64. — (1) Sistemul de alimentare cu apă de incendiu
+trebuie dimensionat astfel încât să furnizeze necesarul de apă
+de incendiu pentru cazurile postulate de incendiu cele mai
+defavorabile.
+(2) Trebuie prevăzute două surse separate și sigure de
+apă filtrată. Poate fi acceptată o singură sursă, dacă aceasta
+este suficient de mare — lac natural sau artificial, râu sau
+fluviu —, și două puncte independente de alimentare.
+(3) Acolo unde se utilizează rezervoare de apă de
+incendiu, acestea trebuie să aibă împreună o capacitate dublă
+față de cea necesară, fiecare din rezervoare fiind capabil să
+asigure 100% din necesarul de apă de incendiu; sursa de
+apă de incendiu trebuie să aibă o capacitate suficientă pentru
+umplerea fiecărui rezervor în timpul teoretic pentru refacerea
+rezervei de apă de incendiu. Rezervoarele trebuie
+interconectate astfel încât pompele de incendiu să poată
+aspira apă din oricare dintre ele sau din ambele. Fiecare
+rezervor trebuie să poată fi izolat în cazul unei defecțiuni.
+(4) Distribuirea apei de incendiu trebuie să se facă
+printr-un circuit principal, în așa fel încât apa să ajungă pe
+două direcții la fiecare conexiune.
+(5) Pentru fiecare clădire trebuie să existe cel puțin două
+branșamente la circuitul principal.
+Art. 65. — (1) Apa de incendiu se utilizează numai în
+scopul stingerii incendiilor.
+(2) Sistemul de distribuție a apei de incendiu nu trebuie
+interconectat cu alte sisteme de alimentare cu apă ale
+centralei decât în scopul utilizării acestor sisteme ca rezervă
+de alimentare cu apă pentru sistemele de stingere a
+incendiilor sau pentru menținerea unei funcții de securitate în
+cazul producerii unui accident.
+(3) Interconexiunile dintre sistemul de alimentare cu apă de
+incendiu și alte sisteme ale unității trebuie prevăzute cu vane
+de izolare menținute închise în funcționare normală, echipate
+cu dispozitive de monitorizare a poziției.
+Art. 66. — Pe amplasamentele cu mai multe unități se pot
+utiliza sursă de apă și circuit principal de distribuție comune,
+adecvat dimensionate pentru deservirea numărului respectiv de
+unități.
+Vane de izolare
+
+Art. 67. — (1) Utilizarea vanelor de izolare în circuitul
+principal și la fiecare racordare se face astfel încât izolarea
+oricărui echipament, racord sau secțiune a circuitului principal
+să nu producă o disfuncționalitate în alimentarea cu apă a
+sistemelor și echipamentelor de stingere a incendiului din
+unitate.
+(2) Vanele de izolare din sistemul de distribuție a apei se
+prevăd cu indicatori vizuali locali de poziție.
+Aceste vane se amplasează la distanță suficientă față de
+pericolul de incendiu identificat prin API pentru a nu fi afectate
+de incendiu.
+Asigurarea necesarului de apă de incendiu
+
+Art. 68. — (1) Sistemul de alimentare cu apă de incendiu
+trebuie să fie capabil să furnizeze debitul necesar sistemului
+fix de stingere cu cererea cea mai mare de apă, plus
+necesarul de apă la o presiune adecvată alimentării hidranților,
+pentru durata teoretică de funcționare a sistemului de
+alimentare cu apă de incendiu, în conformitate cu cerințele de
+proiectare.
+(2) Sistemul de alimentare cu apă de incendiu trebuie
+supus unei analize hidraulice pentru a stabili, prin calcul,
+existența unui debit și a unei presiuni adecvate în punctul cel
+mai îndepărtat al sistemului.
+
+(3) Trebuie asigurate măsuri pentru prevenirea înghețului
+părților sistemului de alimentare cu apă de incendiu expuse
+temperaturilor joase.
+Pompele de apă de incendiu
+
+Art. 69. — (1) Pompele de apă de incendiu trebuie să fie
+redundante și adecvat separate de pericolul de incendiu,
+pentru a se asigura funcționarea adecvată a sistemelor de
+stingere a incendiilor.
+(2) Pompele de apă de incendiu trebuie prevăzute cu
+posibilitatea de control independent, cu pornire automată și
+oprire manuală, cu metode de acționare și surse de
+alimentare cu energie, de bază și de rezervă.
+Monitorizarea sistemului de alimentare cu apă de incendiu
+
+Art. 70. — Trebuie monitorizate și afișate într-o cameră de
+comandă supravegheată de personal operativ următoarele
+semnale:
+a) nivelul scăzut al rezervei de apă de incendiu;
+b) întreruperea alimentării cu energie a pompelor de
+incendiu;
+c) starea pompelor de incendiu;
+d) temperatura în camera pompelor și în rezervor; această
+monitorizare se poate efectua și prin inspecții frecvente și
+măsurători de temperatură;
+e) cantitatea de combustibil, în cazul în care se folosesc
+pompe antrenate cu motoare cu combustie internă.
+PARAGRAFUL 4
+Intervenția la incendiu
+Identificarea pericolului pentru intervenția la incendiu
+
+Art. 71. — În situațiile în care se anticipează necesitatea
+unei intervenții pentru stingerea incendiilor, trebuie identificate
+pericolele potențiale pentru personalul de intervenție, incluzând
+radiațiile ionizante, tensiunile înalte, produsele chimice toxice
+etc.; pericolele identificate trebuie luate în considerare în
+cadrul analizei pericolelor de incendiu și la întocmirea
+planurilor de intervenție la incendiu.
+Accesul pentru intervenția la incendiu
+
+Art. 72. — (1) În zonele din interiorul clădirilor unității,
+pentru care necesitatea de intervenție la incendiu este
+anticipată, trebuie prevăzute căi de acces, intervenție și
+evacuare astfel stabilite, dimensionate, realizate, dispuse,
+alcătuite și marcate încât să asigure evacuarea persoanelor,
+precum și circulația și orientarea rapidă a forțelor de
+intervenție și spațiu pentru manevrarea echipamentelor de
+intervenție.
+(2) Pe amplasament trebuie asigurate căi de acces și
+circulație a autospecialelor de intervenție.
+Art. 73. — (1) Căile de acces, intervenție și evacuare
+trebuie separate de celelalte spații prin elemente de
+construcție cu rezistență și comportare la foc corespunzătoare
+utilizării în condiții de siguranță a căilor respective pe timpul
+incendiilor.
+(2) Căile de acces, intervenție și evacuare trebuie
+prevăzute, după caz, cu sisteme de evacuare a fumului și a
+gazelor fierbinți sau de presurizare.
+(3) Gabaritele căilor de acces, intervenție și evacuare nu
+trebuie în nici un fel reduse prin depozitarea permanentă sau
+temporară a oricăror materiale.
+Căile de evacuare în caz de incendiu
+
+Art. 74. — (1) Căile de evacuare a personalului în caz de
+incendiu trebuie să îndeplinească cerințele normativelor tehnice
+de protecție la incendiu în vigoare, cu excepția clădirilor
+nucleare, pentru care distanța până la cea mai apropiată cale
+de evacuare poate să depășească distanțele maxime
+prevăzute.
+(2) Căile de evacuare din clădiri și ieșirile clădirilor trebuie
+prevăzute cu mijloace de alarmare a incendiului.
+(3) Căile de evacuare trebuie marcate clar, astfel încât să
+fie ușor de identificat. Marcajele trebuie să conducă către cele
+mai scurte rute sigure posibile.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 500/9.VI.2006
+Instalații de iluminat de siguranță
+
+Art. 75. — Trebuie prevăzute instalații adecvate de iluminat
+de siguranță pentru toate căile de acces, intervenție și
+evacuare din unitate.
+Sisteme de comunicație
+
+Art. 76. — (1) Pentru toate căile de acces, intervenție și
+evacuare din unitate trebuie prevăzut un sistem fix de
+comunicații de urgență, împreună cu o sursă sigură de
+alimentare cu energie.
+(2) Trebuie, de asemenea, prevăzută o soluție alternativă
+de comunicație, cum ar fi stațiile radio de emisie-recepție cu
+caracteristici adecvate. Echipamentele trebuie testate înainte
+de încărcarea combustibilului nuclear în reactor, pentru a
+demonstra că frecvențele de transmisie și puterile utilizate nu
+cauzează interferențe cu alte sisteme ale unității.
+PARAGRAFUL 5
+Evacuarea fumului și a gazelor fierbinți
+Cerințe generale
+
+Art. 77. — Trebuie evaluate necesitățile de evacuare a
+fumului și a gazelor fierbinți, inclusiv necesitatea unui sistem
+dedicat care să îndeplinească aceste funcții în scopul
+confinării produselor de combustie și prevenirii propagării
+fumului, reducerii temperaturii și facilitării acțiunilor de
+intervenție la incendiu.
+Sisteme dedicate pentru evacuarea fumului și a gazelor fierbinți
+
+9
+
+c) existența unor căi sigure de acces al echipelor de
+intervenție și de acces la mijloacele de acționare manuală a
+sistemelor de protecție la incendiu;
+d) existența dispozitivelor și sistemelor de evacuare a
+fumului și a gazelor fierbinți produse de incendiu, acolo unde
+este necesar;
+e) controlul răspândirii agenților de stingere a incendiilor, în
+scopul prevenirii efectelor dăunătoare ale acestora asupra
+sistemelor importante pentru securitatea nucleară;
+f) menținerea funcțiilor generale de securitate nucleară
+prevăzute la art. 9 alin. (3).
+Amplasare
+
+Art. 82. — Amplasarea clădirilor și a echipamentelor, a
+sistemelor de ventilație și a sistemelor de protecție la incendiu
+trebuie luată în considerare la stabilirea măsurilor de atenuare
+a efectelor incendiilor.
+Bariere de foc
+
+Art. 83. — Pentru reducerea posibilităților de propagare a
+incendiului și a efuenților acestuia, se prevăd prin proiect
+bariere de foc între sau în interiorul sistemelor centralei.
+Evaluarea rezistenței la foc
+
+Art. 84. — Evaluarea rezistenței la foc a elementelor de
+construcție se face în conformitate cu prevederile
+reglementărilor tehnice, specificațiilor tehnice și referențialelor
+aplicabile în vigoare și trebuie să îndeplinească și să asigure
+criteriile și nivelurile de performanță prevăzute de acestea.
+Închiderile
+
+Art. 78. — La proiectarea sistemelor de evacuare a
+fumului și a gazelor fierbinți trebuie avute în vedere
+următoarele aspecte: sarcina termică, propagarea fumului,
+vizibilitatea, toxicitatea, accesul echipelor de intervenție, tipurile
+de sisteme fixe de stingere a incendiului utilizate și aspectele
+radiologice.
+Art. 79. — Dimensionarea sistemelor de evacuare a
+fumului și a gazelor fierbinți se face în urma evaluării
+cantităților de fum și căldură produse în incendiul bază de
+proiect pentru compartimentul sau celula de incendiu
+respectivă. Cel puțin următoarele locații trebuie prevăzute cu
+dispozitive și sisteme de evacuare a fumului și a gazelor
+fierbinți:
+a) zonele unității care prezintă densități de sarcini termice
+importante datorate prezenței cablurilor electrice;
+b) zonele unității care prezintă densități de sarcini termice
+importante datorate prezenței lichidelor inflamabile;
+c) zonele unității ce conțin sisteme importante pentru
+securitatea nucleară și sunt în mod normal ocupate de
+personal de operare, ca de exemplu camera principală de
+comandă.
+
+Art. 85. — Dispozitivele de închidere montate pe
+tubulaturile de ventilație, sistemele de evacuare a fumului și a
+gazelor fierbinți și elementele de protejare a golurilor din
+elementele cu rol de separare la incendiu, cum sunt: uși,
+clapete antifoc, obloane antifoc, voleți, suprafețe vitrate și
+altele se testează în conformitate cu prevederile
+reglementărilor tehnice, specificațiilor tehnice și referențialelor
+în vigoare aplicabile și trebuie să îndeplinească și să asigure
+criteriile și nivelurile de performanță prevăzute de acestea.
+
+PARAGRAFUL 6
+
+PARAGRAFUL 2
+Separarea
+
+Certificarea echipamentului de protecție la incendiu
+
+Art. 80. — Toate echipamentele de protecție la incendiu
+trebuie certificate de către organizații abilitate prin lege să
+certifice asemenea echipamente.
+SECȚIUNEA a 3-a
+Limitarea propagării și a efectelor incendiilor
+PARAGRAFUL 1
+Considerații generale
+Cerințe generale
+
+Art. 81. — La stabilirea măsurilor de limitare a propagării
+și a efectelor incendiilor trebuie avute în vedere următoarele
+obiective:
+a) confinarea flăcărilor și a efluenților incendiilor într-un
+spațiu limitat, pentru a minimiza posibilitățile de propagare a
+incendiilor și efectele acestora asupra locațiilor adiacente;
+b) existența unor căi sigure de acces și de evacuare a
+personalului;
+
+Trecerile
+
+Art. 86. — (1) Numărul trecerilor practicate în elementele
+de separare la incendiu pentru cabluri și conducte trebuie
+menținut la minim.
+(2) Trecerile practicate în elementele de separare la
+incendiu pentru cabluri și conducte trebuie etanșate cu
+elemente ce au caracteristici de rezistență la foc echivalente
+elementelor de separare la incendiu.
+(3) Etanșările trecerilor se proiectează astfel încât să
+prevină propagarea flăcărilor, să realizeze izolarea termică a
+părții care nu este expusă incendiului și să reziste la impactul
+jetului de apă de la furtunurile de incendiu.
+
+Amplasarea la distanțe de siguranță
+
+Art. 87. — În locul elementelor de separare la incendiu se
+poate utiliza amplasarea la distanțe de siguranță, acolo unde,
+după caz:
+a) nu există materiale combustibile care să propage
+incendiul;
+b) este evaluat transferul de căldură și produse de
+combustie, pentru toate incendiile bază de proiect din zona
+considerată, și se poate demonstra că nu există în acea zonă
+un risc inacceptabil pentru SSCE importante pentru securitatea
+nucleară;
+c) sunt prevăzute mijloace și măsuri adecvate de prevenire
+a incendiilor.
+Separarea între grupurile de sisteme de securitate
+
+Art. 88. — (1) Separarea grupurilor de sisteme de
+securitate ale unității trebuie realizată astfel încât cel puțin un
+grup să rămână disponibil în caz de incendiu, pentru a
+îndeplini funcțiile generale de securitate nucleară.
+(2) Grupurile de sisteme de securitate se separă prin
+bariere de foc, prin amplasarea la distanțe de siguranță sau
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 500/9.VI.2006
+
+printr-o combinare a celor două; separarea combinată trebuie
+astfel realizată încât căldura, fumul și alte efecte ale
+incendiului sau ale acțiunilor de protecție împotriva incendiilor
+să fie reduse sub un nivel care să nu conducă la afectarea
+SSCE importante pentru securitatea nucleară și/sau a
+cablurilor atașate acestor sisteme.
+(3) În interiorul fiecărui grup echipamentele, componentele
+și cablurile redundante trebuie separate prin distanțare
+orizontală și/sau verticală.
+(4) Sunt exceptate de la prevederile prezentului articol
+SSCE importante pentru securitatea nucleară, care nu sunt
+susceptibile de a fi avariate de un potențial incendiu.
+PARAGRAFUL 3
+Ventilația
+Cerințe generale
+
+Art. 89. — Pentru îndeplinirea obiectivelor menționate la
+art. 81, sistemele de ventilație trebuie proiectate astfel încât
+funcționarea lor să nu compromită compartimentarea la
+incendiu sau disponibilitatea sistemelor importante pentru
+securitatea nucleară și să nu contribuie la propagarea sau
+dezvoltarea incendiilor.
+Clapete antifoc
+
+Art. 90. — Trebuie prevăzute clapete antifoc pe canalele
+de ventilație, la limita compartimentelor de incendiu, la
+trecerea prin barierele de incendiu; acolo unde propagarea
+fumului prin canalele de ventilație, gurile de aspirație a aerului
+viciat sau gurile de introducere a aerului poate pune în pericol
+personalul și/sau echipamentele, trebuie prevăzute clapete și
+în interiorul unui compartiment de incendiu, la limita încăperilor
+aflate în același compartiment de incendiu; în situațiile în care
+aceste măsuri sunt impracticabile, se evaluează efectele
+fumului și ale gazelor fierbinți generate de incendii și se iau
+măsurile protective echivalente.
+Art. 91. — Părțile sistemelor de ventilație cum sunt
+canalele de ventilație, camerele ventilatoarelor și filtrele,
+amplasate în afara compartimentelor de incendiu, trebuie să
+aibă aceeași rezistență la foc ca și compartimentele respective
+sau să poată fi izolate de acestea prin clapete de foc cu
+rezistență la foc corespunzătoare.
+Controlul ventilației între zone
+
+Art. 92. — În cazurile în care o zonă este ventilată printr-o
+altă zonă și controlul ventilației nu poate fi determinat numai
+în baza criteriilor de protecție la incendiu, atunci este
+necesară evaluarea consecințelor produșilor de combustie
+degajați într-un incendiu asupra SSCE importante pentru
+securitatea nucleară; acolo unde este necesar, trebuie
+prevăzute clapete antifoc în deschiderile de evacuare ale
+camerei din amonte, pentru controlul manual de la distanță al
+evacuării fumului și gazelor fierbinți.
+Amplasarea prizelor de aer proaspăt
+
+Art. 93. — Prizele pentru alimentarea cu aer proaspăt în
+toate zonele trebuie dispuse la distanță de evacuările de aer,
+de gurile de evacuare a fumului, precum și de orice zonă
+care prezintă pericol extern de incendiu, cum ar fi
+transformatoarele electrice și rezervoarele de ulei; dacă o
+asemenea poziționare nu se poate realiza, trebuie prevăzute
+mijloace automate pentru închiderea admisiei aerului.
+Camerele de comandă
+
+Art 94. — Camera de comandă principală și camera de
+comandă secundară trebuie prevăzute cu sisteme separate de
+ventilație.
+Ventilația căilor de evacuare
+
+Art. 95. — Ventilația căilor de evacuare trebuie proiectată
+astfel încât să reducă la minimum infiltrarea fumului în timpul
+unui incendiu.
+
+PARAGRAFUL 4
+Pericole radiologice în caz de incendiu
+
+Art. 96. — (1) Echipamentele care ar putea provoca
+eliberări de substanțe radioactive în eventualitatea producerii
+unui incendiu trebuie identificate în API.
+(2) Aceste echipamente trebuie amplasate în
+compartimente de incendiu separate, în care sarcinile termice
+fixe și tranzitorii se mențin la minimum.
+Art. 97. — (1) În cazul în care la proiectare se identifică
+necesitatea ventilării compartimentelor de incendiu ce conțin
+materiale radioactive, în scopul prevenirii directe sau prin
+crearea de condiții pentru intervenție a unei eliberări mai mari
+de substanțe radioactive se disting următoarele situații:
+a) se demonstrează că potențialele eliberări de substanțe
+radioactive nu depășesc limitele legale admisibile;
+b) cantitatea de substanțe radioactive eliberate poate
+depăși limitele legale admisibile; în această situație trebuie
+prevăzute clapete antifoc sau posibilitatea de închidere a
+sistemului de ventilație.
+(2) În ambele situații de mai sus trebuie prevăzute măsuri
+pentru monitorizarea aerului ventilat.
+PARAGRAFUL 5
+Considerații privind seismicitatea
+Cerințe generale
+
+Art. 98. — La proiectarea unității:
+a) trebuie luate în considerare posibilitatea izbucnirii unui
+incendiu și potențialele defectări ale sistemelor de protecție în
+timpul sau după producerea unui seism;
+b) trebuie evaluate consecințele incendiilor asupra acelor
+sisteme care conțin lichide și gaze inflamabile și care nu sunt
+calificate la seismul bază de proiect; în situația în care
+consecințele evaluării sunt inacceptabile, este obligatorie
+prevederea de mijloace de protecție la incendiu sau bariere
+de foc calificate la seism.
+Calificarea la seism a sistemelor suport
+
+Art. 99. — (1) Sistemele de protecție la incendiu trebuie
+să fie prevăzute cu sisteme suport având același nivel de
+calificare seismică.
+(2) În cazul în care sistemele de stingere a incendiului
+sunt acționate manual, trebuie prevăzută o cale de acces la
+locul acționării, calificată seismic corespunzător.
+Începuturi de incendiu provocate de seism
+
+Art. 100. — Se vor prevedea măsuri corespunzătoare de
+stingere în zonele centralei în care pot apărea începuturi de
+incendiu după un seism. În acest sens se asigură un număr
+suficient de stingătoare portative pentru acele zone importante
+pentru funcționarea centralei.
+CAPITOLUL V
+Cerințe de protecție la incendiu în fazele de construcție
+și punere în funcțiune
+SECȚIUNEA 1
+Cerințe de protecție la incediu în faza de construcție
+Protecția unităților aflate în faza de exploatare
+
+Art. 101. — Pentru unitățile centralei, aflate în faza de
+exploatare, trebuie asigurată protecția față de pericolul de
+incendiu generat de unitățile adiacente aflate în faza de
+construcție.
+Riscuri temporare de incendiu
+
+Art. 102. — (1) Zonele unităților în funcțiune ale centralei
+nu trebuie folosite pentru depozitarea temporară a
+echipamentelor și a materialelor utilizate în construcția
+celorlalte unități ale centralei.
+(2) Acolo unde unitățile de pe amplasament au o zonă
+comună pentru depozitarea temporară a echipamentelor și a
+materialelor utilizate în construcția celorlalte unități trebuie
+luate măsuri corespunzătoare de protecție contra incendiului.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 500/9.VI.2006
+SECȚIUNEA a 2-a
+Cerințe de protecție la incendiu în faza de punere în funcțiune
+Punerea în funcțiune a sistemelor de protecție la incendiu
+
+Art. 103. — Sistemele permanente de detecție, alarmare și
+stingere a incendiilor, precum și sistemele suport aferente
+trebuie puse în stare de funcționare conform procedurilor
+aprobate în programul de protecție la incendiu pentru faza de
+punere în funcțiune a unității.
+Intervenția la incendiu
+
+Art. 104. — De la momentul începerii punerii în funcțiune
+a unității trebuie să fie disponibilă, în fiecare tură, o echipă
+de intervenție, organizată și antrenată în conformitate cu
+prevederile legale în vigoare.
+Inspectarea și testarea sistemelor de detecție, alarmare și
+stingere a incendiilor
+
+Art. 105. — La punerea în funcțiune a unității, în afara
+cerințelor generale de punere în funcțiune pentru sistemele de
+proces ale unității, toate sistemele de detecție, alarmare și
+stingere a incendiilor trebuie inspectate și testate în
+conformitate cu specificațiile tehnice ale acestor sisteme și cu
+procedurile specifice acestei faze.
+Verificarea barierelor de foc
+
+Art. 106. — Trebuie inspectate în teren, de către personal
+cu experiență în sisteme de protecție la incendiu și cunoștințe
+privind evaluarea pericolelor de incendiu pentru unitate, toate
+componentele barierelor de foc, inclusiv pereții și planșeele
+calificate la incendiu, protecțiile la foc ale structurilor metalice,
+etanșările trecerilor, ușile rezistente la foc, clapetele antifoc
+și clapetele de fum, dispozitivele de evacuare a fumului și a
+gazelor fiebinți, precum și alte dispozitive cu funcție protectivă
+la incendiu; componentele active trebuie testate funcțional.
+Revizia generală și inspecția
+
+Art. 107. — La punerea în funcțiune a unității, trebuie
+efectuată o evaluare integrală, pe amplasament, a sistemelor
+de protecție la incendiu pentru verificarea îndeplinirii cerințelor
+de proiectare pentru aceste sisteme; rezultatele evaluării se
+consemnează conform procedurilor specifice acestei faze.
+CAPITOLUL VI
+Cerințe de protecție la incendiu în faza de exploatare
+SECȚIUNEA 1
+Prevenirea incendiilor
+Pregătirea personalului unității
+
+Art. 108. — În cadrul programelor de pregătire, personalul
+unității trebuie instruit astfel încât să posede cunoștințe de
+bază privind prevenirea incendiilor, să cunoască folosirea
+stingătoarelor și activitățile desfășurate în situații de incendiu,
+precum și modul de raportare a incendiilor.
+Menținerea la minimum a inventarului de material combustibil
+
+Art. 109. — În faza de exploatare a unității, materialele
+combustibile neesențiale nu sunt permise în vecinătatea SSCE
+importante pentru securitatea nucleară și a cablurilor acestora,
+în interiorul camerei principale și secundare de comandă și în
+camerele în care este localizat echipamentul asociat.
+Art. 110. — Trebuie stabilite și implementate proceduri
+administrative pentru controlul eficient al materialelor
+combustibile pe întregul amplasament. Aceste proceduri scrise
+reglementează controlul livrării, depozitării, manipulării,
+transportului și utilizării materialelor combustibile solide, lichide
+și gazoase.
+Art. 111. — Trebuie stabilite și implementate proceduri
+scrise pentru minimizarea cantității de material combustibil
+tranzitoriu, în special materiale pentru ambalare, în zonele
+identificate ca importante pentru securitatea nucleară a unității.
+Aceste materiale se îndepărtează imediat după terminarea
+activității sau la intervale regulate sau se depozitează
+temporar în recipiente sau zone de depozitare aprobate.
+Art. 112. — Trebuie păstrate înregistrări ce documentează
+sarcina termică existentă estimată sau calculată și sarcina
+termică maxim admisibilă în fiecare zonă — compartiment de
+
+11
+
+incendiu/celulă de incendiu/cameră — identificată ca
+importantă pentru securitatea nucleară.
+Art. 113. — Trebuie stabilite și implementate măsuri de
+inspecție periodică a zonelor importante pentru securitatea
+nucleară cu scopul evaluării sarcinilor termice și a condițiilor
+de curățenie și pentru a asigura menținerea liberă a căilor de
+evacuare și a celor pentru accesul echipelor de intervenție la
+incendiu.
+Art. 114. — Trebuie stabilite și implementate proceduri de
+control administrativ al sarcinilor termice temporare în zonele
+importante pentru securitatea nucleară în timpul activităților de
+modificare sau întreținere. Aceste proceduri trebuie să aibă ca
+obiect confinarea și depozitarea materialelor combustibile
+solide, lichide și gazoase în relație cu alte materiale
+periculoase cum ar fi agenții oxidanți.
+Art. 115. — Trebuie stabilită și implementată o procedură
+pentru emiterea permiselor de lucru, ce necesită revizia și
+aprobarea lucrărilor propuse înainte de începerea lor, pentru
+determinarea potențialului efect al lucrărilor asupra protecției la
+incendiu. Personalul responsabil cu revizia propunerilor de
+lucrări evaluează sarcinile termice temporare implicate și
+recomandă măsuri de protecție la incendiu adiționale acolo
+unde este cazul, cum ar fi dotarea cu sau suplimentarea
+numărului de stingătoare de incendiu portative sau instituirea
+supravegherii.
+Art. 116. — (1) Trebuie stabilite și implementate proceduri
+administrative pentru controlul depozitării, manipulării,
+transportului și utilizării solidelor și lichidelor inflamabile sau
+combustibile în zonele importante pentru securitatea nucleară.
+(2) Pentru materiale combustibile solide:
+a) trebuie restricționată utilizarea lemnului sau a altor
+materiale combustibile. Acolo unde se permite utilizarea,
+aceste materiale trebuie tratate sau acoperite pentru a întârzia
+propagarea flăcărilor;
+b) trebuie restricționată utilizarea filtrelor de carbon și a
+rășinilor schimbătoare de ioni stocate în stare uscată; cantități
+mari din aceste materiale se păstrează în zone de depozitare
+cu rezistență adecvată la foc și măsuri de protecție la
+incendiu adecvate;
+c) trebuie restricționată depozitarea materialelor
+combustibile cum sunt hârtia sau îmbrăcămintea de protecție;
+cantități mari din aceste materiale se păstrează în zone de
+depozitare cu rezistență adecvată la foc și măsuri de protecție
+la incediu adecvate.
+(3) Pentru materiale combustibile lichide:
+a) cantitățile de lichide combustibile sau inflamabile
+introduse în zonele importante pentru securitatea nucleară în
+timpul lucrărilor de modificare sau întreținere trebuie limitate la
+necesarul zilnic;
+b) trebuie utilizate, în măsura în care este posibil, numai
+recipiente aprobate pentru utilizarea și transportul lichidelor
+combustibile sau inflamabile. Deschiderile acestor recipiente
+trebuie prevăzute cu închideri pe bază de resort. Trebuie
+evitat transportul lichidelor combustibile sau inflamabile în
+recipiente deschise;
+c) pentru depozitarea în zonele de lucru a unor cantități
+mici de lichide combustibile sau inflamabile trebuie utilizate
+cabinete adecvate, aprobate în acest scop;
+d) toate recipientele ce conțin lichide combustibile sau
+inflamabile trebuie să fie clar și vizibil etichetate;
+e) zonele desemnate pentru depozitarea cantităților
+importante de lichide combustibile sau inflamabile trebuie
+separate de zonele adiacente prin elemente de construcție cu
+rol de separare la incendiu sau prin distanță și trebuie
+semnalizate prin amplasarea de indicatoare de avertizare.
+Controlul surselor de aprindere
+
+Art. 117. — Trebuie stabilite și implementate proceduri
+pentru controlul surselor de aprindere existente și potențiale
+pe amplasament. Aceste proceduri trebuie să includă măsuri
+pentru:
+a) restricționarea fumatului la zonele special amenajate;
+b) limitarea utilizării instalațiilor electrice provizorii.
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 500/9.VI.2006
+
+Art. 118. — (1) Trebuie stabilite și implementate proceduri
+pentru controlul activităților de modificare sau întreținere ce
+necesită utilizarea sau implică producerea unei surse de
+aprindere. Aceste lucrări trebuie controlate printr-un sistem de
+permise de lucru cu focul, ce stabilește managementul,
+supravegherea, autorizarea și efectuarea lucrărilor, inspecția
+zonei de lucru, desemnarea unui supraveghetor, după caz, și
+accesul în cazul în care este necesară intervenția.
+(2) Personalul implicat în elaborarea, emiterea și utilizarea
+permiselor de lucru cu focul trebuie instruit corespunzător.
+Pericolul de incendiu în timpul activităților de modificări și
+reparații în unitate
+
+Art. 119. — În vederea dispunerii de măsuri protective și
+de reducere a riscului de incendiu, planurile activităților de
+întreținere sau modificare, permanente sau temporare, privind
+sisteme sau echipamente ale unității trebuie analizate de
+persoane special desemnate și pregătite în acest sens; se
+efectuează o evaluare a impactului asupra protecției la
+incendiu pentru asemenea modificări.
+Inspecția, întreținerea și testarea măsurilor de protecție la
+incendiu
+
+Art. 120. — Trebuie stabilit și implementat un program
+complet de inspecție, întreținere și testare adecvată a tuturor
+măsurilor de protecție la incendiu pasive și active, inclusiv
+echipamentele de intervenție manuală la incendiu, din toate
+zonele centralei și în special a celor importante pentru
+securitatea nucleară.
+Art. 121. — Programul de inspecție, întreținere și testare a
+măsurilor de protecție la incendiu trebuie să includă:
+a) barierele de foc și componentele structurale ale
+clădirilor, inclusiv etanșările trecerilor prin barierele de foc;
+b) închiderile barierelor de foc, cum sunt ușile rezistente la
+foc și clapetele de foc;
+c) elementele de separare aplicate local, cum sunt izolațiile
+cablurilor și acoperirile pentru întârzierea propagării focului;
+d) sistemele de detecție și alarmare a incendiilor, inclusiv
+detectorii de gaze inflamabile;
+e) instalațiile de iluminat de siguranță;
+f) sistemele fixe de stingere pe bază de apă, gaze, pulberi
+stingătoare sau alte tipuri de agenți de stingere;
+g) sistemul de alimentare cu apă de incendiu;
+h) hidranții interiori și exteriori;
+i) stingătoarele de incendiu;
+j) sistemele de evacuare a fumului și a gazelor fierbinți și
+sistemele de presurizare;
+k) sistemele de comunicație prevăzute pentru a fi utilizate
+în situația producerii unui incendiu;
+l) echipamentele pentru intervenția manuală în caz de
+incendiu, inclusiv vehiculele de intervenție;
+m) echipamentele și îmbrăcămintea de protecție pentru
+aplicații radiologice;
+n) căile de evacuare a utilizatorilor și de acces al
+personalului de intervenție;
+o) procedurile de urgență.
+Art. 122. — (1) Pentru măsurile pasive și active de
+protecție la incendiu importante pentru securitatea nucleară
+trebuie stabilite și documentate nivelurile minime de
+disponibilitate și măsurile de protecție compensatorii, cu
+caracter temporar, ce trebuie întreprinse în eventualitatea în
+care nivelul minim de disponibilitate nu este menținut.
+(2) Trebuie, de asemenea, stabilite, documentate și
+revizuite intervalele de timp permise pentru implementarea
+măsurilor compensatorii temporare.
+Art. 123. — Defectările măsurilor pasive și active de
+protecție la incendiu trebuie înregistrate în conformitate cu
+procedurile unității pentru înregistrarea defectelor; trebuie
+determinate cauzele acestor defecte și luate măsuri pentru
+prevenirea repetării acestor defectări.
+Înregistrarea și analiza evenimentelor privitoare la incendiu
+
+Art. 124. — (1) Evenimentele care privesc protecția
+împotriva incendiilor a unității trebuie înregistrate detaliat, în
+
+conformitate cu procedurile aprobate în unitate pentru
+înregistrarea evenimentelor.
+(2) Se recomandă analiza unor evenimente privitoare la
+incendiu care au avut loc la centrale nuclearoelectrice similare
+și utilizarea concluziilor la îmbunătățirea protecției la incendiu
+a unității.
+SECȚIUNEA a 2-a
+Organizarea intervenției în caz de incendiu
+
+Art. 125. — (1) Organizarea intervenției în caz de incendiu
+trebuie să aibă drept suport o strategie de intervenție în caz
+de incendiu pentru fiecare zonă a unității identificată ca fiind
+importantă pentru securitatea nucleară, inclusiv pentru acele
+zone care pot expune pericolului de incendiu zonele
+importante pentru securitatea nucleară a unității sau care sunt
+importante pentru protecția materialelor radioactive. Aceste
+strategii trebuie să conțină informații suplimentare celor
+conținute în planurile generale de urgență ale unității, trebuie
+actualizate periodic și utilizate în pregătirea personalului.
+Strategiile stabilite pentru fiecare zonă trebuie să conțină:
+a) căile de acces și de evacuare pentru personalul de
+intervenție;
+b) locațiile SSCE importante pentru securitatea nucleară;
+c) sarcinile termice;
+d) pericolele de incendiu specifice, inclusiv posibilitatea
+reducerii capabilităților de intervenție datorată unor evenimente
+externe;
+e) pericolele radiologice, de explozie, toxice, tensiuni înalte;
+f) măsuri de protecție la incendiu existente, pasive și
+active;
+g) restricțiile în utilizarea anumitor agenți de stingere și
+alternativele posibile;
+h) locațiile SSCE importante pentru securitatea nucleară
+sensibile la căldură sau fum;
+i) alimentarea cu apă pentru intervenția manuală;
+j) sistemele de comunicație utilizate de personalul de
+intervenție.
+Art. 126. — (1) Intervenția la incendiu și pentru salvarea
+persoanelor se asigură potrivit prevederilor Ordonanței
+Guvernului nr. 60/1997, aprobată cu modificări prin Legea
+nr. 212/1997, cu modificările și completările ulterioare, de
+către serviciul privat pentru situații de urgență cu asistența
+tehnică a inspectoratelor pentru situații de urgență.
+(2) Documentația unității trebuie să furnizeze o descriere
+clară a capabilităților de intervenție în caz de incendiu pentru
+acele zone identificate ca importante pentru securitatea
+nucleară.
+(3) Trebuie stabilite și actualizate proceduri scrise care
+definesc clar responsabilitățile și acțiunile personalului în cazul
+izbucnirii unui incendiu în centrală.
+Art. 127. — (1) Dacă pentru intervenția la incendiu este
+asigurat sprijinul unui serviciu profesionist sau voluntar pentru
+situații de urgență, trebuie desemnat personal din fiecare
+schimb de lucru din unitate pentru păstrarea legăturii cu acest
+serviciu și trebuie clar stabilite autoritatea și ierarhia de
+comandă la locul incendiului.
+(2) Între personalul unității și serviciul voluntar sau
+profesionist trebuie să existe o coordonare adecvată, pentru a
+asigura familiarizarea personalului serviciului voluntar sau
+profesionist din afara amplasamentului cu condițiile și
+pericolele specifice unității.
+Art. 128. — Organizarea serviciului privat pentru situații de
+urgență, nivelul minim de personal, echipamentele necesare și
+pregătirea personalului trebuie documentate, iar respectarea
+cerințelor trebuie confirmată de o persoană competentă.
+Art. 129. — (1) Membrii serviciului privat pentru situații de
+urgență de pe amplasament trebuie să fie fizic capabili să își
+îndeplinească sarcinile și să urmeze un program oficial de
+pregătire înainte de selectarea în echipa de intervenție.
+(2) Pregătirea periodică teoretică, practică și prin simulări
+asigurată pentru această echipă trebuie documentată și trebuie
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 500/9.VI.2006
+păstrate înregistrări actualizate. Lecțiile învățate trebuie
+diseminate și incluse în programul de pregătire.
+(3) Trebuie efectuată o pregătire specială a conducătorilor
+de echipă pentru a se asigura competența acestora de a
+evalua potențialele consecințe ale incendiilor asupra securității
+nucleare și de a face recomandări personalului din camera de
+comandă.
+SECȚIUNEA a 3-a
+Pregătirea personalului
+
+Art. 130. — Personalul centralei și personalul contractor
+trebuie instruit în domeniul protecției la incendiu în unitate și
+al responsabilităților în caz de incendiu, înainte de a-și începe
+activitatea în unitate. Pregătirea trebuie să includă:
+a) politica de protecție la incendiu în unitate;
+b) cunoașterea pericolelor de incendiu specifice, inclusiv
+limitările sarcinilor termice în diferite zone și, după caz,
+pericolele radiologice asociate;
+c) importanța controlului materialelor combustibile și al
+surselor de aprindere și potențialul impact al acestora asupra
+sarcinilor termice permise în diferite zone;
+d) mijloace de raportare a incendiilor;
+e) recunoașterea alarmelor de incendiu sonore și vizuale;
+f) căi de evacuare de urgență în caz de incendiu;
+g) tipurile de echipamente de stingere a incendiilor
+existente și utilizarea lor la stingerea incendiilor în faza inițială.
+Art. 131. — (1) Pentru personalul implicat în operare,
+întreținere și intervenție în caz de incendiu, inclusiv pentru
+personalul contractor, trebuie să se asigure o pregătire
+specializată în domeniul protecției la incendiu. Programul de
+pregătire specializată trebuie să conțină:
+a) importanța menținerii integrității și operabilității măsurilor
+pasive și active de protecție la incendiu prin efectuarea de
+inspecții regulate, de lucrări de întreținere de rutină și
+neplanificate și de teste funcționale periodice ale sistemelor și
+echipamentelor;
+b) detalii de proiectare și operare a măsurilor de protecție
+la incendiu instalate în centrală pentru a asigura, prin
+întreținerea
+eficientă,
+operabilitatea
+sistemelor
+și
+echipamentelor;
+c) impactul direct și indirect asupra protecției la incendiu al
+modificărilor unității și efectele acestora asupra integrității și
+operabilității măsurilor de protecție la incendiu;
+d) pregătirea personalului care inițiază sau autorizează
+activități ce implică lucrul cu focul și a personalului desemnat
+supraveghetor al acestor activități;
+e) familiarizarea cu locațiile SSCE importante pentru
+securitatea nucleară;
+f) familiarizarea cu locațiile măsurilor de protecție la
+incendiu în unitate;
+g) simulări periodice pentru a verifica înțelegerea atribuțiilor
+și responsabilităților în cazul unui incendiu; trebuie păstrate
+înregistrări ale exercițiilor și ale lecțiilor învățate din aceste
+exerciții.
+(2) Programul de pregătire se documentează și trebuie să
+includă:
+a) identificarea necesităților specifice de pregătire;
+b) materialele suport de curs;
+c) evaluare periodică.
+(3) Programul de pregătire trebuie să includă atât
+pregătirea inițială, cât și recalificarea periodică.
+(4) Activitățile incluse în programul de pregătire trebuie
+desfășurate în conformitate cu sistemul de management al
+calității și trebuie documentate în cadrul sistemului de
+management al înregistrărilor.
+(5) Conținutul, completitudinea, eficiența și adecvarea
+programului de pregătire trebuie revizuite periodic.
+
+13
+
+CAPITOLUL VII
+Cerințe de protecție la incendiu în faza de dezafectare
+Obiectivul programului de protecție la incendiu pentru faza de
+dezafectare
+
+Art. 132. — Sistemele, structurile, componentele și
+echipamentele unității aflate în stare nedezafectată, în curs de
+dezafectare sau dezafectate trebuie să nu expună radiologic
+și/sau la eliberări de substanțe radioactive personalul
+participant la faza de dezafectare, publicul, proprietatea și
+mediul înconjurător, în situația izbucnirii unui incendiu în
+unitatea aflată în faza de dezafectare.
+SECȚIUNEA 1
+Obligații în faza de dezafectare
+Programul de protecție la incendiu
+
+Art. 133. — Titularul autorizației are obligația să
+pregătească, ținând cont de vârsta centralei, programul de
+protecție la incendiu pentru faza de dezafectare.
+Art. 134. — Programul de protecție la incendiu pentru faza
+de dezafectare trebuie să includă elementele de bază
+descrise în anexa nr. 2, aplicabile acestei faze.
+SECȚIUNEA a 2-a
+Dezafectare — stadiile 1 și 2
+Inventarul materialelor combustibile
+
+Art. 135. — În stadiul 1 al dezafectării se revizuiește
+inventarul de materiale combustibile și se evaluează
+consecințele incendiilor potențiale; măsurile de protecție la
+incendiu se justifică în concordanță cu analiza pericolelor de
+incendiu pentru faza de dezafectare.
+Detecția și alarmarea incendiilor
+
+Art. 136. — Sistemul de detecție și alarmare trebuie să
+rămână funcțional și să alarmeze un corp permanent de
+intervenție de pe amplasament sau din afara acestuia.
+Căi de evacuare de urgență
+
+Art. 137. — Pentru siguranța personalului participant la
+dezafectarea unității, în zonele accesibile trebuie să rămână
+disponibile căi de evacuare de urgență în caz de incendiu.
+Sursele de apă de incendiu
+
+Art. 138. — Se menține în stare de funcționare pe toată
+durata operațiunilor de dezafectare acea parte a sistemului de
+apă de incendiu considerată necesară în urma analizei
+pericolelor de incendiu efectuată pentru această fază, în
+scopul asigurării alimentării cu apă cel puțin a sistemului de
+hidranți, astfel încât să fie acoperite toate zonele accesibile
+din centrală.
+Separarea
+
+Art. 139. — Amplasarea la distanțe de siguranță și/sau
+separarea prin bariere de foc trebuie prevăzute pentru
+protecția materialelor radioactive.
+Protecția unităților aflate în faza de exploatare
+
+Art. 140. — În situația amplasamentelor cu mai multe
+unități învecinate, trebuie efectuată o analiză pentru a stabili
+dacă unitățile aflate în exploatare pot fi afectate de un
+potențial incendiu în unitatea aflată în dezafectare; trebuie
+acordată atenție cablurilor electrice care trec prin zonele
+supuse dezafectării.
+SECȚIUNEA a 3-a
+Dezafectare — stadiul 3
+Hidranți
+
+Art. 141. — Sistemul de alimentare cu apă de incendiu,
+sistemele de stingere pe bază de apă și sistemul de hidranți
+trebuie să rămână în funcționare până la încheierea ultimului
+stadiu al dezafectării.
+Supravegherea
+
+Art. 142. — După dezafectarea sistemelor de detecție și
+alarmare la incendiu, detecția și alarmarea incendiului se
+asigură de către o persoană care efectuează ronduri regulate
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 500/9.VI.2006
+
+pe amplasament; aceste ronduri se asigură până la finalizarea
+dezafectării.
+
+CAPITOLUL IX
+Dispoziții tranzitorii și finale
+
+Echipa de intervenție
+
+Art. 143. — În situația în care nu este disponibilă o echipă
+de intervenție din exteriorul amplasamentului, se organizează
+personalul de pe amplasament astfel încât să se formeze o
+echipă de intervenție în caz de incendiu.
+CAPITOLUL VIII
+Autorizări
+Art. 144. — Raportul preliminar de securitate, pe baza
+căruia se eliberează autorizația de construcție, trebuie însoțit
+de documentația privind API a unității, faza preliminară.
+Art. 145. — Raportul final de securitate, pe baza căruia se
+eliberează autorizația de funcționare, trebuie însoțit de
+documentația privind API a unității, actualizată. Prin această
+documentație trebuie demonstrat că au fost analizate și
+evaluate toate pericolele de incendiu privind SSCE importante
+pentru securitatea nucleară și au fost implementate măsurile
+corespunzătoare protecției la incendiu.
+
+Art. 146. — Prezentele norme intră în vigoare de la data
+publicării lor în Monitorul Oficial al României, Partea I.
+Art. 147. — Într-un interval de 6 luni de la data intrării în
+vigoare a prezentelor norme, titularul autorizației trebuie să
+efectueze o evaluare a conformității Programului de protecție
+la incendiu a unității cu cerințele din prezentele norme și
+trebuie să stabilească și să transmită spre aprobare la
+CNCAN programul de implementare a acțiunilor rezultate în
+urma evaluării efectuate.
+Art. 148. — Prevederile prezentelor norme nu sunt
+limitative, ele se completează cu dispozițiile legale în vigoare
+pentru prevenirea și stingerea incendiilor și cu prevederile
+normativelor tehnice specifice în materie. Lista actelor
+normative și a reglementărilor tehnice conexe este prevăzută
+în anexa nr. 3.
+Art. 149. — Anexele nr. 1—3 fac parte integrantă din
+prezentele norme.
+ANEXA Nr. 1
+la norme
+
+ABREVIERI ȘI DEFINIȚII
+
+ALARA — As Low As Reasonably Achievable este principiul
+potrivit căruia solicitantul sau titularul de autorizație este
+obligat să demonstreze că sunt întreprinse toate acțiunile
+pentru a asigura optimizarea securității nucleare și a
+radioprotecției, în sensul de a asigura că toate expunerile,
+inclusiv cele potențiale, sunt menținute la cel mai scăzut nivel
+rezonabil posibil, luându-se în considerare factorii tehnici,
+economici și sociali.
+Analiza pericolelor de incendiu este acea activitate
+sistematică de analiză și evaluare pe baze deterministe a
+pericolelor de incendiu, ce are drept scop determinarea
+incendiilor potențiale și a consecințelor acestor incendii într-o
+zonă dată a unității.
+Analiza probabilistică de securitate nucleară pentru evenimente
+de tip incendiu (Fire Probabilistic Safety Assessment — Fire PSA)
+este o analiză de tip probabilistic ce are drept scop evaluarea
+cuplului îprobabilitate de apariție a incendiului — consecințele
+incendiului din punctul de vedere al securității nucleare“ și de
+stabilire și trasare a graficului de acceptabilitate pentru un
+compartiment sau o celulă de incendiu.
+Bariera de foc este acea barieră structurală, parțială sau
+totală, care este folosită pentru întârzierea propagării și
+limitarea efectelor unui incendiu. Pot fi bariere de foc elemente
+de construcție cu rol de separare la foc, de exemplu: pereții
+exteriori, interiori, plafoanele, planșeele și protecțiile golurilor
+din acestea (uși, trape, străpungeri de țevi sau cabluri).
+Celulă de incendiu reprezintă o subdiviziune a unui
+compartiment de incendiu în care protecția la incendiu este
+asigurată de măsuri specifice cum sunt separarea spațială,
+sistemele fixe de stingere a incendiilor, controlul materialelor
+combustibile etc.
+Compartiment de incendiu reprezintă construcția sau o parte
+a unei construcții conținând una ori mai multe încăperi sau
+alte spații, delimitate prin elemente de construcție cu rezistență
+la foc calificată, destinate să îl izoleze de restul construcției în
+scopul limitării propagării incendiului, pe o durată determinată.
+Suprafețele compartimentelor de incendiu se stabilesc în
+funcție de riscul de incendiu existent, destinație, alcătuire și de
+rezistența la foc a construcției.
+Densitate a sarcinii termice este raportul dintre sarcina
+termică Sa și suprafața compartimentului de incendiu: qs =
+S a/A s (MJ/m 2), unde A s este suma ariilor pardoselilor ce
+alcătuiesc spațiul luat în considerare.
+
+Defectare de cauză comună este defectarea a două sau mai
+multe SSCE, produsă de un singur eveniment sau cauză.
+Condițiile de ambient, deficiențele de proiectare, fabricație,
+construcție sau erorile de operare, întreținere ori evenimentele
+externe sunt exemple de cauze care pot duce la defectări de
+cauză comună.
+Dezafectare reprezintă totalitatea activităților necesar a se
+desfășura la o unitate a unei centrale nuclearoelectrice oprită
+definitiv, în vederea atingerii nivelului de eliberare de sub
+cerințele de autorizare.
+Dezafectare — stadiu 1 este starea în care unitatea este
+oprită definitiv și supravegheată sistematic; combustibilul
+nuclear poate fi depozitat în clădirea reactorului; nu se
+efectuează lucrări de demontare sau de îndepărtare a
+componentelor centralei; din clădirea reactorului se pot evacua
+materiale, echipamente și structuri nenucleare.
+Dezafectare — stadiu 2 este starea în care combustibilul
+nuclear este evacuat în totalitate din clădirea reactorului
+nuclear; se execută majoritatea lucrărilor de dezafectare:
+decontaminare, demontare, tratare, condiționare și îndepărtare
+a componentelor în conformitate cu planul de dezafectare
+aprobat; unitatea nu îndeplinește condițiile de eliberare de sub
+cerințele de autorizare.
+Dezafectare — stadiu 3 este starea în care combustibilul
+nuclear nu se mai află pe amplasament; unitatea este adusă
+la nivelul de eliberare de sub cerințele de autorizare.
+Funcții generale de securitate nucleară sunt funcțiile generale
+care trebuie menținute atât în condiții normale de operare, cât
+și în condiții de accident:
+a) oprirea reactorului și menținerea acestuia într-o stare de
+oprire sigură pentru o perioadă de timp nedeterminată;
+b) răcirea combustibilului nuclear;
+c) menținerea barierelor fizice în calea eliberărilor de
+materiale radioactive;
+d) monitorizarea stării unității și furnizarea serviciilor suport
+necesare pentru menținerea funcțiilor a), b) și c).
+Eveniment de inițiere reprezintă un eveniment singular care
+conduce la apariția de evenimente anticipate în exploatare sau
+la condiții de accident și care necesită inițierea funcțiilor de
+securitate nucleară ale sistemelor centralei nuclearoelectrice.
+Pentru evenimentele de inițiere luate în considerare în
+proiectare se folosește sintagma îeveniment de inițiere
+postulat“.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 500/9.VI.2006
+Grup de sisteme de securitate este acel ansamblu de
+echipamente și sisteme cu funcții de securitate rezultat prin
+împărțirea acestora în ansambluri separate și independente. În
+concepția CANDU, există două asemenea ansambluri, numite
+grupuri de securitate nucleară, care au drept obiectiv
+asigurarea funcțiilor generale de securitate nucleară în situația
+apariției evenimentelor de inițiere postulate de cauză comună;
+incendiile sunt considerate ca fiind evenimente de cauză
+comună. Apartenența sistemelor speciale de securitate
+nucleară la aceste două ansambluri este realizată în baza
+principiului diversității, independenței și separării.
+Incendiu bază de proiect este acel incendiu potențial luat în
+considerare ca eveniment de inițiere postulat la proiectarea
+protecției la incendiu sau în analiza pericolelor de incendiu
+într-o zonă dată a unității. Se presupune că acest incendiu
+potențial postulat provoacă cele mai serioase avarii în zona
+considerată în absența sistemelor automate sau manuale de
+stingere a incendiului.
+Material combustibil este acel material susceptibil să treacă
+în stare de combustie în prezența focului sau a temperaturilor
+înalte.
+Organizațiile concurente la (participante la, implicate în)
+protecția împotriva incendiilor sunt acele persoane juridice de
+drept privat cu scop patrimonial, competente în domeniul
+protecției împotriva incendiilor, care în baza unui contract
+încheiat cu titularul autorizației desfășoară activități tehnice
+specifice privind protecția împotriva incendiului a unității în
+fazele de proiectare, construcție-montaj, punere în funcțiune,
+exploatare și dezafectare. Aceste organizații se supun
+regimului de asigurare a calității pentru obiective nucleare
+stabilit prin normele de asigurare a calității în domeniul
+nuclear.
+Organizația de exploatare este sucursala titularului
+autorizației învestită de titular cu autoritatea exploatării unității
+centralei nuclearoelectrice.
+
+15
+
+Personal contractor este personalul oricărei organizații care
+execută activități pentru titularul de autorizație pe bază de
+contract.
+Protecția la incendiu reprezintă ansamblul de activități
+coordonate ale diferitelor discipline ce concură la realizarea
+unei protecții adecvate împotriva incendiilor.
+Rezistența la foc este proprietatea unui material, ansamblu
+de materiale, element de construcție sau a unei structuri de
+a-și păstra, pe o durată determinată, stabilitatea, etanșeitatea
+și/sau izolarea termică cerută și/sau altă funcțiune specializată,
+într-o încercare la foc standardizată.
+Risc de incendiu este starea exprimată prin relația de
+interdependență între probabilitatea globală de inițiere a unui
+incendiu și gravitatea consecințelor evenimentului respectiv. De
+regulă, relația este exprimată prin produsul celor doi factori.
+Sarcina termică reprezintă cantitatea de căldură pe care o
+poate degaja prin ardere completă totalitatea materialelor
+combustibile fixe și tranzitorii, existente în spațiul afectat de
+incendiu.
+Securitate nucleară este ansamblul de măsuri tehnice și
+organizatorice destinate să asigure funcționarea instalațiilor
+nucleare în condiții de siguranță, să prevină și să limiteze
+deteriorarea acestora și să asigure protecția personalului
+ocupat profesional, a populației, mediului și a bunurilor materiale
+împotriva iradierii sau contaminării radioactive.
+SSCE importante pentru securitatea nucleară sunt sistemele,
+structurile, componentele și echipamentele care au o
+contribuție preventivă și/sau protectivă, directă ori indirectă, la
+realizarea și menținerea funcțiilor generale de securitate
+nucleară.
+Zonă de incendiu este porțiunea dintr-un compartiment de
+incendiu, stabilită la efectuarea analizei pericolelor de incendiu
+în conformitate cu criterii specifice.
+
+ANEXA Nr. 2
+la norme
+PROGRAMUL DE PROTECȚIE LA INCENDIU
+
+1. Programul de protecție la incendiu trebuie descris
+într-un document de referință al unității, stabilit de titularul
+autorizației și supus aprobării de către CNCAN. Trebuie
+abordate, direct sau prin referință, cel puțin următoarele
+subiecte privind organizarea protecției împotriva incendiilor:
+a) organizarea și responsabilitățile asociate protecției la
+incendiu a unității;
+b) calificarea necesară persoanelor care gestionează
+programul de protecție la incendiu, care dispun măsurile de
+protecție la incendiu și care efectuează verificări de
+prevenire a incendiilor și audituri interne pentru siguranța la
+incendiu;
+c) procedurile și instrucțiunile aplicabile pentru operarea,
+inspecția, testarea și întreținerea măsurilor pasive și active,
+fixe și portabile de protecție la incendiu;
+d) controlul modificărilor privind protecția la incendiu;
+e) reactualizarea API;
+f) prevederile sistemului de management al calității
+privitoare la protecția la incendiu;
+g) pregătirea personalului unității și a personalului
+contractor în domeniul protecției la incendiu;
+h) organizarea și pregătirea echipelor de intervenție,
+responsabilitățile atribuite în acest sens, calificarea
+
+necesară conducătorilor și membrilor echipelor de
+intervenție de pe amplasament;
+i) relația cu forțele de intervenție la incendiu din afara
+amplasamentului;
+j) măsuri specifice privind:
+(i) planurile de intervenție în caz de incendiu,
+corelarea acestora cu planurile de urgență ale
+unității;
+(ii) simulările de incendiu;
+(iii) mijloacele de comunicare în caz de urgență.
+2. Programul de protecție la incendiu va face referiri,
+după caz, la:
+a) manuale de operare și întreținere ale sistemelor de
+protecție la incendiu;
+b) proceduri de prevenire a incendiilor;
+c) proceduri de răspuns în caz de incendiu;
+d) planuri de intervenție pentru operatorii din camera de
+comandă și echipa de intervenție de pe amplasamentul
+centralei, corelarea cu forțele de intervenție la incendiu
+externe unității;
+e) raportarea evenimentelor;
+f) orice alte documentații, proceduri și instrucțiuni care
+au legătură directă cu organizarea protecției unității
+împotriva incendiilor.
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 500/9.VI.2006
+ANEXA Nr. 3
+la norme
+LISTA
+
+actelor normative și a reglementărilor tehnice conexe
+1. Ordonanța Guvernului nr. 60/1997 privind apărarea
+împotriva incendiilor, publicată în Monitorul Oficial al
+României, Partea I, nr. 225 din 30 august 1997, aprobată
+cu modificări prin Legea nr. 212/1997, publicată în
+Monitorul Oficial al României, Partea I, nr. 366 din
+18 decembrie 1997;
+2. Ordinul ministrului de interne nr. 775/1998 pentru
+aprobarea Normelor generale de prevenire și stingere a
+incendiilor, publicat în Monitorul Oficial al României, Partea I,
+nr. 384 din 9 octombrie 1998;
+3. Ordinul ministrului de interne nr. 1.023/1999 privind
+aprobarea Dispozițiilor generale de ordine interioară pentru
+prevenirea și stingerea incendiilor — DG P.S.I.—001,
+publicat în Monitorul Oficial al României, Partea I, nr. 78
+din 22 februarie 2000;
+4. Ordinul ministrului de interne nr. 88/2001 pentru
+aprobarea Dispozițiilor generale privind echiparea și dotarea
+construcțiilor, instalațiilor tehnologice și a platformelor
+amenajate cu mijloace tehnice de prevenire și stingere a
+incendiilor — DG P.S.I.—003, publicat în Monitorul Oficial
+al României, Partea I, nr. 583 din 18 septembrie 2001, cu
+modificările ulterioare;
+5. Ordinul ministrului de interne nr. 108/2001 pentru
+aprobarea Dispozițiilor generale privind reducerea riscurilor
+de incendiu generate de încărcări electrostatice —
+DG P.S.I.—004, publicat în Monitorul Oficial al României,
+Partea I, nr. 597 din 24 septembrie 2001, cu modificările
+ulterioare;
+6. Ordinul ministrului de interne nr. 138/2001 pentru
+aprobarea Dispozițiilor generale privind organizarea activității
+
+de apărare împotriva incendiilor — DG P.S.I.—005, publicat
+în Monitorul Oficial al României, Partea I, nr. 606 din 26
+septembrie 2001, cu modificările ulterioare;
+7. Ordinul ministrului administrației și internelor
+nr. 712/2005 pentru aprobarea Dispozițiilor generale privind
+instruirea salariaților în domeniul situațiilor de urgență,
+publicat în Monitorul Oficial al României, Partea I, nr. 599
+din 12 iulie 2005, cu modificările și completările ulterioare;
+8. Ordinul ministrului administrației și internelor
+nr. 786/2005 privind modificarea și completarea Ordinului
+ministrului administrației și internelor nr. 712/2005 pentru
+aprobarea Dispozițiilor generale privind instruirea salariaților
+în domeniul situațiilor de urgență, publicat în Monitorul
+Oficial al României, Partea I, nr. 844 din 19 septembrie 2005;
+9. Normativ pentru proiectarea, executarea și
+exploatarea instalațiilor de stingere a incendiilor, indicativ
+NP 086-05;
+10. Normativ de prevenire și stingere a incendiilor pe
+durata executării lucrărilor de construcții și instalații aferente
+acestora, indicativ C300/1994;
+11. Normativ pentru proiectarea, executarea, verificarea
+și exploatarea instalațiilor electrice în zone cu pericol de
+explozie, indicativ NP 099-04;
+12. Normativ pentru proiectarea și executarea instalațiilor
+interioare de semnalizare a incendiilor și a sistemelor de
+alarmare contra efracției din clădiri, indicativ I 18/2-02;
+13. Normativ pentru proiectarea și executarea instalațiilor
+de ventilare și climatizare, indicativ I 5-98.
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+Regia Autonomă îMonitorul Oficial“, Str. Parcului nr. 65, sectorul 1, București; C.U.I. 427282; Atribut fiscal R,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala îUnirea“ București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 318.51.29/150, fax 318.51.15, E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 410.47.30, tel./fax 410.77.36 și 410.47.23
+Tiparul: Regia Autonomă îMonitorul Oficial“
+Monitorul Oficial al României, Partea I, nr. 500/9.VI.2006 conține 16 pagini.
+
+Prețul: 1,15 lei noi/11.500 lei vechi
+
+&JUYDGY|116764]
+ISSN 1453—4495
+
+

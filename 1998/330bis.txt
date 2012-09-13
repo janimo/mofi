@@ -1,0 +1,2866 @@
+PARTEA
+
+Anul X Ñ Nr. 330 bis
+
+I
+
+Marți, 1 septembrie 1998
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+
+SUMAR
+Nr.
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+93. Ñ Ordin al președintelui Agenției Naționale pentru
+Resurse Minerale pentru aprobarea instrucțiunilor
+tehnice elaborate în vederea aplicãrii unitare a dispozițiilor Legii minelor nr. 61/1998 ..........................
+
+Pagina
+
+1Ð31
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+AGENÞIA NAÞIONALÃ PENTRU RESURSE MINERALE
+
+ORDIN
+pentru aprobarea instrucțiunilor tehnice
+elaborate în vederea aplicãrii unitare a dispozițiilor Legii minelor nr. 61/1998
+Președintele Agenției Naționale pentru Resurse Minerale,
+având în vedere prevederile art. 40 alin. 1 lit. k) din Legea minelor nr. 61/1998,
+în temeiul prevederilor Hotãrârii Guvernului nr. 221/1995 privind organizarea și funcționarea Agenției Naționale
+pentru Resurse Minerale, cu modificãrile ulterioare,
+emite urmãtorul ordin:
+7. Permisul de exploatare;
+Art. 1. Ñ Se aprobã urmãtoarele instrucțiuni tehnice
+elaborate în vederea aplicãrii unitare a dispozițiilor Legii
+8. Clasificarea și evaluarea resurselor minerale/rezerveminelor nr. 61/1998:
+lor de substanțe minerale solide.
+1. Conținutul-cadru al studiului de fezabilitate;
+Art. 2. Ñ Prezentele instrucțiuni tehnice intrã în vigoare
+2. Conținutul-cadru al documentațiilor de evaluare a resur- la data publicãrii lor în Monitorul Oficial al României.
+selor minerale și a rezervelor de substanțe minerale utile;
+Art. 3. Ñ Documentațiile tehnice anterioare își mențin
+3. Conținutul-cadru al documentațiilor tehnice pentru valabilitatea pe termen limitat, urmând a fi revizuite condelimitarea și fundamentarea perimetrelor de prospec- form prevederilor prezentelor instrucțiuni tehnice. Durata
+țiune/explorare pentru substanțe minerale utile;
+valabilitãții se va stabili prin actele de concesionare a acti4. Conținutul-cadru al documentațiilor tehnice pentru
+delimitarea și fundamentarea perimetrelor de dezvoltare- vitãților miniere.
+Art. 4. Ñ Pentru activitãțile miniere proiectate a fi realiexploatare pentru resurse minerale;
+zate în perimetre noi ce vor fi concesionate aplicarea pre5. Conținutul-cadru al documentațiilor tehnice pentru fundamentarea și instituirea perimetrelor de protecție hidro- vederilor prezentelor instrucțiuni tehnice este obligatorie.
+Art. 5. Ñ Compartimentele de resort din cadrul Agenției
+geologicã pentru zãcãminte de ape subterane, de nãmoluri
+Naționale pentru Resurse Minerale și agenții economici din
+și turbe terapeutice;
+6. Conținutul-cadru al planului de dezvoltare a exploatã- industria minierã și geologie vor aduce la îndeplinire preverii miniere;
+derile prezentului ordin.
+Președintele Agenției Naționale pentru Resurse Minerale,
+Mihail Ianãș
+București, 23 iulie 1998.
+Nr. 93.
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+AGENÞIA NAÞIONALÃ
+
+PENTRU RESURSE MINERALE
+
+CONÞINUTUL-CADRU AL STUDIULUI DE FEZABILITATE
+
+Instrucțiunea tehnicã nr. 85-01/1998
+Obiectul studiului
+k) randamentul sau coeficientul de extracție;
+l) pierderi de exploatare și diluții;
+1. localizare, infrastructurã;
+m) la zãcãmintele tabulare de minereuri metalifere și de
+2. istoricul și actele juridice ale agentului economic;
+substanțe nemetalifere cu grosimea mai micã decât lãțimea
+3. documentații care stau la baza întocmirii studiului;
+4. date privind capacitatea financiarã și tehnicã a agen- minimã exploatabilã, în locul grosimii minime și al conținuturilor medii minime pe unitatea de calcul, pentru rezervele
+tului economic.
+exploatabile dovedite și probabile, pentru cele identificate,
+II. Situația resurselor minerale/rezervelor
+mãsurate și/sau indicate și cele valorificabile conjunctural și
+potențial se va stabili puterea minimã. Puterea se definește
+1. situația resurselor minerale;
+ca fiind produsul dintre grosime și conținut;
+2. condiții tehnico-economice de valorificare.
+n) condițiile de calitate pentru majoritatea rocilor utile
+2.1. Condiții de zãcãmânt
+sunt cele stabilite prin standarde de stat și prin norme. De
+a) așezarea, forma și dimensiunile corpurilor, zãcãminte- precizat cã prevederile acestor acte normative se referã la
+lor de substanțe minerale utile;
+producția-marfã. Ca urmare, ori de câte ori este necesar,
+b) grosimea minimã a corpurilor de substanțe minerale condițiile calitative prevãzute în standarde sau în norme se
+utile;
+vor reevalua la condițiile de zãcãmânt, ținându-se seama
+c) grosimea maximã a intercalațiilor sterile sau extinde- de modificarea calitãții substanței minerale utile în procesul
+rea maximã a zonelor sterile sau necorespunzãtoare calitade exploatare.
+tiv;
+2.3. Rezerve de substanțe minerale utile
+d) adâncimea maximã de exploatare la zi și în subteran;
+a) coeficienții de transformare a resurselor minerale în
+e) proprietãțile fizico-mecanice ale minereului și rocilor
+rezerve;
+înconjurãtoare;
+b) situația rezervelor pe sorturi industriale, pe corpuri de
+f) cantitatea minimã a resurselor minerale identificate,
+mãsurate și/sau indicate, a celor valorificabile conjuctural substanțe minerale utile, pe zãcãmânt sau perimetru, clasificate în categorii;
+sau potențial;
+c) variante cu calculul rezervelor;
+g) coeficientul de decopertare maxim pentru zãcãmintele
+d) analiza gradului de precizie a evaluãrilor cantitative și
+exploatate la zi;
+h) coeficientul de mineralizare minim pe unitate de cal- calitative ale rezervelor substanțelor minerale utile, fie
+cul, în cazul existenței intercalațiilor sterile care nu pot fi direct, prin metode statistice și geostatistice, fie prin comconturate, dar care pot fi excluse în procesul de exploa- pararea rezultatelor obținute prin îndesirea rețelei lucrãrilor
+tare;
+ori prin compararea rezervelor de substanțe minerale utile
+i) condițiile hidrogeologice ale formațiunilor acvifere, cu rezultatele probelor tehnologice, ale exploatãrilor experiraportul lor cu grosimea și cu caracteristicile rocilor din cul- mentale sau ale exploatãrii curente; interpretarea rezultatecușul și acoperișul fiecãrui corp de substanțe minerale lor analizelor de control intern, extern și ale probelor
+utile;
+excepționale;
+j) alte condiții naturale care pot influența negativ valorifie) justificarea clasificãrii în categorii a rezervelor calcucarea substanței minerale utile.
+late pe unitãți de calcul, sorturi industriale, perimetre, zãcã2.2. Condiții de calitate și tehnologice
+mânt;
+f) evoluția și mișcarea resurselor minerale/rezervelor,
+a) conținutul mediu minim sau limita de exploatabilitate;
+comparativ cu cele luate în evidențã anterior;
+b) conținutul mediu maxim în cenușã la combustibilul
+g) justificarea modificãrilor survenite pentru fiecare unianhidru, pentru cãrbuni;
+c) conținuturi minime limitã în componenți utili echiva- tate de calcul și gruparea lor în funcție de principalele
+lenți, pentru conturarea rezervelor exploatabile dovedite cauze care le-au determinat: extracție, pierderi, identificãri,
+și/sau probabile, respectiv ale resurselor mãsurate și ale promovãri și retrogradãri, recalculãri datorate modificãrilor
+celor valorificabile conjunctural și/sau potențial;
+parametrilor de calcul și scoateri din evidențã (abandonãri).
+d) conținuturile medii minime limitã în component util
+III. Indicatori tehnico-economici privind deschiderea,
+echivalent pe unitatea de calcul, pentru rezervele exploatapregãtirea și exploatarea
+bile dovedite și probabile, pentru cele identificate, mãsurate
+și/sau indicate și valorificabile conjunctural și potențial;
+1. propuneri privind metodele de deschidere, pregãtire și
+e) coținutul mediu maxim în componenți dãunãtori pe exploatare;
+unitatea de calcul;
+2. analiza economicã a metodelor de deschidere, pref) conținutul mediu minim în elemente auxiliare valorifigãtire și exploatare;
+cabile;
+3. alegerea metodei de exploatare;
+g) conținutul mediu în componenți utili al intercalațiilor
+4. structura capitalului, volumul investițiilor;
+sterile și/sau al rocilor din imediata vecinãtate a corpului
+5. structura costurilor în funcție de soluțiile tehnice
+mineralizat din culcușul și acoperișul acestuia;
+alese;
+h) conținutul mediu minim în component util echivalent
+6. costuri de mediu;
+pe totalul rezervelor și al resurselor minerale evaluate;
+7. valoarea reactualizatã a investițiilor;
+i) condiții limitative din punct de vedere tehnologic;
+8. rata internã de rentabilitate;
+j) criterii de separare a sorturilor industriale de substanțe minerale utile;
+9. concluzii privind rentabilitatea exploatãrii.
+I. Prezentarea generalã a agentului economic
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+IV. Capacitãți de producție și structura acesteia
+V. Situația personalului și cheltuieli cu munca vie
+VI. Analiza produselor și a pieței
+
+1.
+2.
+3.
+4.
+5.
+6.
+
+produse și servicii;
+activitate internã și export;
+studii de piațã;
+clienți;
+distribuția produselor;
+promovare și concurențã.
+VII. Analiza de risc (subvenții)
+VIII. Organizare și management
+IX. Concluzii (indicatorii tehnico-economici
+și financiari pe varianta propusã)
+
+Anexe la text
+Anexele la text vor cuprinde documentațiile și materialele necesare pentru justificarea, completarea și detalierea
+datelor prezentate în studiu, astfel:
+
+3
+
+1. documentația cu calculul resurselor minerale/rezervelor;
+2. documentația tehnicã pentru delimitarea și fundamentarea perimetrului de exploatare;
+3. documentația de instituire a pilierilor de siguranțã,
+dacã este cazul;
+4. tabele centralizatoare cu rezervele calculate pe sorturi industriale, corpuri de substanțã mineralã utilã, pe perimetre și zãcãmânt, clasificate în categorii;
+5. tabele cu calculul resurselor minerale imobilizate în
+pilieri;
+6. tabel centralizator cu indicatorii tehnico-economici pe
+unitate de calcul, sort industrial, corp de substanțã mineralã utilã, perimetru, zãcãmânt;
+7. alte tabele (grad de confirmare calitativ-cantitativ, grad
+de oxidare etc.).
+Materiale grafice
+Planuri/elevații geologico-miniere cu situația rezervelor de
+substanțe minerale utile, care cuprind conturul acestora pe
+unitãți de calcul, corpuri de substanțe minerale utile, zãcãmânt, la scara 1:1.000, 1:2.000 sau 1:5.000.
+NOTÃ:
+
+Prezentele norme de conținut sunt aplicabile și la elaborarea studiilor de prefezabilitate.
+
+AGENÞIA NAÞIONALÃ
+PENTRU RESURSE MINERALE
+CONTINUTUL-CADRU AL DOCUMENTAÞIILOR DE EVALUARE
+A RESURSELOR MINERALE ȘI A REZERVELOR DE SUBSTANÞE MINERALE UTILE
+
+Instrucțiunea tehnicã nr. 85-02/1998
+Documentațiile de evaluare a resurselor minerale și a
+rezervelor de substanțe minerale utile solide sunt constituite
+din text, anexe la text și din materiale grafice și sunt
+anexã la Studiul de fezabilitate.
+A. Textul documentațiilor
+
+Textul documentațiilor de evaluare a resurselor minerale
+și a rezervelor de substanțe minerale utile va cuprinde, de
+regulã, o introducere și capitolele: Geologia regiunii,
+Metodica de cercetare folositã, Geologia zãcãmântului,
+Hidrogeologia zãcãmântului, Caracterizarea calitativã a substanței minerale utile, Informații cu privire la condițiile tehnico-economice de exploatare, preparare sau prelucrare și
+de valorificare a substanței minerale utile, Evaluarea resurselor minerale și a rezervelor de substanțe minerale utile,
+Concluzii.
+Introducere
+Partea introductivã a documentației va cuprinde, succint,
+date cu privire la:
+Ñ obiectul și scopul documentației;
+Ñ date de geografie fizicã și economicã;
+Ñ localizarea administrativã a zãcãmântului sau a perimetrului;
+Ñ obiectul și scopul lucrãrilor geologice executate și
+ipotezele geologice care au stat la baza proiectãrii și executãrii lor;
+Ñ perioada în care s-au executat lucrãrile, volumul fizic
+și valoric al acestora;
+Ñ evoluția cercetãrilor geologice și a exploatãrii;
+Ñ situația resurselor minerale și a rezervelor de substanțe minerale utile evaluate și luate în evidențã anterior
+și a celor evaluate în documentație.
+CAPITOLUL I
+Geologia regiunii
+Se va preciza unitatea structuralã majorã în care se
+situeazã zãcãmântul și se va face o descriere succintã a
+
+stratigrafiei, petrografiei, tectonicii și a evoluției geologice a
+regiunii, astfel:
+Ñ stratigrafia: succesiunea formațiunilor geologice, limite
+geologice, repere stratigrafice, scurtã caracterizare litologicã;
+Ñ tectonica: descrierea structurii, accidente tectonice
+majore, fazele în care acestea au avut loc;
+Ñ alte substanțe minerale utile cunoscute în regiune.
+CAPITOLUL II
+Metodica de cercetare folositã
+Se vor prezenta metodica lucrãrilor de cercetare și
+modul de obținere a datelor de cunoaștere din zãcãmânt,
+astfel:
+Ñ metodica de cercetare folositã: prospecțiuni geologice, geochimice, geofizice, lucrãri de explorare generalã,
+detaliatã, precum și de exploatare, motivarea metodicii de
+cercetare aplicate;
+Ñ lucrãrile de cercetare executate;
+Ñ motivarea distanțelor dintre lucrãrile de cercetare;
+Ñ devierile sondelor, recuperare în util și steril;
+Ñ lucrãrile executate în zãcãmânt, care nu au fost
+luate în considerare în calculul resurselor minerale și al
+rezervelor de substanțe minerale utile, și motivarea excluderii lor;
+Ñ metodologia de probare, numãrul, locul, caracterul
+reprezentantiv al probelor, prelucrarea lor, felul analizelor și
+determinãrilor (mineralogice, petrografice, paleontologice,
+chimice, fizico-mecanice etc.).
+CAPITOLUL III
+Geologia zãcãmântului
+Acest capitol se va elabora pe baza datelor obținute în
+lucrãrile de prospecțiune, explorare și de exploatare și va
+cuprinde:
+Ñ stratigrafia: descrierea detaliatã a formațiunilor cercetate, împãrțite în subunitãți, în ordinea formãrii lor, din
+punct de vedere litologic, mineralogic și paleontologic;
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+
+Ñ petrografia: descrierea detaliatã a formațiunilor sedimentare, metamorfice sau eruptive în care este localizat
+zacãmântul sau care au legãturã geneticã cu acesta.
+Descrierea va cuprinde structura, textura, compoziția mineralogicã, zonele de metamorfism etc.;
+Ñ tectonica: descrierea detaliatã și caracterizarea completã a structurii în care este cuprins zãcãmântul, cu evidențierea direcției și înclinãrii straturilor, cutelor, faliilor,
+sãriturilor faliilor și blocurilor tectonice;
+Ñ regimul gazo-dinamic;
+Ñ substanța mineralã utilã: compoziția chimicã, mineralogicã și petrograficã, parageneza, structura și textura substanței minerale utile, forma și poziția corpurilor de
+substanțã mineralã utilã, natura limitelor acestora, variația
+principalelor caracteristici ale zãcãmântului cu privire specialã asupra conturului și grosimii, descrierea petrograficã a
+rocilor din culcuș și acoperiș;
+Ñ geneza: descrierea condițiilor și proceselor geologice
+care au dus la formarea zãcãmântului.
+CAPITOLUL IV
+Hidrogeologia zãcãmântului
+Acest capitol se va elabora în mãsura în care constituie
+o problemã pentru valorificarea zãcãmântului. În cazul în
+care apar probleme legate de condițiile hidrogeologice,
+documentația va cuprinde:
+Ñ metodica cercetãrilor hidrogeologice, lucrãrile executate și motivarea distanțelor dintre lucrãri;
+Ñ formațiunile acvifere, caracteristicile lor: numãr, grosime, adâncime, poziție fațã de zãcãmânt, alcãtuire litologicã, granulație, conținut în argilã, prezența gazelor etc.;
+Ñ parametrii hidrogeologici: porozitate, coeficient de filtrație, coeficient de cedare, debit, presiune, nivel hidrostatic,
+direcție de curgere etc.;
+Ñ sursa de alimentare a formațiunilor acvifere;
+Ñ nivelul apelor freatice stabilit cu ajutorul forajelor și
+al puțurilor;
+Ñ posibilitãțile de asecare pe baza rezultatelor obținute
+în cercetãrile experimentale;
+Ñ concluzii privind gradul de cunoaștere a condițiilor
+hidrogeologice.
+CAPITOLUL V
+Caracterizarea calitativã a substanței minerale utile
+Acest capitol se va elabora pe baza rezultatelor analizelor și determinãrilor de laborator și tehnologice, obținute pe
+materialul recoltat din lucrãrile executate pânã la data la
+care se calculeazã resursele minerale și rezervele de substanțe minerale utile, astfel:
+Ñ compoziția mineralogicã și petrograficã exprimatã în
+procente, variația acesteia în cuprinsul zãcãmântului pe
+direcție și înclinare; mãrimea granulelor mineralelor utile și
+gradul de concreștere a acestora cu minerale nevalorificabile; etapele de depunere sau de formare a mineralelor
+utile, fenomene de alterare;
+Ñ compoziția chimicã exprimatã, dupã caz, în procente
+sau g/t, variația acesteia în cuprinsul zãcãmântului pe
+direcție și înclinare, insistându-se asupra componenților utili
+principali și pe accesoriile valorificabile, precum și asupra
+componenților dãunãtori, pentru fiecare corp de substanțã
+mineralã utilã;
+Ñ compoziția chimicã se prezintã detaliat numai pentru
+substanțele minerale utile din care se valorificã anumiți
+componenți sau pentru substanțele a cãror valorificare este
+condiționatã de îndeplinirea anumitor condiții de compoziție
+chimicã, stabilite prin standarde de stat sau prin norme;
+Ñ caracteristicile fizice și mecanice ale substanței minerale utile și variația lor în cuprinsul zãcãmântului, determinate pe baza prevederilor standardelor de stat și ale
+normelor în care se stabilesc condiții tehnice pentru anumite domenii de valorificare; mãsura în care rezultatele
+determinãrilor individuale și ale valorilor medii se încadreazã în prevederile standardelor de stat și ale normelor;
+
+Ñ concluzii privind gradul de cunoaștere a caracteristicilor calitative.
+CAPITOLUL VI
+Condiții tehnico-economice de exploatare,
+preparare sau prelucrare și de valorificare a substanțelor
+minerale utile
+Capitolul va cuprinde condițiile tehnico-miniere și tehnologia de exploatare, condițiile tehnice și tehnologia de preparare-prelucrare și condițiile economice de valorificare a
+substanței minerale utile, ținându-se seama de rezultatele
+exploatãrilor experimentale, ale cercetãrilor tehnologice de
+preparare-prelucrare efectuate sau de cele obținute din
+valorificarea curentã.
+CAPITOLUL VII
+Evaluarea resurselor minerale/rezervelor
+Acest capitol va cuprinde datele de bazã care fundamenteazã calculul și situația resurselor minerale și a rezervelor de substanțe minerale utile, astfel:
+Ñ metoda de calcul adoptatã și motivarea ei, în funcție
+de forma zãcãmântului, de amplasarea lucrãrilor de cercetare și de gradul de cunoaștere obținut;
+Ñ metodele de determinare a parametrilor de calcul:
+conturarea și evaluarea suprafețelor de calcul; justificarea
+distanțelor de extrapolare, determinarea grosimii în punctele
+de cunoaștere, justificarea grosimilor minime luate în considerare, metoda de determinare a grosimilor medii; metoda
+de determinare a greutãții volumetrice; metodele de
+determinare a caracteristicilor calitative sau a conținuturilor
+medii; coeficienții de corecție utilizați, motivarea lor.
+VII.1. Evaluarea resurselor
+
+Ñ situația resurselor minerale pe corpuri de substanțã
+mineralã utilã, sorturi industriale și pe zãcãmânt sau perimetru, clasificate în categorii și grupe;
+Ñ analiza gradului de precizie a cantitãții și calitãții
+resurselor minerale, stabilit fie direct, prin metode statistice
+și geostatistice, fie prin compararea rezultatelor obținute
+prin îndesirea rețelei lucrãrilor ori prin compararea resurselor minerale și a rezervelor de substanțe minerale utile cu
+rezultatele abatajelor experimentale, ale probelor tehnologice sau ale exploatãrii curente, interpretarea rezultatelor
+analizelor de control intern, extern și ale probelor excepționale.
+VII.2. Evaluarea rezervelor
+
+În acest subcapitol, avându-se în vedere condițiile tehnico-economice de exploatare, preparare-prelucrare și de
+valorificare, se fac propuneri privind promovarea resurselor
+minerale în categoria rezerve, astfel:
+Ñ situația rezervelor pe corpuri de substanțã mineralã
+utilã, sorturi industriale și pe zãcãmânt sau perimetru, clasificate în categorii și grupe;
+Ñ analiza gradului de precizie a cantitãții și calitãții
+rezervelor de substanțe minerale utile, stabilit fie direct, prin
+metode statistice și geostatistice, fie prin compararea rezultatelor obținute prin îndesirea rețelei lucrãrilor ori prin compararea rezervelor de substanțe minerale utile cu rezultatele
+abatajelor experimentale, ale probelor tehnologice sau ale
+exploatãrii curente, interpretarea rezultatelor analizelor de
+control intern și extern;
+Ñ condițiile tehnico-economice care au stat la baza propunerii de clasificare a rezervelor;
+Ñ justificarea clasificãrii în categorii a rezervelor propuse, calculate pe unitãți de calcul, corpuri de substanțã
+mineralã utilã, sorturi industriale, perimetre, zãcãmânt;
+Ñ evoluția și mișcarea resurselor minerale și a rezervelor propuse; compararea acestora cu resursele
+minerale/rezervele evaluate anterior, precum și cu cele
+luate în evidența de stat centralizatã;
+Ñ justificarea modificãrilor survenite pentru fiecare unitate de calcul și gruparea lor în funcție de principalele
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+cauze care le-au determinat: extracție, pierderi, identificãri,
+promovãri și retrogradãri, recalculãri datorate modificãrii
+parametrilor de calcul și scoateri din evidențã (abandonãri
+de rezervã).
+CAPITOLUL VIII
+Concluzii
+Principalele concluzii privind gradul de cunoaștere a:
+Ñ conturului, formei, grosimii, continuitãții, poziției în
+spațiu, caracteristicilor rocilor din culcuș și acoperiș și
+hidrogeologiei zãcãmântului;
+Ñ compoziției mineralogice, caracteristicilor calitative,
+conținuturilor în componenți utili și dãunãtori, precum și a
+variațiilor acestora;
+Ñ condițiilor tehnico-economice de exploatare, preparare
+și valorificare.
+Propuneri privind:
+Ñ luarea în evidențã a resurselor minerale și a rezervelor de substanțe minerale utile calculate cantitativ și calitativ, clasificate în categorii;
+Ñ continuarea activitãții de cercetare geologicã pentru
+mãrirea cantitãții resurselor minerale și a rezervelor de substanțe minerale utile și adâncirea gradului de cunoaștere a
+acestora.
+B. Anexe la text
+
+Anexele la text vor cuprinde materialele necesare pentru
+justificarea, completarea și detalierea datelor prezentate în
+textul documentațiilor, astfel:
+Ñ descrierea aflorimentelor, dezvelirilor, șanțurilor, puțurilor, galeriilor, planurilor înclinate, nișelor, carotelor obținute
+în foraje etc. în zonele în care au traversat corpurile de
+substanțã mineralã utilã;
+Ñ rezultatele mãsurãtorilor hidrogeologice;
+Ñ tabele cu calculul devierii forajelor;
+Ñ tabel cu coordonatele topogeodezice ale lucrãrilor de
+cercetare și de exploatare, care fundamenteazã evaluarea
+resurselor minerale și a rezervelor;
+Ñ tabel sinoptic cu rezultatele (carotaj mecanic și geofizic) forajelor executate în perimetru (numai pentru cãrbuni);
+Ñ tabele cu rezultatele analizelor și ale determinãrilor
+pe probe;
+Ñ tabele cu rezultatele analizelor și ale determinãrilor
+de control intern și extern și prelucrarea lor;
+Ñ studii elaborate de agenții economici specializați privind situația hidrogeologicã, compoziția mineralogicã, respectiv petrograficã, caracteristicile fizico-mecanice, condițiile
+tehnico-economice de exploatare, preparare-valorificare;
+Ñ tabele cu stabilirea valorilor medii ale parametrilor de
+calcul și tabele cu evaluarea resurselor minerale și a rezervelor de substanțã mineralã utilã pe unitãți de calcul;
+
+5
+
+Ñ tabele centralizatoare cu resursele/rezervele calculate
+pe sorturi industriale, corpuri de substanțã mineralã, pe
+perimetre, clasificate în categorii;
+Ñ tabele cu calculul resurselor minerale imobilizate în
+pilieri sau documentația pilierilor de siguranțã.
+C. Materiale grafice
+
+Ñ harta administrativã cu localizarea zãcãmântului;
+Ñ harta geologicã a regiunii la scara: 1:10.000,1:25.000
+sau 1:50.000, care va cuprinde principalele lucrãri de prospecțiune, explorare și exploatare executate;
+Ñ secțiuni geologice transversale și longitudinale prin
+regiunea zãcãmântului, la scara hãrții;
+Ñ planul cu situația geologicã a zãcãmântului la scara
+1:1.000, 1:5.000 sau 1:25.000, cu amplasamentele lucrãrilor
+executate;
+Ñ secțiuni geologice transversale și longitudinale la
+scara planurilor de situație;
+Ñ planul de ansamblu al minei pentru zãcãmintele în
+exploatare sau explorate, cu lucrãri miniere executate la
+mai multe orizonturi, la scara 1:5.000, 1:2.000 sau 1:1.000;
+Ñ planuri geologico-miniere de orizont și/sau de felie de
+exploatare, la scara 1:2.000, 1:500, pentru zãcãmintele în
+exploatare sau explorate, cu lucrãri miniere la mai multe
+orizonturi, cuprinzând și caracteristicile calitative pe probe;
+Ñ planuri cu situația resurselor minerale și/sau rezervelor de substanțe minerale utile, care cuprind conturul resurselor minerale și al rezervelor de substanțe minerale utile
+pe unitãți de calcul, corpuri de substanțã mineralã utilã, pe
+categorii de resurse minerale/rezerve, la scara 1:5.000,
+1:2.000, 1:1.000;
+Ñ secțiuni transversale și longitudinale prin corpurile de
+substanțã mineralã utilã necesare pentru calculul resurselor
+minerale și al rezervelor de substanțe minerale utile, la
+scara planurilor cu situația resurselor minerale și a rezervelor de substanțe minerale utile;
+Ñ hãrți cu izolinii, pe baza cãrora s-au conturat resursele minerale și/sau rezervele.
+În cazul zãcãmintelor stratiforme cu poziție orizontalã
+sau cu înclinare micã, cu un singur corp de substanțã
+mineralã utilã, situat aproape de suprafațã, conturul resurselor minerale/rezervelor poate fi trasat pe planul cu situația geologicã a zãcãmântului.
+Pe planurile și secțiunile cu calculul resurselor minerale
+și al rezervelor de substanțe minerale utile se vor indica,
+prin hașuri, zonele exploatate, pe ani:
+Ñ profilurile geologice și hidrogeologice ale forajelor;
+Ñ diagrafiile carotajelor geofizice;
+Ñ cartãrile desfãșurate ale lucrãrilor miniere.
+
+AGENÞIA NAÞIONALÃ
+PENTRU RESURSE MINERALE
+CONÞINUTUL-CADRU AL DOCUMENTAÞIILOR TEHNICE
+PENTRU DELIMITAREA ȘI FUNDAMENTAREA PERIMETRELOR DE PROSPECÞIUNE/EXPLORARE
+PENTRU SUBSTANÞE MINERALE UTILE
+
+Instrucțiunea tehnicã nr. 85-03/1998
+1. Perimetrul de prospecțiune-explorare pentru resurse
+a) Piese scrise:
+1. Memoriu justificativ, care va cuprinde:
+minerale se definește ca aria corespunzãtoare proiecției la
+Ð denumirea perimetrului, care se stabilește în funcție
+suprafațã, în sistemul de referințã ”Stereografic 1970,,, a
+de unitatea administrativã pe raza cãruia este situat;
+conturului pãrții din scoarța terestrã, în interiorul cãreia, pe
+Ð resursa mineralã;
+un interval de adâncime determinat, se realizeazã lucrãri
+Ð date privind localizarea geograficã a perimetrului,
+descrierea reliefului, vegetației, cãile de comunicație etc.
+de prospecțiune-explorare.
+2. Documentația de delimitare a perimetrelor de pros- din zonã;
+Ð denumirea și coordonatele punctelor de sprijin din
+pecțiune-explorare constituie anexa la programul de lucrãri rețeaua geodezicã de stat în sistemul de referințã
+propus de solicitantul perimetrului de prospecțiune-explorare ”Stereografic 1970,,, folosite la mãsurãtorile topografice, și
+și se compune din urmãtoarele:
+coordonatele punctelor care delimiteazã perimetrul.
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+
+2. Notã de constatare a inspectoratului zonal (secției) al
+Agenției Naționale pentru Resurse Minerale privind confirmarea datelor din memoriu, în cazul perimetrelor de explorare.
+
+b) Piese desenate:
+Ð fișa-tip a perimetrului de explorare, la scara cuprinsã
+între 1:25.000 Ñ 1:200.000, conform modelului (anexa).
+ANEXÃ
+
+FIȘA PERIMETRULUI DE PROSPECÞIUNE/EXPLORARE
+
+În acest spațiu (1/2 A4) se reprezintã, la scarã, zona în care se aflã localizat perimetrul.
+Se vor figura: caroiajul rectangular în sistemul de referințã ”Stereografic 1970,,, conturul
+perimetrului solicitat, la scara 1:25.000 Ð 1:200.000, elemente de toponimie și de relief (drumuri, localitãți, construcții, diguri, cãi ferate, rețeaua hidrograficã, perimetrele vecine și denumirea lor, puncte din rețeaua geodezicã, direcția nord etc.).
+Consultați: Legea cadastrului și a publicitãții imobiliare nr. 7/1996; Hotãrârea Guvernului
+nr. 834/1991, cu modificãrile ulterioare, și criteriile de aplicare; Normele tehnice privind executarea lucrãrilor de cadastru general, stabilite prin Ordinul nr. CP. 186/1997 al președintelui
+Oficiului Național de Cadastru, Geodezie și Cartografie.
+Pentru relații:
+Agenția Naționalã pentru Resurse Minerale Ñ
+Direcția generalã gospodãrire resurse minerale
+Fondul național de perimetre concesionabile, cãrți miniere și petroliere;
+tel. 01/659.55.04, interior 125
+
+1. Localizarea perimetrului
+1.1 Coordonatele de delimitare a perimetrului
+Pct.
+X
+Y
+
+1.2
+1.3
+1.4
+1.5
+
+2. Date privind perimetrul
+2.1 Denumirea perimetrului:
+2.2 Numãrul TOPO:
+2.3 Substanța:
+2.4 Faza lucrãrilor:
+2.5 Numãrul licenței:
+Observații:
+
+Sistem de referințã: ”Stereografic 1970,,
+Limita în adâncime: z =
+m
+Suprafața:
+s =
+ha
+Localizare administrativ-teritorialã:
+
+AGENÞIA NAÞIONALÃ
+PENTRU RESURSE MINERALE
+CONÞINUTUL-CADRU AL DOCUMENTAÞIILOR TEHNICE
+PENTRU DELIMITAREA ȘI FUNDAMENTAREA PERIMETRELOR DE DEZVOLTARE-EXPLOATARE
+PENTRU RESURSE MINERALE
+
+Instrucțiunea tehnicã nr. 85-04/1998
+1. Perimetrul de exploatare pentru resurse minerale se
+definește ca aria corespunzãtoare a proiecției la suprafațã,
+în sistemul de referințã ”Stereografic 1970,,, a conturului
+pãrții din scoarța terestrã, în interiorul cãreia, pe un interval
+de adâncime determinat, este permisã extragerea resurselor/rezervelor minerale. În cadrul perimetrului astfel determinat pot fi incluse și suprafețele de teren necesare
+organizãrii activitãților de extracție și prelucrare, situate în
+afara zãcãmântului.
+2. Documentația de delimitare și fundamentare a perimetrelor de exploatare constituie anexa la studiul de fezabilitate prevãzut la art. 10 din Legea minelor nr. 61/1998.
+
+3. Documentația pentru delimitarea și fundamentarea
+perimetrelor de exploatare se compune din urmãtoarele:
+a) Piese scrise:
+1. Memoriu justificativ, care va cuprinde:
+Ð denumirea perimetrului, care se stabilește în funcție
+de unitatea administrativã pe raza cãruia este situat;
+Ð substanța extrasã;
+Ð date privind localizarea geograficã a perimetrului,
+descrierea reliefului, vegetației, cãile de comunicație,
+construcții etc. din zonã;
+Ð denumirea și coordonatele punctelor de sprijin din
+rețeaua geodezicã de stat în sistemul de referințã
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+”Stereografic 1970,,, folosite la mãsurãtorile topografice, și
+coordonatele punctelor care delimiteazã perimetrul;
+Ð date și documente necesare realizãrii cadastrului
+minier (terenuri cu folosințã minierã deținute în cadrul perimetrului, destinația acestora, suprafața, numãrul cadastral,
+acte legale de deținere etc.);
+Ð date de cunoaștere a formațiunilor purtãtoare de
+substanțe minerale utile și justificarea limitelor perimetrului
+solicitat;
+Ð precizarea obiectivelor de la suprafațã, care se apreciazã a fi protejate, și mãsurile care se impun pentru protejarea acestora, stabilite de comun acord cu factorii
+interesați în protejarea lor (pilieri);
+Ð enumerarea documentației grafice, existentã în limitele
+perimetrului solicitat (hãrți, planuri topografice ale suprafeței
+și subteranului etc.), anul execuției, sistemul de referințã,
+scara și executantul;
+Ð mãsuri necesare pentru protecția zãcãmântului și a
+lucrãrilor miniere (pilieri).
+2. Notã de constatare a inspectoratului zonal (secției) al
+Agenției Naționale pentru Resurse Minerale privind confirmarea datelor din memoriu.
+
+7
+
+b) Piese desenate:
+Ð fișa-tip a perimetrului de exploatare, la scara cuprinsã
+între 1:25.000 Ñ 1:200.000, conform modelului (anexa);
+Ð planul topografic de ansamblu al perimetrului de
+exploatare, executat în sistemul de referințã propriu bazinului minier în care este inclus, cu elemente de racordare la
+sistemul de referințã ”Stereografic 1970,,, pe care se vor
+reprezenta:
+¥ conturul perimetrului solicitat;
+¥ conturul resurselor/rezervelor ce urmeazã a se extrage
+din zãcãmânt;
+¥ locațiile lucrãrilor de cercetare geologicã și a altor
+lucrãri miniere executate;
+¥ curbe de nivel corespunzãtoare scãrii de întocmire a
+planului;
+¥ suprafețele de teren deținute, indiferent de modul
+dobândirii;
+¥ lucrãrile și construcțiile miniere principale de la suprafațã și subteran, existente la data solicitãrii licenței.
+
+ANEXÃ
+
+FIȘA PERIMETRULUI DE EXPLOATARE
+
+În acest spațiu (1/2 A4) se reprezintã, la scarã, zona în care se aflã localizat perimetrul.
+Se vor figura: caroiajul rectangular în sistemul de referințã ”Stereografic 1970,,, conturul
+perimetrului solicitat, la scara 1:25.000Ð1:200.000, elemente de toponimie și de relief (drumuri,
+localitãți, construcții, diguri, cãi ferate, rețeaua hidrograficã, perimetrele vecine și denumirea lor,
+puncte din rețeaua geodezicã, direcția nord etc.).
+Consultați: Legea cadastrului și a publicitãții imobiliare nr. 7/1996; Hotãrârea Guvernului
+nr. 834/1991, cu modificãrile ulterioare, și criteriile de aplicare; Normele tehnice privind executarea lucrãrilor de cadastru general, stabilite prin Ordinul nr. CP. 186/1997 al președintelui
+Oficiului Național de Cadastru, Geodezie și Cartografie.
+Pentru relații:
+Agenția Naționalã pentru Resurse Minerale Ñ
+Direcția generalã gospodãrire resurse minerale
+Fondul național de perimetre concesionabile, cãrți miniere și petroliere;
+tel. 01/659.55.04, interior 125
+
+1. Localizarea perimetrului
+1.1 Coordonatele de delimitare a perimetrului
+Pct.
+X
+Y
+
+1.2
+1.3
+1.4
+1.5
+
+Sistem de referințã: ”Stereografic 1970,,
+Limita în adâncime: z =
+m
+Suprafața:
+s =
+ha
+Localizare administrativ-teritorialã:
+
+2. Date privind perimetrul
+2.1 Denumirea perimetrului:
+2.2 Numãrul TOPO:
+2.3 Substanța:
+2.4 Faza lucrãrilor:
+2.5 Numãrul licenței:
+Observații:
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+AGENÞIA NAÞIONALÃ
+
+PENTRU RESURSE MINERALE
+CONÞINUTUL-CADRU AL DOCUMENTAÞIILOR TEHNICE
+PENTRU FUNDAMENTAREA ȘI INSTITUIREA PERIMETRELOR DE PROTECÞIE HIDROGEOLOGICÃ
+PENTRU ZÃCÃMINTE DE APE SUBTERANE, DE NÃMOLURI ȘI TURBE TERAPEUTICE
+
+Instrucțiunea tehnicã nr. 85-05/1998
+1. Perimetrul de protecție hidrogeologicã se definește ca
+teritoriul necesar protecției zãcãmintelor de ape subterane
+minerale și termominerale, zonele de alimentare și zona de
+drenare sursã.
+2. Documentația de instituire este prevãzutã la art. 40
+lit. i) din Legea minelor nr. 61/1998 și se compune din:
+a) Piese scrise:
+1. Studiu hidrogeologic, care cuprinde:
+Ð date geomorfologice;
+Ð date stratigrafice și tectonice;
+Ð date hidrogeologice, aspectul hidrogeologic general al
+zãcãmântului, parametrii hidrogeologici ai surselor din zona
+respectivã, considerații hidrochimice și geneza lor.
+
+b) Piese desenate:
+Ð harta morfologicã, cu delimitarea perimetrului propus;
+Ð fișa-tip a perimetrului de protecție hidrogeologicã, la
+scara cuprinsã între 1:100.000 Ñ 1:500.000 (anexa);
+Ð harta geologico-hidrogeologicã a zonei;
+Ð tabele și grafice privind compozițiile chimice, temperaturile, nivelul hidrostatic, debitele etc.
+c) Propuneri și recomandãri speciale, interdicții asupra
+activitãților de orice fel, care pot influența cantitativ și calitativ zãcãmintele respective.
+ANEXÃ
+
+FIȘA PERIMETRULUI DE PROTECÞIE HIDROGEOLOGICÃ
+
+În acest spațiu (1/2 A4) se reprezintã, la scarã, zona în care se aflã localizat perimetrul.
+
+Se vor figura: caroiajul rectangular în sistemul de proiecție ”Stereografic 1970,,, conturul
+perimetrului solicitat, la scara 1:100.000 Ð 1:500.000, elemente de toponimie și de relief (drumuri, localitãți, construcții, diguri, cãi ferate, rețeaua hidrograficã, perimetrele vecine și denumirea lor, puncte din rețeaua geodezicã, direcția nord etc.).
+
+Pentru relații:
+Agenția Naționalã pentru Resurse Minerale Ñ
+Direcția generalã gospodãrire resurse minerale
+Fondul național de perimetre concesionabile, cãrți miniere și petroliere;
+tel. 01/659.55.04, interior 125
+
+1.
+
+Localizarea perimetrului
+
+2.
+
+Avizarea perimetrului
+
+1.1 Coordonatele de delimitare a perimetrului
+
+2.1 Avizul A.N.R.M. nr.:
+
+Pct.
+
+2.2 Denumirea perimetrului:
+
+X
+
+Y
+
+2.3 Numãrul TOPO:
+2.4 Substanța:
+2.5 Faza lucrãrilor:
+2.6 Numãrul licenței:
+
+1.2 Sistem de referințã: ”Stereografic 1970,,
+1.3 Limita în adâncime:
+
+z =
+
+m
+
+1.4 Suprafața:
+
+s =
+
+ha
+
+1.5 Localizare administrativ-teritorialã:
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+
+9
+
+AGENÞIA NAÞIONALÃ
+PENTRU RESURSE MINERALE
+CONÞINUTUL-CADRU AL PLANULUI DE DEZVOLTARE A EXPLOATÃRII MINIERE
+
+Instrucțiunea tehnicã nr. 85-06/1998
+Preambul
+
+1. Documentația Planului de dezvoltare a exploatãrii se
+realizeazã pentru un perimetru de dezvoltare-exploatare, din
+inițiativa titularului. Documentația va trebui sã evalueze
+întreaga activitate minierã de cercetare de detaliu, necesarã
+exploatãrii, denumitã în continuare explorare, de dezvoltarepregãtire-extracție, denumitã în continuare exploatare, de
+prelucrare-preparare, valorificare, respectiv protecția factorilor de mediu și a zãcãmântului, pe toatã durata de valabilitate a licenței. În acest document se adoptã strategia de
+dezvoltare pe termen mediu și lung și se adoptã soluțiile
+care sã asigure viabilitatea economicã a activitãților miniere
+(conținutul-cadru este prezentat în detaliu la pct. 3).
+2. Planul de dezvoltare a exploatãrii va fi detaliat, la
+începutul și pe parcursul activitãților miniere, în studii tehnico-economice de exploatare, care vor fi avizate de
+Agenția Naționalã pentru Resurse Minerale.
+3. Activitatea curentã se va conduce pe baza preliminariilor anuale (trimestriale) de producție, care adoptã soluții
+ce derivã din Planul de dezvoltare a exploatãrii și proiectele de execuție (DDE) pentru toate secțiunile activitãții
+miniere, la care se adaugã proiectul bugetului de venituri și
+cheltuieli, deopotrivã cu reevaluarea șanselor oferite de
+mecanismul pieței (conținutul-cadru este detaliat prin
+instrucțiuni separate).
+Conținutul-cadru al planului de dezvoltare
+a exploatãrii
+(cuprinsul este obligatoriu și minimal)
+A. Memoriu tehnic
+
+1. Prezentarea perimetrului de dezvoltare-exploatare:
+Ð denumirea perimetrului de dezvoltare-exploatare;
+Ð localizarea geografico-administrativã, descrierea reliefului, cãi de comunicație etc.;
+Ð descrierea terenurilor ce vor fi utilizate pentru activitãțile miniere; suprafețe;
+Ð delimitarea pilierilor și planșeelor de protecție pentru
+protejarea obiectivelor de la suprafațã.
+2. Date geologice asupra zãcãmântului, situația resurselor și a rezervelor:
+Ð aspecte generale privind geologia regiunii și a zãcãmântului;
+Ð situația cantitativã și calitativã a resurselor;
+Ð prezentarea cantitativã și calitativã a rezervelor;
+Ð mișcarea resurselor și a rezervelor;
+Ð prezentarea factorilor cu caracter natural, care vor
+influența alegerea schemei de deschidere, a metodelor de
+exploatare și a tehnicilor de preparare: relieful, localizarea
+spațialã, conturul, forma, tectonica, dimensiunile, unghiurile
+de înclinare, caracteristicile fizico-mecanice ale corpurilor de
+substanțã mineralã utilã și ale rocilor înconjurãtoare, stabilitatea rocilor, condițiile hidrogeologice și gazodinamice, tendința la autoaprindere, existența zonelor sau a intercalațiilor
+sterile.
+3. Metode și lucrãri miniere de deschidere:
+Ð descrierea schemei de deschidere existente (dupã
+caz), identificarea principalelor lucrãri miniere, starea lucrãrilor etc.;
+Ð variante de deschidere pentru punerea în funcțiune,
+menținerea sau creșterea capacitãții de producție;
+
+Ð alegerea variantei optime de deschidere, eșalonarea
+lucrãrilor;
+Ð stabilirea pilierilor pentru protecția lucrãrilor miniere
+principale;
+Ð dinamica rezervelor deschise, stabilirea gradului de
+asigurare cu rezerve deschise.
+4. Alegerea metodei de exploatare:
+Ð grosimea minimã de exploatare;
+Ð prezentarea metodelor de exploatare, care se preteazã situației din zãcãmânt și care pot genera capacitãțile
+de producție cerute;
+Ð criterii de alegere a metodei (metodelor) optime raportate la disponibilitãțile tehnice;
+Ð variante tehnologice;
+Ð prezentarea metodei (metodelor) optime de exploatare.
+5. Lucrãri miniere de pregãtire:
+Ð amplasarea și tipul lucrãrilor miniere de pregãtire,
+adaptate metodei de exploatare și condițiilor de zãcãmânt;
+Ð tehnologii de execuție;
+Ð eșalonarea execuției, decalajul fațã de celelalte lucrãri,
+cantitatea de util/steril rezultatã, ponderea din totalul producției, rezultatã din pregãtiri, gradul de asigurare cu
+rezerve pregãtite, dinamica acestor rezerve.
+6. Lucrãri miniere de exploatare:
+Ð amplasarea unitãților de exploatare (abatajelor);
+Ð succesiunea normalã de exploatare, denivelãri (decalaje) maxime pentru evitarea subminãrii și limitarea tendinței la autoaprindere;
+Ð stabilirea producției pe metode, blocuri, panouri etc.;
+Ð eșalonarea producției pe metode;
+Ð calitatea producției (conținuturi în util, cenușã etc.),
+pierderi de rezervã;
+Ð mãsurarea producției;
+Ð produs rezidual (steril), haldã tehnologicã;
+Ð gradul de folosire a capacitãții.
+7. Indicatori tehnici privind deschiderea, pregãtirea,
+exploatarea și cercetarea de detaliu:
+Ð consumul de lucrãri de deschidere și pregãtire
+(m l/1.000 tone, m3/1.000 tone);
+Ð gradul de asigurare cu rezerve deschise, normat și
+anticipat;
+Ð gradul de asigurare cu rezerve pregãtite
+(m l/1.000 tone, m3/1.000 tone);
+Ð gradul de folosire a capacitãții în exploatare;
+Ð eficiența lucrãrilor de cercetare de detaliu (promovãri
+rezerve/U.M. lucrãri);
+Ð consumuri specifice și efective (materiale, energie
+electricã, aer comprimat etc.) pe tipuri de activitãți miniere.
+8. Capacitãți de producție:
+Ð stabilirea capacitãților de producție proiectate;
+Ð verificarea capacitãților de producție existente și/sau
+care se vor pune în funcțiune, fațã de sistemul existent de
+transport, aeraj, evacuarea apelor etc.;
+Ð eșalonarea punerilor în funcțiune, mișcarea capacitãților.
+9. Lucrãri de cercetare geologicã de detaliu:
+Ð variante ale amplasãrii și genuri de lucrãri (miniere de
+suprafațã, de subteran, foraje, probãri etc.) necesare dirijãrii exploatãrii sau în zona de dezvoltare a perimetrului de
+exploatare, pentru promovarea de noi resurse valorificabile;
+Ð alegerea variantei optime, care sã asigure un grad de
+cunoaștere geologicã de 90Ð95%;
+Ð graficul de eșalonare a lucrãrilor;
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+
+Ð eficiența lucrãrilor în raport cu rezultatele preconizate.
+10. Prelucrare-preparare. Produse finite:
+Ð tehnologie, capacitate proiectatã;
+Ð input, output (conținuturi de util, cenușã etc.), grad de
+folosire a capacitãții;
+Ð produsul minier comercializabil;
+Ð produsul rezidual, haldã tehnologicã și iazuri de
+decantare;
+Ð randamente de preparare, pierderi.
+11. Organizarea suprafeței:
+Ð utilitãți existente.
+12. Transport, telecomunicații, teledetecție:
+Ð schema și tipurile de transport în subteran și/sau la
+suprafațã pentru personal, pentru util și steril;
+Ð capacitatea de transport;
+Ð mãsurarea producției;
+Ð sistemul de telecomunicații;
+Ð sistemul de teledetecție, stații de degazare.
+13. Aeraj, evacuarea apei, alimentarea cu energie, aer
+comprimat și apã:
+Ð schema rețelelor de aeraj, stații de ventilatoare (capacitate proiectatã și efectivã);
+Ð calculul rețelelor de aeraj, raportat la capacitãțile și
+nivelurile de producție, rezistențã, orificiu echivalent etc.;
+Ð stații de pompare a apei, relee de pompare pânã la
+suprafațã, corelãri;
+
+Ð rețele de alimentare cu energie electricã de înaltã și
+joasã tensiune, stații și puncte de transformare, putere
+instalatã etc.;
+Ð stații de producere a aerului comprimat, rețele, necesar etc.;
+Ð surse și rețele de alimentare cu apã potabilã și industrialã, necesar de apã în caz de incendiu.
+14. Protecția zãcãmântului și a mediului:
+Ð capacitatea de haldare și amplasamentul haldelor și al
+iazurilor de decantare;
+Ð prognoza afectãrii suprafeței;
+Ð mãsuri de prevenire a focurilor endogene și a erupțiilor de gaz;
+Ð mãsuri pentru prevenirea viiturilor de ape, erupțiilor de
+borchiș și a inundațiilor;
+Ð mãsuri pentru prevenirea surpãrilor și a alunecãrilor
+de teren sau ale haldelor;
+Ð mãsuri de urmãrire a pilierilor de protecție;
+Ð construcții și amenajãri speciale (stații de epurare,
+diguri, drenuri, rambleuri etc.);
+Ð concluziile bilanțului de mediu și ale planului de conformare (dupã caz).
+Bibliografie:
+Ð nominalizarea documentațiilor care au stat la baza
+întocmirii prezentei instrucțiuni, a surselor de proveniențã și
+a legalitãții utilizãrii lor.
+
+AGENÞIA NAÞIONALÃ
+PENTRU RESURSE MINERALE
+PERMISUL DE EXPLOATARE
+
+Instrucțiunea tehnicã nr. 85-07/1998
+Prezentele instrucțiuni fac referire și detaliazã art. 18Ð20
+din Legea minelor nr. 61/1998, respectiv art. 31 din normele de aplicare a legii.
+1. Permisul de exploatare este actul juridic emis de
+Agenția Naționalã pentru Resurse Minerale, prin care se
+acordã dreptul de exploatare, pe termen limitat, a unor
+cantitãți determinate de roci utilizabile în construcții, turbã
+și aur aluvionar, care nu îndeplinesc condițiile de a fi definite ca zãcãminte concesionabile.
+2. Nu întrunesc condițiile de a fi definite ca zãcãminte
+concesionabile acumulãrile de resurse minerale care nu au
+fost supuse unui proces de cercetare specificã detaliatã
+și/sau la care nu au fost identificate, calculate și înregistrate rezerve valorificabile în evidențele de resurse minerale
+naționale, la data solicitãrii acordãrii permisului de exploatare.
+De asemenea, se pot acorda permise de exploatare și
+pentru zãcãmintele concesionabile, care, deși au fãcut
+obiectul unui concurs de oferte, nu au fost solicitate pentru
+concesionare.
+3. Roci utilizabile în construcții sunt rocile care, direct sau
+prin prelucrare primarã, se utilizeazã în construcții; în
+aceastã categorie se încadreazã: nisipurile, pietrișurile, gresiile, marnele, argilele, calcarele, tufurile, travertinele, dolomitele, gnaisurile, amfibolitele, micașisturile, graniturile,
+riolitele, granodioritele, andezitele, dioritele, porfirele, bazaltele și diabazele.
+4. Exploatarea resurselor minerale prin permis de
+exploatare se efectueazã, conform prevederilor legii, de
+cãtre:
+
+a) persoanele juridice specializate în desfãșurarea unor
+astfel de activitãți sau care se organizeazã în acest scop;
+b) persoanele fizice specializate în desfãșurarea unor
+astfel de activitãți sau care se organizeazã în acest scop
+și care trebuie sã îndeplineascã și celelalte prevederi
+legale privind drepturile și obligațiile cu privire la regimul
+fiscal din România.
+5. Permisul de exploatare se elibereazã, conform legii,
+primului solicitant, persoanã fizicã sau juridicã. Dreptul la
+inițiativã pentru obținerea permisului de exploatare se poate
+exercita oricând pe parcursul anului calendaristic.
+Solicitarea constã, dupã caz, din: cerere, documentație tehnicã (anexa nr. 1 la prezenta instrucțiune) și fișa de localizare a perimetrului (anexa nr. 2 la prezenta instrucțiune).
+6. Noțiunea de termen limitat se referã la faptul cã
+Agenția Naționalã pentru Resurse Minerale elibereazã permisele de exploatare pe o perioadã de maximum un an,
+prin negociere cu solicitantul, și le poate reînnoi. Dacã pe
+durata de valabilitate a permisului de exploatare apar
+solicitãri de concesionare a perimetrului respectiv, se
+urmeazã procedura de concesionare prevãzutã de lege.
+Câștigãtorul concursului de ofertã, respectiv concesionarul validat, își va începe activitatea în perimetru dupã expirarea valabilitãții permisului de exploatare în exercițiu.
+7. Noțiunea de cantitate determinatã se referã la cantitatea maximalã limitã de exploatare, exprimatã în metri cubi
+sau în tone, negociatã cu Agenția Naționalã pentru
+Resurse Minerale în baza solicitãrii celor interesați.
+8. Eliberarea permiselor de exploatare se face dupã ce
+operatorii solicitanți prezintã avizele prevãzute de legislația
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+în vigoare în domeniul gospodãririi apelor și în domeniul
+protecției mediului, dupã caz.
+9. Pentru obținerea permisului de exploatare solicitanții
+sunt obligați la plata taxei pe activitatea de exploatare și a
+redevenței miniere, în condițiile legii.
+Plata taxei se va face la data eliberãrii permisului, iar a
+redevenței, trimestrial, pe durata valabilitãții permisului de
+exploatare.
+10. La data emiterii permisului de exploatare, beneficiarii acestuia au obligația de a depune la organul fiscal de
+care aparțin declarația de înregistrare ca plãtitori de taxe
+și redevențe miniere.
+11. Obținerea permisului de exploatare nu conferã operatorilor dreptul ulterior de concesionare directã și nici dreptul de reînnoire obligatorie a permisului de cãtre Agenția
+Naționalã pentru Resurse Minerale.
+12. Activitatea desfãșuratã pe baza permisului de
+exploatare se va face conform prevederilor din permis, stabilite de Agenția Naționalã pentru Resurse Minerale și de
+operatorul solicitant.
+13. În cazul realizãrii unor investiții care necesitã excavații și extracții de resurse minerale din subsolul perimetrului, activitatea minierã desfãșuratã se va putea face prin
+obținerea unui permis de exploatare conform prezentei
+instrucțiuni.
+14. Persoanele fizice care pot beneficia de prevederile
+art. 19 din Legea minelor nr. 61/1998 sunt obligate sã
+informeze, în scris, cu cel puțin 30 de zile înainte, inspectoratele teritoriale ale Agenției Naționale pentru Resurse
+Minerale, în raza cãrora își desfãșoarã activitatea, cu privire la intenția și la cantitãțile de resurse minerale pe care
+le utilizeazã pentru nevoile proprii, respectiv pentru construcții, amenajãri gospodãrești și consum casnic.
+
+11
+
+Inspectoratele teritoriale ale Agenției Naționale pentru
+Resurse Minerale au obligația sã verifice înscrierea în condițiile art. 19 din Legea minelor nr. 61/1998.
+În condițiile arãtate, în situația exploatãrii unor cantitãți
+de roci utile și de turbã în scopul comercializãrii acestora,
+activitatea se va putea desfãșura numai prin obținerea unui
+permis de exploatare.
+15. Recuperarea aurului aluvionar de cãtre persoane
+fizice se realizeazã în baza unui permis eliberat de Agenția
+Naționalã pentru Resurse Minerale. Cererea scrisã pentru
+acordarea permisului va trebui sã fie însoțitã de avizul
+sucursalei județene a Bãncii Naționale a României. Nu sunt
+necesare întocmirea unui program anual de producție și
+acordul de gospodãrire a apelor.
+16. În permisul de exploatare se stabilesc cel puțin:
+Ð perioada de valabilitate;
+Ð localizarea perimetrului;
+Ð tipul resursei minerale și cantitatea maximã aprobatã
+pentru exploatare;
+Ð produsele miniere comercializabile;
+Ð modalitatea de extracție, protecția zãcãmântului;
+Ð taxele și redevențele miniere datorate statului și termenele de platã;
+Ð obligația respectãrii condițiilor impuse de organele de
+protecție a mediului;
+Ð drepturile și obligațiile titularului, cu precizarea cã
+acesta se va supune legislației române din domeniul fiscal.
+17. Agenția Naționalã pentru Resurse Minerale va elibera permisul de exploatare sau va respinge solicitarea în
+termen de cel mult 30 de zile de la depunerea documentelor prevãzute la pct. 5 din prezenta instrucțiune.
+
+ANEXA Nr. 1
+CONÞINUTUL-CADRU
+
+al documentației tehnice pentru acordarea permisului de exploatare
+A. Memoriul tehnic:
+
+1. documentele de înregistrare ale persoanelor juridice
+sau fizice, conform legii, cu specificația prevederilor din statutul de organizare și funcționare pentru efectuarea de activitãți miniere; informații privind specializarea pentru
+efectuarea activitãții de exploatare a resurselor minerale
+prevãzute la art. 18 din Legea minelor nr. 61/1998 și/sau
+posibilitãțile de a se organiza în acest scop;
+2. perioada pentru care se solicitã permisul de exploatare;
+3. prezentarea resursei minerale pentru care se solicitã
+permis de exploatare, estimarea cantitativã și calitativã a
+acesteia;
+
+4. cantitatea și calitatea resursei care va fi exploatatã
+în perioada legalã (eșalonãri);
+5. modalitatea de extracție (metoda de deschidere, pregãtire și exploatare, haldarea materialului steril, protecția
+zãcãmântului, prelucrarea);
+6. produsele miniere ce urmeazã a fi comercializate,
+asigurând valorificarea optimã a resursei minerale, și pentru
+care se percep redevențe miniere;
+7. deteriorãri ale mediului ambiant, ca urmare a executãrii lucrãrilor propuse, și mãsuri de refacere pentru menținerea condițiilor de mediu inițiale și pentru utilizarea în
+circuitul de folosințã.
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+
+B. Anexele scrise:
+
+C. Anexele grafice:
+
+1. descrierea și fundamentarea perimetrului temporar de
+
+1. fișa de localizare a perimetrului de exploatare (anexa
+
+exploatare;
+
+nr. 2 la prezenta instrucțiune), întocmitã în sistemul de
+
+2. avizele legale de la autoritãțile de mediu și de gospodãrire a apelor, dupã caz;
+
+referințã ”Stereografic 1970,,;
+2. plan de situație a lucrãrilor programate (scara 1:500 Ñ
+
+3. nota de constatare a inspectoratului zonal al Agenției
+Naționale pentru Resurse Minerale.
+
+1:1.000);
+3. profiluri transversale și/sau longitudinale, dupã caz.
+
+ANEXA Nr. 2
+
+FIȘA DE LOCALIZARE A PERIMETRULUI TEMPORAR DE EXPLOATARE
+
+În acest spațiu (1/2 A4) se reprezintã, la scarã, zona în care se aflã localizat
+perimetrul.
+Se vor figura: caroiajul rectangular în sistemul de referințã ”Stereografic 1970,,, conturul
+perimetrului solicitat, la scara 1:25.000 Ñ 1:200.000, elemente de toponimie și de relief
+(drumuri, localitãți, construcții, diguri, cãi ferate, rețeaua hidrograficã, perimetrele vecine și
+denumirea lor, puncte din rețeaua geodezicã, direcția nord etc.).
+Consultați: Legea cadastrului și a publicitãții imobiliare nr. 7/1996; Hotãrârea Guvernului
+nr. 834/1991, cu modificãrile ulterioare, și criteriile de aplicare; Normele tehnice privind executarea lucrãrilor de cadastru general, stabilite prin Ordinul nr. CP. 186/1997 al președintelui
+Oficiului Național de Cadastru, Geodezie și Cartografie.
+Pentru relații:
+Agenția Naționalã pentru Resurse Minerale Ñ Direcția generalã gospodãrire resurse
+minerale, tel. 01/659.55.04 Ñ 659.30.75
+70169 Ñ București, str. Mendeleev nr. 36-38, sectorul 1.
+
+1. L o c a l i z a r e a p e r i m e t r u l u i
+
+2. D e s c r i e r e
+
+1.1. Coordonatele de delimitare a perimetrului
+
+2.1. Faza lucrãrilor: exploatare în baza
+art. 18 și 20 din Legea minelor
+nr. 61/1998
+
+Pct.
+
+X
+
+Y
+
+2.2. Substanța:
+2.3. Denumirea perimetrului:
+2.4. Numãrul permisului de exploatare:
+
+1.2. Sistem de referințã: ”Stereografic 1970,,
+1.3. Limita în adâncime: z =
+
+m
+
+1.4. Suprafața: s =
+
+ha
+
+1.5. Localizare administrativ-teritorialã:
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+
+13
+
+AGENÞIA NAÞIONALÃ
+PENTRU RESURSE MINERALE
+
+CLASIFICAREA ȘI EVALUAREA RESURSELOR MINERALE/REZERVELOR DE SUBSTANÞE MINERALE SOLIDE
+
+Instrucțiunea tehnicã nr. 85-08/1998
+CAPITOLUL I
+Generalitãți
+Art. 1. Ñ Instrucțiunile au ca scop stabilirea principiilor
+de clasificare și de evaluare a resurselor minerale și rezervelor de substanțe minerale utile solide, corelabile cu clasificãrile internaționale în materie și utilizabile pentru toți
+agenții economici care desfãșoarã activitãți miniere în
+România.
+Art. 2. Ñ Elaborarea instrucțiunilor s-a fãcut conform
+prevederilor art. 40 lit. k) din Legea minelor nr. 61/1998 și
+având în vedere recomandãrile O.N.U. privind Clasificarea
+internaționalã a rezervelor/resurselor pentru combustibili
+solizi și produse minerale.
+Art. 3. Ñ Obiectul instrucțiunilor tehnice îl constituie
+urmãtoarele resurse minerale: cãrbunii și șisturile cãrbunoase, minereurile feroase, neferoase, de metale nobile,
+radioactive, de pãmânturi rare și disperse, de aluminiu și
+roci aluminifere, substanțele utile nemetalifere, rocile utile,
+nãmolurile și turbele terapeutice, precum și rocile bituminoase.
+Art. 4. Ñ Termenii folosiți în prezentele instrucțiuni tehnice sunt cei utilizați în Legea minelor nr. 61/1998, astfel:
+Ñ resursã mineralã = substanțã naturalã din scoarța
+terestrã, formatã în urma proceselor geologice, utilizabilã, ca
+atare sau prin prelucrare, în activitatea economico-socialã;
+Ñ zãcãmânt = acumulare naturalã de resurse minerale,
+valorificabilã din punct de vedere tehnic și economic;
+Ñ rezervã = partea de zãcãmânt, determinatã cantitativ
+și calitativ prin lucrãri de explorare și exploatare, având
+stabilite condițiile tehnice și economice de valorificare.
+CAPITOLUL II
+Clasificarea resurselor minerale/rezervelor
+
+Ñ a doua cifrã reprezintã gradul de cunoaștere a indicatorilor tehnici și economici de exploatare;
+Ñ a treia cifrã reprezintã gradul de cunoaștere a condițiilor geologice.
+Art. 7. Ñ Resursele minerale/rezervele se clasificã în
+grupe, în funcție de gradul de cunoaștere a posibilitãților
+economice de valorificare, și în categorii, în funcție de gradul de cunoaștere a fiecãruia dintre cele trei criterii. În
+anexele nr. 1a), 1b), 1c) și 1d) este prezentatã schema de
+clasificare și codificare numericã a rezervelor și resurselor
+minerale solide.
+II/2. Clasificarea resurselor minerale în grupe
+
+Art. 8. Ñ În funcție de gradul de cunoaștere a posibilitãților economice de valorificare, resursele minerale se clasificã în grupele: identificate și valorificabile.
+Art. 9. Ñ Grupa resurse minerale identificate
+Cuprinde acele resurse minerale evaluate în documentații (studii) geologice numai pe baza datelor de cunoaștere
+geologicã obținute din lucrãrile de cercetare. Aceste
+resurse sunt considerate interesante din punct de vedere
+economic, fãrã a se putea face o apreciere a posibilitãților
+economice de valorificare.
+În ordinea crescãtoare a gradului de cunoaștere a condițiilor geologice, aceste resurse minerale se clasificã în
+categoriile: posibile, indicate și mãsurate.
+Art. 10. Ñ Grupa resurse minerale valorificabile
+Cuprinde partea din resursele mãsurate și/sau indicate,
+pentru care studiile de fezabilitate sau de prefezabilitate
+demonstreazã economicitatea punerii în valoare în anumite
+condiții (conjuncturale) sau aprofundarea cercetãrii geologice și/sau tehnologice (potențiale).
+
+II/1. Criterii de clasificare a resurselor minerale/rezervelor
+
+II/3. Clasificarea resurselor minerale în categorii
+
+Art. 5. Ñ Criteriile de clasificare a resurselor
+minerale/rezervelor sunt urmãtoarele:
+Ñ gradul de cunoaștere (certitudine) a condițiilor geologice, care corespunde unei anumite faze de cercetare;
+Ñ gradul de cunoaștere a indicatorilor tehnici și economici (de exploatare, preparare, prelucrare);
+Ñ viabilitatea valorificãrii economice.
+Art. 6. Ñ Gradul de cunoaștere a fiecãruia dintre
+aceste trei criterii este reprezentat și numeric, cifra 1
+corespunzând celui mai înalt grad de cunoaștere.
+În funcție de gradul de cunoaștere a fiecãruia dintre
+aceste trei criterii, se face codificarea numericã a resurselor minerale/rezervelor, printr-un numãr format din trei cifre,
+înscrise în ordinea urmãtoare:
+Ñ prima cifrã reprezintã economicitatea exploatãrii;
+
+Art. 11. Ñ În funcție de gradul de cunoaștere a fiecãruia dintre cele trei criterii, în ordine crescãtoare, resursele
+minerale se codificã și se clasificã în urmãtoarele categorii:
+Ñ resurse minerale identificate:
+Ñ ¥ posibile (cod 333);
+Ñ ¥ indicate (cod 332);
+Ñ ¥ mãsurate (cod 331);
+Ñ resurse minerale valorificabile:
+Ñ ¥ potențiale (cod 221 + 222);
+Ñ ¥ conjuncturale (cod 211).
+Art. 12. Ñ Categoria resurse minerale posibile (cod
+333)
+Cuprinde acea parte a resurselor minerale al cãror grad
+de cunoaștere are un caracter informativ.
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+
+Conturarea și estimarea cantitãții și calitãții acestor
+resurse se bazeazã pe date geologice și geofizice rezultate
+din lucrãri executate în faze de prospecțiune sau prin
+extrapolarea parametrilor de calcul de la limita resurselor
+indicate.
+Continuitatea geologicã este presupusã. Informațiile obținute din lucrãrile executate la distanțe foarte mari sau din
+puncte izolate sunt limitate.
+Estimarea cantitãții și calitãții acestor resurse prezintã un
+grad scãzut de siguranțã și un nivel aproximativ de încredere, care permite însã luarea unei decizii privind continuarea cercetãrilor geologice.
+Datoritã nivelului scãzut de încredere al acestei categorii, resursele minerale posibile nu se cumuleazã, la raportare, cu resursele minerale mãsurate și cu resursele
+minerale indicate.
+Art. 13. Ñ Categoria resurse minerale indicate (cod
+332)
+Cuprinde acea parte a resurselor minerale identificate pe
+baza rezultatelor explorãrii generale, cu caracter preliminar,
+și evaluate în documentații (studii) geologice, numai pe
+baza datelor de cunoaștere geologicã.
+Lucrãrile de cercetare (șanțuri, puțuri, alte lucrãri
+miniere, foraje geologice) sunt suficient de apropiate încât
+rezultatele obținute (corelate eventual și cu rezultatele unei
+cercetãri prin metode geofizice) permit presupunerea continuitãții geologice și a calitãții.
+Estimarea formei și a dimensiunilor, a caracteristicilor
+fizice, a calitãții și conținutului prezintã un grad de încredere rezonabil.
+Sunt cunoscute existența și proporția porțiunilor și intercalațiilor sterile sau necorespunzãtoare calitativ, a diferitelor
+sorturi calitative sau a zonelor de alterare; sunt cunoscute,
+prin interpolare, faliile principale și conturul zonelor de discontinuitate ale corpurilor de substanțe minerale utile.
+Condițiile hidrogeologice sunt apreciate pe baza observațiilor fãcute în lucrãri de cercetare geologicã, completate
+la cãrbuni cu 1Ñ2 foraje hidrogeologice. Sunt cunoscute,
+orientativ, valoarea parametrilor hidrogeologici, poziția suprafeței piezometrice și tipul de acvifer (cu nivel liber sau sub
+presiune).
+Indicatorii tehnico-economici nu sunt cunoscuți sau sunt
+insuficient cunoscuți pentru o apreciere a posibilitãților de
+valorificare economicã; prin cantitatea, calitatea și gradul lor
+de încredere resursele minerale indicate pot prezenta interes economic și permit luarea unei decizii privind continuarea cercetãrilor în vederea creșterii gradului de cunoaștere
+geologicã și/sau determinarea condițiilor tehnico-economice
+de exploatare.
+Încrederea în estimarea acestor resurse este mai micã
+de 70%, iar eroarea maximã admisã în cunoașterea condițiilor geologice și a caracteristicilor fizice și calitative este
+mai mare de sau egalã cu 30%.
+Art. 14. Ñ Categoria resurse minerale mãsurate (cod
+331)
+Cuprinde acea parte a resurselor minerale identificate,
+studiate complet din punct de vedere al condițiilor
+
+geologice, în urma explorãrii de detaliu, și evaluate în
+documentații (studii) geologice, numai pe baza datelor de
+cunoaștere geologicã.
+Estimarea cantitativã (formã și dimensiuni) a caracteristicilor fizice, a calitãții și a conținutului mineral ale acestor
+resurse presupune un grad înalt de încredere.
+Lucrãrile de cercetare geologicã (șanțuri, puțuri, foraje
+geologice de suprafațã sau din subteran, lucrãri miniere
+subterane sau alte tipuri de lucrãri) se aflã la distanțe care
+confirmã (justificã) continuitatea geologicã și calitativã.
+Sunt cunoscute rãspândirea spațialã și proporția intercalațiilor și porțiunilor sterile sau necorespunzãtoare calitativ,
+a sorturilor calitative și a zonelor de alterare. În cazul
+zãcãmintelor tectonizate, sunt stabilite poziția faliilor principale și amplitudinea deplasãrii flancurilor acestora, precum
+și caracteristica generalã, orientarea și frecvența lor.
+Condițiile hidrogeologice sunt cunoscute în mãsura necesarã aprecierii influenței apelor subterane asupra procesului
+de exploatare, stabilirii concluziilor privind posibilitãțile de
+asecare și proiectarea acesteia. Sunt bine cunoscute caracteristicile principale ale formațiunilor acvifere (numãr, configurație, extindere, adâncime), poziția acestora fațã de
+zãcãmânt și relațiile cu alte formațiuni acvifere, parametrii
+hidrogeologici (porozitate, coeficient de filtrare, transmisivitate, debit specific), suprafața piezometricã, direcțiile de
+curgere și caracteristicile fizico-chimice ale apelor.
+Indicatorii tehnico-economici sunt insuficient cunoscuți
+pentru o apreciere a posibilitãților de valorificare; prin cantitatea, calitatea și gradul lor de încredere resursele minerale mãsurate prezintã interes economic și permit luarea
+unei decizii privind continuarea cercetãrilor pentru determinarea condițiilor tehnice și economice de exploatare.
+Încrederea în estimarea resurselor minerale din aceastã
+categorie este de 90Ñ95%, iar eroarea maximã admisã în
+cunoașterea condițiilor geologice și a caracteristicilor fizice
+și calitative este de 10Ñ15%.
+Art. 15. Ñ Categoria resurse minerale valorificabile
+potențial (cod 221 + 222)
+Cuprinde acea parte a resurselor minerale mãsurate
+și/sau indicate pentru care studiul de prefezabilitate demonstreazã posibilitatea exploatãrii în condiții economice și tehnice specifice ale momentului, ca urmare a completãrii
+cunoașterii tehnice și/sau a condițiilor de zãcãmânt analizate într-un studiu de fezabilitate.
+Art. 16. Ñ Categoria resurse minerale valorificabile conjunctural (cod 211)
+Aceastã categorie cuprinde acea parte a resurselor
+mãsurate complet, cunoscute în ceea ce privește condițiile
+geologice și tehnico-economice de valorificare, pentru care
+studiul de fezabilitate demonstreazã cã la momentul dat nu
+se justificã exploatarea în condiții economice. Prin îmbunãtãțirea tehnologiei sau prin modificarea condițiilor economice ele pot deveni rezerve dovedite.
+a) Gradul de cunoaștere geologicã este corespunzãtor
+resurselor minerale mãsurate.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+b) Tehnologia și indicatorii tehnico-economici de exploatare (diluția, pierderile de exploatare etc.), elementele de
+calcul ale prețului de cost sunt cunoscute din exploatarea
+curentã sau experimentalã.
+c) Fluxul tehnologic de preparare și prelucrare se
+cunoaște la scarã industrialã, iar dacã zãcãmântul nu este
+în exploatare, toți indicatorii tehnico-economici sunt stabiliți
+prin teste semiindustriale; la rocile utile se cunoaște modul
+de comportare în diferite domenii de utilizare a acestora și
+a produselor obținute din acestea; la minereurile metalifere,
+fluxul de preparare și de prelucrare metalurgicã este stabilit pentru componenții utili valorificabili.
+II/4. Clasificarea rezervelor
+
+Art. 17. Ñ Grupa rezervelor (resursele exploatabile)
+Cuprinde acea parte din resursele minerale mãsurate
+și/sau indicate, la care este doveditã, printr-un studiu de
+fezabilitate sau prefezabilitate, posibilitatea exploatãrii în
+condiții economice acceptate. În funcție de gradul de
+cunoaștere, în ordine crescãtoare, rezervele se clasificã în
+categoriile: probabile și dovedite.
+Art. 18. Ñ Categoria rezerve probabile (cod 121 + 122)
+Cuprinde acea parte a resurselor minerale mãsurate
+și/sau indicate, pentru care studiul de prefezabilitate
+demonstreazã cã la momentul dat și la parametrii cunoscuți exploatarea poate fi economicã.
+a) Condițiile de zãcãmânt se cunosc în mãsura necesarã proiectãrii lucrãrilor de deschidere și pregãtire pentru
+rezervele mãsurate sau a celor de explorare de detaliu
+pentru rezervele indicate. Sunt cunoscute rãspândirea spațialã și proporția intercalațiilor și porțiunilor sterile sau necorespunzãtoare calitativ, a diferitelor sorturi calitative și a
+zonelor de alterare. În cazul zãcãmintelor tectonizate, sunt
+stabilite poziția fracturilor principale și amplitudinea deplasãrii flancurilor acestora, precum și caracteristica generalã,
+orientarea și frecvența lor.
+b) Condițiile hidrogeologice sunt cunoscute în mãsura
+necesarã aprecierii influenței apelor subterane asupra procesului de exploatare, stabilirii concluziilor privind posibilitãțile de asecare și proiectarea acesteia. Sunt bine
+cunoscute caracteristicile principale ale formațiunilor acvifere
+(numãr, configurație, extindere, adâncime), poziția acestora
+fațã de zãcãmânt și relațiile cu alte formațiuni acvifere,
+parametrii hidrogeologici (porozitate, coeficient de filtrare,
+transmisivitate, debit specific), suprafața piezometricã, direcțiile de curgere și caracteristicile fizico-chimice ale apelor.
+c) Tehnologia și indicatorii tehnico-economici de exploatare sunt cunoscuți pe baza rezultatelor obținute din lucrãrile geologice sau, dupã caz, din exploatãri experimentale
+(abataje, cariere).
+d) Tehnologia și indicatorii tehnico-economici de preparare-prelucrare sunt cunoscuți pe baza cercetãrilor în fazapilot sau semiindustrialã; la rocile utile se cunoaște modul
+de comportare în diferite domenii de utilizare a acestora și
+a produselor obținute din acestea; la minereurile metalifere
+se cunoaște fluxul tehnologic de preparare și gradul de
+
+15
+
+recuperare în concentrate a elementelor utile valorificabile,
+precum și tehnologia metalurgicã.
+Art. 19. Ñ Categoria rezerve dovedite (cod 111)
+Cuprinde acea parte a resurselor mãsurate, demonstrate
+a fi exploatabile economic printr-un studiu de fezabilitate
+sau de activitatea minierã desfãșuratã în mod curent în
+zone explorate în detaliu.
+a) Condițiile geologice, cunoscute la nivelul corespunzãtor resurselor mãsurate, permit planificarea lucrãrilor de pregãtire și exploatare.
+b) Condițiile hidrogeologice sunt complet clarificate; se
+cunosc implicațiile apelor subterane asupra procesului de
+exploatare; soluțiile de asecare sunt verificate în procesul
+de exploatare curentã sau experimentalã.
+c) Metoda de exploatare, tehnologia și indicatorii tehnico-economici de exploatare (diluția, pierderile de exploatare), elementele de calcul ale prețului de cost sunt
+cunoscute din exploatarea curentã sau experimentalã.
+d) Fluxul tehnologic de preparare și de prelucrare se
+cunoaște la scarã industrialã, iar dacã zãcãmântul nu este
+în exploatare, toți indicatorii tehnico-economici sunt stabiliți
+prin teste semiindustriale; la rocile utile se cunoaște modul
+de comportare în diferite domenii de utilizare a acestora și
+a produselor obținute din acestea; la minereurile metalifere
+fluxul de preparare și de prelucrare metalurgicã este stabilit pentru componenții utili valorificabili.
+CAPITOLUL III
+Evaluarea resurselor minerale/rezervelor
+Art. 20. Ñ Evaluarea resurselor minerele/rezervelor se
+realizeazã prin interpretarea și prelucrarea rezultatelor obținute din lucrãrile de cercetare geologicã, inclusiv din determinãrile de laborator, din studiile și cercetãrile tehnologice
+și din lucrãrile de exploatare.
+III/1. Metodica de cercetare geologicã
+III/1.1. Principii de bazã privind cercetarea geologicã
+
+Art. 21. Ñ Cercetarea geologicã cuprinde ansamblul
+lucrãrilor necesare cunoașterii cantitãții și calitãții resurselor
+minerale/rezervelor și a condițiilor geologice și tehnico-economice de valorificare a acestora.
+Art. 22. Ñ Metodica de cercetare geologicã se stabilește prin negociere în licențã, care va cuprinde programul
+de lucrãri aprobat, precum și drepturile și obligațiile agenților economici care executã lucrãri de cercetare geologicã,
+conform Legii minelor nr. 61/1998 și normelor de aplicare a
+acesteia.
+Art. 23. Ñ Felul și amplasarea lucrãrilor de cercetare
+geologicã depind de complexitatea condițiilor geologice și
+de gradul de cunoaștere propus a fi realizat și care, în
+general, corespunde unei anumite faze de cercetare.
+Cercetarea resurselor din perimetrele noi începe, de regulã,
+prin utilizarea distanțelor maxime dintre lucrãri.
+Rețeaua de lucrãri de cercetare geologicã, corespunzãtoare unei anumite faze de cercetare și necesarã realizãrii
+gradului de cunoaștere pentru încadrarea resurselor în
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+
+categorii, pentru fiecare zãcãmânt, poate fi stabilitã și justificatã și prin studii specifice (analize geostatistice). Aceasta
+trebuie sã asigure un grad de certitudine de 90Ñ95% în
+cazul explorãrii detaliate, de pânã la 70% în cazul explorãrii generale și pânã la 25% în cazul prospecțiunii.
+Art. 24. Ñ În cursul cercetãrii geologice, în vederea stabilirii cantitãții și calitãții resurselor minerale/rezervelor se
+vor urmãri: localizarea spațialã, conturul și forma corpurilor
+de substanțe minerale utile, condițiile hidrogeologice și toți
+factorii naturali care influențeazã tehnologia de exploatare,
+preparare, prelucrare și valorificare a substanțelor minerale
+utile; de asemenea, se va stabili existența zonelor sau
+intercalațiilor sterile și a diferitelor sorturi calitative, iar în
+limitele posibilitãților determinate de condițiile geologice și
+de gradul de cunoaștere realizat, acestea se vor delimita
+în spațiu și se vor exprima cantitativ.
+Art. 25. Ñ La alegerea felului lucrãrilor geologice, la
+amplasarea și executarea lor se va urmãri permanent protecția mediului înconjurãtor.
+Art. 26. Ñ Cercetarea geologicã se executã în etape de
+lucru, care, de regulã, se succed, conducând progresiv la
+creșterea gradului de cunoaștere a resurselor
+minerale/rezervelor și cuprinde urmãtoarele faze: prospecțiunea, explorarea generalã și explorarea detaliatã.
+III/1.2. Prospecțiunea geologicã
+
+Art. 27. Ñ Prospecțiunea reprezintã ansamblul de studii
+și lucrãri de suprafațã care se realizeazã pentru identificarea posibilitãților existenței unor acumulãri de resurse minerale, descifrarea condițiilor geologice generale ale acestora,
+obținerea unor date orientative pentru evaluarea resurselor
+și pentru cunoașterea condițiilor preliminare de valorificare
+a acestora.
+Art. 28. Ñ Recunoașterea geologicã reprezintã prima
+fazã a prospecțiunii geologice și constã în interpretarea
+datelor geologice preexistente (însoțitã, eventual, și de cercetãri indirecte), întocmirea de studii geologice complexe și
+hãrți geologice. Recunoașterea geologicã are ca scop identificarea zonelor cu un potențial de resurse minerale. Pe
+baza rezultatelor obținute se evalueazã resursele de prognozã, se stabilesc zonele în care este posibilã continuarea
+prospecțiunilor geologice în vederea identificãrii unor
+acumulãri de resurse minerale și se întocmesc programele
+de lucrãri necesare.
+Art. 29. Ñ Prospecțiunea constã în executarea de cercetãri prin cartare geologicã, metode geochimice, geofizice
+(magnetometrie, radiometrie, electrometrie, seismometrie,
+teledetecție), foraje de la suprafațã, lucrãri miniere, studii și
+determinãri de laborator pe probe recoltate din lucrãrile
+executate sau din aflorimente.
+Art. 30. Ñ În cadrul prospecțiunii se executã și încercãri
+tehnologice de preparare și prelucrare în faza de laborator.
+Art. 31. Ñ Pe baza datelor obținute din lucrãrile de
+prospecțiune se verificã resursele de prognozã și se evalueazã resursele posibile.
+
+III/1.3. Explorarea geologicã
+
+Art. 32. Ñ Explorarea reprezintã ansamblul de studii și
+activitãți executate pentru identificarea zãcãmintelor, evaluarea cantitativã și calitativã a acestora, precum și pentru
+stabilirea condițiilor tehnice și economice de valorificare a
+acestora.
+Art. 33. Ñ Explorarea geologicã se realizeazã cu foraje
+(de suprafațã și/sau subterane) și prin lucrãri miniere (de
+suprafațã sau subterane), executate separat sau împreunã,
+în funcție de gradul de cunoaștere urmãrit și de factorii
+geologici (forma, grosimea și variațiile acesteia, dimensiunile, așezarea în spațiu și gradul de tectonizare a corpurilor
+de substanțe minerale utile), tehnico-minieri (relieful, adâncimea la care este situat zãcãmântul, proprietãțile fizicomecanice ale substanței minerale utile și ale rocilor
+înconjurãtoare) și economici (importanța economicã a substanței minerale utile, existența cãilor de comunicație, posibilitatea de alimentare cu energie electricã și apã, costul
+lucrãrilor geologice, existența forței de muncã etc.).
+Art. 34. Ñ Explorarea prin foraje este indicatã în cazul
+zãcãmintelor masive sau stratiforme cu înclinare micã sau
+medie. Forajele sunt predominante la cercetarea zãcãmintelor de cãrbuni, sare gemã, roci utile și de minereuri cuprifere de diseminare și aproape exclusive la zãcãmintele
+exploatabile în carierã.
+Art. 35. Ñ Forajele se executã, de regulã, în rețea. La
+amplasarea și execuția lor se va urmãri ca punctele de
+interceptare a corpurilor de substanțã mineralã utilã sã respecte distanțele proiectate între lucrãri și/sau aliniamente.
+Rețeaua se va adapta la condițiile geologice locale, îndesind forajele în porțiunile mai complicate și invers.
+Art. 36. Ñ Pentru toate forajele cu adâncimi mai mari
+de 100 m se vor face mãsurãtori de deviere, la intervale
+de 25Ñ50 m.
+Art. 37. Ñ Recuperajul minim la forajele cu carotaj
+mecanic continuu trebuie sã fie de 90% în util și pe 5 m
+în culcușul și acoperișul acestuia. Pentru intervalele cu
+recuperare necorespunzãtoare, se va completa cercetarea
+cu alte metode de investigare. În caz de necesitate, intervalele cu recuperaj nesatisfãcãtor vor fi recarotate.
+La cãrbuni și la minereurile radioactive este obligatoriu
+carotajul geofizic la toate forajele de prospecțiune și de
+explorare.
+Art. 38. Ñ Ori de câte ori este rațional din punct de
+vedere tehnic și al calitãții datelor obținute, carotajul mecanic continuu poate fi înlocuit cu carotajul mecanic intermitent sau cu alte metode de investigare în gaura de sondã,
+care asigurã calitatea datelor necesare evaluãrii resurselor
+minerale.
+Art. 39. Ñ Explorarea prin lucrãri miniere subterane
+(transversale, direcționale, suitori, puțuri și planuri înclinate)
+este indicatã atât pentru cercetarea zãcãmintelor tabulare
+(filoniene, sub formã de lentile sau strat), cu înclinare
+medie sau mare, situate la adâncimi convenabile în regiuni
+accidentate, cât și pentru verificarea datelor obținute din
+foraje, și este necesarã la promovarea în categorii
+superioare a resurselor zãcãmintelor neuniforme sau cu
+structurã geologicã și tectonicã foarte complicatã.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+Art. 40. Ñ La amplasarea și dimensionarea lucrãrilor
+miniere de explorare geologicã, se va ține seama de posibilitatea utilizãrii lor în procesul de exploatare.
+Art. 41. Ñ În vederea evitãrii imobilizãrii unor resurse în
+pilieri de siguranțã de lungã duratã, pe tot parcursul executãrii lucrãrilor de explorare geologicã se va urmãri stabilirea zonelor în care nu existã acumulãri de resurse
+minerale și în/pe care se pot amplasa lucrãri miniere
+magistrale (de exemplu: puțuri de extracție, galerii principale de transport, construcții de suprafațã, halde de steril etc.).
+Art. 42. Ñ Pentru creșterea eficienței economice, ori de
+câte ori este rațional din punct de vedere tehnic și al calitãții datelor obținute, lucrãrile miniere se vor executa numai
+în completarea cercetãrii cu foraje de la suprafațã și vor fi
+parțial înlocuite cu foraje orizontale și verticale, executate
+în subteran, rolul lucrãrilor miniere reducându-se la verificarea calitãții datelor obținute din foraje, la precizarea indicatorilor tehnici și economici de exploatare și la crearea
+accesului în zãcãmânt.
+De asemenea, lucrãrile miniere sau forajele geologice
+pot fi completate sau înlocuite (substituite) cu orice alte
+metode de investigare care asigurã obținerea datelor necesare pentru evaluarea resurselor.
+Art. 43. Ñ În vederea scurtãrii termenului de la începerea explorãrii pânã la intrarea zãcãmântului în exploatare, a
+evitãrii continuãrii lucrãrilor de cercetare geologicã într-un
+zãcãmânt fãrã posibilitate de valorificare în etapa respectivã, precum și pentru reducerea la minimum a cheltuielilor
+pentru întreținerea unor lucrãri miniere, explorarea se executã, de regulã, în fazele de explorare generalã și explorare detaliatã. La zãcãmintele care prezintã condiții naturale
+evident favorabile valorificãrii, cele douã faze se pot suprapune (fazã unicã de explorare), ca și în cazul explorãrii în
+extinderea zãcãmintelor, care constituie sau au constituit
+obiectul unei activitãți de exploatare.
+Art. 44. Ñ Explorarea generalã are ca scop stabilirea
+cu caracter preliminar a conturului, formei și structurii corpurilor de substanțã mineralã utilã, precum și estimarea
+cantitativã și calitativã a potențialului de resurse, furnizând
+elementele necesare pentru aprecierea posibilitãților de
+valorificare a acestuia.
+Art. 45. Ñ În cadrul explorãrii generale se efectueazã și
+cercetãri tehnologice de preparare sau de prelucrare în
+fazã de laborator și/sau în fazã-pilot.
+Art. 46. Ñ În vederea obținerii informațiilor necesare
+stabilirii posibilitãților de valorificare a substanțelor minerale
+utile și a desimii raționale a lucrãrilor de cercetare din faza
+explorãrii detaliate, în cadrul explorãrii generale, pe o porțiune restrânsã din zãcãmânt, caracteristicã pentru acesta,
+se pot executa lucrãri într-o rețea corespunzãtoare unor
+resurse de categorii superioare.
+Art. 47. Ñ În urma explorãrii generale, se întocmește
+un studiu (studiu de prefezabilitate) în care se analizeazã
+condițiile tehnico-economice de valorificare a zãcãmântului.
+În cazul concluziilor favorabile ale studiului respectiv, rezultatele lucrãrilor de explorare generalã servesc la elaborarea
+programului explorãrii detaliate sau în fazã unicã.
+
+17
+
+Art. 48. Ñ Pe baza rezultatelor obținute din lucrãrile de
+explorare generalã, în documentații (studii) geologice se
+evalueazã resursele minerale indicate și, prin studii de prefezabilitate, resursele valorificabile potențial și/sau rezervele
+probabile.
+Art. 49. Ñ Explorarea detaliatã are ca obiect cunoașterea structurii geologice, a formei și conturului zãcãmântului,
+precizarea cantitãții și calitãții resurselor minerale și a
+rezervelor și furnizarea informațiilor necesare pentru
+cunoașterea condițiilor tehnico-economice de valorificare, în
+vederea proiectãrii (programãrii) lucrãrilor de deschidere-pregãtire-exploatare și a fluxului tehnologic de preparare.
+Art. 50. Ñ Lucrãrile de explorare detaliatã se realizeazã,
+de regulã, pe o porțiune caracteristicã zãcãmântului sau
+perimetrului, care se preconizeazã cã va intra în exploatare.
+Art. 51. Ñ În cadrul explorãrii detaliate se executã și
+lucrãri de cercetare privind prepararea și/sau prelucrarea în
+fazã-pilot și, de la caz la caz, în fazã semiindustrialã, precum și exploatarea experimentalã.
+Art. 52. Ñ Pe baza rezultatelor obținute din lucrãrile de
+explorare detaliatã, în documentațiile (studiile) geologice se
+evalueazã resursele minerale mãsurate, iar prin studii de
+fezabilitate, resursele valorificabile conjunctural sau potențial
+și/sau rezervele dovedite.
+Art. 53. Ñ Explorarea generalã și de detaliu sau în fazã
+unicã se executã atât în zãcãminte noi, cât și în extinderea
+zãcãmintelor în exploatare sau cu activitate sistatã (explorare în extindere).
+III/1.4. Probarea zãcãmintelor
+
+Art. 54. Ñ Probarea zãcãmintelor se realizeazã în toate
+fazele cercetãrii geologice și în cursul deschiderii, pregãtirii
+și al exploatãrii rezervelor. Probarea zãcãmintelor cuprinde
+procesul de recoltare, dupã un anumit sistem și cu un
+anumit scop, a unor cantitãți de material din substanța
+mineralã utilã sau din rocile înconjurãtoare, numite probe,
+care sã reprezinte cât mai fidel porțiunea de zãcãmânt din
+care au fost extrase, prelucrarea și reducerea lor, efectuarea analizelor, determinãrilor și cercetãrilor, precum și interpretarea rezultatelor obținute.
+Art. 55. Ñ Pentru ca probarea sã fie concludentã, ea
+trebuie sã fie reprezentativã.
+Art. 56. Ñ În funcție de scopul urmãrit, principalele
+tipuri de probare sunt urmãtoarele: paleontologicã, mineralogicã-petrograficã, chimicã, fizico-mecanicã, tehnicã și tehnologicã.
+Art. 57. Ñ Probarea paleontologicã urmãrește determinarea vârstei formațiunilor sedimentare strãbãtute, în scopul
+stabilirii unor repere de corelare a corpurilor de substanțã
+mineralã utilã și a complexelor productive de origine sedimentarã, și este obligatorie în cazul zãcãmintelor de cãrbuni. Probele paleontologice se recolteazã din toate
+lucrãrile ce se executã în etapele de prospecțiune și
+explorare generalã. Prelucrarea și determinãrile pe aceste
+probe se fac în laboratoare specializate.
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+
+Art. 58. Ñ Probarea mineralogicã are ca scop identificarea mineralelor componente, a raportului cantitativ dintre
+ele, a mãrimii cristalelor, a gradului lor de cunoaștere, a
+caracterului agregatelor de cristale și a structurii și texturii
+mineralizației, în vederea determinãrii gradului optim de sfãrâmare și a comportãrii substanței minerale utile în procesul de preparare. De asemenea, probarea mineralogicã
+urmãrește studierea zonelor de alterare a rocilor, relațiile
+agenților mineralizatori cu cãile de acces, transformãrile
+suferite de zãcãmânt dupã depunerea mineralizației și
+eventualele zone de oxidație și de cimentare.
+Art. 59. Ñ Probarea petrograficã are ca scop stabilirea
+componenților petrografici ai substanțelor minerale utile și ai
+rocilor înconjurãtoare, precum și variația acestora în cadrul
+zãcãmântului. Recoltarea probelor mineralogice și petrografice se face în etapele de prospecțiune și explorare preliminarã din câte 1Ñ2 lucrãri de cercetare pentru fiecare
+corp și sort de substanțã mineralã utilã sau din mai multe,
+în funcție de necesitãți.
+Art. 60. Ñ Probele petrografice se recolteazã sub formã
+de eșantioane. În cazul forajelor, dimensiunile eșantioanelor recoltate din proba care rãmâne martor variazã în funcție de diametrul carotelor extrase. Din lucrãri miniere se
+recolteazã, de regulã, eșantioane de formã paralelipipedicã
+cu dimensiunile de 5 x 10 x 10 cm. Eșantioanele se recolteazã din roca proaspãtã.
+Art. 61. Ñ Prelucrarea și analizarea probelor mineralogice și petrografice se fac în laboratoare specializate.
+Art. 62. Ñ Pe toate eșantioanele supuse analizei mineralogice se vor efectua analize și determinãri chimice și
+fizico-mecanice, în scopul stabilirii unei corelații între
+compoziția chimicã și proprietãțile fizico-mecanice, pe de o
+parte, și mineralogicã-petrograficã, pe de altã parte.
+Art. 63. Ñ Probarea chimicã și fizico-mecanicã urmãrește stabilirea conținutului în elemente utile și dãunãtoare
+și a caracteristicilor calitative care condiționeazã valorificarea substanței minerale utile în diferite domenii și se efectueazã în toate fazele de cercetare geologicã și în timpul
+exploatãrii.
+Art. 64. Ñ În procesul recoltãrii probelor chimice și
+fizico-mecanice se vor respecta urmãtoarele principii de
+bazã:
+a) toate lucrãrile care au interceptat substanța mineralã
+utilã se probeazã pe mãsura executãrii lor, cu excepția
+cazurilor când se urmãrește evoluția în timp a procesului
+de alterare, situație în care probele se recolteazã la anumite intervale de timp;
+b) substanța mineralã utilã se probeazã împreunã cu
+intercalațiile sterile sau necorespunzãtoare calitativ, dacã
+acestea nu pot fi separate în procesul de exploatare, cu
+excepția cãrbunilor;
+c) din rocile înconjurãtoare și din intercalațiile sterile sau
+necorespunzãtoare calitativ, care se pot evita în procesul
+de exploatare (deci nu se includ în calculul rezervelor), se
+recolteazã probe informative;
+d) la straturile neomogene de cãrbuni se recolteazã
+probe diferențiale (separat din fiecare banc de cãrbune și
+
+din fiecare intercalație sterilã) și probe globale (recoltate pe
+toatã grosimea stratului, atât din cãrbune, cât și din intercalațiile sterile); în etapele de prospecțiune și explorare preliminarã probele se recolteazã, de regulã, numai din
+substanța utilã, iar probele globale se recolteazã din cel
+puțin 15% din punctele de traversare a straturilor de cãrbuni;
+e) la minereuri metalifere, în cazul filoanelor mineralizate, cu salbande, probele se recolteazã separat din minereu și din salbande;
+f) în zãcãminte fãrã limite nete, lungimea probelor recoltate spre periferia zãcãmântului trebuie sã permitã estimarea rezervelor în variante de conținut limitã;
+g) pentru minereurile metalifere care conțin elemente
+rare și disperse legate de anumite minerale se vor recolta,
+pe lângã probele de minereu, și probe monominerale sau
+de concentrate;
+h) în prezența mai multor sorturi de substanțã mineralã
+utilã sau tipuri de roci, probarea se face separat, pe sorturi
+și tipuri; din același sort de substanțã mineralã utilã sau tip
+de rocã din cadrul unui zãcãmânt, recoltarea probelor se
+face prin aceeași metodã, la aceleași distanțe între ele și
+probele au aceeași greutate pe unitatea de lungime sau de
+suprafațã probatã;
+i) la zãcãmintele tabulare (filoane, straturi, lentile), liniile
+de probare trebuie sã aibã o direcție cât mai apropiatã de
+normala la planul pe care se proiecteazã corpurile de substanțã mineralã utilã, în vederea evaluãrii resurselor;
+j) excavațiile fãcute pentru recoltarea probelor trebuie sã
+aibã o secțiune constantã, indiferent de duritatea diferitelor
+minerale sau de varietãțile de rocã pe care le cuprinde;
+k) tot materialul excavat în procesul recoltãrii probelor
+trebuie sã ajungã la stația de prelucrare a probelor fãrã
+adaos de material strãin;
+l) recoltarea probelor din lucrãri miniere va fi precedatã
+de pregãtirea locului de probare, prin curãțarea și netezirea
+acestuia, astfel ca fiecare probã sã fie tãiatã pe o suprafațã aproape planã.
+Art. 65. Ñ Pentru recoltarea probelor este necesar sã
+se determine, pentru fiecare zãcãmânt sau porțiune cu condiții geologice similare din cadrul zãcãmântului, metoda de
+probare (modul de recoltare a probelor), distanța dintre
+probe și cantitatea minimã de material din proba inițialã.
+Art. 66. Ñ La adoptarea metodei de probare, se va ține
+seama de factorii geologici specifici fiecãrui zãcãmânt
+(forma, grosimea corpurilor de substanțã mineralã utilã,
+variația calitãții, textura, structura și duritatea substanței
+minerale utile etc.) și de factorii tehnico-economici (felul
+lucrãrilor geologice, operativitatea și economicitatea probãrii
+etc.). Principalele metode de probare în lucrãrile miniere
+sunt: prin brazde, în rețea (prin ciupire), prin rãzuire, prin
+gãuri de minã și metoda globalã. Probarea abatajelor se
+face, de regulã, prin brazde. În cazul forajelor, proba se
+recolteazã din materialul recuperat.
+Art. 67. Ñ Distanța dintre probe trebuie stabilitã la
+zãcãmintele probate în lucrãri miniere (galerii și suitori) care
+cuprind în profilul lor mineralizația pe toatã grosimea ei. La
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+adoptarea distanței dintre probe, se va urmãri obținerea
+calitãții resurselor minerale și a rezervelor cu un grad de
+cunoaștere cât mai ridicat, în condiții economice raționale.
+Art. 68. Ñ Fiecare probã recoltatã trebuie sã conținã
+cantitatea minimã de material care sã reflecte compoziția
+chimicã și proprietãțile fizico-mecanice ale porțiunii de zãcãmânt pe care o caracterizeazã calitativ. Cantitatea minimã
+de material se raporteazã la o lungime de 1 m sau la o
+suprafațã de 1 m2 probatã.
+Art. 69. Ñ Prelucrarea probelor constã în extragerea din
+proba recoltatã a materialului necesar pentru efectuarea
+analizelor și determinãrilor (proba unicat) și pentru pãstrarea unei probe-martor (duplicat); schema de prelucrare
+adoptatã va asigura condiții ca probele unicat și duplicat sã
+reprezinte fidel proba inițialã.
+Greutatea minimã a probelor rezultate dupã prelucrare
+depinde de numãrul componenților utili și dãunãtori, de
+caracteristicile fizico-mecanice care urmeazã a fi stabilite și
+de materialul necesar fiecãrei determinãri în parte.
+Art. 70. Ñ Pe fiecare probã se efectueazã analizele și
+determinãrile de bazã pentru toți componenții chimici și
+toate caracteristicile fizico-mecanice care influențeazã valoarea economicã și determinã domeniile de utilizare a substanței minerale utile. Pentru componenții utili accesorii, cu
+o valoare economicã redusã, analizele se pot efectua pe
+probe grupate, obținute prin amestecarea de material din
+5Ñ20 probe simple. Caracteristicile calitative care depind
+statistic de altele (de exemplu: putere calorificã, conținut de
+cenușã la cãrbuni, Cd-Zn la minereuri polimetalice etc.) pot
+fi determinate pe un numãr redus de probe, dar suficient
+pentru stabilirea ecuațiilor de regresie corespunzãtoare.
+Art. 71. Ñ Pentru verificarea rezultatelor analizelor de
+bazã se executã analize de control intern și extern pentru
+toate caracteristicile calitative principale (utile și dãunãtoare). În documentațiile de evaluare a resurselor minerale
+se va prezenta prelucrarea rezultatelor analizelor de control
+intern și extern efectuate. În cazul când analizele de control extern pun în evidențã erori sistematice, se vor efectua
+analize de arbitraj. Modul de prelucrare și de interpretare a
+rezultatelor analizelor de control este redat în anexa nr. 2.
+Art. 72. Ñ Fiecare probã va fi documentatã grafic,
+numeric și descriptiv.
+Art. 73. Ñ În anexa nr. 2 se prezintã indicații metodologice privind probarea chimicã și fizico-mecanicã a zãcãmintelor de substanțe minerale utile solide.
+Art. 74. Ñ Probarea tehnicã are ca scop determinarea
+proprietãților substanței minerale utile și ale rocilor înconjurãtoare, care influențeazã tehnologia de exploatare. De
+regulã, pe probele tehnice se determinã compactitatea,
+porozitatea, tãria (duritatea), fisurația, stabilitatea rocilor în
+lucrãrile de exploatare, rezistența de rupere la șoc, rezistența de sfãrâmare, coeficientul de afânare, greutatea volumetricã, umiditatea etc. Pentru zãcãmintele exploatabile la
+zi se executã, direct în zãcãmânt sau pe probe, determinãri de stabilitate în taluzuri, de forare a gãurilor și de
+comportare la împușcare. Determinãrile se executã pe
+
+19
+
+probe colectate din substanța mineralã utilã și din rocile
+înconjurãtoare.
+Art. 75. Ñ Probarea tehnologicã are ca scop stabilirea
+fluxului tehnologic de preparare/prelucrare a substanțelor
+minerale utile din care se extrag elemente utile, a rețetei
+de fabricație și calitãții produselor care se pot obține din
+substanțele minerale utile ori cu participarea lor.
+Probele se recolteazã pe sorturi de substanțã mineralã
+utilã, dacã acestea pot fi conturate și exploatate separat.
+III.1.5. Cercetarea hidrogeologicã
+
+Art. 76. Ñ Cercetarea hidrogeologicã se executã în
+mãsura în care apele subterane ridicã probleme în valorificarea zãcãmântului și are ca scop formularea concluziilor
+privind condițiile hidrogeologice ale corpurilor de substanțã
+mineralã utilã, a posibilitãților de asecare ale orizonturilor
+acvifere și proiectarea acesteia.
+Art. 77. Ñ Cercetãrile hidrogeologice se executã în
+etape, prin observații directe în deschideri naturale sau în
+lucrãri existente, prin foraje și prin lucrãri miniere.
+a) Prospecțiunea hidrogeologicã cuprinde lucrãrile efectuate prin observarea directã în deschideri naturale sau
+lucrãri existente (puțuri, galerii etc.) și prin foraje singulare,
+în scopul stabilirii condițiilor hidrogeologice generale ale
+unei regiuni sau unui perimetru cu resurse posibile.
+b) Explorarea hidrogeologicã cuprinde ansamblul lucrãrilor efectuate prin foraje hidrogeologice și lucrãri miniere, în
+scopul stabilirii condițiilor hidrogeologice caracteristice unui
+perimetru. În faza de explorare generalã, lucrãrile executate
+trebuie sã asigure cunoașterea caracteristicilor hidrogeologice, în mãsura necesarã clasificãrii resurselor în categoria
+resurse minerale indicate. În faza explorãrii de detaliu,
+lucrãrile trebuie sã asigure cunoașterea caracteristicilor, în
+mãsura necesarã clasificãrii resurselor în categoria resurse
+minerale mãsurate și proiectãrii asecãrii necesare pentru
+asigurarea exploatãrii.
+Art. 78. Ñ La amplasarea forajelor hidrogeologice se va
+ține seama de dezvoltarea complexelor permeabile și de
+complexitatea condițiilor hidrogeologice ale regiunii.
+Densitatea forajelor hidrogeologice depinde de nivelul gradului de cunoaștere urmãrit. În cadrul aceleiași faze de
+explorare, densitatea forajelor hidrogeologice poate fi diferitã în limitele unui zãcãmânt sau perimetru, dacã condițiile
+hidrogeologice impun acest lucru. Amplasarea forajelor
+hidrogeologice și densitatea acestora se justificã în programele de cercetare geologicã.
+Forajele hidrogeologice care se înscriu în rețeaua de
+cercetare geologicã se vor executa cu carotaj mecanic continuu. Pentru celelalte foraje hidrogeologice se va executa
+carotaj mecanic continuu numai în intervalele poros-permeabile și în cele din util.
+Art. 79. Ñ Cercetarea hidrogeologicã se va face separat
+pentru fiecare orizont acvifer, urmãrindu-se ca în fiecare
+punct sã fie studiate experimental toate orizonturile acvifere
+întâlnite, fie printr-un singur foraj, fie prin mai multe foraje
+apropiate.
+
+20
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+III/2. Evaluarea resurselor minerale
+
+III/2.1. Principii generale
+
+Art. 80. Ñ Resursele minerale se evalueazã pe baza
+tuturor rezultatelor obținute din lucrãrile de cercetare și
+exploatare, pe întregul zãcãmânt sau pe perimetre ale
+acestuia, care constituie sau vor constitui unitãți independente de exploatare.
+Art. 81. Ñ În zãcãmintele la care, pe lângã substanța
+de bazã, au fost interceptate și alte substanțe valorificabile,
+se vor evalua resursele minerale pentru toate aceste substanțe, iar în zãcãmintele cu mai multe elemente utile, se
+va stabili conținutul pentru fiecare element valorificabil.
+Caracterizarea calitativã a resurselor minerale va cuprinde
+exprimarea valorii fiecãrei caracteristici care influențeazã
+pozitiv sau negativ valoarea economicã și domeniile de utilizare a substanței minerale utile.
+Art. 82. Ñ Pentru fiecare substanțã mineralã utilã,
+resursele se exprimã fie în unitãți de masã (tone, kilograme), fie în metri cubi, în funcție de modul în care se
+raporteazã realizarea producției.
+Art. 83. Ñ Resursele minerale identificate (mãsurate,
+indicate sau posibile) se evalueazã așa cum se aflã în
+zãcãmânt, fãrã a lua în considerare modificãrile ce intervin
+în procesul de exploatare (diluție, pierderi), cu urmãtoarele
+precizãri:
+a) intercalațiile sterile sau necorespunzãtoare calitativ,
+care au grosimea pânã la limita maximã admisã prin condițiile industriale, se includ în calculul resurselor minerale;
+b) pentru elementele utile accesorii, care se pot recupera din subproduse (de exemplu: concentrate), se va
+determina atât conținutul în zãcãmânt, cât și în subprodusul
+respectiv.
+Art. 84. Ñ Resursele minerale care urmeazã sã stea la
+baza stabilirii condițiilor industriale se vor evalua, dupã caz,
+în mai multe variante de conținut limitã, grosime minimã
+etc.
+Art. 85. Ñ La zãcãmintele exploatabile la zi se va
+determina și volumul copertei, în variante ale adâncimii
+maxime de exploatare în carierã.
+Art. 86. Ñ Evaluarea resurselor implicã, de regulã,
+urmãtoarele operațiuni: delimitarea resurselor minerale de
+rocile sterile, delimitarea resurselor de categorii diferite și
+împãrțirea corpurilor de substanțã mineralã utilã în unitãți
+de calcul, evaluarea cantitãții și calitãții resurselor fiecãrei
+unitãți de calcul și cumularea acestora.
+III/2.2. Împãrțirea corpurilor de substanțã mineralã utilã
+în unitãți de calcul
+
+Art. 87. Ñ Delimitarea în cadrul fiecãrui corp de substanțã mineralã utilã a resurselor pe grupe și categorii redã
+localizarea lor în funcție de posibilitãțile de valorificare și de
+gradul de cunoaștere realizat. Pentru obținerea imaginii distribuției spațiale a resurselor și a variației calitãții substanței
+minerale utile, resursele din cadrul aceleiași grupe și categorii se împart în unitãți de calcul, denumite panouri sau
+blocuri. Modul de împãrțire în unitãți de calcul și dimensiu-
+
+nile acestora depind de forma de zãcãmânt, de gradul de
+cunoaștere realizat și de metoda de exploatare preconizatã.
+Art. 88. Ñ Fiecare unitate de calcul va cuprinde resurse
+clasificate în aceeași categorie și în același sort de substanțã mineralã utilã; separarea pe sorturi se face ori de
+câte ori acestea pot fi conturate în spațiu.
+Art. 89. Ñ În faza de explorare preliminarã, unitãțile de
+calcul se delimiteazã, de regulã, pe criterii geologice și
+sunt de dimensiuni mari, dar trebuie sã ținã seama de
+variația caracteristicilor calitative și de structura corpurilor
+de substanțã mineralã utilã, în mãsura necesarã delimitãrii
+zonei unde urmeazã sã înceapã exploatarea, deci a ariei
+în care se va desfãșura explorarea de detaliu.
+Art. 90. Ñ În faza explorãrii de detaliu, pentru resursele
+de categorii superioare, unitãțile de calcul se vor delimita
+ținându-se seama de metoda de exploatare preconizatã.
+III/2.3. Evaluarea cantitãții și calitãții resurselor minerale
+pe unitãți de calcul
+
+Art. 91. Ñ Evaluarea resurselor pe unitãți de calcul se
+face prin determinarea volumului lor, iar în cazul în care
+resursele se exprimã în unitãți de masã (tone, kilograme),
+se utilizeazã și greutatea volumetricã. La zãcãmintele tabulare volumul resurselor se stabilește cu ajutorul suprafeței
+și al grosimii medii. În cazul zãcãmintelor în care substanța
+mineralã utilã apare sub formã de cuiburi în roca purtãtoare de mineralizație, se evalueazã cantitatea totalã de
+rocã, apoi resursele de substanțã mineralã utilã se obțin
+prin aplicarea coeficientului de mineralizare.
+Art. 92. Ñ Suprafața unitãților de calcul se contureazã
+pe un plan, prin proiecție ortogonalã. Poziția planului de
+proiecție depinde de direcția și înclinarea corpurilor de substanțã mineralã utilã.
+Art. 93. Ñ Grosimea se mãsoarã, de regulã, în punctele de interceptare prin lucrãri. Grosimea medie pe unitatea de calcul este media valorilor din punctele de
+mãsurare, proiectate pe normala la planul de proiecție a
+suprafețelor. Determinarea valorilor medii pe unitatea de
+calcul se poate face geostatistic, prin metode statisticomatematice, ponderat, dupã lungimea sau suprafața de
+influențã, precum și ca medie aritmeticã simplã.
+Art. 94. Ñ Pentru greutate volumetricã, de regulã, se
+calculeazã câte o valoare medie corespunzãtoare fiecãrui
+sort de substanțã mineralã utilã din același zãcãmânt, care
+se utilizeazã în determinarea resurselor tuturor unitãților de
+calcul ale sortului respectiv.
+Art. 95. Ñ În cazul zãcãmintelor cu alternanțe de substanțã mineralã utilã și de benzi sterile incluse în calculul
+resurselor și cu o diferențã semnificativã între greutatea
+volumetricã a utilului și a sterilului, se determinã întâi greutatea volumetricã medie a substanței minerale utile și a
+rocilor care constituie intercalațiile sterile, pe unitatea de
+calcul. În fiecare punct de cunoaștere se calculeazã greutatea volumetricã corespunzãtoare proporției de util și steril,
+apoi cu aceste valori se determinã greutatea volumetricã
+medie pentru fiecare unitate de calcul.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+Art. 96. Ñ În vederea stabilirii calitãții resurselor minerale pe unitãți de calcul, se determinã media fiecãrei caracteristici calitative, folosindu-se, de regulã, valorile stabilite în
+fiecare punct de cunoaștere aparținând unitãții de calcul
+respective, precum și în unele puncte exterioare, dar situate aproape de conturul unitãții de calcul. Calculul mediei
+se poate face geostatistic, prin metode statistico-matematice, și ponderat, dupã grosimea sau lungimea probelor ori
+dupã suprafața de influențã.
+Se excepteazã de la prevederile prezentului articol
+urmãtoarele situații:
+a) mediile pe unitãți de calcul ale caracteristicilor calitative care depind statistic de altele se stabilesc cu ajutorul
+ecuațiilor de regresie corespunzãtoare;
+b) pentru caracteristicile calitative cu importanțã redusã
+în valoarea economicã a substanței minerale utile, la care
+determinãrile s-au efectuat pe un numãr redus de probe ori
+pe probe grupate, precum și în cazul elementelor utile care
+în zãcãmânt apar în conținut sub limita de sensibilitate a
+metodelor de analizã, dar care pot fi recuperate din subproduse, se poate atribui fiecãrei unitãți de calcul valoarea
+medie pe corp de substanțã mineralã utilã.
+Art. 97. Ñ În evaluarea resurselor minerale se pot utiliza coeficienți de corecție în urmãtoarele situații:
+a) în cazul în care analizele de control extern pun în
+evidențã erori sistematice în activitatea laboratorului de
+bazã, confirmate de analizele de arbitraj, rezultatele analizelor de bazã din perioada respectivã vor fi corectate cu
+coeficientul corespunzãtor;
+b) valorile caracteristicilor calitative care se determinã pe
+probe uscate în prealabil vor fi corectate ținându-se seama
+de umiditatea naturalã a substanței minerale utile;
+c) în situațiile în care pe unitãți de calcul revine un
+numãr redus de lucrãri sau probe chimice și fizico-mecanice, la estimarea caracteristicilor calitative medii este indicat sã se procedeze, în cadrul fiecãrui corp de substanțã
+mineralã utilã, astfel: se estimeazã valorile medii ale caracteristicilor calitative pe fiecare unitate de calcul (Cu); se
+determinã valorile medii ale caracteristicilor calitative pe
+corp de substanțã mineralã utilã, cu includerea rezervelor
+exploatate și a probelor aferente acestora, în douã moduri:
+prin media tuturor probelor (Cp) și prin media ponderatã
+dupã rezerve (Cr) a valorilor medii pe unitãți de calcul; se
+stabilește coeficientul de corecție K = Cp/Cr; pentru fiecare
+unitate de calcul se adoptã media corectatã Ccu = K cu;
+se recomandã estimarea mediei Cp, ținându-se seama de
+legea de distribuție statisticã a fiecãrei caracteristici;
+d) în cazul zãcãmintelor cu o tendințã de variație a grosimii sau a calitãții resurselor, pentru unitãțile de calcul
+extrapolate de la un aliniament de cercetare ori interpolate
+între lucrãri cu rezultat pozitiv și negativ, valorile medii ale
+grosimii sau ale caracteristicilor calitative, stabilite cu datele
+obținute din lucrãrile de cercetare cu rezultat pozitiv, se vor
+corecta ținându-se seama de tendința în variația caracteristicilor respective;
+e) în cazul existenței probelor excepționale la zãcãmintele de minereuri auro-argentifere și de elemente rare și
+disperse, precum și la unele zãcãminte de minereuri neferoase, conținuturile medii ale unitãților de calcul, determi-
+
+21
+
+nate fãrã probele excepționale, se corecteazã cu coeficientul corespunzãtor aportului suplimentar de metal, pe corp
+de minereu, dat de aceste probe.
+În legãturã cu probele excepționale se vor avea în
+vedere urmãtoarele:
+Ñ fiecare probã cu un conținut anormal se reanalizeazã. Dacã se obține un conținut normal, acesta înlocuiește conținutul inițial. Dacã reanalizarea indicã un conținut
+ridicat, proba se reține ca posibil excepționalã;
+Ñ probele cu conținut ridicat, confirmat prin reanalizare,
+se marcheazã pe profilurile de calcul al rezervelor fiecãrui
+corp de minereu;
+Ñ dacã în urma examinãrii localizãrii spațiale a probelor
+cu conținut ridicat se pot contura anumite zone de îmbogãțire care au și o explicație geneticã, rezervele se calculeazã separat pentru minereul bogat astfel conturat și
+separat pentru restul minereului. Dacã probele cu conținut
+ridicat se distribuie regulat pe întregul corp de minereu,
+resursele se estimeazã pe unitãți de calcul, considerându-se excepționale probele al cãror conținut este de
+10Ñ15 ori mai mare decât media pe unitatea de calcul
+stabilitã, fãrã luarea în considerare a probelor cu conținut
+ridicat;
+Ñ în cazul existenței probelor excepționale, pe fiecare
+unitate de calcul se determinã conținutul mediu cu probele
+excepționale și fãrã luarea lor în considerare. Se calculeazã apoi conținutul mediu pe resursele totale ale corpului
+de minereu în cele douã variante: cu probele excepționale
+(Ce) și fãrã ele (C). Se calculeazã coeficientul de corecție
+K = Ce/C pe corp de minereu, cu care se înmulțește
+conținutul mediu al fiecãrei unitãți de calcul, stabilit fãrã
+probele excepționale. Aceasta este calitatea adoptatã a
+resurselor.
+Art. 98. Ñ Pe baza resurselor evaluate pe unitãți de
+calcul se determinã resursele cumulate, în cadrul fiecãrei
+grupe și categorii, pe orizonturi sau trepte de exploatare,
+pe corpuri de substanțã mineralã utilã, pe perimetre și pe
+total zãcãmânt. Calitatea medie a rezervelor cumulate se
+determinã prin ponderare.
+III/3. Evaluarea resurselor valorificabile și a rezervelor
+
+Art. 99. Ñ Resursele valorificabile și rezervele se evalueazã din resursele minerale identificate (mãsurate și/sau
+indicate), luându-se în considerare condițiile industriale și
+modificãrile ce intervin în procesul de exploatare (diluție,
+pierderi de exploatare).
+Art. 100. Ñ Resursele valorificabile și rezervele se evalueazã pe aceleași unitãți de calcul pe care au fost evaluate resursele minerale din care provin, cu precizarea
+raportului de transformare a acestora în rezerve sau
+resurse valorificabile.
+Art. 101. Ñ Încadrarea în categorii a resurselor valorificabile și a rezervelor se face pe baza analizãrii economicitãții exploatãrii, în studii de prefezabilitate sau fezabilitate,
+și a gradului de cunoaștere a criteriilor de clasificare a
+resurselor minerale/rezervelor și în funcție de categoriile de
+resurse minerale din care provin.
+
+22
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+
+Explorare detaliatã
+
+Prospecțiune
+
+Recunoaștere
+
+1
+
+Studiu de fezabilitate ......................... 1
+
+Explorare generalã
+
+ANEXA Nr. 1a)
+
+2
+
+3
+
+4
+
+Studiu de prefezabilitate ..................... 2
+
+Axa geologicã
+
+G
+1 Rezerve
+
+Studiu geologic .................... 3
+
+Axa
+fezabilitãții
+
+2 Resurse
+
+F
+
+valorificabile
+
+3 Resurse
+331
+
+332
+
+333
+
+E
+
+Schemã privind codificarea numericã a clasificãrii resurselor minerale
+
+identificate
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+
+23
+ANEXA Nr. 1b)
+
+Reprezentarea tridimensionalã codificatã
+a clasificãrii resurselor minerale/rezervelor
+
+GEOLOGICÃ
+
+AXA
+
+Resurse minerale mãsurate
+(331)
+
+Explorare detaliatã
+
+Resurse minerale indicate
+(332)
+
+Explorare generalã
+
+Resurse minerale posibile
+(333)
+
+Prospecțiunea
+
+Resurse de prognozã
+(334)
+
+Raport minier
+
+Valorificabil
+Resurse minerale
+valorificabile potențial
+(221+222)
+
+Studiu de fezabilitate/
+
+prefezabilitate
+
+Studiu de
+
+Rezerve probabile
+(121 + 122)
+
+Exploatabile economic
+
+Economic
+viabil
+
+Recunoaștere
+
+AXA FEZABILITÃÞII
+
+SCHEMA CLASIFICÃRII RESURSELOR MINERALE/REZERVELOR
+
+Rezerve dovedite
+(111)
+
+Exploatabile economic
+
+ANEXA Nr. 1c)
+
+Resurse minerale
+valorificabile conjunctural
+(211)
+
+Valorificabile
+
+Economic
+viabil
+
+24
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+
+25
+ANEXA Nr. 1d)
+
+CLASIFICAREA
+
+resurselor minerale și a rezervelor
+Specificație
+
+Rezerve
+
+Grupã
+
+Exploatabile economic
+
+Resurse
+Valorificabile
+
+Identificate
+
+Categorie
+
+Dovedite
+
+Probabile
+
+Conjunctural
+
+Potențial
+
+Mãsurate
+
+Indicate
+
+Posibile
+
+Cod
+categorie
+
+111
+
+121+122
+
+211
+
+221+222
+
+331
+
+332
+
+333
+
+ANEXA Nr. 2
+METODOLOGIA
+
+de probare chimicã și fizico-mecanicã a zãcãmintelor de substanțe minerale utile solide
+Factorii mai importanți care influențeazã reprezentativitatea și obiectivitatea probãrii și de care se va ține seama
+sunt: metoda de probare, cantitatea de material dintr-o
+probã, poziția probelor fațã de lucrãri și fațã de zãcãmânt,
+constanța dimensiunilor probelor.
+Recoltarea probelor se va face din foraje și din lucrãri
+miniere, pe mãsura executãrii acestora.
+1. Metoda de recoltare a probelor
+La alegerea metodei de probare se va ține seama de
+prevederile art. 66 din prezenta instrucțiune tehnicã privind
+evaluarea și clasificarea resurselor minerale/rezervelor de
+substanțe minerale solide, precum și de faptul cã, în cazul
+zãcãmintelor la care practica cercetãrii și a exploatãrii a
+confirmat justețea metodei de probare utilizate, aceasta va
+fi folositã în continuare, deci nu sunt necesare cercetãri
+pentru alegerea metodei de probare.
+În cazul zãcãmintelor noi, metoda de probare preconizatã se justificã în proiectele (programele) geologice, iar
+justețea celei utilizate se dovedește în documentațiile de
+evaluare a resurselor minerale/rezervelor, pe baza comparãrii rezultatelor obținute prin experimentarea a 1Ð3
+metode.
+Probele se recolteazã din toate lucrãrile executate și din
+toate corpurile de substanțã mineralã utilã, interceptate pe
+toatã grosimea zonei mineralizate, a corpului, stratului etc.,
+când limita cu roca din culcuș și acoperiș este tranșantã.
+În cazul când substanța mineralã utilã este impregnatã
+(dispersatã) și nu se poate delimita tranșant mineralizația,
+probarea se face pe grosimi ce variazã de la caz la caz și
+din culcușul și acoperișul imediat.
+Probarea prin brazde poate fi utilizatã, cu rare excepții, la toate zãcãmintele.
+În lucrãrile miniere, brazdele de probare vor fi orientate
+pe o direcție cât mai apropiatã de normala la planul corpului de substanțã mineralã utilã de formã tabularã.
+Secțiunea transversalã a brazdelor este, de regulã,
+dreptunghiularã, dar poate fi și triunghiularã.
+În suitori, galerii transversale sau nișe și în galeriile
+executate în corpurile de substanțã mineralã utilã izome-
+
+trice (volburi, stockuri, masive), brazdele se recolteazã
+dintr-un perete.
+În mod excepțional, în cazul mineralizațiilor cu o dispersie foarte mare a componenților utili sau cu un contur
+extrem de neregulat, se pot proba ambii pereți.
+În cazul zãcãmintelor tabulare cu înclinare medie și
+mare, cercetate cu lucrãri miniere care cuprind în profilul
+lor corpul de substanțã mineralã utilã pe toatã grosimea
+sa, probele se recolteazã din tavanul galeriilor direcționale
+și dintr-un perete al suitorilor, brazdele fiind, de regulã,
+transversale.
+În cazul grosimilor foarte mici (pânã la 10 cm), brazdele
+se dispun longitudinal pe tavanul galeriilor direcționale sau
+pe un perete al suitorilor.
+Lungimea brazdelor se justificã în funcție de grosimea
+corpurilor de substanțã mineralã utilã, de gradul de variabilitate a calitãții mineralizației și de alternanța diferitelor sorturi de minereu și tipuri de roci.
+În cazul zãcãmintelor cu grosimea de 0,10Ð1,5 m, lungimea brazdelor este egalã cu grosimea corpurilor de substanțã mineralã utilã.
+La zãcãmintele tabulare cu grosimi mai mari de
+1,0Ð1,5 m și în cazul zãcãmintelor izometrice, lungimea
+brazdelor este, de regulã, de 1 m, cu posibilitatea mãririi ei
+pânã la 3Ð5 m, dacã componenții mineralogici ai substanței
+minerale utile sunt distribuiți uniform. Adoptarea unor lungimi de peste 1 m se va argumenta prin recoltarea, pe o
+lungime de cel puțin 100 m, de brazde cu lungimea de
+1 m și compararea conținutului mediu pe lucrarea probatã,
+calculat pe baza analizãrii fiecãrei probe de 1 m lungime,
+cu cel calculat prin analiza chimicã sau fizico-mecanicã a
+probelor comasate pe lungimi de 2 m, 3 m etc.
+Probarea prin brazde se face continuu, adicã pe aceeași linie de explorare nu rãmân intervale neprobate, decât
+eventualele intercalații sterile sau necorespunzãtoare
+calitativ, care se pot evita în procesul de exploatare. În primele etape de cercetare, când nu se cunoaște grosimea
+minimã a intercalațiilor sterile ce pot fi evitate în procesul
+de exploatare, acestea se vor proba și analiza separat,
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+
+dupã aceeași metodã ca utilul, urmând a se decide ulterior
+necesitatea excluderii lor din calculul rezervelor.
+În cazul zãcãmintelor de substanțe minerale utile în
+care se pot separa macroscopic tipuri sau sorturi, care în
+procesul de exploatare se vor extrage separat, se recolteazã probe separat din fiecare tip sau sort.
+Probarea în rețea (prin ciupire) constã în extragerea
+aceleiași cantitãți de substanțã mineralã utilã din fiecare
+punct al unei rețele uniforme (de regulã rectangularã) de
+pe suprafața ce urmeazã a fi probatã. Amestecul materialului rezultat din toate punctele de pe suprafața probatã
+constituie proba, cu mineralizația uniformã.
+Probarea prin rãzuire constã în scoaterea unei felii de
+substanțã mineralã utilã de aceeași grosime pe toatã
+suprafața ce constituie o probã.
+Probarea prin rãzuire este cea mai exactã, dar ea este
+dificil de executat și foarte costisitoare. Ea este indicatã
+numai în cazul zãcãmintelor de minereuri metalifere cu
+grosime micã și cu o repartiție extrem de neuniformã a
+componenților utili, precum și ca metodã de control pentru
+verificarea altei metode de probare. În cazul corpurilor de
+minereu cu grosimi foarte mici (pânã la 10 cm), probarea
+prin rãzuire coincide cu probarea prin brazde, amintitã mai
+sus.
+Metoda globalã constã în extragerea materialului rezultat
+în urma executãrii în util a câtorva metri de lucrare
+minierã.
+La utilizarea probãrii globale se va ține seama de aportul de steril din rocile înconjurãtoare.
+Recoltarea probelor globale se va practica ori de câte
+ori alte metode de probare conduc la rezultate neconcludente.
+Probarea prin gãuri de minã este indicatã în cazul
+zãcãmintelor izometrice, fãrã goluri în care s-ar putea
+pierde o parte de material. Aplicarea acestei metode este
+condiționatã de realizarea unui recuperaj de cel puțin
+90%, în cazul repartiției neuniforme a componenților utili și
+dãunãtori, și de cel puțin 80%, în cazul repartiției uniforme
+a acestora.
+La cercetarea prin foraje cu carotaj continuu materialul
+obținut din util constã din carotã, detritusul depus în tubul
+de sedimentare și din fragmentele din noroiul de foraj.
+În cazul unui recuperaj în carotã de cel puțin 80%,
+proba chimicã sau fizico-mecanicã este constituitã din
+jumãtate de carotã, obținutã prin secționare axialã, sau din
+întreaga carotã, în cazul diametrelor mici și dacã nu este
+necesar sã se pãstreze o parte din carote în alte scopuri.
+Dacã recuperajul în carotã este sub 80% și în intervalul
+cercetat nu apar intercalații sterile care se exclud din calculul rezervelor, pe lângã proba din carotã se ia și o
+probã formatã din amestecarea materialului din noroiul de
+foraj cu detritusul, rezultate din același interval cu carota.
+În cazul unor roci cu componente argiloase sau friabile,
+este necesarã verificarea influenței noroiului de foraj asupra
+carotelor, prin executarea unor lucrãri miniere coaxiale de
+verificare.
+
+În cazul straturilor neomogene de cãrbuni, carotele obținute din fiecare interval de util și steril se prelucreazã (fie
+prin secționare axialã, fie prin mãcinare), în vederea formãrii atât a probelor diferențiale, cât și a celei globale.
+În vederea determinãrii proprietãților fizico-mecanice ale
+unor roci de construcții, se recolteazã eșantioane care sã
+permitã confecționarea epruvetelor de forma și mãrimea
+prevãzute în standardele de stat referitoare la aceste determinãri.
+2. Distanța minimã dintre probe
+Prin distanța dintre probe, în sensul prezentei instrucțiuni,
+se înțelege distanța dintre douã linii de probare vecine. O
+linie de probare este constituitã din mulțimea probelor care
+se recolteazã de la intrarea pânã la ieșirea din zãcãmânt
+și care sunt situate pe aceeași lucrare geologicã sau pe
+mai multe lucrãri executate în prelungire, aproximativ, de-a
+lungul unei drepte.
+În cazul zãcãmintelor tabulare, a cãror grosime se
+înscrie în profilul galeriilor direcționale și al suitorilor, distanța dintre probe coincide cu distanța dintre douã linii de
+probare paralele, vecine. Prevederile vizând distanța dintre
+probe se referã la acest caz și numai la minereurile metalice și la unele substanțe nemetalifere. În cazul forajelor
+sau al breșelor și transversalelor executate din galerii direcționale sau din suitor, distanța dintre probe coincide cu distanța dintre aceste lucrãri.
+Pentru asigurarea caracterului obiectiv al probãrii este
+necesar ca din același tip de substanțã mineralã utilã din
+cadrul unui zãcãmânt probele sã se recolteze la distanțe
+egale.
+Pentru fiecare zãcãmânt sau pentru tipuri de zãcãmânt
+similare se va stabili distanța optimã dintre probe, urmãrindu-se obținerea rezervelor cu un grad de cunoaștere cât
+mai ridicat, în condiții economice raționale.
+În vederea stabilirii distanței optime dintre probe se va
+proceda astfel:
+Ð pe o lucrare de 50Ð100 m lungime, dintr-o porțiune
+caracteristicã a zãcãmântului se recolteazã probe la o distanțã de 1 m între ele;
+Ð se considerã succesiv setul format din probele (1,
+2,.........n) apoi cele luate din 2 în 2 m (2 subseturi: 1, 3,
+5,.............. și 2, 4, 6,......), din 3 în 3 m (3 subseturi: 1, 4,
+7,......; 2, 5, 8,....... și 3, 6, 9,.......) etc.;
+Ð pentru fiecare set și subset de probe se determinã
+parametri statistici (valoarea medie, dispersia și corelația
+spațialã);
+Ð se testeazã, succesiv, concordanța parametrilor
+(medie, dispersie) fiecãrui subset de probe cu parametrii
+setului format din toate probele recoltate din lucrarea pe
+care se face experimentarea;
+Ð distanța optimã dintre probe este cea mai mare
+distanțã la care parametrii subsetului de probe (medie,
+dispersie) nu diferã semnificativ de cei corespunzãtori
+distanței de 1 m.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+La cãrbuni distanța dintre probe coincide cu distanța
+dintre lucrãrile ce traverseazã straturile de cãrbuni, pe toatã
+grosimea lor.
+3. Greutatea optimã a probelor recoltate prin brazde
+Greutatea optimã a unei probe recoltate, pentru toate
+zãcãmintele sau toate tipurile de zãcãminte similare probate
+prin brazde, se va stabili experimental prin determinarea
+dimensiunilor brazdelor în secțiune transversalã, astfel:
+Ð se aleg cel puțin 30 de locuri de probare dintr-o porțiune caracteristicã a zãcãmântului, ele putând fi situate pe
+aceeași lucrare;
+Ð din fiecare loc de probare se recolteazã, succesiv,
+brazde de aceeași lungime, dar cu secțiunea transversalã
+crescândã (de exemplu: proba 1 de 3x2 cm, proba 2 de
+5x3 cm, proba 3 de 7x3 cm, proba 4 de 10x3 cm, proba
+5 de 10x5 cm etc.); fiecare probã nouã se recolteazã prin
+adâncirea și lãrgirea celei precedente și este constituitã din
+materialul nou recoltat, la care se adaugã întregul material
+obținut anterior din același loc (mai puțin partea consumatã
+prin efectuarea analizelor); prelucrarea fiecãrei probe se
+face pe întregul material din care este constituitã;
+Ð se determinã, pentru fiecare loc de probare, compoziția chimicã a probei 1, a probei 2, a probei 3 etc., pânã
+la secțiunea maximã;
+Ð se considerã seturile de probe formate din probele 1,
+probele 2, probele 3 etc. și pentru fiecare set de probe se
+determinã parametrii statistici (media, dispersia);
+Ð se testeazã, succesiv, concordanța mediei fiecãrui set
+cu media setului corespunzãtor probelor de dimensiune
+maximã;
+Ð greutatea optimã a probelor este aceea corespunzãtoare dimensiunilor celor mai mici la care media setului
+respectiv nu diferã semnificativ de media setului de probe
+cu dimensiunile maxime.
+4. Prelucrarea probelor
+Prelucrarea unei probe constã în extragerea din proba
+recoltatã a probei necesare efectuãrii analizelor.
+Proba supusã analizelor trebuie sã reprezinte fidel calitatea probei recoltate.
+La sosirea unui lot de probe în stația de prelucrare se
+vor confrunta etichetele din saci sau lãzi cu borderoul care
+însoțește lotul și se va verifica starea sacilor sau a cutiilor
+în care au fost aduse probele, iar probele vor fi cântãrite
+înainte de uscare.
+Dacã se constatã deteriorarea unor saci sau cutii, probele respective nu vor fi prelucrate pânã la consultarea
+personalului geologic, care va decide fie luarea în considerare, fie repetarea recoltãrii, dupã compararea greutãții
+acestor probe cu dimensiunile lor.
+Se vor lua toate mãsurile necesare pentru ca în procesul prelucrãrii probelor sã se reducã la minimum pierderile
+de material din probe și sã se excludã contaminarea lor cu
+material strãin.
+
+27
+
+Prelucrarea probelor chimice se realizeazã prin:
+a) repetarea succesivã a operațiilor de mãrunțire (sfãrâmare-mãcinare), separarea granulometricã (ciuruire-cernere),
+omogenizare și reducere; adesea aceste operațiuni sunt
+precedate de uscarea probelor în etuvã;
+b) la fiecare operațiune de reducere a probelor se va
+respecta relația:
+Q = Kd2,
+unde: Q = greutatea minimã de material ce trebuie obținutã dupã reducere, exprimatã în kg;
+d = diametrul maxim al granulelor din proba supusã
+reducerii, exprimat în mm (dimensiunile ochiurilor ciurului
+sau sitei pe care refuzul rãmas reprezintã maximum 5%
+din proba cernutã);
+K = un coeficient care depinde de caracteristicile substanței minerale utile, având valori crescânde de la 0,05
+pentru substanțele minerale utile omogene, pânã la 2Ð3
+pentru minereurile cu o repartiție extrem de neuniformã a
+componenților utili;
+c) valoarea coeficientului K se va stabili, experimental,
+pentru fiecare zãcãmânt, separat pe tipuri de mineralizație,
+astfel:
+Ð se fixeazã în zãcãmânt un numãr de puncte de
+probare suficient (cel puțin 3) pentru ca materialul recoltat
+sã fie reprezentativ pentru tipul mineralizației în cauzã;
+Ð din fiecare loc de probare stabilit se recolteazã probe
+prin metoda adoptatã pentru tipul respectiv de mineralizație, apoi se comaseazã materialul din toate probele, constituindu-se o probã unicã pentru experimentarea prelucrãrii;
+Ð proba unicã se prelucreazã succesiv, de cel puțin
+cinci ori pentru valori crescânde ale coeficientului K, începând cu o valoare minimã (se recomandã sã se adopte
+pentru valorile 0,05; 0,1; 0,2; 0,3; 0,4 și 0,5, în cazul compoziției mineralogice simple și al repartiției uniforme a componenților chimici, 0,2; 0,4; 0,6; 0,8 și 1, în cazul
+compoziției mineralogice complicate și al repartiției neuniforme a componenților chimici și 0,5; 1; 1,5; 2; 2,5 și 3, în
+cazul mineralizațiilor cu o compoziție mineralogicã foarte
+complicatã și cu o repartiție foarte neuniformã a componenților chimici);
+Ð din proba redusã, pentru fiecare valoare a coeficientului K se recolteazã cel puțin 10 probe pe care se fac
+analize chimice;
+Ð înaintea trecerii la fiecare K nou se reunificã întregul
+material din ciclul anterior de prelucrare;
+Ð pentru coeficientul K se adoptã cea mai micã valoare
+la care conținutul mediu și dispersia fiecãrui component
+chimic nu diferã semnificativ de dispersia și conținutul
+mediu corespunzãtor valorii maxime a acestui coeficient;
+d) în funcție de valoarea coeficientului K, determinatã
+experimental, și de greutatea inițialã a probelor chimice se
+stabilește schema de prelucrare a probelor, care constã în
+fixarea treptelor de mãrunțire, în alegerea aparatelor de
+mãrunțire, a ciururilor și sitelor și în adoptarea procedeului
+de omogenizare și reducere a probelor;
+e) mãrunțirea de la proba inițialã pânã la proba supusã
+analizelor se realizeazã, de regulã, în 3Ð4 trepte.
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+
+Se recomandã ca în cadrul fiecãrei trepte gradul de
+mãrunțire sã fie același.
+Pentru sfãrâmare se pot utiliza concasoare cu fãlci (mai
+rar valțuri), iar pentru mãcinare, mori cu discuri, mori cu
+bile (sau bare) și mojare (electrice sau manuale).
+Mojarea se face, de regulã, în laboratorul care executã
+analizele, dar se poate efectua și la stația de prelucrare a
+probelor;
+f) în scopul evitãrii introducerii într-un aparat de mãrunțire a unui material cu finețe mai avansatã decât a celui
+care va rezulta dupã mãrunțirea respectivã, cât și pentru a
+exclude posibilitatea obținerii, dupã mãrunțire, a unor granule cu dimensiuni mai mari decât cele prevãzute, înainte
+și dupã mãrunțire se va efectua o ciuruire sau cernere.
+Ciururile și sitele vor avea dimensiunile ochiurilor egale
+cu diametrul maxim al granulelor rezultate dupã fiecare
+mãrunțire.
+Refuzul fiecãrui ciur sau site se va reintroduce în aparatul de mãrunțire corespunzãtor acestuia, operațiile repetându-se pânã când refuzul scade sub 5% din greutatea
+probei supuse prelucrãrii;
+g) înaintea fiecãrei reduceri, probele se omogenizeazã
+prin amestecare repetatã, efectuatã manual sau mecanic;
+h) reducerea probelor se face numai la granulații corespunzãtoare satisfacerii relației Q = Kd2 și operația se poate
+realiza manual sau cu ajutorul unor dispozitive (prin sfertuire, cu reductorul Braun, reductorul cu pantaloni, reductorul
+cu jgheaburi înclinate etc.).
+La aceeași treaptã de mãrunțire, operațiile de omogenizare și reducere se repetã la nevoie, pânã când greutatea
+probei supuse reducerii ajunge la aceea a probei reduse în
+cadrul treptei respective;
+i) dupã ultima treaptã de mãrunțire, din fiecare probã se
+reține material în douã plicuri, unul servind la efectuarea
+analizelor (unicat), iar celãlalt ca probã-martor (duplicat);
+j) agenții economici care au stații de prelucrare a probelor vor lua toate mãsurile pentru reducerea la minimum a
+contaminãrii cu praf a atmosferei din încãperile respective.
+La cãrbuni întregul material care constituie probele pentru determinarea caracteristicilor fizico-chimice va fi supus
+operațiunii de sfãrâmare-mãcinare pânã la dimensiunea
+maximã de 5 mm. Materialul mãrunțit va fi trecut prin sita
+cu ochiuri de 5 mm, iar refuzul va fi supus din nou operațiunii de sfãrâmare-mãcinare. Procedeul se repetã pânã
+când refuzul pe sitã reprezintã maximum 5% din greutatea
+inițialã a probei supuse prelucrãrii.
+Materialul cu granulația sub 5 mm, rezultat din fiecare
+interval al straturilor neomogene, va fi împãrțit în douã pãrți
+egale, prin cântãrire. O parte va servi la constituirea probei diferențiale, iar a doua parte, la formarea probei globale. Probele astfel constituite, cât și cele din straturile
+omogene vor fi supuse operațiunii de reducere prin sfertuiri
+succesive pânã la greutatea minimã necesarã analizelor de
+bazã și de control și a constituirii probei duplicat, în cazul
+în care prin recoltare a rezultat o cantitate suficientã de
+material.
+
+În cazul în care prin carotare s-a obținut o cantitate
+micã de rocã, atunci întregul material servește la constituirea cel puțin a probelor pentru analizele de bazã și control.
+La unele roci de construcții, în vederea determinãrii proprietãților fizico-mecanice, prelucrarea probelor constã din
+confecționarea epruvetelor pe care se vor face aceste
+determinãri.
+Materialul rãmas dupã constituirea probelor unicat și
+duplicat, la toate substanțele minerale utile solide, se lichideazã dupã constituirea eventualei probe tehnologice de
+laborator.
+5. Analizarea probelor
+Pentru fiecare probã se efectueazã analizele și determinãrile de bazã pentru stabilirea tuturor componenților utili și
+dãunãtori și a caracteristicilor fizico-mecanice, care influențeazã valoarea economicã a substanței minerale respective,
+luându-se în considerare valorificarea diversificatã și cât
+mai completã a acesteia.
+Analizele și determinãrile se efectueazã de cãtre laboratoare autorizate, prin metodele prevãzute în standardele și
+în normele interne.
+Laboratoarele care executã analizele de bazã vor restitui
+compartimentelor geologice, o datã cu trimiterea buletinelor
+de analizã, și restul de material rãmas dupã analizã.
+Pentru verificarea analizelor de bazã se efectueazã analize de control intern și extern.
+Controlul intern se realizeazã în laboratorul de bazã și
+are ca scop depistarea erorilor întâmplãtoare. Compartimentele geologice vor trimite pentru control intern, imediat
+dupã primirea rezultatelor analizelor de bazã, material din
+restul probelor, pentru 5Ð10% din numãrul acestora, dar nu
+mai puțin de 50 de probe pe semestru. Probele pentru
+control intern se trimit cu un numãr codificat.
+Excepție fac cãrbunii utilizați în scopuri energetice, din
+straturi neomogene, la care controlul intern se realizeazã în
+faza de explorare de detaliu, prin compararea rezultatelor
+obținute din probele diferențiale cu cele obținute din probele globale.
+Rezultatele analizelor de control intern se examineazã
+de cãtre compartimentele geologice, imediat dupã primirea
+lor. Periodic (cel puțin o datã pe semestru) se prelucreazã
+rezultatele analizelor de control intern. Imediat ce se constatã erori întâmplãtoare care depãșesc limitele admise prin
+STAS sau prin normele interne referitoare la metoda de
+analizã sau determinare este semnalat laboratorul pentru
+cercetarea și eliminarea cauzelor care le-au produs.
+Dacã analizele de control intern pun în evidențã erori
+întâmplãtoare ce depãșesc limitele admise, probele din
+perioada la care se referã controlul se reanalizeazã dupã
+eliminarea cauzelor care le-au produs.
+Controlul extern se realizeazã într-un laborator specializat în analizele respective și are ca scop depistarea eventualelor erori sistematice în activitatea laboratorului de bazã.
+Pentru controlul extern se trimite material tot din restul
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+rãmas dupã efectuarea analizelor de bazã (eventual și de
+control intern) pentru minimum 3Ð5% din numãrul analizelor
+de bazã, dar nu mai puțin de 30 de probe pe semestru.
+Probele pentru control extern se trimit cel puțin o datã
+pe semestru și rezultatele lor se prelucreazã imediat dupã
+primire.
+În cazul în care analizele de control extern pun în evidențã erori sistematice, acestea trebuie verificate prin analize de arbitraj, efectuate într-un al treilea laborator, pe cel
+puțin 5Ð10% din numãrul analizelor de bazã la care se
+referã controlul extern.
+Depistarea erorilor sistematice se poate realiza și în
+laboratorul în care s-au efectuat analizele de bazã, pe un
+numãr de probe-etalon, echivalent cu 3Ð5% din numãrul
+analizelor de bazã. În acest caz, arbitrajul se face tot în
+laboratorul de bazã, pe un numãr dublu de probe-etalon.
+
+re, ra
+
+Ñ coeficientul de corelație dintre
+analizele de bazã și cele de
+control extern, respectiv de arbitraj;
+Ñ coeficientul de probabilitate al
+existenței erorii sistematice;
+Ñ coeficientul de corecție al analizelor de bazã, stabilit pe baza
+analizelor de control extern, respectiv de arbitraj;
+Ñ valoarea absolutã a mãrimii Z,
+adicã luatã cu semnul +, indiferent de semnul efectiv.
+
+t
+fe, fa
+
+I,Z,I
+
+n
+
+·
+
+yk = y1 + y2 +...+ yn (suma valorilor y1, y2, ..., yn)
+
+k=1
+
+6. Prelucrarea și interpretarea rezultatelor analizelor
+de control intern și extern
+6.1. Notații:
+
+Xbk, Xik, Xek, Xak
+
+E
+mb, me, ma
+
+Smb, Sme, Sma
+
+n
+
+Ñ valoarea caracteristicilor controlate (conținut etc.) pe proba k,
+datã de analiza de bazã, de
+control intern, de control extern,
+respectiv de arbitraj;
+Ñ eroare întâmplãtoare medie, pusã
+în evidențã de controlul intern;
+Ñ media analizelor de bazã, de
+control extern, respectiv de arbitraj;
+Ñ abaterile medii pãtratice ale
+mediilor de bazã, de control
+extern și de arbitraj;
+Ñ numãrul probelor supuse controlului;
+
+29
+
+6.2. Analizele de control intern
+
+Având în vedere faptul cã erorile întâmplãtoare admisibile sunt date pe clase de valori (clase de conținut) în
+STAS și în normele interne, prelucrarea se face separat pe
+fiecare clasã.
+6.2.1. Prelucrarea rezultatelor analizelor de control intern
+
+Se separã probele pe clase și în cadrul fiecãrei clase c,
+se determinã eroarea întâmplãtoare medie Ee, dupã formula:
+nc
+
+· I,Xbk Ð Xik,I
+
+k=1
+
+Ec =
+
+100,
+2nc
+
+unde nc este numãrul probelor din clasa c.
+
+6.2.2. Interpretarea rezultatelor analizelor de control intern
+
+Erorile întâmplãtoare puse în evidențã de controlul intern se comparã cu cele admise, pentru
+fiecare caracteristicã controlatã separat pe clase, dupã modelul din exemplul urmãtor:
+Nr.
+crt.
+(c)
+
+Clasa
+de
+conținut
+(%)
+
+Numãrul
+probelor
+pe clasã
+(nc)
+
+0Ñ0,5
+0,50Ñ6
+peste 6
+
+47
+38
+7
+
+11,5
+8,3
+2,6
+
+15
+12
+6
+
+erorile se înscriu în limitele admise
+erorile se înscriu în limitele admise
+erorile se înscriu în limitele admise
+
+0Ñ1
+1Ñ10
+peste 10
+
+45
+32
+10
+
+14,3
+12,4
+7,3
+
+15
+10
+6
+
+erorile se înscriu în limitele admise
+erori inadmisibile
+erori inadmisibile
+
+0Ñ0,5
+0,5Ñ3
+peste 3
+
+60
+31
+5
+
+12,4
+7,5
+3,2
+
+15
+10
+7
+
+erorile se înscriu în limitele admise
+erorile se înscriu în limitele admise
+erorile se înscriu în limitele admise
+
+Erori
+întâmplãtoare
+efective
+admise
+
+Interpretare
+
+Plumb
+1.
+2.
+3.
+Zinc
+1.
+2.
+3.
+Cupru
+1.
+2.
+3.
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+În cazul considerat, toate probele din perioada controlatã, cu conținut în zinc peste 1,0%,
+vor fi reanalizate în laboratorul de bazã pentru zinc, dupã eliminarea cauzelor care au generat
+erorile întâmplãtoare ce depãșesc limitele admise.
+
+6.3. Analizele de control extern
+6.3.1. Prelucrarea rezultatelor analizelor de control extern
+
+Se efectueazã urmãtoarele calcule:
+n
+
+n
+
+· xbk
+mb =
+fe =
+
+k=1
+
+· xek
+;
+
+me =
+
+n
+
+k=1
+
+;
+
+n
+
+me
+mb
+
+Dacã 0,95 ² fe ² 1,05, se admite cã nu existã erori sistematice și prelucrarea se încheie.
+Dacã fe este în afara intervalului (0,95; 1,05), prelucrarea se continuã dupã cum urmeazã:
+
+n
+
+n
+
+· x2ek Ñ nm2e
+
+Smb =
+
+Sme =
+
+k=1
+
+· x2ek Ñ nm2e
+k=1
+
+;
+
+;
+
+n(nÑ1)
+
+n(nÑ1)
+
+n
+
+· xbk xek Ñ nmbme
+k=1
+
+re =
+
+;
+n(nÑ1) Smb Sme
+
+t =
+
+I,mb
+
+Ñ me,I
+
+S2mb + S2me Ñ 2reSmbSme
+
+6.3.2. Interpretarea rezultatelor analizelor de control extern și de arbitraj
+
+Dacã t ² 2, nu existã erori sistematice, deci rezultatele analizelor de bazã sunt corecte și
+pot fi utilizate în estimarea rezervelor.
+În cazul cã t > 2, se efectueazã analize de arbitraj ale cãror rezultate se prelucreazã la fel
+ca și analizele de control extern. Pot apãrea trei situații:
+a) arbitrajul confirmã analizele de bazã, adicã 0,95 ² fa ² 1,05. În acest caz, se considerã
+cã nu existã erori sistematice, deci analizele de bazã sunt corecte;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+
+31
+
+b) arbitrajul confirmã controlul (0,95 ² fe/fa < 1,05). În acest caz, analizele de bazã din
+perioada controlatã sunt afectate de erori sistematice și ele se corecteazã cu coeficientul fa;.
+c) rezultatele analizelor de arbitraj nu coincid nici cu cele de bazã, nici cu cele de control
+extern (fa și raportul fe/fa se aflã în afara intervalului 0,95; 1,05). În acest caz se pun în ordine
+crescãtoare coeficienții de corecție fe, fa, precum și fb = mb/mb = 1. Se considerã corecte rezultatele analizelor date de laboratorul corespunzãtor coeficientului de corecție cu valoarea intermediarã,
+adicã:
+¥ dacã fe < 1 < fa sau
+fa < 1 < fe, se considerã corecte analizele de bazã;
+¥ dacã 1 < fe < fa sau
+fa < fe < 1, se considerã corecte analizele de control extern, iar rezultatele analizelor de bazã
+din perioada controlatã se corecteazã cu coeficientul fe, dacã prin corectare rezervele aferente probelor controlate nu trec din grupa de bilanț în grupa din afara bilanțului, sau invers; în caz contrar, se reface, în laboratorul de bazã, analiza tuturor probelor din perioada controlatã, dupã
+eliminarea cauzelor care au generat erorile sistematice;
+¥ dacã 1 < fa < fe sau
+fe < fa < 1, se considerã corecte analizele de arbitraj și se procedeazã la fel ca în cazul
+precedent, cu deosebirea cã coeficientul de corecție este fa.
+7. Documentarea probãrii
+Fiecare probã trebuie documentatã grafic, cifric și descriptiv în așa fel încât sã se poatã
+verifica rezultatele sale și reconstitui modul de desfãșurare în spațiu și timp a fiecãrui proces legat
+de probare, chiar și în absența personalului muncitor care a contribuit la realizarea recoltãrii,
+prelucrãrii, analizãrii și documentãrii ei.
+Fiecare sac sau ladã în care se introduce o probã va fi însoțit de un bilet în care se vor
+specifica numãrul probei, locul și data recoltãrii, dimensiunile probei și numele colectorului, iar în
+carnetul de teren se fac descrierea amãnunțitã a mineralizației în locul probat și o schițã cu cartarea locului probei.
+Fiecare lot de probe trimis la laborator (sau la stația de prelucrare a probelor, dacã aceasta
+nu este în cadrul laboratorului) va fi însoțit de un borderou de expediere care va cuprinde cel
+puțin elementele din carnetul de teren (exclusiv cartarea) plus greutatea probei și caracteristicile
+calitative care urmeazã a fi determinate.
+Rezultatele determinãrilor efectuate în laborator se trec pe buletine de analize pe care se vor
+înscrie, în mod obligatoriu, numãrul probei și lucrarea din care a fost recoltatã. În cazul zãcãmintelor de cãrbuni, pentru probele (eșantioanele) pe baza cãrora s-a determinat densitatea aparentã,
+buletinele vor cuprinde și rezultatele determinãrilor privind umiditatea totalã și cenușa din anhidru.
+Pe baza datelor din carnetul de teren, din borderourile de expediere a probelor și din buletinele de analizã se completeazã registrul probelor. În registrul probelor se trec și rezultatele analizelor de control intern și extern, cu semne distinctive sau cu culori diferite.
+În cazul în care se preconizeazã prelucrarea automatã a datelor în procesul evaluãrii rezervelor, datele de probare vor fi completate pe formulare corespunzãtoare, aducând simplificãrile
+corespunzãtoare registrului probelor. Pe formulare, localizarea spațialã a probelor se va face prin
+indicarea coordonatelor probelor.
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 30.98.12.301 B.C.R. Ñ S.M.B.
+Adresa pentru publicitate : Serviciul relații cu publicul și agenții economici, București,
+Str. Blanduziei nr. 1, sectorul 2, telefon 211.57.30.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 668.55.58 și 335.01.11/4028.
+Monitorul Oficial al României, Partea I, nr. 330 bis/1.IX.1998 conține 32 de pagini.
+
+Prețul 1.696 lei
+
+ISSN 1453Ñ4495
+
+32
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 330 bis/1.IX.1998
+
+

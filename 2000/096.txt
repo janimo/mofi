@@ -1,0 +1,992 @@
+PARTEA
+
+Anul XII Ñ Nr. 96
+
+I
+
+Vineri, 3 martie 2000
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+
+332.
+
+Ñ Ordin al ministrului finanțelor privind aprobarea
+Normelor metodologice generale pentru organizarea și funcționarea auditului intern în baza prevederilor Ordonanței Guvernului nr. 119/1999 privind
+auditul intern și controlul financiar preventiv .........
+
+1Ð8
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+MINISTERUL FINANÞELOR
+
+ORDIN
+privind aprobarea Normelor metodologice generale pentru organizarea și funcționarea
+auditului intern în baza prevederilor Ordonanței Guvernului nr. 119/1999
+privind auditul intern și controlul financiar preventiv
+Ministrul finanțelor,
+în baza Hotãrârii Guvernului nr. 447/1997 privind organizarea și funcționarea Ministerului Finanțelor, cu modificãrile
+ulterioare,
+având în vedere prevederile Ordonanței Guvernului nr. 119/1999 privind auditul intern și controlul financiar preventiv, precum și propunerile ordonatorilor principali de credite, ale direcțiilor de specialitate din Ministerul Finanțelor și ale
+aparatului sãu teritorial,
+emite urmãtorul ordin:
+1. Cu data prezentului ordin se aprobã Normele metodologice generale pentru organizarea și funcționarea auditului
+intern în baza prevederilor Ordonanței Guvernului nr. 119/1999
+privind auditul intern și controlul financiar preventiv.
+2. În termen de 30 de zile de la publicarea normelor
+metodologice în Monitorul Oficial al României, Partea I,
+
+instituțiile publice care înființeazã structuri de audit intern în
+baza Ordonanței Guvernului nr. 119/1999 vor elabora
+norme metodologice proprii privind organizarea și funcționarea activitãții de audit intern, conform cadrului general creat
+de prezentele norme metodologice.
+
+Ministrul finanțelor,
+Decebal Traian Remeș
+București, 25 februarie 2000.
+Nr. 332.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 96/3.III.2000
+NORME METODOLOGICE GENERALE
+pentru organizarea și funcționarea auditului intern în baza prevederilor Ordonanței Guvernului nr. 119/1999
+privind auditul intern și controlul financiar preventiv
+PARTEA I
+
+Delimitãri conceptuale
+1. Definiție
+Auditul intern reprezintã un ansamblu de activitãți și acțiuni
+corelate, desfãșurate de structuri specializate, constituite la nivelul
+instituției publice în cauzã sau, dupã caz, la nivelul instituției
+publice ierarhic superioare, care, pe baza unui plan și a unei metodologii prestabilite, este destinat sã realizeze un diagnostic general
+al sistemului, sub aspect tehnic, managerial și financiar-contabil.
+Auditul intern reprezintã o verificare de tip endogen și ex post.
+În legãturã cu caracterul ex post al auditului intern al instituțiilor
+publice trebuie menționat cã acest caracter se referã la o
+operațiune sau la o decizie, în timp ce, cu referire la activitatea globalã desfãșuratã de sistemul auditat la nivelul unui an calendaristic,
+auditul intern are un caracter concomitent. Acest caracter rezultã
+din trãsãtura auditului intern de a urmãri o operațiune sub aspectul
+obiectivelor specifice de verificare pe tot lanțul sãu de desfãșurare.
+2. Raportul dintre auditul intern și auditul extern la instituțiile
+publice
+Auditul intern este exercitat de o structurã specializatã, organizatã în condițiile legii la nivelul instituției publice în cauzã sau, dupã
+caz, de instituția publicã ierarhic superioarã, structurã subordonatã
+conducãtorului instituției publice în care este organizat.
+Auditul extern este exercitat de o structurã sau de o persoanã
+care este organizatã în afara structurii organizatorice a instituției
+publice auditate.
+Certificarea bilanțului contabil și a contului de execuție bugetarã, exercitatã de o terțã persoanã din afara instituției publice ale
+cãrei bilanț contabil și cont de execuție bugetarã sunt auditate, pe
+bazã de contract, este de natura auditului intern, dacã persoana
+respectivã figureazã în lista cuprinzând persoanele agreate de
+Ministerul Finanțelor, în condițiile Ordonanței Guvernului
+nr. 119/1999 privind auditul intern și controlul financiar preventiv.
+3. Raportul dintre auditul instituțiilor publice și auditul
+agenților economici
+Auditul intern al instituțiilor publice se exercitã în baza
+Ordonanței Guvernului nr. 119/1999, în timp ce auditul agenților
+economici se realizeazã în baza Legii nr. 31/1990 privind
+societãțile comerciale, republicatã.
+În cazul agenților economici care utilizeazã fonduri publice
+și/sau administreazã patrimoniul public ori care beneficiazã de
+drepturi exclusive sau speciale, și numai cu privire la acestea,
+auditul poate fi efectuat de instituția publicã care le-a alocat fondurile, le-a dat spre administrare patrimoniul sau le-a conferit
+drepturile exclusive ori speciale.
+Deosebirea esențialã dintre cele douã categorii de audit este
+însã aceea cã, în timp ce auditul agenților economici de drept privat se focalizeazã asupra conformitãții de tip financiar-contabil a
+operațiunilor efectuate de cel auditat, auditul instituțiilor publice se
+focalizeazã asupra calitãții și performanței de management, care
+include controlul de conformitate financiar-contabilã ca pe o parte.
+Aceastã diferențã rezultã din deosebirea criteriilor de comportament ale celor douã entitãți: profitul Ñ în cazul agenților economici și buna gestiune a banului și a patrimoniului public Ñ în
+cazul instituțiilor publice.
+4. Raportul dintre auditul intern și controlul intern al
+instituțiilor publice
+În conformitate cu definiția auditului intern cuprinsã în
+Ordonanța Guvernului nr. 119/1999 și cu precizãrile de la pct. 1,
+auditul intern se constituie ca un control ex post și, respectiv,
+concomitent asupra întregii activitãți a sistemului auditat și îndeosebi asupra controlului intern al sistemului respectiv. Prin urmare,
+controlul intern al instituției publice urmeazã sã facã el însuși
+obiectul auditului intern.
+Nu trebuie fãcutã nici o confuzie între controlul intern, ca
+ansamblu de mãsuri la dispoziția conducãtorului instituției publice,
+menit sã asigure buna funcționare a instituției, și auditul intern care,
+fiind tot un control de tip endogen, este un control de tip evaluare
+
+și, mai ales, este un control final, ultimul din seria controalelor efectuate de structurile proprii ale instituției publice în cauzã.
+PARTEA a II-a
+
+Organizarea structurilor de audit intern
+5. Organizarea auditului intern la nivelul ordonatorilor principali de credite
+Auditul intern se organizeazã, în mod obligatoriu, la ordonatorii principali de credite, responsabilitatea pentru aceasta revenind
+ordonatorilor de credite respectivi.
+Ordonatorii principali de credite vor analiza oportunitatea
+înființãrii structurilor proprii de audit intern la nivelul
+instituțiilor/unitãților subordonate sau aflate sub autoritatea lor.
+Aceastã analizã de oportunitate se va efectua având în vedere
+urmãtoarele criterii:
+Ð volumul anual al fondurilor publice utilizate;
+Ð numãrul instituțiilor/unitãților subordonate și gradul de dispersie teritorialã a acestora;
+Ð numãrul de personal al instituției publice în anasamblu, precum și ponderea numãrului de personal repartizat pe structuri
+subordonate;
+Ð în cazul în care ordonatorul principal de credite decide sã
+nu organizeze compartiment propriu de audit intern la nivelul
+structurilor subordonate, auditul acestor structuri va fi asigurat de
+compartimentul de audit intern de la nivelul ordonatorului de credite de rang imediat superior;
+Ð fostele structuri de control financiar de gestiune vor fi absorbite de cele de audit intern, acestea din urmã preluând, alãturi de
+atribuțiile conferite prin Ordonanța Guvernului nr. 119/1999, toate
+atribuțiile fostelor structuri de control financiar de gestiune;
+Ð acolo unde nu ființau structuri de control financiar de gestiune se vor înființa structuri de audit intern conform prevederilor
+art. 6 alin. (1) din Ordonanța Guvernului nr. 119/1999.
+La fundamentarea schemei de personal pentru structurile de
+audit intern înființate se vor avea în vedere urmãtoarele criterii:
+Ð numãrul de posturi: se recomandã drept coeficient normativ
+minimal un auditor la 40 de posturi, iar drept coeficient normativ
+maximal, un auditor la 30 de posturi;
+Ð în cazul în care ordonatorul principal de credite decide, conform criteriilor menționate, sã nu înființeze compartiment de audit
+intern la nivelul unor structuri instituționale subordonate, auditul
+intern al acestor structuri va fi asigurat de compartimentul de
+audit organizat la nivelul ordonatorului de credite de rang imediat
+superior.
+La nivel central Ministerul Finanțelor organizeazã activitatea de
+audit intern prin Direcția generalã audit intern (D.G.A.I.) care se
+subordoneazã ministrului finanțelor. D.G.A.I. asigurã auditul intern al
+activitãții proprii și îndrumarea metodologicã a compartimentelor de
+audit intern organizate la nivelul ordonatorilor principali de credite.
+La nivelul aparatului teritorial al Ministerului Finanțelor (direcții
+generale ale finanțelor publice și controlului financiar de stat
+județene și a municipiului București) auditul intern este organizat
+prin Serviciul de audit intern (S.A.I.) la nivelul județelor și prin
+Direcția de audit intern (D.A.I.) la nivelul Direcției generale a
+finanțelor publice și controlului financiar de stat a municipiului
+București, care se subordoneazã directorului general.
+La nivelul ordonatorilor secundari și terțiari de credite, în cazul
+în care ordonatorul principal de credite decide organizarea compartimentului de audit intern la nivelul acestor douã categorii de
+ordonatori, metodologia aplicatã va fi cea prevãzutã pentru ordonatorii principali de credite.
+La nivelul agenților economici care beneficiazã de drepturi
+exclusive sau speciale, care sunt în coordonarea unei instituții
+publice sau la care statul deține mai mult de 70% din numãrul
+de voturi în adunarea generalã a acționarilor/asociaților, nu se
+organizeazã compartimente de audit intern în sensul Ordonanței
+Guvernului nr. 119/1999. Pentru utilizarea fondurilor publice sau/și
+administrarea patrimoniului public auditul intern poate fi exercitat
+de instituția publicã care gestioneazã fonduri publice sau de
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 96/3.III.2000
+autoritatea publicã care dã în administrare patrimoniul public ori de
+instituția publicã care a acordat drepturile speciale sau exclusive.
+6. Organizarea auditului intern la nivelul instituțiilor publice
+cu mai puțin de 25 de posturi în schema de personal
+6.1. În cazul unei subordonãri ierarhice fațã de o instituție publicã
+
+Organizarea auditului intern se face conform prevederilor
+art. 28 alin. (1) din Ordonanța Guvernului nr. 119/1999.
+6.2. În cazul unei autonomii ierarhice
+
+În cazul unei autonomii ierarhice, dacã conducãtorul instituției
+publice în cauzã decide sã nu înființeze compartiment propriu de
+audit intern, va proceda astfel:
+Ð va comunica aceastã decizie direcției generale a finanțelor
+publice și controlului financiar de stat județene, respectiv a municipiului București, informând și despre modalitatea în care
+înțelege sã realizeze certificarea trimestrialã și anualã a bilanțului
+contabil și a contului de execuție bugetarã (prin persoane desemnate de direcția generalã a finanțelor publice și controlului financiar de stat sau prin persoane fizice ori juridice externe agreate);
+Ð în cazul în care certificarea trimestrialã și anualã a bilanțului
+contabil și a contului de execuție bugetarã urmeazã sã fie fãcutã
+prin persoane desemnate de direcția generalã a finanțelor publice
+și controlului financiar de stat, aceste persoane vor fi desemnate
+de directorul general din cadrul personalului angajat la S.A.I., respectiv la D.A.I., la propunerea șefului compartimentului respectiv.
+Acceptarea sau respingerea solicitãrii de certificare se va face în
+urma analizei fondului de timp de muncã disponibil la nivelul
+compartimentului, a gradului de acoperire cu sarcini a personalului specializat, precum și a altor criterii, astfel încât sã nu fie
+afectatã îndeplinirea atribuțiilor prevãzute în regulamentul de organizare și funcționare și în fișa postului;
+Ð în cazul prevãzut la alineatul precedent solicitantul va
+încheia cu direcția generalã a finanțelor publice și controlului
+financiar de stat județeanã, respectiv a municipiului București, un
+contract anual de audit intern și certificare;
+Ð în cazul în care certificarea trimestrialã și anualã a bilanțului
+contabil și a contului de execuție bugetarã urmeazã sã fie fãcutã
+prin persoane fizice sau juridice agreate, conducãtorul instituției
+publice în cauzã va solicita de la direcția generalã a finanțelor
+publice și controlului financiar de stat județeanã, respectiv a municipiului București, lista cuprinzând persoanele agreate de
+Ministerul Finanțelor pentru aceste atribuții. Dupã alegerea persoanei agreate care va realiza certificarea, conducãtorul instituției
+publice solicitante va transmite la S.A.I., respectiv la D.A.I., copia
+de pe contractul de certificare încheiat în acest sens. Persoanele
+care figureazã în aceste liste vor fi reatestate în aceastã calitate
+de Ministerul Finanțelor prin intermediul S.A.I., respectiv al D.A.I.,
+pentru fiecare exercițiu financiar, pe baza urmãtoarelor criterii:
+a) pentru persoane fizice:
+Ñ sã îndeplineascã condițiile cerute auditorilor interni,
+prevãzute de prezentele norme metodologice;
+Ñ sã susținã o testare profesionalã la S.A.I., respectiv la
+D.A.I., pe probleme de audit intern, cu accent pe certificarea
+bilanțurilor contabile și a conturilor de execuție bugetarã. În cazul
+în care a fost agreat pentru exercițiul financiar anterior, reatestarea pentru un nou exercițiu financiar se va face pe baza analizei
+rapoartelor de certificare întocmite;
+Ñ sã cunoascã și sã respecte prevederile Codului de eticã al
+auditorului intern;
+Ñ sã prezinte cazier judiciar;
+b) pentru persoane juridice:
+Ñ sã aibã prevãzut în obiectul de activitate activitãți de audit
+intern și de certificare a bilanțului contabil și a contului de
+execuție bugetarã pentru instituții publice;
+Ñ sã depunã la S.A.I., respectiv la D.A.I., o documentație
+concludentã din care sã rezulte capacitatea profesionalã și probitatea moralã pentru astfel de activitãți;
+Ñ persoanele fizice care, în numele persoanei juridice respective, urmeazã sã efectueze activitãți de audit intern și de certificare a bilanțului contabil și a contului de execuție bugetarã la
+instituții publice trebuie sã îndeplineascã condițiile prevãzute la lit. a).
+S.A.I., respectiv D.A.I., va transmite trimestrial la D.G.A.I.,
+pânã la data de 15 a lunii urmãtoare, lista cuprinzând persoanele
+agreate de Ministerul Finanțelor. Orice modificare operatã în listã
+va fi comunicatã la D.G.A.I. în termen de 10 zile de la data producerii acesteia.
+
+3
+
+Nerespectarea de cãtre persoanele agreate a legislației privind
+certificarea bilanțurilor contabile și a conturilor de execuție bugetarã, precum și încetarea îndeplinirii criteriilor care au stat la baza
+agreãrii atrag excluderea persoanei respective din listã.
+PARTEA a III-a
+
+Sfera activitãții de audit intern
+7. Activitãțile verificate de auditul intern
+Activitãțile verificate de auditul intern sunt cele menționate la
+art. 7 din Ordonanța Guvernului nr. 119/1999.
+8. Caracteristicile operațiunilor verificate de auditul intern
+Prin auditul intern se verificã operațiunile, activitãțile sau
+acțiunile care se efectueazã, se executã sau se desfãșoarã în
+cadrul instituției publice, avându-se în vedere urmãtoarele caracteristici (fãrã ca lista acestora sã fie exhaustivã):
+1. conformitatea operațiunilor, activitãților sau a acțiunilor:
+Ñ legalitatea: obiectul auditului intern respectã prevederile
+legale în materie;
+Ñ regularitatea: obiectul auditului intern respectã prevederile
+care se referã la modalitãți, proceduri, scheme sau la modele de
+efectuare, execuție sau desfãșurare;
+Ñ încadrarea în plafoanele valorice: obiectul auditului intern
+nu antreneazã depãșirea plafonului valoric maxim aprobat pentru
+acea operațiune, acțiune sau activitate;
+2. economicitatea operațiunilor, activitãților sau a acțiunilor:
+Ñ obiectul auditat realizeazã condiția costului minim în
+condițiile date. Costul minim se evalueazã prin determinarea costului de oportunitate al realizãrii obiectului auditat;
+3. eficacitatea operațiunilor, activitãților sau a acțiunilor:
+Ñ obiectul auditat realizeazã condiția de atingere a obiectivului
+stabilit prin realizarea sa. Atingerea obiectivului stabilit trebuie sã
+se realizeze într-o marjã pe care auditorul o considerã rezonabilã;
+4. eficiența operațiunilor, activitãților sau a acțiunilor:
+Ñ reprezintã o corelare între economicitate și eficacitate, în
+sensul unei optimizãri a celor douã caracteristici, în condițiile realizãrii obiectului auditat;
+5. oportunitatea temporalã a realizãrii obiectului auditat:
+Ñ se analizeazã dacã momentul în care obiectul auditat s-a
+realizat a fost cel mai propice sub aspectul asigurãrii atingerii
+obiectivului stabilit;
+6. oportunitatea structuralã a realizãrii obiectului auditat:
+Ñ se analizeazã dacã obiectul auditat s-a realizat în acea
+conjuncturã acționalã, normativã etc., care sã confere cel mai
+înalt grad de eficiențã. De asemenea, se analizeazã modul în
+care realizarea obiectului auditat se încadreazã într-o structurã
+mai largã de operațiuni, activitãți sau acțiuni;
+7. acoperirea riscului intern asociat realizãrii operațiunii, activitãții sau acțiunii auditate:
+Ñ se evalueazã modul și gradul în care realizarea obiectului
+auditat a antrenat riscuri interne (economice, tehnice, financiare,
+funcționale etc.), precum și modul și gradul în care aceste riscuri
+interne au fost acoperite a priori de managementul sistemului
+auditat;
+8. acoperirea riscului de sistem asociat realizãrii operațiunii,
+activitãții sau acțiunii auditate:
+Ñ se evalueazã modul și gradul în care realizarea obiectului
+auditat a antrenat riscuri de sistem (economice, tehnice, financiare, funcționale etc.), precum și modul și gradul în care aceste
+riscuri de sistem au fost acoperite a priori de managementul sistemului auditat;
+9. conectarea sistemului, prin realizarea obiectului auditat, la
+viitor:
+Ñ modul și gradul în care, prin realizarea obiectului auditat,
+sistemul în care s-a realizat acel obiect este asigurat împotriva
+epuizãrii funcționale și/sau primește impulsuri noi de dezvoltare,
+stabilitate și perfecționare specifice.
+9. Îndrumarea metodologicã în materia auditului intern
+Îndrumarea metodologicã în materia auditului intern este asiguratã de Ministerul Finanțelor printr-o structurã specializatã din
+cadrul D.G.A.I. și se referã atât la elaborarea inițialã a prezentelor norme metodologice, cât și la modificarea, actualizarea și perfecționarea acestora în mod dinamic.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 96/3.III.2000
+
+De asemenea, funcția de îndrumare metodologicã mai
+cuprinde elaborarea de machete, structuri de rapoarte de verificare și prezentare, interpretãri unitare ale prevederilor Ordonanței
+Guvernului nr. 119/1999, elaborarea și perfecționarea criteriilor și
+principiilor de întocmire a planului de audit intern și de valorificare a rapoartelor de audit intern.
+Conform prevederilor Ordonanței Guvernului nr. 119/1999,
+structura specializatã din cadrul D.G.A.I. din Ministerul Finanțelor
+va efectua și controlul respectãrii normelor, metodologiilor și a
+procedurilor de audit intern de cãtre structurile de audit intern de
+la nivelul ordonatorilor principali de credite.
+10. Auditul proiectelor de buget
+Scopul auditului proiectelor de buget întocmite de instituțiile
+publice este de a oferi ordonatorilor de credite o evaluare privind
+fezabilitatea și fiabilitatea proiectelor de buget, astfel încât sã se
+minimizeze riscurile privind colectarea veniturilor bugetare și
+depãșirea cheltuielilor publice, precum și de a fundamenta echilibrele bugetare. De asemenea, o datã cu trecerea la elaborarea
+bugetelor pe programe auditul proiectelor de buget are rolul de a
+evalua necesitatea și impactul realizãrii acestor programe pe termen scurt și mediu.
+Proiectele de buget întocmite de ordonatorii de credite vor fi
+însoțite de referate de opinie întocmite de compartimentele de
+audit intern proprii.
+Referatul de opinie va conține evaluãri și aprecieri cel puțin
+cu privire la:
+Ñ dimensionarea veniturilor bugetare;
+Ñ gradul de certitudine a veniturilor (riscul nerealizãrii veniturilor);
+Ñ dimensionarea și fundamentarea cheltuielilor bugetare;
+Ñ fundamentarea investițiilor și a achizițiilor publice;
+Ñ riscul depãșirii cheltuielilor proiectate;
+Ñ finanțarea deficitelor bugetare;
+Ñ datoria publicã implicitã în propunerile de finanțare bugetarã;
+Ñ fezabilitatea propunerilor de buget pe bazã de programe;
+Ñ cofinanțãri de proiecte și programe;
+Ñ transferurile între categorii de bugete;
+Ñ mãrimea, structura și destinația fondurilor publice provenite
+de la Uniunea Europeanã sau din alte surse;
+Ñ mãrimea, structura și implicațiile preluãrii la datoria publicã
+a rezultatelor negative ale blocajelor monetare și financiare din
+economie;
+Ñ structura și deficitul bugetului public consolidat;
+Ñ corelarea diverșilor indicatori bugetari;
+Ñ implicațiile propunerilor bugetare asupra echilibrului macroeconomic, dinamicii economiei reale și monetare, corelãrii fluxurilor economice interne cu cele externe, inflației, șomajului și
+calitãții vieții;
+Ñ alte elemente relevante rezultate din legea anualã a bugetului de stat.
+Ordonatorul principal de credite va colecta referatele de opinie
+din structurile descentralizate prin compartimentul de audit intern,
+care va audita proiectul de buget la nivelul ordonatorului principal
+de credite.
+În cazul în care referatul de opinie pune în evidențã anumite
+necorelãri, contradicții interne ori riscuri exagerate privind realizarea veniturilor și încadrarea cheltuielilor în deficitele proiectate,
+servicii excesive ale datoriei publice interne în finanțarea, cofinanțarea sau în refinanțarea proiectelor ori a programelor
+prevãzute în buget sau alte puncte slabe ale proiectelor de buget,
+ordonatorul principal de credite poate dispune reanalizarea și
+reproiectarea bugetelor respective. Forma reproiectatã a bugetelor
+nu mai este supusã auditãrii interne.
+Proiectele de buget, însoțite de documentații și fundamentãri
+detaliate, precum și de referatul de opinie al compartimentului de
+audit intern al ordonatorului principal de credite, vor fi înaintate,
+conform prevederilor legale în vigoare privind procesul bugetar,
+ministrului finanțelor. Referatele de opinie ale ordonatorilor principali de credite vor sta, alãturi de proiectul de buget întocmit de
+Ministerul Finanțelor, la dispoziția D.G.A.I.
+În cazul rectificãrii bugetului de stat, proiectul actului normativ
+de rectificare se supune acelorași reguli de audit intern ca și proiectul inițial al bugetului de stat.
+În ceea ce privește bugetele locale, ele vor urma regulile procedurale privind viza compartimentului de audit intern, care au
+fost prezentate pentru proiectul bugetului de stat.
+
+11. Delimitãri de obiect între auditul intern și controlul financiar preventiv
+Controlul financiar preventiv (propriu sau delegat) este un control de tip ex ante, în timp ce auditul intern este un control de tip
+ex post. Totuși, ca urmare a faptului cã auditul intern trebuie sã
+urmãreascã o operațiune, o activitate sau o acțiune pe tot parcursul derulãrii acesteia, auditul intern are un caracter sui-generis
+de control concomitent-ulterior: concomitent din perspectiva anului
+financiar, ulterior din perspectiva operațiunii, activitãții sau acțiunii
+(ori a diferitelor faze temporale ale acesteia).
+12. Delimitãri de obiect între auditul intern și controlul de
+management
+Controlul intern, ca obiect al auditului intern, cuprinde și controlul de management pe care îl efectueazã conducãtorul instituției
+publice în scopul asigurãrii stabilitãții și coerenței funcționale a
+sistemului auditat în întregul sãu. Ca urmare, controlul de management al instituției publice, ca și controlul financiar preventiv propriu sau alte categorii de control intern specifice, face obiectul
+auditului intern.
+PARTEA a IV-a
+
+Planul de audit intern
+13. Recomandãrile unitare ale Ministerului Finanțelor privind
+întocmirea planului de audit intern
+13.1. Trãsãturi generale ale planului de audit intern:
+
+a) planul de audit intern se întocmește anual de compartimentul de audit intern;
+b) proiectul planului anual de audit intern este elaborat, în
+cazul ordonatorilor principali de credite, pânã la data de
+30 noiembrie a anului precedent anului pentru care se elaboreazã, însoțit de un referat de justificare a modului în care au
+fost selectate obiectivele, activitãțile sau operațiunile care au fost
+cuprinse în plan;
+c) proiectul planului anual de audit intern este elaborat, în
+cazul ordonatorilor secundari de credite, în strânsã colaborare cu
+compartimentul de audit intern al ordonatorului principal de credite, pânã la data de 10 decembrie a anului anterior anului pentru care se elaboreazã, însoțit de un referat de justificare a
+modului în care au fost selectate obiectivele, activitãțile sau
+operațiunile care au fost cuprinse în plan;
+d) proiectul planului anual de audit intern este elaborat, în
+cazul ordonatorilor terțiari de credite, în strânsã colaborare cu
+compartimentul de audit intern al ordonatorului secundar de credite, pânã la data de 20 decembrie a anului precedent anului
+pentru care se elaboreazã, însoțit de un referat de justificare a
+modului în care au fost selectate obiectivele, activitãțile sau
+operațiunile care au fost cuprinse în plan;
+e) planul anual de audit intern este aprobat de conducãtorul
+instituției publice;
+f) planul anual de audit intern aprobat poate fi modificat sau
+completat, la propunerea șefului compartimentului de audit intern
+sau la inițiativa conducãtorului instituției publice, de cãtre acesta,
+ori de câte ori apar indicii sau circumstanțe care semnificã
+apariția unor noi riscuri interne sau de sistem, modificarea gradului de risc al activitãților sau operațiunilor deja cuprinse în plan,
+modificarea fondului de timp disponibil sau alte elemente decizionale, toate de naturã sã conducã la necesitatea realocãrii fondului
+de capacitate de audit pe obiectivele planului;
+g) pentru activitãțile și operațiunile care au legãturã nemijlocitã
+cu certificarea bilanțului contabil și a contului de execuție bugetarã obiectivele cuprinse în planul de audit intern vor fi defalcate
+pe trimestre și pe luni, dupã caz;
+h) se va avea în vedere ca activitãțile de audit intern aferente
+certificãrii bilanțului contabil și a contului de execuție bugetarã,
+cuprinse în planul de audit intern, sã nu depãșeascã 40Ñ50%
+din capacitatea de audit a compartimentului respectiv (fondul de
+timp anual disponibil în zile-om).
+13.2. Principii generale de întocmire a planului de audit intern:
+
+a) principiul completitudinii Ñ nici o activitate desfãșuratã de
+instituția publicã nu poate fi exclusã de la exercitarea auditului
+intern;
+b) principiul prudențial Ñ orice activitate sau operațiune trebuie sã fie cuprinsã în planul de audit intern cel puțin o datã la
+3 ani;
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 96/3.III.2000
+c) principiul permanentei observãri Ñ o activitate sau o
+operațiune prevãzutã în planul de audit intern va face obiectul
+auditãrii pe tot parcursul realizãrii ei;
+d) principiul oportunitãții Ñ obiectivele prevãzute în planul de
+audit intern vor fi stabilite prin analiza și evaluarea gradului și a
+iminenței riscului asociat;
+e) principiul ierarhizãrii competenței teritoriale Ñ instituția
+publicã corespunzãtoare ordonatorilor de credite secundari sau
+terțiari este auditatã ca întreg (la nivelul conducãtorului acesteia)
+de instituția publicã de rang imediat superior.
+13.3. Criterii-semnal de întocmire a planului de audit intern
+
+La întocmirea planului de audit intern se va ține seama și de
+o serie de criterii-semnal care pot orienta componența sau structurarea acestuia în anumite direcții. Aceste criterii-semnal sunt de
+naturã sã releve situații negative acute sau cu potențial mare de
+acutizare în anul pentru care se elaboreazã planul de audit
+intern. Câteva dintre aceste criterii-semnal (fãrã ca lista lor sã fie
+epuizatã) sunt:
+a) deficiențe constatate în rapoartele de audit anterioare;
+b) deficiențe constatate în procesele-verbale încheiate în urma
+inspecțiilor de audit intern;
+c) deficiențe consemnate în rapoartele Curții de Conturi;
+d) informații și indicii deținute sau obținute cu privire la disfuncționalitãți sau abateri, altele decât cele de natura legalitãții și
+regularitãții;
+e) aprecieri ale unor specialiști, experți etc. cu privire la structura și dinamica unor riscuri interne sau de sistem;
+f) analiza unor trenduri pe termen lung privind unele aspecte
+ale funcționãrii sistemului;
+g) evaluarea impactului unor modificãri petrecute în mediul în
+care evolueazã sistemul auditat.
+14. Modificarea dinamicã a planului de audit intern
+Planul de audit intern poate suferi modificãri pe parcursul
+derulãrii lui, în urmãtoarele condiții (exemplificarea este pur enumerativã și nu exhaustivã):
+a) identificarea, pe parcursul derulãrii acțiunii de auditare, a
+unor obiective, activitãți, operațiuni, a cãror auditare apare ca
+având o valoare semnificativã importantã pentru perioada la care
+se referã activitatea de audit intern;
+b) obiective de control introduse pe parcursul derulãrii planului
+de audit intern de cãtre instituția publicã ierarhic superioarã;
+c) modificãri legislative sau organizatorice importante, de
+naturã sã modifice gradul de semnificație a auditãrii anumitor
+operațiuni, activitãți sau acțiuni ale sistemului;
+d) necesitãți de diagnozã ad-hoc ale conducerii instituției
+publice respective.
+15. Problema verificãrilor tematice ordonate de Ministerul
+Finanțelor
+Ministerul Finanțelor poate stabili anumite tematici generale de
+control, derivate din necesitãțile proprii de analizã, evaluare și
+diagnosticare a activitãții instituțiilor publice. În aceste cazuri ordonatorii principali de credite vor primi de la Ministerul Finanțelor
+obiectivele, metodologia și tehnologia concretã de efectuare a
+auditului intern, perioada de efectuare a auditului intern și perioada supusã auditãrii. Ordonatorii principali de credite sunt
+obligați sã ia toate mãsurile organizatorice pentru ca tematicile
+ordonate de Ministerul Finanțelor sã fie introduse în planul de
+audit intern al instituției respective și sã fie realizate în bune
+condiții și raportate în termenul fixat. De asemenea, ordonatorii
+principali de credite vor lua toate mãsurile ca, acolo unde este
+cazul, aceste tematici sã fie defalcate pe structurile proprii descentralizate, astfel încât aceste defalcãri sã fie cuprinse în planurile de audit ale acestor structuri descentralizate.
+16. Structura planului de audit intern
+Planul de audit intern reprezintã un document oficial. El este
+pãstrat în arhiva instituției publice împreunã cu referatul de justificare pe aceeași perioadã în care este pãstrat și raportul de
+audit. Planul de audit intern va cuprinde cel puțin elementele enumerate mai jos:
+a) scopul acțiunii de auditare;
+b) obiectivele acțiunii de auditare;
+c) identificarea/descrierea activitãții sau a operațiunii supuse
+auditului intern;
+d) identificarea/descrierea unitãții sau a structurii organizatorice
+la care se va desfãșura acțiunea de auditare;
+
+5
+
+e) durata acțiunii de auditare;
+f) perioada supusã auditãrii;
+g) numãrul de auditori antrenați în acțiunea de auditare;
+h) precizarea elementelor ce presupun utilizarea unor
+cunoștințe de specialitate, precum și a numãrului de specialiști cu
+care urmeazã sã se încheie contracte externe de servicii de
+expertizã/consultanțã (dacã este cazul);
+i) numãrul de auditori care urmeazã sã fie atrași în acțiunile
+de audit intern din cadrul structurilor descentralizate.
+PARTEA a V-a
+
+Raportul de audit intern
+17. Elaborarea raportului de audit intern
+Raportul de audit intern este un act unilateral care exprimã
+opinia auditorului în baza constatãrilor fãcute.
+În ceea ce privește elaborarea raportului de audit intern, el va
+cuprinde, în mod obligatoriu, cel puțin urmãtoarele elemente:
+a) scopul și obiectivele raportului de audit intern;
+b) structura minimalã a raportului de audit intern:
+1. date de identificare a acțiunii de audit intern:
+Ñ baza legalã a acțiunii de audit intern;
+Ñ ordinul de serviciu;
+Ñ echipa de auditare;
+Ñ unitatea/structura organizatoricã auditatã;
+Ñ baza legalã a acțiunii de auditare;
+Ñ durata acțiunii de auditare;
+Ñ perioada auditatã;
+2. modul de desfãșurare a acțiunii de audit intern:
+Ñ caracterul acțiunii de audit intern (sondaj/exhaustiv;
+documentar/inspecție);
+Ñ proceduri, metode, tehnici utilizate;
+Ñ documente, materiale etc. examinate în cursul acțiunii
+de audit intern;
+Ñ materiale întocmite în cursul acțiunii de audit intern;
+3. constatãri efectuate:
+Ñ trebuie sã fie prezentate sintetic, cu trimitere explicitã la
+anexele la raportul de audit intern;
+Ñ trebuie sã fie prezentate constatãrile cu caracter pozitiv
+distinct de cele cu caracter negativ, în scopul generalizãrii aspectelor pozitive pe de o parte, iar pe de altã parte, al identificãrii
+cãilor de eliminare a deficiențelor stabilite;
+Ñ acele constatãri care implicã o rãspundere juridicã de
+orice fel sunt consemnate în acte constatatoare bilaterale care
+sunt anexe la raportul de audit intern; în aceste acte se va face,
+în mod obligatoriu, trimitere la actele normative încãlcate și se
+vor prezenta toate elementele constitutive ale rãspunderii juridice,
+în funcție de natura constatãrilor;
+4. concluziile și recomandãrile echipei de auditare:
+Ñ se elaboreazã pe baza constatãrilor fãcute, având un
+caracter fundamentat;
+Ñ trebuie sã fie pertinente și sã nu fie disproporționate în
+raport cu constatãrile pe care se bazeazã;
+Ñ trebuie sã fie de naturã sã conducã la eliminarea deficienței constatate;
+Ñ trebuie sã fie fezabile și economice;
+Ñ trebuie sã aibã un grad de semnificație important în ceea
+ce privește efectul previzibil asupra activitãții sistemului auditat;
+Ñ trebuie sã aibã caracter de anticipare și, pe aceastã
+bazã, de prevenire a eventualelor disfuncționalitãți sau tendințe
+negative la nivelul sistemului auditat;
+Ñ trebuie sã contribuie la crearea stimulentelor sistemice
+de dezvoltare a activitãții și de creștere a performanței de management;
+5. documentația-anexã la raportul de audit intern:
+Ñ procesele-verbale și notele de constatare bilaterale;
+Ñ notele explicative;
+Ñ note de relații;
+Ñ situații, acte, documente și orice alt material probant
+sau justificativ;
+c) prezentarea sistematicã a concluziilor derivate din acțiunea
+de audit intern, precum și a recomandãrilor ori mãsurilor, dupã
+caz, care se impun pentru remedierea sau prevenirea deficiențelor
+constatate.
+Toate documentele-anexã la raportul de audit intern se semneazã pentru conformitate de cel auditat.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 96/3.III.2000
+
+18. Prezentarea raportului de audit intern
+Raportul de audit intern se caracterizeazã prin urmãtoarele
+elemente minimale:
+a) este semnat pe fiecare paginã de cãtre auditor;
+b) se întocmește într-un singur exemplar și se înregistreazã la
+auditor;
+c) se prezintã conducãtorului instituției publice (ordonatorului
+de credite) care a aprobat auditarea și se arhiveazã la compartimentul de audit intern.
+19. Arhivarea raportului de audit intern
+Arhivarea raportului de audit intern se face la compartimentul
+de audit intern pe perioada necesarã fundamentãrii planului de
+audit intern, dupã care se predã la arhiva instituției, în dosare
+speciale, în condițiile Legii Arhivelor Naționale nr. 16/1996.
+
+c) se întocmește în trei exemplare, dintre care unul însoțește
+bilanțul contabil și contul de execuție bugetarã, al doilea rãmâne
+la auditor, iar al treilea rãmâne la cel auditat.
+25. Evidența certificãrii
+Evidența certificãrii va fi ținutã de compartimentele de audit
+intern de la nivelul direcțiilor generale ale finanțelor publice și
+controlului financiar de stat județene, respectiv a municipiului
+București, în baza unui registru întocmit special pentru acest
+scop, și va fi transmisã trimestrial la D.G.A.I. din cadrul
+Ministerului Finanțelor.
+
+PARTEA a VI-a
+
+26. Auditul managementului la nivelul instituției publice
+Auditul managementului se referã la evaluarea calitãții și a eficienței cu care conducãtorul instituției publice (și, pe scarã ierarhicã, conducãtorii structurilor subordonate) organizeazã, conduce
+și finalizeazã operațiunile, activitãțile și acțiunile specifice instituției
+publice auditate.
+
+Certificarea bilanțului contabil și a contului de execuție bugetarã
+20. Scopul certificãrii
+Scopul certificãrii îl constituie asigurarea garanției pentru conducãtorul instituției publice cã bilanțul contabil și contul de
+execuție bugetarã oferã o imagine fidelã, clarã și completã privind
+buna gestiune financiarã.
+21. Principiile care stau la baza realizãrii certificãrii:
+a) exhaustivitatea (integralitatea) Ñ toate operațiunile care privesc instituția publicã sunt înregistrate în contabilitate pe baza
+documentelor justificative;
+b) realitatea Ñ toate elementele patrimoniale din evidențele
+contabile corespund cu cele identificabile fizic și toate elementele
+de activ, pasiv, de venituri și cheltuieli reflectã valori reale, existã
+și privesc instituția publicã în cauzã; toate informațiile prezentate
+prin conturile anuale trebuie sã poatã fi justificate și certificate;
+c) corecta înregistrare în contabilitate și corecta prezentare în
+conturile anuale a operațiunilor, adicã aceste operațiuni trebuie:
+1. sã fie contabilizate în perioada corespunzãtoare, urmãrindu-se deci respectarea independenței exercițiilor financiare (criteriul perioadei corecte);
+2. sã fie corect evaluate, adicã sumele sã fie bine determinate, aritmetic exacte, urmãrindu-se respectarea tuturor regulilor și
+principiilor contabile, precum și a metodelor de evaluare (criteriul
+corectei evaluãri);
+3. sã fie înregistrate în conturile corespunzãtoare, conform planului de conturi pentru instituțiile publice (criteriul corectei
+imputãri);
+4. sã fie corect totalizate, centralizate, astfel încât sã li se asigure o prezentare în conturile anuale conformã cu regulile în
+vigoare (criteriul corectei prezentãri în conturile anuale).
+22. Documentația necesarã pentru certificare:
+a) bilanțul contabil;
+b) contul de execuție bugetarã;
+c) acte financiare și de gestiune;
+d) evidențe contabile;
+e) orice alte documente justificative care stau la baza înregistrãrilor în contabilitate.
+23. Unele precizãri privind certificarea:
+a) certificarea se face la nivelul fiecãrei instituții publice care,
+potrivit legii, are obligația sã întocmeascã bilanț contabil și cont
+de execuție bugetarã și are organizat compartiment de audit
+intern;
+b) pentru instituțiile publice care nu au organizat compartiment
+propriu de audit intern certificarea se va efectua de instituția
+publicã ierarhic superioarã sau prin auditori externi, conform
+art. 28 din Ordonanța Guvernului nr. 119/1999.
+24. Raportul privind certificarea bilanțului contabil și a contului de execuție bugetarã
+Raportul privind certificarea bilanțului contabil și a contului de
+execuție bugetarã se caracterizeazã prin urmãtoarele:
+a) se referã exclusiv la verificãrile efectuate, constatãrile fãcute
+și la concluziile desprinse în procesul de certificare a bilanțului
+contabil și a contului de execuție bugetarã;
+b) cuprinde o prezentare sinteticã a modului în care s-a efectuat verificarea, a materialelor, documentelor și a actelor examinate, a tehnicilor, metodelor și a procedurilor utilizate pentru
+îndeplinirea obiectivelor certificãrii;
+
+PARTEA a VII-a
+
+Evaluarea performanței de management
+
+26.1. Criterii de conformitate în evaluarea managementului
+
+Criteriile de conformitate în evaluarea managementului se
+referã la acele criterii care sunt de naturã, prin realizarea lor, sã
+ateste respectarea de cãtre management a prevederilor legale în
+materia obiectului de activitate al instituției publice auditate, precum și la respectarea procedurilor, metodologiilor, metodelor și a
+tehnicilor adecvate pentru fundamentarea deciziilor de orice fel.
+26.2. Criterii de performanțã în evaluarea managementului
+
+Criteriile de performanțã în evaluarea managementului se
+referã la acele criterii care sunt de naturã, prin realizarea lor, sã
+asigure îndeplinirea obiectivelor manageriale la nivel optim. Ele
+trebuie sã determine abaterea (cuantificatã sau de naturã calitativã) dintre obiectivul managerial planificat și cel efectiv.
+27. Asumarea și acoperirea riscului economico-financiar
+Se va analiza modul în care la fundamentarea deciziei manageriale sau la punerea ei în aplicare s-au luat în considerare
+riscurile interne, de naturã economicã și financiarã. Se va analiza
+de asemenea, modul în care, cu privire la riscurile menționate,
+s-au luat mãsuri pentru acoperirea lor, adicã s-au proiectat sisteme ori mecanisme care sã previnã, sã reducã sau sã compenseze efectul actualizãrii acestor riscuri.
+28. Asumarea și acoperirea riscului structural și funcțional
+Se va analiza modul în care la fundamentarea deciziei manageriale sau la punerea ei în aplicare s-au luat în considerare
+riscurile interne, de naturã structuralã și funcționalã. Se va analiza
+în acest sens modul în care o anumitã decizie managerialã poate
+avea efecte structurale asupra activitãții sistemului sau efecte asupra modului în care funcționeazã acel sistem. Atât în legãturã cu
+efectele structurale, cât și cu cele funcționale, se vor analiza
+riscurile specifice, modul și mãsura în care acestea au fost luate
+în considerare la fundamentarea deciziei manageriale și la implementarea ei.
+29. Asumarea și acoperirea riscului de sistem
+Se va analiza modul în care la fundamentarea deciziei manageriale sau la punerea ei în aplicare s-au luat în considerare
+riscurile externe sau de sistem, adicã acele riscuri care derivã,
+pentru sistemul auditat, din modificãri structurale, legislative sau
+de orice altã naturã, care au loc în mediul economic și socialpolitic în care funcționeazã sistemul auditat.
+PARTEA a VIII-a
+
+Performanța operațiunii
+Performanța unei operațiuni, activitãți sau acțiuni se referã la
+gradul de adecvare a acelei operațiuni, activitãți sau acțiuni la
+obiectivele strategice ori tactice ale sistemului auditat sau la criteriile generale de eficiențã.
+Auditul intern va analiza și va evalua performanța operațiunii,
+activitãții sau acțiunii auditate.
+30. Performanța deciziei economice
+Se referã la analizarea mãsurii în care decizia cu privire la o
+operațiune, activitate sau acțiune îndeplinește criteriile de economicitate, eficacitate și eficiențã.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 96/3.III.2000
+30.1. Economicitatea
+
+Se referã la analizarea costului de oportunitate al deciziei
+manageriale auditate. Se va urmãri stabilirea gamei de costuri de
+oportunitate aferente deciziei și se va selecta costul minim de
+oportunitate. Dacã acesta nu coincide cu costul de oportunitate al
+deciziei manageriale auditate, se va concluziona cã acea decizie
+nu respectã criteriile de economicitate.
+30.2. Eficacitatea
+
+Se referã la analizarea efectivitãții deciziei manageriale auditate. Se va stabili abaterea efectului real fațã de efectul calculat.
+Dacã aceastã abatere se va încadra într-o marjã prestabilitã, se
+va aprecia cã decizia este eficace.
+30.3. Eficiența
+
+Eficiența deciziei manageriale (referitoare la o operațiune, o
+activitate sau o acțiune) reprezintã un optim analitic între economicitate și eficacitate. Ca urmare, auditorul va întocmi perechile
+de economicitate-eficacitate pentru a stabili compatibilitatea dintre
+cele douã caracteristici ale deciziei și pentru a selecta astfel
+perechea dezirabilã.
+31. Alte aspecte ale performanței operațiunii
+Auditorul va analiza și va evalua și alte aspecte ale performanței deciziei manageriale, cum ar fi (fãrã a se limita la
+acestea):
+a) aspectul social (impactul asupra pieței muncii, asupra puterii
+de cumpãrare și nivelului de trai etc.);
+b) aspectul ecologic (impactul asupra mediului înconjurãtor,
+natural sau artificial).
+PARTEA a IX-a
+
+Efectuarea inspecțiilor de audit intern
+32. Conceptul de inspecție de audit intern
+Inspecția de audit intern reprezintã verificarea efectuatã la fața
+locului în cursul derulãrii unei operațiuni, în scopul constatãrii unor
+eventuale abateri de la legalitate sau regularitate și al luãrii de
+mãsuri pentru protejarea fondurilor publice și a patrimoniului public
+și pentru repararea prejudiciului produs.
+Inspecția de audit intern este efectuatã de o structurã specializatã din cadrul compartimentului de audit intern și se caracterizeazã prin urmãtoarele:
+a) se referã la fapte sau la aspecte legate de orice
+operațiune, activitate sau acțiune desfãșuratã la nivelul instituției
+publice;
+b) se realizeazã la fața locului;
+c) are un caracter punctual, eventualele necesitãți de dezvoltare a verificãrii urmând sã facã obiectul activitãților ulterioare de
+audit;
+d) se finalizeazã cu un act constatator bilateral, semnat și
+înregistrat atât de inspectorul auditor, cât și de cel inspectat;
+e) constituie o atribuție specificã de audit intern, cu caracter
+operativ;
+f) asigurã estimarea cantitativã a eventualelor prejudicii (efective sau potențiale);
+g) propune mãsuri operative și soluții pentru recuperarea
+pagubelor și sancționarea celor vinovați, dupã caz;
+h) ia mãsuri operative minimale pentru stoparea sau limitarea
+fenomenelor negative generatoare de prejudicii (în mod efectiv
+sau potențial) sau de alte disfuncționalitãți constatate.
+33. Faptul generator al inspecției de audit intern:
+a) sesizarea contabilului-șef din structurile de control financiar
+preventiv propriu ale instituțiilor publice cu privire la efectuarea de
+operațiuni pe propria rãspundere a conducãtorului instituției
+publice, fãrã vizã de control financiar preventiv;
+b) indicii de orice naturã privind unele abateri de la legalitate
+sau regularitate în efectuarea de operațiuni, desfãșurarea de activitãți sau în realizarea de acțiuni:
+Ð sesizãri din interiorul sau din exteriorul sistemului inspectat;
+Ð autosesizãri ale organului de inspecție;
+Ð concluzii cuprinse în acte de audit anterioare, în alte acte
+de control ale diverselor instituții de control;
+Ð informații din mass-media;
+Ð orice alte indicii relevante.
+
+7
+
+34. Competența materialã în efectuarea inspecțiilor de audit
+intern
+Inspecții de audit intern efectueazã numai structurile specializate ale Ministerului Finanțelor (din aparatul central și din aparatul
+teritorial). În acest sens, prin Ordinul ministrului finanțelor
+nr. 82/2000 s-a stabilit un compartiment în cadrul D.G.A.I., respectiv al S.A.I., care urmeazã sã efectueze inspecțiile de audit intern.
+35. Competența teritorialã în efectuarea inspecțiilor de audit
+intern
+Inspecțiile de audit intern la ordonatorii principali de credite ai
+bugetului de stat, bugetului asigurãrilor sociale de stat și ai bugetelor fondurilor speciale sunt efectuate de serviciul specializat
+organizat la nivelul D.G.A.I. din cadrul Ministerului Finanțelor.
+Inspecțiile de audit intern la ordonatorii principali de credite ai
+bugetelor locale, la ordonatorii secundari și terțiari de credite sunt
+efectuate de structurile specializate ale S.A.I., respectiv ale D.A.I.,
+organizate la nivelul direcțiilor generale ale finanțelor publice și
+controlului financiar de stat județene, respectiv a municipiului
+București.
+36. Procedura de realizare a inspecției de audit intern:
+a) pe baza sesizãrii sau a indiciilor legate de abateri de la
+legalitatea și regularitatea operațiunilor, activitãților sau a acțiunilor, compartimentul de inspecție stabilește scopul și obiectivele
+acțiunii concrete ale inspecției de audit intern;
+b) pe baza scopului și a obiectivelor stabilite se întocmește,
+dacã este cazul, tematica inspecției de audit intern și se stabilesc metodele, tehnicile și procedeele de lucru;
+c) în cazul în care faptul generator al inspecției de audit
+intern se referã la alte situații decât cea a sesizãrii transmise de
+contabilul-șef, ordinul de serviciu pentru efectuarea inspecției de
+audit intern se semneazã de șeful D.G.A.I. pentru aparatul central
+al Ministerului Finanțelor, respectiv de directorul general al
+direcției generale a finanțelor publice și controlului financiar de
+stat județene, respectiv a municipiului București, pentru aparatul
+teritorial al Ministerului Finanțelor, pe baza unui referat de justificare întocmit de șeful compartimentului de inspecție de audit
+intern pentru aparatul central al Ministerului Finanțelor, respectiv
+de șeful S.A.I. pentru aparatul teritorial al Ministerului Finanțelor;
+d) inspecția de audit intern se efectueazã în cel mai scurt
+timp posibil, asigurând totodatã fundamentarea constatãrilor și a
+concluziilor.
+37. Actul constatator al inspecției de audit intern:
+a) se numește proces-verbal de inspecție de audit intern;
+b) este un act bilateral;
+c) se întocmește în trei exemplare, dintre care unul rãmâne
+la cel inspectat, iar douã la organul care a efectuat inspecția;
+d) este însoțit de orice acte, documente sau materiale probatoare care sã susținã constatãrile și concluziile, inclusiv de note
+explicative și note de relații;
+e) constatãrile sunt fundamentate prin trimiteri la textul legal
+încãlcat și la documentația-anexã la procesul-verbal;
+f) pe baza procesului-verbal de inspecție de audit intern compartimentul de inspecție de audit intern de la nivelul D.G.A.I. va
+transmite ministrului finanțelor o informare cuprinzând constatãrile
+fãcute și mãsurile luate;
+g) la nivelul direcțiilor generale ale finanțelor publice și controlului financiar de stat județene, respectiv a municipiului București,
+informarea întocmitã de compartimentul de inspecție de audit
+intern va fi transmisã directorului general;
+h) trimestrial, pânã la data de 20 a lunii urmãtoare trimestrului
+încheiat, S.A.I., respectiv D.A.I., din fiecare județ, respectiv din
+municipiul București, va transmite o informare sinteticã la D.G.A.I.
+cu privire la activitatea proprie de inspecție de audit intern.
+PARTEA a X-a
+
+Valorificarea actelor inspecției de audit intern. Contestarea
+actelor inspecției de audit intern
+38. Conținutul valorificãrii actului de inspecție de audit intern
+Valorificarea actului de inspecție de audit intern se referã la
+urmãtoarele:
+a) întocmirea notei de prezentare cu privire la constatãrile
+inspecției de audit intern;
+b) luarea de mãsuri operative în scopul stopãrii sau al limitãrii
+producerii unor fenomene negative care genereazã sau ar putea
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 96/3.III.2000
+
+genera prejudicii pe seama fondurilor publice sau a patrimoniului
+public;
+c) stabilirea și propunerea de mãsuri ce urmeazã sã fie luate
+de conducãtorul instituției publice în scopul remedierii deficiențelor
+constatate, încadrãrii lor în prevederile legale, precum și al prevenirii producerii lor în viitor;
+d) în situația producerii efective a unor pagube, conducãtorul
+instituției publice va lua mãsurile dispuse de Curtea de Conturi,
+conform prevederilor pct. 41 din prezentele norme metodologice;
+e) dacã deficiențele constatate întrunesc elementele constitutive ale infracțiunii, compartimentul de inspecție de audit intern va
+respecta prevederile legale în materie;
+f) în cazul constatãrii producerii sau posibilitãții producerii de
+pagube pe seama fondurilor publice sau/și a patrimoniului public,
+conducãtorul instituției publice care a dispus efectuarea inspecției
+de audit intern va sesiza Curtea de Conturi, care va decide cu
+privire la mãsurile care se impun.
+39. Instanțele de informare cu privire la actul de inspecție de
+audit intern și documentele aferente informãrii
+În cazul în care inspecția de audit intern este ordonatã de
+directorul general al direcției generale a finanțelor publice și controlului financiar de stat județene, respectiv a municipiului
+București, se informeazã:
+a) conducãtorul instituției publice la care s-a efectuat inspecția
+de audit intern Ñ procesul-verbal al inspecției de audit intern,
+împreunã cu documentația aferentã;
+b) directorul general al direcției generale a finanțelor publice
+și controlului financiar de stat județene, respectiv a municipiului
+București Ñ nota de prezentare, procesul-verbal al inspecției de
+audit intern, împreunã cu documentația aferentã;
+c) Curtea de Conturi, în cazul constatãrii producerii sau posibilitãții producerii de pagube pe seama fondurilor publice sau/și a
+patrimoniului public Ñ raportul de sesizare, însoțit de procesulverbal al inspecției de audit intern, împreunã cu documentația aferentã, eventualele contestații depuse și deciziile de soluționare.
+În cazul în care inspecția de audit intern este ordonatã de
+D.G.A.I. și este efectuatã de S.A.I. sau D.A.I., se informeazã:
+a) conducãtorul instituției publice la care s-a efectuat inspecția
+de audit intern Ñ procesul-verbal al inspecției de audit intern,
+împreunã cu documentația aferentã;
+b) directorul general al direcției generale a finanțelor publice
+și controlului financiar de stat județene, respectiv a municipiului
+București Ñ nota de prezentare, procesul-verbal al inspecției de
+audit intern, împreunã cu documentația aferentã;
+c) D.G.A.I. Ñ nota de prezentare, procesul-verbal al inspecției
+de audit intern, împreunã cu documentația aferentã.
+În cazul în care inspecția de audit intern este efectuatã de
+D.G.A.I., se informeazã:
+a) conducãtorul instituției publice la care s-a efectuat inspecția
+de audit intern Ñ procesul-verbal al inspecției de audit intern,
+împreunã cu documentația aferentã;
+b) ministrul finanțelor Ñ nota de prezentare;
+c) Curtea de Conturi, în cazul constatãrii producerii sau posibilitãții producerii de pagube pe seama fondurilor publice sau/și a
+patrimoniului public Ñ raportul de sesizare, însoțit de procesulverbal al inspecției de audit intern, împreunã cu documentația aferentã, eventualele contestații depuse și deciziile de soluționare.
+40. Conținutul contestației actului inspecției de audit intern
+Contestațiile formulate împotriva proceselor-verbale ale
+inspecției de audit intern sunt cãi administrative de atac prin care
+
+se solicitã anularea parțialã sau totalã a constatãrilor și mãsurilor
+menționate în actul constatator.
+Ele sunt formulate de conducãtorul instituției publice la care
+s-a efectuat inspecția de audit intern, fiind confirmate prin
+semnãturã și ștampilã.
+Contestația va face referire strictã la constatãrile și la mãsurile
+cuprinse în procesul-verbal de inspecție de audit intern, fiind
+însoțitã de elemente probatorii care sã susținã solicitarea
+petentului.
+Contestația nu se poate baza pe acte, documente sau
+informații care la data efectuãrii inspecției de audit intern nu erau,
+în mod obiectiv, accesibile inspectorului de audit intern sau nu au
+putut fi puse la dispoziție acestuia pe perioada efectuãrii
+inspecției de audit intern.
+41. Procedura de contestare:
+a) contestațiile se depun în termen de 15 zile calendaristice
+de la data comunicãrii (data aducerii la cunoștințã celui inspectat
+a rezultatelor inspecției de audit intern, prin înregistrarea procesului-verbal la instituția publicã inspectatã) la organul care a efectuat
+inspecția de audit intern;
+b) contestațiile se depun însoțite de copie certificatã, pe propria rãspundere, de pe actul contestat, precum și de pe orice alte
+documente pe care petentul le considerã necesare sau/și utile în
+susținerea cauzei sale;
+c) rãspunsul la contestație se transmite în termen de 30 de
+zile calendaristice de la data înregistrãrii contestației, prin decizie
+motivatã, semnatã de conducãtorul instituției care a efectuat inspecția de audit intern;
+d) prin soluționarea contestației nu se poate crea petiționarului
+o situație mai grea decât cea contestatã și aplicatã prin actul
+care face obiectul contestãrii;
+e) decizia este definitivã;
+f) în cazul în care contestația nu a fost depusã în termen
+sau, deși a fost depusã în termen, a fost respinsã în totalitate
+sau în parte, iar capetele de cerere care au fost respinse se
+referã la producerea de prejudicii pe seama fondurilor publice sau
+a patrimoniului public ori se referã la existența unui potențial pentru producerea unor asemenea prejudicii, contestația se va transmite de cãtre persoana care a semnat ordinul de serviciu pentru
+efectuarea inspecției de audit intern, la Curtea de Conturi, însoțitã
+de documentația prevãzutã la art. 26 alin. (8) din Ordonanța
+Guvernului nr. 119/1999;
+g) în cazul în care contestarea procesului-verbal de inspecție
+de audit intern s-a fãcut pe capete de cerere care nu se referã
+la producerea de prejudicii pe seama fondurilor publice sau a
+patrimoniului public, iar contestația a fost respinsã sau admisã în
+parte, contestația și rãspunsul la contestație nu vor fi transmise
+Curții de Conturi.
+PARTEA a XI-a
+
+Alte precizãri
+Prezentele norme metodologice creeazã cadrul general de
+aplicare a prevederilor Ordonanței Guvernului nr. 119/1999.
+În termen de 30 de zile de la publicarea prezentelor norme
+metodologice în Monitorul Oficial al României, Partea I, fiecare
+ordonator principal de credite va elabora norme metodologice proprii de aplicare a Ordonanței Guvernului nr. 119/1999, respectând
+cadrul general creat.
+Normele metodologice proprii ale ordonatorilor principali de
+credite vor fi avizate pentru conformitate de D.G.A.I. din cadrul
+Ministerului Finanțelor.
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 5069427282 Trezoreria sector 5, București.
+Adresa pentru publicitate : Serviciul relații cu publicul și agenții economici, București,
+șos. Panduri nr. 1, bloc P33, parter, sectorul 5.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: ramomrk@bx.logicnet.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 96/3.III.2000 conține 8 pagini.
+
+Prețul 2.144 lei
+
+ISSN 1453Ñ4495
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+

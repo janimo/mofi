@@ -1,0 +1,1598 @@
+PARTEA
+
+Anul XIV Ñ Nr. 768
+
+I
+
+Marți, 22 octombrie 2002
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+180.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+Ñ Ordin al ministrului industriei și resurselor privind aprobarea Normei de metrologie legalã CEE
+”NMLÑCEE Ñ 77/313 Sisteme de mãsurare pentru
+lichide, altele decât apa,, ........................................
+
+1Ð16
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+MINISTERUL INDUSTRIEI ȘI RESURSELOR
+
+ORDIN
+privind aprobarea Normei de metrologie legalã CEE ”NMLÑCEE Ñ 77/313
+Sisteme de mãsurare pentru lichide, altele decât apa,,
+Având în vedere prevederile art. 26 din Hotãrârea Guvernului nr. 1.055/2001 privind condițiile de introducere pe
+piațã a mijloacelor de mãsurare,
+în baza art. 3 alin. (1) lit. c) din Hotãrârea Guvernului nr. 193/2002 privind organizarea și funcționarea Biroului
+Român de Metrologie Legalã,
+în temeiul prevederilor Hotãrârii Guvernului nr. 19/2001 privind organizarea și funcționarea Ministerului Industriei și
+Resurselor, cu modificãrile ulterioare,
+ministrul industriei și resurselor emite urmãtorul ordin:
+Art. 1. Ñ Se aprobã Norma de metrologie legalã CEE
+”NMLÑCEE Ñ 77/313 Sisteme de mãsurare pentru lichide,
+altele decât apa,,, prevãzutã în anexa care face parte integrantã din prezentul ordin.
+
+Art. 2. Ñ Prezentul ordin va fi publicat în Monitorul
+Oficial al României, Partea I, și va intra în vigoare la data
+de 5 noiembrie 2002.
+
+Ministrul industriei și resurselor,
+Dan Ioan Popescu
+
+București, 24 mai 2002.
+Nr. 180.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 768/22.X.2002
+ANEXÃ
+
+NORMÃ DE METROLOGIE LEGALÃ CEE
+”NMLÑCEE Ñ 77/313 Sisteme de mãsurare pentru lichide, altele decât apa,,
+Art. 1. Ñ Prezenta normã de metrologie legalã CEE se aplicã
+sistemelor de mãsurare pentru lichide, altele decât apa, care au
+în componențã contoare volumetrice în care lichidul determinã
+mișcarea pereților mobili ai camerelor de mãsurare.
+Art. 2. Ñ Se admite aplicarea marcajelor CEE pe sistemele
+de mãsurare pentru lichide, altele decât apa, precum și pe componentele și subansamblurile acestora.
+Art. 3. Ñ Sistemele de mãsurare pentru lichide, altele decât
+apa, precum și componentele și subansamblurile acestora se
+supun controlului metrologic prin aprobare de model CEE și verificare inițialã CEE, în conformitate cu prevederile pct. 1.2 din
+anexa nr. 2 la Hotãrârea Guvernului nr. 1.055/2001 privind
+condițiile de introducere pe piațã a mijloacelor de mãsurare și în
+
+condițiile stabilite în anexa la prezenta normã de metrologie legalã
+CEE.
+Art. 4. Ñ Introducerea pe piațã și/sau punerea în funcțiune a
+sistemelor de mãsurare pentru lichide, altele decât apa, precum
+și a componentelor și subansamblurilor acestora nu pot fi împiedicate, interzise sau restricționate dacã acestea poartã marcajele
+CEE pentru aprobare de model și verificare inițialã, prevãzute la
+pct. 3.2 din anexa nr. 2 la Hotãrârea Guvernului nr. 1.055/2001,
+sau dacã sunt fabricate într-un stat membru al Uniunii Europene
+și poartã marcajele CEE corespunzãtoare.
+Art. 5. Ñ Anexa face parte integrantã din prezenta normã de
+metrologie legalã CEE.
+ANEXÃ
+la norma de metrologie legalã
+
+1. Prevederi generale pentru sistemele de mãsurare pentru
+lichide, altele decât apa
+1.1. Definiții
+
+1.1.1. Sistemele de mãsurare pentru lichide, altele decât apa,
+cuprind contoarele volumetrice pentru lichide, altele decât apa,
+prevãzute în Norma de metrologie legalã CEE ”NMLÑCEE Ñ
+71/319,,, aprobatã prin Ordinul ministrului industriei și resurselor
+nr. 36/2002, echipamentele auxiliare pentru contoare volumetrice
+pentru lichide, altele decât apa, prevãzute în Norma de metrologie
+legalã CEE ”NMLÑCEE Ñ 71/348,,, aprobatã prin Ordinul
+ministrului industriei și resurselor nr. 76/2002, toate echipamentele
+utilizate cu scopul de a asigura mãsurarea corectã sau de a
+facilita operația de mãsurare, precum și alte echipamente care pot
+afecta mãsurarea.
+În cazul în care mai multe contoare destinate unor operații de
+mãsurare distincte funcționeazã cu componente comune, fiecare
+contor, împreunã cu componentele comune, este considerat ca
+formând un sistem de mãsurare distinct. În cazul în care mai
+multe contoare sunt destinate unei singure operații de mãsurare,
+contoarele sunt considerate ca formând un singur sistem de
+mãsurare.
+1.1.2. Livrarea minimã
+Livrarea minimã a sistemelor de mãsurare pentru lichide, altele
+decât apa, este determinatã în conformitate cu prevederile Normei
+de metrologie legalã CEE ”NMLÑCEE Ñ 71/319,, și ale Normei
+de metrologie legalã CEE ”NMLÑCEE Ñ 71/348,,, având în
+vedere prevederile prezentei norme.
+În sistemele de mãsurare destinate sã mãsoare lichidul
+recepționat în sistem cel mai mic volum de lichid pentru care
+mãsurarea trebuie sã fie autorizatã se numește livrare minimã
+recepționatã. Cerința precedentã referitoare la livrarea minimã se
+aplicã la livrarea minimã recepționatã.
+1.1.3. Separatorul de gaz
+Separatorul de gaz este un aparat care separã și eliminã continuu aerul sau gazele conținute în lichid, printr-un dispozitiv special.
+Dispozitivul de evacuare a gazelor, în principiu, funcționeazã
+automat. Se poate renunța la aceastã cerințã dacã existã un
+mecanism care oprește automat curgerea lichidului, în situația în
+care existã riscul ca aerul sau gazele sã pãtrundã în contor. În
+acest caz reluarea mãsurii trebuie sã fie posibilã numai când
+aerul sau gazele au fost evacuate automat ori manual.
+1.1.4. Extractorul de gaz
+Extractorul de gaz este un aparat destinat sã evacueze aerul
+sau gazele acumulate în conductele din amonte de contor, sub
+formã de bule mici amestecate cu lichid.
+Prevederile pct. 1.1.3 referitoare la dispozitivul de evacuare a
+gazelor al separatorului de gaz se aplicã, de asemenea, pentru
+extractorul de gaz.
+
+1.1.5. Extractorul special de gaz
+Extractorul special de gaz este un aparat care, la fel ca separatorul de gaz, dar în condiții de funcționare mai puțin riguroase,
+separã continuu aerul sau gazele conținute în lichid și oprește
+automat curgerea lichidului dacã existã riscul ca aerul sau gazele
+acumulate sub formã de bule mici amestecate cu lichid sã
+pãtrundã în contor.
+1.1.6. Cuva de condensare
+Cuva de condensare este un rezervor închis, destinat sã
+colecteze, în sistemele de mãsurare a gazelor lichefiate sub presiune, gazele conținute de lichidul care se mãsoarã și sã le condenseze înaintea mãsurãrii.
+1.1.7. Indicatorul de gaz
+Indicatorul de gaz este un dispozitiv care permite detectarea
+ușoarã a bulelor de aer sau de gaz pe care lichidul le poate
+conține.
+1.1.8. Vizorul de sticlã
+Vizorul de sticlã este un dispozitiv cu ajutorul cãruia se verificã dacã întregul sistem de mãsurare pentru lichide, altele decât
+apa, sau numai o parte a sa este complet umplutã cu lichid.
+1.2. Domeniul de aplicare
+
+Prevederile pct. 1 se aplicã tuturor tipurilor de sisteme de
+mãsurare pentru lichide, altele decât apa, cu excepția celor
+prevãzute la pct. 2.
+1.3. Contoarele, debitele limitã
+
+Contoarele care fac parte din sistemele de mãsurare pentru
+lichide, altele decât apa, inclusiv orice echipament auxiliar, trebuie
+sã deținã o aprobare de model CEE pentru mãsurarea lichidului
+prevãzut în condiții normale de funcționare.
+Aceste contoare se supun aprobãrii de model CEE separate
+sau aprobãrii incluse într-o aprobare de model CEE a sistemelor
+de mãsurare pentru lichide, altele decât apa, din care fac parte.
+Limitele maxime și minime ale sistemelor de mãsurare pentru
+lichide, altele decât apa, pot sã difere de cele ale contoarelor cu
+care este echipat. În acest caz se verificã dacã debitele maxime
+și minime ale sistemelor de mãsurare pentru lichide, altele decât
+apa, sunt compatibile cu cele ale contorului. Contorul aprobat ca
+parte componentã a sistemelor de mãsurare pentru lichide, altele
+decât apa, respectã prevederile Normei de metrologie legalã CEE
+”NMLÑCEE Ñ 71/319,,. Când un numãr de contoare este montat
+în paralel într-un singur sistem de mãsurare pentru lichide, altele
+decât apa, suma debitelor maxime și minime ale contoarelor diferite trebuie sã fie luatã în considerare la determinarea limitelor
+debitului sistemului de mãsurare pentru lichide, altele decât apa,
+cu excepția cazurilor prevãzute în prezenta anexã. Debitul maxim
+al sistemului de mãsurare pentru lichide, altele decât apa, trebuie
+sã fie cel puțin dublul debitului total minim al contorului sau al
+contoarelor sale.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 768/22.X.2002
+1.4. Punctul de transfer
+
+1.4.1. Sistemele de mãsurare pentru lichide, altele decât apa,
+trebuie sã conținã un punct de determinare a cantitãții de lichid
+livrate sau recepționate, denumit punct de transfer. Acest punct de
+transfer este situat în aval de contor în sistemele de mãsurare
+de livrare și în amonte de contor în sistemele de mãsurare de
+recepție.
+1.4.2. Sistemele de mãsurare pentru lichide, altele decât apa,
+pot fi de douã tipuri: sisteme de mãsurare cu furtun gol și sisteme de mãsurare cu furtun plin; termenul furtun include și conductele rigide.
+1.4.2.1. Sistemele de mãsurare cu furtun gol sunt, în cazul
+echipamentelor de livrare, sistemele de mãsurare în care punctul
+de transfer este situat în amontele furtunului de livrare. Punctul
+de transfer este format dintr-un vizor de sticlã cu preaplin sau
+dintr-un dispozitiv de închidere, combinat, în ambele cazuri, cu un
+sistem care asigurã golirea furtunului de livrare dupã fiecare
+operație de mãsurare.
+1.4.2.2. Sistemele de mãsurare cu furtun plin sunt, în cazul
+echipamentelor de livrare, sisteme de mãsurare în care punctul
+de transfer este format dintr-un dispozitiv de închidere situat pe
+conducta de livrare. Când are un capãt liber, dispozitivul de închidere trebuie sã fie situat cât mai aproape posibil de acest capãt.
+1.4.2.3. În cazul echipamentelor de recepție, aceleași prevederi se aplicã prin analogie pentru conducta de recepție situatã
+în amonte de contor.
+1.5. Filtrele
+
+Sistemele de mãsurare pentru lichide, altele decât apa, trebuie
+sã conținã în amonte de contor un dispozitiv destinat sã colecteze impuritãțile solide din lichide (filtru). Filtrele trebuie sã fie pe
+cât posibil astfel amplasate încât sã fie ușor accesibile.
+1.6. Eliminarea aerului sau a gazelor
+
+1.6.1. Prevederi generale
+Sistemele de mãsurare pentru lichide, altele decât apa, trebuie
+sã fie instalate astfel încât sã nu producã în mod normal, în
+amonte de contor, pãtrunderi de aer sau degajãri de gaz în
+lichid. Dacã existã riscul ca aceastã cerințã sã nu fie îndeplinitã,
+sistemele de mãsurare pentru lichide, altele decât apa, trebuie sã
+fie prevãzute cu dispozitive de eliminare a gazelor, care sã
+permitã eliminarea completã a aerului sau a gazelor nedizolvate
+care pot fi conținute de lichid înainte ca acesta sã treacã prin
+contor.
+Dispozitivul de eliminare a gazelor trebuie sã fie adecvat
+condițiilor de alimentare și sã fie astfel realizat încât erorile suplimentare datorate influenței aerului sau gazelor asupra rezultatelor
+mãsurãrilor sã nu depãșeascã:
+Ñ 0,5% din cantitatea mãsuratã pentru lichide nealimentare a
+cãror viscozitate nu depãșește 1 mPas;
+Ñ 1% din cantitatea mãsuratã pentru lichide alimentare și
+pentru lichide a cãror viscozitate depãșește 1 mPas.
+Nu este necesar ca erorile suplimentare sã fie mai mici de
+1% din livrarea minimã.
+1.6.2. Alimentarea prin pompã
+1.6.2.1. Sistemul trebuie sã fie prevãzut cu un separator de
+gaz când presiunea la intrarea în pompã poate sã scadã chiar
+momentan sub presiunea atmosfericã sau sub presiunea vaporilor
+saturați din lichid, cu respectarea inclusiv a prevederilor pct. 1.6.6.
+1.6.2.1.1. Separatorul de gaz, destinat sã funcționeze la un
+debit maxim care nu depãșește 100 m3/h, poate sã fie supus
+aprobãrii de model CEE separate sau aprobãrii incluse în aprobarea de model CEE a sistemului de mãsurare pentru lichide,
+altele decât apa, din care face parte, când prezenta anexã prevede pentru aprobare un astfel de sistem. În cazul unui separator
+de gaz destinat sã funcționeze la un debit maxim mai mare de
+100 m3/h, aprobarea de model CEE poate sã fie acordatã prin
+analogie cu o aprobare de model CEE obținutã pentru același tip,
+executat la dimensiuni mai mici. Separatoarele de gaz care au
+primit aprobarea de model CEE separatã pot fi utilizate în sistemele de mãsurare pentru lichide, altele decât apa, fãrã indicatoare de gaz.
+1.6.2.1.2. Separatorul de gaz trebuie sã fie instalat, în principiu, în aval de pompã. Acesta poate sã fie combinat cu pompa.
+
+3
+
+Separatorul de gaz trebuie sã fie situat întotdeauna cât mai
+aproape posibil de contor, astfel încât cãderea de presiune datoratã
+debitului de lichid între cele douã componente sã fie neglijabilã.
+1.6.2.1.3. Limitele de funcționare ale separatorului de gaz trebuie sã fie urmãtoarele:
+a) debitul sau debitele maxime pentru unul ori mai multe
+lichide specificate;
+b) limitele presiunii maxime și minime corespunzãtoare
+funcționãrii corecte a dispozitivului de eliminare a gazului.
+1.6.2.1.4. Când un separator de gaz destinat sã funcționeze
+la un debit maxim care nu depãșește 100 m3/h deține o aprobare de model CEE separatã, el trebuie sã asigure, în limitele
+erorilor prevãzute la pct. 1.6.1, eliminarea aerului sau gazelor
+amestecate în lichidul de mãsurare, în urmãtoarele condiții de
+încercare:
+a) sistemul de mãsurare pentru lichide, altele decât apa, trebuie sã funcționeze la debitul maxim și la presiunea minimã
+prevãzute pentru separatorul de gaz;
+b) orice raport volumetric de aer sau gaz în lichid este permis
+dacã separatorul de gaz este destinat sã funcționeze pentru un
+debit maxim mai mic sau egal cu 20 m3/h; raportul volumetric va
+fi limitat la 30% dacã separatorul de gaz este destinat sã
+funcționeze pentru un debit maxim mai mare de 20 m3/h. Pentru
+determinarea procentajului lor aerul sau gazele trebuie sã fie
+mãsurate la presiunea atmosfericã.
+De asemenea, dispozitivul automat de eliminare a gazului trebuie sã continue sã funcționeze normal la presiunea maximã
+prevãzutã pentru separatorul de gaz.
+1.6.2.1.5. Când un separator de gaz este aprobat ca o componentã inclusã într-un sistem de mãsurare aprobat, acestuia i se
+aplicã prevederile pct. 1.6.2.1.4. În acest caz indicatorul de gaz
+nu este necesar.
+Când sistemul de mãsurare pentru lichide, altele decât apa,
+are un indicator de gaz conform definiției cuprinse la pct. 1.1.7,
+separatorul de gaz trebuie sã asigure, în limitele erorilor prezentate la pct. 1.6.1., eliminarea aerului sau gazelor amestecate în
+lichidul de mãsurare, în urmãtoarele condiții:
+a) sistemul de mãsurare pentru lichide, altele decât apa, trebuie sã funcționeze la debitul maxim și la presiunea minimã;
+b) raportul volumetric al aerului sau al gazelor în lichid nu trebuie sã depãșeascã:
+Ñ 20% pentru lichide nealimentare a cãror viscozitate nu
+depãșește 1 mPas, altele decât lichidele alimentare;
+Ñ 10% pentru lichide alimentare și pentru lichide a cãror
+viscozitate depãșește 1 mPas.
+Când raportul volumetric al aerului sau gazelor în lichid
+depãșește procentajele de mai sus și separatorul de gaz nu îndeplinește condițiile referitoare la erorile maxime tolerate, bulele de
+gaz sau de aer trebuie sã fie clar vizibile în indicatorul de gaz.
+1.6.2.2. Când presiunea la intrarea în pompã este constant
+mai mare decât presiunea atmosfericã și decât presiunea
+vaporilor saturați din lichid și nu existã un separator de gaz, un
+extractor de gaz ori un extractor special de gaz, este necesar,
+dacã este posibil, sã existe formațiuni gazoase între pompã și
+contor în timpul perioadelor fãrã curgere sau dacã pot fi introduse
+în conducte bule de aer, de exemplu când rezervorul de alimentare este complet gol, astfel încât sã producã o eroare specificã
+mai mare de 1% din livrarea minimã.
+1.6.2.2.1. Un extractor de gaz sau un extractor special de
+gaz, destinat sã funcționeze la un debit maxim nu mai mare de
+100 m3, poate sã fie supus unei aprobãri de model CEE separate sau unei aprobãri incluse într-o aprobare de model CEE a
+sistemului de mãsurare pentru lichide, altele decât apa, din care
+face parte, dacã la pct. 3.1.1 se prevede aprobarea sistemului.
+În cazul extractoarelor de gaz destinate sã funcționeze la un
+debit maxim mai mare de 100 m3/h, aprobarea de model CEE
+poate sã fie acordatã prin analogie cu o aprobare de model CEE
+pentru același tip și cu dimensiuni mai mici.
+Extractoarele de gaz și extractoarele speciale de gaz, care au
+obținut o aprobare de model CEE separatã, pot fi utilizate în
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 768/22.X.2002
+
+sistemele de mãsurare pentru lichide, altele decât apa, fãrã
+indicator de gaz.
+1.6.2.2.2. Un extractor de gaz sau un extractor special de gaz
+se instaleazã, în principiu, dupã pompã. Acestea pot fi combinate
+cu pompa.
+În ambele cazuri, în mod normal, extractorul de gaz trebuie
+instalat în cel mai înalt punct al conductelor, cât mai aproape
+posibil de contor și în amontele sãu. Dacã extractorul de gaz
+este instalat sub nivelul contorului, pentru a împiedica golirea conductelor între robinet și contor sistemul trebuie sã fie prevãzut cu
+o clapetã antiretur echipatã, dacã este necesar, cu o supapã limitatoare de presiune.
+Dacã conductele din amonte de contor au mai multe puncte
+înalte, sunt necesare mai multe extractoare de gaz.
+1.6.2.2.3. Limitele de funcționare ale unui extractor de gaz sau
+ale unui extractor special de gaz sunt identice cu cele prevãzute
+pentru separatoarele de gaz la pct. 1.6.2.1.3, inclusiv livrarea
+minimã pentru care aceste dispozitive sunt prevãzute.
+1.6.2.2.4. Un extractor de gaz sau un extractor special de gaz
+trebuie sã asigure, la debitul maxim al sistemului de mãsurare,
+eliminarea bulelor de gaz sau de aer, mãsurate la presiunea
+atmosfericã, la un volum cel puțin egal cu livrarea minimã, fãrã o
+eroare suplimentarã mai mare de 1% din livrarea minimã. Un
+extractor special de gaz trebuie, de asemenea, sã poatã separa
+continuu un volum de gaz sau de aer egal cu 5% din volumul de
+lichid livrat la debitul maxim fãrã sã rezulte o eroare suplimentarã
+care sã depãșeascã limitele prevãzute la pct. 1.6.1.
+1.6.2.3. Cerințele pct. 1.6.2.1 și 1.6.2.2 nu trebuie sã interzicã
+existența unui dispozitiv extractor manual sau automat în
+instalațiile fixe, de dimensiuni mari.
+1.6.2.4. Dacã alimentarea cu lichid se realizeazã astfel încât,
+oricare ar fi condițiile de funcționare, nu se formeazã sau nu
+pãtrunde gaz ori aer în conducta de recepție situatã în amonte
+de contor, în timpul mãsurãrii, nu este necesar un dispozitiv de
+eliminare a gazelor, dacã formațiunile gazoase posibil a se produce în perioadele fãrã curgere nu determinã o eroare specificã
+mai mare de 1% din livrarea maximã.
+1.6.3. Alimentarea fãrã pompã
+1.6.3.1. În cazul în care contorul este alimentat gravimetric,
+fãrã ajutorul unei pompe, dacã presiunea lichidului în toatã pãrțile
+conductei din amonte de contor și din contor este mai mare
+decât presiunea vaporilor saturați și decât presiunea atmosfericã,
+nu este necesar un dispozitiv de eliminare a gazelor. Totuși,
+dupã punerea în funcțiune a sistemului de funcționare, este necesarã o asemenea dispunere încât sã se asigure cã sistemul
+rãmâne corect umplut.
+1.6.3.2. În cazul în care presiunea lichidului ar putea fi mai
+micã decât presiunea atmosfericã, rãmânând superioarã presiunii
+vaporilor saturați, introducerea aerului în contor trebuie sã fie
+împiedicatã de un dispozitiv special.
+1.6.3.3. Când contorul este alimentat sub presiunea unui gaz,
+intrarea gazului în contor trebuie sã fie împiedicatã de un dispozitiv special.
+1.6.3.4. În toate cazurile presiunea lichidului între contor și
+punctul de transfer trebuie sã fie mai mare decât presiunea vaporilor saturați.
+1.6.4. Evacuarea gazului
+Conducta de evacuare a gazului a unui dispozitiv de eliminare
+a gazelor nu trebuie sã conținã un robinet cu comandã manualã,
+dacã închiderea acestui robinet împiedicã funcționarea dispozitivului de eliminare a gazelor. În cazul în care din motive de siguranțã este necesar un dispozitiv de închidere a acestuia, trebuie
+sã se asigure menținerea în poziția deschis printr-un dispozitiv de
+sigilare.
+1.6.5. Dispozitivul antiturbion
+În cazul în care rezervorul de alimentare al sistemului de
+mãsurare este complet golit, orificiul de ieșire al rezervorului trebuie sã fie prevãzut cu un dispozitiv antiturbion, excepție fãcând
+sistemele de mãsurare prevãzute cu un separator de gaz.
+
+1.6.6. Lichidele vâscoase
+Deoarece eficacitatea separatorului de gaz și a extractorului
+de gaz scade o datã cu creșterea viscozitãții lichidului, se poate
+renunța la utilizarea acestor dispozitive în cazul lichidelor cu o
+viscozitate dinamicã mai mare de 20 mPas la temperatura de
+20¼C. Pompa trebuie sã fie astfel conceputã încât presiunea de
+intrare sã fie întotdeauna mai mare decât presiunea atmosfericã.
+În cazurile în care existã riscul ca aceastã cerințã sã nu fie îndeplinitã, trebuie sã fie prevãzut un dispozitiv care sã opreascã
+automat curgerea lichidului ori de câte ori presiunea acestuia
+scade sub presiunea atmosfericã. Pentru monitorizarea acestei
+presiuni trebuie utilizat un manometru. Aceste cerințe nu trebuie
+îndeplinite dacã sistemul de mãsurare pentru lichide, altele decât
+apa, este prevãzut cu dispozitive care împiedicã pãtrunderea
+aerului prin îmbinãrile din secțiunile de circuit supuse presiunii
+reduse.
+Când sistemul de mãsurare pentru lichide, altele decât apa,
+este în repaus, conductele trebuie sã fie menținute pline pânã la
+punctul de transfer.
+1.7. Indicatorul de gaz
+
+1.7.1. Sistemele de mãsurare pentru lichide, altele decât apa,
+pot fi prevãzute cu un indicator de gaz. Astfel de dispozitive pot
+sã devinã obligatorii în cazurile prevãzute la pct. 2.
+1.7.2. Indicatorul de gaz trebuie sã fie astfel conceput încât
+sã permitã vizualizarea prezenței gazului sau aerului în lichid.
+1.7.3. Indicatorul de gaz trebuie sã fie instalat în aval de contor.
+1.7.4. În sistemele de mãsurare cu furtun gol indicatorul de
+gaz poate sã fie realizat sub forma unui vizor de sticlã cu preaplin, care poate sã fie folosit și ca punct de transfer.
+1.7.5. Indicatorul de gaz poate sã fie prevãzut cu un șurub de
+purjare sau cu orice alt dispozitiv de purjare când se aflã într-un
+punct înalt al instalației. Nici o conductã nu trebuie sã fie conectatã la purjor. Indicatoarele de debit, cum ar fi rotametrele, pot fi
+încorporate în indicatorul de gaz, cu condiția ca ele sã nu împiedice vizualizarea formațiunilor gazoase care pot exista în lichid.
+1.8. Umplerea completã a sistemelor de mãsurare pentru lichide,
+altele decât apa
+
+1.8.1. Contorul și conductele dintre contor și punctul de transfer trebuie sã fie menținute automat pline în timpul operațiilor de
+mãsurare și când sistemele de mãsurare pentru lichide, altele
+decât apa, sunt în repaus.
+Dacã aceastã cerințã nu este îndeplinitã, în principal în cazul
+instalațiilor fixe, trebuie sã existe posibilitatea ca umplerea completã a sistemului de mãsurare pânã la punctul de transfer sã fie
+efectuatã manual și sã fie urmãritã atât în timpul operației de
+mãsurare, cât și în timpul când sistemul de mãsurare este în
+repaus. Pentru a se asigura eliminarea completã a aerului sau a
+gazului din sistemele de mãsurare pentru lichide, altele decât
+apa, trebuie sã fie amplasate dispozitive de purjare cu mici
+ferestre în locuri stabilite în certificatul aprobãrii de model CEE.
+1.8.2. Conducta dintre contor și punctul de transfer nu trebuie
+sã introducã o eroare suplimentarã mai mare de 1% din livrarea
+minimã, datoritã variațiilor de temperaturã.
+1.8.3. În cazul în care este necesar, trebuie sã fie instalat un
+dispozitiv de menținere a presiunii în aval de contor, care sã asigure cã presiunea în dispozitivul de eliminare a gazelor și presiunea în contor sunt întotdeauna mai mari decât presiunea
+atmosfericã, respectiv presiunea vaporilor saturați din lichid.
+1.8.4. Sistemele de mãsurare pentru lichide, altele decât apa,
+la care existã posibilitatea curgerii lichidului în direcție opusã
+curgerii normale, când pompa este opritã, trebuie sã fie prevãzute
+cu o supapã antiretur cu un dispozitiv limitator al presiunii, dacã
+este necesar.
+1.8.5. În sistemele de mãsurare cu furtun gol conductele din
+aval de contor și, dacã este necesar, conductele din amonte de
+contor trebuie sã aibã un punct înalt, astfel încât toate pãrțile
+sistemului de mãsurare sã rãmânã constant umplute. Uscarea furtunului de livrare la care se referã pct. 1.4.2.1 trebuie sã fie asiguratã de un curent de aer realizat natural sau cu un dispozitiv
+special, cum ar fi o pompã auxiliarã ori un compresor injector de
+gaz. În sistemele de mãsurare concepute pentru o livrare minimã
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 768/22.X.2002
+mai micã de 10 m3 aceste dispozitive trebuie sã funcționeze
+automat.
+1.8.6. În sistemele de mãsurare cu furtun plin capãtul liber al
+furtunului trebuie sã fie prevãzut cu un dispozitiv care sã previnã
+golirea furtunului în timpul perioadei de repaus a sistemului.
+Aceastã cerințã nu se aplicã gazelor lichefiate.
+Când un dispozitiv de închidere este plasat în aval de acest
+dispozitiv, volumul spațiului dintre ele trebuie sã fie cât mai mic
+posibil și întotdeauna mai mic decât eroarea toleratã a sistemului
+de mãsurare pentru livrarea minimã.
+În cazul sistemelor destinate sã mãsoare lichide vâscoase,
+capãtul ștuțului de scurgere trebuie sã fie astfel conceput încât
+sã nu poatã sã reținã o cantitate de lichid mai mare de 0,4 ori
+decât eroarea toleratã pentru livrarea minimã a sistemului de
+mãsurare.
+1.8.7. În cazul în care furtunurile au mai multe componente,
+acestea trebuie sã fie asamblate printr-un racord special care sã
+menținã furtunurile pline sau printr-un sistem de racordare care
+este sigilat ori care asigurã imposibilitatea separãrii componentelor
+fãrã instrumente speciale.
+1.9. Variația volumului intern al furtunurilor pline
+
+În cazul furtunurilor pline într-un sistem de mãsurare prevãzut
+cu furtunuri înfãșurate, creșterea volumului intern datoratã
+schimbãrii de la poziția înfãșurat fãrã presiune la poziția
+neînfãșurat și cu presiune fãrã curgerea lichidului nu trebuie sã
+fie mai mare decât dublul erorii tolerate pentru livrarea minimã.
+Dacã sistemul de mãsurare nu este prevãzut cu furtunuri
+înfãșurate, creșterea volumului intern nu trebuie sã depãșeascã
+eroarea toleratã pentru livrarea minimã.
+1.10. Ramificațiile
+
+1.10.1. În sistemele de mãsurare destinate sã livreze lichid
+ramificațiile în aval de contor sunt permise numai dacã sunt astfel concepute încât sã asigure livrarea lichidului printr-o singurã
+ieșire la un moment dat. În sistemele de mãsurare destinate sã
+recepționeze lichid ramificațiile în amonte de contor sunt permise
+numai dacã ele sunt astfel concepute încât intrarea lichidului sã
+fie efectuatã printr-o singurã conductã într-un anumit moment.
+Abaterea de la aceastã cerințã poate sã fie aprobatã numai în
+cazul sistemelor de livrare care sunt special instalate sã aprovizioneze numai un singur utilizator la un anumit moment și pentru
+sistemele de recepție care nu pot sã funcționeze pentru mai mult
+de un furnizor în același timp.
+1.10.2. În sistemele de mãsurare care funcționeazã cu furtunuri goale sau pline și care au conducte flexibile, dacã este
+necesar, trebuie sã fie prevãzutã o supapã antiretur în conductele rigide care conduc la furtunul plin, imediat dupã robineții de
+selecție. Robineții de selecție nu trebuie sã permitã, în orice
+poziție, conectarea unui furtun de livrare, care sã funcționeze ca
+un furtun gol, la conducta care conduce la furtunul plin.
+1.11. Derivațiile
+
+Orice conexiune destinatã sã ocoleascã contorul trebuie sã fie
+închisã prin intermediul unor flanșe de obturare. În cazul
+condițiilor de funcționare care impun utilizarea unei astfel de
+derivații, aceasta trebuie sã fie închisã prin intermediul unui disc
+obturator sau prin intermediul unui dispozitiv cu dublã închidere
+cu un robinet de control intercalat. Trebuie sã existe posibilitatea
+asigurãrii închiderii prin sigilare.
+1.12. Robineții și mecanismele de control
+
+1.12.1. În cazul în care existã riscul supraîncãrcãrii contorului
+din cauza condițiilor de alimentare, trebuie sã fie prevãzut un dispozitiv limitator de debit. Acest dispozitiv trebuie sã fie amplasat
+în aval de contor, dacã determinã o pierdere de presiune, și trebuie sã poatã fi sigilat.
+1.12.2. Pozițiile diverse ale componentelor de acționare a
+robineților cu mai multe cãi trebuie sã fie ușor vizibile și localizate
+prin crestãturi, limitatori sau alte dispozitive de blocare. Abaterea
+de la aceastã cerințã este permisã când pozițiile adiacente ale
+manetelor de acționare formeazã un unghi de 90¼ sau mai mare.
+1.12.3. Robineții de reținere și mecanismele de închidere neutilizate la determinarea cantitãții mãsurate, dacã este necesar,
+trebuie sã aibã supape de siguranțã destinate sã disipeze orice
+
+5
+
+presiune mare anormalã care se poate produce în sistemul de
+mãsurare pentru lichide, altele decât apa, în cazul în care este
+necesar.
+1.13. Amplasarea sistemelor de mãsurare pentru lichide, altele decât
+apa
+
+Sistemele de mãsurare pentru lichide, altele decât apa, trebuie
+sã fie instalate astfel încât dispozitivul indicator sã fie clar vizibil
+în condiții normale de utilizare. Dispozitivul indicator și, dacã este
+prezent, indicatorul de gaz al separatorului de gaz trebuie sã fie,
+pe cât posibil, observabile dintr-o singurã poziție. Dispozitivul de
+sigilare trebuie sã fie ușor accesibil, plãcile cu inscripții trebuie sã
+fie fixate nedemontabil și inscripțiile aprobate trebuie sã fie clare,
+lizibile și de neșters.
+1.14. Dispozitivele de verificare metrologicã la locul utilizãrii
+
+Verificarea instalației prevãzute la pct. 3.2 trebuie sã fie posibilã. Dacã este necesar, sistemul de conducte poate fi conceput
+sã returneze lichidul mãsurat într-un rezervor de stocare.
+Instalațiile trebuie, dacã este necesar, sã fie echipate cu senzori
+de temperaturã și presiune, în special când condițiile de exploatare sau de încercare a sistemelor de mãsurare solicitã o
+cunoaștere a acestor factori.
+1.15. Caracteristicile sistemelor de mãsurare pentru lichide, altele
+decât apa
+
+Caracteristicile sistemelor de mãsurare pentru lichide, altele
+decât apa, sunt urmãtoarele:
+Ñ debitul maxim și debitul minim;
+Ñ presiunea maximã de lucru;
+Ñ presiunea minimã de lucru, în cazul în care este necesarã;
+Ñ lichidul sau lichidele prevãzute a fi mãsurate și limitele de
+viscozitate, cinematicã sau dinamicã, dacã numai indicarea naturii
+lichidelor nu este suficientã pentru determinarea viscozitãții lor;
+Ñ livrarea minimã;
+Ñ domeniul de temperaturã, în cazul în care lichidul poate fi
+mãsurat la temperaturi sub Ð10¼C sau peste +50¼C.
+1.16. Inscripțiile
+
+Sistemele de mãsurare pentru lichide, altele decât apa, precum și componentele sau subansamblurile care au primit aprobare de model CEE trebuie sã poarte în mod lizibil și de neșters,
+pe cadranul dispozitivului indicator sau pe o placã descriptivã
+specialã, urmãtoarele inscripții:
+a) semnul aprobãrii de model CEE;
+b) marca de identificare sau numele producãtorului;
+c) însemnul producãtorului, dacã existã;
+d) numãrul de serie și anul fabricației;
+e) caracteristicile sistemelor de mãsurare pentru lichide, altele
+decât apa, definite la pct. 1.15;
+f) orice informație suplimentarã specificatã în certificatul
+aprobãrii de model CEE.
+Dacã mai multe contoare funcționeazã într-un singur sistem de
+mãsurare pentru lichide, altele decât apa, utilizând componente
+comune, inscripțiile obligatorii pentru fiecare parte a sistemului de
+mãsurare pentru lichide, altele decât apa, pot fi inscripționate pe
+o singurã placã.
+Inscripțiile de pe cadranul dispozitivului indicator al contorului
+care face parte din sistemul de mãsurare pentru lichide, altele
+decât apa, nu trebuie sã le contrazicã pe cele de pe placa
+descriptivã a sistemului de mãsurare pentru lichide, altele decât apa.
+În cazul în care sistemul de mãsurare pentru lichide, altele
+decât apa, poate sã fie transportat fãrã sã fie demontat,
+inscripțiile pentru fiecare parte se pot afla pe o singurã placã.
+1.17. Sigilãrile
+
+Sigilãrile trebuie sã fie efectuate prin plumbi poansonați. Pe
+instrumentele fragile sau unde astfel de sigilii sunt suficient protejate împotriva oricãrui pericol accidental de rupere sunt permise
+unele sigilii aplicate cu ajutorul cleștelui de sigilare.
+Sigiliile trebuie sã fie ușor accesibile în toate cazurile.
+Componentele sistemelor de mãsurare pentru lichide, altele
+decât apa, care nu pot sã fie protejate altfel împotriva operațiilor
+ce pot afecta precizia mãsurãrilor, trebuie sã fie prevãzute cu dispozitive de sigilare. Nu este necesar sã fie prevãzute dispozitive
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 768/22.X.2002
+
+de sigilare pentru conexiunile care pot sã fie demontate numai cu
+ajutorul unor scule.
+Dispozitivele de sigilare trebuie sã fie astfel concepute încât
+sã existe posibilitatea aplicãrii marcajului de verificare inițialã CEE.
+Trebuie sã existe posibilitatea sigilãrii plãcii cu inscripțiile
+prevãzute la pct. 3.2 din anexa nr. 2 la Hotãrârea Guvernului
+nr. 1.055/2001 la un suport al sistemului de mãsurare pentru
+lichide, altele decât apa. Aceasta poate sã fie combinatã cu placa
+descriptivã a sistemului de mãsurare pentru lichide, altele decât
+apa, la care se referã pct. 1.16.
+În cazul sistemelor de mãsurare utilizate pentru lichide alimentare, sigiliile trebuie sã fie aplicate astfel încât sã fie posibilã
+demontarea sistemului în scopul curãțãrii.
+2. Cerințe speciale pentru diferite tipuri de sisteme de
+mãsurare pentru lichide, altele decât apa
+2.1. Sistemele de mãsurare a lichidelor combustibile (distribuitoare
+de produse petroliere)
+
+2.1.1. Sistemele de mãsurare a lichidelor combustibile sunt
+sistemele de mãsurare destinate livrãrii combustibilului în rezervoarele vehiculelor rutiere.
+Sistemele de mãsurare utilizate la realimentarea vaselor de
+agrement și a avioanelor mici cu combustibil vor fi tratate ca sisteme de mãsurare a lichidelor combustibile.
+Acestea pot sã conținã propriul dispozitiv de alimentare sau
+pot sã fie destinate pentru instalarea lor într-un sistem central de
+alimentare.
+Pentru aceste sisteme raportul dintre debitul maxim și debitul
+minim trebuie sã fie de cel puțin 10:1.
+2.1.2. Când sistemul de mãsurare are propriul dispozitiv de
+alimentare, un separator de gaz trebuie sã fie instalat, dacã este
+posibil, imediat în amonte de intrarea în contor.
+Separatorul de gaz trebuie sã îndeplineascã condițiile
+prevãzute la pct. 1.6.2.1.4 sau la pct. 1.6.2.1.5.
+În acest ultim caz nu este permis un dispozitiv de purjare ca
+cel prevãzut la pct. 1.7.5.
+2.1.3. Când sistemul de mãsurare este destinat pentru instalarea sa într-un sistem central de alimentare sau pentru realimentarea la distanțã, trebuie sã se aplice prevederile pct. 1.6.1.
+2.1.4. Sistemele de mãsurare a lichidelor combustibile trebuie
+sã fie echipate cu câte un dispozitiv de aducere la zero a dispozitivului indicator, în conformitate cu prevederile pct. 1.1, 1.2, 1.3
+și 1.5 din anexa la Norma de metrologie legalã CEE ”NMLÑ
+CEE Ñ 71/348,,, precum și cu câte un totalizator de volum.
+Când aceste sisteme au în componențã și un indicator de
+preț, indicatorul trebuie sã fie prevãzut cu un dispozitiv de aducere la zero.
+Dispozitivul de aducere la zero pentru indicatorul de preț și
+pentru indicatorul de volum trebuie sã fie conceput astfel încât
+aducerea la zero a oricãruia dintre aceste indicatoare sã aducã
+automat la zero celãlalt indicator.
+2.1.5. Când sistemele de mãsurare pentru lichide combustibile
+au propriul dispozitiv de alimentare, acționat de un motor electric,
+acestea trebuie sã fie prevãzute cu un dispozitiv care, dupã oprirea motorului, sã împiedice orice livrare ulterioarã de lichid pânã
+la aducerea la zero a indicatorului.
+Aducerea la zero a indicatorului nu trebuie sã fie posibilã în
+timpul livrãrii.
+2.1.6. Dispozitivul antiretur la care se referã pct. 1.8.4 este
+obligatoriu. El poate sã fie instalat între dispozitivul de eliminare a
+gazelor și contor. În acest caz el poate sã fie combinat cu dispozitivul prevãzut la pct. 1.8.3. Când dispozitivul antiretur este
+instalat între dispozitivul de eliminare a gazelor și contor, pierderea de presiune rezultatã trebuie sã fie suficient de micã pentru a
+putea fi consideratã neglijabilã.
+2.1.7. Furtunurile sistemelor de mãsurare cu furtun plin trebuie
+sã conținã un dispozitiv de închidere manual, conform condiției
+prevãzute la pct. 1.8.6. Dispozitivul de închidere automat poate
+sã fie, de asemenea, prevãzut.
+Sistemele de mãsurare cu furtun plin, alimentate prin intermediul unei pompe acționate manual, trebuie sã conținã numai dispozitivul de închidere prevãzut la pct. 1.8.6.
+
+2.1.8. Sistemele de mãsurare cu un debit maxim de 60 l/min.
+sau mai mic trebuie sã aibã livrarea minimã mai micã de 5 l.
+2.1.9. Când contorul este echipat cu un dispozitiv de tipãrire a
+bonului, acesta trebuie sã fie conectat la dispozitivul de aducere
+la zero a indicatorului de volum. Aceastã conexiune trebuie sã
+permitã ca bonul sã poatã fi verificat dupã tipãrire prin comparare cu indicația afișatã.
+2.1.10. În conformitate cu prevederile pct. 3.2, verificarea
+inițialã CEE a sistemelor de mãsurare a lichidelor combustibile
+trebuie sã fie fãcutã în douã faze, în funcție de existența dispozitivelor de alimentare proprii.
+2.2. Sistemele de mãsurare instalate pe cisterne auto pentru transport și livrare a lichidelor cu viscozitate micã (viscozitate ² 20 mPas),
+stocate la presiune atmosfericã, cu excepția lichidelor alimentare
+
+2.2.1. Prevederile pct. 2.2 se aplicã sistemelor de mãsurare
+instalate pe cisterne auto și pe rezervoare transportabile.
+Sistemele de mãsurare pot fi instalate pe cisterne auto care
+au unul sau mai multe compartimente, caz în care fiecare compartiment trebuie sã fie echipat cu propriul sãu robinet de închidere manual sau automat.
+2.2.2. Fiecare sistem de mãsurare trebuie sã fie utilizat pentru
+un produs specificat sau pentru o categorie de produse pentru
+care contorul a primit aprobare de model CEE.
+Sistemul de conducte trebuie sã fie astfel conceput încât
+amestecarea produselor în sistemul de mãsurare sã fie prevenitã
+cu ușurințã.
+2.2.3. Când rezervoarele sunt montate pe remorci sau pe
+semiremorci, sistemul de mãsurare trebuie sã fie fixat pe tractor,
+pe remorcã sau pe semiremorcã.
+2.2.4. Un sistem de mãsurare montat pe o cisternã poate sã
+fie de tipul cu furtun gol sau plin. Acesta poate fi prevãzut cu un
+furtun gol și cu un furtun plin sau cu douã furtunuri pline de
+dimensiuni diferite, concepute astfel încât sã funcționeze alternativ.
+Schimbarea nu trebuie sã fie posibilã în timpul operației de
+mãsurare.
+2.2.5. Când contorul este echipat cu un dispozitiv de imprimare, tipãrirea bonului trebuie sã fie cuplatã cu aducerea la zero
+a indicatorului de volum.
+2.2.6. Un sistem de mãsurare montat pe o cisternã auto
+poate fi conceput sã funcționeze numai prin pompã, numai gravimetric, prin pompã sau gravimetric ori prin presiune de gaz.
+2.2.6.1. Sistemele de mãsurare alimentate numai prin pompã
+pot sã funcționeze ca sisteme cu furtun plin sau cu furtun gol.
+2.2.6.1.1. În cazul în care existã riscul neîndeplinirii condiției
+prevãzute la pct. 1.6.2.4, contorul trebuie sã fie precedat de un
+dispozitiv de eliminare a gazelor adecvat, cum ar fi:
+a) un separator de gaz, care trebuie sã fie conform prevederilor pct. 1.6.2.1.4 sau 1.6.2.1.5;
+b) un extractor de gaz;
+c) un extractor special de gaz.
+Când presiunea la ieșirea din contor în sistemul de mãsurare
+poate sã scadã sub presiunea atmosfericã, dar sã rãmânã mai
+mare decât presiunea vaporilor saturați din lichidul de mãsurare,
+aceste dispozitive trebuie sã fie combinate cu un mecanism automat care sã încetineascã și sã opreascã curgerea, pentru a preveni orice pãtrundere de aer în contor.
+În cazul în care nu existã riscul ca presiunea la ieșirea din
+contor sã scadã sub presiunea atmosfericã, cum este cazul, în
+special, al sistemelor care funcționeazã numai cu furtun gol, nu
+este necesar mecanismul automat care încetinește și oprește
+curgerea.
+2.2.6.1.2. Un extractor special de gaz cu un dispozitiv automat
+de oprire trebuie sã fie echipat cu un vizor de sticlã, în conformitate cu prevederile pct. 1.1.8.
+2.2.6.1.3. Compartimentele cisternelor trebuie sã fie echipate
+cu un dispozitiv antiturbion, exceptând cazul în care sistemele de
+mãsurare au un separator de gaz conform prevederilor
+pct. 1.6.2.1.4.
+2.2.6.2. Sistemele de mãsurare care funcționeazã numai gravimetric trebuie sã îndeplineascã urmãtoarele condiții:
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 768/22.X.2002
+2.2.6.2.1. Echipamentul trebuie sã fie astfel conceput încât
+conținutul total al compartimentului sau compartimentelor sã poatã
+fi mãsurat la un debit mai mare sau egal cu debitul minim al sistemului de mãsurare.
+2.2.6.2.2. În cazul în care existã legãturi cu faza gazoasã din
+rezervor, dispozitive adecvate trebuie sã împiedice pãtrunderea
+gazului în contor.
+2.2.6.2.3. Compartimentele rezervorului trebuie sã fie dotate cu
+un dispozitiv antiturbion, cu excepția sistemelor de mãsurare care
+au un separator de gaz în conformitate cu prevederile
+pct. 1.6.2.1.4.
+2.2.6.2.4. Pompa de accelerare poate fi utilizatã dupã punctul
+de transfer, cu respectarea prevederilor pct. 1.6.3.1, 1.6.3.2 și
+1.6.3.4. Pompa de accelerare nu trebuie sã permitã cãderi de
+presiune în contor.
+2.2.6.2.5. În sistemele de mãsurare, în special în cele care au
+un extractor de gaz cu dispozitiv automat de oprire și în cele
+care au un ventil de comunicație permanent cu atmosfera imediat
+dupã punctul de transfer, nu este obligatorie montarea unui indicator de gaz. În cazul sistemelor de mãsurare care au un ventil
+de aer manual, imediat dupã punctul de transfer, un indicator de
+gaz este obligatoriu, excepție fãcând sistemele de mãsurare unde
+presiunea nu poate sã scadã sub presiunea atmosfericã.
+2.2.6.3. Sistemele de mãsurare care pot sã funcționeze prin
+pompã sau gravimetric trebuie sã fie conforme prevederilor
+pct. 2.2.6.1 și 2.2.6.2.
+2.2.6.4. Sistemele de mãsurare alimentate cu ajutorul presiunii
+de gaz pot sã funcționeze ca sisteme cu furtun gol sau cu furtun
+plin. Conducta care leagã dispozitivul ce împiedicã pãtrunderea
+gazului în contor, așa cum este prevãzut la pct. 1.6.3.3, și contorul nu trebuie sã aibã strangulãri sau componente care sã determine o pierdere de presiune care sã genereze formațiuni gazoase
+prin degajarea gazului dizolvat în lichid.
+Aceste sisteme trebuie sã fie prevãzute cu un manometru
+care sã indice presiunea în rezervor. Intervalul presiunilor admise
+trebuie sã fie indicat pe cadranul manometrului.
+2.3. Sistemele de mãsurare de recepție pentru descãrcarea vapoarelor-cisternã, vagoanelor-cisternã și camioanelor-cisternã
+
+2.3.1. Sistemele de mãsurare destinate mãsurãrii volumului de
+lichid descãrcat din vapoare-cisternã, vagoane-cisternã și camioane-cisternã pot fi prevãzute cu un rezervor intermediar în care
+nivelul lichidului determinã punctul de transfer. Rezervorul intermediar poate fi conceput sã îndeplineascã funcția de dispozitiv de
+eliminare a gazelor.
+2.3.1.1. În cazul camioanelor și vagoanelor-cisternã rezervorul
+intermediar trebuie sã menținã automat un nivel constant care sã
+fie vizibil sau altfel detectabil pe tot parcursul operației de
+mãsurare. Variația permisã a nivelului constant trebuie sã corespundã unui volum nu mai mare decât eroarea toleratã pentru
+recepția minimã.
+2.3.1.2. În cazul vapoarelor-cisternã nu este necesar sã se
+prevadã menținerea automatã la un nivel constant. Dacã existã o
+asemenea prevedere, variația în volum trebuie sã fie mãsurabilã.
+Dacã vaporul-cisternã este golit cu ajutorul unei pompe situate
+pe fundul rezervorului, rezervorul intermediar poate sã fie utilizat
+numai la începutul și la sfârșitul recepției.
+2.3.1.3. În cele douã cazuri prevãzute la pct. 2.3.1.1 și 2.3.1.2
+secțiunea transversalã a rezervorului intermediar trebuie sã fie
+calculatã astfel încât o cantitate egalã cu eroarea toleratã pentru
+recepția minimã sã corespundã unei diferențe de nivel de cel
+puțin 2 mm.
+2.4. Sistemele de mãsurare staționare sau montate pe camioane-cisternã pentru mãsurarea gazelor lichefiate sub presiune, exceptând lichidele criogenice
+
+2.4.1. Între aceste sisteme de mãsurare și rezervoarele lor de
+alimentare trebuie sã fie o înlãnțuire continuã de-a lungul conductelor rigide. O supapã antiretur trebuie sã fie prevãzutã între
+rezervorul de alimentare și contor.
+2.4.2. Un dispozitiv de menținere a presiunii, plasat în aval de
+contor, trebuie sã asigure cã produsul este în stare lichidã în
+interiorul contorului, în timpul operației de mãsurare. Presiunea
+
+7
+
+necesarã poate fi menținutã la o valoare fixã sau la o valoare
+reglatã astfel încât sã satisfacã condițiile de mãsurare. Aceastã
+valoare reglatã este definitã la pct. 2.4.2.2.
+2.4.2.1. Dacã presiunea este menținutã la o valoare fixã,
+aceastã valoare trebuie sã fie cel puțin egalã cu presiunea de
+vapori din produs la o temperaturã mai mare de 15¼C pânã la
+cea mai mare temperaturã posibilã în exploatare. Trebuie sã
+existe posibilitatea sigilãrii dispozitivului de menținere a presiunii.
+2.4.2.2. Când presiunea este reglatã astfel încât sã satisfacã
+condițiile de mãsurare, aceasta trebuie sã depãșeascã presiunea
+vaporilor din lichid cu cel puțin 100 kPa (1 bar) în timpul
+mãsurãrii. Reglarea presiunii trebuie sã fie fãcutã automat.
+2.4.2.3. În cazul sistemelor de mãsurare fixe de uz industrial
+Biroul Român de Metrologie Legalã autorizeazã dispozitive manuale de menținere a presiunii, în situația în care presiunea la
+ieșirea din contor nu trebuie sã fie mai micã decât presiunea
+vaporilor din produs la temperatura de 15¼C pânã la temperatura
+lichidului în timpul mãsurãrii.
+O diagramã care sã indice presiunea vaporilor din produsul
+mãsurat în funcție de temperatura lui trebuie sã fie atașatã la sistemul de mãsurare.
+În cazul în care este prevãzut cã aceste sisteme de mãsurare
+pot sã funcționeze fãrã control pentru perioade lungi, temperatura
+și presiunea trebuie sã fie înregistrate continuu de dispozitive de
+înregistrare.
+2.4.3. Un dispozitiv de eliminare a gazelor trebuie sã fie
+prevãzut în amonte de contor, constituit dintr-un separator de gaz
+sau dintr-o cuvã de condensare.
+2.4.3.1. Separatorul de gaz trebuie sã fie conform prevederilor
+pct. 1.6 pentru gazul lichefiat sau pentru un lichid cu o viscozitate
+superioarã.
+Totuși, din cauza dificultãții verificãrii este permis ca un separator de gaz sã fie aprobat dacã volumul sãu efectiv nu este mai
+mic de 1,5% din volumul livrat într-un minut la debitul maxim, în
+cazul în care conducta care leagã contorul de rezervorul de stocare nu este mai mare de 25 m lungime. În cazul în care conducta depãșește 25 m în lungime, volumul efectiv al separatorului
+de gaz nu trebuie sã fie mai mic de 3% din volumul livrat într-un
+minut la debitul maxim.
+În cazul sistemelor de mãsurare a gazelor lichefiate nu este
+necesar sã se prevadã un indicator de gaz sau un vizor
+de sticlã.
+Conducta de evacuare a gazului poate sã fie conectatã în
+porțiunea care conține faza gazoasã, în rezervorul de alimentare
+sau la un dispozitiv independent de menținere a presiunii, reglatã
+la o presiune mai micã cu 50 pânã la 100 kPa (0,5 pânã la
+1 bar) decât presiunea de la ieșirea din contor.
+Aceastã conductã poate sã fie prevãzutã cu un robinet de
+închidere, dar nu trebuie sã fie posibil ca acesta sã fie închis în
+timpul procesului de mãsurare.
+2.4.3.2. Volumul cuvei de condensare trebuie calculat în
+funcție de volumul conductei dintre robinetul rezervorului de alimentare și supapa de menținere a presiunii din aval de contor.
+Volumul cuvei nu trebuie sã fie mai mic decât dublul descreșterii în volum a lichidului care poate sã aparã dacã temperatura scade cu o valoare convenționalã fixatã la 10¼C, în cazul
+conductelor aeriene, și la 2¼C, în cazul conductelor subterane sau
+izolate termic.
+Pentru determinarea volumului coeficientul de dilatare termicã
+de 3 x 10-3 pe grad Celsius pentru propan și propilenã și de 2 x 10-3
+pe grad Celsius pentru butan și butadienã trebuie sã fie utlizat în
+locul unei valori exacte. Pentru alte produse cu o presiune de
+vapori ridicatã, valorile coeficientului adoptat trebuie sã fie fixate
+de Biroul Român de Metrologie Legalã.
+Cuva de condensare trebuie sã fie prevãzutã cu un dispozitiv
+de purjare acționat manual.
+Într-un sistem de mãsurare cuva de condensare trebuie sã fie
+amplasatã în cel mai înalt punct al conductei.
+Volumul determinat cu metoda de mai sus poate sã fie repartizat în mai multe cuve de condensare amplasate în punctele cele
+mai înalte ale conductei.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 768/22.X.2002
+
+2.4.4. O teacã termometricã trebuie sã fie prevãzutã în imediata apropiere a contorului. Termometrul utilizat nu trebuie sã
+aibã valoarea diviziunii mai mare de 0,5¼C și trebuie sã fie verificat metrologic.
+Un manometru trebuie sã fie amplasat între contor și vana de
+menținere a presiunii.
+Pentru sistemele de mãsurare amplasate pe camioane-cisternã
+trebuie sã fie prevãzutã o teacã manometricã.
+2.4.5. Când procesul de mãsurare este realizat de un sistem
+amplasat pe un camion-cisternã, nu trebuie sã existe legãturi între
+fazele gazoase din rezervorul de alimentare și rezervorul de
+recepție.
+2.4.6. În sistemele de mãsurare pot fi prevãzute supape de
+siguranțã în scopul prevenirii presiunilor anormal de mari. Dacã
+aceste supape sunt amplasate în aval de contor, ele pot fi deschise în atmosferã sau pot fi conectate la rezervorul de recepție.
+Se interzice conectarea supapelor de siguranțã, amplasate în
+amonte de contor, la robineții amplasați în aval de contor, printr-o
+conductã care sã ocoleascã contorul.
+2.4.7. Dacã condițiile de funcționare necesitã utilizarea unor
+furtunuri detașabile, aceste furtunuri trebuie sã rãmânã pline dacã
+volumul lor este mai mare decât eroarea toleratã pentru livrarea
+minimã.
+Furtunurile pline detașabile trebuie sã fie echipate cu o conexiune specialã, denumitã cuplã, pentru furtunuri pline.
+În cazul în care este necesar trebuie sã fie prevãzute dispozitive de purjare manuale la capãtul acestor furtunuri.
+2.4.8. Robinetul de control al dispozitivului cu dublã închidere
+prevãzut la pct. 1.11, pentru conductele care ocolesc contorul,
+trebuie sã poatã fi închis din motive de securitate. În acest caz
+un manometru amplasat între cele douã valve de închidere sau
+alt sistem echivalent trebuie sã monitorizeze orice neetanșeitãți.
+2.5. Sistemele de mãsurare pentru lapte
+
+2.5.1. Prevederile pct. 2.5 trebuie sã fie aplicate sistemelor de
+mãsurare utilizate sã monitorizeze recepția laptelui în rezervoarele
+de colectare, sistemelor de mãsurare fixe utilizate pentru recepție
+și sistemelor de mãsurare portabile ori fixe, utilizate pentru livrarea laptelui.
+2.5.2. În sistemele de recepție punctul de transfer trebuie sã
+fie reprezentat de nivelul constant dintr-un rezervor amplasat
+înainte de contor. Acest nivel constant trebuie sã fie vizibil înainte
+și dupã fiecare mãsurare și trebuie sã fie restabilit automat.
+2.5.2.1. Când contorul este alimentat prin pompã, rezervorul
+de nivel constant poate fi instalat înainte de pompã sau între
+pompã și contor.
+2.5.2.1.1. În primul caz rezervorul poate fi alimentat gravimetric prin golirea bidoanelor sau cu ajutorul unei pompe auxiliare
+ori al unui sistem de vacuum.
+În cazul în care laptele este livrat în rezervor cu ajutorul unei
+pompe sau cu ajutorul unui sistem de vacuum, este necesar un
+dispozitiv de eliminare a gazelor. Acest dispozitiv de eliminare a
+gazelor poate fi combinat cu rezervorul de nivel constant.
+2.5.2.1.2. În al doilea caz rezervorul de nivel constant trebuie
+sã se comporte ca un dispozitiv de eliminare a gazelor.
+2.5.2.2. Prin derogare de la prevederile pct. 1.8.3, contorul
+poate sã funcționeze cu ajutorul unui sistem de vacuum. În acest
+caz, atât timp cât presiunea în conductele dintre rezervorul de
+nivel constant și contor este mai micã decât presiunea atmosfericã, racordurile conductelor trebuie sã fie perfect etanșe. Trebuie
+sã fie posibilã verificarea acestei etanșeitãți.
+2.5.2.3. În toate cazurile de recepție conductele din amonte de
+nivelul constant trebuie sã fie complet golite de un mecanism
+automat în condiții normale de funcționare.
+2.5.2.4. Nivelul constant va fi monitorizat cu ajutorul unui vizor
+sau al unui indicator de nivel. Nivelul este considerat constant
+când se stabilește într-o zonã orizontalã între douã repere corespunzãtoare unei diferențe în volum care sã nu fie mai mare
+decât dublul erorii tolerate pentru livrarea minimã. Distanța dintre
+cele douã repere trebuie sã fie de cel puțin 15 mm.
+2.5.2.5. În cazul în care, pentru îndeplinirea prevederilor
+pct. 2.5.2.4, sistemele de mãsurare sunt echipate cu mecanisme
+
+de scãdere a debitului, acesta, în perioada de scãdere, nu trebuie sã scadã sub debitul minim al contorului.
+2.5.2.6. În cazul în care în sistemele de recepție lichidul
+mãsurat este condus la un nivel mai scãzut decât al contorului,
+un mecanism automat trebuie sã asigure o presiune mai mare
+decât presiunea atmosfericã la ieșirea din contor.
+2.5.3. Sistemele de mãsurare utilizate pentru livrarea laptelui
+trebuie sã îndeplineascã prevederile pct. 1.
+2.5.4. Prin derogare de la prevederile pct. 1 privind eliminarea
+aerului sau a gazelor, dispozitivul de eliminare a gazelor trebuie
+sã îndeplineascã prevederile pct. 1.6.1 numai în condiții de
+funcționare, cum ar fi atunci când aerul pãtrunde la începutul și
+la sfârșitul fiecãrei operații de mãsurare.
+Pentru echipamentele de recepție utilizatorul trebuie sã asigure
+etanșeitatea racordurilor, astfel încât sã nu poatã pãtrunde aer
+înainte de contor în timpul mãsurãrii.
+Pentru sistemele de livrare sistemul trebuie sã fie astfel
+amplasat încât presiunea lichidului în conductele de legãturã pânã
+la rezervorul de alimentare sã fie întotdeauna pozitivã.
+3. Aprobarea de model CEE și verificarea inițialã CEE
+3.1. Aprobarea de model CEE
+
+3.1.1. Se supun aprobãrii de model CEE urmãtoarele sisteme
+de mãsurare:
+Ñ sistemele de mãsurare a combustibilului lichid la care se
+referã prevederile pct. 2.1. În cazul în care un astfel de sistem
+de mãsurare este destinat sã fie instalat într-un sistem central de
+aprovizionare, certificatul aprobãrii de model CEE trebuie sã fie
+însoțit de una sau mai multe schițe care sã indice condițiile de
+asamblare la locul de funcționare;
+Ñ sistemele de mãsurare montate pe cisterne auto, la care
+se referã prevederile pct. 2.2;
+Ñ sistemele de mãsurare a gazelor lichefiate sub presiune,
+montate pe camioane-cisternã, la care se referã prevederile
+pct. 2.4;
+Ñ sistemele de mãsurare pentru recepția laptelui, la care se
+referã prevederile pct. 2.5.
+3.1.2. Încercãrile
+3.1.2.1. La efectuarea încercãrilor standurile de lucru și modul
+lor de utilizare trebuie sã fie stabilite astfel încât incertitudinea
+metodei de calibrare sã nu depãșeascã o cincime din eroarea
+toleratã a sistemului supus încercãrilor.
+3.1.2.2. Încercãrile contorului
+Întâi este necesar sã se determine o curbã a erorilor în
+funcție de debit, utilizându-se un numãr suficient de mare de
+valori mãsurate între debitul minim și cel maxim. Trebuie sã se
+verifice în special mãrimea intervalului erorilor contorului în zone;
+poziția curbei erorilor în raport cu linia de zero este mai puțin
+importantã. Dupã caz, se fac încercãri peste limitele admise ale
+debitului, prevãzute la pct. 1.3.
+Încercãrile trebuie sã fie efectuate, pe cât posibil, la limitele
+de funcționare, cum ar fi pentru temperatura maximã și cea
+minimã, pentru viscozitatea specificã și pentru livrarea minimã.
+Exceptând cazul încercãrilor la livrarea minimã, mãsurile de
+volum trebuie sã fie selectate astfel încât valoarea diviziunii indicatorului sã nu fie mai mare decât o treime din eroarea toleratã.
+Când aprobarea de model CEE a fost deja acordatã contorului și dispozitivelor auxiliare, trebuie sã se verifice dacã caracteristicile contorului și ale sistemului de mãsurare sunt compatibile.
+În cazul în care acestea sunt compatibile, contorul nu trebuie sã
+fie supus la încercãri suplimentare, dar livrarea minimã a sistemului de mãsurare trebuie sã fie determinatã în conformitate cu
+prevederile pct. 4.2 din cap. 1 al anexei la Norma de metrologie
+legalã CEE ”NMLÑCEE Ñ 71/319,,.
+În cazul în care caracteristicile contorului nu sunt compatibile
+cu cele ale sistemului de mãsurare sau dacã o aprobare de
+model CEE nu a fost acordatã în raport cu contorul și echipamentele sale auxiliare, întregul sistem de mãsurare trebuie sã fie
+încercat în conformitate cu prevederile prezentei anexe la norma
+de metrologie legalã CEE, ale Normei de metrologie legalã
+CEE ”NMLÑCEE Ñ 71/319,, și ale Normei de metrologie legalã
+CEE ”NMLÑCEE Ñ 71/348,,.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 768/22.X.2002
+3.1.2.3. Încercãrile pentru eliminarea aerului sau a gazelor
+Încercãrile trebuie sã demonstreze cã dispozitivul de eliminare
+a aerului sau a gazelor satisface prevederile pct. 1.6.2.1.4,
+1.6.2.1.5 și 1.6.2.2.4.
+Când sunt prevãzute un separator de gaz și un extractor special de gaz, eliminarea continuã trebuie sã fie verificatã prin compararea rezultatelor mãsurãrilor unui contor volumetric adecvat,
+amplasat dupã separatorul de gaz, cu și fãrã admisie de aer sau
+de gaz.
+Când sunt prevãzute extractoare speciale de gaz, trebuie sã
+se verifice la golirea completã a rezervorului.
+Dacã este posibil, testele trebuie sã fie fãcute cu lichidul cel
+mai puțin volatil. În încercãrile efectuate pe machete sau modele
+cu o scarã diferitã pentru echipamentul real trebuie sã se ținã
+seama de legile similitudinii referitoare la viscozitate (Reynolds),
+gravitate (Froude) și la tensiunea superficialã (Weber).
+3.1.2.4. Încercãrile sistemelor de mãsurare speciale
+3.1.2.4.1. Încercãrile trebuie sã cuprindã:
+Ñ verificarea contorului, verificarea echipamentelor auxiliare și
+determinarea influenței acestor dispozitive (dispozitiv indicator de
+preț, dispozitiv de imprimare, dispozitiv de preselecție etc.);
+Ñ verificarea dispozitivului de eliminare a gazelor;
+Ñ verificarea variației volumului intern al furtunului;
+Ñ verificarea specialã care sã controleze avansul regulat al
+dispozitivului indicator (avansul neregulat poate fi introdus în primul element al indicatorului de preț de închiderea bruscã a valvei
+de livrare).
+3.1.2.4.2. Sistemele de mãsurare pentru gaze lichefiate
+Examinarea trebuie sã cuprindã:
+Ñ verificarea în faza de proiectare a domeniului de debit;
+Ñ verificarea în funcționare a dispozitivului de eliminare a
+gazelor, care poate fi încorporat în separatorul de gaz.
+Dispozitivul de menținere a presiunii trebuie sã fie verificat
+dupã proiect. Atunci când verificarea proiectului nu este relevantã,
+Biroul Român de Metrologie Legalã poate solicita spre încercare
+un model de dispozitiv pentru menținerea presiunii.
+3.1.3. În cazul sistemelor de mãsurare la care se referã prevederile pct. 2.2 și 2.4, aprobarea de model CEE poate fi acordatã pe baza desenelor și diagramelor, asigurându-se cã ele
+îndeplinesc prevederile pct. 4.
+3.2. Verificarea inițialã CEE
+
+3.2.1. Generalitãți
+3.2.1.1. Verificarea inițialã CEE a sistemelor de mãsurare pentru lichide, altele decât apa, poate sã fie fãcutã în una sau
+douã faze.
+3.2.1.1.1. Verificarea inițialã CEE trebuie fãcutã într-o singurã
+fazã când sistemul de mãsurare pentru lichide, altele decât apa,
+este în întregime fabricat de un singur constructor, poate fi transportat fãrã sã fie demontat și când este verificat în condițiile în
+care este destinat sã funcționeze.
+3.2.1.1.2. Verificarea inițialã CEE trebuie sã fie fãcutã în douã
+faze în celelalte cazuri.
+Prima fazã privește numai contorul sau contorul echipat cu
+orice echipamente auxiliare care trebuie asociate cu el, încorporat
+sau nu într-un subansamblu.
+Prima fazã a încercãrilor poate fi fãcutã pe un banc de încercare (posibil în fabrica constructorului) sau pe un sistem de
+mãsurare instalat. În aceastã fazã verificãrile metrologice pot sã
+fie fãcute cu lichide, altele decât cele pentru care sistemul de
+mãsurare pentru lichide, altele decât apa, este destinat sã
+funcționeze.
+A doua fazã privește sistemul de mãsurare pentru lichide,
+altele decât apa, în condiții de funcționare efectivã. Aceasta trebuie sã fie fãcutã la locul de instalare, în condiții de funcționare
+și cu lichidul pentru care sistemul de mãsurare este destinat.
+Când sistemul de mãsurare poate fi transportat fãrã sã fie
+demontat și încercãrile pot fi fãcute în condiții identice cu cele în
+care sistemul de mãsurare este destinat sã funcționeze, a doua
+fazã a încercãrilor poate fi fãcutã într-un loc diferit de locul de
+instalare.
+3.2.2. Încercãri
+3.2.2.1. Când o verificare inițialã CEE este fãcutã într-o singurã fazã, toate încercãrile la care se referã prevederile
+pct. 3.2.2.2. trebuie îndeplinite.
+
+9
+
+3.2.2.2. Când încercãrile se fac în douã faze, prima fazã trebuie sã conținã:
+Ñ o examinare a conformitãții contorului, inclusiv a echipamentelor auxiliare (în conformitate cu respectivele aprobãri);
+Ñ o examinare metrologicã a contorului, inclusiv a echipamentelor auxiliare cu care este echipat.
+Faza a doua trebuie sã conținã:
+Ñ o examinare a conformitãții sistemului de mãsurare, inclusiv
+a contorului și a echipamentelor sale auxiliare;
+Ñ o examinare metrologicã a contorului și a echipamentului
+auxiliar în sistemul de mãsurare;
+Ñ o încercare de funcționare a dispozitivului de eliminare a
+gazelor; dacã acesta existã în cadrul acestei încercãri, nu este
+necesarã verificarea erorii tolerate prevãzute la pct. 1.6;
+Ñ inspecția reglãrii dispozitivului de menținere a presiunii
+cerute;
+Ñ verificarea variației volumului intern al furtunurilor în sistemele de mãsurare cu furtun plin;
+Ñ determinarea cantitãții reziduale în sistemele cu furtun gol.
+4. Sisteme de mãsurare amplasate pe camioane-cisternã
+4.1. Prevederi generale
+
+Sistemele de mãsurare amplasate pe camioane-cisternã, la
+care se referã prevederile pct. 2.2 și 2.4, pot sã obținã aprobare
+de model CEE numai în baza unei examinãri a documentației de
+execuție, dacã aceasta este în conformitate cu una dintre schemele standard la care se referã prevederile pct. 4.2 și îndeplinește condițiile de mai jos:
+4.1.1. Indicarea schemei standard adoptate trebuie sã fie
+adãugatã la inscripțiile specificate la pct. 1.16.
+4.1.2. Componentele sistemului de mãsurare trebuie sã deținã
+aprobarea de model CEE, când o astfel de aprobare este specificatã în Norma de metrologie legalã CEE ”NMLÑCEE Ñ 71/319,,
+sau în Norma de metrologie legalã CEE ”NMLÑCEE Ñ 71/348,,
+ori în prezenta anexã la norma de metrologie legalã CEE.
+4.1.3. În cazul în care un rezervor are mai multe compartimente, conductele de ieșire din compartimente pot sã fie conectate la un sistem de mãsurare separat sau printr-un colector,
+dacã nu se specificã altfel în schema standard adecvatã.
+Prevederile pct. 2.2.1 alin. 2 se aplicã în toate cazurile.
+Când un sistem de mãsurare este conectat la mai multe compartimente printr-un colector, trebuie sã existe un dispozitiv care
+sã împiedice comunicarea mai multor compartimente simultan cu
+sistemul de mãsurare. Aceastã condiție nu se aplicã dacã sistemul de mãsurare are un separator de gaz, în conformitate cu
+prevederile pct. 1.6.2.1.4.
+4.1.4. În cazul în care camionul-cisternã are douã sisteme de
+mãsurare care pot fi conectate, ca o cerințã, la unul sau mai
+multe compartimente, conductele și robineții trebuie sã fie astfel
+poziționați încât cele douã sisteme de mãsurare sã nu poatã fi
+conectate simultan la același compartiment. Legãtura dintre compartimente și sistemul de mãsurare trebuie sã fie clar marcatã,
+astfel încât sã împiedice un compartiment sã fie conectat din
+greșealã la sistemul de mãsurare care nu este destinat sã
+mãsoare produsul conținut de acesta.
+4.1.5. Dacã se menționeazã cã este necesar un dispozitiv
+antiturbion, acesta poate fi combinat cu robinetul de pe fundul
+compartimentului.
+4.1.6. Conductele, robineții și dopurile dintre compartimente și
+sistemul de mãsurare trebuie sã fie astfel amplasate încât sã nu
+fie posibil sã se lege sistemul de mãsurare la un rezervor separat de camionul-cisternã.
+4.1.7. Filtrele prevãzute în mod normal imediat în amonte de
+contor sau dispozitivul de eliminare a gazelor pot fi încorporate
+în contor.
+4.1.8. Trebuie sã fie posibilã sigilarea dispozitivelor care permit
+ca livrarea sã se efectueze fãrã trecerea lichidului prin contor,
+dacã reglementãrile naționale privind livrãrile de produse din cisternele auto permit aceastã modalitate de livrare.
+4.1.9. Când sistemele de mãsurare includ valve cu douã cãi,
+acestea trebuie sã fie astfel concepute încât comunicarea simultanã între cele trei orificii sã fie imposibilã.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 768/22.X.2002
+4.2. Scheme standard
+
+Schema standard S 1
+
+Legenda schemei standard S 1
+Funcționarea gravimetricã cu ventil de aer permanent la punctul de transfer
+Permite: numai livrarea mãsuratã (furtunuri goale).
+În cazul în care rezervorul are mai multe compartimente, sistemul de mãsurare trebuie sã fie direct și permanent conectat la
+un compartiment anume, fãrã colector.
+A: dispozitiv antiturbion
+F: filtru. Filtrul trebuie sã fie astfel conceput și instalat încât
+sã poatã sã fie curãțat fãrã golirea contorului sau vizoarelor de
+sticlã (V1 sau, respectiv, V2).
+Filtrul trebuie sã fie situat sub nivelul punctului de transfer.
+T1, T2: variante autorizate pentru evacuarea gazului:
+T1: purjor și o supapã antiretur care sã previnã admisia gazului în sistemul de mãsurare;
+T2: întoarce faza gazoasã în rezervorul compartimentului
+car: supapã antiretur care sã previnã curgerea gazului în cazul
+unei suprapresiuni termale în rezervor.
+C: contor
+
+Vm: supapã funcționalã
+I și II: variante ale sistemului de livrare cu furtunuri goale.
+V1: vizor de sticlã cu preaplin
+V2: vizor de sticlã, astfel cum este definit la pct. 1.1.8, utilizat
+și ca indicator de gaz
+at: ventil de aer permanent, cu o secțiune transversalã suficientã sã asigure cã presiunea în contor este cel puțin egalã cu
+presiunea atmosfericã.
+Poate fi prevãzutã o aerisire permanentã cu un tub vertical,
+fãrã supapã. Dacã acest tub este legat la partea superioarã a
+rezervorului, supapa antiretur ”car,, nu este necesarã.
+H: înãlțimea de cãdere a lichidului
+h: înãlțimea dintre partea inferioarã a rezervorului și punctul de
+transfer. Aceastã înãlțime trebuie sã fie suficientã pentru a asigura
+un debit cel puțin egal cu debitul minim al contorului în timpul
+golirii complete a rezervorului.
+
+Schema standard S 2
+
+Legenda schemei standard S 2
+Funcționarea gravimetricã fãrã ventil de aer permanent la
+punctul de transfer în timpul livrãrii
+Permite: a) livrarea mãsuratã (furtunuri goale);
+
+b) livrarea directã nemãsuratã, golirea și umplerea rezervorului
+fãrã ca lichidul sã treacã prin contor.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 768/22.X.2002
+Conductele dintre compartimente și sistemul de mãsurare trebuie sã fie realizate astfel încât sã asigure o conexiune permanentã.
+A: dispozitiv antiturbion
+R: robinet cu douã cãi care permite livrarea mãsuratã, livrarea
+nemãsuratã și golirea și umplerea rezervorului fãrã ca lichidul sã
+treacã prin contor
+Acest robinet este opțional și poate sã fie înlocuit printr-o
+conexiune directã.
+F: filtru. Un robinet de golire poate fi prevãzut dacã sistemul
+include o supapã antiretur care sã împiedice pãtrunderea gazului
+în sistemul de mãsurare.
+PsG: extractor special de gaz, cum este definit la pct. 1.1.5
+T1, T2, T3, T4: variante autorizate de dispozitive de aerisire:
+T1: întoarcere în rezervor;
+T2: aerisire în atmosferã;
+T3: vas care reține particulele de lichid antrenate de gaz;
+T4: purjor
+C: contor
+va: supapã cu închidere automatã, comandatã de un extractor
+special de gaz, când presiunea este insuficientã ca sã previnã
+evaporarea în contor sau când pungi de aer s-au acumulat în
+
+11
+
+extractorul special de gaz. Aceastã supapã trebuie sã se închidã
+în cazul în care sistemul de control nu mai funcționeazã.
+Variante ale sistemului de livrare cu furtunuri goale:
+varianta I: vizor de sticlã cu preaplin V2;
+varianta a II-a: vizor de sticlã, cum este definit la pct. 1.1.8,
+care îndeplinește și funcția de indicator de gaz V3
+Vm: supapã funcționalã
+Supapa automatã ”va,, și supapa funcționalã Vm pot sã fie
+combinate într-o supapã specialã care sã îndeplineascã ambele
+funcții. În acest caz cele douã funcții trebuie sã fie independente
+una fațã de cealaltã.
+În varianta a II-a aceastã supapã specialã trebuie sã fie
+amplasatã dupã vizorul de sticlã V3.
+at: ventil de aer manual. Acesta poate sã fie automat (de
+exemplu închidere automatã în timpul operației de mãsurare și
+deschis dupã terminarea acesteia).
+H: înãlțimea de cãdere a lichidului
+h: înãlțimea dintre partea inferioarã a rezervorului și punctul de
+transfer. Aceastã înãlțime trebuie sã fie suficientã astfel încât sã
+asigure un debit cel puțin egal cu debitul minim al contorului în
+timpul golirii complete a rezervorului.
+
+Schema standard S 3
+
+Legenda schemei standard S 3
+Sistemele de mãsurare cuprind o pompã, un separator de gaz
+și unul sau douã furtunuri pline
+Permit: a) livrarea mãsuratã (furtun plin);
+b) livrarea directã nemãsuratã (cu sau fãrã pompã), golirea și
+umplerea rezervorului fãrã ca lichidul sã treacã prin contor.
+R1: robinet cu douã cãi, care permite livrarea mãsuratã, livrarea nemãsuratã și umplerea și golirea rezervorului fãrã ca lichidul
+sã treacã prin contor. Acest robinet este opțional și poate sã fie
+înlocuit printr-o conexiune directã.
+P: pompã. Pompa poate sã fie reversibilã. În acest caz o
+supapã antiretur trebuie sã fie adãugatã între robinetul R2 și
+separatorul de gaz Sg.
+R 2 : robinet cu douã cãi, opțional, pentru livrarea directã
+nemãsuratã
+F: filtru. Filtrul poate sã fie echipat cu un robinet de golire.
+Sg: separator de gaz, astfel cum este definit la pct. 1.6.2.1.4.
+Nivelul lichidului în separatorul de gaz trebuie sã fie mai înalt
+decât cel din contor.
+
+T1, T2: variante autorizate pentru dispozitivul de aerisire:
+T1: întoarcere directã în rezervor;
+T2: întoarcere în rezervor printr-un vas de reținere a particulelor de lichid antrenate de gaz
+C: contor
+Vm: supapã funcționalã
+cl: supapã antiretur
+fl1: furtun plin înfãșurat
+fl2: al doilea furtun plin, opțional (foarte scurt), pentru livrare
+cu un debit mãrit
+cla: supapã care sã împiedice furtunurile pline sã se goleascã
+R3: dispozitiv care permite ca livrarea sã fie efectuatã cu unul
+dintre furtunurile sistemului de mãsurare cu douã furtunuri. Acest
+dispozitiv trebuie sã fie în conformitate cu prevederile pct. 1.10.1
+alin. 1 și ale pct. 2.2.4 alin. 2.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 768/22.X.2002
+Schema standard S 4
+
+Legenda schemei standard S 4
+Sistemul de mãsurare cuprinde o pompã, un separator de
+gaz, un furtun gol sau un furtun plin și un furtun gol.
+Permite: a) livrarea mãsuratã cu ajutorul pompei (furtun plin
+sau gol);
+b) livrarea mãsuratã alimentatã gravimetric (furtun gol);
+c) livrarea directã nemãsuratã (cu sau fãrã pompã), golirea
+sau umplerea rezervorului fãrã ca lichidul sã treacã prin contor.
+R1: robinet cu douã cãi, care permite livrarea mãsuratã, livrarea nemãsuratã, umplerea și golirea rezervorului fãrã ca lichidul
+sã treacã prin contor. Acest robinet este opțional și poate sã fie
+înlocuit printr-o conexiune directã.
+P: pompã. Pompa poate sã fie reversibilã. În acest caz o
+supapã antiretur trebuie sã fie adãugatã între robinetul R2 și
+separatorul de gaz Sg.
+B: bifurcație opționalã, care permite livrarea prin alimentarea
+gravimetricã a contorului. Aceastã bifurcație este permisã numai
+dacã existã robinetul R1.
+R 2 robinet cu douã cãi, opțional, pentru livrarea directã
+nemãsuratã
+F: filtru. Filtrul poate sã fie echipat cu un robinet de golire.
+Sg: separator de gaz, astfel cum este definit la pct. 1.6.2.1.4.
+Nivelul lichidului în separatorul de gaz trebuie sã fie mai înalt
+decât cel din contor.
+car: supapã antiretur care împiedicã curgerea gazului (în cazul
+livrãrii cu furtun gol)
+
+C: contor
+M: racord pentru manometru. Acest racord este obligatoriu
+când existã bifurcația B.
+În timpul verificãrii inițiale CEE racordul permite controlul presiunii în contor, care trebuie sã fie cel puțin egalã cu presiunea
+atmosfericã în timpul livrãrii alimentate gravimetric.
+at: ventil automat sau manual. Când existã bifurcația B, acest
+ventil trebuie sã fie automat și cu o secțiune transversalã suficientã sã asigure cã presiunea în contor este cel puțin egalã cu
+presiunea atmosfericã.
+Vm: supapã funcționalã
+I și II: variante ale dispozitivului de livrare:
+T1: furtun gol;
+T2: combinații cu un furtun plin și un furtun gol
+cl: supapã antiretur
+V1: vizor de sticlã cu preaplin
+V2: vizor de sticlã, astfel cum este definit la pct. 1.1.8, utilizat,
+de asemenea, ca indicator de gaz
+fl1: furtun plin înfãșurat
+cla: supapã care împiedicã golirea furtunului plin
+R3: dispozitiv care permite ca livrarea sã fie efectuatã prin furtunul plin sau prin furtunul gol. Acest dispozitiv trebuie sã fie în
+conformitate cu prevederile pct. 1.10.1 alin. 1 și ale pct. 2.2.4
+alin. 2.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 768/22.X.2002
+
+13
+
+Schema standard S 5
+
+Legenda schemei standard S 5
+Sistemul de mãsurare cuprinde o pompã, un extractor de gaz
+și unul sau douã furtunuri pline.
+Sistemul de mãsurare permite numai livrarea mãsuratã cu ajutorul pompei (furtun plin).
+Dacã rezervorul are mai multe compartimente, sistemul de
+mãsurare trebuie sã fie conectat direct și permanent la un compartiment specific fãrã colector.
+A: dispozitiv antiturbion
+V: supapã de tip ”deschis-închis,,, care sã nu permitã scãderea
+debitului la intrarea în pompã
+M: manometru care controleazã ca presiunea la intrarea în
+pompã sã nu fie niciodatã mai micã decât presiunea atmosfericã
+P: pompã
+F: filtru
+Poate exista un robinet de golire dacã filtrul este echipat cu o
+supapã antiretur care sã împiedice admisia gazului în sistemul de
+mãsurare.
+
+Pg: extractor de gaz pentru dispozitivul de aerisire. Pentru dispozitivul de aerisire sunt autorizate douã variante: T1 și T2.
+T1: conexiune directã între extractorul de gaz și rezervor. În
+acest caz conducta trebuie sã fie condusã în rezervor în lungul
+peretelui, pentru a facilita separarea particulelor de lichid și a
+gazelor.
+T2: extractor de gaz conectat la rezervor printr-un vas care
+reține particulele de lichid antrenate de gaze.
+C: contor
+Vm: supapã funcționalã
+cl: supapã antiretur
+fl1: furtun plin înfãșurat
+fl2: al doilea furtun plin, opțional (foarte scurt), pentru livrãri cu
+debit mãrit
+cla: supapã care împiedicã golirea furtunurilor pline
+R: dispozitiv care permite ca livrarea sã fie efectuatã cu unul
+dintre furtunurile sistemului de mãsurare cu douã furtunuri. Acest
+dispozitiv trebuie sã fie în conformitate cu prevederile pct. 1.10.1
+alin. 1 și ale pct. 2.2.4 alin. 2.
+
+Schema standard S 6
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 768/22.X.2002
+Legenda schemei standard S 6
+
+Sistemul de mãsurare cuprinde un separator de gaz combinat
+cu pompã de alimentare, unul sau douã furtunuri pline sau un
+furtun gol ori un furtun plin și un furtun gol.
+Permite: a) livrarea mãsuratã prin pompã (furtun plin sau gol);
+b) livrarea directã (cu sau fãrã pompã), fãrã ca lichidul sã
+treacã prin contor, și golirea și umplerea rezervorului fãrã ca lichidul sã treacã prin contor.
+R1: robinet cu douã cãi, care permite livrarea mãsuratã, livrarea nemãsuratã, golirea și umplerea rezervorului fãrã ca lichidul
+sã treacã prin contor. Acest robinet este opțional. El poate fi înlocuit de o conexiune directã.
+F: filtru. Filtrul poate fi echipat cu un robinet de golire.
+SgP: separator de gaz combinat cu o pompã de alimentare,
+astfel cum este definit la pct. 1.6.2.1.2 alin. 1. Acest subansamblu
+trebuie sã îndeplineascã prevederile pct. 1.6.2.1.4. Acesta trebuie
+sã fi primit o aprobare de model CEE.
+cl1: supapã antiretur. Aceastã supapã trebuie sã fie amplasatã
+în aval de contor.
+R 2 : robinet cu douã cãi, opțional, pentru livrarea directã
+nemãsuratã
+
+C: contor
+Variante ale dispozitivului de livrare:
+varianta I: unul sau douã furtunuri pline;
+varianta a II-a: furtun gol;
+varianta a III-a: combinații pentru un furtun plin și un
+furtun gol.
+Vm: supapã funcționalã
+V1: vizor de sticlã cu preaplin
+V2: vizor de sticlã, așa cum este definit la pct. 1.1.8, utilizat
+ca indicator de gaz
+fl1: furtun plin
+fl2: al doilea furtun plin, opțional (foarte scurt), pentru livrãri la
+un debit mãrit
+cla: supapã care împiedicã golirea furtunului plin
+cl2: supapã antiretur
+R3: dispozitiv care permite ca livrarea sã fie efectuatã prin una
+dintre cele douã metode disponibile de livrare. Acest dispozitiv trebuie sã fie în conformitate cu prevederile pct. 1.10.1 alin. 1 și ale
+pct. 2.2.4 alin. 2.
+
+Schema standard S 7
+
+Legenda schemei standard S 7
+Sistemul de mãsurare cuprinde o pompã, un extractor special
+de gaz, unul sau douã furtunuri pline sau un furtun gol ori un furtun plin și un furtun gol.
+Permite: a) livrarea mãsuratã prin pompã (furtun plin sau gol);
+b) livrarea mãsuratã alimentatã gravimetric (furtun gol);
+c) livrarea directã, cu sau fãrã pompã, fãrã trecerea lichidului
+prin contor, golirea și umplerea rezervorului fãrã trecerea lichidului
+prin contor.
+Dacã rezervorul are mai multe compartimente și dacã este
+posibil sã se utilizeze un colector, robineții de pe fundul compartimentelor și robineții de la intrarea în conductã trebuie sã fie de
+tipul ”deschis-închis,,.
+
+Conductele dintre compartimente și sistemul de mãsurare trebuie sã fie permanent conectate.
+A: dispozitiv antiturbion
+R1: robinet cu douã cãi, care permite livrarea mãsuratã, livrarea nemãsuratã, golirea și umplerea rezervorului fãrã ca lichidul
+sã treacã prin contor. Acest robinet este opțional. El poate sã fie
+înlocuit cu o conexiune permanentã.
+P: pompã. Pompa poate sã fie reversibilã. În acest caz o
+supapã antiretur trebuie sã fie amplasatã între robinetul R2 și
+extractorul special de gaz PgS.
+B: bifurcație opționalã care permite livrarea mãsuratã alimentatã gravimetric (furtun gol). Aceastã derivație este autorizatã
+numai dacã nu existã robinetul R1.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 768/22.X.2002
+R 2: robinet cu douã cãi, opțional, pentru livrarea directã
+nemãsuratã
+F: filtru. Este permis un robinet de golire numai dacã sistemul
+include o supapã antiretur care sã împiedice admisia gazului în
+sistemul de mãsurare.
+PgS: extractor special de gaz, astfel cum este definit la
+pct. 1.1.5
+V1: vizorul de sticlã al extractorului special de gaz
+T1, T2, T3: variante autorizate pentru dispozitivul de aerisire:
+T1: vas care reține particulele de lichid antrenate de gaze;
+T2: întoarcere în rezervor;
+T3: supapã purjor
+C: contor
+va: supapã automatã care este închisã de extractorul special
+de gaz când presiunea este insuficientã ca sã împiedice evaporarea în contor sau când se acumuleazã pungi de gaz în extractor.
+Aceasta trebuie sã fie închisã în cazul în care sistemul de control
+al extractorului special de gaz nu mai funcționeazã.
+Variante ale dispozitivului de livrare:
+varianta I: unul sau douã furtunuri pline;
+varianta a II-a: furtun gol;
+
+15
+
+varianta a III-a: combinații pentru un furtun plin și un furtun gol
+Vm: supapã funcționalã
+Supapa automatã ”va,, și supapa funcționalã Vm pot sã fie
+combinate într-o supapã specialã care sã asigure ambele funcții.
+În acest caz cele douã funcții trebuie sã fie independente una
+fațã de cealaltã. Aceastã supapã specialã trebuie sã fie amplasatã în aval de vizorul de sticlã V3 în variantele (a II-a și a III-a)
+care sunt echipate cu acest vizor.
+cl: supapã antiretur
+V2: vizor de sticlã cu preaplin
+V3: vizor de sticlã, așa cum este definit la pct. 1.1.8, utilizat și
+ca indicator de gaz
+fl1: furtun plin înfãșurat
+fl2: al doilea furtun plin, opțional (foarte scurt), pentru livrãri cu
+debit mãrit
+cla: supapã care împiedicã golirea furtunurilor pline
+at: ventil de aerisire automat sau manual
+R3: dispozitiv care permite ca livrarea sã fie efectuatã prin
+una dintre cele douã metode de livrare disponibile. Acest dispozitiv trebuie sã fie în conformitate cu prevederile pct. 1.10.1 alin. 1
+și ale pct. 2.2.4 alin. 2.
+
+Schema standard S 8
+
+Legenda schemei standard S 8
+Sistemul de mãsurare cuprinde o pompã, o supapã cu trei
+cãi, un extractor special de gaz, unul sau douã furtunuri pline sau
+un furtun gol ori un furtun plin și un furtun gol.
+Permite: a) livrarea mãsuratã prin pompã (furtun plin sau gol);
+b) livrarea mãsuratã alimentatã gravimetric (furtun gol);
+c) livrarea directã cu sau fãrã pompã, fãrã ca lichidul sã
+treacã prin contor, golirea și umplerea rezervorului fãrã ca lichidul
+sã treacã prin contor.
+În cazul în care rezervorul are mai multe compartimente și
+dacã este posibil sã se utilizeze un colector, robineții de pe fundul compartimentelor și robineții de la intrarea în conductã trebuie sã fie de tipul ”deschis-închis,,.
+Conductele dintre compartimente și sistemul de mãsurare trebuie sã fie permanent conectate.
+
+A: dispozitiv antiturbion
+P: pompã
+R0: robinet cu trei cãi care, împreunã cu robineții R1 și R2,
+permite sã se efectueze urmãtoarele operații:
+1. livrarea mãsuratã sau nemãsuratã prin pompã (furtun plin
+sau gol);
+2. livrarea mãsuratã sau nemãsuratã alimentatã gravimetric
+(furtun gol), golirea și umplerea rezervorului;
+3. umplerea rezervorului cu ajutorul pompei P.
+R1: acest robinet cu douã cãi este opțional și poate sã fie
+înlocuit printr-o conexiune directã.
+F: filtru
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 768/22.X.2002
+
+Un robinet de golire poate exista dacã sistemul include o
+supapã antiretur care sã împiedice pãtrunderea gazului în sistemul de mãsurare.
+cl1: supapã antiretur
+PgS: extractor special de gaz, astfel cum este definit la
+pct. 1.1.5
+V1: vizor de sticlã pentru extractorul special de gaz
+T1, T2, T3: variante autorizate pentru dispozitivul de aerisire:
+T1: vas care reține particulele de lichid antrenate de gaze;
+T2: întoarcere în rezervor;
+T3: supapã purjor
+C: contor
+va: supapã automatã care este închisã de extractorul special
+de gaz când presiunea este insuficientã ca sã împiedice evaporarea în contor sau când se acumuleazã pungi de gaz în extractor.
+Aceasta trebuie sã fie închisã în cazul în care sistemul de control
+al extractorului special de gaz nu mai funcționeazã.
+Variante ale dispozitivului de livrare:
+varianta I: unul sau douã furtunuri pline;
+varianta a II-a: furtun gol;
+varianta a III-a: combinații pentru un furtun plin și un furtun gol
+
+Vm: supapã funcționalã
+Supapa automatã ”va,, și supapa funcționalã Vm pot sã fie
+combinate într-o supapã specialã care sã asigure ambele funcții.
+În acest caz cele douã funcții trebuie sã fie independente una
+fațã de cealaltã. Aceastã supapã specialã trebuie sã fie amplasatã în aval de vizorul de sticlã V3 în variantele (a II-a și a III-a)
+care sunt echipate cu acest vizor.
+cl2: supapã antiretur
+V2: vizor de sticlã cu preaplin
+V3: vizor de sticlã, așa cum este definit la pct. 1.1.8, utilizat și
+ca indicator de gaz
+fl1: furtun plin înfãșurat
+fl2: al doilea furtun plin, opțional (foarte scurt), pentru livrãri cu
+debit mãrit
+cla: supapã care împiedicã golirea furtunurilor pline
+at: ventil de aerisire automat sau manual
+R3: dispozitiv care permite ca livrarea sã fie efectuatã prin
+una dintre cele douã metode de livrare disponibile. Acest dispozitiv trebuie sã fie în conformitate cu prevederile pct. 1.10.1 alin. 1
+și ale pct. 2.2.4 alin. 2.
+
+Schema standard S 9
+
+Legenda schemei standard S 9
+Sistemul de mãsurare cuprinde o pompã, un separator de
+gaz, o supapã de menținere a presiunii și un furtun plin.
+Permite: a) livrarea mãsuratã prin pompã (furtun plin);
+b) livrarea, cu sau fãrã pompã, fãrã ca lichidul sã treacã prin
+contor, golirea și umplerea rezervorului fãrã ca lichidul sã treacã
+prin contor.
+R1: robinet cu douã cãi pentru livrarea mãsuratã, golirea și
+umplerea rezervorului fãrã ca lichidul sã treacã prin contor. Acest
+robinet este opțional și poate sã fie înlocuit printr-o conexiune
+directã.
+P: pompã
+B: bifurcație reglabilã a pompei legatã la rezervor
+R 2 : robinet cu douã cãi, opțional, pentru livrarea directã
+nemãsuratã
+cl1: supapã antiretur, astfel cum este definitã la pct. 2.4.1.
+Aceasta trebuie sã fie amplasatã între filtru și separatorul de gaz.
+F: filtru
+Sg: separator de gaz, în conformitate cu prevederile
+pct. 1.6.2.1.4 sau ale pct. 2.4.3.1 alin. 2. Dispozitivul de aerisire
+este conectat la faza gazoasã din rezervor. Din motive de securitate supapa ”vas,, trebuie sã fie utilizatã cu acest dispozitiv; în
+
+acest caz supapa ”vas,, trebuie sã fie amplasatã între rezervor și
+branșamentul valvei ”vamp,,.
+C: contor
+vamp: supapã automatã pentru menținerea presiunii reglate,
+care menține presiunea cu cel puțin 100 kPa mai mare decât
+presiunea vaporilor saturați din rezevor
+Vm: supapã funcționalã
+cl2: supapã antiretur
+Z: conductã pentru faza gazoasã, care poate sã fie utilizatã
+numai la umplerea rezervorului și la recuperarea produsului în
+timpul verificãrii sistemului de mãsurare
+Th: termometru. Acest termometru trebuie sã fie situat lângã
+contor, la intrarea, la ieșirea separatorului de gaz sau la intrarea
+ori la ieșirea contorului.
+M: manometru, obligatoriu
+Notã: a) Pentru a se asigura cã prevederile pct. 2.4.5 sunt
+îndeplinite trebuie sã fie clar marcat pe plãcuțã cã faza gazoasã
+din rezervorul vehiculului și faza gazoasã din rezervorul clientului
+nu trebuie sã fie conectate.
+b) Pot sã fie încorporate supape de siguranțã; în acest caz
+ele trebuie sã îndeplineascã prevederile pct. 2.4.6.
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 5069427282 Trezoreria sector 5, București (alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 411.97.54, tel./fax 410.77.36.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: ramomrk@bx.logicnet.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 768/22.X.2002 conține 16 pagini.
+
+Prețul de vânzare 11.500 lei
+
+ISSN 1453Ñ4495
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+

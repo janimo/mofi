@@ -1,0 +1,1575 @@
+PARTEA
+
+Anul XI Ñ Nr. 548 bis
+
+I
+
+Marți, 9 noiembrie 1999
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+189.
+
+190.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+Ñ Ordin al președintelui Agenției Naționale pentru
+Comunicații și Informaticã privind utilizarea stațiilor
+de radiocomunicații profesionale pentru comunicații
+la micã distanțã.........................................................
+Ñ Ordin al președintelui Agenției Naționale pentru
+Comunicații și Informaticã pentru aprobarea
+Regulamentului stațiilor de radiocomunicații din
+serviciul mobil terestru în banda de frecvențe
+26.960Ñ27.410 kHz..................................................
+
+1Ð5
+
+6Ð14
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+AGENÞIA NAÞIONALÃ PENTRU COMUNICAÞII ȘI INFORMATICÃ
+
+ORDIN
+privind utilizarea stațiilor de radiocomunicații profesionale pentru comunicații la micã distanțã
+Președintele Agenției Naționale pentru Comunicații și Informaticã,
+în baza Legii telecomunicațiilor nr. 74/1996, cu modificãrile ulterioare, și a Hotãrârii Guvernului nr. 153/1997 privind înființarea Regiei Autonome ”Inspectoratul General al Comunicațiilor,, prin reorganizarea Regiei Autonome
+”Inspectoratul General al Radiocomunicațiilor,,,
+în baza Hotãrârii Guvernului nr. 890/1994 privind stabilirea și sancționarea contravențiilor în domeniul radiocomunicațiilor și al protecției radioelectrice,
+în temeiul Hotãrârii Guvernului nr. 973/1998 privind organizarea și funcționarea Agenției Naționale pentru
+Comunicații și Informaticã,
+emite prezentul ordin.
+Art. 1. Ñ Stațiile de radiocomunicații profesionale pentru
+comunicații la micã distanțã, denumite în continuare stații
+PMR 446, se definesc ca fiind stații portabile de radiocomunicații în serviciul mobil terestru, care funcționeazã pe
+frecvențe prestabilite din banda de frecvențe 446,0000 Ñ
+446,1000 MHz, având putere efectiv radiatã de maximum
+0,5 W. Aceste stații pot fi utilizate pentru comunicații pe
+distanțe mici, numai în scopul coordonãrii activitãții profesionale a persoanelor juridice române.
+
+Art. 2. Ñ (1) Anexa nr. 1 la prezentul ordin prevede
+Reglementarea tehnicã pentru stațiile PMR 446.
+(2) Nu este permisã utilizarea frecvențelor 446,00625 MHz,
+446,01875 MHz și 446,09375 MHz.
+Art. 3. Ñ Frecvențele de lucru alocate stațiilor PMR 446
+se utilizeazã în comun și, în consecințã, nu beneficiazã de
+protecție radioelectricã.
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 548 bis/9.XI.1999
+
+Art. 4. Ñ Este interzisã interconectarea stațiilor
+PMR 446 cu rețele de radiocomunicații sau de telecomunicații, publice sau independente.
+Art. 5. Ñ (1) Stațiile PMR 446 pot fi utilizate numai în
+baza permisului de utilizare, denumit în continuare permis.
+(2) Permisul se elibereazã de cãtre Regia Autonomã
+”Inspectoratul General al Comunicațiilor,,, denumitã în continuare R.A. I.G.C., prin direcțiile sale teritoriale.
+(3) Modelul permisului este prezentat în anexa nr. 2, iar
+repartizarea județelor țãrii pe direcțiile teritoriale ale R.A.
+I.G.C. este prevãzutã în anexa nr. 3.
+Art. 6. Ñ Titular al permisului poate fi numai o persoanã juridicã românã.
+Art. 7. Ñ (1) Permisul se elibereazã în termen de
+15 zile de la primirea cererii solicitantului, întocmitã
+conform modelului prezentat în anexa nr. 4, însoțitã de
+fotocopia certificatului de înmatriculare la registrul
+comerțului.
+(2) Permisul se elibereazã numai dupã achitarea tarifului
+în vigoare pentru acest tip de serviciu.
+(3) Permisul este netransmisibil.
+Art. 8. Ñ (1) Termenul de valabilitate a permisului este
+de 5 ani de la data emiterii, în condițiile respectãrii
+reglementãrilor din domeniul radiocomunicațiilor și ale
+achitãrii tarifului în vigoare.
+(2) Valabilitatea permisului poate fi prelungitã pentru o
+nouã perioadã de 5 ani, la cererea titularului, cu condiția
+ca stația utilizatã sã corespundã reglementãrilor tehnice în
+vigoare la data solicitãrii. În acest scop, în ultima lunã de
+valabilitate a permisului și cu cel puțin 15 zile înainte de
+data expirãrii acestuia, titularul trebuie sã îl prezinte pentru
+vizare direcției teritoriale a R.A. I.G.C. care l-a eliberat.
+Art. 9. Ñ Titularul permisului are urmãtoarele obligații:
+a) sã respecte prevederile prezentului ordin și ale regulamentului stațiilor de radiocomunicații din România;
+b) sã utilizeze stațiile PMR 446 în conformitate cu
+datele înscrise în permis și sã notifice direcției teritoriale a
+R.A. I.G.C. emitente orice modificare a acestor date,
+înainte de efectuarea lor;
+c) sã nu utilizeze stațiile PMR 446 în alt scop decât cel
+prevãzut la art. 2;
+
+d) sã asigure funcționarea stațiilor la parametrii tehnici
+prevãzuți în prezentul ordin;
+e) sã ia mãsurile necesare pentru ca o fotocopie a permisului, vizatã și ștampilatã de titular din punct de vedere
+al conformitãții cu originalul, sã se afle permanent la utilizatorii stațiilor care fac obiectul permisului respectiv;
+f) sã permitã delegaților împuterniciți ai R.A. I.G.C. efectuarea controlului respectãrii prevederilor permisului și a
+reglementãrilor în vigoare din domeniul radiocomunicațiilor;
+g) sã se supunã imediat cerințelor conținute în somația
+transmisã de cãtre direcțiile teritoriale ale R.A. I.G.C. în
+cazul apariției unor perturbații radioelectrice sau a unor
+abateri de la prevederile permisului sau de la
+reglementãrile în vigoare din domeniul radiocomunicațiilor și
+sã ia mãsurile necesare pentru remedierea imediatã a deficiențelor apãrute;
+h) sã achite tarifele în vigoare.
+Art. 10. Ñ Permisul se retrage în urmãtoarele cazuri:
+a) la cererea titularului;
+b) prin pierderea de cãtre titular a statutului de persoanã juridicã românã;
+c) prin nerespectarea oricãror obligații dintre cele
+prevãzute la art. 9.
+Art. 11. Ñ (1) Nerespectarea prevederilor prezentului
+ordin se sancționeazã potrivit legislației în vigoare.
+(2) Responsabilitatea respectãrii prevederilor reglementãrilor în vigoare din domeniul radiocomunicațiilor revine
+în exclusivitate titularului permisului.
+Art. 12. Ñ Anexele nr. 1Ñ4 fac parte integrantã din
+prezentul ordin.
+Art. 13. Ñ Prevederile prezentului ordin se completeazã
+cu normele în vigoare existente în domeniu.
+Art. 14. Ñ (1) Prezentul ordin intrã în vigoare la data
+publicãrii în Monitorul Oficial al României, Partea I.
+Publicarea lui se va face prin grija Agenției Naționale pentru Comunicații și Informaticã.
+(2) Prezentul ordin va fi adus la îndeplinire de cãtre
+R.A. I.G.C.
+
+Președintele Agenției Naționale pentru Comunicații și Informaticã,
+prof. dr. ing. Sergiu Stelian Iliescu
+București, 4 iunie 1999.
+Nr. 189.
+ANEXA Nr. 1
+REGLEMENTARE TEHNICÃ PENTRU STAÞIILE PMR 446
+
+1. Scopul
+Prezenta reglementare tehnicã stabilește condițiile
+tehnice obligatorii pe care trebuie sã le respecte stațiile
+PMR 446.
+2. Domeniul de aplicare
+Prezenta reglementare tehnicã se aplicã stațiilor PMR
+446 care se instaleazã, se utilizeazã și se comercializeazã
+în România, precum și la autorizarea de tip a acestora.
+3. Caracteristicile tehnice electrice și constructive pe
+care trebuie sã le respecte stațiile PMR 446 sunt cele
+conținute în standardul:
+SR ETS 300 296: ”Echipamente și sisteme de radiocomunicații; Serviciul mobil terestru; Caracteristici tehnice și
+condiții de testare pentru echipamente de radiocomunicații
+cu antenã încorporatã și destinate în principal transmisiilor
+vocale,,,
+cu urmãtoarele condiții:
+3.1. Frecvențe de lucru:
+446,03125 MHz
+446,04375 MHz
+
+446,05625 MHz
+446,06875 MHz
+446,08125 MHz.
+3.2. Putere efectiv radiatã: maximum 0,5 W.
+3.3. Tip de modulație: modulație de frecvențã.
+3.4. Ecart între canale adiacente: 12,5 kHz.
+3.5. Antenã încorporatã.
+3.6. Stațiile trebuie sã fie astfel construite încât sã nu
+permitã funcționarea pe alte frecvențe decât cele specificate
+la pct. 3.1.
+4. Cerințele referitoare la certificarea stațiilor PMR 446:
+Certificarea de cãtre R.A. I.G.C. a conformitãții cu prevederile SR ETS 300 296 referitoare la emițãtorul stației
+este obligatorie. Pentru atestarea respectãrii prevederilor
+standardului sus-menționat, referitoare la receptor, se
+admite declarația de conformitate a producãtorului echipamentului respectiv.
+
+3
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 548 bis/9.XI.1999
+ANEXA Nr. 2
+
+ROMÂNIA
+AGENÞIA NAÞIONALÃ PENTRU COMUNICAÞII ȘI INFORMATICÃ
+
+Regia Autonomã ”Inspectoratul General al Comunicațiilor,,
+Direcția teritorialã ..............................................................
+PERMIS DE UTILIZARE PENTRU STAÞII PMR 446
+
+nr. ........ din .........
+TITULARUL .........................................................................................................................................
+(denumirea persoanei juridice)
+
+Sediul ....................................................................................................................................................
+(adresa)
+
+Numãrul și data înmatriculãrii la Registrul comerțului ....................................................................
+este autorizat sã utilizeze stația/stațiile de radiocomunicații PMR 446:
+Tipul stației
+
+Fabricantul, țara de fabricație
+
+Seria
+
+Indicativul de apel
+
+Stațiile urmeazã sã fie utilizate:
+A. în zonele:
+1. ................................... 3. ..............................
+2. ................................... 4. ..............................
+B. pe întreg teritoriul țãrii.
+Utilizarea stațiilor PMR 446 este permisã în condițiile respectãrii reglementãrilor în vigoare în
+domeniul radiocomunicațiilor și achitãrii tarifelor cãtre Regia Autonomã ”Inspectoratul General al
+Comunicațiilor,,.
+Valabilitate: ............
+Director,
+................................
+Vize de prelungire
+pânã la ............
+
+Mențiuni ulterioare:
+Anexa nr. ........./ .......
+
+ANEXA Nr. 3
+REPARTIZAREA
+
+județelor pe direcțiile teritoriale ale Regiei Autonome ”Inspectoratul General al Comunicațiilor,,
+
+Direcția teritorialã
+JUDEÞUL
+
+ALBA
+ARAD
+ARGEȘ
+BACÃU
+BIHOR
+BISTRIÞA-NÃSÃUD
+BOTOȘANI
+BRÃILA
+BRAȘOV
+BUZÃU
+
+București
+
+Cluj
+
+Iași
+
+Timișoara
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 548 bis/9.XI.1999
+Direcția teritorialã
+JUDEÞUL
+
+CÃLÃRAȘI
+CARAȘ-SEVERIN
+CLUJ
+CONSTANÞA
+COVASNA
+DÂMBOVIÞA
+DOLJ
+GIURGIU
+GALAÞI
+GORJ
+HARGHITA
+HUNEDOARA
+IALOMIÞA
+IAȘI
+ILFOV
+MARAMUREȘ
+MEHEDINÞI
+MUREȘ
+NEAMÞ
+OLT
+PRAHOVA
+SÃLAJ
+SATU MARE
+SIBIU
+SUCEAVA
+TELEORMAN
+TIMIȘ
+TULCEA
+VASLUI
+VÂLCEA
+VRANCEA
+BUCUREȘTI
+
+București
+
+Cluj
+
+Iași
+
+Timișoara
+
+5
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 548 bis/9.XI.1999
+ANEXA Nr. 4
+
+MODEL
+
+de cerere în vederea eliberãrii permisului de utilizare pentru stațiile PMR 446
+
+Cãtre
+Direcția teritorialã ........................................
+a Regiei Autonome ”Inspectoratul General al Comunicațiilor,,
+
+Subsemnata:
+
+Denumirea firmei
+Sediul firmei
+Telefon/Fax
+Numãrul de înregistrare la registrul comerțului
+Responsabil cu radiocomunicațiile
+
+vã rog a-mi elibera permisul de utilizare a stației/stațiilor PMR 446 cu urmãtoarele caracteristici:
+Tipul stației
+
+Fabricantul/țara
+
+Seria stației
+
+Zona de utilizare
+
+Indicativul de apel
+
+Declar cã am luat cunoștințã de reglementãrile în vigoare privind radiocomunicațiile, inclusiv de
+cele referitoare la tarifele aplicate, și mã angajez sã le respect cu strictețe.
+Prezenta cerere ține loc de contract.
+
+Numele și calitatea semnatarului*):
+.........................................................
+.........................................................
+Semnãtura: ....................................
+Ștampila: ........................................
+
+NOTÃ:
+
+Se anexeazã fotocopia de pe certificatul de înmatriculare la registrul comerțului.
+*) Cererea trebuie sã fie semnatã de persoana împuternicitã legal sã reprezinte persoana juridicã care solicitã
+permisul de utilizare a stațiilor PMR 446.
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 548 bis/9.XI.1999
+
+AGENÞIA NAÞIONALÃ PENTRU COMUNICAÞII ȘI INFORMATICÃ
+
+ORDIN
+pentru aprobarea Regulamentului stațiilor de radiocomunicații
+din serviciul mobil terestru în banda de frecvențe 26.960Ñ27.410 kHz
+Președintele Agenției Naționale pentru Comunicații și Informaticã,
+în baza Legii telecomunicațiilor nr. 74/1996, cu modificãrile ulterioare, și a Hotãrârii Guvernului nr. 153/1997 privind înființarea Regiei Autonome ”Inspectoratul General al Comunicațiilor,,, prin reorganizarea Regiei Autonome
+”Inspectoratul General al Radiocomunicațiilor,,,
+în baza Hotãrârii Guvernului nr. 890/1994 privind stabilirea și sancționarea contravențiilor în domeniul radiocomunicațiilor și al protecției radioelectrice,
+în temeiul Hotãrârii Guvernului nr. 973/1998 privind organizarea și funcționarea Agenției Naționale pentru
+Comunicații și Informaticã,
+emite prezentul ordin.
+Art. 1. Ñ Se aprobã Regulamentul stațiilor de radiocomunicații din serviciul mobil terestru în banda de frecvențe
+26.960Ñ27.410 kHz, prevãzut în anexa care face parte
+integrantã din prezentul ordin.
+Art. 2. Ñ (1) Autorizațiile de tip pentru stațiile CB,
+emise în conformitate cu reglementãrile anterioare, ale
+cãror parametri tehnici corespund prevederilor prezentului
+ordin, trebuie reactualizate, la cererea titularilor, în termen
+de 90 de zile de la data intrãrii în vigoare a prezentului
+ordin. Depãșirea termenului atrage pierderea valabilitãții
+autorizațiilor respective.
+(2) Autorizațiile de tip pentru stațiile CB ale cãror parametri tehnici nu corespund prevederilor prezentului ordin, își
+pierd valabilitatea în termen de 60 de zile de la data
+intrãrii în vigoare a acestuia.
+(3) Permisele de utilizare, prevãzute de regulamentul
+aprobat prin prezentul ordin, pentru stațiile CB care au fost
+procurate în baza autorizațiilor de tip prevãzute la alineatul
+precedent mai pot fi emise în cel mult 120 de zile de la
+data intrãrii în vigoare a prezentului ordin.
+
+vențe 26.960Ñ27.410 kHz își pierd valabilitatea în termen
+de 6 luni de la data intrãrii în vigoare a prezentului ordin,
+dacã nu sunt înlocuite, la cererea titularului, cu permisele
+de utilizare prevãzute în regulamentul aprobat prin prezentul ordin.
+Art. 4. Ñ Stațiile CB cu modulație de amplitudine și
+putere de emisie mai mare de 1 W, care sunt în funcțiune
+la data intrãrii în vigoare a prezentului ordin, pot funcționa
+pânã la data de 31 decembrie 2005, în condițiile prevãzute
+la art. 3 și cu respectarea prevederilor regulamentului aprobat prin prezentul ordin.
+Art. 5. Ñ Prevederile prezentului ordin se completeazã
+cu normele în vigoare existente în domeniu.
+Art. 6. Ñ (1) Prezentul ordin intrã în vigoare la data
+publicãrii lui în Monitorul Oficial al României, Partea I.
+Publicarea lui se face prin grija Agenției Naționale pentru
+Comunicații și Informaticã.
+
+(2) Prevederile prezentului ordin vor fi aduse la îndeplinire de cãtre Regia Autonomã ”Inspectoratul General al
+Art. 3. Ñ Autorizațiile tehnice de funcționare a stațiilor
+de radiocomunicații care funcționeazã în banda de frec- Comunicațiilor,,.
+Președintele Agenției Naționale pentru Comunicații și Informaticã,
+prof. dr. ing. Sergiu Stelian Iliescu
+București, 4 iunie 1999.
+Nr. 190.
+ANEXÃ
+REGULAMENTUL
+
+stațiilor de radiocomunicații din serviciul mobil terestru în banda de frecvențe 26.960 Ñ 27.410 kHz
+CAPITOLUL I
+Dispoziții generale
+Art. 1. Ñ Prezentul regulament stabilește condițiile tehnice și administrative în care sunt permise în România
+instalarea și utilizarea stațiilor de radiocomunicații din servi-
+
+ciul mobil terestru care funcționeazã în banda 26.960 Ñ
+27.410 kHz.
+Banda de frecvențe 26.960 Ñ 27.410 kHz, cu excepția
+frecvențelor 26.995 kHz, 27.045 kHz, 27.095 kHz,
+27.145 kHz și 27.195 kHz, din serviciul mobil terestru,
+denumitã și ”banda cetãțeanului,, (CB), este destinatã radio-
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 548 bis/9.XI.1999
+comunicațiilor mobile pe distanțe scurte, în scop utilitar,
+recreativ sau profesional.
+Stațiile de radiocomunicații care funcționeazã în aceastã
+bandã vor fi denumite în continuare stații CB.
+
+7
+
+Art. 2. Ñ Canalele radioelectrice prestabilite pentru
+stațiile CB și frecvențele centrale ale acestora sunt
+urmãtoarele:
+
+Numãrul canalului
+
+Frecvența centralã
+
+Numãrul canalului
+
+1
+
+26.965 kHz
+
+21
+
+27.215 kHz
+
+2
+
+26.975 kHz
+
+22
+
+27.225 kHz
+
+3
+
+26.985 kHz
+
+23
+
+27.235 kHz
+
+4
+
+27.005 kHz
+
+24
+
+27.245 kHz
+
+5
+
+27.015 kHz
+
+25
+
+27.255 kHz
+
+6
+
+27.025 kHz
+
+26
+
+27.265 kHz
+
+7
+
+27.035 kHz
+
+27
+
+27.275 kHz
+
+8
+
+27.055 kHz
+
+28
+
+27.285 kHz
+
+9
+
+27.065 kHz
+
+29
+
+27.295 kHz
+
+10
+
+27.075 kHz
+
+30
+
+27.305 kHz
+
+11
+
+27.085 kHz
+
+31
+
+27.315 kHz
+
+12
+
+27.105 kHz
+
+32
+
+27.325 kHz
+
+13
+
+27.115 kHz
+
+33
+
+27.335 kHz
+
+14
+
+27.125 kHz
+
+34
+
+27.345 kHz
+
+15
+
+27.135 kHz
+
+35
+
+27.355 kHz
+
+16
+
+27.155 kHz
+
+36
+
+27.365 kHz
+
+17
+
+27.165 kHz
+
+37
+
+27.375 kHz
+
+18
+
+27.175 kHz
+
+38
+
+27.385 kHz
+
+19
+
+27.185 kHz
+
+39
+
+27.395 kHz
+
+20
+
+27.205 kHz
+
+40
+
+27.405 kHz
+
+Oricare dintre canalele radioelectrice sus-menționate este
+utilizat în comun cu alți utilizatori.
+Canalul nr. 9 este destinat în exclusivitate pentru comunicații de urgențã.
+Tipurile de modulație permise pentru stațiile CB sunt:
+modulația de frecvențã (MF Ñ clasã de emisie F3E) și
+modulația de amplitudine cu dublã bandã lateralã (MA Ñ
+clasã de emisie A3E).
+Alocarea oricãrui canal, în vederea utilizãrii proprii sau
+exclusive, pentru o anumitã stație CB sau un grup de
+stații CB, precum și pentru un anumit tip de modulație,
+este interzisã.
+Puterea purtãtoarei de radiofrecvențã maxim admisibilã
+la borna de antenã, în funcție de tipul de modulație utilizat,
+este:
+Ñ 4W pentru MF;
+Ñ 1W pentru MA.
+Art. 3. Ñ Stațiile CB nu beneficiazã de protecție radioelectricã, neasigurându-se nici o garanție asupra eventuale-
+
+Frecvența centralã
+
+lor perturbații prejudiciabile ale comunicațiilor desfãșurate
+prin intermediul acestora.
+Stațiile CB nu trebuie sã producã perturbații stațiilor de
+radiocomunicații care funcționeazã autorizat sau instalațiilor
+de recepție pentru radiodifuziune.
+Art. 4. Ñ Nu este permisã furnizarea unui serviciu de
+telecomunicații prin intermediul stațiilor CB.
+
+CAPITOLUL II
+Cerințe constructive referitoare la stațiile CB
+Art. 5. Ñ Stațiile CB care se comercializeazã, se instaleazã sau se utilizeazã în România trebuie sã respecte
+prevederile reglementãrilor tehnice din anexa nr. 1 la prezentul regulament și trebuie sã fie autorizate ca tip de
+cãtre Regia Autonomã ”Inspectoratul General al
+Comunicațiilor,, (denumitã în continuare R.A. I.G.C.), din
+punct de vedere al conformitãții cu acestea.
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 548 bis/9.XI.1999
+
+Stațiile CB care corespund Deciziei Comitetului
+European de Radiocomunicații ERC/DEC/(96)02 și sunt
+marcate ”CEPT PR 27 Y,,, în care Y este unul dintre simbolurile prevãzute în anexa nr. 2 la prezentul regulament,
+pot fi instalate și utilizate în condițiile obținerii permisului
+prevãzut de prezentul regulament fãrã certificarea R.A. I.G.C.
+Este interzisã efectuarea oricãrei modificãri interne asupra unei stații CB autorizate. Orice modificare internã anuleazã documentul de autorizare ca tip al stației.
+Art. 6. Ñ Stațiile CB trebuie sã fie construite astfel
+încât sã fie respectate urmãtoarele condiții:
+a) dispozitivele de control, a cãror manevrare greșitã
+poate conduce la creșterea potențialului de interferențã al
+stației sau la funcționarea improprie a emițãtorului acesteia,
+sã nu fie accesibile utilizatorului;
+b) sã nu fie prevãzute cu dispozitive care sã permitã
+conectarea unor amplificatoare externe în vederea creșterii
+puterii de emisie;
+c) sã nu permitã funcționarea pe alte canale radioelectrice fațã de cele precizate la art. 2;
+d) acționarea în regim de emisie sã se realizeze prin
+comutatoare fãrã autoblocare sau prin dispozitive de
+comandã prin voce fãrã autoblocare. În acest ultim caz
+comanda nu trebuie sã fie activatã de zgomotul ambiant;
+e) sã funcționeze numai în modul de lucru simplex și
+sã nu permitã retransmiterea semnalelor recepționate;
+f) sã deconecteze automat un alt echipament de
+recepție cu care stația este interconectatã (de exemplu:
+receptorul auto), pe durata funcționãrii în regim de emisie
+a stației CB;
+g) marcajul sã fie aplicat într-un loc ușor accesibil, sã
+fie lizibil și durabil.
+
+CAPITOLUL III
+Dispoziții privind instalarea stațiilor CB
+Art. 7. Ñ Stațiile CB pot fi instalate pe întreg teritoriul
+României, precum și pe navele maritime sau fluviale care
+se deplaseazã în apele teritoriale române.
+Stațiile CB pot fi instalate, de asemenea, la bordul
+oricãrui vehicul terestru.
+Este interzisã instalarea stațiilor CB la bordul aeronavelor sau la o distanțã mai micã de 500 m fațã de zona de
+delimitare a aeroporturilor.
+Art. 8. Ñ Stațiile CB trebuie sã fie montate astfel încât
+sã poatã fi accesate cu ușurințã în cazul controalelor efectuate de cãtre organismele împuternicite în acest sens.
+Art. 9. Ñ În scopul limitãrii perturbațiilor radioelectrice,
+la instalarea stațiilor CB este interzisã utilizarea antenelor
+direcționale și/sau cu câștig, iar puterea aparent radiatã nu
+trebuie sã depãșeascã 4W pentru stații CB cu MF și 1W
+pentru stații CB cu MA.
+În același scop se vor respecta urmãtoarele condiții:
+
+Ñ cel mai înalt punct al antenei unei stații CB fixe nu
+trebuie sã depãșeascã 20 m fațã de nivelul terenului, în
+cazul instalãrii pe pilon;
+Ñ antena unei stații CB fixe nu va fi montatã la o
+înãlțime mai mare de 5 m fațã de cel mai înalt punct al
+clãdirii pe care se instaleazã;
+Ñ antena unei stații CB nu se monteazã la o distanțã
+mai micã de 20 m fațã de cea mai apropiatã antenã de
+recepție a programelor de radiodifuziune sonorã sau de
+televiziune și în apropierea antenelor altor stații de radiocomunicații sau distribuitoare ale rețelelor de distribuție a programelor audiovizuale prin cablu.
+Art. 10. Ñ Este interzisã conectarea stațiilor CB la orice
+rețea publicã sau independentã de telecomunicații.
+Art. 11. Ñ Este interzisã instalarea stațiilor CB în vederea retransmiterii semnalelor recepționate.
+Art. 12. Ñ Este interzisã conectarea stațiilor CB la orice
+dispozitiv de amplificare a puterii RF de emisie.
+Art. 13. Ñ La instalarea stațiilor CB, inclusiv a antenelor aferente, se vor respecta toate normativele referitoare
+la instalații electrice și la siguranța persoanelor și bunurilor.
+
+CAPITOLUL IV
+Utilizarea stațiilor CB
+Art. 14. Ñ Pentru utilizarea stațiilor CB este obligatorie
+obținerea prealabilã a permisului de utilizare a stațiilor CB,
+denumit în continuare permis, eliberat în acest scop de
+cãtre R.A. I.G.C., prin direcțiile sale teritoriale.
+Formularul permisului este prevãzut în anexa nr. 3 la
+prezentul regulament, iar repartizarea județelor pe direcțiile
+teritoriale ale R.A. I.G.C. este prevãzutã în anexa nr. 4.
+Art. 15. Ñ Permisul nu este necesar în cazul persoanelor care au rezidențã permanentã în alte țãri, care tranziteazã România și care dețin stații CB portabile sau
+mobile, marcate în conformitate cu prevederile art. 5 alin. 2
+(CEPT PR 27 Y).
+Stațiile CB care nu dețin acest marcaj vor fi sigilate la
+punctul de frontierã de cãtre personalul vamal.
+Art. 16. Ñ Titulari ai permiselor pot fi:
+Ñ persoane fizice care au împlinit vârsta de 18 ani;
+Ñ persoane juridice;
+Ñ asociații profesionale non-profit,
+având rezidențã temporarã sau permanentã în România.
+Art. 17. Ñ Permisul se elibereazã în termen de 30 de
+zile, în baza cererii solicitantului, întocmitã conform anexei
+nr. 5 la prezentul regulament, dacã stația care urmeazã sã
+fie utilizatã corespunde cerințelor tehnice prevãzute la art. 5.
+În situația în care stația nu a fost certificatã ca tip de
+cãtre R.A. I.G.C. sau nu are aplicat marcajul CEPT PR 27 Y,
+este necesarã prezentarea stației pentru verificarea conformitãții cu reglementãrile tehnice naționale. Permisul se va
+elibera în condițiile prevãzute la alin. 1, numai dacã rezul-
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 548 bis/9.XI.1999
+tatele mãsurãtorilor sunt favorabile. Costul verificãrilor tehnice se achitã de cãtre solicitant, pe bazã de deviz.
+Art. 18. Ñ Termenul de valabilitate a permisului este de
+5 ani de la data emiterii, cu condiția respectãrii reglementãrilor din domeniul radiocomunicațiilor și a achitãrii
+tarifelor în vigoare.
+Art. 19. Ñ Valabilitatea permisului se poate prelungi
+pentru o nouã perioadã de 5 ani, la cererea titularului, cu
+condiția ca stația utilizatã sã corespundã reglementãrilor
+tehnice în vigoare la data solicitãrii. În acest scop, în
+ultima lunã de valabilitate a permisului și cu cel puțin
+15 zile anterior datei expirãrii acestuia, titularul trebuie sã
+prezinte permisul pentru vizare direcției teritoriale a
+R.A. I.G.C. care l-a emis.
+Art. 20. Ñ Obligativitatea respectãrii prevederilor prezentului regulament revine în exclusivitate titularilor permiselor.
+Art. 21. Ñ Permisul are valabilitate pe întreg teritoriul
+României, inclusiv în apele teritoriale române.
+Art. 22. Ñ În situația în care stațiile CB înscrise în permis sunt utilizate și de alte persoane împuternicite de titular, acesta are obligația sã ia toate mãsurile pentru ca o
+fotocopie de pe permis sã se afle în permanențã la utilizatorul stației. Fotocopia trebuie sã fie vizatã și, în cazul persoanelor juridice, ștampilatã, din punct de vedere al
+conformitãții cu originalul, de cãtre titularul permisului.
+Permisul sau fotocopia de pe acesta trebuie sã fie prezentatã în cazul controalelor efectuate de organele abilitate
+în acest scop.
+Art. 23. Ñ Titularul permisului trebuie sã solicite organului care l-a emis operarea oricãror modificãri asupra
+datelor conținute în permis, înainte de efectuarea acestora.
+Art. 24. Ñ Pentru eliberarea permisului și pentru prelungirea valabilitãții acestuia, precum și pentru eliberarea
+duplicatelor, în cazul pierderii sau deteriorãrii permisului original, titularii trebuie sã achite la R.A. I.G.C. tarifele în
+vigoare.
+Art. 25. Ñ Permisul se retrage, conform prevederilor
+reglementãrilor în vigoare din domeniul radiocomunicațiilor,
+dacã titularul nu se supune somației emise de cãtre
+direcțiile teritoriale ale R.A. I.G.C. și în cazul neachitãrii
+tarifelor datorate.
+
+CAPITOLUL V
+Comunicații permise
+Art. 26. Ñ Stațiile CB pot fi utilizate pentru comunicații
+private, bilaterale și multilaterale, cu caracter utilitar, recreativ sau profesional, precum și pentru comunicații de solidaritate umanã.
+Utilizatorii stațiilor CB au obligația ca înainte de a emite
+sã selecteze și sã foloseascã numai canale libere, în scopul evitãrii perturbãrii convorbirilor în curs de desfãșurare.
+
+9
+
+Art. 27. Ñ Comunicațiile stațiilor CB care participã la
+acțiuni de solidaritate umanã au prioritate fațã de orice
+comunicații ale altor stații CB, în cazul în care sunt implicate siguranța vieților omenești, protecția de bunuri sau
+asistența cãlãtorilor.
+Art. 28. Ñ Comunicațiile prin stații CB trebuie sã se
+desfãșoare exclusiv în fonie, în limbaj clar, fãrã coduri sau
+mesaje codate. Emisia și recepția trebuie sã se efectueze
+pe același canal.
+
+CAPITOLUL VI
+Semnale de identificare
+Art. 29. Ñ Emisiile stațiilor CB trebuie sã fie identificabile prin indicative de apel. Indicativul de apel se înscrie în
+permis.
+Indicativul de apel se transmite la începutul și la
+sfârșitul fiecãrei emisii.
+Art. 30. Ñ Asocierea unui semnal de apel selectiv este
+permisã.
+
+CAPITOLUL VII
+Durata comunicațiilor
+Art. 31. Ñ Durata comunicațiilor desfãșurate prin intermediul stațiilor CB trebuie limitatã la minimul necesar.
+Art. 32. Ñ Regulile privind durata comunicațiilor nu se
+aplicã în situațiile prevãzute la art. 27.
+
+CAPITOLUL VIII
+Comunicații interzise
+Art. 33. Ñ Sunt interzise urmãtoarele categorii de
+comunicații prin stațiile CB:
+a) comunicații legate de orice activitate care contravine
+legilor;
+b) cuvinte și limbaje obscene, indecente sau profanatoare;
+c) interferarea voitã a traficului altor stații;
+d) comunicații pe canale CB în care sunt în curs de
+desfãșurare alte convorbiri, cu excepția situațiilor de
+urgențã;
+e) publicitate sau solicitãri de vânzãri de bunuri sau de
+servicii;
+f) transmisia în direct sau reproducerea de transmisii
+efectuate în alte benzi de frecvențe (de exemplu programe
+radiodifuzate);
+g) transmisii false sau înșelãtoare;
+h) încercarea de a intra în legãturã cu stații aflate la
+distanțe la care este evident cã nu este posibilã comunicarea;
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 548 bis/9.XI.1999
+
+i) publicitate pentru un candidat politic sau pentru o
+campanie electoralã;
+j) comunicații unilaterale, cu excepția situațiilor de
+urgențã și a semnalelor scurte de test;
+k) divulgarea de informații de orice naturã, obținute din
+interceptarea accidentalã a radiocomunicațiilor, cu excepția
+cazurilor prevãzute la art. 27;
+l) transmiterea semnalului ”May Day,, sau a altor indicative internaționale de pericol, cu excepția cazului în care
+stația este instalatã pe o navã sau pe un alt vehicul aflat
+într-o stare iminentã de pericol și este necesar ajutor
+imediat.
+Este interzisã utilizarea stațiilor CB în zona aeroporturilor
+și în vecinãtatea stațiilor de radiodifuziune sonorã și de
+televiziune.
+
+CAPITOLUL IX
+Dispoziții finale
+Art. 34. Ñ În situații de necesitate, calamitãți naturale
+etc. utilizatorii stațiilor CB trebuie sã se conformeze dis-
+
+pozițiilor autoritãților locale, militare și de poliție, precum și
+celor ale autoritãții de reglementare în telecomunicații.
+Art. 35. Ñ Proprietarul sau utilizatorul unei stații CB are
+obligația de a remedia orice defecțiune tehnicã susceptibilã
+de a produce perturbații asupra:
+Ñ echipamentelor și instalațiilor radioelectrice autorizate,
+aparținând altor servicii de radiocomunicații; sau
+Ñ recepției programelor de radiodifuziune sonorã sau
+de televiziune.
+Art. 36. Ñ Direcțiile teritoriale ale R.A. I.G.C. au dreptul
+de a controla, prin recepție sau la locul de instalare a
+stațiilor CB, respectarea prevederilor prezentului regulament.
+Art. 37. Ñ Titularii permiselor sunt obligați sã dea tot
+concursul personalului de control autorizat și sã remedieze
+în termenele fixate deficiențele constatate, inclusiv schimbarea amplasamentului stației, în cazul în care perturbațiile
+radioelectrice datorate emisiei stației CB nu pot fi eliminate
+prin alte mãsuri.
+Art. 38. Ñ Nerespectarea prevederilor prezentului regulament constituie contravenție și se sancționeazã potrivit
+legislației în vigoare.
+Art. 39. Ñ Anexele nr. 1Ñ5 fac parte integrantã din
+prezentul regulament.
+ANEXA Nr. 1
+la regulament
+
+REGLEMENTARE TEHNICÃ PENTRU STAÞIILE CB
+
+1. Scopul
+Prezenta reglementare tehnicã stabilește condițiile tehnice obligatorii pe care trebuie sã le respecte stațiile CB.
+2. Domeniul de aplicare
+Prezenta reglementare tehnicã se aplicã stațiilor CB
+care se instaleazã, se utilizeazã și se comercializeazã în
+România, precum și pentru autorizarea de tip a acestora.
+3. Caracteristicile tehnice electrice și constructive pe
+care trebuie sã le respecte stațiile CB sunt conținute în
+urmãtoarele standarde:
+3.1. Referitoare la spectrul radioelectric:
+SR ETS 300 135: Echipamente și sisteme de radiocomunicații. Echipamente de radiocomunicații din banda CB
+cu modulație de frecvențã. Caracteristici tehnice și metode
+de mãsurã
+și/sau
+SR ETS 300 433: Echipamente și sisteme de radiocomunicații. Echipamente de radiocomunicații din banda CB
+cu modulație de amplitudine cu bandã lateralã dublã și/sau
+bandã lateralã unicã. Caracteristici tehnice și metode de
+mãsurã (numai cerințele referitoare la stațiile CB cu MA Ñ
+dublã bandã lateralã).
+Stațiile CB care pot funcționa cu ambele tipuri de
+modulație (MF și MA Ñ dublã bandã lateralã) trebuie sã
+corespundã ambelor standarde.
+
+3.2. Referitoare la compatibilitatea electromagneticã:
+SR EN 300 680-1: Standard de compatibilitate electromagneticã pentru echipamente de radiocomunicații și auxiliare (voce și/sau nonvoce) în banda CB; Partea I:
+Modulație unghiularã (în cazul stațiilor cu modulație de
+frecvențã), pct. 7.1, 8.1, 8.2 și 8.3.
+și/sau
+SR EN 300 680-2: Standard de compatibilitate
+electromagneticã pentru echipamente de radiocomunicații și
+auxiliare (voce și/sau nonvoce) în banda CB; Partea a II-a:
+cu bandã lateralã dublã și/sau bandã lateralã unicã (în
+cazul stațiilor cu modulație în amplitudine), pct. 7.1, 8.1,
+8.2 și 8.3.
+3.3. Referitoare la securitatea utilizatorilor:
+SR EN 60 950: Securitatea echipamentelor pentru tehnologia informației, inclusiv echipamentele electrice de
+birou.
+4. Cerințele referitoare la certificarea stațiilor CB:
+4.1. Este obligatorie certificarea de cãtre R.A. I.G.C. a
+parametrilor de emisie prevãzuți la pct. 3.1. și a parametrilor prevãzuți la pct. 3.2.
+Pentru atestarea respectãrii parametrilor de recepție
+prevãzuți la pct. 3.1. se admite declarația de conformitate a
+producãtorului echipamentului respectiv.
+4.2. Certificarea condițiilor prevãzute la pct. 3.3. se face
+conform legislației în vigoare.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 548 bis/9.XI.1999
+ANEXA Nr. 2
+la regulament
+CONDIÞII
+
+privind marcajul stațiilor CB ce fac obiectul recomandãrii CEPT T/R 20-09
+Marcajul aplicat pe stațiile CB trebuie sã fie vizibil, ușor identificabil și
+sã aibã forma: CEPT PR 27 Y (în care ”Y,, este simbolul țãrii în care stația
+a fost certificatã).
+Simbolul ”Y,, poate fi urmat de un numãr național de identificare a certificãrii.
+Simbolurile utilizate pentru identificare naționalã sunt urmãtoarele:
+Albania
+Andora
+Austria
+Belgia
+Bosnia-Herțegovina
+Bulgaria
+Cehia
+Cipru
+Croația
+Danemarca
+Elveția
+Estonia
+Finlanda
+Franța
+Germania
+Grecia
+Irlanda
+Islanda
+Italia
+Letonia
+Liechtenstein
+Lituania
+Luxemburg
+Malta
+Macedonia
+Marea Britanie
+Moldova
+Monaco
+Norvegia
+Olanda
+Polonia
+Portugalia
+România
+Rusia
+San Marino
+Slovacia
+Slovenia
+Spania
+Suedia
+Turcia
+Ungaria
+Ucraina
+Vatican
+
+AL
+AND
+A
+B
+BH
+BG
+CZ
+CY
+HR
+DK
+CH
+EST
+SF
+F
+D
+GR
+IRL
+IS
+I
+LV
+FL
+LT
+L
+M
+MK
+GB
+MD
+MC
+N
+NL
+PL
+P
+RO
+RUS
+RSM
+SK
+SLO
+E
+S
+TR
+H
+UA
+SCV
+
+11
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 548 bis/9.XI.1999
+ANEXA Nr. 3
+la regulament
+
+ROMÂNIA
+AGENÞIA NAÞIONALÃ PENTRU COMUNICAÞII ȘI INFORMATICÃ
+
+Regia Autonomã ”Inspectoratul General al Comunicațiilor,,
+Direcția teritorialã ...............................................................
+PERMIS DE UTILIZARE PENTRU STAÞIE CB
+
+nr. ..... din ......
+Titularul ...............................................................................................................................................
+...................................................................................................................................................................
+(persoanã fizicã/juridicã/asociație nonprofit)
+
+Domiciliul/sediul .................................................................................................................................
+..................................................................................................................................................................
+Nrumãrul și data înmatriculãrii la registrul comerțului (dupã caz) ............., este autorizat sã
+utilizeze stația/stațiile de radiocomunicații CB fixe/mobile/portabile specificate în tabelul urmãtor:
+Tipul
+stației
+
+Fabricantul,
+țara de fabricație
+
+Seria
+
+Indicativul
+de apel
+
+Adresa de instalare/
+nr. de înmatriculare a vehiculului
+
+Instalarea și utilizarea stației se vor efectua în condițiile prevãzute de Regulamentul stațiilor
+de radiocomunicații din serviciul mobil terestru în banda de frecvențe de 26.960Ñ27.410 kHz,
+aprobat prin Ordinul președintelui Agenției Naționale pentru Comunicații și Informaticã nr. 190 din
+4 iunie 1999.
+Termen de valabilitate: ........................................ .
+Director,
+.................................
+Vizã de prelungire
+pânã la ............................
+Modificãri ulterioare
+Anexa nr. ...........
+ANEXA Nr. 4
+la regulament
+REPARTIZAREA
+
+județelor pe direcțiile teritoriale ale Regiei Autonome ”Inspectoratul General al Comunicațiilor,,
+
+Direcția teritorialã
+JUDEÞUL
+
+ALBA
+ARAD
+ARGEȘ
+BACÃU
+BIHOR
+BISTRIÞA-NÃSÃUD
+BOTOȘANI
+BRÃILA
+BRAȘOV
+BUZÃU
+
+București
+
+Cluj
+
+Iași
+
+Timișoara
+
+13
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 548 bis/9.XI.1999
+Direcția teritorialã
+JUDEÞUL
+
+CÃLÃRAȘI
+CARAȘ-SEVERIN
+CLUJ
+CONSTANÞA
+COVASNA
+DÂMBOVIÞA
+DOLJ
+GIURGIU
+GALAÞI
+GORJ
+HARGHITA
+HUNEDOARA
+IALOMIÞA
+IAȘI
+ILFOV
+MARAMUREȘ
+MEHEDINÞI
+MUREȘ
+NEAMÞ
+OLT
+PRAHOVA
+SÃLAJ
+SATU MARE
+SIBIU
+SUCEAVA
+TELEORMAN
+TIMIȘ
+TULCEA
+VASLUI
+VÂLCEA
+VRANCEA
+BUCUREȘTI
+
+București
+
+Cluj
+
+Iași
+
+Timișoara
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 548 bis/9.XI.1999
+ANEXA Nr. 5
+la regulament
+CERERE
+
+în vederea eliberãrii permisului de utilizare pentru stațiile CB
+(model)
+Cãtre
+Direcția teritorialã ........................................................................
+a Regiei Autonome ”Inspectoratul General al Comunicațiilor,,
+Subsemnatul,
+Numele/Denumirea firmei/asociației
+Persoanã fizicã/juridicã/
+Asociație nonprofit
+Domiciliul/Sediul firmei/asociației
+Telefon/Fax
+Buletin/carte de identitate/Pașaport (nr./data emiterii)*)
+Numãrul de înmatriculare la registrul comerțului/
+Numãrul hotãrârii judecãtorești de înființare
+vã rog sã-mi eliberați permisul de utilizare a stației/stațiilor CB cu urmãtoarele caracteristici:
+Categoria
+stației
+
+Tipul
+stației
+
+Fabricantul/
+țara
+
+Seria
+stației
+
+Amplasamentul (adresã/
+nr. de înmatriculare)
+
+Indicativul
+de apel
+
+Fixã
+Mobilã
+Portabilã
+Declar cã am luat cunoștințã de reglementãrile în vigoare privind radiocomunicațiile și mã
+angajez sã le respect cu strictețe.
+Prezenta cerere ține loc de contract.
+Numele și calitatea semnatarului**) ............................
+Semnãtura .....................................
+ștampila***) .....................................
+
+NOTÃ:
+
+Se anexeazã fotocopia:
+Ñ de pe buletinul de identitate sau de pe pașaport (în cazul persoanelor fizice);
+Ñ de pe certificatul de înmatriculare la registrul comerțului (în cazul persoanelor juridice)
+sau de pe hotãrârea judecãtoreascã de înființare (în cazul asociațiilor nonprofit).
+***) Pentru persoane fizice.
+***) Cererea trebuie sã fie semnatã de persoana împuternicitã legal sã reprezinte firma/asociația care solicitã permisul de utilizare a stațiilor CB.
+***) Pentru persoane juridice.
+
+R.A.M.O.
+LEGISLAÞIA ROMÂNIEI
+1990 (revizuitã și adãugitã) ...................
+1991 (revizuitã și adãugitã) ...................
+vol. 1/1997 ........................................
+vol. 2/1997 ........................................
+vol. 3/1997 ........................................
+vol. 4/1997 ........................................
+vol. 1/1998 ........................................
+vol. 2/1998 ........................................
+vol. 3/1998 ........................................
+vol. 4/1998 ........................................
+vol. 1/1999 ........................................
+vol. 2/1999 ........................................
+
+38.500 lei
+76.500 lei
+20.310 lei
+24.420 lei
+34.980 lei
+38.310 lei
+37.500 lei
+41.250 lei
+45.400 lei
+49.950 lei
+75.000 lei
+82.500 lei
+
+HOTÃRÂRI
+ALE GUVERNULUI ROMÂNIEI
+vol. 1/1994 ........................................ 13.500 lei
+vol. 2/1994 ........................................ 13.500 lei
+vol. 3/1994 ........................................ 13.500 lei
+vol. 2/1995 ........................................ 14.850 lei
+vol. 3/1995 ........................................ 16.340 lei
+vol. 4/1995 ........................................ 17.980 lei
+vol. 1/1996 ........................................ 27.000 lei
+vol. 2/1996 ........................................ 29.700 lei
+vol. 3/1996 ........................................ 32.670 lei
+vol. 4/1996 ........................................ 35.900 lei
+vol. 1/1997 ........................................ 40.500 lei
+vol. 2/1997 ........................................ 44.550 lei
+vol. 3/1997 ........................................ 73.500 lei
+vol. 4/1997 ........................................ 80.850 lei
+vol. 1/1998 ........................................ 26.500 lei
+vol. 2/1998 ........................................ 26.500 lei
+vol. 3/1998 ........................................ 27.000 lei
+vol. 4/1998 ........................................ 29.000 lei
+vol. 5/1998 ........................................ 29.000 lei
+vol. 6/1998 ........................................ 30.000 lei
+vol. 7/1998 ........................................ 32.300 lei
+vol. 8/1998 ........................................ 32.300 lei
+vol. 9/1998 ........................................ 32.200 lei
+vol. 10/1998 ...................................... 35.500 lei
+vol. 11/1998 ...................................... 35.500 lei
+vol. 12/1998 ...................................... 35.500 lei
+vol. 1/1999 ........................................ 53.330 lei
+vol. 2/1999 ........................................ 53.330 lei
+vol. 3/1999 ........................................ 53.340 lei
+vol. 4/1999 ........................................ 58.660 lei
+vol. 5/1999 ........................................ 58.660 lei
+CONSTITUÞIA ROMÂNIEI
+(ediție de buzunar)
+Limba românã ......................................... 2.800 lei
+Limba francezã........................................... 650 lei
+Limba englezã......................................... 1.050 lei
+
+publicã pentru tine
+REGIA AUTONOMÃ MONITORUL OFICIAL
+Telefon: 402.21.75 Fax: 312.09.01
+E-mail: ramomrk@bx.logicnet.ro
+Internet: www.monitoruloficial.ro
+
+LEGISLAÞIE TEMATICÃ
+Legislație privind notarii publici și avocații* .......................................................................................................................................................................... 4.000 lei
+Legislație privind asigurãrile și reasigurãrile ........................................................................................................................................................................ 10.500 lei
+Legislație privind telecomunicațiile .................................................................................................................................................................................... 30.000 lei
+Legislația bancarã........................................................................................................................................................................................................... 10.000 lei
+Legislație privind turismul ................................................................................................................................................................................................ 30.350 lei
+Legislație privind protecția proprietãții industriale ................................................................................................................................................................ 17.100 lei
+Legislație privind drepturile de autor.................................................................................................................................................................................. 11.700 lei
+Legislație economicã*....................................................................................................................................................................................................... 3.510 lei
+Legislație vamalã ........................................................................................................................................................................................................... 16.100 lei
+Legislație privind cadastrul și publicitatea imobiliarã............................................................................................................................................................. 15.000 lei
+Legislație privind evidența populației................................................................................................................................................................................... 6.100 lei
+Legislație privind actele de stare civilã ................................................................................................................................................................................. 9.100 lei
+Legislație privind asociațiile și fundațiile............................................................................................................................................................................. 61.950 lei
+Legislație privind prevenirea și stingerea incendiilor ............................................................................................................................................................. 13.200 lei
+Legislație privind amortizarea capitalului imobilizat în active corporale și necorporale*............................................................................................................. 19.700 lei
+Mãsuri de protecție privind concedierile colective de personal în urma programelor de restructurare*............................................................................................ 2.700 lei
+Statutul personalului vamal................................................................................................................................................................................................ 8.800 lei
+Reglementãri privind activitatea de metrologie ................................................................................................................................................................... 11.200 lei
+Reglementãri privind experții contabili și contabilii autorizați................................................................................................................................................... 8.700 lei
+Reglementãri privind registrul agricol................................................................................................................................................................................... 4.500 lei
+Prescripții tehnice privind tarifele I.S.C.I.R. ........................................................................................................................................................................... 8.500 lei
+Normativ experimental pentru proiectarea și execuția sistemelor de distribuție a gazelor naturale cu conducte de polietilenã........................................................... 4.700 lei
+Reglementãri valutare ale B.N.R......................................................................................................................................................................................... 9.000 lei
+Metodologia formãrii continue a personalului didactic din învãțãmântul preuniversitar ................................................................................................................ 7.000 lei
+Inspecția tehnicã periodicã la vehiculele rutiere................................................................................................................................................................... 10.500 lei
+Infracțiuni în legi speciale ................................................................................................................................................................................................ 28.000 lei
+Codul penal și Codul de procedurã penalã .......................................................................................................................................................................... 40.000 lei
+Codul comercial.............................................................................................................................................................................................................. 45.500 lei
+NOUTÃÞI EDITORIALE
+Legislație privind jocurile de noroc....................................................................................................................................................................................... 7.800 lei
+Legislație în domeniul asistenței medicale.......................................................................................................................................................................... 28.000 lei
+Legislație privind normele de medicina muncii .................................................................................................................................................................... 16.000 lei
+Legislație privind dezvoltarea regionalã a României și regimul zonelor defavorizate................................................................................................................. 17.550 lei
+Legislația viei și vinului.................................................................................................................................................................................................... 18.650 lei
+Reglementãri privind circulația pe drumurile publice............................................................................................................................................................... 7.800 lei
+Legislație în domeniul silviculturii și protecția vânatului ........................................................................................................................................................ 31.100 lei
+Reglementãri privind concesionãrile în domeniul sanitar-veterinar .......................................................................................................................................... 10.200 lei
+Legislație privind investițiile directe și dezvoltarea activitãții economice.................................................................................................................................... 8.500 lei
+Legislație privind achizițiile publice.................................................................................................................................................................................... 37.200 lei
+EDIÞII TRILINGVE (limbile românã, francezã, englezã)
+Legea învãțãmântului*.................................................................................................................................................................................................... 11.000 lei
+Reglementãri privind locuințele trecute în proprietatea statului................................................................................................................................................ 7.400 lei
+Organizarea și funcționarea Consiliului Legislativ................................................................................................................................................................... 6.330 lei
+Legea fondului funciar. Legea cadastrului și a publicitãții imobiliare*........................................................................................................................................ 9.350 lei
+Alegeri parlamentare și prezidențiale. Partide politice ............................................................................................................................................................ 7.200 lei
+Legea privind dreptul de autor și drepturile conexe................................................................................................................................................................ 5.800 lei
+Legea privind procedura reorganizãrii și lichidãrii judiciare*..................................................................................................................................................... 6.600 lei
+Legea apelor.................................................................................................................................................................................................................. 10.500 lei
+Legea privind organizarea și funcționarea Consiliului Economic și Social ................................................................................................................................... 2.600 lei
+Amenajarea teritoriului național........................................................................................................................................................................................ 16.600 lei
+Societãți comerciale. Registrul comerțului .......................................................................................................................................................................... 20.200 lei
+Legislația bancarã........................................................................................................................................................................................................... 21.200 lei
+Avocatul Poporului.......................................................................................................................................................................................................... 18.100 lei
+Legea viei și vinului ........................................................................................................................................................................................................ 77.000 lei
+Legislație privind dezvoltarea regionalã în România și regimul zonelor defavorizate ................................................................................................................ 46.250 lei
+Legislație privind investițiile directe și dezvoltarea activitãții economice....................................................................................................................................16.400 lei
+
+* Broșura cuprinde și acte normative neactualizate, acestea fiind modificate sau abrogate dupã data tipãririi. Actualizarea lor se va face într-o ediție viitoare.
+
+ALTE PUBLICAÞII
+Geneza Constituției României................................................................................................................. 140.000 lei
+Adrian Nãstase Ð Ideea politicã a schimbãrii ................................................................................................ 5.000 lei
+Constituțiile române.................................................................................................................................. 5.500 lei
+Adrian Nãstase Ð Drept internațional economic........................................................................................... 14.000 lei
+Decizii ale Curții Constituționale 1994......................................................................................................... 5.500 lei
+Valericã Dabu Ð Polițiști, procurori, judecãtori între lege și fãrãdelege............................................................ 12.000 lei
+Decizii ale Curții Constituționale 1996 ...................................................................................................... 24.650 lei
+Gheorghe Iancu Ð Drepturile fundamentale și protecția mediului................................................................... 23.100 lei
+Decizii ale Curții Constituționale 1997 ...................................................................................................... 48.000 lei
+Gheorghe Iancu Ð Sisteme electorale........................................................................................................ 15.750 lei
+Decizii ale Curții Constituționale 1998 ...................................................................................................... 96.000 lei
+Album România Ð Panoramic (limbile românã, englezã, francezã) ............................................................. 175.000 lei
+Jurisprudența Curții Constituționale 1992Ñ1997 ..................................................................................... 30.000 lei
+Album România Ð Panoramic (limbile românã, germanã, englezã)............................................................. 175.000 lei
+Jurisprudența Curții Constituționale 1 ian.Ð30 iun. 1998 ............................................................................ 28.000 lei
+Actele publicate în Monitorul Oficial al României, Partea I Ð 22 decembrie 1989Ð31 ianuarie 1999.............. 120.000 lei
+Nicolae Ivanciu-Vãleanu Ð Tratat de doctrine economice .............................................................................. 13.500 lei
+Dacã oferta noastrã prezinã interes, așteptãm comenzi ferme prin fax: 312.09.01/312.47.03 sau E-mail: ramomrk@bx.logicnet.ro.
+
+R.A.M.O.
+
+în pas cu timpul
+REGIA AUTONOMÃ MONITORUL OFICIAL
+Telefon: 402.21.53 Fax: 312.09.01
+E-mail: ramomrk@bx.logicnet.ro
+Internet: www.monitoruloficial.ro
+
+NOUTATE
+Abonamentele la Monitorul Oficial al României pe suport neconvențional sau la distanțã vã oferã în totalitate actele publicate în
+Partea I, Partea I numere bis și Partea a II-a ale publicației oficiale a statului.
+OPERATIVITATE
+Transmiterea monitoarelor oficiale se face electronic, la câteva ore de la apariție. Informațiile transmise sunt protejate și se
+asigurã fidelitate completã. Fișierele cu informația legislativã sunt de tip PDF și se citesc cu Acrobat Reader.
+ACCESIBILITATE
+Prețul unui abonament anual la Monitorul Oficial al României, Partea I și Partea I numere bis, este de 140 USD pentru un
+echipament de tip server sau monopost. În condițiile în care dispuneți de rețea, pentru fiecare utilizator final contravaloarea prestației
+este de 6 USD/lunã, acordându-se o reducere de 20% pentru o rețea cu mai mult de cinci stații de lucru.
+Prețul unui abonament anual la Monitorul Oficial al României, Partea a II-a, care cuprinde stenogramele ședințelor parlamentare,
+este de 135 USD.
+Un abonament se poate încheia pe orice perioadã de timp din cadrul anului calendaristic.
+
+DIVERSITATE
+Prin aceleași mijloace multimedia R.A.M.O. oferã:
+• colecțiile de legi din anii 1990 și 1991, revizuite și adãugite, 1993, vol. 2 și vol. 4, 1994, vol. 2, vol. 3 și colecțiile de
+hotãrâri din anul 1994, vol. 1, vol. 2A-2B, vol. 3A-3B (270 USD)
+• monitoarele oficiale Partea I, sau Partea a II-a, din perioada 1 octombrie 1994Ð31 decembrie 1998 (246 USD)
+• monitoarele oficiale aferente oricãrui an din perioada 1995Ð1998 (62 USD)
+• lucrarea editatã de R.A.M.O. ”Actele publicate în Monitorul Oficial al României, Partea I, 22 decembrie 1989 Ð
+31 ianuarie 1999,, (43 USD)
+• selecții de monitoare oficiale, Partea I sau Partea a II-a (0,02 USD/pag.)
+• selecții din monitoarele oficiale, Partea I, ale diferitelor acte legislative (0,04 USD/pag.)
+• legislație în limbi strãine, editatã de R.A.M.O. (a se vedea colecția trilingvã).
+
+Plata se face în lei, la cursul de schimb din ziua efectuãrii plãții. Prețurile includ T.V.A.
+
+LEGISLAÞIE TEMATICÃ pe suport electronic
+• Legislație privind jocurile de noroc ............................................................................................................................... 2,32
+• Legislație în domeniul asistenței medicale..................................................................................................................... 7,76
+• Legislație privind normele de medicina muncii ............................................................................................................... 3,48
+• Legislație privind dezvoltarea regionalã a României și regimul zonelor defavorizate............................................................ 3,72
+• Legislația viei și vinului .............................................................................................................................................. 4,28
+• Reglementãri privind circulația pe drumurile publice........................................................................................................ 2,32
+• Legislație în domeniul silviculturii și protecției vânatului .................................................................................................. 9,08
+• Legislație privind investițiile directe și dezvoltarea activitãții economice............................................................................... 0,7
+• Reglementãri privind concesionãrile în domeniul sanitar-veterinar .......................................................................................1,36
+
+USD
+USD
+USD
+USD
+USD
+USD
+USD
+USD
+USD
+
+Preț în dolari/versiune
+
+COLECÞII TRILINGVE pe suport electronic
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Lege privind organizarea și funcționarea Societãții Române de Radiodifuziune și a Societãții Române de Televiziune*
+Ordinea publicã, apãrarea și siguranța naționalã
+Consiliul Legislativ. Curtea Supremã de Justiție
+Contractul de management. Selecționarea și numirea managerilor*
+Reglementãri privind regimul investițiilor strãine*
+Legea învãțãmântului*
+Lege privind valorile mobiliare și bursele de valori*
+Legea protecției mediului
+Reglementãri privind locuințele trecute în proprietatea statului
+Reglementãri privind administrația publicã localã și alegerile locale
+Organizarea și funcționarea Consiliului Legislativ
+Legea fondului funciar. Legea cadastrului și a publicitãții imobiliare*
+Alegeri parlamentare și prezidențiale. Partide politice
+Legea privind dreptul de autor și drepturile conexe
+Lege privind procedura reorganizãrii și lichidãrii judiciare*
+Lege privind desfãșurarea în siguranțã a activitãților nucleare
+Legea apelor
+Lege privind organizarea și funcționarea Consiliului Economic și Social
+Legea privind desfãșurarea în siguranțã a activitãților nucleare
+Amenajarea teritoriului național
+Societãți comerciale. Registrul comerțului
+Legislație bancarã
+Avocatul Poporului
+Dezvoltarea regionalã în România
+Proprietatea publicã și concesiunile
+Prevenirea și sancționarea spãlãrii banilor
+
+românã
+
+francezã
+
+englezã
+
+1,2
+1,96
+1,8
+1,6
+2,44
+2,36
+2,08
+1,72
+3,08
+3,16
+1,8
+2,36
+3,04
+2,08
+1,44
+1,08
+2,36
+0,28
+1,12
+0,52
+3,6
+2,88
+1,36
+0,32
+0,96
+0,4
+
+2,48
+4,4
+4
+3,6
+5,28
+5,36
+4,64
+3,76
+6,4
+7,52
+3,76
+5,2
+6,72
+4,4
+3,04
+2,48
+5,44
+
+2,56
+4,32
+4,08
+3,6
+5,2
+4,64
+4,48
+3,6
+6,64
+7,44
+3,76
+4,96
+6,56
+4,24
+2,96
+2,4
+5,12
+0,56
+2,48
+1,04
+7,68
+6,16
+2,88
+0,72
+2,08
+0,8
+
+1,04
+7,84
+6,24
+2,8
+0,8
+2,08
+0,8
+
+germanã
+
+rusã
+
+5,44
+
+2,48
+
+* Broșura cuprinde și acte normative neactualizate, acestea fiind modificate sau abrogate dupã data tipãririi. Actualizarea lor se va face într-o ediție viitoare.
+Dacã oferta noastrã prezintã interes, așteptãm comenzi ferme prin fax: 312.09.01/312.47.03 sau E-mail: ramomrk@bx.logicnet.ro.
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 64690427282 Banca Comercialã Românã Ñ S.A., sectorul 5.
+Adresa pentru publicitate : Serviciul relații cu publicul și agenții economici, București,
+Str. Blanduziei nr. 1, sectorul 2, telefon 211.57.30.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: ramomrk@bx.logicnet.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 548 bis/9.XI.1999 conține16 pagini.
+
+Prețul 1.712 lei
+
+ISSN 1453Ñ4495
+
+

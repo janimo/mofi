@@ -1,0 +1,3028 @@
+PARTEA
+
+Anul 174 (XVIII) — Nr. 322
+
+I
+
+Luni, 10 aprilie 2006
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+LEGI ȘI DECRETE
+
+55.
+
+— Lege privind siguranța feroviară .........................
+
+1–15
+
+315.
+
+— Decret pentru promulgarea Legii privind siguranța
+feroviară .....................................................................
+
+15
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+215.
+
+389.
+
+— Ordin al ministrului economiei și comerțului
+privind aprobarea nivelului tarifelor percepute în
+anul 2006 de Centrul Român pentru Promovarea
+Comerțului ..................................................................
+
+15–24
+
+— Ordin al ministrului transporturilor, construcțiilor și
+turismului pentru aprobarea sistemului de inspecții
+obligatorii la navele de tip feribot Ro-Ro, precum
+și la navele de pasageri de mare viteză care
+operează în serviciu regulat.....................................
+
+24–32
+
+LEGI
+
+ȘI
+
+DECRETE
+
+PARLAMENTUL ROMÂNIEI
+CAMERA DEPUTAȚILOR
+
+SENATUL
+
+LEGE
+privind siguranța feroviară
+Parlamentul României adoptă prezenta lege.
+CAPITOLUL I
+Dispoziții introductive
+ARTICOLUL 1
+Obiectul legii
+
+Obiectul prezentei legi este de a asigura dezvoltarea și
+îmbunătățirea siguranței pe căile ferate române și un acces
+îmbunătățit la piață pentru serviciile de transport feroviar,
+prin:
+
+a) armonizarea cadrului de reglementare cu cel al
+statelor membre ale Uniunii Europene;
+b) definirea responsabilităților participanților;
+c) transpunerea în regulile naționale de siguranță a
+obiectivelor de siguranță comune și a metodelor de
+siguranță comune;
+d) instituirea în România a unei autorități de siguranță
+feroviară și a unui organism de investigare a accidentelor
+și incidentelor feroviare;
+e) definirea unor principii comune pentru gestionarea,
+reglementarea și controlul siguranței feroviare.
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+ARTICOLUL 2
+Domeniu de aplicare
+
+(1) Prezenta lege se aplică sistemului feroviar din
+România, care poate fi subdivizat în subsisteme pentru
+domenii de natură structurală și funcțională. Aceasta
+acoperă cerințele de siguranță pentru sistem ca întreg,
+inclusiv administrarea sigură a infrastructurii și a traficului
+feroviar, precum și interacțiunea dintre operatorii de
+transport feroviar și administratorii de infrastructură.
+(2) Prezenta lege nu se aplică:
+a) metrourilor, tramvaielor și altor sisteme feroviare
+urbane;
+b) rețelelor care funcțional sunt separate de restul
+sistemului feroviar și care sunt destinate numai exploatării
+unor servicii de călători locale, urbane sau suburbane,
+precum și operatorilor de transport feroviar care
+funcționează exclusiv pe aceste rețele;
+c) infrastructurii feroviare private, care este utilizată
+numai de proprietarul infrastructurii pentru propriile sale
+operațiuni de transport de mărfuri.
+(3) Controlul privind siguranța circulației pentru rețelele
+de transport, prevăzute la alin. (2), se asigură de
+Autoritatea Feroviară Română — AFER, în conformitate cu
+prevederile Ordonanței Guvernului nr. 95/1998 privind
+înființarea unor instituții publice în subordinea Ministerului
+Transporturilor, Construcțiilor și Turismului, aprobată cu
+modificări și completări prin Legea nr. 3/2002, cu
+modificările și completările ulterioare.
+ARTICOLUL 3
+Definiții
+
+În sensul prezentei legi, termenii și expresiile de mai jos
+au următoarele semnificații:
+a) sistem feroviar — totalitatea subsistemelor pentru
+zone structurale și operaționale, prevăzute în Hotărârea
+Guvernului nr. 850/2003 privind interoperabilitatea sistemului
+de transport feroviar convențional din România cu sistemul
+de transport feroviar convențional transeuropean și în
+Hotărârea
+Guvernului
+nr.
+1.533/2003
+privind
+interoperabilitatea sistemului de transport feroviar de mare
+viteză, precum și gestionarea și exploatarea sistemului ca
+întreg;
+b) administratorul infrastructurii — orice organism sau
+orice agent economic care are ca obiect principal de
+activitate administrarea și întreținerea infrastructurii
+feroviare, prevăzut la art. 1 alin. (10) din Ordonanța de
+urgență a Guvernului nr. 12/1998 privind transportul pe
+căile ferate române și reorganizarea Societății Naționale a
+Căilor Ferate Române, republicată, cu modificările și
+completările ulterioare, incluzând și administrarea sistemelor
+de conducere a circulației, de control și de siguranță a
+infrastructurii. Funcțiile administratorului de infrastructură de
+pe o rețea sau o parte a unei rețele pot fi alocate, în
+conformitate cu reglementările în vigoare, mai multor
+organisme sau agenți economici;
+c) operator de transport feroviar — orice agent economic
+cu capital de stat sau privat, prevăzut la art. 2 din
+Ordonanța Guvernului nr. 89/2003 privind alocarea
+capacităților de infrastructură feroviară, tarifarea utilizării
+infrastructurii feroviare și certificarea în materie de
+siguranță, aprobată cu modificări și completări prin Legea
+nr. 8/2004, a cărui activitate principală constă în efectuarea
+de prestații de transport de marfă și/sau de călători pe
+calea ferată, tracțiunea fiind asigurată în mod obligatoriu de
+acest agent economic. Acest termen include, de
+
+asemenea, și agenții economici care asigură numai
+tracțiunea;
+d) specificație tehnică pentru interoperabilitate, denumită
+în continuare S.T.I. — specificația care se referă la un
+subsistem sau parte a unui subsistem, cu scopul de a
+satisface cerințele esențiale și de a asigura
+interoperabilitatea la nivelul sistemelor de transport feroviar
+transeuropean de mare viteză și convențional, prevăzute în
+Hotărârea Guvernului nr. 850/2003 și în Hotărârea
+Guvernului nr. 1.533/2003;
+e) obiective de siguranță comune, denumite în continuare
+O.S.C. — nivelurile de siguranță care trebuie cel puțin
+atinse de diferite părți ale sistemului feroviar, cum ar fi
+sistemul feroviar convențional, sistemul feroviar de mare
+viteză, tunelurile feroviare lungi sau liniile utilizate exclusiv
+pentru transportul de mărfuri, precum și de sistem ca
+întreg, exprimate în criterii de acceptare a riscurilor;
+f) metode de siguranță comune, denumite în continuare
+M.S.C. — metodele ce trebuie elaborate pentru descrierea
+modului de evaluare a nivelurilor de siguranță, realizării
+obiectivelor de siguranță și a conformității cu alte cerințe
+de siguranță;
+g) autoritate de siguranță — organismul național
+răspunzător de sarcinile referitoare la siguranța feroviară în
+conformitate cu prezenta lege sau orice organism binațional
+căruia România și un stat membru al Uniunii Europene
+i-au încredințat aceste sarcini pentru a asigura un regim de
+siguranță unificat pentru infrastructurile specializate
+transfrontaliere;
+h) norme naționale de siguranță — toate normele
+cuprinzând cerințe de siguranță feroviară impuse la nivel
+național în România și aplicabile la mai mult de un
+operator de transport feroviar, indiferent de organismul
+emitent;
+i) sistem de management al siguranței — organizarea și
+aranjamentele stabilite de un administrator de infrastructură
+sau de un operator de transport feroviar pentru a asigura
+administrarea sigură a operațiunilor sale;
+j) investigator principal — o persoană responsabilă de
+organizarea, conducerea și controlul desfășurării unei
+investigații;
+k) investigator — persoana care desfășoară activitatea
+de investigare;
+l) accident — un eveniment neprevăzut, nedorit sau
+neintenționat ori un lanț specific de asemenea evenimente,
+care are consecințe dăunătoare. Accidentele se împart în
+următoarele categorii distincte: coliziuni, deraieri, accidente
+la treceri de nivel, accidentări ale persoanelor produse de
+materialul rulant în mișcare, incendii și altele;
+m) accident grav — orice coliziune sau deraiere de
+trenuri, ducând la decesul a cel puțin o persoană sau la
+vătămarea gravă a 5 sau mai multe persoane ori
+producând pagube importante ale materialului rulant,
+infrastructurii sau mediului și orice alt accident similar cu
+un impact evident asupra reglementării siguranței feroviare
+sau asupra gestionării siguranței;
+n) pagube importante — pagubele care pot fi evaluate
+imediat de organismul de investigare la un total de cel
+puțin 2 milioane euro;
+o) incident — orice eveniment, altul decât un accident
+sau un accident grav, asociat cu exploatarea trenurilor și
+afectând siguranța în exploatare;
+p) investigație — un proces desfășurat în scopul
+prevenirii accidentelor și incidentelor, care include
+strângerea și analizarea informațiilor, stabilirea condițiilor,
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+inclusiv determinarea cauzelor și, dacă este cazul, emiterea
+unor recomandări de siguranță;
+q) cauze — acțiuni, omisiuni, evenimente sau condiții
+ori o combinație a acestora, care au dus la accident sau
+incident;
+r) Agenția Feroviară Europeană — agenția Uniunii
+Europene pentru siguranță feroviară și interoperabilitate;
+s) organisme notificate — organismele care sunt
+responsabile cu evaluarea conformității sau a aptitudinii de
+utilizare a constituenților de interoperabilitate ori cu
+evaluarea procedurii Comisiei Europene pentru verificarea
+subsistemelor, prevăzute în Hotărârea Guvernului
+nr. 850/2003 și în Hotărârea Guvernului nr. 1.533/2003;
+t) constituenți de interoperabilitate — orice componentă
+elementară, grup de componente, subasamblu sau
+ansamblu complet de echipamente încorporate ori destinate
+încorporării într-un subsistem de care depinde, direct sau
+indirect, interoperabilitatea sistemului feroviar de mare
+viteză ori convențional, prevăzute în Hotărârea Guvernului
+nr. 850/2003 și în Hotărârea Guvernului nr. 1.533/2003.
+Conceptul de constituent acoperă atât obiectele corporale,
+cât și cele incorporale, cum ar fi programele de calculator.
+u) sistem feroviar urban — orice sistem de transport pe
+șine, altul decât metroul și tramvaiul, destinat transportului
+public local, exclusiv în perimetrul unei localități.
+CAPITOLUL II
+Dezvoltarea și managementul siguranței
+ARTICOLUL 4
+Dezvoltarea și îmbunătățirea siguranței feroviare
+
+(1) Siguranța feroviară este în general menținută și,
+când este posibil din punct de vedere practic, îmbunătățită
+în mod continuu, ținând seama de dezvoltarea legislației
+comunitare și de progresul tehnic și științific și acordând
+prioritate prevenirii accidentelor grave. Normele de
+siguranță sunt stabilite, aplicate și respectate în mod
+deschis și nediscriminatoriu, susținând dezvoltarea unui
+sistem unic de transport feroviar european.
+(2) Măsurile de dezvoltare și îmbunătățire a siguranței
+feroviare țin seama de necesitatea unei abordări sistemice.
+(3) Responsabilitatea exploatării sigure a sistemului
+feroviar și a controlului riscurilor asociate cu acesta
+aparține administratorilor de infrastructură și operatorilor de
+transport feroviar, care au obligația să pună în aplicare
+măsurile necesare de control al riscurilor, dacă este cazul
+în cooperare, să aplice normele și standardele naționale de
+siguranță, precum și să instituie sisteme de management
+al siguranței, în conformitate cu prezenta lege. Fără să
+aducă atingere răspunderii civile, în conformitate cu
+cerințele legale în vigoare, fiecare administrator de
+infrastructură și fiecare operator de transport feroviar sunt
+responsabili de partea lor de sistem și de exploatarea în
+siguranță a acestuia, inclusiv de aprovizionarea cu
+materiale și contractarea de servicii, față de utilizatori,
+clienți, lucrătorii implicați și terți.
+(4) Prevederile alin. (3) nu aduc atingere răspunderii
+fiecărui producător, furnizor de întreținere, deținător de
+vagoane, prestator de servicii și fiecărei entități achizitoare,
+legate de asigurarea faptului că materialul rulant, instalațiile,
+accesoriile, echipamentele și serviciile furnizate de aceștia
+respectă cerințele și condițiile de utilizare specificate, astfel
+încât pot fi puse în funcțiune în mod sigur de operatorul
+de transport feroviar și/sau de administratorul de infrastructură.
+ARTICOLUL 5
+Indicatori de siguranță comuni
+
+(1) Prin raportul anual al autorității de siguranță
+prevăzut la art. 18 se colectează informații privind
+
+3
+
+indicatorii de siguranță comuni, denumiți în continuare
+I.S.C., în vederea facilitării evaluării atingerii O.S.C. și
+pentru a permite monitorizarea evoluției generale a
+siguranței feroviare. Primul an de referință pentru I.S.C.
+este 2006, aceștia urmând să fie cuprinși în raportul anual
+pentru anul următor. I.S.C. sunt stabiliți în conformitate cu
+anexa nr. 1.
+(2) Înainte de 30 aprilie 2009 anexa nr. 1 va fi revizuită
+în conformitate cu procedura prevăzută la art. 27 alin. (2),
+în special pentru a include definiții comune ale I.S.C. și
+metode comune de calculare a costurilor accidentelor.
+ARTICOLUL 6
+Metode de siguranță comune
+
+(1) Un prim set de M.S.C., acoperind cel puțin metodele
+descrise la alin. (3) lit. a), va fi adoptat de Comisia
+Europeană înainte de 30 aprilie 2008, în conformitate cu
+procedura prevăzută la art. 27 alin. (2), și se va publica în
+Jurnalul Oficial al Uniunii Europene. Un al doilea set de
+M.S.C. acoperind restul de metode descrise la alin. (3) va
+fi adoptat de Comisia Europeană înainte de 30 aprilie
+2010, în conformitate cu procedura prevăzută la art. 27
+alin. (2), și se va publica în Jurnalul Oficial al Uniunii
+Europene.
+(2) Proiectele de M.S.C. și proiectele de M.S.C.
+revizuite sunt elaborate de Agenția Feroviară Europeană, în
+temeiul mandatelor care sunt adoptate în conformitate cu
+procedura prevăzută la art. 27 alin. (2). Proiectele de
+M.S.C. se bazează pe o examinare a metodelor existente
+în statele membre ale Uniunii Europene.
+(3) M.S.C. descriu modul în care nivelul de siguranță și
+atingerea obiectivelor de siguranță, precum și conformitatea
+cu alte cerințe de siguranță sunt evaluate prin elaborarea
+și definirea următoarelor elemente:
+a) metode de evaluare a riscurilor;
+b) metode de evaluare a conformității cu cerințele din
+certificatele de siguranță și autorizațiile de siguranță, emise
+în conformitate cu art. 10 și 11;
+c) în măsura în care nu sunt încă acoperite de S.T.I.,
+metode pentru a verifica dacă subsistemele structurale ale
+sistemelor feroviare transeuropene de mare viteză și
+convenționale sunt exploatate și întreținute în conformitate
+cu cerințele esențiale relevante.
+(4) M.S.C. sunt revizuite la intervale regulate, în
+conformitate cu procedura prevăzută la art. 27 alin. (2),
+ținând seama de experiența dobândită din aplicarea lor și
+de dezvoltarea globală a securității feroviare și a obligațiilor
+statelor membre.
+(5) Ministerul Transporturilor, Construcțiilor și Turismului
+aprobă sau propune spre aprobare, după caz, orice
+modificări necesare la normele naționale de siguranță,
+ținând seama de adoptarea și revizuirea M.S.C.
+(6) M.S.C. prevăzute la alin. (1) se transpun în legislația
+națională, se aprobă prin ordin al ministrului transporturilor,
+construcțiilor și turismului și se publică în Monitorul Oficial
+al României, Partea I.
+ARTICOLUL 7
+Obiective de siguranță comune
+
+(1) O.S.C. sunt elaborate, adoptate și revizuite în
+conformitate cu procedurile stabilite în prezentul articol.
+(2) Proiectele de O.S.C. și proiectele de O.S.C. revizuite
+sunt elaborate de Agenția Feroviară Europeană, în temeiul
+mandatelor care sunt adoptate în conformitate cu
+procedura prevăzută la art. 27 alin. (2).
+(3) Primul set de proiecte de O.S.C. se bazează pe o
+examinare a obiectivelor existente și a performanțelor în
+domeniul siguranței din statele membre și asigură că
+performanțele de siguranță actuale ale sistemului feroviar
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+
+nu sunt reduse în nici un stat membru al Uniunii
+Europene. Acestea vor fi adoptate de Comisia Europeană
+înainte de 30 aprilie 2009, în conformitate cu procedura
+prevăzută la art. 27 alin. (2), și vor fi publicate în Jurnalul
+Oficial al Uniunii Europene. Al doilea set de proiecte de
+O.S.C. se bazează pe experiența câștigată cu primul set
+de O.S.C. și din punerea sa în aplicare. Acestea reflectă
+domeniile prioritare în care trebuie îmbunătățite condițiile de
+siguranță și vor fi adoptate de Comisia Europeană înainte
+de 30 aprilie 2011, în conformitate cu procedura prevăzută
+la art. 27 alin. (2), și vor fi publicate în Jurnalul Oficial al
+Uniunii Europene. Toate propunerile de proiecte de O.S.C.
+și O.S.C. revizuite reflectă obligațiile statelor membre.
+Aceste propuneri sunt însoțite de o evaluare a costurilor și
+beneficiilor estimate, indicând impactul lor probabil pentru
+toți operatorii și operatorii economici implicați, precum și
+impactul lor în ceea ce privește acceptarea riscului în
+societate. Propunerile conțin un calendar de punere în
+aplicare graduală, dacă este cazul, în special pentru a se
+ține seama de natura și amploarea investițiilor necesare
+pentru aplicarea acestora. Acestea analizează impactul
+posibil asupra S.T.I. pentru subsisteme și cuprind, dacă
+este cazul, propuneri de modificare a S.T.I.
+(4) O.S.C. definesc nivelurile de siguranță care trebuie
+cel puțin atinse de diferite părți ale sistemului feroviar și
+de sistem ca întreg în fiecare stat membru al Uniunii
+Europene, exprimate în criterii de acceptare a riscului
+vizând:
+a) riscuri individuale referitoare la călători, personal,
+inclusiv personalul contractanților, utilizatorii trecerilor de
+nivel și alții și, fără să aducă atingere normelor naționale și
+internaționale existente în materie de răspundere, riscuri
+individuale la care sunt expuse persoanele neautorizate în
+incinta instalațiilor feroviare;
+b) riscuri sociale.
+(5) O.S.C. sunt revizuite la intervale regulate, în
+conformitate cu procedura prevăzută la art. 27 alin. (2),
+ținând seama de evoluția generală a siguranței feroviare.
+(6) Ministerul Transporturilor, Construcțiilor și Turismului
+aprobă prin ordin al ministrului transporturilor, construcțiilor
+și turismului sau propune spre aprobare, după caz,
+modificările necesare la normele naționale de siguranță,
+pentru a atinge cel puțin O.S.C. și orice O.S.C. revizuite,
+în conformitate cu calendarul de punere în aplicare anexat
+acestora. Ministerul Transporturilor, Construcțiilor și
+Turismului notifică aceste norme Comisiei Europene, în
+conformitate cu art. 8 alin. (3) și (4).
+(7) O.S.C. prevăzute la alin. (3) și (5) se transpun în
+legislația națională, fiind aprobate prin ordin al ministrului
+transporturilor, construcțiilor și turismului, și se publică în
+Monitorul Oficial al României, Partea I.
+ARTICOLUL 8
+Norme naționale de siguranță
+
+(1) În aplicarea prezentei legi, se vor stabili norme
+naționale de siguranță cu caracter obligatoriu, care vor fi
+publicate și puse la dispoziția tuturor administratorilor de
+infrastructură, operatorilor de transport feroviar, solicitanților
+de certificat de siguranță și solicitanților unei autorizații de
+siguranță, într-un limbaj clar care poate fi accesibil părților
+în cauză.
+(2) Înainte de aderarea la Uniunea Europeană, România
+notifică Comisiei Europene cu privire la toate normele
+naționale de siguranță în vigoare, stabilite în anexa nr. 2,
+și indică domeniul lor de aplicare și informațiile cu privire
+la conținutul principal al normelor, cu trimitere la textele
+
+juridice, forma legislației și la organismul sau organizația
+responsabilă de publicarea sa.
+(3) Cel târziu până la 30 aprilie 2008 Agenția Feroviară
+Europeană evaluează modul în care normele naționale de
+siguranță sunt publicate și aduse la cunoștință, în
+conformitate cu dispozițiile alin. (1), și face recomandările
+corespunzătoare către Comisia Europeană pentru
+publicarea acestora, pentru a face mai ușor accesibile
+informațiile relevante.
+(4) România notifică imediat Comisiei Europeane cu
+privire la orice modificare a normelor naționale de siguranță
+și cu privire la orice asemenea normă nouă care ar putea
+fi adoptată, cu excepția cazului în care norma se referă în
+întregime la punerea în aplicare a S.T.I.
+(5) Pentru a limita la minimum introducerea unor norme
+naționale specifice noi și astfel pentru a împiedica crearea
+altor bariere, precum și în vederea armonizării treptate a
+normelor de siguranță, Comisia Europeană monitorizează
+introducerea de către statele membre a unor noi norme
+naționale.
+(6) În cazul în care, după adoptarea S.T.I., România
+intenționează să introducă o normă națională de siguranță
+nouă, care necesită un nivel de siguranță mai ridicat decât
+S.T.I., ori dacă intenționează să introducă o normă
+națională de siguranță nouă, care poate afecta operațiunile
+operatorilor de transport feroviar din alte state membre ale
+Uniunii Europene pe teritoriul României, România consultă
+toate părțile interesate în timp util și se aplică procedura
+de la alin. (7).
+(7) În cazul introducerii pentru examinare a unui proiect
+de normă națională de siguranță nouă, Ministerul
+Transporturilor, Construcțiilor și Turismului, la propunerea
+Autorității de Siguranță Feroviară Română, o prezintă
+Comisiei Europene, explicând motivele introducerii acesteia,
+procedându-se astfel:
+a) dacă Comisia Europeană constată că proiectul de
+normă națională de siguranță este incompatibil cu M.S.C.
+sau cu atingerea cel puțin a O.S.C. ori că reprezintă un
+mijloc de discriminare arbitrară sau o restricție deghizată
+asupra operațiunilor de transport feroviar între statele
+membre ale Uniunii Europene, este adoptată o decizie,
+adresată României, în conformitate cu procedura prevăzută
+la art. 27 alin. (2);
+b) în cazul în care Comisia Europeană are îndoieli
+serioase cu privire la compatibilitatea proiectului de normă
+națională de siguranță cu M.S.C. sau cu atingerea cel
+puțin a O.S.C. ori consideră că aceasta reprezintă un
+mijloc de discriminare arbitrară sau o restricție deghizată
+asupra operațiunilor de transport feroviar între statele
+membre, Comisia Europeană notifică imediat România,
+care suspendă adoptarea, intrarea în vigoare sau punerea
+în aplicare a normei până la adoptarea unei decizii, într-o
+perioadă de 6 luni, în conformitate cu procedura prevăzută
+la art. 27 alin. (2).
+ARTICOLUL 9
+Sisteme de management al siguranței
+
+(1) Administratorii de infrastructură și operatorii de
+transport feroviar își stabilesc propriile sisteme de
+management al siguranței pentru a se asigura că sistemul
+feroviar poate atinge cel puțin O.S.C., că este în
+conformitate cu normele naționale de siguranță obligatorii
+prevăzute la art. 8 și în anexa nr. 2, precum și cu
+cerințele de siguranță descrise în S.T.I. și că sunt aplicate
+părțile relevante din M.S.C.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+(2) Sistemul de management al siguranței îndeplinește
+cerințele și cuprinde elementele prevăzute în anexa nr. 3,
+adaptate la caracterul, întinderea și celelalte caracteristici
+ale activității desfășurate. Acesta asigură controlul tuturor
+riscurilor asociate cu activitatea administratorului de
+infrastructură sau a operatorului de transport feroviar,
+inclusiv furnizarea de lucrări de întreținere, de material și
+utilizarea contractanților. Fără a aduce atingere normelor
+naționale și internaționale existente în materie de
+răspundere, sistemul de management al siguranței ia, de
+asemenea,
+în considerare, după caz și în limita
+rezonabilului, riscurile ce decurg din activitățile altor părți.
+(3) Sistemul de management al siguranței al oricărui
+administrator de infrastructură ține seama de efectele
+operațiunilor diferiților operatori de transport feroviar asupra
+rețelei și cuprinde dispoziții care permit tuturor operatorilor
+de transport feroviar să funcționeze în conformitate cu
+S.T.I., cu normele naționale de siguranță și în condițiile
+stabilite de certificatul lor de siguranță. De asemenea,
+acesta este conceput în scopul de a coordona procedurile
+de urgență ale administratorului de infrastructură cu toți
+operatorii de transport feroviar care funcționează pe
+infrastructura sa.
+(4) Toți administratorii de infrastructură și operatorii de
+transport feroviar prezintă anual autorității de siguranță,
+înainte de 30 iunie, un raport referitor la anul calendaristic
+precedent. Raportul de siguranță conține:
+a) informații privind modul în care sunt atinse obiectivele
+de siguranță ale administratorului de infrastructură sau ale
+operatorului de transport feroviar și rezultatele planului de
+siguranță;
+b) elaborarea indicatorilor de siguranță naționali și a
+I.S.C. prevăzuți în anexa nr. 1, în măsura în care este
+relevant pentru organizația raportoare;
+c) rezultatele auditurilor de siguranță interne;
+d) observații privind insuficiențele și defecțiunile de
+funcționare ale operațiunilor feroviare și ale administrării
+infrastructurii, care pot prezenta interes pentru autoritatea
+de siguranță.
+CAPITOLUL III
+Certificarea și autorizarea de siguranță
+ARTICOLUL 10
+Certificate de siguranță
+
+(1) Pentru a i se acorda acces la infrastructura
+feroviară, un operator de transport feroviar trebuie să
+dețină un certificat de siguranță, prevăzut în prezentul
+capitol. Certificatul de siguranță poate acoperi întreaga
+rețea feroviară din România sau numai o parte determinată
+a acesteia. Scopul certificatului de siguranță este de a
+dovedi că operatorul de transport feroviar și-a instituit
+sistemul de management al siguranței și poate îndeplini
+cerințele stabilite în S.T.I., în altă legislație comunitară
+relevantă, precum și normele de siguranță naționale pentru
+a controla riscurile și pentru a exploata rețeaua în
+siguranță.
+(2) Certificatul de siguranță cuprinde:
+a) o certificare confirmând acceptarea sistemului de
+management al siguranței al operatorului de transport
+feroviar, prevăzut la art. 9 și în anexa nr. 3;
+b) o certificare confirmând acceptarea dispozițiilor
+adoptate de operatorul de transport feroviar pentru a
+îndeplini cerințele specifice necesare pentru funcționarea
+sigură a rețelei implicate. Cerințele pot viza aplicarea S.T.I.
+
+5
+
+și a normelor naționale de siguranță, acceptarea
+certificatelor personalului și autorizarea de admitere în
+circulație a materialului rulant utilizat de operatorul de
+transport feroviar. Certificarea se bazează pe documentația
+prezentată de operatorul de transport feroviar, prevăzută în
+anexa nr. 4.
+(3) Autoritatea de Siguranță Feroviară Română acordă
+certificarea în conformitate cu alin. (2) pentru operatorii de
+transport feroviar care își stabilesc prima dată activitățile pe
+teritoriul României. Certificarea acordată în conformitate cu
+alin. (2) trebuie să specifice tipul și întinderea operațiunilor
+feroviare acoperite. Certificarea acordată în conformitate cu
+alin. (2) lit. a) este valabilă în întreaga Comunitate
+Europeană, pentru operațiuni echivalente de transport
+feroviar.
+(4) Autoritatea de Siguranță Feroviară Română acordă
+suplimentar o certificare în conformitate cu alin. (2) lit. b)
+în cazul în care un operator de transport feroviar
+intenționează să presteze suplimentar un alt serviciu de
+transport feroviar.
+(5) Certificatul de siguranță este reînnoit, la cererea
+operatorului de transport feroviar, la intervale care nu
+depășesc 5 ani și este actualizat în întregime sau parțial la
+fiecare modificare substanțială a tipului sau extinderii
+operațiunii. Deținătorul certificatului de siguranță informează
+fără întârziere Autoritatea de Siguranță Feroviară Română
+cu privire la toate modificările majore aduse condițiilor părții
+relevante a certificatului de siguranță și notifică Autoritatea
+de Siguranță Feroviară Română la orice introducere de
+categorii noi de personal sau de tipuri noi de material
+rulant. Autoritatea de Siguranță Feroviară Română poate
+cere ca partea relevantă a certificatului de siguranță să fie
+revizuită în urma unor modificări substanțiale ale cadrului
+de reglementare în domeniul siguranței. Dacă Autoritatea
+de Siguranță Feroviară Română constată că deținătorul
+certificatului de siguranță nu mai îndeplinește condițiile
+pentru o certificare emisă, revocă partea a) și/sau b) a
+certificatului de siguranță, motivându-și decizia. Dacă
+Autoritatea de Siguranță Feroviară Română a revocat o
+certificare națională suplimentară, acordată în conformitate
+cu alin. (4), informează prompt autoritatea de siguranță
+care a acordat certificarea în conformitate cu alin. (2) lit. a)
+din decizia sa. Autoritatea de Siguranță Feroviară Română
+trebuie să revoce un certificat de siguranță dacă este
+evident că deținătorul certificatului de siguranță nu l-a
+utilizat conform destinației în anul următor emiterii sale.
+(6) Autoritatea de Siguranță Feroviară Română
+informează Agenția Feroviară Europeană în termen de o
+lună cu privire la certificatele de siguranță prevăzute la
+alin. (2) lit. a), care au fost emise, reînnoite, modificate
+sau revocate, menționând denumirea și adresa operatorului
+de transport feroviar, data emiterii, domeniul de aplicare și
+valabilitatea certificatului de siguranță și, în caz de
+revocare, motivele deciziei sale.
+(7) Înainte de 30 aprilie 2009 Agenția Feroviară
+Europeană evaluează certificarea de siguranță și prezintă
+Comisiei Europene un raport cu recomandări privind
+strategia de trecere la un certificat de siguranță comunitar
+unic. Comisia Europeană ia măsuri corespunzătoare pe
+baza recomandării.
+ARTICOLUL 11
+Autorizarea de siguranță a administratorilor de infrastructură
+
+(1) Administratorii de infrastructură din România trebuie
+să obțină o autorizație de siguranță emisă de Autoritatea
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+
+de Siguranță Feroviară Română, care le permite să
+gestioneze și să exploateze o infrastructură feroviară.
+(2) Autorizația de siguranță cuprinde:
+a) acceptarea sistemului de management al siguranței al
+administratorului de infrastructură, prevăzut la art. 9 și în
+anexa nr. 3;
+b) acceptarea dispozițiilor adoptate de administratorul de
+infrastructură pentru îndeplinirea cerințelor specifice
+necesare pentru garantarea siguranței infrastructurii
+feroviare la nivelul proiectării, întreținerii și exploatării,
+inclusiv, dacă este cazul, al întreținerii și exploatării
+sistemului de control al traficului și de semnalizare.
+(3) Autorizația de siguranță este reînnoită, la cererea
+administratorului de infrastructură, la intervale care nu
+depășesc 5 ani și este actualizată, în întregime sau parțial,
+ori de câte ori au loc modificări substanțiale ale
+infrastructurii, semnalizării, aprovizionării cu energie sau ale
+principiilor de exploatare sau întreținere a acesteia. Titularul
+autorizației de siguranță informează fără întârziere
+Autoritatea de Siguranță Feroviară Română cu privire la
+toate aceste modificări. Autoritatea de Siguranță Feroviară
+Română poate cere ca autorizația de siguranță să fie
+revizuită în urma unor modificări substanțiale ale cadrului
+de reglementare în domeniul siguranței. Dacă Autoritatea
+de Siguranță Feroviară Română constată că un
+administrator de infrastructură autorizat nu mai îndeplinește
+condițiile pentru o autorizație de siguranță, revocă
+autorizația, motivându-și decizia.
+(4) Autoritatea de Siguranță Feroviară Română notifică
+Agenției Feroviare Europene, în termen de o lună,
+emiterea, reînnoirea, modificarea sau revocarea autorizațiilor
+de siguranță, menționând denumirea și adresa
+administratorului de infrastructură, data emiterii, domeniul
+de aplicare, valabilitatea autorizației de siguranță și, în caz
+de revocare, motivele deciziei sale.
+ARTICOLUL 12
+Exigențe privind cererea pentru obținerea certificării
+de siguranță și a autorizării de siguranță
+
+(1) Autoritatea de Siguranță Feroviară Română ia o
+decizie cu privire la cererea de certificare sau de
+autorizare în materie de siguranță, fără întârziere și, în
+orice caz, nu mai târziu de 4 luni de la prezentarea tuturor
+informațiilor necesare și a oricăror informații suplimentare
+pe care le-a solicitat. Dacă solicitantului i se cere să
+prezinte informații suplimentare, aceste informații sunt
+prezentate la termenul solicitat.
+(2) Pentru a facilita înființarea de noi operatori de
+transport feroviar și prezentarea, începând cu data aderării
+României la Uniunea Europeană, de cereri de certificare de
+către operatori de transport feroviar din alte state membre
+ale Uniunii Europene, Autoritatea de Siguranță Feroviară
+Română oferă informații detaliate privind modalitatea de
+obținere a unui certificat de siguranță și întocmește o listă
+a tuturor cerințelor stabilite în sensul art. 10 alin. (2) lit. b),
+punând la dispoziție solicitantului toate documentele
+relevante. Autoritatea de Siguranță Feroviară Română oferă
+îndrumări speciale operatorilor de transport feroviar care
+solicită un certificat de siguranță pentru servicii pe o parte
+limitată, determinată, a infrastructurii, identificând în mod
+special normele care sunt valabile pentru partea în cauză.
+(3) Autoritatea de Siguranță Feroviară Română pune în
+mod gratuit la dispoziție solicitanților un document de
+îndrumare, în care sunt descrise și explicate cerințele
+pentru certificatele de siguranță și sunt enumerate
+documentele care trebuie prezentate. Toate solicitările de
+certificate de siguranță sunt prezentate în limba română.
+
+ARTICOLUL 13
+Acces la serviciile de formare
+
+(1) Operatorii de transport feroviar care solicită un
+certificat de siguranță beneficiază de acces echitabil și
+nediscriminatoriu la serviciile de formare pentru mecanicii
+de tren și personalul care însoțește trenurile, atunci când
+această formare este necesară pentru îndeplinirea cerințelor
+de obținere a certificatului de siguranță. Serviciile oferite
+trebuie să includă formarea privind cunoștințele necesare
+despre rute, normele și procedurile de exploatare, sistemul
+de semnalizare, de control și comandă, precum și
+procedurile de urgență aplicate pe rutele exploatate.
+Administratorii de infrastructură și personalul lor care
+îndeplinește funcții cu responsabilități în siguranța feroviară
+beneficiază de acces echitabil și nediscriminatoriu la
+serviciile de formare. Dacă serviciile de formare nu includ
+examinări și acordarea de certificate, operatorii de transport
+feroviar au acces la certificare, dacă aceasta este o cerință
+a certificatului de siguranță. Autoritatea de Siguranță
+Feroviară Română se asigură că furnizarea de servicii de
+formare sau, dacă este cazul, acordarea de certificate
+îndeplinește cerințele de siguranță stabilite în S.T.I. sau
+normele de siguranță naționale prevăzute în art. 8 și în
+anexa nr. 2.
+(2) Dacă serviciile de formare sunt disponibile numai
+prin intermediul unui singur operator de transport feroviar
+sau prin administratorul de infrastructură, acestea sunt
+puse la dispoziție altor operatori de transport feroviar la un
+preț rezonabil și nediscriminatoriu, care este raportat la
+cost și care poate include o marjă de profit.
+(3) La recrutarea de noi mecanici de tren, de personal
+care însoțește trenurile și de personal care îndeplinește
+funcții cu responsabilități în siguranța feroviară, operatorii
+de transport feroviar trebuie să ia în considerare orice tip
+de formare, calificări și experiență câștigate anterior la alți
+operatori de transport feroviar. În această situație,
+persoanele implicate sunt îndreptățite să aibă acces, să
+obțină copii și să comunice toate documentele care le
+atestă formarea, calificările și experiența.
+(4) În oricare situație fiecare operator de transport
+feroviar și fiecare administrator de infrastructură sunt
+răspunzători de nivelul formării și de calificările personalului
+lor care îndeplinește funcții cu responsabilități în siguranța
+feroviară, în sensul art. 9 și al anexei nr. 3.
+ARTICOLUL 14
+Introducerea în circulație de material rulant utilizat
+
+(1) Începând cu data aderării României la Uniunea
+Europeană, materialul rulant care a fost autorizat să fie
+introdus în circulație într-un stat membru al Uniunii
+Europene, în conformitate cu art. 10 alin. (2) lit. b), și care
+nu este acoperit în întregime de S.T.I. relevante este
+autorizat să fie introdus în circulație în România în
+conformitate cu prezentul articol, dacă a obținut o
+autorizație emisă de Autoritatea de Siguranță Feroviară
+Română.
+(2) Operatorul de transport feroviar care solicită
+autorizația de a admite în circulație material rulant în
+România prezintă un dosar tehnic referitor la materialul
+rulant sau la tipul de material rulant Autorității de Siguranță
+Feroviară Română, indicând utilizarea preconizată pe rețea.
+Dosarul conține următoarele informații:
+a) dovada că materialul rulant a fost autorizat să fie
+introdus în circulație în alt stat membru și documente care
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+indică istoricul exploatării, întreținerii și, dacă este cazul, al
+modificărilor tehnice întreprinse după autorizare;
+b) datele tehnice relevante, programul de întreținere și
+caracteristicile operaționale cerute de Autoritatea de
+Siguranță Feroviară Română și necesare pentru autorizația
+complementară a acesteia;
+c) dovezile privind caracteristicile tehnice și operaționale,
+care arată că materialul rulant este în conformitate cu
+sistemul de alimentare cu energie, sistemul de semnalizare,
+de control și comandă, ecartamentul liniilor și gabaritele
+infrastructurii, sarcina maxim admisă pe osie și cu alte
+constrângeri ale rețelei;
+d) informațiile privind derogările de la normele de
+siguranță naționale care sunt necesare pentru acordarea
+autorizației și dovezile, bazate pe evaluarea riscului,
+indicând că acceptarea materialului rulant nu introduce
+riscuri inutile în rețea.
+(3) Autoritatea de Siguranță Feroviară Română poate
+cere efectuarea de încercări pe rețea pentru a verifica
+conformitatea cu respectivii parametri prevăzuți la alin. (2)
+lit. c) și, în acest caz, prescrie amploarea și conținutul
+acestora.
+(4) Autoritatea de Siguranță Feroviară Română adoptă
+decizia privind o solicitare în conformitate cu prevederile
+prezentului articol, fără întârziere și cel târziu la 4 luni
+după prezentarea dosarului tehnic complet, inclusiv
+documentația încercărilor. Certificatul de autorizare poate
+conține condiții de utilizare și alte restricții.
+ARTICOLUL 15
+Armonizarea certificatelor de siguranță
+
+(1) Deciziile privind cerințele armonizate comune, în
+sensul art. 10 alin. (2) lit. b) și al anexei nr. 4, precum și
+un format comun pentru documentele de îndrumare a
+solicitanților se adoptă înainte de 30 aprilie 2009, în
+conformitate cu procedura prevăzută la art. 27 alin. (2).
+(2) Agenția Feroviară Europeană recomandă cerințe
+armonizate comune și un format comun pentru
+documentele de îndrumare a solicitanților, în temeiul unui
+mandat care este adoptat în conformitate cu procedura
+prevăzută la art. 27 alin. (2).
+CAPITOLUL IV
+Autoritatea de Siguranță Feroviară Română
+ARTICOLUL 16
+Înființare și atribuții
+
+(1) Se înființează Autoritatea de Siguranță Feroviară
+Română, organism independent în cadrul Autorității
+Feroviare Române — AFER, înființată potrivit Ordonanței
+Guvernului nr. 95/1998, aprobată cu modificări și completări
+prin Legea nr. 3/2002, cu modificările și completările
+ulterioare. Autoritatea de Siguranță Feroviară Română este
+independentă, în ceea ce privește organizarea, structura
+juridică și procesul decizional, de orice operator de
+transport feroviar, administrator de infrastructură feroviară,
+solicitant și entitate achizitoare.
+(2) Autoritatea de Siguranță Feroviară Română
+îndeplinește, în principal, următoarele atribuții:
+a) autorizarea punerii în funcțiune a subsistemelor
+structurale constituind sistemul feroviar de mare viteză
+transeuropean, în conformitate cu art. 14 din Hotărârea
+Guvernului nr. 1.533/2003, și verificarea exploatării și
+întreținerii acestora în conformitate cu cerințele esențiale
+relevante;
+
+7
+
+b) autorizarea punerii în funcțiune a subsistemelor
+structurale constituind sistemul feroviar convențional
+transeuropean, în conformitate cu art. 14 din Hotărârea
+Guvernului nr. 850/2003, și verificarea exploatării și
+întreținerii acestora în conformitate cu cerințele esențiale
+relevante;
+c) supravegherea conformității constituenților de
+interoperabilitate cu cerințele esențiale prevăzute la art. 12
+din Hotărârea Guvernului nr. 850/2003 și Hotărârea
+Guvernului nr. 1.533/2003;
+d) autorizarea punerii în funcțiune și a introducerii în
+circulație a unui material rulant nou sau modificat
+substanțial, care încă nu este acoperit de o S.T.I.;
+e) emiterea, reînnoirea, modificarea și revocarea părților
+relevante din certificatele de siguranță și autorizațiile de
+siguranță, acordate în conformitate cu art. 10 și 11, și
+verificarea îndeplinirii condițiilor și cerințelor stabilite în
+acestea și a faptului că administratorii de infrastructură și
+operatorii de transport feroviar funcționează în conformitate
+cu cerințele dreptului comunitar sau național;
+f) monitorizarea, promovarea și, dacă este cazul,
+aplicarea și dezvoltarea cadrului de reglementare în
+domeniul siguranței, inclusiv sistemul de norme naționale
+de siguranță;
+g) supravegherea înregistrării corecte a materialului
+rulant și asigurarea faptului că informațiile privind siguranța
+din registrul național, instituit în conformitate cu art. 14 din
+Hotărârea Guvernului nr. 850/2003 și Hotărârea Guvernului
+nr. 1.533/2003, sunt precise și actualizate.
+(3) Atribuțiile prevăzute la alin. (2) nu pot fi transferate
+sau subcontractate către administratorii de infrastructură,
+operatorii de transport feroviar sau entitățile achizitoare.
+(4) Conducerea executivă a Autorității de Siguranță
+Feroviară Română este exercitată de un comitet director
+compus din 5 persoane, al cărui președinte este directorul
+Autorității de Siguranță Feroviară Română, numit prin ordin
+al ministrului transporturilor, construcțiilor și turismului.
+(5) Membrii comitetului director sunt specialiști din
+cadrul Ministerului Transporturilor, Construcțiilor și
+Turismului, numiți și revocați prin ordin al ministrului
+transporturilor, construcțiilor și turismului. Salarizarea
+directorului Autorității de Siguranță Feroviară Română și
+îndemnizațiile membrilor comitetului director se stabilesc
+prin ordin al ministrului transporturilor, construcțiilor și
+turismului.
+(6) Se înființează Organismul Notificat Feroviar Român,
+organism independent în cadrul Autorității Feroviare
+Române — AFER, înființată potrivit Ordonanței Guvernului
+nr. 95/1998, aprobată cu modificări și completări prin
+Legea nr. 3/2002, cu modificările și completările ulterioare.
+Organismul Notificat Feroviar Român îndeplinește atribuțiile
+de organism notificat prevăzute de Hotărârea Guvernului
+nr. 850/2003 și Hotărârea Guvernului nr. 1.533/2003.
+Organismul Notificat Feroviar Român este independent, în
+ceea ce privește organizarea, structura juridică și procesul
+decizional, de orice operator de transport feroviar,
+administrator de infrastructură feroviară, solicitant de
+certificare și entitate achizitoare.
+(7) Conducerea Organismului Notificat Feroviar Român
+este exercitată de un comitet director compus din
+5 persoane, al cărui președinte este directorul Organismului
+Notificat Feroviar Român, numit prin ordin al ministrului
+transporturilor, construcțiilor și turismului.
+(8) Membrii comitetului director sunt specialiști din
+cadrul Ministerului Transporturilor, Construcțiilor și
+Turismului, numiți și revocați prin ordin al ministrului
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+
+transporturilor, construcțiilor și turismului. Salarizarea
+directorului și indemnizațiile membrilor comitetului director
+se stabilesc prin ordin al ministrului transporturilor,
+construcțiilor și turismului.
+
+CAPITOLUL V
+Investigarea accidentelor și incidentelor
+
+ARTICOLUL 17
+
+Înființarea Organismului de Investigare Feroviar Român
+și obligația de a investiga
+
+Principii de luare a deciziilor
+
+(1) Autoritatea de Siguranță Feroviară Română își
+îndeplinește atribuțiile în mod deschis, nediscriminatoriu și
+transparent, asigurând ascultarea tuturor părților și
+motivarea deciziilor. Răspunde prompt la cereri și solicitări,
+comunică cererile sale de informații fără întârziere și
+adoptă toate deciziile în termen de 4 luni de la furnizarea
+tuturor informațiilor solicitate. Poate cere în orice moment
+asistența tehnică a administratorilor de infrastructură și a
+operatorilor de transport feroviar sau a altor organisme
+calificate, în cursul îndeplinirii sarcinilor prevăzute la
+art. 16. În procesul elaborării cadrului de reglementare
+național, Autoritatea de Siguranță Feroviară Română
+consultă toate persoanele implicate și părțile interesate,
+inclusiv administratorii de infrastructură, operatorii de
+transport feroviar, producătorii și furnizorii de întreținere,
+utilizatorii și reprezentanții personalului.
+(2) Autoritatea de Siguranță Feroviară Română este
+liberă să desfășoare toate inspecțiile și investigațiile
+necesare pentru îndeplinirea sarcinilor sale și i se acordă
+acces la toate documentele și incintele relevante, la
+instalațiile și echipamentele administratorilor de
+infrastructură și ale operatorilor de transport feroviar.
+(3) Contestațiile împotriva deciziilor luate de Autoritatea
+de Siguranță Feroviară Română se soluționează potrivit
+reglementărilor legale în vigoare referitoare la contenciosul
+administrativ.
+(4) Autoritatea de Siguranță Feroviară Română
+desfășoară un schimb activ de opinii și experiență cu
+autoritățile de siguranță din statele membre ale Uniunii
+Europene în scopul armonizării în întreaga Comunitate a
+criteriilor de luare a deciziilor. Cooperarea lor urmărește în
+special facilitarea și coordonarea certificării de siguranță a
+operatorilor de transport feroviar cărora li s-au acordat
+trase internaționale în conformitate cu procedura stabilită la
+art. 15 din Ordonanța Guvernului nr. 89/2003, aprobată cu
+modificări și completări prin Legea nr. 8/2004. Agenția
+Feroviară Europeană sprijină autoritățile de siguranță în
+realizarea acestor sarcini.
+ARTICOLUL 18
+Raportul anual
+
+În fiecare an Autoritatea de Siguranță Feroviară
+Română publică în Buletinul AFER și pe site-ul său din
+cadrul Autorității Feroviare Române — AFER un raport
+anual privind activitățile sale în anul precedent și îl trimite
+Agenției Feroviare Europene cel mai târziu până la
+30 septembrie. Raportul cuprinde informații privind:
+a) dezvoltarea siguranței feroviare, inclusiv o inventariere
+la nivelul României a I.S.C. prevăzuți în anexa nr. 1;
+b) modificări importante ale legislației și reglementărilor
+privind siguranța feroviară;
+c) dezvoltarea certificării de siguranță și a autorizării de
+siguranță;
+d) rezultate și experiență referitoare la controlarea
+administratorilor de infrastructură și a operatorilor de
+transport feroviar.
+
+ARTICOLUL 19
+
+(1) Se înființează Organismul de Investigare Feroviar
+Român, organism permanent, independent, în cadrul
+Autorității Feroviare Române — AFER, înființată potrivit
+Ordonanței Guvernului nr. 95/1998, aprobată cu modificări
+și completări prin Legea nr. 3/2002, cu modificările și
+completările ulterioare. Organismul de Investigare Feroviar
+Român desfășoară o investigare a accidentelor grave în
+sistemul feroviar, obiectivul acestuia fiind îmbunătățirea
+siguranței feroviare și prevenirea accidentelor.
+(2) Organismul de Investigare Feroviar Român poate
+investiga, în plus față de accidentele grave, acele
+accidente și incidente care în condiții ușor diferite ar fi
+putut duce la accidente grave, inclusiv defecțiuni tehnice
+ale subsistemelor structurale sau ale constituenților de
+interoperabilitate ai sistemelor feroviare de mare viteză ori
+convenționale europene. Organismul de Investigare Feroviar
+Român decide, după cum consideră adecvat, dacă se
+întreprinde o investigație a unui asemenea accident sau
+incident, ținând seama în decizia sa de următoarele:
+a) gravitatea accidentului sau incidentului;
+b) dacă face parte dintr-o serie de accidente sau
+incidente relevante pentru întreg sistemul;
+c) impactul său asupra siguranței feroviare la nivel
+comunitar;
+d) cereri ale administratorilor de infrastructură,
+operatorilor de transport feroviar, Autorității de Siguranță
+Feroviară Română sau ale statelor membre ale Uniunii
+Europene.
+(3) Amploarea investigațiilor și procedura de urmat în
+desfășurarea acestor investigații sunt determinate de
+Organismul de Investigare Feroviar Român, ținând seama
+de principiile și obiectivele prevăzute la art. 20 și 22 și în
+funcție de învățămintele pe care se așteaptă să le tragă
+din accident sau incident pentru îmbunătățirea siguranței.
+(4) Investigația nu se ocupă în nici un caz cu stabilirea
+vinovăției sau a răspunderii.
+ARTICOLUL 20
+Statutul investigației
+
+(1) Investigația are statutul juridic de act administrativ,
+permițând investigatorilor principali să își îndeplinească
+sarcinile în modul cel mai eficient și în timpul cel mai scurt
+cu putință.
+(2) În conformitate cu legislația în vigoare și, dacă este
+cazul, în cooperare cu autoritățile responsabile pentru
+ancheta judiciară, investigatorilor li se acordă cât se poate
+de repede:
+a) acces la locul accidentului sau incidentului, precum și
+la materialul rulant implicat, infrastructura aferentă și
+instalațiile de control al traficului și de semnalizare;
+b) dreptul de a întocmi imediat o listă a probelor și a
+îndepărtării controlate a vehiculelor, instalațiilor sau
+componentelor infrastructurii în vederea examinării sau
+analizei;
+c) accesul la/și utilizarea conținutului aparatelor de
+înregistrare de bord și a echipamentelor de înregistrare a
+mesajelor verbale și de înregistrare a funcționării sistemului
+de semnalizare și control al traficului;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+d) accesul la rezultatele examinării corpurilor victimelor;
+e) accesul la rezultatele examinării personalului trenului
+și a altui personal feroviar implicat în accident sau incident;
+f) posibilitatea chestionării personalului feroviar implicat
+și a altor martori;
+g) accesul la orice informații relevante sau înregistrări
+deținute de administratorul de infrastructură, operatorii de
+transport feroviar și de Autoritatea de Siguranță Feroviară
+Română.
+(3) Investigația este realizată independent de orice
+anchetă judiciară.
+(4) În realizarea investigației, Organismul de Investigare
+Feroviar Român poate, în caz de nevoie, apela la
+specialiști din domenii conexe.
+ARTICOLUL 21
+Atribuțiile Organismului de Investigare Feroviar Român
+
+(1) Organismul de Investigare Feroviar Român este
+însărcinat cu investigarea accidentelor și incidentelor
+prevăzute la art. 19 și include cel puțin un investigator
+capabil să îndeplinească funcția de investigator principal în
+cazul unui accident sau incident. Organismul de Investigare
+Feroviar Român este independent, în organizarea, structura
+juridică și luarea deciziilor, de orice administrator de
+infrastructură, operator de transport feroviar, organism de
+tarifare, organism de repartizare și organism notificat,
+precum și de orice parte ale cărei interese ar putea intra
+în conflict cu sarcinile încredințate Organismului de
+Investigare Feroviar Român. Organismul de Investigare
+Feroviar Român este independent din punct de vedere
+funcțional de Autoritatea de Siguranță Feroviară Română și
+de orice autoritate de reglementare a sistemului feroviar.
+(2) Organismul de Investigare Feroviar Român își
+îndeplinește sarcinile în mod independent de persoanele
+juridice prevăzute la alin. (1) și dispune de resursele
+necesare pentru aceasta. Investigatorii săi se bucură de
+totală independență în îndeplinirea sarcinilor de investigare
+care le revin.
+(3) Operatorii de transport feroviar, administratorii de
+infrastructură și, dacă este cazul, Autoritatea de Siguranță
+Feroviară Română sunt obligați să raporteze imediat
+Organismului de Investigare Feroviar Român accidentele și
+incidentele prevăzute la art. 19. Organismul de Investigare
+Feroviar Român trebuie să răspundă la aceste rapoarte și
+să ia măsurile necesare pentru a lansa investigația cel
+târziu la o săptămână după primirea raportului cu privire la
+accident sau incident.
+(4) Organismul de Investigare Feroviar Român poate
+desfășura și alte sarcini stabilite prin hotărâre a Guvernului
+în legătură cu investigarea altor evenimente decât
+accidentele și incidentele feroviare, în măsura în care
+aceste investigații nu îi periclitează independența.
+(5) Organismul de Investigare Feroviar Român poate
+cere sau oferi asistență organismelor de investigare
+similare din alte state membre ale Uniunii Europene sau
+din partea Agenției Feroviare Europene pentru oferirea de
+competențe sau pentru desfășurarea de inspecții tehnice,
+analize sau evaluări.
+(6) Prin hotărâre a Guvernului se poate încredința
+Organismului de Investigare Feroviar Român sarcina de
+desfășurare a investigațiilor privind accidentele și
+incidentele feroviare, altele decât cele prevăzute la art. 19.
+(7) Organismul de Investigare Feroviar Român
+desfășoară un schimb activ de opinii și experiență cu
+organismele de investigare din statele membre, în scopul
+elaborării unor metode comune de investigare, realizării
+
+9
+
+unor principii comune pentru urmărirea recomandărilor de
+siguranță și pentru adaptarea la evoluția progresului tehnic
+și științific. Organismul de Investigare Feroviar Român
+poate primi sprijin de la Agenția Feroviară Europeană în
+realizarea acestei sarcini.
+(8) Conducerea Organismului de Investigare Feroviar
+Român este exercitată de un comitet director compus din
+5 persoane, al cărui președinte este directorul Organismului
+de Investigare Feroviar Român, numit prin ordin al
+ministrului transporturilor, construcțiilor și turismului.
+(9) Membrii comitetului director sunt specialiști din
+cadrul Ministerului Transporturilor, Construcțiilor și
+Turismului, numiți și revocați prin ordin al ministrului
+transporturilor, construcțiilor și turismului. Salarizarea
+directorului și indemnizațiile membrilor comitetului director
+se stabilesc prin ordin al ministrului transporturilor,
+construcțiilor și turismului.
+ARTICOLUL 22
+Procedura de investigare
+
+(1) Un accident sau incident este investigat de
+Organismul de Investigare Feroviar Român dacă a avut loc
+pe teritoriul României. În cazul în care nu este posibil să
+se stabilească dacă a avut loc pe teritoriul României sau
+dacă a avut loc la/sau aproape de o instalație de frontieră
+între România și un alt stat membru al Uniunii Europene,
+organismele de investigare din cele două state convin care
+dintre acestea va desfășura investigația ori convin să o
+desfășoare în cooperare. Celuilalt organism i se permite în
+primul caz să participe la investigație și să aibă acces la
+toate rezultatele acesteia. Organismele de investigare din
+alt stat membru sunt invitate să participe la o investigație
+oricând un operator de transport feroviar stabilit și licențiat
+în acel stat membru este implicat în accident sau incident.
+Aceste prevederi nu împiedică România și alt stat membru
+să convină ca organismele de investigare relevante să
+desfășoare investigații în cooperare, în alte împrejurări.
+(2) Pentru fiecare accident sau incident Organismul de
+Investigare
+Feroviar
+Român
+asigură
+resursele
+corespunzătoare desfășurării investigației. Resursele pot fi
+obținute din interiorul sau din exteriorul Organismului de
+Investigare Feroviar Român, în funcție de caracterul
+accidentului sau incidentului de investigat.
+(3) Investigația se desfășoară într-un mod cât mai
+deschis, astfel încât toate părțile să poată fi ascultate și să
+aibă acces la rezultate. Administratorul de infrastructură și
+operatorii de transport feroviar implicați, Autoritatea de
+Siguranță Feroviară Română, victimele și rudele acestora,
+proprietarii bunurilor deteriorate, producătorii, serviciile de
+urgență implicate și reprezentanții personalului și utilizatorii
+sunt informați în mod regulat cu privire la investigație și
+mersul acesteia, acordându-se, la solicitarea acestora,
+posibilitatea de a-și prezenta opiniile și punctele de vedere
+referitoare la investigație și având posibilitatea, la cerere,
+să facă comentarii cu privire la informațiile din proiectele
+de rapoarte.
+(4) Organismul de Investigare Feroviar Român își
+încheie examinările la locul accidentului în cel mai scurt
+timp posibil, pentru a permite administratorului de
+infrastructură să refacă infrastructura și să o deschidă cât
+mai repede serviciilor de transport feroviar.
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+ARTICOLUL 23
+Rapoarte
+
+(1) Rezultatul investigației accidentelor sau incidentelor,
+prevăzută la art. 20, face obiectul raportului de investigare
+asupra accidentelor și incidentelor, întocmit în funcție de
+gravitatea accidentului sau incidentului. Rapoartele descriu
+obiectivele investigațiilor prevăzute la art. 20 alin. (1) și
+cuprind, dacă este cazul, recomandări de siguranță.
+(2) Organismul de Investigare Feroviar Român publică
+raportul final în Buletinul AFER și pe site-ul său din cadrul
+Autorității Feroviare Române — AFER, în cel mai scurt
+timp posibil și cel târziu la 12 luni de la data
+evenimentului. Raportul urmează cât se poate de fidel
+structura de raportare stabilită în anexa nr. 5. Raportul,
+inclusiv recomandările de siguranță, sunt comunicate
+părților prevăzute la art. 22 alin. (3) și, după caz,
+organismelor și părților în cauză din alte state membre ale
+Uniunii Europene.
+(3) Organismul de Investigare Feroviar Român publică
+în fiecare an în Buletinul AFER și pe site-ul său din cadrul
+Autorității Feroviare Române — AFER, cel târziu până la
+data de 30 septembrie, un raport anual descriind
+investigațiile desfășurate în anul precedent, recomandările
+de siguranță emise și măsurile luate în conformitate cu
+recomandările emise anterior.
+
+CAPITOLUL VI
+Competențe de punere în aplicare
+ARTICOLUL 26
+Adaptarea anexelor
+
+Toate modificările ulterioare ale anexelor la Directiva
+2004/49/CE vor fi preluate în legislația română prin
+hotărâre a Guvernului.
+ARTICOLUL 27
+Aplicarea procedurilor Comitetului Comisiei Europene
+privind siguranța feroviară
+
+(1) Comisia Europeană este asistată de comitetul
+înființat prin art. 21 din Directiva 96/48/CE.
+(2) Când se face trimitere la prezentul alineat, se aplică
+art. 5 și 7 din Decizia 1999/468/CE, avându-se în vedere
+dispozițiile art. 8 din această decizie. Perioada prevăzută la
+art. 5 alin. (6) din Decizia 1999/468/CE se stabilește la
+3 luni.
+(3) Când se face referire la prezentul alineat, se aplică
+art. 3 și 7 din Decizia 1999/468/CE, avându-se în vedere
+dispozițiile art. 8 din această decizie.
+(4) Comitetul își stabilește regulamentul de procedură.
+(5) Prevederile alin. (1)—(4) se aplică în România
+începând cu data aderării la Uniunea Europeană.
+ARTICOLUL 28
+
+ARTICOLUL 24
+
+Măsuri de punere în aplicare
+
+Informații care se trimit la Agenția Feroviară Europeană
+
+(1) România poate aduce în atenția Comisiei Europene
+orice măsuri privind punerea în aplicare a prezentei legi.
+Deciziile corespunzătoare sunt adoptate în conformitate cu
+procedura prevăzută la art. 27 alin. (2).
+(2) La cererea României sau din proprie inițiativă
+Comisia Europeană examinează, într-un caz specific,
+aplicarea și respectarea dispozițiilor privind certificarea de
+siguranță și autorizația de siguranță, iar în termen de două
+luni de la primirea acestei cereri decide în conformitate cu
+procedura prevăzută la art. 27 alin. (2) dacă măsura
+aferentă poate continua să fie aplicată. Comisia Europeană
+comunică decizia sa Parlamentului European, Consiliului
+European și statelor membre ale Uniunii Europene.
+
+(1) În termen de o săptămână de la decizia de
+deschidere a unei investigații, Organismul de Investigare
+Feroviar Român notifică Agenției Feroviare Europene cu
+privire la aceasta. Informațiile indică data, ora și locul
+evenimentului, precum și tipul său și consecințele în ceea
+ce privește pierderile de vieți omenești, persoanele rănite
+și pagubele materiale.
+(2) Organismul de Investigare Feroviar Român trimite
+Agenției Feroviare Europene o copie a raportului final
+prevăzut la art. 23 alin. (2) și a raportului anual prevăzut
+la art. 23 alin. (3).
+ARTICOLUL 25
+Recomandări de siguranță
+
+(1) O recomandare de siguranță formulată de
+Organismul de Investigare Feroviar Român în raportul
+prevăzut la art. 23 nu creează în nici un caz o prezumție
+de vinovăție sau de răspundere civilă pentru un accident
+sau incident feroviar.
+(2) Recomandările sunt adresate Autorității de Siguranță
+Feroviară Română și, atunci când este necesar din cauza
+caracterului recomandării, altor organisme sau autorități din
+România ori altor state membre ale Uniunii Europene.
+Recomandările de siguranță emise de Organismul de
+Investigare Feroviar Român sunt luate în considerare și,
+dacă este cazul, sunt urmate.
+(3) Autoritatea de Siguranță Feroviară Română și alte
+autorități sau organisme ori, dacă este cazul, alte state
+membre ale Uniunii Europene cărora li s-au adresat
+recomandări raportează cel puțin anual Organismului de
+Investigare Feroviar Român cu privire la măsurile luate sau
+planificate a fi luate drept consecință a recomandării.
+
+CAPITOLUL VII
+Dispoziții finale
+ARTICOLUL 29
+Modificări la regimul licențelor de transport feroviar
+
+(1) Cerințele referitoare la competența profesională sunt
+îndeplinite dacă operatorul de transport feroviar care
+solicită o licență conform legii are structuri organizatorice,
+tehnice și personal care posedă cunoștințele și/sau
+experiența necesare pentru exercitarea unui control
+operațional și a unei supravegheri sigure și eficace a
+tipului de operații specificate în licență.
+(2) În termen de 90 de zile de la intrarea în vigoare a
+prezentei legi, Ordinul ministrului transporturilor,
+construcțiilor și turismului nr. 343/2003 privind aprobarea
+normelor pentru acordarea licenței de transport feroviar și a
+certificatului de siguranță, în vederea efectuării serviciilor de
+transport feroviar public și/sau în interes propriu pe căile
+ferate din România, precum și pentru acordarea autorizației
+și certificatului de operare pentru manevră agenților
+economici care efectuează numai operațiuni de manevră
+feroviară, publicat în Monitorul Oficial al României, Partea I,
+nr. 688 din 1 octombrie 2003, cu modificările și
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+completările ulterioare, se modifică corespunzător
+prevederilor prezentei legi.
+(3) Se înființează Organismul de Licențe Feroviare
+Român, organism independent în cadrul Autorității Feroviare
+Române — AFER, înființat potrivit Ordonanței Guvernului
+nr. 95/1998, aprobată cu modificări și completări prin
+Legea nr. 3/2002, cu modificările și completările ulterioare.
+Organismul de Licențe Feroviare Român este autoritatea
+responsabilă cu acordarea licențelor de transport feroviar
+din România, desemnată de Ministerul Transporturilor,
+Construcțiilor și Turismului. Organismul de Licențe
+Feroviare Român nu efectuează servicii de transport
+feroviar și este independent de operatorii de transport
+feroviar sau de agenții economici care efectuează astfel de
+servicii.
+(4) Conducerea Organismului de Licențe Feroviare
+Român este exercitată de un comitet director compus din
+5 persoane, al cărui președinte este directorul Organismului
+de Licențe Feroviare Român, numit prin ordin al ministrului
+transporturilor, construcțiilor și turismului.
+(5) Membrii comitetului director sunt specialiști din
+cadrul Ministerului Transporturilor, Construcțiilor și
+Turismului, numiți și revocați prin ordin al ministrului
+transporturilor, construcțiilor și turismului. Salarizarea
+directorului și indemnizațiile membrilor comitetului director
+se stabilesc prin ordin al ministrului transporturilor,
+construcțiilor și turismului.
+ARTICOLUL 30
+Modificări ale Ordonanței Guvernului nr. 89/2003
+
+Începând cu data intrării în vigoare a prezentei legi,
+Ordonanța Guvernului nr. 89/2003 privind alocarea
+capacităților de infrastructură feroviară, tarifarea utilizării
+infrastructurii feroviare și certificarea în materie de
+siguranță, publicată în Monitorul Oficial al României, Partea I,
+nr. 623 din 31 august 2003, aprobată cu modificări și
+completări prin Legea nr. 8/2004, publicată în Monitorul
+Oficial al României, Partea I, nr. 178 din 2 martie 2004,
+se modifică după cum urmează:
+1. Titlul va avea următorul cuprins:
+,,O R D O N A N Ț Ă
+privind alocarea capacităților de infrastructură feroviară
+și tarifarea utilizării infrastructurii feroviare“
+2. La articolul 30 alineatul (3), litera f) va avea următorul
+cuprins:
+îf) măsurile privind accesul în conformitate cu
+Ordonanța de urgență a Guvernului nr. 12/1998 privind
+transportul pe căile ferate române și reorganizarea
+Societății Naționale a Căilor Ferate Române, republicată în
+Monitorul Oficial al României, Partea I, nr. 834 din
+9 septembrie 2004, cu modificările și completările
+ulterioare.“
+3. Articolul 32 se abrogă.
+ARTICOLUL 31
+Sancțiuni
+
+(1) Încălcarea prevederilor prezentei legi atrage
+răspunderea civilă, contravențională sau penală, după caz,
+a celor vinovați, în condițiile legii.
+(2) Constituie contravenții și se sancționează
+următoarele fapte:
+a) nerespectarea prevederilor art. 9 alin. (4), cu amendă
+de la 5.000 lei (RON) la 20.000 lei (RON);
+
+11
+
+b) nerespectarea prevederilor art. 10 alin. (6), cu
+amendă de la 10.000 lei (RON) la 20.000 lei (RON);
+c) nerespectarea prevederilor art. 11 alin. (3), cu
+amendă de la 10.000 lei (RON) la 20.000 lei (RON);
+d) nerespectarea prevederilor art. 18, cu amendă de la
+10.000 lei (RON) la 20.000 lei (RON);
+e) nerespectarea prevederilor art. 23 alin. (2) și (3), cu
+amendă de la 10.000 lei (RON) la 20.000 lei (RON);
+f) nerespectarea prevederilor art. 24, cu amendă de la
+10.000 lei (RON) la 20.000 lei (RON).
+(3) Constatarea contravențiilor și aplicarea sancțiunilor
+prevăzute la alin. (2) se fac de către personalul
+împuternicit prin ordin al ministrului transporturilor,
+construcțiilor și turismului.
+(4) Contravenientul poate achita, pe loc sau în termen
+de cel mult 48 de ore de la data încheierii procesuluiverbal ori, după caz, de la data comunicării acestuia,
+jumătate din minimul amenzii prevăzute la alin. (2), agentul
+constatator făcând mențiune despre această posibilitate în
+procesul-verbal.
+(5) Dispozițiile prezentei legi referitoare la contravenții se
+completează cu prevederile Ordonanței Guvernului
+nr. 2/2001 privind regimul juridic al contravențiilor, aprobată
+cu modificări și completări prin Legea nr. 180/2002, cu
+modificările și completările ulterioare.
+(6) Ministerul Transporturilor, Construcțiilor și Turismului
+notifică Comisiei Europene dispozițiile prevăzute în
+prezentul articol până la data aderării, iar după această
+dată notifică fără întârziere cu privire la orice modificare
+care le afectează.
+ARTICOLUL 32
+Punere în aplicare
+
+(1) În termen de 90 de zile de la intrarea în vigoare a
+prezentei legi, Hotărârea Guvernului nr. 626/1998 privind
+organizarea și funcționarea Autorității Feroviare Române —
+AFER se va modifica în mod corespunzător, cuprinzând și
+regulamentele de organizare și funcționare ale organismelor
+nou-înființate.
+(2) Ministerul Transporturilor, Construcțiilor și Turismului
+notifică imediat Comisiei Europene cu privire la punerea în
+aplicare a actelor normative, a regulamentelor și normelor
+administrative necesare aducerii la îndeplinire a prevederilor
+Directivei 2004/49/CE privind siguranța feroviară.
+ARTICOLUL 33
+Anexe
+
+Anexele nr. 1—5 fac parte integrantă din prezenta lege.
+´
+Prezenta lege transpune Directiva 2004/49/CE a
+Parlamentului European și a Consiliului din 29 aprilie 2004
+privind siguranța căilor ferate comunitare și de modificare
+a Directivei 95/18/CE a Consiliului privind acordarea de
+licențe întreprinderilor feroviare și a Directivei 2001/14/CE
+privind repartizarea capacităților de infrastructură feroviară
+și perceperea de tarife pentru utilizarea infrastructurii
+feroviare și certificarea siguranței (Directiva privind
+siguranța feroviară), publicată în Jurnalul Oficial al Uniunii
+Europene (JO) nr. L 164 din 30 aprilie 2004, și
+Rectificativul la Directiva 2004/49/CE a Parlamentului
+European și a Consiliului din 29 aprilie 2004 privind
+siguranța căilor ferate comunitare și de modificare a
+Directivei 95/18/CE a Consiliului privind acordarea de
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+
+licențe întreprinderilor feroviare și a Directivei 2001/14/CE
+privind repartizarea capacităților de infrastructură feroviară
+și perceperea de tarife pentru utilizarea infrastructurii
+
+feroviare și certificarea siguranței (Directiva privind
+siguranța feroviară), publicat în Jurnalul Oficial al Uniunii
+Europene (JO) nr. L 220 din 21 iunie 2004.
+
+Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 și ale art. 76 alin. (2) din
+Constituția României, republicată.
+PREȘEDINTELE CAMEREI DEPUTAȚILOR
+
+PREȘEDINTELE SENATULUI
+
+ADRIAN NĂSTASE
+
+NICOLAE VĂCĂROIU
+
+București, 16 martie 2006.
+Nr. 55.
+ANEXA Nr. 1
+INDICATORI DE SIGURANȚĂ COMUNI (I.S.C.)
+
+Indicatorii de siguranță comuni (I.S.C.) care se
+raportează de către autoritățile de siguranță:
+Indicatorii referitori la activitățile prevăzute la art. 2
+alin. (2) lit. a) și b) ar trebui luați în considerare separat,
+dacă sunt prezentați.
+Dacă sunt descoperite noi fapte sau erori după
+prezentarea raportului, indicatorii pentru un anumit an sunt
+modificați sau corectați de autoritatea de siguranță cu
+prima ocazie convenabilă și cel mai târziu în următorul
+raport anual.
+Pentru indicatorii referitori la accidente, prevăzuți la
+alin. (1) de mai jos, Regulamentul Parlamentului European
+și al Consiliului (CE) nr. 91/2003 din 16 decembrie 2002
+privind statisticile din transportul feroviar se aplică în
+măsura în care informațiile sunt disponibile.
+(1) Indicatori referitori la accidente
+1. Numărul de accidente total și relativ (pe trenkilometru) și o defalcare pe următoarele tipuri de accidente:
+— coliziuni de trenuri, inclusiv coliziuni cu obstacole în
+interiorul gabaritului;
+— deraieri de trenuri;
+— accidente la treceri de nivel, inclusiv accidente în
+care sunt implicați pietoni la trecerile de nivel;
+— accidentări ale persoanelor, produse de material
+rulant în mișcare, cu excepția sinuciderilor;
+— sinucideri;
+— incendii ale materialului rulant;
+— altele.
+Fiecare accident este raportat la tipul de accident
+primar, chiar dacă consecințele accidentului secundar sunt
+mai grave, de exemplu un incendiu în urma unei deraieri.
+2. Numărul total și relativ (pe tren-kilometru) de
+persoane grave rănite și ucise pe tip de accident, împărțit
+în următoarele categorii:
+— călători (de asemenea, în raport cu numărul total de
+călători-kilometri);
+— angajați, inclusiv personalul contractanților;
+— utilizatori ai trecerilor de nivel;
+— persoane neautorizate în incinta instalațiilor feroviare;
+— altele.
+(2) Indicatori referitori la incidente și incidente evitate
+la limită
+1. Numărul total și relativ (pe tren-kilometru) de șine
+rupte, deformări ale șinelor și pene de semnalizare
+2. Numărul total și relativ (pe tren-kilometru) de semnale
+trecute în situație de pericol
+
+3. Numărul total și relativ (pe tren-kilometru) de rupturi
+de roți și osii la materialul rulant în serviciu.
+(3) Indicatori referitori la consecințele accidentelor
+1. Costuri totale și relative (pe tren-kilometru) în euro
+ale tuturor accidentelor, calculându-se și incluzându-se,
+dacă este posibil, următoarele costuri:
+— decese și vătămări;
+— indemnizații pentru pierderea sau deteriorarea
+bunurilor călătorilor, personalului sau terților, inclusiv pagube
+produse mediului;
+— înlocuirea sau repararea materialului rulant și a
+instalațiilor feroviare deteriorate;
+— întârzieri, perturbări și redirecționări ale traficului,
+inclusiv costuri suplimentare pentru personal și pierderea
+veniturilor viitoare.
+Din costurile de mai sus sunt deduse indemnizațiile sau
+compensațiile recuperate ori estimate ca urmând să fie
+recuperate de la terți, cum ar fi proprietarii autovehiculelor
+implicate în accidentele la trecerile de nivel. Indemnizațiile
+recuperate prin polițele de asigurare deținute de operatorii
+de transport feroviar sau administratorii de infrastructură nu
+sunt deduse.
+2. Numărul total și relativ (pe număr de ore lucrate) al
+orelor de lucru ale personalului și contractanților, pierdut în
+urma accidentelor.
+(4) Indicatori referitori la siguranța tehnică a
+infrastructurii și aplicarea acesteia
+1. Procentaj de linii dotate cu un sistem de protecție
+automată a trenurilor (ATP) în funcțiune, procentaj de
+kilometri-tren utilizând sisteme ATP operaționale
+2. Număr de treceri de nivel (total și pe kilometru de
+linie). Procentaj de treceri de nivel cu protecție automată
+sau manuală.
+(5) Indicatori referitori la gestionarea siguranței
+Auditurile interne realizate de administratorii de
+infrastructură și operatorii de transport feroviar, prevăzute în
+documentația sistemului de management al siguranței.
+Numărul total de audituri realizate și numărul ca procentaj
+din auditurile necesare (și/sau planificate).
+(6) Definiții
+Autoritățile de raportare pot utiliza definițiile indicatorilor
+aplicate la nivel național, precum și metodele de calculare
+a costurilor la prezentarea datelor în conformitate cu
+prezenta anexă. Toate definițiile și metodele de calcul în
+uz sunt explicate într-o anexă la raportul anual descris în
+art. 18.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+
+13
+ANEXA Nr. 2
+
+NORME NAȚIONALE DE SIGURANȚĂ
+
+Normele naționale de siguranță care urmează să fie
+notificate Comisiei Europene în conformitate cu procedura
+descrisă la art. 8 includ:
+1. norme privind obiectivele de siguranță și metodele de
+siguranță naționale existente;
+2. norme privind cerințele pentru sistemele de
+management al siguranței și certificarea de siguranță a
+operatorilor de transport feroviar;
+3. norme privind cerințele pentru autorizarea introducerii
+în circulație și a întreținerii unui material rulant nou și
+modificat substanțial care încă nu este acoperit de S.T.I.
+Notificarea include norme pentru schimbul de material
+rulant între operatorii de transport feroviar, sistemele de
+înregistrare și cerințe privind procedurile de încercare;
+
+4. norme comune de exploatare a rețelei feroviare care
+nu sunt acoperite încă de S.T.I., inclusiv norme referitoare
+la sistemul de semnalizare și gestionare a traficului;
+5. norme de stabilire a unor cerințe privind normele
+interne suplimentare de exploatare (norme ale societăților)
+care trebuie stabilite de administratorii de infrastructură și
+operatorii de transport feroviar;
+6. norme referitoare la cerințele pentru personalul care
+execută sarcini critice de siguranță, inclusiv criterii de
+selecție, stare bună din punct de vedere medical și formare
+și certificare profesională, în măsura în care nu sunt încă
+acoperite de S.T.I.;
+7. norme privind investigarea accidentelor și incidentelor.
+
+ANEXA Nr. 3
+
+SISTEME DE MANAGEMENT AL SIGURANȚEI
+
+1. Cerințe ale sistemului de management al siguranței
+Sistemul de management al siguranței trebuie
+documentat în toate părțile relevante și descrie în special
+distribuția responsabilităților în organizația administratorului
+de infrastructură sau a operatorului de transport feroviar.
+Acesta indică modul în care este asigurată gestiunea la
+diferite niveluri, modul în care sunt implicați personalul și
+reprezentanții săi la toate nivelurile și modul în care este
+asigurată îmbunătățirea continuă a sistemului de
+management al siguranței.
+2. Elemente de bază ale sistemului de management al
+siguranței
+Elementele de bază ale sistemului de management al
+siguranței sunt următoarele:
+a) o politică de siguranță aprobată de directorul general
+al organizației și comunicată întregului personal;
+b) obiective calitative și cantitative ale organizației pentru
+întreținerea și ameliorarea siguranței, precum și planuri și
+proceduri pentru atingerea acestor obiective;
+c) proceduri pentru atingerea standardelor tehnice și
+operaționale existente, noi și modificate, ori a altor condiții
+prescriptive stabilite:
+— în S.T.I.; sau
+— în norme naționale de siguranță prevăzute la art. 8
+și în anexa nr. 2; sau
+— în alte norme relevante; sau
+— în decizii ale autorităților,
+
+și proceduri pentru asigurarea conformității cu standardele
+și alte condiții prescriptive pe întregul ciclu de viață al
+echipamentelor și operațiunilor;
+d) proceduri și metode pentru realizarea evaluării riscului
+și pentru punerea în aplicare a măsurilor de control al
+riscurilor atunci când o schimbare a condițiilor de
+exploatare sau un material nou impune riscuri noi asupra
+infrastructurii și operațiunilor;
+e) asigurarea unor programe pentru formarea de
+personal și sisteme pentru menținerea competenței
+personalului și deci realizarea sarcinilor în bune condiții;
+f) măsuri pentru asigurarea unor informații suficiente în
+cadrul organizației și, dacă este cazul, între organizații care
+funcționează pe aceeași infrastructură;
+g) proceduri și formate pentru modalitatea de
+documentare a informațiilor de siguranță și desemnarea
+procedurii pentru controlul configurării informațiilor de
+siguranță vitale;
+h) proceduri pentru asigurarea raportării, investigării și
+analizării accidentelor, incidentelor, incidentelor evitate la
+limită și a altor evenimente periculoase, precum și pentru
+luarea măsurilor preventive necesare;
+i) asigurarea unor planuri de acțiune, alerte și informații
+în caz de urgență, convenite cu autoritățile publice
+corespunzătoare;
+j) dispoziții pentru auditarea internă repetată a sistemului
+de management al siguranței.
+
+ANEXA Nr. 4
+DECLARAȚII
+
+pentru certificatul de siguranță specifică rețelei
+Documentele următoare trebuie prezentate pentru a
+permite autorității de siguranță să furnizeze partea
+certificatului de siguranță care este specifică rețelei:
+— documentație din partea operatorului de transport
+feroviar privind S.T.I. sau părți de ST.I. și, dacă sunt
+
+relevante, norme naționale de siguranță și alte norme
+aplicabile operațiunilor sale, personalului și materialului
+rulant al acestuia și privind modul în care sistemul de
+management al siguranței asigură conformitatea;
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+
+— documentație din partea operatorului de transport
+feroviar privind diferitele categorii de personal angajat sau
+contractat pentru exploatare, inclusiv probe privind
+îndeplinirea cerințelor S.T.I. ori a normelor naționale și a
+certificării corecte a acestora;
+— documentație din partea operatorului de transport
+feroviar privind diferitele categorii de material rulant utilizat
+pentru exploatare, inclusiv probe privind îndeplinirea
+cerințelor S.T.I. sau a normelor naționale, precum și privind
+certificarea corectă a acestora.
+
+Pentru a evita dublarea muncii și pentru a reduce
+volumul informațiilor ar trebui prezentate numai informații
+sumare cu privire la elementele care respectă S.T.I. și
+celelalte cerințe prevăzute în Hotărârea Guvernului
+nr. 1.533/2003 privind interoperabilitatea sistemului de
+transport feroviar de mare viteză și în Hotărârea
+Guvernului nr. 850/2003 privind interoperabilitatea sistemului
+de transport feroviar convențional din România cu sistemul
+de transport feroviar convențional transeuropean.
+
+ANEXA Nr. 5
+CONȚINUTUL
+
+principal al raportului de investigare asupra accidentelor și incidentelor
+(1) Rezumat
+Rezumatul cuprinde o scurtă descriere a evenimentului,
+când și unde a avut loc, precum și consecințele sale.
+Acesta prezintă cauzele directe, precum și factorii care au
+contribuit la eveniment și cauzele subiacente stabilite de
+investigație. Sunt indicate principalele recomandări, precum
+și informații privind destinatarii acestora.
+(2) Fapte imediate ale evenimentului
+1. Evenimentul:
+— data, ora exactă și locul evenimentului;
+— descrierea evenimentelor și a locului accidentului,
+inclusiv eforturile serviciilor de salvare și de urgență;
+— decizia de a lansa o investigație, compoziția echipei
+de investigatori și desfășurarea investigației.
+2. Circumstanțele evenimentului:
+— personalul și contractanții implicați, alte părți și
+martori;
+— trenurile și compoziția lor, inclusiv numerele de
+înregistrare a articolelor de material rulant implicate;
+— descrierea infrastructurii și a sistemului de
+semnalizare — tipuri de șine, macazuri, anclanșare,
+semnale, protecția trenului;
+— mijloace de comunicare;
+— lucrări desfășurate la/sau în vecinătatea locului
+evenimentului;
+— declanșarea planului de urgență feroviar și lanțul său
+de evenimente;
+— declanșarea planului de urgență al serviciilor publice
+de salvare, al poliției și al serviciilor medicale și lanțul său
+de evenimente.
+3. Pierderi de vieți omenești, persoane rănite și pagube
+materiale:
+— călători și terțe persoane, personal, inclusiv
+contractanți;
+— încărcătură, bagaje și alte bunuri;
+— material rulant, infrastructură și mediu.
+4. Circumstanțe externe:
+— condiții meteorologice și referințe geografice.
+(3) Înregistrarea investigațiilor și anchetelor
+1. Rezumatul mărturiilor (sub rezerva protecției identității
+persoanelor):
+— personal feroviar, inclusiv contractanți;
+— alți martori.
+2. Sistemul de management al siguranței:
+— organizația-cadru și modul în care sunt date și aduse
+la îndeplinire ordinele;
+
+— cerințele de personal și modul de aplicare a
+acestora;
+— rutine pentru controale și audituri interne, precum și
+rezultatele acestora;
+— interfața dintre diferiții actori implicați în infrastructură.
+3. Norme și reglementări:
+— norme și reglementări comunitare și naționale
+relevante;
+— alte norme, precum normele de exploatare,
+instrucțiunile locale, cerințele de personal, prescripțiile de
+întreținere și standardele aplicabile.
+4. Funcționarea materialului rulant și a instalațiilor
+tehnice:
+— sistem de semnalizare și de control-comandă, inclusiv
+înregistrări din aparatele de înregistrare automată a datelor;
+— infrastructură;
+— echipamente de comunicații;
+— material rulant, inclusiv înregistrări din aparate
+automate de înregistrare a datelor.
+5. Documentația privind sistemul de operare:
+— măsuri luate de personal pentru controlarea traficului
+și semnalizare;
+— schimbul de mesaje verbale în legătură cu
+evenimentul, inclusiv documentație din înregistrări;
+— măsuri luate pentru protecția și salvgardarea locului
+evenimentului.
+6. Interfața om-mașină-organizație:
+— timp de lucru aplicat personalului implicat;
+— circumstanțe medicale și personale cu influență
+asupra evenimentului, inclusiv existența stresului fizic sau
+psihologic;
+— proiectarea echipamentului cu impact asupra interfeței
+om-mașină.
+7. Evenimente anterioare cu caracter similar
+(4) Analiză și concluzii
+1. Descriere finală a lanțului de evenimente:
+— stabilirea de concluzii privind evenimentul, pe baza
+faptelor stabilite la pct. (3).
+2. Discuție:
+— analiza faptelor stabilite la pct. (3) cu scopul de a
+trage concluzii cu privire la cauzele evenimentului și
+performanțele serviciilor de salvare.
+3. Concluzii:
+— cauze directe și imediate ale evenimentului, inclusiv
+factorii care au contribuit la eveniment legați de acțiunile
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+întreprinse de persoane implicate sau starea materialului
+rulant ori a instalațiilor tehnice;
+— cauze subiacente referitoare la competențe, proceduri
+și întreținere;
+— cauze primare legate de condițiile cadrului de
+reglementare și aplicarea sistemului de management al
+siguranței.
+
+15
+
+4. Observații suplimentare:
+— deficiențe și lacune constatate în cursul investigației,
+dar fără relevanță pentru concluziile asupra cauzelor.
+(5) Măsuri care au fost luate
+— Înregistrarea măsurilor deja luate sau adoptate drept
+consecință a evenimentului
+(6) Recomandări
+
+PREȘEDINTELE ROMÂNIEI
+
+DECRET
+pentru promulgarea Legii privind siguranța feroviară
+În temeiul prevederilor art. 77 alin. (1) și ale art. 100 alin. (1) din
+Constituția României, republicată,
+Președintele României d e c r e t e a z ă:
+Articol unic. — Se promulgă Legea privind siguranța feroviară și se
+dispune publicarea acestei legi în Monitorul Oficial al României, Partea I.
+PREȘEDINTELE ROMÂNIEI
+
+TRAIAN BĂSESCU
+București, 15 martie 2006.
+Nr. 315.
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+MINISTERUL ECONOMIEI ȘI COMERȚULUI
+
+ORDIN
+privind aprobarea nivelului tarifelor percepute în anul 2006 de Centrul Român
+pentru Promovarea Comerțului
+Având în vedere prevederile art. 8 alin. (3) din Hotărârea Guvernului nr. 892/2004 privind organizarea și
+funcționarea Centrului Român pentru Promovarea Comerțului,
+în temeiul art. 5 alin. (6) din Hotărârea Guvernului nr. 738/2003 privind organizarea și funcționarea Ministerului
+Economiei și Comerțului, cu modificările și completările ulterioare,
+ministrul economiei și comerțului emite următorul ordin:
+Art. 1. — Se aprobă nivelul tarifelor percepute în anul 2006
+de Centrul Român pentru Promovarea Comerțului pentru
+activitățile de promovare realizate în conformitate cu prevederile
+art. 4 din Hotărârea Guvernului nr. 892/2004, prevăzut în
+anexa care face parte integrantă din prezentul ordin.
+Art. 2. — Prezentul ordin se publică în Monitorul Oficial
+al României, Partea I.
+
+Art. 3. — La data intrării în vigoare a prezentului ordin
+Ordinul ministrului economiei și comerțului nr. 702/2004
+privind aprobarea nivelului tarifelor percepute de Centrul
+Român pentru Promovarea Comerțului, publicat în Monitorul
+Oficial al României, Partea I, nr. 988 din 27 octombrie
+2004, se abrogă.
+
+p. Ministrul economiei și comerțului,
+Iuliu Winkler,
+ministrul delegat pentru comerț
+București, 14 martie 2006.
+Nr. 215.
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+ANEXĂ*)
+
+TARIFE
+
+aplicate în anul 2006
+
+*) Anexa este reprodusă în facsimil.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+
+17
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+
+19
+
+20
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+
+21
+
+22
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+
+23
+
+24
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+
+MINISTERUL TRANSPORTURILOR, CONSTRUCȚIILOR ȘI TURISMULUI
+
+ORDIN
+pentru aprobarea sistemului de inspecții obligatorii la navele de tip feribot Ro-Ro,
+precum și la navele de pasageri de mare viteză care operează în serviciu regulat
+Având în vedere prevederile art. 69 și 70 din Acordul european instituind o asociere între România, pe de o
+parte, și Comunitățile Europene și statele membre ale acestora, pe de altă parte, semnat la Bruxelles la 1 februarie 1993,
+ratificat prin Legea nr. 20/1993,
+în temeiul prevederilor art. 13 alin. (1) și (2) din Ordonanța Guvernului nr. 19/1997 privind transporturile,
+republicată, cu modificările și completările ulterioare, și ale art. 5 alin. (4) din Hotărârea Guvernului nr. 412/2004 privind
+organizarea și funcționarea Ministerului Transporturilor, Construcțiilor și Turismului, cu modificările și completările ulterioare,
+ministrul transporturilor, construcțiilor și turismului emite următorul ordin:
+ARTICOLUL 1
+Scop
+
+Prezentul ordin stabilește sistemul de inspecții obligatorii
+la navele de tip feribot Ro-Ro și la navele de pasageri de
+mare viteză care operează în serviciu regulat spre sau
+dinspre porturi românești și asigură dreptul autorităților
+competente din statele implicate în aceste servicii de a
+conduce, de a participa sau de a coopera în investigarea
+accidentelor ori incidentelor maritime privind aceste servicii.
+ARTICOLUL 2
+Definiții
+
+În înțelesul prezentului ordin, termenii utilizați se
+definesc după cum urmează:
+a) administrația statului pavilionului — autoritățile
+competente ale statului care acordă navelor de tip feribot
+Ro-Ro și navelor de pasageri de mare viteză dreptul de a
+arbora pavilionul acestuia;
+b) Autoritatea Navală Română — organ tehnic de
+specialitate din subordinea Ministerului Transporturilor,
+
+Construcțiilor și Turismului căruia i se deleagă competențele
+privind aplicarea prevederilor prezentului ordin, denumită în
+continuare ANR;
+c) certificate:
+(i) pentru navele de tip feribot Ro-Ro și pentru
+navele de pasageri de mare viteză angajate în
+voiajuri internaționale, certificatele de siguranță
+emise în conformitate cu cerințele Convenției
+SOLAS 1974, astfel cum a fost amendată,
+împreună cu listele echipamentelor și, dacă
+este cazul, cu certificatele de scutire și
+permisele de operare;
+(ii) pentru navele de tip feribot Ro-Ro și pentru
+navele de pasageri de mare viteză angajate în
+voiajuri interne, certificatele de siguranță emise
+în conformitate cu prevederile Directivei
+Consiliului nr. 98/18/CE1) împreună cu listele
+echipamentelor și, dacă este cazul, cu
+certificatele de scutire și permisele de operare;
+
+1) Directiva Consiliului nr. 98/18/CE din 17 martie 1998 referitoare la reguli și standarde de siguranță pentru navele maritime de pasageri,
+publicată în Jurnalul Oficial nr. L 144 din 15 mai 1998, p. 1, astfel cum a fost amendată.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+d) certificat de scutire — orice certificat emis în
+conformitate cu prevederile Regulii I B/12(a)(vi) din
+Convenția SOLAS 1974;
+e) Codul pentru investigarea accidentelor maritime —
+Codul pentru investigarea accidentelor și incidentelor
+maritime, adoptat de Organizația Maritimă Internațională
+(IMO) prin Rezoluția Adunării A.849(20) din 27 noiembrie 1997;
+f) Codul pentru navele de mare viteză — Codul
+internațional pentru siguranța navelor de mare viteză, adoptat
+de Comitetul Siguranței Maritime al IMO prin Rezoluția
+MSC.36(63) din 20 mai 1994, în versiunea sa actualizată;
+g) companie — o companie care operează una sau mai
+multe nave de tip feribot Ro-Ro, pentru care s-a emis un
+document de conformitate, potrivit prevederilor art. 5
+alin. (2) din Regulamentul Consiliului nr. 3.051/951) din
+8 decembrie 1995 referitor la managementul siguranței
+navelor de tip feribot Ro-Ro, sau o companie care
+operează nave de pasageri de mare viteză, pentru care
+s-a emis un document de conformitate potrivit Regulii IX/4
+din Convenția SOLAS 1974 în versiunea sa actualizată;
+h) Convenția SOLAS 1974 — Convenția internațională
+pentru ocrotirea vieții omenești pe mare, împreună cu
+protocoalele și amendamentele ulterioare la aceasta, în
+versiunea sa actualizată, la care România a aderat prin
+Decretul nr. 80/1979;
+i) deficiență — situație constatată ca neîndeplinind
+cerințele prezentului ordin;
+j) inspector calificat — persoană autorizată din cadrul
+ANR sau altă persoană pe deplin autorizată de autoritatea
+competentă a unui stat membru al Uniunii Europene să
+efectueze supravegheri și inspecții referitoare la emiterea
+certificatelor și care îndeplinește criteriile privind calificarea
+și independența pentru inspectorii calificați, prevăzute în
+anexa nr. 5;
+k) inspecție specifică — inspecție efectuată de statul
+gazdă în conformitate cu prevederile art. 6 și 8;
+l) navă de pasageri de mare viteză — navă de mare
+viteză conform definiției date în Regula X/I din Convenția
+SOLAS 1974, în versiunea sa actualizată, care transportă
+mai mult de 12 pasageri;
+m) navă de tip feribot Ro-Ro — navă maritimă de
+pasageri cu facilități privind îmbarcarea și debarcarea
+vehiculelor rutiere sau feroviare pe propriile roți și care
+transportă mai mult de 12 pasageri, denumită în continuare
+feribot Ro-Ro;
+n) organizație recunoscută — organizație recunoscută
+conform art. 4 din Directiva Consiliului 94/57/CE2);
+o) pasager — orice persoană, alta decât:
+(i) comandantul navei și membrii echipajului sau
+alte persoane angajate în orice funcție la
+bordul unei nave, legată de activitatea navei
+respective; și
+(ii) un copil cu vârsta mai mică de un an;
+p) serviciu regulat — o serie de voiajuri efectuate de
+feriboturi Ro-Ro sau de nave de pasageri de mare viteză
+pentru deservirea traficului între aceleași două sau mai
+multe porturi ori o serie de voiajuri dinspre și spre același
+port fără escale intermediare, fie:
+(i) conform unui orar publicat; ori
+(ii) efectuate cu o asemenea regularitate și
+frecvență care pot fi recunoscute ca serviciu
+regulat;
+q) stat gazdă — România sau statul membru al Uniunii
+Europene spre și dinspre portul ori porturile căruia este
+angajat într-un serviciu regulat un feribot Ro-Ro sau o
+navă de pasageri de mare viteză;
+r) stat profund interesat, stat care conduce investigația și
+accident maritim — au aceeași semnificație ca definițiile
+cuprinse în Codul pentru investigarea accidentelor maritime;
+1)
+
+25
+
+s) voiaj intern — voiaj efectuat în zone maritime între
+un port românesc și același port sau un alt port românesc;
+t) voiaj internațional — voiaj pe mare efectuat dintr-un
+port românesc către un port situat în afara României sau
+invers;
+u) zonă maritimă — orice zonă stabilită în conformitate
+cu prevederile art. 4 din Directiva 98/18/CE.
+ARTICOLUL 3
+Domeniu de aplicare
+
+Prevederile prezentului ordin se aplică tuturor
+feriboturilor Ro-Ro și navelor de pasageri de mare viteză,
+indiferent de pavilionul pe care îl arborează, care operează
+în servicii regulate spre sau dinspre un port românesc și
+care sunt angajate fie:
+a) în voiajuri internaționale; fie
+b) în voiajuri interne în zonele maritime prevăzute de
+clasa A, stabilite în conformitate cu art. 4 din Directiva
+98/18/CE.
+ARTICOLUL 4
+Verificări inițiale cerute în cazul feriboturilor Ro-Ro
+și navelor de pasageri de mare viteză
+
+(1) Înainte de a începe să opereze un feribot Ro-Ro
+sau o navă de pasageri de mare viteză, angajată să
+desfășoare un serviciu regulat sau care desfășoară deja un
+serviciu regulat, ANR trebuie să verifice dacă feriboturile
+Ro-Ro și navele de pasageri de mare viteză îndeplinesc
+următoarele condiții:
+a) posedă certificate valabile, emise de administrația
+statului pavilionului sau de o organizație recunoscută, care
+acționează în numele său;
+b) au fost inspectate, pentru emiterea certificatelor, în
+conformitate cu procedurile relevante și cu liniile directoare
+anexate la Rezoluția Adunării IMO A.746(18) privind
+sistemul armonizat de inspecție și certificare, așa cum a
+fost amendată, sau cu proceduri care permit atingerea
+acelorași obiective;
+c) respectă standardele de clasificare specificate prin
+regulile unei organizații recunoscute sau prin regulile
+acceptate ca echivalente de către administrația statului
+pavilionului privind construcția și întreținerea corpului navei,
+mașinilor și a instalației electrice și de control;
+d) sunt dotate cu înregistrator de date privind voiajul
+(VDR) în scopul oferirii de informații pentru investigarea
+accidentelor maritime. VDR trebuie să corespundă
+standardelor de performanță cuprinse în Rezoluția Adunării
+IMO A.861(20) din 27 noiembrie 1997 și să respecte
+standardele de încercări elaborate de Comisia
+Electrotehnică Internațională (IEC), respectiv Standardul
+nr. 61996. Totuși, în cazul VDR-urilor montate la bordul
+feriboturilor Ro-Ro și al navelor de pasageri de mare viteză
+înainte de 29 aprilie 1999, pot fi acordate scutiri de la
+respectarea anumitor cerințe. Scutirile respective și
+condițiile în care pot fi acordate acestea trebuie să fie în
+conformitate cu procedurile stabilite de ANR;
+
+Regulamentul Consiliului nr. 3.051/95, publicat în Jurnalul Oficial nr. L 320 din 30 decembrie 1995, p. 0014-0024.
+Directiva Consiliului nr. 94/57/CE din 22 noiembrie 1994 privind regulile și standardele comune pentru organizațiile de inspecție și
+supraveghere a navelor și pentru activitățile relevante ale administrațiilor maritime, publicată în Jurnalul Oficial nr. L 319 din 12 decembrie 1994, p. 20,
+astfel cum a fost amendată.
+2)
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+
+e) respectă cerințele specifice de stabilitate adoptate la
+nivel regional și transpuse în legislația națională conform
+procedurii de notificare prevăzute prin Directiva
+Parlamentului European și a Consiliului 98/34/CE 1) din
+22 iunie 1998, care stabilește procedura pentru organizarea
+și realizarea schimbului de informații în domeniul
+standardelor și reglementărilor tehnice, precum și al
+regulilor referitoare la serviciile societății informaționale,
+atunci când efectuează în această regiune un serviciu aflat
+sub incidența legislației naționale, cu condiția ca aceste
+cerințe să nu fie mai restrictive decât cele specificate în
+anexa la Rezoluția 14 — prescripții de stabilitate anexate
+acordului — a Conferinței SOLAS din 1995 și ca acestea
+să fi fost notificate secretarului general IMO conform
+procedurilor prevăzute la pct. 3 din această rezoluție.
+(2) Prevederile alin. (1) lit. e) se aplică navelor de
+pasageri de mare viteză numai atunci când este cazul.
+ARTICOLUL 5
+Verificările inițiale efectuate la companii de către ANR
+
+Înainte de a începe să opereze un feribot Ro-Ro sau o
+navă de pasageri de mare viteză, angajată să desfășoare
+un serviciu regulat sau care desfășoară deja un serviciu
+regulat, indiferent de pavilionul acesteia, ANR trebuie:
+1. să verifice dacă acele companii care desfășoară sau
+intenționează să desfășoare servicii regulate cu feriboturi
+Ro-Ro ori cu nave de pasageri de mare viteză:
+a) iau măsurile necesare pentru a asigura aplicarea
+cerințelor specifice stabilite în anexa nr. 1 și pentru a
+dovedi statelor gazdă implicate în servicii regulate
+respectarea dispozițiilor prezentului articol și ale art. 4;
+b) agreează anticipat că statele gazdă și oricare alt stat
+profund interesat pot conduce, participa sau coopera în
+cazul oricărei investigații a unui accident ori incident
+maritim, în conformitate cu prevederile art. 12, și permit
+accesul acestora la informațiile obținute de la VDR-ul
+feribotului Ro-Ro sau al navei de pasageri de mare viteză
+implicate în accidentul ori incidentul respectiv;
+2. să verifice dacă, în cazul feribotului Ro-Ro sau al
+navei de pasageri de mare viteză respective, care
+arborează alt pavilion decât cel român ori cel al unui stat
+membru, există acordul statului pavilionului respectiv privind
+angajamentul companiei de a respecta cerințele prezentului
+ordin.
+ARTICOLUL 6
+Inspecții specifice inițiale
+
+(1) Înainte de a începe să opereze un feribot Ro-Ro
+sau o navă de pasageri de mare viteză, angajată să
+desfășoare un serviciu regulat ori care desfășoară deja un
+serviciu regulat, ANR trebuie să efectueze o inspecție
+specifică inițială, în conformitate cu anexele nr. 1 și 3,
+pentru a verifica dacă feriboturile Ro-Ro și navele de
+pasageri de mare viteză îndeplinesc în totalitate cerințele
+necesare pentru operarea în siguranță a unui serviciu
+regulat.
+(2) În cazul în care prevederile alin. (1) se aplică
+înaintea începerii operării, ANR va stabili o dată pentru
+inspecția specifică inițială, care să nu fie mai târziu de o
+lună de la primirea probelor necesare pentru finalizarea
+verificării în conformitate cu prevederile art. 4 și 5.
+ARTICOLUL 7
+Dispoziții speciale
+
+(1) Când un feribot Ro-Ro sau o navă de pasageri de
+mare viteză urmează să fie angajată într-un alt serviciu
+regulat, ANR trebuie să țină cont de verificările și de
+
+inspecțiile efectuate anterior la feribotul Ro-Ro ori la nava
+de pasageri de mare viteză respectivă pentru operarea
+unui serviciu regulat anterior, reglementat prin prezentul
+ordin. În cazul în care ANR constată că verificările și
+inspecțiile anterioare respective sunt relevante pentru noile
+condiții de navigație, prevederile art. 4, 5 și 6 nu se aplică
+feribotului Ro-Ro sau navei de pasageri de mare viteză
+care începe să opereze în noul serviciu regulat.
+(2) Prevederile art. 4, 5 și 6 nu sunt aplicabile atunci
+când un feribot Ro-Ro sau o navă de pasageri de mare
+viteză, care respectă dispozițiile prezentului ordin și
+operează deja un serviciu regulat aflat sub incidența
+prezentului ordin, începe să opereze un alt serviciu regulat
+pentru care:
+a) caracteristicile rutei sunt recunoscute de ANR și de
+autoritățile competente ale statelor gazdă implicate ca fiind
+similare; și
+b) există acordul ANR și al statelor gazdă că feribotul
+Ro-Ro sau nava de pasageri de mare viteză îndeplinește
+toate cerințele pentru operarea în siguranță a acelui
+serviciu.
+La solicitarea unei companii, ANR poate confirma
+anticipat acordul său cu privire la faptul că o nouă rută are
+caracteristici similare.
+(3) În cazul în care, ca urmare a unor împrejurări
+neprevăzute, trebuie să se introducă rapid un feribot
+Ro-Ro sau o navă de pasageri de mare viteză pentru a
+asigura continuitatea serviciului și prevederile alin. (1) și (2)
+nu sunt aplicabile, ANR poate permite feribotului Ro-Ro ori
+navei de pasageri de mare viteză să înceapă operarea, cu
+condiția ca:
+a) o inspecție vizuală și verificarea documentelor să nu
+ridice probleme legate de îndeplinirea cerințelor necesare
+pentru operarea în siguranță a feribotului Ro-Ro sau navei
+de pasageri de mare viteză; și
+b) ANR să finalizeze verificările și inspecțiile, conform
+art. 4, 5 și 6, în termen de o lună.
+ARTICOLUL 8
+Inspecții specifice regulate și alte inspecții
+
+(1) ANR trebuie să efectueze o dată la 12 luni
+următoarele inspecții:
+a) o inspecție specifică, în conformitate cu procedurile
+prevăzute în anexa nr. 3; și
+b) o inspecție în timpul serviciului regulat, care să
+cuprindă suficiente cerințe prevăzute în anexele nr. 1, 3 și
+4, pentru a verifica dacă feribotul Ro-Ro sau nava de
+pasageri de mare viteză îndeplinește toate condițiile de
+operare în siguranță. O inspecție specifică inițială,
+desfășurată în conformitate cu prevederile art. 6, este
+considerată inspecție specifică în sensul prezentului articol.
+(2) ANR trebuie să efectueze o inspecție specifică, în
+conformitate cu procedurile prevăzute în anexa nr. 3, de
+fiecare dată când feribotul Ro-Ro sau nava de pasageri de
+mare viteză suferă reparații, modificări ori transformări
+majore sau dacă se schimbă managementul ori pavilionul
+navei sau aceasta trece în altă clasă. În cazul în care se
+schimbă managementul sau pavilionul navei ori aceasta
+trece în altă clasă, ANR poate să scutească feribotul
+Ro-Ro sau nava de pasageri de mare viteză de inspecția
+specifică, conform prevederilor prezentului alineat, după ce
+ia în considerare verificările și inspecțiile efectuate anterior
+la feribotul Ro-Ro ori la nava de pasageri de mare viteză,
+cu condiția ca schimbarea respectivă sau transferul
+respectiv să nu afecteze operarea în siguranță a feribotului
+Ro-Ro ori a navei de pasageri de mare viteză.
+
+1) Directiva Parlamentului European și a Consiliului 98/34/CE, publicată în Jurnalul Oficial nr. L 204 din 21 iulie 1998, p. 37, astfel cum
+a fost amendată.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+(3) Dacă inspecțiile prevăzute la alin. (1) confirmă sau
+dezvăluie deficiențe legate de respectarea prevederilor
+prezentului ordin, care să justifice interzicerea operării,
+toate costurile legate de inspecții vor fi suportate de
+companie.
+ARTICOLUL 9
+Notificare
+
+ANR va informa prompt companiile, în scris, despre
+rezultatele verificărilor și inspecțiilor efectuate, conform
+art. 4, 5, 6 și 8.
+ARTICOLUL 10
+Interzicerea operării
+
+(1) ANR va interzice operarea unui feribot Ro-Ro sau a
+unei nave de pasageri de mare viteză într-un serviciu
+regulat:
+a) dacă acesta sau aceasta nu respectă prevederile
+art. 4 și 5;
+b) ori de câte ori se găsesc deficiențe în timpul
+inspecțiilor prevăzute la art. 6 și 8, care pun în pericol
+imediat siguranța feribotului Ro-Ro sau a navei de pasageri
+de mare viteză ori viața echipajului și a pasagerilor
+acesteia;
+c) dacă se constată că nu sunt respectate prevederile
+actelor normative aplicabile, prevăzute în anexa nr. 2, și
+constituie un pericol imediat pentru siguranța feribotului
+Ro-Ro sau a navei de pasageri de mare viteză ori pentru
+viața echipajului și a pasagerilor acesteia;
+d) ori de câte ori nu a fost consultată de către
+autoritățile competente ale statului pavilionului, în ceea ce
+privește respectarea prevederilor art. 13 alin. (1) sau (5).
+Interzicerea operării va fi menținută până ce ANR
+constată că pericolul este eliminat și că sunt îndeplinite
+prevederile prezentului ordin.
+ANR trebuie să informeze în scris compania cu privire
+la decizia de interzicere a operării feribotului Ro-Ro sau a
+navei de pasageri de mare viteză, expunând detaliat
+motivele.
+(2) Dacă feribotul Ro-Ro sau nava de pasageri de mare
+viteză operează deja un serviciu regulat și se descoperă
+deficiențe, ANR trebuie să solicite companiei să ia măsurile
+necesare pentru remedierea lor promptă ori într-o perioadă
+de timp bine definită și rezonabilă, cu condiția ca aceste
+deficiențe să nu prezinte un pericol imediat pentru
+siguranța feribotului Ro-Ro sau a navei de pasageri de
+mare viteză, a echipajului ori pasagerilor acesteia. După
+remedierea deficiențelor, ANR trebuie să verifice dacă
+aceste remedieri au fost realizate. În caz contrar, ANR
+trebuie să interzică operarea navelor respective.
+(3) Compania are dreptul la contestație împotriva
+deciziei ANR de interzicere a operării. Dreptul la
+contestație se supune prevederilor legii privind contenciosul
+administrativ. Contestația nu suspendă decizia de
+interzicere a operării. ANR trebuie să informeze în timp util
+compania despre dreptul la contestație.
+(4) În cazurile în care prevederile art. 4, 5 și 6 sunt
+aplicabile înainte ca feribotul Ro-Ro sau nava de pasageri
+de mare viteză să înceapă operarea în serviciu regulat, o
+decizie de interzicere a operării navei trebuie luată de ANR
+în perioada de o lună de la inspecția specifică inițială și
+aceasta trebuie comunicată imediat companiei.
+ARTICOLUL 11
+Proceduri referitoare la inspecțiile specifice inițiale și regulate
+
+(1) Feriboturile Ro-Ro și navele de pasageri de mare
+viteză care au fost supuse inspecțiilor specifice cu rezultate
+
+27
+
+satisfăcătoare pentru ANR sunt scutite de inspecțiile
+extinse impuse de prevederile art. 7 alin. (4) din Directiva
+95/21/CE 1) și de inspecțiile extinse bazate pe motive
+întemeiate justificate prin faptul că acestea aparțin
+categoriei de nave de pasageri la care se face referire în
+art. 7 alin. (1) și în partea A pct. 4 din anexa nr. 5 la
+aceeași directivă.
+(2) Atunci când într-un serviciu regulat sunt implicate și
+alte state gazdă, ANR va coopera cu autoritățile
+competente din celelalte state gazdă pentru efectuarea unei
+inspecții specifice la un feribot Ro-Ro sau la o navă de
+pasageri de mare viteză. Inspecțiile specifice se efectuează
+de către o echipă compusă din inspectorii calificați ai ANR
+și ai celorlalte state gazdă. Dacă este necesară o evaluare
+calitativă a îndeplinirii dispozițiilor referitoare la clasă, în
+echipa de inspecție va fi inclus și un inspector dintr-o
+organizație recunoscută. Inspectorii vor raporta deficiențele
+administrațiilor statelor pavilionului din statele gazdă. O
+copie a raportului de inspecție va fi transmisă de către
+ANR administrației statului pavilionului, dacă statul respectiv
+nu este un stat gazdă implicat în inspecție.
+(3) ANR poate efectua inspecții la solicitarea unui alt
+stat gazdă implicat.
+(4) La cererea companiilor, ANR invită administrația
+statului pavilionului care nu este un stat gazdă să fie
+reprezentată în orice inspecție specifică, conform
+prevederilor prezentului ordin.
+(5) În planificarea unei inspecții, în conformitate cu
+prevederile art. 6 și 8, ANR trebuie să acorde atenția
+cuvenită programului de navigație și de întreținere a
+feribotului Ro-Ro sau a navei de pasageri de mare viteză.
+(6) Constatările inspecțiilor specifice sunt consemnate de
+ANR într-un raport; o copie a acestor rapoarte trebuie să
+se găsească permanent la bordul feribotului Ro-Ro sau al
+navei de pasageri de mare viteză.
+(7) În cazul unui dezacord existent între ANR și
+autoritățile competente din statele gazdă cu privire la
+îndeplinirea cerințelor prevăzute la art. 4 și art. 5 alin. (1),
+ANR va informa imediat Comisia Europeană cu privire la
+motivele dezacordului.
+ARTICOLUL 12
+Investigarea accidentelor
+
+(1) ANR trebuie să permită oricărui stat profund
+interesat să coopereze sau să conducă orice cercetare a
+accidentului ori a incidentului maritim în care este implicat
+un feribot Ro-Ro sau o navă de pasageri de mare viteză,
+în conformitate cu Codul pentru investigarea accidentelor
+maritime.
+(2) Procedura de investigare trebuie începută de ANR
+după un accident sau incident maritim în care a fost
+implicat un feribot Ro-Ro sau o navă de pasageri de mare
+viteză, indiferent de pavilionul acesteia, atunci când
+accidentul maritim a survenit în:
+a) apele naționale navigabile românești; sau
+b) alte ape, care nu sunt ape naționale navigabile
+românești sau ale unui stat membru, dacă România este
+ultimul stat vizitat de navă.
+(3) În situația prevăzută la alin. (2), ANR răspunde de
+investigație și de coordonarea altor state profund interesate
+până în momentul în care se stabilește, de comun acord,
+care va fi statul care va conduce investigația.
+
+1) Directiva Consiliului nr. 95/21/CE din 19 iunie 1995 privind controlul statului portului din 7 iulie 1995, publicată în Jurnalul Oficial nr. L 157,
+p. 1, astfel cum a fost amendată.
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+
+(4) ANR în cooperare cu autoritățile competente din
+statele membre care conduc, participă sau cooperează la
+investigațiile respective trebuie să garanteze definitivarea
+cercetărilor în modul cel mai eficient și în cel mai scurt
+timp posibil, în conformitate cu prevederile Codului pentru
+investigarea accidentelor maritime.
+(5) ANR în cooperare cu autoritățile competente din
+statele membre trebuie să garanteze că rapoartele rezultate
+din investigarea respectivă sunt făcute publice în
+conformitate cu pct. 12.3 din Codul pentru investigarea
+accidentelor maritime și sunt comunicate Comisiei
+Europene.
+ARTICOLUL 13
+Măsuri însoțitoare
+
+(1) În cazul în care ANR emite, respectiv recunoaște un
+certificat de scutire, trebuie să colaboreze cu autoritatea
+competentă a statului gazdă implicat, respectiv cu
+administrația statului pavilionului, pentru a rezolva orice
+dezacord privind oportunitatea scutirilor înaintea inspecției
+specifice inițiale.
+(2) ANR trebuie să adopte măsurile necesare pentru ca
+sistemul pentru dirijarea navigației, precum și alte sisteme
+informative în conformitate cu Rezoluția Adunării IMO
+A.795(19) să fie permanent în funcțiune pentru a asista
+feriboturile Ro-Ro și navele de pasageri de mare viteză în
+operarea în siguranță a serviciilor regulate sau a acelei
+părți a serviciilor regulate, pentru care ANR poartă
+responsabilitatea.
+(3) ANR va transmite Comisiei Europene copii ale
+rapoartelor de inspecție prevăzute la art. 11 alin. (6), cu
+numărul de identificare, dacă este cazul.
+(4) ANR trebuie să se asigure că acele companii care
+operează feriboturile Ro-Ro ori nave de pasageri de mare
+viteză în servicii regulate spre sau dinspre un port
+românesc sunt capabile să mențină și să implementeze un
+sistem integrat de planificare a situațiilor neprevăzute, în
+cazul avariilor la bordul navei, în conformitate cu
+prevederile Rezoluției Adunării IMO A.852(20) privind liniile
+directoare pentru o structură a unui sistem integrat de
+contingență. ANR în cooperare cu autoritățile competente
+din celelalte state gazdă, care sunt implicate într-un
+serviciu regulat, stabilesc de comun acord un plan pentru
+rute diferite.
+(5) În cazul în care o navă de pasageri de mare viteză
+urmează să efectueze un serviciu regulat spre sau dinspre
+un port românesc, ANR trebuie să coopereze cu
+administrația statului pavilionului navei ca în timpul evaluării
+respectivei nave, pentru emiterea permisului de operare ca
+navă de pasageri de mare viteză în conformitate cu
+pct. 1.9.3 din Codul pentru navele de mare viteză, să se
+țină cont de restricțiile din porturile românești privind
+protejarea vieții, a resurselor naturale și a activităților de
+coastă și să se ia măsuri pentru a asigura punerea în
+aplicare a acestor restricții.
+
+ARTICOLUL 14
+Cooperarea între statele gazdă
+
+ANR trebuie să stabilească o legătură permanentă cu
+autoritățile competente din celelalte state gazdă implicate în
+același serviciu regulat la aplicarea prevederilor prezentului ordin.
+ARTICOLUL 15
+Măsuri de susținere
+
+ANR va informa statele terțe, care au fie
+responsabilitățile statului pavilionului, fie responsabilități
+similare cu cele ale unui stat gazdă în cazul feriboturilor
+Ro-Ro sau navelor de pasageri de mare viteză care intră
+sub incidența prezentului ordin și care operează între un
+port românesc și un port al unui stat terț, asupra cerințelor
+impuse de prezentul ordin oricărei companii care asigură
+un serviciu regulat spre sau dinspre un port românesc.
+ARTICOLUL 16
+Sancțiuni
+
+Contravențiile la prevederile prezentului ordin se
+stabilesc prin hotărâre a Guvernului.
+ARTICOLUL 17
+
+ANR va duce la îndeplinire prevederile prezentului ordin.
+ARTICOLUL 18
+
+Prezentul ordin transpune Directiva Consiliului
+nr. 1999/35/CE din 29 aprilie 1999 privind sistemul de
+inspecții obligatorii la navele de tip feribot Ro-Ro, precum
+și la navele de pasageri de mare viteză care operează în
+serviciu regulat, publicată în Jurnalul Oficial al Comunităților
+Europene (JOCE) nr. L 138 din 1 iunie 1999, p. 0001-0019,
+precum și prevederile Directivei Parlamentului European și
+a Consiliului nr. 2002/84/CE din 5 noiembrie 2002, care
+amendează directivele privind siguranța maritimă și
+prevenirea poluării de către nave, publicată în JOCE
+nr. L 324 din 29 noiembrie 2002, p. 0053-0058.
+ARTICOLUL 19
+
+Anexele nr. 1—5 fac parte integrantă din prezentul ordin.
+ARTICOLUL 20
+
+Prezentul ordin se publică în Monitorul Oficial al
+României, Partea I.
+ARTICOLUL 21
+
+La data intrării în vigoare a prezentului ordin se abrogă
+Ordinul ministrului lucrărilor publice, transporturilor și
+locuinței nr. 538/2003 pentru aprobarea Sistemului de
+inspecții obligatorii pentru operarea în siguranță a navelor
+de tip Ro-Ro ferry care transportă și pasageri, precum și a
+navelor de pasageri de mare viteză care operează în
+serviciu regulat, publicat în Monitorul Oficial al României,
+Partea I, nr. 264 din 16 aprilie 2003.
+
+Ministrul transporturilor, construcțiilor și turismului,
+Gheorghe Dobre
+București, 17 martie 2006.
+Nr. 389.
+ANEXA Nr. 1
+CERINȚE SPECIFICE
+
+care trebuie să fie îndeplinite de către companii
+[prevăzute la art. 5 alin. (1) și la art. 6 și 8 din ordin]
+Companiile trebuie să se asigure că la bordul
+feriboturilor Ro-Ro și al navelor de pasageri de mare
+viteză:
+
+1. comandantul deține, înainte ca nava să plece în
+voiaj, informațiile corespunzătoare privind disponibilitatea
+sistemelor de coastă pentru dirijarea navigației, precum și
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+alte sisteme de informații care să îl sprijine în manevrarea
+în condiții de siguranță pe perioada voiajului și folosește în
+navigație aceste sisteme de informații stabilite de statele
+gazdă;
+2. sunt respectate prevederile relevante ale alin. 2—6
+din MSC/Circulara 699 privind liniile directoare revizuite
+pentru transportul în siguranță al pasagerilor;
+3. tabelul cu programul de lucru la bordul navei este
+plasat într-un loc ușor accesibil și conține:
+a) programul de serviciu pe mare și serviciu în port; și
+b) numărul maxim de ore de lucru sau numărul minim
+de ore de odihnă necesare pentru ofițerii de cart;
+4. comandantul nu este împiedicat să ia orice decizie
+pe care o consideră necesară din punct de vedere
+profesional pentru navigarea și operarea în siguranță a
+navelor, în special în condiții meteorologice grele și mare
+foarte agitată;
+5. comandantul ține evidența activităților și incidentelor
+de navigație care sunt importante pentru siguranța
+navigației;
+
+29
+
+6. orice defecțiune la sau deformare permanentă a
+porților de operare și la bordajul metalic exterior, care
+poate afecta integritatea feribotului Ro-Ro sau a navei de
+pasageri de mare viteză, precum și orice deficiențe în
+sistemele de comandă și control pentru închiderea acestor
+porți sunt aduse prompt la cunoștință atât administrației
+statului pavilionului, cât și statului gazdă și sunt reparate
+prompt;
+7. se poate procura un orar actualizat al curselor
+înaintea plecării în cursă a feribotului Ro-Ro sau a navei
+de pasageri de mare vitează. La elaborarea orarului
+curselor trebuie să se țină seama de liniile directoare
+privind planificarea voiajurilor stabilite de IMO prin Rezoluția
+Adunării A.893(21);
+8. sunt aduse la cunoștință pasagerilor informații
+generale referitoare la asistența pentru persoanele în vârstă
+și a celor cu handicap aflate la bord și care pot fi
+procurate în formate potrivite și pentru persoanele cu
+deficiențe de vedere.
+ANEXA Nr. 2
+
+LISTA
+
+actelor normative aplicabile
+[prevăzută la art. 10 alin. (1) lit. c) din ordin]
+1. Directiva Consiliului nr. 93/75/CEE din 13 septembrie
+1993 privind cerințele minime pentru navele care intră sau
+ies în/din porturile Comunității și care transportă mărfuri
+periculoase sau poluante (publicată în Jurnalul Oficial
+nr. L 247 din 5 octombrie 1993, p. 19). Directiva, astfel
+cum a fost amendată inclusiv prin Directiva Comisiei
+nr. 98/74/EC (publicată în Jurnalul Oficial nr. L 276 din
+13 octombrie 1998, p. 7);
+2. Directiva Consiliului nr. 94/58/CE din 22 noiembrie
+1994 privind nivelul minim de instruire al personalului
+navigant (publicată în Jurnalul Oficial nr. L 319 din
+
+12 decembrie 1994, p. 28). Directiva, astfel cum a fost
+amendată inclusiv prin Directiva nr. 98/35/CE (publicată în
+Jurnalul Oficial nr. L 172 din 17 iunie 1998, p. 1), când
+este cazul;
+3. Regulamentul Consiliului (CE) nr. 3.051/95 din
+8 decembrie 1995 privind managementul siguranței navelor
+de tip feribot Ro-Ro (publicat în Jurnalul Oficial nr. L 320
+din 30 decembrie 1995, p. 14). Regulamentul, astfel cum a
+fost amendat prin Regulamentul Comisiei (CE) nr. 179/98
+(publicat în Jurnalul Oficial nr. L 19 din 24 ianuarie 1998,
+p. 35)
+ANEXA Nr. 3
+
+PROCEDURI PENTRU INSPECȚIILE SPECIFICE
+
+[prevăzute la art. 6 și 8 din ordin]
+1. Prin inspecțiile specifice trebuie să se asigure faptul
+că cerințele statutare, în special pentru construcție,
+compartimentare și stabilitate, mașini și instalații electrice,
+încărcare, protecție contra incendiilor, numărul maxim de
+pasageri, mijloace de salvare a vieții și transportul
+mărfurilor periculoase, radiocomunicații și navigație, sunt
+îndeplinite în totalitate și corespund scopului și că includ,
+după caz, cel puțin următoarele:
+a) pornirea generatorului de avarie;
+b) inspecția iluminatului de avarie;
+c) inspecția sursei de alimentare de avarie pentru stațiile
+radio;
+d) încărcarea instalației de radioficare;
+e) rolul de incendiu, care să includă o demonstrație de
+folosire a echipamentului pentru pompieri;
+f) punerea în funcțiune a pompei de incendiu de avarie
+cu două furtunuri de incendiu conectate la conducta
+principală de stins incendiu;
+g) testarea închiderii de la distanță a alimentării cu
+combustibil la caldarine, motoarele principale și auxiliare și
+a obturatoarelor de la ventilatoare;
+h) testarea comenzilor de la distanță și locale privind
+închiderea obturatoarelor;
+i) testarea detectorului de incendiu și a sistemului de
+alarmă;
+j) testarea închiderii corespunzătoare a porților etanșe;
+k) funcționarea pompelor de santină;
+
+l) închiderea ușilor porților etanșe atât prin comandă
+locală, cât și de la distanță;
+m) o demonstrație care să arate că membrii-cheie ai
+echipajului sunt familiarizați cu planul de vitalitate al navei;
+n) coborârea a cel puțin unei bărci de salvare de
+urgență și a unei bărci de salvare la apă, pornirea și
+verificarea sistemului lor de propulsie și de guvernare,
+recuperarea lor din apă și arimarea lor în poziția normală
+de la bord;
+o) verificarea inventarului bărcilor de salvare și al
+plutelor de salvare;
+p) testarea instalației de guvernare a navei și a
+sistemului auxiliar de guvernare.
+2. Inspecțiile specifice trebuie să includă verificarea
+sistemului de întreținere planificată de la bord.
+3. Inspecțiile specifice trebuie să se concentreze asupra
+familiarizării membrilor echipajului cu procedurile de
+siguranță, procedurile în caz de urgență, tehnicile de
+întreținere și de lucru, siguranța pasagerilor, procedurile
+pentru puntea de navigație a navei și operațiunile legate de
+transportul mărfurilor și vehiculelor, precum și asupra
+eficienței acestora. Trebuie să se verifice abilitatea
+navigatorilor de a înțelege sau, după caz, de a da ordine
+și instrucțiuni și de a raporta într-un limbaj comun de lucru,
+așa cum sunt înscrise în jurnalul de bord. Se va verifica
+evidența documentelor care atestă că membrii echipajului
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+
+au urmat cu succes o pregătire specială, în mod deosebit
+cele referitoare la:
+a) cursuri în managementul aglomerării mulțimilor;
+b) cursuri de familiarizare;
+c) cursuri de pregătire pentru personalul implicat direct
+în acordarea asistenței pasagerilor în spațiile destinate
+acestora, în special pasagerilor în vârstă și celor infirmi; și
+d) cursuri de management al comportamentului uman în
+situații de criză.
+Inspecția specifică trebuie să includă o evaluare pentru
+a se stabili dacă nu cumva programul de lucru și de
+
+odihnă nu provoacă o oboseală nejustificată, în special în
+rândul personalului de cart.
+4. Brevetele membrilor echipajului emise de statele terțe
+vor fi recunoscute numai când acestea sunt în conformitate
+cu Regula I/10 din Convenția internațională privind
+standardele de pregătire a navigatorilor, brevetare/atestare
+și efectuare a serviciului de cart, adoptată la Londra la
+7 iulie 1978 (STCW 1978), astfel cum a fost amendată, la
+care România a aderat prin Legea nr. 107/1992.
+ANEXA Nr. 4
+
+LINII DIRECTOARE
+
+pentru inspectorii calificați când efectuează inspecții neplanificate în timpul unui serviciu regulat
+[prevăzute la art. 8 alin. (1) din ordin]
+1. Informații cu privire la pasageri
+Se verifică:
+a) faptul că numărul de pasageri îmbarcați la bordul
+navelor nu este mai mare decât numărul de pasageri
+pentru care este certificat feribotul Ro-Ro sau nava de
+pasageri de mare viteză;
+b) dacă sistemul de înregistrare a informațiilor referitoare
+la pasageri este efectiv implementat și este în conformitate
+cu prevederile aplicabile;
+c) modalitatea în care informațiile referitoare la numărul
+total de pasageri sunt transmise comandantului și, dacă
+este cazul, modalitatea prin care pasagerii care efectuează
+o traversare dublă, fără a debarca, sunt incluși în numărul
+total la cursa de întoarcere.
+2. Informații cu privire la încărcare și stabilitate
+Se verifică:
+a) acolo unde este cazul, dacă sunt instalate indicatoare
+de pescaj sigure și dacă acestea sunt utilizate;
+b) dacă se iau măsuri pentru a se asigura că nava nu
+este supraîncărcată și că linia de încărcare maximă de
+compartimentare nu se află sub nivelul apei;
+c) dacă determinarea încărcării și a stabilității se
+efectuează corespunzător;
+d) dacă vehiculele cu mărfuri și alte încărcături se
+cântăresc unde trebuie și cifrele privind greutatea sunt
+transmise navei pentru a fi utilizate la determinarea
+încărcării și stabilității;
+e) dacă planurile pentru controlul avariilor sunt expuse
+în permanență și dacă sunt prevăzute broșuri cu informații
+despre controlul avariilor pentru ofițerii de pe navă.
+3. Securitatea pe mare
+Se verifică:
+a) procedura prin care se garantează că nava întrunește
+toate condițiile de securitate pentru a naviga, înainte să
+părăsească dana, care ar trebui să includă o procedură de
+raportare pozitivă privind faptul că toate porțile de operare
+laterală etanșe la apă și intemperii sunt închise;
+b) dacă toate porțile punților cu vehicule sunt închise
+înainte ca nava să părăsească dana sau rămân deschise
+doar atât timp cât să permită închiderea vizorului provei;
+c) dacă sistemele de închidere a porților de la provă,
+pupă și laterale sunt dotate cu indicatoare luminoase și
+supraveghere TV, care să indice situația acestora pe
+puntea de comandă. Orice dificultăți legate de funcționarea
+indicatoarelor luminoase, în special a întrerupătoarelor de la
+porți, trebuie să fie verificate și raportate.
+4. Anunțurile pentru măsuri de siguranță
+Se verifică:
+a) forma anunțurilor curente privind măsuri de protecție
+și afișarea instrucțiunilor și a traseelor în cazul procedurilor
+de urgență în limba/limbile corespunzătoare;
+
+b) dacă anunțurile traseelor de siguranță sunt efectuate
+la începutul voiajului și pot fi auzite în toate spațiile
+publice, inclusiv pe punțile deschise, la care pasagerii au
+acces.
+5. Înregistrările în jurnalul de bord
+Se verifică:
+a) jurnalul de bord, pentru a se asigura că s-au efectuat
+înregistrări referitoare la închiderea porților de la provă,
+pupă și a altor porți etanșe la apă și la intemperii, testarea
+porților de la compartimentele etanșe la apă și a instalației
+de guvernare etc.;
+b) dacă se înregistrează pescajele, bordul liber și
+stabilitatea, precum și limba de lucru comună pentru
+echipaj.
+6. Mărfuri periculoase
+Se verifică:
+a) dacă orice încărcătură de mărfuri periculoase sau
+poluante este transportată în conformitate cu legislația
+relevantă, în special dacă există o declarație privind
+mărfurile periculoase sau poluante, împreună cu un
+cargomanifest ori un cargoplan, care să indice localizarea
+acestora la bord;
+b) dacă orice marfă periculoasă sau poluantă este
+permis să fie transportată pe nave de pasageri și dacă
+mărfurile periculoase și poluante sunt marcate, etichetate,
+stivuite, fixate și separate;
+c) dacă vehiculele care transportă mărfurile periculoase
+și poluante sunt placate și asigurate;
+d) dacă, atunci când se transportă mărfuri periculoase
+și poluante, există la țărm o copie a cargomanifestului sau
+a cargoplanului;
+e) dacă comandantul este avertizat cu privire la
+cerințele privind raportarea incidentelor în care sunt
+implicate nave maritime care transportă mărfuri periculoase,
+substanțe dăunătoare și/sau poluanți marini (Directiva
+93/75/CEE) și toate instrucțiunile privind procedurile de
+urgență ce trebuie urmate și cele de acordare a primului
+ajutor în cazul unui incident care implică mărfuri
+periculoase sau poluanți marini;
+f) dacă dispozitivele de ventilație a punților pentru
+vehicule funcționează tot timpul, dacă funcționează mai
+intens atunci când motoarele vehiculelor sunt în funcțiune
+și dacă există un indicator pe punte care să arate că
+ventilația punților pentru vehicule este în funcțiune.
+7. Fixarea vehiculelor de marfă
+Se verifică:
+a) modul în care sunt fixate vehiculele de marfă, de
+exemplu dacă sunt arimate în bloc sau sunt legate
+individual;
+b) dacă sunt disponibile puncte de fixare suficient de
+puternice;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+c) dacă există sisteme de fixare a vehiculelor de marfă,
+în cazul în care are loc sau se preconizează vreme rea;
+d) dacă există metode pentru fixarea autocarelor sau
+motocicletelor;
+e) dacă nava posedă un manual pentru fixarea
+încărcăturii.
+8. Punțile pentru vehicule
+Se verifică:
+a) dacă spațiile pentru încărcătură de categorie specială
+și Ro-Ro sunt patrulate și supravegheate continuu printr-un
+sistem de supraveghere TV, astfel încât să se poată
+observa deplasarea vehiculelor în caz de vreme
+nefavorabilă și intrarea neautorizată a pasagerilor;
+b) dacă porțile de evacuare în caz de incendiu și
+intrările se mențin închise și dacă sunt afișate anunțuri prin
+care să se interzică accesul pasagerilor la punțile cu
+vehicule în timp ce nava se află pe mare.
+9. Închiderea porților etanșe la apă
+Se verifică:
+a) dacă este respectată politica stabilită în instrucțiunile
+de funcționare a navei pentru porțile etanșe la apă;
+b) dacă se efectuează instruirile necesare;
+c) dacă controlul porților etanșe la apă, de pe comanda
+de navigație, este menținut, când este posibil, pe controlul
+îlocal“;
+d) dacă porțile sunt ținute închise în caz de vizibilitate
+redusă și orice situație primejdioasă;
+e) dacă echipajele sunt instruite în mod corect pentru
+operarea porților și cunosc pericolele utilizării greșite a
+acestora.
+10. Patrulele contra incendiilor
+Trebuie să fie confirmat că se menține o patrulare
+eficientă, astfel încât să se poată detecta imediat orice
+izbucnire de foc. Aceasta trebuie să includă spațiile
+speciale care nu sunt prevăzute cu un sistem fix de
+detectare a focului și de alarmă, consemnând că aceste
+spații pot fi patrulate conform celor prevăzute la pct. 8.
+11. Comunicațiile în caz de avarie
+Se verifică dacă există suficienți membri ai echipajului,
+conform listei de responsabilități, care să ajute pasagerii în
+caz de avarie și dacă aceștia pot fi identificați repede și
+pot să comunice cu pasagerii în caz de avarie, luând în
+considerare o combinație corespunzătoare și adecvată de
+oricare dintre următorii factori:
+a) limba sau limbile corespunzătoare principalelor
+naționalități de pasageri transportați pe o anumită rută;
+b) probabilitatea ca o abilitate în folosirea vocabularului
+elementar al limbii engleze pentru instrucțiunile de bază să
+poată oferi un mijloc de comunicare cu un pasager care
+are nevoie de ajutor, indiferent dacă pasagerul și membrii
+echipajului folosesc o limbă comună sau nu;
+c) necesitatea posibilă de a comunica în timpul unei
+avarii prin alte mijloace (de exemplu, atenționarea prin
+demonstrații, gesturi sau atenționarea asupra locului
+instrucțiunilor, a posturilor de apel, a dispozitivelor de
+salvare a vieților omenești ori a căilor de evacuare, atunci
+când comunicarea verbală este impracticabilă);
+d) măsura în care le sunt oferite pasagerilor instrucțiuni
+complete de protecție în limba sau în limbile
+maternă/materne a/ale acestora;
+e) limbile în care pot fi difuzate anunțurile prin radio în
+timpul unei avarii sau exercițiu, pentru a transmite o
+orientare esențială pasagerilor și a facilita sprijinul acordat
+pasagerilor de către membrii echipajului.
+12. Limba de lucru comună între membrii echipajului
+Se verifică dacă s-a stabilit o limbă de lucru pentru a
+asigura o reacție eficientă a echipajului în probleme de
+siguranță și dacă această limbă de lucru este trecută în
+jurnalul de bord al navei.
+
+31
+
+13. Echipamentul de protecție
+Se verifică:
+a) dacă echipamentul de salvare și de combatere a
+incendiilor, incluzând ușile contra incendiului și alte articole
+de protecție structurală contra incendiilor, care pot fi repede
+inspectate, sunt întreținute corespunzător;
+b) dacă sunt expuse în permanență planuri pentru
+stingerea incendiilor sau sunt prevăzute broșuri cu
+informații echivalente pentru informarea ofițerilor navei;
+c) dacă vestele de salvare sunt stocate corespunzător
+și dacă stocul de veste de salvare pentru copii se poate
+identifica repede;
+d) dacă încărcătura vehiculelor nu împiedică acționarea
+dispozitivelor de localizare a incendiilor, întrerupătoarelor de
+urgență, dispozitivelor de control pentru clapetele de
+furtună etc., care se pot afla pe punțile cu vehicule.
+14. Echipamentul de navigație și radio
+Se verifică dacă echipamentul de navigație și de
+comunicații radio, incluzând radiofarurile (EPIRBs) pentru
+localizarea avariilor, sunt operaționale.
+15. Indicatoarele luminoase suplimentare pentru avarii
+Se verifică dacă sunt prevăzute indicatoare luminoase
+suplimentare pentru avarii, conform regulamentelor, și dacă
+se ține o evidență a deficiențelor.
+16. Mijloacele de salvare
+Se verifică:
+a) dacă marcajul mijloacelor de salvare este în
+concordanță cu cerințele aplicabile și dacă indicatoarele
+luminoase sunt alimentate atât de la generatorul principal,
+cât și de la cel de avarie;
+b) dacă s-au luat măsuri pentru ca vehiculele să nu
+încurce căile de salvare, în cazul în care căile de salvare
+traversează sau trec pe punțile pentru vehicule;
+c) dacă ieșirile, în special cele de la magazinele scutite
+de taxe vamale, care au fost găsite blocate de mărfuri în
+exces, sunt menținute libere.
+17. Registrul de operații
+Se verifică dacă există copii ale registrului de operații
+pentru comandant și pentru fiecare ofițer de grad superior
+și dacă există copii disponibile pentru toți membrii
+echipajului. De asemenea, se verifică dacă există liste de
+verificare care să cuprindă pregătirea pentru mare și alte
+operații.
+18. Curățenia în compartimentul mașinilor
+Se verifică dacă în compartimentul mașinilor este
+păstrată curățenia legată de procedurile de întreținere.
+19. Evacuarea gunoiului
+Se verifică dacă amenajările pentru manipularea și
+evacuarea gunoiului sunt satisfăcătoare.
+20. Planificarea întreținerii
+Se verifică:
+a) dacă toate companiile au prevăzute cerințe specifice
+pentru întreținerea planificată a tuturor elementelor privind
+siguranța, incluzând ușile de la prova și pupa și porțile
+laterale, împreună cu sistemele lor de închidere, dar care
+să includă și întreținerea compartimentului mașinilor și a
+echipamentului de protecție;
+b) dacă există planuri pentru verificarea periodică a
+tuturor elementelor, astfel încât normele de siguranță să fie
+menținute la cel mai înalt nivel;
+c) dacă există proceduri pentru evidența deficiențelor și
+confirmarea rectificării lor corespunzătoare, astfel încât
+comandantul și persoana desemnată de pe uscat din
+structura administrației companiei să aibă cunoștință despre
+deficiențe și să fie înștiințate despre rectificarea acestora
+într-un timp determinat;
+d) dacă verificările periodice ale sistemelor de comandă
+și control pentru închiderea porților interioare și exterioare
+de la prova includ indicatoarele, echipamentul de
+supraveghere și toate orificiile de scurgere a apei de pe
+
+32
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 322/10.IV.2006
+
+punte din spațiile dintre vizorul provei și poarta interioară,
+în special mecanismele de închidere și sistemele hidraulice
+ale acestora.
+21. Efectuarea unui voiaj
+Atunci când se efectuează un voiaj trebuie să se profite
+de ocazie pentru a se verifica supraaglomerarea, inclusiv
+
+disponibilitatea locurilor și blocarea culoarelor, scărilor și
+evacuărilor, în caz de avarii, cu bagaje și pasageri care nu
+își găsesc locurile. De asemenea, trebuie să se verifice
+dacă pasagerii sunt evacuați de pe puntea cu vehicule
+înaintea ieșirii navei în larg și să se asigure că aceștia nu
+revin decât după acostarea navei.
+ANEXA Nr. 5
+
+CRITERII
+
+privind calificarea și independența pentru inspectorii calificați
+[prevăzute la art. 2 lit. j) din ordin]
+1. Inspectorul calificat trebuie să fie autorizat de ANR
+sau de autoritatea competentă a statului membru să
+efectueze inspecțiile speciale prevăzute la art. 6.
+2. Fie:
+— inspectorul calificat trebuie să aibă minimum un an
+vechime în serviciul ANR sau al autorității competente a
+unui stat membru ca inspector al statului pavilionului care
+efectuează inspecții și certificare în conformitate cu
+Convenția SOLAS 1974;
+— și să fie posesorul:
+a) unui brevet de comandant, care îi dă dreptul să preia
+comanda unei nave cu un tonaj brut de 1.600 sau mai
+mare (a se vedea STCW, Regula II/2); sau
+b) unui brevet de șef mecanic care să îi dea dreptul să
+dețină funcția la bordul unei nave al cărei motor principal
+are o putere mai mare sau egală cu 3.000 kW (a se
+vedea STCW, Regula III/2); sau
+c) unei diplome de arhitect naval, inginer mecanic sau
+de inginer în domeniul maritim obținută în România sau
+într-un stat membru și să fi lucrat cel puțin 5 ani în una
+dintre aceste funcții;
+— inspectorii calificați menționați la lit. a) și b) trebuie
+să aibă o experiență pe mare de cel puțin 5 ani ca ofițer
+de punte sau șef mecanic;
+sau:
+— inspectorul calificat trebuie să fie deținătorul unei
+diplome universitare de profil sau să fi urmat o formă de
+învățământ echivalentă în România sau într-un stat
+membru; și
+
+— să fi fost instruit și calificat ca inspector în domeniul
+siguranței navei din România sau dintr-un stat membru; și
+— să fi lucrat cel puțin 2 ani la ANR sau la o autoritate
+competentă a unui stat membru ca inspector al statului
+pavilionului care efectuează inspecția și certificarea în
+conformitate cu Convenția SOLAS 1974.
+3. Inspectorii calificați trebuie să aibă capacitatea de a
+comunica verbal și în scris cu personalul navigant în limba
+folosită în mod uzual pe mare.
+4. Inspectorii calificați trebuie să aibă cunoștințe
+corespunzătoare despre prevederile Convenției SOLAS
+1974 și procedurile corespunzătoare din prezentul ordin.
+5. Inspectorii calificați care efectuează inspecții specifice
+nu trebuie să aibă vreun interes comercial în compania
+respectivă sau în orice altă companie care operează un
+serviciu regulat efectuat spre sau dinspre statul gazdă
+implicat, nici la feribotul Ro-Ro sau la nava de pasageri de
+mare viteză inspectată și nici nu trebuie să fie angajați de
+organizații nonguvernamentale și să nu desfășoare activități
+în numele organizațiilor nonguvernamentale care efectuează
+inspecții statutare sau inspecții de clasificare ori care
+eliberează certificate pentru feriboturile Ro-Ro sau pentru
+navele de pasageri de mare viteză.
+6. Inspectorii care nu îndeplinesc criteriile de mai sus
+sunt, de asemenea, acceptați dacă au mai fost angajați de
+ANR sau de autoritatea competentă a statului membru
+pentru efectuarea inspecțiilor statutare ori a inspecțiilor PSC
+la data adoptării Directivei 95/21/CE.
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+Regia Autonomă îMonitorul Oficial“, Str. Parcului nr. 65, sectorul 1, București; C.U.I. 427282; Atribut fiscal R,
+IBAN: RO75RNCB5101000000120001 Banca Comercială Română — S.A. — Sucursala îUnirea“ București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 318.51.29/150, fax 318.51.15, E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 410.47.30, tel./fax 410.77.36 și 410.47.23
+Tiparul: Regia Autonomă îMonitorul Oficial“
+Monitorul Oficial al României, Partea I, nr.322/10.IV.2006 conține 32 de pagini.
+
+Prețul: 2,25 lei noi/22.500 lei vechi
+
+&JUYDGY|114982]
+ISSN 1453—4495
+
+

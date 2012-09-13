@@ -1,0 +1,3145 @@
+PARTEA
+
+Anul 174 (XVIII) — Nr. 228
+
+I
+
+Marți, 14 martie 2006
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE COMISIEI NAȚIONALE
+A VALORILOR MOBILIARE
+
+15.
+
+— Ordin pentru aprobarea Regulamentului
+nr. 2/2006 privind piețele reglementate și
+sistemele alternative de tranzacționare ...................
+
+1–32
+
+ACTE ALE COMISIEI NAȚIONALE A VALORILOR MOBILIARE
+COMISIA NAȚIONALĂ A VALORILOR MOBILIARE
+
+ORDIN
+pentru aprobarea Regulamentului nr. 2/2006 privind piețele reglementate
+și sistemele alternative de tranzacționare
+În conformitate cu prevederile art. 1, 2 și ale art. 7 alin. (3), (5), (10) și (15) din Statutul Comisiei Naționale a
+Valorilor Mobiliare, aprobat prin Ordonanța de urgență a Guvernului nr. 25/2002, aprobată și modificată prin Legea
+nr. 514/2002, modificat și completat prin Legea nr. 297/2004 privind piața de capital, cu modificările și completările
+ulterioare,
+Comisia Națională a Valorilor Mobiliare, în ședința din 30 ianuarie 2006, a hotărât emiterea următorului ordin:
+Art. 1. — Se aprobă Regulamentul nr. 2/2006 privind
+piețele reglementate și sistemele alternative de
+tranzacționare, prevăzut în anexa care face parte integrantă
+din prezentul ordin.
+Art. 2. — Regulamentul menționat la art. 1 intră în
+vigoare la data publicării acestuia și a prezentului ordin în
+Monitorul Oficial al României, Partea I, și va fi publicat în
+
+Buletinul Comisiei Naționale a Valorilor Mobiliare și pe
+site-ul acesteia (www.cnvmr.ro).
+Art. 3. — Direcția reglementare din cadrul Direcției
+generale autorizare reglementare, împreună cu Secretariatul
+General și directorul general executiv vor urmări ducerea la
+îndeplinire a prevederilor prezentului ordin.
+
+Președintele Comisiei Naționale a Valorilor Mobiliare,
+Gabriela Anghelache
+
+București, 9 februarie 2006.
+Nr. 15.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+ANEXĂ
+
+R E G U L A M E N T U L Nr. 2/2006
+privind piețele reglementate și sistemele alternative de tranzacționare
+
+TITLUL I
+Dispoziții generale
+Legea nr. 297/2004
+îArt. 1. — (1) Prezenta lege reglementează înființarea și
+funcționarea piețelor de instrumente financiare, cu instituțiile și
+operațiunile specifice acestora, precum și a organismelor de
+plasament colectiv, în scopul mobilizării disponibilităților
+financiare prin intermediul investițiilor în instrumente financiare.”
+Art. 1. — (1) Prezentul regulament stabilește norme cu
+privire la autorizarea, organizarea și funcționarea
+operatorilor de piață, operatorilor de sistem, piețelor
+reglementate și sistemelor alternative de tranzacționare, în
+conformitate cu prevederile Legii nr. 297/2004 privind piața
+de capital, cu modificările și completările ulterioare.
+Legea nr. 297/2004
+îArt. 1. — (2) Prezenta lege se aplică activităților și
+operațiunilor prevăzute la alin. (1), desfășurate pe teritoriul
+României.
+(3) Comisia Națională a Valorilor Mobiliare, denumită în
+continuare C.N.V.M., este autoritatea competentă care aplică
+prevederile prezentei legi, prin exercitarea prerogativelor
+stabilite în statutul său.“
+(2) Comisia Națională a Valorilor Mobiliare, denumită în
+continuare C.N.V.M., este autoritatea competentă care
+aplică prevederile prezentului regulament, prin exercitarea
+prerogativelor stabilite în statutul său.
+Legea nr. 297/2004
+îArt. 1. — (4) Prevederile prezentei legi nu se aplică
+instrumentelor pieței monetare, care sunt reglementate de
+Banca Națională a României, și titlurilor de stat care sunt emise
+de Ministerul Finanțelor Publice, dacă emitentul alege pentru
+tranzacționarea acestora o altă piață decât cea reglementată,
+definită conform art. 125.
+(5) Prevederile prezentei legi nu se aplică în cazul
+administrării datoriei publice în care sunt implicate Banca
+Națională a României, băncile centrale ale statelor membre și
+alte entități naționale din statele membre cu funcții similare
+acestora, Ministerul Finanțelor Publice, precum și alte entități
+publice.
+Art. 2. — (1) În înțelesul prezentei legi, termenii și expresiile
+de mai jos au următoarele semnificații:
+1. acționar semnificativ — persoana fizică, persoana
+juridică sau grupul de persoane care acționează în mod
+concertat și care deține direct sau indirect o participație de cel
+puțin 10% din capitalul social al unei societăți comerciale sau
+din drepturile de vot, ori o participație care permite exercitarea
+unei influențe semnificative asupra luării deciziilor în adunarea
+generală sau în consiliul de administrație, după caz;
+2. compensarea — înlocuirea creanțelor și obligațiilor
+rezultând din ordine de transfer pe care unul sau mai mulți
+participanți le emit în favoarea altui participant sau altor
+participanți, sau pe care le primesc de la aceștia, cu o creanță
+sau o obligație netă unică, astfel încât această unică creanță
+netă să fie pretinsă, respectiv această unică obligație netă să
+fie datorată;
+3. cont comun de investiții — investiție realizată în contul
+a două sau mai multor persoane sau asupra căreia două sau
+
+mai multe persoane au drepturi care pot fi exercitate prin
+semnătura uneia sau mai multor persoane dintre cele
+menționate;
+4. emitent — entitatea cu sau fără personalitate juridică ce
+a emis, emite sau intenționează să emită instrumente
+financiare;
+5. entități reglementate — persoanele fizice și juridice,
+precum și entitățile fără personalitate juridică a căror activitate
+este reglementată și/sau supravegheată de către C.N.V.M.;
+6. filială — societate comercială în cadrul căreia există un
+asociat sau un acționar aflat într-una dintre situațiile prevăzute
+la pct. 27;
+7. fond de investiții — organism de plasament colectiv fără
+personalitate juridică;
+8. fond deschis de investiții — organism de plasament
+colectiv în valori mobiliare, fără personalitate juridică, ale cărui
+unități de fond fac obiectul unei emisiuni și răscumpărări
+continue;
+9. grup — reprezintă un ansamblu de societăți comerciale
+compus dintr-o societate-mamă, filialele sale și entități în care
+societatea-mamă sau filialele sale dețin o participare, precum
+și societățile comerciale legate una de alta printr-o relație care
+face necesară consolidarea conturilor și consolidarea raportului
+anual;
+10. instituție de credit — entitate definită conform art. 1 din
+Legea nr. 58/1998 privind activitatea bancară, cu modificările și
+completările ulterioare;
+11. instrumente financiare înseamnă:
+a) valori mobiliare;
+b) titluri de participare la organismele de plasament colectiv;
+c) instrumente ale pieței monetare, inclusiv titluri de stat cu
+scadență mai mică de un an și certificate de depozit;
+d) contracte futures financiare, inclusiv contracte similare cu
+decontare finală în fonduri;
+e) contracte forward pe rata dobânzii, denumite în
+continuare FRA;
+f) swap-uri pe rata dobânzii, pe curs de schimb și pe acțiuni;
+g) opțiuni pe orice instrument financiar prevăzut la lit. a)—d),
+inclusiv contracte similare cu decontare finală în fonduri;
+această categorie include și opțiuni pe curs de schimb și pe
+rata dobânzii;
+h) instrumente financiare derivate pe mărfuri;
+i) orice alt instrument admis la tranzacționare pe o piață
+reglementată într-un stat membru sau pentru care s-a făcut o
+cerere de admitere la tranzacționare pe o astfel de piață;
+12. instrumente financiare derivate — instrumentele definite
+la pct. 11 lit. d), g), h), combinații ale acestora, precum și alte
+instrumente calificate astfel prin reglementări ale C.N.V.M.;
+13. instrumente ale pieței monetare — instrumente
+financiare care se tranzacționează de regulă în cadrul pieței
+monetare;
+14. intermediari — societăți de servicii de investiții
+financiare autorizate de C.N.V.M., instituții de credit autorizate
+de Banca Națională a României, în conformitate cu legislația
+bancară aplicabilă, precum și entități de natura acestora
+autorizate în state membre sau nemembre să presteze servicii
+de investiții financiare de natura celor prevăzute la art. 5;
+15. investitor calificat:
+a) entități autorizate să opereze pe piețe financiare, precum
+instituțiile de credit, societățile de servicii de investiții financiare,
+
+*) Legea nr. 58/1998 a fost republicată în Monitorul Oficial al României, Partea I, nr. 78 din 24 ianuarie 2005.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+alte instituții financiare autorizate și reglementate, societățile de
+asigurări, organismele de plasament colectiv, societățile de
+administrare a investițiilor, fondurile de pensii, precum și alte
+entități ce nu sunt autorizate ori reglementate și al căror unic
+obiect de activitate este investiția în valori mobiliare;
+b) autorități ale administrației publice centrale și locale,
+instituții de credit centrale, organisme internaționale și
+regionale, precum: Fondul Monetar Internațional, Banca
+Centrală Europeană, Banca Europeană de Investiții sau alte
+organisme similare;
+c) entități legale care îndeplinesc două din următoarele trei
+criterii:
+1. număr mediu de angajați pe perioada unui exercițiu
+financiar mai mare de 250;
+2. active totale în valoare mai mare de echivalentul sumei
+de 43.000.000 euro;
+3. cifra de afaceri anuală netă mai mare de echivalentul
+sumei de 50.000.000 euro;
+d) anumite persoane fizice, subiect al recunoașterii
+reciproce. C.N.V.M. poate decide să autorizeze persoane fizice
+rezidente în România, care solicită în mod expres să fie
+considerate ca investitori calificați, dacă aceste persoane
+îndeplinesc cel puțin două din următoarele criterii:
+1. investitorul a efectuat tranzacții de o mărime
+semnificativă pe o piață reglementată cu o frecvență medie de
+cel puțin 10 tranzacții pe trimestru în ultimele patru trimestre
+calendaristice;
+2. valoarea portofoliului de valori mobiliare al unui investitor
+depășește 500.000 euro;
+3. investitorul a lucrat sau lucrează în sectorul financiar cel
+puțin de un an, având o poziție care necesită cunoștințe privind
+investițiile în valori mobiliare;
+e) anumite societăți mici și mijlocii, subiect al recunoașterii
+reciproce. C.N.V.M. poate decide să autorizeze societăți mici și
+mijlocii cu sediul în România, care solicită în mod expres să fie
+considerate investitori calificați. În înțelesul prezentei legi,
+societăți mici și mijlocii sunt acele societăți comerciale care,
+în conformitate cu ultimele situații financiare raportate, nu
+îndeplinesc două din cele trei criterii prevăzute la lit. c);
+16. legături strânse — situația în care două sau mai multe
+persoane fizice sau juridice sunt legate prin:
+a) participare, care înseamnă deținerea în mod direct sau
+indirect a 20% sau mai mult din drepturile de vot sau din
+capitalul social al unei societăți comerciale;
+b) control, care înseamnă relația dintre societatea-mamă și
+o filială sau o relație similară între orice persoană fizică sau
+juridică și o societate comercială; orice filială a unei filiale va fi
+considerată o filială a societății-mamă, care este în fapt
+entitatea care controlează aceste filiale; se consideră legătură
+strânsă și situația în care două sau mai multe persoane fizice
+sau juridice sunt legate permanent de una și aceeași persoană
+printr-o relație de control;
+17. ofertant sau persoana care inițiază o ofertă —
+persoana juridică sau fizică ce oferă valori mobiliare publicului
+sau se oferă să cumpere valori mobiliare;
+18. ofertă publică de valori mobiliare — înseamnă
+comunicarea adresată unor persoane, făcută sub orice formă
+și prin orice mijloace, care prezintă informații suficiente despre
+termenii ofertei și despre valorile mobiliare oferite, astfel încât
+să permită investitorului să adopte o decizie cu privire la
+vânzarea, cumpărarea sau subscrierea respectivelor valori
+mobiliare. Această definiție se va aplica, de asemenea, și în
+
+3
+
+situația plasamentului de valori mobiliare prin intermediari
+financiari;
+19. ofertă publică de preluare — oferta publică de
+cumpărare care are ca rezultat, pentru cel care o promovează,
+dobândirea a mai mult de 33% din drepturile de vot asupra
+unei societăți comerciale;
+20. organisme de plasament colectiv — entități
+organizate, cu sau fără personalitate juridică, denumite în
+continuare O.P.C., care atrag în mod public sau privat resurse
+financiare ale persoanelor fizice și/sau juridice, în scopul
+investirii acestora, în conformitate cu dispozițiile prezentei legi
+și reglementările C.N.V.M.;
+21. persoană — orice persoană fizică sau juridică;
+22. persoane implicate:
+a) persoane care controlează sau sunt controlate de către
+un emitent sau care se găsesc sub un control comun;
+b) persoane care participă direct sau indirect la încheierea
+unor acorduri în vederea obținerii sau exercitării în comun a
+drepturilor de vot, dacă acțiunile, obiect al acordului, pot conferi
+o poziție de control;
+c) persoane fizice din cadrul societății emitente care au
+atribuții de conducere sau control;
+d) soții, rudele și afinii până la gradul al doilea ale
+persoanelor fizice menționate la lit. a)—c);
+e) persoane care pot numi majoritatea membrilor consiliului
+de administrație în cadrul unui emitent;
+23. persoane care acționează în mod concertat — două
+sau mai multe persoane, legate printr-un acord expres sau
+tacit, pentru a înfăptui o politică comună în legătură cu un
+emitent. Până la proba contrară, următoarele persoane sunt
+prezumate că acționează în mod concertat:
+a) persoanele implicate;
+b) societatea-mamă împreună cu filialele sale, precum și
+oricare dintre filialele aceleiași societăți-mamă între ele;
+c) o societate comercială cu membrii consiliului său de
+administrație și cu persoanele implicate, precum și aceste
+persoane între ele;
+d) o societate comercială cu fondurile ei de pensii și cu
+societatea de administrare a acestor fonduri;
+24. procedura de insolvabilitate — procedura colectivă
+prevăzută de Legea nr. 253/2004 privind caracterul definitiv al
+decontării în sistemele de plăți și în sistemele de decontare a
+operațiunilor cu instrumente financiare sau de legislația străină,
+care urmărește fie lichidarea unui participant, fie reorganizarea
+sa, dacă această măsură implică suspendarea sau limitarea
+transferurilor sau plăților;
+25. programul de ofertă — un plan care ar permite
+emiterea, în mod continuu sau repetat în decursul unei
+perioade de timp determinate, a valorilor mobiliare, altele decât
+cele de tipul titlurilor de capital;
+26. sistem alternativ de tranzacționare — un sistem care
+pune în prezență mai multe părți care cumpără și vând
+instrumente financiare, într-un mod care conduce la încheierea
+de contracte, denumit și sistem multilateral de tranzacționare;
+27. societate-mamă — persoană juridică, acționar sau
+asociat al unei societăți comerciale care se află în una din
+următoarele situații:
+a) deține direct sau indirect majoritatea drepturilor de vot la
+aceasta;
+b) poate să numească sau să revoce majoritatea membrilor
+organelor de administrare sau de control ori alte persoane cu
+putere de decizie în societatea respectivă;
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+
+c) poate exercita o influență semnificativă asupra entității la
+care este acționar sau asociat, în virtutea unor clauze cuprinse
+în contracte încheiate cu entitatea respectivă sau a unor
+prevederi cuprinse în actul constitutiv al acestei entități;
+d) este acționar sau asociat al unei entități și:
+1. a numit singur, ca rezultat al exercitării drepturilor sale de
+vot, majoritatea membrilor organelor de administrare sau de
+control ori majoritatea conducătorilor filialei în ultimele două
+exerciții financiare, sau
+2. controlează singur, în baza unui acord încheiat cu ceilalți
+acționari sau asociați, majoritatea drepturilor de vot;
+28. state membre — statele membre ale Uniunii Europene
+și celelalte state aparținând Spațiului Economic European;
+29. stat membru de origine:
+a) statul membru în care este situat sediul social al societății
+care prestează servicii de investiții financiare sau de
+administrare de investiții; dacă, în conformitate cu legea
+națională, societatea nu are un sediu social, statul membru de
+origine este acela în care este situat sediul central;
+b) statul membru în care este situat sediul social al societății
+care administrează un sistem de tranzacționare; dacă, în
+conformitate cu legea națională, societatea nu are un sediu
+social, statul membru de origine este acela în care este situat
+sediul central;
+c) statul membru în care societatea de administrare a unui
+organism de plasament colectiv în valori mobiliare constituit ca
+fond deschis de investiții își are sediul social, precum și statul
+membru în care se află sediul social al societății de investiții, în
+cazul unui organism de plasament colectiv în valori mobiliare
+constituit ca societate de investiții;
+30. stat membru gazdă:
+a) statul membru în care o societate de servicii de investiții
+financiare sau o societate de administrare a investițiilor are o
+sucursală sau își desfășoară activitatea;
+b) statul membru, altul decât statul membru de origine al
+respectivului organism de plasament colectiv în valori
+mobiliare, în care sunt comercializate titluri de participare
+emise de acesta;
+31. sucursală — structură organizată, fără personalitate
+juridică separată a unei societăți comerciale, care prestează
+unul sau toate serviciile pentru care societatea a fost
+autorizată, în conformitate cu mandatul dat de aceasta. Toate
+sediile înființate în România de către o societate cu sediul
+social sau central situat într-un stat membru vor fi tratate ca
+fiind o singură sucursală;
+32. titluri de participare — unități de fond sau acțiuni emise
+de organisme de plasament colectiv, în funcție de modul de
+constituire al acestora;
+33. valori mobiliare:
+a) acțiuni emise de societăți comerciale și alte valori
+mobiliare echivalente ale acestora, negociate pe piața de
+capital;
+b) obligațiuni și alte titluri de creanță, inclusiv titlurile de stat
+cu scadență mai mare de 12 luni, negociabile pe piața de
+capital;
+c) orice alte titluri negociate în mod obișnuit, care dau
+dreptul de a achiziționa respectivele valori mobiliare prin
+subscriere sau schimb, dând loc la o decontare în bani, cu
+excepția instrumentelor de plată;
+34. titluri de capital — acțiuni și alte valori mobiliare
+asimilabile acțiunilor, precum și orice alt tip de valori mobiliare,
+conferind dreptul de a le dobândi ca urmare a unei conversii
+sau a exercitării acestui drept, în măsura în care valorile din a
+
+doua categorie sunt emise de același emitent sau de către o
+entitate care aparține grupului din care face parte respectivul
+emitent;
+35. titluri, altele decât cele de tipul titlurilor de capital —
+toate valorile mobiliare care nu sunt titluri de capital;
+36. valori mobiliare emise în mod continuu sau repetat —
+valori mobiliare de același tip și/sau clasă emise continuu ori în
+cel puțin două tranșe distincte pe o perioadă de 12 luni.
+(2) C.N.V.M. poate emite, din oficiu sau la cererea unei părți
+interesate, acte administrative care să cuprindă aprecieri
+motivate în legătură cu calificarea unei persoane, instituții,
+situații, informații, operațiuni, acte juridice ori instrumente
+negociabile cu privire la includerea în, sau excluderea din sfera
+termenilor și expresiilor cu semnificația stabilită la alin. (1).
+(3) Orice persoană fizică sau juridică, dacă se consideră
+vătămată în drepturile sale recunoscute de lege printr-un act
+administrativ sau prin refuzul nejustificat al C.N.V.M. de a-i
+rezolva cererea referitoare la un drept recunoscut de lege, se
+poate adresa în contencios administrativ la Curtea de Apel
+București.
+(4) Se consideră refuz nejustificat de rezolvare a cererii
+referitoare la un drept recunoscut de lege și faptul de a nu
+răspunde petiționarului în termenele prevăzute de legislația în
+vigoare, de la data înregistrării cererii.
+(5) În scopul exercitării activității de supraveghere, C.N.V.M.
+poate:
+a) să verifice modul de îndeplinire a atribuțiilor și obligațiilor
+legale și statutare ale administratorilor, directorilor, directorilor
+executivi, precum și ale altor persoane în legătură cu
+activitatea entităților reglementate sau supravegheate;
+b) să solicite consiliului de administrație al entităților
+reglementate, prevăzute la lit. a), întrunirea membrilor acestuia
+sau, după caz, convocarea adunării generale a acționarilor,
+stabilind problemele ce trebuie înscrise pe ordinea de zi;
+c) să solicite tribunalului competent să dispună convocarea
+de adunări generale ale acționarilor, în cazul în care nu sunt
+respectate prevederile de la lit. b);
+d) să solicite informații și documente emitenților ale căror
+valori mobiliare fac obiectul unor oferte publice sau au fost
+admise la tranzacționare pe o piață reglementată sau
+tranzacționate într-un sistem alternativ de tranzacționare;
+e) să efectueze controale la sediul entităților reglementate
+și supravegheate de C.N.V.M.;
+f) să audieze orice persoană în legătură cu activitățile
+entităților reglementate și supravegheate de C.N.V.M.
+(6) Registrul C.N.V.M., ținut în conformitate cu prevederile
+prezentei legi, are caracter public.
+(7) Prestarea neautorizată a oricăror activități care cad sub
+incidența prezentei legi, utilizarea neautorizată a sintagmelor
+servicii de investiții financiare, societate de servicii de
+investiții financiare, agent pentru servicii de investiții
+financiare, societate de administrare a investițiilor, societate
+de investiții, fond deschis de investiții, piață reglementată și
+bursă de valori, asociate cu oricare din instrumentele
+financiare definite la alin. (2) pct. 11, cu mărfuri, sau a oricărei
+combinații între acestea, fără respectarea condițiilor legale,
+atrage răspunderea potrivit legii.“
+Art. 2. — Termenii, abrevierile și expresiile utilizate în
+prezentul regulament au semnificația prevăzută în Legea
+nr. 297/2004, cu modificările și completările ulterioare.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+
+TITLUL II
+Operatorii de piață și piețele reglementate
+CAPITOLUL 1
+Autorizarea și retragerea autorizației operatorului de piață
+și a pieței reglementate
+Legea nr. 297/2004
+îArt. 124. — (1) Piețele reglementate de instrumente
+financiare se organizează și se administrează de către o
+persoană juridică, constituită sub forma unei societăți pe
+acțiuni, emitentă de acțiuni nominative, conform Legii
+nr. 31/1990*), autorizată și supravegheată de C.N.V.M.,
+denumită în continuare operator de piață.
+(2) C.N.V.M. va publica în Monitorul Oficial al României,
+Partea I, orice decizie privind acordarea/retragerea autorizației
+unui operator de piață.
+(3) Operatorii de piață autorizați să funcționeze în România
+vor fi înscriși în Registrul C.N.V.M.
+(4) Lista piețelor reglementate autorizate va fi comunicată
+statelor membre, precum și Comisiei Europene, împreună cu
+regulamentele, instrucțiunile și procedurile privind operațiunile
+pe aceste piețe, precum și orice modificări ulterioare ale
+acestora.
+(5) Societatea care administrează o piață reglementată are
+legitimitate procesuală activă, respectiv pasivă, pentru orice
+drepturi și obligații, pretenții și reclamații legate de activitatea
+piețelor administrate.
+Art. 125. — O piață reglementată este un sistem pentru
+tranzacționarea instrumentelor financiare, așa cum au fost
+definite la art. 2 alin. (1) pct. 11 și care:
+a) funcționează regulat;
+b) este caracterizată de faptul că reglementările emise și
+supuse aprobării C.N.V.M. definesc condițile de funcționare, de
+acces pe piață, condițiile de admitere la tranzacționare a unui
+instrument financiar;
+c) respectă cerințele de raportare și transparență în
+vederea asigurării protecției investitorilor stabilite de prezenta
+lege, precum și reglementările emise de C.N.V.M., în
+conformitate cu legislația comunitară.
+Art. 126. — (1) Condițiile și documentația ce trebuie să
+însoțească cererea de autorizare, precum și procedura de
+autorizare a operatorului de piață vor fi stabilite prin
+reglementări C.N.V.M. și se vor referi în principal la:
+a) capitalul social minim al societății pe acțiuni și resursele
+financiare necesare pentru desfășurarea activității;
+b) obiectul exclusiv de activitate, constând în administrarea
+piețelor reglementate de instrumente financiare precum și a
+activităților conexe în legătură cu aceasta;
+c) structura acționariatului, identitatea și integritatea
+acționarilor deținând 5% din drepturile de vot;
+d) planul de afaceri, structura organizatorică și regulile de
+ordine interioară;
+e) condițiile de calificare și experiență profesională ce
+trebuie îndeplinite de administratori și de personalul cu funcții
+de conducere din cadrul operatorului de piață;
+f) dotarea tehnică și resursele;
+g) contractul încheiat cu un auditor financiar, membru al
+Camerei Auditorilor Financiari din România și care îndeplinește
+criteriile comune stabilite de C.N.V.M. și Camera Auditorilor
+Financiari din România.“
+
+5
+
+îArt. 127. — Cererea de autorizare a operatorului de piață
+va fi respinsă, după caz, dacă:
+a) documentația prezentată nu este întocmită în
+conformitate cu reglementările în vigoare sau datele furnizate
+sunt incomplete ori incorecte;
+b) documentația prezentată este insuficientă pentru a se
+stabili dacă operatorul de piață își va desfășura activitatea în
+conformitate cu reglementările în vigoare;
+c) administratorii și personalul cu funcții de conducere ai
+operatorului de piață nu au calificarea și experiența
+profesională adecvate funcției lor, conform reglementărilor
+C.N.V.M.;
+d) transparența pieței, buna desfășurare a tranzacțiilor și
+protecția investitorilor nu sunt asigurate;
+e) nu sunt respectate prevederile prezentei legi sau ale
+reglementărilor C.N.V.M.“
+Art. 3. — (1) Pentru a funcționa legal un operator de
+piață are obligația să solicite C.N.V.M. autorizația de
+funcționare în vederea organizării și administrării piețelor
+reglementate de instrumente financiare.
+(2) Acordarea autorizației de funcționare a operatorului
+de piață se va face cu condiția ca acesta să solicite și
+autorizarea cel puțin a unei piețe reglementate.
+(3) Autorizarea operatorului de piață și a pieței
+reglementate este acordată numai dacă C.N.V.M. consideră
+că atât operatorul de piață, cât și sistemul/sistemele de
+tranzacționare a instrumentelor financiare îndeplinesc
+condițiile prevăzute de prezentul regulament.
+(4) Decizia de autorizare a pieței reglementate va
+include și aprobarea reglementărilor adoptate de operatorul
+de piață pentru organizarea și funcționarea respectivei piețe.
+(5) C.N.V.M. decide cu privire la autorizarea funcționării
+operatorului de piață și a pieței/piețelor reglementate
+administrate de acesta, în termen de maximum 90 de zile
+de la data depunerii cererii și a documentației complete
+prevăzute în anexa nr. 1 la prezentul regulament.
+Art. 4. — În cazul respingerii cererii, C.N.V.M. emite o
+decizie motivată pe care o notifică părților interesate;
+această decizie poate fi contestată în termen de maximum
+30 de zile de la data comunicării ei.
+Art. 5. — (1) În toate actele sale oficiale operatorul de
+piață trebuie să menționeze în mod expres numărul și data
+deciziei de autorizare emise de C.N.V.M., precum și datele
+de identificare.
+(2) Denumirea unui operator de piață aflat sub
+autorizarea și supravegherea C.N.V.M. trebuie să fie astfel
+stabilită încât să nu fie de natură să producă confuzie cu
+denumirea altei entități autorizate să funcționeze pe
+teritoriul României.
+Art. 6. — (1) În cazul în care un operator de piață
+intenționează să administreze și alte tipuri de piețe
+reglementate decât cea/cele autorizată/autorizate de
+C.N.V.M. la momentul acordării autorizației de funcționare,
+C.N.V.M. va decide cu privire la autorizarea pieței/piețelor
+reglementate, în termen de maximum 60 de zile de la data
+depunerii cererii, însoțită de următoarele documente:
+a) hotărârea organului statutar al operatorului de piață
+privind înființarea pieței reglementate;
+b) reglementările proprii ce stabilesc modul de
+organizare și funcționare a pieței/piețelor reglementate, în
+conformitate cu prevederile art. 134 alin. (1) și (2) din
+
+*) Legea nr. 31/1990 a fost republicată în Monitorul Oficial al României, Partea I, nr. 1.066 din 17 noiembrie 2004 și a mai fost modificată
+prin Legea nr. 302/2005.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+
+Legea nr. 297/2004, cu modificările și completările
+ulterioare, și ale prezentului regulament;
+c) dovada achitării în contul C.N.V.M. a tarifului pentru
+obținerea autorizației pieței reglementate.
+(2) Prin tip de piață reglementată se înțelege piața
+caracterizată fie prin diferite tehnici și reguli de
+tranzacționare, fie prin tipul de instrumente financiare
+admise la tranzacționare (acțiuni și alte valori mobiliare
+asimilabile acțiunilor, obligațiuni, titluri de stat, instrumente
+financiare derivate etc.).
+(3) Reglementările fiecărei piețe reglementate trebuie să
+fie disponibile pe pagina de Internet a operatorului de
+piață, în limbile română și engleză, în termen de maximum
+30 de zile de la data autorizării pieței reglementate și cu
+minimum 5 zile lucrătoare înainte de începerea tranzacțiilor
+în acea piață.
+(4) Operatorul de piață trebuie să notifice imediat
+participanților la piață amendamentele aduse reglementărilor,
+după aprobarea lor de către C.N.V.M., precum și informații
+în legătură cu evenimentele probabile, transmițându-le prin
+e-mail, fax sau direct în sistem. Prin participanți se înțelege
+intermediarii și traderii care au acces la tranzacționare în
+cadrul pieței reglementate.
+SECȚIUNEA 1
+Capitalul social și resursele financiare
+
+Art. 7. — (1) Operatorul de piață trebuie să dispună la
+momentul autorizării și să mențină pe parcursul desfășurării
+activității resursele materiale și financiare suficiente care să
+asigure funcționarea sa ordonată, avându-se în vedere
+natura și dimensiunea tranzacțiilor efectuate pe piața/piețele
+reglementată/reglementate administrată/administrate de
+acesta, precum și tipurile și gradul riscurilor la care este
+expus.
+(2) Capitalul social minim al operatorului de piață
+trebuie să reprezinte echivalentul în lei a cel puțin
+5 milioane euro, calculat la cursul de referință comunicat
+de Banca Națională a României la data depunerii cererii de
+autorizare.
+Art. 8. — (1) Un operator de piață poate să dețină
+participații exclusiv la următoarele persoane juridice:
+a) Societatea Comercială îFondul de Compensare a
+Investitorilor“ — S.A., în conformitate cu art. 44 alin. (2)
+din Legea nr. 297/2004, cu modificările și completările
+ulterioare;
+b) depozitarul central, cu respectarea condițiilor art. 150
+alin. (1) din Legea nr. 297/2004, cu modificările și
+completările ulterioare;
+c) persoanele juridice al căror obiect principal sau
+exclusiv de activitate constă în operațiuni de compensare
+și decontare pentru tranzacțiile cu instrumente financiare
+derivate, în conformitate cu prevederile art. 157 din Legea
+nr. 297/2004, cu modificările și completările ulterioare;
+d) societățile al căror obiect principal sau exclusiv de
+activitate este prevăzut la art. 10.
+(2) Operatorul de piață poate constitui filiale al căror
+obiect de activitate să fie circumscris obiectului său de
+activitate conex, iar înființarea lor va fi supusă în prealabil
+autorizării C.N.V.M.
+
+SECȚIUNEA a 2-a
+Obiectul de activitate al operatorului de piață
+
+Art. 9. — Administrarea piețelor reglementate constă în:
+a) elaborarea, implementarea și aplicarea reglementărilor
+privind condițiile și procedurile de acces/admitere, excludere
+și suspendare a participanților și a instrumentelor financiare
+la și de la tranzacționare;
+b) stabilirea condițiilor, procedurilor de tranzacționare,
+precum și a obligațiilor participanților și ale emitenților ale
+căror instrumente financiare au fost admise la
+tranzacționare;
+c) elaborarea, implementarea și aplicarea procedurilor
+privind modul de determinare și publicare a prețurilor și a
+cotațiilor, tipurile de contracte și operațiuni permise,
+standardele contractuale;
+d) adoptarea măsurilor necesare funcționării în mod
+regulat și ordonat, inclusiv sub aspect tehnic, a pieței
+reglementate și verificarea respectării regulilor acesteia;
+e) administrarea și diseminarea către public a
+informațiilor privind emitenții, tipurile de instrumente
+financiare tranzacționate și serviciile de acces al
+participanților pe piața reglementată;
+f) elaborarea și implementarea mecanismelor de
+securitate și control al sistemelor informatice, pentru
+protecția drepturilor de autor implicate și a informațiilor
+confidențiale;
+g) asigurarea păstrării în siguranță a datelor și
+informațiilor stocate, a fișierelor și bazelor de date, inclusiv
+în situația unor calamități naturale, dezastre și a altor
+evenimente deosebite.
+Art. 10. — Activitățile conexe desfășurate de operatorul
+de piață în legătură cu obiectul principal de activitate
+prevăzut la art. 9 sunt:
+a) realizarea, administrarea, implementarea, întreținerea,
+dezvoltarea și comercializarea de programe pentru
+calculator, tehnologii informatice și baze de date referitoare
+sau aflate în legătură cu activitatea de tranzacționare,
+supraveghere, raportare, informare periodică și continuă,
+evidență, furnizare de informații, securizare, având ca
+obiect instrumente financiare, operațiuni cu instrumente
+financiare, emitenți de instrumente financiare, entități care
+operează pe piața de capital;
+b) servicii de investigare a potențialului pieței de capital,
+acceptarea și familiarizarea cu produsele, operațiunile și
+instrumentele noi, comportamentul investitorilor față de
+produse și servicii, servicii de sondare a opiniei publice
+despre probleme economice, inclusiv analiza statistică a
+rezultatelor;
+c) serviciile de publicitate pentru participanții pieței
+reglementate și pentru emitenții ale căror instrumente
+financiare sunt tranzacționate pe piața reglementată,
+prin mijloace proprii, organizarea de mese rotunde,
+simpozioane etc;
+d) organizarea de cursuri de pregătire profesională și de
+calificare a personalului care activează pe piețele
+administrate de operatorul de piață, realizarea de cursuri,
+colocvii, seminarii, întruniri, destinate perfecționării pregătirii
+profesionale a personalului implicat în prestarea de servicii
+de investiții financiare, inclusiv a personalului propriu al
+operatorului de piață, precum și educării publicului și a
+altor categorii de persoane care activează în domeniu,
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+editarea și comercializarea de materiale în domeniul pieței
+de capital;
+e) administrarea sistemului de arbitraj al operatorului de
+piață;
+f) constituirea și administrarea sistemelor alternative de
+tranzacționare în conformitate cu prevederile titlului IV
+cap. 2 din Legea nr. 297/2004, cu modificările și
+completările ulterioare, și ale prezentului regulament.
+SECȚIUNEA a 3-a
+Structura acționariatului, identitatea și integritatea acționarilor
+
+Legea nr. 297/2004
+îArt. 129. — (1) Nici un acționar al unui operator de piață nu
+va putea deține, direct sau indirect, mai mult de 5% din totalul
+drepturilor de vot.
+(2) Orice achiziție de acțiuni ale operatorului de piață, care
+conduce la o deținere de 5% din totalul drepturilor de vot, va fi
+notificată operatorului de piață în termenul stabilit prin
+reglementările C.N.V.M. și supusă în prealabil aprobării
+C.N.V.M.
+(3) Orice înstrăinare de acțiuni ale operatorului de piață va fi
+notificată acestuia și C.N.V.M., în termenul prevăzut de
+reglementările emise de C.N.V.M.
+(4) În cazul în care nu sunt îndeplinite cerințele cu privire la
+integritatea acționarilor sau se omite obținerea aprobării
+C.N.V.M., dreptul de vot aferent acțiunilor deținute cu
+nerespectarea prevederilor alin. (1) și (2) este suspendat de
+drept, urmând a se aplica procedura stabilită la art. 291.“
+îArt. 283. — (1) În cazul dobândirii sau majorării unei
+participații la capitalul social al unei entități reglementate,
+efectuată cu încălcarea prevederilor legale și a reglementărilor
+emise în aplicarea prezentei legi, drepturile de vot aferente
+respectivei dețineri sunt suspendate de drept. Acțiunile
+respective se iau în considerare la stabilirea cvorumului
+necesar adunării generale a acționarilor.
+(2) C.N.V.M. va dispune acționarilor respectivi să-și vândă,
+în termen de 3 luni, acțiunile aferente participației în legătură
+cu care C.N.V.M. nu și-a exprimat acordul. După expirarea
+acestui termen, dacă acțiunile nu au fost vândute, C.N.V.M.
+dispune entității reglementate anularea acțiunilor respective,
+emiterea unor noi acțiuni purtând același număr și vânzarea
+acestora, urmând ca prețul încasat din vânzare să fie
+consemnat la dispoziția dobânditorului inițial, după reținerea
+cheltuielilor ocazionate de vânzare.
+(3) Consiliul de administrație al entității reglementate este
+răspunzător de îndeplinirea măsurilor necesare pentru
+anularea acțiunilor, potrivit alin. (2), și vânzarea acțiunilor nouemise.
+(4) Dacă din lipsă de cumpărători vânzarea nu a avut loc
+sau s-a realizat numai o vânzare parțială a acțiunilor nouemise, entitatea reglementată va proceda, de îndată, la
+reducerea capitalului social, cu diferența dintre capitalul social
+înregistrat și cel deținut de acționarii cu drept de vot.“
+Art. 11. — (1) Calitatea de acționar al unui operator de
+piață poate fi dobândită de orice persoană care respectă
+prevederile prezentului regulament.
+(2) Majoritatea drepturilor de vot ale acționarilor unui
+operator de piață trebuie să fie deținută de intermediarii
+care au acces la tranzacționare în cadrul pieței/piețelor
+reglementate administrate de acesta.
+
+7
+
+(3) Prevederile alin. (2) nu se aplică în cazul în care
+acțiunile operatorului de piață sunt admise la tranzacționare
+pe o piață reglementată.
+Art. 12. — (1) Actul constitutiv al operatorului de piață
+trebuie să conțină prevederi de limitare a drepturilor de vot
+ale acționarilor, în conformitate cu art. 129 alin. (1) din
+Legea nr. 297/2004, cu modificările și completările
+ulterioare, precum și dispoziții referitoare la aplicarea
+procedurii stabilite la art. 283 din Legea nr. 297/2004, cu
+modificările și completările ulterioare.
+(2) Pentru calcularea procentului prevăzut la art. 129
+alin. (1) din Legea nr. 297/2004, cu modificările și
+completările ulterioare, se va ține cont de următoarele
+elemente:
+a) orice deținere directă sau indirectă a acțiunilor cu
+drept de vot ale operatorului de piață;
+b) existența unor persoane implicate sau care se află în
+legături strânse.
+Art. 13. — (1) Orice intenție de achiziție de acțiuni
+emise de operatorul de piață, care conduce la deținerea,
+în mod direct sau indirect, a 5% din drepturile de vot,
+trebuie notificată acestuia în termen de maximum două zile
+lucrătoare de la data adoptării deciziei.
+(2) Intenția de achiziție menționată la alin. (1) trebuie să
+fie supusă aprobării C.N.V.M. în termen de maximum
+5 zile lucrătoare de la aprobarea ei de către organul
+statutar al operatorului de piață.
+(3) Cererea de aprobare prevăzută la alin. (2) va fi
+însoțită de:
+a) documentele prevăzute la pct. 7, 8 și 9 din anexa
+nr. 1;
+b) numărul și datele de identificare a acționarilor care
+sunt persoane implicate sau cu care se află în legături
+strânse, precum și numărul de acțiuni și procentul din
+capitalul social cu drept de vot ce va fi deținut de fiecare
+persoană participantă;
+c) procentul total de capital social cu drept de vot ce
+va fi deținut de către persoanele menționate la lit. b).
+(4) Orice modificare a informațiilor prevăzute la alin. (3)
+trebuie notificată operatorului de piață și C.N.V.M. în
+termen de maximum 5 zile de la data producerii modificării.
+Art. 14. — (1) Aprobarea intenției de dobândire a
+procentului de 5% din drepturile de vot va fi analizată de
+C.N.V.M., cu luarea în considerare a următoarelor cerințe
+de integritate:
+a) persoanele care dețin controlul direct ori indirect
+asupra acestora să nu fi făcut în ultimii 5 ani obiectul unor
+anchete sau proceduri administrative ori judiciare care s-au
+încheiat cu sancțiuni sau interdicții ori care fac în prezent
+obiectul unor asemenea anchete sau proceduri;
+b) persoanele fizice sau juridice să nu dețină sau să nu
+fi deținut direct ori indirect controlul asupra unei societăți
+care, în ultimii 3 ani, a intrat în incapacitate de plată sau
+care a fost sancționată cu retragerea autorizației din motive
+imputabile acestora;
+c) persoanele juridice străine sunt supravegheate de
+către o autoritate competentă din statul de origine.
+(2) Persoanele prevăzute la alin. (1) trebuie să
+furnizeze, după caz:
+a) informații și documente prin care se justifică în mod
+corespunzător proveniența fondurilor destinate obținerii
+participației la capitalul social al operatorului de piață;
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+
+b) informații suficiente prin care să se asigure
+transparența necesară pentru identificarea structurii grupului
+din care fac parte și natura activității desfășurate de
+acestea pentru realizarea unei supravegheri eficiente;
+c) documente și declarații cu privire la datele de
+identificare a persoanelor cu care se află în relația de
+persoană implicată sau de legături strânse.
+Art. 15. — (1) La verificarea informațiilor menționate la
+art. 14 alin. (2) lit. b) C.N.V.M. va avea în vedere ca
+documentele furnizate să provină de la autoritățile/entitățile
+din statele de origine sau din statele în care sunt situate
+persoanele juridice din cadrul grupului, competente,
+conform legislației naționale, în ținerea evidențelor structurii
+acționariatului unei societăți comerciale. În situația în care
+legislația din statele menționate anterior împiedică
+transparența structurii acționariatului, C.N.V.M. poate lua în
+considerare informațiile provenind din alte surse disponibile.
+(2) În cazul în care cerințele prevăzute la art. 14
+alin. (1) și (2) nu sunt îndeplinite sau se omite obținerea
+aprobării C.N.V.M., se aplică prevederile art. 283 din Legea
+nr. 297/2004, cu modificările și completările ulterioare.
+Art. 16. — (1) C.N.V.M. va refuza aprobarea dobândirii
+de către o persoană a poziției prevăzute la art. 129
+alin. (1) din Legea nr. 297/2004, cu modificările și
+completările ulterioare, dacă, ținând seama de necesitatea
+de a garanta administrarea prudentă a piețelor
+reglementate, apreciază că persoana care ar ocupa o
+astfel de poziție poate prejudicia funcționarea în bune
+condiții a piețelor reglementate sau o bună supraveghere a
+acestora.
+(2) În cazul aprobării participației, decizia C.N.V.M. va
+stabili și termenul maxim în care trebuie să se realizeze
+dobândirea poziției respective.
+Art. 17. — În conformitate cu prevederile art. 129
+alin. (3) din Legea nr. 297/2004, cu modificările și
+completările ulterioare, orice înstrăinare de acțiuni ale
+operatorului de piață va fi notificată acestuia și C.N.V.M. în
+termen de două zile lucrătoare.
+SECȚIUNEA a 4-a
+Administrarea și conducerea operatorului de piață
+
+Legea nr. 297/2004
+îArt. 130. — (1) Membrii consiliului de administrație al
+operatorului de piață sunt validați individual de C.N.V.M.,
+înainte de începerea exercitării mandatului de către fiecare
+dintre aceștia.
+(2) Personalul din conducerea executivă, soțul/soția sau
+rudele acestora, precum și afinii până la gradul al doilea
+inclusiv nu pot fi acționari, administratori, cenzori, angajați,
+agenți pentru servicii de investiții financiare, reprezentanți ai
+compartimentului de control intern la un intermediar sau
+persoane implicate cu acesta.
+(3) Membrii consiliului de administrație al operatorului de
+piață sunt obligați să notifice în scris acestuia natura și
+întinderea interesului sau a relațiilor materiale, dacă:
+a) este parte a unui contract încheiat cu operatorul de piață;
+b) este administrator al unei persoane juridice care este
+parte a unui contract încheiat cu operatorul de piață;
+c) se află în legături strânse sau are o relație materială cu o
+persoană care este parte într-un contract încheiat cu operatorul
+de piață;
+
+d) se află în situația care ar putea influența adoptarea
+deciziei în cadrul ședințelor consiliului de administrație.
+Art. 131. — Operatorul de piață trebuie să identifice și să
+prevină, prin reglementări proprii, orice conflicte de interese
+între el, acționarii săi, administratorii și piața reglementată, în
+scopul asigurării bunei funcționări a acesteia.“
+îArt. 134. — (3) Competența privind aprobarea
+reglementărilor stabilite la alin. (1) și alin. (2) lit. b)—g) poate fi
+delegată consiliului de administrație al operatorului de piață.
+(4) Consiliul de administrație are obligația de a notifica
+C.N.V.M. în legătură cu orice încălcare a prezentei legi, a
+reglementărilor C.N.V.M. și a regulilor pieței, precum și
+măsurile adoptate în acest sens.
+(5) Nivelul comisioanelor și al tarifelor practicate de
+operatorul de piață vor fi aprobate de adunarea generală a
+acționarilor și notificate C.N.V.M.“
+Art. 18. — (1) Administrarea unui operator de piață va
+fi încredințată unui consiliu de administrație format din cel
+puțin 5 membri persoane fizice. Modul de constituire,
+atribuțiile și responsabilitățile consiliului de administrație vor
+fi stabilite în actul constitutiv al societății, în conformitate
+cu prevederile Legii nr. 31/1990 privind societățile
+comerciale, republicată, cu modificările și completările
+ulterioare, cu respectarea prevederilor Legii nr. 297/2004,
+cu modificările și completările ulterioare, precum și ale
+prezentului regulament.
+(2) Conducerea efectivă a operatorului de piață trebuie
+să fie asigurată de două persoane, denumite în continuare
+conducători. Conducătorii trebuie să fie angajați cu contract
+individual de muncă ai operatorului de piață și pot fi
+membri ai consiliului de administrație. Conducătorii sunt
+persoanele care, potrivit actelor constitutive și/sau hotărârii
+organelor statutare ale operatorului de piață, sunt
+împuternicite să coordoneze activitatea zilnică a acestuia și
+sunt învestite cu competența de a angaja răspunderea
+operatorului de piață. În această categorie nu se includ
+persoanele care asigură conducerea nemijlocită a
+compartimentelor din cadrul operatorului de piață sau a
+sediilor secundare ale acestuia.
+Art. 19. — Membrii consiliului de administrație și
+conducătorii operatorului de piață trebuie să îndeplinească
+cumulativ următoarele condiții:
+a) să aibă o bună reputație, calificare și experiență
+profesională pentru realizarea obiectivelor propuse și pentru
+crearea premiselor necesare desfășurării activității
+operatorului de piață, în conformitate cu prevederile Legii
+nr. 297/2004, cu modificările și completările ulterioare,
+precum și a unei administrări sigure, prudente și
+transparente a operațiunilor pe piețele reglementate
+administrate de acesta, în scopul protejării intereselor
+investitorilor;
+b) să aibă studii superioare absolvite cu examen de
+licență și o experiență profesională în domeniul financiarbancar sau al pieței de capital de minimum 5 ani;
+c) să nu se afle sub incidența sancțiunilor prevăzute la
+art. 273 alin. (1) lit. c) din Legea nr. 297/2004, cu
+modificările și completările ulterioare, aplicate de C.N.V.M.,
+sau a unor sancțiuni similare aplicate de Banca Națională
+a României, Comisia de Supraveghere a Asigurărilor sau
+de alte autorități de supraveghere și reglementare în
+domeniul economic și financiar din statele membre sau
+nemembre.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+d) să nu fi fost condamnați printr-o sentință rămasă
+definitivă pentru infracțiuni în legătură cu activitatea
+desfășurată sau pentru fapte de corupție, spălare de bani,
+infracțiuni contra patrimoniului, abuz, luare ori dare de mită,
+fals și uz de fals, deturnare de fonduri, evaziune fiscală
+sau alte fapte de natură să conducă la concluzia că nu
+sunt create premisele necesare pentru asigurarea unei
+gestiuni sănătoase și prudente a operatorului de piață;
+e) să nu fi fost administratori ai unei societăți care s-a
+aflat în curs de reorganizare judiciară ori a fost declarată
+în stare de faliment sau care a fost suspendată ori i s-a
+retras autorizația de către autoritatea competentă pe
+perioada exercitării funcțiilor cu care au fost învestiți;
+f) să nu facă parte din conducere, să nu fie
+administratori, angajați sau auditori financiari și să nu
+dețină nici o participare la un alt operator de piață și/sau
+operator de sistem;
+g) să nu dețină nici o funcție publică.
+Art. 20. — (1) În vederea validării individuale a
+membrilor consiliului de administrație și a aprobării numirii
+conducătorilor operatorului de piață, C.N.V.M. va evalua
+toate circumstanțele și informațiile legate de activitatea,
+reputația și de experiența fiecărei persoane propuse, luând
+în considerare documentele prevăzute la pct. 5 și,
+respectiv, pct. 6 din anexa nr. 1 la prezentul regulament.
+(2) C.N.V.M. va refuza să valideze membrii consiliului
+de administrație sau să aprobe numirea conducătorilor
+operatorilor de piață dacă există motive întemeiate și
+demonstrabile pentru a crede că aceștia nu pot asigura
+administrarea și efectuarea operațiunilor pe piața
+reglementată în condiții sigure și prudente.
+Art. 21. — (1) În termen de 30 de zile de la apariția
+unei situații de incompatibilitate, impediment legal,
+imposibilitate definitivă de exercitare a mandatului sau de
+vacanță a postului de membru al consiliului de
+administrație, operatorul de piață va supune validării
+C.N.V.M. o altă persoană desemnată, în conformitate cu
+actele constitutive ale societății, pentru exercitarea
+mandatului respectiv până la expirarea acestuia, cu
+respectarea condițiilor prevăzute la art. 19.
+(2) Se consideră imposibilitate definitivă de exercitare a
+mandatului orice împrejurare care creează o indisponibilitate
+cu o durată mai mare sau egală cu 90 de zile
+consecutive.
+Art. 22. — Atribuțiile consiliului de administrație al
+operatorului de piață vor fi stabilite prin actul constitutiv, în
+conformitate cu prevederile Legii nr. 31/1990, republicată,
+cu modificările și completările ulterioare, și vor cuprinde în
+plus față de acestea cel puțin următoarele:
+a) aprobă încheierea contractelor cu entitățile autorizate
+să administreze sisteme de compensare-decontare în
+vederea asigurării finalizării eficiente și la timp a
+tranzacțiilor efectuate în cadrul sistemelor sale;
+b) aprobă încheierea contractului de prestări de servicii
+cu un auditor financiar, membru al Camerei Auditorilor
+Financiari din România și care îndeplinește criteriile
+comune stabilite de C.N.V.M. și de Camera Auditorilor
+Financiari din România;
+c) ia măsuri în vederea asigurării unui management
+sigur al operațiilor tehnice ale sistemului, și, în mod
+special, în vederea asigurării de proceduri eficiente pentru
+cazurile de urgență, care să asigure continuitatea
+
+9
+
+desfășurării activității și eliminarea riscurilor de apariție a
+unor disfuncționalități ale sistemelor tehnice;
+d) verifică îndeplinirea cerințelor de experiență și de
+integritate de către persoanele care au funcții de
+conducere și de control în structura operatorului de piață;
+e) propune spre aprobare adunării generale a
+acționarilor sau, în cazul delegării de competențe conform
+actului constitutiv și prevederilor art. 134 alin. (3) din Legea
+nr. 297/2004, cu modificările și completările ulterioare,
+aprobă regulile și procedurile în vederea asigurării unei
+bune administrări a piețelor reglementate;
+f) numește, eliberează din funcție și stabilește salariul
+conducătorilor operatorului de piață, hotărând și atribuțiile
+acestora;
+g) adoptă proiectul de buget al operatorului de piață, pe
+care îl prezintă spre aprobare adunării generale a
+acționarilor;
+h) aprobă încheierea de acte juridice a căror valoare
+estimată depășește limita stabilită pentru conducători, în
+limitele stabilite prin actul constitutiv sau prin hotărârea
+adunării generale a acționarilor;
+i) stabilește strategia generală de dezvoltare a
+operatorului de piață și o supune spre aprobare adunării
+generale a acționarilor;
+j) soluționează contestațiile împotriva deciziilor
+conducătorului/conducătorilor;
+k) supune spre aprobare adunării generale a acționarilor
+nivelul comisioanelor și al tarifelor practicate de operatorul
+de piață pentru operațiunile specifice pe piețele
+reglementate administrate de acesta;
+l) numește persoanele care vor fi înscrise pe lista de
+arbitri ai sistemului de arbitraj al operatorului de piață;
+m) aprobă participarea societății, în condițiile art. 8 din
+prezentul regulament, la capitalul social al altor societăți
+comerciale.
+Art. 23. — (1) Ori de câte ori este necesar și cel puțin
+o dată pe an, până la 31 martie, fiecare membru al
+consiliului de administrație are obligația să notifice
+consiliului de administrație al operatorului de piață natura
+și întinderea interesului sau ale relațiilor sale materiale,
+conform prevederilor art. 130 alin. (3) din Legea
+nr. 297/2004, cu modificările și completările ulterioare.
+(2) Obligația prevăzută la alin. (1) revine membrului
+consiliului de administrație atunci când a cunoscut sau
+trebuia să cunoască faptul că a fost încheiat ori este în
+curs de a fi încheiat un contract față de care acesta are
+un interes material sau în situația în care pe ordinea de zi
+se dezbat și se supun aprobării probleme față de care
+respectivul membru se află în conflict de interese.
+(3) Un membru al consiliului de administrație are un
+interes material sau se află în conflict de interese în orice
+situație care se referă la patrimoniul ori la interesele
+personale sau ale familiei acestuia (soțului/soției, rudelor și
+afinilor până la gradul al II-lea inclusiv) și care se află în
+legătură directă ori incidentă cu activitatea operatorului de
+piață.
+(4) Membrul consiliului de administrație care are un
+interes material sau o relație materială ori care se află
+într-un conflict de interese nu va participa la dezbaterile
+care au legătură cu acestea și se va abține de la votul
+asupra oricărei probleme legate de acestea, fiind considerat
+prezent la stabilirea cvorumului necesar luării unei decizii.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+
+(5) Atunci când un membru al consiliului de
+administrație al operatorului de piață nu declară un conflict
+de interese, în conformitate cu prevederile alin. (1)—(4):
+a) operatorul de piață, un acționar al acestuia sau
+C.N.V.M. poate cere instanței judecătorești anularea oricărui
+contract în care acesta are un interes material nedeclarat,
+potrivit celor prevăzute la alin. (1)—(4);
+b) C.N.V.M. poate solicita operatorului de piață anularea
+hotărârii consiliului de administrație și înlocuirea
+respectivului membru al consiliului de administrație.
+Art. 24. — Conducătorii operatorului de piață:
+a) reprezintă legal societatea în fața autorităților publice
+și în relațiile cu persoanele fizice și/sau juridice, române
+și/sau străine, dacă au fost mandatați astfel de consiliul de
+administrație; prin semnătura lor, conducătorii angajează
+patrimonial societatea ca persoană juridică;
+b) urmăresc respectarea regulilor și procedurilor piețelor
+reglementate de către participanții la piață;
+c) exercită competențe de sancționare sau de instituire
+a măsurilor cu caracter preventiv asupra participanților pe
+piețele reglementate și agenților pentru servicii de investiții
+financiare atestați pentru a-și desfășura activitatea pe
+piețele reglementate;
+d) informează imediat C.N.V.M. cu privire la orice
+neregulă sau disfuncționalitate în cadrul sistemului de
+tranzacționare.
+SECȚIUNEA a 5-a
+Dotarea tehnică și resursele
+
+Art. 25. — (1) Un operator de piață trebuie să aibă o
+dotare adecvată pentru administrarea riscurilor la care este
+expusă piața reglementată, să implementeze sistemele
+corespunzătoare, care să permită identificarea tuturor
+riscurilor semnificative ale operațiilor de piață și, totodată,
+să pună în practică măsuri efective pentru diminuarea
+acestora.
+(2) Sistemul tehnico-informatic folosit de operatorul de
+piață trebuie să îndeplinească cel puțin următoarele funcții:
+a) de tranzacționare automată, sigură și transparentă a
+tuturor instrumentelor financiare, permițând accesul la
+distanță, introducerea în sistem, modificarea, retragerea și
+anularea ordinelor, individual de către participanții care
+îndeplinesc condițiile de acces stabilite de operatorul de
+piață, pentru fiecare tip de piață reglementată;
+b) de furnizare a informațiilor care să cuprindă cel puțin
+următoarele:
+1. datele de identificare a participanților în contul cărora
+s-au introdus ordine de tranzacționare și/sau au fost
+încheiate tranzacții;
+2. identificarea instrumentelor financiare tranzacționate;
+3. data, ora, minutul și secunda la care s-au executat
+tranzacțiile;
+4. codul/numărul fiecărei tranzacții;
+5. exercitarea contractelor cu opțiuni;
+6. numărul pozițiilor deschise pentru fiecare scadență;
+7. expunerea pe fiecare participant;
+c) de înregistrare și ținere a evidenței, precum și de
+arhivare a tuturor detaliilor privind tranzacțiile încheiate;
+d) de protecție adecvată a integrității pieței reglementate
+prin asigurarea comunicării în timp real prin intermediul
+sistemului între participanți, operatorul de piață, depozitarul
+central și sistemul de compensare-decontare administrat de
+
+acesta, casa de compensare/contrapartea centrală, după
+caz.
+(3) Sistemul tehnico-informatic trebuie să fie construit
+astfel încât să asigure tranzacționarea continuă, stocarea și
+furnizarea în timp real a cel puțin următoarelor informații
+pentru fiecare instrument financiar: preț maxim, preț minim,
+prețul ultimei tranzacții, volumul tranzacționat, variația și
+pozițiile deschise.
+(4) În vederea respectării cerințelor prevăzute la alin. (2)
+și (3), operatorul de piață trebuie să se asigure că:
+a) sunt stabilite reglementări și proceduri transparente și
+nediscreționare care să asigure tranzacționarea corectă și
+ordonată pentru fiecare dintre piețele reglementate pe care
+le administrează și, totodată, sunt stabilite criterii obiective
+pentru executarea eficientă a ordinelor, în scopul asigurării
+protecției investitorilor;
+b) dispune de tehnici pentru administrarea sigură a
+operațiunilor tehnice ale sistemului, inclusiv instalarea de
+sisteme de recuperare și refacere a datelor pierdute în caz
+de calamități, pentru a face față riscurilor de apariție a
+unor disfuncționalități în cadrul sistemelor;
+c) dispune de tehnici care să faciliteze încheierea,
+executarea și înregistrarea eficientă și la timp a tranzacțiilor
+executate în cadrul sistemelor sale;
+d) participanții care asigură conectarea clienților la
+calculatoarele proprii în vederea executării ordinelor
+acestora dispun de condiții minime de siguranță a
+sistemului lor, care să permită cel puțin următoarele:
+1. detectarea ordinelor care pot fi considerate nepotrivite
+în condițiile curente din piață;
+2. oprirea oricărui ordin care ar putea duce la
+încălcarea oricăror limite de credit de către client sau a
+oricăror restricții în ceea ce privește mărimea ori tipul
+ordinelor;
+e) participanții sunt deplin răspunzători pentru orice
+ordin introdus în piață.
+(5) Operatorul de piață trebuie să dispună de un spațiu
+destinat sediului social, care să fie corespunzător
+desfășurării activității sale, astfel încât să poată asigura o
+dotare tehnică minimală cuprinzând programe pentru
+calculator și echipamente informatice de calcul și
+comunicație adecvate pentru piețele reglementate în care
+se tranzacționează în sistem electronic, precum și
+mecanisme de securitate și control al sistemelor informatice
+pentru asigurarea păstrării în siguranță a datelor și
+informațiilor stocate.
+(6) Spațiul destinat sediului social al operatorului de
+piață trebuie să asigure buna desfășurare a activității și să
+aibă următoarele caracteristici:
+a) să fie destinat exclusiv activității de administrare a
+piețelor reglementate și a activităților conexe în legătură cu
+aceasta;
+b) să aibă o suprafață care să asigure respectarea
+normelor tehnice pentru instalarea și exploatarea
+echipamentelor din dotare și desfășurarea în bune condiții
+a activității personalului propriu;
+c) să asigure securitatea spațiului conform
+reglementărilor în vigoare;
+d) să aibă sursă de alimentare cu energie electrică de
+rezervă.
+(7) În cazul în care operatorul de piață deține atât un
+sediu social, cât și un sediu central, condițiile menționate
+la alin. (5) și (6) trebuie să fie respectate de sediul central,
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+acesta reprezentând sediul de la care operatorul de piață
+desfășoară activitățile autorizate de C.N.V.M.
+SECȚIUNEA a 6-a
+Modificări în modul de organizare și funcționare
+a operatorului de piață și a pieței reglementate
+
+Legea nr. 297/2004
+îArt. 126. — (2) Condițiile care stau la baza acordării
+autorizației trebuie respectate pe toată durata de funcționare a
+operatorului de piață. Orice modificare a acestora trebuie
+supusă, în prealabil, autorizării C.N.V.M.“
+Art. 26. — (1) Următoarele modificări în modul de
+organizare și funcționare a operatorului de piață/pieței
+reglementate vor fi supuse autorizării/aprobării C.N.V.M.,
+anterior intrării în vigoare, sau, după caz, înregistrării
+acestora la oficiul registrului comerțului:
+a) emiterea, modificarea și completarea reglementărilor
+pieței/piețelor reglementate administrate de operatorul de
+piață în conformitate cu art. 134 alin. (1) și (2) din Legea
+nr. 297/2004, cu modificările și completările ulterioare, și cu
+prevederile prezentului regulament;
+b) majorarea/reducerea capitalului social;
+c) modificarea conducerii operatorului de piață;
+d) schimbarea sediului social/sediului central;
+e) înființarea/desființarea sediilor secundare;
+f) schimbarea denumirii/emblemei.
+(2) Operatorul de piață trebuie să supună validării
+C.N.V.M., înaintea începerii exercitării mandatului,
+modificarea componenței consiliului de administrație,
+prezentând pentru fiecare membru documentația prevăzută
+la pct. 5 din anexa nr. 1 la prezentul regulament.
+(3) În termen de maximum 5 zile de la data eliberării
+certificatului de înregistrare de mențiuni de la oficiul
+registrului comerțului, dar nu mai târziu de 60 de zile de la
+data emiterii deciziei de completare și/sau de modificare a
+autorizației de funcționare ori a deciziei de validare a
+membrilor consiliului de administrație, operatorul de piață
+are obligația să transmită la C.N.V.M. copia certificatului de
+înscriere de mențiuni, respectiv noul certificat de
+înregistrare, în situația în care modificarea produsă impune
+înregistrarea la oficiul registrului comerțului și, după caz,
+eliberarea unui nou certificat.
+(4) În vederea eliberării deciziei C.N.V.M. de completare
+și/sau de modificare a autorizației de funcționare a
+operatorului de piață și/sau a piețelor reglementate, acesta
+va transmite o cerere însoțită de documentele prevăzute în
+anexa nr. 2 la prezentul regulament.
+Art. 27. — (1) În cazul în care majorarea/reducerea
+capitalului social al operatorului de piață are loc ca urmare
+a operațiunilor de fuziune/divizare, cererea de autorizare a
+modificării capitalului social va fi însoțită de informațiile și
+documentele prevăzute în anexa nr. 3 la prezentul
+regulament.
+(2) Înainte de a solicita autorizarea C.N.V.M., societățile
+participante la fuziune/divizare trebuie să ia toate măsurile
+necesare,
+astfel
+încât
+să
+se
+asigure
+că
+societatea/societățile ce rezultă ca operator/operatori de
+piață îndeplinește/îndeplinesc cerințele stabilite de prezentul
+regulament și de alte prevederi legale incidente.
+
+11
+
+(3) Societățile rezultate în urma unei fuziuni prin
+contopire sau ca urmare a divizării vor solicita C.N.V.M.,
+după caz:
+a) retragerea autorizațiilor de funcționare a societăților
+participante la fuziune, conform prevederilor secțiunii a 7-a;
+b) eliberarea unei noi autorizații de funcționare, în
+conformitate cu prevederile prezentului regulament.
+Art. 28. — (1) Un operator de piață poate organiza și
+administra piețe reglementate și în altă localitate decât cea
+în care se află sediul social/sediul central, prin înființarea
+de sucursale.
+(2) Sucursala trebuie să aibă o structură organizatorică
+care să permită administrarea unei piețe reglementate
+autorizate de C.N.V.M., și să respecte în mod cumulativ
+cel puțin următoarele cerințe:
+a) să dețină un spațiu corespunzător desfășurării
+activității, care trebuie să fie în folosința exclusivă a
+operatorului de piață, îndeplinind condițiile prevăzute la
+art. 25 alin. (5) și (6);
+b) să asigure la sediul respectiv dotarea tehnică
+necesară desfășurării activității sucursalei;
+c) persoana din conducerea sucursalei să îndeplinească
+condițiile prevăzute la art. 19;
+d) să aibă un regulament propriu de organizare și
+funcționare, avizat de consiliul de administrație al
+operatorului de piață;
+e) să folosească în mod legal un program de
+tranzacționare pe un calculator specializat, care să
+îndeplinească cel puțin funcțiile prevăzute la art. 25
+alin. (2) și (3).
+(3) Situația centralizatoare a operațiunilor desfășurate în
+cadrul sucursalelor va fi remisă zilnic sediului social/sediului
+central.
+(4) Lunar, toate documentele aferente activităților
+desfășurate de sucursale vor fi transmise în original, în
+vederea arhivării, la sediul social/sediul central al
+operatorului de piață.
+(5) Operatorul de piață are obligația să mențină
+condițiile impuse la autorizarea sucursalelor pe toată durata
+de funcționare a acestora, notificând C.N.V.M. orice
+modificare.
+SECȚIUNEA a 7-a
+Retragerea și suspendarea autorizației operatorului de piață
+și a pieței reglementate
+
+Legea nr. 297/2004
+îArt. 128. — C.N.V.M. este în drept să retragă autorizația
+unui operator de piață:
+a) dacă operatorul de piață nu mai îndeplinește condițiile
+care au stat la baza autorizării;
+b) dacă operatorul de piață nu și-a exercitat obiectul de
+activitate pentru care a fost autorizat, pe o perioadă mai mare
+de 6 luni;
+c) dacă autorizația a fost obținută pe baza unor declarații
+sau informații false ori care au indus în eroare;
+d) dacă operatorul de piață a încălcat prevederile prezentei
+legi ori ale reglementărilor emise de C.N.V.M.;
+e) în caz de fuziune sau divizare;
+f) la cererea acestuia.“
+îArt. 138. — În cazul retragerii autorizației unui operator de
+piață, începând cu data precizată în decizie nu vor mai putea fi
+efectuate operațiuni cu instrumente financiare pe acea piață,
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+
+iar ordinele de tranzacționare înregistrate de intermediari și
+încă neexecutate până la acea dată devin nule de drept, dând
+loc la restituirea valorilor mobiliare și sumelor depozitate,
+respectiv a comisioanelor încasate, operațiunile încheiate până
+la această dată urmând a fi finalizate la scadențele lor,
+intermediarii fiind ținuți să respecte clauzele contractelor
+încheiate cu investitorii acestora [...].“
+Art. 29. — (1) Retragerea autorizației de funcționare a
+unui operator de piață poate fi decisă de C.N.V.M. în
+condițiile prevăzute de art. 128 din Legea nr. 297/2004, cu
+modificările și completările ulterioare.
+(2) Operatorul de piață are obligația să convoace, în
+termen de maximum 30 de zile, adunarea generală a
+acționarilor, care va avea în vedere dizolvarea și lichidarea
+societății.
+(3) În situația în care operatorul de piață nu își
+îndeplinește obligația prevăzută la alin. (2), C.N.V.M. va
+solicita consiliului de administrație al acestuia să convoace
+adunarea generală a acționarilor în vederea dizolvării și
+lichidării societății.
+(4) În cazul în care nu sunt respectate prevederile
+alin. (3), C.N.V.M. va solicita tribunalului competent să
+dispună convocarea adunării generale a acționarilor în
+vederea încadrării operatorului de piață în prevederile alin. (2).
+(5) Retragerea autorizației de funcționare sau inițierea
+procedurii de retragere nu exonerează operatorul de piață
+de executarea față de C.N.V.M. și față de entitățile pieței
+de capital a obligațiilor care au luat naștere anterior
+emiterii deciziei de retragere a autorizației.
+Art. 30. — (1) În situația în care operatorul de piață
+solicită retragerea autorizației sale de funcționare și/sau
+autorizația pieței/piețelor reglementate administrate, acesta
+va înainta o cerere de renunțare la autorizare motivată,
+însoțită de următoarele documente:
+a) hotărârea organului statutar al operatorului de piață;
+b) dovada publicării anunțului operatorului de piață cu
+privire la intenția de a înceta activitatea, publicat în
+3 cotidiene de circulație națională, în termen de maximum
+5 zile de la data hotărârii organului statutar;
+c) declarație pe propria răspundere a conducătorului
+operatorului de piață, în original, din care să rezulte că pe
+piața/piețele reglementate administrate nu au mai fost
+efectuate operațiuni după data adunării generale a
+acționarilor în care s-a aprobat solicitarea retragerii
+autorizației;
+d) dovada achitării datoriilor față de participanți, C.N.V.M.
+și față de orice alte entități implicate ale pieței de capital;
+e) hotărârea organului statutar cuprinzând indicarea
+adresei arhivei și a datelor de identificare și de contract al
+persoanei responsabile cu administrarea arhivei societății;
+f) raportul auditorului financiar cu privire la situația
+societății;
+g) balanța de verificare aferentă lunii în curs;
+h) orice alte documente și informații pe care C.N.V.M.
+le consideră necesare pentru soluționarea cererii.
+(2) În cazul retragerii autorizației de funcționare a unui
+operator de piață ca urmare a unei fuziuni/divizări,
+documentele prevăzute la alin. (1) vor fi completate cu
+proiectul de fuziune/divizare și cu dovada necontestării la
+oficiul registrului comerțului a proiectului de fuziune/divizare.
+(3) C.N.V.M. va decide cu privire la retragerea
+autorizației operatorului de piață, respectiv a pieței/piețelor
+
+reglementate la data constatării îndeplinirii condițiilor
+necesare pentru asigurarea protecției investitorilor, dar nu
+mai târziu de 90 de zile de la data înregistrării
+documentației complete conform prevederilor alin. (1).
+Art. 31. — În cazul retragerii autorizației operatorului de
+piață prin ordonanță de sancționare, C.N.V.M. va desemna
+un administrator provizoriu care efectuează numai acte de
+administrare, în sensul conservării patrimoniului existent la
+data retragerii autorizației, precum și supravegherea
+transferului operațiunilor către o altă societate autorizată să
+efectueze operațiunile specifice operatorului de piață și
+publicarea acestei situații.
+Art. 32. — (1) C.N.V.M. poate retrage autorizația pieței
+reglementate în următoarele situații:
+a) implicit, în cazul retragerii autorizației de funcționare
+a operatorului de piață la cerere sau ca sancțiune, cu
+excepția cazurilor de fuziune/divizare;
+b) piața reglementată nu a funcționat în termen de
+12 luni de la obținerea autorizației acesteia;
+c) operatorul de piață renunță în mod expres la
+autorizația pieței reglementate, cu respectarea prevederilor
+art. 30 alin. (1) sau piața reglementată respectivă nu a
+funcționat timp de 6 luni consecutive;
+d) autorizația pieței reglementate a fost obținută prin
+declarații false sau prin orice mijloace nelegale;
+e) piața reglementată nu mai îndeplinește condițiile
+impuse, care au fost luate cu considerare la acordarea
+autorizației;
+f) au fost încălcate în mod grav și repetat prevederile
+Legii nr. 297/2004, cu modificările și completările ulterioare,
+sau ale prezentului regulament cu privire la administrarea
+pieței reglementate.
+(2) În cazul în care operatorul de piață administrează o
+singură piață reglementată, retragerea autorizației pieței
+reglementate, menționată la alin. (1), implică retragerea de
+drept a autorizației de funcționare a operatorului de piață.
+(3) C.N.V.M. poate suspenda autorizația unei piețe
+reglementate dacă operatorul de piață nu asigură
+funcționarea corectă, ordonată și regulată a acesteia.
+Art. 33. — În cazurile de retragere și suspendare
+menționate la art. 32 vor fi aplicate măsurile prevăzute la
+art. 138 din Legea nr. 297/2004, cu modificările și
+completările ulterioare.
+CAPITOLUL 2
+Cerințe privind funcționarea operatorului de piață
+și a pieței reglementate
+Legea nr. 297/2004
+îArt. 132. — C.N.V.M. va stabili, prin reglementări, condițiile
+generale în care se vor desfășura tranzacțiile cu instrumente
+financiare admise la tranzacționare pe piețele reglementate din
+România, procedurile de efectuare a tranzacțiilor și termenele
+în care intermediarii implicați vor raporta respectivele
+tranzacții.“
+îArt. 134. — (1) Modul de organizare și funcționare a pieței
+reglementate este stabilit prin reglementări proprii, emise de
+către operatorul de piață, adoptate de către adunarea generală
+a acționarilor și aprobate de către C.N.V.M., în conformitate cu
+prevederile prezentei legi și ale legislației comunitare
+aplicabile.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+(2) Reglementările prevăzute la alin. (1) vor stabili, cel puțin
+următoarele:
+a) condițiile și procedurile de admitere, excludere și
+suspendare a intermediarilor la și de la tranzacționare;
+b) condițiile și procedurile de admitere, excludere și
+suspendare a instrumentelor financiare la și de la
+tranzacționare;
+c) condițiile, procedurile de tranzacționare, precum și
+obligațiile intermediarilor și emitenților admiși la tranzacționare;
+d) standardele profesionale impuse persoanelor care
+efectuează operațiuni pe piața reglementată;
+e) procedurile privind modul de determinare și publicare a
+prețurilor și a cotațiilor;
+f) tipurile de contracte și operațiuni permise;
+g) administrarea și diseminarea informațiilor către public;
+h) standardele contractuale și sistemul de compensaredecontare utilizat;
+i) mecanisme de securitate și control al sistemelor
+informatice, pentru asigurarea păstrării în siguranță a datelor și
+informațiilor stocate, a fișierelor și bazelor de date, inclusiv în
+situația unor evenimente deosebite.“
+SECȚIUNEA 1
+Accesul participanților pe piața reglementată
+
+Legea nr. 297/2004
+îArt. 126. — (3) Operatorul de piață nu poate limita numărul
+persoanelor cu drept de acces pe piața reglementată
+administrată.“
+Art. 34. — Operatorul de piață trebuie să notifice
+C.N.V.M. lista participanților înaintea începerii tranzacționării
+în cadrul unei piețe reglementate, dar nu mai târziu de
+60 de zile de la data obținerii autorizației.
+Art. 35. — (1) Operatorul de piață trebuie să
+stabilească și să mențină reglementări transparente și
+nediscriminatorii, bazate pe criterii obiective, cu privire la
+accesul, suspendarea și excluderea participanților pe piețele
+reglementate, cu respectarea prevederilor art. 126 alin. (3)
+din Legea nr. 297/2004, cu modificările și completările
+ulterioare.
+(2) Reglementările prevăzute la alin. (1) vor cuprinde
+toate obligațiile participanților decurgând din:
+a) organizarea și administrarea piețelor reglementate;
+b) condițiile de acces la sistemele informatice ale
+operatorului de piață;
+c) regulile privind tranzacțiile pe piețele reglementate;
+d) standardele profesionale impuse personalului
+intermediarilor care operează pe piața reglementată;
+e) condițiile privind alte categorii de participanți decât
+intermediarii care întrunesc cerințele art. 36;
+f) regulile și procedurile pentru compensarea și
+decontarea tranzacțiilor executate pe piețele reglementate;
+g) măsurile disciplinare riguroase și imparțiale pentru
+cazurile de încălcări grave ale regulilor stabilite pentru
+participanții la piață.
+Art. 36. — Operatorul de piață permite accesul pe o
+piață reglementată participanților care:
+a) îndeplinesc cerințele impuse de regulile pieței
+respective și de reglementările C.N.V.M.;
+b) fac dovada dotării tehnice adecvate și a calificării și
+atestării corespunzătoare a agenților pentru servicii de
+investiții financiare;
+
+13
+
+c) au o structură organizatorică cerută prin regulile
+pieței;
+d) dispun de resurse suficiente pentru activitatea pe
+care vor să o desfășoare pe piața reglementată, luând în
+considerare diferitele cerințe financiare pe care le poate
+stabili piața reglementată pentru a garanta decontarea
+adecvată a tranzacțiilor.
+Art. 37. — (1) În cazul încheierii unor tranzacții,
+participanții care au acces pe o piață reglementată nu sunt
+obligați să aplice unul altuia cerințele prevăzute la art. 73
+alin. (1), art. 77, art. 80 alin. (1) lit. c), art. 81 alin. (2)—(6),
+art. 82, 83, art. 84 alin. (1), art. 85 alin. (1), art. 90,
+art. 91 alin. (2) și art. 92 din Regulamentul nr. 15/2005
+privind serviciile de investiții financiare, aprobat prin Ordinul
+președintelui Comisiei Naționale a Valorilor Mobiliare
+nr. 70/2005.
+(2) Participanții la piețele reglementate trebuie să
+respecte condițiile stabilite cu privire la obligațiile prevăzute
+la art. 73 alin. (1), art. 77, art. 80 alin. (1) lit. c), art. 81
+alin. (2)—(6), art. 82, 83, art. 84 alin. (1), art. 85 alin. (1),
+art. 90, art. 91 alin. (2) și art. 92 din Regulamentul
+nr. 15/2005, în relația cu clienții lor atunci când, acționând
+în numele clienților lor, execută ordinele acestora pe piața
+reglementată.
+Art. 38. — Reglementările operatorului de piață privind
+accesul participanților pe piața reglementată trebuie să
+conțină prevederi referitoare la participarea directă sau de
+la distanță a intermediarilor din statele membre, cu
+respectarea reglementărilor aplicabile.
+SECȚIUNEA a 2-a
+Admiterea, suspendarea sau retragerea la/de la tranzacționare
+a instrumentelor financiare pe piața reglementată
+
+Legea nr. 297/2004
+îArt. 137. — (1) C.N.V.M. poate suspenda o parte sau toate
+operațiunile cu instrumente financiare, în cazul în care constată
+că nu sunt respectate prevederile legale și/sau apreciază că
+este imposibilă menținerea unei piețe ordonate, putând fi
+afectate interesele investitorilor.
+(2) Orice decizie de suspendare, luată conform alin. (1),
+precum și motivele care au stat la baza acesteia vor fi aduse
+imediat la cunoștința publicului și vor fi publicate în Buletinul
+C.N.V.M.“
+îArt. 234. — Pentru valorile mobiliare admise la
+tranzacționare pe o piață reglementată, C.N.V.M. poate:
+[...]
+b) să suspende sau să solicite operatorului de piață
+suspendarea de la tranzacționare a valorilor mobiliare, dacă
+consideră că situația emitentului este de așa natură încât
+tranzacționarea ar fi în detrimentul investitorilor;
+c) să ia toate măsurile pentru a se asigura că publicul este
+corect informat;
+d) să decidă ca valorile mobiliare admise la tranzacționare
+pe o piață reglementată să fie retrase de la tranzacționare, în
+condițiile în care consideră că, datorită unor circumstanțe
+speciale, nu se mai poate menține o piață ordonată pentru
+respectivele valori mobiliare.“
+Art. 39. — (1) Operatorul de piață trebuie să aibă
+reglementări clare și transparente aprobate de C.N.V.M. cu
+privire la admiterea la tranzacționare a instrumentelor
+financiare pe piața reglementată pe care o administrează.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+
+(2) Reglementările prevăzute la alin. (1) trebuie să
+cuprindă proceduri prin care instrumentele financiare
+admise la tranzacționare pe o piață reglementată sunt
+tranzacționate într-o manieră corectă, ordonată și eficientă,
+iar valorile mobiliare sunt liber negociabile.
+Art. 40. — Condițiile minime pentru admiterea la
+tranzacționare pe o piață reglementată a instrumentelor
+financiare derivate trebuie să includă cel puțin următoarele:
+a) contractele privind instrumentele financiare derivate
+permit formarea ordonată a prețului, precum și existența
+condițiilor efective de compensare și decontare;
+b) termenii contractului reprezentând instrumentele
+financiare derivate trebuie să fie clari și să permită o
+corelare între prețul instrumentului financiar derivat și prețul
+activului suport;
+c) prețul activului suport trebuie să fie public;
+d) suficiente informații specifice, necesare pentru a
+evalua instrumentul financiar derivat;
+e) acordurile pentru determinarea prețului de decontare
+a contractului cu instrumente financiare derivate trebuie să
+asigure faptul că prețul reflectă în mod adecvat prețul
+activului suport și minimizează posibilitățile de manipulare;
+f) atunci când un instrument financiar derivat impune
+livrarea activului suport în schimbul decontării fondurilor
+bănești:
+1. trebuie să existe proceduri adecvate privind
+decontarea și livrarea activului suport;
+2. trebuie să existe mijloace adecvate pentru obținerea
+de informații relevante, corecte și actualizate referitoare la
+activul suport.
+Art. 41. — (1) Operatorul de piață trebuie să
+stabilească și să mențină reguli privind respectarea de
+către emitenții ale căror valori mobiliare sunt admise la
+tranzacționare pe piața reglementată a obligațiilor acestora
+privind transparența și informarea investitorilor, conform
+cerințelor de raportare periodică și continuă.
+(2) Operatorul de piață trebuie să asigure accesul
+participanților la raportările prevăzute la alin. (1), primite de
+la emitenții acestora.
+(3) Operatorul de piață trebuie să stabilească proceduri
+privind modul de urmărire cu regularitate a respectării
+cerințelor de admitere pe piața reglementată a
+instrumentelor financiare, în conformitate cu reglementările
+în vigoare.
+Art. 42. — (1) O valoare mobiliară care a fost admisă
+la tranzacționare pe o piață reglementată poate fi ulterior
+admisă la tranzacționare pe alte piețe reglementate, fără
+acordul emitentului, în conformitate cu prevederile legale
+incidente.
+(2) În situația în care valorile mobiliare sunt admise la
+tranzacționare pe o piață reglementată fără acordul
+emitentului, acesta va fi informat, în termen de maximum
+două zile lucrătoare, de către operatorul de piață care
+administrează piața reglementată, cu privire la faptul că
+valorile mobiliare emise de acesta sunt tranzacționate pe
+respectiva piață reglementată.
+(3) Emitentul nu are obligația de a furniza în mod direct
+informațiile prevăzute la art. 41 alin. (1) în situația în care
+valorile mobiliare emise de respectivul emitent au fost
+admise la tranzacționare fără acordul acestuia.
+Art. 43. — (1) Fără a prejudicia dreptul C.N.V.M. de
+retragere sau suspendare de la tranzacționare a
+instrumentelor financiare admise pe o piață reglementată,
+
+conform art. 234 lit. b) și d) și art. 137 din Legea
+nr. 297/2004, cu modificările și completările ulterioare,
+operatorul de piață trebuie să emită proceduri de
+suspendare sau de retragere de la tranzacționare a unui
+instrument financiar care nu mai îndeplinește condițiile
+acelei piețe reglementate, cu excepția cazului în care un
+asemenea demers ar putea aduce prejudicii semnificative
+investitorilor sau funcționării ordonate a pieței reglementate.
+(2) Operatorul de piață care suspendă sau retrage de
+la tranzacționare un instrument financiar trebuie să facă
+publică această decizie și să o comunice C.N.V.M.
+(3) În cazul suspendării sau retragerii de la
+tranzacționare a unui instrument financiar conform alin. (2),
+C.N.V.M. va informa autoritățile competente din celelalte
+state membre.
+(4) În cazul în care C.N.V.M. dispune retragerea sau
+suspendarea de la tranzacționare a unui instrument
+financiar de pe una ori mai multe piețe reglementate, va
+face publică, fără întârziere, decizia sa și va informa
+autoritățile competente din statele membre.
+(5) În cazul în care C.N.V.M. va fi informată de către o
+autoritate competentă dintr-un stat membru cu privire la
+retragerea sau suspendarea unui instrument financiar care
+este tranzacționat atât în statul membru, cât și în România,
+C.N.V.M. va dispune suspendarea sau retragerea acelui
+instrument financiar de la tranzacționare din cadrul piețelor
+reglementate și a sistemelor alternative de tranzacționare
+care intră sub jurisdicția sa, cu excepția cazului în care ar
+putea fi aduse prejudicii semnificative intereselor
+investitorilor sau funcționării ordonate a pieței.
+SECȚIUNEA a 3-a
+Monitorizarea respectării regulilor pieței reglementate
+și depistarea abuzului pe piață
+
+Legea nr. 297/2004
+îArt. 133. — (4) Operatorul de piață trebuie să respecte
+cerințele C.N.V.M. cu privire la prevenirea și depistarea
+abuzului pe piață“.
+îArt. 134. — (6) Operatorul de piață poate stabili un sistem
+de arbitraj pentru rezolvarea disputelor între intermediari și/sau
+emitenții ale căror instrumente financiare sunt admise la
+tranzacționare pe piețele administrate de către operatorul
+respectiv.“
+Art. 44. — (1) Operatorul de piață trebuie să
+stabilească și să mențină proceduri eficiente pentru
+monitorizarea permanentă a respectării regulilor sale de
+tranzacționare de către participanții piețelor reglementate
+administrate. Operatorul de piață trebuie să monitorizeze
+tranzacțiile efectuate de către participanți prin intermediul
+sistemelor sale pentru a identifica atât încălcarea regulilor
+de tranzacționare, care pot afecta funcționarea ordonată a
+pieței, cât și a practicilor care ar putea implica abuzul pe
+piață.
+(2) Operatorul de piață trebuie să urmărească modul în
+care se efectuează răscumpărarea acțiunilor emise de
+societățile comerciale admise la tranzacționare pe piețele
+reglementate, precum și tranzacțiile bazate pe informații
+confidențiale.
+(3) Operatorul de piață trebuie să supravegheze
+conduita participanților la piață și să întreprindă investigații
+și audieri în acele probleme care privesc încălcarea
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+regulamentelor pieței reglementate, cu stabilirea sancțiunilor
+aferente.
+(4) În cazul încălcării prevederilor reglementărilor pieței
+reglementate, operatorul de piață poate aplica sancțiuni,
+independent de sancțiunile care vor fi stabilite de C.N.V.M.
+(5) Operatorul de piață are obligația să raporteze
+C.N.V.M., fără întârziere, orice încălcare semnificativă a
+regulilor piețelor reglementate administrate, cauzele care
+împiedică efectuarea ordonată a tranzacțiilor, încălcarea
+regulilor de conduită, precum și practicile care ar putea
+constitui abuz pe piață. Operatorul de piață trebuie să
+furnizeze C.N.V.M. informații și asistență necesare în
+investigarea și sancționarea abuzului pe piață apărut în
+cadrul pieței reglementate.
+Art. 45. — Modul de organizare și funcționare a
+sistemului de arbitraj se stabilește prin reglementările
+operatorului de piață, cu aprobarea C.N.V.M., în
+conformitate cu prevederile art. 134 alin. (6) din Legea
+nr. 297/2004, cu modificările și completările ulterioare.
+SECȚIUNEA a 4-a
+Cerințe privind transparența pre- și posttranzacționare
+în cadrul pieței reglementate
+
+Legea nr. 297/2004
+îArt. 133. — (1) Operatorii de piață vor asigura respectarea
+normelor privind transparența și protecția investitorilor, conform
+reglementărilor emise de C.N.V.M.
+(2) Reglementările, cotațiile piețelor reglementate, precum
+și volumele de tranzacționare sunt informații de interes public
+și trebuie făcute accesibile publicului, cel puțin pe paginile de
+internet ale operatorului de piață.
+(3) În scopul evaluării de către investitori, în orice moment,
+a termenilor unei tranzacții pe care intenționează să o
+efectueze și să verifice după aceea condițiile în care această
+tranzacție a fost executată, operatorul de piață trebuie să pună
+la dispoziția acestora informațiile prevăzute în reglementările
+C.N.V.M. care vor stabili mijloacele, forma și termenul în care
+trebuie să fie furnizate aceste informații, în funcție de natura,
+dimensiunea și nevoile pieței reglementate în cauză și ale
+investitorilor care operează pe această piață.“
+Art. 46. — (1) Operatorii de piață trebuie să pună la
+dispoziție publicului, în mod continuu pe toată durata
+programului normal de tranzacționare și în termeni
+comerciali rezonabili, prețurile curente și cantitățile curente
+de vânzare și cumpărare pentru instrumentele financiare
+admise la tranzacționare pe piețele reglementate
+administrate de aceștia.
+(2) Operatorii de piață vor permite accesul la sistemul
+propriu folosit pentru transmiterea publică a informațiilor, în
+termeni comerciali rezonabili și pe baze nediscriminatorii,
+intermediarilor care acționează ca operatori independenți, în
+scopul publicării cotațiilor lor în conformitate cu prevederile
+art. 104 din Regulamentul nr. 15/2005.
+(3) Prin operator independent se înțelege intermediarul
+care efectuează operațiuni de tranzacționare în conformitate
+cu prevederile titlului III, cap. III secțiunea a 2-a din
+Regulamentul nr. 15/2005.
+Art. 47. — C.N.V.M. poate exonera operatorul de piață
+de obligația de a face publice informațiile menționate la
+art. 46 alin. (1), ținând cont de modelul pieței, de tipul și
+dimensiunea ordinelor, precum și în cazul tranzacționării
+
+15
+
+unui volum mare comparativ cu volumul normal din piață,
+aferent instrumentelor financiare respective.
+Art. 48. — (1) Operatorii de piață au obligația să facă
+publice, în timp real și în termeni comerciali rezonabili,
+prețul, volumul și momentul executării tranzacțiilor pentru
+instrumentele financiare admise la tranzacționare pe piețele
+reglementate administrate de aceștia.
+(2) Operatorii de piață vor permite accesul la sistemul
+propriu folosit pentru transmiterea publică a informațiilor
+prevăzute la alin. (1), în termeni comerciali rezonabili și pe
+baze nediscriminatorii, intermediarilor care acționează ca
+operatori independenți, în scopul publicării detaliilor
+tranzacțiilor efectuate de aceștia, în conformitate cu
+prevederile art. 111 alin. (2) din Regulamentul nr. 15/2005.
+Art. 49. — (1) C.N.V.M. poate aproba procedurile
+operatorului de piață prin care se stabilește amânarea
+publicării detaliilor unor tranzacții, luând în considerare
+modelul pieței, tipul și dimensiunea ordinelor, precum și în
+cazul tranzacțiilor cu un volum mare comparativ cu volumul
+normal din piață, aferent instrumentelor financiare
+respective.
+(2) Procedurile privind amânarea publicării unor
+tranzacții menționate la alin. (1) trebuie să fie făcute
+publice participanților la piață și publicului investitor.
+SECȚIUNEA a 5-a
+Contractele încheiate cu societatea care administrează
+sistemul de compensare-decontare, casa de compensare
+și contrapartea centrală din alte state membre
+
+Legea nr. 297/2004
+îArt. 42. — (1) Intermediarii autorizați în statele membre pot
+avea acces pe o piață reglementată din România să presteze
+servicii de natura celor prevăzute la art. 5 alin. (1) lit. b) și c),
+precum și în sistemele de compensare-decontare aferente
+acestor piețe, fie:
+a) direct, în baza liberei circulații a serviciilor sau prin
+înființarea de sucursale;
+b) indirect, prin înființarea de filiale ori achiziționarea unei
+S.S.I.F. care este deja membră sau are acces pe o piață
+reglementată sau într-un sistem de compensare-decontare.
+(2) Accesul pe o piață reglementată sau într-un sistem de
+compensare-decontare al intermediarilor prevăzuți la alin. (1)
+este condiționat de respectarea reglementărilor emise de
+operatorul de piață și de sistemele de compensare-decontare,
+aprobate de C.N.V.M., a regulilor de conduită și a standardelor
+profesionale impuse persoanelor care desfășoară activități în
+numele acestor intermediari.“
+Art. 50. — (1) Operatorul de piață poate acorda
+participanților la piața reglementată administrată de acesta
+dreptul de a desemna un sistem de compensare-decontare
+al tranzacțiilor cu instrumente financiare aflat sub jurisdicția
+unui alt stat membru, cu condiția ca:
+a) să existe dispozitive și legături funcționale între
+sistemul de decontare desemnat și oricare alt sistem sau
+infrastructură necesară asigurării decontării tranzacțiilor
+respective într-un mod economic și eficient; și
+b) să existe aprobarea C.N.V.M. cu privire la faptul că
+decontarea tranzacțiilor încheiate pe piața reglementată
+printr-un alt sistem de decontare decât cel desemnat de
+operatorul de piață asigură condițiile tehnice necesare
+pentru a permite funcționarea corectă și ordonată a piețelor
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+
+financiare.
+(2) În ceea ce privește aprobarea prevăzută la alin. (1)
+lit. b), C.N.V.M. va consulta Banca Națională a României
+sau, după caz, banca centrală/autoritatea din statul
+membru, în calitatea acesteia de autoritate de
+supraveghere a sistemelor de plăți și decontare a
+operațiunilor cu instrumente financiare.
+Art. 51. — (1) Operatorul de piață trebuie să aibă reguli
+cu privire la încheierea de contracte cu societatea care
+administrează un sistem de compensare-decontare, casa
+de compensare și/sau contrapartea centrală dintr-un alt stat
+membru, în scopul instituirii unor mecanisme adecvate în
+vederea asigurării compensării și decontării tuturor sau
+numai a unora dintre tranzacțiile încheiate de participanții
+la piața reglementată prin sistemul acesteia.
+(2) Pentru menținerea funcționării ordonate a pieței
+reglementate și luând în considerare prevederile menționate
+la art. 50, C.N.V.M. poate interzice utilizarea sistemului de
+compensare-decontare și/sau a casei de compensare/
+contrapărții centrale dintr-un alt stat membru.
+Art. 52. — Drepturile intermediarilor menționate la
+art. 42 din Legea nr. 297/2004, cu modificările și
+completările ulterioare, precum și cele prevăzute la art. 50
+alin. (1) se vor acorda fără a prejudicia dreptul societății
+care administrează sistemul de compensare-decontare, al
+casei de compensare și al contrapărții centrale de a refuza
+întemeiat, din motive comerciale legitime, furnizarea
+serviciilor solicitate.
+CAPITOLUL 3
+Supravegherea operatorilor de piață
+și a piețelor reglementate
+Legea nr. 297/2004
+îArt. 135. — (1) C.N.V.M. supraveghează piețele
+reglementate în scopul asigurării transparenței, funcționării
+corespunzătoare a activității de tranzacționare și a protecției
+investitorilor.
+(2) C.N.V.M. stabilește reguli pentru înregistrarea și
+arhivarea datelor cu privire la tranzacționarea instrumentelor
+financiare pe piețele reglementate, precum și termenele și
+condițiile de păstrare a acestor informații.
+(3) În exercitarea prerogativelor sale de supraveghere și
+control ale piețelor reglementate, C.N.V.M. poate numi un
+inspector ale cărui principale atribuții sunt:
+a) urmărește respectarea reglementărilor legale incidente;
+b) participă, fără drept de vot, la adunarea generală a
+acționarilor și la ședințele consiliului de administrație al
+operatorului de piață, putând formula observații și putând cere
+ca acestea să fie incluse în procesul-verbal al ședinței;
+c) are acces liber în toate incintele, la toate documentele,
+informațiile și evidențele operatorului de piață;
+d) informează și propune C.N.V.M. măsuri pentru orice
+situație constatată.
+(4) Operatorul de piață va asigura mijloacele și condițiile
+necesare în vederea îndeplinirii atribuțiilor inspectorului,
+prevăzute la alin. (3).
+Art. 136. — (1) C.N.V.M. poate solicita operatorului de piață
+transmiterea de date, informații și documente, în mod periodic
+sau în orice alt mod, stabilind și termenul în care acestea vor fi
+transmise.
+(2) C.N.V.M. poate solicita modificarea reglementărilor
+emise de operatorul de piață.
+
+(3) C.N.V.M. poate efectua inspecții și poate adopta
+măsurile necesare în ceea ce privește operatorul de piață
+respectiv.“
+SECȚIUNEA 1
+Raportări privind activitatea operatorului de piață
+
+Art. 53. — (1) Operatorul de piață va notifica de îndată
+C.N.V.M. cu privire la următoarele situații:
+a) încălcarea regulilor de tranzacționare ale pieței
+reglementate de către participanți, precum și măsurile
+adoptate;
+b) erorile semnificative ale structurilor tehnologice și ale
+sistemelor informatice destinate tranzacționării;
+c) planificarea activităților corespunzătoare obiectivelor
+operatorului de piață și planurile privind achiziția de acțiuni;
+d) orice eveniment relevant care ar putea avea
+consecințe asupra organizării și funcționării pieței/piețelor
+reglementate administrate.
+(2) Acordurile, alianțele sau cooperările specifice
+obiectului de activitate vor fi notificate în prealabil C.N.V.M.
+Art. 54. — (1) Operatorul de piață are obligația să
+transmită C.N.V.M. toate hotărârile adunărilor generale ale
+acționarilor și ale consiliului de administrație, în termen de
+maximum 10 zile de la data la care au avut loc ședințele.
+(2) La cererea C.N.V.M., operatorul de piață trebuie să
+transmită procesele-verbale aferente ședințelor adunărilor
+generale ale acționarilor.
+Art. 55. — În vederea îndeplinirii atribuțiilor sale,
+operatorul de piață trebuie să dispună de mecanisme
+adecvate de control intern și de audit intern, care se vor
+stabili prin norme proprii, în concordanță cu reglementările
+în vigoare.
+Art. 56. — (1) Operatorul de piață are obligația să
+transmită C.N.V.M., anual, în termen de maximum 150 de
+zile de la încheierea exercițiului financiar, un raport care
+trebuie să cuprindă:
+a) situația financiară anuală;
+b) raportul auditorului financiar;
+c) raportul administratorilor;
+d) raportul de activitate al operatorului de piață întocmit
+de conducători și aprobat de consiliul de administrație.
+(2) Raportul sintetic de activitate al operatorului de piață
+va fi publicat pe pagina proprie de Internet.
+(3) Raportul menționat la alin. (1) lit. d) va fi întocmit și
+prezentat ținându-se cont de următoarele cerințe
+organizaționale:
+a) separarea funcțiilor operaționale și de control și
+procedura de administrare a conflictelor de interese;
+b) controlul operațiunilor, cu specificarea sarcinilor și
+responsabilităților, cu privire, în special, la monitorizarea și
+corectarea neregulilor;
+c) procedurile de raportare la diferite niveluri ale
+structurii de conducere, cu indicarea specifică a raportării
+erorilor apărute și măsurile luate pentru eliminarea
+acestora.
+(4) Raportul menționat la alin. (1) lit. d) trebuie să
+cuprindă cel puțin următoarele:
+a) organigrama și structura funcțională;
+b) delegarea atribuțiilor;
+c) structura sistemului de control intern;
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+d) măsurile luate pentru a asigura conformitatea cu
+regulile și buna funcționare a piețelor reglementate, cu
+referire în special la mijloacele tehnice;
+e) evaluarea măsurilor adoptate pentru limitarea
+riscurilor, subliniind orice problemă de natură operațională
+apărută;
+f) principalele rezultate ale activității de control la toate
+nivelurile structurii organizatorice.
+(5) Cel puțin o dată pe an operatorul de piață are
+obligația să testeze echipamentele informatice și programul
+pentru calculator de tranzacționare specializat, în special cu
+privire la măsurile de securitate ale sistemului informatic,
+precum și la procedurile de recuperare. Testele vor fi
+realizate de către o terță parte sau de către departamentul
+specializat, cu condiția ca acesta din urmă să fie diferit și
+independent de departamentul de producție al structurii
+tehnologice și programului pentru calculator de
+tranzacționare specializat. Rezultatele acestor teste vor fi
+notificate C.N.V.M. până cel târziu la 31 decembrie,
+împreună cu măsurile luate sau propuse a se lua de către
+operatorul de piață pentru a elimina disfuncționalitățile
+constatate. Orice problemă semnificativă a structurii
+tehnologice sau a programului pentru calculator trebuie
+raportată de îndată C.N.V.M. Măsurile stabilite de către
+operatorul de piață vor fi comunicate C.N.V.M. în maximum
+două zile lucrătoare de la adoptarea acestora.
+(6) Raportul anual al operatorului de piață va fi însoțit
+de următoarele documente:
+a) lista participanților pentru fiecare piață reglementată
+organizată și administrată;
+b) lista membrilor consiliului de administrație și a
+conducătorilor operatorului de piață;
+c) lista actualizată a registrului acționarilor, indicându-se
+pentru fiecare acționar:
+1. numărul acțiunilor deținute;
+2. ponderea acțiunilor cu drept de vot deținute în totalul
+acțiunilor deținute.
+(7) Operatorul de piață trebuie să facă publice
+următoarele informații:
+a) informații cu privire la structura acționariatului
+operatorului de piață și în special informații cu privire la
+datele de identificare și mărimea interesului oricărei
+persoane care exercită o influență semnificativă asupra
+conducerii acestuia;
+b) informații cu privire la orice modificare a structurii
+acționariatului care conduce la schimbarea persoanelor care
+exercită o influență semnificativă asupra operațiunilor pieței
+reglementate.
+Art. 57. — (1) Operatorul de piață are obligația de a
+transmite la C.N.V.M., trimestrial, un raport cuprinzând
+următoarele informații:
+a) evoluția principalilor indicatori economico-financiari, pe
+structura formularului de bilanț contabil;
+b) situația activelor financiare cu grad mare de
+lichiditate;
+c) lista cuprinzând participanții la piața reglementată,
+care au încheiat tranzacții pe piețele reglementate în
+perioada de raportare;
+d) cauzele care au determinat apariția unor modificări
+față de conținutul raportărilor trimestriale anterioare, dacă
+este cazul.
+(2) Raportările trimestriale se transmit C.N.V.M. în cel
+mult 45 de zile de la sfârșitul fiecărui trimestru.
+
+17
+
+SECȚIUNEA a 2-a
+Raportări privind activitatea pieței reglementate
+
+Art. 58. — (1) Operatorul de piață trebuie să
+evidențieze distinct pentru fiecare ședință tranzacțiile
+încheiate pe fiecare piață reglementată administrată.
+Înregistrările electronice vor cuprinde cel puțin următoarele:
+a) data și momentul (exprimat în ore, minute și
+secunde) la care a fost introdus ordinul;
+b) identificarea instrumentului financiar;
+c) cantitatea de instrumente financiare — obiect al
+ordinului respectiv;
+d) identificarea tipului de ordin primit (de exemplu,
+limită, la piață etc.);
+e) calificarea ordinului ca fiind de vânzare sau de
+cumpărare;
+f) prețul la care a fost introdus ordinul;
+g) orice limită/restricție conținută de ordin;
+h) durata de valabilitate a ordinului;
+i) orice instrucțiuni de modificare sau anulare a
+ordinului;
+j) tipul de cont aferent ordinului introdus în sistem (cont
+client, cont propriu sau, după caz, cont persoane relevante
+îstaff“);
+k) data și momentul (exprimat în ore, minute și
+secunde) la care ordinul a fost executat;
+l) prețul la care ordinul a fost executat;
+m) mărimea ordinului executat (cantitatea);
+n) identitatea părților tranzacției.
+(2) Înregistrările electronice ale tranzacțiilor menționate
+la alin. (1) vor fi păstrate pe o perioadă minimă de 8 ani.
+Art. 59. — (1) Raportul zilnic întocmit pentru fiecare
+piață se transmite la C.N.V.M., în format electronic sau pe
+suport magnetic, cel târziu cu o oră înaintea deschiderii
+următoarei ședințe de tranzacționare și va cuprinde cel
+puțin următoarele:
+a) pentru fiecare instrument financiar:
+1. numărul de tranzacții efectuate;
+2. numărul de instrumente financiare tranzacționate;
+3. prețul de deschidere;
+4. prețul maxim și prețul minim;
+5. prețul de închidere;
+6. prețul mediu ponderat (cu excepția instrumentelor
+financiare derivate);
+7. variația prețului față de prețul de referință din
+ședința precedentă de tranzacționare;
+b) pentru acțiuni și obligațiuni, elementele menționate la
+lit. a), precum și valoare totală a tranzacțiilor efectuate;
+c) pentru instrumentele financiare derivate, elementele
+menționate la lit. a), precum și următoarele:
+1. tipul contractului;
+2. scadența/data expirării;
+3. numărul pozițiilor deschise și variația acestora.
+d) pentru indici:
+1. numărul de puncte;
+2. variația față de ziua precedentă.
+(2) Raportul lunar întocmit pentru fiecare piață se
+transmite la C.N.V.M., în format electronic sau pe suport
+magnetic, în termen de maximum 10 zile de la sfârșitul
+lunii pentru care se face raportarea, și va cuprinde cel
+puțin următoarele:
+a) valoarea totală a tranzacțiilor și evoluția comparativă
+cu luna precedentă a valorii acesteia;
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+
+b) numărul instrumentelor financiare tranzacționate,
+comparativ cu numărul înregistrat în luna precedentă;
+c) numărul tranzacțiilor, comparativ cu numărul
+înregistrat în luna precedentă;
+d) evoluția indicilor pieței respective.
+(3) Raportul anual de activitate întocmit pentru fiecare
+piață trebuie să cuprindă cel puțin volumul tranzacțiilor
+pentru fiecare tip de instrument financiar, pentru anul
+încheiat și pentru anul anterior. Acest raport se va
+transmite C.N.V.M. împreună cu raportul operatorului de
+piață, în termenul prevăzut la art. 56 alin. (1).
+(4) Rapoartele zilnice, lunare și anuale, cu excepția
+informațiilor confidențiale, vor fi făcute publice în termenele
+prevăzute la alin. (1)—(3), pe pagina de Internet a
+operatorului de piață și/sau în cel puțin un cotidian de
+circulație națională.
+Art. 60. — C.N.V.M. are dreptul să verifice în orice
+moment toate înregistrările contabile, operațiunile și
+incintele aflate în folosința operatorului de piață.
+
+b) să asigure intermediarilor acces nediscriminatoriu la
+sistemul alternativ de tranzacționare și un tratament egal
+participanților;
+c) să garanteze că procedurile aplicabile sistemului sunt în
+măsură să asigure posibilitatea de a obține cel mai bun preț, la
+un moment dat;
+d) să asigure suficiente informații cu privire la ordinele date
+și tranzacțiile încheiate, în conformitate cu standarde minime
+de transparență;
+e) să respecte cerințele C.N.V.M. cu privire la prevenirea și
+detectarea abuzurilor pe piață, prevenirea spălării banilor și a
+finanțării de acte de terorism.
+(2) Participanții la sistemul alternativ de tranzacționare vor fi
+informați de către operatorul de sistem cu privire la obligațiile
+lor de compensare-decontare a tranzacțiilor în cadrul
+sistemului.“
+
+TITLUL III
+
+Art. 61. — (1) Este interzis intermediarilor și operatorilor
+de piață să administreze un sistem alternativ de
+tranzacționare înainte de a solicita C.N.V.M. și de a obține
+aprobarea constituirii respectivului sistem alternativ de
+tranzacționare.
+(2) Operatorii de sistem și sistemele alternative de
+tranzacționare administrate de aceștia sunt înscrise în
+Registrul C.N.V.M., după aprobarea constituirii sistemelor
+alternative de tranzacționare.
+(3) C.N.V.M. va decide cu privire la aprobarea
+constituirii sistemului alternativ de tranzacționare în termen
+de 60 de zile de la data depunerii cererii și a
+documentelor complete prevăzute la art. 64. Prin decizia
+de aprobare a constituirii sistemului alternativ de
+tranzacționare vor fi aprobate și regulile sale de
+funcționare, precum și administrarea acestuia de către
+respectivul operator de sistem.
+Art. 62. — Pot solicita aprobarea constituirii unui sistem
+alternativ de tranzacționare:
+a) operatorii de piață;
+b) instituțiile de credit;
+c) societățile de servicii de investiții financiare care au
+un capital inițial reprezentând echivalentul a cel puțin
+730.000 euro, atins în conformitate cu etapele de majorare
+a capitalului social prevăzute la art. 7 alin. (2)—(4) din
+Legea nr. 297/2004, cu modificările și completările
+ulterioare.
+Art. 63. — Denumirea unui sistem alternativ de
+tranzacționare trebuie să fie astfel stabilită încât să nu fie
+de natură a produce confuzie cu denumirea altei entități
+autorizate să funcționeze pe teritoriul României și nu
+trebuie să conțină termeni ca îbursă de valori“, îpiață
+reglementată“ sau combinații ale acestor sintagme, chiar și
+luate în parte.
+Art. 64. — (1) Cererea operatorului de sistem privind
+aprobarea constituirii și administrării sistemului alternativ de
+tranzacționare trebuie să fie însoțită de:
+a) hotărârea organului statutar al operatorului de sistem
+privind administrarea unui sistem alternativ de
+tranzacționare;
+b) actul constitutiv sau actul adițional la acesta,
+cuprinzând informații cu privire la includerea în obiectul de
+
+Operatorii de sistem și sistemele alternative
+de tranzacționare
+CAPITOLUL 1
+Constituirea și funcționarea sistemelor alternative
+de tranzacționare
+Legea nr. 297/2004
+îArt. 2 alin. (1) pct. 26 — sistem alternativ de tranzacționare —
+un sistem care pune în prezență mai multe părți care cumpără
+și vând instrumente financiare, într-un mod care conduce la
+încheierea de contracte, denumit și sistem multilateral de
+tranzacționare.“
+îArt. 139. — (1) Sistemul alternativ de tranzacționare poate
+fi administrat, prin derogare de la art. 6, de către intermediarii
+autorizați sau de către operatorul de piață, denumiți în
+continuare operatori de sistem.
+(2) Valorile mobiliare care nu îndeplinesc cerințele de
+admitere la tranzacționare pe o piață reglementată pot fi
+tranzacționate în cadrul unui sistem alternativ de
+tranzacționare.
+(3) Operatorii de sistem supun avizării C.N.V.M. intenția de
+constituire a sistemului alternativ de tranzacționare și solicită
+aprobarea acesteia.
+(4) Se supun aprobării C.N.V.M. administrarea sistemului,
+descrierea completă a caracteristicilor acestuia și regulile de
+funcționare.
+(5) Regulile de funcționare a sistemului alternativ de
+tranzacționare vor cuprinde cel puțin următoarele:
+a) procedurile de tranzacționare;
+b) procedurile referitoare la informațiile puse la dispoziția
+participanților și publicului, înainte și după tranzacționare;
+c) tipul și numărul participanților, precum și condițiile de
+acces la sistemul alternativ de tranzacționare;
+d) instrumentele financiare tranzacționate.
+(6) C.N.V.M. poate solicita modificarea procedurilor emise
+de operatorul sistemului alternativ de tranzacționare.
+Art. 140. — (1) Sistemul alternativ de tranzacționare trebuie
+să fie astfel structurat încât:
+a) să asigure derularea ordonată și corectă a operațiunilor;
+
+SECȚIUNEA 1
+Aprobarea constituirii sistemelor alternative de tranzacționare
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+activitate al operatorului de sistem a activității de
+administrare a unui sistem alternativ de tranzacționare;
+c) organigrama operatorului de sistem;
+d) regulile de funcționare a sistemului alternativ de
+tranzacționare;
+e) contractul cu societatea care administrează sistemul
+de
+compensare-decontare
+și/sau
+cu
+casa
+de
+compensare/contrapartea centrală;
+f) descrierea tehnică a sistemului alternativ de
+tranzacționare;
+g) orarul de funcționare a sistemului alternativ de
+tranzacționare;
+h) serviciile ce se oferă de sistemul alternativ de
+tranzacționare;
+i) procedurile cu privire la modul de soluționare a
+disputelor dintre participanții la sistemul alternativ de
+tranzacționare și operatorii de sistem;
+j) categoriile, nivelurile și plafoanele comisioanelor și
+tarifelor ce vor fi practicate;
+k) dovada achitării în contul C.N.V.M. a tarifului
+prevăzut pentru aprobarea constituirii și administrării
+sistemului alternativ de tranzacționare și a înscrierii în
+Registrul C.N.V.M.
+(2) Regulile de funcționare a sistemului alternativ de
+tranzacționare trebuie să cuprindă informațiile prevăzute la
+art. 139 alin. (5) din Legea nr. 297/2004, cu modificările și
+completările ulterioare, precum și următoarele:
+a) regulile care guvernează procesul de tranzacționare,
+inclusiv tipurile de ordine ce pot fi introduse în sistem și
+principiile pe baza cărora sunt puși în prezență
+cumpărătorii și vânzătorii, modul de formare a prețului și
+de executare a ordinelor, structurile și modul de funcționare
+a sistemului, precum și regulile de administrare a acestuia;
+b) condițiile de suspendare sau retragere la/de la
+tranzacționare a instrumentelor financiare în cadrul
+sistemului alternativ de tranzacționare;
+c) instrumentele financiare care pot fi tranzacționate în
+cadrul sistemului alternativ de tranzacționare și, după caz,
+emitenții acestora;
+d) condițiile și procedurile privind accesul și menținerea
+în sistem a participanților;
+c) contractele standard care reglementează relația
+operatorului de sistem cu participanții și emitenții valorilor
+mobiliare;
+f) procedurile și termenele limită pentru compensarea și
+decontarea tranzacțiilor încheiate în cadrul sistemului;
+g) metodele de supraveghere a respectării regulilor și
+măsurile ce se iau în caz de încălcare a acestora;
+h) regulile privind respectarea cerințelor C.N.V.M. cu
+privire la prevenirea și detectarea abuzurilor pe piață,
+prevenirea spălării banilor și a finanțării actelor de terorism.
+(3) Orice modificări ale regulilor de funcționare și ale
+oricăror alte proceduri ale sistemului alternativ de
+tranzacționare trebuie să fie supuse aprobării C.N.V.M.
+anterior comunicării lor către participanții și emitenții ale
+căror valori mobiliare se tranzacționează în cadrul
+sistemului alternativ de tranzacționare.
+Art. 65. — (1) C.N.V.M. este în drept să retragă
+aprobarea de constituire și administrare a unui sistem
+alternativ de tranzacționare de către un operator de sistem
+în următoarele situații:
+a) la cererea operatorului de sistem;
+
+19
+
+b) dacă operatorul de sistem nu mai îndeplinește
+condițiile care au stat la baza aprobării constituirii și
+administrării sistemului alternativ de tranzacționare;
+c) dacă aprobarea constituirii sistemului alternativ de
+tranzacționare a fost obținută pe baza unor declarații sau
+informații false ori care au indus în eroare;
+d) dacă operatorul de sistem a încălcat prevederile Legii
+nr. 297/2004, cu modificările și completările ulterioare, și
+ale prezentului regulament cu privire la administrarea unui
+sistem alternativ de tranzacționare;
+e) dacă sistemul alternativ de tranzacționare nu a
+început să funcționeze în termen de maximum 6 luni de la
+aprobarea constituirii și administrării acestuia de către
+operatorul de sistem sau dacă în cadrul acestuia nu s-au
+efectuat tranzacții pentru o perioadă mai mare de 3 luni.
+(2) Suspendarea sau retragerea autorizației unui
+intermediar ori a unui operator de piață care administrează
+un sistem alternativ de tranzacționare va atrage automat și
+suspendarea sau retragerea aprobării constituirii unui
+sistem alternativ de tranzacționare acordate de C.N.V.M.
+acestuia.
+SECȚIUNEA a 2-a
+Tranzacționarea și finalizarea tranzacțiilor
+în cadrul unui sistem alternativ de tranzacționare
+
+Art. 66. — (1) Operatorul de sistem trebuie să notifice
+C.N.V.M. lista participanților înaintea începerii tranzacționării
+în cadrul sistemului alternativ de tranzacționare, dar nu mai
+târziu de 3 luni de la data aprobării constituirii acestuia.
+(2) Operatorul de sistem are obligația să notifice
+C.N.V.M. accesul sau excluderea unui participant în/din
+cadrul sistemului alternativ de tranzacționare în termen de
+maximum două zile lucrătoare de la eveniment.
+Art. 67. — (1) Operatorul de sistem trebuie să
+stabilească reguli și proceduri transparente și
+nediscreționare pentru o tranzacționare corectă și ordonată,
+precum și criterii obiective pentru o execuție eficientă a
+ordinelor introduse în sistem.
+(2) Operatorul de sistem trebuie să instituie reguli
+transparente referitoare la criteriile de determinare a
+instrumentelor financiare care vor putea fi tranzacționate în
+cadrul sistemului alternativ de tranzacționare pe care îl
+administrează.
+(3) Operatorul de sistem trebuie să asigure suficiente
+informații publicului sau să se asigure că există acces la
+informațiile menite să permită participanților în cadrul
+sistemului alternativ de tranzacționare să își formeze
+decizia investițională având în vedere atât natura
+participanților, cât și tipurile de instrumente financiare
+tranzacționate.
+Art. 68. — (1) Participanții în cadrul sistemului alternativ
+de tranzacționare trebuie să respecte obligațiile prevăzute
+la art. 73 alin. (1), art. 77, art. 80 alin. (1) lit. c), art. 81
+alin. (2)—(6), art. 82, 83, art. 84 alin. (1), art. 85 alin. (1),
+art. 90, art. 91 alin. (2) și art. 92 din Regulamentul
+nr. 15/2005 în relația cu clienții lor atunci când, acționând
+în numele clienților lor, execută ordinele în cadrul
+sistemului alternativ de tranzacționare.
+(2) Operatorul de sistem trebuie să stabilească și să
+mențină reguli transparente, bazate pe criterii obiective, ce
+reglementează accesul participanților în cadrul sistemului
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+20
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+
+alternativ de tranzacționare. Aceste reguli trebuie să
+respecte cerințele prevăzute la art. 36.
+(3) Operatorul de sistem trebuie să se asigure că
+procedurile de acces în sistem sunt respectate în mod
+corespunzător, astfel încât participanții să fie protejați
+împotriva accesului neautorizat care poate pune în pericol
+confidențialitatea și integritatea datelor din sistem.
+(4) Operatorul de sistem trebuie să informeze în mod
+clar participanții în cadrul sistemului alternativ de
+tranzacționare cu privire la responsabilitățile lor privind
+decontarea tranzacțiilor executate în cadrul sistemului. În
+acest sens, operatorul de sistem trebuie să stabilească
+procedurile necesare pentru a facilita decontarea eficientă
+a tranzacțiilor derulate în cadrul sistemului alternativ de
+tranzacționare, cu condiția respectării normelor sistemului
+de compensare-decontare utilizat.
+Art. 69. — (1) În vederea menținerii integrității sistemului
+tehnic care asigură înregistrarea, administrarea și
+executarea ordinelor, precum și raportarea tranzacțiilor
+derulate în cadrul unui sistem alternativ de tranzacționare,
+un operator de sistem are următoarele obligații:
+a) să efectueze teste periodice pentru a verifica
+posibilitatea sistemului de a procesa ordinele în timp real și
+în mod echitabil și de a administra variațiile substanțiale
+ale volumului tranzacționat;
+b) să asigure recuperarea datelor pierdute, în cazul
+unor disfuncționalități ale sistemului;
+c) să analizeze vulnerabilitatea sistemelor sale față de
+riscurile interne și externe, cazurile de forță majoră și
+dezastrele naturale;
+d) să notifice prompt C.N.V.M. cu privire la toate
+modificările produse în sistemele sale.
+(2) Operatorul de sistem trebuie să se asigure că
+procedurile electronice ale sistemului alternativ de
+tranzacționare înregistrează tranzacțiile în așa fel încât să
+se poată efectua o căutare pe fiecare instrument financiar
+tranzacționat, fiecare tranzacție și fiecare participant în
+cadrul sistemului.
+SECȚIUNEA a 3-a
+Monitorizarea respectării regulilor unui sistem alternativ
+de tranzacționare și depistarea abuzului pe piață
+
+Legea nr. 297/2004
+îArt. 141. — Operatorul de sistem monitorizează
+respectarea de către participanți a contractelor încheiate de
+aceștia.“
+Art. 70. — (1) Operatorul de sistem trebuie să
+stabilească și să mențină proceduri eficiente pentru
+monitorizarea permanentă a respectării de către participanți
+a regulilor de tranzacționare în cadrul sistemului alternativ
+de tranzacționare pe care îl administrează. Operatorul de
+sistem trebuie să monitorizeze tranzacțiile efectuate de
+către participanți în cadrul sistemului său pentru a
+identifica încălcarea regulilor de tranzacționare, situațiile
+care pot afecta efectuarea ordonată a tranzacțiilor, precum
+și practicile care pot implica abuzul pe piață.
+(2) Operatorul de sistem trebuie să raporteze C.N.V.M.,
+în termen de maximum 24 de ore, orice încălcare
+semnificativă a regulilor sistemului alternativ de
+tranzacționare, cauzele care împiedică efectuarea ordonată
+a tranzacțiilor, precum și practicile care ar putea constitui
+abuz pe piață. Operatorul de sistem trebuie să furnizeze
+
+C.N.V.M., fără întârziere, informațiile relevante, precum și
+asistența completă necesară pentru investigarea și
+sancționarea abuzului pe piață apărut în cadrul sistemului
+alternativ de tranzacționare.
+SECȚIUNEA a 4-a
+Cerințe privind transparența pre- și posttranzacționare
+în cadrul unui sistem alternativ de tranzacționare
+
+Art. 71. — (1) Operatorul de sistem trebuie să
+informeze participanții despre faptul că în situația în care,
+în cadrul sistemului alternativ de tranzacționare, se
+tranzacționează fără acordul emitentului valori mobiliare
+admise la tranzacționare pe o piață reglementată, emitentul
+nu are nici o obligație de raportare periodică și continuă în
+relație cu respectivul sistem alternativ de tranzacționare.
+(2) Tranzacționarea valorilor mobiliare în cadrul
+sistemului alternativ de tranzacționare fără acordul
+emitentului este permisă numai atunci când respectivele
+valori mobiliare sunt admise la tranzacționare în cadrul
+unei piețe reglementate și îi sunt aplicabile cerințele de
+transparență și informare stabilite pe respectiva piață.
+(3) C.N.V.M. poate decide cu privire la suspendarea
+sau retragerea unui instrument financiar de la
+tranzacționare în cadrul sistemului alternativ de
+tranzacționare, iar operatorul de sistem trebuie să se
+conformeze imediat dispozițiilor acesteia.
+(4) Operatorul de sistem nu va menține în cadrul
+sistemului pe care îl administrează instrumente financiare
+cu care nu s-au efectuat tranzacții mai mult de 3 luni
+consecutiv.
+Art. 72. — (1) Operatorul de sistem trebuie să pună la
+dispoziție publicului, prin intermediul sistemului alternativ de
+tranzacționare administrat, în mod continuu, pe tot
+parcursul programului normal de tranzacționare și în
+termeni comerciali rezonabili, prețurile curente și cantitățile
+curente de vânzare și cumpărare pentru instrumentele
+financiare admise la tranzacționare pe piețele reglementate.
+(2) C.N.V.M. poate exonera operatorul de sistem de
+obligația de a face publice informațiile menționate la
+alin. (1), ținând cont de modelul pieței, de tipul și
+dimensiunile ordinelor, precum și în cazul tranzacționării
+unui volum mare, comparativ cu volumul normal din piață
+aferent instrumentelor financiare respective.
+(3) Prevederile alin. (1) și (2) se aplică și pentru
+instrumentele financiare care sunt tranzacționate numai în
+cadrul unui sistem alternativ de tranzacționare.
+Art. 73. — (1) Operatorii de sistem au obligația de a
+face publice în timp real și în termeni comerciali rezonabili
+informațiile privind prețul, volumul și momentul executării
+tranzacțiilor desfășurate în cadrul sistemului alternativ de
+tranzacționare pe care îl administrează, atât cu instrumente
+financiare admise la tranzacționare pe piețele reglementate,
+cât și cu instrumente financiare care sunt tranzacționate
+numai în cadrul unui sistem alternativ de tranzacționare.
+(2) Obligația operatorilor de sistem prevăzută la
+alin. (1) nu se aplică în cazul informațiilor despre
+tranzacțiile efectuate în cadrul unui sistem alternativ de
+tranzacționare cu instrumente financiare admise la
+tranzacționare pe o piață reglementată, care sunt făcute
+publice prin intermediul sistemului respectivei piețe
+reglementate.
+Art. 74. — (1) C.N.V.M. poate aproba procedurile
+operatorului de sistem prin care se stabilește amânarea
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+publicării elementelor unor tranzacții, luând în considerare
+modelul pieței, tipul și dimensiunea ordinelor, precum și în
+cazul tranzacționării unui volum ridicat comparativ cu
+volumul normal din piață, aferent instrumentelor financiare
+respective.
+(2) Procedurile privind aprobarea amânării publicării
+tranzacțiilor menționate la alin. (1) vor fi comunicate
+participanților la piață și publicului investitor.
+SECȚIUNEA a 5-a
+Contractele încheiate de un operator de sistem cu societatea
+care administrează sistemul de compensare-decontare,
+casa de compensare și contrapartea centrală
+din alte state membre
+
+Art. 75. — (1) Operatorul de sistem poate încheia
+contracte cu o contraparte centrală sau o casă de
+compensare și cu o societate care administrează un sistem
+de compensare-decontare dintr-un alt stat membru, în
+scopul asigurării compensării și decontării tranzacțiilor
+încheiate de participanți în cadrul sistemului alternativ de
+tranzacționare.
+(2) C.N.V.M. poate interzice motivat utilizarea
+contrapărții centrale, a casei de compensare și/sau a
+sistemelor de compensare-decontare dintr-un alt stat
+membru, în scopul menținerii funcționării ordonate a
+sistemului alternativ de tranzacționare și luând în
+considerare condițiile impuse privind sistemul de
+compensare-decontare prevăzute la art. 50 alin. (1).
+CAPITOLUL 2
+Supravegherea sistemelor alternative de tranzacționare
+Legea nr. 297/2004
+îArt. 142. — (1) C.N.V.M. va emite norme generale privind
+constituirea, supravegherea și funcționarea sistemelor
+alternative de tranzacționare.
+(2) C.N.V.M. poate numi un inspector pentru delegarea
+puterilor de supraveghere și control ale sistemelor alternative
+de tranzacționare.“
+Art. 76. — Operatorul de sistem trebuie să asigure
+accesul C.N.V.M. în timp real la sistemul alternativ de
+tranzacționare administrat.
+Art. 77. — (1) Operatorul de sistem trebuie să
+evidențieze distinct tranzacțiile încheiate în cadrul sistemului
+alternativ de tranzacționare, în conformitate cu prevederile
+art. 59 alin. (1), acestea urmând a fi făcute publice pe
+pagina de Internet a operatorului de sistem, până cel târziu
+la începutul următoarei ședințe de tranzacționare, dar fără
+a depăși 24 de ore.
+(2) Operatorul de sistem trebuie să transmită la
+C.N.V.M. un raport anual care să cuprindă cel puțin
+volumul tranzacțiilor pentru fiecare tip de instrument
+financiar, pentru anul încheiat și pentru anul anterior. Acest
+raport se va transmite până la data de 31 ianuarie a
+anului următor celui pentru care se face raportarea.
+Raportul anual al operatorului de sistem trebuie să includă
+lista participanților la sistemul alternativ de tranzacționare
+constituit și administrat de acesta.
+Art. 78. — (1) În scopul asigurării protecției investitorilor,
+operatorii de sistem trebuie să păstreze pentru o perioadă
+de cel puțin 5 ani, în format electronic, următoarele:
+a) toate rapoartele ce trebuie întocmite în conformitate
+cu art. 77;
+
+21
+
+b) notificările făcute de operatorul de sistem către
+participanții la sistemul alternativ de tranzacționare,
+referitoare la orarul de tranzacționare, disfuncționalități ale
+sistemului, modificări ale procedurilor de sistem, restricții
+sau limitări privind accesul în sistemul alternativ de
+tranzacționare;
+c) cel puțin o copie a procedurilor de acces la sistemul
+alternativ de tranzacționare, precum și a documentelor
+referitoare la decizia operatorului de sistem de acordare,
+refuz sau limitare a accesului oricărei persoane la sistem;
+d) orice alte documente întocmite sau primite de
+operatorul de sistem, care justifică operațiunile din cadrul
+sistemului.
+(2) Fiecare operator de sistem trebuie să furnizeze
+C.N.V.M., la cerere, sub semnătură electronică, în cel mult
+4 zile lucrătoare, copii ale evidențelor sistemului alternativ
+de tranzacționare ce trebuie să fie păstrate conform alin. (1).
+
+TITLUL IV
+Operațiuni transfrontaliere
+Art. 79. — Entitățile autorizate de C.N.V.M. pot efectua
+tranzacții sau plasamente în instrumente financiare
+tranzacționate pe piețele de instrumente financiare
+recunoscute de C.N.V.M. și înscrise în Registrul C.N.V.M.,
+după cum urmează:
+a) piețele reglementate administrate de operatorii de
+piață autorizați de C.N.V.M.;
+b) sistemele alternative de tranzacționare administrate
+de operatorii de sistem autorizați de C.N.V.M.;
+c) piețele reglementate autorizate de autoritățile
+competente din statele membre și publicate în Jurnalul
+Oficial al Uniunii Europene;
+d) sistemele alternative de tranzacționare autorizate de
+autoritățile competente din statele membre;
+e) piețele de instrumente financiare din statele
+nemembre, dacă sunt îndeplinite următoarele cerințe:
+1. C.N.V.M. a încheiat un acord de colaborare
+(reciprocitate) cu autoritatea competentă de autorizare și
+supraveghere a pieței de instrumente financiare din statul
+nemembru de origine, conform art. 174 din Regulamentul
+nr. 15/2005;
+2. piața de instrumente financiare este organizată și
+funcționează regulat în baza unor reguli similare celor
+comunitare, aprobate de autoritatea competentă prevăzută
+la pct. 1.
+Art. 80. — (1) Conectarea intermediarilor la sistemele
+piețelor de instrumente financiare menționate la art. 79 are
+loc în următoarele situații:
+a) conectarea intermediarilor autorizați în România la
+sistemele piețelor reglementate și/sau la sistemele
+alternative de tranzacționare din România;
+b) conectarea intermediarilor autorizați în România la
+sistemele piețelor reglementate și/sau la sistemele
+alternative din statele membre;
+c) conectarea intermediarilor autorizați în statele membre
+la sistemele piețelor reglementate și/sau la sistemele
+alternative de tranzacționare din România.
+(2) Intermediarii autorizați în statele nemembre nu se
+pot conecta direct la sistemele piețelor reglementate și/sau
+la sistemele alternative de tranzacționare din România, cu
+excepția cazului în care C.N.V.M. a autorizat sucursala
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+22
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+
+unui intermediar din statul nemembru în condițiile prevăzute
+de art. 43 din Legea nr. 297/2004, cu modificările și
+completările ulterioare, și de art. 69 din Regulamentul
+nr. 15/2005.
+(3) Intermediarii autorizați de C.N.V.M. nu se pot
+conecta direct la sistemele piețelor de instrumente
+financiare dintr-un stat nemembru, cu excepția cazului în
+care, în temeiul art. 43 lit. e) din Legea nr. 297/2004, cu
+modificările și completările ulterioare, a fost înființată și
+autorizată o sucursală în respectivul stat nemembru, în
+condiții de reciprocitate și acord internațional.
+Art. 81. — Entitățile autorizate de C.N.V.M. pot încheia
+contracte cu intermediari din statele membre sau
+nemembre pentru a efectua tranzacții, investiții sau
+plasamente în instrumente financiare tranzacționate în
+cadrul sistemelor piețelor menționate la art. 79 lit. c), d) și
+e), cu respectarea prevederilor Legii nr. 297/2004, cu
+modificările și completările ulterioare, și a regulamentelor
+C.N.V.M. incidente, emise în aplicarea acesteia. Aceștia vor
+informa investitorii despre condițiile executării ordinelor prin
+intermediarii respectivi și costurile aferente (comision).
+Art. 82. — (1) Operatorii de piață și operatorii de
+sistem din statele membre pot efectua pe teritoriul
+României operațiunile specifice necesare pentru a facilita
+intermediarilor din România accesul/conectarea și
+tranzacționarea de la distanță la sistemele piețelor
+reglementate și/sau la sistemele alternative de
+tranzacționare administrate de aceștia, cu condiția ca
+C.N.V.M. să fi primit o notificare în acest sens din partea
+autorităților competente din statele membre de origine ale
+respectivilor operatori de piață/operatori de sistem.
+(2) C.N.V.M. poate solicita autorităților competente din
+statele membre lista și datele de identificare a
+participanților în piețele reglementate sau în sistemele
+alternative de tranzacționare administrate de operatorii de
+piață sau de operatorii de sistem autorizați în respectivele
+state membre.
+Art. 83. — (1) Operatorii de piață și operatorii de
+sistem trebuie să notifice, în prealabil, C.N.V.M. intenția de
+a efectua operațiuni pe teritoriul statelor membre, pentru a
+permite accesul/conectarea de la distanță pe piețele
+reglementate sau în cadrul sistemelor alternative de
+tranzacționare administrate de aceștia al/a intermediarilor
+din respectivele state membre.
+(2) Notificarea prevăzută la alin. (1) va fi comunicată de
+C.N.V.M. autorităților competente din statele membre
+indicate de operatorul de piață sau de operatorul de
+sistem, în termen de maximum 30 de zile.
+(3) La solicitarea autorităților competente din statele
+membre, C.N.V.M. va comunica acestora datele de
+identificare a participanților în piața reglementată sau în
+cadrul sistemului alternativ de tranzacționare administrat de
+un operator de piață sau de un operator de sistem
+autorizat în România.
+Art. 84. — (1) În cazul în care C.N.V.M. dispune de
+informații clare conform cărora operatorii de piață sau
+operatorii de sistem menționați la art. 82 alin. (1) nu
+respectă obligațiile ce decurg din prevederile Legii
+nr. 297/2004 și ale reglementărilor adoptate în aplicarea
+acesteia în conformitate cu legislația comunitară, aceasta
+va comunica acele date și informații autorității competente
+din statul membru de origine.
+
+(2) Dacă, deși au fost luate măsuri de către autoritatea
+competentă din statul membru de origine sau dacă acele
+măsuri s-au dovedit inadecvate, operatorul de piață sau
+operatorul de sistem continuă să acționeze într-o manieră
+care prejudiciază în mod clar interesele investitorilor din
+România sau funcționarea ordonată a piețelor, C.N.V.M.,
+după ce va informa autoritatea competentă din statul
+membru de origine, va dispune măsurile necesare pentru
+protecția investitorilor și funcționarea corectă a piețelor.
+Aceste măsuri vor include posibilitatea de a interzice
+operatorului de piață sau operatorului de sistem să inițieze
+orice operațiuni de natura celor prevăzute la art. 82
+alin. (1). Comisia Europeană va fi informată în cel mai
+scurt timp în legătură cu aceste măsuri.
+(3) C.N.V.M. va comunica operatorului de piață sau
+operatorului de sistem decizia motivată cuprinzând măsurile
+adoptate conform alin. (2).
+
+TITLUL V
+Sancțiuni
+Legea nr. 297/2004
+îArt. 272. — Constituie contravenții următoarele fapte:
+a) încălcarea prevederilor prezentei legi ori ale
+reglementărilor emise de C.N.V.M. în aplicarea prezentei legi;
+b) desfășurarea fără autorizație sau cu încălcarea oricărei
+condiții sau restricții prevăzute în autorizație, a oricăror activități
+sau operațiuni pentru care prezenta lege sau reglementările
+C.N.V.M. impun autorizarea;
+c) nerespectarea regulilor prudențiale și de conduită;
+d) nerespectarea măsurilor stabilite prin actele de control
+sau în urma acestora;
+e) nerespectarea obligațiilor de auditare a situațiilor
+financiare sau auditarea lor de persoane neautorizate.
+Art. 273. — (1) Săvârșirea contravențiilor prevăzute la
+art. 272 se sancționează cu:
+a) avertisment;
+b) amendă;
+c) sancțiuni contravenționale complementare, aplicate după
+caz:
+1. suspendarea autorizației;
+2. retragerea autorizației;
+3. interzicerea temporară a desfășurării unor activități și
+servicii ce cad sub incidența prezentei legi.
+(2) C.N.V.M. poate face publică orice măsură sau sancțiune
+impusă pentru nerespectarea prevederilor prezentei legi și ale
+reglementărilor adoptate în aplicarea acesteia, cu excepția
+situațiilor care, prin difuzare publică, ar pune în pericol
+funcționarea în condiții normale a pieței sau ar aduce prejudicii
+deosebite părților implicate.“
+îArt. 276. — Limitele amenzilor se stabilesc după cum
+urmează:
+a) între 0,5% și 5% din capitalul social vărsat, în funcție de
+gravitatea faptei săvârșite, pentru persoanele juridice;
+b) între 5.000.000 lei și 500.000.000 lei, pentru persoanele
+fizice, acestea putându-se actualiza prin ordin al președintelui
+C.N.V.M.;
+c) între jumătate și totalitatea valorii tranzacției realizate cu
+săvârșirea faptelor prevăzute la art. 245—248 din titlul VII.“
+îArt. 279. — (1) Săvârșirea cu intenție a faptelor prevăzute
+la art. 237 alin. (3), art. 245—248 constituie infracțiune și se
+pedepsește cu închisoarea de la 6 luni la 5 ani sau cu amendă,
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+în limitele prevăzute la art. 276 lit. c), și cu pedeapsa accesorie
+a interdicției prevăzute la art. 273 alin. (1) lit. c) pct. 3.
+(2) Constituie infracțiune și se pedepsește cu închisoare de
+la 6 luni la 5 ani sau cu amendă, în limitele prevăzute la
+art. 276 lit. c), accesarea cu intenție de către persoane
+neautorizate a sistemelor electronice de tranzacționare, de
+depozitare sau de compensare-decontare.“
+Art. 85. — (1) Încălcarea dispozițiilor prezentului
+regulament se sancționează potrivit titlului X din Legea
+nr. 297/2004, cu modificările și completările ulterioare.
+(2) C.N.V.M. retrage orice autorizație obținută pe baza
+unor informații false sau eronate și interzice persoanelor
+răspunzătoare de furnizarea acestor informații exercitarea
+oricărei activități reglementate și supravegheate de
+C.N.V.M., pentru o perioadă cuprinsă între 1 și 5 ani.
+Art. 86. — Nerespectarea prevederilor art. 26 alin. (3)
+privind notificarea înregistrărilor la oficiul registrului
+comerțului se sancționează, după caz, cu avertisment sau
+cu amendă aplicată conducătorilor operatorului de piață.
+Art. 87. — (1) Neîndeplinirea obligației de raportare
+către C.N.V.M. în termenele prevăzute la titlul II cap. 3 și
+titlul III cap. 2 se sancționează, după caz, cu sancțiunile
+prevăzute la art. 273 din Legea nr. 297/2004, cu
+modificările și completările ulterioare.
+(2) În cazul în care C.N.V.M. constată încălcarea
+sistematică de către operatorul de piață a prevederilor Legii
+nr. 297/2004, cu modificările și completările ulterioare, și
+ale reglementărilor adoptate în aplicarea acesteia, poate
+proceda la revocarea validării membrilor consiliului de
+administrație, urmând ca adunarea generală a acționarilor
+să fie convocată în cel mai scurt timp pentru alegerea unui
+nou consiliu de administrație.
+Art. 88. — Sancțiunile aplicate de C.N.V.M. vor fi făcute
+publice atât în Buletinul C.N.V.M., cât și pe pagina de
+Internet a C.N.V.M.
+
+TITLUL VI
+Dispoziții tranzitorii și finale
+Legea nr. 297/2004
+îArt. 281. — (1) C.N.V.M. va stabili, prin regulament,
+perioada în care entitatea reglementată de către aceasta
+trebuie să se încadreze în prevederile prezentei legi, perioadă
+care nu va depăși 18 luni de la intrarea în vigoare a acesteia.
+(2) Autorizațiile emise entităților reglementate înainte de
+intrarea în vigoare a prezentei legi își păstrează valabilitatea.
+Entitățile reglementate sunt obligate ca, până la termenul
+prevăzut la alin. (1), să depună modificări și/sau completări ale
+documentelor care au stat la baza acordării autorizațiilor, în
+scopul încadrării în prevederile prezentei legi și al înregistrării
+acestora în Registrul C.N.V.M.“
+îArt. 287. — S.C. Bursa Monetar-Financiară și de Mărfuri —
+S.A. Sibiu, S.C. Bursa Română de Mărfuri — S.A., precum și
+societățile de brokeraj ale membrilor acționari ai celor două
+burse, au obligația să se încadreze în prevederile prezentei
+legi, în termen de maximum 18 luni de la intrarea în vigoare a
+acesteia.“
+Art. 89. — Bursa de Valori București și Societatea
+Comercială îBursa Monetar-Financiară și de Mărfuri“ —
+S.A. Sibiu se vor încadra în prevederile art. 7, cel târziu la
+data aderării României la Uniunea Europeană.
+
+23
+
+Art. 90. — (1) Deciziile cu privire la autorizarea sau
+retragerea autorizațiilor entităților menționate la art. 1
+alin. (1) vor fi eliberate de către C.N.V.M. în baza
+prevederilor prezentului regulament, în termen de maximum
+30 de zile de la înregistrarea dosarului complet al
+solicitantului, cu excepția cazului în care Legea
+nr. 297/2004, cu modificările și completările ulterioare, sau
+prevederile prezentului regulament stabilesc un alt termen.
+(2) Orice solicitare a C.N.V.M. de informații suplimentare
+sau de modificare a documentelor prezentate inițial în
+vederea autorizării/aprobării/validării întrerupe termenele
+prevăzute în prezentul regulament, care reîncep să curgă
+de la data depunerii respectivelor informații sau modificări,
+depunere ce nu poate fi făcută mai târziu de 60 de zile
+de la data solicitării C.N.V.M., sub sancțiunea respingerii
+cererii.
+(3) Documentele vor fi returnate solicitantului, cu
+arătarea motivelor restituirii, în situația în care acestea sunt
+incomplete, ilizibile sau se constată depunerea lor într-o
+formă necorespunzătoare ori lipsa unor documente, precum
+și în situația în care nu se respectă punctual prevederile
+Legii nr. 297/2004, cu modificările și completările ulterioare,
+și ale reglementărilor C.N.V.M.
+Art. 91. — Toate documentele prevăzute în prezentul
+regulament, necesare autorizării, precum și cele referitoare
+la evidențe și raportări vor fi transmise C.N.V.M. în limba
+română. Documentele referitoare la persoanele fizice și
+juridice străine vor fi prezentate în copie legalizată și în
+traducere legalizată.
+Art. 92. — Desfășurarea oricărei activități similare celor
+reglementate prin prezentul regulament, precum și utilizarea
+în legătură cu aceste activități a sintagmelor: bursă,
+operator de piață, operator de sistem, piață reglementată,
+sistem alternativ de tranzacționare sau a altora similare,
+precum și derivatele denumirilor acestora fără autorizarea
+C.N.V.M. vor fi sancționate conform prevederilor Legii
+nr. 297/2004, cu modificările și completările ulterioare.
+Art. 93. — (1) În vederea asigurării funcționării eficiente
+și ordonate a piețelor reglementate și a sistemelor
+alternative de tranzacționare și în completarea art. 39—42,
+46—49 și 72—74, C.N.V.M. poate adopta, conform
+normelor comunitare ce vor fi emise, instrucțiuni privind
+măsuri de implementare referitoare la:
+a) caracteristicile diferitelor clase de instrumente
+financiare, pentru a fi luate în considerare de către
+operatorul de piață atunci când se evaluează un instrument
+financiar în vederea admiterii acestuia la tranzacționare pe
+o piață reglementată;
+b) metodele prin care operatorul de piață va verifica
+dacă societatea comercială emitentă de valori mobiliare își
+îndeplinește obligațiile cu privire la informarea inițială,
+continuă și curentă, în conformitate cu prevederile legale în
+vigoare;
+c) mijloacele pe care operatorul de piață trebuie să le
+stabilească pentru a facilita participanților săi accesul la
+informațiile făcute publice conform reglementărilor legale în
+vigoare;
+d) nivelul minim și maxim în care se pot încadra prețul
+de vânzare și de cumpărare sau cotațiile anunțate de
+formatorii de piață, precum și volumul tranzacțiilor aferente
+acestor prețuri/cotații, pentru care se va impune
+transmiterea publică a informațiilor în cadrul piețelor
+reglementate/sistemelor alternative de tranzacționare;
+e) mărimea sau tipul ordinelor, precum și modelul pieței
+pentru care C.N.V.M. poate exonera operatorul de
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+24
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+
+piață/operatorul de sistem de la publicarea informațiilor
+pretranzacționare pe piețele reglementate/sistemele
+alternative de tranzacționare;
+f) scopul și conținutul informațiilor posttranzacționare pe
+piețele reglementate/sistemele alternative de tranzacționare
+care trebuie să fie disponibile publicului;
+g) condițiile conform cărora C.N.V.M. poate aproba
+amânarea publicării informațiilor posttranzacționare de către
+un operator de piață/operator de sistem, precum și criteriile
+ce urmează să fie aplicate în acest caz în funcție de
+mărimea și tipul instrumentelor financiare implicate în
+tranzacțiile efectuate pe piețele reglementate/sistemele
+alternative de tranzacționare.
+(2) Prevederile art. 43 alin. (3)—(5), art. 50, 51, art. 72
+alin. (2), art. 74, 75 și art. 79—84 intră în vigoare
+începând cu data aderării României la Uniunea Europeană.
+Art. 94. — Anexele nr. 1—3 fac parte integrantă din
+prezentul regulament.
+Art. 95. — (1) Prezentul regulament intră în vigoare la
+data publicării acestuia și a ordinului de aprobare în
+Monitorul Oficial al României, Partea I, și va fi publicat în
+Buletinul C.N.V.M. și pe site-ul C.N.V.M. (www.cnvmr.ro).
+(2) La data intrării în vigoare a prezentului regulament
+se abrogă Regulamentul nr. 14/2004 privind piețele
+reglementate și sistemele alternative de tranzacționare,
+aprobat prin Ordinul președintelui Comisiei Naționale a
+Valorilor Mobiliare nr. 66/2004, publicat în Monitorul Oficial
+al României, Partea I, nr. 1.271 din 29 decembrie 2004.
+(3) La data emiterii actelor individuale de autorizare a
+operatorului de piață și a pieței reglementate sau, după
+caz, a avizului privind aprobarea constituirii sistemului
+alternativ de tranzacționare, în conformitate cu prevederile
+prezentului regulament, se abrogă:
+a) Regulamentul nr. 1/1996 privind statutul comisarului
+general
+al
+Bursei
+de
+valori,
+aprobat
+prin
+Ordinul președintelui Comisiei Naționale a Valorilor
+Mobiliare nr. 4/1996, publicat în Monitorul Oficial al
+României, Partea I, nr. 37 din 21 februarie 1996;
+b) Regulamentul nr. 2/1999 privind organizarea pieței
+valorilor mobiliare necotate, aprobat prin Ordinul
+președintelui Comisiei Naționale a Valorilor Mobiliare
+nr. 4/1999, publicat în Monitorul Oficial al României,
+Partea I, nr. 123 din 25 martie 1999;
+c) Regulamentul nr. 3/1999 de procedură al Camerei
+Arbitrale a Bursei de Valori București și al Camerei
+Arbitrale a Pieței RASDAQ, aprobat prin Ordinul
+președintelui Comisiei Naționale a Valorilor Mobiliare
+nr. 6/1999, publicat în Monitorul Oficial al României, Partea I,
+nr. 319 din 5 iulie 1999;
+d) Regulamentul nr. 4/1999 privind supravegherea
+electronică a pieței de capital, aprobat prin Ordinul
+președintelui Comisiei Naționale de Valorilor Mobiliare
+nr. 7/1999, publicat în Monitorul Oficial al României,
+Partea I, nr. 220 din 19 mai 1999;
+e) Regulamentul nr. 9/1999 privind organizarea și
+funcționarea Organismului posttranzacționare, aprobat prin
+Ordinul președintelui Comisiei Naționale a Valorilor
+Mobiliare nr. 17/1999, publicat în Monitorul Oficial al
+României, Partea I, nr. 534 din 2 noiembrie 1999;
+
+f) Regulamentul nr. 12/1999 privind funcționarea
+Colectivului tehnic pentru reglementarea și supravegherea
+pieței RASDAQ, aprobat prin Ordinul președintelui Comisiei
+Naționale a Valorilor Mobiliare nr. 22/1999, publicat în
+Monitorul Oficial al României, Partea I, nr. 29 din 26
+ianuarie 2000;
+g) Regulamentul nr. 13/1999 privind licitația electronică
+pe piața RASDAQ, aprobat prin Ordinul președintelui
+Comisiei Naționale a Valorilor Mobiliare nr. 23/1999,
+publicat în Monitorul Oficial al României, Partea I, nr. 29
+din 26 ianuarie 2000;
+h) Regulamentul nr. 4/2001 de modificare și completare
+a Regulamentului nr. 12/1999 privind funcționarea
+Colectivului tehnic pentru reglementarea și supravegherea
+pieței RASDAQ, aprobat prin Ordinul președintelui Comisiei
+Naționale a Valorilor Mobiliare nr. 9/2001, publicat în
+Monitorul Oficial al României, Partea I, nr. 641 din 12
+octombrie 2001;
+i) titlul II din Regulamentul nr. 4/2002 privind piețele
+reglementate de mărfuri și instrumente financiare derivate
+și orice alte dispoziții în legătură cu acest titlu, aprobat prin
+Ordinul președintelui Comisiei Naționale a Valorilor
+Mobiliare nr. 104/2002, publicat în Monitorul Oficial al
+României, Partea I, nr. 948 din 24 decembrie 2002;
+j) Regulamentul nr. 2/2002 privind transparența și
+integritatea Bursei Electronice RASDAQ, aprobat prin
+Ordinul președintelui Comisiei Naționale a Valorilor
+Mobiliare nr. 90/2002, publicat în Monitorul Oficial al
+României, Partea I, nr. 712 din 1 octombrie 2002;
+k) Regulamentul nr. 2/2004 de modificare și completare
+a Regulamentului nr. 2/2002 privind transparența și
+integritatea pieței RASDAQ, aprobat prin Ordinul
+președintelui Comisiei Naționale a Valorilor Mobiliare
+nr. 7/2004, publicat în Monitorul Oficial al României,
+Partea I, nr. 290 din 1 aprilie 2004;
+l) Instrucțiunile nr. 5/1998 privind rapoartele de
+supraveghere ale piețelor de capital, aprobat prin Ordinul
+președintelui Comisiei Naționale a Valorilor Mobiliare
+nr. 17/1998, publicat în Monitorul Oficial al României,
+Partea I, nr. 407 din 27 octombrie 1998;
+m) art. 12 și 14 din Instrucțiunea nr. 4/2004 privind
+unele măsuri tranzitorii în aplicarea Legii nr. 297/2004
+privind piața de capital, aprobat prin Ordinul președintelui
+Comisiei Naționale a Valorilor Mobiliare nr. 29/2004,
+publicat în Monitorul Oficial al României, Partea I, nr. 714
+din 6 august 2004;
+n) Dispunerea de măsuri nr. 2 din 26 martie 2004 privind
+tranzacționarea unui prim grup de emitenți listați pe Bursa
+Electronică RASDAQ prin intermediul platformei tehnice puse
+la dispoziție de Bursa de Valori București, în cadrul unui
+program-pilot, cu modificările și completările ulterioare;
+o) orice alte dispoziții contrare.
+Art. 96. — Prezentul regulament transpune următoarele
+articole din Directiva nr. 2004/39/EC privind piețele de
+instrumente financiare, publicată în Jurnalul Oficial al
+Comunităților Europene (JOCE) nr. L 145 din 30 aprilie 2004:
+1. titlul II îCondiții de autorizare și operare pentru
+firmele de investiții“ — art. 14, 26, 29, 30, art. 31 alin. (5)
+și (6), art. 34 alin. (2) și art. 35;
+2. titlul III îPiețe reglementate“ — art. 36—46;
+3. titlul IV îAutoritățile competente“ — art. 62 alin. (3)
+și (4).
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+
+25
+ANEXA Nr. 1*)
+
+*) Anexa nr. 1 este reprodusă în facsimil.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+
+27
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+
+29
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+
+31
+ANEXA Nr. 2*)
+
+*) Anexa nr. 2 este reprodusă în facsimil.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+32
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/14.III.2006
+ANEXA Nr. 3*)
+
+*) Anexa nr. 3 este reprodusă în facsimil.
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+Regia Autonomă îMonitorul Oficial“, Str. Parcului nr. 65, sectorul 1, București; C.U.I. 427282; Atribut fiscal R,
+IBAN: RO75RNCB5101000000120001 Banca Comercială Română — S.A. — Sucursala îUnirea“ București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 318.51.29/150, fax 318.51.15, E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 410.47.30, tel./fax 410.77.36 și 410.47.23
+Tiparul: Regia Autonomă îMonitorul Oficial“
+Monitorul Oficial al României, Partea I, nr. 228/14.III.2006 conține 32 de pagini.
+
+Prețul: 2,25 lei noi/22.500 lei vechi
+
+&JUYDGY|114043]
+ISSN 1453—4495
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+

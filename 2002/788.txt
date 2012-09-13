@@ -1,0 +1,679 @@
+PARTEA
+
+Anul XIV Ñ Nr. 788
+
+I
+
+Miercuri, 30 octombrie 2002
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+
+259.
+
+ACTE
+ALE
+
+ALE
+
+Ñ Ordin al ministrului comunicațiilor și tehnologiei
+informației privind abilitarea Inspectoratului General
+pentru Comunicații și Tehnologia Informației pentru
+eliberarea autorizațiilor de tip și a acordurilor de
+procurare din import pentru echipamentele radio și
+echipamentele terminale de telecomunicații ............
+
+ORGANELOR
+
+ADMINISTRAÞIEI
+
+DE
+
+1Ð16
+
+SPECIALITATE
+
+PUBLICE
+
+CENTRALE
+
+MINISTERUL COMUNICAÞIILOR ȘI TEHNOLOGIEI INFORMAÞIEI
+
+ORDIN
+privind abilitarea Inspectoratului General pentru Comunicații și Tehnologia Informației
+pentru eliberarea autorizațiilor de tip și a acordurilor de procurare din import
+pentru echipamentele radio și echipamentele terminale de telecomunicații
+Având în vedere prevederile Hotãrârii Guvernului nr. 20/2001 privind organizarea și funcționarea Ministerului
+Comunicațiilor și Tehnologiei Informației,
+în temeiul Hotãrârii Guvernului nr. 180/2002 privind înființarea Inspectoratului General pentru Comunicații și
+Tehnologia Informației prin reorganizarea Regiei Autonome ”Inspectoratul General al Comunicațiilor,,,
+având în vedere prevederile art. 65 din Ordonanța de urgențã a Guvernului nr. 79/2002 privind cadrul general de
+reglementare a comunicațiilor,
+ministrul comunicațiilor și tehnologiei informației emite prezentul ordin.
+Art. 1. Ñ Introducerea pe piațã și comercializarea echipamentelor radio și a echipamentelor terminale de telecomunicații se fac în baza autorizației de tip sau a acordului
+de procurare din import.
+
+Art. 2. Ñ Ministerul Comunicațiilor și Tehnologiei
+Informației deleagã Inspectoratul General pentru Comunicații
+și Tehnologia Informației sã elibereze autorizații de tip și
+acorduri de procurare din import pentru echipamentele radio
+și echipamentele terminale de telecomunicații.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 788/30.X.2002
+
+Art. 3. Ñ Se aprobã Procedura de eliberare a autorizațiilor de tip și a acordurilor de procurare din import pentru echipamentele radio și echipamentele terminale de
+telecomunicații, prezentatã în anexa care face parte integrantã din prezentul ordin.
+
+Art. 4. Ñ Prezentul ordin va fi publicat în Monitorul
+Oficial al României, Partea I, și va fi pus în aplicare prin
+grija Ministerului Comunicațiilor și Tehnologiei Informației și
+a Inspectoratului General pentru Comunicații și Tehnologia
+Informației.
+
+Ministrul comunicațiilor și tehnologiei informației,
+Dan Nica
+București, 24 septembrie 2002.
+Nr. 259.
+ANEXÃ
+
+PROCEDURÃ
+de eliberare a autorizațiilor de tip și a acordurilor de procurare din import pentru echipamentele radio
+și echipamentele terminale de telecomunicații
+CAPITOLUL I
+Generalitãți
+Art. 1. Ñ Prezenta procedurã reglementeazã autorizarea de
+tip, marcarea și introducerea pe piațã a echipamentelor radio și a
+echipamentelor terminale de telecomunicații conectabile la rețele
+publice de telecomunicații, pentru perioada de tranziție pânã la
+transpunerea și implementarea prevederilor Directivei 1999/5/EC în
+legislația româneascã.
+Art. 2. Ñ În vederea aplicãrii prezentei proceduri se definesc:
+a) echipamente terminale de telecomunicații conectabile la rețele
+publice de telecomunicații Ñ echipamentele de telecomunicații destinate a fi conectate direct la punctul terminal al unei rețele
+publice de telecomunicații sau care sunt destinate a interopera cu
+o rețea publicã de telecomunicații, fiind conectate direct sau
+indirect la punctul terminal al rețelei respective, în scopul transmiterii, prelucrãrii sau recepției informațiilor. Sistemul de conectare
+poate fi prin cablu, unde radioelectrice, sisteme optice sau oricare
+alt tip de sisteme electromagnetice.
+Sunt echipamente terminale de telecomunicații și echipamentele de radiocomunicații, inclusiv stațiile terestre de comunicații
+prin satelit, care sunt destinate a fi conectate la rețele publice de
+telecomunicații. Stațiile de comunicații prin satelit care fac parte
+integrantã din rețele publice de telecomunicații nu sunt echipamente terminale de telecomunicații.
+Un echipament terminal de telecomunicații este considerat ca
+indirect conectat dacã el interopereazã cu o rețea publicã de telecomunicații prin intermediul unui echipament terminal conectat
+direct la punctul terminal.
+Echipamentele terminale de telecomunicații conectabile la
+rețele publice de telecomunicații vor fi denumite în continuare
+echipamente terminale de telecomunicații;
+b) echipamente radio Ñ echipamente care utilizeazã spectrul
+radioelectric fãrã ghidare artificialã, în scopul transmisiei, recepției
+sau transmisiei/recepției informațiilor, și care nu sunt echipamente
+terminale de telecomunicații în sensul definiției prevãzute la lit. a).
+Aceastã categorie de echipamente include echipamentele terminale ale rețelelor de radiocomunicații independente și interne, precum și RLAN, echipamente de alarmare radio, telecomenzi etc.;
+c) evaluarea conformitãții Ñ activitate al cãrei obiect este
+determinarea în mod direct sau indirect a faptului cã sunt îndeplinite cerințele esențiale aplicabile.
+Art. 3. Ñ Echipamentele radio și echipamentele terminale de
+telecomunicații pot fi introduse pe piațã numai dupã îndeplinirea
+urmãtoarelor condiții:
+a) furnizorul deține autorizația de tip eliberatã conform cap. II
+sau este distribuitor autorizat al unui titular de autorizație de tip;
+b) pe fiecare echipament este aplicat marcajul specificat la
+art. 15;
+c) fiecare echipament este însoțit de o etichetã de identificare
+conținând cel puțin tipul, lotul și/sau seria de fabricație și numele
+fabricantului și/sau furnizorului pe piațã al echipamentului;
+
+d) livrarea echipamentului este însoțitã de manualul de instalare și utilizare, care trebuie sã includã și informațiile specificate la
+art. 5;
+e) declarația de conformitate a producãtorului, precum și alte
+documente prevãzute de legislația în vigoare.
+Art. 4. Ñ În cazul în care echipamentele radio nu sunt destinate comercializãrii și sunt folosite pentru uz propriu, ele pot fi
+importate și introduse pe piațã de cãtre persoanele juridice sau
+fizice în baza acordului de procurare din import.
+Art. 5. Ñ (1) Furnizorul pe piațã al echipamentelor terminale
+de telecomunicații și al echipamentelor radio trebuie sã declare
+destinația echipamentului respectiv, declarație care trebuie sã facã
+parte din manualul de instalare și utilizare a echipamentului.
+(2) În cazul echipamentelor terminale de telecomunicații
+declarația trebuie sã precizeze tipul de rețea publicã de telecomunicații la care echipamentul este conectabil, tipul conectãrii
+(directe/indirecte), precum și toate informațiile necesare conectãrii
+la rețeaua respectivã și utilizãrii în vederea scopului declarat.
+(3) În cazul echipamentelor radio declarația trebuie sã conținã
+date privind destinația echipamentului, informații privind condițiile
+necesare a fi îndeplinite în vederea utilizãrii, precum și atenționarea clientului asupra faptului cã deținerea și utilizarea echipamentelor radio fãrã aprobãrile prevãzute de lege constituie infracțiuni
+și se sancționeazã în consecințã.
+Art. 6. Ñ (1) Autorizația de tip se elibereazã numai persoanelor juridice române și este netransmisibilã cãtre terți, cu excepția
+distribuitorilor autorizați ai titularului autorizației de tip.
+(2) Conținutul autorizației de tip este prezentat în anexa nr. 1
+pentru echipamentele terminale de telecomunicații și în anexa
+nr. 2 pentru echipamentele radio.
+Art. 7. Ñ Autorizația de tip se elibereazã de cãtre
+Inspectoratul General pentru Comunicații și Tehnologia Informației,
+denumit în continuare I.G.C.T.I., în conformitate cu prevederile
+prezentei proceduri.
+Art. 8. Ñ Autorizația de tip se elibereazã, cu excepția cazurilor specificate la art. 9, pe baza:
+a) certificatului de examinare de tip, care atestã faptul cã echipamentul a fost supus unei expertizãri tehnice de evaluare a conformitãții și corespunde cerințelor esențiale prevãzute de
+reglementãrile tehnice/specificațiile tehnice aplicabile echipamentului respectiv; și
+b) declarației de conformitate cu tipul, emisã de furnizor, prin
+care acesta se angajeazã sã ia mãsurile necesare în vederea
+asigurãrii cã toate echipamentele ce vor fi introduse pe piațã
+corespund tipului certificat.
+Conformitatea cu tipul certificat se verificã prin încercãri ale
+echipamentelor aflate pe piațã, la intervale aleatorii și fãrã
+anunțare prealabilã, de cãtre I.G.C.T.I.
+Formularul declarației de conformitate cu tipul este prezentat
+în anexa nr. 3.
+Autorizația pentru un echipament care a fost certificat ca tip
+poate fi solicitatã și de persoane juridice române, altele decât titularul certificatului de examinare de tip. În acest caz autorizația de
+tip se elibereazã în baza declarației solicitantului întocmite în
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 788/30.X.2002
+conformitate cu anexa nr. 3, prin care acesta își însușește
+obligațiile ce revin titularului certificatului de examinare de tip în
+vederea asigurãrii conformitãții cu tipul examinat, și a unei documentații tehnice relevante a echipamentului.
+Art. 9. Ñ Autorizația de tip pentru echipamentele radio și
+echipamentele terminale de telecomunicații conectabile la rețelele
+publice de telecomunicații care intrã în domeniul de aplicare al
+Directivei 1999/5/EC se elibereazã persoanelor juridice române
+dupã cum urmeazã:
+1. Pentru echipamentele terminale de telecomunicații care nu
+utilizeazã spectrul alocat comunicațiilor radio terestre/spațiale, pe
+baza uneia dintre urmãtoarele variante și a documentelor corespunzãtoare:
+Varianta A (anexa II, Directiva 1999/5/EC):
+a1) documentația tehnicã (copie), care trebuie sã includã:
+Ñ descrierea generalã a echipamentului și documentația
+tehnicã relevantã, suficientã pentru identificarea echipamentului;
+Ñ o listã a standardelor armonizate aplicate în întregime sau
+în parte, precum și descrieri și explicații ale soluțiilor adoptate
+pentru îndeplinirea cerințelor esențiale din Directiva 1999/5/EC,
+unde astfel de standarde armonizate nu au fost aplicate sau nu
+existã;
+Ñ rapoarte de încercãri;
+a2) declarația de conformitate EC a producãtorului (copie);
+a3) declarația de conformitate cu tipul (formularul prezentat în
+anexa nr. 3).
+Echipamentele trebuie sã aibã marcajul de conformitate CE
+aplicat de producãtor; sau
+Varianta B (anexa IV, Directiva 1999/5/EC):
+b1) dosarul de construcție tehnicã, constituit din documentația
+descrisã la lit. a1) (copie);
+b2) opinia organismului notificat (copie) referitoare la examinarea dosarului de construcție tehnicã și la îndeplinirea cerințelor
+esențiale ale Directivei 1999/5/EC;
+b3) declarația de conformitate EC a producãtorului;
+b4) declarația de conformitate cu tipul (formularul prezentat în
+anexa nr. 3).
+Echipamentele trebuie sã aibã marcajul de conformitate CE
+aplicat de producãtor și numãrul de identificare a organismului
+notificat; sau
+Varianta C (anexa V, Directiva R&TTE):
+c1) certificatul de asigurare a calitãții complete, emis de un
+organism notificat care a evaluat și aprobat sistemul de calitate
+prezentat de producãtor privind tot lanțul de fabricație, de la concepție pânã la obținerea produsului finit;
+c2) declarația de conformitate EC a producãtorului;
+c3) declarația de conformitate cu tipul (formularul prevãzut în
+anexa nr. 3).
+Echipamentele trebuie sã aibã marcajul de conformitate CE și
+numãrul de identificare a organismului notificat.
+2. Pentru echipamentele radio, pe baza uneia dintre urmãtoarele opțiuni și a documentelor corespunzãtoare:
+Varianta A (anexa III, Directiva 1999/5/EC):
+a1) documentația tehnicã (copie), la fel ca la pct. 1 lit. a1);
+a2) declarația de conformitate EC a producãtorului;
+a3) declarația producãtorului cã seturile de încercãri radio
+esențiale, identificate de un organism notificat, au fost îndeplinite;
+a4) declarația de conformitate cu tipul (formularul prezentat în
+anexa nr. 3).
+Echipamentele trebuie sã aibã marcajul de conformitate CE și
+numãrul de identificare a organismului notificat.
+NOTÃ:
+
+Aceastã opțiune poate fi utilizatã pentru echipamente radio, cu
+excepția receptoarelor radio și a pãrților de recepție din echipamentele radio, fãrã implicarea unui organism notificat, dacã sunt
+utilizate standardele armonizate în întregime, folosindu-se seturile
+de teste radio asociate, în întregime. În aceastã situație echipamentele trebuie sã aibã marcajul de conformitate CE; sau
+Varianta B (anexa IV, Directiva 1999/5/EC):
+b1) dosarul de construcție tehnicã (copie), constituit din documentația tehnicã prevãzutã la pct. 1 lit. a1);
+b2) opinia organismului notificat (copie) referitoare la examinarea dosarului de construcție tehnicã și la îndeplinirea cerințelor
+esențiale ale Directivei 1999/5/EC;
+b3) declarația de conformitate EC a producãtorului;
+
+3
+
+b4) declarația de conformitate cu tipul (formularul prezentat în
+anexa nr. 3).
+Echipamentele trebuie sã aibã marcajul de conformitate CE și
+numãrul de identificare a organismului notificat; sau
+Varianta C (anexa V, Directiva 1999/5/EC):
+c1) certificatul de asigurare a calitãții complete, emis de un
+organism notificat care a evaluat și aprobat sistemul de calitate
+prezentat de producãtor privind tot lanțul de fabricație, de la concepție pânã la obținerea produsului finit;
+c2) declarația de conformitate EC a producãtorului;
+c3) declarația de conformitate cu tipul (formularul prezentat în
+anexa nr. 3).
+Echipamentele trebuie sã aibã marcajul de conformitate CE și
+numãrul de identificare a organismului notificat.
+Art. 10. Ñ (1) Certificatul de examinare de tip specificat la
+art. 8 se elibereazã de cãtre I.G.C.T.I. pe baza rapoartelor de
+încercãri emise de laboratoarele I.G.C.T.I. și/sau de Institutul
+Național de Studii și Cercetãri pentru Comunicații Ñ I.N.S.C.C.
+București, denumit în continuare I.N.S.C.C., a unei documentații
+tehnice relevante a echipamentului, necesarã identificãrii acestuia,
+și a manualului de instalare și utilizare, care trebuie sã includã
+declarația prevãzutã la art. 5.
+(2) I.G.C.T.I. și I.N.S.C.C. au obligația de a asigura pãstrarea
+confidențialitãții cu privire la documentațiile primite și la rezultatele
+încercãrilor efectuate.
+(3) În cadrul procedurii de evaluare sunt recunoscute rapoartele de încercãri și certificatele de evaluare a conformitãții emise
+de laboratoare și organisme notificate din țãrile Uniunii Europene.
+Aceste rapoarte pot fi utilizate în cadrul examinãrii de tip.
+(4) Conținutul certificatului de examinare de tip este prezentat
+în anexa nr. 4.
+(5) Titularul certificatului de examinare de tip trebuie sã informeze I.G.C.T.I. asupra oricãror modificãri ulterioare ale produsului,
+anterior producerii acestora, urmând ca I.G.C.T.I. sã dispunã emiterea unui nou certificat.
+(6) Certificatul de examinare de tip și documentația tehnicã
+vor fi pãstrate de titular minimum 10 ani de la data furnizãrii pe
+piațã a ultimului exemplar din echipamentul respectiv.
+Art. 11. Ñ (1) Titularii de autorizații de tip trebuie sã informeze I.G.C.T.I. asupra tuturor modificãrilor preconizate a se efectua asupra echipamentelor autorizate, anterior introducerii pe piațã
+a noilor variante, inclusiv în cazul în care aceste modificãri nu
+afecteazã parametrii tehnici.
+(2) În situația în care modificãrile se referã numai la configurația echipamentului (formã, dimensiuni, denumirea de comercializare etc.), I.G.C.T.I. va decide asupra necesitãții emiterii unei
+anexe la autorizația de tip originalã, fãrã modificarea valabilitãții
+acesteia.
+(3) În cazul în care parametrii tehnici ai echipamentului sunt
+diferiți fațã de cei autorizați inițial, se va proceda la o nouã examinare de tip și se va emite o nouã autorizație de tip.
+Art. 12. Ñ Titularii autorizațiilor de tip au urmãtoarele obligații:
+a) de a introduce pe piațã, în baza autorizației de tip și în
+condițiile respectãrii prevederilor prezentei proceduri, numai echipamente conforme cu reglementãrile tehnice care au stat la baza
+eliberãrii autorizației de tip respective;
+b) de a notifica la I.G.C.T.I. lista distribuitorilor lor autorizați
+pentru tipul respectiv de echipament și de a comunica, cu cel
+puțin 15 zile înainte, orice modificare a acesteia;
+c) de a permite accesul delegaților împuterniciți ai Ministerului
+Comunicațiilor și Tehnologiei Informației sau I.G.C.T.I. în locurile
+de producție, depozitare și comercializare a echipamentelor, în
+scopul verificãrii respectãrii condițiilor care au stat la baza emiterii autorizației de tip;
+d) de a livra produsele marcate în conformitate cu prevederile
+prezentei proceduri și însoțite de documentele specificate la art. 3;
+e) de a furniza, la cerere, reprezentanților autorizați ai
+I.G.C.T.I., pe o perioadã de maximum 30 de zile, eșantioane din
+tipurile de echipamente autorizate, în vederea verificãrii conformitãții cu reglementãrile tehnice care au stat la baza eliberãrii
+autorizației de tip;
+f) de a pãstra declarația de conformitate prevãzutã în anexa
+nr. 3 cel puțin 10 ani de la comercializarea ultimului exemplar de
+echipament.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 788/30.X.2002
+
+Art. 13. Ñ (1) Valabilitatea autorizațiilor de tip este de maximum 5 ani, cu condiția respectãrii cerințelor prevãzute de reglementãrile în vigoare.
+(2) Reînnoirea autorizațiilor de tip se face la cererea titularilor,
+înregistratã la I.G.C.T.I. cu cel puțin 60 de zile înaintea datei de
+expirare a valabilitãții lor, fãrã o nouã expertizare tehnicã.
+Art. 14. Ñ (1) Autorizațiile de tip se revocã de cãtre I.G.C.T.I.
+în urmãtoarele situații:
+a) la cererea titularului;
+b) echipamentul nu mai corespunde reglementãrilor tehnice
+care au stat la baza emiterii autorizației de tip;
+c) echipamentul comercializat produce perturbații ale spectrului
+radioelectric;
+d) echipamentul comercializat produce perturbații sau daune
+rețelei publice de telecomunicații la care este conectat, personalului de întreținere sau utilizatorilor;
+e) schimbarea reglementãrilor tehnice care au stat la baza
+emiterii autorizației de tip, determinatã de modificãri în rețeaua
+publicã de telecomunicații. Aceste modificãri vor fi fãcute publice
+de cãtre Ministerul Comunicațiilor și Tehnologiei Informației cu cel
+puțin 6 luni înainte de data intrãrii lor în vigoare;
+f) titularul pierde calitatea de persoanã juridicã românã;
+g) titularul utilizeazã ilegal sau falsificã autorizația de tip;
+h) titularul nu respectã prevederile prezentei proceduri referitoare la marcare;
+i) titularul sau distribuitorii sãi autorizați nu permit accesul
+delegaților împuterniciți ai Ministerului Comunicațiilor și Tehnologiei
+Informației sau I.G.C.T.I. în locurile de producție, depozitare sau
+comercializare a echipamentului, în scopul verificãrii respectãrii
+condițiilor care au stat la baza emiterii autorizației de tip, sau nu
+permit prelevarea eșantioanelor de echipament în vederea testãrii
+conformitãții.
+(2) În cazurile prevãzute la alin. (1) lit. b), c), d) și h), la
+prima abatare, mãsura revocãrii se adoptã dacã în termen de
+30 de zile de la primirea somației I.G.C.T.I. nu s-a intrat în legalitate. Pe aceastã perioadã autorizația de tip este suspendatã. În
+caz de repetare a abaterii mãsura revocãrii se adoptã fãrã somație.
+(3) În cazurile prevãzute la alin. (1) lit. c) și d) toate echipamentele terminale de telecomunicații respective trebuie deconectate de la rețeaua publicã de telecomunicații.
+Art. 15. Ñ (1) În vederea introducerii pe piațã echipamentele
+radio și echipamentele terminale de telecomunicații trebuie marcate dupã cum urmeazã:
+a) în perioada de tranziție, pânã în momentul semnãrii acordului european privind evaluarea conformitãții, marcajul național
+de conformitate a produselor cu cerințele esențiale prevãzute în
+reglementãrile tehnice române specifice aplicabile este marcajul
+de conformitate CS. Elementele de identificare a marcajului de
+conformitate CS sunt prevãzute în anexa nr. 2 la Legea
+nr. 608/2001;
+b) în aceastã perioadã de tranziție se recunoaște marcajul
+european de conformitate CE, în condițiile prevãzute de reglementãrile tehnice aplicabile produsului. Elementele de identificare
+a marcajului de conformitate CE sunt prevãzute în anexa nr. 3 la
+Legea nr. 608/2001.
+(2) Marcajul trebuie sã fie lizibil și rezistent și se aplicã prin
+grija titularului autorizației de tip.
+(3) În situația în care dimensiunile echipamentului nu permit
+aplicarea marcajului, acesta va fi aplicat, cu notificarea I.G.C.T.I.,
+pe manualul de utilizare sau pe certificatul de garanție.
+Art. 16. Ñ (1) În cazuri izolate, în vederea conectãrii la o
+rețea publicã de telecomunicații a unui echipament terminal de
+telecomunicații singular, proprietate a unei persoane fizice sau
+juridice, echipament procurat din import, este obligatorie obținerea
+unui aviz individual de utilizare. Acesta se elibereazã de cãtre
+I.G.C.T.I. la cererea solicitantului, în baza expertizei tehnice a
+echipamentului efectuate de I.G.C.T.I.
+(2) Avizul individual de utilizare se acordã pe o perioadã nelimitatã și se revocã în situațiile prevãzute la art. 14 alin. (1) lit. c)
+și d), caz în care se dispun deconectarea și sigilarea echipamentului respectiv.
+(3) Avizul individual de utilizare nu este transmisibil cãtre o
+terțã persoanã fãrã aprobarea I.G.C.T.I.
+
+(4) Avizul individual de utilizare se elibereazã în conformitate
+cu prevederile cap. III.
+Art. 17. Ñ (1) Echipamentele radio destinate uzului propriu al
+persoanelor fizice sau juridice pot fi procurate din import numai
+în baza unui acord de procurare din import eliberat la cererea
+solicitantului. Acordul de procurare din import se elibereazã de
+cãtre I.G.C.T.I. în baza unei expertize tehnice și a declarației solicitantului privind utilizarea echipamentului.
+(2) Acordul de procurare din import se elibereazã pentru o
+perioadã de 6 luni.
+(3) Acordul de procurare din import se elibereazã în conformitate cu prevederile cap. III.
+CAPITOLUL II
+Eliberarea autorizațiilor de tip
+Art. 18. Ñ În vederea eliberãrii autorizației de tip în conformitate cu art. 8, se procedeazã dupã cum urmeazã:
+1. În cazul echipamentelor care nu au fost anterior certificate
+ca tip
+1.1. Solicitantul înregistreazã la I.G.C.T.I. cererea întocmitã
+conform anexei nr. 5 în cazul echipamentelor terminale de telecomunicații sau conform anexei nr. 6 în cazul echipamentelor
+radio, însoțitã de:
+a) certificatul de înmatriculare la Oficiul registrului comerțului
+(copie);
+b) documentația tehnicã relevantã, suficientã pentru identificarea echipamentelor (un exemplar);
+c) manualul de instalare și utilizare, care trebuie sã conținã și
+informațiile specificate la art. 5 (un exemplar);
+d) informații și/sau documente privind alte autorizãri ale echipamentului (dacã sunt disponibile Ñ un exemplar);
+e) rapoarte de încercãri.
+Documentația poate fi redactatã și în limba englezã sau francezã, cu excepția manualului de instalare și utilizare, care se
+redacteazã obligatoriu în limba românã.
+1.2. În termen de maximum 7 zile de la înregistrarea cererii,
+I.G.C.T.I.:
+a) informeazã solicitantul asupra laboratoarelor desemnate sã
+efectueze încercãrile de evaluare a conformitãții (I.N.S.C.C. și/sau
+I.G.C.T.I) și asupra numãrului de exemplare ce urmeazã a fi
+supuse încercãrii;
+b) notificã cererea la laboratoarele desemnate și transmite
+documentația prevãzutã la pct. 1.1 lit. b), c) și d).
+NOTÃ:
+
+Laboratorul I.N.S.C.C. efectueazã încercãri de conformitate a
+echipamentelor terminale de telecomunicații cu cerințele esențiale
+referitoare la:
+a) protecția rețelelor de telecomunicații, protecția schimbului de
+informații din gestiune și comandã asociate;
+b) interoperabilitatea echipamentului terminal cu rețeaua la
+care se conecteazã, precum și interoperabilitatea serviciilor de
+același fel;
+c) protecția informațiilor vehiculate de utilizatori.
+Laboratorul I.G.C.T.I. efectueazã încercãri de conformitate a
+echipamentelor terminale de telecomunicații și a echipamentelor
+radio cu cerințele esențiale referitoare la:
+a) utilizarea eficientã a spectrului radioelectric;
+b) compatibilitatea electromagneticã.
+1.3. Solicitantul se adreseazã laboratoarelor desemnate cu
+comenzi ferme pentru efectuarea examinãrii, prezintã spre încercare numãrul specificat de echipamente și achitã contravaloarea
+încercãrilor pe bazã de deviz.
+1.4. Laboratoarele desemnate analizeazã documentația prezentatã, solicitã eventualele completãri, verificã conformitatea echipamentului/echipamentelor cu documentația prezentatã, efectueazã,
+în termen de maximum 45 de zile de la primirea documentației
+complete, încercãrile de evaluare a conformitãții și transmit la
+I.G.C.T.I.:
+a) certificatul de conformitate cu cerințele esențiale prevãzute
+de reglementãrile tehnice/specificațiile în vigoare, inclusiv rapoartele de încercãri (un exemplar Ñ original);
+b) documentația prevãzutã la pct. 1.1 lit. b), c) și d), cu eventualele completãri (un exemplar).
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 788/30.X.2002
+1.5. În termen de 15 zile de la primirea documentelor susmenționate I.G.C.T.I. emite certificatul de examinare de tip și solicitã declarația de conformitate cu tipul, întocmitã conform anexei
+nr. 3.
+1.6. În termen de 7 zile de la primirea declarației de conformitate I.G.C.T.I. emite autorizația de tip.
+NOTÃ:
+
+În situația în care nu sunt îndeplinite condițiile pentru eliberarea autorizației de tip, I.G.C.T.I. informeazã solicitantul, cu motivarea unei astfel de decizii, în cadrul termenelor sus-menționate.
+2. În cazul echipamentelor identice ca tip, model, fabricant, loc
+de fabricație, parametri tehnici și caracteristici funcționale cu un
+echipament examinat anterior ca tip
+2.1. Solicitantul înregistreazã la I.G.C.T.I. cererea prevãzutã la
+pct. 1.1, însoțitã de:
+a) certificatul de înmatriculare la Oficiul registrului comerțului;
+b) documentația tehnicã relevantã, suficientã pentru identificarea echipamentelor;
+c) manualul de instalare și operare, care trebuie sã conținã și
+informațiile specificate la art. 5;
+d) declarația de conformitate cu tipul prevãzutã în anexa
+nr. 3.
+Documentația poate fi redactatã și în limba englezã sau francezã, cu excepția manualului de instalare și utilizare, care se
+redacteazã obligatoriu în limba românã.
+2.2. I.G.C.T.I. analizeazã documentele primite, solicitã eventuale completãri și emite autorizația de tip în termen de maximum
+15 zile de la primirea documentației complete.
+NOTÃ:
+
+În situația în care nu sunt îndeplinite condițiile pentru eliberarea autorizației de tip, I.G.C.T.I. informeazã solicitantul asupra
+rezultatului expertizei tehnice, cu motivarea deciziei de neautorizare, în cadrul aceluiași termen.
+Art. 19. Ñ În vederea eliberãrii autorizației de tip în conformitate cu art. 9, se procedeazã dupã cum urmeazã:
+1. Solicitantul înregistreazã la I.G.C.T.I. cererea întocmitã conform anexei nr. 5 în cazul echipamentelor terminale de telecomunicații sau conform anexei nr. 6 în cazul echipamentelor radio,
+însoțitã de:
+a) certificatul de înmatriculare la Oficiul registrului comerțului
+(copie);
+b) documentele prevãzute la art. 9, în funcție de categoria
+echipamentului și de varianta aleasã;
+c) manualul de instalare și operare, care trebuie sã conținã și
+informațiile specificate la art. 5;
+d) declarația de conformitate cu tipul conținutã în anexa nr. 3.
+Documentația poate fi redactatã și în limba englezã sau francezã, cu excepția manualului de instalare și utilizare, care se
+redacteazã obligatoriu în limba românã.
+2. I.G.C.T.I. emite autorizația de tip în termen de maximum
+15 zile.
+NOTÃ:
+
+În situația în care nu sunt îndeplinite condițiile pentru eliberarea autorizației de tip, I.G.C.T.I. informeazã solicitantul asupra
+rezultatului expertizei tehnice, cu motivarea deciziei de neautorizare, în cadrul aceluiași termen.
+CAPITOLUL III
+Eliberarea avizului individual de utilizare și a acordului
+de procurare din import
+Art. 20. Ñ În vederea eliberãrii avizului individual de utilizare
+se procedeazã dupã cum urmeazã:
+1. Solicitantul înregistreazã la I.G.C.T.I. cererea întocmitã conform anexei nr. 5 în cazul echipamentelor terminale de telecomunicații sau conform anexei nr. 6 în cazul echipamentelor radio.
+2. În termen de maximum 7 zile de la înregistrarea cererii
+I.G.C.T.I.:
+Ñ informeazã solicitantul asupra laboratoarelor desemnate sã
+efectueze testele de evaluare a conformitãții (I.N.S.C.C. și/sau
+I.G.C.T.I.);
+
+5
+
+Ñ notificã cererea la laboratoarele desemnate.
+3. Solicitantul se adreseazã laboratoarelor desemnate cu
+comenzi ferme pentru efectuarea examinãrii, prezintã echipamentul spre testare și achitã contravaloarea examinãrii pe bazã de
+deviz.
+4. Laboratoarele desemnate efectueazã încercãrile echipamentului și transmit la I.G.C.T.I. rapoartele de încercãri (un exemplar Ñ
+original).
+5. În termen de 15 zile de la primirea documentelor prevãzute la
+pct. 4 I.G.C.T.I. elibereazã avizul individual de utilizare. Formularul
+avizului individual de utilizare este conținut în anexa nr. 7.
+NOTÃ:
+
+În situația în care nu sunt îndeplinite condițiile pentru eliberarea avizului individual de utilizare, I.G.C.T.I. informeazã solicitantul
+asupra rezultatului expertizei tehnice, cu motivarea deciziei de
+neautorizare, în cadrul aceluiași termen.
+Art. 21. Ñ În vederea emiterii acordului de procurare din
+import se procedeazã dupã cum urmeazã:
+1. Solicitantul înregistreazã la I.G.C.T.I. cererea întocmitã conform anexei nr. 8. Cererea trebuie sã fie însoțitã de:
+a) certificatul de înmatriculare la Oficiul registrului comerțului
+(copie);
+b) documentația tehnicã relevantã, suficientã pentru identificarea aparatelor (redactatã în limba românã sau în limba englezã
+ori în limba francezã), incluzând, în mod explicit și/sau prin referire la reglementãri tehnice, valorile principalilor parametri referitori
+la cerințele esențiale aplicabile;
+c) manualul (instrucțiuni) de instalare și utilizare (redactat în
+limba românã sau în limba englezã ori în limba francezã), în care
+sunt incluse informațiile prevãzute la art. 5 alin. (3);
+d) declarația de conformitate EC a producãtorului și informații
+și/sau documente privind autorizãri ale echipamentului (dacã sunt
+disponibile).
+2. În termen de 7 zile de la primirea documentelor prevãzute
+la pct. 1 I.G.C.T.I. elibereazã acordul de procurare din import
+(anexa nr. 9).
+NOTÃ:
+
+În situația în care nu sunt îndeplinite condițiile pentru eliberarea acordului de procurare din import, I.G.C.T.I. informeazã solicitantul asupra rezultatului expertizei tehnice, cu motivarea deciziei
+de neautorizare, în cadrul aceluiași termen.
+CAPITOLUL IV
+Dispoziții finale și tranzitorii
+Art. 23. Ñ (1) Autorizațiile de tip, avizele individuale de utilizare și acordurile de procurare din import, emise în baza reglementãrilor anterioare prezentei proceduri, rãmân valabile.
+(2) Revocarea lor se efectueazã de cãtre I.G.C.T.I. în conformitate cu prezenta procedurã.
+Art. 24. Ñ Titularii documentelor de autorizare prevãzute la
+art. 23 alin. (1) se supun obligațiilor ce le revin în conformitate cu
+prezenta procedurã.
+Art. 25. Ñ Eventualele contestații și reclamații legate de procesul de certificare și autorizare de tip a echipamentelor terminale
+de telecomunicații și a echipamentelor radio, de eliberare a avizului individual de utilizare sau a acordului de procurare din
+import se pot transmite Ministerului Comunicațiilor și Tehnologiei
+Informației Ñ Secretariatul de stat pentru comunicații în termen
+de maximum 30 de zile de la primirea documentului contestat.
+Art. 26. Ñ I.G.C.T.I. este împuternicit sã controleze respectarea prezentei proceduri prin inspecții și verificãri la locurile de
+producție, depozitare și comercializare a echipamentelor, inclusiv
+de a preleva pentru perioade scurte mostre de echipamente în
+vederea testãrii, atunci când aceasta nu poate fi efectuatã la locul
+inspecției.
+Art. 27. Ñ Anexele nr. 1Ñ9*) fac parte integrantã din prezenta procedurã.
+
+*) Anexele nr. 1Ñ9 sunt reproduse în facsimil.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 788/30.X.2002
+ANEXA Nr. 1
+la procedurã
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 788/30.X.2002
+
+7
+ANEXA Nr. 2
+la procedurã
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 788/30.X.2002
+ANEXA Nr. 3
+la procedurã
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 788/30.X.2002
+
+9
+ANEXA Nr. 4
+la procedurã
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 788/30.X.2002
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+11
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 788/30.X.2002
+ANEXA Nr. 5
+la procedurã
+
+(-) ANTET FIRMÃ
+CERERE
+pentru eliberarea certificatului de examinare de tip
+și/sau autorizației de tip sau a avizului individual
+de utilizare pentru echipamentele terminale de telecomunicații
+conectabile la rețele publice de telecomunicații
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 788/30.X.2002
+ANEXA Nr. 6
+la procedurã
+
+(-) ANTET FIRMÃ
+CERERE
+pentru eliberarea certificatului de examinare de tip
+și/sau autorizației de tip sau a avizului individual
+de utilizare pentru echipamente radio
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 788/30.X.2002
+
+13
+ANEXA Nr. 7
+la procedurã
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 788/30.X.2002
+
+ANEXA Nr. 8
+la procedurã
+
+(-) ANTET FIRMÃ
+CERERE
+pentru eliberarea acordului de procurare din import a echipamentelor radio
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 788/30.X.2002
+
+15
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 788/30.X.2002
+ANEXA Nr. 9
+la procedurã
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 5069427282 Trezoreria sector 5, București (alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 411.97.54, tel./fax 410.77.36.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 788/30.X.2002 conține 16 pagini.
+
+Prețul de vânzare 11.500 lei
+
+ISSN 1453Ñ4495
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+

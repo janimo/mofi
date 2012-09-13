@@ -1,0 +1,1741 @@
+PARTEA I
+
+Anul 177 (XXI) — Nr. 911
+
+Joi, 24 decembrie 2009
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+SUMAR
+
+Nr.
+
+Pagina
+ACTE ALE BĂNCII NAȚIONALE A ROMÂNIEI
+
+25.
+
+— Regulament privind utilizarea abordării avansate de
+evaluare și aprobarea utilizării acestei abordări de
+către instituțiile de credit, pentru riscul operațional ....
+
+2–16
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 911/24.XII.2009
+
+ACTE ALE BĂNCII NAȚIONALE A ROMÂNIEI
+BANCA NAȚIONALĂ A ROMÂNIEI
+
+REGULAMENT
+privind utilizarea abordării avansate de evaluare și aprobarea utilizării acestei abordări
+de către instituțiile de credit, pentru riscul operațional
+Având în vedere prevederile art. 126, 138—140, 384 și 385 din Ordonanța de urgență a Guvernului nr. 99/2006 privind
+instituțiile de credit și adecvarea capitalului, aprobată cu modificări și completări prin Legea nr. 227/2007, cu modificările și
+completările ulterioare, și ale art. 17 și 18 din Regulamentul Băncii Naționale a României și al Comisiei Naționale a Valorilor
+Mobiliare nr. 24/29/2006 privind determinarea cerințelor minime de capital ale instituțiilor de credit și ale firmelor de investiții pentru
+riscul operațional, aprobat prin Ordinul Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 21/118/2006,
+în temeiul prevederilor art. 420 alin. (1) din Ordonanța de urgență a Guvernului nr. 99/2006, aprobată cu modificări și
+completări prin Legea nr. 227/2007, cu modificările și completările ulterioare, precum și ale art. 48 din Legea nr. 312/2004 privind
+Statutul Băncii Naționale a României,
+Banca Națională a României emite prezentul regulament.
+CAPITOLUL I
+Dispoziții generale
+Art. 1. — (1) Prezentul regulament stabilește standarde și
+cerințe ce trebuie respectate în vederea utilizării abordării
+avansate de evaluare pentru determinarea cerinței de capital
+pentru riscul operațional în conformitate cu prevederile secțiunii
+a 4-a a cap. II din Regulamentul Băncii Naționale a României și
+al Comisiei Naționale a Valorilor Mobiliare nr. 24/29/2006 privind
+determinarea cerințelor minime de capital ale instituțiilor de
+credit și ale firmelor de investiții pentru riscul operațional,
+aprobat prin Ordinul Băncii Naționale a României și al Comisiei
+Naționale a Valorilor Mobiliare nr. 21/118/2006 (denumit în
+continuare Regulamentul BNR—CNVM nr. 24/29/2006), precum
+și în vederea obținerii de la Banca Națională a României a
+aprobării necesare în acest sens.
+(2) Prezentul regulament se aplică instituțiilor de credit,
+persoane juridice române, precum și sucursalelor din România
+ale instituțiilor de credit din state terțe.
+(3) Casele centrale sunt responsabile pentru reglementarea
+cadrului general aferent utilizării abordării avansate de evaluare
+pentru determinarea cerinței de capital pentru riscul operațional,
+pentru cooperativele de credit din cadrul rețelelor cooperatiste.
+Reglementările emise vor avea în vedere prevederile
+prezentului regulament în ceea ce privește utilizarea abordării
+avansate de evaluare pentru riscul operațional de către
+cooperativele de credit și nu vor putea stabili cerințe mai puțin
+restrictive decât cele prevăzute de acesta. În acest sens,
+reglementările emise de casa centrală vor fi transmise spre
+avizare Băncii Naționale a României.
+(4) Prezentul regulament se aplică la nivel individual și, după
+caz, la nivel consolidat, în conformitate cu Regulamentul Băncii
+Naționale a României și al Comisiei Naționale a Valorilor
+Mobiliare nr. 17/22/2006 privind supravegherea pe bază
+consolidată a instituțiilor de credit și a firmelor de investiții,
+aprobat prin Ordinul Băncii Naționale a României și al Comisiei
+Naționale a Valorilor Mobiliare nr. 14/111/2006.
+(5) Fără a aduce atingere alin. (4), în cazul cererilor pentru
+obținerea aprobării de utilizare a abordării avansate de evaluare
+formulate în condițiile prevăzute la art. 182 alin. (1) sau la
+
+art. 193 alin. (1) din Ordonanța de urgență a Guvernului
+nr. 99/2006 privind instituțiile de credit și adecvarea capitalului,
+aprobată cu modificări și completări prin Legea nr. 227/2007, cu
+modificările și completările ulterioare, și în condițiile în care
+Banca Națională a României nu este autoritatea competentă
+responsabilă cu supravegherea pe bază consolidată, instituțiile
+de credit, persoane juridice române, sunt exceptate, dacă nu se
+decide altfel de către/împreună cu celelalte autorități
+competente implicate, de la aplicarea prevederilor art. 5—7,
+9—26, art. 27 alin. (6) și (7), art. 50 alin. (5), art. 50 alin. (8), art.
+55 alin. (2), art. 60 alin. (4), art. 61 alin. (3) și (7), art. 67 alin. (3),
+art. 75 alin. (2), art. 76, art. 78 alin. (4) și (5) și art. 79.
+(6) Casele centrale sunt responsabile pentru aplicarea
+prezentului regulament la nivel de rețea cooperatistă.
+Art. 2. — (1) Termenii și expresiile utilizate în prezentul
+regulament au semnificațiile prevăzute în Ordonanța de urgență
+a Guvernului nr. 99/2006, aprobată cu modificări și completări
+prin Legea nr. 227/2007, cu modificările și completările
+ulterioare, și în Regulamentul BNR—CNVM nr. 24/29/2006.
+(2) Expresiile ăstructură de conducere”, ăfuncție de
+supraveghere”, ăfuncție de conducere” și ăcontrol intern” au
+semnificațiile prevăzute de Regulamentul Băncii Naționale a
+României nr. 18/2009 privind cadrul de administrare a activității
+instituțiilor de credit, procesul intern de evaluare a adecvării
+capitalului la riscuri și condițiile de externalizare a activităților
+acestora.
+(3) Termenul ăinstituție” are semnificația prevăzută de
+Regulamentul Băncii Naționale a României și al Comisiei
+Naționale a Valorilor Mobiliare nr. 13/18/2006 privind
+determinarea cerințelor minime de capital pentru instituțiile de
+credit și firmele de investiții, aprobat prin Ordinul Băncii
+Naționale a României și al Comisiei Naționale a Valorilor
+Mobiliare nr. 10/107/2006.
+(4) În înțelesul prezentului regulament, termenii și expresiile
+de mai jos au următoarele semnificații:
+a) clasă de risc operațional — categorie a riscului operațional
+omogenă din punct de vedere al riscurilor acoperite și al datelor
+disponibile pentru analiza acestora;
+b) estimare de risc operațional — distribuția pierderilor
+identificate în cadrul unei clase de risc operațional;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 911/24.XII.2009
+c) cuantificare a riscului operațional — statistică singulară
+sau parametru singular extrase din estimarea de risc
+operațional;
+d) set de date pentru calcul — partea din datele privind riscul
+operațional ale instituției de credit utilizată pentru generarea
+estimărilor și cuantificărilor de risc operațional reglementate;
+e) eveniment cu pierdere recuperată prompt — eveniment
+din riscul operațional soldat cu pierdere recuperată complet
+într-un interval scurt;
+f) eveniment nesoldat cu pierdere — eveniment din riscul
+operațional care nu s-a soldat cu pierdere sau câștig;
+g) eveniment din riscul operațional soldat cu un câștig —
+eveniment din riscul operațional care a generat un câștig;
+h) pierderi secvențiale — ansamblu de pierderi succesive
+produse în perioade diferite, dar relaționate cu același
+eveniment din riscul operațional;
+i) pierderi cu efect multiplu — ansamblu de pierderi asociate
+care au afectat entități sau linii de activitate, unități etc. diferite,
+dar care sunt relaționate cu același eveniment cauzal;
+j) corelație — orice formă de dependență, liniară sau
+nonliniară, relaționată cu toate datele (reale ori construite) sau
+doar cu extremitatea ori restul distribuției, dintre două sau mai
+multe clase de risc operațional, cauzată de prezența unor factori
+comuni de natură diferită, interni ori externi instituției de credit,
+factori care pot influența frecvența sau impactul pierderilor
+observate în mai mult de o singură clasă de risc operațional.
+Art. 3. — (1) Instituțiile de credit trebuie să dispună de
+sisteme de administrare și cuantificare a riscului operațional de
+o complexitate corespunzătoare complexității operațiunilor/activității
+desfășurate.
+(2) Aplicarea principiului proporționalității nu exceptează
+instituțiile de credit de la obligativitatea respectării standardelor
+și cerințelor minime impuse de Banca Națională a României în
+vederea utilizării abordării avansate de evaluare.
+Art. 4. — Prevederile cap. II se aplică, în mod corespunzător,
+în cazul cererilor pentru obținerea aprobării de utilizare a
+abordării avansate de evaluare din partea instituțiilor de credit,
+persoane juridice române, care intenționează să determine
+cerința de capital pentru riscul operațional prin utilizarea
+abordării la nivel individual.
+CAPITOLUL II
+Solicitarea aprobării de utilizare a abordării avansate
+de evaluare
+SECȚIUNEA 1
+Aspecte generale și cererea de aprobare
+
+Art. 5. — (1) În cazul instituțiilor de credit care intenționează
+să utilizeze abordarea avansată de evaluare în vederea
+determinării cerinței de capital pentru riscul operațional la nivel
+individual, cererea de aprobare propriu-zisă trebuie să precizeze
+că instituția de credit solicită aprobarea la care se face referire
+la art. 138 alin. (1) din Ordonanța de urgență a Guvernului
+nr. 99/2006, aprobată cu modificări și completări prin Legea
+nr. 227/2007, cu modificările și completările ulterioare, precum
+și la art. 17 alin. (1) din Regulamentul BNR—CNVM
+
+3
+
+nr. 24/29/2006, avându-se în vedere detaliile din documentația
+ce însoțește cererea.
+(2) În cazul utilizării abordării avansate de evaluare de către
+o instituție de credit-mamă la nivelul Uniunii Europene și filialele
+acesteia sau de către filialele unei societăți financiare holdingmamă la nivelul Uniunii Europene, cererea de aprobare
+propriu-zisă trebuie să precizeze faptul că membrii grupului la
+nivelul Uniunii Europene solicită împreună aprobarea la care se
+face referire la art. 138 alin. (1) și art. 140 din Ordonanța de
+urgență a Guvernului nr. 99/2006, aprobată cu modificări și
+completări prin Legea nr. 227/2007, cu modificările și
+completările ulterioare, precum și la art. 17 alin. (1) din
+Regulamentul BNR—CNVM nr. 24/29/2006, avându-se în
+vedere detaliile din documentația ce însoțește cererea.
+Art. 6. — (1) Documentația minimă ce trebuie furnizată Băncii
+Naționale a României odată cu cererea de aprobare a utilizării
+abordării avansate de evaluare se constituie din următoarele:
+a) documentația privind sistemele de cuantificare a riscului
+operațional;
+b) documentația privind mediul de control al sistemului de
+cuantificare a riscului operațional, procedurile de implementare
+și infrastructura aferentă tehnologiei informației (IT);
+c) planul de implementare (incluzând implementarea
+graduală) și, dacă este cazul, detalii privind utilizarea parțială
+permanentă;
+d) documentul în care este descris procesul de autoevaluare
+și în care sunt prezentate concluziile acestuia prin care să se
+certifice conformitatea cu standardele și cerințele impuse de
+Banca Națională a României în vederea utilizării abordării
+avansate de evaluare, documentul în care sunt descrise
+concluziile programului de validare internă derulat în vederea
+solicitării aprobării de utilizare a abordării avansate de evaluare
+și raportul de audit; se vor include rezultatele examinării
+independente solicitate la art. 23 alin. (1), precum și descrierea
+urmării rezultatelor programului de validare internă;
+e) Formularul 13: OPR – Riscul operațional, Formularul 14:
+OPR Details – Riscul operațional: valori brute ale pierderilor pe
+linii de activitate și categorii de evenimente în ultimul an și
+Formularul 15: OPR Loss Details — Pierderi majore din riscul
+operațional înregistrate în ultimul an sau care sunt încă
+nefinalizate, prevăzute în anexa nr. I la Ordinul Băncii Naționale
+a României nr. 12/2007 privind raportarea cerințelor minime de
+capital pentru instituțiile de credit, cu modificările și completările
+ulterioare, completate.
+(2) Cu excepția cazurilor în care se indică altfel,
+documentația minimă ce însoțește cererea de aprobare, la care
+se face referire la alin. (1), trebuie să conțină informații generale
+privind aplicarea abordării avansate de evaluare.
+Art. 7. — (1) Cererea de aprobare trebuie semnată de către
+un membru executiv al structurii de conducere a fiecărei entități
+juridice dintre cele care solicită aprobarea, membru care este
+împuternicit să angajeze legal entitatea respectivă.
+(2) Semnatarul sau, după caz, semnatarii trebuie să confirme
+în cadrul cererii de aprobare că documentația însoțitoare
+reprezintă un rezumat adevărat și just al subiectelor acoperite.
+(3) Pentru scopurile alin. (2), prin rezumat se înțelege faptul
+că documentația furnizează o prezentare pe scurt — care redă
+doar aspectele principale — a subiectului în cauză, prin
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 911/24.XII.2009
+
+adevărat faptul că informațiile cuprinse în rezumat nu sunt false
+și/sau nu induc în eroare, iar prin just faptul că informațiile
+prezintă un rezumat de ansamblu rezonabil, fără a omite
+aspecte semnificative; documentația minimă ce însoțește
+cererea de aprobare, la care se face referire la art. 6 alin. (1),
+trebuie să ofere un rezumat al practicilor curente sau planificate
+ale instituției de credit/instituțiilor suficient de detaliat pentru a
+permite Băncii Naționale a României să facă o evaluare inițială
+a solicitării de acordare a aprobării de utilizare a abordării
+avansate de evaluare și să stabilească, pe baza riscului, un plan
+pentru o evaluare mai aprofundată.
+(4) Instituțiile de credit trebuie să comunice Băncii Naționale
+a României persoana responsabilă cu menținerea relației cu
+Banca Națională a României și înlocuitorul acesteia.
+Art. 8. — Pe parcursul perioadei de observare istorică de cel
+puțin 5 ani, respectiv de minimum 3 ani, prevăzute la art. 21
+alin. (1) din Regulamentul BNR—CNVM nr. 24/29/2006,
+instituțiile de credit care intenționează să utilizeze abordarea
+avansată de evaluare în scopul raportării cerinței de capital
+pentru riscul operațional trebuie să poată completa și transmite
+Băncii Naționale a României, la solicitarea acesteia,
+Formularul 14: OPR Details — Riscul operațional: valori brute
+ale pierderilor pe linii de activitate și categorii de evenimente în
+ultimul an și Formularul 15: OPR Loss Details — Pierderi majore
+din riscul operațional înregistrate în ultimul an sau care sunt încă
+nefinalizate prevăzute în anexa nr. I la Ordinul Băncii Naționale
+a României nr. 12/2007, cu modificările și completările
+ulterioare.
+SECȚIUNEA a 2-a
+Documentația privind sistemele de cuantificare
+a riscului operațional
+
+Art. 9. — (1) Pentru scopurile art. 6 alin. (1) lit. a),
+documentația privind sistemele de cuantificare a riscului
+operațional trebuie să includă cel puțin următoarele:
+a) un plan cu modelele ce vor fi utilizate — o declarație prin
+care sunt explicate care operațiuni și/sau riscuri operaționale
+sunt acoperite de fiecare model și prin care este justificată
+utilizarea de modele diferite;
+b) o descriere generală a tuturor modelelor;
+c) descrierea alocării capitalului pentru riscul operațional între
+entități diferite din cadrul grupului și a utilizării efectelor
+diversificării;
+d) în cazul în care instituția de credit utilizează instrumente
+de diminuare a cerinței de capital pentru riscul operațional,
+documentația privind acoperirea și cuantificarea pierderilor
+așteptate, documentația cuprinzând politica instituției de credit
+cu privire la asigurarea la riscul operațional sau alte mecanisme
+de transfer al acestui risc, precum și documentația privind
+examinarea și recunoașterea de corelații.
+(2) Pentru scopurile alin. (1) lit. b), documentația aferentă
+descrierii generale a modelului/modelelor trebuie să cuprindă
+cel puțin următoarele:
+a) o listă cu definițiile stabilite de instituția de credit pentru
+riscul operațional, pierderile din riscul operațional, liniile de
+activitate, categoriile de evenimente și orice alți termeni utilizați
+și considerați de instituția de credit ca prezentând relevanță;
+
+b) o descriere generală a modelului/modelelor, respectiv atât
+o descriere nonmatematică, cât și o descriere matematică,
+precum și justificarea alegerii acestuia/acestora; pentru fiecare
+model vor fi avute în vedere cel puțin următoarele:
+— prezentarea claselor de risc operațional identificate
+utilizate la calculul cerinței de capital, inclusiv a legăturii dintre
+acestea și liniile de activitate și categoriile de evenimente de risc
+operațional stabilite prin Regulamentul BNR—CNVM
+nr. 24/29/2006;
+— descrierea modului în care se asigură generarea
+cuantificării riscului operațional la un standard de rigurozitate
+comparabil cu un nivel de încredere de 99,9% și, dacă este
+cazul, precizarea nivelului de încredere la care este calculată
+cuantificarea inițială, precum și a metodei de ajustare de tip
+scaling utilizate;
+— rezultatele evaluării acurateței cerinței de capital pentru
+riscul operațional;
+c) politica instituției de credit privind datele aferente riscului
+operațional — documentația aferentă trebuie să cuprindă cel
+puțin următoarele aspecte:
+— perioada de observare istorică folosită;
+— o descriere a fluxurilor operaționale, procedurilor și
+sistemelor legate de colectarea și stocarea datelor, inclusiv a
+celor privind colarea datelor relevante pentru calculul cerinței de
+capital pentru riscul operațional, cu indicarea oricăror intervenții
+manuale; se includ de asemenea descrierea caracteristicilor
+pierderilor înregistrate în bazele de date și descrierile bazelor
+de date utilizate în cadrul abordării avansate de evaluare —
+formalizarea bazelor de date semnificative trebuie să fie
+suficientă pentru a permite instituțiilor de credit să furnizeze
+Băncii Naționale a României informațiile necesare în vederea
+determinării solidității bazelor de date, precum o descriere
+generală a bazelor de date (mărime aproximativă, data la care
+baza de date a fost construită, ăproprietarul” etc.), sursa datelor,
+procesele utilizate pentru obținerea și încărcarea datelor, filtrele
+utilizate pentru a crea și depana baza de date (precum valori
+minime și maxime), controale ale transparenței, accesului,
+coerenței etc.;
+— pragurile de pierdere minimă folosite pentru colectarea de
+date interne și prezentarea de dovezi ale îndeplinirii prevederilor
+art. 60 alin. (3);
+— informații pertinente cu privire la politica de identificare a
+pierderilor, criteriile de repartizare a pierderilor pe linii de
+activitate și categorii de evenimente de pierdere, incluzând
+criteriile la care se face referire la art. 21 alin. (9) din cadrul
+Regulamentului BNR—CNVM nr. 24/29/2006, și politica la care
+se face referire la art. 61 alin. (1), incluzând tratamentul
+evenimentelor cu pierdere recuperată prompt;
+— politica instituției de credit privind pierderile din riscul
+operațional legate de riscul de credit și riscul de piață;
+— dacă este cazul, fundamentarea faptului că activitățile sau
+expunerile excluse, luate atât individual, cât și în combinație, nu
+au impact semnificativ asupra estimărilor de risc globale;
+— descrierea procedurilor pentru evaluarea relevanței în
+timp a datelor interne privind pierderile din riscul operațional;
+— descrierea datelor externe: descrierea naturii datelor
+externe utilizate și indicarea surselor de date externe; descrierea
+condițiilor și practicilor de utilizare a datelor externe, inclusiv
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 911/24.XII.2009
+descrierea oricărei ajustări pentru a le face relevante pentru
+instituția de credit; evaluarea relevanței datelor externe; politica
+instituției de credit cu privire la revizuirea cu regularitate a
+condițiilor și practicilor de utilizare a datelor externe și la
+supunerea acestora unei examinări independente;
+— descrierea analizelor de scenarii: procedurile privind
+construirea de scenarii, evaluarea, validarea și revizuirea lor;
+descrierea modului și a gradului în care analizele de scenarii
+sunt utilizate;
+— descrierea factorilor legați de mediul de afaceri și controlul
+intern: descrierea modului în care factorii importanți legați de
+mediul de afaceri și controlul intern sunt aleși și luați în
+considerare în cadrul sistemului de cuantificare a riscului
+operațional; justificarea senzitivității estimărilor de risc
+operațional la modificările intervenite în factorii legați de mediul
+de afaceri și controlul intern considerați, precum și a ponderării
+relative a acestora; procedurile de validare și revizuire ale
+factorilor legați de mediul de afaceri și controlul intern ale
+instituției de credit; prezentarea celor mai importanți
+determinanți de risc operațional și evaluarea abilității sistemului
+de cuantificare de surprindere a acestora;
+— descrierea modului în care se asigură evitarea luării în
+considerare de mai multe ori a rezultatelor pozitive ale
+evaluărilor calitative sau a tehnicilor de diminuare a riscului
+operațional;
+— descrierea modului în care cele patru elemente utilizate în
+cadrul abordării avansate de evaluare, indicate la art. 20 alin. (3)
+din Regulamentul BNR—CNVM nr. 24/29/2006, sunt combinate
+și/sau ponderate, cu indicarea, dacă este cazul, a variației
+acestui mod de la o clasă de risc operațional la alta, incluzând
+descrierea importanței elementelor calitative în cadrul sistemului
+de cuantificare;
+— planul global cuprinzând punctele slabe ale datelor și
+sistemelor IT descoperite în timpul procesului de examinare și
+validare internă, precum și descrierea modului în care instituția
+de credit planifică să corecteze sau să diminueze punctele
+slabe.
+(3) Pentru scopurile alin. (1) lit. c), documentația aferentă
+alocării capitalului și utilizării efectelor diversificării, ce trebuie
+să însoțească cererea de aprobare, trebuie să cuprindă cel puțin
+descrierea și justificarea metodologiei de alocare a cerinței de
+capital pentru riscul operațional către entitățile din cadrul
+grupului, incluzând demonstrarea îndeplinirii prevederilor art. 76
+alin. (3) și (4), și descrierea efectelor diversificării, inclusiv a
+motivației și mărimii acestora.
+(4) Pentru scopurile alin. (1) lit. d), documentația privind
+acoperirea și cuantificarea pierderilor așteptate, ce trebuie să
+însoțească cererea de aprobare, trebuie să cuprindă cel puțin
+următoarele:
+a) descrierea modului de cuantificare a pierderilor așteptate,
+justificarea alegerii lui, precum și tratarea consecvenței acestuia
+cu modul în care este calculată cerința de capital în cadrul
+modelului aferent abordării avansate de evaluare; și
+b) descrierea practicilor interne ale instituției de credit care
+reflectă în mod adecvat pierderile așteptate, a modului în care
+acoperirile pierderilor așteptate îndeplinesc principiile generale
+prevăzute de art. 50 alin. (3)—(6) și, după caz, demonstrația
+solicitată la art. 50 alin. (9).
+
+5
+
+(5) Pentru scopurile alin. (1) lit. d), documentația cuprinzând
+politica instituției de credit cu privire la asigurarea la riscul
+operațional sau alte mecanisme de transfer al acestui risc, ce
+trebuie să însoțească cererea de aprobare, trebuie să cuprindă
+cel puțin următoarele:
+a) demonstrarea caracterului semnificativ al reducerii
+expunerii la pierderi din riscul operațional ca urmare a
+asigurărilor la acest risc și a altor mecanisme de transfer al
+acestuia și precizarea gradului de diminuare a cerinței de capital
+ca urmare a recunoașterii impactului acestora;
+b) descrierea politicii instituției de credit privind utilizarea de
+asigurări sau alte mecanisme de transfer al riscului operațional,
+inclusiv, dacă este cazul, descrierea condițiilor avute în vedere
+pentru recunoașterea efectului acestora în sensul diminuării
+cerinței de capital; și
+c) descrierea metodologiei pentru recunoașterea efectului
+asigurărilor și altor mecanisme de transfer al riscului operațional
+în calculul cerinței de capital.
+(6) Pentru scopurile alin. (1) lit. d), documentația privind
+examinarea și recunoașterea de corelații, ce trebuie să
+însoțească cererea de aprobare, trebuie să cuprindă cel puțin
+următoarele:
+a) justificarea luării în considerare a corelațiilor la
+determinarea cerinței de capital pentru riscul operațional;
+b) descrierea și justificarea alegerii metodei/metodelor de
+calcul al corelațiilor, prezentarea ipotezelor aferente și
+descrierea procesului de validare și asigurare a fiabilității,
+relevanței și acurateței acestora pe bază continuă; și
+c) descrierea modului în care corelațiile sunt recunoscute în
+cadrul modelului la determinarea cerinței de capital pentru riscul
+operațional.
+Art. 10. — Banca Națională a României poate solicita unei
+instituții de credit să întreprindă analize suplimentare celor
+indicate în cadrul acestei secțiuni în vederea facilitării evaluării
+sistemului de cuantificare a riscului operațional.
+SECȚIUNEA a 3-a
+Documentația privind mediul de control
+
+Art. 11. — Pentru scopurile art. 6 alin. (1) lit. b), documentația
+privind mediul de control, procedurile de implementare și
+infrastructura IT trebuie să cuprindă cel puțin următoarele:
+a) o prezentare de ansamblu a cadrului de administrare a
+activității instituției de credit, respectiv:
+— o prezentare a rolului și responsabilităților structurii de
+conducere în ceea ce privește administrarea riscului operațional,
+cu indicarea, dacă este cazul, a delegării anumitor atribuții;
+— o prezentare a rolului și responsabilităților funcției de
+administrare a riscului operațional, incluzând o descriere a
+modului în care este asigurată independența acesteia;
+— o prezentare a rolului auditului intern;
+— după caz, o prezentare a rolului oricăror altor comitete
+implicate în cadrul de administrare a activității în ceea ce
+privește riscul operațional;
+— o prezentare a structurilor de raportare aferente riscului
+operațional, incluzând modul și frecvența de raportare pe cale
+ierarhică; și
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 911/24.XII.2009
+
+— o scurtă prezentare de ansamblu a procesului de luare a
+deciziilor aferente riscului operațional și a modului în care acesta
+se desfășoară la diferite niveluri organizaționale;
+b) descrierea modului și a gradului în care instituția de credit
+integrează sistemele interne de cuantificare a riscului
+operațional în procesele curente de administrare a acestui risc,
+prin raportare la prevederile art. 27 alin. (2)—(5);
+c) prezentarea responsabilităților părților implicate în
+modelare;
+d) documentația privind validarea, cuprinzând descrierea și
+justificarea metodologiei de validare internă adoptate de către
+instituția de credit, formalizarea validării interne a sistemului de
+cuantificare a riscului operațional la care se face referire la
+art. 72 alin. (4), precum și o prezentare generală a procesului
+de validare;
+e) informații generale privind structura IT a instituției de
+credit, în ceea ce privește abordarea avansată de evaluare.
+SECȚIUNEA a 4-a
+Prezentarea de ansamblu și planul de implementare
+
+Art. 12. — Pentru scopurile art. 6 alin. (1) lit. c), instituțiile de
+credit trebuie să furnizeze Băncii Naționale a României o
+prezentare de ansamblu a ariei de cuprindere a abordării în
+cauză vizate de cererea de aprobare, respectiv:
+a) o listă a membrilor grupului, inclusiv structura juridică și
+modul de stabilire a cerinței de capital pentru riscul operațional
+pentru fiecare dintre aceștia, cu indicarea, dacă este cazul, a
+excepțiilor de la aplicarea abordării avansate de evaluare,
+prevăzute a rămâne după implementarea graduală, și a
+raționamentului pentru utilizarea permanentă parțială; pentru
+fiecare sucursală situată într-un stat terț se va indica autoritatea
+responsabilă cu supravegherea ei;
+b) o prezentare a structurii organizaționale a grupului — linii
+de activitate și cadrul de administrare a activității; și
+c) informații generale privind modificările structurale sau
+organizaționale semnificative planificate care pot avea impact
+asupra cererii de aprobare a utilizării abordării avansate de
+evaluare.
+Art. 13. — (1) Pentru scopurile art. 6 alin. (1) lit. c), instituțiile
+de credit care intenționează să utilizeze abordarea avansată de
+evaluare a riscului operațional trebuie să întocmească un plan
+de implementare clar, realist și adecvat, care să acopere atât
+perioada de timp până la obținerea aprobării, cât și perioada de
+implementare graduală — respectiv implementarea ulterioară
+obținerii aprobării, și să îl furnizeze Băncii Naționale a României
+odată cu cererea de aprobare.
+(2) Prin planul de implementare la care se face referire în
+cadrul alin. (1), o instituție de credit se angajează să
+implementeze abordarea avansată de evaluare, la datele
+prevăzute, în ceea ce privește toate operațiunile pentru care
+solicită aprobare de utilizare a abordării avansate de evaluare.
+(3) Pentru scopurile alin. (1), instituțiile de credit trebuie să
+stabilească norme interne cu prevederi detaliate privind
+planificarea în timp și conținutul, pentru următoarele:
+a) organizarea implementării (distribuirea responsabilităților
+etc.);
+
+b) dezvoltarea proceselor de administrare a riscului
+operațional, în special pentru colectarea de date;
+c) dezvoltarea metodologiei de cuantificare;
+d) implementarea infrastructurii IT utilizate în scopurile
+administrării și cuantificării riscului operațional;
+e) instruirea personalului, inclusiv a personalului de
+conducere;
+f) testul de utilizare — utilizarea planificată a diferitelor
+sisteme de cuantificare a riscului operațional, respectiv modul
+în care, concret, se intenționează să se utilizeze în activitatea
+curentă diferitele modele.
+Art. 14. — (1) Instituțiile de credit trebuie să formalizeze, în
+sensul descrierii și justificării, modul în care asigură îndeplinirea
+prevederilor art. 30 alin. (1) lit. c) și d) din Regulamentul BNR—
+CNVM nr. 24/29/2006, precum și acoperirea tuturor operațiunilor
+de către una dintre abordările prevăzute de regulamentul
+menționat și trebuie să transmită Băncii Naționale a României
+documentația aferentă.
+(2) Banca Națională a României decide, de la caz la caz,
+asupra îndeplinirii prevederilor art. 30 alin. (1) lit. c) și d) din
+Regulamentul BNR—CNVM nr. 24/29/2006.
+Art. 15. — (1) Politica privind implementarea graduală trebuie
+să trateze cel puțin aspectele prevăzute la alin. (2) și (3).
+(2) Planul de implementare graduală trebuie să prevadă un
+termen de implementare stabilit, termen ce trebuie să fie, pe de
+o parte, suficient de apropiat pentru ca instituția de credit să-și
+impună disciplina necesară pentru a putea aplica, într-o
+perioadă rezonabilă, abordarea avansată de evaluare într-o
+măsură extinsă și, pe de altă parte, suficient de îndepărtat
+pentru ca instituția de credit să asigure calitatea continuă a
+cadrului de administrare a activității, datelor, metodologiei și
+rezultatelor; termenul de implementare trebuie să fie mai mic de
+7 ani și doar în situații excepționale, precum cea a unui grup
+deosebit de complex, poate fi de până la 10 ani.
+(3) Instituția de credit trebuie să stabilească succesiunea
+includerii operațiunilor în abordarea avansată de evaluare;
+planul de implementare graduală trebuie stabilit în baza unor
+considerente practice și de fezabilitate, un factor important în
+acest sens fiind nivelul de risc al operațiunilor care nu sunt încă
+acoperite de abordarea avansată de evaluare; succesiunea
+includerii operațiunilor în aria de cuprindere a abordării avansate
+de evaluare face obiectul acordului Băncii Naționale a României.
+(4) Planul de implementare trebuie să cuprindă justificarea
+succesiunii stabilite pentru includerea operațiunilor în abordarea
+avansată de evaluare.
+Art. 16. — (1) Pe parcursul implementării graduale, anterior
+implementării abordării avansate de evaluare asupra unor
+operațiuni adiționale sau riscuri operaționale adiționale,
+instituțiile de credit trebuie să realizeze o autoevaluare pentru a
+asigura conformitatea cu standardele și cerințele minime impuse
+de Banca Națională a României în vederea utilizării abordării
+avansate de evaluare.
+(2) După caz, pentru scopurile alin. (1), în documentul prin
+care Banca Națională a României comunică instituției de credit
+decizia de aprobare a utilizării abordării avansate de evaluare,
+se vor indica, de la caz la caz, obligațiile ce revin instituției de
+credit pe parcursul implementării graduale.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 911/24.XII.2009
+Art. 17. — Instituțiile de credit trebuie să dispună de sisteme
+și proceduri de monitorizare în mod oportun și adecvat ale
+coerenței și consecvenței utilizărilor combinate de abordări
+diferite și a aspectelor ce țin de semnificativitate, substanțialitate
+și planificare în timp ale planului de implementare graduală.
+Art. 18. — (1) Instituțiile de credit trebuie să notifice în scris,
+în timp util, Banca Națională a României cu privire la orice
+modificări relevante în mediul organizațional sau de afaceri,
+datorate fie unor circumstanțe normale sau excepționale,
+precum o achiziție sau vânzare majore ori o modificare majoră
+în acționariat, conducere sau organizare, care ar putea avea
+impact semnificativ asupra planurilor inițiale de implementare
+graduală și utilizare parțială ale instituțiilor de credit.
+(2) Instituțiile de credit trebuie să discute cu Banca Națională
+a României asupra oricăror modificări ale planului de
+implementare graduală ce ar putea fi necesare.
+Art. 19. — O instituție de credit care ulterior obținerii aprobării
+de utilizare a abordării avansate de evaluare achiziționează o
+instituție ce nu utilizează această abordare și/sau nu a obținut
+aprobare în acest sens trebuie să notifice în acest sens Banca
+Națională a României în scris și, după caz, va trebui fie să
+depună un plan de aducere în conformitate cu standardele și
+cerințele minime impuse de Banca Națională a României în
+vederea utilizării abordării avansate de evaluare, fie să depună
+o nouă cerere de aprobare în sensul cap. II, secțiunea a 4-a,
+subsecțiunea 1 ăCererea de aprobare” din Regulamentul BNR—
+CNVM nr. 24/29/2006, însoțită de o politică privind
+implementarea graduală și utilizarea parțială nouă.
+SECȚIUNEA a 5-a
+Autoevaluarea
+
+Art. 20. — (1) Pentru scopurile art. 6 alin. (1) lit. d), instituțiile
+de credit trebuie să realizeze o autoevaluare a stadiului de
+conformitate cu standardele și cerințele minime impuse de
+Banca Națională a României în vederea utilizării abordării
+avansate de evaluare în contextul riscului operațional.
+(2) Autoevaluarea trebuie să înceapă cu o evaluare globală,
+dintr-o perspectivă consolidată, a modului în care diversele
+modele se îmbină și se armonizează în cadrul instituției sau al
+grupului, evaluare globală ce trebuie să acopere gradul de
+adecvare a structurii organizaționale în ceea ce privește cadrul
+de administrare a activității, gradul de adecvare a resurselor
+alocate sistemului de cuantificare a riscului operațional,
+comparabilitatea în cadrul grupului cu privire la date și
+metodologie și coerența și consecvența în organizarea IT.
+(3) Autoevaluarea trebuie să acopere toate aspectele
+sistemului de cuantificare a riscului operațional: metodologie,
+calitate a datelor, proceduri cantitative și calitative de validare,
+cadru de administrare a activității și mediu tehnologic.
+(4) După caz, instituțiile de credit trebuie să stabilească un
+plan de acțiune în vederea remedierii omisiunilor și deficiențelor
+identificate, precum și o planificare pentru obținerea
+conformității; omisiunile și deficiențele identificate nu trebuie să
+fie semnificative.
+Art. 21. — În cadrul documentului în care este descris
+procesul de autoevaluare și în care sunt cuprinse concluziile
+acestuia trebuie prezentate dovezi ale îndeplinirii art. 19 alin. (2)
+
+7
+
+din Regulamentul BNR—CNVM nr. 24/29/2006, prin raportare la
+prevederile art. 27 alin. (2)—(5), începând cu cel puțin un an
+înainte de data la care cererea de aprobarea a utilizării abordării
+avansate de evaluare este transmisă Băncii Naționale a
+României.
+Art. 22. — Autoevaluarea poate fi realizată de personalul
+unei funcții independente de evaluare a riscului, cu sprijinul, în
+cazul în care este necesar, al auditorilor interni.
+Art. 23. — (1) Anterior depunerii cererii de aprobare a utilizării
+abordării avansate de evaluare, respectiv în etapa de dezvoltare
+a modelului, instituțiile de credit trebuie să deruleze un program
+complet de validare internă, iar procesele de validare internă și
+rezultatele validării trebuie supuse unei examinări independente.
+(2) Instituțiile de credit trebuie să realizeze periodic o
+autoevaluare a stadiului de conformitate cu standardele și
+cerințele minime impuse de Banca Națională a României în
+vederea utilizării abordării avansate de evaluare.
+SECȚIUNEA a 6-a
+Alte aspecte privind cererea de aprobare
+
+Art. 24. — (1) Cererea de aprobare trebuie redactată în limba
+română.
+(2) Documentația ce însoțește cererea de aprobare trebuie
+întocmită într-o limbă sau în mai multe limbi stabilită/stabilite de
+comun acord de către Banca Națională a României, autoritățile
+competente din statele gazdă și instituția de credit. Pentru
+documentele redactate într-o limbă străină se va prezenta și
+traducerea legalizată a acestora. Pentru documentele redactate
+într-o limbă străină de circulație internațională, Banca Națională
+a României poate excepta, de la caz la caz, aplicarea cerinței
+privind traducerea legalizată.
+Art. 25. — (1) Atât în contextul cererii inițiale, cât și ulterior,
+instituția de credit trebuie să pună la dispoziția Băncii Naționale
+a României orice informații mai detaliate, inclusiv documentele
+rezultate în contextul art. 10, ca și toată documentația internă, la
+solicitarea acesteia din urmă.
+(2) În cazul în care o instituție de credit apreciază că dispune
+de documente interne suplimentare celor menționate în
+prezentul capitol, relevante pentru obținerea aprobării, aceasta
+trebuie să transmită Băncii Naționale a României lista
+documentelor respective, odată cu cererea de aprobare.
+Art. 26. — (1) În cazul în care o instituție de credit nu
+furnizează Băncii Naționale a României o parte din
+documentația solicitată în baza art. 6 sau documentația și/sau
+cererea de aprobare transmise acesteia nu îndeplinesc cerințele
+prevăzute în prezentul capitol, Banca Națională a României
+consideră solicitarea instituției de credit ca incompletă.
+(2) Banca Națională a României și, după caz, autoritățile
+competente implicate realizează o evaluare preliminară a întregii
+solicitări, respectiv a cererii de aprobare și a documentației
+însoțitoare, imediat după primire. Banca Națională a României
+notifică instituția de credit cu privire la caracterul complet al
+solicitării.
+(3) În cazul cererilor de aprobare formulate în condițiile
+prevăzute la art. 182 alin. (1) sau la art. 193 alin. (1) din
+Ordonanța de urgență a Guvernului nr. 99/2006, aprobată cu
+modificări și completări prin Legea 227/2007, cu modificările și
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 911/24.XII.2009
+
+completările ulterioare, și în condițiile în care Banca Națională a
+României este autoritatea responsabilă cu supravegherea pe
+bază consolidată, perioada de 6 luni stabilită la art. 182 alin. (3),
+respectiv la art. 193 alin. (3) din ordonanța menționată începe să
+curgă de la data primirii de către Banca Națională a României a
+unei solicitări — respectiv, cerere de aprobare și documentație
+însoțitoare — complete din perspectiva prezentului regulament.
+(4) În situația prevăzută la alin. (3), Banca Națională a
+României confirmă începerea curgerii termenului de 6 luni.
+CAPITOLUL III
+Standarde de utilizare a abordării avansate de evaluare
+în aplicarea și în completarea dispozițiilor secțiunii a 4-a
+din cap. II al Regulamentului BNR—CNVM nr. 24/29/2006
+SECȚIUNEA 1
+Standarde calitative
+
+Art. 27. — (1) Pentru îndeplinirea testului de utilizare
+prevăzut la art. 19 alin. (2) din Regulamentul BNR—CNVM
+nr. 24/29/2006, o instituție de credit trebuie să ia în considerare
+cel puțin principiile generale prevăzute de alin. (2)—(5).
+(2) Scopul și utilizarea abordării avansate de evaluare nu
+trebuie să fie limitate la determinarea cerinței de capital
+reglementate.
+(3) Abordarea avansată de evaluare trebuie să evolueze pe
+măsură ce instituția de credit dobândește experiență în soluțiile
+și tehnicile de administrare a riscului operațional.
+(4) Abordarea avansată de evaluare trebuie să sprijine și să
+îmbunătățească administrarea riscului operațional în cadrul
+instituției de credit.
+(5) Utilizarea abordării avansate de evaluare trebuie să
+furnizeze instituției de credit beneficii în administrarea și
+controlul riscului operațional.
+(6) Instituțiile de credit trebuie să poată demonstra Băncii
+Naționale a României modul și gradul de îndeplinire a testului de
+utilizare la toate nivelurile organizaționale, prin prezentarea de
+dovezi convingătoare.
+(7) Instituțiile de credit trebuie să îndeplinească prevederile
+art. 19 alin. (2) din Regulamentul BNR—CNVM nr. 24/29/2006
+pe bază continuă, inclusiv pe o perioadă de cel puțin un an
+înainte de data la care cererea de aprobarea a utilizării abordării
+avansate de evaluare este transmisă Băncii Naționale a
+României.
+Art. 28. — (1) Pentru un cadru de administrare a activității
+solid, procesul de luare a deciziilor aferente administrării riscului
+operațional trebuie formalizat în mod clar în cadrul fiecărei
+instituții de credit, în ceea ce privește ierarhia și nivelul de
+responsabilitate.
+(2) Structura de conducere a unei instituții de credit trebuie
+să aibă o înțelegere generală a sistemelor de cuantificare a
+riscului operațional și o înțelegere detaliată a rapoartelor de
+management aferente care i-au fost predate, precum și a
+modului în care riscul operațional are impact asupra instituției
+de credit.
+(3) Fără a aduce atingere prevederilor alin. (4), în vederea
+îmbunătățirii înțelegerii sistemului de cuantificare a riscului
+operațional de către membrii organelor cu funcție de
+
+supraveghere și a îmbunătățirii eficienței, organele cu funcție de
+supraveghere pot, acolo unde este adecvat, să stabilească
+comitete care să le asiste cu privire la anumite aspecte ale
+cadrului aferent abordării avansate de evaluare; organele cu
+funcție de conducere, la rândul lor, pot delega anumite atribuții.
+(4) Organele cu funcție de supraveghere poartă răspunderea
+finală pentru cadrul aferent abordării avansate de evaluare
+utilizat de către instituția de credit și trebuie să aibă o cunoaștere
+și o conștientizare generale ale cadrului; organele cu funcție de
+conducere poartă responsabilitatea dezvoltării și implementării
+cadrului și, de asemenea, trebuie să aibă o cunoaștere și o
+conștientizare generale ale acestuia.
+Art. 29. — Structura de conducere este responsabilă de
+aprobarea tuturor aspectelor semnificative ale cadrului de
+ansamblu aferent riscului operațional, printre care se regăsesc
+următoarele:
+a) activitățile direcționate către identificarea, evaluarea și/sau
+cuantificarea, monitorizarea, controlul și diminuarea riscului
+operațional;
+b) politicile și strategiile de administrare proactivă a riscului
+operațional;
+c) structura organizațională a funcțiilor de control; și
+d) stabilirea nivelurilor de risc acceptabil.
+Art. 30. — (1) Structura de conducere este responsabilă
+pentru luarea de decizii formale cu privire la implementarea
+abordării avansate de evaluare.
+(2) Pentru scopurile alin. (1) se includ aprobarea de
+ansamblu a proiectului, specificarea obiectivelor și desemnarea
+structurilor organizaționale responsabile cu implementarea; o
+planificare în timp a etapelor necesare și o estimare a costurilor
+și beneficiilor aferente trebuie furnizate odată cu aprobarea
+proiectului.
+Art. 31. — În vederea exercitării de către organele cu funcție
+de supraveghere a supravegherii efective, organele cu funcție
+de conducere trebuie să notifice organele cu funcție de
+supraveghere sau un comitet desemnat al acestora din urmă cu
+privire la modificările sau excepțiile semnificative de la politicile
+stabilite, care vor avea impact semnificativ asupra proceselor
+de administrare și a sistemelor de cuantificare ale riscului
+operațional ale instituției de credit.
+Art. 32. — (1) Atât organele cu funcție de supraveghere, cât
+și organele cu funcție de conducere trebuie să se implice, pe
+bază continuă, în supravegherea procedurilor de control și a
+sistemelor de cuantificare adoptate de funcția de administrare a
+riscului operațional, pentru a asigura că acestea sunt adecvate
+și că procesele și sistemele de administrare și cuantificare ale
+riscului operațional în ansamblu rămân eficace în timp.
+(2) Pentru obiectivul indicat la alin. (1), organele cu funcție de
+supraveghere trebuie să se implice, pe bază continuă, în
+supravegherea procedurilor de control ale auditului intern.
+Art. 33. — Organele cu funcție de conducere trebuie să
+asigure că următoarele sarcini sunt îndeplinite:
+a) asigurarea solidității proceselor de administrare a riscului
+operațional;
+b) informarea organelor cu funcție de supraveghere — sau a
+unui comitet desemnat al acestora — asupra modificărilor
+semnificative sau excepțiilor de la politicile stabilite, care vor
+avea impact semnificativ asupra operațiunilor și profilului de risc
+operațional ale instituției de credit;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 911/24.XII.2009
+c) identificarea și evaluarea principalilor determinanți ai
+riscului, pe baza informațiilor furnizate de către funcția de
+administrare a riscului operațional;
+d) stabilirea atribuțiilor funcției de administrare a riscului
+operațional și evaluarea adecvării abilităților și competențelor
+profesionale ale personalului aferent acesteia;
+e) monitorizarea și administrarea tuturor surselor de
+potențiale conflicte de interese;
+f) stabilirea de canale de comunicație eficace în vederea
+asigurării familiarizării întregului personal cu procedurile și
+politicile relevante;
+g) definirea conținutului raportărilor către organele cu funcție
+de supraveghere sau către diferite structuri desemnate ale
+acestora;
+h) examinarea de rapoarte de audit intern cu privire la
+sistemele și procesele de cuantificare și administrare ale riscului
+operațional; și
+i) evaluarea în mod adecvat, anterior introducerii, a riscului
+operațional inerent ariilor noi — produse, activități, procese și
+sisteme — și identificarea riscurilor legate de dezvoltarea unui
+produs nou și alte modificări semnificative în vederea asigurării
+că profilurile de risc ale liniilor de produs sunt actualizate cu
+regularitate.
+Art. 34. — (1) Raportarea aferentă riscului operațional trebuie
+să constituie o parte esențială a sistemului de raportare internă
+și trebuie să sprijine administrarea proactivă a riscului
+operațional.
+(2) Organele cu funcție de conducere trebuie să asigure
+adecvarea continuă a cadrului de raportare.
+Art. 35. — Destinatarii raportării aferente riscului operațional
+trebuie să fie organele cu funcție de supraveghere, organele cu
+funcție de conducere, auditul intern, comitetele care asistă
+organele cu funcție de supraveghere și, dacă este cazul,
+funcțiile interne responsabile cu identificarea, evaluarea,
+monitorizarea și diminuarea/controlul riscului operațional, funcții
+interne ce pot include, spre exemplu, funcții operative, funcții
+centralizate — cum ar fi funcția IT sau funcția contabilă — și
+funcții de risc.
+Art. 36. — (1) Frecvența și conținutul raportării trebuie
+aprobate în mod formal de structura de conducere.
+(2) Frecvența, conținutul și formatul raportării trebuie să
+depindă de destinatar și de modul în care informațiile vor fi
+utilizate; informațiile furnizate trebuie să fie suficient de clare și
+exacte pentru ca destinatarii acestora să le interpreteze corect,
+în special în ceea ce privește rezultatele generate de model.
+(3) Sfera de cuprindere a informațiilor incluse în raportarea
+internă poate varia în funcție de natura, dimensiunea și gradul
+de complexitate ale activității, ca și ale instituției de credit, cu
+respectarea regulii generale potrivit căreia cu cât o activitate
+prezintă un risc mai ridicat, cu atât informațiile furnizate trebuie
+să fie mai detaliate; frecvența și formatul raportării interne
+trebuie să fie corespunzătoare nivelului de risc.
+Art. 37. — (1) Instituția de credit este responsabilă de
+proiectarea cadrului de raportare.
+(2) Raportarea poate include:
+a) estimări ale capitalului reglementat și ale celui economic;
+b) practici, proceduri și politici de administrare noi sau
+îmbunătățite;
+
+9
+
+c) strategii de transfer al riscului și de diminuare a acestuia;
+d) expunerea la riscul operațional;
+e) istoricul de pierderi interne și, în cazul în care prezintă
+relevanță, istoricul de pierderi externe;
+f) identificarea și evaluarea ariilor de vulnerabilitate; și
+g) îmbunătățirea calității sistemelor și proceselor de
+cuantificare și administrare ale riscului operațional.
+Art. 38. — (1) Funcția de administrare a riscului operațional
+trebuie să conceapă, să dezvolte, să implementeze și să
+execute procesele și sistemele de administrare și cuantificare
+ale riscului operațional.
+(2) Funcția de administrare a riscului operațional trebuie să
+asigure cu regularitate că procesele de cuantificare și sistemele
+de administrare a riscului operațional, precum și toate
+componentele acestora funcționează conform planificărilor.
+(3) Funcția de administrare a riscului operațional trebuie să
+dispună de suficiente resurse și competențe în metodele de
+cuantificare și administrare ale riscului operațional și trebuie să
+cunoască procesele instituției.
+Art. 39. — Funcția de administrare a riscului operațional
+trebuie să asigure că următoarele atribuții și arii, printre altele,
+sunt îndeplinite sau acoperite pe bază continuă:
+a) procesele relaționate cu definirea, formalizarea și
+colectarea celor 4 elemente ale abordării avansate de evaluare;
+b) metodologia de cuantificare;
+c) sistemele de monitorizare și raportare;
+d) verificarea îndeplinirii standardelor și cerințelor minime
+impuse de Banca Națională a României în vederea utilizării
+abordării avansate de evaluare și, îndeosebi, a testului de
+utilizare;
+e) procesele de cuantificare a riscului operațional și de
+alocare, incluzând calculul oricăror ajustări (pierdere așteptată,
+dependență, asigurare), în cazul în care se dispune de date
+suficiente — testare ex-post (backtesting) și analiză tip referință
+(benchmarking) și metodologia pentru cheile de alocare.
+Art. 40. — (1) Ori de câte ori este posibil, personalul
+responsabil cu validarea internă a sistemelor de cuantificare și
+a proceselor de administrare nu trebuie să fie același cu
+personalul responsabil cu proiectarea acestora.
+(2) Rolul de validare a proceselor de administrare și a
+sistemelor de cuantificare aferente abordării avansate de
+evaluare poate fi îndeplinit de către aceeași funcție cu cea
+implicată în proiectarea, dezvoltarea și implementarea cadrului
+aferent riscului operațional doar în mod excepțional și/sau
+temporar.
+(3) Orice lipsă potențială de obiectivitate trebuie compensată
+printr-o examinare independentă în conformitate cu art. 69
+alin. (1) lit. e).
+(4) Instituțiile de credit trebuie să treacă la un proces de
+validare internă independent imediat ce este posibil.
+Art. 41. — În cazul general al instituțiilor de credit care dispun
+de o unitate centrală pentru riscul operațional și de personal
+alocat riscului operațional în entitățile locale, instituțiile de credit
+trebuie să asigure faptul că acesta din urmă respectă
+instrucțiunile stabilite de către unitatea centrală pentru riscul
+operațional; responsabilitățile și liniile de raportare trebuie
+stabilite în mod clar.
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 911/24.XII.2009
+
+Art. 42. — (1) Auditul intern trebuie să dezvolte un program
+pentru examinarea cadrului aferent riscului operațional, care să
+acopere toate activitățile semnificative — inclusiv activitățile
+externalizate — ce expun instituția de credit la risc operațional
+semnificativ.
+(2) Examinarea cadrului de administrare a riscului
+operațional de către auditul intern trebuie să aibă ca rol principal
+asigurarea eficacității proceselor de administrare și a sistemelor
+de cuantificare a riscului operațional ale instituției de credit și a
+activității desfășurate de funcția de administrare a riscului
+operațional, precum și verificarea conformității cu standardele
+și cerințele minime impuse de Banca Națională a României în
+vederea utilizării abordării avansate de evaluare.
+(3) Auditul intern trebuie să furnizeze o evaluare a gradului
+de adecvare în ansamblu a cadrului aferent riscului operațional,
+precum și a funcției de administrare a riscului operațional;
+auditul intern trebuie să desfășoare examinări proprii în vederea
+evaluării gradului real de independență al funcției de
+administrare a riscului operațional.
+(4) Programul la care se face referire la alin. (1) trebuie
+actualizat cu regularitate în ceea ce privește dezvoltarea de
+procese interne pentru identificarea, evaluarea, monitorizarea
+și controlul/diminuarea riscului operațional și implementarea de
+produse, procese și sisteme noi care expun instituția de credit la
+risc operațional semnificativ.
+Art. 43. — (1) Este permisă o colaborare limitată între funcția
+de audit intern și funcția de administrare a riscului operațional,
+în special în cazul unor procese și activități relaționate cu riscul
+operațional în care auditul intern dispune de experiență bogată
+și abilități și competențe bine dezvoltate, precum analiza
+proceselor, colectările de date privind pierderile, evaluările
+riscului și controlului.
+(2) Colaborarea cu funcția de administrare a riscului
+operațional permisă în conformitate cu alin. (1) nu trebuie să
+afecteze independența auditului intern; indiferent de
+recomandările sau informațiile furnizate de auditul intern,
+proiectarea, implementarea și actualizarea cadrului aferent
+riscului operațional rămân responsabilitatea exclusivă a funcției
+de administrare a riscului operațional, iar funcția de audit intern
+nu trebuie să fie implicată în activitățile curente legate de riscul
+operațional.
+Art. 44. — Activitatea auditului intern trebuie să acopere
+aspecte precum adecvarea infrastructurii IT, a colectărilor de
+date și a mentenanței datelor; trebuie derulate teste special
+pentru verificarea procesului de introducere de date.
+Art. 45. — Personalul dedicat funcției de audit intern trebuie
+să posede abilitățile, competențele și experiența necesare și
+trebuie, în mod deosebit, să fie familiarizat cu strategia și
+procesele de identificare, evaluare, monitorizare și
+control/diminuare ale riscului operațional ale instituției de credit.
+
+SECȚIUNEA a 2-a
+Standarde cantitative
+SUBSECȚIUNEA 1
+Aspecte generale
+
+Art. 46. — (1) Modelul aferent abordării avansate de evaluare
+trebuie aplicat în mod consecvent claselor de risc operațional
+comparabile ale instituției de credit.
+(2) Datele de intrare și modul în care acestea sunt tratate
+trebuie să fie transparente și ușor de verificat.
+(3) Modelul trebuie să fie robust, în sensul includerii tuturor
+determinanților semnificativi ai profilului de risc operațional al
+instituției de credit, și trebuie să prezinte senzitivitate la
+modificările semnificative în profilul de risc operațional al
+instituției de credit.
+Art. 47. — (1) Modelul trebuie formalizat în detaliu, iar
+documentația aferentă trebuie să fie oportună și actualizată;
+documentația internă a instituției de credit trebuie îndeosebi să
+specifice în detaliu modul în care cele 4 elemente ale abordării
+avansate de evaluare sunt combinate și/sau ponderate și să
+includă o descriere a procesului de modelare care să ilustreze
+utilizarea celor 4 elemente.
+(2) Documentația internă privind aspectele cantitative ale
+abordării avansate de evaluare a unei instituții de credit trebuie
+să cuprindă aspectele prevăzute în anexă.
+Art. 48. — (1) Instituțiile de credit trebuie să adopte metode
+și proceduri adecvate pentru a garanta consecvența, coerența
+și calitatea etapelor de introducere de date, execuție și obținere
+de rezultate ale modelului.
+(2) Instituțiile de credit trebuie să depună eforturi pentru
+identificarea claselor de risc operațional în cadrul cărora valorile
+pierderilor sunt distribuite identic și independent.
+(3) Ca alternativă la dispozițiile alin. (2), în baza justificării,
+instituțiile de credit își pot ajusta datele în funcție de
+determinanții cunoscuți, în vederea simplificării procesului de
+modelare.
+(4) Execuția modelelor pentru generarea cerințelor de capital
+reglementate pentru riscul operațional trebuie să fie sprijinită de
+un proces coerent și transparent.
+(5) În vederea stabilirii unei cerințe de capital de ansamblu
+pentru riscul operațional credibile și justificabile, modelul trebuie
+construit astfel încât să se asigure producerea de rezultate cât
+mai stabile posibil; instituțiile de credit trebuie să fie capabile să
+evalueze acuratețea cerințelor de capital pentru riscul
+operațional.
+Art. 49. — (1) Pentru a genera o cuantificare a riscului
+operațional la un standard de rigurozitate comparabil cu un nivel
+de încredere de 99,9%, în situațiile în care realizarea unui calcul
+direct la nivelul de încredere de 99,9% afectează fiabilitatea și
+stabilitatea cuantificării riscului operațional, în vederea obținerii
+unei cuantificări mai stabile și mai fiabile, o instituție de credit
+poate calcula o cuantificare inițială la un nivel de încredere mai
+redus, pe care apoi să o transpună printr-o tehnică de ajustare
+de tip scaling la nivelul de încredere de 99,9% utilizând metode
+adecvate.
+(2) În cazul în care se utilizează o tehnică de ajustare de tip
+scaling, instituțiile de credit trebuie să poată demonstra
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 911/24.XII.2009
+soliditatea, adecvarea și fiabilitatea tehnicii de ajustare de tip
+scaling și analiza acuratețea de ansamblu a mecanismului de
+ajustare de tip scaling.
+(3) Instituția de credit trebuie să demonstreze că metoda de
+ajustare de tip scaling conduce la un rezultat plauzibil și fiabil;
+nivelul de încredere folosit nu trebuie interpretat în mod
+obligatoriu ca o demarcație între extremitate și restul distribuției.
+(4) Nivelul de încredere la care poate fi calculată
+cuantificarea inițială a riscului operațional trebuie să fie localizat
+în extremitatea dreaptă a distribuției pierderilor și trebuie să fie
+adecvat.
+Art. 50. — (1) Pentru a demonstra că pierderile așteptate
+sunt reflectate în mod adecvat în practicile interne pentru
+scopurile art. 20 alin. (1) din Regulamentul BNR — CNVM
+nr. 24/29/2006, o instituție de credit trebuie să respecte
+principiile generale prevăzute la alin. (2)—(6).
+(2) Modul în care instituția de credit estimează pierderile
+așteptate trebuie să fie consecvent cu modul în care cerința de
+capital, însumare a pierderilor așteptate și a pierderilor
+neașteptate, este calculată prin utilizarea modelului aferent
+abordării avansate de evaluare, pentru care a fost obținută
+aprobare.
+(3) Acoperirile pentru pierderile așteptate trebuie să fie
+substitute clare de capital sau elemente care sunt, într-un alt
+mod, disponibile pentru a acoperi pierderile așteptate cu un nivel
+ridicat de certitudine pe un orizont de timp de un an.
+(4) În cazul în care acoperirea nu constă în capital deținut
+sau provizioane constituite în acest scop, aceasta este
+disponibilă doar pentru acele operațiuni cu pierderi cu natură de
+rutină, ce au un grad ridicat de previzibilitate și sunt rezonabil de
+stabile.
+(5) Acoperirea maximă trebuie să fie mai mică decât
+pierderea așteptată calculată pe baza distribuției complete a
+pierderilor prin utilizarea modelului aferent abordării avansate
+de evaluare pentru care a fost obținută aprobare.
+(6) Rezervele special constituite pentru pierderile cu impact
+negativ major din riscul operațional nu reprezintă acoperire
+acceptabilă pentru pierderile așteptate.
+(7) Instituțiile de credit trebuie să formalizeze cu claritate
+modul în care pierderile așteptate sunt cuantificate și reflectate
+în practicile lor interne, inclusiv modul în care oricare acoperiri
+pentru pierderile așteptate îndeplinesc principiile generale
+prevăzute la alin. (3)—(6).
+(8) Instituțiile de credit trebuie să justifice alegerea modului
+de estimare a pierderilor așteptate folosit, având în vedere
+natura distribuțiilor ce caracterizează riscul operațional.
+(9) În cazul indicat la alin. (4), instituțiile de credit trebuie să
+poată demonstra că procesul de estimare este aplicat în mod
+coerent și este consecvent în timp.
+Art. 51. — Instituțiile de credit care examinează și recunosc
+corelații în modelele aferente abordării avansate de evaluare
+pentru scopurile art. 20 alin. (5) din Regulamentul BNR —
+CNVM nr. 24/29/2006 trebuie să îndeplinească următoarele
+cerințe:
+a) fiecare estimare de risc operațional trebuie construită pe
+baza unui set de evenimente de pierdere și valori ale pierderilor
+(reale sau construite) care sunt în cea mai ridicată măsură
+posibil independente;
+
+11
+
+b) dependențele dintre evenimentele cu frecvență redusă și
+impact negativ major, situate la extremitatea distribuției, de
+obicei principalii determinanți ai estimărilor de risc operațional,
+trebuie studiate cu deosebită atenție;
+c) dată fiind natura diferită a evenimentelor situate în
+extremitatea distribuției și a celor situate în restul distribuției,
+trebuie avută în vedere posibila necesitate a utilizării unor
+instrumente calitative și cantitative diferite pentru determinarea
+și estimarea impactului structurilor efective de dependență
+asupra cerinței de capital;
+d) în cazul dependențelor dintre evenimentele situate în
+extremitatea distribuției pentru care este dificilă sau puțin
+pertinentă aplicarea validării cu tehnici cantitative dezvoltate
+pentru corelațiile dintre evenimentele cu frecvență ridicată și
+impact redus, soliditatea ipotezelor aferente dependențelor care
+au impact semnificativ asupra cuantificării de ansamblu aferente
+abordării avansate de evaluare trebuie demonstrată, cel puțin,
+prin tehnici calitative de validare și, unde este posibil, tehnici
+cantitative și/sau o formă de analiză prin simulare de criză
+(stress-test analysis);
+e) dependențele trebuie, în cea mai mare măsură posibilă,
+identificate și tratate direct în informațiile de introdus; procedurile
+de minimizare a impactului unor astfel de dependențe trebuie
+aplicate și formalizate cât mai clar posibil;
+f) în cadrul documentației aferente modelului trebuie
+identificate și justificate ipotezele aferente corelațiilor și trebuie
+inclusă evaluarea senzitivității modelului la aceste ipoteze.
+Art. 52. — Instituțiile de credit care nu examinează corelații
+în cadrul modelelor aferente abordării avansate de evaluare
+trebuie să calculeze cerința de capital de ansamblu ca sumă a
+cuantificărilor de risc operațional individuale rezultând din
+estimări de risc operațional diferite.
+Art. 53. — (1) Instituțiile de credit trebuie să stabilească
+modul în care cele 4 elemente esențiale la care se face referire
+la art. 20 alin. (3) din Regulamentul BNR — CNVM
+nr. 24/29/2006 sunt ponderate și combinate.
+(2) Procesele de evaluare a disponibilității celor 4 elemente
+trebuie să fie consecvente cadrului general de administrare a
+riscului al instituției de credit.
+SUBSECȚIUNEA a 2-a
+Colectarea datelor și utilizarea celor 4 elemente esențiale
+
+Art. 54. — (1) Instituțiile de credit trebuie să asigure calitatea
+datelor.
+(2) Instituțiile de credit trebuie să lucreze pe bază continuă
+pentru a asigura o calitate a datelor de care dispun suficient de
+ridicată pentru sprijinirea proceselor de administrare a riscului
+operațional și calculului cerințelor de capital.
+(3) Instituțiile de credit trebuie să stabilească standarde
+proprii pentru asigurarea calității datelor, standarde pe care
+trebuie să urmărească să le dezvolte și să le îmbunătățească în
+timp.
+(4) Instituțiile de credit trebuie să poată demonstra că
+respectă standarde ridicate în ceea ce privește integralitatea,
+adecvarea și acuratețea datelor colectate peste pragurile
+stabilite.
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 911/24.XII.2009
+
+(5) Instituțiile de credit trebuie să stabilească o politică
+explicită privind datele relaționate cu riscul operațional, politică
+ce ar putea face parte dintr-o politică generală privind datele.
+(6) Instituțiile de credit trebuie să formalizeze fluxurile
+operaționale, procedurile și sistemele legate de colectarea și
+stocarea datelor.
+Art. 55. — (1) Instituțiile de credit trebuie să dispună de
+politici privind toleranța față de orice date lipsă din cadrul datelor
+lor interne; instituțiile de credit trebuie să poată justifica integral
+abordările proprii privind ajustarea valorilor.
+(2) Instituțiile de credit care utilizează date calitative trebuie
+să poată furniza Băncii Naționale a României dovezi care să
+ateste faptul că sunt suficient de abilitate în utilizarea de date
+calitative, că au întreprins toate demersurile posibile pentru
+eliminarea distorsiunilor (biases), că datele calitative sunt
+relevante pentru variabile de risc stabilite exact și pentru
+obiectivele de risc proiectate.
+Art. 56. — (1) Instituțiile de credit trebuie să dispună de
+sisteme IT care să asigure următoarele:
+a) disponibilitate și mentenanță adecvată ale tuturor bazelor
+de date relevante;
+b) capacitate de modelare și calcul adecvată; și
+c) controale adecvate asupra procesului de colectare de
+date.
+(2) Sistemele IT ale instituțiilor de credit la care se face
+referire la alin. (1) trebuie incluse în planurile generale pentru
+situații neprevăzute, pentru a garanta recuperarea informațiilor;
+controalele implementate trebuie să prevină accesul
+persoanelor neautorizate și să asigure integritatea datelor.
+(3) Instituțiile de credit trebuie să întocmească un plan global
+cu toate punctele slabe ale datelor și sistemelor IT descoperite
+în timpul procesului de examinare și validare internă; instituțiile
+de credit trebuie să precizeze modul în care intenționează să
+corecteze sau să reducă punctele slabe.
+Art. 57. — (1) O funcție independentă trebuie să realizeze
+verificări minime pentru a asigura integralitatea datelor interne și
+relevanța datelor externe.
+(2) Pentru a asigura calitatea datelor, examinarea
+independentă realizată de către instituțiile de credit trebuie să
+cuprindă cel puțin următoarele:
+a) o examinare periodică a controalelor;
+b) o examinare a sistemelor prin care instituțiile de credit
+asigură îndeplinirea standardelor de calitate a datelor.
+(3) Instituțiile de credit trebuie să realizeze verificări ale
+coerenței, care să includă trasabilitatea surselor de date;
+discrepanțele trebuie investigate.
+Art. 58. — (1) Fără a aduce atingere prevederilor art. 21
+alin. (1) din Regulamentul BNR — CNVM nr. 24/29/2006,
+instituțiile de credit trebuie să ia în considerare faptul că o clasă
+de risc operațional caracterizată prin evenimente cu frecvență
+redusă poate necesita o perioadă de observare istorică mai
+mare de 5 ani în vederea colectării de date suficiente pentru a
+genera cuantificări ale riscului operațional fiabile.
+(2) Instituțiile de credit pot utiliza metode pentru a obține date
+suficiente, care să reflecte profilul actual de risc operațional, cum
+ar fi:
+a) reducerea impactului celor mai vechi și puțin relevante
+date interne prin tehnici de ponderare adecvate, prin utilizarea
+
+de indicatori cantitativi sau factori calitativi care să reflecte
+schimbările intervenite în mediul intern/extern al instituției de
+credit;
+b) suplimentarea datelor interne aferente celor mai recenți
+ani cu date externe aferente acelorași ani, provenind de la
+instituții/grupuri similare, ajustate în mod corespunzător;
+c) construirea de date privind pierderi din riscul operațional
+pentru anii trecuți prin intermediul datelor generate prin scenarii
+sau prin ajustare de tip scaling retrogradă a observațiilor
+interne/externe aferente celor mai recenți ani prin tehnici sau
+indicatori adecvați.
+(3) În cazul în care datele nu sunt suficiente, instituțiile de
+credit trebuie să facă estimări de risc prudente.
+Art. 59. — (1) Pentru scopul art. 21 alin. (4) din Regulamentul
+BNR — CNVM nr. 24/29/2006, instituțiile de credit trebuie să
+stabilească un tratament pentru pierderile din riscul operațional
+legate de riscul de credit și să formalizeze acest tratament în
+vederea evitării reducerii necorespunzătoare a cerinței de
+capital totale.
+(2) Pentru scopul art. 21 alin. (5) din Regulamentul BNR — CNVM
+nr. 24/29/2006, instituțiile de credit trebuie să formalizeze
+criteriile de identificare a pierderilor din riscul operațional care
+sunt legate de riscul de piață; în cazul evenimentelor și/sau
+pierderilor din riscul operațional legate de riscul de piață care
+fac parte din aria de cuprindere a riscului operațional, valoarea
+întreagă a pierderii înregistrate, incluzând partea de pierdere
+datorată condițiilor de piață adverse, trebuie considerată ca
+pierdere din riscul operațional.
+Art. 60. — (1) Instituțiile de credit sunt responsabile pentru
+stabilirea pragului pentru o clasă de risc operațional, în
+conformitate cu art. 21 alin. (7) din Regulamentul BNR — CNVM
+nr. 24/29/2006.
+(2) În stabilirea pragului pentru o clasă de risc operațional
+instituțiile de credit trebuie să dea dovadă de acuratețe, având
+în vedere faptul că acesta poate influența rezultatele modelului
+în mod considerabil, și pot întreprinde analize cost — beneficiu
+ale colectării de date privind pierderile aflate sub prag, fără a
+omite faptul că acesta este determinat de riscul și complexitatea
+inerente clasei.
+(3) Pragurile stabilite pentru clasele de risc operațional
+trebuie să fie rezonabile, nu trebuie să conducă la excluderea de
+date importante privind evenimentele de pierdere și nu trebuie
+să afecteze credibilitatea și acuratețea cuantificărilor riscului
+operațional.
+(4) Instituțiile de credit trebuie să poată furniza Băncii
+Naționale a României dovezi ale îndeplinirii prevederilor alin. (3).
+(5) Instituțiile de credit trebuie să evite distorsiuni (biases)
+posibile în estimarea de parametri ai modelului, luând în
+considerare în mod explicit în cadrul modelului faptul că setul
+de date pentru calcul este incomplet datorită prezenței
+pragurilor.
+Art. 61. — (1) O instituție de credit trebuie să dispună de o
+politică de identificare a pierderilor sau evenimentelor
+înregistrate în baza de date interne privind evenimentele de
+pierdere care trebuie incluse în setul de date pentru calcul,
+politică ce trebuie să asigure un tratament consecvent al datelor
+privind pierderile în cadrul întregii instituții de credit.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 911/24.XII.2009
+(2) Instituțiile de credit trebuie să fie capabile să separe în
+setul de date pentru calcul evenimentele din riscul operațional
+relaționate cu polițele de asigurare și alte mecanisme de transfer
+al riscului existente.
+(3) Pentru scopul alin. (1), instituțiile de credit trebuie să
+decidă cu privire la includerea evenimentelor cu pierdere
+recuperată prompt în setul de date pentru calcul; în cazul
+instituțiilor de credit care decid să nu includă evenimentele cu
+pierdere recuperată prompt în setul de date pentru calcul, dacă
+nu s-a produs decât o recuperare parțială, în setul de date
+pentru calcul se va include valoarea netă de recuperări.
+(4) Pierderile secvențiale trebuie incluse în setul de date
+pentru calcul ca sume ale pierderilor succesive înregistrate în
+perioade diferite.
+(5) Pierderile cu efect multiplu trebuie incluse în setul de date
+pentru calcul ca sume ale pierderilor asociate relaționate cu
+același eveniment cauzal; instituțiile de credit trebuie să
+formalizeze eventualele excepții și să le trateze în mod adecvat
+pentru a preveni diminuarea nenecesară a cerințelor de capital.
+(6) Evenimentele soldate cu câștiguri nu pot fi incluse în setul
+de date pentru calcul în sensul diminuării nenecesare a cerinței
+de capital.
+(7) Instituțiile de credit trebuie să stabilească proceduri
+pentru identificarea incidentelor sau evenimentelor nesoldate cu
+pierderi în vederea unei conștientizări mai bune a profilului de
+risc operațional al instituției de credit și a îmbunătățirii proceselor
+de administrare a riscului operațional.
+(8) Datele aferente evenimentelor cu pierdere recuperată
+prompt și evenimentelor soldate cu câștiguri pot fi utilizate în
+vederea unei conștientizări mai bune a profilului de risc
+operațional al instituției de credit și a îmbunătățirii proceselor de
+administrare a riscului operațional.
+Art. 62. — Îndeosebi în situațiile în care instituțiile de credit
+dispun de date interne limitate, precum cazul unor activități noi,
+acestea pot utiliza ca date externe pentru determinarea
+capitalului pentru riscul operațional informații obținute de la
+consorții care colectează date privind pierderile aflate peste
+praguri joase, apropiate de cele stabilite pe plan intern de către
+instituțiile participante, către care instituțiile participante au
+furnizat date clasificate omogen și care cuprind informații
+complete și fiabile.
+Art. 63. — (1) În cazul în care datele externe provenind de la
+consorții conforme cu cerințele stabilite în acest sens la art. 62
+sunt insuficiente pentru obținerea de informații privind
+evenimentele cu impact negativ major situate la extremitatea
+distribuției, în special privind cauzele acestora, instituțiile de
+credit pot recurge la surse publice pentru obținerea de informații
+suplimentare folositoare.
+(2) O instituție de credit care folosește numai date din surse
+publice trebuie să manifeste prudență deosebită pentru a
+asigura că acestea sunt adecvate, nedistorsionate (unbiased)
+și relevante pentru activitățile și profilul de risc operațional ale
+instituției.
+Art. 64. — Diferențele în dimensiunile instituțiilor sau alți
+factori individuali trebuie luate în considerare la includerea de
+date externe în sistemul de cuantificare, de exemplu prin
+formularea de ipoteze cu privire la care evenimente de pierdere
+
+13
+
+externe sunt relevante și la măsura în care datele trebuie
+ajustate printr-o tehnică de tip scaling sau în vreun alt mod.
+Art. 65. — (1) Instituțiile de credit pot utiliza analize de
+scenarii și pentru alte scopuri decât cel prevăzut de art. 23
+alin. (1) din Regulamentul BNR—CNVM nr. 24/29/2006, precum
+furnizarea de informații asupra expunerii de ansamblu a
+instituției de credit la riscul operațional.
+(2) Pentru a genera date verosimile și fiabile, instituțiile de
+credit trebuie să asigure un grad ridicat de repetabilitate a
+procesului de generare de date din scenarii, prin pregătire
+riguroasă și aplicare consecventă a rezultatelor cantitative și
+calitative.
+(3) Instituțiile de credit trebuie să asigure că procesul prin
+care scenariile sunt stabilite este menit să minimizeze în cea
+mai mare măsură posibilă subiectivitatea și distorsiunile
+(biases), în acest sens fiind necesară îndeplinirea îndeosebi a
+următoarelor cerințe:
+a) ipotezele folosite în scenarii trebuie să se bazeze cât mai
+mult posibil pe dovezi empirice; în construirea scenariului trebuie
+utilizate date interne și externe disponibile relevante;
+b) la alegerea numărului de scenarii de aplicat, instituțiile de
+credit trebuie să poată explica raționamentul care stă la baza
+stabilirii nivelului la care scenariile sunt analizate și/sau unităților
+în care acestea sunt analizate;
+c) ipotezele pentru generarea de analize de scenarii și
+procesul prin care scenariul este construit trebuie formalizate
+riguros.
+Art. 66. — (1) Factorii legați de mediul de afaceri și controlul
+intern trebuie, prin natura lor, să fie anticipativi (forward-looking)
+și în concordanță strânsă cu calitatea mediului de control intern
+și de operare al instituției de credit, trebuie să reflecte sursele
+potențiale de risc operațional și trebuie să furnizeze informații
+cu privire la modul în care riscul este diminuat sau amplificat de
+mediul intern și/sau extern și trebuie surprinși în mod adecvat în
+sistemul de cuantificare a riscului operațional.
+(2) Instituțiile de credit trebuie să formalizeze unde în cadrul
+sistemului de cuantificare a riscului operațional folosesc
+indicatori legați de mediul de afaceri și controlul intern, precum
+și raționamentul aferent.
+(3) Sistemul de cuantificare a riscului al unei instituții de credit
+trebuie să încorporeze cel puțin acei factori legați de mediul de
+afaceri și controlul intern care au o influență semnificativă
+asupra profilului de risc operațional al instituției de credit.
+(4) Fără a aduce atingere alin. (3) și, implicit, art. 24 alin. (1)
+din Regulamentul BNR—CNVM nr. 24/29/2006, dacă la
+implementarea pentru prima dată a sistemului de cuantificare
+nu este posibilă justificarea adecvării senzitivității estimărilor de
+risc datorită lipsei de dovezi empirice cu privire la relația dintre
+factorii legați de mediul de afaceri și controlul intern și expunerea
+la riscul operațional, instituțiile de credit trebuie să justifice cel
+puțin în mod calitativ adecvarea metodelor utilizate pentru
+încorporarea factorilor în sistemul de cuantificare.
+SECȚIUNEA a 3-a
+Asigurarea la riscul operațional și alte mecanisme de transfer
+al acestui risc
+
+Art. 67. — (1) Instituțiile de credit pot recunoaște impactul
+altor mecanisme de transfer al riscului dacă acestea sunt de o
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 911/24.XII.2009
+
+calitate comparabilă cu cea a protecției prin asigurare conformă
+cu art. 26 și 27 din Regulamentul BNR—CNVM nr. 24/29/2006,
+respectiv dacă acestea îndeplinesc cerințe similare celor
+aplicabile asigurării.
+(2) Instituțiile de credit trebuie să monitorizeze uzul de
+asigurare și alte mecanisme de transfer al riscului operațional,
+respectiv eficacitatea protecției prin acestea, și să recalculeze
+cerința de capital pentru riscul operațional dacă este cazul cu
+ocazia unei modificări semnificative în natura asigurării sau a
+protecției prin alte mecanisme de transfer al riscului.
+(3) Instituțiile de credit trebuie să notifice în scris Banca
+Națională a României cu privire la modificările substanțiale în
+protecția prin asigurare sau alte mecanisme de transfer al
+riscului operațional și, dacă este cazul, la implicațiile acestora
+asupra cerinței de capital pentru riscul operațional.
+(4) Activitățile externalizate nu trebuie considerate ca făcând
+parte din alte mecanisme de transfer al riscului operațional
+pentru scopurile art. 25 din Regulamentul BNR—CNVM
+nr. 24/29/2006.
+SECȚIUNEA a 4-a
+Validarea internă a abordării avansate de evaluare
+SUBSECȚIUNEA 1
+Sfera de cuprindere a validării interne întreprinse
+de instituțiile de credit
+
+Art. 68. — (1) O instituție de credit trebuie să dispună de un
+proces de validare internă.
+(2) Procesul de validare internă trebuie să includă verificarea
+fiabilității calculului cerinței de capital pentru riscul operațional,
+precum și verificarea faptului că sistemul de cuantificare este
+utilizat în procesele decizionale și în administrarea riscului
+operațional.
+Art. 69. — (1) O instituție de credit trebuie să respecte
+următoarele principii generale de validare:
+a) validarea internă este responsabilitatea instituției de credit;
+instituția de credit trebuie să depună ăcel mai bun efort” pentru
+a valida intern cadrul aferent abordării avansate de evaluare;
+b) instituția de credit trebuie să stabilească o metodologie
+clară pentru validarea internă; această metodologie trebuie să
+fie adecvată instituției și cadrului aferent abordării avansate de
+evaluare al acesteia și trebuie să fie formalizată în mod clar;
+c) tehnicile de validare internă trebuie să fie proporționale și
+să ia în considerare condițiile de operare și de piață în
+schimbare;
+d) validarea internă trebuie să cuprindă atât elemente
+cantitative, cât și elemente calitative;
+e) procesele de validare internă și rezultatele acesteia
+trebuie să facă obiectul unei examinări independente pentru a
+asigura că implementarea acestora este eficace; în cazul în care
+validarea internă este realizată de către persoane sau unități
+implicate în derularea sistemelor de cuantificare și a proceselor
+de administrare ale riscului operațional, examinarea va trata în
+mod expres obiectivitatea procesului și a rezultatelor acestuia.
+(2) Instituțiile de credit trebuie să aibă în vedere faptul că nu
+există o metodă de validare universală.
+
+Art. 70. — Frecvența validării interne trebuie stabilită în
+ultimă instanță în funcție de obiectul validării și importanța
+acestuia în cadrul sistemelor de cuantificare sau al proceselor
+de administrare ale riscului operațional ale instituției de credit.
+Art. 71. — Instituțiile de credit trebuie să analizeze periodic
+propriile metodologii de validare internă pentru a asigura că
+acestea rămân adecvate; în particular, anumite secțiuni ale
+sistemelor de cuantificare și ale proceselor de administrare ale
+riscului operațional trebuie revalidate, cel puțin dacă există o
+modificare semnificativă în profilul de risc operațional al instituției
+și/sau în metodologia/ipotezele modelului ori în procesele de
+administrare.
+SUBSECȚIUNEA a 2-a
+Validarea sistemelor de cuantificare a riscului operațional
+
+Art. 72. — (1) Procesul de validare internă al instituțiilor de
+credit trebuie să fie proporțional și să ia în considerare scopul
+specific pentru care sistemele de cuantificare a riscului
+operațional sunt utilizate.
+(2) Instituțiile de credit trebuie să asigure că informațiile
+introduse în sistemele de cuantificare a riscului operațional sunt
+exacte și complete într-o măsură rezonabil de ridicată.
+(3) O instituție de credit trebuie să adopte o abordare robustă
+cu privire la validare și trebuie să poată explica și justifica propria
+metodologie.
+(4) Validarea internă a sistemelor de cuantificare a riscului a
+unei instituții de credit trebuie să cuprindă atât elemente
+cantitative, cât și elemente calitative și trebuie să fie formalizată
+în mod clar; documentația aferentă trebuie să cuprindă un plan
+detaliat al metodologiei de validare, incluzând frecvența, și
+trebuie să evidențieze orice puncte slabe identificate.
+Art. 73. — Instituțiile de credit trebuie să respecte
+următoarele cerințe minime de validare în ariile relevante ale
+sistemelor de cuantificare a riscului operațional:
+a) instituțiile de credit trebuie să dispună de standarde clare
+pentru introducerea de date în propriile modele, standarde pe
+care trebuie să le respecte, în acest sens fiind avute în vedere
+art. 54, art. 55 alin. (1), art. 56 și 57;
+b) toate datele semnificative peste pragurile stabilite trebuie
+validate pentru atestarea faptului că sunt complete, adecvate și
+exacte; validarea trebuie să cuprindă toate tipurile de date: date
+reale, date construite, numere generate prin analize de scenarii,
+factori legați de mediile de afaceri și factori legați de controlul
+intern; îndeosebi pentru datele construite, validarea trebuie să
+ateste faptul că ipotezele sunt nedeplasate (unbiased) și că
+rezultatele sunt verosimile;
+c) instituțiile de credit trebuie să fie capabile să asigure
+validitatea datelor de introdus în model pe bază continuă;
+d) validarea modelului trebuie să asigure că relația dintre
+datele de introdus și rezultatele modelului este stabilă și că
+tehnicile aflate la baza modelului sunt transparente și intuitive;
+modelul trebuie să fie logic: la îmbunătățirea controlului,
+pierderea așteptată și/sau pierderea neașteptată ar trebui să se
+micșoreze, iar, ca urmare, ceteris paribus, ar trebui să existe o
+reducere aferentă a cerinței de capital reglementate;
+e) instituțiile de credit trebuie să poată asigura validitatea
+metodologiei modelului în etapa de dezvoltare și ulterior
+modificărilor semnificative în metodologie/ipoteze și trebuie să
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 911/24.XII.2009
+poată asigura validitatea rezultatelor modelului pe bază
+continuă.
+SUBSECȚIUNEA a 3-a
+Validarea proceselor de administrare a riscului operațional
+
+Art. 74. — Pentru a se asigura adecvarea cadrului de
+administrare a riscului operațional în vederea îndeplinirii
+scopurilor acestuia, ca și operarea cadrului conform așteptărilor
+conducerii, instituțiile de credit trebuie, ca parte a procesului de
+validare internă, să evalueze adecvarea proceselor de
+administrare a riscului.
+Art. 75. — (1) Validarea proceselor de administrare a riscului
+operațional trebuie să reprezinte un exercițiu continuu.
+(2) Instituțiile de credit trebuie să fie capabile să justifice
+Băncii Naționale a României modul în care îndeplinesc cerința
+prevăzută la alin. (1).
+(3) Tehnicile de validare utilizate de instituțiile de credit
+trebuie să includă verificarea următoarelor aspecte:
+a) integralitatea documentației aferente administrării riscului
+operațional;
+b) respectarea procedurilor de raportare de informații către
+conducere;
+c) îndeplinirea de către datele privind pierderile colectate a
+standardelor impuse privind datele;
+d) derularea de acțiuni subsecvente în mod eficace și
+oportun;
+e) urmărirea procedurilor de examinare și actualizare a
+cadrului de administrare a riscului operațional;
+f) concordanța rapoartelor de conformitate/cuprinzând date
+privind pierderile/cuprinzând indicatori-cheie ai riscului și a
+estimărilor de risc cu rezultatele autoevaluărilor calitative.
+CAPITOLUL IV
+Metodologia de alocare a capitalului
+Art. 76. — (1) În cazurile indicate la art. 18 alin. (1) din
+Regulamentul BNR—CNVM nr. 24/29/2006, instituțiile de credit
+trebuie să respecte prevederile alin. (2)—(6).
+(2) Metodologia la care se face referire în cadrul art. 18
+alin. (1) din Regulamentul BNR—CNVM nr. 24/29/2006 trebuie
+să realizeze alocarea capitalului deținut la nivelul consolidat al
+grupului pentru riscul operațional descendent către entitățile
+juridice implicate în procesul de calcul la nivel consolidat aferent
+abordării avansate de evaluare.
+(3) Instituțiile de credit trebuie să dispună de metodologii
+solide și raționale de alocare pe care să le implementeze în mod
+consecvent, just și cu integritate.
+(4) Instituțiile de credit trebuie să adopte mecanisme de
+alocare care să reflecte în mod corect nivelul de risc operațional
+al entităților juridice și în cadrul grupului, precum și contribuția
+efectivă a acestora la cerința de capital determinată la nivel
+consolidat.
+(5) Instituțiile de credit trebuie să depună eforturi pentru
+îmbunătățirea senzitivității la risc a tehnicilor de alocare a
+capitalului aferent riscului operațional, inclusiv ulterior obținerii
+aprobării de utilizare a abordării avansate de evaluare.
+(6) Instituțiile de credit trebuie să poată demonstra
+îndeplinirea alin. (3).
+
+15
+
+Art. 77. — Structura de conducere a fiecărei instituții de credit
+este responsabilă de realizarea unei evaluări proprii a riscului
+operațional, a mediului de activitate și a mediului de control ale
+instituției de credit și de asigurarea unei capitalizări adecvate a
+acesteia pentru riscul operațional, inclusiv prin luarea în
+considerare a eventualelor obstacole în transferul de capital
+dintre societatea-mamă și aceasta.
+CAPITOLUL V
+Dispoziții tranzitorii
+Art. 78. — (1) Instituțiile de credit care beneficiază de
+aprobarea de utilizare a abordării avansate de evaluare în
+scopul determinării cerinței de capital reglementate pentru riscul
+operațional anterior publicării prezentului regulament în
+Monitorul Oficial al României, Partea I, trebuie să finalizeze
+demersurile necesare în vederea conformării cu prevederile
+art. 8 și cu cele relevante ale cap. III și IV din regulament în
+termen de 6 luni de la data publicării sale.
+(2) Instituțiile de credit, persoane juridice române, pentru
+care există cereri de aprobare în curs de analiză la momentul
+publicării prezentului regulament în Monitorul Oficial al
+României, Partea I, trebuie să finalizeze demersurile necesare
+în vederea conformării cu prevederile art. 8 și cu cele relevante
+ale cap. III și IV în termen de 3 luni de la data publicării sale.
+(3) În cazul cererilor pentru obținerea aprobării de utilizare a
+abordării avansate de evaluare formulate în condițiile prevăzute
+la art. 182 alin. (1) sau la art. 193 alin. (1) din Ordonanța de
+urgență a Guvernului nr. 99/2006, aprobată cu modificări și
+completări prin Legea nr. 227/2007, cu modificările și
+completările ulterioare, și în condițiile în care Banca Națională a
+României este autoritatea competentă responsabilă cu
+supravegherea pe bază consolidată, precum și în cazul cererilor
+pentru obținerea aprobării de utilizare a abordării avansate de
+evaluare din partea instituțiilor de credit, persoane juridice
+române, care intenționează să determine cerința de capital
+pentru riscul operațional prin utilizarea abordării la nivel
+individual, cereri aflate în analiză la momentul publicării
+prezentului regulament în Monitorul Oficial al României, Partea I,
+instituțiile de credit trebuie să finalizeze demersurile necesare
+în vederea conformării cu prevederile relevante ale art. 5—7 și
+9—26.
+(4) În cazul instituțiilor de credit care intenționează să
+utilizeze abordarea avansată de evaluare în scopul determinării
+cerinței de capital reglementate pentru riscul operațional de la
+1 ianuarie 2011, perioada de cel puțin un an prevăzută la art. 27
+alin. (7) se va reduce în mod corespunzător.
+(5) Instituțiile de credit care intenționează să utilizeze
+abordarea avansată de evaluare în scopul raportării cerinței de
+capital reglementate pentru riscul operațional trebuie să facă,
+prin documentația transmisă Băncii Naționale a României,
+dovada îndeplinirii cerinței de a dispune de fonduri proprii cel
+puțin egale cu nivelul în cauză indicat la art. 4 din Regulamentul
+Băncii Naționale a României și al Comisiei Naționale a Valorilor
+Mobiliare nr. 13/18/2006, aprobat prin Ordinul Băncii Naționale
+a României și al Comisiei Naționale a Valorilor Mobiliare
+nr. 10/107/2006.
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 911/24.XII.2009
+CAPITOLUL VI
+Sancțiuni și dispoziții finale
+
+Art. 79. — În cazul în care o instituție de credit care a obținut
+aprobare de utilizare a abordării avansate de evaluare din
+partea Băncii Naționale a României nu mai îndeplinește
+cerințele și standardele relevante, aceasta trebuie să notifice
+Banca Națională a României în acest sens.
+
+Art. 80. — Nerespectarea dispozițiilor prezentului regulament
+atrage aplicarea măsurilor și/sau a sancțiunilor prevăzute la
+art. 226, 227 și 229 din Ordonanța de urgență a Guvernului
+nr. 99/2006, aprobată cu modificări și completări prin Legea
+nr. 227/2007, cu modificările și completările ulterioare.
+Art. 81. — Anexa face parte integrantă din prezentul
+regulament.
+
+Președintele Consiliului de administrație al Băncii Naționale a României,
+Mugur Constantin Isărescu
+
+București, 15 decembrie 2009.
+Nr. 25.
+ANEXĂ
+
+Aspecte cantitative ale abordării avansate de evaluare care trebuie cuprinse în documentația internă
+a unei instituții de credit
+1. Ipotezele implicite în model
+2. Modul în care au fost determinate clasele de risc
+operațional
+3. Modul în care date reale și construite sunt obținute și
+modul în care acestea sunt folosite sau încorporate în model
+4. Etapele de introducere, execuție și obținere de rezultate
+ale modelului
+5. Modul în care un standard de rigurozitate comparabil cu un
+nivel de încredere de 99,9% a fost respectat
+6. Modul în care pierderile așteptate și neașteptate au fost
+calculate; dacă și modul în care pierderile așteptate au fost
+reflectate în practicile interne
+7. Metodologia de agregare folosită pentru calculul estimării
+(sau cuantificării) globale de risc operațional a instituției de credit
+
+pe baza estimărilor (sau cuantificărilor) individuale de risc
+operațional. În mod special, documentația trebuie să detalieze
+dacă și modul în care corelațiile dintre estimările individuale de
+risc operațional au fost calculate și modul în care acestea au
+fost validate
+8. Dacă și modul în care impactul asigurării a fost recunoscut
+în cadrul modelului
+9. Procesul adoptat pentru validarea modelului, în special:
+criteriile de decizie și/sau testele statistice pentru identificarea
+situațiilor în care datele interne sunt considerate suficiente/
+insuficiente pentru calculul cuantificărilor riscului operațional
+10. Politica privind actualizarea modelului.
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+ăMonitorul Oficial” R.A., Str. Parcului nr. 65, sectorul 1, București; C.I.F. RO427282,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala ăUnirea” București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 021.318.51.29/150, fax 021.318.51.15, e-mail: marketing@ramo.ro, internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 021.411.58.33 și 021.410.47.30, fax 021.410.77.36 și 021.410.47.23
+Tiparul: ăMonitorul Oficial” R.A.
+Monitorul Oficial al României, Partea I, nr. 911/24.XII.2009 conține 16 pagini.
+
+Prețul: 3,20 lei
+
+&JUYDGY|436336]
+ISSN 1453—4495
+
+

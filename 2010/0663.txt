@@ -1,0 +1,4099 @@
+PARTEA I
+
+Anul 178 (XXII) — Nr. 663
+
+Marți, 28 septembrie 2010
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+SUMAR
+
+Nr.
+
+Pagina
+HOTĂRÂRI ALE GUVERNULUI ROMÂNIEI
+
+877.
+
+— Hotărâre privind interoperabilitatea sistemului
+feroviar ......................................................................
+
+2–18
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+211.
+
+675.
+
+— Ordin al ministrului administrației și internelor pentru
+aprobarea Dispozițiilor generale de apărare împotriva
+incendiilor la ateliere și spații de întreținere și reparații....
+
+19–31
+
+— Ordin al ministrului transporturilor și infrastructurii
+pentru publicarea acceptării Codului internațional
+din 2008 privind stabilitatea navei în starea intactă
+(Codul IS din 2008), adoptat de Organizația
+Maritimă Internațională prin Rezoluția MSC.267(85) a
+Comitetului Securității Maritime din 4 decembrie 2008
+
+32
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+
+HOTĂRÂRI ALE GUVERNULUI ROMÂNIEI
+GUVERNUL ROMÂNIEI
+
+HOTĂRÂRE
+privind interoperabilitatea sistemului feroviar
+În temeiul art. 108 din Constituția României, republicată,
+Guvernul României adoptă prezenta hotărâre.
+CAPITOLUL I
+Dispoziții generale
+ARTICOLUL 1
+Obiectivul și domeniul de aplicare
+
+(1) Prezenta hotărâre stabilește condițiile care trebuie să fie
+îndeplinite pentru realizarea interoperabilității sistemului feroviar
+din România cu sistemul feroviar al Uniunii Europene într-un
+mod care să asigure compatibilitatea cu dispozițiile Legii
+nr. 55/2006 privind siguranța feroviară, cu modificările ulterioare.
+Aceste condiții se referă la proiectarea, construirea, punerea în
+funcțiune, modernizarea, reînnoirea, exploatarea și întreținerea
+elementelor acestui sistem, precum și la calificarea profesională
+și condițiile de sănătate și de siguranță ale personalului care
+contribuie la exploatarea și întreținerea sa.
+(2) Urmărirea acestui obiectiv trebuie să conducă la definirea
+unui nivel optim de armonizare tehnică și să permită:
+a) facilitarea, perfecționarea și dezvoltarea serviciilor de
+transport feroviar internațional în cadrul Uniunii Europene și cu
+țări terțe;
+b) contribuția la crearea treptată a pieței interne de
+echipamente și servicii pentru construcția, reînnoirea,
+îmbunătățirea și exploatarea sistemului feroviar în Uniunea
+Europeană;
+c) contribuția la interoperabilitatea sistemului feroviar în
+Uniunea Europeană.
+(3) Prezenta hotărâre nu se aplică pentru:
+a) metrouri, tramvaie și alte sisteme feroviare ușoare;
+b) rețelele care sunt separate din punct de vedere funcțional
+de restul sistemului feroviar și sunt destinate exclusiv exploatării
+de către serviciile locale, urbane sau suburbane de transport de
+călători, precum și operatorilor de transport feroviar care
+operează exclusiv pe aceste rețele;
+c) infrastructura feroviară privată și vehiculele care sunt
+utilizate exclusiv pe o astfel de infrastructură și exclusiv în folosul
+proprietarului pentru propriile operațiuni de transport;
+d) infrastructura și vehiculele destinate pentru o utilizare strict
+locală, istorică sau turistică.
+(4) Domeniul de aplicare a specificației tehnice de
+interoperabilitate (STI) se extinde treptat, în conformitate cu
+art. 8 din Directiva 2008/57/CE a Parlamentului European și a
+Consiliului din 17 iunie 2008 privind interoperabilitatea sistemului
+feroviar în Comunitate (reformare), la întregul sistem feroviar,
+inclusiv accesul pe calea ferată la terminale și principalele
+instalații portuare care deservesc sau pot deservi mai mulți
+utilizatori, fără a aduce atingere derogărilor de la aplicarea STI
+prevăzute la art. 9.
+ARTICOLUL 2
+Definiții
+
+În înțelesul prezentei hotărâri, termenii și expresiile de mai
+jos au următoarele semnificații:
+a) sistemul feroviar transeuropean — sistemul feroviar
+convențional și cel de mare viteză, prevăzute la pct. 1 și,
+respectiv, la pct. 2 din anexa nr. 1;
+
+b) interoperabilitate — capacitatea sistemului feroviar de a
+permite deplasarea sigură și neîntreruptă a trenurilor care ating
+nivelurile necesare de performanță pentru aceste linii. Această
+capacitate depinde de toate condițiile tehnice, operaționale și
+de reglementare care trebuie îndeplinite pentru a respecta
+cerințele esențiale;
+c) vehicul — un vehicul feroviar care circulă pe propriile roți
+pe liniile de cale ferată, cu sau fără tracțiune. Un vehicul este
+alcătuit din unul sau mai multe subsisteme structurale și
+funcționale sau părți ale acestor subsisteme;
+d) rețea — liniile, stațiile, terminalele și orice echipamente
+fixe necesare pentru asigurarea exploatării continue și în condiții
+de siguranță a sistemului feroviar;
+e) subsisteme — rezultatul împărțirii sistemului feroviar
+prevăzut în anexa nr. 2. Aceste subsisteme, pentru care trebuie
+formulate cerințele esențiale, pot fi structurale sau funcționale;
+f) constituenți de interoperabilitate — orice componentă
+elementară, grup de componente, subansamblu sau ansamblu
+complet din echipamentul încorporat ori care se intenționează a
+fi încorporat într-un subsistem, de care depinde, direct sau
+indirect, interoperabilitatea sistemului feroviar. Noțiunea
+ăconstituent” acoperă atât obiectele corporale, cât și pe cele
+necorporale, precum programele de calculator;
+g) cerințe esențiale — toate condițiile precizate în anexa
+nr. 3, pe care trebuie să le îndeplinească sistemul feroviar,
+subsistemele și constituenții de interoperabilitate, inclusiv
+interfețele;
+h) specificație europeană — o specificație tehnică comună,
+un agrement tehnic european sau un standard național care
+transpune un standard european, definit în anexa XXI la
+Directiva 2004/17/CE a Parlamentului European și a Consiliului
+din 31 martie 2004 de coordonare a procedurilor de atribuire a
+contractelor de achiziții în sectoarele apei, energiei,
+transporturilor și serviciilor poștale;
+i) specificație tehnică de interoperabilitate (STI) — o
+specificație adoptată în conformitate cu prezenta hotărâre, pe
+care trebuie să o respecte fiecare subsistem sau parte de
+subsistem pentru a îndeplini cerințele esențiale și a asigura
+interoperabilitatea sistemului feroviar;
+j) organisme notificate — organismele responsabile pentru
+evaluarea conformității sau a aptitudinii de utilizare a
+constituenților de interoperabilitate ori pentru evaluarea
+procedurii de verificare ăCE” a subsistemelor;
+k) parametri de bază — orice condiție tehnică, operațională
+sau de reglementare care este esențială pentru
+interoperabilitate și care este specificată în STI aplicabile;
+l) caz special — orice parte a sistemului feroviar care
+necesită includerea unor dispoziții speciale în STI, temporare
+sau definitive, ca urmare a constrângerilor geografice,
+topografice ori de mediu urban sau de coerență în raport cu
+sistemul existent. Pot fi incluse, în special, linii și rețele de cale
+ferată izolate de rețeaua Uniunii Europene, gabaritul,
+ecartamentul sau entraxa liniilor de cale ferată și vehiculele
+destinate exclusiv utilizării locale, regionale ori istorice, precum
+și vehiculele provenite din țări terțe sau destinate acestora;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+m) modernizare — orice lucrare de modificare majoră a unui
+subsistem sau a unei părți a subsistemului care îmbunătățește
+performanțele generale ale subsistemului;
+n) reînnoire — orice lucrare majoră de înlocuire a unui
+subsistem sau a unei părți a subsistemului care nu modifică
+performanțele generale ale subsistemului;
+o) sistem feroviar existent — structura compusă din liniile și
+instalațiile fixe ale sistemului feroviar existent și vehiculele, de
+toate categoriile și originile, care se deplasează pe această
+infrastructură;
+p) înlocuire în cadrul întreținerii — orice înlocuire de
+componente cu piese având funcții și performanțe identice în
+cadrul întreținerii preventive sau de remediere;
+q) punere în funcțiune — toate operațiunile prin care un
+subsistem sau un vehicul este adus în starea de funcționare
+nominală;
+r) parte contractantă — orice entitate, publică ori privată, care
+comandă proiectarea și/sau construirea ori reînnoirea sau
+modernizarea unui subsistem. Entitatea în cauză poate fi un
+operator de transport feroviar, un administrator de infrastructură
+sau un deținător ori concesionarul responsabil pentru
+desfășurarea unui proiect;
+s) deținător — persoana sau entitatea care exploatează un
+vehicul ca mijloc de transport, fie că este proprietarul unui
+vehicul, fie că are dreptul de a-l utiliza, și care este înregistrată
+ca atare în Registrul național al vehiculelor (RNV) menționat la
+art. 30;
+ș) proiect într-un stadiu avansat de dezvoltare — orice
+proiect al cărui stadiu de planificare/construcție a atins un punct
+în care o schimbare în specificațiile tehnice ar fi inacceptabilă.
+Un astfel de impediment poate fi de natură juridică, contractuală,
+economică, financiară, socială sau de mediu și trebuie justificat
+în mod corespunzător;
+t) standard armonizat — orice standard european adoptat de
+unul dintre organismele europene de standardizare menționate
+în anexa I la Directiva 98/34/CE a Parlamentului European și a
+Consiliului din 22 iunie 1998 de stabilire a unei proceduri pentru
+furnizarea de informații în domeniul standardelor și
+reglementărilor tehnice și a normelor privind serviciile în
+societatea informațională în legătură cu un mandat din partea
+Comisiei elaborat în conformitate cu procedura la care se face
+trimitere în art. 6 alin. (3) din respectiva directivă și care, separat
+sau împreună cu alte standarde, furnizează o soluție privind
+conformitatea cu o prevedere legală;
+ț) autoritate națională de siguranță — o autoritate de
+siguranță, astfel cum este definită la art. 3 lit. g) din Legea
+nr. 55/2006, cu modificările ulterioare;
+u) tip — un tip de vehicul care definește caracteristicile de
+proiectare de bază ale vehiculului care fac obiectul unui singur
+certificat de omologare descris în modulul B din Decizia
+93/465/CEE a Consiliului din 22 iulie 1993 privind modulele
+diverselor faze ale procedurilor de evaluare a conformității și
+normele de aplicare și utilizare a mărcii de conformitate CE, care
+sunt propuse spre a fi utilizate în cadrul directivelor de
+armonizare tehnică;
+v) serii — un număr de vehicule identice aparținând unui
+singur tip de proiect;
+w) agenție — Agenția Feroviară Europeană, înființată prin
+Regulamentul (CE) nr. 881/2004 al Parlamentului European și al
+Consiliului din 29 aprilie 2004 privind înființarea unei Agenții
+Europene a Căilor Ferate (Regulamentul privind agenția);
+x) entitate responsabilă de întreținere — entitatea care
+răspunde de întreținerea unui vehicul și care este înregistrată
+ca atare în RNV.
+
+3
+
+ARTICOLUL 3
+Compatibilitate generală
+
+(1) Prezenta hotărâre are ca obiect dispozițiile care privesc,
+pentru fiecare subsistem, constituenții de interoperabilitate,
+interfețele și procedurile, precum și condițiile de compatibilitate
+generală a sistemului feroviar, necesare pentru realizarea
+interoperabilității sale.
+(2) Cu toate acestea, în cazul constituenților de
+interoperabilitate, incluzând interfețele, concordanța cu cerințele
+esențiale ale acestei hotărâri poate necesita utilizarea unor
+specificații europene individuale, elaborate în acest scop.
+ARTICOLUL 4
+Cerințe esențiale
+
+(1) Sistemul feroviar, subsistemele și constituenții de
+interoperabilitate, inclusiv interfețele, respectă cerințele
+esențiale aplicabile.
+(2) Specificațiile tehnice suplimentare prevăzute la art. 34 din
+Directiva 2004/17/CE a Parlamentului European și a Consiliului,
+necesare pentru a completa specificațiile europene sau alte
+standarde care se aplică la nivelul Uniunii Europene, nu trebuie
+să contravină cerințelor esențiale.
+CAPITOLUL II
+Specificații tehnice de interoperabilitate
+ARTICOLUL 5
+Conținutul STI
+
+(1) Fiecare subsistem intră sub incidența unei STI. După caz,
+un subsistem poate intra sub incidența mai multor STI, iar sub
+incidența unei STI pot intra mai multe subsisteme.
+(2) Subsistemele trebuie să corespundă cu STI în vigoare la
+data punerii lor în funcțiune, a modernizării sau a reînnoirii lor,
+în conformitate cu prezenta hotărâre; această concordanță este
+menținută în permanență pe durata utilizării subsistemului.
+(3) Ministerul Transporturilor și Infrastructurii poate să aprobe
+sau să propună spre aprobare, după caz, acte normative
+referitoare la utilizarea infrastructurilor pentru deplasarea
+vehiculelor care nu intră sub incidența STI.
+ARTICOLUL 6
+Adoptarea, revizuirea și publicarea STI
+
+(1) Ministerul Transporturilor și Infrastructurii participă la
+evaluarea soluțiilor tehnice aferente elaborării, adoptării și
+revizuirii STI prin furnizarea datelor solicitate, în conformitate cu
+prevederile art. 6 alin. (4) din Directiva 2008/57/CE a
+Parlamentului European și a Consiliului.
+(2) STI se adoptă și se revizuiesc de către Comisia
+Europeană și se publică în Jurnalul Oficial al Uniunii Europene.
+ARTICOLUL 7
+Deficiențe ale STI
+
+Dacă, după adoptarea unei STI, se constată că aceasta nu
+îndeplinește în totalitate cerințele esențiale, se aplică procedurile
+prevăzute la art. 7 din Directiva 2008/57/CE a Parlamentului
+European și a Consiliului.
+ARTICOLUL 8
+Extinderea domeniului de aplicare a STI
+
+(1) Până la intrarea în vigoare a extinderii domeniului de
+aplicare a STI la întreaga rețea feroviară:
+a) autorizațiile de punere în funcțiune a subsistemelor de
+vehicule și control-comandă și semnalizare la bord, a căror
+utilizare este prevăzută cel puțin parțial pe partea de rețea care
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+
+nu este încă cuprinsă în domeniul de aplicare al STI, pentru
+partea respectivă a rețelei și a subsistemelor de infrastructură,
+energie și control-comandă și semnalizare pe calea ferată pe
+acele părți de rețea care nu sunt încă cuprinse în domeniul de
+aplicare al STI se acordă în conformitate cu prevederile art. 8 din
+Legea nr. 55/2006, cu modificările ulterioare, sau, după caz, ale
+art. 17 din prezenta hotărâre;
+b) autorizațiile de punere în funcțiune a vehiculelor a căror
+utilizare este prevăzută uneori pe partea de rețea care nu este
+încă cuprinsă în domeniul de aplicare al STI, pentru partea
+respectivă a rețelei se acordă în conformitate cu prevederile
+art. 21—27 și cu prevederile art. 8 din Legea nr. 55/2006, cu
+modificările ulterioare, sau, după caz, ale art. 17 alin. (3) din
+prezenta hotărâre.
+(2) STI noi sau revizuite, adoptate în conformitate cu
+prevederile art. 8 alin. (2) din Directiva 2008/57/CE a
+Parlamentului European și a Consiliului, pot să nu fie aplicate în
+cazul proiectelor aflate într-un stadiu avansat de elaborare sau
+care fac obiectul unui contract în curs de derulare în momentul
+publicării grupului de STI relevante.
+ARTICOLUL 9
+Derogări
+
+(1) În absența unor cazuri specifice relevante, se poate
+excepta de la aplicarea uneia sau a mai multor STI în
+conformitate cu prezentul articol, în următoarele cazuri:
+a) pentru un proiect de subsistem nou, pentru reînnoirea ori
+modernizarea unui sistem existent sau pentru orice element
+prevăzut la art. 1 alin. (1) care se află într-un stadiu avansat de
+dezvoltare sau care face obiectul unui contract în curs de
+executare atunci când se publică aceste STI;
+b) pentru orice proiect de reînnoire sau modernizare a unui
+subsistem existent, în cazul în care gabaritul de încărcare,
+ecartamentul, spațiul dintre liniile de cale ferată sau tensiunea
+de alimentare a liniilor electrificate prevăzute în aceste STI nu
+sunt compatibile cu cele ale subsistemului existent;
+c) pentru un proiect de subsistem nou, de reînnoire sau
+modernizare a unui subsistem existent, în cazul în care rețeaua
+feroviară este separată ori izolată de mare sau separată ca
+urmare a unor condiții geografice speciale de rețeaua feroviară
+din restul Uniunii Europene;
+d) pentru orice reînnoire, extindere sau modernizare a unui
+subsistem existent, în cazul în care aplicarea acestor STI ar
+compromite viabilitatea economică a proiectului și/sau
+compatibilitatea sistemului feroviar;
+e) în cazul în care, în urma unui accident sau a unui dezastru
+natural, condițiile pentru refacerea rapidă a rețelei feroviare nu
+permit, din punct de vedere economic ori tehnic, aplicarea
+parțială sau totală a STI relevante;
+f) pentru vehiculele care circulă spre/dinspre țări terțe în care
+ecartamentul liniilor de cale ferată diferă de ecartamentul rețelei
+feroviare principale din Uniunea Europeană.
+(2) În toate cazurile menționate la alin. (1), Ministerul
+Transporturilor și Infrastructurii transmite Comisiei Europene un
+dosar cuprinzând informațiile prevăzute în anexa nr. 9.
+(3) În cazul menționat la alin. (1) lit. a), în termen de un an de
+la data intrării în vigoare a fiecărei STI, Ministerul Transporturilor
+și Infrastructurii transmite Comisiei Europene o listă de proiecte
+care se desfășoară pe teritoriul României și se află într-un stadiu
+avansat de dezvoltare.
+(4) În cazurile prevăzute la alin. (1) lit. a), c) și e) se pot aplica
+fără întârziere dispoziții alternative prevăzute în anexa nr. 9.
+(5) În cazurile prevăzute la alin. (1) lit. b), d) și f), în absența
+unei decizii a Comisiei Europene, cererea este considerată
+acceptată. Până la adoptarea deciziei Comisiei Europene, în
+cazul prevăzut la alin. (1) lit. f), se pot aplica dispoziții alternative
+prevăzute în anexa nr. 9.
+
+CAPITOLUL III
+Constituenți de interoperabilitate
+ARTICOLUL 10
+Introducerea pe piață a constituenților de interoperabilitate
+
+(1) Producătorii, comercianții și utilizatorii implicați iau toate
+măsurile necesare pentru a se asigura că constituenții de
+interoperabilitate:
+a) sunt introduși pe piață numai dacă permit realizarea
+interoperabilității în cadrul sistemului feroviar și respectă în
+același timp cerințele esențiale;
+b) sunt folosiți în domeniul lor de utilizare conform destinației
+și sunt instalați și întreținuți în mod corespunzător.
+Aceste dispoziții nu împiedică introducerea pe piață a acestor
+constituenți pentru alte aplicații.
+(2) Pe teritoriul României nu se admite interzicerea, limitarea
+ori împiedicarea introducerii pe piață a constituenților de
+interoperabilitate destinați utilizării în sistemul feroviar, dacă
+aceștia respectă prevederile prezentei hotărâri. În primul rând,
+nu se pot impune verificări care au fost deja efectuate în cadrul
+procedurii privind declarația ăCE” de conformitate sau de
+aptitudini de utilizare, ale cărei componente sunt prezentate în
+anexa nr. 4.
+ARTICOLUL 11
+Conformitatea și aptitudinile de utilizare
+
+(1) Se consideră că acei constituenți pentru care există
+declarația ăCE” de conformitate sau de aptitudini de utilizare
+respectă cerințele esențiale ale prezentei hotărâri.
+(2) Orice constituent de interoperabilitate este supus
+procedurii de evaluare a conformității și a aptitudinii de utilizare
+în scopul indicat în respectiva STI și este însoțit de certificatul
+corespunzător.
+(3) Se consideră că un constituent de interoperabilitate
+îndeplinește cerințele esențiale în cazul în care respectă
+condițiile prevăzute în respectiva STI sau în specificațiile
+europene corespunzătoare, realizate pentru respectarea
+acestor condiții.
+(4) Piesele de schimb pentru subsisteme care sunt deja puse
+în funcțiune în momentul intrării în vigoare a STI
+corespunzătoare pot fi instalate în aceste subsisteme fără a fi
+nevoie să facă obiectul procedurii prevăzute la alin. (2).
+(5) STI pot prevedea o perioadă tranzitorie pentru produsele
+feroviare identificate de STI respective ca constituenți de
+interoperabilitate care au fost deja introduse pe piață în
+momentul intrării în vigoare a STI. Acești constituenți trebuie să
+îndeplinească cerințele prevăzute la art. 10 alin. (1).
+ARTICOLUL 12
+Neconformitatea specificațiilor europene cu cerințele esențiale
+
+Atunci când se consideră că specificațiile europene utilizate
+direct sau indirect pentru realizarea obiectivului prezentei
+hotărâri nu îndeplinesc cerințele esențiale, Ministerul
+Transporturilor și Infrastructurii informează Comisia Europeană.
+ARTICOLUL 13
+Procedura pentru declarația ăCE” de conformitate
+sau de aptitudini de utilizare
+
+(1) Pentru a elibera declarația ăCE” de conformitate sau de
+aptitudini de utilizare a unui constituent de interoperabilitate,
+producătorul sau reprezentantul său autorizat din cadrul Uniunii
+Europene aplică dispozițiile prezentate în STI relevante.
+(2) În cazul în care STI corespunzătoare impune acest lucru,
+evaluarea conformității sau a aptitudinii de utilizare a unui
+constituent de interoperabilitate este efectuată de organismul
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+notificat căruia producătorul ori reprezentantul său autorizat din
+cadrul Uniunii Europene i-a prezentat cererea.
+(3) Atunci când constituenții de interoperabilitate intră sub
+incidența altor acte normative care au transpus directive ale
+Uniunii Europene, care privesc alte aspecte, declarația ăCE” de
+conformitate sau de aptitudini de utilizare precizează că acești
+constituenți de interoperabilitate respectă și cerințele acestor
+acte normative.
+(4) Atunci când nici producătorul, nici reprezentantul său
+autorizat din cadrul Uniunii Europene nu a respectat obligațiile
+care îi revin în conformitate cu dispozițiile alin. (1) și (3), aceste
+obligații revin oricărei persoane fizice sau juridice care introduce
+pe piață constituenți de interoperabilitate. Aceleași obligații se
+aplică oricărei persoane fizice sau juridice care asamblează
+constituenți de interoperabilitate ori părți ale acestora având
+diverse origini sau care produce constituenți de interoperabilitate
+pentru uz propriu, în sensul prezentei hotărâri.
+(5) Fără a aduce atingere dispozițiilor art. 14:
+a) în fiecare caz în care se constată că declarația ăCE” de
+conformitate a fost eliberată în mod necorespunzător
+producătorului sau reprezentantului său autorizat din cadrul
+Uniunii Europene i se solicită, în cazul în care este necesar, să
+aducă constituentul de interoperabilitate la o stare de
+conformitate și să nu mai încalce normele, în condițiile valabile
+pe teritoriul României;
+b) atunci când neconformitatea se menține, se adoptă toate
+măsurile adecvate pentru a restrânge sau a interzice
+introducerea pe piață a constituentului de interoperabilitate în
+cauză ori pentru a se asigura că acesta este retras de pe piață
+în conformitate cu procedurile prevăzute la art. 14.
+ARTICOLUL 14
+Neconformitatea constituenților de interoperabilitate
+cu cerințele esențiale
+
+(1) Atunci când se constată că este puțin probabil ca unul
+dintre constituenții de interoperabilitate care face obiectul
+declarației ăCE” de conformitate sau de aptitudini de utilizare și
+care a fost introdus pe piață să respecte cerințele esențiale dacă
+este utilizat cu destinația propusă, producătorii, comercianții și
+utilizatorii implicați iau măsurile necesare pentru a-i restrânge
+domeniul de aplicare, a interzice utilizarea sa sau pentru a-l
+retrage de pe piață. Ministerul Transporturilor și Infrastructurii
+informează de îndată Comisia Europeană cu privire la măsurile
+adoptate și motivează deciziile luate, precizând în special dacă
+lipsa conformității are drept cauză:
+a) neîndeplinirea cerințelor esențiale;
+b) aplicarea incorectă a specificațiilor europene, atunci când
+se are în vedere aplicarea unor astfel de specificații;
+c) inadecvarea specificațiilor europene.
+(2) Atunci când decizia prevăzută la alin. (1) este justificată
+prin existența unei lacune în specificațiile europene, se aplică
+procedura prevăzută la art. 12.
+(3) Atunci când un constituent de interoperabilitate care face
+obiectul declarației ăCE” de conformitate nu îndeplinește
+cerințele, Autoritatea de Siguranță Feroviară Română adoptă
+măsuri adecvate împotriva celor care au eliberat declarația, iar
+Ministerul Transporturilor și Infrastructurii informează Comisia
+Europeană și celelalte state membre ale Uniunii Europene cu
+privire la aceasta.
+
+5
+
+CAPITOLUL IV
+Subsisteme
+ARTICOLUL 15
+Procedura pentru punerea în funcțiune
+
+(1) Fără a aduce atingere prevederilor cap. V, punerea în
+funcțiune a acelor subsisteme structurale din componența
+sistemului feroviar care sunt amplasate sau exploatate pe
+teritoriul României trebuie să fie autorizată de Autoritatea de
+Siguranță Feroviară Română, înființată conform prevederilor
+Legii nr. 55/2006, cu modificările ulterioare. În acest scop
+Autoritatea de Siguranță Feroviară Română ia toate măsurile
+adecvate pentru a se asigura că aceste subsisteme pot fi puse
+în funcțiune numai dacă sunt proiectate, construite și instalate
+astfel încât, la integrarea în sistemul feroviar, să respecte
+cerințele esențiale privitoare la ele. În special se verifică dacă
+subsistemele sunt compatibile din punct de vedere tehnic cu
+sistemul în care urmează să fie integrate, respectiv integrarea în
+siguranță a subsistemelor în conformitate cu art. 4 alin. (3) și
+art. 6 alin. (3) din Legea nr. 55/2006, cu modificările ulterioare.
+(2) Autoritatea de Siguranță Feroviară Română verifică,
+înainte de punerea în funcțiune a acestor subsisteme, dacă
+acestea se conformează, după caz, dispozițiilor relevante din
+STI privind exploatarea și întreținerea.
+(3) După ce aceste sisteme sunt puse în funcțiune,
+verificarea se efectuează:
+a) pentru infrastructuri, în cadrul acordării și monitorizării
+autorizațiilor de siguranță în conformitate cu art. 11 din Legea
+nr. 55/2006, cu modificările ulterioare;
+b) pentru vehicule, în cadrul acordării și monitorizării
+certificatelor de siguranță în conformitate cu art. 10 din Legea
+nr. 55/2006, cu modificările ulterioare.
+În acest scop, se folosesc procedurile de evaluare și
+verificare stabilite în STI structurale și funcționale
+corespunzătoare.
+ARTICOLUL 16
+Libera circulație a subsistemelor
+
+Fără a aduce atingere dispozițiilor art. 15 alin. (1), pe teritoriul
+României nu se admite interzicerea, restrângerea sau
+împiedicarea construirii, punerii în funcțiune și exploatării
+subsistemelor structurale din componența sistemului de
+transport feroviar care respectă cerințele esențiale. În special
+nu se pot solicita verificări care au fost deja efectuate ca parte
+a procedurii de acordare a declarației de verificare ăCE” a
+subsistemelor, ale cărei elemente constitutive sunt prezentate
+în anexa nr. 5, sau într-un alt stat membru al Uniunii Europene,
+înainte sau după intrarea în vigoare a Directivei 2008/57/CE a
+Parlamentului European și a Consiliului, în vederea verificării
+conformității cu cerințe identice în condiții identice de exploatare.
+ARTICOLUL 17
+Conformitatea cu STI și normele naționale
+
+(1) Se consideră ca fiind interoperabile și îndeplinind
+cerințele esențiale referitoare la ele subsistemele structurale din
+componența sistemului feroviar care fac obiectul unei declarații
+de verificare ăCE”.
+(2) Verificarea interoperabilității, în conformitate cu cerințele
+esențiale, pentru un subsistem structural din componența
+sistemului feroviar se dovedește prin raportare la STI, atunci
+când acestea există.
+(3) Autoritatea de Siguranță Feroviară Română întocmește,
+pentru fiecare subsistem, o listă a normelor tehnice utilizate
+pentru aplicarea cerințelor esențiale și Ministerul Transporturilor
+și Infrastructurii transmite această listă Comisiei Europene, în
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+
+cazul în care nu există o STI relevantă, a fost notificată o
+derogare în temeiul art. 9 sau un caz special impune aplicarea
+unor norme tehnice care nu sunt incluse în STI relevantă.
+(4) Lista cu normele tehnice utilizate va fi transmisă ori de
+câte ori se modifică lista cu normele tehnice care trebuia
+notificată până la 30 aprilie 2005, în conformitate cu art. 16
+alin. (3) din Directiva 96/48/CE a Consiliului din 23 iulie 1996
+privind interoperabilitatea sistemului feroviar transeuropean de
+mare viteză și cu art. 16 alin. (3) din Directiva 2001/16/CE a
+Parlamentului European și a Consiliului din 19 martie 2001
+privind interoperabilitatea sistemului feroviar transeuropean
+convențional, după notificarea derogării sau după publicarea STI
+în cauză. Cu această ocazie, se desemnează și organismele
+responsabile pentru efectuarea, în cazul acestor norme tehnice,
+a procedurii de verificare ăCE” menționate la art. 18.
+(5) La solicitarea Comisiei Europene, Ministerul
+Transporturilor și Infrastructurii pune la dispoziție textul integral
+al normelor notificate.
+(6) Ministerul Transporturilor și Infrastructurii poate să opteze
+să nu notifice normele și restricțiile strict locale. În astfel de
+cazuri, normele și restricțiile respective se menționează în
+registrele de infrastructură prevăzute la art. 32.
+(7) Normele tehnice obligatorii sunt publicate și puse la
+dispoziția tuturor administratorilor de infrastructură, a
+operatorilor de transport feroviar, solicitanților de autorizații de
+punere în funcțiune într-un limbaj clar, care poate fi înțeles de
+părțile interesate.
+ARTICOLUL 18
+Procedura de emitere a declarației de verificare ăCE”
+
+(1) Pentru emiterea declarației de verificare ăCE” pentru
+subsisteme, solicitantul invită organismul notificat pe care l-a
+selectat în acest scop să aplice procedura de verificare ăCE”
+prevăzută în anexa nr. 6. Solicitantul poate fi partea contractantă
+sau producătorul ori reprezentantul său autorizat din cadrul
+Uniunii Europene.
+(2) Obligația organismului notificat responsabil de verificarea
+ăCE” a unui subsistem începe din faza de proiectare și acoperă
+întreaga perioadă de producție, până la faza de recepție
+dinaintea dării în exploatare a subsistemului. Aceasta include,
+de asemenea, verificarea interfețelor subsistemului în cauză cu
+sistemul în care este încorporat, pe baza informațiilor disponibile
+în STI relevantă și în registrele prevăzute la art. 31 și 32.
+(3) Organismul notificat este responsabil de redactarea
+dosarului tehnic care trebuie să însoțească declarația de
+verificare ăCE”. Acest dosar tehnic trebuie să conțină toate
+documentele necesare referitoare la caracteristicile
+subsistemului și, după caz, toate documentele care atestă
+conformitatea constituenților de interoperabilitate. Dosarul
+trebuie să conțină, de asemenea, toate elementele referitoare la
+condițiile și limitele de utilizare, precum și instrucțiuni referitoare
+la service, verificare continuă sau periodică, reglare și
+întreținere.
+(4) Organismul notificat poate emite declarații intermediare
+de verificare pentru anumite etape ale procedurii de verificare
+sau anumite părți ale subsistemului. În acest caz, se aplică
+procedura prevăzută în anexa nr. 6.
+(5) În cazul în care STI relevante permit acest lucru,
+organismul notificat poate emite certificate de conformitate
+pentru o serie de subsisteme sau anumite părți ale
+subsistemelor respective.
+ARTICOLUL 19
+Neconformitatea subsistemelor cu cerințele esențiale
+
+(1) Atunci când constată că un subsistem structural care face
+obiectul unei declarații de verificare ăCE” însoțite de dosarul
+
+tehnic nu este pe deplin conform cu prezenta hotărâre și, în
+special, nu îndeplinește cerințele esențiale, Autoritatea de
+Siguranță Feroviară Română poate solicita efectuarea de
+verificări suplimentare.
+(2) La solicitarea Autorității de Siguranță Feroviară Române,
+Ministerul Transporturilor și Infrastructurii informează imediat
+Comisia Europeană cu privire la verificările suplimentare
+solicitate și prezintă motivele care le justifică.
+(3) În informare se precizează dacă nerespectarea în
+întregime a prezentei directive se datorează:
+a) nerespectării cerințelor esențiale sau a unei STI ori
+aplicării incorecte a unei STI;
+b) caracterului inadecvat al unei STI.
+ARTICOLUL 20
+Punerea în funcțiune a subsistemelor existente
+după reînnoire sau modernizare
+
+(1) În cazul reînnoirii sau modernizării, entitatea contractantă
+ori producătorul transmite Autorității de Siguranță Feroviară
+Române un dosar care descrie proiectul. Autoritatea de
+Siguranță Feroviară Română examinează acest dosar și, ținând
+seama de strategia de punere în aplicare indicată în STI
+aplicabilă, decide dacă amploarea lucrărilor face necesară o
+nouă autorizație de punere în funcțiune în înțelesul prezentei
+hotărâri.
+(2) O autorizație nouă de punere în funcțiune este necesară
+ori de câte ori nivelul general de siguranță a subsistemului
+respectiv poate fi afectat negativ de lucrările avute în vedere. În
+cazul în care este necesară o autorizație nouă, Autoritatea de
+Siguranță Feroviară Română decide în ce măsură este
+necesară aplicarea STI în cazul proiectului. Autoritatea de
+Siguranță Feroviară Română adoptă decizia în cauză în termen
+de 4 luni de la depunerea dosarului complet de către solicitant.
+(3) Atunci când este necesară o autorizație nouă, iar STI nu
+este aplicată integral, pe baza solicitării Autorității de Siguranță
+Feroviară Române, Ministerul Transporturilor și Infrastructurii
+notifică următoarele informații Comisiei Europene:
+a) motivul pentru care STI nu este aplicată integral;
+b) caracteristicile tehnice care se aplică în locul STI;
+c) organismele responsabile cu aplicarea, în cazul acelor
+caracteristici, a procedurii de verificare ăCE” prevăzute la art. 18.
+CAPITOLUL V
+Vehicule
+ARTICOLUL 21
+Autorizația de punere în funcțiune a vehiculelor
+
+(1) Înainte de a fi utilizat într-o rețea, orice vehicul este
+autorizat în vederea punerii în funcțiune de către Autoritatea de
+Siguranță Feroviară Română competentă pentru rețeaua
+respectivă, cu excepția cazurilor în care prezentul capitol
+prevede altfel.
+(2) Un vehicul conform cu STI este autorizat în conformitate
+cu art. 22 sau 23.
+(3) Un vehicul care nu este conform cu STI este autorizat în
+conformitate cu art. 24 sau 25.
+(4) Un vehicul care este conform cu un tip autorizat este
+autorizat în conformitate cu art. 26.
+(5) O autorizație acordată în România este valabilă în toate
+celelalte state membre ale Uniunii Europene, fără a aduce
+atingere dispozițiilor art. 23 și 25 privind autorizațiile
+suplimentare. Prin ordin al ministrului transporturilor și
+infrastructurii se stabilesc condițiile în care sunt necesare
+autorizații suplimentare în conformitate cu dispozițiile relevante
+ale art. 23, în cazul vehiculelor conforme cu STI, sau cu art. 25,
+în cazul vehiculelor neconforme cu STI.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+(6) Orice cerere pentru autorizația de punere în funcțiune
+face obiectul unei decizii a Autorității de Siguranță Feroviară
+Române, în conformitate cu art. 22 și 23 sau cu art. 24 și 25.
+Autorizația de punere în funcțiune poate stipula condiții de
+utilizare și alte restricții.
+(7) Orice decizie negativă a Autorității de Siguranță Feroviară
+Române cu privire la punerea în funcțiune a unui vehicul feroviar
+se motivează în mod corespunzător. În termen de o lună de la
+primirea deciziei negative, solicitantul poate cere Autorității de
+Siguranță Feroviară Române revizuirea deciziei din motive
+justificate în mod corespunzător. În termen de două luni de la
+primirea contestației, Autoritatea de Siguranță Feroviară
+Română confirmă sau infirmă decizia. Dacă se confirmă decizia
+negativă, solicitantul poate cere instanțelor de contencios
+administrativ, potrivit reglementărilor legale în vigoare, revizuirea
+deciziei din motive justificate în mod corespunzător.
+(8) În cazul în care Autoritatea de Siguranță Feroviară
+Română nu adoptă în termenele stabilite o decizie prevăzută la
+art. 23 alin. (7) și la art. 25 alin. (5), se consideră că punerea în
+funcțiune a vehiculului feroviar în cauză a fost autorizată după
+expirarea unei perioade de 3 luni de la sfârșitul termenelor
+menționate. Autorizațiile acordate în temeiul prezentului alineat
+sunt valabile doar în rețeaua pentru care Autoritatea de
+Siguranță Feroviară Română nu a reacționat în termenele
+stabilite.
+(9) Autoritatea de Siguranță Feroviară Română care
+intenționează să revoce o autorizație de punere în funcțiune
+acordată de ea însăși sau o autorizație acordată de solicitant în
+conformitate cu alin. (8) utilizează procedura de revizuire a
+certificatelor de siguranță prevăzută la art. 10 alin. (5) din Legea
+nr. 55/2006 sau, după caz, procedura de revizuire a autorizațiilor
+de siguranță prevăzută la art. 11 alin. (3) din Legea nr. 55/2006.
+(10) În cazul unei proceduri de apel, instanța de contencios
+administrativ competentă prevăzută la alin. (7) poate solicita
+Agenției Feroviare Europene un aviz care, în acest caz, este
+emis în termen de o lună de la depunerea cererii și transmis
+solicitantului, instanței de contencios administrativ competente
+și Autorității de Siguranță Feroviară Române care refuză
+acordarea autorizației.
+(11) În cazul vehiculelor care rulează între România și o țară
+terță, pe o rețea al cărei ecartament este diferit de cel al rețelei
+principale din cadrul Uniunii Europene și pentru care se poate
+acorda o derogare în conformitate cu art. 9 alin. (5) sau care
+reprezintă cazuri specifice, normele naționale prevăzute la
+art. 22 alin. (2) lit. b) și la art. 24 alin. (2) lit. b) pot include
+acorduri internaționale în măsura în care sunt compatibile cu
+legislația Uniunii Europene.
+(12) Autorizațiile de punere în funcțiune care au fost acordate
+înainte de data intrării în vigoare a prezentei hotărâri, inclusiv
+autorizațiile emise în temeiul unor acorduri internaționale, în
+special RIC (Regolamento Internazionale Carozze) și RIV
+(Regolamento Internazionale Veicoli), rămân valabile în
+conformitate cu condițiile în care au fost acordate. Această
+dispoziție prevalează asupra art. 22—25.
+(13) Autoritatea de Siguranță Feroviară Română poate
+acorda autorizații de punere în funcțiune pentru o serie de
+vehicule. În acest scop, Autoritatea de Siguranță Feroviară
+Română informează solicitantul cu privire la procedura care
+trebuie urmată.
+(14) Autorizațiile de punere în funcțiune acordate în
+conformitate cu prezentul articol nu aduc atingere altor condiții
+impuse operatorilor de transport feroviar și administratorilor de
+infrastructură pentru exploatarea unor astfel de vehicule pe
+rețeaua relevantă în conformitate cu art. 9—11 din Legea
+nr. 55/2006.
+
+7
+
+ARTICOLUL 22
+Autorizația inițială de punere în funcțiune
+pentru vehiculele conforme cu STI
+
+(1) Prezentul articol se aplică vehiculelor conforme cu toate
+STI relevante în vigoare în momentul punerii în funcțiune, cu
+condiția ca o parte semnificativă dintre cerințele esențiale să fie
+prevăzute în respectivele STI și ca STI relevantă privind
+materialul rulant să fi intrat în vigoare și să fie aplicabilă.
+(2) Autorizația inițială se acordă de către Autoritatea de
+Siguranță Feroviară Română după cum urmează:
+a) atunci când toate subsistemele structurale ale vehiculului
+au fost autorizate în conformitate cu dispozițiile cap. IV,
+autorizația se acordă fără verificări suplimentare;
+b) în cazul vehiculelor care dispun de toate declarațiile ăCE”
+de verificare necesare, conform dispozițiilor art. 18, criteriile pe
+care Autoritatea de Siguranță Feroviară Română le poate
+verifica în scopul emiterii unei autorizații de punere în funcțiune
+pot avea în vedere doar următoarele aspecte:
+(i) compatibilitatea tehnică dintre subsistemele relevante ale
+vehiculului și integrarea lor în condiții de siguranță în
+conformitate cu art. 15 alin. (1);
+(ii) compatibilitatea tehnică dintre vehiculul și rețeaua în
+cauză;
+(iii) normele naționale aplicabile punctelor deschise;
+(iv) normele naționale aplicabile cazurilor specifice
+identificate în mod corespunzător în STI relevante.
+ARTICOLUL 23
+Autorizații suplimentare pentru punerea în funcțiune
+a vehiculelor conforme cu STI
+
+(1) Vehiculele care sunt pe deplin conforme cu STI în ceea
+ce privește toate aspectele subsistemelor relevante, fără cazuri
+specifice și fără puncte deschise legate strict de compatibilitatea
+tehnică dintre vehicul și rețea, nu trebuie să facă obiectul unei
+autorizații suplimentare pentru punerea în funcțiune atât timp
+cât circulă în rețele conforme cu STI în alte state membre ale
+Uniunii Europene sau în condițiile specificate în STI
+corespunzătoare.
+(2) În cazul vehiculelor care sunt puse în funcțiune în
+conformitate cu art. 22, dar care nu sunt prevăzute la alin. (1),
+Autoritatea de Siguranță Feroviară Română decide dacă pe
+teritoriul României sunt necesare autorizații suplimentare. În
+acest caz, se aplică prevederile alin. (3)—(7).
+(3) Solicitantul prezintă Autorității de Siguranță Feroviară
+Române un dosar privind vehiculul sau tipul de vehicul și
+utilizarea planificată în rețea. Dosarul conține următoarele
+informații:
+a) documente care dovedesc faptul că punerea în funcțiune
+a vehiculului a fost autorizată într-un alt stat membru al Uniunii
+Europene în conformitate cu art. 22;
+b) o copie a dosarului tehnic conform dispozițiilor anexei
+nr. 6. Acesta include, în cazul vehiculelor echipate cu
+înregistratoare de date, informații privind procedura de colectare
+a datelor, care să permită citirea și evaluarea, atât timp cât
+informațiile nu sunt armonizate de STI corespondentă;
+c) înregistrările în care este înscris istoricul întreținerii
+vehiculului și, dacă este cazul, al modificărilor tehnice efectuate
+după autorizare;
+d) dovezi referitoare la caracteristicile tehnice și operaționale
+care arată că vehiculul este compatibil cu infrastructurile și
+instalațiile fixe, inclusiv condițiile climatice, sistemul de
+alimentare cu energie, sistemul de control-comandă și
+semnalizare, ecartamentul liniilor și gabaritul infrastructurii,
+sarcina maximă admisă pe osie și alte constrângeri ale rețelei.
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+
+(4) Criteriile verificate de Autoritatea de Siguranță Feroviară
+Română pot viza doar următoarele aspecte:
+a) compatibilitatea tehnică dintre vehiculul și rețeaua în
+cauză, inclusiv normele naționale aplicabile punctelor deschise
+necesare pentru a asigura o astfel de compatibilitate;
+b) normele naționale aplicabile cazurilor specifice identificate
+în mod corespunzător în STI relevante.
+(5) Autoritatea de Siguranță Feroviară Română poate solicita
+furnizarea de informații suplimentare, efectuarea de analize de
+risc în conformitate cu prevederile art. 6 alin. (3) lit. a) din Legea
+nr. 55/2006 sau realizarea de teste pe rețea pentru a verifica
+criteriile prevăzute la alin. (4). Cu toate acestea, Autoritatea de
+Siguranță Feroviară Română poate efectua o astfel de verificare
+doar în temeiul normelor naționale aparținând grupei B sau C
+din acel document.
+(6) Autoritatea de Siguranță Feroviară Română definește,
+după consultarea solicitantului, domeniul de aplicare și
+conținutul informațiilor suplimentare, al analizelor de risc sau al
+testelor solicitate. Administratorul infrastructurii, prin consultare
+cu solicitantul, depune toate eforturile pentru a garanta că orice
+test se poate efectua în termen de 3 luni de la data depunerii
+cererii solicitantului. Dacă este cazul, Autoritatea de Siguranță
+Feroviară Română adoptă măsuri pentru ca testele să poată fi
+efectuate.
+(7) Toate cererile pentru o autorizație de punere în funcțiune
+depuse în conformitate cu prezentul articol fac obiectul unei
+decizii care este adoptată de Autoritatea de Siguranță Feroviară
+Română cât mai curând posibil, dar nu mai târziu de:
+a) două luni de la prezentarea dosarului prevăzut la alin. (3);
+b) după caz, o lună de la furnizarea oricăror informații
+suplimentare solicitate de Autoritatea de Siguranță Feroviară
+Română;
+c) după caz, o lună de la furnizarea rezultatelor oricăror teste
+solicitate de Autoritatea de Siguranță Feroviară Română.
+ARTICOLUL 24
+Autorizația inițială de punere în funcțiune
+pentru vehiculele neconforme cu STI
+
+(1) Prezentul articol se aplică vehiculelor care nu sunt
+conforme cu toate STI relevante în vigoare la data punerii lor în
+funcțiune, inclusiv vehiculelor care fac obiectul unor derogări,
+sau atunci când o parte semnificativă din cerințele esențiale nu
+a fost prevăzută în una sau mai multe STI.
+(2) Autorizația inițială se acordă de către Autoritatea de
+Siguranță Feroviară Română după cum urmează:
+a) pentru aspectele tehnice reglementate de o STI, dacă
+există, se aplică procedura de verificare ăCE”;
+b) pentru alte aspecte tehnice se aplică normele naționale
+notificate în temeiul art. 17 din prezenta hotărâre și al art. 8 din
+Legea nr. 55/2006, cu modificările ulterioare.
+(3) Autorizația inițială este valabilă numai în rețeaua de pe
+teritoriul României.
+ARTICOLUL 25
+Autorizații suplimentare de punere în funcțiune
+pentru vehiculele neconforme cu STI
+
+(1) În cazul vehiculelor a căror punere în funcțiune a fost
+autorizată într-un stat membru al Uniunii Europene în
+conformitate cu art. 21 alin. (12) sau cu art. 24, Autoritatea de
+Siguranță Feroviară Română poate hotărî, în conformitate cu
+prezentul articol, dacă pe teritoriul României sunt necesare
+autorizații suplimentare pentru punerea în funcțiune.
+(2) Solicitantul prezintă Autorității de Siguranță Feroviară
+Române un dosar tehnic privind vehiculul sau tipul de vehicul,
+
+împreună cu detalii privind utilizarea planificată în rețea. Dosarul
+conține următoarele informații:
+a) documente care dovedesc faptul că punerea în funcțiune
+a vehiculului a fost autorizată într-un alt stat membru al Uniunii
+Europene, împreună cu documentația privind procedura urmată
+pentru a demonstra că vehiculul a respectat cerințele de
+siguranță în vigoare, inclusiv, dacă este cazul, informații privind
+derogările acordate în conformitate cu art. 9;
+b) datele tehnice, programul de întreținere și caracteristicile
+funcționale. Acestea includ, în cazul vehiculelor echipate cu
+înregistratoare de date, informații privind procedura de colectare
+a datelor, care să permită citirea și evaluarea prevăzute la
+art. 20 alin. (2) lit. c) din Legea nr. 55/2006, cu modificările
+ulterioare;
+c) înregistrările în care este înscris istoricul exploatării și
+întreținerii vehiculului și, dacă este cazul, al modificărilor tehnice
+efectuate după autorizare;
+d) dovezi referitoare la caracteristicile tehnice și operaționale
+care arată că vehiculul este compatibil cu infrastructurile și
+instalațiile fixe, inclusiv condițiile climatice, sistemul de
+alimentare cu energie, sistemul de control-comandă și
+semnalizare, ecartamentul liniilor și gabaritul infrastructurii,
+sarcina maximă admisă pe osie și alte constrângeri ale rețelei.
+(3) Informațiile menționate la alin. (2) lit. a) și b) nu pot fi puse
+la îndoială de către Autoritatea de Siguranță Feroviară Română,
+cu excepția cazului în care aceasta poate demonstra, fără a
+aduce atingere art. 16, existența unui important risc de
+siguranță. După adoptarea documentului de referință prevăzut
+la art. 27, Autoritatea de Siguranță Feroviară Română nu poate
+invoca în acest sens niciuna dintre regulile din grupa A
+enumerate în acel document.
+(4) Autoritatea de Siguranță Feroviară Română poate solicita
+furnizarea unor informații suplimentare, efectuarea unor analize
+de risc în conformitate cu art. 6 alin. (3) lit. a) din Legea
+nr. 55/2006, cu modificările ulterioare, sau realizarea unor teste
+pe rețea pentru a verifica dacă informațiile prevăzute la alin. (2)
+lit. c) și d) respectă normele naționale în vigoare, notificate
+Comisiei Europene în conformitate cu art. 8 din Legea
+nr. 55/2006, cu modificările ulterioare, sau cu art. 17 din
+prezenta hotărâre. Cu toate acestea, după adoptarea
+documentului de referință prevăzută la art. 27, Autoritatea de
+Siguranță Feroviară Română poate efectua o astfel de verificare
+doar în temeiul normelor naționale aparținând grupei B sau C
+enumerate în acel document. Autoritatea de Siguranță Feroviară
+Română definește, după consultarea solicitantului, domeniul de
+aplicare și conținutul informațiilor suplimentare, al analizelor de
+risc sau al testelor solicitate. Administratorul infrastructurii, prin
+consultare cu solicitantul, depune toate eforturile pentru a
+garanta că orice test se poate efectua în termen de 3 luni de la
+data depunerii cererii solicitantului. Dacă este cazul, Autoritatea
+de Siguranță Feroviară Română adoptă măsuri pentru ca testele
+să poată fi efectuate.
+(5) Toate cererile pentru o autorizație de punere în funcțiune
+depuse în conformitate cu prezentul articol fac obiectul unei
+decizii care este adoptată de Autoritatea de Siguranță Feroviară
+Română cât mai curând posibil, dar în cel mult:
+a) 4 luni de la prezentarea dosarului tehnic prevăzut la
+alin. (2);
+b) dacă este cazul, două luni de la furnizarea informațiilor
+suplimentare sau a analizelor de risc solicitate de către
+Autoritatea de Siguranță Feroviară Română în conformitate cu
+prevederile alin. (4);
+c) dacă este cazul, două luni de la furnizarea rezultatelor
+testelor solicitate de către Autoritatea de Siguranță Feroviară
+Română în conformitate cu prevederile alin. (4).
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+ARTICOLUL 26
+Autorizarea unor tipuri de vehicule
+
+(1) Autoritatea de Siguranță Feroviară Română poate acorda
+autorizații pentru tipuri de vehicule.
+(2) Cu toate acestea, dacă autorizează un vehicul,
+Autoritatea de Siguranță Feroviară Română autorizează, în
+același timp, tipul de vehicul.
+(3) Un vehicul care este conform cu un tip deja autorizat în
+România este autorizat de Autoritatea de Siguranță Feroviară
+Română pe baza unei declarații de conformitate cu tipul în
+cauză, prezentată de solicitant, fără verificări suplimentare.
+Totuși, în cazul în care se modifică dispozițiile relevante ale STI
+și normele naționale pe baza cărora un tip de vehicul a fost
+autorizat, Autoritatea de Siguranță Feroviară Română decide
+dacă autorizațiile de tip acordate deja rămân valabile sau trebuie
+reînnoite. Criteriile pe care Autoritatea de Siguranță Feroviară
+Română le verifică în vederea reînnoirii unei autorizații de tip
+pot viza doar normele modificate. Reînnoirea autorizației de tip
+nu afectează autorizațiile de vehicule acordate deja pe baza
+tipurilor autorizate anterior.
+(4) Modelul de declarație de conformitate cu tipul este cel
+adoptat de Comisia Europeană.
+(5) Declarația de conformitate cu tipul se întocmește în
+conformitate cu:
+a) procedurile de verificare a STI relevante, pentru vehiculele
+conforme cu STI;
+b) procedurile de verificare definite în modulul D sau E din
+Decizia 93/465/CEE a Consiliului, pentru vehiculele neconforme
+cu STI. În cazul în care Comisia Europeană adoptă o procedură
+de verificare ad-hoc în conformitate cu procedura de
+reglementare cu control menționată la art. 29 alin. (3) din
+Directiva 2008/57/CE a Parlamentului European și a Consiliului,
+aceasta se aplică.
+(6) Solicitantul poate cere o autorizație de tip în mai multe
+state membre ale Uniunii Europene în același timp. În acest caz,
+Autoritatea de Siguranță Feroviară Română cooperează cu
+autoritățile naționale de siguranță implicate pentru simplificarea
+procedurii și reducerea la minimum a eforturilor administrative.
+(7) Autorizațiile de tip se înregistrează în Registrul european
+al tipurilor autorizate de vehicule în conformitate cu prevederile
+art. 31. Acest registru specifică statul sau statele
+membru/membre în care este autorizat un tip de vehicul.
+ARTICOLUL 27
+Clasificarea normelor naționale
+
+Pentru a facilita procedura de autorizare pentru punerea în
+funcțiune a vehiculelor prevăzută la art. 25, normele naționale
+sunt clasificate în conformitate cu prevederile anexei nr. 7.
+CAPITOLUL VI
+Organismele notificate
+ARTICOLUL 28
+Organismele notificate
+
+(1) Ministerul Transporturilor și Infrastructurii informează
+Comisia Europeană și celelalte state membre ale Uniunii
+Europene cu privire la organismele responsabile pentru
+îndeplinirea procedurii de evaluare a conformității sau
+aptitudinilor de utilizare prevăzute la art. 13 și a procedurii de
+verificare prevăzute la art. 18, indicând pentru fiecare organism
+domeniul de responsabilitate și numerele de identificare obținute
+în avans de la Comisia Europeană.
+(2) Ministerul Transporturilor și Infrastructurii aplică criteriile
+prevăzute în anexa nr. 8 pentru evaluarea organismelor ce
+urmează a fi notificate. Organismele care îndeplinesc criteriile
+de evaluare prevăzute în standardele europene relevante sunt
+considerate ca îndeplinind și criteriile menționate.
+
+9
+
+(3) Ministerul Transporturilor și Infrastructurii retrage
+aprobarea dată unui organism care nu mai respectă criteriile
+prevăzute în anexa nr. 8 și informează de îndată Comisia
+Europeană și celelalte state membre ale Uniunii Europene cu
+privire la aceasta.
+CAPITOLUL VII
+Registrele de rețele și vehicule
+ARTICOLUL 29
+Sistemul de numerotare a vehiculelor
+
+(1) Orice vehicul pus în funcțiune în sistemul feroviar al
+Uniunii Europene poartă un număr european de vehicul,
+denumit în continuare NEV, atribuit în momentul acordării primei
+autorizații de punere în funcțiune.
+(2) Solicitantul autorizației inițiale are și responsabilitatea
+marcării vehiculului în cauză cu NEV care i-a fost alocat.
+(3) NEV va fi specificat în STI privind exploatarea și
+gestionarea traficului.
+(4) Unui vehicul i se alocă un număr NEV doar o singură
+dată, cu excepția cazului în care STI privind exploatarea și
+gestionarea traficului precizează altfel.
+(5) Sub rezerva alin. (1), în cazul vehiculelor care circulă sau
+care sunt destinate să circule dinspre sau înspre țări terțe în care
+ecartamentul este diferit de cel din rețeaua principală din cadrul
+Uniunii Europene, se acceptă vehiculele identificate în mod clar
+în conformitate cu un sistem de codare diferit.
+ARTICOLUL 30
+Registrele naționale ale vehiculelor
+
+(1) Autoritatea Feroviară Română ține un registru al
+vehiculelor feroviare autorizate de pe teritoriul României. Acesta
+îndeplinește următoarele criterii:
+a) respectă specificațiile comune prevăzute la alin. (2);
+b) este păstrat și actualizat de către un organism
+independent de orice operator de transport feroviar;
+c) este accesibil Autorității de Siguranță Feroviară Române și
+Organismului de Investigare Feroviar Român, prevăzute la
+art. 16 și 21 din Legea nr. 55/2006; de asemenea, el este
+accesibil, în urma oricărei solicitări legitime, Consiliului de
+supraveghere din domeniul feroviar, prevăzut la art. 30 din
+Ordonanța Guvernului nr. 89/2003 privind alocarea capacităților
+de infrastructură feroviară și tarifarea utilizării infrastructurii
+feroviare, aprobată cu modificări și completări prin Legea
+nr. 8/2004, cu modificările și completările ulterioare, Agenției
+Feroviare Europene, operatorilor de transport feroviar și
+administratorilor/gestionarilor de infrastructură feroviară, precum
+și persoanelor/organizațiilor care înregistrează vehicule sau care
+sunt identificate în registru.
+(2) Specificațiile comune privind registrul se adoptă în
+conformitate cu procedura de reglementare cu control prevăzută
+la art. 29 alin. (3) din Directiva 2008/57/CE a Parlamentului
+European și a Consiliului și pe baza proiectelor de specificații
+întocmite de Agenția Feroviară Europeană. Aceste proiecte de
+specificații includ: conținutul, formatul datelor, arhitectura
+funcțională și tehnică, modul de operare, inclusiv modalitatea
+de efectuare a schimbului de date, regulile de introducere și de
+consultare a datelor. Pentru fiecare vehicul, registrul conține cel
+puțin următoarele informații:
+a) NEV;
+b) trimiteri la declarația ăCE” de verificare și la organismul
+emitent;
+c) trimiteri la registrul european al tipurilor de vehicule
+autorizate prevăzut la art. 31;
+d) identificarea proprietarului și a deținătorului vehiculului;
+e) restricții privind utilizarea vehiculului;
+f) entitatea responsabilă cu întreținerea.
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+
+(3) Titularul înregistrării declară imediat orice modificare a
+datelor introduse în registrul național al vehiculelor, distrugerea
+unui vehicul sau decizia sa de a nu mai înregistra un vehicul
+autorității oricărui stat membru al Uniunii Europene în care a fost
+autorizat vehiculul.
+(4) Atât timp cât registrele naționale ale vehiculelor ale
+statelor membre ale Uniunii Europene nu sunt interconectate,
+Autoritatea Feroviară Română își actualizează registrul cu
+modificările efectuate de alt stat membru în registrul său în ceea
+ce privește datele care îl interesează.
+(5) În cazul vehiculelor care sunt puse în funcțiune pentru
+prima dată într-o țară terță și sunt autorizate în România pentru
+a fi puse în funcțiune pe teritoriul său, Autoritatea Feroviară
+Română garantează că datele enumerate la alin. (2) lit. d)—f)
+pot fi recuperate prin intermediul registrului național al
+vehiculelor. Datele prevăzute la alin. (2) lit. f) pot fi înlocuite cu
+date critice de siguranță privind programul de întreținere.
+
+CAPITOLUL VIII
+Dispoziții tranzitorii
+ARTICOLUL 33
+Proiect de sisteme de referință
+
+În urma adoptării sistemului de referință prevăzut la art. 36
+alin. (1) din Directiva 2008/57/CE a Parlamentului European și
+a Consiliului, Ministerul Transporturilor și Infrastructurii
+informează Comisia Europeană în cazul intenției de a adopta o
+dispoziție națională sau în cazul dezvoltării pe teritoriul României
+a unui proiect care ar încălca sistemul de referință.
+CAPITOLUL IX
+Dispoziții finale
+ARTICOLUL 34
+
+ARTICOLUL 31
+
+Motivare
+
+Registrul european al tipurilor de vehicule autorizate
+
+Orice decizie privind evaluarea conformității sau a
+aptitudinilor de utilizare a constituenților de interoperabilitate,
+luată ca urmare a prezentei hotărâri, verificarea subsistemelor
+care formează sistemul feroviar și orice decizie adoptată în
+conformitate cu art. 7, 12, 14 și 19 trebuie să precizeze în detaliu
+motivele pe care se bazează. Partea în cauză este notificată în
+cel mai scurt timp posibil, în același timp indicându-se soluțiile
+posibile în baza legislației în vigoare și termenele acordate
+pentru punerea în aplicare a acestor soluții.
+
+(1) Agenția Feroviară Europeană creează și păstrează un
+registru al tipurilor de vehicule autorizate de statele membre
+pentru punerea în funcțiune în rețeaua feroviară a Uniunii
+Europene. Acest registru îndeplinește următoarele criterii:
+a) este public și accesibil în format electronic;
+b) respectă specificațiile comune prevăzute la alin. (4) din
+Directiva 2008/57/CE a Parlamentului European și a Consiliului;
+c) este conectat cu toate registrele naționale ale vehiculelor.
+(2) Registrul conține, în cazul fiecărui vehicul, următoarele
+informații:
+a) caracteristicile tehnice ale tipului de vehicul, definite în STI
+relevante;
+b) denumirea producătorului;
+c) datele, referințele și statele membre ale Uniunii Europene
+emitente ale autorizațiilor succesive pentru tipul de vehicul
+respectiv, inclusiv eventualele restricții sau retrageri.
+(3) La data eliberării, modificării, suspendării sau retragerii
+unei autorizații de tip în România, Autoritatea de Siguranță
+Feroviară Română informează Agenția Feroviară Europeană,
+astfel încât aceasta să își poată actualiza registrul.
+ARTICOLUL 32
+
+ARTICOLUL 35
+Abrogare
+
+La data intrării în vigoare a prezentei hotărâri, se abrogă
+Hotărârea Guvernului nr. 1.533/2003 privind interoperabilitatea
+sistemului de transport feroviar de mare viteză, publicată în
+Monitorul Oficial al României, Partea I, nr. 18 din 9 ianuarie
+2004, cu modificările și completările ulterioare, și Hotărârea
+Guvernului nr. 850/2003 privind interoperabilitatea sistemului
+feroviar convențional, publicată în Monitorul Oficial al României,
+Partea I, nr. 529 din 23 iulie 2003, cu modificările și completările
+ulterioare. Trimiterile la hotărârile abrogate se interpretează ca
+trimiteri la prezenta hotărâre și se citesc în conformitate cu
+tabelul de corespondență prevăzut în anexa nr. 11.
+
+Registrul de infrastructură
+
+Autoritatea Feroviară Română asigură publicarea și
+actualizarea unui registru de infrastructură conform ciclului de
+revizuire prevăzut la art. 35 alin. (2) din Directiva 2008/57/CE a
+Parlamentului European și a Consiliului. În acest registru se
+precizează caracteristicile principale ale fiecărui subsistem sau
+ale fiecărei părți de subsistem implicate, de exemplu, parametrii
+de bază, și conformitatea acestora cu caracteristicile prescrise
+de STI aplicabile. În acest scop, fiecare STI specifică cu
+exactitate care informație trebuie inclusă în registrul de
+infrastructură.
+
+Prezenta hotărâre transpune în totalitate prevederile
+Directivei 2008/57/CE a Parlamentului European și a Consiliului
+din 17 iunie 2008 privind interoperabilitatea sistemului feroviar în
+Comunitate (reformare), publicată în Jurnalul Oficial al Uniunii
+Europene nr. L 191 din 18 iulie 2008, precum și ale Directivei
+2009/131/CE a Comisiei din 16 octombrie 2009 de modificare a
+anexei VII la Directiva 2008/57/CE a Parlamentului European și
+a Consiliului privind interoperabilitatea sistemului feroviar în
+Comunitate, publicată în Jurnalul Oficial al Uniunii Europene
+nr. L 273 din 17 octombrie 2009.
+
+PRIM-MINISTRU
+
+EMIL BOC
+Contrasemnează:
+Ministrul transporturilor și infrastructurii,
+Radu Mircea Berceanu
+Șeful Departamentului pentru Afaceri Europene,
+Bogdan Mănoiu
+București, 18 august 2010.
+Nr. 877.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+
+11
+ANEXA Nr. 1
+
+DOMENIUL DE APLICARE
+
+1. Sistemul feroviar convențional
+1.1. Rețea
+
+Infrastructura sistemului de transport feroviar convențional
+este formată din linii ale rețelei de transport feroviar prevăzute
+în Legea nr. 203/2003 privind realizarea, dezvoltarea și
+modernizarea rețelei de transport de interes național și
+european, republicată, necesare pentru a se realiza conectarea
+cu sistemul de transport feroviar convențional transeuropean.
+În sensul hotărârii, această rețea poate fi împărțită în
+următoarele categorii:
+— linii prevăzute pentru traficul de călători;
+— linii prevăzute pentru traficul mixt, călători și marfă;
+— linii destinate în mod special sau modernizate pentru
+servicii de transport feroviar de marfă;
+— noduri feroviare de călători;
+— noduri feroviare de marfă, inclusiv terminale intermodale;
+— linii de legătură între elementele de mai sus.
+Această rețea include sisteme de gestionare a traficului, de
+localizare și de circulație a trenurilor: instalațiile tehnice pentru
+prelucrarea datelor și telecomunicațiile destinate serviciilor de
+transport de călători de lung parcurs și transportului de marfă în
+cadrul rețelei, în vederea garantării unei exploatări sigure și
+armonioase a rețelei, precum și a unei gestionări eficiente a
+traficului.
+1.2. Vehicule
+
+Sistemul feroviar convențional cuprinde toate vehiculele apte
+să circule pe întreaga rețea feroviară transeuropeană
+convențională sau pe o parte a acesteia, incluzând:
+— trenurile automotoare electrice sau cu motoare termice;
+— locomotive cu motoare termice sau locomotive electrice;
+— vagoanele de călători;
+— vagoanele de marfă, inclusiv vehiculele pentru transportul
+camioanelor.
+Echipamentul de construcție și menținere a infrastructurilor
+feroviare mobile poate fi inclus.
+Fiecare dintre categoriile de mai sus poate fi divizată în:
+— vehicule pentru utilizare internațională;
+— vehicule pentru utilizare națională.
+2. Sistemul feroviar de mare viteză
+2.1. Rețea
+
+Rețeaua sistemului feroviar de mare viteză va fi aceea a
+liniilor de mare viteză ale rețelei transeuropene de transport
+prevăzute în Legea nr. 203/2003, republicată.
+Liniile de mare viteză includ:
+— linii special construite pentru mare viteză, echipate pentru
+viteze în general egale sau mai mari de 250 km/h;
+— linii special modernizate pentru mare viteză, echipate
+pentru viteze de ordinul a 200 km/h;
+— linii special modernizate pentru mare viteză, care au
+caracteristici speciale din cauza constrângerilor de ordin
+topografic, de relief sau de sistematizare urbană și pe care
+viteza trebuie adaptată fiecărui caz în parte. Această categorie
+include și liniile de interconectare între rețelele de mare viteză și
+cele convenționale, liniile din stații, liniile de acces către
+terminale, depouri etc., pe care materialul rulant de mare viteză
+circulă cu viteza convențională.
+Această rețea include sisteme de gestionare a traficului, de
+localizare și circulație, instalațiile tehnice pentru prelucrarea
+
+datelor și telecomunicațiile destinate serviciilor pe aceste linii,
+în vederea garantării unei exploatări sigure și armonioase a
+rețelei, precum și a unei gestionări eficiente a traficului.
+2.2. Vehicule
+
+Sistemul feroviar de mare viteză include vehicule proiectate
+să ruleze:
+— fie la viteze de cel puțin 250 km/h pe linii special construite
+pentru mare viteză, permițând în același timp rularea la viteze de
+peste 300 km/h în circumstanțe adecvate;
+— fie la viteze de ordinul a 200 km/h pe liniile prevăzute în
+secțiunea 2.1, atunci când sunt compatibile cu nivelurile de
+performanță ale acestor linii.
+În plus, vehiculele destinate să ruleze cu o viteză maximă
+mai mică de 200 km/h care este posibil să se deplaseze pe
+întreaga rețea transeuropeană de mare viteză sau pe o parte a
+acesteia, atunci când sunt compatibile cu nivelurile de
+performanță ale rețelei respective, îndeplinesc cerințele pentru
+funcționarea în condiții de siguranță pe rețeaua respectivă. În
+acest scop, STI pentru vehiculele convenționale specifică, de
+asemenea, cerințe pentru funcționarea în condiții de siguranță a
+vehiculelor convenționale pe rețelele de mare viteză.
+3. Compatibilitatea sistemului feroviar
+Calitatea serviciilor feroviare din Europa depinde, printre
+altele, de o coerență excelentă între caracteristicile rețelei
+(în sensul cel mai larg, părțile fixe ale tuturor subsistemelor
+implicate) și cele ale vehiculelor (incluzând componentele de
+bord ale tuturor subsistemelor implicate). Nivelurile de
+performanță, siguranța, calitatea serviciilor și costurile depind
+de acest factor.
+4. Extinderea sferei de aplicare
+4.1. Subcategorii de rețele și vehicule
+
+Domeniul de aplicare a STI este extins progresiv la întregul
+sistem feroviar prevăzut la art. 1 alin. (4) din hotărâre. Pentru a
+garanta eficacitatea interoperabilității din punctul de vedere al
+costurilor, se vor crea, dacă va fi necesar, mai multe subcategorii
+ale tuturor categoriilor de rețele și vehicule menționate în
+prezenta anexă. Dacă este necesar, specificațiile funcționale și
+tehnice menționate la art. 5 alin. (3) din hotărâre pot varia în
+funcție de subcategorie.
+4.2. Garanții în materie de costuri
+
+Analiza cost-beneficiu a măsurilor propuse va lua în
+considerare, printre altele, următoarele elemente:
+— costul măsurii propuse;
+— beneficiile pentru interoperabilitate ale extinderii
+domeniului de aplicare la anumite subcategorii de rețele și
+vehicule;
+— reducerea costurilor de capital și a taxelor datorate
+economiilor de scară și unei mai bune utilizări a vehiculelor;
+— reducerea costurilor investițiilor și a celor de
+întreținere/operare datorită competiției sporite între producători
+și societățile de întreținere;
+— avantaje asupra mediului datorită îmbunătățirilor tehnice
+ale sistemului feroviar;
+— o funcționare mai sigură.
+De asemenea, această evaluare va indica impactul probabil
+pentru toți operatorii economici implicați.
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+ANEXA Nr. 2
+
+SUBSISTEME
+
+1. Lista subsistemelor
+În sensul hotărârii, sistemul care constituie sistemul feroviar
+poate fi divizat în următoarele subsisteme:
+a) fie zone structurale:
+— infrastructură;
+— energie;
+— control-comandă și semnalizare;
+— material rulant;
+b) fie zone funcționale:
+— gestionarea și operarea traficului;
+— întreținere;
+— aplicații telematice pentru serviciile de transport feroviar
+de călători și marfă.
+2. Descrierea subsistemelor
+Pentru fiecare subsistem sau parte a unui subsistem, lista
+constituenților și a aspectelor privind interoperabilitatea este
+propusă de Agenția Feroviară Europeană în momentul elaborării
+proiectului de STI relevantă.
+Fără a aduce atingere alegerii aspectelor și constituenților
+referitori la interoperabilitate sau ordinii în care acestea vor face
+obiectul STI, subsistemele includ îndeosebi:
+2.1. Infrastructură
+Linia ferată, macazurile, lucrările de artă (poduri, tuneluri
+etc.), infrastructura asociată stațiilor (peroane, zone de acces,
+incluzând nevoile persoanelor cu mobilitate redusă etc.),
+echipament de siguranță și de protecție
+2.2. Energie
+Sistemul de electrificare, inclusiv liniile aeriene, și partea de
+la bord a echipamentului de măsurare a consumului de energie
+electrică
+2.3. Control-comandă și semnalizare
+Toate echipamentele necesare pentru a asigura siguranța și
+pentru a comanda și controla mișcările trenurilor autorizate să
+circule în rețea
+
+2.4. Operarea și gestionarea traficului
+Procedurile și echipamentul asociat care permit o operare
+coerentă a diferitelor subsisteme structurale, atât în cursul unei
+operări normale, cât și al unei operări deteriorate, incluzând în
+special conducerea trenurilor, planificarea și gestionarea
+traficului
+Calificările profesionale care pot fi solicitate pentru
+efectuarea serviciilor transfrontaliere
+2.5. Aplicații telematice
+În conformitate cu anexa nr. 1 la hotărâre, acest subsistem
+cuprinde două elemente:
+a) aplicații pentru serviciile de călători, incluzând sistemele
+care oferă călătorilor informații înaintea și în cursul călătoriei,
+sistemele de rezervare și plată, gestionarea bagajelor și
+gestionarea legăturilor între trenuri și cu alte tipuri de transport;
+b) aplicații pentru servicii de transport de marfă, incluzând
+sistemele de informare (monitorizarea în timp real a mărfurilor și
+a trenurilor), sistemele de selectare și de alocare, sistemele de
+rezervare, plată și facturare, gestionarea legăturilor cu alte tipuri
+de transport și eliberarea documentelor electronice de însoțire.
+2.6. Materialul rulant
+Structură, sisteme de control-comandă pentru toate
+echipamentele trenurilor, dispozitive de captare a curentului,
+unități de tracțiune și de transformare a energiei, mecanisme de
+frânare, cuplare și rulare (boghiuri, osii etc.) și suspensii, uși,
+interfețe om/mașină (mecanic, personal de bord și călători,
+incluzând nevoile persoanelor cu mobilitate redusă), dispozitive
+de siguranță pasive sau active și dispozitive necesare pentru
+sănătatea călătorilor și a personalului de bord
+2.7. Întreținere
+Procedurile, echipamentul conex, instalațiile logistice de
+întreținere și componentele de rezervă care permit întreținerea
+corectivă și preventivă cu caracter obligatoriu avute în vedere
+pentru asigurarea interoperabilității sistemului feroviar și
+garantarea performanțelor cerute
+
+ANEXA Nr. 3
+
+CERINȚE ESENȚIALE
+
+1. Cerințe generale
+1.1. Siguranță
+
+1.1.1. Proiectarea, construcția sau asamblarea, întreținerea
+și supravegherea componentelor critice pentru siguranță și, în
+special, a elementelor implicate în circulația trenurilor trebuie să
+garanteze siguranța la un nivel care să corespundă obiectivelor
+fixate pentru rețea, inclusiv pentru situații-limită speciale.
+1.1.2. Parametrii implicați în contactul roată/șină trebuie să
+respecte cerințele de stabilitate necesare pentru garantarea
+deplasării sigure la viteza maximă autorizată. Parametrii
+echipamentului de frânare trebuie să garanteze posibilitatea de
+oprire într-o anumită distanță de frânare la viteza maximă
+autorizată.
+1.1.3. Componentele folosite trebuie să reziste la solicitările
+normale sau excepționale specificate pe timpul duratei lor de
+serviciu. Consecințele în materie de siguranță ale unor
+defecțiuni accidentale trebuie limitate prin mijloace adecvate.
+1.1.4. Proiectarea instalațiilor fixe și a materialului rulant,
+precum și alegerea materialelor utilizate trebuie să urmărească
+limitarea producerii, a propagării și a efectelor focului și fumului
+în caz de incendiu.
+
+1.1.5. Orice dispozitive destinate a fi manevrate de utilizatori
+trebuie proiectate astfel încât să nu fie afectate funcționarea
+sigură a dispozitivelor sau sănătatea și siguranța utilizatorilor,
+în cazul unei utilizări previzibile care nu respectă instrucțiunile
+afișate.
+1.2. Fiabilitate și disponibilitate
+
+Monitorizarea și întreținerea componentelor fixe sau mobile
+care sunt implicate în deplasările trenurilor trebuie să fie
+organizate, efectuate și cuantificate astfel încât să mențină
+funcționarea lor în condițiile proiectate.
+1.3. Sănătate
+
+1.3.1. Materialele susceptibile să pună în pericol sănătatea
+persoanelor care au acces la ele, datorită modului de utilizare,
+nu trebuie utilizate în trenuri și infrastructuri feroviare.
+1.3.2. Aceste materiale trebuie selectate, instalate și utilizate
+astfel încât să limiteze emisiile de fumuri sau gaze nocive și
+periculoase, în special în caz de incendiu.
+1.4. Protecția mediului
+
+1.4.1. Impactul asupra mediului al constituirii și funcționării
+sistemului feroviar transeuropean convențional trebuie să fie
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+evaluat și luat în considerare în etapa de proiectare a sistemului,
+în conformitate cu dispozițiile Uniunii Europene în vigoare.
+1.4.2. Materialele folosite în trenuri și infrastructuri trebuie să
+împiedice emisiile de fumuri sau gaze nocive și periculoase
+pentru mediu, în special în caz de incendiu.
+1.4.3. Materialul rulant și sistemele de alimentare cu energie
+trebuie proiectate și produse astfel încât să fie compatibile din
+punct de vedere electromagnetic cu instalațiile, echipamentele
+și rețelele publice sau private cu care ar putea să interfereze.
+1.4.4. Funcționarea sistemului feroviar trebuie să respecte
+reglementările existente privind poluarea sonoră.
+1.4.5. Funcționarea sistemului feroviar nu trebuie să
+provoace un nivel inadmisibil de vibrații ale solului pentru
+activitățile și zonele apropiate infrastructurii, într-un stadiu
+normal de întreținere.
+1.5. Compatibilitate tehnică
+
+Caracteristicile tehnice ale infrastructurii și ale instalațiilor fixe
+trebuie să fie compatibile între ele și cu cele ale trenurilor ce
+urmează a se folosi în sistemul feroviar.
+În cazul în care conformitatea cu aceste caracteristici se
+dovedește dificilă pe anumite secțiuni ale rețelei, se pot aplica
+soluții temporare, care să asigure compatibilitatea în viitor.
+2. Cerințe specifice fiecărui subsistem
+2.1. Infrastructură
+
+2.1.1. Siguranță
+Trebuie adoptate măsuri adecvate pentru a preveni accesul
+la instalații sau pătrunderile neautorizate.
+Trebuie adoptate măsuri de limitare a pericolelor la care sunt
+expuse persoanele, în special la trecerea trenurilor prin stații.
+Infrastructura la care publicul are acces trebuie proiectată și
+realizată astfel încât să limiteze orice pericole pentru siguranța
+persoanelor (stabilitate, incendiu, acces, evacuare, peroane
+etc.).
+Este necesar să se adopte dispoziții corespunzătoare care
+să țină seama de condițiile speciale de siguranță în tunelurile și
+pe viaductele foarte lungi.
+2.2. Energie
+
+2.2.1. Siguranță
+Funcționarea sistemelor de alimentare cu energie trebuie să
+nu afecteze siguranța trenurilor și a persoanelor (utilizatori,
+personal de exploatare, locuitori din zona limitrofă căii ferate și
+terțe părți).
+2.2.2. Protecția mediului
+Funcționarea sistemelor de alimentare cu energie electrică
+sau termică nu trebuie să perturbe mediul dincolo de limitele
+specificate.
+2.2.3. Compatibilitatea tehnică
+Sistemele utilizate pentru alimentarea cu electricitate/energie
+termică trebuie:
+— să permită trenurilor atingerea nivelurilor de performanță
+specificate;
+— în cazul sistemelor de alimentare cu energie electrică, să
+fie compatibile cu dispozitivele de captare din dotarea trenurilor.
+2.3. Control-comandă și semnalizare
+
+2.3.1. Siguranță
+Instalațiile și procedurile de control-comandă și semnalizare
+trebuie să permită trenurilor să se deplaseze la un nivel de
+siguranță care să corespundă obiectivelor fixate pentru rețea.
+Sistemele de control-comandă și semnalizare trebuie să permită
+în continuare circulația, în condiții de siguranță, a trenurilor
+cărora li s-a permis să circule în condiții necorespunzătoare.
+2.3.2. Compatibilitatea tehnică
+Întreaga infrastructură nouă și întregul material rulant nou,
+produse sau dezvoltate după adoptarea sistemelor compatibile
+de control-comandă și semnalizare, trebuie să fie adaptate
+pentru utilizarea acestor sisteme.
+
+13
+
+Echipamentul de control-comandă și semnalizare instalat în
+cabinele mecanicilor de locomotivă trebuie să permită
+funcționarea normală, în condițiile specificate, pe tot parcursul
+sistemului feroviar.
+2.4. Materialul rulant
+
+2.4.1. Siguranță
+Structura materialului rulant și a legăturilor dintre vehicule
+trebuie să fie proiectată astfel încât să protejeze
+compartimentele călătorilor și ale mecanicilor de locomotivă în
+caz de coliziune sau de deraiere.
+Echipamentele electrice trebuie să nu afecteze siguranța și
+funcționarea instalațiilor de control-comandă și semnalizare.
+Tehnicile de frânare și tensiunile exercitate trebuie să fie
+compatibile cu concepția liniilor, a lucrărilor de artă și a
+sistemelor de semnalizare.
+Trebuie adoptate măsuri pentru prevenirea accesului la
+componentele aflate sub tensiune, pentru a nu periclita
+siguranța persoanelor.
+În caz de pericol, dispozitivele trebuie să permită călătorilor
+să informeze mecanicul de locomotivă și personalului însoțitor
+să îl contacteze.
+Ușile de acces trebuie să fie dotate cu un sistem de
+deschidere și închidere care să garanteze siguranța călătorilor.
+Trebuie prevăzute și semnalizate ieșiri de siguranță.
+Este necesar să se adopte dispoziții corespunzătoare care
+să țină seama de condițiile speciale de siguranță în tunelurile
+foarte lungi.
+Un sistem de iluminare în caz de urgență, de intensitate și
+durată suficientă, este obligatoriu la bordul trenurilor.
+Trenurile trebuie să fie dotate cu un sistem de sonorizare
+care să permită personalului de bord să se adreseze călătorilor.
+2.4.2. Fiabilitate și disponibilitate
+Proiectarea echipamentelor esențiale, a echipamentelor de
+rulare, tracțiune și frânare și a sistemului de control-comandă
+trebuie să permită, într-o situație deteriorată specifică,
+continuarea călătoriei fără consecințe nefavorabile pentru
+echipamentele care rămân în funcțiune.
+2.4.3. Compatibilitatea tehnică
+Echipamentul electric trebuie să fie compatibil cu
+funcționarea instalațiilor de control-comandă și semnalizare.
+În cazul tracțiunii electrice, caracteristicile dispozitivelor de
+captare a curentului trebuie să permită trenurilor să se
+deplaseze în condițiile sistemelor de alimentare cu energie ale
+sistemului feroviar.
+Caracteristicile materialului rulant trebuie să permită
+deplasarea acestuia pe orice linie pe care este prevăzută
+funcționarea sa, ținându-se seama de condițiile climatice
+relevante.
+2.4.4. Controale
+Trenurile trebuie dotate cu un dispozitiv de înregistrare.
+Datele captate de acest dispozitiv și prelucrarea informațiilor
+trebuie armonizate.
+2.5. Întreținere
+
+2.5.1. Sănătate și securitate
+Instalațiile tehnice și procedurile folosite în centrele de
+întreținere trebuie să asigure funcționarea în condiții de
+siguranță a subsistemului și să nu constituie un pericol pentru
+sănătate și siguranță.
+2.5.2. Protecția mediului
+Instalațiile tehnice și procedurile utilizate în centrele de
+întreținere nu trebuie să depășească nivelurile de noxe
+admisibile pentru mediul înconjurător.
+2.5.3. Compatibilitatea tehnică
+Instalațiile de întreținere pentru materialul rulant trebuie să
+permită realizarea operațiunilor de siguranță, sănătate și confort
+pentru toate vehiculele pentru care au fost proiectate.
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+
+2.6. Operarea și gestionarea traficului
+
+2.6.1. Siguranță
+Alinierea normelor de funcționare în rețea și calificările
+mecanicilor de locomotivă, ale personalului de bord și ale
+personalului din centrele de control trebuie să asigure operarea
+în condiții de siguranță, ținându-se seama de diferența dintre
+cerințele serviciilor transfrontaliere și cele ale serviciilor interne.
+Lucrările de întreținere și intervalele dintre acestea, formarea
+și calificările personalului din centrele de întreținere și revizie,
+precum și sistemul de asigurare a calității adoptat de operatorii
+respectivi în centrele de întreținere și revizie trebuie să asigure
+un nivel înalt de siguranță.
+2.6.2. Fiabilitate și disponibilitate
+Lucrările de întreținere și perioadele de efectuare a acestora,
+formarea și calificările personalului din centrele de întreținere și
+revizie, precum și sistemul de asigurare a calității adoptat de
+operatorii respectivi în centrele de întreținere și revizie trebuie să
+asigure un nivel înalt de fiabilitate și disponibilitate a sistemului.
+2.6.3. Compatibilitatea tehnică
+Alinierea normelor de funcționare în rețea și calificările
+mecanicilor de locomotivă, ale personalului de bord și ale
+impiegaților de mișcare trebuie să asigure eficiența funcționării
+în sistemul feroviar, ținându-se seama de diferența dintre
+cerințele serviciilor transfrontaliere și cele ale serviciilor interne.
+
+2.7. Aplicații telematice pentru serviciile de transport feroviar
+de călători și marfă
+
+2.7.1. Compatibilitatea tehnică
+Cerințele esențiale pentru aplicațiile telematice garantează
+o calitate minimă a serviciilor de transport feroviar de călători și
+marfă, mai ales în ceea ce privește compatibilitatea tehnică.
+Trebuie adoptate măsuri pentru a asigura:
+— faptul că bazele de date, programele informatice și
+protocoalele de comunicare a datelor sunt realizate într-un mod
+care să permită schimbul de date la nivel maxim între diferitele
+aplicații și diferiții operatori, excluzând datele comerciale
+confidențiale;
+— facilitarea accesului la informații pentru utilizatori.
+2.7.2. Fiabilitate și disponibilitate
+Metodele de utilizare, gestionare, actualizare și întreținerea
+acestor baze de date, programe informatice și protocoale de
+comunicare a datelor trebuie să garanteze eficiența acestor
+sisteme și calitatea serviciilor.
+2.7.3. Sănătate
+Interfețele dintre aceste sisteme și utilizatori trebuie să fie în
+concordanță cu normele minime privind ergonomia și protecția
+sănătății.
+2.7.4. Siguranță
+Pentru stocarea sau transmiterea informațiilor privind
+siguranța trebuie asigurate niveluri corespunzătoare de
+integritate și fiabilitate.
+
+ANEXA Nr. 4
+
+D E C L A R A Ț I A ăC E” D E C O N F O R M I T A T E Ș I A P T I T U D I N I D E U T I L I Z A R E
+A C O N S T I T U E N Ț I L O R D E I N T E R O P E R A B I L I TAT E
+
+1. Constituenții de interoperabilitate
+Declarația ăCE” se aplică constituenților de interoperabilitate
+implicați în interoperabilitatea sistemului feroviar, astfel cum se
+prevede la art. 3 din hotărâre. Acești constituenți de
+interoperabilitate pot fi:
+1.1. Constituenți cu utilizare multiplă
+Aceștia sunt constituenți care nu sunt specifici sistemului
+feroviar și pot fi folosiți ca atare în alte domenii.
+1.2. Constituenți cu utilizare multiplă având caracteristici
+specifice
+Aceștia sunt constituenți care nu sunt specifici ca atare
+sistemului feroviar, dar care trebuie să dispună de niveluri de
+performanță specifice atunci când sunt folosiți în domeniul
+feroviar.
+1.3. Constituenți specifici
+Acești constituenți sunt specifici aplicațiilor feroviare.
+2. Domeniul de aplicare
+Sub incidența declarației ăCE” intră:
+— evaluarea de către unul sau mai multe organisme
+autorizate a conformității intrinseci a unui constituent de
+interoperabilitate, analizat în mod izolat, în raport cu specificațiile
+tehnice pe care trebuie să le respecte;
+— evaluarea/aprecierea de către unul sau mai multe
+organisme autorizate a eligibilității pentru utilizarea propusă a
+unui constituent de interoperabilitate, analizat în mediul său
+feroviar și, în special în cazurile în care sunt implicate interfețe,
+în raport cu specificațiile tehnice, îndeosebi cu cele de natură
+funcțională, care urmează a fi verificate.
+Procedurile de evaluare puse în aplicare de către
+organismele autorizate în etapele de proiectare și de producție
+vor utiliza modulele definite în Decizia 93/465/CEE a Consiliului
+din 22 iulie 1993 privind modulele diverselor faze ale
+
+procedurilor de evaluare a conformității și normele de aplicare și
+utilizare a mărcii de conformitate CE, care sunt propuse spre a
+fi utilizate în cadrul directivelor de armonizare tehnică, în
+conformitate cu condițiile prevăzute în STI.
+3. Conținutul declarației ăCE”
+Declarația de conformitate sau aptitudini de utilizare ăCE” și
+documentele însoțitoare trebuie să fie datate și semnate.
+Declarația se redactează în aceeași limbă ca și instrucțiunile
+și trebuie să conțină următoarele:
+— trimiterile la directivă;
+— denumirea și adresa producătorului sau ale
+reprezentantului său autorizat cu sediul în Uniunea Europeană:
+se vor indica denumirea comercială și adresa completă; în cazul
+reprezentantului autorizat, se va indica și denumirea comercială
+a producătorului;
+— descrierea elementului constitutiv de interoperabilitate
+(origine, tipul etc.);
+— descrierea procedurii utilizate pentru declararea
+conformității sau a aptitudinilor de utilizare (art. 13 din hotărâre);
+— toate prescripțiile relevante pe care trebuie să le
+îndeplinească constituentul de interoperabilitate și, în special,
+condițiile de utilizare;
+— denumirea și adresa organismului sau a organismelor
+autorizat/autorizate implicat/implicate în procedura urmată în
+privința conformității sau a aptitudinilor de utilizare și data
+certificatului de verificare, împreună cu durata și condițiile de
+valabilitate ale certificatului, atunci când este cazul;
+— trimitere la specificațiile europene, atunci când este cazul;
+— identificarea semnatarului împuternicit să angajeze
+producătorul sau pe reprezentantul autorizat al acestuia stabilit
+în Uniunea Europeană.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+
+15
+ANEXA Nr. 5
+
+D E C L A R A Ț I A D E V E R I F I C A R E ăC E” A S U B S I S T E M E L O R
+
+Declarația de verificare ăCE” și documentele însoțitoare
+trebuie să fie datate și semnate.
+Declarația trebuie să fie redactată în aceeași limbă ca și
+dosarul tehnic și trebuie să conțină următoarele:
+— trimiterile la hotărâre;
+— denumirea și adresa entității contractante sau ale
+producătorului ori ale reprezentantului său autorizat cu sediul în
+Uniunea Europeană: se vor indica denumirea comercială și
+adresa completă; în cazul reprezentantului autorizat, se va
+indica și denumirea comercială a entității contractante sau a
+producătorului;
+
+— o scurtă descriere a subsistemului;
+— denumirea și adresa organismului autorizat care a realizat
+verificarea ăCE” prevăzută la art. 18 din hotărâre;
+— trimiterile la documentele conținute în dosarul tehnic;
+— toate dispozițiile relevante, provizorii sau definitive pe care
+trebuie să le respecte subsistemele și, în special, orice restricții
+sau condiții de funcționare, dacă este necesar;
+— în cazul unei declarații provizorii: perioada de valabilitate
+a declarației ăCE”;
+— identificarea semnatarului.
+
+ANEXA Nr. 6
+
+P R O C E D U R A D E V E R I F I C A R E ăC E” P E N T R U S U B S I S T E M E
+
+1. Introducere
+Verificarea ăCE” este procedura prin care un organism
+notificat verifică și certifică faptul că subsistemul:
+— respectă prevederile hotărârii;
+— respectă celelalte reglementări care decurg din Tratat și
+poate fi dat în funcționare.
+2. Etape
+Subsistemul este verificat în fiecare dintre următoarele
+etape:
+— proiectarea generală;
+— producție: construcția subsistemului, incluzând, în special,
+activitățile de construcții civile, producerea, asamblarea
+constituenților, reglaje generale;
+— încercarea finală a subsistemului.
+Pentru stadiul de proiectare, inclusiv testele de tip, și pentru
+stadiul de producție, solicitantul poate, într-o primă etapă, să
+solicite o evaluare.
+În acest caz, această evaluare/aceste evaluări
+conduce/conduc la una sau mai multe declarații intermediare de
+verificare (DIV) emisă/emise de organismul notificat ales de
+către solicitant. Acest organism, la rândul său, întocmește o
+ădeclarație CE de conformitate intermediară a subsistemului”
+pentru etapele relevante.
+3. Certificat
+Organismul notificat responsabil pentru verificarea ăCE”
+evaluează proiectarea și producția subsistemului și întocmește
+certificatul de verificare destinat solicitantului, care, la rândul
+său, întocmește declarația de verificare ăCE” destinată autorității
+de supraveghere din statul membru al Uniunii Europene în care
+subsistemul este amplasat și/sau operează.
+Dacă sunt disponibile, organismul notificat ia în considerare
+ădeclarațiile intermediare de verificare” și, pentru a emite
+declarația de verificare ăCE”:
+— verifică dacă subsistemul:
+— este vizat de declarațiile intermediare de verificare
+relevante în ceea ce privește proiectarea și producția, dacă
+solicitantul a cerut organismului notificat certificare pentru aceste
+două etape; sau
+— corespunde, așa cum este fabricat, tuturor aspectelor
+incluse în DIV emisă solicitantului, dacă acesta a cerut
+organismului de notificare certificare doar pentru etapa de
+proiectare;
+— verifică dacă acestea includ în mod corect cerința din STI
+și evaluează elementele de proiectare și producție care nu sunt
+incluse în STI referitoare la proiectare și/sau producție.
+
+4. Dosar tehnic
+Dosarul tehnic care însoțește declarația de verificare trebuie
+întocmit după cum urmează:
+— pentru infrastructură: planurile de construcție a structurii,
+documentele de aprobare pentru excavații și armături,
+rapoartele de încercare și control privind betonul etc.;
+— pentru alte subsisteme: schițele de ansamblu și cele în
+detaliu conforme cu execuția, diagramele electrice și hidraulice,
+diagramele circuitelor de control, descrierea sistemelor de
+automatizare și de prelucrare a datelor, manualele de exploatare
+și de întreținere etc.;
+— lista constituenților de interoperabilitate, prevăzuți la art. 3
+din hotărâre, care sunt încorporați în subsistem;
+— copii ale declarațiilor de conformitate ăCE” sau aptitudinilor
+de utilizare propuse care trebuie furnizate cu privire la
+constituenții menționați mai sus în conformitate cu prevederile
+art. 13 din hotărâre, însoțite, dacă este cazul, de notele de calcul
+corespunzătoare și de o copie a documentelor referitoare la
+încercările și examinările efectuate de organismele notificate,
+pe baza specificațiilor tehnice generale;
+—
+dacă
+sunt
+disponibile,
+declarația/declarațiile
+intermediară/intermediare de verificare și, în acest caz,
+declarația/declarațiile CE de conformitate intermediară pentru
+subsisteme care însoțește/însoțesc certificatele de verificare CE
+și care include/includ rezultatul verificării valabilității lor de către
+organismul notificat;
+— certificatul de la organismul notificat responsabil cu
+verificarea ăCE”, însoțit de notele de calcul corespunzătoare și
+contrasemnat de acesta, specificând că proiectul respectă
+prevederile hotărârii și menționând orice rețineri înregistrate pe
+parcursul executării activităților și care nu au fost retrase;
+certificatul urmează să fie însoțit și de rapoartele de control și de
+audit întocmite de același organism, în exercitarea atribuțiilor
+sale, astfel cum se precizează la pct. 5.3 și 5.4.
+5. Monitorizare
+5.1. Scopul monitorizării ăCE” este de a verifica respectarea,
+în timpul producției subsistemului, a obligațiilor care rezultă din
+dosarul tehnic.
+5.2. Organismul notificat responsabil pentru verificarea
+producției trebuie să aibă în permanență acces la șantierele de
+construcții, la atelierele de producție, la magazii și la instalațiile
+de prefabricare sau încercare, dacă este cazul, precum și, în
+general, la toate incintele unde consideră că îi este necesar
+accesul pentru îndeplinirea atribuțiilor sale. Solicitantul trebuie
+să trimită acestui organism toate documentele necesare în acest
+scop și, în special, planurile de implementare și documentația
+tehnică referitoare la subsistem.
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+
+5.3. Organismul notificat responsabil pentru verificarea
+implementării trebuie să efectueze periodic auditări pentru a
+confirma respectarea prevederilor hotărârii. Acest organism
+trebuie să ofere celor responsabili de implementare un raport
+de audit. De asemenea, poate fi necesară prezența sa în
+anumite etape ale lucrărilor de construcție.
+5.4. În plus, organismul notificat poate efectua vizite
+inopinate pe șantiere sau la atelierele de producție. În timpul
+unor astfel de vizite, organismul notificat poate efectua auditări
+complete sau parțiale. Organismul trebuie să prezinte celor
+responsabili de implementare un raport de control și, dacă este
+cazul, un raport de audit.
+5.5. În vederea eliberării declarației ăCE” de aptitudini de
+utilizare prevăzute în secțiunea 2 din anexa nr. 4 la hotărâre,
+organismul notificat poate să monitorizeze un subsistem pe care
+este montat un constituent de interoperabilitate, pentru a evalua,
+atunci când acest lucru este necesar conform STI relevante,
+caracterul adecvat pentru utilizare în contextul feroviar propus.
+6. Prezentare
+Dosarul complet descris la pct. 4 trebuie să fie prezentat
+solicitantului, spre susținerea DIV, dacă aceasta există, eliberată
+de organismul notificat responsabil, sau a certificatului de
+
+conformitate eliberat de organismul notificat responsabil de
+verificarea subsistemului în stare de funcționare. Dosarul trebuie
+să fie atașat DIV și/sau declarației de verificare ăCE”, pe care
+solicitantul o trimite autorității de supraveghere din statul
+membru în cauză.
+O copie a dosarului trebuie să fie păstrată de solicitant pe
+toată durata de funcționare a subsistemului. Aceasta trebuie
+trimisă celorlalte state membre ale Uniunii Europene care
+solicită acest lucru.
+7. Publicare
+Fiecare organism notificat trebuie să publice periodic
+informații relevante privind:
+— cererile de verificare ăCE” primite;
+— DIV emise sau refuzate;
+— certificatele de verificare emise sau refuzate;
+— certificatele de conformitate refuzate.
+8. Limba
+Dosarele și corespondența referitoare la procedurile de
+verificare ăCE” trebuie redactate într-o limbă oficială a statului
+membru în care este stabilit solicitantul sau într-o limbă
+acceptată de solicitant.
+
+ANEXA Nr. 7
+
+PA R A M E T R I I C A R E T R E B U I E V E R I F I C A Ț I L A P U N E R E A Î N F U N C Ț I U N E
+A VEHICULELOR NECONFORME CU STI ȘI CLASIFICAREA NORMELOR NAȚIONALE
+
+1. Lista parametrilor
+1.1. Documentație generală
+Documentația generală, inclusiv descrierea vehiculului nou,
+reînnoit sau modernizat și utilizarea preconizată a acestuia,
+informații privind proiectarea, activitățile de reparație,
+exploatarea și întreținerea, fișa tehnică etc.
+1.2. Caracteristici structurale și mecanice
+Integritatea mecanică și interfața dintre vehicule, inclusiv
+dispozitivele de ciocnire și tractare, coridoarele de trecere,
+rezistența structurii vehiculului și a dotărilor, de exemplu,
+scaunele, capacitatea de încărcare, siguranța pasivă, inclusiv
+rezistența interioară și exterioară la șoc
+1.3. Interacțiunea și calibrarea șinelor
+Interfețele
+mecanice
+ale
+infrastructurii,
+inclusiv
+comportamentul static și dinamic, jocuri și toleranțe, gabaritul,
+mecanismul de rulare etc.
+1.4. Echipament de frânare
+Articole de frânare, inclusiv sistemul de antipatinare, sistemul
+de control al frânării, performanțele frânării de serviciu, frâna de
+staționare și frâna de urgență
+1.5. Articole pentru călători
+Instalații destinate uzului călătorilor și mediul configurat
+pentru aceștia, inclusiv ferestrele și ușile pentru pasageri,
+exigențele pentru persoanele cu mobilitate redusă etc.
+1.6. Condiții de mediu și efecte aerodinamice
+Impactul mediului asupra vehiculului și impactul vehiculului
+asupra mediului, inclusiv condițiile aerodinamice, interfața dintre
+vehicul și zona limitrofă căii ferate a sistemului feroviar, precum
+și interfața cu mediul extern
+1.7. Avertizarea externă, marcajele, cerințe privind funcțiile
+și integritatea software
+Avertizări externe, marcaje, funcțiile și integritatea software,
+de exemplu, funcții legate de siguranță cu impact asupra
+comportamentului trenului, inclusiv asupra magistralei trenului
+1.8. Rețeaua de alimentare cu curent electric și sistemele de
+control de la bord
+Sistemele de propulsie, de alimentare cu curent electric și
+de control de la bord, la care se adaugă interfața vehiculului cu
+infrastructura de alimentare cu curent electric și toate aspectele
+legate de compatibilitatea electromagnetică
+
+1.9. Dotări, interfețe și mediu pentru personal
+Dotările, interfețele, condițiile de lucru și mediu pentru
+personal existente la bord, inclusiv cabinele mecanicului de
+locomotivă, interfața mecanic/mașină
+1.10. Protecția împotriva incendiilor și evacuarea
+1.11. Întreținere
+Dotări și interfețe pentru întreținere existente la bord
+1.12. Control-comandă și semnalizare la bord
+Toate echipamentele existente la bord, necesare pentru a
+garanta siguranța și controlul-comanda mișcărilor trenurilor
+autorizate să circule pe rețea și efectele acestora asupra zonei
+limitrofe căii ferate a sistemului feroviar
+1.13. Cerințe operaționale specifice
+Cerințe operaționale specifice pentru vehicule, inclusiv modul
+de funcționare în caz de avarie, recuperarea vehiculului etc.
+1.14. Articole referitoare la marfă
+Exigențe specifice referitoare la marfă și mediu, inclusiv
+dotările specifice mărfurilor periculoase
+NOTĂ: Explicațiile și informațiile de la pct. 1 au caracter
+informativ și nu reprezintă definiții ale parametrilor.
+2. Clasificarea normelor
+Normele naționale referitoare la parametrii enumerați în
+pct. 1 sunt alocate uneia dintre următoarele 3 grupe de mai jos.
+Normele și restricțiile de natură strict locală nu se includ aici;
+verificarea lor implică verificări care vor fi stabilite de comun
+acord între operatorii de transport feroviar și administratorii de
+infrastructură.
+Grupa A
+Grupa A include:
+— standardele internaționale;
+— normele naționale considerate a fi echivalente la nivel de
+siguranță feroviară cu normele naționale ale altor state membre
+ale Uniunii Europene.
+Grupa B
+Grupa B include toate normele care nu intră în domeniul de
+aplicare al grupei A sau al grupei C ori care nu au putut fi
+clasificate încă în vreuna dintre aceste grupe.
+Grupa C
+Grupa C include normele care sunt strict necesare și care
+sunt asociate cu caracteristicile infrastructurii tehnice în vederea
+asigurării unei utilizări în condiții de siguranță și interoperabilitate
+a rețelei vizate, de exemplu, gabaritul.
+
+17
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+
+ANEXA Nr. 8
+
+CRITERIILE MINIME
+
+care trebuie avute în vedere de Ministerul Transporturilor și Infrastructurii atunci când notifică organismele
+1. Organismul în cauză, directorul său și personalul
+responsabil de efectuarea verificărilor nu pot interveni, fie direct,
+fie ca reprezentanți autorizați, în proiectarea, producția,
+construcția, comercializarea sau întreținerea constituenților de
+interoperabilitate ori a subsistemelor și nici în utilizarea lor.
+Aceasta nu exclude posibilitatea unui schimb de informații
+tehnice între producător și organismul în cauză.
+2. Organismul în cauză și personalul responsabil pentru
+verificări trebuie să efectueze aceste verificări la cel mai înalt
+nivel posibil de integritate profesională și competență tehnică și
+să se situeze în afara oricăror presiuni și interese, în special de
+ordin financiar, care le-ar putea afecta judecata sau rezultatele
+controlului, în special din partea persoanelor sau a grupurilor de
+persoane afectate de rezultatele verificărilor.
+În special, organismul și personalul care sunt responsabili
+de verificări trebuie să fie independente, din punct de vedere
+funcțional, față de Autoritatea de Siguranță Feroviară Română
+desemnată pentru a emite autorizații de punere în funcțiune în
+temeiul hotărârii, față de Organismul de Licențe Feroviar Român
+care acordă licențe în temeiul Ordinului ministrului transporturilor
+nr. 535/2007 privind aprobarea normelor pentru acordarea
+licenței de transport feroviar și a certificatelor de siguranță în
+vederea efectuării serviciilor de transport feroviar pe căile ferate
+din România și certificate de siguranță în temeiul Legii
+nr. 55/2006 privind siguranța feroviară, cu modificările ulterioare,
+și față de Organismul de Investigații Feroviar Român.
+3. Organismul în cauză trebuie să folosească personalul și
+să posede mijloacele necesare pentru a îndeplini în mod
+adecvat atribuțiile tehnice și administrative legate de verificări;
+
+acest organism ar trebui să aibă, de asemenea, acces la
+echipamentul necesar pentru verificări excepționale.
+4. Personalul responsabil de verificări trebuie să dețină:
+— o pregătire tehnică și profesională adecvată;
+— cunoștințe satisfăcătoare privind cerințele legate de
+verificările pe care le efectuează și experiență suficientă în
+efectuarea lor;
+— capacitatea de a întocmi certificatele, înregistrările și
+rapoartele din care este constituit dosarul formal al controalelor
+efectuate.
+5. Independența personalului responsabil de verificări trebuie
+garantată. Niciun funcționar nu trebuie remunerat în funcție de
+numărul de verificări efectuate sau de rezultatele acestora.
+6. Organismul în cauză trebuie să încheie asigurări de
+răspundere civilă, în afară de cazul în care această răspundere
+este asigurată de către stat în cadrul legislației interne sau de
+cazul în care verificările sunt efectuate direct de către stat prin
+Ministerul Transporturilor și Infrastructurii.
+7. Personalul organismului în cauză este obligat să păstreze
+secretul profesional cu privire la informațiile obținute pe
+parcursul exercitării sarcinilor sale, dar nu și față de autoritățile
+administrative sau organele care anchetează accidente din
+statul membru al Uniunii Europene în care se efectuează aceste
+activități și nici față de organele de anchetă responsabile de
+investigarea accidentelor cauzate de defectarea constituenților
+de interoperabilitate sau a subsistemelor verificate, în temeiul
+hotărârii sau al oricărei alte dispoziții de drept intern pentru
+punerea în aplicare a hotărârii.
+
+ANEXA Nr. 9
+
+DOSARUL
+
+pentru depunerea unei cereri de derogare
+Atunci când depune o cerere de derogare, Ministerul
+Transporturilor și Infrastructurii trebuie să prezinte următoarele
+documente:
+a) o scrisoare oficială prin care Comisiei Europene i se
+comunică derogarea propusă;
+b) un dosar, anexat la scrisoare, care să includă cel puțin:
+— o descriere a lucrării, a bunurilor și a serviciilor care fac
+obiectul derogării, în care se precizează datele-cheie, locația
+geografică și zona operațională și tehnică;
+— o referire exactă la STI sau la părți ale acestora pentru
+care este necesară o derogare;
+— o referire exactă și detalii ale dispozițiilor alternative care
+vor fi aplicate;
+
+— pentru cereri efectuate în temeiul art. 9 alin. (1) lit. a) din
+hotărâre, justificarea etapei avansate de dezvoltare a
+proiectului;
+— justificarea derogării, incluzând motivele principale de
+natură tehnică, economică, comercială, operațională și/sau
+administrativă;
+— alte informații care justifică cererea de derogare;
+— o descriere a măsurilor pe care le propune Ministerul
+Transporturilor și Infrastructurii pentru a promova
+interoperabilitatea finală a proiectului. În cazul unei derogări
+minore, această descriere nu este necesară.
+Documentația trebuie furnizată în format tipărit și electronic,
+pentru a putea fi distribuită membrilor comitetului.
+
+ANEXA Nr. 10
+
+PA R T E A A
+
+Hotărâri abrogate, prevăzute la art. 35 din hotărâre:
+— Hotărârea Guvernului nr. 1.533/2003 privind interoperabilitatea sistemului de transport feroviar de
+mare viteză, publicată în Monitorul Oficial al României, Partea I, nr. 18 din 9 ianuarie 2004, cu modificările
+și completările ulterioare;
+— Hotărârea Guvernului nr. 850/2003 privind interoperabilitatea sistemului feroviar convențional,
+publicată în Monitorul Oficial al României, Partea I, nr. 529 din 23 iulie 2003, cu modificările și completările
+ulterioare.
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+ANEXA Nr. 11
+
+TA B E L D E C O R E S P O N D E N Ț Ă
+Hotărârea Guvernului nr. 1.533/2003
+
+Hotărârea Guvernului
+nr. 877/2010
+
+Hotărârea Guvernului nr. 850/2003
+
+Art. 1 alin. (1)
+
+Art. 1 alin. (1)
+
+Art. 1 alin. (1)
+
+Art. 1 alin. (2)
+
+Art. 1 alin. (2)
+
+Art. 1 alin. (2)
+
+—
+
+Art. 1 alin. (3)
+
+—
+
+Art. 1 alin. (4)
+
+Art. 2 teza introductivă
+
+Art. 2 teza introductivă
+
+Art. 2 teza introductivă
+
+Art. 2 lit. a)—l)
+
+Art. 2 lit. a)—l)
+
+Art. 2 lit. a) și b) și e)—m)
+Art. 2 lit. c) și d)
+
+Art. 2 lit. n)
+Art. 2 lit. o)
+Art. 2 lit. m)
+Art. 2 lit. p)
+—
+
+Art. 2 lit. m)
+Art. 2 lit. n)
+Art. 2 lit. o)
+Art. 2 lit. p)
+—
+
+Art. 2 lit. n)
+Art. 2 lit. o)
+Art. 2 lit. p)
+Art. 2 lit. q)
+Art. 2 lit. r)—z)
+
+Art. 3, 4 și 5
+
+Art. 3, 4 și 5
+
+Art. 3, 4 și art. 5 alin. (1)—(3)
+
+Art. 6 alin. (1)—(4)
+
+Art. 6 alin. (1)—(4)
+
+Art. 6 alin. (1)—(2)
+
+—
+
+—
+
+Art. 7 și 8
+
+Art. 7
+
+Art. 7
+
+Art. 9
+
+Art. 8
+
+Art. 8
+
+Art. 10 alin. (1)
+
+Art. 9
+
+Art. 9
+
+Art. 10 alin. (2)
+
+Art. 10 alin. (1)—(3)
+—
+—
+
+Art. 10 alin. (1)—(3)
+—
+
+Art. 11 alin. (1)—(3)
+Art. 11 alin. (4)
+Art. 11 alin. (5)
+
+Art. 11—13
+
+Art. 11—13
+
+Art. 12—14
+
+Art. 14 alin. (1) și (2)
+Art. 14 alin. (3)
+Art. 14 alin. (4) și (5)
+
+Art. 14 alin. (1) și (2)
+Art. 14 alin. (3)
+Art. 14 alin. (4) și (5)
+
+Art. 15 alin. (1) și (2)
+Art. 20
+Art. 30
+
+—
+
+—
+
+Art. 15 alin. (2) și (3)
+
+Art. 15 și 16
+
+Art. 15 și 16
+
+Art. 16 și 17
+
+Art. 16 alin. (3)
+
+Art. 16 alin. (3)
+
+Art. 17 alin. (3)
+
+—
+
+—
+
+—
+
+Art. 18
+—
+
+Art. 18 alin. (1)—(3)
+—
+
+Art. 18 alin. (1)—(3)
+Art. 18 alin. (4) și (5)
+
+Art. 19
+
+Art. 19
+
+Art. 19
+
+Art. 20
+
+Art. 20
+
+Art. 28
+
+—
+
+—
+
+Art. 21—27
+
+Art. 21
+
+Art. 21
+
+Mențiune privind transpunerea
+
+—
+
+—
+
+Art. 29 alin. (4) și (5)
+
+Art. 22
+
+Art. 22
+
+Art. 34
+
+Art. 23
+
+Art. 27
+
+—
+
+—
+
+—
+
+Art. 35
+
+Anexele 1—6
+
+Anexele 1—6
+
+Anexele 1—6
+
+—
+
+—
+
+Anexa 7
+
+Anexa 7
+
+Anexa 7
+
+Anexa 8
+
+—
+
+—
+
+Anexele 9—11
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+
+19
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+MINISTERUL ADMINISTRAȚIEI ȘI INTERNELOR
+
+ORDIN
+pentru aprobarea Dispozițiilor generale de apărare împotriva incendiilor la ateliere
+și spații de întreținere și reparații
+În conformitate cu prevederile art. 17 alin. (2) din Legea nr. 307/2006 privind apărarea împotriva incendiilor, cu modificările
+ulterioare, ale art. 11 lit. c) din Regulamentul de organizare și funcționare al Inspectoratului General pentru Situații de Urgență,
+aprobat prin Hotărârea Guvernului nr. 1.490/2004 pentru aprobarea Regulamentului de organizare și funcționare și a organigramei
+Inspectoratului General pentru Situații de Urgență, cu modificările ulterioare, precum și cu prevederile Hotărârii Guvernului
+nr. 1.016/2004 privind măsurile pentru organizarea și realizarea schimbului de informații în domeniul standardelor și reglementărilor
+tehnice, precum și al regulilor referitoare la serviciile societății informaționale între România și statele membre ale Uniunii Europene,
+precum și Comisia Europeană, cu modificările ulterioare,
+în temeiul prevederilor art. 7 alin. (4) din Ordonanța de urgență a Guvernului nr. 30/2007 privind organizarea și funcționarea
+Ministerului Administrației și Internelor, aprobată cu modificări prin Legea nr. 15/2008, cu modificările și completările ulterioare,
+ministrul administrației și internelor emite următorul ordin:
+Art. 1. — Se aprobă Dispozițiile generale de apărare
+împotriva incendiilor la ateliere și spații de întreținere și reparații,
+prevăzute în anexa care face parte integrantă din prezentul
+ordin.
+Art. 2. — Prezentul ordin intră în vigoare în termen de 30 de
+zile de la data publicării în Monitorul Oficial al României,
+Partea I.
+
+*
+
+Prezentul ordin a fost adoptat conform procedurii de
+notificare prevăzute de Directiva 98/34/CE a Parlamentului
+European și a Consiliului din 22 iunie 1998 de stabilire a unei
+proceduri pentru furnizarea de informații în domeniul
+standardelor și reglementărilor tehnice, publicată în Jurnalul
+Oficial al Comunităților Europene (JOCE) nr. L 204 din 21 iulie
+1998, cu modificările ulterioare.
+
+Ministrul administrației și internelor,
+Vasile Blaga
+București, 23 septembrie 2010.
+Nr. 211.
+ANEXĂ
+
+DISPOZIȚII GENERALE
+
+de apărare împotriva incendiilor la ateliere și spații de întreținere și reparații
+CAPITOLUL I
+Scop și domeniu de aplicare
+Art. 1. — (1) Dispozițiile generale de apărare împotriva
+incendiilor la ateliere și spații de întreținere și reparații, denumite
+în continuare dispoziții generale, stabilesc cerințele minime
+necesare pentru prevenirea și reducerea riscurilor de producere
+a incendiilor, asigurarea condițiilor necesare pentru limitarea
+propagării și dezvoltării acestora prin măsuri tehnice și
+organizatorice, asigurarea siguranței utilizatorilor și forțelor care
+acționează la intervenție, securității spațiilor și construcțiilor noi
+și a celor existente, destinate activităților permanente de
+întreținere și reparații ale aparaturii, echipamentelor, mașinilor,
+utilajelor, instalațiilor și altora similare, protecției conținutului
+acestora în caz de incendiu, precum și a mediului împotriva
+efectelor negative ale situațiilor de urgență determinate de
+incendii în acest tip de obiective.
+(2) Prin ateliere și spații de întreținere și reparații, în sensul
+prezentelor dispoziții generale, se înțelege acele locuri, zone,
+încăperi independente sau în cadrul altor construcții, inclusiv
+ateliere mobile, amenajate și dotate cu utilaje și aparate
+necesare desfășurării activității pentru care au fost destinate.
+
+(3) Prin utilizatori, în sensul prezentelor dispoziții generale, se
+înțelege personalul angajat, personalul care desfășoară activități
+de prestări servicii/întreținere, personalul colaborator și clienții.
+Art. 2. — (1) Prevederile prezentelor dispoziții generale se
+aplică pe teritoriul României, pe întreaga perioadă de exploatare
+a atelierelor și spațiilor de întreținere și reparații, indiferent de
+titularul dreptului de proprietate.
+(2) Modul de aplicare al prezentelor dispoziții generale se
+urmărește pe timpul:
+a) activităților de control și verificare în scopul prevenirii
+incendiilor la construcții, procese, echipamente, sisteme care au
+rol în asigurarea cerințelor de siguranță a utilizatorilor și de
+securitate a construcțiilor, în caz de incendiu;
+b) verificării planurilor construcțiilor existente, a
+documentațiilor tehnice pentru sistemele de siguranță a
+utilizatorilor și de securitate a construcțiilor în caz de incendiu,
+a căilor de acces și evacuare a utilizatorilor și forțelor de
+intervenție la incendiu, a surselor/rezervei de apă pentru
+incendii, a instalațiilor de ventilare și climatizare și a celorlalte
+sisteme/instalații/dispozitive de apărare împotriva incendiilor;
+c) instruirii în domeniul apărării împotriva incendiilor a
+serviciilor private și voluntare pentru situații de urgență și a
+utilizatorilor;
+d) depozitării, utilizării și manipulării materialelor combustibile.
+
+20
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+
+Art. 3. — Prezentele dispoziții generale se completează cu
+prevederile specifice din Normele generale de apărare împotriva
+incendiilor, aprobate prin Ordinul ministrului administrației și
+internelor nr. 163/2007, și cu alte reglementări tehnice din
+domeniul prevenirii și stingerii incendiilor aplicabile exploatării
+construcțiilor și instalațiilor utilitare aferente acestora, precum și
+construcțiilor cu destinație ateliere și spații de întreținere și
+reparații ale aparaturii, echipamentelor, mașinilor, utilajelor,
+instalațiilor și altora asemenea.
+Art. 4. — Respectarea prevederilor prezentelor dispoziții
+generale se verifică pe timpul controalelor de prevenire a
+incendiilor executate la acest tip de obiective de șefii locurilor
+de muncă, de cadrele tehnice ori de personalul de specialitate
+propriu cu atribuții pe linia apărării împotriva incendiilor sau prin
+componenta preventivă a serviciului privat pentru situații de
+urgență, acolo unde acesta este constituit, în condițiile legii, de
+organele administrației publice locale prin componenta
+preventivă din cadrul serviciilor publice voluntare pentru situații
+de urgență, pentru operatorii economici și instituțiile publice
+subordonate consiliului local și de inspectorii de prevenire din
+inspectoratele pentru situații de urgență județene/al municipiului
+București.
+Art. 5. — Conducătorul instituției/operatorului economic la
+nivelul căreia/căruia există ateliere și spații de întreținere și
+reparații, prin persoana desemnată de acesta, denumită în
+continuare administrator, are următoarele obligații principale sub
+aspectul apărării împotriva incendiilor:
+a) stabilește, prin dispoziții scrise, responsabilitățile și modul
+de organizare în unitatea pe care o administrează și le aduce la
+cunoștință salariaților;
+b) solicită, după caz, elaborarea documentației tehnice și
+includerea în aceasta a măsurilor de apărare împotriva
+incendiilor;
+c) obține autorizațiile necesare pentru desfășurarea
+activităților conform legii;
+d) asigură încadrarea personalului cu atribuții în domeniul
+apărării împotriva incendiilor;
+e) asigură desfășurarea controalelor de apărare împotriva
+incendiilor organizate de către inspectoratele pentru situații de
+urgență județene/al municipiului București sau de către
+personalul prevăzut de lege;
+f) ia măsuri pentru remedierea deficiențelor constatate, în
+condițiile legii;
+g) asigură echiparea și dotarea cu mijloace tehnice de
+apărare împotriva incendiilor, prevăzute în documentația tehnică
+menționată la lit. b) sau de prezentele dispoziții generale.
+CAPITOLUL II
+Reguli și măsuri de prevenire a incendiilor
+SECȚIUNEA 1
+Prevederi comune pentru ateliere și spații de întreținere
+și reparații
+
+Art. 6. — Administratorul asigură în permanență funcționarea
+mijloacelor tehnice de apărare împotriva incendiilor și a
+instalațiilor de protecție împotriva incendiilor la parametrii stabiliți
+în documentația tehnică corespunzătoare.
+Art. 7. — Pe timpul lucrului în atelierele și spațiile în care se
+desfășoară activitățile de întreținere și reparații ale aparaturii,
+echipamentelor, mașinilor, utilajelor, instalațiilor și altora similare,
+trebuie luate măsuri de reducere a riscului de incendiu prin
+limitarea la strictul necesar a cantităților de materiale
+
+combustibile și a eventualelor surse cu potențial de aprindere a
+acestora.
+Art. 8. — Exploatarea sistemelor, instalațiilor, dispozitivelor,
+echipamentelor, aparatelor, mașinilor și utilajelor de orice
+categorie se face conform reglementărilor tehnice specifice,
+precum și instrucțiunilor producătorului.
+Art. 9. — (1) Pe timpul desfășurării activității în ateliere și
+spații de întreținere și reparații, ușile de pe căile de evacuare se
+mențin în permanență descuiate.
+(2) Prin proiect se admite adoptarea de soluții cu uși pe căile
+de evacuare prevăzute cu electromagneți acționați de centrale
+de detecție și semnalizare a incendiilor și de declanșatoare
+manuale, prevăzute cu surse de alimentare cu energie electrică
+de rezervă.
+Art. 10. — În incinta atelierelor și spațiilor de întreținere și
+reparații, precum și în afara acestora trebuie să fie asigurate
+marcarea și semnalizarea, conform reglementărilor în vigoare, a:
+a) căilor de acces, de evacuare și intervenție;
+b) locurilor pentru fumat/de interzicere a fumatului;
+c) locurilor de adunare a utilizatorilor în caz de incendiu;
+d) locurilor de evacuare;
+e) locurilor de depozitare a bunurilor în caz de incendiu;
+f) locurilor de parcare;
+g) mijloacelor inițiale de intervenție.
+Art. 11. — (1) Se interzice fumatul în ateliere și spații de
+întreținere și reparații.
+(2) Fumatul este permis numai în locuri special amenajate în
+afara clădirii.
+Art. 12. — (1) Lucrările cu foc deschis se execută numai
+după obținerea permisului de lucru cu foc și după luarea
+măsurilor de prevenire necesare, cu excepția atelierelor care au
+ca obiect de activitate executarea lucrărilor de acest gen.
+(2) Permisul de lucru cu foc este emis în conformitate cu
+prevederile legale în vigoare.
+Art. 13. — Se interzice utilizarea buteliilor cu fluide
+tehnologice improvizate, necertificate conform legii, neechipate
+cu aparatură de măsură și control și neasigurate împotriva
+răsturnării.
+Art. 14. — Se interzice utilizarea buteliilor de aragaz cu
+defecțiuni sau în stare avansată de uzură, neechipate cu
+aparatură de măsură și control și neasigurate împotriva
+răsturnării.
+Art. 15. — Instalațiile utilitare aferente atelierelor și spațiilor
+de întreținere și reparații, precum și instalațiile tehnologice se
+exploatează potrivit reglementărilor tehnice și măsurilor
+specifice de apărare împotriva incendiilor, astfel încât acestea să
+nu constituie surse de inițiere și/sau de propagare a incendiilor.
+Art. 16. — Instalațiile aferente atelierelor și spațiilor de
+întreținere și reparații trebuie să corespundă destinației, tipului
+și categoriei de importanță a construcției, precum și nivelului de
+risc de incendiu, să aibă nivelul de protecție corespunzător
+mediului în care sunt amplasate și să respecte prevederile din
+normele specifice de apărare împotriva incendiilor.
+Art. 17. — Instalațiile tehnologice se exploatează cu
+respectarea strictă a instrucțiunilor și regulilor de utilizare,
+precum și a măsurilor de apărare împotriva incendiilor, stabilite
+de proiectanți și de producători/furnizori.
+Art. 18. — Pe timpul exploatării instalațiilor aferente
+atelierelor și spațiilor de întreținere și reparații sunt obligatorii:
+a) respectarea instrucțiunilor de funcționare;
+b) funcționarea cu sisteme, aparate și echipamente
+corespunzătoare pentru controlul și menținerea parametrilor;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+c) întreținerea elementelor prevăzute pentru izolare termică
+sau electrică ori pentru separare;
+d) respectarea termenelor stabilite pentru efectuarea
+lucrărilor de întreținere și reparații sau executarea
+necorespunzătoare a acestora;
+e) executarea lucrărilor de întreținere și reparații sau a unor
+modificări numai de către personal autorizat;
+f) utilizarea unor aparate/echipamente care să nu prezinte
+risc de incendiu și/sau de explozie;
+g) asigurarea protecției la foc corespunzătoare față de
+materialele și substanțele combustibile existente în spațiul în
+care sunt utilizate.
+Art. 19. — La terminarea programului de lucru în ateliere și
+spații de întreținere și reparații se efectuează următoarele
+operațiuni obligatorii:
+a) întreruperea alimentării cu energie electrică, gaze, abur și
+altele asemenea a mașinilor, utilajelor, aparatelor, dispozitivelor
+care nu necesită funcționare permanentă;
+b) verificarea închiderii tuturor robinetelor de gaz de pe
+conducte și recipiente;
+c) evacuarea deșeurilor rezultate în urma desfășurării
+activității și efectuarea curățeniei la locul de muncă;
+d) întreruperea iluminatului, cu excepția celui de siguranță;
+e) încuierea și predarea cheilor la locurile stabilite de
+persoanele cu atribuții de conducere.
+Art. 20. — (1) Instalațiile electrice se execută, se întrețin și se
+exploatează conform prevederilor reglementărilor tehnice de
+specialitate în vigoare.
+(2) Orice modificare a instalațiilor electrice existente se
+realizează de către personal autorizat, pe bază de documentație
+tehnică.
+Art. 21. — Instalația electrică se verifică periodic de persoane
+fizice sau juridice autorizate, conform reglementărilor specifice.
+Art. 22. — La exploatarea instalațiilor și receptoarelor
+electrice se interzic:
+a) înlocuirea siguranțelor, releelor de protecție și a
+întreruptoarelor automate cu altele necalibrate sau improvizate;
+b) încărcarea instalației electrice — conductori, cabluri,
+întreruptoare, comutatoare, prize, transformatoare și altele
+asemenea peste sarcina maximă admisă;
+c) realizarea unor contacte electrice imperfecte, care nu au
+rezistență de trecere comparabilă cu rezistența ohmică a
+conductorilor legați, sigure în timp și ușor de verificat;
+d) asigurarea altui nivel de izolație decât cel al conductorilor
+la legăturile electrice;
+e) supunerea legăturilor electrice la eforturi de tracțiune mai
+mari decât cele pentru care au fost dimensionate;
+f) nepregătirea suprafețelor de contact ale conductorilor
+înainte de execuția legăturilor electrice prin mijloace adecvate;
+g) executarea legăturilor electrice prin mijloace și metode
+neadecvate astfel încât să existe contacte imperfecte care să
+genereze supraîncălziri, perlări sau scântei;
+h) lăsarea neizolată a capetelor conductorilor electrici, în
+cazul demontării parțiale a unei instalații;
+i) folosirea legăturilor provizorii prin introducerea
+conductorilor electrici, fără ștecăr, direct în prize;
+j) utilizarea prizelor, neprevăzute cu dispozitiv de protecție
+diferențială și de limitare a puterii, amplasate la distanță mai
+mică de 1,00 m de materiale combustibile, în depozitele și
+magaziile cu materiale combustibile;
+k) utilizarea receptorilor de energie electrică — radiatoare,
+reșouri, fiare de călcat, ciocane de lipit și altele asemenea, fără
+
+21
+
+luarea măsurilor de izolare față de materialele și elementele
+combustibile din spațiul sau încăperea respectiv/respectivă;
+l) utilizarea lămpilor mobile/portative, alimentate prin
+cordoane improvizate și/sau uzate;
+m) folosirea la corpurile de iluminat a filtrelor de
+lumină/abajururilor improvizate din carton, hârtie sau din alte
+materiale combustibile;
+n) așezarea pe motoarele electrice a unor materiale
+combustibile precum cârpe, hârtii, folii de material plastic, lemne
+etc.;
+o) utilizarea radiatoarelor și a reșourilor electrice
+neomologate ori în alte locuri decât cele stabilite prin instrucțiuni
+sau agremente tehnice;
+p) folosirea în stare defectă, uzată și/sau cu improvizații a
+instalației electrice și/sau a receptorilor electrici;
+q) suspendarea corpurilor de iluminat direct de conductorii
+de alimentare;
+r) agățarea sau introducerea în interiorul panourilor, nișelor,
+tablourilor, canalelor sau a tunelelor electrice a obiectelor de
+orice fel;
+s) depozitarea de obiecte și/sau materiale combustibile în
+posturile de transformare, în încăperile tablourilor generale de
+distribuție a energiei electrice, precum și sub/în cutiile tablourilor
+electrice;
+t) efectuarea lucrărilor de întreținere, revizii și reparații de
+către personal necalificat și neautorizat;
+u) exploatarea tablourilor electrice, releelor, contactoarelor,
+reostatelor de pornire, dozelor de derivație, conexiunilor
+motoarelor electrice și altora asemenea, fără carcase și capace
+de protecție.
+Art. 23. — Instalațiile/Aparatele electrice trebuie să aibă
+gradul de protecție corespunzător condițiilor de mediu în care
+sunt exploatate, grad de protecție menținut pe întreaga perioadă
+de funcționare și utilizare în mediile respective, să nu prezinte
+defecțiuni și improvizații și să fie legate la pământ conform
+normelor în vigoare.
+Art. 24. — Traseele cablurilor electrice trebuie astfel alese
+încât să se asigure protecția acestora împotriva deteriorărilor
+mecanice, a coroziunii, vibrațiilor și supraîncălzirii.
+Art. 25. — Motoarele, corpurile de iluminat, întreruptoarele
+și altele asemenea care echipează atelierele și spațiile de
+întreținere și reparații trebuie să corespundă condițiilor de mediu
+în care se utilizează.
+Art. 26. — (1) Exploatarea și întreținerea instalațiilor fixe de
+gaze naturale sau G.P.L. se asigură de proprietarul construcției
+în care sunt amplasate ateliere și spații de întreținere și reparații,
+dacă nu se prevede altfel în contractul, convenția sau în alt act
+juridic similar încheiat între proprietar/locator și chiriaș/locatar.
+(2) Măsurile de apărare împotriva incendiilor se asigură de
+către proprietar/locator sau chiriaș/locatar, conform obligațiilor
+prevăzute în contractul, convenția sau în alt act juridic similar
+încheiat între părți.
+Art. 27. — Instalațiile pentru G.P.L. se utilizează cu
+respectarea strictă a prevederilor normativelor în vigoare.
+Art. 28. — (1) Elementele instalațiilor — conducte, robinete,
+arzătoare și altele asemenea se verifică periodic și se întrețin în
+bună stare de funcționare, înlăturându-se orice posibilitate de
+scurgere a gazelor.
+(2) În cazul în care se constată miros de gaze, înainte de a
+se aprinde focul se aerisește încăperea respectivă, se
+depistează și se înlătură de către personal autorizat defectele
+care au provocat scăpările de gaze.
+
+22
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+
+Art. 29. — (1) Aprinderea și stingerea focului se execută
+numai de personal instruit în acest scop.
+(2) Pentru aceasta, la fiecare sobă se pune câte o etichetă,
+pe care se menționează, pe lângă ora de aprindere și stingere,
+următorul text: ăPentru aprinderea și stingerea focului răspunde:
+numele și prenumele persoanei”.
+(3) La aprinderea și stingerea focului la aparate
+consumatoare de combustibili gazoși se respectă prevederile
+Normelor tehnice pentru proiectarea, executarea și exploatarea
+sistemelor de alimentare cu gaze naturale, aprobate prin Ordinul
+președintelui Autorității Naționale de Reglementare în Domeniul
+Energiei nr. 5/2009, cu modificările și completările ulterioare.
+Art. 30. — Se interzice folosirea gazelor în sobele sau
+aparatele defecte și a căror etanșeitate a canalelor și coșului de
+evacuare a fumului nu este asigurată.
+Art. 31. — (1) Exploatarea și întreținerea mijloacelor de
+încălzire locală permanente și provizorii pentru deservirea
+utilizatorilor sunt asigurate de proprietarul construcției în care
+sunt amplasate ateliere și spații de întreținere și reparații.
+(2) Mijloacele de încălzire locală trebuie să fie omologate,
+certificate și adecvate spațiului în care sunt utilizate.
+Art. 32. — În cazul în care se impune suplimentarea cu surse
+de încălzire, aceasta se realizează cu respectarea măsurilor de
+prevenire a incendiilor.
+Art. 33. — Se interzice utilizarea surselor de încălzire cu
+flacără deschisă în spațiile de lucru cu pericol de incendiu și/sau
+de explozie.
+Art. 34. — Materialele sau elementele combustibile din fața
+focarelor și cenușarelor se așază la distanță de minimum 1,25 m
+față de acestea, iar cele greu combustibile la 1,00 m.
+Art. 35. — (1) În încăperile în care sunt amplasate sobele se
+interzice depozitarea unor cantități de combustibili solizi care să
+depășească consumul pentru 24 de ore.
+(2) Depozitarea/Amplasarea materialelor combustibile se
+face la o distanță mai mare de 0,50 m la sobele cu acumulare
+de căldură.
+(3) Este interzisă așezarea materialelor combustibile
+deasupra sobelor sau direct pe acestea.
+Art. 36. — Mijloacele de încălzire locală cu combustibili solizi
+sau gaze, precum și rezervoarele de consum ale sobelor care
+utilizează combustibili lichizi, a căror protecție termică a fost
+asigurată de producător pe baza încercărilor efectuate și
+acceptată la omologarea produsului, pot fi amplasate la distanțe
+mai mici decât cele prevăzute mai sus, doar dacă acest lucru
+este precizat în instrucțiunile de folosire.
+Art. 37. — În fața ușiței de alimentare a sobei cu combustibili
+solizi, pardoseala combustibilă se protejează cu tablă metalică
+având dimensiunile minime de 0,70 m x 0,50 m.
+Art. 38. — (1) Înainte de utilizare, sobele și coșurile de fum
+trebuie verificate amănunțit, reparate, curățate și date în
+exploatare în perfectă stare de funcționare.
+(2) Nu se admite utilizarea sobelor fără ușițe la focare și
+cenușare, defecte sau izolate necorespunzător față de
+elementele combustibile ale clădirilor.
+Art. 39. — Este interzisă aprinderea focului în sobe prin
+stropire cu benzină, petrol sau alte lichide combustibile.
+Art. 40. — Se interzice uscarea hainelor sau a altor materiale
+combustibile pe sobe ori în imediata lor apropiere.
+Art. 41. — Nu se admite folosirea lemnelor mai lungi decât
+vatra focarului sobei sau a cărbunilor cu o putere calorifică mai
+mare decât cea stabilită de producător.
+
+Art. 42. — Cenușa se evacuează periodic într-un loc stabilit
+și amenajat în acest scop, fără pericol de incendiu și numai după
+ce se sting complet resturile de jar.
+Art. 43. — Se interzice supraalimentarea cu combustibil a
+sobelor, astfel încât să se evite încălzirea excesivă a acestora.
+Art. 44. — Gurile de alimentare cu combustibil a sobelor cu
+acumulare de căldură se amplasează în exteriorul atelierelor și
+spațiilor de întreținere și reparații.
+Art. 45. — În ateliere și spații de întreținere și reparații se
+interzice folosirea sobelor fără acumulare de căldură.
+Art. 46. — Amplasarea centralelor termice se realizează în
+conformitate cu prevederile reglementărilor tehnice specifice și
+cu prescripțiile producătorului/furnizorului.
+Art. 47. — Exploatarea centralelor termice, precum și a
+instalațiilor de cazane aferente se efectuează numai de către
+personal calificat și autorizat.
+Art. 48. — Punerea în funcțiune și exploatarea centralelor
+termice cu abur sau apă supraîncălzită se fac numai pe baza
+autorizației de exploatare, eliberată de Inspectoratul de Stat
+pentru Controlul Cazanelor, Recipientelor și Instalațiilor de
+Ridicat (I.S.C.I.R.).
+Art. 49. — Punerea în funcțiune și exploatarea centralelor
+termice cu abur de joasă presiune și apă caldă până la 100°C
+se execută conform instrucțiunilor în vigoare.
+Art. 50. — Se interzice depozitarea în centrala termică a unor
+utilaje sau materiale care nu au legătură cu exploatarea efectivă
+a acesteia.
+Art. 51. — Aparatele pentru controlul temperaturii și presiunii
+din cazane și conducte, indicatoarele de nivel pentru
+combustibil, supapele de siguranță și altele asemenea se
+mențin în perfectă stare de funcționare.
+Art. 52. — (1) Cazanele alimentate cu combustibil lichid se
+prevăd, în fața focarelor, sub injectoare, cu tăvi metalice umplute
+cu nisip, pentru colectarea eventualelor scurgeri provenite din
+instalații.
+(2) Scurgerile accidentale de combustibil se colectează și se
+evacuează imediat în locuri special amenajate.
+Art. 53. — Înainte de aprinderea combustibilului la injectoare
+se verifică focarul și se îndepărtează eventualele scurgeri de
+combustibil.
+Art. 54. — Înainte de punerea în funcțiune a cazanelor,
+precum și după oprirea acestora, focarele și canalele de fum se
+ventilează timp de 10 minute, folosindu-se instalația prevăzută
+în acest sens sau instalația utilizată pentru evacuarea gazelor
+arse.
+Art. 55. — Aprinderea combustibilului pulverizat în focarele
+cazanelor se efectuează fie electric, fie cu ajutorul unei torțe
+fixate pe o vergea metalică lungă de circa 80,00 cm, nefiind
+admise improvizațiile.
+Art. 56. — Se interzice reaprinderea focului de la zidăria
+incandescentă a focarului sau de la flacăra altui arzător.
+Art. 57. — Centralele termice care folosesc combustibil
+gazos se pun în funcțiune numai după verificarea arzătoarelor și
+numai dacă acestea corespund presiunii din conductele de
+gaze, în limitele prevăzute de norme.
+Art. 58. — (1) Controlul etanșeității conductelor/instalațiilor/
+echipamentelor cu gaz se execută numai cu emulsie de apă și
+săpun.
+(2) La apariția unei neetanșeități sau ruperi a unei conducte
+din sala cazanelor, se închide robinetul de pe conducta
+principală din exteriorul clădirii și se deschid ferestrele și ușile
+pentru aerisirea intensă a sălii.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+Art. 59. — Aprinderea arzătoarelor cu gaze în focarele
+cazanelor de la centralele termice se face pe principiul ăgaz pe
+flacără”.
+Art. 60. — Circuitul de alimentare al fiecărui arzător se
+prevede cu două robinete montate în serie, dintre care unul cu
+acționare manuală.
+Art. 61. — Poziția ventilelor ăînchis” sau ădeschis” se
+marchează vizibil.
+Art. 62. — Pentru fiecare cazan se asigură efectuarea
+periodică a reviziei și lucrările de reparații potrivit termenelor
+prevăzute de normele I.S.C.I.R.
+Art. 63. — (1) Sistemele de ventilare pentru evacuarea
+fumului și gazelor fierbinți, de climatizare se verifică și se întrețin
+periodic, conform instrucțiunilor producătorului/furnizorului și
+reglementărilor tehnice specifice.
+(2) Sistemele de ventilare trebuie să asigure, în caz de
+incendiu, evacuarea fumului și gazelor fierbinți din clădire pentru
+a permite ieșirea utilizatorilor și accesul echipelor de intervenție
+în condiții de siguranță.
+Art. 64. — Sistemele de ventilare natural organizată și
+sistemele de ventilare mecanică ale încăperilor în atmosfera
+cărora se degajă gaze, vapori, praf sau pulberi combustibile se
+întrețin și se utilizează astfel încât în exploatarea normală să se
+evite posibilitatea acumulării acestor substanțe în cantități ce
+pot prezenta pericol de incendiu ori explozie.
+Art. 65. — Plasele de sârmă sau grătarele de protecție de la
+prizele de ventilare se mențin în bună stare astfel încât să
+împiedice pătrunderea diferitelor corpuri străine în canalele de
+ventilare.
+Art. 66. — Amplasarea în încăperi a gurilor de absorbție se
+face în raport cu greutatea specifică a gazelor sau a vaporilor ce
+se evacuează, iar la ventilările locale, acestea trebuie să se afle
+cât mai aproape de locul de formare a vaporilor, a gazelor sau
+a pulberilor combustibile.
+Art. 67. — Ventilatoarele montate în încăperile/zonele cu
+degajări de substanțe combustibile precum gaze, vapori sau
+praf care pot forma cu aerul amestecuri explozive sau care
+vehiculează astfel de substanțe se mențin în bună stare de
+funcționare și se prevăd cu protecții corespunzătoare mediului.
+Art. 68. — Se interzice evacuarea, prin aceeași instalație de
+ventilare, a substanțelor combustibile și a celor inflamabile,
+precum și a substanțelor care, în amestec, pot provoca
+aprindere sau explozie.
+Art. 69. — La exploatarea instalațiilor de ventilare se
+realizează măsuri pentru:
+a) menținerea unei exhaustări continue și a unei viteze
+constante de circulație a aerului în canale pentru a se înlătura
+posibilitățile de formare a amestecurilor explozive;
+b) interzicerea utilizării surselor de căldură sau scântei la
+instalațiile amplasate în medii în care există praf, vapori ori gaze
+combustibile sau inflamabile;
+c) întreținerea, verificarea și curățarea periodică de
+depunerile combustibile a canalelor, tubulaturii și a
+ventilatoarelor;
+d) limitarea posibilităților de propagare a incendiilor prin
+canalele sistemului de ventilare, prin întreținerea în bune condiții
+a clapetelor antifoc prevăzute.
+Art. 70. — La instalațiile de ventilare care prezintă pericol de
+incendiu sau explozie se mai respectă și următoarele măsuri
+specifice:
+a) tubulatura de aspirație trebuie să asigure posibilitatea
+curățării ei fără dificultate;
+
+23
+
+b) conductele de ventilare trebuie să fie bine întreținute,
+pentru a nu permite scăpări de particule și de vapori inflamabili;
+c) grătarele care se află deasupra canalelor de aspirație ce
+sunt dispuse sub podea trebuie executate din materiale care nu
+produc scântei la lovire.
+Art. 71. — (1) Înainte de începerea activității, instalațiile de
+ventilare/climatizare se verifică urmărindu-se în principal dacă
+acestea corespund destinației amenajării.
+(2) La verificarea instalațiilor de ventilare/climatizare se ține
+cont de modul de funcționare a clapetelor antifoc, a etanșeităților
+la trecerea tubulaturii prin elemente de construcție, de modul de
+asigurare și funcționare a motoarelor de rezervă și altele
+asemenea.
+Art. 72. — Instalațiile de protecție împotriva trăsnetului se
+mențin și se exploatează în bună stare de funcționare, conform
+prevederilor legale.
+Art. 73. — Menținerea în stare corespunzătoare a instalațiilor
+și sistemelor de captare și scurgere la pământ a descărcărilor
+electrice atmosferice este obligatorie la construcții și instalații,
+utilaje și echipamente tehnologice, conform reglementărilor
+tehnice specifice.
+Art. 74. — Verificarea și întreținerea instalațiilor de protecție
+împotriva trăsnetului se efectuează numai de personal
+specializat și autorizat, cu respectarea strictă a cerințelor
+reglementărilor tehnice în vigoare.
+Art. 75. — Instalațiile de protecție împotriva trăsnetului se
+verifică periodic, conform unui grafic stabilit și cu respectarea
+prevederilor normativului de specialitate, urmărindu-se
+integritatea fizică, continuitatea și buna funcționare a tuturor
+elementelor componente: dispozitive de captare, conductoare
+de coborâre, prize de pământ și altele asemenea.
+Art. 76. — Este obligatorie utilizarea sistemelor de captare și
+scurgere la pământ a electricității statice conform instrucțiunilor
+specifice și reglementărilor tehnice.
+Art. 77. — (1) În ateliere și spații de întreținere și reparații
+căile de acces, evacuare și intervenție trebuie să respecte
+condițiile impuse de reglementările tehnice.
+(2) Se interzice blocarea sau diminuarea gabaritului căilor de
+evacuare.
+(3) Gabaritul căilor de evacuare trebuie asigurat în vederea
+exploatării facile de către toate categoriile de utilizatori.
+Art. 78. — În ateliere și spații de întreținere și reparații, riscul
+de incendiu se identifică, se evaluează și se controlează
+conform prevederilor actelor normative specifice.
+Art. 79. — Se interzice utilizarea instalațiilor și aparaturii
+electrice neomologate, necertificate ori cu defecțiuni și/sau
+improvizații.
+Art. 80. — Se interzic depozitarea, chiar temporară, în
+ateliere și spații de întreținere și reparații, de materiale în
+cantități mai mari decât cele necesare consumului pe schimb,
+precum și depozitarea produselor finite în spațiile menționate
+anterior.
+Art. 81. — Se asigură permanent curățarea de praful și
+pulberile ce se depun pe corpurile și conductele de încălzire,
+corpurile de iluminat, tubulaturile de ventilare și altele
+asemenea.
+Art. 82. — Accesul autospecialelor pentru stingerea
+incendiilor trebuie asigurat permanent pe căi de circulație libere
+și practicabile.
+Art. 83. — (1) La ateliere și spații de întreținere și reparații
+focul deschis se folosește în scopuri tehnologice.
+(2) Se interzice lăsarea fără supraveghere a focului deschis.
+
+24
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+
+Art. 84. — (1) Efectuarea lucrărilor de sudare, tăiere, lipire
+sau a altor asemenea operațiuni care prezintă pericol de
+incendiu se poate executa în spațiile respective numai după ce
+s-au luat măsuri pentru îndepărtarea sau protejarea materialelor
+combustibile, golirea, spălarea, blindarea traseelor de conducte
+ori a utilajelor, aerisirea sau ventilarea atelierelor și spațiilor de
+întreținere și reparații, dotarea locurilor de muncă cu mijloace
+de limitare și stingere a incendiilor.
+(2) Lucrările menționate la alin. (1) se execută în conformitate
+cu prevederile art. 12.
+(3) Permisul de lucru cu foc nu este obligatoriu dacă
+destinația spațiilor în care sunt efectuate lucrările este specifică
+operațiunilor de sudare, tăiere, lipire și altele asemenea.
+(4) În toate cazurile prevăzute la alin. (1) sunt obligatorii
+instruirea personalului de execuție, control și supraveghere
+asupra măsurilor de apărare împotriva incendiilor, precum și
+informarea serviciului voluntar public/privat pentru situații de
+urgență.
+Art. 85. — (1) Permisul de lucru cu foc prevăzut la art. 84
+alin. (3) se întocmește în două exemplare, dintre care unul se
+înmânează șefului formației de lucru sau persoanei care
+execută operațiunile cu foc deschis, iar celălalt rămâne la
+emitent.
+(2) Permisul de lucru cu foc este valabil o singură zi.
+(3) La terminarea lucrului, permisul de lucru cu foc se predă
+de către executant emitentului.
+Art. 86. — Șeful atelierului sau spațiului pentru întreținere și
+reparații în care se execută operațiuni cu foc deschis are
+obligația să asigure măsuri pentru:
+a) pregătirea locului;
+b) instruirea personalului;
+c) controlul după terminarea lucrării.
+SECȚIUNEA a 2-a
+Prevederi specifice pentru ateliere și spații de întreținere
+și reparații
+
+§ 1. Ateliere pentru prelucrarea lemnului
+Art. 87. — În atelierele pentru prelucrarea lemnului sunt
+interzise:
+a) fumatul;
+b) lucrările de sudare/lipire cu flacără;
+c) manipularea, depozitarea lichidelor combustibile ori a
+substanțelor inflamabile/explozive;
+d) executarea operațiilor de grunduire, vopsire, lăcuire;
+e) introducerea în ateliere a unor cantități de materii prime
+mai mari decât necesarul schimbului de lucru, precum și
+depozitarea în aceste spații a produselor finite.
+Art. 88. — În scopul prevenirii acumulării de praf de lemn,
+atelierele pentru prelucrarea lemnului se prevăd cu instalații de
+ventilare naturală sau mecanică, completate cu instalații pentru
+captarea prafului, dotate cu sisteme de interblocaj între
+alimentarea lor cu energie electrică și cea a mașinilor și utilajelor
+din ateliere.
+Art. 89. — Instalațiile electrice trebuie să respecte strict
+normele în vigoare în concordanță cu riscul de incendiu/explozie
+existent.
+Art. 90. — Se interzice executarea, modificarea sau
+repararea instalațiilor de încălzire, iluminat ori forță în timpul
+lucrului în atelier sau când instalația de absorbție a prafului de
+lemn și rumegușului nu funcționează.
+Art. 91. — (1) Încălzirea atelierelor se face cu instalații de
+încălzire centrală cu apă, abur sau aer cald.
+
+(2) La atelierele mici, cu suprafața de maximum 300 m2, se
+pot utiliza sobe obișnuite cu acumulare de căldură, având ușițele
+de acces de la focar amplasate în afara încăperilor de lucru.
+(3) Se interzice utilizarea sobelor fără acumulare de căldură,
+a radiatoarelor electrice sau a radianților, indiferent de tipul lor.
+Art. 92. — (1) Toate mașinile, utilajele și instalațiile acționate
+electric trebuie legate la pământ, conform prevederilor legale.
+(2) Acestea trebuie echipate și cu accesorii specifice de
+punere la pământ care să împiedice acumularea de energie
+electrostatică ce poate conduce la descărcări electrice și la
+aprinderea materialului lemnos de mici dimensiuni — așchii,
+rumeguș, praf de lemn.
+Art. 93. — Utilajele și dispozitivele de ascuțit care produc
+scântei se amplasează în încăperi care nu prezintă pericol de
+incendiu, separate de cele pentru prelucrarea materialului
+lemnos.
+Art. 94. — (1) În atelierele cu suprafețe mai mari de 300 m2
+este interzisă încălzirea adezivilor sau a altor substanțe cu surse
+de căldură cu foc deschis ori cu radiatoare electrice.
+(2) Această operație se execută numai în recipiente încălzite
+cu apă supraîncălzită, abur sau ulei diatermic.
+Art. 95. — În atelierele cu suprafețe de maximum 300 m2
+este admisă utilizarea surselor de căldură cu foc deschis
+alimentate cu gaze sau a radiatoarelor electrice pentru
+încălzirea produselor menționate la art. 105, cu respectarea
+reglementărilor specifice și a următoarelor prescripții:
+a) depozitarea materialelor combustibile la distanțe mai mici
+de 1,50 m de sursa de încălzire este interzisă;
+b) operațiunea de încălzire trebuie supravegheată
+permanent, iar la încheierea ei sursa de căldură trebuie
+îndepărtată.
+Art. 96. — (1) În atelier se introduce doar cantitatea de
+material lemnos necesară unei zile de lucru.
+(2) În atelier, acesta se stivuiește în mod ordonat, lăsând
+libere căile de acces și de evacuare.
+(3) Depozitarea și stivuirea materialului lemnos se fac în
+spații stabilite în acest scop, cu respectarea măsurilor specifice
+de prevenire și stingere a incendiilor.
+(4) Se interzice depozitarea sau uscarea materialului lemnos
+pe corpurile de încălzire ori în apropierea acestora.
+Art. 97. — Lubrifianții se aduc numai în cantitățile necesare
+lucrărilor de ungere, evitându-se scurgerile pe utilaje sau pe
+pardoseală.
+Art. 98. — Înainte de introducerea în mașini pentru
+prelucrare, materialele lemnoase se verifică cu atenție pentru
+înlăturarea eventualelor bucăți de metal care, în contact cu
+sculele de lucru, ar putea provoca scântei.
+Art. 99. — (1) Mașinile de prelucrat lemnul la care, pe timpul
+lucrului, se produc cantități mari de deșeuri lemnoase, se prevăd
+cu instalații de exhaustare și transport pneumatic al acestora.
+(2) În cazul în care instalațiile prevăzute la alin. (1) nu
+funcționează, se interzice utilizarea mașinilor respective.
+Art. 100. — (1) La sfârșitul fiecărui schimb, deșeurile de
+material lemnos se colectează și se evacuează în afara
+atelierului în spații special amenajate, cu respectarea măsurilor
+de prevenire și stingere a incendiilor.
+(2) Când cantitățile acumulate sunt mari, evacuarea
+deșeurilor se face de mai multe ori într-un schimb.
+(3) Periodic sau ori de câte ori este nevoie, trebuie curățat
+praful de lemn depus pe suprafețele orizontale ale construcției
+și pe instalațiile din aceasta.
+(4) Praful de lemn se colectează și se depozitează separat
+de celelalte deșeuri.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+(5) În timpul operațiilor prevăzute la alin. (1) — (4) activitatea
+de prelucrare a lemnului trebuie oprită.
+Art. 101. — (1) La terminarea lucrului, șeful de atelier verifică
+următoarele:
+a) curățarea locurilor de muncă și a mașinilor;
+b) evacuarea tuturor deșeurilor și gunoaielor de orice natură;
+c) evacuarea materialelor combustibile care nu trebuie
+depozitate în atelier peste durata programului zilnic de lucru;
+d) oprirea tuturor utilajelor, a instalațiilor de exhaustare, de
+ventilare, a aparatelor electrice care nu necesită funcționare
+permanentă;
+e) scoaterea de sub tensiune a tuturor mașinilor, utilajelor și
+instalațiilor;
+f) funcționarea, acolo unde există, a iluminatului de siguranță;
+g) întreruperea instalației electrice de forță și de iluminat de
+la tabloul principal al atelierului;
+h) închiderea tuturor geamurilor și ușilor pentru a nu se crea
+tiraje de aer în cazul declanșării unui incendiu.
+(2) În cazul în care una sau mai multe dintre aceste activități
+nu s-au executat, șeful de atelier este obligat să ia măsuri pentru
+îndeplinirea lor.
+§ 2. Ateliere de prelucrări mecanice și de tinichigerie
+Art. 102. — În atelierele de prelucrări mecanice și de
+tinichigerie se interzic:
+a) amplasarea materialelor combustibile sau a substanțelor
+inflamabile în apropierea mașinilor și utilajelor care produc
+scântei prin polizare ori așchiere;
+b) folosirea sau lăsarea ciocanelor de lipit în apropierea
+materialelor combustibile;
+c) blocarea trecerilor și căilor de acces dintre utilaje cu
+materiale, semifabricate, piese finite sau scule;
+d) folosirea abajururilor din hârtie sau din alte materiale
+combustibile la corpurile de iluminat electric din dotarea
+atelierelor.
+Art. 103. — Ciocanele de lipit în funcțiune se păstrează pe
+suporturi incombustibile.
+Art. 104. — La controlul cutiilor de viteze, angrenajelor și
+altora asemenea nu se utilizează pentru iluminat flacăra
+deschisă, ci lămpi portative conectate la tensiuni de maximum
+24 V.
+Art. 105. — La executarea operațiunilor de prelucrare a
+metalelor cu scule așchietoare se evită încălzirea excesivă a
+mașinilor-unelte și aruncarea șpanului sau a așchiilor încinse pe
+elemente ori materiale combustibile.
+Art. 106. — (1) Prelucrarea metalelor sau aliajelor cu conținut
+de magneziu, aluminiu, titan și altele asemenea, ale căror
+pulberi sunt pirofore, se efectuează astfel încât să nu producă
+incendii.
+(2) Deșeurile rezultate de la prelucrarea metalelor/aliajelor
+prevăzute la alin. (1) se colectează în recipiente închise și se
+distrug prin ardere în locuri special amenajate.
+Art. 107. — Bumbacul, cârpele, câlții și alte materiale textile,
+îmbibate cu petrol, ulei sau alte lichide inflamabile de la
+curățarea pieselor și mașinilor, se colectează în recipiente
+metalice închise și se evacuează la sfârșitul programului de
+lucru în locuri special destinate.
+Art. 108. — (1) În cazul executării operațiunilor de întreținere
+a mașinilor-unelte se evită scurgerea și răspândirea lubrifianților
+pe utilaje, pardoseli și altele asemenea.
+(2) La executarea operațiunilor de curățare cu petrol a
+mașinilor sau pieselor componente, utilajul se oprește și se
+scoate de sub tensiune.
+
+25
+
+(3) Se interzice efectuarea lucrărilor cu benzină ori cu alți
+solvenți inflamabili în prezența surselor de foc deschis sau când
+este pericol să se producă descărcări electrice ori să se
+desprindă particule metalice incandescente.
+Art. 109. — Pentru prevenirea descărcărilor electrostatice,
+toate părțile metalice ale mașinilor-unelte și utilajelor de orice
+fel se leagă la pământ.
+Art. 110. — (1) Se interzice instalarea polizoarelor și a altor
+mașini care produc scântei în locurile unde se pot degaja gaze
+sau vapori combustibili ori în imediata vecinătate a acestora.
+(2) Toate polizoarele se prevăd cu ventilare de exhaustare.
+(3) Dacă în aceeași încăpere se folosesc atât șaibe textile,
+cât și pietre de polizat, se iau măsuri de evitare a aprinderii
+scamelor de la scânteile pietrelor de polizat.
+Art. 111. — (1) Degresarea, curățarea sau spălarea pieselor
+pregătite pentru lipire trebuie realizată numai cu soluții
+neinflamabile/incombustibile.
+(2) În cazul în care procesul tehnologic cuprinde utilizarea
+de materiale inflamabile, operațiunile prevăzute la alin. (1)
+trebuie să se execute într-o încăpere separată, amenajată
+special în acest scop, cu respectarea strictă a măsurilor de
+prevenire a incendiilor sau exploziilor.
+Art. 112. — (1) Decaparea cu acid azotic a pieselor din
+metale neferoase se face numai în nișe de decapare cu
+ventilare forțată pentru evacuarea vaporilor rezultați.
+(2) Prepararea soluțiilor diluate din acizi concentrați pentru
+decapări se face doar de către personal calificat.
+Art. 113. — (1) Lămpile cu benzină, sobițele pentru încălzit
+ciocanele de lipit, reșourile sau alte aparate cu foc deschis nu se
+lasă în funcțiune fără a fi supravegheate.
+(2) La folosirea lămpilor de benzină se respectă următoarele
+reguli:
+a) alimentarea cu benzină se face după ce arzătorul s-a răcit
+complet, iar rezervorul se umple numai 3/4 din volum;
+b) dopul orificiului de alimentare se înșurubează bine și se
+prevede cu o garnitură corespunzătoare;
+c) aprinderea lămpii se face la cel puțin 5 m de orice material
+combustibil;
+d) lămpile se prevăd cu sistem de siguranță reglat la
+presiunea de lucru, iar cele cu rezervorul mai mare de 3 l se
+echipează cu manometre.
+(3) Se interzic:
+a) reducerea presiunii prin șurubul pentru aer și prin orificiul
+de alimentare atunci când lampa este aprinsă;
+b) demontarea și repararea lămpilor lângă surse de foc
+deschis;
+c) golirea combustibilului din rezervor lângă surse de foc;
+d) folosirea lămpii în încăperi în care se află lichide
+combustibile, substanțe explozive sau surse de gaze
+combustibile.
+§ 3. Ateliere de vulcanizare și de prelucrare a cauciucului
+Art. 114. — În atelierele de vulcanizare se interzic fumatul și
+lucrul cu foc deschis.
+Art. 115. — Atelierele de vulcanizare se prevăd cu instalații
+de ventilare corespunzătoare condițiilor de lucru existente.
+Art. 116. — Cazanul de abur se montează într-o încăpere
+separată de atelierul de lucru.
+Art. 117. — (1) Încălzirea atelierelor se realizează cu instalații
+cu apă caldă sau cu abur de joasă presiune ori cu alte mijloace
+certificate și adecvate spațiului.
+(2) Radiatoarele și conductele instalației de încălzire se
+curăță zilnic, după terminarea programului de lucru, de praf,
+scame sau de alte corpuri combustibile.
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+
+Art. 118. — (1) Tablourile de distribuție a curentului electric
+trebuie să fie amplasate în exteriorul atelierului.
+(2) Dacă în încăperile unde se execută operații de
+vulcanizare se degajă praf, instalațiile electrice trebuie să fie
+corespunzătoare condițiilor de lucru existente.
+Art. 119. — (1) Plăcile cu rezistențe electrice se montează la
+distanță corespunzătoare față de materialele combustibile, se
+leagă la pământ și se prevăd cu termostate pentru evitarea
+supraîncălzirii.
+(2) Se interzice depozitarea materialelor combustibile în jurul
+lor.
+(3) După terminarea lucrului, plăcile cu rezistențe se
+deconectează de la tablourile electrice și se supraveghează
+până la răcirea completă.
+Art. 120. — (1) Cantitățile de materiale combustibile
+necesare procesului tehnologic admise în atelier sunt numai
+cele corespunzătoare unui schimb de lucru.
+(2) Acestea se depozitează la o distanță de minimum 1,00 m
+de instalațiile de încălzire sau de tratament termic.
+(3) Materialele prelucrate se evacuează ritmic.
+(4) Depozitarea camerelor auto sau a anvelopelor în ateliere
+este interzisă.
+Art. 121. — (1) Polizoarele utilizate în procesul tehnologic se
+prevăd cu instalații de captare și evacuare a pulberii de cauciuc.
+(2) Se interzice folosirea polizoarelor prevăzute la alin. (1) la
+materiale și piese care produc scântei.
+§ 4. Ateliere de vopsitorie și finisaj
+Art. 122. — La atelierele de vopsitorie și finisaj în care se
+utilizează vopsele diluate cu solvenți inflamabili se respectă, în
+principal, următoarele reguli:
+a) instalațiile electrice, de ventilare, motoarele utilizate
+trebuie să se conformeze strict prevederilor normative privind
+apărarea împotriva incendiilor în funcție de riscul de
+incendiu/explozie existent;
+b) gurile de evacuare a aerului viciat se amplasează diferit
+față de prizele de aer curat. Se interzice racordarea
+respectivelor guri de evacuare la alte guri, canale sau coșuri;
+c) încăperile de pulverizare a lacurilor pe bază de
+nitroceluloză se prevăd obligatoriu cu ventilare separată de cele
+pentru pulverizarea lacurilor poliesterice;
+d) sistemul de ventilare se pune obligatoriu în funcțiune cu
+circa 10 minute înaintea începerii lucrului și se menține în
+funcțiune circa 15 minute după terminarea programului de lucru;
+e) în cazul defectării sistemului de ventilare se întrerupe
+lucrul, utilajele se scot de sub tensiune, iar activitatea se reia
+numai după remedierea defecțiunii;
+f) cantitatea totală de materiale și substanțe de lăcuire
+admisă în atelier trebuie să fie egală cu cel mult necesarul
+pentru un schimb de lucru;
+g) atunci când se schimbă felul materialului de lăcuire utilizat,
+toate instalațiile și utilajele de preparare, aplicare, uscare,
+ventilare și altele asemenea se curăță, în prealabil, de orice
+depuneri interioare;
+h) materialul lemnos în curs de prelucrare se stivuiește în
+mod ordonat în locurile stabilite și marcate, pe cărucioare,
+palete, platforme, pardoseală;
+i) prepararea materialelor de lăcuire se face în încăperi
+separate de restul atelierelor și cu cel puțin o ușă de acces direct
+în exterior.
+Art. 123. — (1) Materialele de lăcuire se depozitează numai
+în încăperi special amenajate, izolate față de alte spații, conform
+normelor în vigoare.
+
+(2) Întăritorul și grundul activ se depozitează separat de lacul
+poliesteric.
+(3) Toate materialele și substanțele de lăcuire trebuie ferite
+de expunerea la acțiunile razelor solare, iar geamurile ferestrelor
+de la încăperile unde există asemenea materiale se vopsesc în
+culoarea albă.
+Art. 124. — (1) Transportul materialelor de lăcuire în vase
+deschise este interzis, fiind admis a se face în recipiente
+metalice închise ermetic și asigurate împotriva vărsării
+conținutului.
+(2) Imediat după golire recipientele se evacuează din atelier
+în locuri special destinate spălării și depozitării.
+Art. 125. — (1) Cabinele de lăcuire prin pulverizare, realizate
+din materiale incombustibile, ușor de curățat, se prevăd în mod
+obligatoriu cu perdele de apă și filtru umed, iar pulverizarea se
+face numai cu ajutorul aerului comprimat, în prealabil curățat de
+impurități prin filtre.
+(2) Se interzice cu desăvârșire folosirea oxigenului sau a
+vreunui gaz combustibil.
+(3) În cazul pulverizării nitrolacului la cald, aerul comprimat
+se admite a fi încălzit la temperatura de maximum 50șC.
+Art. 126. — (1) Cuptoarele de uscare se prevăd cu
+dispozitive:
+a) de reglare automată a temperaturii;
+b) de semnalizare a concentrațiilor periculoase;
+c) p e n t r u d e c o n e c t a r e a î n c ă l z i r i i î n c a z u l o p r i r i i
+ventilatoarelor;
+d) de oprire a transportului în cuptoarele-tunel.
+(2) La cuptoarele la care nu se pot realiza aceste dispozitive
+se supraveghează temperatura permanent cu ajutorul
+aparatelor de măsură și control.
+Art. 127. — La fiecare cuptor se afișează temperatura de
+regim, punctul de aprindere a vaporilor și cantitatea maximă a
+pieselor ce pot fi introduse în cuptor, parametri care trebuie
+verificați și respectați cu strictețe pentru a nu fi depășiți.
+Art. 128. — Părțile metalice ale cuptoarelor cu aer în
+circulație și care folosesc benzi rulante se leagă la pământ în
+scopul scurgerii electricității statice.
+Art. 129. — La uscarea în aer liber se iau măsuri de
+înlăturare a oricăror surse de foc față de materialele vopsite.
+Art. 130. — (1) Este interzisă folosirea dispozitivelor,
+aparatelor, uneltelor și sculelor neprotejate corespunzător sau
+care pot produce scântei prin funcționare, lovire ori frecare în
+spații sau în locuri cu risc de explozie.
+(2) În spațiile cu pericol de incendiu sau de explozie se
+interzice accesul salariaților și al altor persoane fără echipament
+de protecție adecvat condițiilor de lucru.
+Art. 131. — (1) Personalul trebuie să poarte încălțăminte
+care să nu producă scântei și îmbrăcăminte de protecție
+corespunzătoare, pe care trebuie să o mențină curată.
+(2) La sfârșitul lucrului, îmbrăcămintea și încălțămintea de
+protecție se păstrează în afara atelierului de vopsitorie, în
+dulapuri metalice.
+Art. 132. — (1) Se interzice intrarea personalului în ateliere
+cu brichete, chibrituri sau alte obiecte similare.
+(2) Este interzis personalului din atelierul de vopsitorie să se
+apropie, în hainele de lucru, de surse de căldură.
+Art. 133. — (1) Curățarea atelierului și utilajelor se face zilnic,
+la terminarea programului de lucru al ultimului schimb, folosindu-se
+scule care nu generează scântei.
+(2) La sfârșitul fiecărei săptămâni de lucru se execută o
+curățenie generală în atelier: conducte, cabine de vopsire,
+corpuri de încălzire, corpuri de iluminat și altele asemenea.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+Art. 134. — În atelierele de vopsitorie și finisaj se interzic
+fumatul și folosirea focului deschis.
+Art. 135. — Prevederile art. 122—134 se aplică în ateliere
+de vopsitorie și finisaj care utilizează solvenți inflamabili.
+§ 5. Ateliere de întreținere și reparații auto
+Art. 136. — Atelierele de întreținere și reparații auto se
+dotează cu instalații de ventilare și aerisire naturală sau
+mecanică pentru evacuarea vaporilor combustibili și a gazelor
+eșapate.
+Art. 137. — (1) În atelierele de întreținere și reparații auto se
+introduce numai numărul de autovehicule prevăzut în proiect,
+asigurându-se spațiile minime între acestea impuse de procesul
+tehnologic și pentru evacuarea lor rapidă în caz de incendiu.
+(2) Spațiile minime menționate la alin. (1) trebuie să fie de:
+a) 1,20 m între două autovehicule așezate paralel (alături),
+precum și între ultimul autovehicul și perete;
+b) 1,20 m între două autovehicule așezate unul în spatele
+celuilalt, distanță măsurată de la planul oblonului din spate al
+autovehiculului din față până la bara de protecție a
+autovehiculului din spate;
+c) 1,50 m de la spatele autovehiculului la perete;
+d) 1,00 m de la partea din față a autovehiculului la un banc
+de lucru amplasat la perete.
+Art. 138. — Înainte de a se introduce autovehiculele în
+ateliere se scoate carburantul din rezervoare, depozitându-se
+în afara atelierelor, și se desfac legăturile la bornele
+acumulatoarelor, în condițiile în care acestea reprezintă
+potențiale surse de generare de incendiu/explozie.
+Art. 139. — Se interzice depozitarea în interiorul atelierelor
+de întreținere și reparații auto a recipientelor care conțin carbid,
+vopsele sau diluanți, cauciucuri, cherestea și a oricărui material
+inflamabil/combustibil.
+Art. 140. — Degresarea, curățarea și spălarea pieselor în
+atelierele de întreținere și reparații auto se execută conform
+recomandărilor producătorului sau prevederilor din procesul
+tehnologic.
+Art. 141. — (1) Petrolul lampant sau benzina se poate folosi
+numai în cantități mici la spălarea pieselor și numai în băi
+speciale, prevăzute cu capace și amenajate în locuri fără pericol
+de incendiu, ventilate corespunzător.
+(2) Băile care folosesc cantități mari trebuie amplasate în
+încăperi separate, respectându-se cu strictețe normele de
+prevenire și stingere a incendiilor specifice — interzicerea
+fumatului, sudării, lipirii, tăierii, folosirii lămpilor de benzină și
+care au asigurată o bună aerisire realizată prin instalații
+mecanice de ventilare, hote de aspirație montate deasupra băii
+și altele asemenea.
+Art. 142. — (1) Deșeurile combustibile precum uleiuri, unsori
+și altele asemenea, provenite de la mecanismele
+autovehiculelor aflate în revizie sau reparații, precum și cârpele
+îmbibate cu ulei, unsori și altele asemenea se colectează în
+vase metalice speciale acoperite cu capac și se evacuează din
+atelier la sfârșitul fiecărui schimb în locurile stabilite și amenajate
+pentru aceasta.
+(2) Scurgerile de lichide combustibile de pe pardoseli se
+absorb cu nisip care se adună și se evacuează din atelier.
+Art. 143. — (1) Executarea lucrărilor de sudare/lipire la
+autovehicule este admisă numai după pregătirea
+corespunzătoare a suprafețelor.
+(2) Operația de sudare/lipire a rezervorului de benzină se
+poate face numai după purjarea acestuia cu abur, apă caldă și
+altele asemenea.
+
+27
+
+Art. 144. — În atelierele de întreținere și reparații auto se
+interzic:
+a) sudarea sub autovehicul înainte de curățarea acestuia de
+ulei;
+b) sudarea caroseriei fără a se lua măsuri de protecție a
+capitonajelor, conductelor de carburanți, elementelor instalației
+electrice;
+c) folosirea canistrelor necorespunzătoare pentru carburanți,
+fără capac etanș, nerezistente, uzate sau din material plastic
+neantistatizat;
+d) încercarea funcționării motoarelor în lipsa instalațiilor de
+ventilare;
+e) blocarea spațiilor dintre autovehicule cu diverse materiale
+precum anvelope, jante și altele asemenea.
+Art. 145. — (1) Pentru evacuarea rapidă a autovehiculelor în
+caz de incendiu se întocmește planul de evacuare, cu indicarea
+precisă a operațiilor ce trebuie efectuate și a utilajelor folosite în
+acest scop, asigurându-se mijloacele de tractare necesare.
+(2) În scopul evacuării rapide, autovehiculele se mențin cu
+anvelopele umflate, cu excepția celor la care reparațiile impun
+demontarea roților.
+(3) Este interzisă blocarea spațiilor dintre autovehicule.
+(4) La terminarea programului de lucru se interzice lăsarea
+autovehiculelor în instalațiile de ridicat.
+§ 6. Ateliere pentru acoperiri metalice și șlefuit
+A. Acoperiri metalice
+
+Art. 146. — (1) Atelierele pentru acoperiri metalice se prevăd
+cu instalații de ventilare care nu permit formarea de amestecuri
+explozive.
+(2) În cazul defectării instalațiilor de ventilare, se suspendă
+activitatea în spațiile respective până la efectuarea reparațiilor
+din cauză că în timpul unor procese chimice sau electrochimice
+se degajă hidrogen.
+Art. 147. — În încăperile în care se execută operații
+tehnologice cu pericol de incendiu sau explozie, marcate cu
+plăci avertizoare realizate în conformitate cu standardele
+specifice, se interzic fumatul, intrarea cu foc deschis și
+producerea scânteilor.
+Art. 148. — În apropierea barelor de curent pentru
+alimentarea băilor galvanice, precum și în încăperile grupurilor
+convertizoare și redresoarelor nu se depozitează materiale
+combustibile sau bune conducătoare de electricitate.
+Art. 149. — La depozitarea, transportarea și manipularea
+substanțelor chimice care prezintă pericol de incendiu se
+respectă următoarele reguli:
+a) substanțele se păstrează în ambalajul original;
+b) damigenele cu acizi sau săruri în stare lichidă, cu etichete
+pe care se indică conținutul, denumirea chimică uzuală,
+densitatea ori concentrația, se păstrează în coșuri;
+c) damigenele cu acid azotic nu se astupă ermetic din cauza
+gazelor de descompunere a acidului, se păstrează în coșuri
+metalice căptușite cu vată de sticlă în încăperi separate, bine
+aerisite, în care este interzisă depozitarea altor materiale;
+d) se interzice depozitarea în ateliere a substanțelor chimice
+necesare în procesul tehnologic;
+e) operațiunile de transvazare se execută numai sub nișă;
+f) prepararea soluțiilor de lucru se execută numai de personal
+calificat, special instruit asupra pericolelor de incendiu pe care
+le prezintă manipularea substanțelor oxidante, a acizilor minerali
+concentrați și a substanțelor cu pericol de autoaprindere.
+Art. 150. — În cazul constatării unor defecțiuni la utilaje și
+instalații, care pot antrena scurgeri de substanțe combustibile,
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+
+scurtcircuite sau degajări periculoase de căldură, se iau măsuri
+imediate de remediere.
+B. Șlefuire și polizare mecanică
+
+Art. 151. — Se interzice amplasarea atelierelor de șlefuire și
+polizare mecanică în atelierul de acoperiri metalice.
+Art. 152. — (1) În atelierele de pregătire mecanică a
+suprafețelor în vederea operațiunilor de acoperire metalică,
+toate utilajele și instalațiile de polizare și cele de șlefuire-lustruire
+prevăzute se prevăd cu instalații de desprăfuire.
+(2) Aceste instalații se dotează cu sisteme de reținere și
+colectare a prafului, asigurându-se curățarea lor periodică.
+Art. 153. — (1) Sistemele de desprăfuire uscată, inclusiv
+conductele de aspirație prin care s-au vehiculat scame textile, se
+curăță obligatoriu înainte de începerea lucrului; aceleași măsuri
+se aplică și conductelor de ventilare ale sistemelor de
+desprăfuire umedă.
+(2) Depunerile de praf și scame din tubulatura de ventilare și
+de pe pereți, curățate periodic după un grafic întocmit în acest
+scop, se colectează în recipiente metalice cu capac, care se
+golesc în spații special destinate.
+Art. 154. — (1) În compartimentele de polizare cu șaibe
+textile, precum și în camerele de pregătire a șaibelor textile se
+interzic fumatul, lucrul cu foc deschis și funcționarea oricărui
+utilaj care poate genera scântei sau temperaturi ridicate.
+(2) Este interzisă pregătirea șaibelor textile în
+compartimentele de polizare, această operațiune executându-se
+numai în încăperi izolate, special amenajate și numai de către
+personal calificat și instruit asupra pericolelor de incendiu
+specifice.
+Art. 155. — Se interzice lucrul, în același timp, cu șaibe
+textile și șaibe ce produc scântei dacă acestea sunt racordate la
+același sistem de desprăfuire.
+C. Degresarea și decaparea suprafețelor metalice
+
+Art. 156. — (1) Utilizarea solvenților organici inflamabili
+pentru degresare se admite numai în ateliere mici care utilizează
+cantități reduse (1—2 l de solvenți).
+(2) Se utilizează degresarea în detergenți sau în băi de
+tricloretilenă ori percloretilenă rece, cu capace de închidere și
+prevăzute cu serpentine de răcire cu apă și sistem local de
+aspirație.
+(3) La degresarea în soluții alcaline se iau măsuri de
+împiedicare a aprinderii amestecului exploziv de hidrogen și
+oxigen format la suprafața băii.
+(4) La băile de degresare electrolitică se înlătură spuma
+formată la suprafață pentru a se evita cumularea amestecului
+exploziv de hidrogen și oxigen.
+(5) Revizia interioară a băilor și rezervoarelor se execută
+numai după ce au fost golite și curățate prin purjare.
+Art. 157. — (1) Băile de decapare se prevăd cu instalație de
+ventilare mecanică individuală.
+(2) Se admite un ventilator comun doar în cazul unor instalații
+complexe în care se colectează vapori de la aceleași tipuri de
+băi.
+§ 7. Ateliere electrice și de bobinaj
+Art. 158. — În ateliere electrice de întreținere se interzice
+executarea de improvizații la instalațiile electrice și nu se
+folosesc aparate și receptoare supradimensionate sau
+necorespunzătoare.
+Art. 159. — Impregnarea bobinajelor, motoarelor sau
+transformatoarelor se execută în încăperi separate, bine
+aerisite, cu instalații de forță și iluminat corespunzătoare
+mediului de lucru.
+
+Art. 160. — Pentru uscarea bobinajelor, motoarelor sau
+transformatoarelor nu se utilizează radiatoare ori becuri cu puteri
+mari care să suprasolicite instalația electrică.
+Art. 161. — În atelierele de bobinaj uscarea se face în
+cuptoare special amenajate în acest scop, cu încălzire indirectă
+și cu asigurarea unei ventilări corespunzătoare.
+Art. 162. — Ciocanele electrice de lipit utilizate în atelierele
+de bobinaj, când sunt în stare de funcționare, se păstrează pe
+suporturi incombustibile.
+Art. 163. — În atelierele de bobinaj se interzice lăsarea în
+funcțiune, nesupravegheate, a aparatelor cu foc deschis folosite
+pentru încălzirea ciocanelor de lipit.
+§ 8. Ateliere pentru sudarea și tăierea metalelor
+Art. 164. — (1) Generatorul/Tubul de acetilenă și tubul de
+oxigen aferent care alimentează un singur post de lucru se
+amplasează într-o boxă din materiale incombustibile prevăzută
+cu ventilare naturală.
+(2) Spațiile destinate generatorului/stațiilor de acetilenă se
+marchează cu indicatoare de securitate, conform prevederilor
+standardelor specifice.
+(3) În timpul lucrărilor de sudare este interzisă folosirea
+hainelor, mănușilor sau a altor materiale cu urme de grăsimi,
+uleiuri, benzină, petrol și altele asemenea.
+Art. 165. — În cazul sudării oxiacetilenice generatoarele de
+acetilenă transportabile se instalează în aer liber, în afara
+încăperii în care se sudează, ferite de razele solare și de sursele
+de foc deschis.
+Art. 166. — În cazuri justificate tehnic se admite instalarea
+unui singur generator de acetilenă transportabil cu debit maxim
+de 3,20 m3/h numai în încăperi în care se execută lucrări de
+reparații, montaj sau întreținere cu caracter temporar, cu
+respectarea următoarelor condiții:
+a) generatorul să fie verificat și să aibă placa de timbru;
+b) încărcătura de carbid să nu depășească 4,00 kg, iar
+încăperea să aibă un volum minim de 300 m3 și să fie bine
+ventilată;
+c) utilizarea și supravegherea generatorului să fie asigurate
+de personal calificat și autorizat în acest scop;
+d) distanța de la generator și butelia de oxigen până la
+flacăra de sudare sau la orice sursă de căldură cu temperaturi
+peste 500°C trebuie să fie de minimum 10,00 m, iar între
+generator și butelia de oxigen de minimum 5,00 m;
+e) utilajele la care se lucrează cu flacără sau care produc
+scântei în timpul funcționării se opresc pe toată perioada
+amplasării generatorului în încăpere.
+Art. 167. — Se interzice instalarea generatoarelor de
+acetilenă transportabile în locuri unde există surse de căldură
+și foc deschis.
+Art. 168. – Atelierele de sudare și tăiere a metalelor se
+dotează cu dispozitive de aprindere, vase cu apă rece curată
+pentru răcirea becului arzătorului în caz de supraîncălzire,
+precum și cu suporturi cu cârlig pentru agățarea arzătorului în
+timpul întreruperii lucrului.
+Art. 169. — În atelierele de sudare și tăiere a metalelor se
+interzic recipiente sau vase care conțin substanțe combustibile
+ori lichide inflamabile.
+Art. 170. — Arzătoarele (suflaiurile) de sudare se controlează
+înainte de începerea și la terminarea lucrului, pentru ca
+robinetele de oxigen și acetilenă să se închidă perfect.
+Art. 171. — La efectuarea operațiunilor de sudare de orice fel —
+autogenă, electrică sau de gaze, se interzic:
+a) sudarea conductelor și aparatelor aflate sub presiune de
+gaze, lichide și aer, precum și a celor sub tensiune electrică;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+b) agățarea arzătorului aprins de butelia cu gaze, generator
+sau materiale combustibile;
+c) demontarea, curățarea și asamblarea generatoarelor
+mobile de acetilenă în ateliere, precum și folosirea acestora fără
+filtre și supape hidraulice de siguranță umplute cu apă la nivelul
+corespunzător;
+d) dezghețarea generatorului de acetilenă cu flacără
+deschisă sau obiecte incandescente;
+e) așezarea cablurilor electrice pentru sudare împreună cu
+furtunurile și conductele pentru sudare cu gaze;
+f) contactul buteliilor, conductelor și furtunurilor cu uleiuri,
+vaselină sau alte grăsimi, precum și cu mâna sau cu obiecte
+îmbibate cu aceste substanțe;
+g) descărcarea generatorului de acetilenă, precum și
+curățarea furtunurilor în încăperi;
+h) reînceperea sudării după întrerupere fără ca în prealabil
+să se fi aerisit încăperea în care se sudează.
+Art. 172. — Se interzic deplasarea cu arzătorul aprins în
+afara zonei de lucru, precum și urcarea pe scări, schele și altele
+asemenea.
+Art. 173. — (1) La întreruperi ale lucrului care depășesc
+10 minute, se închid robinetele buteliei de oxigen și ale
+generatorului de acetilenă sau de la punctele de distribuție, când
+alimentarea cu gaze se face de la conducte.
+(2) La întreruperea lucrului pe o perioadă mai îndelungată
+(o noapte sau zi de repaus) se evacuează carbidul din
+generator.
+Art. 174. — În cazul șocurilor produse de întoarcerea flăcării
+se impun următoarele măsuri:
+a) se închid imediat robinetele pentru acetilenă și oxigen;
+b) se introduce becul într-un vas cu apă rece curată;
+c) se purjează furtunul pentru acetilenă;
+d) se desfundă becul cu sârmă din metal moale sau se
+schimbă;
+e) se verifică dacă nivelul apei din supapa de siguranță este
+la înălțimea robinetului de control.
+Art. 175. — Lucrările de sudare la instalații, rezervoare,
+recipiente ori conducte prin care s-au vehiculat sau în care s-au
+depozitat substanțe combustibile ori vapori inflamabili se
+execută numai după golirea, aerisirea, spălarea, umplerea cu
+apă sau gaz inert, precum și izolarea acestora prin flanșe oarbe
+de restul instalațiilor și numai după obținerea rezultatelor
+analizelor de laborator.
+Art. 176. — (1) În spațiile unde se sudează, materialele și
+substanțele combustibile transportabile se îndepărtează la
+distanță de minimum 10,00 m de locul operațiunii.
+(2) Materialele care nu pot fi îndepărtate, precum și
+elementele de construcție combustibile se umezesc cu apă sau
+se protejează cu panouri incombustibile.
+(3) Se verifică și se iau măsuri ca sursele de aprindere
+precum scântei, particule incandescente să nu pătrundă, prin
+deschiderile din pereți sau prin pardoseală, la materiale
+combustibile aflate în încăperile alăturate sau la o cotă
+inferioară.
+Art. 177. — (1) Periodic și după terminarea lucrului se verifică
+dacă nu s-au creat focare de incendiu.
+(2) Toate materialele și elementele care au fost protejate
+împotriva aprinderii se verifică dacă sunt în stare intactă.
+Art. 178. — (1) La executarea lucrărilor de sudare și/sau
+tăiere oxiacetilenică a pieselor, instalațiilor și altora asemenea
+se curăță în prealabil urmele de uleiuri, resturile textile precum
+bumbac, câlți și altele asemenea.
+
+29
+
+(2) În ceea ce privește piesele vopsite, acestea se curăță de
+vopsea pe o porțiune de minimum 0,10 m în jurul punctelor de
+lucru.
+Art. 179. — Lucrările de sudare și/sau de tăiere
+oxiacetilenică la instalații electrice se execută numai după
+scoaterea de sub tensiune a acestora și luarea măsurilor
+împotriva conectării lor accidentale la rețea.
+Art. 180. — În atelierele de sudare se interzice executarea
+concomitentă a lucrărilor de sudare electrică și de sudare sau
+tăiere cu flacără oxiacetilenică.
+Art. 181. — Operațiile de sudare și tăiere a metalelor cu
+aparate și instalații speciale, altele decât cele electrice sau
+oxiacetilenice, se execută respectându-se atât normele de mai
+sus, cât și cele stabilite de producător/furnizor.
+Art. 182. — (1) Recipientele (buteliile) încărcate cu fluide
+tehnologice, prevăzute cu inele de cauciuc și capace de
+protecție, se amplasează la cel puțin 1,00 m de corpurile de
+încălzire ale instalațiilor de încălzire centrală și la minimum
+10,00 m față de sobe sau alte surse de foc deschis, scântei și
+altele asemenea, fixate în poziție verticală în brățări (coliere)
+speciale.
+(2) Se interzice depozitarea recipientelor/buteliilor în aer liber
+sub acțiunea directă a razelor solare sau în locuri umede ori cu
+acțiune corosivă.
+(3) Este interzisă utilizarea recipientelor/buteliilor de gaze
+fără reductoare de presiune.
+Art. 183. — (1) Reductoarele de presiune se verifică înaintea
+folosirii, trebuind să fie etanșe.
+(2) Se interzice folosirea reductoarelor de presiune dacă:
+a) prezintă urme de uleiuri sau alte grăsimi;
+b) au garnitura de etanșare defectă;
+c) filetul piuliței olandeze de racordare este defect;
+d) manometrele lipsesc sau sunt defecte.
+(3) Reductoarele de presiune și manometrele se întrețin și
+se repară numai de persoane autorizate.
+Art. 184. — (1) Furtunurile de cauciuc se folosesc conform
+destinației lor, cu respectarea prevederilor standardelor
+specifice.
+(2) Fixarea capetelor furtunurilor la aparatele de sudură se
+face etanș, prin coliere metalice strânse bine.
+(3) La supapele hidraulice de siguranță, furtunurile se
+racordează cât mai strâns, fără a se fixa în coliere.
+(4) Controlul etanșeității la furtunurile pentru acetilenă se
+execută obligatoriu folosindu-se numai emulsie de săpun în apă.
+(5) Se interzice folosirea furtunurilor murdare de uleiuri sau
+de alte grăsimi, fisurate ori crăpate.
+Art. 185. — Conductele de acetilenă și cele de oxigen se
+vopsesc și se marchează în conformitate cu prevederile
+standardelor specifice.
+Art. 186. — (1) Curățarea generatorului de acetilenă de
+resturile de carbid se execută cu unelte din lemn sau alamă.
+(2) Nămolul și resturile descompuse de carbid se evacuează
+din încăperi în containere speciale și se depun în gropi
+amenajate în locuri fără pericol de incendiu, marcate în
+conformitate cu prevederile standardelor specifice.
+(3) Se interzice cu desăvârșire evacuarea subproduselor
+menționate la alin. (2) în conductele de canalizare sau păstrarea
+lor în încăperi.
+Art. 187. — (1) Se interzice manevrarea buteliilor de oxigen
+cu mâini, scule sau echipamente murdare de uleiuri, vaseline și
+alte produse grase.
+(2) Reductoarele pentru oxigen se utilizează numai la
+buteliile care conțin acest gaz.
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+
+Art. 188. — (1) Corpurile agregatelor pentru sudare electrică
+și ale transformatoarelor, carcasele tablourilor de distribuție,
+mesele pentru sudare, piesele supuse sudării trebuie legate
+electric la pământ.
+(2) Punerea la pământ a instalațiilor transportabile de sudare
+electrică se execută înainte de începerea lucrului, iar contactul
+la locul de fixare trebuie bine realizat.
+(3) Se interzice lucrul cu agregate care au cablurile electrice
+și cleștele portelectrod defecte sau cu izolația deteriorată.
+(4) Este interzisă așezarea cablurilor electrice în locuri
+umede, lângă sau împreună cu alte conducte ori tubulaturi prin
+care se transportă gaze combustibile sau oxigen.
+Art. 189. — Pentru protecția instalației electrice de sudare
+împotriva suprasarcinilor și a scurtcircuitelor trebuie folosite
+siguranțe fuzibile la intensitatea nominală maximă admisibilă.
+Art. 190. — Capetele electrozilor în stare caldă se depun în
+vase metalice sau pe platforme incombustibile.
+Art. 191. — Pe timpul sudării electrice cu arc deschis,
+materialele combustibile trebuie protejate pe o distanță de
+10,00 m de locul unde se execută operația.
+Art. 192. — La întreruperea operației de sudare electrică,
+aparatele se scot de sub tensiune.
+§ 9. Ateliere de tapițerie
+Art. 193. — În atelierele de tapițerie sunt interzise
+operațiunile de curățare a materialelor — stofe, pânză cu
+produse inflamabile precum benzină, neofalină și altele
+asemenea.
+Art. 194. — Pregătirea materialelor precum lână, vată, păr,
+burete, zegras și altele asemenea se execută în încăperi
+separate, prevăzute cu instalații de ventilare.
+Art. 195. — Materialele textile și semifabricatele din lemn
+folosite la executarea decorurilor trebuie ignifugate și însoțite de
+buletinul de ignifugare emis în condițiile legii.
+Art. 196. — La terminarea programului de lucru, mașinile de
+cusut electrice se scot de sub tensiune, se curăță depunerile de
+praf, de scame și altele asemenea de pe instalațiile de iluminat,
+încălzire, de forță și de pe pereți și se evacuează deșeurile.
+Art. 197. — În atelierele de tapițerie se interzic fumatul și
+folosirea focului deschis.
+§ 10. Ateliere de croitorie
+Art. 198. — (1) Instalația de iluminat din ateliere se
+realizează de tip etanș, asigurându-se înlăturarea zilnică a
+prafului de pe aceasta.
+(2) Prin amplasarea utilajelor specifice în ateliere și a
+elementelor de mobilier necesare — mese de croit, de călcat,
+scaune — trebuie să fie asigurate culoarele de evacuare în caz
+de incendiu pentru personal.
+Art. 199. — (1) Mașinile de cusut acționate electric, prizele,
+ștecărele și fișele de conectare se mențin în stare perfectă de
+funcționare, nefiind permise niciun fel de improvizații.
+(2) Totodată, se asigură protejarea cablurilor electrice pentru
+evitarea deteriorărilor care pot conduce la scurtcircuite și
+electrocutări.
+Art. 200. — La terminarea programului de lucru sau când
+funcționarea mașinilor de cusut este întreruptă pentru o
+perioadă mai mare de timp, acestea se scot de sub tensiune.
+Art. 201. — Toate deșeurile de materiale precum pânză,
+stofă, lână, catifea, bumbac, vată, zegras și altele asemenea,
+rezultate din activitatea productivă, se strâng în containere
+speciale și se evacuează din ateliere la sfârșitul programului de
+lucru, depozitându-se în locurile special amenajate pentru
+colectarea lor.
+
+Art. 202. — Operațiile de curățare a materialelor precum
+stofă, pânză, draperii și altele asemenea cu benzină, neofalină
+și alte lichide inflamabile se fac în aer liber sau în încăperi
+separate, ferite de orice sursă de foc, cu ventilație normală,
+naturală ori mecanică, numai la lumina zilei.
+Art. 203. — (1) Pe durata efectuării operațiilor de călcat,
+fiarele electrice de călcat se așază pe suporturi izolante, iar
+după folosire se deconectează de la sursa de curent.
+(2) Înainte de terminarea programului de lucru, fiarele de
+călcat și suporturile respective se lasă să se răcească, apoi se
+depozitează într-un spațiu fără pericol de incendiu.
+Art. 204. — De asemenea, în spațiile unde se desfășoară
+operațiuni de călcat manual se interzic:
+a) utilizarea mașinilor electrice de călcat care prezintă
+deteriorări ale cablurilor de alimentare cu energie electrică,
+ștecărelor;
+b) păstrarea rufelor în cantități mai mari decât cele supuse
+strict acestei activități.
+Art. 205. — La călcarea obiectelor din materiale textile în a
+căror compoziție intră fibre sintetice, care nu permit o
+temperatură ridicată, se utilizează mașini electrice de călcat cu
+cablurile de alimentare prevăzute cu întreruptoare, spre a se
+opri curentul electric atunci când se depășește temperatura
+necesară, sau aparate de călcat cu sistem de reglaj pentru
+diverse tipuri de materiale.
+Art. 206. — Se interzice depozitarea materialelor în
+apropierea sistemelor de încălzire.
+Art. 207. — Pentru utilajele care în timpul funcționării produc
+electricitate statică se verifică legarea la pământ a acestora.
+Art. 208. — Se asigură curățarea tubulaturii de evacuare a
+scamelor de la mașini, acolo unde este prevăzută o asemenea
+instalație, cel puțin o dată pe lună.
+Art. 209. — Se asigură curățarea instalațiilor electrice
+montate aparent de scamele și praful rezultate din activitatea
+productivă cel puțin o dată pe săptămână.
+Art. 210. — La terminarea schimbului de lucru se evacuează
+deșeurile rezultate din procesul de producție în locuri special
+destinate.
+§ 11. Ateliere de cizmărie
+Art. 211. — Materialele, adezivii și vopselele necesare
+tehnologic se introduc în atelier numai în cantitățile
+corespunzătoare unei zile de lucru.
+Art. 212. — Aplicarea adezivilor și vopselelor necesare în
+procesul tehnologic se execută numai sub hote prevăzute cu
+ventilație eficientă.
+Art. 213. — În atelierele de cizmărie se interzic fumatul și
+focul deschis.
+Art. 214. — Încălzirea atelierelor de cizmărie se realizează
+numai cu mijloace certificate și corespunzătoare mediului de
+lucru.
+§ 12. Ateliere de spălătorie-vopsitorie
+Art. 215. — Spălarea și vopsirea materialelor textile se
+execută cu respectarea strictă a măsurilor de prevenire și
+stingere a incendiilor privind folosirea focului deschis.
+Art. 216. — Se interzice folosirea substanțelor inflamabile în
+operațiunile de spălare/curățare/vopsire.
+Art. 217. — Uscarea materialelor textile provenite din
+operațiunile de spălare/curățare/vopsire se execută în atelier
+numai în cantități ce nu depășesc volumul unei zile de lucru.
+Art. 218. — Suporturile pentru uscarea materialelor textile se
+amplasează la minimum 15,00 m de cazan.
+Art. 219. — (1) Mașinile de spălat și fiarele de călcat electrice
+se leagă la pământ.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+(2) La folosirea fiarelor de călcat electrice se respectă
+prevederile art. 203—205.
+Art. 220. — La mașinile de uscat, presele hidraulice cu
+încălzire electrică, calandre și alte utilaje încălzite cu abur sau
+rezistență electrică se verifică faptul ca, după terminarea
+lucrului, să fie îndepărtate toate produsele textile.
+Art. 221. — La terminarea programului de lucru în spațiile
+destinate activităților de spălătorie-uscătorie și în călcătorii:
+a) se deconectează toate aparatele și mașinile electrice,
+utilizate în activitățile desfășurate în aceste spații, de la
+alimentarea cu energie electrică;
+b) se evacuează toate deșeurile și se face curățarea locului
+de muncă;
+c) se întrerupe iluminatul artificial, se încuie încăperile și se
+predau cheile persoanelor desemnate pentru acest scop.
+CAPITOLUL III
+Mijloace de primă intervenție și dotare
+Art. 222. — (1) Prima intervenție este asigurată cu
+stingătoare portative/mobile adecvate riscului de incendiu local,
+amplasate vizibil, ușor accesibile, de regulă în apropierea căilor
+de acces/evacuare.
+(2) Personalul special desemnat trebuie să fie bine pregătit
+să utilizeze mijloacele de stingere.
+Art. 223. — (1) Spațiile destinate atelierelor de întreținere și
+reparații se dotează cu mijloace tehnice de apărare împotriva
+incendiilor, conform proiectelor tehnice, prevederilor normelor
+de dotare și reglementărilor tehnice de specialitate în vigoare.
+(2) Mijloacele tehnice de apărare împotriva incendiilor se
+mențin permanent în stare de utilizare la parametrii proiectați.
+Art. 224. — Mijloacele tehnice de apărare împotriva
+incendiilor utilizate de personalul de pe locurile de muncă și/sau
+de forțele de intervenție se amplasează cu respectarea
+următoarelor cerințe:
+a) înălțimea de montare și greutatea acestora să fie pe
+măsura capacităților fizice ale persoanelor care le utilizează;
+b) să fie bine fixate și să nu împiedice evacuarea persoanelor
+în caz de incendiu.
+Art. 225. — (1) Mijloacele tehnice de apărare împotriva
+incendiilor se marchează în conformitate cu prevederile
+reglementărilor tehnice și ale standardelor specifice.
+(2) Pe timpul exploatării se asigură vizibilitatea și lizibilitatea
+marcajelor.
+Art. 226. — Mijloacele tehnice de apărare împotriva
+incendiilor cu care se echipează și se dotează construcțiile,
+instalațiile tehnologice și amenajările se întrețin permanent în
+stare de funcționare, cu asigurarea fiabilității și eficienței
+necesare, conform reglementărilor tehnice și instrucțiunilor
+tehnice elaborate de producător/furnizor.
+Art. 227. — (1) Proprietarii construcțiilor în care funcționează
+ateliere de întreținere și reparații trebuie să execute periodic
+controlul stării de funcționare a mijloacelor tehnice de apărare
+împotriva incendiilor cu care acestea sunt echipate și dotate,
+prin personal anume desemnat și instruit în acest scop, dacă nu
+se prevede altfel în contractul, convenția sau alt act juridic
+similar încheiat între proprietar/locator și chiriaș/locatar.
+(2) Scoaterea din funcțiune a mijloacelor tehnice de apărare
+împotriva incendiilor fără luarea unor măsuri compensatorii de
+apărare împotriva incendiilor ori neasigurarea parametrilor
+necesari funcționării acestora în condiții de eficiență este strict
+interzisă.
+(3) Controlul stării de funcționare a mijloacelor tehnice de
+apărare împotriva incendiilor se execută conform prevederilor
+cuprinse în reglementările tehnice, normele specifice de apărare
+
+31
+
+împotriva incendiilor, precum și în instrucțiunile tehnice elaborate
+de proiectanți și/sau de producători/furnizori.
+Art. 228. — Construcțiile în care funcționează ateliere de
+întreținere și reparații se dotează cu cel puțin un stingător de
+incendiu portativ la o suprafață de 100 m2, dar minimum două
+stingătoare pe nivel și nu mai puțin de un stingător pe încăpere.
+Art. 229. — (1) Pentru stingătoarele portative documentele
+de referință sunt Directiva 97/23/CE a Parlamentului European
+și a Consiliului din 29 mai 1997 de apropiere a legislațiilor
+statelor membre referitoare la echipamentele sub presiune,
+SR EN 3 cu părțile sale, precum și reglementări tehnice
+echivalente ale statelor membre ale Uniunii Europene (UE) sau
+Turciei ori ale statelor membre ale Asociației Europene a
+Liberului Schimb (AELS), parte la acordul privind Spațiul
+Economic European.
+(2) Referitor la performanțele de stingere, acestea trebuie să
+îndeplinească următoarele condiții:
+a) stingătoarele cu pulbere sunt de capacitate/încărcătură de
+minimum 6 kg;
+b) stingătoarele cu apă pulverizată/spumă sunt de
+capacitate/încărcătură de minimum 6 l.
+(3) Se pot utiliza mai multe stingătoare de capacitate mai
+mică cu performanțe de stingere echivalente.
+(4) Pentru stingătoarele mobile cu încărcătura nominală de
+50 kg (l) documentul de referință este SR EN 1866-1, precum și
+reglementări tehnice echivalente ale statelor membre ale UE
+sau Turciei ori ale statelor membre ale AELS, parte la acordul
+privind Spațiul Economic European.
+(5) Prevederile alin. (2) și (3) nu se aplică stingătoarelor care
+sunt fabricate și/sau comercializate legal într-un stat membru al
+UE sau Turcia ori fabricate legal într-un stat membru al AELS,
+parte la acordul privind Spațiul Economic European, în
+conformitate cu specificațiile normative în vigoare în aceste țări.
+CAPITOLUL IV
+Dispoziții finale
+Art. 230. — Activitatea în atelierele și spațiile de întreținere și
+reparații se organizează astfel încât să nu se îngreuneze ori
+blocheze evacuarea persoanelor și bunurilor în caz de incendiu.
+Art. 231. — (1) La terminarea programului de lucru în
+atelierele și spațiile de întreținere și reparații se deconectează
+aparatele/sistemele de încălzire/ventilare/climatizare locală, se
+întrerupe iluminatul artificial și se oprește alimentarea cu energie
+electrică a aparatelor și instalațiilor a căror funcționare nu este
+necesară.
+(2) Se exceptează de la prevederile alin. (1) instalațiile pentru
+iluminatul de siguranță și cele care alimentează sistemele și
+instalațiile de detectare, semnalizare și stingere a incendiilor.
+Art. 232. — În atelierele și spațiile de reparații și întreținere
+se interzice accesul cu substanțe inflamabile sau cu alte
+mijloace care pot produce incendii ori explozii.
+Art. 233. — Zilnic, după terminarea activităților, se execută o
+verificare amănunțită a instalațiilor utilitare și se îndepărtează
+deșeurile.
+Art. 234. — În cazul producerii unui incendiu, se acționează
+de urgență pentru:
+a) evacuarea tuturor utilizatorilor clădirii, precum și a
+bunurilor importante adăpostite, în ordinea valorii;
+b) anunțarea incendiului la numărul de apel unic 112;
+c) stingerea incendiului cu mijloacele de primă intervenție.
+Art. 235. — Pentru alte categorii de ateliere și spații de
+reparații și întreținere care nu sunt menționate, se aplică
+prevederile prezentelor dispoziții generale, prin asimilare.
+
+32
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 663/28.IX.2010
+
+MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII
+
+ORDIN
+pentru publicarea acceptării Codului internațional din 2008 privind stabilitatea navei
+în starea intactă (Codul IS din 2008), adoptat de Organizația Maritimă Internațională
+prin Rezoluția MSC.267(85) a Comitetului Securității Maritime din 4 decembrie 2008
+În temeiul prevederilor art. 2 pct. 18 și ale art. 5 alin. (4) din Hotărârea Guvernului nr. 76/2009 privind organizarea și
+funcționarea Ministerului Transporturilor și Infrastructurii, cu modificările și completările ulterioare,
+ministrul transporturilor și infrastructurii emite următorul ordin:
+Art. 1. — Se publică Codul internațional din 2008 privind
+stabilitatea navei în starea intactă (Codul IS din 2008), adoptat
+de Organizația Maritimă Internațională prin Rezoluția
+MSC.267(85) a Comitetului Securității Maritime din 4 decembrie
+2008, prevăzut în anexa*) care face parte integrantă din
+prezentul ordin.
+
+Art. 2. — Autoritatea Navală Română va lua măsurile
+necesare pentru punerea în aplicare a prevederilor prezentului
+ordin.
+Art. 3. — Prezentul ordin se publică în Monitorul Oficial al
+României, Partea I.
+
+p. Ministrul transporturilor și infrastructurii,
+Constantin Dascălu,
+secretar de stat
+București, 31 august 2010.
+Nr. 675.
+*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 663 bis, care se poate achiziționa de la Centrul pentru relații cu publicul al Regiei
+Autonome ăMonitorul Oficial”, București, șos. Panduri nr. 1
+
+Cristina-Gabriela F. Popescu
+
+Motivul: Format electronic AUTENTIC, conform Legii nr. 202/1998, republicata.
+Locatia:Bucuresti
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+ăMonitorul Oficial” R.A., Str. Parcului nr. 65, sectorul 1, București; C.I.F. RO427282,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala ăUnirea” București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 021.318.51.29/150, fax 021.318.51.15, e-mail: marketing@ramo.ro, internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 021.401.00.70, fax 021.401.00.71 și 021.401.00.72
+Tiparul: ăMonitorul Oficial” R.A.
+Monitorul Oficial al României, Partea I, nr. 663/28.IX.2010 conține 32 de pagini.
+
+Prețul: 6,40 lei
+
+&JUYDGY|446496]
+ISSN 1453—4495
+
+

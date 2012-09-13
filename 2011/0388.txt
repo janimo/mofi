@@ -1,0 +1,1446 @@
+PARTEA I
+
+Anul 179 (XXIII) — Nr. 388
+
+Joi, 2 iunie 2011
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+SUMAR
+
+Nr.
+
+Pagina
+HOTĂRÂRI ALE GUVERNULUI ROMÂNIEI
+
+494.
+
+— Hotărâre privind înființarea Centrului Național de
+Răspuns la Incidente de Securitate Cibernetică —
+CERT-RO ..................................................................
+
+2–5
+
+550.
+
+— Hotărâre privind aprobarea bugetului de venituri și
+cheltuieli pe anul 2011 pentru Societatea Comercială
+ăIAR” — S.A. Brașov, aflată sub autoritatea
+Ministerului Economiei, Comerțului și Mediului de
+Afaceri ........................................................................
+
+6–10
+
+— Hotărâre privind trecerea din domeniul public al
+statului în domeniul privat al statului a unor mijloace
+fixe concesionate Companiei Naționale de Transport
+al Energiei Electrice ăTranselectrica” — S.A. București,
+Sucursala de Transport Cluj și Sucursala de Transport
+Craiova ......................................................................
+
+10–11
+
+551.
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+119.
+
+— Ordin al ministrului agriculturii și dezvoltării rurale
+pentru aprobarea Sistemului unitar de identificare
+a stupinelor și stupilor ................................................
+
+12–16
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 388/2.VI.2011
+
+HOTĂRÂRI ALE GUVERNULUI ROMÂNIEI
+GUVERNUL ROMÂNIEI
+
+HOTĂRÂRE
+privind înființarea Centrului Național de Răspuns
+la Incidente de Securitate Cibernetică — CERT-RO
+În temeiul art. 108 din Constituția României, republicată, și al art. 11 alin. (1) și (2) din Ordonanța Guvernului nr. 57/2002
+privind cercetarea științifică și dezvoltarea tehnologică, aprobată cu modificări și completări prin Legea nr. 324/2003, cu modificările
+și completările ulterioare,
+Guvernul României adoptă prezenta hotărâre.
+Art. 1. — (1) Se înființează Centrul Național de Răspuns la
+Incidente de Securitate Cibernetică — CERT-RO, ca structură
+independentă de expertiză și cercetare-dezvoltare în domeniul
+protecției infrastructurilor cibernetice, denumit în continuare
+CERT-RO, cu sediul în bd. Mareșal Averescu nr. 8—10, sectorul 1,
+București.
+(2) CERT-RO este instituție publică cu personalitate juridică,
+în coordonarea Ministerului Comunicațiilor și Societății
+Informaționale, denumit în continuare MCSI, finanțată integral
+de la bugetul de stat prin bugetul MCSI.
+(3) CERT-RO nu va prelua nicio parte din activitatea
+desfășurată în prezent de Institutul Național de CercetareDezvoltare în Informatică — ICI București.
+(4) CERT-RO nu are competențe în domeniul infrastructurilor
+cibernetice destinate procesării, stocării sau transmiterii
+informațiilor clasificate.
+Art. 2. — În înțelesul prezentei hotărâri, termenii și expresiile
+de mai jos au următoarea semnificație:
+a) CERT — centru de răspuns la incidente de securitate
+cibernetică — entitate organizațională specializată care dispune
+de capacitatea necesară pentru prevenirea, analiza,
+identificarea și reacția la incidentele cibernetice;
+b) Comunitatea CERT din România — ansamblul centrelor
+de tip CERT care funcționează în cadrul autorităților și instituțiilor
+publice ori al altor persoane juridice de drept public sau privat
+din România și care relaționează cu CERT-RO pe baza unor
+proceduri și protocoale de cooperare;
+c) infrastructuri cibernetice — infrastructuri de tehnologia
+informației și comunicații, constând în sisteme informatice,
+aplicații aferente, rețele și servicii de comunicații electronice;
+d) spațiul cibernetic — mediul virtual, generat de
+infrastructurile cibernetice, incluzând conținutul informațional
+procesat, stocat sau transmis, precum și acțiunile derulate de
+utilizatori în acesta;
+e) securitate cibernetică — starea de normalitate rezultată în
+urma aplicării unui ansamblu de măsuri proactive și reactive prin
+care se asigură confidențialitatea, integritatea, disponibilitatea,
+autenticitatea și nonrepudierea informațiilor în format electronic,
+a resurselor și serviciilor publice sau private din spațiul
+cibernetic. Măsurile proactive și reactive pot include: politici,
+concepte, standarde și ghiduri de securitate, managementul
+riscului, activități de instruire și conștientizare, implementarea
+de soluții tehnice de protejare a infrastructurilor cibernetice,
+managementul identității, managementul consecințelor;
+f) atac cibernetic — orice acțiune ostilă desfășurată în spațiul
+cibernetic de natură să afecteze securitatea cibernetică;
+g) incident cibernetic — orice eveniment survenit în spațiul
+cibernetic de natură să afecteze securitatea cibernetică;
+
+h) serviciile publice de tip preventiv:
+1. anunțuri privind evenimente în domeniu;
+2. anunțuri privind amenințări nou-identificate pe plan
+național și internațional;
+3. cercetare și informare privind noutățile tehnologice în
+domeniu;
+4. realizarea, la cerere, de auditări și evaluări de securitate
+sau teste de penetrare;
+5. estimarea vulnerabilităților și punerea la dispoziție de
+situații actualizate privind încercările de intruziune și servicii de
+localizare a surselor atacurilor, pe baza informațiilor transmise
+de furnizorii de rețele și servicii de comunicații electronice;
+6. diseminarea informațiilor de securitate cibernetică;
+i) serviciile publice de tip reactiv:
+1. alerte și atenționări privind apariția unor activități
+premergătoare atacurilor;
+2. gestiunea incidentelor la nivel național, în cooperare cu
+celelalte echipe CERT;
+3. diseminarea rezultatelor investigațiilor incidentelor de
+securitate cibernetică, cu respectarea prevederilor acordurilor
+de cooperare încheiate cu partenerii CERT-RO;
+j) serviciile publice de consultanță pentru managementul
+calității serviciilor de securitate cibernetică:
+1. analize de risc aplicate la nivel local și la nivel național
+privind infrastructurile cibernetice;
+2. planificarea asigurării funcționării continue și a recuperării
+în caz de dezastre;
+3. atestarea managementului securității cibernetice și a
+incidentelor cibernetice;
+4. pregătirea echipelor de tip CERT, a echipelor de audit în
+domeniul securității rețelelor, cu prioritate a celor incluse în
+infrastructura critică națională;
+k) sistem de alertă timpurie și informare în timp real privind
+incidentele cibernetice — ansamblul de proceduri și sisteme
+tehnice care au rolul de a identifica premisele de apariție a
+incidentelor cibernetice și de a avertiza în cazul producerii
+acestora. Sistemul include și conexiuni de date ce vor transporta
+informații referitoare la incidentele cibernetice identificate de
+senzori dedicați, precum și informații statistice referitoare la
+valorile de trafic înregistrate în nodurile de rețea ale
+infrastructurilor cibernetice ce asigură funcționalități de utilitate
+publică ori asigură servicii ale societății informaționale.
+Art. 3. — (1) CERT-RO își desfășoară activitatea în
+conformitate cu legislația în vigoare și cu regulamentul propriu
+de organizare și funcționare, în scopul realizării prevenirii,
+analizei, identificării și reacției la incidente în cadrul
+infrastructurilor cibernetice ce asigură funcționalități de utilitate
+publică ori asigură servicii ale societății informaționale.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 388/2.VI.2011
+(2) Pentru infrastructurile cibernetice aflate în administrarea
+instituțiilor din domeniul apărării, ordinii publice și siguranței
+naționale, CERT-RO îndeplinește doar atribuțiile de cooperare,
+în baza unor acorduri dedicate, încheiate cu structurile de tip
+CERT ale acestora.
+(3) CERT-RO reprezintă un punct național de contact cu
+structurile de tip CERT care funcționează în cadrul instituțiilor
+sau autorităților publice ori al altor persoane juridice de drept
+public sau privat, naționale ori internaționale, cu respectarea
+competențelor ce revin celorlalte autorități și instituții publice cu
+atribuții în domeniu, potrivit legii.
+(4) CERT-RO asigură elaborarea și diseminarea politicilor
+publice de prevenire și contracarare a incidentelor din cadrul
+infrastructurilor cibernetice, potrivit ariei de competență.
+(5) CERT-RO analizează disfuncționalitățile procedurale și
+tehnice la nivelul infrastructurilor cibernetice, potrivit ariei de
+competență, și transmite instituțiilor sau autorităților publice ori
+altor persoane juridice de drept public sau privat aspectele de
+interes.
+Art. 4. — (1) În vederea îndeplinirii atribuțiilor ce îi revin,
+CERT-RO încheie protocoale de cooperare/colaborare cu
+instituțiile publice sau alte persoane juridice de drept public sau
+privat, naționale sau internaționale, respectând competențele ce
+revin celorlalte autorități și instituții publice cu atribuții în
+domeniu, putând dezvolta și parteneriate publice-private.
+(2) CERT-RO cooperează cu entitățile și persoanele
+prevăzute la alin.(1) pentru asigurarea disponibilității,
+confidențialității, integrității, autenticității și nonrepudierii
+informațiilor în format electronic, în scopul prevenirii, analizei,
+identificării și reacției la incidente cibernetice.
+(3) Criteriile și cerințele minime pe care trebuie să le
+îndeplinească un centru de tip CERT pentru a fi inclus în
+Comunitatea CERT din România, precum și procedurile de
+colaborare se stabilesc și se actualizează prin decizie a
+directorului general CERT-RO, cu avizul Comitetului de
+coordonare.
+Art. 5. — CERT-RO realizează și administrează un portal
+propriu, dedicat securității cibernetice, prin care sunt publicate
+noutăți din domeniu, alerte privind amenințările cele mai
+probabile, precum și cele mai bune practici de protecție
+recomandate.
+Art. 6. — CERT-RO are următoarele atribuții:
+a) oferă servicii publice de tip preventiv, de tip reactiv și de
+consultanță;
+b) organizează și întreține un sistem de baze de date privind
+amenințările, vulnerabilitățile și incidentele de securitate
+cibernetică identificate sau raportate, tehnici și tehnologii folosite
+pentru atacuri, precum și bune practici pentru protecția
+infrastructurilor cibernetice;
+c) asigură cadrul organizatoric și suportul tehnic necesar
+schimbului de informații dintre diverse echipe de tip CERT,
+utilizatori, autorități, producători de echipamente și soluții de
+securitate cibernetică, precum și furnizori de servicii în domeniu;
+d) organizează, desfășoară sau participă la activități de
+instruire în domeniul securității cibernetice;
+e) organizează simpozioane, dezbateri pe teme de securitate
+cibernetică și asigură diseminarea unor informații specifice prin
+mass-media;
+f) desfășoară activități de cercetare-dezvoltare în domeniu și
+elaborează proceduri și recomandări privind securitatea
+cibernetică, potrivit prevederilor legale privind cercetarea
+științifică și dezvoltarea tehnologică;
+
+3
+
+g) asigură MCSI suportul tehnic și de specialitate pentru
+elaborarea politicilor de securitate cibernetică necesar a fi
+respectate de furnizorii de rețele și servicii de comunicații
+electronice publice pentru obținerea autorizării de funcționare a
+acestora, precum și la evaluarea modului de implementare a
+acestora;
+h) asigură consultanță de specialitate autorităților publice
+responsabile, stabilite conform Ordonanței de urgență a
+Guvernului nr. 98/2010 privind identificarea, desemnarea și
+protecția infrastructurilor critice, aprobată cu modificări prin
+Legea nr.18/2011, cu privire la produsele și sistemele de
+securitate cibernetică care deservesc infrastructurile critice
+naționale și europene;
+i) asigură puncte de contact pentru colectarea sesizărilor și
+a informațiilor despre incidente de securitate cibernetică atât
+automatizat, cât și prin comunicare directă securizată, după caz;
+j) identifică, analizează și clasifică incidentele de securitate
+din cadrul infrastructurilor cibernetice, conform ariei de
+competență;
+k) elaborează propuneri pe care le înaintează către MCSI
+sau Consiliului Suprem de Apărare a Țării, denumit în continuare
+CSAT, privind modificarea cadrului legislativ în vederea
+stimulării dezvoltării securității infrastructurilor cibernetice ce
+asigură funcționalități de utilitate publică ori asigură servicii ale
+societății informaționale;
+l) planifică și programează în proiectul de buget propriu
+resursele financiare necesare în vederea realizării politicilor în
+domeniile sale de competență;
+m) coordonează derularea proiectelor, ale căror beneficiari
+sunt MCSI și/sau instituțiile din subordinea acestuia, cu finanțare
+națională sau internațională în domeniul securității
+infrastructurilor cibernetice ce asigură funcționalități de utilitate
+publică, ori asigură servicii ale societății informaționale, care
+vizează capacitatea instituțională operațională a CERT-RO;
+n) asigură MCSI suportul tehnic și de specialitate pentru
+urmărirea și controlul aplicării prevederilor cuprinse în actele
+normative în vigoare sau în acordurile internaționale în domeniul
+de competență și notifică organele competente pentru
+demararea procedurilor legale în vederea cercetării și
+sancționării, după caz.
+Art. 7. — (1) În cadrul CERT-RO se constituie Sistemul de
+alertă timpurie și informare în timp real privind incidentele
+cibernetice.
+(2) Datele primite în Sistemul de alertă timpurie și informare
+în timp real privind incidentele cibernetice vor fi centralizate și
+prelucrate de către CERT-RO, în scopul:
+a) avertizării în timp real și emiterii de rapoarte cu privire la
+distribuția și natura incidentelor;
+b) colaborării cu autoritățile naționale responsabile în
+asigurarea securității cibernetice, în vederea prevenirii și
+înlăturării efectelor incidentelor.
+Art. 8. — Furnizorii de rețele și servicii de comunicații
+electronice publice, precum și alte persoane juridice de drept
+public sau privat, care dețin sau administrează infrastructuri
+cibernetice ce susțin funcționalități de utilitate publică ori servicii
+ale societății informaționale, asigură, în condițiile legii, resursele
+tehnice și funcționale necesare dezvoltării componentei proprii
+de securitate în conformitate cu cerințele și specificațiile
+furnizate de CERT-RO și interconectării cu Sistemul de alertă
+timpurie și informare în timp real cu privire la atacurile
+cibernetice.
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 388/2.VI.2011
+
+Art. 9. — (1) CERT-RO cooperează cu institute de cercetare,
+instituții de învățământ superior și persoane juridice de drept
+privat în realizarea unor proiecte de cercetare și pregătirea unor
+specialiști în domeniu.
+(2) CERT-RO formulează tematici și proiecte de cercetare și
+dezvoltare în domeniul securității cibernetice, independent sau
+în cooperare cu autorități naționale ori cu alte persoane fizice
+sau juridice, la nivel național sau internațional.
+Art. 10. — CERT-RO participă cu specialiști la grupurile de
+lucru din țară și străinătate în domeniul de competență, pe bază
+de mandat aprobat de către directorul general.
+Art. 11. — Pentru îndeplinirea atribuțiilor ce îi revin, CERT-RO
+gestionează și utilizează următoarele categorii de informații:
+a) informații publice;
+b) informații nedestinate publicității, aparținând entităților cu
+care are încheiate acorduri de cooperare;
+c) informații clasificate.
+Art. 12. — (1) CERT-RO este condus de un director general
+și de un director general adjunct, sprijiniți de Comitetul de
+coordonare.
+(2) Directorul general este numit prin ordinul ministrului
+comunicațiilor și societății informaționale și își desfășoară
+activitatea în baza unui contract de mandat pe o perioadă de
+5 (cinci) ani, cu posibilitatea de prelungire a mandatului.
+(3) Contractul de mandat este asimilat contractului individual
+de muncă și conferă titularului vechime în muncă și în
+specialitate.
+(4) Pot ocupa funcțiile de director general și director general
+adjunct persoanele care îndeplinesc cumulativ următoarele
+condiții:
+a) au cetățenia română;
+b) cunosc limba română, scris și vorbit;
+c) au capacitate deplină de exercițiu;
+d) au o stare de sănătate corespunzătoare, atestată pe bază
+de examen medical de specialitate;
+e) au studii universitare de licență, respectiv studii superioare
+de lungă durată, absolvite cu diplomă;
+f) nu au fost condamnate pentru săvârșirea unei infracțiuni
+săvârșite cu intenție, cu excepția situației în care a intervenit
+reabilitarea;
+g) nu se încadrează în dispozițiile art. 2 lit. a) și b) din
+Ordonanța de urgență a Guvernului nr. 24/2008 privind accesul
+la propriul dosar și deconspirarea Securității, aprobată cu
+modificări și completări prin Legea nr. 293/2008.
+(5) Directorul general este ordonator de credite, în condițiile
+legii.
+(6) Directorul general al CERT-RO este președintele
+Comitetului de coordonare, care are atribuțiile stabilite prin
+Regulamentul de organizare și funcționare al CERT-RO.
+(7) Comitetul de coordonare este format din reprezentanți ai:
+a) MCSI;
+b) Ministerului Apărării Naționale;
+c) Ministerului Administrației și Internelor;
+d) Serviciului Român de Informații;
+e) Serviciului de Informații Externe;
+f) Serviciului de Telecomunicații Speciale;
+g) Serviciului de Protecție și Pază;
+h) Oficiului Registrului Național al Informațiilor Secrete de
+Stat;
+i) Autorității Naționale pentru Administrare și Reglementare în
+Comunicații.
+
+(8) În vederea îndeplinirii atribuțiilor ce revin CERT-RO,
+directorul general emite decizii și instrucțiuni.
+Art. 13. — (1) Activitatea CERT-RO este analizată semestrial
+în Comitetul de coordonare, pe baza raportului elaborat în acest
+sens de către directorul general.
+(2) CERT-RO prezintă CSAT un raport anual privind
+activitatea sa.
+Art. 14. — (1) Numărul maxim de posturi este de 41, iar
+salarizarea personalului CERT-RO se face potrivit legislației
+aplicabile personalului bugetar plătit din fonduri publice, precum
+și a prevederilor legale privind cercetarea științifică și
+dezvoltarea tehnologică.
+(2) Personalul CERT-RO este format din personal
+contractual sau detașat de la alte instituții sau alte autorități
+publice, în condițiile legii.
+(3) Organizarea și desfășurarea examenelor sau
+concursurilor vizând personalul contractual se realizează în
+condițiile stabilite de directorul general al CERT-RO.
+Art. 15. — Finanțarea cheltuielilor curente și de capital ale
+CERT-RO se asigură integral de la bugetul de stat prin bugetul
+MCSI.
+Art. 16. — (1) CERT-RO administrează, exploatează,
+dezvoltă, modernizează și întreține patrimoniul său.
+(2) CERT-RO își desfășoară activitatea într-un spațiu din
+imobilul situat în bd. Mareșal Averescu nr. 8—10, sectorul 1,
+București, în baza unui contract de comodat încheiat cu Institutul
+Național de Cercetare-Dezvoltare în Informatică — ICI
+București, proprietarul imobilului.
+(3) Bunurile mobile necesare desfășurării obiectului de
+activitate vor fi preluate pe baza unui proces-verbal de predareprimire și vor constitui patrimoniul CERT-RO, fiind înregistrate la
+valoarea de inventar din contabilitatea Institutului Național de
+Cercetare-Dezvoltare în Informatică — ICI București.
+(4) Patrimoniul Institutului Național de Cercetare-Dezvoltare
+în Informatică — ICI București se va diminua, în mod
+corespunzător, cu valoarea bunurilor predate.
+(5) Rezultatele cercetărilor concretizate în active corporale
+sau necorporale, obținute în baza unor contracte finanțate din
+fonduri private, precum și rezultatele obținute din activități
+desfășurate în asociere în participațiune sau în entități cu
+personalitate juridică născute în urma unor alte forme de
+asociere rămân proprietatea Institutului Național de CercetareDezvoltare în Informatică — ICI București, CERT-RO având
+dreptul de a le utiliza și/sau administra conform dispozițiilor
+legale.
+Art. 17. — Regulamentul de organizare și funcționare al
+CERT-RO se aprobă și se revizuiește de către CSAT la
+propunerea ministrului comunicațiilor si societății informaționale.
+Art. 18. — (1) În termen de 90 de zile de la data intrării în
+vigoare a prezentei hotărâri, MCSI promovează normele de
+aplicare elaborate cu sprijinul CERT-RO prin ordin al ministrului
+comunicațiilor și societății informaționale.
+(2) Pentru instituțiile publice, termenul de implementare a
+obligațiilor prevăzute de prezenta hotărâre va curge de la data
+identificării în bugetul propriu a sumelor necesare, iar achiziția
+echipamentelor se va realiza cu respectarea dispozițiilor
+Ordonanței de urgență a Guvernului nr. 34/2006 privind
+atribuirea contractelor de achiziție publică, a contractelor de
+concesiune de lucrări publice și a contractelor de concesiune de
+servicii, aprobată cu modificări și completări prin Legea
+nr. 337/2006, cu modificările și completările ulterioare.
+
+5
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 388/2.VI.2011
+Art. 19. — Hotărârea Guvernului nr. 12/2009 privind
+organizarea și funcționarea Ministerului Comunicațiilor și
+Societății Informaționale, publicată în Monitorul Oficial al
+României, Partea I, nr. 51 din 28 ianuarie 2009, cu modificările
+și completările ulterioare, se modifică după cum urmează:
+1. Articolul 15 va avea următorul cuprins:
+ăArt. 15. — Ministerul Comunicațiilor și Societății
+Informaționale are în subordine Centrul Național de
+Management pentru Societatea Informațională, Centrul
+
+Național «România Digitală» și Centrul Național de
+Supercomputing și în coordonare directă Institutul Național de
+Cercetare-Dezvoltare în Informatică — ICI București, Institutul
+Național de Studii și Cercetări pentru Comunicații — I.N.S.C.C.
+București și Centrul Național de Răspuns la Incidente de
+Securitate Cibernetică — CERT-RO, instituții prevăzute în
+anexele nr. 2 și 3.”
+2. Anexa nr. 3 se modifică și se înlocuiește cu anexa la
+prezenta hotărâre.
+
+PRIM-MINISTRU
+
+EMIL BOC
+Contrasemnează:
+Ministrul comunicațiilor și societății informaționale,
+Valerian Vreme
+Președintele Autorității Naționale
+pentru Administrare și Reglementare în Comunicații,
+Cătălin Marinescu
+Ministrul apărării naționale,
+Gabriel Oprea
+p. Ministrul administrației și internelor,
+Gheorghe Emacu,
+secretar de stat
+Ministrul muncii, familiei și protecției sociale,
+interimar,
+Emil Boc
+Ministrul educației, cercetării, tineretului și sportului,
+Daniel Petru Funeriu
+Directorul Serviciului Român de Informații,
+George Cristian Maior
+Directorul Serviciului de Telecomunicații Speciale,
+Marcel Opriș
+Directorul Serviciului de Informații Externe,
+Mihai Răzvan Ungureanu
+p. Directorul Oficiului Registrului Național
+al Informațiilor Secrete de Stat,
+Mihai Ion
+Ministrul finanțelor publice,
+Gheorghe Ialomițianu
+
+București, 11 mai 2011.
+Nr. 494.
+
+ANEXĂ
+(Anexa nr. 3 la Hotărârea Guvernului nr. 12/2009)
+
+UNITĂȚI
+
+care funcționează în coordonarea Ministerului Comunicațiilor și Societății Informaționale
+Nr.
+crt.
+
+Denumirea unității
+
+1.
+
+Institutul Național de Cercetare-Dezvoltare în Informatică — ICI București
+
+2.
+
+Institutul Național de Studii și Cercetări pentru Comunicații — I.N.S.C.C. București
+
+3.
+
+Centrul Național de Răspuns la Incidente de Securitate Cibernetică — CERT-RO
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 388/2.VI.2011
+GUVERNUL ROMÂNIEI
+
+HOTĂRÂRE
+privind aprobarea bugetului de venituri și cheltuieli
+pe anul 2011 pentru Societatea Comercială ăIAR” — S.A.
+Brașov, aflată sub autoritatea Ministerului Economiei,
+Comerțului și Mediului de Afaceri
+Având în vedere prevederile art. 15 alin. (1) din Ordonanța de urgență a
+Guvernului nr. 37/2008 privind reglementarea unor măsuri financiare în domeniul
+bugetar, aprobată cu modificări prin Legea nr. 275/2008, cu modificările și
+completările ulterioare,
+în temeiul art. 108 din Constituția României, republicată,
+Guvernul României adoptă prezenta hotărâre.
+Art. 1. — (1) Se aprobă bugetul de venituri și cheltuieli pe anul 2011 pentru
+Societatea Comercială ăIAR” — S.A. Brașov, aflată sub autoritatea Ministerului
+Economiei, Comerțului și Mediului de Afaceri, prevăzut în anexa care face parte
+integrantă din prezenta hotărâre.
+(2) Defalcarea pe trimestre a indicatorilor prevăzuți în anexă se aprobă de
+Ministerul Economiei, Comerțului și Mediului de Afaceri în termen de 60 de zile.
+Art. 2. — (1) Cheltuielile totale aferente veniturilor înscrise în bugetul de
+venituri și cheltuieli reprezintă limită maximă și nu pot fi depășite decât în cazuri
+justificate, cu aprobarea Guvernului, la propunerea Ministerului Economiei,
+Comerțului și Mediului de Afaceri, cu avizul Ministerului Finanțelor Publice și al
+Ministerului Muncii, Familiei și Protecției Sociale.
+(2) În cazul în care în execuție se înregistrează nerealizări ale veniturilor
+aprobate, Societatea Comercială ăIAR” — S.A. Brașov poate efectua cheltuieli în
+funcție de realizarea veniturilor, cu încadrarea în indicatorii de eficiență aprobați.
+(3) Cheltuielile cu salariile brute se vor efectua numai cu respectarea
+corelației dintre creșterea câștigului mediu lunar brut și cea a productivității muncii.
+Art. 3. — (1) Nerespectarea prevederilor art. 2 constituie contravenție și se
+sancționează cu amendă de 5.000 lei.
+(2) Contravenția se constată de către organele de control financiar ale
+statului, împuternicite potrivit legii, iar amenda se aplică persoanelor vinovate de
+nerespectarea prevederilor prezentei hotărâri.
+(3) Contravenției prevăzute la alin. (1) i se aplică prevederile Ordonanței
+Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu
+modificări și completări prin Legea nr. 180/2002, cu modificările și completările
+ulterioare.
+PRIM-MINISTRU
+
+EMIL BOC
+Contrasemnează:
+Ministrul economiei, comerțului
+și mediului de afaceri,
+Ion Ariton
+Ministrul muncii,
+familiei și protecției sociale, interimar,
+Emil Boc
+Ministrul finanțelor publice,
+Gheorghe Ialomițianu
+
+București, 25 mai 2011.
+Nr. 550.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 388/2.VI.2011
+
+7
+ANEXĂ*)
+
+MINISTERUL ECONOMIEI, COMERȚULUI ȘI MEDIULUI DE AFACERI
+Societatea Comercială ăIAR” — S.A. Brașov
+B U G E T U L D E V E N I T U R I Ș I C H E LT U I E L I
+PE ANUL 2011
+
+— mii lei —
+
+*) Anexa este reprodusă în facsimil.
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 388/2.VI.2011
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 388/2.VI.2011
+
+9
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 388/2.VI.2011
+
+GUVERNUL ROMÂNIEI
+
+HOTĂRÂRE
+privind trecerea din domeniul public al statului în domeniul privat al statului
+a unor mijloace fixe concesionate Companiei Naționale de Transport al Energiei Electrice
+ăTranselectrica” — S.A. București, Sucursala de Transport Cluj și Sucursala de Transport Craiova
+În temeiul art. 108 din Constituția României, republicată, al art. 10 alin. (1) și (2) din Legea nr. 213/1998 privind proprietatea
+publică și regimul juridic al acesteia, cu modificările și completările ulterioare, precum și al art. 2 din Ordonanța Guvernului
+nr. 112/2000 pentru reglementarea procesului de scoatere din funcțiune, casare și valorificare a activelor corporale care alcătuiesc
+domeniul public al statului și al unităților administrativ-teritoriale, aprobată prin Legea nr. 246/2001,
+Guvernul României adoptă prezenta hotărâre.
+Art. 1. — Se aprobă trecerea din domeniul public al statului
+în domeniul privat al statului a mijloacelor fixe aflate în
+concesiunea Companiei Naționale de Transport al Energiei
+Electrice ăTranselectrica” — S.A. București, Sucursala de
+Transport Cluj, amplasate în Stația 220/110 kV Câmpia Turzii,
+având datele de identificare prevăzute în anexa nr. 1.
+Art. 2. — Se aprobă trecerea din domeniul public al statului
+în domeniul privat al statului a mijloacelor fixe aflate în
+concesiunea Companiei Naționale de Transport al Energiei
+Electrice ăTranselectrica” — S.A. București, Sucursala de
+Transport Craiova, amplasate în Stația 220/110 kV Târgu Jiu
+Nord, având datele de identificare prevăzute în anexa nr. 2.
+Art. 3. — Trecerea în domeniul privat al statului se face în
+vederea scoaterii din funcțiune și valorificării, în condițiile legii,
+a mijloacelor fixe prevăzute la art. 1 și 2. Compania Națională de
+Transport al Energiei Electrice ăTranselectrica” — S.A. București
+își va actualiza în mod corespunzător datele din evidența
+contabilă.
+
+Art. 4. — Compania Națională de Transport al Energiei
+Electrice ăTranselectrica” — S.A. va efectua operațiunile
+prevăzute la art. 3. Contractul de concesiune încheiat între
+Ministerul Economiei și Comerțului, în calitate de autoritate
+concedentă competentă, și Compania Națională de Transport
+al Energiei Electrice ăTranselectrica” — S.A. București, în
+calitate de concesionar, va fi actualizat în mod corespunzător.
+Art. 5. — Anexa nr. 7 la Hotărârea Guvernului nr. 1.705/2006
+pentru aprobarea inventarului centralizat al bunurilor din
+domeniul public al statului, publicată în Monitorul Oficial al
+României, Partea I, nr. 1.020 și 1.020 bis din 21 decembrie
+2006, cu modificările și completările ulterioare, se modifică în
+mod corespunzător.
+Art. 6. — Anexele nr. 1 și 2 fac parte integrantă din prezenta
+hotărâre.
+
+PRIM-MINISTRU
+
+EMIL BOC
+Contrasemnează:
+Ministrul economiei, comerțului și mediului de afaceri,
+Ion Ariton
+Ministrul finanțelor publice,
+Gheorghe Ialomițianu
+
+București, 25 mai 2011.
+Nr. 551.
+
+11
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 388/2.VI.2011
+
+ANEXA Nr. 1
+
+D AT E L E D E I D E N T I F I C A R E
+
+a mijloacelor fixe care trec din domeniul public al statului în domeniul privat al statului,
+aflate în concesiunea Companiei Naționale de Transport al Energiei Electrice ăTranselectrica” — S.A.,
+Sucursala de Transport Cluj
+
+Denumirea mijloacelor fixe
+
+Nr.
+de inventar
+(companie)
+
+Valoarea
+de inventar
+(lei)
+
+Valoarea
+de inventar
+în domeniul
+public
+(lei)
+
+Valoarea
+de inventar
+rămasă
+de amortizat,
+trecută
+în domeniul
+privat,
+conform
+Ordonanței
+de urgență
+a Guvernului
+nr. 164/2005
+(lei)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8.14.01
+
+Celule 220 kV Florești
+(LEA DC Florești—
+Câmpia Turzii)
+
+T03200037070A
+
+156.067
+
+156.067
+
+0
+
+1978
+
+8.14.01
+
+Celule 220 kV Florești
+(Câmpia Turzii)
+
+T03200038216A
+
+182.380
+
+182.380
+
+0
+
+1978
+
+Nr. de identificare
+Ministerul Finanțelor Publice
+
+Codul
+de
+clasificare
+
+0
+
+62204
+Stația 220/110 kV
+Câmpia Turzii
+
+Anul PIF
+(mijloc fix)
+
+338.447
+
+TOTAL:
+
+AENXA Nr. 2
+
+D AT E L E D E I D E N T I F I C A R E
+
+a mijlocului fix care trece din domeniul public al statului în domeniul privat al statului,
+aflat în concesiunea Companiei Naționale de Transport al Energiei Electrice ăTranselectrica” — S.A.,
+Sucursala de Transport Craiova
+
+Denumirea mijlocului fix
+
+Nr.
+de inventar
+(companie)
+
+Valoarea
+de inventar
+(lei)
+
+Valoarea
+de inventar
+în domeniul
+public
+(lei)
+
+Valoarea
+de inventar
+rămasă
+de amortizat,
+trecută
+în domeniul
+privat,
+conform
+Ordonanței
+de urgență
+a Guvernului
+nr. 164/2005
+(lei)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8.14.01
+
+Panouri, stelaje,
+relee = 30 buc.
+Stația 220/110 kV
+Târgu Jiu Nord și Rac
+
+2237
+
+0
+
+1978
+
+Nr. de identificare
+Ministerul Finanțelor Publice
+
+Codul
+de
+clasificare
+
+0
+
+62183
+Stația 220/110 kV
+Târgu Jiu Nord
+TOTAL:
+
+200.635,00 200.635,00
+
+Anul PIF
+(mijloc fix)
+
+200.635,00*)
+
+*) Valoarea parțială a mijlocului fix, identificat în inventarul bunurilor care aparțin domeniului public al statului cu nr. MFP 62183, din valoarea totală de
+1.003.642 lei.
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 388/2.VI.2011
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+MINISTERUL AGRICULTURII ȘI DEZVOLTĂRII RURALE
+
+ORDIN
+pentru aprobarea Sistemului unitar de identificare a stupinelor și stupilor
+Având în vedere prevederile Programului Național Apicol pentru perioada 2011—2013, aprobat prin Hotărârea Guvernului
+nr. 245/2011 privind aprobarea Programului Național Apicol pentru perioada 2011—2013, a normelor de aplicare, a cuprinsului
+Ghidului de bune practici pentru apicultură, precum și a valorii sprijinului financiar,
+văzând Referatul de aprobare al Direcției generale politici în zootehnie și industrie alimentară nr. 95.348 din 5 mai 2011,
+în temeiul art. 7 alin. (5) din Hotărârea Guvernului nr. 725/2010 privind reorganizarea și funcționarea Ministerului Agriculturii
+și Dezvoltării Rurale, precum și a unor structuri aflate în subordinea acestuia, cu modificările și completările ulterioare,
+ministrul agriculturii și dezvoltării rurale emite următorul ordin:
+Art. 1. — Se aprobă Sistemul unitar de identificare a
+stupinelor și stupilor, prevăzut în anexa care face parte
+integrantă din prezentul ordin.
+Art. 2. — În sensul prezentului ordin, termenii și expresiile de
+mai jos au următoarele semnificații:
+a) Sistemul unitar de identificare a stupinelor și stupilor —
+totalitatea mijloacelor și documentelor utilizate pentru
+identificarea stupinelor și stupilor populați cu material biologic,
+respectiv familii de albine, mătci și roiuri;
+b) panou de identificare a stupinelor — mijloc oficial de
+identificare a stupinelor pe perioada deplasării în pastoral și/sau
+perioada de iernare, după caz, pe care se înscriu următoarele
+date: numele apicultorului, adresa vetrei permanente, numărul
+
+de stupi și numărul de înregistrare/autorizare sanitară veterinară
+acordat de Direcția județeană sanitară veterinară și pentru
+siguranța alimentară;
+c) plăcuță de identificare a stupilor — mijloc oficial de
+identificare utilizat la identificarea stupului aplicat pe stup pe
+care se înscrie codul unic de identificare al stupului;
+d) codul unic de identificare al stupului — cod alcătuit din
+maximum 13 caractere, inclusiv spațiile;
+e) codul formei asociative — cod numeric alcătuit din 3 cifre
+și care reprezintă numărul de ordine acordat formei asociative.
+Art. 3. — Prezentul ordin se publică în Monitorul Oficial al
+României, Partea I.
+
+Ministrul agriculturii și dezvoltării rurale,
+Valeriu Tabără
+București, 25 mai 2011.
+Nr. 119.
+ANEXĂ
+
+S I S T E M U L U N I TA R
+
+de identificare a stupinelor și stupilor
+Art. 1. — Cerințele tehnice care trebuie îndeplinite de
+mijloacele oficiale de identificare a stupinelor — panoul de
+identificare a stupinelor:
+a) să fie confecționat din material rezistent de culoare
+deschisă;
+b) să fie amplasat într-un loc în care este ușor vizibil de la
+distanță, orientat spre calea de acces exterioară a stupinei,
+respectiv către drumul de acces;
+c) să aibă dimensiuni de minimum 100 cm lungime și
+minimum 50 cm lățime;
+d) datele să se înscrie astfel: în partea superioară numele
+apicultorului și adresa vetrei permanente, în centru numărul de
+înregistrare/autorizare sanitară veterinară eliberat de Direcția
+județeană sanitară veterinară și pentru siguranța alimentară, pe
+raza căreia se află vatra permanentă, iar în partea inferioară
+numărul de stupi;
+e) în afara datelor prevăzute la lit. d) să se poată adăuga
+codul, sigla sau însemnele caracteristice asociației din care face
+parte apicultorul;
+f) caracterele trebuie să aibă dimensiunea minimă de 10 cm,
+iar culoarea acestora trebuie să fie închisă, astfel încât să fie
+lizibilă pe fundalul panoului;
+g) confecționarea panoului de identificare a stupinelor se
+realizează prin grija apicultorului, conform cerințelor stabilite
+anterior.
+
+Art. 2. — Cerințele tehnice care trebuie îndeplinite de
+mijloacele oficiale de identificare a stupilor — plăcuța de
+identificare a stupilor:
+a) să fie confecționată din material rezistent inoxidabil;
+b) să se aplice într-un loc în care este ușor vizibilă de la
+distanță, respectiv pe colțul din dreapta sus a corpului de bază
+unde se află de regulă cuibul familiei de albine, pe peretele din
+fața sau din spatele stupului;
+c) să nu fie reutilizabilă;
+d) să aibă dimensiuni de 15 cm lungime și 5 cm lățime;
+e) codul unic de identificare să se aplice prin
+imprimare/ștanțare și să nu se repete, acesta fiind un cod unic
+la nivel național;
+f) vopseaua folosită la imprimare să fie rezistentă la umiditate
+și la temperaturile extreme ale mediului ambiant;
+g) înscrisurile să nu poată fi îndepărtate prin spălare cu apă,
+detergenți, substanțe pentru igienizarea stupilor sau substanțe
+dizolvante/solvente ori prin ștergere cu hârtie abrazivă;
+h) codul unic de identificare este dispus pe un rând și este
+format din 13 caractere, având lățimea de 1 cm și înălțimea de
+3 cm;
+i) codul unic de identificare cuprinde: codul județului,
+respectiv de la 01 la 42, codul formei asociative, respectiv de la
+001 la 999, după care urmează numărul de ordine al stupului,
+respectiv de la 000001 la 999999.
+Art. 3. — Procedura de identificare a stupinelor și stupilor în
+Sistemul unitar este prevăzută în anexa care face parte
+integrantă din prezentul Sistem unitar de identificare a stupinelor
+și stupilor.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 388/2.VI.2011
+
+13
+
+ANEXĂ
+la Sistemul unitar de identificare a stupinelor și stupilor
+
+PROCEDURA DE IDENTIFICARE
+
+a stupinelor și stupilor în Sistemul unitar
+Art. 1. — Pentru identificarea stupilor pe teritoriul României, de ordine aferente stupilor, conform modelului prevăzut în anexa
+forma asociativă legal constituită trebuie să solicite, în scris, nr. 4.
+Agenției Naționale pentru Ameliorare și Reproducție în
+(3) Registrul prevăzut la alin. (2) se arhivează conform
+Zootehnie ăProf. dr. G. K. Constantinescu”, denumită în legislației în vigoare și este pus la dispoziția reprezentanților
+continuare ANARZ, prin oficiile județene pentru ameliorare și instituțiilor de control abilitate.
+reproducție în zootehnie, denumite în continuare OARZ, codul
+(4) Numărul de ordine al stupului aparține materialului
+formei asociative și numerele de ordine pentru stupi.
+biologic existent în acesta.
+Art. 2. — (1) Forma asociativă legal constituită completează
+Art. 6. — Apicultorul este obligat să completeze în Carnetul
+cererea de solicitare a codului formei asociative și de acordare
+stupinei, la pagina ăFișa familiei de albine”, numărul de ordine al
+a numerelor de ordine ale stupilor pentru membrii săi, conform
+modelului prevăzut în anexa nr. 1, care se depune la OARZ stupului acordat de forma asociativă.
+Art. 7. — (1) În cazul înstrăinării/vânzării/deteriorării stupului
+județean, pe a cărui rază teritorială își are sediul, împreună cu
+și, implicit, al pierderii materialului biologic existent în acesta,
+documentele justificative.
+(2) OARZ județene transmit solicitările ANARZ, care apicultorul anunță în termen de maximum 5 zile lucrătoare
+soluționează cererile în termen de maximum 10 zile lucrătoare reprezentantul formei asociative, pentru a modifica în Registrul
+de înregistrare numărul de ordine al stupului care nu mai există
+de la înregistrarea acestora.
+(3) ANARZ eliberează Certificatul de atestare a formei în stupina apicultorului.
+(2) Apicultorul care cumpără material biologic, precum și
+asociative, care cuprinde codul formei asociative și numerele de
+ordine ce îi revin pentru identificarea stupilor, conform modelului stupi noi și/sau vechi care au sau care nu au număr de ordine
+prevăzut în anexa nr. 2.
+deja existent este obligat să anunțe în termen de maximum
+Art. 3. — Documentele justificative care însoțesc cererea de 5 zile lucrătoare reprezentantul formei asociative pentru a primi
+solicitare a codului formei asociative și de acordare a numerelor plăcuțe de identificare pentru stupii achiziționați.
+de ordine ale stupilor sunt:
+(3) În cazul pierderii/deteriorării plăcuței de identificare a
+a) copii de pe actele de constituire a formei asociative legal stupului, apicultorul solicită reprezentantului formei asociative
+constituite;
+confecționarea unei noi plăcuțe de identificare, care să conțină
+b) centralizatorul membrilor formei asociative pentru care
+aceleași date ca plăcuța inițială.
+solicită numere de ordine pentru identificarea stupilor, conform
+Art. 8. — Numerele de ordine eliminate din stupina unui
+modelului prevăzut în anexa nr. 3.
+apicultor nu se mai atribuie niciodată de către forma asociativă.
+Art. 4. — Codul formei asociative se acordă în ordinea
+Art. 9. — Codurile județene utilizate în structura codului de
+înregistrării cererii acesteia la ANARZ.
+Art. 5. — (1) După primirea certificatului de atestare, forma identificare a stupilor sunt prevăzute în anexa nr. 5.
+Art. 10. — Exemplul codului de identificare al unui stup este
+asociativă legal constituită repartizează plăcuțele de identificare
+prevăzut în anexa nr. 6.
+a stupilor în maximum 30 de zile.
+Art. 11. — Anexele nr. 1—6 fac parte integrantă din prezenta
+(2) Forma asociativă legal constituită consemnează într-un
+registru de înregistrare fiecare membru al acesteia și numerele procedură.
+ANEXA Nr. 1
+la Procedura de identificare a stupinelor și stupilor în Sistemul unitar
+
+CERERE
+
+de solicitare a codului formei asociative și de acordare a numerelor de ordine ale stupilor
+1. Denumirea formei asociative legal constituite
+2. Numele și prenumele reprezentantului legal
+3. CNP al reprezentantului legal
+4. CUI al formei asociative legal constituite
+5. Adresa sediului formei asociative legal constituite
+
+6. Codul poștal
+7. Județul/sectorul
+8. Telefon
+9. Fax
+10. E-mail
+11. Adresa pentru corespondență (completați numai dacă ea diferă față de cea de la pct. 4—7)
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 388/2.VI.2011
+
+Solicit eliberarea:
+— codului formei asociative
+— numerelor de ordine pentru ...... stupi
+12. Numărul apicultorilor înscriși în forma asociativă
+13. Numărul familiilor de albine deținut de membri asociați (apicultori)
+Data:
+
+Semnătura:
+
+ANEXA Nr. 2*)
+la Procedura de identificare a stupinelor și stupilor în Sistemul unitar
+
+*) Anexa nr. 2 este reprodusă în facsimil.
+
+15
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 388/2.VI.2011
+ANEXA Nr. 3
+la Procedura de identificare a stupinelor și stupilor în Sistemul unitar
+
+Forma asociativă .........................................................
+Codul formei asociative ...............................................
+C E N T R A L I Z AT O R U L
+
+membrilor formei asociative pentru care solicită numere de ordine pentru identificarea stupilor
+Nr.
+crt.
+
+Numele și prenumele apicultorului
+
+Adresa
+
+Nr. de stupi deținuți
+
+Nr. de ordine ale stupilor
+
+1.
+2.
+3.
+4.
+5.
+...
+ANEXA Nr. 4
+la Procedura de identificare a stupinelor și stupilor în Sistemul unitar
+
+Forma asociativă .........................................................
+Codul formei asociative ...............................................
+REGISTRU DE ÎNREGISTRARE
+
+a membrilor formei asociative și a numerelor de ordine acordate pentru identificarea stupilor
+Nr.
+crt.
+
+Numele și
+prenumele
+apicultorului
+
+CNP
+
+Nr. de stupi
+deținuți
+
+Nr. de
+înregistrare/autorizare
+sanitară veterinară
+
+Nr. de ordine
+ale stupilor
+
+Observații*
+
+1.
+2.
+3.
+4.
+5.
+...
+* Se vor menționa schimbările care au loc în urma situațiilor de vânzare/cumpărare/înstrăinare/deteriorare a stupilor/familiilor
+de albine.
+ANEXA Nr. 5
+la Procedura de identificare a stupinelor și stupilor în Sistemul unitar
+
+CODURILE JUDEȚENE
+
+utilizate în structura codului de identificare a stupilor
+Nr.
+crt.
+
+Județul
+
+Codul
+județului
+
+Nr.
+crt.
+
+Județul
+
+Codul
+județului
+
+1.
+
+ALBA
+
+01
+
+12.
+
+CĂLĂRAȘI
+
+12
+
+2.
+
+ARAD
+
+02
+
+13.
+
+CLUJ
+
+13
+
+3.
+
+ARGEȘ
+
+03
+
+14.
+
+CONSTANȚA
+
+14
+
+COVASNA
+
+15
+
+4.
+
+BACĂU
+
+04
+
+15.
+
+5.
+
+BIHOR
+
+05
+
+16.
+
+DÂMBOVIȚA
+
+16
+
+6.
+
+BISTRIȚA-NĂSĂUD
+
+06
+
+17.
+
+DOLJ
+
+17
+
+7.
+
+BOTOȘANI
+
+07
+
+18.
+
+GALAȚI
+
+18
+
+8.
+
+BRĂILA
+
+08
+
+19.
+
+GIURGIU
+
+19
+
+BRAȘOV
+
+09
+
+20.
+
+GORJ
+
+20
+
+10.
+
+BUZĂU
+
+10
+
+21.
+
+HARGHITA
+
+21
+
+11.
+
+CARAȘ-SEVERIN
+
+11
+
+22.
+
+HUNEDOARA
+
+22
+
+9.
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 388/2.VI.2011
+
+Nr.
+crt.
+
+Județul
+
+Codul
+județului
+
+Nr.
+crt.
+
+Județul
+
+Codul
+județului
+
+23.
+
+IALOMIȚA
+
+23
+
+33.
+
+SĂLAJ
+
+33
+
+24.
+
+IAȘI
+
+24
+
+34.
+
+SIBIU
+
+34
+
+25.
+
+ILFOV
+
+25
+
+35.
+
+SUCEAVA
+
+35
+
+26.
+
+MARAMUREȘ
+
+26
+
+36.
+
+TELEORMAN
+
+36
+
+27.
+
+MEHEDINȚI
+
+27
+
+37.
+
+TIMIȘ
+
+37
+
+28.
+
+MUREȘ
+
+28
+
+38.
+
+TULCEA
+
+38
+
+29.
+
+NEAMȚ
+
+29
+
+39.
+
+VASLUI
+
+39
+
+30.
+
+OLT
+
+30
+
+40.
+
+VÂLCEA
+
+40
+
+31.
+
+PRAHOVA
+
+31
+
+41.
+
+VRANCEA
+
+41
+
+32.
+
+SATU MARE
+
+32
+
+42.
+
+BUCUREȘTI
+
+42
+
+ANEXA Nr. 6
+la Procedura de identificare a stupinelor și stupilor în Sistemul unitar
+
+Exemplu: Codul de identificare al unui stup se va citi conform tabelului de mai jos:
+Tipul mijlocului de identificare
+
+Codul de identificare a stupului
+
+Interpretarea caracterelor înscrise pe plăcuța
+de identificare și a codului de identificare
+
+Plăcuța de identificare
+
+01-001-000001
+
+01 — codul județului
+001—999 — codul formei asociative
+000001—999999 — numărul de ordine al stupului
+
+Gabriel S. Popa
+
+Motivul: Format electronic AUTENTIC, conform Legii nr. 202/1998, republicata.
+Locatia: Bucuresti
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+ăMonitorul Oficial” R.A., Str. Parcului nr. 65, sectorul 1, București; C.I.F. RO427282,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala ăUnirea” București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 021.318.51.29/150, fax 021.318.51.15, e-mail: marketing@ramo.ro, internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 021.401.00.70, fax 021.401.00.71 și 021.401.00.72
+Tiparul: ăMonitorul Oficial” R.A.
+Monitorul Oficial al României, Partea I, nr. 388/2.VI.2011 conține 16 pagini.
+
+Prețul: 3,20 lei
+
+&JUYDGY|523494]
+ISSN 1453—4495
+
+

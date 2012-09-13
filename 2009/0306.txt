@@ -1,0 +1,1960 @@
+Anul 177 (XXI) — Nr. 306
+
+PARTEA I
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+Luni, 11 mai 2009
+
+SUMAR
+
+Nr.
+
+Pagina
+
+Nr.
+ACTE ALE CONSILIULUI SUPERIOR
+AL MAGISTRATURII
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+51.
+
+288.
+
+Pagina
+
+— Ordin al președintelui Autorității Naționale de
+Reglementare în Domeniul Energiei privind aprobarea
+Normei tehnice ăCondiții tehnice de racordare la
+rețelele electrice de interes public pentru centralele
+electrice eoliene” ......................................................
+
+2–12
+
+— Ordin al ministrului agriculturii, pădurilor și
+dezvoltării rurale privind aprobarea Normelor
+metodologice de aplicare a sistemului de restituiri la
+export pentru produsele agricole................................
+
+13–15
+
+635.
+
+— Hotărâre pentru modificarea Regulamentului privind
+organizarea și desfășurarea concursului sau
+examenului pentru definitivare în funcție, promovare
+în grade sau trepte profesionale superioare în cadrul
+aceleiași instanțe ori aceluiași parchet, precum și în
+funcții de execuție a personalului auxiliar de
+specialitate la instanțe și parchete superioare, aprobat
+prin Hotărârea Plenului Consiliului Superior al
+Magistraturii nr. 181/2007 ..........................................
+
+16
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 306/11.V.2009
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+AUTORITATEA NAȚIONALĂ DE REGLEMENTARE ÎN DOMENIUL ENERGIEI
+
+ORDIN
+privind aprobarea Normei tehnice
+ăCondiții tehnice de racordare la rețelele electrice de interes public
+pentru centralele electrice eoliene”
+Având în vedere prevederile art. 9 alin. (2), (8) și (9), ale art. 11 alin. (1), alin. (2) lit. a) și h), ale art. 37 alin. (4) lit. (j) din
+Legea energiei electrice nr. 13/2007, cu modificările și completările ulterioare,
+în temeiul art. 3 alin. (3) din Regulamentul de organizare și funcționare al Autorității Naționale de Reglementare în Domeniul
+Energiei, aprobat prin Hotărârea Guvernului nr. 410/2007,
+președintele Autorității Naționale de Reglementare în Domeniul Energiei emite următorul ordin:
+Art. 1. — Se aprobă Norma tehnică ăCondiții tehnice de
+racordare la rețelele electrice de interes public pentru centralele
+electrice eoliene”, prevăzută în anexa care face parte integrantă
+din prezentul ordin.
+Art. 2. — În termen de 6 luni de la intrarea în vigoare a
+prezentului ordin, Compania Națională Transelectrica — S.A.
+transmite la Autoritatea Națională de Reglementare în Domeniul
+Energiei și publică pe website-ul propriu un îndreptar de
+scheme-tip de racordare a centralelor electrice eoliene/protecții
+și reglajele acestora, în vederea îndeplinirii cerinței prevăzute la
+art. 18 din anexă.
+Art. 3. — În termen de 6 luni de la intrarea în vigoare a
+prezentului ordin, Compania Națională Transelectrica — S.A. va
+transmite spre avizare la Autoritatea Națională de Reglementare
+în Domeniul Energiei procedura prevăzută la art. 30 alin. (2) din
+anexă.
+Art. 4. — În termen de 6 luni de la intrarea în vigoare a
+prezentului ordin, Compania Națională Transelectrica — S.A.
+
+elaborează și transmite la Autoritatea Națională de
+Reglementare în Domeniul Energiei, în vederea aprobării, forma
+revizuită a cap. 5 din Codul tehnic al rețelei electrice de transport
+ăCondiții de racordare la rețeaua electrică de transport”, aprobat
+prin Ordinul președintelui Autorității Naționale de Reglementare
+în Domeniul Energiei nr. 20/2004, cu modificările și completările
+ulterioare, în conformitate cu noile tehnologii de producere a
+energiei electrice, precum și cu legislația în domeniu în vigoare,
+inclusiv cu prevederile prezentului ordin.
+Art. 5. — Operatorii de rețea și utilizatorii rețelelor electrice
+duc la îndeplinire prevederile prezentului ordin.
+Art. 6. — Departamentele de specialitate din cadrul Autorității
+Naționale de Reglementare în Domeniul Energiei urmăresc
+respectarea prevederilor cuprinse în prezentul ordin.
+Art. 7. — Prezentul ordin se publică în Monitorul Oficial al
+României, Partea I.
+
+Președintele Autorității Naționale de Reglementare în Domeniul Energiei,
+Petru Lificiu
+București, 3 aprilie 2009.
+Nr. 51.
+ANEXĂ
+
+NORMĂ TEHNICĂ
+
+ăCondiții tehnice de racordare la rețelele electrice de interes public pentru centralele electrice eoliene”
+Cod ANRE: 51.1.017.0.00.03/04/09
+CAPITOLUL I
+Scop
+
+prin Ordinul președintelui Autorității Naționale de Reglementare
+în Domeniul Energiei nr. 128/2008.
+
+Art. 1. — Prezenta normă tehnică stabilește cerințele tehnice
+minimale pe care trebuie sa le îndeplinească grupurile/centralele
+electrice eoliene racordate la rețelele electrice de interes public,
+astfel încât să poată fi asigurate atât funcționarea în siguranță a
+sistemului electroenergetic, cât și condițiile pentru instalarea
+unei puteri totale cât mai mari în astfel de centrale. Prezenta
+normă tehnică constituie o completare adusă cap. 5 din Codul
+tehnic al rețelei electrice de transport ăCondiții de racordare la
+rețeaua electrică de transport”, aprobat prin Ordinul
+președintelui Autorității Naționale de Reglementare în Domeniul
+Energiei nr. 20/2004, cu modificările și completările ulterioare, și
+cap. 5 din Codul tehnic al rețelelor electrice de distribuție
+ăCondiții de racordare la rețelele electrice de distribuție”, aprobat
+
+CAPITOLUL II
+Domeniu de aplicare
+Art. 2. — Prezenta normă tehnică se aplică în relațiile dintre
+operatorii de rețea și utilizatorii care solicită racordarea de
+grupuri/centrale electrice eoliene la rețelele electrice de interes
+public.
+CAPITOLUL III
+Glosar
+Art. 3. — (1) În prezenta normă tehnică se utilizează termenii
+și expresiile definite în Codul tehnic al rețelei electrice de
+transport. În plus, în sensul prezentei norme tehnice, se definesc
+termenii și acronimele prezentate mai jos.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 306/11.V.2009
+(2) Acronime:
+ANRE
+
+Autoritatea Națională de Reglementare în Domeniul Energiei
+
+CEE
+
+Centrală electrică eoliană
+
+CEED
+
+Centrală electrică eoliană dispecerizabilă
+
+CEEND
+
+Centrală electrică eoliană nedispecerizabilă
+
+EMS
+
+Sistem de management al energiei
+
+GGE
+
+Grup generator eolian
+
+OD
+
+Operator de distribuție
+
+OTS
+
+Operatorul de transport și de sistem
+
+PCC
+
+Punct comun de cuplare
+
+PIF
+
+Punere în funcțiune
+
+SCADA
+
+Sistem informatic de monitorizare, comandă și achiziție de date
+a unui proces tehnologic sau instalații
+
+SEN
+
+Sistemul Electroenergetic Național
+
+(3) Definiții:
+
+Bara/Barele colectoare a/ ale CEE
+
+Bara/Barele electrică (ce) în care debitează grupurile
+generatoare dintr-o centrală electrică eoliană.
+
+Centrală electrică eoliană
+
+Unul sau mai multe grupuri electrice eoliene racordate în
+același punct la rețeaua electrică de interes public.
+
+Centrală
+electrică
+dispecerizabilă
+
+eoliană
+
+Centrală electrică eoliană cu o putere instalată mai mare de
+10 MW în punctul de racordare la sistem
+
+Centrală
+electrică
+nedispecerizabilă
+
+eoliană
+
+Centrală electrică eoliană cu o putere instalată mai mică sau
+egală cu 10 MW în punctul de racordare la sistem
+
+Grup generator
+
+Ansamblu de echipamente (de regulă rotative) destinat
+producției de energie electrică prin transformarea unei alte
+forme de energie.
+
+Grup generator eolian
+
+Grup generator destinat să transforme energia cinetică a
+vântului în energie electrică.
+
+Operator de rețea
+
+După caz, operatorul de transport și de sistem, un operator de
+distribuție sau un alt deținător de rețea electrică de interes
+public
+
+Puterea nominală a unui grup
+generator eolian
+
+Puterea electrică maximă de funcționare continuă pe care o
+poate produce un grup generator eolian în condiții normale de
+funcționare, mărime indicată în general de proiectant.
+
+Putere disponibilă (a unui GGE,
+a unei CEE)
+
+Puterea electrică maximă care poate fi produsă în regim
+continuu de GGE/CEE, în condițiile reale în care se află.
+
+Putere instalată (a unei CEE)
+
+Suma puterilor nominale ale GEE din componența CEE
+
+Punct de racordare
+
+Punct fizic din rețeaua electrică la care se racordează un
+utilizator.
+
+Punct comun de cuplare
+
+Punct al unei rețele electrice, cel mai apropiat din punct de
+vedere electric de un utilizator, la care sunt sau pot fi conectați
+și alți utilizatori.
+
+3
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 306/11.V.2009
+CAPITOLUL IV
+Documente de referință
+
+Art. 4. — Aplicarea prezentei metodologii se face prin
+coroborarea cu prevederile următoarelor acte normative:
+a) Legea energiei electrice nr. 13/2007, cu modificările și
+completările ulterioare;
+b) Legea nr. 220/2008 pentru stabilirea sistemului de
+promovare a producerii energiei din surse regenerabile de
+energie;
+c) Hotărârea Guvernului nr. 90/2008 pentru aprobarea
+Regulamentului privind racordarea utilizatorilor la rețelele
+electrice de interes public;
+d) Ordinul președintelui Autorității Naționale de
+Reglementare în Domeniul Energiei nr. 20/2004 pentru
+aprobarea Codului tehnic al rețelei electrice de transport, cu
+modificările și completările ulterioare;
+e) Ordinul președintelui Autorității Naționale de
+Reglementare în Domeniul Energiei nr. 128/2008 pentru
+aprobarea Codului tehnic al rețelelor electrice de distribuție —
+revizia I;
+f) Ordinul președintelui Autorității Naționale de Reglementare
+în Domeniul Energiei nr. 129/2008 pentru aprobarea
+Regulamentului privind stabilirea soluțiilor de racordare a
+utilizatorilor la rețelele electrice de interes public;
+g) Ordinul președintelui Autorității Naționale de
+Reglementare în Domeniul Energiei nr. 48/2008 privind
+aprobarea Metodologiei pentru emiterea avizelor de
+amplasament de către operatorii de rețea;
+h) Ordinul președintelui Autorității Naționale de
+Reglementare în Domeniul Energiei nr. 4/2007 pentru aprobarea
+Normei tehnice privind delimitarea zonelor de protecție și de
+siguranță aferente capacităților energetice — revizia I, cu
+modificările și completările ulterioare;
+i) Ordinul președintelui Autorității Naționale de Reglementare
+în Domeniul Energiei nr. 38/2007 pentru aprobarea Procedurii
+de soluționare a neînțelegerilor legate de încheierea contractelor
+dintre operatorii economici din sectorul energiei electrice, a
+contractelor de furnizare a energiei electrice și a contractelor de
+racordare la rețea;
+j) Ordinul președintelui Autorității Naționale de Reglementare
+în Domeniul Energiei nr. 17/2007 privind aprobarea Standardului
+
+de performanță pentru serviciile de transport și de sistem ale
+energiei electrice;
+k) Ordinul președintelui Autorității Naționale de Reglementare
+în Domeniul Energiei nr. 28/2007 privind aprobarea Standardului
+de performanță pentru serviciul de distribuție a energiei
+electrice.
+CAPITOLUL V
+Cerințe pentru centralele electrice eoliene dispecerizabile
+(CEED)
+Art. 5. — CEED trebuie să respecte integral cerințele Codului
+tehnic al rețelei electrice de transport/Codului tehnic al rețelelor
+electrice de distribuție și ale prezentei reglementări.
+Art. 6. — CEED trebuie să fie capabile să producă pe durată
+nelimitată, în punctul de racordare, simultan puterea activă și
+reactivă maximă corespunzătoare condițiilor meteo, în
+conformitate cu diagrama P-Q echivalentă pentru care au primit
+aviz, în banda de frecvențe 49,5 ÷ 50,5 Hz și în banda admisibilă
+a tensiunii.
+Art. 7. — CEED trebuie să aibă capacitatea:
+a) să funcționeze continuu pentru frecvențe cuprinse în
+intervalul 47,5 ÷ 52 Hz;
+b) să rămână conectate la rețeaua electrică pentru frecvențe
+cuprinse în intervalul 47,0 ÷ 47,5 Hz timp de minimum
+20 de secunde;
+c) să rămână conectate la rețeaua electrică atunci când
+se produc variații de frecvență având viteza de până la
+0,5 Hz/secundă;
+d) să funcționeze continuu la o tensiune în punctul de
+racordare în domeniul 0,90 ÷ 1,10 Un.
+Art. 8. — (1) GGE trebuie să rămână în funcțiune:
+a) la variații ale frecvenței în domeniul 47,5 ÷ 49,5 Hz. La
+scăderea frecvenței sub 49,5 Hz se admite o reducere liniară a
+puterii active disponibile, proporțională cu abaterea frecvenței;
+b) la variații de frecvență cu viteza de până la 0,5 Hz/s și/sau
+variații de tensiune în domeniul 0,90 ÷ 1,10 Un.
+(2) Funcționarea la tensiuni sau la frecvențe anormale nu
+trebuie să conducă la reducerea puterii active disponibile a GGE
+cu mai mult de 20%.
+Art. 9. — (1) GGE trebuie să rămână în funcțiune la apariția
+golurilor și a variațiilor de tensiune, pe una sau pe toate fazele,
+în punctul de racordare, de tipul celor din figura 1:
+
+Figura 1*): Forma golurilor de tensiune la care GGE trebuie să rămână în funcțiune
+
+*) Figura 1 este reprodusă în facsimil.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 306/11.V.2009
+(2) Pe durata golurilor de tensiune, CEED trebuie să producă
+putere activă corespunzător nivelului tensiunii remanente și să
+maximizeze curentul reactiv injectat, fără a depăși limitele de
+funcționare ale CEED. CEED trebuie să poată genera curentul
+reactiv maxim pentru minimum 3 sec.
+(3) Din momentul restabilirii tensiunii rețelei electrice în
+limitele normale de funcționare, CEED trebuie să producă
+întreaga putere activă disponibilă în cel mai scurt timp posibil, cu
+un gradient de variație a sarcinii de cel puțin 20% din puterea
+instalată pe secundă (MW/sec.).
+Art. 10. — (1) CEED va fi prevăzută cu un sistem de reglaj
+automat al puterii active în funcție de valoarea frecvenței (reglaj
+
+5
+
+automat f/P). Acesta va acționa conform unei curbe de răspuns
+frecvență/putere activă, exemplificată în figura 2, unde Pd
+reprezintă puterea activă disponibilă. Coordonatele punctelor A,
+B, C, D și E depind de valoarea frecvenței, a puterii active pe
+care o poate produce centrala și de valoarea de consemn la
+care este limitată puterea activă, în intervalele: A (50—47 Hz),
+B (50—47 Hz), C (50—52 Hz), DE (50—52 Hz). Poziția punctelor
+trebuie să poată fi setată conform solicitărilor operatorului de
+rețea, cu o eroare de maximum ±10 mHz. Eroarea de măsurare
+a frecvenței nu trebuie să fie mai mare de ± 10 mHz.
+
+Figura 2*): Variația puterii CEED funcție de frecvență
+(2) Modificarea puterii active generate datorită variațiilor de
+frecvență va fi realizată, pe cât posibil, prin modificarea
+proporțională a puterii active generate de fiecare grup al CEED,
+nu prin pornirea și oprirea de grupuri. Viteza de răspuns a
+fiecărui GGE aflat în funcțiune trebuie să fie cel puțin 60% din
+puterea nominală pe minut (MW/min.).
+(3) Dacă valoarea frecvenței ajunge la o valoare mai mare
+decât cea corespunzătoare segmentului ăD — E” pe curba
+caracteristică prezentată în figura 2, se admite ca CEED să fie
+deconectată. Condițiile de repunere în funcțiune se stabilesc de
+către OTS.
+(4) La variațiile de frecvență din SEN, CEED trebuie să aibă
+capacitatea:
+a) să asigure scăderea puterii active cu cel puțin 40% din
+puterea instalată/Hz la creșterea frecvenței peste 50,2 Hz;
+b) să asigure creșterea puterii active până la limita maximă
+a puterii active disponibile, la scăderea frecvenței sub 49,8 Hz.
+Art. 11. — (1) Puterea activă produsă de o CEED trebuie să
+poată fi limitată la o valoare de consemn.
+(2) Mărimea valorii de consemn trebuie să poată fi setată
+local sau preluată automat de la distanță în intervalul dintre
+puterea minimă tehnică și puterea instalată a centralei.
+(3) CEED trebuie să asigure reglajul puterii active în punctul
+de racordare cu o precizie de ± 5% din puterea instalată (ca
+putere medie pe 10 minute).
+Art. 12. — (1) În funcționare normală, CEED trebuie să aibă
+capacitatea:
+*) Figura 2 este reprodusă în facsimil.
+
+a) de a seta viteza de creștere/reducere liniară a puterii
+active produse la valoarea impusă de operatorul de rețea
+(MW/min.);
+b) de a reduce, la dispoziția operatorului de rețea, puterea
+activă produsă la valoarea solicitată (inclusiv oprire), respectând
+viteza de variație (încărcare/descărcare) stabilită. Viteza de
+variație a puterii trebuie să fie respectată atât în cazul variației
+naturale de putere (intensificarea vitezei vântului), cât și pentru
+variațiile consemnului de putere. Prevederile de mai sus nu se
+referă la opririle intempestive.
+(2) Valoarea vitezei de variație a puterii trebuie să poată fi
+setată într-o gamă cuprinsă între 10% din puterea instalată pe
+minut și viteza maximă admisibilă, dată de fabricant.
+Art. 13. — (1) CEED trebuie să instaleze sisteme de protecții
+care să asigure declanșarea de la sistem în cazul pierderii
+stabilității.
+(2) Operatorul de rețea poate solicita în avizul tehnic de
+racordare instalarea suplimentară în CEED a unor sisteme de
+automatizare destinate reducerii rapide a puterii, chiar până la
+oprire.
+Art. 14. — (1) Producătorul este responsabil pentru
+protejarea GGE și a instalațiilor auxiliare ale acestora contra
+pagubelor ce pot fi provocate de defecte în instalațiile proprii sau
+de impactul rețelei electrice asupra acestora la acționarea
+protecțiilor de deconectare a CEED sau la incidentele din rețea
+(scurtcircuite cu și fără punere la pământ, acționări ale
+protecțiilor în rețea, supratensiuni tranzitorii etc.), precum și în
+cazul apariției unor condiții excepționale/anormale de
+funcționare.
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 306/11.V.2009
+
+(2) Reglajele protecțiilor la interfața CEED — SEN se
+stabilesc de către operatorul de rețea.
+Art. 15. — Dacă un GGE a declanșat din cauza vitezei
+vântului aflate în afara limitelor luate în calcul la proiectare,
+acesta trebuie să aibă capacitatea de a se reconecta automat
+atunci când viteza vântului revine la valori normale de
+funcționare.
+Art. 16. — (1) La valori ale tensiunii în punctul de racordare
+situate în banda admisibilă de tensiune, puterea reactivă
+produsă/absorbită de o CEED trebuie să poată fi reglată
+continuu corespunzător unui factor de putere situat cel puțin în
+gama 0,95 capacitiv și 0,95 inductiv.
+(2) CEED trebuie să poată realiza reglajul automat tensiuneputere reactivă în PCC în oricare dintre modalitățile:
+a) reglajul tensiunii;
+b) reglajul puterii reactive schimbate cu SEN;
+c) reglajul factorului de putere.
+(3) Condițiile de detaliu privind reglajul tensiunii și puterii
+reactive se stabilesc de operatorul de rețea prin avizul tehnic de
+racordare.
+(4) Viteza de răspuns a sistemului de reglaj al tensiunii
+trebuie să fie de minimum 95% din puterea reactivă disponibilă
+pe secundă.
+Art. 17. — În regim normal de funcționare a rețelei, CEED nu
+trebuie să producă în punctul de racordare variații rapide de
+tensiune mai mari de ± 5 % din tensiunea nominală.
+Art. 18. — Soluția de racordare a CEED trebuie să aibă în
+vedere evitarea funcționării CEED în regim insularizat, inclusiv
+prin dotarea cu protecții care să deconecteze CEED într-un
+asemenea regim.
+Art. 19. — (1) Condițiile de proiectare prevăzute în
+standardele SR EN 61400-1:2006 Turbine eoliene. Partea 1:
+Condiții de proiectare, SR EN 61400-2:2006 Turbine eoliene.
+Condiții de proiectare ale turbinelor eoliene mici constituie
+cerințe specifice minimale pentru GGE. Evaluarea și măsurarea
+parametrilor ce caracterizează calitatea energiei electrice
+produse de GGE trebuie să se conformeze cel puțin cerințelor
+prevăzute în standardul SR EN 61400-21:2003 • Turbine
+eoliene. Partea 21: Măsurarea și evaluarea caracteristicilor de
+calitate a energiei turbinelor eoliene conectate la o rețea
+electrică.
+(2) Indiferent de numărul GGE și al instalațiilor auxiliare aflate
+în funcțiune și oricare ar fi puterea produsă, CEED trebuie să
+asigure în PCC calitatea energiei electrice conform cu
+standardele în vigoare.
+Art. 20. — Operatorul de rețea verifică și asigură că
+racordarea și funcționarea CEED prevăzute a fi instalate nu
+conduce la încălcarea normelor în vigoare privind calitatea
+energiei electrice.
+Art. 21. — În scopul efectuării studiilor de stabilire a soluției
+de racordare sau de planificare, solicitantul pune la dispoziția
+operatorului de rețea un model de simulare a funcționării
+centralei/grupului eolian. Modelul trebuie să fie furnizat într-un
+format cerut de operatorul de rețea. Modelul trebuie să
+evidențieze parametrii CEE/GGE necesari atât pentru calculele
+de regimuri staționare, cât și pentru cele de regimuri
+dinamice/tranzitorii.
+Art. 22. — Înainte de punerea în funcțiune a unei CEED, de
+comun acord cu operatorul de rețea, se stabilește programul de
+probe prin care se demonstrează capacitatea CEED de a
+îndeplini condițiile de racordare impuse de operatorul de rețea
+prin avizul tehnic de racordare. Probele includ și verificarea
+modelului de simulare a funcționării.
+Art. 23. — CEED trebuie dotată cu sisteme de măsurare și
+de monitorizare a funcționării și a calității energiei electrice în
+PCC.
+
+Art. 24. — În situații speciale, evidențiate prin studii proprii,
+operatorul de rețea poate impune condiții suplimentare celor de
+mai sus sau mai restrictive.
+CAPITOLUL VI
+Cerințe pentru centralele electrice eoliene
+nedispecerizabile (CEEND)
+Art. 25. — (1) Pentru CEEND cu puterea instalată ≥ 1 MW,
+dar până la 10 MW, cerințele minime impuse sunt cele cuprinse
+în art. 5—9, art. 13—15 și art. 17—20.
+(2) Pentru CEEND cu puteri instalate ≤ 1 MW se impun
+următoarele cerințe minime:
+a) să poată fi conectate și deconectate prin comandă de la
+distanță;
+b) să funcționeze în paralel cu rețeaua fără a produce variații
+de tensiune mai mari de ± 5% din tensiunea nominală;
+c) să respecte condițiile de calitate a energiei electrice
+produse, stabilite de operatorul de rețea, conform normelor în
+vigoare.
+(3) În scopul asigurării funcționării în condiții de siguranță a
+rețelei electrice și al protejării celorlalți utilizatori, inclusiv prin
+evitarea funcționării în regim insularizat, operatorul de rețea
+poate impune pentru CEEND condiții suplimentare celor de mai
+sus sau mai restrictive.
+CAPITOLUL VII
+Cerințe pentru echipamentele de telecomunicații
+Art. 26. — Titularul de licență pentru producerea energiei
+electrice în GGE/CEE cu puteri mai mari de 1 MW trebuie să
+asigure continuitatea transmiterii informațiilor către operatorul
+de rețea și OTS.
+Art. 27. — (1) Toate CEED trebuie să poată fi supravegheate
+și comandate de la distanță.
+(2) Funcțiile de comandă și valorile măsurate trebuie să
+poată fi puse la dispoziția operatorului de rețea, la cerere, într-un
+punct convenit de interfață cu sistemul EMS-SCADA.
+(3) Pentru CEED, informațiile necesare a fi transmise on-line
+către sistemul EMS-SCADA includ cel puțin: puterea activă și
+reactivă produsă, tensiunea, frecvența, poziția elementelor de
+comutație din punctul de racordare, energia activă produsă,
+reglaj f/P (da/nu), viteza și direcția vântului, presiunea
+atmosferică, temperatura etc.
+(4) Pentru CEEND, informațiile necesare a fi transmise
+on-line includ cel puțin măsura de putere activă și reactivă
+produsă.
+(5) Operatorul de rețea precizează și alte informații care
+trebuie teletransmise de CEE și încheie cu producătorul un
+acord de confidențialitate referitor la acestea.
+Art. 28. — Titularul de licență pentru producerea energiei
+electrice în CEED este obligat să furnizeze către OTS prognoze
+de producție (putere activă) pe baza datelor meteo, pe termen
+mediu (1—3 zile) și scurt (4—24 de ore).
+CAPITOLUL VIII
+Informații necesar a fi transmise de CEE
+Art. 29. — Titularul de licență pentru producerea energiei
+electrice în CEED va trimite pentru fiecare centrală pentru care
+solicită racordarea, respectiv efectuarea de probe pentru
+punerea în funcțiune datele tehnice indicate în tabelul 1.1 sau
+1.2. Punerea în funcțiune și darea în exploatare se fac numai
+după realizarea probelor de funcționare, integrarea în sistemul
+SCADA al operatorului de rețea și transmiterea la acesta a
+rezultatelor probelor conform tabelelor următoare și a
+procedurilor elaborate de operatorul de rețea.
+
+7
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 306/11.V.2009
+S — date standard de planificare
+D — date de detaliu de planificare
+R — date comunicate pentru elaborarea studiului de soluție
+și cererea de racordare
+P — date comunicate cu minimum 3 luni înainte de PIF
+
+T — date determinate (înregistrate) în urma probelor
+(testelor) care fac obiectul activităților de testare monitorizare și
+control. Determinarea acestor date se realizează în cadrul
+probelor de PIF și se transmit la operatorul de rețea în maximum
+10 zile de la PIF.
+
+Date pentru centralele electrice eoliene dispecerizabile
+Tabelul 1.1
+Unități
+de măsură
+
+Descrierea datelor (simbol)
+
+Categoria
+datelor
+
+Firma producătoare a grupului electric eolian
+
+Denumire
+
+S, R
+
+Numărul de grupuri eoliene care constituie CEED
+
+Număr
+
+S, R
+
+Tipul grupurilor generatoare eoliene care constituie CEED
+
+Descriere
+
+S, R
+
+Aprobarea de tip pentru grup electric eolian
+
+Număr
+certificat
+
+S, R
+
+Racordare la rețea, amplasare bara colectoare și punctul de
+racordare
+
+Text, schemă
+
+S, R
+
+Tensiunea nominală în punctul de racordare
+
+kV
+
+S, R
+
+Schema electrică a întregii centrale electrice eoliene
+
+Schemă
+
+D, P
+
+Puterea activă nominală a CEED
+
+MW
+
+S, R
+
+Puterea maximă aparentă nominală la bara colectoare a CEED
+
+MVA
+
+S, R
+
+Putere activă netă maximă la bara colectoare a CEED
+
+MW
+
+D, P
+
+Frecvența de funcționare la parametri nominali
+
+Hz
+
+D, P
+
+Viteza maximă/minimă de variație a puterii active ce poate fi
+realizată la nivelul CEED
+
+MW/min.
+
+P, T
+
+Consumul serviciilor proprii la puterea maximă produsă la bara
+colectoare
+
+MW
+
+T
+
+Condiții speciale de conectare/deconectare a centralei electrice
+eoliene, altele decât ale grupurilor electrice eoliene componente
+
+Text
+
+S, R, P
+
+Modelul matematic al centralei electrice eoliene și simulările
+efectuate
+
+Text
+
+D, P
+
+Reglajul puterii active în PCC
+(bucla de reglare)
+
+Schema de reglare,
+viteza de încărcaredescărcare
+
+D, P
+
+Reglajul tensiunii în PCC (bucla de reglare)
+
+Schema de reglare
+
+D, P
+
+Reglajul factorului de putere în PCC (bucla de reglare)
+
+Schema de reglare
+
+D, P
+
+Diagrama PQ în punctul de racordare
+
+Date grafice
+
+P, T
+
+La nivelul centralei electrice eoliene:
+
+Parametrii liniei de racordare la SEN
+
+S
+
+Date referitoare la grupurile generatoare eoliene care alcătuiesc centrala electrică eoliană
+Tipul unității eoliene (cu ax orizontal/vertical)
+
+Descriere
+
+S, R
+
+Numărul de pale
+
+Număr
+
+S, R
+
+Diametrul rotorului
+
+m
+
+S, R
+
+Înălțimea axului rotorului
+
+m
+
+S, R
+
+Sistemul de comandă a palelor (pitch/stall)
+
+Text
+
+S, R
+
+Sistemul de comandă a vitezei (fix/cu două viteze/variabil)
+
+Text
+
+S, R
+
+Tipul de generator
+
+Descriere
+
+S, R
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 306/11.V.2009
+Unități
+de măsură
+
+Descrierea datelor (simbol)
+
+Tipul de convertor de frecvență și parametrii nominali (kW)
+
+Categoria
+datelor
+
+S, R
+
+Puterea activă nominală
+
+MW
+
+S, R
+
+Puterea activă maximă măsurată la bara colectoare a CEED
+— valoarea medie pe 60 secunde
+— valoarea medie pe 0,2 secunde
+
+MW
+
+T
+
+Puterea activă maxim permisă
+
+MW
+
+S, R
+
+Puterea aparentă nominală
+
+kVA
+
+S, R
+
+Viteza de variație a puterii active
+
+MW/min.
+
+P, T
+
+Puterea reactivă, specificată ca valoare medie pe 10 minute în
+funcție de valoarea medie pe 10 minute a puterii active
+generate*)
+
+KVAr
+
+S, T
+
+Curentul nominal
+
+A
+
+S, R
+
+Tensiunea nominală
+
+V
+
+S, R
+
+Viteza vântului de pornire
+
+m/s
+
+S, R
+
+Viteza nominală a vântului (corespunzătoare puterii nominale)
+
+m/s
+
+S, R
+
+Viteza vântului de deconectare
+
+m/s
+
+S, R
+
+Variația puterii generate cu viteza vântului
+
+Curba de variație
+
+S, R
+
+Diagrama P-Q în PCC
+
+Date grafice
+
+S, R,P, T
+
+Unități de transformare MT/110kV prin care CEED se racordează la bara de 110kV:
+Număr de înfășurări
+
+Text
+
+S, R
+
+Puterea nominală pe fiecare înfășurare
+
+MVA
+
+S, P
+
+Raportul nominal de transformare
+
+kV/kV
+
+S, R
+
+Tensiuni de scurtcircuit pe perechi de înfășurări
+
+% din Unom
+
+S, R
+
+Pierderi în gol
+
+kW
+
+S, P
+
+Pierderi în sarcină
+
+kW
+
+S, P
+
+Curentul de magnetizare
+
+%
+
+S, P
+
+Grupa de conexiuni
+
+Text
+
+S, R
+
+Domeniu de reglaj
+
+kV-kV
+
+S, P
+
+Schema de reglaj (longitudinal sau longo-transversal)
+
+Text, diagramă
+
+D, P
+
+Mărimea treptei de reglaj
+
+%
+
+D, P
+
+Reglaj sub sarcină
+
+DA/NU
+
+D, P
+
+Curba de saturație
+
+Diagramă
+
+D, P
+
+Parametri de calitate ai energiei electrice pe fiecare grup (proiectați/realizați)
+Coeficient de flicker la funcționare continuă*)
+
+S, T
+
+Factorul treapta de flicker pentru operații de comutare*)
+
+S, T
+
+Factor de variație a tensiunii*)
+
+S, T
+
+Număr maxim de operații de comutare la interval de 10
+Număr maxim de operații de comutare la interval de 2
+
+minute*)
+
+ore*)
+
+S, T
+S, T
+
+La bara colectoare
+Factor total de distorsiune de curent THDi*)
+
+S, T
+
+Armonice (până la armonica 50)*)
+
+S, T
+
+Factor de nesimetrie de secvență negativă
+
+S, T
+
+*)
+
+Conform tabelelor din anexă.
+
+9
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 306/11.V.2009
+Tabelul 1.2
+Date pentru centralele electrice eoliene nedispecerizabile cu puteri cuprinse între 1 și 10MW
+Unități
+de măsură
+
+Descrierea datelor (simbol)
+
+Categoria
+datelor
+
+Firma producătoare a grupului electric eolian
+
+Denumire
+
+S, R
+
+Numărul de grupuri eoliene care constituie CEEND
+
+Număr
+
+S,R
+
+Tipul grupurilor generatoare eoliene care constituie CEEND
+
+Descriere
+
+S, R
+
+Aprobarea de tip pentru grup electric eolian
+
+Număr
+certificat
+
+S, R
+
+Racordare la rețea, amplasare bara colectoare și punctul de
+racordare
+
+Text, schemă
+
+S, R
+
+Tensiunea nominală în punctul de racordare
+
+kV
+
+S, R
+
+Schema electrică a întregii centrale electrice eoliene
+
+Schemă
+
+D, P
+
+Puterea activă nominală a CEEND
+
+MW
+
+S, R
+
+Puterea maximă aparentă la bara colectoare a CEEND
+
+MVA
+
+S, R
+
+Putere activă netă maximă la bara colectoare a CEEND
+
+MW
+
+D, P
+
+Frecvența de funcționare la parametri nominali
+
+Hz
+
+D, P
+
+Consumul serviciilor proprii la puterea maximă produsă la bara
+colectoare
+
+MW
+
+T
+
+Condiții speciale de conectare/deconectare a centralei electrice
+eoliene, altele decât ale grupurilor electrice eoliene componente
+
+Text
+
+S, R, P
+
+La nivelul centralei electrice eoliene:
+
+Parametrii liniei de racordare la SEN
+
+S
+
+Date referitoare la grupurile generatoare eoliene care alcătuiesc centrala electrică eoliană
+Tipul unității eoliene (cu ax orizontal/vertical)
+
+Descriere
+
+S,R
+
+Numărul de pale
+
+Număr
+
+S,R
+
+Diametrul rotorului
+
+m
+
+S,R
+
+Înălțimea axului rotorului
+
+m
+
+S,R
+
+Sistemul de comandă a palelor (pitch/stall)
+
+Text
+
+S,R
+
+Sistemul de comandă a vitezei (fix/cu două viteze/variabil)
+
+Text
+
+S,R
+
+Tipul de generator
+
+Descriere
+
+S,R
+
+Tipul de convertor de frecvență și parametrii nominali (kW)
+
+S,R
+
+Puterea activă nominală
+
+MW
+
+S,R
+
+Puterea activă maximă măsurată la bara colectoare a CEEND
+— valoarea medie pe 60 secunde
+— valoarea medie pe 0,2 secunde
+
+MW
+
+T
+
+Puterea activă maxim permisă
+
+MW
+
+S,R
+
+Puterea aparentă nominală
+
+kVA
+
+S, R
+
+Viteza de variație a puterii active
+
+MW/min
+
+P, T
+
+Puterea reactivă, specificată ca valoare medie pe 10 minute în
+funcție de valoarea medie pe 10 minute a puterii active generate*)
+
+KVAr
+
+S, T
+
+Curentul nominal
+
+A
+
+S, R
+
+Tensiunea nominală
+
+V
+
+S, R
+
+Viteza vântului de pornire
+
+m/s
+
+S, R
+
+Viteza nominală a vântului (corespunzătoare puterii nominale)
+
+m/s
+
+S, R
+
+*)
+
+Conform tabelelor din anexă.
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 306/11.V.2009
+Unități
+de măsură
+
+Descrierea datelor (simbol)
+
+Categoria
+datelor
+
+Viteza vântului de deconectare
+Variația puterii generate cu viteza vântului
+
+m/s
+Tabel
+
+S, R
+S, R
+
+Diagrama P-Q
+
+Date grafice
+
+S, R, P, T
+
+Unități de transformare JT/MT, respectiv MT/110 kV prin care CEEND se racordează la bara de
+MT sau 110 kV:
+Număr de înfășurări
+
+Text
+
+S, R
+
+Puterea nominală pe fiecare înfășurare
+
+MVA
+
+S, P
+
+Raportul nominal de transformare
+Tensiuni de scurtcircuit pe perechi de înfășurări
+
+kV/kV
+% din Unom
+
+S, R
+S, R
+
+Pierderi în gol
+
+kW
+
+S, P
+
+Pierderi în sarcină
+
+kW
+
+S, P
+
+Curentul de magnetizare
+
+%
+
+S, P
+
+Grupa de conexiuni
+
+Text
+
+S, R
+
+Domeniu de reglaj
+
+kV-kV
+
+S, P
+
+Schema de reglaj (longitudinal sau longo-transversal)
+
+Text, diagramă
+
+D, P
+
+Mărimea treptei de reglaj
+Reglaj sub sarcină
+
+%
+DA/NU
+
+D, P
+D, P
+
+Curba de saturație
+
+Diagramă
+
+D, P
+
+Parametri de calitate ai energiei electrice pe fiecare grup (proiectați/realizați)
+Coeficient de flicker la funcționare continuă*)
+Factorul treaptă de flicker pentru operații de comutare*)
+Factor de variație a tensiunii*)
+Număr maxim de operații de comutare la interval de 10 minute*)
+Număr maxim de operații de comutare la interval de 2 ore*)
+La bara colectoare
+Factor total de distorsiune de curent THDi*)
+
+S, T
+S, T
+S, T
+S, T
+S, T
+S, T
+
+Armonice (până la armonica 50)*)
+
+S, T
+
+Factor de nesimetrie de secvență negativă
+
+S, T
+
+*)
+
+Conform tabelelor din anexă.
+ANEXĂ
+la tabelele 1.1 și 1.2
+
+Informațiile din tabele trebuie să corespundă definițiilor și procedurilor de măsurare din CEI 6140021. Abaterile față de valorile transmise trebuie anunțate. Dacă operatorul de rețea solicită, el trebuie să
+primească un raport de testare. Orice modificări ulterioare trebuie aprobate de operatorul de rețea.
+Putere reactivă/generator eolian
+Puterea activă la ieșire
+(% din Pn)
+
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+
+Puterea activă la ieșire
+(kW)
+
+Puterea reactivă
+(kVAr)
+
+11
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 306/11.V.2009
+Puterea reactivă evaluată la Pmc (kVAr)
+Puterea reactivă evaluată la P60 (kVAr)
+Puterea reactivă evaluată la P0,2 (kVAr)
+Fluctuații de tensiune
+În funcționare continuă
+
+Unghiul impedanței de fază a rețelei, ψk
+
+30°
+
+Viteza medie anuală a vântului, Va
+
+50°
+
+70°
+
+85°
+
+Coeficientul de flicker, c (ψk , Va)
+
+6,0 m/s
+7,5 m/s
+8,5 m/s
+10,0 m/s
+
+În cazul operațiilor de comutare
+Comutare la viteza de pornire
+(Vcut-in)
+
+Cazul operației de comutare
+
+Numărul maxim de operații de comutare, N10
+Numărul maxim de operații de comutare, N120
+Unghiul de fază a impedanței rețelei, ψk
+
+30°
+
+50°
+
+70°
+
+85°
+
+Factorul treaptă de flicker, kf ( ψk)
+Factorul de variație a tensiunii, ku (ψk)
+
+Comutare la viteza nominală
+(Vn)
+
+Cazul operației de comutare
+
+Numărul maxim de operații de comutare, N10
+Numărul maxim de operații de comutare, N120
+Unghiul de fază a impedanței rețelei, ψk
+
+30°
+
+50°
+
+70°
+
+85°
+
+Factorul treaptă de flicker, kf (ψk)
+Factorul de variație a tensiunii, ku (ψk)
+
+Cea mai defavorabilă comutare
+între grupurile eoliene
+
+Cazul operației de comutare
+
+Numărul maxim de operații de comutare, N10
+Numărul maxim de operații de comutare, N120
+Unghiul de fază a impedanței rețelei, ψk
+Factorul treaptă de flicker, kf (ψk)
+Factorul de variație a tensiunii, ku (ψk)
+
+30°
+
+50°
+
+70°
+
+85°
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 306/11.V.2009
+Armonice de curent
+
+Rangul
+
+Puterea activă la ieșire
+(kW)
+
+Curentul armonic
+(% din In)
+
+Rangul
+
+2
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48
+
+Curentul armonic
+(% din In)
+
+3
+
+4
+
+Puterea activă la ieșire
+(kW)
+
+49
+
+50
+
+Factorul maxim de distorsiune total de curent (% din In)
+Puterea la ieșire pentru valoarea maximă a factorului de distorsiune total
+de curent (kW)
+
+CAPITOLUL IX
+Dispoziții finale
+Art. 30. — (1) În conformitate cu art. 30 alin. (2) din Legea
+nr. 13/2007, cu modificările și completările ulterioare, operatorii
+de rețea pot emite avize tehnice de racordare la rețelele
+electrice proprii, pentru CEE, doar în măsura în care puterea
+totală instalată în CEE nu afectează siguranța funcționării SEN.
+În termen de 3 zile de la emitere, aceștia vor transmite copii ale
+avizelor la OTS.
+
+(2) Puterea maximă ce poate fi instalată în CEE, precum și
+rezerva de putere suplimentară necesară din punct de vedere al
+siguranței SEN, în funcție de puterea instalată în CEE, se
+stabilesc de către OTS conform procedurii specifice elaborată
+de acesta și avizată de către ANRE.
+(3) OTS publică trimestrial pe website-ul propriu valoarea
+puterii totale instalate în CEE pentru care sunt emise avize
+tehnice de racordare valabile și valoarea maximă a puterii
+instalate în CEE pentru care se pot acorda avize tehnice de
+racordare.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 306/11.V.2009
+
+13
+
+MINISTERUL AGRICULTURII, PĂDURILOR ȘI DEZVOLTĂRII RURALE
+
+ORDIN
+privind aprobarea Normelor metodologice de aplicare a sistemului de restituiri la export
+pentru produsele agricole
+Văzând Referatul de aprobare al Direcției generale politici agricole nr. 118.003 din data de 6 mai 2009,
+În conformitate cu prevederile:
+— Regulamentului (CE) nr. 800/1999 al Comisiei din 15 aprilie 1999 de stabilire a normelor comune de aplicare a sistemului
+de restituiri la export pentru produsele agricole, cu modificările și completările ulterioare;
+— Regulamentului (CE) nr. 1.234/2007 al Consiliului din 22 octombrie 2007 de instituire a unei organizări comune a piețelor
+agricole și privind dispoziții specifice referitoare la anumite produse agricole (ăRegulamentul unic OCP”), cu modificările și
+completările ulterioare;
+— Regulamentului (CE) nr. 1.043/2005 al Consiliului din 30 iunie 2005 de punere în aplicare a Regulamentului (CE)
+nr. 3.448/93 al Consiliului în ceea ce privește regimul de acordare a restituirilor la export pentru anumite produse agricole exportate
+sub formă de mărfuri care nu sunt incluse în anexa I la tratat, precum și criteriile de stabilire a cuantumurilor sumelor respective,
+cu modificările și completările ulterioare;
+— Regulamentului (CE) nr. 450/2008 al Parlamentului European și al Consiliului din 23 aprilie 2008 de stabilire a Codului
+Vamal Comunitar (Codul Vamal Modernizat);
+— Regulamentului (CEE) nr. 2.220/85 al Comisiei din 22 iulie 1985 de stabilire a normelor comune de aplicare a regimului
+de garanții pentru produsele agricole, cu modificările ulterioare;
+— Regulamentului (CE) nr. 1.276/2008 al Comisiei din 17 decembrie 2008 privind monitorizarea prin controale fizice a
+exporturilor de produse agricole care beneficiază de restituiri sau de alte sume;
+— Regulamentului (CEE) nr. 3.846/87 al Comisiei din 17 decembrie 1987 de stabilire a unei nomenclaturi a produselor
+agricole pentru restituirile la export, cu modificările și completările ulterioare;
+— Regulamentului (CE) nr. 376/2008 al Comisiei din 23 aprilie 2008 de stabilire a normelor comune de aplicare a sistemului
+de licențe de import și export și de certificate de fixare în avans pentru produsele agricole, cu modificările și completările ulterioare;
+— Ordinului vicepreședintelui Agenției Naționale de Administrare Fiscală nr. 6.415/2007 privind aprobarea utilizării și
+completării unor modele de formulare în cazul exportului de mărfuri care intră sub incidența măsurilor de Politică Agricolă Comună
+și a produselor Non-Anexa I;
+având în vedere prevederile art. 5 din Hotărârea Guvernului nr. 371/2009 privind alocarea de fonduri de la bugetul de
+stat, prin bugetul Ministerului Agriculturii, Pădurilor și Dezvoltării Rurale, pentru prefinanțarea fondurilor nerambursabile de la
+Comunitatea Europeană destinate aplicării sistemului de restituiri la export pentru produsele agricole,
+în temeiul Legii nr. 1/2004 privind înființarea, organizarea și funcționarea Agenției de Plăți și Intervenție pentru Agricultură,
+cu modificările și completările ulterioare, și al Hotărârii Guvernului nr. 8/2009 privind organizarea și funcționarea Ministerului
+Agriculturii, Pădurilor și Dezvoltării Rurale,
+ministrul agriculturii, pădurilor și dezvoltării rurale emite următorul ordin:
+Art. 1. — Se aprobă Normele metodologice de aplicare a
+sistemului de restituiri la export pentru produsele agricole,
+prevăzute în anexa care face parte integrantă din prezentul
+ordin.
+
+Art. 2. — Ministerul Agriculturii, Pădurilor și Dezvoltării Rurale
+și Agenția de Plăți și Intervenție pentru Agricultură vor duce la
+îndeplinire prevederile prezentului ordin.
+Art. 3. — Prezentul ordin se publică în Monitorul Oficial al
+României, Partea I.
+
+Ministrul agriculturii, pădurilor și dezvoltării rurale,
+Ilie Sârbu
+
+București, 7 mai 2009.
+Nr. 288.
+ANEXĂ
+
+NORME METODOLOGICE
+
+de aplicare a sistemului de restituiri la export pentru produsele agricole
+Art. 1. — Ministerul Agriculturii, Pădurilor și Dezvoltării
+Rurale, denumit în continuare M.A.P.D.R., prin bugetul propriu,
+asigură sumele necesare efectuării plății restituirilor la export.
+Art. 2. — Agenția de Plăți și Intervenție pentru Agricultură,
+denumită în continuare A.P.I.A., este responsabilă cu:
+a) previzionarea sumelor necesare plății restituirilor la export
+și comunicarea acestora M.A.P.D.R;
+
+b) verificarea cererilor și a documentației aferente, conform
+manualului de proceduri specific;
+c) solicitarea de la M.A.P.D.R. a fondurilor necesare
+efectuării plății de restituiri pentru produsele agricole exportate
+în condițiile prevăzute de legislația în vigoare, conform situațiilor
+centralizatoare;
+d) efectuarea plății restituirilor la export;
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 306/11.V.2009
+
+e) eliberarea sau reținerea, după caz, a garanțiilor referitoare
+la eliberarea certificatelor cu fixare în avans, a certificatelor de
+restituire Non-Anexa I, precum și a acelor garanții constituite
+pentru plata în avans a restituirilor la export;
+f) înregistrarea declarațiilor de compoziție pentru produsele
+Non-Anexa I;
+g) întocmirea, actualizarea și asigurarea publicității listelor
+codurilor suplimentare de declarare pentru produsele care se
+încadrează în nomenclatura restituirilor la export.
+Art. 3. — (1) În baza situațiilor centralizatoare transmise de
+A.P.I.A., M.A.P.D.R., în termen de 5 zile lucrătoare, transmite
+Ministerului Finanțelor Publice cererea pentru deschiderea
+creditelor bugetare, însoțită de solicitarea de fonduri.
+(2) În termen de 5 zile lucrătoare, Ministerul Finanțelor
+Publice aprobă cererea pentru deschiderea creditelor bugetare
+solicitate.
+(3) A.P.I.A. efectuează în termen de 5 zile de la data aprobării
+cererii pentru deschiderea de credite bugetare plățile către
+beneficiarii restituirilor la export, conform prevederilor
+regulamentelor europene în vigoare.
+Art. 4. — (1) Plata restituirilor la export se face numai pentru
+produsele agricole exportate ca atare și pentru anumite produse
+agricole exportate sub formă de mărfuri care nu sunt incluse în
+anexa I la tratat, pentru care rata restituirii la export este stabilită
+la nivel comunitar.
+(2) Ratele restituirilor acordate pentru produsele exportate în
+țări terțe este stabilită periodic, prin regulamente comunitare,
+publicate în Jurnalul Oficial al Uniunii Europene.
+(3) Nomenclatura de restituire este publicată de Comisia
+Europeană în Jurnalul Oficial al Comunităților Europene, în
+conformitate cu dispozițiile de reglementare a măsurilor privind
+exportul de produse agricole, și intră în vigoare la data de
+1 ianuarie a fiecărui an.
+Art. 5. — (1) În condițiile specifice stabilite în legislația
+comunitară, modalitățile de plată a restituirii la export sunt:
+a) plată standard;
+b) plată în avans.
+(2) Plata standard se efectuează în termen de 3 luni, calculat
+din ziua în care A.P.I.A. este în posesia tuturor documentelor și
+informațiilor necesare pentru a da curs cererii de plată.
+(3) Plata în avans se efectuează în termen de 30 de zile,
+calculat din ziua în care A.P.I.A. este în posesia tuturor
+documentelor și informațiilor necesare pentru a da curs cererii
+de plată.
+(4) Depășirea termenelor de plată menționate la alin. (2) și
+(3) determină aplicarea art. 16 din Regulamentul (CE)
+nr. 1.290/2005 al Consiliului din 21 iunie 2005 privind finanțarea
+politicii agricole comune.
+(5) Plata în avans a restituirii la export este condiționată de
+constituirea de către exportator, la dispoziția A.P.I.A., a unei
+garanții de 110% din suma restituirii solicitate.
+(6) Se pot plăti în avans, cu respectarea alin. (3) și (4),
+restituirile de până la 2000 euro inclusiv.
+(7) Plata restituirii se face în lei, în contul indicat de
+exportator.
+(8) În situația în care s-a plătit în avans o sumă a restituirii
+mai mare decât cea cuvenită în realitate la export sau pentru
+exporturi echivalente, A.P.I.A. solicită exportatorului returnarea
+diferenței dintre cele două sume, plus 10%.
+Art. 6. — Condiții în vederea acordării restituirilor la export
+
+(1) Pentru a beneficia de acordarea restituirilor la export,
+exportatorii care exportă produse agricole sau mărfuri care nu
+sunt incluse în anexa I la tratat, cu sau fără acoperirea unei
+licențe de export, certificat cu fixare în avans sau certificat de
+restituire Non-Anexa I, trebuie să depună la A.P.I.A. o cerere
+pentru acordarea codului unic de înregistrare și copii certificate
+de către solicitant pentru conformitatea cu originalul ale
+următoarelor documente:
+— autorizație, în cazul persoanelor fizice autorizate;
+— act constitutiv, în cazul persoanelor juridice;
+— certificat eliberat de oficiul registrului comerțului;
+— dovada că este plătitor de TVA în România;
+— împuterniciri, dacă e cazul, și copii ale documentelor de
+identitate pentru persoanele împuternicite;
+— alte documente, după caz.
+(2) În condițiile regulamentelor specifice care dispun pentru
+organizarea comună de piață a produsului ce face obiectul
+exportului în stare naturală sau încorporat în mărfuri, exportatorii
+trebuie să solicite A.P.I.A. emiterea licenței de export sau a
+certificatului cu fixare în avans a restituirii și, după caz, să
+constituie garanția necesară, la dispoziția A.P.I.A.
+(3) Licențele de export ăa posteriori” pot fi solicitate numai în
+termenele strict prevăzute de legislația comunitară, sub
+sancțiunea decăderii din termen.
+Art. 7. — (1) Pentru fiecare cerere de plată standard a
+restituirii, la A.P.I.A., aparatul central, se constituie un dosar care
+trebuie să conțină:
+a) cererea de plată a restituirii;
+b) exemplarul nr. 1 al licenței de export, al certificatului cu
+fixare în avans a restituirii sau al certificatului de restituire
+Non-Anexa I, dacă e cazul;
+c) exemplarul de control T5, în original, având inserată la
+rubrica 106 declarația suplimentară privind netransbordarea
+mărfii, dacă este cazul;
+d) exemplarul nr. 2 al declarației vamale de export;
+e) documente de transport;
+f) dovezi de import în țara terță, dacă este cazul;
+g) certificate specifice produsului eligibil pentru plată, dacă
+este cazul;
+h) certificat de analize produse PAC, ca urmare a măsurilor
+întreprinse de autoritățile vamale, după caz;
+i) alte documente prevăzute în regulamentele specifice
+organizării de piață a produsului exportat și a celor prin care se
+stabilește nivelul restituirii la export.
+(2) Pentru fiecare cerere de plată în avans a restituirii, la
+A.P.I.A., aparatul central, se constituie un dosar care trebuie să
+conțină:
+a) cererea de plată;
+b) declarația vamală de export;
+c) dovada constituirii garanției;
+d) alte documente specifice, după caz.
+(3) Garanția se constituie sub formă de scrisoare de garanție
+bancară sau prin depozit în numerar, conform legislației în
+vigoare.
+(4) Formularul cererii de plată a restituirii și modul de
+completare al acesteia sunt stabilite prin Ordinul
+vicepreședintelui Agenției Naționale de Administrare Fiscală
+nr. 6.415/2007 privind aprobarea utilizării și completării unor
+modele de formulare în cazul exportului de mărfuri care intră
+sub incidența măsurilor de Politică Agricolă Comună și a
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 306/11.V.2009
+produselor Non-Anexa I, publicat în Monitorul Oficial al
+României, Partea I, nr. 421 din 25 iunie 2007.
+(5) Exportatorul va menționa în rubrica 44 din declarațiile
+vamale de export și în rubrica 106 din exemplarele de control T5
+sau documentele echivalente formularea ăRestituire inferioară
+valorii de 1000 euro”, în situațiile în care valoarea restituirii
+pentru produsele exportate atinge acest nivel. În situația în care
+valoarea restituirii solicitate depășește 1000 euro se va indica
+rata restituirii pe unitatea de măsură.
+(6) Solicitanții restituirilor la export au obligația de a se
+asigura că mențiunile înscrise în documentele de la alin. (5) sunt
+corecte, conforme și poartă ștampilele autorităților care au
+competențe în domeniu, la momentul emiterii sau acceptării
+acestora.
+Art. 8. — (1) Suma restituirii ce urmează a se acorda se
+determină în baza următoarelor informații:
+a) data calendaristică la care este acceptată declarația
+vamală de export determină rata restituirii când aceasta nu este
+fixată prin certificat cu fixare în avans;
+b) clasificarea și descrierea mărfii în conformitate cu
+nomenclatura pentru restituiri la export alcătuită din 12 cifre,
+având în vedere și codurile suplimentare de declarare;
+c) țara de destinație a exportului;
+d) cantitatea reală declarată pentru export, în unitatea de
+măsură corespunzătoare;
+e) rata restituirii pe unitatea de măsură.
+Art. 9. — (1) În cazul în care exemplarul de control T5 nu
+ajunge la A.P.I.A. în termen de 3 luni de la data acceptării
+declarației vamale de export, în scopul plății restituirii,
+exportatorul poate să solicite A.P.I.A., printr-o cerere scrisă,
+recunoașterea altor documente considerate echivalente.
+(2) Cererea prevăzută la alin. (1) se depune la A.P.I.A., sediul
+central, în termen de 12 luni de la data acceptării declarației
+vamale de export.
+(3) În cererea menționată la alin. (1) și (2) exportatorul trebuie
+să motiveze solicitarea și împreună cu cererea să prezinte
+documentele doveditoare specificate la art. 49 alin. (3)
+paragraful al doilea din Regulamentul (CE) nr. 800/1999 al
+Comisiei din 15 aprilie 1999 de stabilire a normelor comune de
+aplicare a sistemului de restituiri la export pentru produsele
+agricole, cu modificările și completările ulterioare.
+(4) A.P.I.A. înștiințează exportatorii în situația în care cererile
+de plată sunt respinse.
+Art. 10. — (1) Rata restituirii este fixată periodic, în euro,
+pentru fiecare produs, de către Comisia Europeană și publicată
+în Jurnalul Oficial al Uniunii Europene.
+(2) Faptul generator al cursului de schimb este acceptarea
+declarației vamale.
+
+15
+
+(3) Cursul de schimb aplicabil este cel publicat în Jurnalul
+Oficial al Uniunii Europene în penultima zi lucrătoare din luna
+anterioară lunii în care a fost acceptată declarația vamală de
+export.
+(4) În situația în care cursul aplicabil la începutul lunii diferă
+cu mai mult de 5% decât cel publicat în penultima zi lucrătoare
+dinaintea datei de 15 a aceleiași luni, acest din urmă curs este
+aplicabil începând cu data de 15 până la sfârșitul lunii în cauză.
+Art. 11. — A.P.I.A. efectuează plata restituirilor și în cazul în
+care suma acestora este mai mică sau egală cu 100 euro pentru
+o declarație de export.
+Art. 12. — (1) În cazul avansului, dacă se constată că
+garanția a fost eliberată eronat, beneficiarul este obligat să
+reconstituie la dispoziția A.P.I.A. garanția necesară.
+(2) A.P.I.A. procedează la reținerea garanției, în raport cu
+gradul de neîndeplinire a obligației asumate, în condițiile
+regulamentelor comunitare aplicabile.
+Art. 13. — (1) Beneficiarii sunt obligați să returneze sumele
+pe care le-au încasat drept restituiri la export în următoarele
+situații:
+a) se autosesizează că au încasat necuvenit aceste sume;
+b) dacă în urma controalelor efectuate de A.P.I.A. sau de alte
+organisme abilitate în acest sens se constată că sumele
+reprezentând restituiri la export au fost plătite necuvenit și sunt
+informați că au obligația restituirii sumelor respective.
+(2) A.P.I.A. ține evidența debitelor provenite din restituiri la
+export plătite necuvenit și le poate recupera din plățile viitoare
+sau prin alte modalități prevăzute de lege, în cazul în care
+acestea nu sunt plătite voluntar de către debitori.
+Art. 14. — Stabilirea cuantumului restituirii, reducerea restituirii,
+reținerea din garanție și orice alte penalități prevăzute în
+regulamentele comunitare specifice pentru neîndeplinirea
+obligațiilor asumate se realizează de A.P.I.A. exclusiv în
+conformitate cu normele legale aplicabile fiecărei cereri de plată a
+restituirii.
+Art. 15. — În situația în care un operator economic consideră
+un eveniment drept forță majoră și transmite o solicitare în acest
+sens A.P.I.A., aceasta din urmă decide dacă circumstanțele
+invocate de exportatori, susținute cu dovezi, constituie sau nu
+caz de forță majoră, în condițiile legislației în vigoare și a Notei
+Interpretative C(88) 1696 privind forța majoră în legislația
+agricolă europeană, publicată în Jurnalul Oficial al Comunităților
+Europene nr. C 259/10 din 6 octombrie 1988.
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 306/11.V.2009
+
+A C T E A L E C O N S I L I U L U I S U P E R I O R A L M A G I S T R AT U R I I
+CONSILIUL SUPERIOR AL MAGISTRATURII
+PLENUL
+
+HOTĂRÂRE
+pentru modificarea Regulamentului privind organizarea și desfășurarea concursului
+sau examenului pentru definitivare în funcție, promovare în grade sau trepte profesionale
+superioare în cadrul aceleiași instanțe ori aceluiași parchet, precum și în funcții de execuție
+a personalului auxiliar de specialitate la instanțe și parchete superioare,
+aprobat prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 181/2007
+Având în vedere prevederile art. 42—44 din Legea nr. 567/2004 privind statutul personalului auxiliar de specialitate al
+instanțelor judecătorești și al parchetelor de pe lângă acestea, cu modificările și completările ulterioare,
+în temeiul dispozițiilor art. 133 alin. (5) și (7) din Constituția României, republicată, precum și ale art. 23 alin. (1) și ale art. 38
+alin. (1) din Legea nr. 317/2004 privind Consiliul Superior al Magistraturii, republicată, cu modificările ulterioare,
+Plenul Consiliului Superior al Magistraturii h o t ă r ă ș t e:
+Art. I. — Regulamentul privind organizarea și desfășurarea
+concursului sau examenului pentru definitivare în funcție,
+promovare în grade sau trepte profesionale superioare în cadrul
+aceleiași instanțe ori aceluiași parchet, precum și în funcții de
+execuție a personalului auxiliar de specialitate la instanțe și
+parchete superioare, aprobat prin Hotărârea Plenului Consiliului
+Superior al Magistraturii nr. 181/2007, publicată în Monitorul
+
+Oficial al României, Partea I, nr. 251 din 16 aprilie 2007, se
+modifică după cum urmează:
+— La articolul 11, litera a) se modifică și va avea
+următorul cuprins:
+ăa) are o vechime de cel puțin 3 ani în funcția în care este
+încadrat”.
+Art. II. — Prezenta hotărâre se publică în Monitorul Oficial al
+României, Partea I.
+
+Președintele Consiliului Superior al Magistraturii,
+judecător Virgil Viorel Andreieș
+București, 2 aprilie 2009.
+Nr. 635.
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+ăMonitorul Oficial” R.A., Str. Parcului nr. 65, sectorul 1, București; C.I.F. RO427282,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala ăUnirea” București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 021.318.51.29/150, fax 021.318.51.15, e-mail: marketing@ramo.ro, internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 021.411.58.33 și 021.410.47.30, fax 021.410.77.36 și 021.410.47.23
+Tiparul: ăMonitorul Oficial” R.A.
+Monitorul Oficial al României, Partea I, nr. 306/11.V.2009 conține 16 pagini.
+
+Prețul: 3,20 lei
+
+&JUYDGY|430280]
+ISSN 1453—4495
+
+

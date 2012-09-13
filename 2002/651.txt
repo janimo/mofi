@@ -1,0 +1,1622 @@
+PARTEA
+
+Anul XIV Ñ Nr. 651
+
+I
+
+Luni, 2 septembrie 2002
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE BÃNCII NAÞIONALE A ROMÂNIEI
+
+8.
+
+ACTE
+
+ALE
+
+Ñ Norme privind elaborarea situațiilor financiare
+consolidate de cãtre instituțiile de credit.................
+
+BÃNCII
+
+NAÞIONALE
+
+1Ð16
+
+A
+
+ROMÂNIEI
+
+BANCA NAÞIONALÃ A ROMÂNIEI
+
+NORME
+privind elaborarea situațiilor financiare consolidate de cãtre instituțiile de credit
+Având în vedere prevederile art. 3 din Ordinul ministrului finanțelor nr. 772/2000 de aprobare a Normelor privind
+consolidarea conturilor,
+în temeiul prevederilor art. 26 alin. (2) lit. a) și ale art. 50 din Legea nr. 101/1998 privind Statutul Bãncii
+Naționale a României, cu modificãrile și completãrile ulterioare, ale art. 57 și 58 din Legea bancarã nr. 58/1998, cu
+modificãrile și completãrile ulterioare, precum și ale art. 181 din Ordonanța de urgențã a Guvernului nr. 97/2000 privind
+organizațiile cooperatiste de credit, aprobatã și modificatã prin Legea nr. 200/2002,
+Banca Naționalã a României emite prezentele norme.
+CAPITOLUL 1
+Dispoziții generale
+Art. 1. Ñ Prezentele norme stabilesc principiile și regulile de bazã pentru elaborarea situațiilor financiare consolidate, având ca scop general asimilarea deplinã a
+prevederilor directivelor Comunitãții Europene nr. 83/349 și
+nr. 86/635 și continuarea armonizãrii cu standardele
+internaționale de contabilitate, și se aplicã grupurilor a cãror
+societate-mamã (consolidantã) este o instituție de credit,
+persoanã juridicã românã.
+Art. 2. Ñ În înțelesul prezentelor norme, termenii și
+expresiile de mai jos au urmãtoarele semnificații:
+a) achiziția Ñ combinare de entitãți în care una dintre
+acestea (cea care achiziționeazã) obține controlul asupra
+ansamblului activelor nete și a operațiunilor unei alte entitãți
+
+(cea achiziționatã) în schimbul transferãrii activelor, asumãrii
+datoriilor sau emisiunii de titluri de capital ale entitãții;
+b) combinarea Ñ gruparea unor entitãți separate într-o
+singurã entitate economicã prin fuzionare sau prin obținerea controlului asupra activelor nete și exploatãrii unei alte
+entitãți;
+c) consolidare Ñ tehnicã ce permite realizarea conturilor
+unice pentru un grup de entitãți independente care depind
+din punct de vedere financiar de un centru de decizie
+comun, având ca obiectiv redarea unei imagini fidele a
+poziției financiare și a performanței tuturor entitãților consolidate luate ca un întreg;
+d) control Ñ autoritatea de a conduce politicile financiare și operaționale ale unei entitãți pentru a obține beneficii din activitatea acesteia. În sensul prezentelor norme,
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 651/2.IX.2002
+
+controlul are semnificația controlului exclusiv. Trebuie avute
+în vedere situațiile în care controlul a fost efectiv exercitat
+pe baza unei dețineri minoritare a drepturilor de vot și în
+condițiile existenței unor prevederi legale sau a unor
+acorduri încheiate în prealabil atunci când încheierea unor
+astfel de acorduri este permisã;
+e) control comun Ñ înțelegere pe bazã contractualã de
+împãrțire a puterii de decizie în cadrul unei asocieri în participație între un numãr limitat de acționari sau asociați, în
+virtutea unui acord prealabil între aceștia;
+f) data achiziției Ñ data la care se transferã celui care
+achiziționeazã controlul activelor nete și al operațiunilor
+unei entitãți;
+g) deconsolidare Ñ operațiunea de ieșire din perimetrul
+de consolidare a unei entitãți;
+h) diferența din prima consolidare Ñ diferența constatatã,
+la intrarea unei entitãți în perimetrul de consolidare, între
+costul de achiziție al titlurilor și cota-parte ce revine grupului din capitalurile proprii ale entitãții intrate în consolidare,
+corespunzãtoare titlurilor la data achiziției, cuprinzând pe
+de o parte diferențele de evaluare aferente activelor și
+pasivelor identificabile la data intrãrii unei entitãți în perimetrul de consolidare, iar pe de altã parte, diferențele de
+achiziție (fondul comercial și fondul comercial negativ);
+i) entitate*) Ñ instituție de credit și/sau societate, cu
+sau fãrã personalitate juridicã, românã și strãinã;
+j) entitate asociatã Ñ entitate în care investitorul deține
+o influențã semnificativã fãrã ca aceasta sã fie o filialã sau sã
+existe un acord de asociere în participație a investitorului.
+În mod normal aceastã situație este evidențiatã prin deținerea de cãtre investitor a 20% pânã la 50% din drepturile
+de vot ale acționarilor sau ale asociaților din acea entitate
+asociatã;
+k) filialã Ñ entitate aflatã sub controlul unei instituții de
+credit (societatea-mamã);
+l) grup Ñ ansamblul format din societatea-mamã (consolidantã) și filialele acesteia, entitãți române și strãine;
+m) influențã semnificativã Ñ dreptul de a participa direct
+sau indirect la luarea deciziilor de politicã financiarã și
+operaționalã a unei entitãți, dar fãrã a exercita controlul
+exclusiv sau comun asupra acesteia;
+n) instituții de credit Ñ bãnci și case centrale ale cooperativelor de credit, persoane juridice române autorizate sã
+funcționeze conform prevederilor Legii bancare nr. 58/1998,
+cu modificãrile și completãrile ulterioare, respectiv ale
+Ordonanței de urgențã a Guvernului nr. 97/2000 privind
+organizațiile cooperatiste de credit, aprobatã și modificatã
+prin Legea nr. 200/2002;
+o) interes minoritar Ñ partea rezultatelor nete ale activitãții și a activelor nete ale unei filiale, atribuitã unor participații care nu sunt deținute, direct sau indirect, de
+societatea-mamã prin intermediul filialelor;
+p) interese de participare Ñ drepturi în capitalul altor
+entitãți, fãrã a depãși 20% din acesta, reprezentate sau nu
+de titluri care, creând o legãturã durabilã cu aceste entitãți,
+sunt destinate sã contribuie la activitatea instituției de credit. Interesele de participare cuprind investițiile în entitãțile
+asociate și investițiile strategice. O participare de 10% sau
+
+mai mare, dar nu mai mult de 20%, se presupune cã este
+o investiție strategicã, dacã nu se demonstreazã contrariul;
+q) perimetrul de consolidare Ñ ansamblul de consolidat
+format din societatea-mamã (consolidantã) și entitãțile consolidabile asupra cãrora instituția de credit consolidantã
+deține în mod direct sau indirect un control exclusiv, un
+control comun sau o influențã semnificativã;
+r) procentul de control Ñ cota-parte din drepturile de vot
+deținutã, direct sau indirect, de societatea-mamã în totalul
+drepturilor de vot ale unei entitãți;
+s) procentul de interes Ñ cota-parte din capital deținutã,
+direct sau indirect, de societatea-mamã în fiecare entitate
+consolidatã;
+t) rezerve consolidate Ñ rezerva societãții-mamã, la care
+se adaugã plusul de valoare obținut de grup din deținerea
+titlurilor în capitalul entitãților consolidate;
+u) rezultatul consolidat Ñ rezultatul societãții-mamã, la
+care se adaugã cota-parte din rezultatele entitãților consolidate, care revine grupului în funcție de procentul de
+interes al acestuia în capitalurile proprii ale respectivelor
+entitãți;
+v) situații financiare consolidate Ñ situații financiare ale
+unui grup, ca și cum acesta ar forma o singurã entitate;
+w) societate-mamã (consolidantã) Ñ instituție de credit,
+persoanã juridicã românã, care are una sau mai multe filiale și care consolideazã situațiile financiare ale grupului din
+care face parte;
+x) valoarea justã Ñ suma la care poate fi tranzacționat
+un activ sau poate fi decontatã o datorie, de bunãvoie,
+între pãrți aflate în cunoștințã de cauzã, în cadrul unei
+tranzacții în care prețul este determinat în mod obiectiv.
+CAPITOLUL 2
+Condiții pentru elaborarea situațiilor financiare
+consolidate
+Art. 3. Ñ (1) Obligația de a elabora situații financiare
+consolidate revine unei instituții de credit, persoanã juridicã
+românã, indiferent de forma de proprietate, din momentul
+în care exercitã, direct sau indirect, un control exclusiv, un
+control comun sau o influențã semnificativã asupra uneia
+ori mai multor entitãți.
+(2) Data intrãrii unei entitãți în perimetrul de consolidare
+este:
+a) data achiziției titlurilor; sau
+b) data preluãrii controlului ori a influenței semnificative,
+dacã achiziția a avut loc în etape succesive; sau
+c) data prevãzutã în contract, dacã acesta prevede
+transferul controlului la o datã diferitã de cea a transferului
+titlurilor.
+Art. 4. Ñ (1) Data ieșirii unei entitãți din perimetrul de
+consolidare este data pierderii controlului sau a influenței
+semnificative.
+(2) În caz de cesiune transferul controlului sau al
+influenței semnificative este în general concomitent cu
+transferul drepturilor de vot aferente acelor titluri. În situația
+în care deși existã acorduri de cesiune a unei entitãți integrate, intervenite la data încheierii exercițiului, iar transferul
+drepturilor de vot nu s-a realizat efectiv, entitatea cedentã
+
+*) Cadrul juridic de organizare și funcționare a entitãții îl reprezintã prevederile Legii bancare nr. 58/1998, cu modificãrile și completãrile ulterioare, ale Ordonanței de urgențã a Guvernului nr. 97/2000 privind organizațiile cooperatiste de credit, aprobatã și modificatã prin Legea nr. 200/2002,
+ale Legii nr. 31/1990 privind societãțile comerciale, republicatã, cu modificãrile și completãrile ulterioare, ale Ordonanței de urgențã a Guvernului
+nr. 28/2002 privind valorile mobiliare, serviciile de investiții financiare și piețele reglementate, ale Legii nr. 32/2000 privind societãțile de asigurare și
+supraveghere a asigurãrilor, cu modificãrile și completãrile ulterioare, și ale altor legi speciale.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 651/2.IX.2002
+va continua sã consolideze ca și cum ar deține controlul.
+În mod excepțional, atunci când pierderea controlului se
+realizeazã înainte de transferul titlurilor, entitatea controlatã
+poate fi exclusã de la consolidare. În acest caz entitatea
+cedentã trebuie sã justifice concret faptul cã pierderea controlului s-a realizat efectiv înaintea transferului drepturilor de vot.
+(3) Cesiunea temporarã de titluri ale entitãții consolidate,
+fãrã pierderea controlului, nu trebuie sã influențeze, la
+încheierea exercițiului financiar, situațiile financiare consolidate ale entitãții care cedeazã în mod provizoriu acele
+titluri.
+(4) În cazul pierderii controlului fãrã cesiune, de exemplu ca urmare a unei dizolvãri sau a restricțiilor severe pe
+termen lung prevãzute la art. 15 alin. (1) lit. b), data ieșirii
+din perimetrul de consolidare este concomitentã cu data producerii evenimentului care a condus la pierderea controlului.
+Art. 5. Ñ În condițiile în care o instituție de credit este
+inclusã în perimetrul de consolidare a unei societãți nebancare, administratorii instituției de credit au obligația de a
+elabora situațiile financiare anuale individuale, precum și
+situațiile financiare consolidate la nivelul filialelor sale și de
+a le raporta Bãncii Naționale a României, însoțite de
+situațiile financiare consolidate ale întregului grup din care
+face parte instituția de credit respectivã, în cazul în care
+legislația aplicabilã prevede obligativitatea întocmirii acestora.
+Art. 6. Ñ O instituție de credit (societate-mamã) care
+deține investiții strategice în capitalul unei entitãți poate
+proceda la elaborarea situațiilor financiare consolidate,
+dacã:
+a) exercitã efectiv o influențã dominantã asupra acesteia; sau
+b) societatea-mamã și entitatea respectivã sunt conduse/administrate pe o bazã comunã de societatea-mamã.
+Art. 7. Ñ (1) O entitate are statut de filialã a unei
+instituții de credit (societate-mamã) în condițiile în care
+acea instituție de credit:
+a) deține, direct sau indirect, majoritatea drepturilor de
+vot ale acționarilor sau ale asociaților entitãții; sau
+b) este acționar sau asociat și are dreptul de a numi
+ori de a revoca majoritatea membrilor organelor de
+administrare, de conducere sau de control ale entitãții,
+dupã caz; sau
+c) este sau nu acționar ori asociat și are dreptul de a
+exercita o influențã dominantã asupra entitãții în virtutea
+unui contract ori a unei clauze statutare, în cazul în care
+legea permite astfel de contracte sau prevederi; sau
+d) este acționar sau asociat și majoritatea membrilor
+organelor de administrație, de conducere ori de control ale
+entitãții, care au fost în aceste funcții pe parcursul
+exercițiului financiar curent și al exercițiului financiar precedent, au fost numiți numai ca rezultat al exercitãrii drepturilor de vot ale societãții-mamã; sau
+e) este acționar ori asociat și deține singur controlul
+asupra majoritãții drepturilor de vot ale acționarilor sau asociaților unei entitãți, ca urmare a unui contract încheiat cu
+alți acționari ori asociați.
+(2) De asemenea, o entitate mai are statut de filialã a
+societãții-mamã dacã asupra respectivei entitãți o altã filialã
+a societãții-mamã deține controlul.
+Art. 8. Ñ În cazul în care o filialã sau o altã persoanã
+acționeazã în numele unei societãți-mamã, drepturile de vot
+și dreptul de a numi sau de a revoca ale acesteia trebuie
+
+3
+
+adãugate la cele ale societãții-mamã în momentul calculãrii
+procentului de control.
+Art. 9. Ñ În scopul determinãrii procentului de control
+al societãții-mamã, drepturile sale vor fi reduse cu:
+a) drepturile aferente acțiunilor deținute în numele unei
+persoane care nu este nici societatea-mamã, nici filialã a
+sa; sau
+b) drepturile aferente acțiunilor deținute drept garanție,
+în situația în care sunt îndeplinite cumulativ urmãtoarele
+condiții:
+(i) drepturile respective sã fie exercitate în conformitate
+cu instrucțiunile primite sau deținute în legãturã cu acordarea unor credite ca parte a activitãților curente;
+(ii) drepturile de vot sã fie exercitate în interesul persoanei care aduce garanția.
+Art. 10. Ñ În cazul în care societatea-mamã are o
+filialã în care majoritatea membrilor echipei de conducere
+au fost numiți ca rezultat al exercitãrii dreptului de vot sau
+are controlul deplin asupra acesteia, numãrul total al drepturilor de vot trebuie redus cu numãrul drepturilor de vot
+deținute de filiala însãși, de o filialã a acestei filiale sau de
+o persoanã care acționeazã în numele acestor pãrți.
+Art. 11. Ñ O instituție de credit care este o filialã a
+unei alte instituții de credit este scutitã de a elabora situații
+financiare consolidate atunci când instituția de credit de
+care aparține este înființatã în conformitate cu legea
+românã sau cu legea unui stat membru al Uniunii
+Europene, în urmãtoarele cazuri:
+a) instituția de credit este filialã deținutã în totalitate de
+societatea-mamã (instituție de credit); sau
+b) societatea-mamã (instituție de credit) deține 90% sau
+mai mult din acțiunile instituției de credit scutite, iar restul
+acționarilor sau asociaților a fost de acord cu aceastã
+scutire.
+Art. 12. Ñ O instituție de credit va beneficia de dispozițiile derogatorii ale art. 11 în situația îndeplinirii cumulative a urmãtoarelor condiții:
+a) instituția de credit scutitã și toate filialele sale sunt
+incluse în situațiile financiare consolidate ale unui grup mai
+mare, a cãrui societate-mamã consolidantã este o instituție
+de credit, iar situațiile financiare consolidate sunt întocmite
+la aceeași datã sau la o datã anterioarã, în același
+exercițiu financiar, de cãtre o societate-mamã (instituție de
+credit) constituitã în conformitate cu legea românã sau cu
+legea unui stat membru al Uniunii Europene;
+b) situațiile financiare consolidate și raportul de gestiune
+consolidat, întocmite de societatea-mamã în al cãrui perimetru de consolidare se aflã, sunt întocmite și auditate în
+conformitate cu prevederile legale;
+c) situațiile financiare consolidate și raportul de gestiune
+consolidat la care se face referire la lit. b), precum și
+raportul de audit sunt publicate conform prevederilor legale;
+d) instituția de credit scutitã prezintã în notele la
+situațiile sale financiare anuale denumirea și sediul
+societãții-mamã (instituției de credit) care elaboreazã
+situațiile financiare consolidate și raportul de gestiune consolidat;
+e) instituția de credit menționeazã în notele la situațiile
+sale financiare anuale faptul cã este scutitã de a elabora
+și de a prezenta situații financiare consolidate și raport de
+gestiune consolidat;
+f) societatea-mamã (instituție de credit) a declarat cã
+garanteazã angajamentele asumate de entitãțile scutite de
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 651/2.IX.2002
+
+la procesul de consolidare. Aceastã declarație trebuie sã
+fie anexatã la conturile entitãții excluse.
+Art. 13. Ñ Prevederile derogatorii ale art. 11 nu se
+aplicã instituțiilor de credit ale cãror valori mobiliare sunt
+cotate la Bursa de Valori din România sau la cea dintr-un
+stat membru al Uniunii Europene.
+Art. 14. Ñ De asemenea, prevederile derogatorii ale
+art. 11 nu se aplicã în cazul în care elaborarea de situații
+financiare consolidate este impusã de o reglementare
+legalã, în vederea obținerii unor informații cu implicații de
+naturã decizionalã sau de analizã ori când aceste situații
+financiare consolidate se întocmesc la solicitarea unor
+organe judiciare sau administrative (ce vor utiliza
+informațiile pentru scopurile lor).
+Art. 15. Ñ (1) O entitate trebuie sã fie exclusã de la
+consolidare în situația în care:
+a) controlul are un caracter temporar, întrucât entitatea
+este achiziționatã și pãstratã exclusiv în vederea cedãrii
+ulterioare în viitorul apropiat;
+b) existã restricții severe pe termen lung care împiedicã
+exercitarea drepturilor societãții-mamã asupra activelor sau
+conducerii entitãții ce urmeazã sã fie consolidatã.
+(2) Atunci când prevederile alin. (1) lit. a) se aplicã unei
+filiale care este o instituție de credit la care se dețin temporar acțiuni sau pãrți sociale, în vederea derulãrii unei
+operațiuni de asistențã financiarã cu privire la reorganizarea
+sau restructurarea entitãții în cauzã, situațiile sale anuale
+vor fi atașate la situațiile financiare consolidate, iar în
+notele la situațiile financiare consolidate se vor da informații
+suplimentare privind natura și condițiile operațiunii de asistențã financiarã.
+Art. 16. Ñ O entitate va putea sã nu fie inclusã în
+situațiile financiare consolidate, în situația în care:
+a) informațiile necesare în vederea elaborãrii situațiilor
+financiare consolidate se pot obține numai cu costuri sau
+întârzieri nejustificate; sau
+b) includerea sa nu este semnificativã pentru scopul
+oferirii unei imagini fidele și corecte; însã, în ceea ce
+privește excluderea a douã sau mai multe societãți,
+aceasta se poate realiza numai dacã, luate împreunã,
+importanța acestora nu este semnificativã.
+Art. 17. Ñ Fãrã a prejudicia prevederile art. 11, 15 și
+16, societatea-mamã și filialele acesteia vor proceda la
+consolidarea conturilor, indiferent de locul în care este înregistrat sediul filialelor.
+Art. 18. Ñ Situațiile financiare anuale ale entitãții
+excluse trebuie atașate la situațiile financiare consolidate
+sau trebuie puse la dispoziție, la cerere, acționarilor, la un
+preț care sã nu depãșeascã costurile administrative aferente elaborãrii.
+Art. 19. Ñ (1) În situația în care societatea-mamã are
+una sau mai multe filiale care urmeazã sã fie consolidate
+și care nu au statut de instituții de credit, respectivele filiale vor fi incluse în procesul de consolidare dacã
+activitãțile lor se situeazã în prelungirea directã a activitãții
+bancare sau a serviciilor subordonate acesteia (de exemplu: leasing, factoring, gestiune a fondurilor comune de plasament, gestiune a serviciilor informatice etc.), se
+desfãșoarã pe piața de capital (incluzând fondurile închise
+de investiții) și pe piața asigurãrilor, precum și orice alte
+activitãți similare.
+(2) În cazul unei societãți-mamã care are filiale ce nu
+au statut de instituții de credit consolidate prin integrare
+
+globalã sau proporționalã, posturile constitutive ale activitãții
+integrate vor fi prezentate la posturile de aceeași naturã
+din bilanțul consolidat, o împãrțire a acestora fiind prezentatã în notele la situațiile financiare consolidate.
+(3) Totuși, dacã o asemenea prezentare nu mai permite
+evidențierea caracteristicilor proprii activitãții bancare sau
+dacã posturile din bilanțul consolidat întocmit de aceastã
+societate-mamã nu reflectã caracteristicile activitãții integrate, posturile constitutive ale activitãții integrate vor fi prezentate la o rubricã specificã acestei activitãți.
+(4) De asemenea, în contul de profit și pierdere consolidat rezultatele acestor activitãți integrate vor fi înscrise
+distinct de veniturile și cheltuielile generate de activitatea
+bancarã.
+CAPITOLUL 3
+Metode și procedee de consolidare
+Art. 20. Ñ (1) Situațiile financiare consolidate se vor
+întocmi prin utilizarea procedeelor de integrare globalã, proporționalã sau prin punere în echivalențã, dupã eventuale
+retratãri pentru armonizarea conținutului acestora cu principiile și regulile de consolidare.
+(2) Metoda de consolidare va fi aleasã în funcție de
+procentul de control, acesta determinând la rândul sãu tipul
+de control.
+(3) Procentul de control se determinã pe baza drepturilor de vot deținute și este egal cu raportul dintre drepturile
+de vot deținute într-o entitate și numãrul total al drepturilor
+de vot ale acesteia.
+(4) Când o entitate este deținutã direct sau indirect de
+societatea-mamã și de alte entitãți din cadrul grupului, procentul de control al societãții-mamã în aceastã entitate
+se obține prin însumarea procentelor de control corespunzãtoare fiecãrui deținãtor de titluri ale respectivei
+entitãți. Însumarea se referã doar la procentele de control
+relative la entitãțile deținãtoare care sunt controlate exclusiv
+de societatea-mamã. În caz contrar are loc o rupturã a
+lanțului de control.
+Art. 21. Ñ (1) Integrarea globalã folositã pentru consolidarea situațiilor financiare ale entitãților controlate exclusiv
+de societatea-mamã constã în:
+a) integrarea în situațiile financiare ale societãții-mamã
+(consolidante) a elementelor bilanțului și ale contului de
+profit și pierdere ale entitãților consolidate dupã eventuale
+retratãri, pentru a le armoniza cu principiile contabile ale
+grupului. Elementele bilanțului și ale contului de profit și
+pierdere ale entitãților consolidate sunt însumate linie cu
+linie la cele ale societãții-mamã;
+b) eliminarea operațiunilor reciproce și a rezultatelor
+interne;
+c) determinarea diferenței din prima consolidare;
+d) eliminarea, în funcție de procentul de interes, a valorii rãmase a titlurilor de participare ale entitãții consolidate
+dupã înregistrarea fondului comercial și a valorii echivalente a respectivelor titluri din capitalurile proprii ale
+entitãților consolidate;
+e) repartizarea capitalurilor proprii ale filialei, rãmase în
+urma eliminãrii titlurilor de participare, și a rezultatului între
+societatea-mamã (consolidantã) și minoritari, dupã cum
+urmeazã:
+e1) diferența dintre cota-parte deținutã de grup, în limita
+procentului de interes în capitalurile proprii ale filialei (mai
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 651/2.IX.2002
+puțin rezultatul acesteia), și valoarea contabilã a titlurilor de
+participare, rãmasã dupã recunoașterea fondului comercial,
+se integreazã în postul ”Rezerve consolidate,,;
+e2) cota-parte deținutã de grup, în limita procentului de
+interes, în rezultatele filialei se integreazã în postul
+”Rezultat consolidat,, din bilanț;
+e3) partea minoritarilor în capitalurile proprii ale filialei
+se integreazã în postul ”Interese minoritare,, din bilanț.
+(2) În cazul integrãrii globale apar în bilanț douã rubrici
+specifice situațiilor financiare consolidate:
+a) rezerve consolidate Ñ reprezintã rezervele societãții
+consolidante, precum și cota-parte ce revine grupului în
+rezervele acumulate de la achiziția entitãții consolidate;
+b) interese minoritare Ñ corespund cotei-pãrți din capitalurile proprii ale entitãții consolidate, care se cuvine altor
+acționari decât societatea-mamã.
+(3) În contul de profit și pierdere apare ca rubricã specificã situațiilor financiare consolidate rubrica ”Rezultatul
+aferent participațiilor minoritare,,, reprezentând cota-parte din
+rezultatul filialei consolidate prin integrare globalã ce revine
+minoritarilor.
+Art. 22. Ñ Când partea care revine intereselor minoritare din pierderile unei entitãți consolidate prin integrare
+globalã este superioarã pãrții acesteia în capitalurile proprii,
+excedentul din pierderile imputabile intereselor minoritare se
+deduce din interesele majoritare, cu excepția situației în
+care acționarii minoritari au o obligație expresã de a acoperi aceste pierderi. Dacã ulterior entitatea consolidatã realizeazã beneficii, interesele majoritare sunt creditate cu
+aceste profituri pânã la acoperirea pierderilor suportate
+anterior de majoritari și imputabile intereselor minoritare.
+Art. 23. Ñ (1) Integrarea proporționalã folositã pentru
+consolidarea conturilor entitãților controlate în comun constã în:
+a) integrarea în conturile societãții-mamã (consolidante)
+a cotei-pãrți corespunzãtoare participãrii grupului din valoarea elementelor bilanțului și ale contului de profit și pierdere ale entitãții consolidate, dupã eventuale retratãri,
+pentru a le armoniza cu principiile contabile ale grupului.
+Fracțiunea acestora, reprezentatã de procentul de interes
+al grupului în entitãțile consolidate, este însumatã linie cu
+linie la elementele bilanțului și ale contului de profit și pierdere ale societãții-mamã (consolidante). Nici un interes
+minoritar nu este constatat;
+b) eliminarea, proporțional cu procentul de interes al
+grupului în entitatea consolidatã a cotei-pãrți integrate, a
+operațiunilor reciproce și a rezultatelor interne. În schimb,
+provizioanele pentru deprecierea titlurilor de participare,
+constituite de instituția de credit deținãtoare de titluri în
+capitalul entitãților integrate proporțional, în funcție de pierderile suferite de acestea, sunt eliminate în totalitate;
+c) determinarea diferenței din prima consolidare;
+d) eliminarea, în funcție de procentul de interes, a valorii rãmase a titlurilor de participare ale entitãții consolidate
+dupã înregistrarea fondului comercial și a valorii echivalente a respectivelor titluri din capitalurile proprii ale
+entitãților consolidate. Diferența dintre valoarea contabilã a
+titlurilor de participare deținute de societatea-mamã, care
+aparțin filialei consolidate, și cota-parte din capitalurile proprii ale entitãții consolidate (mai puțin rezultatul acesteia)
+deținute de grup se integreazã în rezervele grupului, denumite rezerve consolidate. Drepturile grupului în rezultatele
+entitãții consolidate se integreazã rezultatelor grupului.
+
+5
+
+(2) În urma compensãrii titlurilor de participare deținute
+de societatea-mamã (consolidantã) cu fracțiunea corespunzãtoare acestora din capitalurile proprii ale entitãții consolidate rezultã rezervele consolidate.
+(3) În cazul integrãrii proporționale apar în bilanț douã
+rubrici specifice:
+a) rezerve consolidate Ñ reprezintã rezervele societãții
+consolidante, precum și cota-parte ce revine grupului în
+rezervele acumulate de la achiziția entitãții consolidate;
+b) rezultatul consolidat Ñ reprezintã rezultatul entitãții
+consolidante, precum și cota-parte ce revine grupului din
+rezultatul entitãților consolidate prin integrare proporționalã.
+Art. 24. Ñ (1) Punerea în echivalențã, folositã pentru
+consolidarea conturilor entitãților în care societatea-mamã
+(consolidantã) exercitã o influențã semnificativã, constã în
+substituirea costului de achiziție al titlurilor deținute de societatea-mamã (consolidantã), ulterior recunoașterii fondului
+comercial, cu cota-parte a capitalurilor proprii ale entitãții
+consolidate și evidențierea drepturilor grupului în rezervele
+și rezultatele înregistrate de entitatea consolidatã.
+(2) În activul bilanțului societãții-mamã postul ”Titluri de
+participare,, va fi substituit cu postul ”Titluri puse în echivalențã,,.
+(3) În pasiv diferența dintre partea ce se cuvine
+societãții-mamã din capitalurile proprii și costul de achiziție
+al titlurilor va fi inclusã în rezerva consolidatã.
+(4) Dacã capitalurile proprii ale entitãții consolidate vor fi
+negative, titlurile puse în echivalențã vor fi înscrise cu
+valoarea zero.
+(5) Dacã entitatea asociatã raporteazã ulterior profit,
+investitorul va înregistra partea care i se cuvine din acel
+profit numai dupã ce acesta acoperã partea din pierderile
+nete nerecunoscute anterior.
+(6) Deoarece la fiecare sfârșit de exercițiu financiar
+valoarea titlurilor puse în echivalențã este egalã cu cotaparte a capitalurilor proprii ale entitãții de consolidat,
+variația în cursul exercițiului curent a capitalurilor proprii ale
+acestei entitãți consolidate prin punere în echivalențã va
+majora sau va reduce valoarea atribuitã titlurilor puse în
+echivalențã la sfârșitul exercițiului precedent.
+(7) Fracțiunea rezultatului entitãților consolidate prin
+punere în echivalențã se înscrie distinct în contul de profit
+și pierdere consolidat.
+(8) Rezultatul consolidat este constituit din rezultatul
+societãții-mamã la care se adaugã cota-parte, în limita procentului de interes al grupului, din rezultatul entitãților puse
+în echivalențã. Cele douã pãrți vor fi evidențiate distinct.
+(9) În situația unei cesiuni de titluri în urma cãreia nu
+se mai asigurã exercitarea unei influențe semnificative, în
+contul de profit și pierdere se vor înscrie, pe de o parte,
+prețul de cesiune și, pe de altã parte, fracțiunea cedatã a
+capitalurilor proprii, corespunzãtoare titlurilor puse în echivalențã, majoratã, dacã este cazul, cu fracțiunea corespunzãtoare a soldului neamortizat al fondului comercial și a
+diferenței din conversie.
+Art. 25. Ñ (1) Societatea-mamã (consolidantã) care trebuie sã elaboreze situații financiare consolidate poate utiliza ca procedee de consolidare consolidarea directã sau
+consolidarea pe paliere, astfel:
+a) consolidarea directã constã în determinarea, pentru
+fiecare entitate inclusã în perimetrul de consolidare, a drepturilor grupului în capitalurile proprii ale acesteia. Aceastã
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 651/2.IX.2002
+
+tehnicã permite calculul contribuției fiecãrei entitãți consolidate la rezervele și rezultatele grupului;
+b) consolidarea pe paliere constã în efectuarea consolidãrii, ținându-se seama de subgrupurile consolidate care,
+la rândul lor, vor fi integrate în ansamblul grupului. Aceastã
+tehnicã de consolidare se realizeazã prin efectuarea consolidãrii subgrupurilor, apoi se procedeazã la introducerea
+în consolidarea principalã a situațiilor financiare consolidate
+ale acestor subgrupuri și ale altor filiale ale societãțiimamã.
+(2) Ca urmare, se consolideazã succesiv subgrupuri în
+ansambluri mai mari, care vor fi apoi consolidate la nivelul
+societãții-mamã. Subconsolidãrile trebuie efectuate dupã
+aceleași reguli ca și consolidarea principalã. Rezervele consolidate, rezultatul consolidat, diferențele de achiziție și interesele minoritare, determinate în cadrul unei consolidãri
+directe, trebuie sã fie aceleași cu cele care ar fi obținute
+dacã respectiva consolidare s-ar realiza pe paliere.
+CAPITOLUL 4
+Elaborarea situațiilor financiare consolidate
+Art. 26. Ñ (1) Situațiile financiare consolidate cuprind:
+bilanțul consolidat, contul de profit și pierdere consolidat,
+situația consolidatã a modificãrilor capitalurilor proprii,
+situația consolidatã a fluxurilor de trezorerie, politicile contabile ale grupului și notele explicative. Ele vor fi elaborate
+în mod clar și în conformitate cu prevederile prezentelor
+norme, constituind un tot unitar.
+(2) Situațiile financiare consolidate trebuie sã furnizeze
+o imagine fidelã și corectã a poziției financiare, a performanței și a modificãrii poziției financiare ale entitãților
+incluse în perimetrul de consolidare, privite ca un tot unitar.
+Art. 27. Ñ În cazul în care aplicarea prevederilor acestor norme, referitoare la elementele care trebuie incluse în
+situațiile financiare consolidate, nu este suficientã pentru a
+furniza o imagine fidelã și corectã, în situațiile financiare consolidate trebuie furnizate informațiile suplimentare necesare.
+Art. 28. Ñ (1) Dacã, în cazuri excepționale, aplicarea
+uneia dintre prevederile prezentelor norme nu corespunde
+cerinței de furnizare a unei imagini fidele și corecte, se va
+face abatere de la aceste prevederi atât cât este necesar
+pentru redarea unei imagini fidele și corecte. În cadrul
+notelor la situațiile financiare consolidate se vor da detalii
+cu privire la neaplicarea respectivei prevederi, la motivele
+care au determinat neaplicarea acesteia, precum și la
+efectele asupra poziției financiare și performanței
+grupului.
+(2) Valorile care, în contextul special al oricãrei prevederi cuprinse în prezentele norme, nu sunt semnificative
+pot fi ignorate în scopul respectivei prevederi.
+Art. 29. Ñ Etapele procesului de consolidare se prezintã astfel:
+a) determinarea perimetrului de consolidare;
+b) stabilirea metodelor de consolidare;
+c) retratarea situațiilor financiare individuale anuale ale
+entitãților de consolidat, prealabil consolidãrii lor, pentru a
+le face conforme cu politicile contabile reținute în elaborarea situațiilor financiare consolidate;
+d) omogenizarea prezentãrii situațiilor financiare individuale ale entitãților reținute în perimetrul de consolidare;
+e) eliminarea efectelor înregistrãrilor determinate de aplicarea legislației fiscale;
+
+f) ajustarea conturilor privind operațiunile reciproce între
+societãțile integrate în perimetrul de consolidare;
+g) conversia conturilor entitãților strãine ce vor fi consolidate, utilizându-se metoda cursului de închidere, cu
+ajustãrile specifice în bilanț și în contul de profit și pierdere
+consolidat;
+h) cumulul conturilor individuale retratate, convertite în
+funcție de metoda de consolidare folositã;
+i) eliminarea efectelor tranzacțiilor dintre entitãțile din
+cadrul grupului, atât a celor fãrã incidențã, cât și a celor
+cu incidențã asupra rezultatului intern al grupului;
+j) determinarea diferenței din prima consolidare și
+eliminarea, în funcție de metoda de consolidare folositã, a
+titlurilor de participare și a capitalurilor proprii ale entitãților
+consolidate.
+Dupã determinarea și recunoașterea diferenței din prima
+consolidare suma înscrisã în contul ”Titluri de participare,,
+va fi egalã cu partea societãții-mamã în capitalurile proprii
+corijate (reestimate) ale entitãții consolidate, la data intrãrii
+sale în perimetrul de consolidare.
+La sfârșitul fiecãrui exercițiu partea de capitaluri proprii
+ce se cuvine entitãții consolidante cuprinde, pe de o parte,
+capitalul propriu cumpãrat, iar pe de altã parte, capitalul
+propriu acumulat de la intrarea entitãții în perimetrul de
+consolidare.
+Valoarea rãmasã a titlurilor entitãții consolidate dupã
+înregistrarea fondului comercial se eliminã din activul
+societãții consolidante. Totodatã valoarea echivalentã acestor titluri se eliminã din capitalurile proprii ale entitãții consolidate. Diferența care apare între valoarea contabilã netã
+a titlurilor și fracțiunea din capitalurile proprii ale entitãții
+consolidate, corespunzãtoare acestor titluri, se vireazã asupra rezervei grupului, denumitã rezervã consolidatã. În
+funcție de metoda de consolidare utilizatã, eliminarea titlurilor de participare, urmatã de determinarea capitalurilor proprii consolidate, suportã diferențieri, care în general sunt
+prezentate la art. 21, 23 și 24;
+k) elaborarea situațiilor financiare consolidate.
+Art. 30. Ñ În cazul consolidãrii entitãților asupra cãrora
+se exercitã o influențã semnificativã, prevederile alin. 2 și 3
+ale lit. j) a art. 29 se înlocuiesc cu urmãtoarele:
+a) în activul societãții-mamã postul ”Titluri de participare,,
+va fi substituit cu postul ”Titluri puse în echivalențã,,, respectiv valoarea contabilã a titlurilor de participare, rãmasã
+dupã recunoașterea fondului comercial, ale entitãții puse în
+echivalențã cu valoarea cotei-pãrți reprezentând drepturile
+societãții-mamã în capitalurile proprii ale respectivei entitãți;
+b) diferența dintre partea ce se cuvine societãții-mamã
+în capitalurile proprii și valoarea contabilã a titlurilor se va
+include în rezerva consolidatã;
+c) partea ce revine societãții-mamã din rezultatul entitãții
+puse în echivalențã se va adãuga la rezultatul grupului,
+denumit rezultat consolidat.
+Art. 31. Ñ În scopul elaborãrii situațiilor financiare consolidate ale unei rețele cooperatiste de credit, o casã centralã a cooperativelor de credit afiliate (societate-mamã) va
+parcurge urmãtoarele etape:
+a) întocmirea situațiilor financiare individuale agregate la
+nivelul rețelei, în conformitate cu precizãrile din subsolul
+anexei nr. 3 la Normele Bãncii Naționale a României
+nr. 7/2000 privind autorizarea organizațiilor cooperatiste de
+credit, cu modificãrile și completãrile ulterioare;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 651/2.IX.2002
+b) aplicarea etapelor procesului de consolidare,
+prevãzute la art. 29.
+Art. 32. Ñ Participația unei instituții de credit într-o entitate asociatã, precum și valoarea profitului sau a pierderii
+aferente unei asemenea participații [inclusiv fondul comercial, dacã existã, tratat în concordanțã cu prevederile paragrafului 5.23 lit. a), b) și c) secțiunea 5 din cap. 1 al
+Reglementãrilor contabile armonizate cu Directiva
+Comunitãților Economice Europene nr. 86/635/CEE și cu
+Standardele Internaționale de Contabilitate aplicabile
+instituțiilor de credit, aprobate prin Ordinul ministrului
+finanțelor publice și al guvernatorului Bãncii Naționale a
+României nr. 1.982/5/2001] trebuie reflectate prin metoda
+punerii în echivalențã.
+Art. 33. Ñ (1) În cazul în care o entitate exercitã o
+influențã semnificativã asupra politicilor operaționale și
+financiare ale unei alte entitãți neincluse în consolidare
+(entitate asociatã), în care deține un interes de participare,
+acel interes de participare va fi prezentat separat în
+bilanțul consolidat.
+(2) Se apreciazã cã o entitate exercitã o influențã semnificativã asupra unei alte entitãți în cazul în care deține
+20% sau mai mult din drepturile de vot ale acționarilor sau
+ale asociaților din acea entitate, dacã nu se dovedește
+contrariul.
+Art. 34. Ñ (1) Când o instituție de credit deține pentru
+prima datã o participație într-o entitate asociatã, în
+condițiile prevãzute la art. 33, respectiva participație va fi
+contabilizatã în bilanțul consolidat:
+a) conform metodei punerii în echivalențã (incluzând și
+eventualul fond comercial tratat în conformitate cu prevederile paragrafului 5.23 secțiunea 5 din cap. 1 al
+Reglementãrilor contabile armonizate cu Directiva
+Comunitãților Economice Europene nr. 86/635/CEE și cu
+Standardele Internaționale de Contabilitate aplicabile
+instituțiilor de credit, aprobate prin Ordinul ministrului
+finanțelor publice și al guvernatorului Bãncii Naționale a
+României nr. 1.982/5/2001); sau
+b) la valoarea sa contabilã, calculatã în concordanțã cu
+regulile de evaluare prevãzute în Reglementãrile contabile
+armonizate cu Directiva Comunitãților Economice Europene
+nr. 86/635/CEE și cu Standardele Internaționale de
+Contabilitate aplicabile instituțiilor de credit, aprobate prin
+Ordinul ministrului finanțelor publice și al guvernatorului
+Bãncii Naționale a României nr. 1.982/5/2001. Diferența
+dintre valoarea contabilã și valoarea corespunzãtoare proporției reprezentate de participația la capitalurile proprii va
+fi prezentatã separat în bilanțul consolidat sau în notele la
+situațiile financiare consolidate. Respectiva diferențã va fi
+calculatã la data la care acea metodã este utilizatã pentru
+prima datã.
+(2) În bilanțul consolidat sau în notele la situațiile financiare consolidate trebuie indicatã metoda utilizatã în contabilizarea participației menționate la alin. (1).
+Art. 35. Ñ Valoarea de contabilizare determinatã conform prevederilor art. 34 va fi majoratã sau redusã cu
+suma oricãrei variații care a avut loc în timpul exercițiului
+financiar, corespunzãtoare fracțiunii din capitalurile proprii
+ale entitãții asociate, reprezentate de acea participație. De
+asemenea, ea va fi redusã cu suma dividendelor corespunzãtoare acelei participații.
+Art. 36. Ñ În cazul în care entitatea asociatã este
+societate-mamã într-un alt grup, activele nete, precum și
+
+7
+
+profiturile sau pierderile care trebuie luate în considerare
+sunt cele ale acestei societãți-mamã și ale filialelor sale
+(dupã efectuarea ajustãrilor impuse de consolidare).
+Art. 37. Ñ Nu este necesar sã fie aplicatã metoda
+punerii în echivalențã în situația în care valorile respective
+nu sunt semnificative în scopul furnizãrii unei imagini fidele
+și corecte.
+Art. 38. Ñ (1) În cazul preluãrii prin achizițe a unei
+entitãți, activele și datoriile identificabile ale entitãții
+achiziționate vor fi incluse în bilanțul consolidat la valorile
+lor juste de la data achiziției.
+(2) Participația societãții-mamã și a filialelor sale la
+valoarea justã a capitalurilor proprii ale entitãții achiziționate
+va fi comparatã cu costul de achiziție al participației respective.
+(3) Prin cost de achiziție se înțelege suma de numerar
+sau echivalențe ale numerarului plãtite ori valoarea justã la
+data achiziției a altor mijloace de platã și/sau de plasament
+date de cumpãrãtor în schimbul controlului asupra activelor
+nete ale acelei entitãți, împreunã cu orice alte costuri atribuibile direct achiziției.
+(4) Valoarea justã a capitalurilor proprii ale entitãții
+achiziționate reprezintã capitalurile proprii ale acesteia la
+data achiziției, dupã ajustarea activelor și a datoriilor identificabile ale entitãții la acea datã.
+(5) În situația în care participația este achiziționatã la o
+valoare mai mare decât valoarea justã a acesteia, diferența
+pozitivã este consideratã fond comercial și recunoscutã ca
+activ. Acesta trebuie contabilizat conform prevederilor stabilite în paragraful 5.23 lit. a), b) și c) secțiunea 5 din cap. 1
+al Reglementãrilor contabile armonizate cu Directiva
+Comunitãților Economice Europene nr. 86/635/CEE și cu
+Standardele Internaționale de Contabilitate aplicabile
+instituțiilor de credit, aprobate prin Ordinul ministrului
+finanțelor publice și al guvernatorului Bãncii Naționale a
+României nr. 1.982/5/2001.
+(6) În situația în care participația este achiziționatã la o
+valoare mai micã decât valoarea sa justã, diferența este
+înregistratã ca fond comercial negativ.
+(7) În mãsura în care fondul comercial negativ se raporteazã la pierderile viitoare așteptate ce sunt identificate la
+data primei consolidãri, dar care nu reprezintã datorii identificabile la aceastã datã, acea parte a fondului comercial
+negativ trebuie recunoscutã ca venit în contul de profit și
+pierdere, atunci când sunt recunoscute pierderi și cheltuieli
+viitoare.
+(8) În mãsura în care fondul comercial negativ nu se
+raporteazã la pierderi și cheltuieli viitoare așteptate, identificabile, ce pot fi mãsurate în mod fiabil la data achiziției,
+acest fond comercial trebuie recunoscut ca venit în contul
+de profit și pierdere, dupã cum urmeazã:
+a) valoarea fondului comercial negativ ce nu depãșește
+valorile juste ale activelor nemonetare identificabile
+achiziționate ar trebui recunoscutã ca venit pe o bazã sistematicã, peste media ponderatã a perioadei de viațã utile
+rãmase a activelor identificabile amortizabile achiziționate; și
+b) valoarea fondului comercial negativ în exces fațã de
+valorile juste ale activelor nemonetare identificabile
+achiziționate ar trebui recunoscutã ca venit imediat.
+Art. 39. Ñ (1) Dacã titlurile de participare sunt
+cumpãrate în mod succesiv în vederea stabilirii fondului
+comercial, va fi luatã în considerare data de achiziție a primului lot care conferã controlul sau o influențã semnificativã.
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 651/2.IX.2002
+
+Achizițiile ulterioare de titluri genereazã, de regulã, noi fonduri comerciale.
+(2) Când grupul subscrie la o creștere de capital într-o
+entitate deja consolidatã fondul comercial se determinã pe
+baza variației participației grupului în capitalurile proprii ale
+acesteia, dupã creșterea capitalului.
+(3) Dacã o entitate este deja integratã global, iar
+instituția de credit consolidantã își majoreazã procentul de
+control exclusiv prin achiziții complementare de titluri care
+genereazã fond comercial negativ dupã imputarea acestuia
+asupra activelor entitãții consolidate, diferența rãmasã este
+suportatã din eventualul fond comercial neamortizat, degajat
+la prima consolidare prin integrare globalã. Ca urmare, în
+bilanț este prezentat doar soldul care rãmâne în urma
+acestei operațiuni.
+Art. 40. Ñ Valoarea cumulativã a fondului comercial
+rezultat în urma achiziției în cursul exercițiului financiar
+curent și în cele anterioare trebuie corectatã cu fondul
+comercial atribuibil filialelor înstrãinate înainte de data
+bilanțului.
+Art. 41. Ñ În situația în care societatea-mamã deține
+propriile acțiuni sau o filialã deține acțiuni ale societãțiimamã în procesul de consolidare a conturilor, respectivele
+acțiuni vor fi considerate acțiuni proprii.
+Art. 42. Ñ În situația în care achiziția are un efect
+semnificativ asupra situațiilor financiare consolidate, vor fi
+furnizate urmãtoarele informații: valoarea contabilã și valoarea justã la data achiziției, pentru fiecare clasã de active și
+datorii, situația valorii fondului comercial sau a fondului
+comercial negativ, precum și o explicație a tuturor
+ajustãrilor semnificative efectuate.
+Art. 43. Ñ În ceea ce privește forma și conținutul
+situațiilor financiare consolidate se vor aplica prevederile
+cuprinse în cadrul Reglementãrilor contabile armonizate cu
+Directiva
+Comunitãților
+Economice
+Europene
+nr. 86/635/CEE și cu Standardele Internaționale de
+Contabilitate aplicabile instituțiilor de credit, aprobate prin
+Ordinul ministrului finanțelor publice și al guvernatorului
+Bãncii Naționale a României nr. 1.982/5/2001, fãrã a se
+încãlca prevederile prezentelor norme și luându-se în considerare ajustãrile esențiale rezultate din caracteristicile specifice situațiilor financiare consolidate, în raport cu situațiile
+financiare anuale individuale ale instituțiilor de credit.
+Art. 44. Ñ Urmãtoarele informații referitoare la achizițiile
+care au avut loc pe parcursul exercițiului financiar vor fi
+furnizate prin notele la situațiile financiare consolidate:
+a) denumirea entitãții achiziționate sau, în cazul în care
+a fost achiziționat un grup, denumirea societãții-mamã a
+acelui grup;
+b) modul de reflectare în contabilitate a achiziției;
+c) componența și valoarea justã ale mijloacelor/instrumentelor (de platã și/sau de plasament) utilizate pentru
+achiziție.
+Art. 45. Ñ În formatul situațiilor financiare consolidate
+se vor efectua urmãtoarele ajustãri esențiale:
+a) în bilanțul consolidat se va evidenția într-un post distinct de activ, denumit ”Titluri puse în echivalențã,,, cotaparte ce revine grupului, în limita procentului de interes din
+capitalurile proprii ale entitãților consolidate prin metoda
+punerii în echivalențã;
+b) adãugarea unui post în bilanț dupã ”Rezultatul consolidat al exercițiului financiar,,, denumit ”Interese minoritare,,, care va evidenția activele nete ale entitãților
+
+consolidate prin metoda integrãrii globale, aferente minoritarilor. Interesele minoritare în activele nete constau în partea
+corespunzãtoare acestora la data achiziției și partea minoritãții din mișcãrile activelor nete care au intervenit de la
+data achiziției;
+c) adãugarea unui element în cadrul contului de profit
+și pierdere consolidat dupã ”Rezultatul exercițiului financiar
+(ansamblului consolidat),,, denumit ”Rezultat aferent participațiilor minoritare,,. Acest element va evidenția rezultatul
+aferent minoritarilor din rezultatul entitãților consolidate prin
+metoda integrãrii globale;
+d) adãugarea unui element în cadrul contului de profit și
+pierdere consolidat, denumit ”Rezultatul entitãților puse în
+echivalențã,,, care va evidenția profitul sau pierderea
+entitãților consolidate prin metoda punerii în echivalențã;
+e) adãugarea unui post în activul sau pasivul bilanțului,
+denumit ”Diferențe de achiziție,,;
+f) adãugarea unui post în bilanț ”Rezerve consolidate,,
+care cuprinde atât rezervele societãții-mamã, cât și cotaparte cuvenitã grupului din capitalurile proprii (mai puțin
+rezultatele) ale entitãților consolidate;
+g) adãugarea unui post în bilanț ”Rezerve din conversie,,.
+Art. 46. Ñ Bilanțul consolidat și contul de profit și pierdere consolidat trebuie sã cuprindã toate informațiile reflectate de situațiile financiare anuale ale entitãților incluse în
+procesul de consolidare.
+Art. 47. Ñ (1) Situațiile financiare consolidate trebuie
+elaborate la aceeași datã ca și situațiile financiare anuale
+ale societãții-mamã.
+(2) Dacã exercițiul financiar al unei entitãți de consolidat
+nu se încheie la aceeași datã cu cea a exercițiului financiar al societãții-mamã, situațiile financiare consolidate vor fi
+elaborate pe baza:
+a) situațiilor financiare ale entitãții de consolidat pentru
+exercițiul sãu financiar anterior, încheiat înaintea exercițiului
+financiar al societãții-mamã, cu condiția sã nu existe o diferențã mai mare de 3 luni între cele douã date de închidere și sã se ia în considerare operațiunile semnificative
+apãrute între cele douã date; sau
+b) situațiilor financiare interimare elaborate de entitatea
+de consolidat la data de închidere a bilanțului consolidat,
+atunci când între cele douã date de închidere existã o
+diferențã mai mare de 3 luni.
+(3) În notele la situațiile financiare consolidate se va
+face precizarea referitoare la întocmirea situațiilor financiare
+la o altã datã decât data bilanțului și motivele care au stat
+la baza situației respective.
+Art. 48. Ñ (1) În elaborarea situațiilor financiare consolidate se vor utiliza metode consecvente, iar procesul de
+consolidare se va efectua în concordanțã cu prevederile
+cap. I din Reglementãrile contabile armonizate cu Directiva
+Comunitãților Economice Europene nr. 86/635/CEE și cu
+Standardele Internaționale de Contabilitate aplicabile
+instituțiilor de credit, aprobate prin Ordinul ministrului
+finanțelor publice și al guvernatorului Bãncii Naționale a
+României nr. 1.982/5/2001.
+(2) Eventualele diferențe existente între politicile contabile utilizate pentru situațiile financiare anuale ale societãțiimamã, aferente unui exercițiu financiar, și situațiile
+financiare consolidate vor fi prezentate într-o notã la
+situațiile financiare consolidate, împreunã cu motivele existenței respectivei diferențe.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 651/2.IX.2002
+(3) Dacã o entitate din grup a procedat la reevaluãri
+reflectate în situațiile financiare individuale ale sale, fie se
+eliminã aceste reevaluãri din situațiile financiare consolidate,
+fie se efectueazã reevaluarea pentru ansamblul grupului.
+În acest caz reevaluarea trebuie efectuatã dupã metode
+consecvente.
+(4) În caz de reevaluare a ansamblului entitãților consolidate cheltuielile cu amortizarea și rezultatul eventualelor
+cesiuni de active se determinã pe baza valorilor reevaluate. În notele la situațiile financiare consolidate se vor prezenta informații despre metodele de reevaluare, diferența
+rezultatã și influența asupra fondului comercial, asupra
+cheltuielilor cu amortizarea și a provizioanelor aferente
+bunurilor reevaluate.
+Art. 49. Ñ (1) În cazul în care activele și datoriile
+incluse în situațiile financiare individuale ale entitãților din
+perimetrul de consolidare au fost evaluate sau determinate
+de cãtre entitãți în concordanțã cu politici contabile diferite
+de cele utilizate pentru situațiile financiare consolidate,
+valorile sau sumele respective trebuie ajustate astfel încât
+sã corespundã politicilor utilizate pentru situațiile financiare
+consolidate.
+(2) În cazurile excepționale în care administratorii
+societãții-mamã considerã cã existã motive pentru neutilizarea procedurii de mai sus, ei pot acționa în consecințã, dar
+trebuie sã prezinte într-o notã la situațiile financiare consolidate particularitãțile unei astfel de acțiuni, motivul și efectele induse asupra poziției financiare, performanței și a
+fluxurilor de trezorerie ale grupului. Nu este necesar sã se
+realizeze respectivele ajustãri în cazul în care acestea nu
+sunt semnificative pentru furnizarea unei imagini fidele și
+corecte.
+Art. 50. Ñ În elaborarea bilanțului consolidat și a contului de profit și pierdere consolidat trebuie luate în considerare toate diferențele apãrute în procesul de consolidare
+între cheltuiala cu impozitul pe profit pentru exercițiul financiar curent și pentru cele anterioare și valoarea impozitului
+plãtit sau de platã aferent acelor exerciții, în mãsura în
+care existã posibilitatea apariției în viitorul previzibil a unei
+modificãri a cheltuielii cu impozitul pentru una dintre
+entitãțile incluse în procesul de consolidare.
+Art. 51. Ñ (1) În situația în care activele care vor fi
+incluse în procesul de consolidare au constituit obiectul
+unor ajustãri valorice cu caracter excepțional numai în scop
+fiscal, ele vor putea fi încorporate în situațiile financiare
+consolidate numai dupã eliminarea respectivelor ajustãri.
+(2) În mãsura în care rezultatul consolidat al exercițiului
+financiar a fost afectat de o evaluare efectuatã în timpul
+exercițiului financiar în cauzã sau într-un exercițiu anterior
+în vederea obținerii de reduceri fiscale, trebuie furnizate
+detalii despre influența unei asemenea evaluãri asupra
+cheltuielii viitoare cu impozitul pe profit.
+Art. 52. Ñ Situațiile financiare consolidate vor reflecta
+poziția financiarã și performanța entitãților incluse în consolidare ca și când acestea ar forma o singurã entitate. În
+mod special, datoriile și creanțele dintre entitãțile incluse în
+consolidare, precum și veniturile și cheltuielile aferente
+tranzacțiilor realizate între entitãțile consolidate vor fi eliminate în procesul de elaborare a situațiilor financiare consolidate.
+Art. 53. Ñ (1) În cazul în care profitul și pierderea
+rezultate din tranzacții derulate între entitãțile cuprinse în
+consolidare sunt incluse în valoarea contabilã a activelor,
+
+9
+
+în procesul de elaborare a situațiilor financiare consolidate
+aceste rezultate se vor elimina în mãsura în care sunt
+cunoscute.
+(2) Exceptând societãțile integrate global, eliminãrile
+menționate la art. 52 și la alin. (1) trebuie sã fie efectuate
+proporțional cu participația grupului la societãțile respective.
+Eliminãrile nu trebuie efectuate dacã sumele aferente nu
+sunt semnificative în scopul furnizãrii unei imagini fidele și
+corecte.
+Art. 54. Ñ (1) Metodele de consolidare se vor aplica în
+mod consecvent de la un exercițiu financiar la altul.
+(2) În situația în care se înregistreazã abateri de la
+acest principiu, în notele la situațiile financiare consolidate
+vor fi prezentate particularitãțile respectivelor abateri, motivele care au stat la baza acestora, precum și efectele
+induse asupra poziției financiare și performanței entitãților
+incluse în consolidare, luate ca un tot unitar.
+Art. 55. Ñ În cazul în care a avut loc vânzarea unei
+entitãți sau a unui subgrup, cu efecte semnificative asupra
+situațiilor financiare consolidate, în notele la situațiile financiare consolidate vor fi prezentate urmãtoarele informații:
+a) numele respectivei entitãți sau, dacã este cazul, al
+societãții-mamã a subgrupului;
+b) mãsura în care profitul sau pierderea reflectatã în
+situațiile financiare consolidate este aferentã profitului ori
+pierderii respectivei entitãți sau respectivului subgrup.
+Art. 56. Ñ (1) Ieșirea din perimetrul de consolidare a
+unei entitãți, ca urmare a cedãrii titlurilor, se efectueazã fie
+la data transferãrii controlului sau a influenței semnificative
+cãtre societatea care a achiziționat titlurile, fie în vederea
+simplificãrii la începutul exercițiului în cursul cãruia s-a produs cedarea.
+(2) Valoarea corespunzãtoare titlurilor cedate, reprezentatã de cota-parte din capitalurile proprii, va fi diminuatã
+sau majoratã cu fondul comercial sau cu fondul comercial
+negativ, rãmas neamortizat.
+(3) Diferența dintre suma obținutã din înstrãinarea filialei
+și valoarea contabilã a activelor nete ale acesteia de la
+data vânzãrii este recunoscutã în contul de profit și pierdere
+consolidat ca profit sau pierdere din înstrãinarea filialei.
+(4) Dacã cheltuielile și veniturile aferente entitãții ale
+cãrei titluri au fost cedate sunt semnificative fațã de rezultatul consolidat, acestea trebuie incluse în rezultatul consolidat înregistrat pânã la data cedãrii titlurilor.
+Art. 57. Ñ În caz de deconsolidare a unei entitãți,
+antrenatã de o pierdere a controlului sau a influenței semnificative, fãrã cesiunea participației (de exemplu ca urmare
+a restricțiilor severe și de duratã care pun sub semnul
+întrebãrii controlul exercitat asupra acestei entitãți sau în
+cazul coborârii sub pragul care asigurã o influențã semnificativã), titlurile vor fi repuse în bilanț pentru cota-parte pe
+care o reprezintã, la data deconsolidãrii, din capitalurile
+proprii ale entitãții deconsolidate, majoratã cu fondul comercial rãmas neamortizat.
+Art. 58. Ñ (1) Dacã a avut loc o modificare a procentajului de deținere a titlurilor la entitãțile de consolidat, în
+notele la situațiile financiare consolidate trebuie menționate
+achizițiile și cesiunile care au determinat modificarea perimetrului de consolidat. Informațiile astfel prezentate trebuie
+sã permitã compararea, de la un exercițiu la altul, a
+bilanțului consolidat și a contului de profit și pierdere consolidat.
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 651/2.IX.2002
+
+(2) De asemenea, se vor furniza informații referitoare la
+achizițiile și la cesiunile efectuate între data de închidere a
+exercițiului financiar și data prezentãrii situațiilor financiare
+consolidate.
+(3) În notele la situațiile financiare consolidate vor fi
+prezentate metodele de evaluare utilizate pentru diferitele
+elemente ale situațiilor financiare consolidate, precum și
+metodele utilizate la calcularea ajustãrilor de valoare.
+(4) Pentru elementele incluse în situațiile financiare consolidate, care sunt sau au fost inițial exprimate în valutã,
+trebuie indicat cursul de schimb utilizat pentru exprimarea
+lor în moneda în care sunt elaborate situațiile financiare
+consolidate.
+Art. 59. Ñ (1) Conturile entitãților nerezidente vor fi
+convertite dupã metoda cursului de închidere. Aceastã
+metodã presupune:
+a) în bilanț:
+ii(i) exprimarea posturilor din bilanț, cu excepția capitalurilor proprii, la cursul de închidere;
+i(ii) exprimarea capitalurilor proprii la cursul istoric;
+(iii) înscrierea, ca element distinct al capitalurilor proprii,
+a unei rezerve din conversie, care este repartizatã
+între grup și interesele minoritare, calculatã ca sumã
+algebricã a urmãtoarelor elemente:
+Ñ diferența dintre capitalurile proprii la cursul de închidere și capitalurile proprii la cursul istoric; și
+Ñ diferența dintre rezultatul la cursul de închidere și
+rezultatul convertit la cursul mediu al perioadei, calculat pe
+baza cursurilor zilnice;
+b) în contul de profit și pierdere Ñ exprimarea veniturilor și a cheltuielilor la cursul mediu al perioadei, calculat
+pe baza cursurilor zilnice.
+(2) În caz de lichidare sau de cesiune totalã ori parțialã
+a participației deținute în entitatea strãinã, rezerva din conversie care figureazã în capitalurile proprii este integratã în
+rezultat pentru partea aferentã participației cedate.
+CAPITOLUL 5
+Raportul de gestiune consolidat
+Art. 60. Ñ Pentru fiecare exercițiu financiar administratorii unei societãți-mamã vor elabora un raport de gestiune
+consolidat care sã prezinte o fidelã analizã a evoluției activitãții grupului pe parcursul exercițiului financiar, precum și
+poziția financiarã a acestuia la sfârșitul exercițiului financiar.
+Art. 61. Ñ Raportul de gestiune consolidat trebuie sã
+cuprindã:
+a) detalii asupra tuturor evenimentelor importante
+apãrute dupã încheierea exercițiului financiar la care se
+referã situațiile financiare consolidate și care au afectat
+societatea-mamã sau filialele sale;
+b) o estimare a evoluției previzibile a grupului;
+c) numãrul și valoarea nominalã ale tuturor acțiunilor
+societãții-mamã deținute de acea instituție de credit, de filialele acesteia sau de o persoanã care acționeazã în nume
+propriu, dar în contul acelor instituții.
+CAPITOLUL 6
+Auditarea situațiilor financiare consolidate
+Art. 62. Ñ O societate-mamã care elaboreazã situații
+financiare consolidate trebuie sã procedeze la auditarea
+
+acestora, conform reglementãrilor referitoare la audit, de
+cãtre persoane autorizate sã efectueze aceastã procedurã.
+Eligibilitatea numirii acestora este stabilitã în Ordonanța de
+urgențã a Guvernului nr. 75/1999 privind activitatea de
+audit financiar, aprobatã și modificatã prin Legea
+nr. 133/2002.
+Art. 63. Ñ (1) În cazul situațiilor financiare consolidate,
+în raportul lor, auditorii trebuie sã se pronunțe asupra elaborãrii corespunzãtoare, în opinia acestora, a respectivelor
+situații financiare consolidate, în concordanțã cu prezentele
+norme, și, în mod special, asupra furnizãrii unei imagini
+fidele și corecte a activitãții grupului la sfârșitul exercițiului
+financiar.
+(2) Auditorii vor aprecia dacã informațiile furnizate prin
+raportul de gestiune consolidat, pentru exercițiul financiar la
+care se referã situațiile financiare consolidate, corespund
+cu aceste situații; dacã, în opinia lor, informațiile nu corespund, acest fapt va fi precizat în respectivul raport.
+CAPITOLUL 7
+Publicarea situațiilor financiare consolidate
+Art. 64. Ñ Situațiile financiare consolidate, raportul
+de gestiune consolidat și raportul auditorilor referitor la
+situațiile financiare consolidate vor fi publicate de instituția
+de credit care elaboreazã respectivele situații financiare
+consolidate.
+Art. 65. Ñ O instituție de credit care trebuie sã elaboreze situații financiare consolidate pentru un exercițiu financiar nu își va publica situațiile financiare individuale pentru
+respectivul exercițiu fãrã a publica totodatã și situațiile
+financiare consolidate.
+Art. 66. Ñ (1) Directorii unei societãți-mamã trebuie sã
+depunã la Oficiul registrului comerțului, pentru fiecare
+exercițiu financiar, o copie de pe situațiile financiare consolidate, împreunã cu o copie de pe raportul de gestiune
+consolidat și o copie de pe raportul auditorilor asupra acelor situații financiare consolidate. De asemenea, câte o
+copie de pe aceleași documente va fi depusã la direcția
+teritorialã a Ministerului Finanțelor Publice, la solicitarea
+acesteia, și la Banca Naționalã a României, în termen de
+10 zile de la data publicãrii acestora.
+(2) Vor fi luate mãsurile necesare astfel încât o copie
+de pe oricare dintre aceste documente sã poatã fi obținutã
+pe bazã de cerere scrisã, la un preț care sã nu
+depãșeascã costurile administrative aferente.
+Art. 67. Ñ În cazul în care situațiile financiare consolidate și rapoartele de gestiune consolidate sunt publicate în
+întregime, acestea trebuie realizate într-un format recomandat de auditori. Dacã s-au fãcut obiecții în cadrul raportului
+auditorilor sau dacã auditorii au refuzat sã întocmeascã
+raportul asupra situațiilor financiare consolidate, acest fapt
+trebuie prezentat împreunã cu motivele aferente.
+Art. 68. Ñ Situațiile financiare anuale individuale ale
+instituțiilor de credit și situațiile financiare consolidate întocmite de acestea trebuie sã fie publicate în fiecare stat
+membru al Uniunii Europene în care acele instituții au
+sucursale. Aceste state membre ale Uniunii Europene pot
+solicita ca acele documente sã fie publicate în limba lor
+oficialã.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 651/2.IX.2002
+CAPITOLUL 8
+Forma și conținutul situațiilor financiare consolidate
+Art. 69. Ñ (1) Situațiile financiare consolidate ale
+instituțiilor de credit trebuie prezentate comparativ cu
+exercițiul financiar precedent, cu excepția primului an de
+aplicare a prevederilor prezentelor norme, situație în care
+nu este obligatorie prezentarea datelor comparative.
+(2) Bilanțul consolidat și contul de profit și pierdere
+consolidat trebuie sã conținã cel puțin posturile prevãzute
+în modelele prezentate în anexele nr. 1 și 2.
+(3) Posturile din bilanțul consolidat și cele din contul de
+profit și pierdere consolidat, pentru care nu existã valori
+atât în exercițiul financiar curent, cât și în cel precedent,
+pot fi eliminate.
+(4) Bilanțul consolidat și contul de profit și pierdere consolidat pot fi prezentate mai detaliat decât în modelele prezentate în anexele nr. 1 și 2, cu condiția respectãrii
+structurii acestora.
+(5) Noile posturi pot fi adãugate în mãsura în care
+conținutul lor nu se regãsește în nici unul dintre posturile
+enumerate în modelele prevãzute pentru situațiile financiare
+consolidate sau pentru situațiile financiare anuale individuale.
+Art. 70. Ñ (1) Situația consolidatã a modificãrilor capitalurilor proprii explicã mișcãrile intervenite în capitalurile proprii de la un exercițiu financiar la altul.
+(2) Variațiile capitalurilor proprii consolidate pot avea ca
+origine:
+Ñ creșterea capitalului social al societãții-mamã;
+Ñ distribuirile efectuate de societatea consolidantã în
+cursul exercițiului financiar;
+Ñ incidența variației cursului de conversie în cazul consolidãrii entitãților strãine;
+Ñ incidența reevaluãrilor;
+Ñ incidența restructurãrilor (aporturi parțiale de active,
+fuziuni) și a anumitor cesiuni interne de active;
+Ñ efectele schimbãrii procentajului de interes într-o entitate consolidatã, ca urmare a unei variații de capital al
+acesteia;
+Ñ schimbãrile metodelor de evaluare.
+(3) Un model de situație consolidatã a modificãrilor capitalurilor proprii este prezentat în anexa nr. 3. Modificãrile
+principale trebuie detaliate, iar celelalte modificãri vor fi
+regrupate într-o singurã poziție denumitã ”Alte modificãri,,.
+(4) Situația consolidatã a modificãrilor capitalurilor proprii
+va fi prezentatã pentru partea grupului, care poate fi completatã de o situație pentru partea intereselor minoritare.
+(5) Notele la situațiile financiare consolidate, care completeazã și comenteazã informațiile din bilanțul consolidat și
+din contul de profit și pierdere consolidat, trebuie sã
+cuprindã cel puțin cerințele prevãzute în anexa nr. 5.
+Art. 71. Ñ Cu excepția formatului bilanțului consolidat, a
+contului de profit și pierdere consolidat și a situației consolidate a modificãrilor capitalurilor proprii, pentru celelalte
+informații furnizate de situațiile financiare consolidate se vor
+
+avea în vedere și prevederile conținute în Reglementãrile
+contabile armonizate cu Directiva Comunitãților Economice
+Europene nr. 86/635/CEE și cu Standardele Internaționale
+de Contabilitate aplicabile instituțiilor de credit, aprobate
+prin Ordinul ministrului finanțelor publice și al guvernatorului
+Bãncii Naționale a României nr. 1.982/5/2001, precum și
+celelalte principii generale valabile, referitoare la formatul
+situațiilor financiare consolidate, prevãzute în Normele privind consolidarea conturilor, aprobate prin Ordinul ministrului finanțelor nr. 772/2000.
+Art. 72. Ñ (1) Pentru aplicarea principiilor de consolidare la nivelul grupului a cãrui societate-mamã (consolidantã) este o instituție de credit, persoanã juridicã românã,
+având în vedere diferențele existente între reglementãrile
+contabile aplicabile instituțiilor de credit și cele aplicabile
+entitãților ce urmeazã sã fie incluse în perimetrul de consolidare, va fi necesarã transpunerea situațiilor financiare
+ale entitãților respective pe formatul conturilor pentru
+instituțiile de credit.
+(2) Datele rezultate din analiza posturilor agregate din
+bilanțul consolidat nu trebuie folosite la calculul și completarea declarațiilor privind impozitul pe profit.
+Art. 73. Ñ Pentru completarea formularului de bilanț
+consolidat și a contului de profit și pierdere consolidat se
+vor avea în vedere precizãrile cuprinse în anexa nr. 4.
+CAPITOLUL 9
+Dispoziții finale
+Art. 74. Ñ În situația în care prevederile directivelor
+europene referitoare la consolidare sunt în contradicție cu
+cele ale Standardelor Internaționale de Contabilitate, prevalente vor fi prevederile cuprinse în cadrul directivelor.
+Art. 75. Ñ Anexele nr. 1Ñ5 fac parte integrantã din
+prezentele norme.
+Art. 76. Ñ Banca Naționalã a României va urmãri în
+cadrul acțiunilor de supraveghere desfãșurate potrivit legii
+aplicarea de cãtre instituțiile de credit a prevederilor prezentelor norme.
+Art. 77. Ñ Nerespectarea prevederilor prezentelor norme
+atrage aplicarea sancțiunilor și/sau a mãsurilor prevãzute la
+art. 69 și, respectiv, la art. 70 din Legea bancarã
+nr. 58/1998, cu modificãrile și completãrile ulterioare, precum și a celor prevãzute la art. 189 și, respectiv, la
+art. 191 din Ordonanța de urgențã a Guvernului
+nr. 97/2000 privind organizațiile cooperatiste de credit,
+aprobatã și modificatã prin Legea nr. 200/2002.
+Art. 78. Ñ Normele privind elaborarea situațiilor financiare consolidate de cãtre instituțiile de credit se aplicã:
+a) începând cu exercițiul financiar al anului 2002, tuturor
+grupurilor a cãror societate-mamã (consolidantã) este o
+bancã persoanã juridicã românã;
+b) începând cu exercițiul financiar al anului 2003, tuturor
+grupurilor a cãror societate-mamã (consolidantã) este o
+casã centralã a cooperativelor de credit, persoanã juridicã
+românã.
+
+Președintele Consiliului de administrație al Bãncii Naționale a României,
+Mugur Constantin Isãrescu
+București, 1 iulie 2002.
+Nr. 8.
+
+11
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 651/2.IX.2002
+ANEXA Nr. 1
+BILANÞ CONSOLIDAT
+
+Ñ mii lei Ñ
+Activ
+A
+
+Exercițiul financiar
+precedent
+
+încheiat
+
+1
+
+2
+
+1. Casa, disponibilitãți la bãnci centrale
+2. Efecte publice și alte titluri acceptate
+pentru refinanțare la bãncile centrale
+3. Creanțe asupra instituțiilor de credit
+4. Creanțe asupra clientelei
+5. Obligațiuni și alte titluri cu venit fix
+6. Acțiuni și alte titluri cu venit variabil
+7. Participații
+8. Pãrți în cadrul societãților comerciale legate
+9. Titluri puse în echivalențã
+10. Imobilizãri necorporale
+11. Imobilizãri corporale
+12. Capital subscris nevãrsat
+13. Acțiuni și pãrți proprii
+14. Alte active
+15. Cheltuieli înregistrate în avans și venituri
+angajate
+16. Diferențe de achiziție (fond comercial)
+Total activ:
+Ñ mii lei Ñ
+Pasiv
+A
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+
+13.
+14.
+15.
+16.
+
+Datorii privind instituțiile de credit
+Datorii privind clientela
+Datorii constituite prin titluri
+Alte pasive
+Venituri înregistrate în avans și datorii
+angajate
+Diferențe de achiziție (fond comercial
+negativ)
+Provizioane pentru riscuri și cheltuieli
+Rezerva generalã pentru riscul de credit
+Datorii subordonate
+Capital social subscris
+Prime legate de capital
+Rezerve consolidate:
+Ñ rezervele societãții-mamã
+Ñ cota-parte din capitalurile proprii aferente
+entitãților consolidate prin integrare globalã
+Ñ cota-parte din capitalurile proprii aferente
+entitãților consolidate prin integrare proporționalã
+Ñ cota-parte din capitalurile proprii aferente
+entitãților puse în echivalențã
+Diferențe din reevaluare
+Rezerve din conversie
+Rezultatul reportat (+/Ð)
+Rezultatul consolidat al exercițiului financiar (+/Ð)
+Ñ rezultatele societãții-mamã
+Ñ cota-parte ce revine grupului din rezultatele
+aferente entitãților consolidate prin integrare
+globalã
+
+Exercițiul financiar
+precedent
+încheiat
+1
+
+2
+
+13
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 651/2.IX.2002
+A
+
+1
+
+2
+
+Ñ cota-parte ce revine grupului din rezultatele
+aferente entitãților consolidate prin integrare
+proporționalã
+Ñ cota-parte ce revine grupului din rezultatele
+aferente entitãților puse în echivalențã
+17. Interese minoritare
+Total pasiv:
+Ñ mii lei Ñ
+Elemente în afara bilanțului
+A
+
+1.
+
+2.
+
+Exercițiul financiar
+precedent
+încheiat
+1
+
+2
+
+Angajamente date:
+Ñ angajamente de finanțare
+Ñ angajamente de garanție
+Ñ angajamente privind titlurile
+Angajamente primite:
+Ñ angajamente de finanțare
+Ñ angajamente de garanție
+Ñ angajamente privind titlurile
+ANEXA Nr. 2
+CONTUL DE PROFIT ȘI PIERDERE CONSOLIDAT
+
+Ñ mii lei Ñ
+Denumirea indicatorului
+A
+VENITURI ȘI CHELTUIELI DE EXPLOATARE BANCARÃ
+
+1.
+2.
+3.
+4.
+5.
+6.
+
+Dobânzi de primit și venituri asimilate
+Dobânzi de plãtit și cheltuieli asimilate
+Venituri privind titlurile
+Venituri din comisioane
+Cheltuieli cu comisioanele
+Profit sau pierdere netã din operațiuni financiare
+ALTE VENITURI ȘI CHELTUIELI DE EXPLOATARE
+
+7. Alte venituri din exploatare
+8. Cheltuieli administrative generale
+9. Corecții asupra valorii imobilizãrilor necorporale
+și corporale
+10. Alte cheltuieli de exploatare
+11. Corecții asupra valorii creanțelor și provizioanelor
+pentru datorii contingente și angajamente
+12. Reluãri din corecții asupra valorii creanțelor
+și provizioanelor pentru datorii contingente și
+angajamente
+13. Corecții asupra valorii titlurilor transferabile
+care au caracter de imobilizãri financiare,
+a participațiilor și a pãrților în cadrul societãților
+comerciale legate
+14. Reluãri din corecții asupra valorii titlurilor
+transferabile care au caracter de imobilizãri
+financiare, a participațiilor și a pãrților în cadrul
+societãților comerciale legate
+15. Venituri din reluarea rezervei generale pentru
+riscul de credit
+16. Rezultatul activitãții curente înainte de impozitare:
+Ñ profit
+Ñ pierdere
+VENITURI ȘI CHELTUIELI EXTRAORDINARE
+
+17. Venituri extraordinare
+
+Exercițiul financiar
+precedent
+încheiat
+1
+
+2
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 651/2.IX.2002
+A
+
+1
+
+2
+
+18. Cheltuieli extraordinare
+19. Rezultatul activitãții extraordinare înainte
+de impozitare:
+Ñ profit
+Ñ pierdere
+20. Impozitul pe profit
+21. Rezultatul entitãților integrate:
+Ñ profit
+Ñ pierdere
+22. Rezultatul entitãților puse în echivalențã:
+Ñ profit
+Ñ pierdere
+23. Rezultatul exercițiului financiar (ansamblului
+consolidat)
+24. Rezultatul grupului:
+Ñ profitul grupului
+Ñ pierderea grupului
+25. Rezultatul aferent participațiilor minoritare:
+Ñ profitul aferent participațiilor minoritare
+Ñ pierderea aferentã participațiilor minoritare
+ANEXA Nr. 3
+SITUAÞIA CONSOLIDATÃ
+
+a modificãrilor capitalurilor proprii
+Ñ model Ñ
+
+Capitalul
+social
+
+Primele
+legate
+de capital
+
+Rezervele
+consolidate
+
+Rezultatul
+consolidat
+al exercițiului
+financiar
+
+Diferențe
+din
+reevaluare
+
+Alte capitaluri proprii
+Rezerva
+Rezerve
+Alte
+generalã
+din
+categorii
+pentru
+conversie
+de capital
+riscul
+proprii
+de credit
+
+Total
+capitaluri
+proprii
+consolidate
+
+Sold la încheierea
+exercițiului financiar
+NÑ1
+Modificãri (creșteri
+sau reduceri),
+din care:
+Ñ
+Ñ
+Ñ
+Ñ alte modificãri
+Soldul la încheierea
+exercițiului
+financiar N
+
+ANEXA Nr. 4
+INFORMAÞII
+
+privind prezentarea posturilor specifice din bilanțul consolidat și contul de profit și pierdere consolidat
+Activ
+Postul 9 ”Titluri puse în echivalențã,, cuprinde
+participațiile entitãților puse în echivalențã, corespunzãtoare
+cotei-pãrți ce aparține grupului din capitalurile proprii ale
+acestora.
+Postul 16 ”Diferențe de achiziție (Fond comercial),,
+cuprinde diferența pozitivã dintre costul de achiziție al participației și valoarea justã a acesteia, care va fi amortizatã
+
+conform prevederilor stabilite în paragraful 5.23 lit. a), b) și
+c) secțiunea 5 din cap. 1 al Reglementãrilor contabile
+armonizate cu Directiva Comunitãților Economice Europene
+nr. 86/635/CEE și cu Standardele Internaționale de
+Contabilitate aplicabile instituțiilor de credit, aprobate prin
+Ordinul ministrului finanțelor publice și al guvernatorului
+Bãncii Naționale a României nr. 1.982/5/2001.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 651/2.IX.2002
+Pasiv
+Postul 6 ”Diferențe de achiziție (Fond comercial negativ),, cuprinde diferența negativã dintre costul de achiziție al
+participației și valoarea justã a acesteia, care va fi reluatã
+la venituri în situațiile prevãzute la art. 38 alin. (7) și (8)
+din norme.
+Postul 12 ”Rezerve consolidate,, cuprinde:
+Ñ rezervele societãții-mamã;
+Ñ cota-parte cuvenitã grupului din capitalurile proprii
+(mai puțin rezultatele) ale entitãților consolidate.
+Postul 13 ”Diferențe din reevaluare,, cuprinde diferențele
+din reevaluare menținute în bilanțul consolidat.
+Postul 14 ”Rezerve din conversie,, cuprinde diferențele
+rezultate din conversia entitãților strãine.
+Postul 16 ”Rezultatul consolidat al exercițiului financiar,,
+cuprinde:
+Ñ rezultatul societãții-mamã;
+Ñ cota-parte ce revine grupului din rezultatele aferente
+entitãților consolidate.
+
+15
+
+Postul 17 ”Interese minoritare,, cuprinde:
+Ñ cota-parte din capitalurile proprii (mai puțin rezultatele) ale entitãților integrate global care revine minoritarilor;
+Ñ cota-parte din rezultatele entitãților integrate global
+care revine minoritarilor.
+Prezentarea posturilor specifice contului de profit și
+pierdere consolidat:
+Postul 21 ”Rezultatul entitãților integrate,, cuprinde rezultatele societãții-mamã și cota-parte ce revine grupului din
+rezultatele aferente entitãților consolidate prin integrare globalã și proporționalã.
+Postul 22 ”Rezultatul entitãților puse în echivalențã,,
+cuprinde cota-parte ce revine grupului din rezultatul
+entitãților puse în echivalențã.
+Postul 23 ”Rezultatul exercițiului financiar,,. Trebuie prezentat distinct ”Rezultatul grupului,, (postul 24) și ”Rezultatul
+aferent participațiilor minoritare,, (postul 25).
+
+ANEXA Nr. 5
+CONÞINUTUL
+
+notelor la situațiile financiare consolidate
+Notele la situațiile financiare consolidate trebuie sã
+cuprindã:
+a) Principii generale
+Ñ informațiile din notele explicative la situațiile financiare individuale, prezentate sub o formã consolidatã, dacã
+acestea prezintã o importanțã semnificativã;
+Ñ alte informații de importanțã semnificativã care oferã
+o justã apreciere asupra poziției financiare, performanței
+grupului și a riscurilor pe care acesta și le asumã.
+b) Politicile contabile, metode de evaluare, metode de
+consolidare
+Ñ metode de evaluare reținute pentru evaluarea anumitor active și datorii, dacã existã posibilitatea utilizãrii mai
+multor metode;
+Ñ derogãri și prescripții contabile pentru obținerea imaginii fidele;
+Ñ modalitãți de amortizare a imobilizãrilor;
+Ñ metoda de conversie utilizatã pentru consolidarea filialelor din strãinãtate.
+c) Comparabilitatea conturilor
+Ñ modificarea metodelor de evaluare și incidența asupra rezultatului consolidat și a capitalurilor proprii;
+Ñ indicarea cauzelor care împiedicã compararea, de la
+un exercițiu financiar la altul, a anumitor posturi din bilanț
+și din contul de profit și pierdere consolidat sau descrierea
+mijloacelor care asigurã compararea între bilanțuri și contul
+de profit și pierdere consolidat, în cazul variației perimetrului de consolidare.
+d) Informații privind perimetrul de consolidare
+Ñ indicarea criteriilor reținute de grup pentru definirea
+perimetrului de consolidare;
+Ñ pentru filialele și entitãțile asociate ale societãțiimamã, la sfârșitul exercițiului financiar vor fi furnizate
+urmãtoarele informații:
+Ñ denumirea și adresa fiecãrei filiale sau entitãți
+asociate;
+Ñ adresa sediului principal sau țara în care este
+înregistratã (în cazul în care entitatea este
+înregistratã în afara României);
+
+Ñ condițiile în virtutea cãrora o entitate are statut
+de filialã. În cazul în care condiția relevantã o
+constituie deținerea de cãtre societatea-mamã a
+majoritãții drepturilor de vot ale acționarilor sau
+ale asociaților, iar ponderea deținutã în acțiunile
+entitãții respective coincide cu ponderea în drepturile de vot, nu mai este necesar ca aceastã
+informație sã fie prezentatã;
+Ñ natura fiecãrei categorii de acțiuni deținute într-o
+filialã sau entitate asociatã și ponderea valorii
+nominale a acțiunilor deținute din clasa respectivã
+în totalul acțiunilor emise de acea entitate.
+Informațiile menționate mai sus trebuie furnizate
+și în cazul entitãților excluse de la consolidare în
+virtutea prevederilor art. 15 și 16 din norme, prezentându-se o motivație pentru aplicarea excluderii;
+Ñ în cazul în care o instituție de credit intrã în componența unei asocieri în participație, vor fi furnizate urmãtoarele informații:
+Ñ denumirea entitãții;
+Ñ sediul principal al activitãții;
+Ñ factorii pe baza cãrora este creatã asocierea în
+participație;
+Ñ ponderea din capitalul entitãții, deținutã de
+instituțiile de credit incluse în consolidare;
+Ñ în situația în care instituția de credit (societateamamã) deține o parte semnificativã dintr-o entitate care nu
+este nici filialã a sa, nici asociere în participație, nici entitate asociatã, vor fi furnizate urmãtoarele informații:
+a) denumirea și sediul fiecãrei entitãți Ñ adresa sediului
+principal sau țara în care este înregistratã (în cazul în care
+este înregistratã în afara României);
+b) natura fiecãrei categorii de acțiuni deținute și ponderea valorii nominale a acțiunilor din categoria respectivã în
+totalul acțiunilor emise;
+Ñ justificarea cazurilor de excludere de la integrarea
+globalã în situația în care procentul drepturilor de vot
+deținute este mai mare de 50%;
+Ñ justificarea cazurilor de consolidare prin metoda
+punerii în echivalențã în situația în care procentul din drepturile de vot deținute este mai mic de 20%;
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 651/2.IX.2002
+
+Ñ justificarea cazurilor de excludere de la metoda
+punerii în echivalențã în situația în care procentul drepturilor de vot deținute este mai mare de 20%.
+e) Informații asupra posturilor din bilanț și din contul de
+profit și pierdere consolidat și a variațiilor acestora.
+Diferențe de achiziție
+Ñ analiza variației;
+Ñ cazuri excepționale care justificã afectarea capitalurilor proprii.
+Titluri puse în echivalențã
+Ñ analiza variației;
+Ñ indicarea cotei-pãrți din capitalurile proprii și rezultatul
+consolidat al principalelor entitãți care compun acest post.
+Creanțe și datorii
+Ñ prezentate în funcție de perioada rãmasã pânã la
+scadențã, dupã cum urmeazã:
+a) pânã la 3 luni;
+b) între 3 luni și 1 an;
+c) peste 1 an și pânã la 5 ani;
+d) peste 5 ani.
+Capitaluri proprii
+Ñ analiza principalelor variații.
+Rezerve din conversie
+Ñ analiza diferențelor provenite din conversia conturilor
+entitãților nerezidente și variația lor.
+
+f) Informații diverse
+Informații privind conducerea
+Ñ suma remunerațiilor acordate pe parcursul exercițiului
+financiar membrilor organelor de administrație, de conducere și control ale societãții-mamã în virtutea responsabilitãților lor în societatea-mamã și în entitãțile consolidate;
+Ñ suma avansurilor și creditelor acordate de cãtre
+instituția de credit membrilor organelor de administrație, de
+conducere și control, indicându-se rata dobânzii aplicate,
+principalele clauze ale creditului, suma rambursatã pânã la
+acea datã, existența oricãror obligații viitoare de genul
+garanțiilor pe care instituția de credit și le-a asumat în
+numele acestora, precum și valoarea totalã pentru fiecare
+categorie.
+Informații privind salariații
+Ñ numãrul mediu de salariați angajați în cursul
+exercițiului financiar, cu prezentarea separatã a numãrului
+mediu corespunzãtor societãților integrate;
+Ñ salariile plãtite sau datorate în respectivul exercițiu
+financiar;
+Ñ cheltuielile realizate cu asigurãrile sociale pentru
+salariații în cauzã;
+Ñ alte costuri înregistrate cu pensiile.
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 5069427282 Trezoreria sector 5, București (alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 411.97.54, tel./fax 410.77.36.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: ramomrk@bx.logicnet.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 651/2.IX.2002 conține 16 pagini.
+
+Prețul de vânzare 10.500 lei
+
+ISSN 1453Ñ4495
+
+

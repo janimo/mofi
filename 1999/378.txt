@@ -1,0 +1,789 @@
+Anul XI Ñ Nr. 378
+
+PARTEA
+
+I
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+
+Luni, 9 august 1999
+
+SUMAR
+Nr.
+
+Pagina
+
+Nr.
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+
+HOTÃRÂRI ALE GUVERNULUI ROMÂNIEI
+610.
+
+Pagina
+
+226.
+
+Ñ Hotãrâre pentru aprobarea Normelor metodologice privind procedurile de lucru, conținutul raportãrilor și activitãțile legate de ”Anul 2000,, ............
+
+1Ð6
+
+Ñ Ordin al ministrului transporturilor privind aprobarea Regulamentului pentru desemnarea și calificarea profesionalã a consilierilor de siguranțã pentru
+transportul rutier, feroviar sau pe cãile navigabile
+interioare al mãrfurilor periculoase .........................
+
+6Ð8
+
+HOTÃRÂRI ALE GUVERNULUI ROMÂNIEI
+GUVERNUL ROMÂNIEI
+
+HOTÃRÂRE
+pentru aprobarea Normelor metodologice
+privind procedurile de lucru, conținutul raportãrilor
+și activitãțile legate de ”Anul 2000,,
+În temeiul prevederilor art. 6 alin. (3) din Ordonanța de urgențã a
+Guvernului nr. 29/1999 privind unele mãsuri legate de trecerea la anul 2000
+a sistemelor informatice și a sistemelor electronice microprogramate,
+Guvernul României
+
+h o t ã r ã ș t e :
+
+Articol unic. Ñ Se aprobã Normele metodologice privind procedurile de
+lucru, conținutul raportãrilor și activitãțile legate de ”Anul 2000,,, prevãzute
+în anexa care face parte integrantã din prezenta hotãrâre.
+PRIM-MINISTRU
+
+RADU VASILE
+Contrasemneazã:
+p. Președintele Agenției Naționale
+pentru Comunicații și Informaticã,
+Dumitru Moinescu
+Ministrul finanțelor,
+Decebal Traian Remeș
+București, 29 iulie 1999.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+Nr. 610.
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 378/9.VIII.1999
+ANEXÃ
+
+NORME METODOLOGICE
+privind procedurile de lucru, conținutul raportãrilor și activitãțile legate de ”Anul 2000,,
+CAPITOLUL I
+Dispoziții generale
+1.1. Pentru prevenirea disfuncționalitãților ce pot apãrea
+înainte și dupã data de 31 decembrie 1999, ora 24,00, din
+cauza unor defecte tehnologice legate de reprezentarea
+digitalã a datei calendaristice, care pot fi identificate în sistemele informatice și în sistemele electronice microprogramate (cu microprocesor încorporat), defecte care pot aduce
+prejudicii securitãții persoanelor, funcționãrii serviciilor
+publice, siguranței naționale, apãrãrii naționale, ordinii
+publice, economiei și societãții în ansamblul ei, se va
+acționa în urmãtoarele direcții:
+a) organizarea de campanii de conștientizare a factorilor
+responsabili, a mass-media și a cetãțenilor privind problema ”Anul 2000,,;
+b) întocmirea și aplicarea de planuri de acțiuni pentru
+remedierea disfuncționalitãților;
+c) întocmirea și aplicarea de planuri de avarie pentru
+asigurarea continuitãții activitãții de bazã în sectoarele critice, pentru prevenirea unor incidente ce pot decurge din
+nesoluționarea problemelor incluse în planurile de acțiuni;
+d) adoptarea și aplicarea unui sistem de urmãrire și
+monitorizare a stadiului de soluționare și a problemelor
+apãrute, referitoare la problema ”Anul 2000,,.
+1.2. Factorii responsabili pentru planificarea și monitorizarea acțiunii ”Anul 2000,, sunt ministerele și organele
+coordonatoare ale diferitelor domenii de activitate, prevãzute la cap. V.
+
+tãților administrative autonome, companiilor și societãților
+naționale, agenților economici vor iniția acțiuni de informare
+și sensibilizare a conducerii executive a organizațiilor
+respective și a compartimentelor utilizatoare de tehnologie
+a informației, asupra importanței și urgenței soluționãrii
+problemei ”Anul 2000,,.
+CAPITOLUL III
+Planificarea și implementarea acțiunilor
+pentru soluționarea problemei ”Anul 2000,,
+
+3.1. Agenția Naționalã pentru Comunicații și Informaticã
+va transmite, în numele Consiliului Național ”Mileniul,,, obligațiile ce le revin urmãtoarelor structuri:
+a) ministerelor;
+b) agențiilor guvernamentale, inclusiv pentru regiile
+autonome, societãțile și companiile naționale, institutele
+naționale de cercetare-dezvoltare din coordonare sau la
+care reprezintã statul ca acționar unic;
+c) Secretariatului General al Guvernului, pentru aparatul
+Guvernului și pentru unitãțile subordonate;
+d) Parlamentului, pentru secretarii generali ai celor douã
+Camere;
+e) Președinției, pentru Cancelarie;
+f) Departamentului pentru Administrație Publicã Localã,
+pentru prefecturi, primãrii, consilii județene și locale, precum și pentru regiile de interes local din subordine;
+g) Fondului Proprietãții de Stat, pentru toți agenții economici la care statul este acționar, precum și pentru propriul aparat;
+CAPITOLUL II
+h) Bãncii Naționale a României, pentru bãnci și societãți
+Acțiuni de conștientizare
+de asigurare-reasigurare.
+3.2. Planurile de acțiuni ”Anul 2000,,, întocmite în con2.1. Agenția Naționalã pentru Comunicații și Informaticã,
+asociațiile profesionale și institutele de cercetare din dome- formitate cu prevederile Ordonanței de urgențã a
+niul tehnologiei, informației și comunicațiilor și al automati- Guvernului nr. 29/1999, vor cuprinde:
+a) inventarierea și diagnosticul sistemelor informatice și
+zãrilor, în colaborare cu partenerii strategici ai Guvernului
+ale sistemelor electronice microprogramate (cu microproceRomâniei pentru furnizarea de produse și servicii pentru
+tehnologia informației, vor organiza acțiuni de informare și sor încorporat);
+b) evaluarea riscurilor și a prioritãților de remediere;
+sensibilizare, dupã cum urmeazã:
+c) soluții de adaptare sau de înlocuire a sistemelor în
+a) seminarii, cursuri și mese rotunde cu factorii responcauzã;
+sabili din administrația publicã centralã și localã, regii autod) estimarea resurselor umane și financiare necesare;
+nome de interes național, instituții publice și autoritãți
+e) graficul pentru implementarea soluțiilor identificate;
+administrative autonome, companii și societãți naționale,
+f) graficul pentru testarea sistemelor remediate;
+agenți economici;
+g) calendarul de desfãșurare a acțiunilor.
+b) seminarii și conferințe de presã cu reprezentanți ai
+Procedurile și recomandãrile metodologice de întocmire
+mass-media;
+c) puncte de informare, puncte de acces și de regãsire și implementare a planurilor de acțiuni sunt prezentate în
+anexa nr. 1 la prezentele norme metodologice.
+pe Internet;
+Planurile de acțiuni care nu au fost transmise Agenției
+d) editarea și distribuirea, în tiraj de masã, a unui pliant
+de informare și conștientizare asupra problemei ”Anul Naționale pentru Comunicații și Informaticã pânã la data
+intrãrii în vigoare a prezentei hotãrâri vor fi întocmite în
+2000,,;
+e) organizarea unei expoziții cu prezentãri de soluții, conformitate cu procedurile și recomandãrile din anexa
+studii de caz și practici utilizate pentru soluționarea proble- nr. 1 la prezentele norme metodologice și vor fi transmise
+ministerului/organului coordonator/prefecturii, în vederea
+mei ”Anul 2000,,;
+f) întocmirea unui ghid de recomandãri tehnice privind formulãrii unui plan agregat de acțiuni pe domeniu (anexa
+domeniile critice și riscurile posibile, conducerea proiectelor nr. 3).
+Aceeași obligație revine și persoanelor juridice care au
+de soluționare a problemei ”Anul 2000,,, puncte-cheie și
+transmis planurile de acțiuni Agenției Naționale pentru
+proceduri recomandate, surse de informare etc.
+2.2. Responsabilii de compartimente/activitãți informatice Comunicații și Informaticã, dar care nu conțin informațiile în
+din cadrul administrației publice centrale și locale, al regiilor structura și conținutul prevãzute în anexa nr. 1 la prezenCompression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+autonome de interes național, instituțiilor publice și autori- tele norme metodologice.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 378/9.VIII.1999
+CAPITOLUL IV
+Planuri de avarie pentru asigurarea continuitãții activitãții
+4.1. Organizațiile care se încadreazã în nivelurile de risc
+I, II și III (definite în anexa nr. 1 lit. C) vor întocmi planuri
+de avarie pentru asigurarea continuitãții activitãții de bazã/
+proceselor vitale în vederea prevenirii unor incidente ce pot
+decurge din nesoluționarea sau eșecul acțiunilor întreprinse
+pentru ”Anul 2000,,.
+4.2. Planurile de avarie vor cuprinde, în principal:
+a) organizarea echipelor operative, responsabilitãțile, procedurile, acțiunile și resursele necesare pentru asigurarea
+continuitãții activitãții de bazã/proceselor vitale din organizație;
+b) gradul de restaurare a proceselor (total, parțial, alternative);
+c) variante de înlocuire a proceselor automatizate cu
+proceduri manuale;
+d) datele critice și condițiile de declanșare a procedurilor
+de urgențã și de activare a persoanelor responsabile;
+e) durata estimatã a posibilei stãri de crizã și condițiile
+de finalizare.
+4.3. Planurile de avarie întocmite de organizațiile menționate la pct. 4.1 vor fi înaintate Agenției Naționale pentru
+Comunicații și Informaticã și vor fi analizate în cadrul
+grupului de lucru al Consiliului Național ”Mileniul,,.
+4.4. În cadrul grupului de lucru al Consiliului Național
+”Mileniul,, se vor face schimburi de informații privind stadiul
+și conținutul planurilor de avarie, cu prioritate pentru sistemele de utilitãți publice și infrastructurã (energie electricã,
+comunicații, transporturi, sisteme financiar-bancare, alimentare cu apã, gaze etc.), care creeazã dependențe funcționale importante pentru celelalte sisteme. Problemele critice
+rezultate vor fi prezentate Consiliului Național ”Mileniul,,
+pentru adoptarea de mãsuri corespunzãtoare.
+CAPITOLUL V
+Sistemul de urmãrire și monitorizare
+5.1. Toate persoanele juridice utilizatoare de sisteme
+informatice și/sau de sisteme electronice microprogramate
+au obligația de a raporta ministerelor/organelor coordona-
+
+3
+
+toare/prefecturilor/consiliilor județene stadiul și acțiunile întreprinse pentru rezolvarea problemei ”Anul 2000,,, pe baza
+chestionarului din anexa nr. 2.
+Colectarea informațiilor, sinteza acestora și raportarea lor
+Agenției Naționale pentru Comunicații și Informaticã se vor
+face dupã cum urmeazã:
+a) de cãtre ministere/instituții centrale coordonatoare de
+domeniu pentru:
+Ñ aparatul propriu (central și din teritoriu);
+Ñ regiile autonome de interes național;
+Ñ societãțile și companiile naționale;
+b) de cãtre Banca Naționalã a României, pentru bãnci
+și societãți de asigurare;
+c) de cãtre prefecturi, pentru aparatul propriu;
+d) de cãtre consiliile județene, consiliile locale și consiliile municipale, pentru aparatul propriu.
+Regiile autonome de interes local, societãțile comerciale
+[altele decât cele menționate la lit. a)] vor raporta ministerelor/instituțiilor centrale coordonatoare de domeniu, prin
+intermediul prefecturilor în a cãror razã teritorialã își
+desfãșoarã activitatea; prefecturilor le revine numai sarcina
+de a colecta aceste raportãri, pe care le transmit ministerelor/autoritãților coordonatoare de domeniu, care le vor
+sintetiza și le vor raporta Agenției Naționale pentru
+Comunicații și Informaticã.
+Instituțiile publice și autoritãțile administrative autonome
+vor raporta direct Agenției Naționale pentru Comunicații și
+Informaticã.
+5.2. Instituțiile destinatare ale raportãrilor menționate la
+pct. 5.1 vor întocmi și vor înainta, pe baza planurilor de
+acțiuni, conform pct. 3.2, și a chestionarelor de raportare
+individualã, rapoarte de sintezã cãtre Consiliul Național
+”Mileniul,,, prin Agenția Naționalã pentru Comunicații și
+Informaticã, dupã cum urmeazã:
+a) raport de sintezã privind planurile de acțiuni din
+domeniul coordonat, conform anexei nr. 3 (integral) pânã la
+data de 30 iulie 1999;
+b) rapoarte de stadiu privind gradul de îndeplinire și de
+finalizare a planurilor de acțiuni, conform pct. 2, 4 și 7 din
+anexa nr. 3, la datele de 30 septembrie 1999 și 15 noiembrie 1999.
+
+ANEXA Nr. 1
+la normele metodologice
+PROCEDURI ȘI RECOMANDÃRI
+
+de întocmire și implementare a planurilor de acțiuni
+A. Formarea structurilor de lucru și de decizie
+
+Pentru organizații mari se pot constitui grupe de lucru
+distincte pe componente ale structurii organizatorice/geografice sau pe probleme (de exemplu: sisteme informatice,
+sisteme electronice microprogramate, telecomunicații),
+subordonate unui comitet director central.
+
+Prin ordin al conducãtorului organizației se constituie
+structurile de lucru și de decizie pentru întocmirea planului
+de acțiuni și de implementare a soluțiilor necesare pentru
+soluționarea problemei ”Anul 2000,,. Din acestea vor face
+parte:
+B. Inventarierea și diagnosticul sistemelor informatice și ale
+a) reprezentanți ai conducerii executive;
+sistemelor electronice microprogramate
+b) șefi ai compartimentelor utilizatoare de tehnologii ale
+Se vor inventaria în mod distinct:
+informației și comunicațiilor;
+a) sistemele informatice;
+c) specialiști în informaticã, comunicații și automatizãri;
+b) sistemele electronice microprogramate (cu microprod) reprezentanți ai compartimentelor comercial, investiții, cesor încorporat);
+juridic, dupã caz.
+c) interfețele/dependențele externe de alte sisteme.
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 378/9.VIII.1999
+Pentru sistemele informatice vor fi inventariate, în principal:
+Hardware
+
+Software
+
+¥ Mainframuri
+
+¥ Sisteme de operare
+
+¥
+¥
+¥
+¥
+
+Servere
+Minicalculatoare
+PC/laptopuri
+Controler de rețea
+Rutere de rețea
+Imprimante
+Scannere
+Memorii (disc, bandã)
+.............................
+
+(în funcție de
+specific)
+
+Baze de date
+
+¥
+¥
+¥
+¥
+
+¥
+¥
+¥
+¥
+¥
+
+Aplicații
+
+(în funcție de
+specific)
+
+Sisteme software de rețea
+Sisteme de baze de date
+Procesoare de texte
+Procesoare pentru calcul
+tabelar (Spreadsheets)
+¥ ........................................
+
+NOTÃ:
+Pentru fiecare element se recomandã sã se specifice, în afara informațiilor generale de identificare, data achiziției, precum și furnizorul produsului și al serviciilor suport.
+Pentru sistemele electronice microprogramate (cu microprocesor încorporat) se vor avea în vedere la inventariere:
+a) sistemele de conducere a fabricației și proceselor
+tehnologice;
+b) dispozitivele electronice utilizate în construcții;
+c) dispozitivele electronice utilizate în transporturi;
+d) instalațiile electronice pentru clãdiri și anexe;
+e) dispozitivele electronice utilizate în comunicații;
+f) sistemele de biroticã și echipamente mobile;
+g) dispozitivele electronice pentru activitãți bancare;
+h) dispozitivele electronice pentru activitãți comerciale;
+i) dispozitivele electronice pentru diagnostic și monitorizare medicalã;
+j) sistemele generale de testare, monitorizare și
+diagnostic (pentru protecția mediului, energie electricã,
+climatizare, lifturi și elevatoare etc.).
+NOTÃ:
+Pentru fiecare element se recomandã sã se specifice,
+în afara informațiilor generale de identificare, data achiziției,
+precum și furnizorul produsului și al serviciilor suport.
+Sistemele astfel inventariate vor fi diagnosticate și clasificate în funcție de importanța procesului sau a funcției pe
+care o îndeplinesc în cadrul organizației analizate (de
+exemplu: vitale, importante, marginale).
+C. Evaluarea riscurilor și a prioritãților de remediere
+
+IV Ñ mici riscuri pentru proprietatea, drepturile și serviciile pentru persoanele fizice, pierderi economice neglijabile
+pentru agenții economici, mediul și sistemele strategice
+neafectate.
+Pe aceastã bazã pot fi identificate și definite niveluri de
+risc locale, specifice organizației.
+Cu cât nivelul de risc este mai ridicat, cu atât prioritatea soluționãrii este mai mare.
+D. Soluții de adaptare sau înlocuire a sistemelor în cauzã
+
+În funcție de rezultatele fazelor anterioare cuprinse la
+lit. B și C se pot aplica diferite strategii alternative sau o
+combinație a acestora:
+a) adaptarea Ñ menținerea în funcțiune a sistemului,
+fãrã modificarea ieșirilor și a funcțiunilor aplicațiilor, cu
+unele corecții/adaptãri software privind tratarea datei calendaristice;
+b) înlocuirea Ñ înlocuirea unor componente hardware
+și/sau software, care asigurã conformitatea cu ”Anul 2000,,,
+sau înlocuirea completã a sistemului (în cazul sistemelor
+cu microprocesor încorporat pentru care nu se pot rezolva
+în timp util operațiuni de adaptare sau înlocuire de componente);
+c) retragerea Ñ scoaterea din funcțiune a componentelor care nu prezintã garanții de conformitate cu ”Anul 2000,,
+și care, totodatã, nu sunt vitale, sunt redundante sau sunt
+slab utilizate în organizație;
+d) by-pass Ñ șuntarea temporarã a acelor componente
+și/sau subsisteme care nu prezintã garanții de conformitate
+cu ”Anul 2000,,, care nu sunt vitale, urmând a fi rezolvate
+într-un timp determinat, dupã 31 decembrie 1999.
+
+În ordinea importanței componentelor inventariate se
+estimeazã:
+a) cerințele de conformitate pentru ”Anul 2000,,;
+b) cerințele tehnice;
+c) duratele de remediere;
+E. Testarea sau validarea (dupã efectuarea remedierilor)
+d) resursele necesare.
+Se vor aplica strategii de testare/validare distincte
+Pentru evaluarea riscurilor la nivel național sunt avute în pentru:
+vedere urmãtoarele patru niveluri de risc:
+a) sistemele informatice;
+I Ñ dezastre majore: pierderi de vieți omenești, dezasb) sistemele microprogramate (cu microprocesor încortre economice și financiare, dezastre ecologice neremedia- porat);
+bile, disfuncționalitãți masive ale sistemelor strategice
+c) dependențele externe de alte sisteme;
+(energie, transporturi, alimentare cu apã, comunicații etc.);
+d) planul de avarie.
+II Ñ amenințarea vieții oamenilor, pierderi economice
+Se vor avea în vedere urmãtoarele mãsuri:
+importante, dezastre ecologice remediabile, disfuncționalitãți
+a) întocmirea planului de testare/validare în paralel cu
+remediabile ale sistemelor strategice;
+operațiunile de remediere;
+III Ñ amenințarea proprietãții, drepturilor și serviciilor
+b) participarea la teste a utilizatorilor finali;
+pentru persoanele fizice, pierderi semnificative la nivelul
+c) constituirea de platforme speciale de testare;
+agenților economici, accidente ecologice locale, riscuri de
+d) implicarea directã a furnizorilor sau a unor consulCompression by CVISION Technologies’ PdfCompressor. Forsistemele microprogramate; Only
+erori localizate în funcționarea sistemelor strategice;
+tanți, în special pentru Evaluation Purposes
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 378/9.VIII.1999
+e) validarea acțiunilor prevãzute în planul de avarie.
+F. Implementarea
+
+Se recomandã sã se realizeze în urmãtoarea ordine:
+hardware, software, rețele, schimburi de date interne și
+externe, transferul de date de la/la dispozitivele de control,
+sisteme microprogramate, urmãrindu-se în mod deosebit
+interdependențele dintre acestea.
+Ordinea de implementare trebuie sã ținã seama de gradul de criticitate a sistemelor respective.
+G. Planificarea resurselor, calendarul acțiunilor
+
+Pentru evaluarea resurselor umane și financiare necesare vor fi avute în vedere, în principal, urmãtoarele activitãți și surse de cheltuieli:
+a) contracte de consultanțã sau de servicii;
+b) întocmirea și derularea planului de acțiuni, pe faze;
+c) întocmirea planului de avarie;
+d) achiziții de hardware/software pentru remedieri;
+
+5
+
+e) plata unor posibile daune cãtre terțe pãrți (clienți,
+furnizori etc.);
+f) asigurãri.
+Se recomandã urmãtoarea alocare de resursã-timp pe
+faze:
+Ð sensibilizare, pregãtire Ñ 1%;
+Ð inventariere, evaluare Ñ 25%;
+Ð remediere
+Ñ 20%;
+Ð validare, testare
+Ñ 45%;
+Ð implementare
+Ñ 9%.
+H. Evaluarea finalã (certificare, raportare finalã, stabilirea gradului de expunere etc.):
+
+a) stabilirea unui termen limitã de îndeplinire a planului;
+b) stabilirea unei proceduri de certificare a asigurãrii
+compatibilitãții, în funcție de nivelul de risc; aceasta poate
+consta în:
+Ñ declarație pe propria rãspundere;
+Ñ certificare de cãtre o organizație independentã de
+specialitate, cu competențe dovedite/referințe.
+ANEXA Nr. 2
+la normele metodologice
+
+CHESTIONAR
+
+de raportare individualã
+Partea I
+Organizarea acțiunii, management
+
+Da
+
+În curs
+
+Nu
+
+A1. Au fost organizate structuri de lucru și de decizie
+pentru soluționarea problemei ”Anul 2000,,
+A2. Conducerea executivã a numit o persoanã responsabilã
+A3. S-a întocmit un plan de acțiuni
+A4. S-a întocmit un plan de avarie (acolo unde este cazul)
+A5. Existã un sistem de urmãrire la nivelul conducerii executive
+A6. Au fost alocate resursele umane și financiare necesare
+Evaluarea riscurilor și a prioritãților
+B1. S-au evaluat activitãțile/procesele vitale afectate
+B2. S-au evaluat riscurile
+B3. S-au evaluat prioritãțile
+Remedieri
+C1.
+C2.
+C3.
+C4.
+C5.
+
+Soluții de
+Soluții de
+Soluții de
+Soluții de
+By-pass
+
+adaptare
+înlocuire a unor componente
+înlocuire a sistemelor
+retragere
+
+Testare, validare, implementare
+D1.
+D2.
+D3.
+D4.
+D5.
+
+A fost testat sistemul informatic
+A(u) fost testat(e) sistemul(ele) microprogramat(e)
+Au fost testate dependențele externe de alte sisteme
+A fost validat planul de avarie (acolo unde este cazul)
+Au fost implementate sistemele remediate
+
+Partea a II-a
+1. În ce nivel de risc considerați cã se încadreazã organizația dumneavoastrã, în cazul nesoluționãrii problemei ”Anul 2000,,?
+I. ...................................................
+II. ...................................................
+III. ...................................................
+IV. ...................................................
+2. Specificați persoana responsabilã cu problema ”Anul 2000,, din organizația dumneavoastrã.
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes
+....................................................................................................................... .
+
+Only
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 378/9.VIII.1999
+ANEXA Nr. 3
+la normele metodologice
+
+Raport de sintezã privind planurile de acțiuni din domeniul coordonat/Raport de stadiu
+1. Modul de organizare și monitorizare a acțiunii în
+cadrul ministerului/organului coordonator al sectorului:
+a) acțiuni de conștientizare;
+b) formarea structurilor de lucru și de decizie;
+c) sistem propriu de urmãrire și de raportare.
+2. Stadiul derulãrii acțiunilor în cadrul unitãților pe care
+le coordoneazã/subordoneazã, pe faze:
+a) inventariere, evaluare;
+b) remediere;
+c) validare, testare;
+d) implementare.
+
+3. Activitãți/procese vitale dependente de ”Anul 2000,,
+pentru sectorul de activitate coordonat
+4. Volumul resurselor umane și financiare alocate, gradul de acoperire, surse suplimentare propuse
+5. Relații cu organizații internaționale și cu alte țãri
+pentru soluționarea problemei ”Anul 2000,,
+6. Cerințe speciale pentru alte sectoare de activitate de
+care este dependent, pentru soluționarea problemei
+7. Aprecieri globale asupra conformitãții soluțiilor, gradului de risc.
+Ministru/Conducãtorul organului coordonator
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+MINISTERUL TRANSPORTURILOR
+
+ORDIN
+privind aprobarea Regulamentului pentru desemnarea și calificarea profesionalã a consilierilor
+de siguranțã pentru transportul rutier, feroviar sau pe cãile navigabile interioare,
+al mãrfurilor periculoase
+Ministrul transporturilor,
+în temeiul art. 11 lit. j) și k) din Ordonanța Guvernului nr. 19/1997 privind transporturile, aprobatã și modificatã
+prin Legea nr. 197/1998, și al art. 4 alin. (3) din Hotãrârea Guvernului nr. 263/1999 privind organizarea și funcționarea
+Ministerului Transporturilor,
+având în vedere prevederile Acordului european instituind o asociere între România, pe de o parte, și
+Comunitãțile Europene și statele membre ale acestora, pe de altã parte, semnat la Bruxelles la 1 februarie 1993, ratificat prin Legea nr. 20/1993, ale art. 2 pct. 4 din Hotãrârea Guvernului nr. 263/1999 privind organizarea și funcționarea
+Ministerului Transporturilor și ale Directivei 96/35 a Consiliului C.E.E., referitoare la desemnarea și calificarea profesionalã
+a consilierilor de siguranțã pentru transportul rutier, feroviar sau pe cãile navigabile interioare al mãrfurilor periculoase,
+emite urmãtorul ordin:
+Art. 1. Ñ Se aprobã Regulamentul pentru desemnarea
+și calificarea profesionalã a consilierilor de siguranțã pentru
+transportul rutier, feroviar sau pe cãile navigabile interioare
+al mãrfurilor periculoase, prevãzut în anexa care face parte
+integrantã din prezentul ordin.
+Art. 2. Ñ Autoritatea Rutierã Românã Ñ A.R.R.,
+Autoritatea Feroviarã Românã Ñ AFER, Inspectoratul
+
+București, 29 aprilie 1999.
+Nr. 226.
+
+Navigației Civile Ñ I.N.C. și Direcția de reglementãri și
+calitatea serviciilor pe Dunãre și cãile navigabile vor aduce
+la îndeplinire prevederile prezentului ordin.
+Art. 3. Ñ Prezentul ordin va fi publicat în Monitorul
+Oficial al României, Partea I, și va intra în vigoare începând cu data de 1 ianuarie 2000.
+
+Ministrul transporturilor,
+Traian Bãsescu
+ANEXÃ
+REGULAMENTUL
+
+pentru desemnarea și calificarea profesionalã a consilierilor de siguranțã pentru transportul rutier, feroviar
+sau pe cãile navigabile interioare al mãrfurilor periculoase
+Art. 1. Ñ (1) Persoanele fizice sau juridice române care activitãților prevãzute la alin. (1) pentru persoane, bunuri
+efectueazã transporturi rutiere, feroviare sau pe cãile navi- sau pentru mediul înconjurãtor.
+Art. 2. Ñ În cuprinsul prezentului regulament se înțegabile interioare ale mãrfurilor periculoase sau care deslege prin:
+fãșoarã operațiuni de încãrcare și/sau descãrcare aferente
+a) consilier de siguranțã pentru transportul mãrfurilor periacestor transporturi trebuie sã desemneze unul sau mai
+culoase, denumit în continuare consilier, persoana desemmulți consilieri de siguranțã.
+natã de o persoanã fizicã sau juridicã pentru a îndeplini
+(2) Consilierii de siguranțã au ca principalã atribuție atribuțiile prevãzute în anexa nr. 1 la prezentul regulament
+prevenirea riscurilor CVISION Technologies’ PdfCompressor. al certificatului prevãzut la art. 5;
+Compression bycare pot apãrea în timpul desfãșurãrii și care este titular For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 378/9.VIII.1999
+b) mãrfuri periculoase Ñ mãrfurile definite ca atare conform reglementãrilor în vigoare și convențiilor internaționale
+la care România este parte.
+Art. 3. Ñ Prevederile prezentului regulament nu se
+aplicã transporturilor militare.
+Art. 4. Ñ (1) Consilierul urmãrește ca operațiunile prevãzute la art. 1 sã se desfãșoare în conformitate cu reglementãrile în vigoare și în condiții de deplinã siguranțã.
+(2) Responsabilitatea pentru acțiunile consilierului revine
+persoanei fizice sau juridice care l-a desemnat.
+(3) Pentru persoanele juridice funcția de consilier poate
+fi asiguratã de cãtre conducãtorul sau de unul dintre salariații acestora ori de o altã persoanã din afara persoanei
+juridice desemnate de aceasta.
+(4) În cazul persoanelor fizice funcția de consilier poate
+fi asiguratã de persoana fizicã respectivã sau de altã persoanã desemnatã de aceasta.
+(5) Persoanele fizice sau juridice prevãzute la art. 1 vor
+comunica Ministerului Transporturilor numele persoanelor
+care au fost desemnate drept consilieri.
+Art. 5. Ñ (1) Consilierul trebuie sã fie titularul unui certificat de consilier de siguranțã, eliberat de Ministerul
+Transporturilor prin Autoritatea Rutierã Românã Ñ A.R.R.,
+Autoritatea Feroviarã Românã Ñ AFER sau prin
+Inspectoratul Navigației Civile Ñ I.N.C., dupã caz, în conformitate cu reglementãrile în vigoare.
+(2) Certificatul de consilier de siguranțã va avea forma și
+conținutul prevãzute în anexa nr. 2 la prezentul regulament.
+(3) Pentru obținerea certificatului prevãzut la alin. (1)
+candidatul trebuie sã urmeze un curs de specialitate care
+se va finaliza prin examen susținut în fața unei comisii
+desemnate de Autoritatea Rutierã Românã Ñ A.R.R.,
+
+7
+
+Autoritatea Feroviarã Românã Ñ AFER sau de
+Inspectoratul Navigației Civile Ñ I.N.C., dupã caz.
+(4) Cursurile se vor organiza de cãtre Autoritatea
+Rutierã Românã Ñ A.R.R., Autoritatea Feroviarã Românã Ñ
+AFER sau de cãtre Centrul de Perfecționare a Personalului
+din Navigația Fluvialã Galați, dupã caz, care va elabora și
+programele acestor cursuri.
+(5) Cursul de specialitate va urmãri sã asigure candidatului cunoștințele necesare referitoare la reglementãrile în
+vigoare privind modalitãțile de transport al mãrfurilor periculoase, precum și riscurile inerente acestor transporturi.
+(6) Programele cursurilor vor cuprinde, în principal,
+tematica prevãzutã în anexa nr. 3 la prezentul regulament.
+Art. 6. Ñ Certificatul de consilier de siguranțã este valabil pe o perioadã de 5 ani. Valabilitatea acestuia se prelungește pe perioade de 5 ani, dacã în cursul ultimului an
+ce precede expirarea certificatului titularul acestuia a urmat
+cursuri de perfecționare complementare, finalizate prin examen, organizate de Autoritatea Rutierã Românã Ñ A.R.R.,
+Autoritatea Feroviarã Românã Ñ AFER sau de Centrul de
+Perfecționare a Personalului din Navigația Fluvialã Galați,
+dupã caz.
+Art. 7. Ñ În cazul producerii unui accident care afecteazã persoane, bunuri sau mediul înconjurãtor, consilierul
+este obligat sã strângã toate informațiile necesare și sã
+înainteze un raport celui care l-a desemnat. Acest raport
+nu se poate substitui raportului pe care autoritãțile competente îl solicitã persoanelor fizice sau juridice care efectueazã operațiunile prevãzute la art. 1, în timpul desfãșurãrii
+cãrora a avut loc accidentul. La solicitarea autoritãților competente persoanele fizice sau juridice vor pune la dispoziție
+acestora și raportul consilierului.
+
+ANEXA Nr. 1
+la regulament
+ATRIBUÞIILE CONSILIERULUI DE SIGURANÞÃ
+
+Consilierul are urmãtoarele atribuții:
+Ñ instruirea salariaților persoanei juridice pentru operaa) verificã respectarea reglementãrilor în vigoare referi- țiunile de transport, încãrcare sau descãrcare a mãrfurilor
+periculoase;
+toare la transportul mãrfurilor periculoase;
+Ñ punerea în practicã a procedurilor de urgențã coresb) controleazã ca transporturile sã fie însoțite de toate
+punzãtoare eventualelor accidente ce pot afecta siguranța
+documentele prevãzute de reglementãrile în vigoare;
+c) supravegheazã operațiunile referitoare la transportul în timpul operațiunilor de transport, de încãrcare sau desmãrfurilor periculoase;
+cãrcare a mãrfurilor periculoase;
+Ñ efectuarea de analize și, dacã este necesar, redacd) redacteazã un raport anual, destinat celui care l-a
+desemnat, referitor la activitãțile de transport al mãrfurilor tarea rapoartelor referitoare la accidentele sau incidentele
+periculoase sau la cele de încãrcare, descãrcare sau de constatate în cursul transportului de mãrfuri periculoase ori
+depozitare în incinta portuarã, pe care persoana fizicã sau în timpul operațiunilor de încãrcare sau descãrcare;
+juridicã le-a efectuat. Raportul este pãstrat timp de 5 ani și
+Ñ aplicarea mãsurilor corespunzãtoare pentru evitarea
+este pus la dispoziție autoritãților, la cererea acestora;
+repetãrii accidentelor sau incidentelor în cursul transporturie) urmãrește modul în care se desfãșoarã urmãtoarele lor de mãrfuri periculoase ori în timpul operațiunilor de
+încãrcare sau descãrcare;
+operațiuni:
+Ñ dotarea cu echipamente de siguranțã a mijloacelor
+Ñ identificarea mãrfurilor periculoase transportate;
+Ñ verificarea mijloacelor de transport și a echipamente- de transport și a personalului;
+lor utilizate pentru transportul mãrfurilor periculoase și penÑ respectarea regulilor referitoare la operațiunile de
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+tru operațiunile de încãrcare sau descãrcare;
+încãrcare sau descãrcare.
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 378/9.VIII.1999
+ANEXA Nr. 2
+la regulament
+
+MINISTERUL TRANSPORTURILOR
+CERTIFICAT
+privind formarea profesionalã a consilierului
+de siguranțã pentru transportul de mãrfuri periculoase
+în trafic rutier, feroviar și pe cãile navigabile interioare
+
+Emis de Ministerul Transporturilor
+la data de ...............................................................
+prin ..........................................................................
+Valabil pânã la data de ......................................
+
+Indicativul statului RO
+Numele .............................................................
+Prenumele ........................................................
+Data și locul nașterii .......................................
+Naționalitatea ...................................................
+Se certificã prin prezentul certificat cã titularul a
+absolvit examenul prin care se atestã calitatea de consilier de siguranțã pentru transportul de mãrfuri periculoase în trafic rutier, feroviar, pe cãile navigabile
+interioare, precum și pentru operațiuni de încãrcare
+sau descãrcare, legate de astfel de transporturi.
+
+Semnãtura conducãtorului unitãții emitente
+................................................................................
+Semnãtura titularului
+................................................................................
+Valabilitatea prezentului certificat se prelungește
+pânã la data de ................................................... .
+Semnãtura conducãtorului unitãții emitente
+...................................................................................
+ANEXA Nr. 3
+la regulament
+
+TEMATICA CURSULUI DE SPECIALITATE
+
+Ñ Mãsuri generale de prevenire și de siguranțã
+Ñ Cunoașterea tipurilor de posibile consecințe ale unui
+accident care implicã mãrfuri periculoase
+Ñ Cunoașterea principalelor cauze ale accidentului
+Ñ Dispozițiile referitoare la transportul mãrfurilor periculoase, cuprinse în legislația naționalã și în convențiile și
+acordurile internaționale la care România este parte și care
+privesc, în special:
+1. clasificarea mãrfurilor periculoase:
+Ð procedura de clasificare a soluțiilor și amestecurilor;
+Ð sistemul numerotãrii materiilor;
+Ð clasele de mãrfuri periculoase și principiile clasificãrii lor;
+Ð natura mãrfurilor periculoase transportate;
+Ð proprietãțile fizico-chimice și toxicologice;
+2. condițiile generale de ambalare, inclusiv cisterne și
+conteinere:
+Ð tipurile de ambalaje, codificarea și marcajul;
+Ð prescripțiile referitoare la ambalaje;
+3. inscripționarea cu etichete de pericol și de manipulare;
+4. mențiunile din documentul de transport:
+Ð informațiile din documentul de transport;
+Ð declarația de conformitate a expeditorului;
+5. modul de expediere, restricții de expediere:
+Ð încãrcare completã;
+Ð transportul în vrac;
+Ð transportul în colete;
+
+Ð transportul în conteinere;
+Ð transportul în cisterne fixe sau demontabile;
+6. interdicțiile și precauțiile încãrcãrii în comun;
+7. separarea mãrfurilor periculoase pe clase și categorii;
+8. limitarea cantitãților transportate și cantitãților exceptate;
+9. manipularea și arimarea:
+Ð încãrcarea și descãrcarea;
+Ð arimarea și separarea;
+10. curãțarea, degazarea înaintea încãrcãrii și dupã descãrcare, dupã caz;
+11. instruirea personalului sau a echipajului, dupã caz;
+12. documentele însoțitoare:
+Ð documente de transport;
+Ð instrucțiuni scrise;
+Ð certificat de conformitate a mijloacelor de transport;
+Ð atestarea referitoare la instruire în privința navigației interioare;
+Ð exemplare ale oricãrui document de derogare;
+Ð alte documente specifice;
+13. consemne de siguranțã;
+14. obligațiile de supraveghere; oprirea și staționarea;
+15. regulile privind restricțiile de circulație sau de navigație;
+16. deversãri operaționale sau accidentale de substanțe
+poluante;
+17. condițiile tehnice referitoare la mijloacele de transport al mãrfurilor periculoase.
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București.
+Adresa pentru publicitate : Serviciul relații cu publicul și agenții economici, București,
+Str. Blanduziei nr. 1, sectorul 2, telefon 211.57.30.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: ramomrk@bx.logicnet.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 378/9.VIII.1999 conține 8 pagini.
+Prețul 1.216 lei
+ISSN 1453Ñ4495
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+

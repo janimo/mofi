@@ -1,0 +1,4476 @@
+PARTEA I
+
+Anul 177 (XXI) — Nr. 361
+
+Vineri, 29 mai 2009
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+SUMAR
+
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+
+212.
+
+— Ordin al directorului general al Agenției Naționale
+de Cadastru și Publicitate Imobiliară privind adoptarea
+în România a Sistemului de Referință Terestru
+European 1989 ..........................................................
+
+2–3
+
+959.
+
+— Ordin al ministrului economiei pentru modificarea
+anexei la Ordinul ministrului de stat, ministrul
+economiei și comerțului, nr. 440/2004 privind
+aprobarea Listei cuprinzând standardele române care
+adoptă standardele europene armonizate, ale căror
+prevederi se referă la echipamentele sub presiune ....
+
+4–21
+
+ACTE ALE CURȚII EUROPENE
+A DREPTURILOR OMULUI
+Hotărârea din 9 decembrie 2008 în Cauza Viașu împotriva
+României ....................................................................
+
+22–31
+
+Rectificări ..............................................................................
+
+32
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+AGENȚIA NAȚIONALĂ DE CADASTRU ȘI PUBLICITATE IMOBILIARĂ
+
+ORDIN
+privind adoptarea în România a Sistemului de Referință Terestru European 1989
+Având în vedere prevederile art. 4 lit. c) și f) din Legea cadastrului și a publicității imobiliare nr. 7/1996, republicată, și ale
+Hotărârii Consiliului de administrație al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 54 din 18 decembrie 2008, prin
+care s-a aprobat propunerea de adoptare a Sistemului de Referință Terestru European 1989 (ETRS89) în România,
+în temeiul art. 3 alin. (8) din Legea nr. 7/1996, republicată, coroborat cu prevederile art. 9 alin. (5) din Hotărârea Guvernului
+nr. 1.210/2004 privind organizarea și funcționarea Agenției Naționale de Cadastru și Publicitate Imobiliară, republicată,
+directorul general al Agenției Naționale de Cadastru și Publicitate Imobiliară emite prezentul ordin.
+Art. 1. — Se adoptă în România Sistemul de Referință
+Terestru European 1989, denumit în continuare ETRS89.
+Art. 2. — (1) ETRS89 este definit de către Subcomisia
+Asociației Internaționale de Geodezie (International Association
+of Geodesy — IAG) pentru Rețeaua de Referință Europeană
+(European Reference Frame — EUREF) ca fiind identic cu
+Sistemul de Referință Terestru Internațional (ITRS) la epoca
+1989.0, atașat părții stabile a plăcii euroasiatice.
+(2) ETRS89 este alcătuit, conform ISO 19111, din datumul
+geodezic ETRS89, bazat pe elipsoidul GRS80 (Geodetic
+Reference System 1980 — Sistem de Referință Geodezic 1980)
+și sistemul de coordonate geodezice elipsoidale.
+(3) Elementele definitorii ale ETRS89 sunt prezentate în
+anexa care face parte integrantă din prezentul ordin.
+Art. 3. — ETRS89 servește la crearea Rețelei Geodezice
+Naționale Spațiale, denumită în continuare RGNS, și la
+realizarea produselor cartografice paneuropene.
+Art. 4. — (1) Realizarea ETRS89 se face prin intermediul
+punctelor care fac parte din RGNS și ale căror coordonate se
+determină în sistemul ETRS89.
+
+(2) RGNS se va realiza prin îndesirea punctelor ETRF89
+(European Terrestrial Reference Frame — Rețeaua de Referință
+Terestră Europeană 1989) și va fi structurată ierarhic pe clase.
+Art. 5. — (1) Legătura dintre ETRS89 și Sistemul Geodezic
+de Referință Local S42 (elipsoid Krasovski 1940) se va realiza
+prin utilizarea unei transformări de coordonate reglementate pe
+plan național.
+(2) Modalitatea de transformare a coordonatelor între
+sistemele de referință menționate mai sus va fi stabilită de către
+Agenția Națională de Cadastru și Publicitate Imobiliară.
+Art. 6. — (1) Prezentul ordin nu se referă la sistemele de
+referință și coordonate utilizate de instituțiile cu atribuții în
+domeniul apărării, ordinii publice și siguranței naționale.
+(2) Prezentul ordin intră în vigoare în termen de 60 de zile de
+la publicarea sa în Monitorul Oficial al României, Partea I.
+Art. 7. — În termen de 3 luni de la data intrării în vigoare a
+prezentului ordin se vor elabora de către Agenția Națională de
+Cadastru și Publicitate Imobiliară norme tehnice pentru
+implementarea ETRS89 în România.
+
+Directorul general al Agenției Naționale de Cadastru
+și Publicitate Imobiliară,
+Mihai Busuioc
+București, 4 mai 2009.
+Nr. 212.
+ANEXĂ
+
+ELEMENTELE DEFINITORII ALE ETRS89
+Entitatea
+
+Valoarea
+
+Țara
+
+România
+
+Identificatorul țării
+
+RO
+
+Identificatorul Sistemului de Referință (SR) ETRS89-GRS80
+Denumirea alternativă a SR
+
+Sistemul de Referință Terestru European ETRS89
+
+Aria validă a SR
+
+România
+
+Scopul SR
+
+Geodezie, Cartografie, GIS
+
+Observații referitoare la SR
+Identificatorul datumului
+
+ETRS89
+
+Denumire alternativă a datumului
+
+European Terrestrial Reference System 1989
+
+Tipul datumului
+
+Geodezic
+
+Punctul fundamental al datumului
+Epoca de realizare a datumului
+
+1989
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+Entitatea
+
+Valoarea
+
+Epoca de realizare a datumului
+
+1989
+
+Aria validă a datumului
+
+Europa/EUREF
+
+Scopul datumului
+
+Datumul european este identic cu ITRS la epoca 1989.0
+și este atașat părții stabile a plăcii continentale
+euroasiatice.
+
+Referințe despre datum
+
+Boucher, C., Altamimi, Z. (1992): The EUREF Terrestrial
+Reference System and its First Realizations.
+Veröffentlichungen der Bayerischen Kommission für die
+Internationale Erdmessung, Heft 52, München 1992,
+p. 205—213 sau http://lareg.ensg.ign.fr/EUREF/
+
+Identificatorul primului meridian
+
+Greenwich
+
+Longitudinea primului meridian Greenwich
+
+0°
+
+Descrierea elipsoidului
+Identificatorul elipsoidului
+
+GRS80
+
+Denumire alternativă a elipsoidului
+
+New International
+
+Semiaxa mare a elipsoidului
+
+6 378 137 m
+
+Inversul turtirii elipsoidului
+
+298.257222101
+
+Referințe despre elipsoid
+
+Moritz, H. (1988): Geodetic Reference System 1980.
+Bulletin Geodesique, The Geodesists Handbook, 1988,
+International Union of Geodesy and Geophysics
+
+Sistemul de coordonate
+
+Sistemul elipsoidal de coordonate
+
+Tipul sistemului de coordonate
+
+Geodezic
+
+Dimensiunea sistemului de coordonate
+
+3
+
+Descrierea sistemului de coordonate
+Latitudinea geodezică
+
+Unghiul format de normala la elipsoid într-un punct cu
+planul ecuatorului elipsoidului de referință
+
+Sensul de măsurare
+
+Spre nord
+
+Unitatea de măsură
+
+Grade sexagesimale
+
+Longitudinea geodezică
+
+Unghiul diedru format între meridianul geodezic al
+punctului Greenwich și meridianul geodezic al punctului
+considerat
+
+Sensul de măsurare
+
+Spre est
+
+Unitatea de măsură
+
+Grade sexagesimale
+
+Altitudinea elipsoidală
+
+Segmentul de normală cuprins între poziția unui punct
+de pe suprafața fizică a Pământului și proiecția sa pe
+elipsoidul de referință
+
+Sensul de măsurare
+
+De la elipsoid spre punct
+
+Unitatea de măsură
+
+Metrul
+
+3
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+MINISTERUL ECONOMIEI
+
+ORDIN
+pentru modificarea anexei la Ordinul ministrului de stat, ministrul economiei și comerțului,
+nr. 440/2004 privind aprobarea Listei cuprinzând standardele române
+care adoptă standardele europene armonizate, ale căror prevederi se referă la
+echipamentele sub presiune
+Având în vedere prevederile art. 5 alin. (2) și ale art. 27 din Hotărârea Guvernului nr. 584/2004 privind stabilirea condițiilor
+de introducere pe piață a echipamentelor sub presiune, cu modificările și completările ulterioare,
+în temeiul Hotărârii Guvernului nr. 1.720/2008 privind organizarea și funcționarea Ministerului Economiei, cu modificările
+și completările ulterioare,
+ministrul economiei emite următorul ordin:
+Art. I. — Anexa la Ordinul ministrului de stat, ministrul
+economiei și comerțului, nr. 440/2004 privind aprobarea Listei
+cuprinzând standardele române care adoptă standardele
+europene armonizate, ale căror prevederi se referă la
+echipamentele sub presiune, publicat în Monitorul Oficial al
+
+României, Partea I, nr. 705 din 4 august 2004, cu modificările și
+completările ulterioare, se modifică și se înlocuiește cu anexa
+care face parte integrantă din prezentul ordin.
+Art. II. — Prezentul ordin se publică în Monitorul Oficial al
+României, Partea I.
+
+Ministrul economiei,
+Adriean Videanu
+București, 13 mai 2009.
+Nr. 959.
+
+ANEXĂ
+(Anexă la Ordinul nr. 440/2004)
+
+L I S T A1
+
+standardelor române care adoptă standarde europene armonizate,
+ale căror prevederi se referă la echipamente sub presiune
+
+Nr.
+crt.
+
+Indicele standardului
+
+Titlul standardului
+
+1.
+
+SR EN 3-8:2007
+
+Stingătoare de incendiu portative. Partea 8:
+Cerințe suplimentare față de EN 3-7 pentru
+construcție, rezistență la presiune și încercări
+mecanice pentru stingătoarele care au
+presiunea maximă admisă egală sau mai mică
+de 30 bar
+
+2.
+
+SR EN 3-8:2007/AC:2008
+
+Nr. standardului
+înlocuit
+
+Data la care
+încetează
+prezumția de
+conformitate
+cu standardul
+înlocuit
+Nota 1
+
+Stingătoare de incendiu portative. Partea 8:
+Cerințe suplimentare față de EN 3-7 pentru
+construcție, rezistență la presiune și încercări
+mecanice pentru stingătoarele care au
+presiunea maximă admisă egală sau mai mică
+de 30 bar
+
+1 Lista următoare conține trimiteri la standardele armonizate pentru echipamente sub presiune și la standardele armonizate pentru materiale utilizate în
+fabricarea echipamentelor sub presiune. În cazul standardului armonizat pentru materiale, prezumția de conformitate cu cerințele esențiale de siguranță este
+limitată la datele tehnice standard ale materialelor și nu presupune ca materialul să fie corespunzător cu un anumit echipament. Prin urmare, datele tehnice
+menționate în normele standard se evaluează în raport cu normele de proiectare a echipamentului, pentru a verifica dacă cerințele esențiale de securitate ale
+Directivei 97/23/CE a Parlamentului European și a Consiliului din 29 mai 1997 de apropiere a legislațiilor statelor membre referitoare la echipamente sub presiune
+sunt satisfăcute.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+Nr.
+crt.
+
+Indicele standardului
+
+Titlul standardului
+
+3.
+
+SR EN 19:2003
+SR EN 287-1:2004
+
+Calificarea sudorilor. Sudare prin topire.
+Partea 1: Oțeluri
+
+5.
+
+SR EN 287-1:2004/A2:2006
+
+Calificarea sudorilor. Sudare prin topire.
+Partea 1: Oțeluri
+
+6.
+
+SR EN 287-1:2004/AC:2005
+
+Calificarea sudorilor. Sudare prin topire.
+Partea 1: Oțeluri
+
+7.
+
+SR EN 334:2005
+
+Aparate de reglare a presiunii gazelor
+(regulatoare) pentru presiuni de intrare de
+până la 100 bar
+
+8.
+
+SR EN 378-2:2008
+
+9.
+
+Data la care
+încetează
+prezumția de
+conformitate
+cu standardul
+înlocuit
+Nota 1
+
+Robinetărie industrială. Marcarea aparatelor
+de robinetărie de metal
+
+4.
+
+Nr. standardului
+înlocuit
+
+5
+
+Nota 2
+
+30.09.2006
+
+Sisteme frigorifice și pompe de căldură.
+Condiții de securitate și de mediu. Partea 2:
+Proiectare, execuție, încercări, marcare și
+documente
+
+SR EN 378-2:2002
+
+31.08.2008
+
+SR EN 473:2008
+
+Examinări nedistructive. Calificarea și
+certificarea personalului pentru examinări
+nedistructive (END). Principii generale
+
+SR EN 473:2003
+
+31.12.2008
+
+10.
+
+SR EN 593:2004
+
+Robinete industriale. Robinete metalice cu
+fluture
+
+11.
+
+SR EN 676+A2:2008
+
+Arzătoare automate, cu tiraj forțat, care
+utilizează combustibili gazoși
+
+12.
+
+SR EN 764-5:2004
+
+Echipamente sub presiune. Partea 5:
+Documente de conformitate și de inspecție a
+materialelor metalice
+
+13.
+
+SR EN 764-7:2004
+
+Echipamente sub presiune. Partea 7: Sisteme
+de securitate pentru echipamentele sub
+presiune nesupuse la flacără
+
+14.
+
+SR EN 764-7:2004/AC:2006
+
+Echipamente sub presiune. Partea 7: Sisteme
+de securitate pentru echipamentele sub
+presiune nesupuse la flacără
+
+15.
+
+SR EN 1057:2006
+
+Cupru și aliaje de cupru. Țevi rotunde fără
+sudură de cupru pentru apă și gaz utilizate la
+instalații sanitare și de încălzire
+
+16.
+
+SR EN 1092-1:2008
+
+Flanșe și îmbinarea lor. Flanșe rotunde pentru
+conducte, robinete, racorduri și accesorii
+desemnate prin PN. Partea 1: Flanșe de oțel
+
+17.
+
+SR EN 1092-3:2004
+
+Flanșe și îmbinarea lor. Flanșe rotunde pentru
+conducte, robinete, racorduri și accesorii
+desemnate prin PN. Partea 3: Flanșe de aliaj
+de cupru
+
+18.
+
+SR EN 1092-3:2004/AC:2007
+
+Flanșe și îmbinarea lor. Flanșe rotunde pentru
+conducte, robinete, racorduri și accesorii
+desemnate prin PN. Partea 3: Flanșe de aliaje
+de cupru
+
+19.
+
+SR EN 1092-3:2004/AC:2008
+
+Flanșe și îmbinarea lor. Flanșe rotunde pentru
+conducte, robinete, racorduri și accesorii
+desemnate prin PN. Partea 3: Flanșe de aliaj
+de cupru
+
+6
+
+Nr.
+crt.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+Indicele standardului
+
+Titlul standardului
+
+20.
+
+SR EN 1092-4:2003
+
+Flanșe și îmbinările lor. Flanșe rotunde pentru
+conducte, robinete, racorduri și accesorii
+desemnate prin PN. Partea 4: Flanșe de aliaj
+de aluminiu
+
+21.
+
+SR EN 1171:2003
+
+Robinetărie industrială. Robinete cu sertar de
+fontă
+
+22.
+
+SR EN 1252-1:2002
+
+Recipiente criogenice. Materiale. Partea 1:
+Condiții de tenacitate pentru temperaturi mai
+mici de – 80 grade C
+
+23.
+
+SR EN 1252-1:2002/AC:2004
+
+Recipiente criogenice. Materiale. Partea 1:
+Condiții de tenacitate pentru temperaturi mai
+mici de – 80 grade C
+
+24.
+
+SR EN 1252-2:2002
+
+Recipiente criogenice. Materiale. Partea 2:
+Condiții de tenacitate pentru temperaturi
+cuprinse între – 80 grade C și – 20 grade C
+
+25.
+
+SR EN 1349:2002
+
+Robinete de reglare pentru procese industriale
+
+26.
+
+SR EN 1349:2002/AC:2003
+
+Robinete de reglare pentru procese industriale
+
+27.
+
+SR EN 1562:1999
+
+Turnătorie. Fontă maleabilă
+
+28.
+
+SR EN 1562:1999/A1:2006
+
+Turnătorie. Fontă maleabilă
+
+29.
+
+SR EN 1563:1999
+
+Turnătorie. Fontă cu grafit nodular
+
+30.
+
+SR EN 1563:1999/A1:2003
+
+Turnătorie. Fontă cu grafit nodular
+
+31.
+
+SR EN 1563:1999/A2:2006
+
+Turnătorie. Fontă cu grafit nodular
+
+32.
+
+SR EN 1564:1999
+
+Turnătorie. Fontă bainitică
+
+33.
+
+SR EN 1564:1999/A1:2006
+
+Turnătorie. Fontă bainitică
+
+34.
+
+SR EN 1591-1:2002
+
+Flanșe și îmbinarea lor. Reguli de calcul ale
+îmbinărilor cu flanșe circulare cu garnitura de
+etanșare. Partea 1: Metoda de calcul
+
+35.
+
+SR EN 1626:2009
+
+Recipiente criogenice. Robinete pentru uz
+criogenic
+
+36.
+
+SR EN 1653:2003
+
+Cupru și aliaje de cupru. Plăci, table și discuri
+pentru boilere, vase sub presiune și
+rezervoare pentru depozitarea apei calde
+
+37.
+
+SR EN 1653:2003/A1:2003
+
+Cupru și aliaje de cupru. Plăci, table și discuri
+pentru boilere, vase sub presiune și
+rezervoare pentru depozitarea apei calde
+
+38.
+
+SR EN 1759-3:2004
+
+Flanșe și îmbinarea lor. Flanșe rotunde pentru
+conducte, robinete, racorduri și accesorii
+desemnate prin Clasă. Partea 3: Flanșe de
+aliaje de cupru
+
+39.
+
+SR EN 1759-3:2004/AC:2007
+
+Flanșe și îmbinarea lor. Flanșe rotunde pentru
+conducte, robinete, racorduri și accesorii
+desemnate prin Clasă. Partea 3: Flanșe de
+aliaje de cupru
+
+40.
+
+SR EN 1759-4:2004
+
+Flanșe și îmbinarea lor. Flanșe rotunde pentru
+conducte, robinete, racorduri și accesorii
+desemnate prin Clasă. Partea 4: Flanșe de
+aliaje de aluminiu
+
+Nr. standardului
+înlocuit
+
+Data la care
+încetează
+prezumția de
+conformitate
+cu standardul
+înlocuit
+Nota 1
+
+SR EN 1626:2002
+
+31.05.2009
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+Nr.
+crt.
+
+Indicele standardului
+
+Titlul standardului
+
+Nr. standardului
+înlocuit
+
+7
+Data la care
+încetează
+prezumția de
+conformitate
+cu standardul
+înlocuit
+Nota 1
+
+EN 1797-1:19982
+
+31.01.2002
+
+Produse plate din oțel pentru recipiente sub
+presiune. Partea 1: Condiții generale
+
+SR EN 100281:2002
+
+30.06.2008
+
+SR EN 10028-2:2004
+
+Produse plate din oțeluri pentru recipiente sub
+presiune. Partea 2: Oțeluri nealiate și aliate cu
+caracteristici specificate la temperaturi ridicate
+
+SR EN 100282:1996
+
+31.12.2003
+
+56.
+
+SR EN 10028-2:2004/
+AC: 2006
+
+Produse plate din oțeluri pentru recipiente sub
+presiune. Partea 2: Oțeluri nealiate și aliate cu
+caracteristici specificate la temperaturi ridicate
+
+57.
+
+SR EN 10028-3:2004
+
+Produse plate din oțeluri pentru recipiente sub
+presiune. Partea 3: Oțeluri sudabile cu
+granulație fină, normalizate
+
+SR EN 100283:1996
+
+31.12.2003
+
+41.
+
+SR EN 1797:2002
+
+Recipiente criogenice. Compatibilitate între
+gaz și material
+
+42.
+
+SR EN 1866:2006
+
+Extinctoare de incendiu transportabile
+
+43.
+
+SR EN 1983:2006
+
+Armături industriale. Robinete de oțel cu bilă
+
+44.
+
+SR EN 1984:2002
+
+Robinetărie industrială. Robinete cu sertar, de
+oțel
+
+45.
+
+SR EN ISO 4126-1:2004
+
+Dispozitive de securitate pentru protecția
+împotriva suprapresiunilor. Partea 1: Supape
+de siguranță
+
+46.
+
+SR EN ISO 41261:2004/AC:2007
+
+Dispozitive de securitate pentru protecția
+împotriva suprapresiunilor. Partea 1: Supape
+de siguranță
+
+47.
+
+SR EN ISO 4126-3:2006
+
+Dispozitive de securitate pentru protecția
+împotriva suprapresiunilor. Partea 3:
+Dispozitive de securitate combinate, supape
+de siguranță și discuri de rupere
+
+48.
+
+SR EN ISO 4126-4:2004
+
+Dispozitive de securitate pentru protecția
+împotriva suprapresiunilor. Partea 4: Supape
+de siguranță regulator
+
+49.
+
+SR EN ISO 4126-5:2004
+
+Dispozitive de securitate pentru protecția
+împotriva suprapresiunilor. Partea 5:
+Dispozitive de siguranță pentru descărcarea
+controlată împotriva suprapresiunilor
+
+50.
+
+SR EN ISO 9606-2:2005
+
+Calificarea sudorilor. Sudare prin topire.
+Partea 2: Aluminiu și aliaje de aluminiu
+
+51.
+
+SR EN ISO 9606-3:2001
+
+Calificarea sudorilor. Sudare prin topire.
+Partea 3: Cupru și aliaje de cupru
+
+52.
+
+SR EN ISO 9606-4:2001
+
+Calificarea sudorilor. Sudare prin topire.
+Partea 4: Nichel și aliaje de nichel
+
+53.
+
+SR EN ISO 9606-5:2002
+
+Calificarea sudorilor. Sudare prin topire.
+Partea 5: Titan și aliaje de titan, zirconiu și
+aliaje de zirconiu
+
+54.
+
+SR EN 10028-1:2008
+
+55.
+
+2
+
+Standard european armonizat, neadoptat ca standard român.
+
+8
+
+Nr.
+crt.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+Indicele standardului
+
+Titlul standardului
+
+58.
+
+SR EN 10028-4:2004
+
+Produse plate din oțeluri pentru recipiente sub
+presiune. Partea 4: Oțeluri aliate cu nichel cu
+caracteristici specificate la temperatură
+scăzută
+
+59.
+
+SR EN 100284: 2004/AC:2006
+
+Produse plate din oțeluri pentru recipiente sub
+presiune. Partea 4: Oțeluri aliate cu nichel cu
+caracteristici specificate la temperatură
+scăzută
+
+60.
+
+SR EN 10028-5:2004
+
+61.
+
+Nr. standardului
+înlocuit
+
+Data la care
+încetează
+prezumția de
+conformitate
+cu standardul
+înlocuit
+Nota 1
+
+SR EN 100284:1996
+
+31.12.2003
+
+Produse plate din oțeluri pentru recipiente sub
+presiune. Partea 5: Oțeluri sudabile cu
+granulație fină, laminate termomecanic
+
+SR EN 100285:2001
+
+31.12.2003
+
+SR EN 10028-6:2004
+
+Produse plate din oțeluri pentru recipiente sub
+presiune. Partea 6: Oțeluri sudabile cu
+granulație fină, călite și revenite
+
+SR EN 100286:2001
+
+31.12.2003
+
+62.
+
+SR EN 10028-7:2008
+
+Produse plate din oțel pentru recipiente sub
+presiune. Partea 7: Oțeluri inoxidabile
+
+SR EN 100287:2001
+
+30.06.2008
+
+63.
+
+SR EN 10204:2005
+
+Produse metalice. Tipuri de documente de
+inspecție
+
+64.
+
+SR EN 10213:2008
+
+Piese turnate din oțel pentru funcționarea sub
+presiune
+
+SR EN 10213-1:
+1996; SR EN
+10213-2:1996;
+SR EN 10213-3:
+1996; SR EN
+10213-4:1996
+
+31.05.2008
+
+65.
+
+SR EN 10213: 2008/AC:2009
+
+Piese turnate din oțel pentru funcționarea sub
+presiune
+
+66.
+
+SR EN 10216-1:2002
+
+Țevi de oțel fără sudură utilizate la presiune.
+Condiții tehnice de livrare. Partea 1: Țevi de
+oțel nealiat, cu caracteristici precizate la
+temperatura ambiantă
+
+67.
+
+SR EN 10216-1:2002/A1:2004
+
+Țevi de oțel fără sudură utilizate la presiune.
+Condiții tehnice de livrare. Partea 1: Țevi de
+oțel nealiat și aliat, cu caracteristici precizate
+la temperatura ambiantă
+
+68.
+
+SR EN 10216-2+A2:2008
+
+Țevi de oțel fără sudură utilizate la presiune.
+Condiții tehnice de livrare. Partea 2: Țevi de
+oțel nealiat și aliat, cu caracteristici precizate
+la temperatură ridicată
+
+SR EN 102162:2003
+
+29.02.2008
+
+69.
+
+SR EN 10216-3:2003
+
+Țevi de oțel fără sudură utilizate la presiune.
+Condiții tehnice de livrare. Partea 3: Țevi de
+oțel aliat cu granulație fină
+
+70.
+
+SR EN 10216-3:2003/A1:2004
+
+Țevi de oțel fără sudură utilizate la presiune.
+Condiții tehnice de livrare. Partea 3: Țevi de
+oțel aliat cu granulație fină
+
+71.
+
+SR EN 10216-4:2003
+
+Țevi de oțel fără sudură utilizate la presiune.
+Condiții tehnice de livrare. Partea 4: Țevi de
+oțel nealiat și aliat, cu caracteristici precizate
+la temperatură scăzută
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+Nr.
+crt.
+
+Indicele standardului
+
+Titlul standardului
+
+72.
+
+SR EN 10216-4:2003/A1:2004
+
+Țevi de oțel fără sudură utilizate la presiune.
+Condiții tehnice de livrare. Partea 4: Țevi de
+oțel nealiat și aliat, cu caracteristici precizate
+la temperatură scăzută
+
+73.
+
+SR EN 10216-5:2005
+
+Țevi de oțel fără sudură utilizate la presiune.
+Condiții tehnice de livrare. Partea 5: Țevi de
+oțel inoxidabil
+
+74.
+
+SR EN 10216-5:2005/AC:2008
+
+Țevi de oțel fără sudură utilizate la presiune.
+Condiții tehnice de livrare. Partea 5: Țevi de
+oțel inoxidabil
+
+75.
+
+SR EN 10217-1:2002
+
+Țevi de oțel sudate utilizate la presiune.
+Condiții tehnice de livrare. Partea 1: Țevi de
+oțel nealiat, cu caracteristici precizate la
+temperatura ambiantă
+
+76.
+
+SR EN 10217-1:2002/A1:2005
+
+Țevi de oțel sudate utilizate la presiune.
+Condiții tehnice de livrare. Partea 1: Țevi de
+oțel nealiat, cu caracteristici precizate la
+temperatura ambiantă
+
+77.
+
+SR EN 10217-2:2003
+
+Țevi de oțel utilizate la presiune. Condiții
+tehnice de livrare. Partea 2: Țevi sudate
+electric, de oțel nealiat și aliat cu caracteristici
+precizate la temperatură ridicată
+
+78.
+
+SR EN 10217-2:2003/A1:2005
+
+Țevi de oțel utilizate la presiune. Condiții
+tehnice de livrare. Partea 2: Țevi sudate
+electric, de oțel nealiat și aliat cu caracteristici
+precizate la temperatură ridicată
+
+79.
+
+SR EN 10217-3:2003
+
+Țevi de oțel sudate utilizate la presiune.
+Condiții tehnice de livrare. Partea 3: Țevi de
+oțel aliat cu granulație fină
+
+80.
+
+SR EN 10217-3:2003/A1:2005
+
+Țevi de oțel sudate utilizate la presiune.
+Condiții tehnice de livrare. Partea 3: Țevi de
+oțel aliat cu granulație fină
+
+81.
+
+SR EN 10217-4:2003
+
+Țevi de oțel sudate utilizate la presiune.
+Condiții tehnice de livrare. Partea 4: Țevi
+sudate electric, de oțel nealiat cu caracteristici
+precizate la temperatură scăzută
+
+82.
+
+SR EN 10217-4:2003/A1:2005
+
+Țevi de oțel sudate utilizate la presiune.
+Condiții tehnice de livrare. Partea 4: Țevi
+sudate electric, de oțel nealiat cu caracteristici
+precizate la temperatură scăzută
+
+83.
+
+SR EN 10217-5:2003
+
+Țevi de oțel sudate utilizate la presiune.
+Condiții tehnice de livrare. Partea 5: Țevi
+sudate sub strat de flux, de oțel nealiat și aliat
+cu caracteristici precizate la temperatură
+ridicată
+
+84.
+
+SR EN 10217-5:2003/A1:2005
+
+Țevi de oțel sudate utilizate la presiune.
+Condiții tehnice de livrare. Partea 5: Țevi
+sudate sub strat de flux, de oțel nealiat și aliat
+cu caracteristici precizate la temperatură
+ridicată
+
+Nr. standardului
+înlocuit
+
+9
+Data la care
+încetează
+prezumția de
+conformitate
+cu standardul
+înlocuit
+Nota 1
+
+10
+
+Nr.
+crt.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+Indicele standardului
+
+Titlul standardului
+
+85.
+
+SR EN 10217-6:2003
+
+Țevi de oțel sudate utilizate la presiune.
+Condiții tehnice de livrare. Partea 6: Țevi
+sudate sub strat de flux, de oțel nealiat cu
+caracteristici precizate la temperatură scăzută
+
+86.
+
+SR EN 10217-6:2003/A1:2005
+
+Țevi de oțel sudate utilizate la presiune.
+Condiții tehnice de livrare. Partea 6: Țevi
+sudate sub strat de flux, de oțel nealiat și aliat
+cu caracteristici precizate la temperatură
+scăzută
+
+87.
+
+SR EN 10217-7:2005
+
+Țevi de oțel sudate utilizate la presiune.
+Condiții tehnice de livrare. Partea 7: Țevi de
+oțel inoxidabil
+
+88.
+
+SR EN 10222-1:2001
+
+Piese forjate din oțel pentru recipiente sub
+presiune. Partea 1: Prescripții generale pentru
+piesele obținute prin forjare liberă
+
+89.
+
+SR EN 10222-1:2001/A1:2003
+
+Piese forjate din oțel pentru recipiente sub
+presiune. Partea 1: Prescripții generale pentru
+piesele obținute prin forjare liberă
+
+90.
+
+SR EN 10222-2:2002
+
+Piese forjate din oțel pentru recipiente sub
+presiune. Partea 2: Oțeluri feritice și
+martensitice cu caracteristici specificate la
+temperatură ridicată
+
+91.
+
+SR EN 10222-2:2002/AC:2002
+
+Piese forjate din oțel pentru recipiente sub
+presiune. Partea 2: Oțeluri feritice și
+martensitice cu caracteristici specificate la
+temperatură ridicată
+
+92.
+
+SR EN 10222-3:2002
+
+Piese forjate din oțel pentru recipiente sub
+presiune. Partea 3: Oțeluri cu nichel cu
+caracteristici specificate la temperatură
+ridicată
+
+93.
+
+SR EN 10222-4:2002
+
+Piese forjate din oțel pentru recipiente sub
+presiune. Partea 4: Oțeluri sudabile cu
+granulație fină cu limită de curgere ridicată
+
+94.
+
+SR EN 10222-4:2002/A1:2002
+
+Piese forjate din oțel pentru recipiente sub
+presiune. Partea 4: Oțeluri sudabile cu
+granulație fină cu limită de curgere ridicată
+
+95.
+
+SR EN 10222-5:2002
+
+Piese forjate din oțel pentru recipiente sub
+presiune. Partea 5: Oțeluri inoxidabile
+martensitice, austenitice și austenito-feritice
+
+96.
+
+SR EN 10222-5/AC:2001
+
+Piese forjate pentru aparate sub presiune.
+Partea 5: Oțeluri inoxidabile martensitice,
+austenitice și austenito-feritice
+
+97.
+
+SR EN 10253-2:2008
+
+Racorduri pentru sudare cap la cap. Partea 2:
+Oțeluri nealiate și aliate feritice cu condiții de
+inspecție specifică
+
+98.
+
+SR EN 10253-4:2008
+
+Racorduri pentru sudare cap la cap. Partea 4:
+Oțel inoxidabil austenitic și austenitic-feritic cu
+condiții de inspecție specifică
+
+Nr. standardului
+înlocuit
+
+Data la care
+încetează
+prezumția de
+conformitate
+cu standardul
+înlocuit
+Nota 1
+
+Nota 2
+
+31.10.2002
+
+Nota 2
+
+31.01.2002
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+Nr.
+crt.
+
+99.
+
+Indicele standardului
+
+Titlul standardului
+
+SR EN 10269:2002
+
+SR EN 10269:2002/A1:2006
+
+Oțeluri și aliaje de nichel pentru elemente de
+fixare cu caracteristici specificate la
+temperatură ridicată și/sau scăzută
+
+101.
+
+SR EN 10269:2002/
+A1: 2006/AC:2006
+
+Oțeluri și aliaje de nichel pentru elemente de
+fixare cu caracteristici specificate la
+temperatură ridicată și/sau scăzută
+
+102.
+
+SR EN 10272:2008
+
+103.
+
+Data la care
+încetează
+prezumția de
+conformitate
+cu standardul
+înlocuit
+Nota 1
+
+Oțeluri și aliaje de nichel pentru elemente de
+fixare cu caracteristici specificate la
+temperatură ridicată și/sau scăzută
+
+100.
+
+Nr. standardului
+înlocuit
+
+11
+
+Nota 2
+
+31.10.2006
+
+Bare de oțel inoxidabil pentru recipiente sub
+presiune
+
+SR EN 10272:2002
+
+30.04.2008
+
+SR EN 10273:2008
+
+Bare laminate la cald din oțeluri sudabile
+pentru aparate sub presiune cu caracteristici
+specifice la temperaturi ridicate
+
+SR EN 10273:2004
+
+30.06.2008
+
+104.
+
+SR EN 10305-4:2003
+
+Țevi de oțel pentru utilizări de precizie.
+Condiții tehnice de livrare. Partea 4: Țevi fără
+sudură trase la rece pentru circuite hidraulice
+și pneumatice
+
+105.
+
+SR EN 10305-6:2005
+
+Țevi de oțel pentru utilizări de precizie.
+Condiții tehnice de livrare. Partea 6: Țevi
+sudate trase la rece pentru circuite hidraulice
+și pneumatice
+
+106.
+
+SR EN ISO 10931:2006
+
+Sisteme de canalizare de materiale plastice
+pentru aplicații industriale. Polifluorură de
+viniliden (PVDF). Specificații pentru
+componente și sistem
+
+107.
+
+SR EN 12178:2004
+
+Sisteme de răcire și pompe de căldură.
+Dispozitive pentru indicarea nivelului de lichid.
+Condiții, încercări și marcare
+
+108.
+
+SR EN 12263:2002
+
+Sisteme de răcire și pompe de căldură.
+Dispozitive întreruptoare de securitate, pentru
+limitarea presiunii. Condiții și încercări
+
+109.
+
+SR EN 12266-1:2004
+
+Robinetărie industrială. Încercările aparatelor
+de robinetărie. Partea 1: Încercări la presiune,
+proceduri de încercare și criterii de acceptare.
+Prescripții obligatorii
+
+110.
+
+SR EN 12284:2004
+
+Sisteme de răcire și pompe de căldură.
+Robinete. Condiții, încercări și marcare
+
+111.
+
+SR EN 12288:2004
+
+Robinetărie industrială. Robinete cu sertar de
+aliaj de cupru
+
+112.
+
+SR EN 12334:2004
+
+Robinetărie industrială. Robinete de închidere
+de fontă
+
+113.
+
+SR EN 12334:2004/A1:2005
+
+Robinetărie industrială. Robinete de închidere
+de fontă
+
+Nota 2
+
+28.02.2005
+
+114.
+
+SR EN 12334:2004/AC:2003
+
+Robinetărie industrială. Robinete de închidere
+de fontă
+
+12
+
+Nr.
+crt.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+Indicele standard
+
+Titlul standardului
+
+115.
+
+SR EN 12392:2002
+
+Aluminiu și aliaje de aluminiu. Produse
+obținute prin deformare plastică. Condiții
+speciale pentru produsele destinate fabricării
+echipamentelor sub presiune
+
+116.
+
+SR EN 12420:2002
+
+Cupru și aliaje de cupru. Piese forjate
+
+117.
+
+SR EN 12434:2002
+
+Recipiente criogenice. Racorduri flexibile
+pentru uz criogenic
+
+118.
+
+SR EN 12434:2002/AC:2004
+
+Vase criogenice. Racorduri flexibile pentru uz
+criogenic
+
+119.
+
+SR EN 12451:2002
+
+Cupru și aliaje de cupru. Țevi rotunde fără
+sudură pentru schimbătoare de căldură
+
+120.
+
+SR EN 12452:2002
+
+Cupru și aliaje de cupru. Țevi laminate, fără
+sudură, cu aripioare pentru schimbătoare de
+căldură
+
+121.
+
+SR EN 12516-1:2005
+
+Robinetărie industrială. Rezistența mecanică
+a corpurilor. Partea 1: Metoda tabulară privind
+carcasele aparatelor de robinetărie de oțel
+
+122.
+
+SR EN 12516-1:2005/
+AC: 2007
+
+Robinetărie industrială. Rezistența mecanică
+a corpurilor. Partea 1: Metoda tabulară privind
+carcasele aparatelor de robinetărie de oțel
+
+123.
+
+SR EN 12516-2:2004
+
+Robinetărie industrială. Rezistența mecanică
+a corpurilor. Partea 2: Metode de calcul al
+rezistenței corpurilor de robinete din oțel
+
+124.
+
+SR EN 12516-3:2003
+
+Robinete. Rezistența mecanică a carcaselor.
+Partea 3: Metoda experimentală
+
+125.
+
+SR EN 12516-3:2003/
+AC: 2004
+
+Robinete. Rezistența mecanică a carcaselor.
+Partea 3: Metoda experimentală
+
+126.
+
+SR EN 12516-4:2008
+
+Robinetărie industrială. Rezistența mecanică
+a carcaselor. Partea 4: Metode de calcul al
+rezistenței carcaselor de robinete din alte
+materiale decât oțel
+
+127.
+
+SR EN 12542:2003
+
+Recipiente cilindrice staționare, sudate, de
+oțel, produse în serie, pentru depozitarea
+gazelor petroliere lichefiate (GPL) având un
+volum mai mic sau egal cu 13 m3 și pentru
+instalare supraterană. Proiectare și execuție
+
+128.
+
+SR EN 12542:2003/A1:2005
+
+Recipiente cilindrice staționare, sudate, de
+oțel, produse în serie, pentru depozitarea
+gazelor petroliere lichefiate (GPL) având un
+volum mai mic sau egal cu 13 m3 și pentru
+instalare supraterană. Proiectare și execuție
+
+129.
+
+SR EN 12735-1:2003
+
+Cupru și aliaje de cupru. Țevi rotunde, fără
+sudură de cupru pentru echipamente de aer
+condiționat și frigotehnică. Partea 1: Țevi
+pentru sisteme de conducte
+
+130.
+
+SR EN 12735-1:2003/
+A1:2005
+
+Cupru și aliaje de cupru. Țevi rotunde, fără
+sudură de cupru pentru echipamente de aer
+condiționat și frigotehnică. Partea 1: Țevi
+pentru sisteme de conducte
+
+Nr. standardului
+înlocuit
+
+Data la care
+încetează
+prezumția de
+conformitate
+cu standardul
+înlocuit
+Nota 1
+
+Nota 2
+
+31.05.2005
+
+Nota 2
+
+31.10.2005
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+Nr.
+crt.
+
+Indicele standardului
+
+Titlul standardului
+
+131.
+
+SR EN 12735-2:2003
+
+SR EN 12735-2:2003/
+A1: 2005
+
+Cupru și aliaje de cupru. Țevi rotunde, fără
+sudură de cupru pentru echipamente de aer
+condiționat și frigotehnică. Partea 2: Țevi
+pentru echipamente
+
+133.
+
+SR EN 12778:2003
+
+Articole de gătit de uz casnic. Vase de gătit
+sub presiune de uz casnic
+
+134.
+
+SR EN 12778:2003/A1:2005
+
+Articole de gătit de uz casnic. Vase de gătit
+sub presiune de uz casnic
+
+135.
+
+SR EN 12778:2003/AC:2004
+
+Articole de gătit. Articole de gătit sub presiune
+de uz casnic
+
+136.
+
+SR EN 12952-1:2002
+
+Cazane cu țevi de apă și instalațiile auxiliare.
+Partea 1: Generalități
+
+137.
+
+SR EN 12952-2:2002
+
+Cazane cu țevi de apă și instalații auxiliare.
+Partea 2: Materiale utilizate pentru părțile sub
+presiune ale cazanelor și pentru accesorii
+
+138.
+
+SR EN 12952-3:2002
+
+Cazane cu țevi de apă și instalațiile auxiliare.
+Partea 3: Proiectarea și calculul părților sub
+presiune
+
+139.
+
+SR EN 12952-5:2002
+
+Cazane cu țevi de apă și instalațiile auxiliare.
+Partea 5: Execuția și construcția părților sub
+presiune ale cazanului
+
+140.
+
+SR EN 12952-6:2003
+
+Cazane cu țevi de apă și instalații auxiliare.
+Partea 6: Examinare pe durata construcției, a
+documentației și a marcării părților sub
+presiune ale cazanelor
+
+141.
+
+SR EN 12952-7:2003
+
+Cazane cu țevi de apă și instalații auxiliare.
+Partea 7: Cerințe referitoare la echipamentele
+cazanului
+
+142.
+
+SR EN 12952-8:2003
+
+Cazane cu țevi de apă și instalațiile auxiliare
+Partea 8: Cerințe referitoare la echipamentele
+de încălzire ale cazanului care utilizează
+combustibili gazoși și lichizi
+
+143.
+
+SR EN 12952-9:2004
+
+Cazane cu țevi de apă și instalații auxiliare.
+Partea 9: Cerințe referitoare la echipamentele
+de încălzire ale cazanului care utilizează
+combustibili pulverizați
+
+144.
+
+SR EN 12952-10:2003
+
+Cazane cu țevi de apă și instalații auxiliare.
+Partea 10: Cerințe referitoare la protecția
+împotriva suprasarcinii de lucru
+
+145.
+
+SR EN 12952-11:2007
+
+Cazane cu țevi de apă și instalații auxiliare.
+Partea 11: Cerințe referitoare la dispozitivele
+de reglare și de limitare ale cazanului și la
+accesoriile acestuia
+
+Data la care
+încetează
+prezumția de
+conformitate
+cu standardul
+înlocuit
+Nota 1
+
+Cupru și aliaje de cupru. Țevi rotunde, fără
+sudură de cupru pentru echipamente de aer
+condiționat și frigotehnică. Partea 2: Țevi
+pentru echipamente
+
+132.
+
+Nr. standardului
+înlocuit
+
+13
+
+Nota 2
+
+31.10.2005
+
+14
+
+Nr.
+crt.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+Indicele standardului
+
+Titlul standardului
+
+146.
+
+SR EN 12952-14:2004
+
+Cazane cu țevi de apă și instalații auxiliare.
+Partea 14: Cerințe referitoare la sistemele
+DENOX cu combustibil lichid care utilizează
+amoniac lichefiat sub presiune sau soluție de
+apă amoniacală
+
+147.
+
+SR EN 12952-16:2004
+
+Cazane cu țevi de apă și instalații auxiliare.
+Partea 16: Cerințe referitoare la
+echipamentele de încălzire cu pat fluidizat și
+cu grătar pentru combustibili solizi
+
+148.
+
+SR EN 12953-1:2003
+
+Cazane cu țevi de fum. Partea 1: Generalități
+
+149.
+
+SR EN 12953-2:2003
+
+Cazane cu țevi de fum. Partea 2: Materiale
+utilizate pentru părțile sub presiune ale
+cazanelor și pentru accesorii
+
+150.
+
+SR EN 12953-3:2003
+
+Cazane cu țevi de fum. Partea 3: Proiectarea
+și calculul părților sub presiune
+
+151.
+
+SR EN 12953-4:2003
+
+Cazane cu țevi de fum. Partea 4: Execuția și
+construcția părților sub presiune ale cazanelor
+
+152.
+
+SR EN 12953-5:2003
+
+Cazane cu țevi de fum. Partea 5: Inspecții în
+timpul execuției, a documentației și a marcării
+părților sub presiune ale cazanului
+
+153.
+
+SR EN 12953-6:2003
+
+Cazane cu țevi de fum. Partea 6: Cerințe
+referitoare la echipamentele cazanului
+
+154.
+
+SR EN 12953-7:2003
+
+Cazane cu țevi de fum. Partea 7: Cerințe
+referitoare la echipamentele de încălzire ale
+cazanului care utilizează combustibili gazoși și
+lichizi
+
+155.
+
+SR EN 12953-8:2002
+
+Cazane cu țevi de fum. Partea 8: Cerințe
+tehnice referitoare la protecția împotriva
+suprapresiunii
+
+156.
+
+SR EN 12953-8:2002/AC:
+2003
+
+Cazane cu țevi de fum. Partea 8: Cerințe
+tehnice referitoare la protecția împotriva
+suprapresiunii
+
+157.
+
+SR EN 12953-9:2007
+
+Cazane cu țevi de fum. Partea 9: Cerințe
+referitoare la dispozitivele de reglare și de
+limitare ale cazanului și la accesoriile acestuia
+
+158.
+
+SR EN 12953-12:2004
+
+Cazane cu țevi de fum. Partea 12: Cerințe
+referitoare la echipamentele de încălzire ale
+cazanului care utilizează combustibili solizi
+
+159.
+
+SR EN 13121-1:2004
+
+Rezervoare și recipienți de PAS pentru
+aplicații deasupra solului. Partea 1: Materii
+prime. Condiții pentru specificații și condiții de
+utilizare
+
+160.
+
+SR EN 13121-2:2004
+
+Rezervoare și recipienți de PAS pentru
+aplicații deasupra solului. Partea 2: Materiale
+compozite. Rezistență chimică
+
+161.
+
+SR EN 13121-3:2008
+
+Rezervoare și recipienți de PAS pentru
+aplicații deasupra solului. Partea 3: Proiectare
+și calitatea execuției
+
+Nr. standardului
+înlocuit
+
+Data la care
+încetează
+prezumția de
+conformitate
+cu standardul
+înlocuit
+Nota 1
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+Nr.
+crt.
+
+Indicele standardului
+
+Titlul standardului
+
+Nr. standardului
+înlocuit
+
+15
+Data la care
+încetează
+prezumția de
+conformitate
+cu standardul
+înlocuit
+Nota 1
+
+162.
+
+SR EN 13133:2002
+
+Lipire tare. Calificarea operatorilor pentru lipire
+tare
+
+163.
+
+SR EN 13134:2002
+
+Lipire tare. Calificarea procedurilor de lipire
+tare
+
+164.
+
+SR EN 13136:2002
+
+Sisteme frigorifice și pompe de căldură.
+Dispozitive de suprapresiune și conductele
+asociate. Metode de calcul
+
+165.
+
+SR EN 13136:2002/A1:2005
+
+Sisteme de refrigerare și pompe de căldură.
+Dispozitive de suprapresiune și conductele
+asociate. Metode de calcul
+
+Nota 2
+
+31.12.2005
+
+166.
+
+SR EN 13175+A2:2007
+
+Echipamente și accesorii pentru GPL.
+Specificații și încercări pentru echipamente și
+accesorii ale rezervoarelor de gaz petrolier
+lichefiat (GPL)
+
+SR EN 13175: 2003
+
+30.09.2007
+
+167.
+
+SR EN 13348:2009
+
+Cupru și aliaje de cupru. Țevi de cupru
+rotunde, fără sudură pentru gaze medicale
+sau vid
+
+SR EN 13348: 2002
+28.02.2009
+
+168.
+
+SR EN 13371:2002
+
+Recipiente criogenice. Racorduri pentru
+serviciu criogenic
+
+169.
+
+SR EN 13397:2002
+
+Robinetărie industrială. Robinete metalice cu
+membrană
+
+170.
+
+SR EN 13445-1:2003
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 1: Generalități
+
+171.
+
+SR EN 13445-1:2003/A1:
+2007
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 1: Generalități
+
+Nota 2
+
+31.12.2007
+
+172.
+
+SR EN 13445-1:2003/A2:
+2007
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 1: Generalități
+
+Nota 2
+
+30.06.2007
+
+173.
+
+SR EN 13445-1:2003/A3:
+2008
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 1: Generalități
+
+Nota 2
+
+29.02.2008
+
+174.
+
+SR EN 13445-2:2003
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 2: Materiale
+
+175.
+
+SR EN 13445-2:2003/A1:
+2007
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 2: Materiale
+
+Nota 2
+
+31.12.2007
+
+176.
+
+SR EN 13445-2:2003/A2:
+2007
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 2: Materiale
+
+Nota 2
+
+30.06.2007
+
+177.
+
+SR EN 13445-3:2003
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 3: Proiectare
+
+178.
+
+SR EN 13445-3:2003/A1:
+2007
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 3: Proiectare
+
+Nota 2
+
+31.12.2007
+
+179.
+
+SR EN 13445-3:2003/A2:
+2007
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 3: Proiectare
+
+Nota 2
+
+31.10.2007
+
+180.
+
+SR EN 13445-3:2003/A3:
+2007
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 3: Proiectare
+
+Nota 2
+
+31.10.2007
+
+181.
+
+SR EN 13445-3:2003/A4:
+2006
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 3: Proiectare
+
+Nota 2
+
+31.01.2006
+
+16
+
+Nr.
+crt.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+Indicele standardului
+
+Titlul standardului
+
+Nr. standardului
+înlocuit
+
+Data la care
+încetează
+prezumția de
+conformitate
+cu standardul
+înlocuit
+Nota 1
+
+182.
+
+SR EN 13445-3:2003/A5:
+2006
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 3: Proiectare
+
+Nota 2
+
+15.08.2006
+
+183.
+
+SR EN 13445-3:2003/A6:
+2006
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 3: Proiectare
+
+Nota 2
+
+31.08.2006
+
+184.
+
+SR EN 13445-3:2003/A8:
+2006
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 3: Proiectare
+
+Nota 2
+
+31.10.2006
+
+185.
+
+SR EN 13445-3:2003/A10:
+2008
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 3: Proiectare
+
+Nota 2
+
+30.09.2008
+
+186.
+
+SR EN 13445-3:2003/A11:
+2007
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 3: Proiectare
+
+Nota 2
+
+30.06.2007
+
+187.
+
+SR EN 13445-3:2003/A16:
+2009
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 3: Proiectare
+
+Nota 2
+
+30.06.2009
+
+188.
+
+SR EN 13445-3:2003/A17:
+2008
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 3: Proiectare
+
+Nota 2
+
+30.04.2007
+
+189.
+
+SR EN 13445-4:2003
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 4: Execuție
+
+190.
+
+SR EN 13445-4:2003/A2:
+2007
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 4: Execuție
+
+Nota 2
+
+30.06.2007
+
+191.
+
+SR EN 13445-5:2003
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 5: Inspecție și examinare
+
+192.
+
+SR EN 13445-5:2003/A1:
+2007
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 5: Inspecție și examinare
+
+Nota 2
+
+31.12.2007
+
+193.
+
+SR EN 13445-5:2003/A2:
+2005
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 5: Inspecție și examinare
+
+Nota 2
+
+31.12.2005
+
+194.
+
+SR EN 13445-5:2003/A3:
+2006
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 5: Inspecție și examinare
+
+Nota 2
+
+30.11.2006
+
+195.
+
+SR EN 13445-5:2003/A4:
+2007
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 5: Inspecție și examinare
+
+Nota 2
+
+30.06.2007
+
+196.
+
+SR EN 13445-5:2003/A5:
+2007
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 5: Inspecție și examinare
+
+Nota 2
+
+28.02.2007
+
+197.
+
+SR EN 13445-5:2003/A10:
+2009
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 5: Inspecție și examinare
+
+Nota 2
+
+30.04.2009
+
+198.
+
+SR EN 13445-6:2003
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 6: Cerințe referitoare la proiectarea și
+execuția recipientelor sub presiune și a
+părților sub presiune, turnate din fontă cu
+grafit nodular
+
+199.
+
+SR EN 13445-6:2003/A1:
+2004
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 6: Cerințe referitoare la proiectarea și
+execuția recipientelor sub presiune și a
+părților sub presiune, turnate din fontă cu
+grafit nodular. Anexa D Evaluarea duratei de
+viață la oboseală
+
+Nota 2
+
+31.10.2004
+
+200.
+
+SR EN 13445-6:2003/A2:
+2007
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 6: Cerințe referitoare la proiectarea și
+execuția recipientelor sub presiune și a
+părților sub presiune, turnate din fontă cu
+grafit nodular
+
+Nota 2
+
+30.06.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+Nr.
+crt.
+
+Indicele standardului
+
+Titlul standardului
+
+201.
+
+SR EN 13445-6:2003/
+A3:2009
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 6: Cerințe referitoare la proiectarea și
+execuția recipientelor sub presiune și a
+părților sub presiune, turnate din fontă cu
+grafit nodular
+
+202.
+
+SR EN 13445-8:2007
+
+SR EN 13458-1:2003
+
+Recipiente criogenice. Recipiente fixe, izolate
+sub vid. Partea 1: Condiții de bază
+
+204.
+
+SR EN 13458-2:2004
+
+Recipiente criogenice. Recipiente fixe, izolate
+sub vid. Partea 2: Proiectare, execuție,
+inspecție și încercări
+
+205.
+
+SR EN 13458-2:2004/
+AC:2007
+
+Recipiente criogenice. Recipiente fixe, izolate
+sub vid. Partea 2: Proiectare, execuție,
+inspecție și încercări
+
+206.
+
+SR EN 13458-3:2004
+
+Recipiente criogenice. Recipiente fixe izolate
+sub vid. Partea 3: Condiții de exploatare
+
+207.
+
+SR EN 13458-3:2004/
+A1:2005
+
+Recipiente criogenice. Recipiente fixe izolate
+sub vid. Partea 3: Condiții de exploatare
+
+208.
+
+SR EN 13480-1:2003
+
+Conducte industriale metalice. Partea 1:
+Generalități
+
+209.
+
+SR EN 13480-1:2003/
+A1: 2005
+
+210.
+
+Data la care
+încetează
+prezumția de
+conformitate
+cu standardul
+înlocuit
+Nota 1
+
+Recipiente sub presiune nesupuse la flacără.
+Partea 8: Cerințe suplimentare pentru
+recipientele sub presiune executate din
+aluminiu și aliaje de aluminiu
+
+203.
+
+Nr. standardului
+înlocuit
+
+17
+
+Nota 2
+
+31.05.2009
+
+Nota 2
+
+31.12.2005
+
+Conducte industriale metalice. Partea 1:
+Generalități
+
+Nota 2
+
+31.12.2005
+
+SR EN 13480-1:2003/
+A2: 2008
+
+Conducte industriale metalice. Partea 1:
+Generalități. Amendament 2
+
+Nota 2
+
+30.11.2008
+
+211.
+
+SR EN 13480-2:2003
+
+Conducte industriale metalice. Partea 2:
+Materiale
+
+212.
+
+SR EN 13480-3:2003
+
+Conducte industriale metalice. Partea 3:
+Proiectare și calcul
+
+213.
+
+SR EN 13480-3:2003/
+A1:2006
+
+Conducte industriale metalice. Partea 3:
+Proiectare și calcul
+
+Nota 2
+
+28.02.2006
+
+214.
+
+SR EN 13480-3:2003/
+A2:2007
+
+Conducte industriale metalice. Partea 3:
+Proiectare și calcul
+
+Nota 2
+
+31.05.2007
+
+215.
+
+SR EN 13480-4:2003
+
+Conducte industriale metalice. Partea 4:
+Execuție și instalare
+
+216.
+
+SR EN 13480-5:2003
+
+Conducte industriale metalice. Partea 5:
+Inspecție și încercare
+
+217.
+
+SR EN 13480-6:2004
+
+Conducte industriale metalice. Partea 6:
+Cerințe suplimentare pentru conductele
+îngropate
+
+218.
+
+SR EN 13480-6:2004/
+A1:2006
+
+Conducte industriale metalice. Partea 6:
+Cerințe suplimentare pentru conductele
+îngropate
+
+Nota 2
+
+31.06.2006
+
+18
+
+Nr.
+crt.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+Indicele standardului
+
+Titlul standardului
+
+219.
+
+SR EN 13480-8:2007
+
+Conducte industriale metalice. Partea 8:
+Condiții suplimentare pentru conductele de
+aluminiu și aliaje de aluminiu
+
+220.
+
+SR EN 13611:2008
+
+Echipamente auxiliare pentru arzătoare cu
+gaz și aparate cu gaz. Cerințe generale
+
+221.
+
+SR EN 13648-1:2003
+
+Recipiente criogenice. Dispozitive de protecție
+împotriva suprapresiunii. Partea 1: Supape de
+siguranță pentru uz criogenic
+
+222.
+
+SR EN 13648-2:2003
+
+Recipiente criogenice. Dispozitive de protecție
+împotriva suprapresiunii. Partea 2: Dispozitive
+cu discuri de rupere pentru uz criogenic
+
+223.
+
+SR EN 13648-3:2004
+
+Recipiente criogenice. Dispozitive de protecție
+împotriva suprapresiunii. Partea 3:
+Determinarea debitului de evacuat. Capacitate
+și dimensionare
+
+224.
+
+SR EN 13709:2003
+
+Robinetărie industrială. Robinete de închidere
+și reținere cu ventil de oțel
+
+225.
+
+SR EN 13789:2003
+
+Robinetărie industrială. Robinete cu ventil de
+fontă
+
+226.
+
+SR EN 13799:2003
+
+Indicatoare de nivel pentru recipiente cu gaz
+petrolier lichefiat
+
+227.
+
+SR EN 13799:2003/AC:2007
+
+Indicatoare de nivel pentru recipiente cu gaz
+petrolier lichefiat
+
+228.
+
+SR EN 13831:2008
+
+Vase de expansiune închise cu membrană
+încorporată pentru instalare cu sisteme de
+apă
+
+229.
+
+SR EN 13835:2003
+
+Turnătorie. Fontă austenitică
+
+230.
+
+SR EN 13835:2003/A1:2006
+
+Turnătorie. Fontă austenitică
+
+231.
+
+SR EN 13923:2006
+
+Recipiente de PAS sub presiune, cu
+înfășurare filamentară. Materiale, proiectare,
+fabricație și încercare
+
+232.
+
+SR EN 14071:2005
+
+Supape de siguranță pentru rezervoare de
+gaz petrolier lichefiat (GPL). Echipament
+auxiliar
+
+233.
+
+SR EN 14075:2003
+
+Recipiente cilindrice staționare, sudate de
+oțel, produse în serie, pentru depozitarea
+gazelor petroliere lichefiate (GPL) având un
+volum mai mic sau egal cu 13 m3 și pentru
+instalare subterană. Proiectare și execuție
+
+234.
+
+SR EN 14075:2003/A1:2005
+
+Recipiente cilindrice staționare, sudate, de
+oțel, produse în serie, pentru depozitarea
+gazelor petroliere lichefiate (GPL) având un
+volum mai mic sau egal cu 13 m3 și pentru
+instalare subterană. Proiectare și execuție
+
+235.
+
+SR EN 14129:2005
+
+Supape de siguranță pentru recipiente GPL
+
+236.
+
+SR EN 14197-1:2004
+
+Recipiente criogenice. Recipiente fixe,
+neizolate sub vid. Partea 1: Condiții de bază
+
+Nr. standardului
+înlocuit
+
+Data la care
+încetează
+prezumția de
+conformitate
+cu standardul
+înlocuit
+Nota 1
+
+Nota 2
+
+30.06.2005
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+Nr.
+crt.
+
+Indicele standardului
+
+Titlul standardului
+
+237.
+
+SR EN 14197-2:2004
+
+SR EN 14197-2:2004/
+A1:2007
+
+Recipiente criogenice. Recipiente statice
+neizolate sub vid. Partea 2: Proiectare,
+execuție, inspecție și încercări
+
+239.
+
+SR EN 14197-2:2004/
+AC:2007
+
+Recipiente criogenice. Recipiente statice
+neizolate sub vid. Partea 2: Proiectare,
+execuție, inspecție și încercări
+
+240.
+
+SR EN 14197-3:2004
+
+Recipiente criogenice. Recipiente statice
+neizolate sub vid. Partea 3: Condiții de lucru
+
+241.
+
+SR EN 14197-3:2004/
+A1:2005
+
+Recipiente criogenice. Recipiente statice
+neizolate sub vid. Partea 3: Condiții de lucru
+
+242.
+
+SR EN 14197-3:2004/
+AC:2005
+
+Recipiente criogenice. Recipiente statice
+neizolate sub vid. Partea 3: Condiții de lucru
+
+243.
+
+SR EN 14222:2004
+
+Cazane cu țevi de fum executate din oțel
+inoxidabil
+
+244.
+
+SR EN 14276-1:2007
+
+Echipamente sub presiune pentru sisteme de
+refrigerare și pompe de căldură. Partea 1:
+Recipiente. Cerințe generale
+
+245.
+
+SR EN 14276-2:2007
+
+Echipamente sub presiune pentru sisteme de
+refrigerare și pompe de căldură. Partea 2:
+Conducte. Cerințe generale
+
+246.
+
+SR EN 14341:2007
+
+Robinetărie industrială. Robinete de închidere
+de oțel
+
+247.
+
+SR EN 14359:2007
+
+Acumulatoare hidropneumatice pentru
+transmisia hidraulică
+
+248.
+
+SR EN 14382:2005
+
+Dispozitive de securitate pentru posturile și
+instalațiile de detentă-reglare a presiunii
+gazelor. Dispozitive de blocare pentru
+presiunile de serviciu până la 100 bar
+
+249.
+
+SR EN 14394+A1:2009
+
+Cazane de încălzire. Cazane echipate cu
+arzătoare cu tiraj forțat. Putere utilă mai mică
+sau egală cu 10 MW și temperatură maximă
+de funcționare de 110 grade C
+
+250.
+
+SR EN 14570:2005
+
+Echipament pentru rezervoare de GPL
+supraterane și subterane
+
+251.
+
+SR EN 14570:2005/A1:2006
+
+Echipament pentru rezervoare de GPL
+supraterane și subterane
+
+252.
+
+SR EN 14585-1:2006
+
+Furtunuri metalice flexibile ondulate utilizate
+sub presiune. Partea 1: Prescripții
+
+Data la care
+încetează
+prezumția de
+conformitate
+cu standardul
+înlocuit
+Nota 1
+
+Recipiente criogenice. Recipiente statice
+neizolate sub vid. Partea 2: Proiectare,
+execuție, inspecție și încercări
+
+238.
+
+Nr. standardului
+înlocuit
+
+19
+
+Nota 2
+
+28.02.2007
+
+Nota 2
+
+31.12.2005
+
+Nota 2
+
+31.08.2006
+
+20
+
+Nr.
+crt.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+Indicele standardului
+
+Titlul standardului
+
+253.
+
+SR EN ISO 15493:2004
+
+Sisteme de canalizare de materiale plastice
+pentru aplicații industriale. Acrilonitrilbutadien-stiren (ABS), policlorură de vinil
+neplastificată (PVC-U) și policlorură de vinil
+clorurată (PVC-C). Specificații pentru
+componente și sistem. Serie metrică
+
+254.
+
+SR EN ISO 15494:2004
+
+Sisteme de canalizare de materiale plastice
+pentru aplicații industriale. Polibutenă (PB),
+polietilenă (PE) și polipropilenă (PP).
+Specificații pentru componente și sistem.
+Serie metrică
+
+255.
+
+SR EN ISO 15613:2004
+
+Specificația și calificarea procedurilor de
+sudare pentru materiale metalice. Calificare
+bazată pe o încercare de sudare înainte de
+începerea fabricației
+
+256.
+
+SR EN ISO 15614-1:2004
+
+Specificația și calificarea procedurilor de
+sudare pentru materiale metalice. Verificarea
+procedurii de sudare. Partea 1: Sudarea cu
+arc și sudarea cu gaz a oțelurilor și sudarea
+cu arc a nichelului și a aliajelor de nichel
+
+257.
+
+SR EN ISO 15614-1:2004/
+A1:2008
+
+Specificația și calificarea procedurilor de
+sudare pentru materiale metalice. Verificarea
+procedurii de sudare. Partea 1: Sudarea cu
+arc și sudarea cu gaz a oțelurilor și sudarea
+cu arc a nichelului și a aliajelor de nichel.
+Amendament 1
+
+258.
+
+SR EN ISO 15614-2:2005
+
+Specificația și calificarea procedurilor de
+sudare pentru materiale metalice. Verificarea
+procedurii de sudare. Partea 2: Sudare cu arc
+electric a aluminiului și aliajelor sale
+
+259.
+
+SR EN ISO 15614-4:2006
+
+Specificația și calificarea procedurilor de
+sudare pentru materiale metalice. Verificarea
+procedurii de sudare. Partea 4: Sudare de
+finisaj a pieselor turnate de aluminiu
+
+260.
+
+SR EN ISO 15614-4:
+2006/AC:2008
+
+Specificația și calificarea procedurilor de
+sudare pentru materiale metalice. Verificarea
+procedurii de sudare. Partea 4: Sudare de
+finisaj a pieselor turnate de aluminiu
+
+261.
+
+SR EN ISO 15614-5:2004
+
+Specificația și calificarea procedurilor de
+sudare pentru materiale metalice. Verificarea
+procedurii de sudare. Partea 5: Sudarea cu
+arc electric a titanului, a zirconiului și a
+aliajelor acestora
+
+Nr. standardului
+înlocuit
+
+Data la care
+încetează
+prezumția de
+conformitate
+cu standardul
+înlocuit
+Nota 1
+
+Nota 2
+
+31.08.2008
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+Nr.
+crt.
+
+Indicele standardului
+
+Titlul standardului
+
+262.
+
+SR EN ISO 15614-6:2006
+
+SR EN ISO 15614-7:2007
+
+Specificația și calificarea procedurilor de
+sudare pentru materiale metalice. Verificarea
+procedurii de sudare. Partea 7: Încărcare prin
+sudare
+
+264.
+
+SR EN ISO 15614-8:2003
+
+Specificația și calificarea procedurilor de
+sudare pentru materiale metalice. Verificarea
+procedurii de sudare. Partea 8: Sudarea
+îmbinărilor țeavă - placă tubulară
+
+265.
+
+SR EN ISO 15614-11:2003
+
+Specificația și calificarea procedurilor de
+sudare pentru materiale metalice. Verificarea
+procedurii de sudare. Partea 11: Sudare cu
+fascicul de electroni și cu laser
+
+266.
+
+SR EN ISO 15620:2002
+
+Sudare. Sudarea prin frecare a materialelor
+metalice
+
+267.
+
+SR EN ISO 16135:2006
+
+Robinetărie industrială. Robinete cu sferă de
+materiale termoplastice
+
+268.
+
+SR EN ISO 16136:2006
+
+Robinetărie industrială. Robinete cu fluture de
+materiale termoplastice
+
+269.
+
+SR EN ISO 16137:2006
+
+Robinetărie industrială. Robinete de închidere
+de materiale termoplastice
+
+270.
+
+SR EN ISO 16138:2006
+
+Robinetărie industrială. Robinete cu diafragmă
+de materiale termoplastice
+
+271.
+
+SR EN ISO 16139: 2006
+
+Robinetărie industrială. Robinete cu sertar de
+materiale termoplastice
+
+272.
+
+SR EN ISO 21787:2006
+
+Data la care
+încetează
+prezumția de
+conformitate
+cu standardul
+înlocuit
+Nota 1
+
+Specificația și calificarea procedurilor de
+sudare pentru materiale metalice. Verificarea
+procedurii de sudare. Partea 6: Sudarea cu
+arc electric și cu gaze a cuprului și aliajelor
+sale
+
+263.
+
+Nr. standardului
+înlocuit
+
+21
+
+Robinetărie industrială. Robinete cu ventil de
+materiale termoplastice
+
+Nota 1: În general, data încetării prezumției de conformitate va fi data de anulare stabilită de către Organismul European
+de Standardizare, însă se atrage atenția utilizatorilor acestor standarde asupra faptului că aceasta poate diferi în anumite cazuri
+excepționale.
+Nota 2: În cazul modificărilor, standardul de referință este SR EN CCCCC: YYYY, modificările sale anterioare, dacă există,
+și noua modificare menționată. Prin urmare, standardul înlocuit (coloana 3) se compune din SR EN CCCCC: YYYY și modificările
+sale anterioare, dacă există, însă fără noua modificare menționată. La data menționată, standardul înlocuit încetează să confere
+prezumția de conformitate cu cerințele esențiale ale directivei.
+
+22
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+ACTE ALE CURȚII EUROPENE A DREPTURILOR OMULUI
+CURTEA EUROPEANĂ A DREPTURILOR OMULUI
+
+HOTĂRÂREA
+din 9 decembrie 2008
+
+în Cauza Viașu împotriva României
+(Cererea nr. 75.951/01)
+În Cauza Viașu împotriva României,
+Curtea Europeană a Drepturilor Omului (Secția a treia), statuând în cadrul unei camere formate din: Josep Casadevall,
+președinte, Elisabet Fura-Sandström, Corneliu Bîrsan, Alvina Gyulumyan, Egbert Myjer, Ineta Ziemele, Luis López Guerra,
+judecători, și din Santiago Quesada, grefier de secție,
+după ce a deliberat în camera de consiliu la data de 18 noiembrie 2008,
+pronunță următoarea hotărâre, adoptată la această dată:
+PROCEDURA
+
+1. La originea cauzei se află o cerere (nr. 75.951/01)
+îndreptată împotriva României, prin care un cetățean al acestui
+stat, domnul Gheorghe State Viașu (reclamantul), a sesizat
+Curtea la data de 27 februarie 2001 în temeiul art. 34 din
+Convenția pentru apărarea drepturilor omului și a libertăților
+fundamentale (Convenția).
+La 14 iulie 2006, grefierul a fost informat cu privire la decesul
+reclamantului ce a avut loc la 1 iulie 2006, ulterior despre intenția
+fiului său, Gheorghe Crinel Viașu, de a continua procedura în
+locul acestuia.
+2. Reclamantul, care a beneficiat de asistență judiciară din
+oficiu, este reprezentat de Societatea civilă profesională de
+avocați ăOancea, Rădulețu și Gherghe”. Guvernul român
+(Guvernul) este reprezentat de agentul său, Horațiu-Răzvan
+Radu, subsecretar de stat în cadrul Ministerului Afacerilor
+Externe.
+3. Reclamantul a susținut că a avut loc o încălcare a dreptului
+său de proprietate garantat de art. 1 din Protocolul nr. 1 din
+Convenție, având în vedere imposibilitatea sa de a se bucura
+de dreptul la despăgubire pentru un teren, în conformitate cu
+legislația internă privind retrocedările.
+4. La data de 21 septembrie 2004, Curtea a hotărât să îi
+comunice Guvernului cererea. La 12 decembrie 2006, invocând
+prevederile art. 29 § 3 din Convenție, aceasta a hotărât
+analizarea simultană a admisibilității și a temeiniciei cauzei.
+ÎN FAPT
+
+I. Circumstanțele cauzei
+5. Reclamantul s-a născut în anul 1924 și locuia în DrobetaTurnu Severin.
+6. Proprietar al unui teren în suprafață de 18,62 ha situat în
+comuna Cătunele (județul Gorj), reclamantul a fost obligat în
+anul 1962 să îl cedeze cooperativei agricole de producție din
+Cătunele, înființată în cadrul reformei agricole întreprinse de
+regimul comunist instaurat în anul 1945.
+7. În jurul anului 1980, o parte din acest teren a fost destinată
+exploatării miniere carbonifere din regiune și cedată de
+cooperativă întreprinderii miniere de stat din Motru (denumită în
+continuare întreprinderea M.).
+A. Restituirea în natură a unei părți din terenul confiscat
+8. După înlăturarea regimului comunist din 22 decembrie
+1989, reclamantul a formulat o cerere de restituire a terenului
+de care fusese deposedat de către statul comunist, întemeiată
+
+pe Legea fondului funciar nr. 18/1991. Ca răspuns, acesta a
+primit în proprietate o parte din terenul care îi aparținuse, restul
+neputându-i fi restituit întrucât era folosit de o întreprindere de
+stat.
+9. Legea nr. 18/1991 a suferit numeroase modificări (a se
+vedea mai jos secțiunea referitoare la dreptul intern, paragrafele
+30—46). Printre altele, în temeiul modificării aduse de Legea
+nr. 169/1997 din 27 octombrie 1997, pentru modificarea și
+completarea Legii fondului funciar nr. 18/1991, suprafața de
+teren ce putea fi restituită unui particular a fost stabilită la 50 ha
+(a se vedea mai jos paragraful 31).
+10. Având în vedere numărul important de cereri de restituire
+primite de autorități, dar care nu au putut fi admise din lipsă de
+teren disponibil, Legea nr. 18/1991 a fost modificată din nou la
+data de 11 ianuarie 2000 prin Legea nr. 1/2000 pentru
+reconstituirea dreptului de proprietate asupra terenurilor agricole
+și celor forestiere, solicitate potrivit prevederilor Legii fondului
+funciar nr. 18/1991 și ale Legii nr. 169/1997. Conform acestei
+legi, beneficiarilor de decizii de restituire care nu puteau obține
+restituirea integrală în natură din lipsă de teren disponibil li se
+putea acorda o despăgubire în schimbul părții nerestituite (a se
+vedea mai jos paragraful 34).
+11. La începutul anului 2000, deoarece nu beneficiase încă
+de restituirea întregului teren, reclamantul a depus mai multe
+cereri suplimentare de acordare a unui alt teren echivalent sau,
+în lipsa restituirii, de despăgubire pentru partea nerestituită, și
+anume pentru 16,63 ha.
+El arăta că parcela de teren era folosită de întreprinderea M.
+și că prin expertize independente s-a constatat că terenul nu
+mai era exploatabil în scopuri agricole din cauza deșeurilor
+carbonifere depuse pe acesta.
+B. Deciziile de restituire a restului terenului
+12. La data de 14 iunie 2000, Primăria Cătunele l-a informat
+pe reclamant despre decizia comisiei locale pentru aplicarea
+Legii nr. 1/2000 de a-i restitui o parcelă de teren în suprafață de
+10,42 ha sau, în lipsa unui teren disponibil, cu privire la dreptul
+său de a beneficia de o despăgubire pecuniară. Ulterior,
+reclamantului i s-a confirmat dreptul de restituire a unei alte
+parcele de 6,21 ha.
+13. Într-o adresă trimisă reclamantului la 19 septembrie
+2000, primăria i-a confirmat din nou faptul că avea dreptul să
+primească în proprietate terenul respectiv.
+14. Deoarece reclamantul a solicitat executarea efectivă a
+deciziilor de restituire și punerea sa în posesie, la data de
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+6 octombrie 2000, Primăria Cătunele l-a informat că nu mai are
+teren disponibil și, prin urmare, că incumba întreprinderii M.,
+care folosea întregul teren ce îi aparținuse reclamantului,
+obligația de a-l despăgubi.
+15. Mai multe cereri de despăgubire trimise de reclamant
+întreprinderii M. în luna august 2000 au fost respinse, aceasta
+pretextând în primă fază că reclamantul nu îi comunicase
+documentele care îi dădeau dreptul la restituire, iar ulterior, că
+terenul în discuție nu îi putea fi restituit deoarece era folosit
+pentru exploatarea cărbunelui.
+16. În mai multe adrese de răspuns, reclamantul a precizat
+că solicită despăgubiri pentru terenul care nu îi putea fi restituit.
+17. Prin mai multe adrese datate 19, 20 și 30 octombrie
+2000, reclamantul a fost informat de autorități și de
+întreprinderea M. că nu fusese adoptată nicio prevedere legală
+care să precizeze modalitățile și mijloacele prin care trebuia să
+se facă despăgubirea prevăzută de Legea nr. 1/2000 și că, prin
+urmare, nu îi putea fi acordată nicio despăgubire.
+18. La intervale regulate de timp, reclamantul s-a adresat
+Prefecturii Gorj, solicitând să îi fie plătite despăgubirile
+menționate în Legea nr. 1/2000. Prin adresele din 6 martie,
+31 august, 10 și 12 septembrie 2001 și 30 ianuarie 2002,
+prefectul județului Gorj i-a comunicat că, în lipsa dispozițiilor de
+aplicare a Legii nr. 1/2000, nu îi putea fi plătită nicio
+despăgubire, dar l-a asigurat că aceste prevederi urmau să fie
+adoptate foarte curând de către Guvern.
+19. Prin adresele din 31 august și 10 septembrie 2001,
+prefectul a confirmat creanța reclamantului pentru un teren în
+suprafață totală de 16,63 ha și i-a recomandat să își înscrie
+creanța pe care o avea împotriva statului în tabelul menționat în
+regulamentul de aplicare a Legii nr. 18/1991, cu modificările sale
+ulterioare.
+20. Reclamantul s-a conformat. Prin două decizii
+administrative din 5 aprilie și 17 mai 2002, comisia județeană
+pentru aplicarea Legii nr. 18/1991 a validat înscrierea creanțelor
+datorate de stat reclamantului pentru cele două parcele în
+suprafață de 10,42 ha și, respectiv, 6,21 ha, în tabelul creanțelor
+întocmit conform Legii nr. 1/2000.
+C. Cererile de executare a creanțelor reclamantului
+împotriva statului
+21. Deoarece nu primise încă nicio despăgubire, reclamantul
+a continuat să trimită memorii autorităților, solicitând plata
+creanțelor care îi erau datorate pentru terenul nerestituit, în
+suprafață totală de 16,63 ha.
+22. Aceste memorii au fost adresate Prefecturii Județului
+Gorj, care l-a informat pe reclamant prin adresele din
+24 ianuarie, 31 martie, 2 aprilie, 16 mai, 12 septembrie și
+29 octombrie 2003 despre clasarea cererilor sale, având în
+vedere caracterul lor repetitiv.
+23. La 10 decembrie 2003 și 27 ianuarie 2004, Ministerul
+Administrației Publice i-a transmis un răspuns similar.
+24. La 15 august 2003, Ministerul Finanțelor l-a informat pe
+reclamant că Legea nr. 389/2002 prelungise până la data de
+30 iunie 2004 termenul de punere în aplicare a Legii nr. 1/2000.
+25. Într-o cerere adresată prefectului județului Gorj la data
+de 20 octombrie 2004, reclamantul a solicitat să i se acorde
+suma de 1.000 euro pe hectar de teren nerestituit, despăgubiri
+pentru perioada în care nu a putut beneficia de teren, începând
+cu intrarea în vigoare a Legii nr. 1/2000, actualizarea acestor
+sume ținându-se cont de nivelul inflației din perioada 2000—
+2004, care s-a ridicat, conform Institutului Național de Statistică,
+la 262,7%, precum și daune morale.
+
+23
+
+Cu această ocazie, el s-a plâns de metoda de calcul a valorii
+terenurilor, stabilită prin Hotărârea Guvernului nr. 1.546/2004
+pentru aprobarea Normelor metodologice privind modul de
+stabilire a valorii terenurilor arabile și a celor forestiere, sursele
+financiare și modalitățile de plată către foștii proprietari, de
+aplicare a art. 40 din Legea nr. 1/2000, care avea ca rezultat
+diminuarea drastică a valorii terenurilor, deoarece avea ca bază
+prețul cerealelor la bursa din Chicago, în loc să țină cont de
+prețurile practicate în cadrul Uniunii Europene. El a concluzionat
+că prețul terenului său, evaluat de autorități la suma de 391 euro
+pe hectar, nu era un preț serios.
+26. Astfel cum reiese dintr-o adresă depusă de Guvern la
+data de 21 martie 2007, Prefectura Gorj l-a informat pe acesta
+la 12 martie 2007 că fosta întreprindere M., redenumită ulterior
+Societatea Națională a Lignitului Oltenia (SNLO), efectua lucrări
+pentru a putea reda circuitului agricol terenuri aflate în
+administrarea sa. Prin urmare, reclamantului i se puteau restitui
+în natură, înainte de sfârșitul anului 2007, terenurile la care avea
+dreptul, astfel încât creanțele pe care acesta le avea împotriva
+statului nu mai erau exigibile.
+27. În prezent, terenul nu a fost încă restituit. Nici
+reclamantul, decedat la data de 1 iulie 2006, nici fiul său,
+moștenitor unic, nu au primit vreo sumă cu titlu de despăgubire.
+II. Dreptul și practica interne pertinente
+A. Constituția
+28. Prevederile relevante din Constituția României sunt
+următoarele:
+ARTICOLUL 1
+Statul român
+
+ă[...]
+(5) În România, respectarea Constituției, a supremației sale
+și a legilor este obligatorie.”
+ARTICOLUL 44
+Dreptul de proprietate privată
+
+ă[...]
+(3) Nimeni nu poate fi expropriat decât pentru o cauză de
+utilitate publică, stabilită potrivit legii, cu dreaptă și prealabilă
+despăgubire.
+[...]
+(5) Pentru lucrări de interes general, autoritatea publică
+poate folosi subsolul oricărei proprietăți imobiliare, cu obligația
+de a despăgubi proprietarul pentru daunele aduse solului,
+plantațiilor sau construcțiilor, precum și pentru alte daune
+imputabile autorității.
+(6) Despăgubirile prevăzute în alineatele (3) și (5) se
+stabilesc de comun acord cu proprietarul sau, în caz de
+divergență, prin justiție.”
+ARTICOLUL 52
+Dreptul persoanei vătămate de o autoritate publică
+
+ă(1) Persoana vătămată într-un drept al său ori într-un interes
+legitim, de o autoritate publică, printr-un act administrativ sau
+prin nesoluționarea în termenul legal a unei cereri, este
+îndreptățită să obțină recunoașterea dreptului pretins sau a
+interesului legitim, anularea actului și repararea pagubei.
+[...]”
+ARTICOLUL 108
+Actele Guvernului
+
+ă(1) Guvernul adoptă hotărâri și ordonanțe.
+
+24
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+(2) Hotărârile se emit pentru organizarea executării legilor.
+(3) Ordonanțele se emit în temeiul unei legi speciale de
+abilitare, în limitele și în condițiile prevăzute de aceasta.
+[...]”
+ARTICOLUL 115
+Delegarea legislativă
+
+ă(1) Parlamentul poate adopta o lege specială de abilitare a
+Guvernului pentru a emite ordonanțe în domenii care nu fac
+obiectul legilor organice.
+(2) Legea de abilitare va stabili, în mod obligatoriu, domeniul
+și data până la care se pot emite ordonanțe.
+(3) Dacă legea de abilitare o cere, ordonanțele se supun
+aprobării Parlamentului, potrivit procedurii legislative, până la
+împlinirea termenului de abilitare. Nerespectarea termenului
+atrage încetarea efectelor ordonanței.
+[...]
+(7) Ordonanțele cu care Parlamentul a fost sesizat se aprobă
+sau se resping printr-o lege în care vor fi cuprinse și ordonanțele
+ale căror efecte au încetat potrivit alineatului (3).
+[...]”
+B. Prevederile legale relevante care abilitează Guvernul
+să emită ordonanțe de urgență
+29. În 2007, Parlamentul s-a reunit în două sesiuni,
+5 februarie—28 iunie și 3 septembrie—20 decembrie 2007. În
+afara acestor sesiuni, Guvernul a fost abilitat să emită ordonanțe
+astfel: pentru perioada 1 ianuarie—5 februarie 2007, prin Legea
+nr. 502/2006, și pentru perioada 26 iulie—3 septembrie 2007,
+prin Legea nr. 266/2007.
+C. Prevederile privind dreptul la restituirea terenurilor
+agricole
+30. După căderea regimului comunist, în decembrie 1989,
+au fost adoptate mai multe legi privind retrocedarea bunurilor
+imobile confiscate sau naționalizate în perioada 6 martie 1945—
+22 decembrie 1989.
+Dreptul la restituirea terenurilor a fost stabilit prin Legea
+nr. 18/1991 a fondului funciar, intrată în vigoare la data de
+20 februarie 1991. Astfel, foștilor proprietari de terenuri trecute
+în proprietatea statului sau a cooperativelor agricole li s-a
+acordat dreptul la restituire în limita a 10 ha, iar în caz de
+nerestituire în natură a terenului respectiv, acordarea în
+proprietate a unui teren echivalent având aceeași suprafață.
+Decizia de restituire trebuia luată, la cererea beneficiarului, de
+către o comisie locală de pe lângă primăria locului de restituire
+și, în caz de contestație, de către o comisie județeană de pe
+lângă prefectură. În caz de contestație a deciziei comisiei
+județene, instanțele erau competente să soluționeze litigiile
+rezultate din aplicarea acestei legi.
+31. Legea nr. 18/1991 a fost modificată până în prezent prin
+mai mult de 70 de acte normative. Astfel, au fost modificate de
+mai multe ori atât întinderea dreptului la retrocedare, care a
+crescut de o manieră continuă, ajungând la suprafața de 50 ha
+pentru o persoană fizică, cât și procedurile de retrocedare:
+termenele de depunere a cererilor, procedura de analiză a
+cererii, procedura de acordare a titlurilor de proprietate,
+organismele competente pentru restituirea proprietăților,
+compunerea și funcționarea lor, stabilirea despăgubirii în caz de
+nerestituire și organismele competente în această privință etc.
+Toate aceste schimbări au avut o aplicare imediată, afectând
+astfel soarta cererilor deja depuse, dar nesoluționate.
+32. Au fost operate modificări esențiale în luna octombrie
+1997 prin Legea nr. 169/1997, în luna ianuarie 2000 prin Legea
+nr. 1/2000 și în luna iulie 2005 prin Legea nr. 247/2005.
+
+33. Legea nr. 169/1997 din 27 octombrie 1997 a stabilit
+dreptul la restituire pentru 50 ha de teren pentru o persoană
+fizică, restituirea trebuind să se facă fie pe vechiul amplasament,
+fie în altă parte, în funcție de disponibilitățile comunei. Celor
+cărora li se restituiseră deja suprafețe de până la 10 ha în
+temeiul Legii nr. 18/1991 li s-a acordat un nou termen pentru a
+solicita diferența de până la 50 ha.
+34. Legea nr. 1/2000 din 11 ianuarie 2000, intrată în vigoare
+la data de 15 ianuarie 2000, a dispus acordarea unei
+despăgubiri în caz de imposibilitate a restituirii integrale în
+natură. Mai mult, a fost acordat un nou termen persoanelor care
+nu au formulat nicio cerere de restituire pentru diferența peste
+10 ha în temeiul Legii nr. 169/1997. Prevederile relevante ale
+acestei legi sunt următoarele:
+ARTICOLUL 3
+
+ă[...]
+(3) În situația în care nu se poate face reconstituirea dreptului
+de proprietate integral [...] se vor acorda despăgubiri pentru
+diferența de teren neretrocedat.
+(4) Despăgubirile se vor acorda începând cu suprafețele cele
+mai mici care nu pot fi retrocedate.
+[...]”
+ARTICOLUL 4
+
+ă(1) Pentru terenurile (...) foste proprietăți ale persoanelor
+fizice, care au trecut în proprietatea statului în mod abuziv și se
+găsesc incluse în diverse amenajări hidrotehnice, de
+hidroameliorații sau de altă natură, se restituie, în condițiile legii,
+foștilor proprietari sau moștenitorilor acestora suprafețe
+echivalente constituite din rezerva existentă la comisiile locale,
+iar în situația în care aceste suprafețe sunt insuficiente, din
+domeniul privat al statului, din aceeași localitate. În localitățile
+în care compensarea nu este posibilă se vor acorda despăgubiri
+foștilor proprietari sau moștenitorilor acestora, în condițiile legii.
+(...)”
+ARTICOLUL 40
+
+ăPentru toate terenurile agricole și forestiere solicitate prin
+cereri întemeiate, aprobate de organele competente,
+înregistrate în termenele și cu procedura prevăzute de Legea
+nr. 18/1991, modificată și completată prin Legea nr. 169/1997,
+care nu au putut fi retrocedate (...), Guvernul va stabili prin
+hotărâre modul de evaluare a terenurilor, sursele financiare și
+modalitățile de plată către foștii proprietari, în termen de 45 de
+zile de la data intrării în vigoare a prezentei legi.”
+35. În pofida prevederilor art. 40 din Legea nr. 1/2000, nu a
+fost adoptată nicio hotărâre în termen de 45 de zile din
+momentul intrării în vigoare a acestei legi, la data de 15 ianuarie
+2000.
+36. Regulamentul de aplicare a Legii nr. 18/1991 a fost
+modificat prima oară la data de 17 martie 2000, având în vedere
+prevederile Legii nr. 1/2000. A fost introdus un tabel al creanțelor
+împotriva statului, rezultate din legile privind retrocedările, în
+care autoritățile trebuiau să înscrie numele beneficiarilor unei
+decizii de retrocedare care nu poate fi executată, precum și
+valoarea despăgubirilor datorate pentru terenul nerestituit.
+Regulamentul a fost modificat de mai multe ori, printre altele în
+decembrie 2001 și în august 2005.
+37. Mai multe acte normative adoptate în perioada august
+2000—iunie 2002 au prelungit până în iulie 2004 termenul
+acordat Guvernului pentru finanțarea retrocedărilor și a
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+despăgubirilor acordate în conformitate cu Legea nr. 18/1991
+privind retrocedările.
+La data de 23 septembrie 2004, Guvernul a adoptat
+Hotărârea Guvernului nr. 1.546/2004 pentru aprobarea
+Normelor metodologice privind modul de stabilire a valorii
+terenurilor arabile și a celor forestiere, sursele financiare și
+modalitățile de plată către foștii proprietari, care stabilea normele
+de aplicare a art. 40 din Legea nr. 1/2000. Intrată în vigoare în
+luna octombrie 2004, această hotărâre stabilea metoda de
+evaluare a terenurilor în scopul acordării de despăgubiri în
+temeiul legilor privind retrocedările de terenuri agricole. Conform
+art. 2 din această hotărâre, sumele necesare pentru plata de
+despăgubiri trebuiau transferate în fiecare an din bugetul de stat
+județelor.
+38. La data de 19 iulie 2005 a fost adoptată Legea
+nr. 247/2005 privind reforma în domeniile proprietății și justiției,
+precum și unele măsuri adiacente, care a modificat în mod
+substanțial Legea nr. 18/1991. Astfel, proprietarilor le-a fost
+acordat un nou termen pentru a formula cereri suplimentare
+pentru suprafețele nerestituite în temeiul Legii nr. 18/1991,
+procedura de analiză a cererilor a fost modificată și au fost
+înființate noi organisme competente în vederea analizării
+cererilor și acordării titlurilor de proprietate și a despăgubirilor.
+În titlul VII, legea stabilea principiul conform căruia
+despăgubirea datorată trebuia să fie ăjustă și echitabilă, în raport
+cu practica jurisdicțională internă și internațională având ca
+obiect cauze prin care s-au stabilit despăgubiri pentru imobile
+preluate în mod abuziv de statul român” [art. 4 lit. a)], în lipsa
+oricărui plafon care să limiteze aceste despăgubiri [art. 4 lit. b)].
+De asemenea, legea definea sursele din care urmau să fie
+finanțate plățile despăgubirilor, procedurile de urmat pentru
+stabilirea sumei și pentru plata efectivă a despăgubirilor. Rolul
+decizional al comisiei județene pentru aplicarea Legii
+nr. 18/1991, competentă în ultimă instanță a pronunța decizii de
+retrocedare și de acordare a despăgubirilor (a se vedea
+paragraful 30 de mai sus), a fost anulat. Comisiilor județene li
+s-a acordat numai un rol de transmitere a cererii beneficiarului
+la Comisia centrală pentru stabilirea despăgubirilor (Comisia
+centrală), care trebuia înființată. Acestei comisii, în cadrul căreia
+a fost înființată Autoritatea Națională pentru Restituirea
+Proprietăților (ANRP), i s-a acordat competența de a valida
+sumele finale de plată și de a emite titluri de proprietate sau de
+plată, la propunerea unor ăevaluatori desemnați” pentru a stabili
+valoarea bunurilor (art. 16).
+În vederea plății despăgubirilor acordate de Comisia centrală
+în baza legilor privind retrocedările, a fost înființat un organism
+de plasament colectiv de valori mobiliare, numit Fondul
+Proprietatea.
+Art. 12 alin. (4) din Legea nr. 247/2005 prevedea ca Fondul
+Proprietatea să adopte, în cel mult 30 de zile de la înființarea
+sa, măsurile necesare în vederea cotării la Bursă a acțiunilor
+sale, pentru ca beneficiarii deciziilor de despăgubire emise în
+baza legilor privind retrocedările să poată să le vândă și să
+încaseze prețul în orice moment.
+39. La data de 15 septembrie 2005, Guvernul a adoptat
+regulamentul de aplicare a Legii nr. 247/2005.
+40. Fondul Proprietatea a fost înființat în luna decembrie
+2005, capitalul său fiind constituit în majoritate din active ale
+statului în diferite întreprinderi. Până în prezent, acțiunile
+Fondului Proprietatea nu au fost cotate la Bursă.
+41. Ordonanța de urgență a Guvernului nr. 136/2006 din
+22 decembrie 2006 pentru completarea Legii nr. 263/2006
+privind aprobarea Ordonanței de urgență a Guvernului
+
+25
+
+nr. 209/2005 pentru modificarea și completarea unor acte
+normative în domeniul proprietății sublinia în expunerea sa de
+motive în special că ăAutoritatea Națională pentru Restituirea
+Proprietăților, prin Corpul de Control, constată că în teritoriu se
+întâmpină dificultăți în aplicarea legislației, ceea ce periclitează
+punerea în posesie a proprietarilor de drept și îndeplinirea
+obligațiilor ce revin statului român în angajamentele
+internaționale asumate [...]”, și a hotărât, pentru a asigura
+egalitatea între toate persoanele, alese sau numite, ce ocupă o
+funcție de demnitate publică, din administrația publică centrală
+sau locală, implicate în mod direct în aplicarea actelor normative
+în materie de restituire, să le acorde, în regim de urgență, un
+spor lunar de dificultate de până la 50% din indemnizația
+corespunzătoare funcției respective sau din salariul de
+încadrare.
+42. Din luna iulie 2005, Legea nr. 247/2005 a fost modificată
+de mai mult de 10 ori, atât în ceea ce privește funcționarea și
+finanțarea Fondului Proprietatea, cât și cu privire la modalitățile
+de calcul și procedurile de acordare a despăgubirilor.
+43. La data de 28 iunie 2007, Guvernul a adoptat Ordonanța
+de urgență nr. 81/2007 pentru accelerarea procedurii de
+acordare a despăgubirilor aferente imobilelor preluate în mod
+abuziv, care a operat o modificare importantă a organizării și
+funcționării Fondului Proprietatea. Printre altele, această
+ordonanță a acordat beneficiarilor de decizii de despăgubire în
+acțiuni la Fondul Proprietatea posibilitatea de a primi o parte din
+cuantumul sumei sub formă de despăgubire bănească.
+Adoptată fără aprobarea Parlamentului sub forma unei legi
+de abilitare, Ordonanța de urgență a Guvernului nr. 81/2007 nu
+a fost aprobată de Parlament conform procedurii prevăzute la
+art. 115 § 7 din Constituție (a se vedea mai sus paragraful 28).
+44. La 6 februarie 2008, Guvernul a modificat regulamentul
+de aplicare a Legii nr. 247/2005 pentru a ține cont de modificările
+aduse de Ordonanța de urgență a Guvernului nr. 81/2007.
+45. Conform unei informări transmise de Guvern Curții,
+până la data de 7 decembrie 2007 Comisia centrală eliberase
+5.188 de titluri de despăgubire, dintre care 506 au fost executate
+efectiv de ANRP.
+46. În lipsa unor statistici globale oficiale, organizația
+neguvernamentală ăSocietatea Academică din România” a
+efectuat un studiu asupra situației cererilor de retrocedare, pe
+care l-a publicat în septembrie 2008. Potrivit acestui raport, mai
+mult de 200.000 de cereri de retrocedare fuseseră depuse la
+nivelul întregii țări, dintre care numai 46.000 fuseseră transmise,
+până la data raportului, de către autoritățile locale la ANRP.
+Aceasta acordase despăgubiri către 3.620 de persoane.
+Raportul a scos în evidență faptul că peste 30.000 de dosare
+referitoare la legile privind retrocedările se aflau pe rolul
+instanțelor din municipiul București.
+D. Jurisprudența internă în materie de retrocedări
+47. Până în septembrie 2004, ținând cont de numărul tot mai
+mare de cereri formulate de beneficiarii unei decizii de
+retrocedare în natură care nu putea fi executată și având în
+vedere lipsa unei hotărâri care să stabilească modul de calcul al
+valorii terenurilor, mai multe instanțe judecătorești au stabilit
+valoarea despăgubirilor care trebuiau plătite, bazându-se pe
+expertize și aplicând prin analogie prevederi în materie de
+expropriere. Ele au dispus ca autoritățile să plătească
+despăgubirile astfel stabilite.
+Unele dintre aceste hotărâri judecătorești au fost desființate
+de instanțele superioare, care au statuat că, în lipsa unei
+hotărâri a Guvernului, instanțele nu erau competente să
+procedeze la evaluarea bunurilor care trebuiau restituite.
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+48. Printr-o decizie din 4 aprilie 2006, Înalta Curte de Casație
+și Justiție a statuat că, în lipsa unui răspuns din partea
+autorităților administrative, stabilirea de către instanțe, după ce
+au dispus efectuarea unei expertize, a valorii despăgubirilor
+datorate era conformă cu Legea nr. 10/2001 privind regimul
+juridic al unor imobile preluate în mod abuziv în perioada
+6 martie 1945 — 22 decembrie 1989, care le acordase
+instanțelor competența exclusivă de a soluționa litigiile rezultate
+din aplicarea acestui act normativ. Mai mult, acest lucru permitea
+ăsancționarea lipsei de diligență a instituțiilor abilitate să rezolve
+notificarea”.
+În opinia Înaltei Curți de Casație și Justiție, o astfel de
+interpretare se justifică având în vedere responsabilitatea
+acordată instanțelor judecătorești, instituită de procedura
+specială, și este dedusă ădin voința legiuitorului, care a dorit o
+rezolvare rapidă care să elimine cât mai curând posibil echivocul
+situațiilor juridice incerte și să repare prejudiciile cauzate de
+măsurile abuzive ale statului comunist” (Decizia nr. 3.541/2006).
+49. Totuși, printr-un reviriment parțial al jurisprudenței, Înalta
+Curte de Casație și Justiție a statuat într-o Decizie din 9 martie
+2007 că instanțele nu sunt competente să stabilească valoarea
+despăgubirilor care urmau să le fie plătite beneficiarilor unei
+decizii de retrocedare. Instanța supremă a statuat că această
+regulă nu comportă decât o singură excepție: situația în care
+beneficiarii obținuseră, anterior intrării în vigoare a Legii
+nr. 247/2005, o dispoziție administrativă ce stabilește cuantumul
+despăgubirilor, aceștia având posibilitatea de a o contesta în
+fața unei instanțe, care este competentă să modifice cuantumul
+și să stabilească ea însăși valoarea despăgubirilor datorate
+(Decizia nr. 2.230/2007 din 9 martie 2007).
+Pe de altă parte, Înalta Curte de Casație și Justiție a statuat
+că o decizie administrativă care stabilește valoarea
+despăgubirilor datorate nu este executorie, întrucât trebuia
+transmisă Comisiei centrale (a se vedea mai sus paragraful 37),
+singura autoritate competentă să valideze cuantumul
+despăgubirilor și să emită titlurile de plată (Decizia nr. 1.685 din
+21 februarie 2007).
+Cu toate acestea, câteva luni mai târziu, Curtea de Apel
+Constanța a făcut trimitere la jurisprudența Curții Europene a
+Drepturilor Omului și a constatat că statul român nu își
+îndeplinise obligația pozitivă de a reacționa în timp util și de o
+manieră coerentă în raport cu problema de interes general a
+retrocedării bunurilor trecute în patrimoniul statului prin efectul
+decretelor de naționalizare. Ea a statuat, prin urmare, că atunci
+când restituirea în natură a unui imobil nu era posibilă în temeiul
+Legii nr. 10/2001 statul trebuia să acorde despăgubiri
+beneficiarului dreptului de restituire, acoperindu-i integral
+prejudiciul suferit. Pe cale de consecință, ea a dispus ca statul
+să îi plătească beneficiarului dreptului de restituire prețul bunului
+la valoarea de piață (Decizia nr. 520/C din 3 decembrie 2007).
+III. Textele Consiliului Europei
+50. În Rezoluția sa R(2004)3 privind hotărârile care ridică o
+problemă structurală subsecventă, adoptată la 12 mai 2004,
+Comitetul Miniștrilor a arătat următoarele:
+ăComitetul de Miniștri, în temeiul art. 15.b din Statutul
+Consiliului Europei,
+considerând că scopul Consiliului Europei este de a realiza
+o mai mare apropiere între membrii săi și că unul dintre
+mijloacele cele mai importante pentru a atinge acest obiectiv
+este apărarea și dezvoltarea drepturilor omului și a libertăților
+fundamentale,
+reafirmându-și convingerea potrivit căreia Convenția pentru
+apărarea drepturilor omului și a libertăților fundamentale
+
+(denumită în continuare Convenția) trebuie să rămână
+principalul punct de referință în domeniul protecției drepturilor
+omului în Europa și reamintind angajamentul său de a lua
+măsuri pentru a asigura eficiența pe termen lung a sistemului
+de control instituit prin Convenție,
+reamintind caracterul subsidiar al mecanismului de control
+instituit prin Convenție, care presupune, conform art. 1, ca
+drepturile și libertățile garantate de Convenție să fie protejate
+mai întâi prin dreptul intern și aplicate de autoritățile naționale,
+exprimându-și satisfacția în această privință pentru faptul că
+astăzi Convenția face parte din ordinea juridică internă a tuturor
+statelor membre,
+reamintind că, în virtutea art. 46 din Convenție, înaltele părți
+contractante se angajează să respecte hotărârile definitive ale
+Curții Europene a Drepturilor Omului (denumită în continuare
+Curtea) în litigiile în care sunt părți și că hotărârea definitivă a
+Curții este transmisă Comitetului Miniștrilor care supraveghează
+punerea sa în executare,
+subliniind interesul de a ajuta statul în cauză să identifice
+problemele subsecvente și măsurile necesare pentru punerea în
+executare,
+considerând că punerea în aplicare a hotărârilor ar fi ușurată
+dacă existența unei probleme sistemice ar fi deja identificată în
+hotărârea Curții,
+păstrând spiritul observațiilor făcute asupra acestei probleme
+de către însăși Curtea cu ocazia sesiunii Comitetului Miniștrilor
+din 7 noiembrie 2002,
+invită Curtea:
+I. în măsura posibilităților, să identifice în hotărârile în care
+constată o încălcare a Convenției ceea ce, în opinia sa, ridică o
+problemă structurală subsecventă și originea acestei probleme,
+în special atunci când ea este susceptibilă a da naștere unor
+numeroase cereri, astfel încât să ajute statele să găsească
+soluția potrivită și Consiliul Miniștrilor să supravegheze
+executarea hotărârilor;
+II. să semnaleze în special orice hotărâre care cuprinde
+indicații cu privire la existența unei probleme structurale și
+originea acestei probleme, nu numai statului în cauză și
+Comitetului Miniștrilor, ci și Adunării Parlamentare, secretarului
+general al Consiliului Europei și comisarului pentru drepturile
+omului din cadrul Consiliului Europei, și să semnaleze într-un
+mod adecvat aceste hotărâri în baza de date a Curții.”
+51. Recomandarea Comitetului Miniștrilor Rec(2004)6 privind
+îmbunătățirea căilor de recurs interne, adoptată la data de
+12 mai 2004, are următorul conținut:
+ăComitetul Miniștrilor, în temeiul art. 15.b din Statutul
+Consiliului Europei,
+considerând că scopul Consiliului Europei este de a realiza
+o mai mare apropiere între membrii săi și că unul dintre
+mijloacele cele mai importante pentru a atinge acest obiectiv
+este apărarea și dezvoltarea drepturilor omului și a libertăților
+fundamentale,
+reafirmându-și convingerea potrivit căreia Convenția pentru
+apărarea drepturilor omului și a libertăților fundamentale
+(denumită în continuare Convenția) trebuie să rămână
+principalul punct de referință în domeniul protecției drepturilor
+omului în Europa și reamintind angajamentul său de a lua
+măsuri pentru a asigura eficiența pe termen lung a sistemului
+de control instituit prin Convenție,
+reamintind caracterul subsidiar al mecanismului de control
+instituit prin Convenție, care presupune, conform art. 1, ca
+drepturile și libertățile garantate prin Convenție să fie protejate
+mai întâi prin dreptul intern și aplicate de autoritățile naționale,
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+exprimându-și satisfacția în această privință pentru faptul că
+astăzi Convenția face parte din ordinea juridică internă a tuturor
+statelor membre,
+subliniind că, astfel cum prevede art. 13 din Convenție,
+statele membre s-au angajat ca orice persoană care poate
+pretinde, de o manieră justificată, o încălcare a drepturilor și
+libertăților sale consacrate în Convenție să aibă dreptul la o cale
+de recurs eficientă în fața unei instanțe naționale,
+reamintind că, dincolo de obligația de a asigura existența
+unor astfel de căi de recurs eficiente în sensul jurisprudenței
+Curții Europene a Drepturilor Omului (denumită în continuare
+Curtea), statele au obligația generală de a remedia problemele
+care stau la baza încălcărilor constatate,
+subliniind că este de datoria statelor membre să ia măsuri în
+vederea asigurării eficienței în drept și în practică a căilor de
+recurs interne și pentru ca acestea să fie susceptibile să
+conducă la o hotărâre care să vizeze temeinicia cererii și la un
+remediu adecvat al oricărei încălcări constatate,
+luând notă de faptul că natura și numărul cererilor aduse în
+fața Curții și hotărârile pe care aceasta le pronunță
+demonstrează mai mult ca oricând necesitatea ca statele
+membre să se asigure de o manieră eficace și conformă
+normelor în vigoare că aceste căi de atac există în orice situație,
+în special în cazul duratei excesive a procedurilor jurisdicționale,
+apreciind că disponibilitatea căilor de recurs interne eficiente
+pentru toate afirmațiile justificabile referitoare la încălcări ale
+Convenției ar trebui să permită reducerea volumului de muncă
+al Curții, datorită, pe de o parte, reducerii numărului de cauze
+care îi parvin și, pe de altă parte, faptului că tratarea
+circumstanțială a cauzelor pe plan național este capabilă să
+simplifice analiza lor ulterioară de către Curte,
+subliniind faptul că îmbunătățirea căilor de recurs la nivel
+național, în special cu privire la cauzele repetitive, ar trebui să
+contribuie la reducerea volumului de muncă al Curții,
+recomandă statelor membre, ținând cont de exemplele de
+bună practică din anexă:
+I. să se asigure, printr-o urmărire constantă, în lumina
+jurisprudenței Curții, că există căi de recurs interne pentru orice
+persoană care pretinde într-un mod justificabil o încălcare a
+Convenției și că aceste căi de recurs sunt efective, în măsura în
+care sunt susceptibile să conducă la o hotărâre care să vizeze
+temeinicia cererii și la un remediu adecvat al oricărei încălcări
+constatate;
+II. să reanalizeze, în urma hotărârilor Curții care constată
+nereguli structurale sau generale în dreptul sau practica statului,
+caracterul efectiv al căilor de recurs interne existente și, dacă
+este cazul, să implementeze căi de recurs efective pentru a evita
+aducerea în fața Curții a unor cauze repetitive;
+III. să acorde o atenție deosebită, în cadrul pct. I și II de mai
+sus, existenței unor căi de recurs efective în cazul în care se
+pretinde într-un mod justificabil durata excesivă a procedurilor
+jurisdicționale.
+Îl însărcinează pe secretarul general al Consiliului Europei
+să utilizeze mijloacele necesare pentru a putea acorda asistența
+adecvată statelor membre, pentru a le ajuta să pună în aplicare
+prezenta recomandare.”
+ÎN DREPT
+
+I. Asupra pretinsei încălcări a art. 1 din Protocolul nr. 1 la
+Convenție
+52. Reclamantul se plânge de faptul că până în prezent nu
+s-a putut bucura de dreptul la despăgubire, astfel cum a fost
+recunoscut prin cele două decizii din 5 aprilie și 17 mai 2002 ale
+
+27
+
+Comisiei județene pentru aplicarea Legii nr. 18/1991, cu
+încălcarea dreptului său la respectarea bunurilor. Acesta invocă
+art. 1 din Protocolul nr. 1 la Convenție, care prevede
+următoarele:
+ăOrice persoană fizică sau juridică are dreptul la respectarea
+bunurilor sale. Nimeni nu poate fi lipsit de proprietatea sa decât
+pentru cauză de utilitate publică și în condițiile prevăzute de lege
+și de principiile generale ale dreptului internațional.
+Dispozițiile precedente nu aduc atingere dreptului statelor de
+a adopta legile pe care le consideră necesare pentru a
+reglementa folosința bunurilor conform interesului general sau
+pentru a asigura plata impozitelor ori a altor contribuții sau a
+amenzilor.”
+53. Guvernul se opune acestor susțineri.
+A. Asupra admisibilității
+
+54. Curtea constată că acest capăt de cerere nu este vădit
+neîntemeiat în sensul art. 35 § 3 din Convenție. De asemenea,
+Curtea observă că nu este afectat de niciun alt motiv de
+inadmisibilitate. Prin urmare, trebuie declarat admisibil.
+B. Asupra fondului
+
+1. Argumentele părților
+55. Reclamantul consideră că, în general, statul român a
+încălcat de două ori dreptul la respectarea bunurilor
+beneficiarilor legilor privind retrocedările: în primul rând, prin
+faptul că a schimbat în mod repetat procedurile stabilite de
+aceste legi și, în al doilea rând, prin faptul că a omis să adopte
+cu celeritate regulamente de aplicare, drept care părțile
+interesate nu au putut să intre în posesia bunurilor lor sau să
+încaseze despăgubiri o perioadă îndelungată.
+Potrivit afirmațiilor reclamantului, dreptul său la restituire sau
+despăgubire este un drept patrimonial protejat de art. 1 din
+Protocolul nr. 1, deoarece dreptul său de creanță împotriva
+statului a fost recunoscut fără echivoc de toate autoritățile.
+Din momentul în care statul a stabilit condițiile care trebuiau
+întrunite pentru a beneficia de dreptul la retrocedare ar fi trebuit
+adoptate rapid reguli care să permită exercitarea acestui drept.
+În caz contrar, el ar fi trebuit să fie autorizat fie să negocieze
+valoarea despăgubirilor în schimbul terenului său, fie să obțină
+aceste despăgubiri pe cale judiciară. Or, pe lângă faptul că
+modificările repetate ale procedurilor de stabilire și acordare a
+despăgubirilor au afectat în mod substanțial dreptul său,
+transformându-l într-un drept iluzoriu, în plus, aceste proceduri
+au încălcat regulile cu caracter general cuprinse în art. 44 și 52
+din Constituție.
+În ultimul rând, reclamantul arată că, până în prezent, nu a
+încasat vreo despăgubire în schimbul terenului său și nici nu a
+putut să obțină vreo despăgubire care să acopere prejudiciul ce
+rezultă din imposibilitatea de a-și exercita dreptul la restituirea
+proprietății din anul 2000 până astăzi.
+56. Guvernul nu contestă faptul că dreptul reclamantului la o
+despăgubire își are originea în deciziile administrative din
+5 aprilie și 17 mai 2002. Cu toate acestea, valoarea
+despăgubirilor ar fi trebuit să fie stabilită prin măsuri de aplicare
+a legilor privind restituirea proprietăților, pe care Guvernul s-a
+angajat să le adopte cel târziu la data de 30 iunie 2004. Aceste
+măsuri au fost în cele din urmă adoptate prin Hotărârea
+Guvernului nr. 1.546/2004. Pe cale de consecință, Guvernul
+apreciază că interesul patrimonial de care dispunea reclamantul
+nu putea fi executoriu înainte de adoptarea acestei ultime
+hotărâri. Mai mult decât atât, întrucât nici valoarea despăgubirii
+și nici data la care trebuia efectuată plata nu au fost stabilite în
+cazul reclamantului, creanța acestuia nu este nici exigibilă, nici
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+certă în sensul legii interne și, prin urmare, nu constituie un bun
+în sensul art. 1 din Protocolul nr. 1.
+57. Guvernul consideră că prezenta cauză nu poate fi
+comparată cu Cauza Broniowski împotriva Poloniei ([MC], nr.
+31.443/96, CEDO 2004-V), deoarece, contrar autorităților
+poloneze, care, prin atitudinea lor, au impus limitări succesive
+ale dreptului reclamantului de a beneficia de o creanță împotriva
+statului, transformându-l astfel într-un drept iluzoriu și afectându-i
+însăși substanța, autoritățile române și-au îndeplinit obligația de
+a crea un cadru legislativ pentru punerea în aplicare a dreptului
+reclamantului de a încasa despăgubirile. Mai mult, toate actele
+normative adoptate în aplicarea art. 40 din Legea nr. 1/2000
+stabilesc o metodă obiectivă de calcul al despăgubirilor,
+bazându-se pe practica economică la nivel internațional, și
+anume prețul mediu al cerealelor la bursa din Chicago. Prin
+urmare, nivelul despăgubirilor astfel fixate poate fi considerat
+rezonabil.
+În orice caz, Guvernul consideră că întârzierea în stabilirea
+despăgubirilor pe care reclamantul este îndreptățit să le
+primească este justificată, așadar ănecesară într-o societate
+democratică”, din cauza dificultății reorganizării agriculturii în
+urma legilor privind retrocedările, reorganizare în care au fost
+implicate mai multe ministere: Ministerul Internelor și
+Administrației, Ministerul Agriculturii, Pădurilor și Dezvoltării
+Rurale, precum și Ministerul Finanțelor Publice.
+În esență, Guvernul apreciază că reclamantul nu s-a aflat
+niciodată într-o stare de incertitudine în ceea ce privește dreptul
+său, care nu a devenit niciodată iluzoriu sau lipsit de orice
+conținut.
+2. Aprecierea Curții
+A. Asupra existenței unei ingerințe în dreptul la respectarea
+ăbunurilor” reclamantului
+
+58. Curtea reamintește că, în conformitate cu jurisprudența
+sa, un reclamant nu poate susține o încălcare a art. 1 din
+Protocolul nr. 1 la Convenție decât în măsura în care deciziile pe
+care le contestă se referă la ăbunurile” sale în sensul acestei
+prevederi. Noțiunea de ăbunuri” poate cuprinde atât ăbunuri
+actuale”, cât și valori patrimoniale inclusiv, în anumite situații
+bine stabilite, creanțe al căror titular demonstrează că acestea
+au o bază suficientă în dreptul intern și în virtutea cărora
+reclamantul poate pretinde că are cel puțin o ăsperanță legitimă”
+să obțină exercitarea efectivă a unui drept de proprietate (a se
+vedea Draon împotriva Franței [MC], nr. 1.513/03, § 65, CEDO
+2005-IX).
+De asemenea, Curtea a mai afirmat că speranța de a obține
+recunoașterea subzistenței unui fost drept de proprietate ce s-a
+aflat o perioadă lungă de timp în imposibilitate de exercitare
+efectivă nu poate fi considerată un bun în sensul art. 1 din
+Protocolul nr. 1. De același regim beneficiază și o creanță
+condițională care se stinge prin nerealizarea condiției (Prințul
+Hans-Adam II de Liechtenstein împotriva Germaniei [MC],
+nr. 42.527/98, § 83, CEDO 2001-VIII).
+În schimb, atunci când un stat contractant, după ce a ratificat
+Convenția, inclusiv Protocolul nr. 1, adoptă o legislație care
+prevede restituirea totală sau parțială a bunurilor confiscate de
+către unui regim anterior, o legislație similară poate fi
+considerată ca și cum ar genera un nou drept de proprietate
+protejat de art. 1 din Protocolul nr. 1 în favoarea persoanelor
+care întrunesc condițiile de restituire. Același principiu se poate
+aplica și în privința dispozițiilor de restituire sau de despăgubire
+stabilite în baza unei legislații adoptate înainte de ratificarea
+Convenției, dacă această legislație rămâne în vigoare după
+ratificarea Protocolului nr. 1 (a se vedea, printre altele, Kopecký
+
+împotriva Slovaciei [MC], nr. 44.912/98, paragrafele 35 și 48—
+52, CEDO 2004-IX, Broniowski împotriva Poloniei [MC],
+nr. 31.443/96, § 125, CEDO 2004-V).
+În același context, Curtea a statuat deja că atunci când
+principiul restituirii proprietăților confiscate în mod abuziv a fost
+deja adoptat de către un stat, incertitudinea cu privire la punerea
+în practică a acestui principiu, fie ea de ordin legislativ,
+administrativ sau legat de practicile aplicate de autorități, poate
+genera, atunci când persistă în timp și în lipsa unei reacții
+coerente și rapide din partea statului, o omisiune a acestuia de
+a-și îndeplini obligația de a asigura exercitarea efectivă a
+dreptului de proprietate garantat de art. 1 din Protocolul nr. 1
+(hotărârea Broniowski menționată mai sus, Păduraru împotriva
+României, nr. 63.252/00, paragrafele 92 și 112, 1 decembrie
+2005).
+59. În speță, reclamantul a fost informat în luna iunie 2000 că
+cererea sa de restituire formulată în temeiul Legii nr. 1/2000
+pentru un teren în suprafață de 16,63 ha a fost admisă. Dreptul
+reclamantului la restituire a fost ulterior confirmat în mod
+constant și regulat de către autorități, fiind așadar stabilit cu
+certitudine în dreptul intern, așa cum era și obligația de
+despăgubire în caz de nerestituire în natură, astfel cum reiese
+din deciziile din 5 aprilie și 17 mai 2002, care validează
+înscrierea creanțelor reclamantului pentru întregul teren.
+De altfel, acest aspect nu este contestat de Guvern.
+În aceste circumstanțe, Curtea consideră că reclamantul
+avea un ăinteres patrimonial” suficient de bine stabilit în dreptul
+intern, cert, irevocabil și exigibil, cu privire la care consideră că
+intră în sfera de aplicare a noțiunii de bun în sensul art. 1 din
+Protocolul nr. 1 la Convenție. Prin urmare, nerestituirea terenului
+până în prezent, în lipsa acordării oricărei despăgubiri, constituie
+o ingerință în dreptul reclamantului la respectarea bunurilor sale.
+60. Curtea reamintește că, în conformitate cu jurisprudența
+sa constantă, neexecutarea unei hotărâri care recunoaște un
+drept de proprietate constituie o ingerință în sensul primei teze
+a primului alineat al art. 1 din Protocolul nr. 1, care enunță
+principiul general al respectării proprietății (vezi Burdov
+împotriva Rusiei, nr. 59.498/00, § 40, CEDO 2002-III, Ramadhi
+și alți 5 împotriva Albaniei, nr. 38.222/02, paragrafele 76—77,
+13 noiembrie 2007).
+61. Prin urmare, Curtea trebuie să analizeze dacă ingerința
+denunțată se justifică din perspectiva acestei prevederi.
+B. Asupra justificării ingerinței
+
+62. Art. 1 din Protocolul nr. 1 prevede înainte de toate și cu
+precădere ca o ingerință a autorității publice în exercitarea
+dreptului la respectarea bunurilor să fie legală. Curtea dorește
+să reamintească faptul că supremația dreptului, unul dintre
+principiile fundamentale într-o societate democratică, este
+inerentă tuturor articolelor Convenției. Principiul legalității
+presupune și existența unor norme de drept intern suficient de
+accesibile, precise și previzibile în aplicarea lor (Ex-Regele
+Greciei și alții împotriva Greciei [MC], nr. 25.701/94, § 79 CEDO
+2000-XII, (Beyeler împotriva Italiei [MC], nr. 33.202/96, § 109—
+110, CEDO 2000-I; Fener Rum Patrikliği împotriva Turciei,
+nr. 14.340/05, § 70, 8 iulie 2008).
+63. Curtea constată că dacă posibilitatea de a transforma
+creanța împotriva statului având ca obiect restituirea într-o
+creanță privind dreptul la despăgubire era clar prevăzută de
+art. 3 și 4 din Legea nr. 1/2000 (paragraful 34 de mai sus),
+situația este mai puțin clară pentru neexecutarea creanței în
+despăgubire și chiar și mai puțin clară pentru transformarea
+acestei creanțe din nou, după 6 ani de neexecutare, într-o
+creanță privind restituirea bunului (paragraful 27 de mai sus).
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+64. Referitor la creanța în despăgubire, Curtea observă, fără
+să fie nevoie să realizeze o interpretare a dreptului intern, pentru
+care judecătorul intern este mai avizat, că executarea sa era
+reglementată de Legea nr. 1/2000. Cu toate acestea, această
+normă a suferit multe modificări, atât ca număr, cât și ca
+amploare (vezi paragrafele 34—44 de mai sus), încât claritatea
+și previzibilitatea impuse de noțiunea de ălegalitate” au fost grav
+afectate.
+65. Astfel, prevederile relevante ale Legii nr. 1/2000 nu
+definesc cu exactitate momentul în care ia naștere dreptul la
+despăgubire. Prin prisma procedurii stabilite de Legea nr. 1/2000
+(paragraful 34 de mai sus) și în scopul prezentei cauze, Curtea
+este totuși pregătită să considere că creanța reclamantului s-a
+născut cel mai devreme în momentul în care a fost informat
+despre lipsa unui teren disponibil, adică la data de 6 octombrie
+2000, și cel mai târziu în momentul validării înscrierii acestei
+creanțe în registrul creanțelor, adică la data de 5 aprilie și,
+respectiv, 17 mai 2002.
+66. În ceea ce privește valoarea creanței, Curtea observă că
+aceasta ar fi trebuit menționată în tabelul creanțelor în momentul
+validării sale (paragraful 36 de mai sus). Or, această mențiune
+nu există în speță și până în prezent statul nici nu a stabilit și nici
+nu a achitat creanța datorată reclamantului pentru terenul
+nerestituit. În acest sens, Curtea constată că termenul legal
+pentru adoptarea normelor de aplicare a art. 40 din Legea
+nr. 1/2000 a fost prelungit în mod expres de mai multe ori, până
+în luna iulie 2004, fără ca el să fie în final respectat, deoarece
+normele adoptate au intrat în vigoare abia în luna octombrie.
+Ulterior, în luna iulie 2005, toate prevederile referitoare la
+retrocedări, inclusiv cele privind stabilirea valorii și plata
+despăgubirilor, au fost reformulate prin Legea nr. 247/2005 și
+prin regulamentul său de aplicare, adoptat la data de
+15 septembrie 2005 (paragrafele 38—39 de mai sus), care au
+fost din nou modificate în mod substanțial prin Ordonanța de
+urgență a Guvernului nr. 81/2007.
+67. În ceea ce privește transformarea din nou a creanței în
+despăgubire într-o obligație în sarcina statului de restituire în
+natură (paragraful 27 de mai sus), Curtea observă că Guvernul
+nu a invocat nicio prevedere legală care să permită o astfel de
+modificare, ceea ce apare așadar ca fiind total lipsită de temei
+legal.
+68. Aceste considerente ar putea să fie suficiente prin ele
+însele pentru a îi permite Curții să constate că ingerința în
+dreptul reclamantului la respectarea bunurilor sale nu era
+ăprevăzută de lege”. Cu toate acestea, ea nu consideră necesar
+să statueze dacă ingerința respectivă era legală în sensul
+noțiunii de supremație a dreptului, având în vedere concluziile
+sale de mai jos.
+69. Pentru a stabili dacă a fost păstrat un just echilibru între
+cerințele interesului general al comunității și imperativele apărării
+dreptului la respectarea bunurilor reclamantului, Curtea este
+chemată să analizeze dacă termenul necesar autorităților
+române pentru a îi restitui reclamantului terenul sau de a îi plăti
+o despăgubire nu a supus partea interesată unei sarcini
+disproporționate și excesive. Curtea reiterează faptul că statele
+dispun de o marjă largă de apreciere pentru a stabili ceea ce
+este în interesul public, mai ales atunci când este vorba de
+adoptarea și aplicarea unor măsuri de reformă economică sau
+de justiție socială (hotărârea Ramadhi și alți 5 menționată mai
+sus, § 79).
+70. În speță, au trecut mai mult de 8 ani de la decizia de
+restituire către reclamant a suprafeței de 16,63 ha de teren și
+mai mult de 6 ani de la validarea înscrierii creanței sale împotriva
+
+29
+
+statului, fără ca acesta să obțină executarea acestor decizii sau
+cea mai mică despăgubire în locul terenurilor și pentru
+întârzierea în executare. Acționând astfel, autoritățile l-au
+împiedicat pe reclamant să se bucure de bunul la care are
+dreptul de mai mulți ani.
+71. Guvernul a oferit ca justificare dificultățile legate de
+organizarea administrației, obligată să pună în aplicare legile
+privind retrocedările. Cu toate acestea, Curtea constată că
+dificultățile de ordin organizatoric ale autorităților competente în
+implementarea măsurilor privind retrocedările sunt consecința
+modificărilor repetate pe cale legislativă ale mecanismului de
+restituire. Curtea a considerat deja că aceste modificări au fost
+inoperante în plan practic și că au creat un climat de
+incertitudine juridică (a se vedea, printre numeroasele hotărâri
+împotriva României, Străin și alții, nr. 57.001/00, § 56, CEDO
+2005-VII, 21 iulie 2005, Păduraru citată anterior, § 98—99;
+Porteanu, nr. 4.596/03, § 34, 16 februarie 2006, Radu,
+nr. 13.309/03, § 34, 20 iulie 2006). Curtea profită de această
+ocazie pentru a arăta că această incertitudine a fost denunțată
+de diferite instanțe judecătorești române, inclusiv de instanța
+supremă (a se vedea paragrafele 48 și 49 in fine de mai sus),
+care au încercat, fără un succes durabil, să elimine ăechivocul
+situațiilor juridice incerte” și ăsă sancționeze lipsa de diligență
+din partea autorităților competente”.
+72. Deoarece Guvernul nu a adus niciun element pentru a
+justifica încălcarea dreptului reclamantului, Curtea nu vede
+niciun motiv să se abată de la analiza pe care a făcut-o în
+cauzele menționate mai sus. Aceasta nu poate decât să
+constate că situația arătată mai sus rezultă dintr-o activitate
+normativă excesivă și, în final, foarte ineficientă, astfel cum o
+demonstrează statisticile publicate în acest sens (paragraful 46
+de mai sus).
+73. În aceste condiții, chiar presupunând că Guvernul ar fi
+putut demonstra că ingerința în dreptul reclamantului era
+prevăzută de lege și servea unei cauze de utilitate publică,
+Curtea apreciază că justul echilibru care trebuie păstrat între
+protecția proprietății reclamantului și cerințele interesului general
+a fost distrus și că reclamantul a suportat o sarcină specială și
+exorbitantă. Prin urmare, a avut loc încălcarea art. 1 din
+Protocolul nr. 1.
+II. Asupra aplicării art. 46 și 41 din Convenție
+A. Articolul 46 din Convenție
+
+74. Conform acestei prevederi:
+ă1. Înaltele părți contractante se angajează să se conformeze
+hotărârilor definitive ale Curții în litigiile în care ele sunt părți.
+2. Hotărârea definitivă a Curții este transmisă Comitetului
+Miniștrilor care supraveghează executarea ei.”
+75. Curtea constată că încălcarea dreptului reclamantului,
+astfel cum este el garantat de art. 1 din Protocolul nr. 1, își are
+originea într-o problemă majoră ce rezultă dintr-o
+disfuncționalitate a legislației române și dintr-o practică
+administrativă care a afectat și mai poate încă afecta în viitor un
+mare număr de persoane (a se vedea paragraful 46 de mai sus).
+Obstacolul nejustificat în calea exercitării de către reclamant a
+ădreptului său la respectarea bunurilor” nu a fost cauzat de un
+incident izolat și nici nu este imputabil turnurii deosebite pe care
+au luat-o evenimentele în cazul său; el rezultă dintr-un cadru
+legal, reglementar și administrativ care s-a dovedit a fi
+neadecvat, implementat de autorități vizând o categorie
+determinată de cetățeni, și anume beneficiarii măsurilor de
+retrocedare a bunurilor naționalizate sau confiscate de statul
+comunist.
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+
+76. Existența acestei probleme și caracterul său sistemic au
+fost deja recunoscute de autoritățile române, fiind confirmate
+prin mai multe decizii ale Înaltei Curți de Casație și Justiție,
+precum și prin ordonanța de urgență a Guvernului menționate în
+prezenta hotărâre (paragrafele 41 și 48 de mai sus). Astfel, în
+Decizia sa din data de 4 aprilie 2006, Înalta Curte de Casație și
+Justiție a denunțat lipsa de diligență a autorităților competente în
+materie de retrocedare și a statuat că trebuia ăeliminat cât mai
+rapid posibil echivocul situațiilor juridice incerte”. La rândul său,
+Guvernul a subliniat dificultățile existente în punerea în posesie
+a beneficiarilor legilor privind retrocedările și, chiar mai mult, în
+respectarea angajamentelor internaționale asumate de
+România. Subscriind la aceste aprecieri, Curtea a constatat că
+faptele cauzei dezvăluie existența unei imperfecțiuni în ordinea
+juridică română, care a condus la situația că o întreagă categorie
+de particulari s-au văzut ori se văd încă în imposibilitatea de a
+se bucura de bunurile lor.
+77. Numărul de cereri adresate Curții, hotărârile care
+constată încălcarea art. 1 din Protocolul nr. 1 și, în anumite
+cazuri, a art. 6 din Convenție, precum și miile de dosare privind
+restituirea de bunuri trimise la ANRP și nesoluționate într-un
+termen rezonabil demonstrează că mecanismul ales pentru
+restituirea bunurilor confiscate sau naționalizate de stat în
+perioada comunistă nu a fost implementat într-un mod
+compatibil cu art. 1 din Protocolul nr. 1. Într-adevăr, Curtea a
+pronunțat după 28 octombrie 1999, data Hotărârii Brumărescu
+împotriva României [MC] (nr. 28.342/95, § CEDO 1999-VII),
+câteva zeci de hotărâri care au dus la constatarea încălcării
+art. 1 din Protocolul nr. 1 din cauza funcționării, considerate
+incompatibile cu acest articol, a mecanismului de restituire a
+bunurilor care îi privesc pe beneficiarii unui drept la restituirea
+unor imobile. Caracterul repetitiv al încălcărilor constatate,
+dublat de constatarea disfuncționalității mecanismului de
+restituire, care îi privește de această dată pe beneficiarii unui
+drept de restituire a unor terenuri, indică faptul că există o
+acumulare de încălcări identice, ce reflectă o situație ce durează
+la nesfârșit, care nu s-a remediat încă și pentru care justițiabilii
+nu dispun de nicio cale de atac internă.
+78. Pe deasupra, peste o sută de cereri aflate pe rolul Curții,
+introduse de persoane la care se referă legile privind
+retrocedările, ar putea da ocazia, în viitor, unor noi hotărâri care
+constată încălcarea Convenției. Acest fapt nu este numai un
+factor agravant în ceea ce privește responsabilitatea statului față
+de Convenție pentru o situație trecută sau actuală, ci și o
+amenințare pentru eficiența pe viitor a mecanismului de control
+implementat de Convenție, având în vedere volumul excesiv de
+lucru pe care îl generează această situație.
+79. În acest sens, Curtea reamintește că, în condițiile art. 46,
+înaltele părți contractante se obligă să se conformeze hotărârilor
+definitive pronunțate de Curte în litigiile în care ele sunt părți,
+Comitetul Miniștrilor fiind însărcinat să supravegheze
+executarea acestor hotărâri. Din aceasta rezultă în special că,
+atunci când Curtea constată o încălcare, statul pârât are
+obligația juridică nu numai de a le plăti părților interesate sumele
+alocate cu titlu de reparație echitabilă prevăzută de art. 41, ci și
+de a alege, sub controlul Comitetului Miniștrilor, măsurile
+generale și/sau, dacă este cazul, individuale, care trebuie
+integrate în ordinea sa juridică internă pentru a pune capăt
+încălcării constatate de Curte și pentru a-i înlătura, pe cât posibil,
+consecințele. Statul pârât rămâne liber, sub controlul Comitetului
+Miniștrilor, să aleagă mijloacele prin care să își îndeplinească
+obligația juridică cu privire la art. 46 din Convenție (Scozzari și
+Giunta împotriva Italiei [MC], nr. 39.221/98 și 41.963/98, § 249,
+
+CEDO 2000-VIII și Broniowski citată anterior, § 192), cu
+respectarea principiului subsidiarității, astfel încât Curtea să nu
+fie obligată să reitereze constatarea încălcării într-o lungă serie
+de cauze identice.
+80. Mai mult, din Convenție, și în special din art. 1 al
+acesteia, rezultă că, prin ratificarea Convenției, statele
+contractante se angajează să procedeze în așa fel încât dreptul
+lor intern să fie compatibil cu aceasta (Maestri împotriva Italiei
+[MC], nr. 39.748/98, § 47, CEDO 2004-I).
+81. În ceea ce privește măsurile destinate să garanteze
+eficiența mecanismului stabilit de Convenție, Curtea atrage
+atenția asupra rezoluției [Rez (2004)3] și recomandării [Rec
+(2004)6] a Comitetului Miniștrilor al Consiliului Europei, adoptate
+la data de 12 mai 2004 (a se vedea paragrafele 50 și 51 de mai
+sus).
+82. Deși, în principiu, nu este de datoria Curții să stabilească
+posibilele măsuri de redresare adecvate pentru ca statul pârât
+să se achite de obligațiile sale cu privire la art. 46 din Convenție,
+ținând cont de situația cu caracter structural pe care o constată
+(a se vedea paragraful 71 de mai sus), Curtea observă că se
+impun fără nicio îndoială măsuri generale la nivel național în
+cadrul executării prezentei hotărâri.
+83. Pentru a ajuta statul pârât să își îndeplinească obligațiile
+prevăzute la art. 46, Curtea a încercat să indice, cu titlu pur
+orientativ, tipul de măsuri pe care statul român le-ar putea lua
+pentru a pune capăt situației structurale constatate în speță.
+Aceasta consideră că statul pârât trebuie, înainte de toate, fie să
+elimine orice obstacol aflat în calea exercitării efective a
+dreptului numeroaselor persoane afectate de situația
+considerată de Curte ca fiind contrară Convenției, cum este
+cazul reclamantului, fie să ofere o redresare adecvată. Statul
+pârât trebuie așadar să garanteze prin măsuri legale și
+administrative adecvate realizarea efectivă și rapidă a dreptului
+la restituire, indiferent dacă este vorba de o restituire în natură
+sau de acordarea unei despăgubiri, conform principiului
+supremației dreptului și al legalității protecției drepturilor
+patrimoniale, enunțate în art. 1 din Protocolul nr. 1, ținând cont
+de principiile enunțate de jurisprudența Curții în materie de
+despăgubire (Hotărârea Broniowski citată anterior, paragrafele
+147—151, 176 și 186). Aceste obiective ar putea fi atinse, de
+exemplu, prin modificarea mecanismului de retrocedare actual,
+cu privire la care Curtea a constatat anumite puncte slabe, și
+implementarea de urgență a unor proceduri simplificate și
+eficiente, bazate pe măsuri legislative și reglementare coerente,
+care să poată păstra un just echilibru între diferitele interese
+aflate în joc.
+B. Articolul 41 din Convenție
+
+84. Conform art. 41 din Convenție,
+ăÎn cazul în care Curtea declară că a avut loc o încălcare a
+Convenției sau a protocoalelor sale și dacă dreptul intern al
+înaltei părți contractante nu permite decât o înlăturare
+incompletă a consecințelor acestei încălcări, Curtea acordă
+părții lezate, dacă este cazul, o reparație echitabilă.”
+1. Prejudiciu
+85. Moștenitorul reclamantului solicită suma de 190.000.000
+euro (EUR) pentru a compensa pierderea dreptului său
+patrimonial. Conform estimării sale, această sumă corespunde
+valorii terenului nerestituit, în suprafață de 16,63 ha, pentru care
+nu a obținut o reparație. În plus, el solicită suma de 75.000.000
+EUR pentru beneficiul nerealizat din perioada de peste 10 ani în
+care nici el și nici tatăl lui nu au putut profita de pe urma bunului
+lor.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+De asemenea, el arată că problemele întâmpinate timp de
+mai mulți ani de către reclamant pentru a intra în posesia bunului
+ce i-a aparținut au contribuit la agravarea stării sale de sănătate
+și, prin urmare, la decesul său. Moștenitorul reclamantului roagă
+Curtea să îi acorde o despăgubire de 191.000 EUR pentru
+prejudiciul moral pe care l-a suferit din cauza sentimentelor de
+incertitudine și de frustrare, precum și din cauza tensiunii
+resimțite de el și de tatăl său ca urmare a imposibilității de a-și
+exercita dreptul patrimonial.
+86. Guvernul a depus o expertiză efectuată pe baza unor
+informații oferite de Primăria Cătunele în ceea ce privește
+prețurile terenurilor afectate de exploatările miniere situate în
+județul Gorj. Astfel, terenul reclamantului este evaluat la 78.170 lei
+(RON), respectiv 20.517 EUR.
+În plus, Guvernul consideră că, în conformitate cu
+jurisprudența Curții, reclamantul nu poate solicita despăgubire
+pentru lipsa de folosință.
+În sfârșit, el arată că, reclamantul fiind decedat, fiul său nu
+poate invoca niciun prejudiciu moral din cauza nerestituirii
+terenului.
+87. Curtea reamintește că o hotărâre care constată o
+încălcare atrage pentru statul pârât obligația de a pune capăt
+încălcării și de a-i înlătura consecințele, astfel încât să
+restabilească, pe cât posibil, situația anterioară încălcării (Iatridis
+împotriva Greciei (reparație echitabilă) [MC], nr. 31.107/96, § 32,
+CEDO 2000-XI).
+Dacă tipul încălcării permite o restitutio in integrum, incumbă
+statului pârât să o efectueze, Curtea neavând nici competența,
+nici posibilitatea practică de a o efectua ea însăși. Dacă, în
+schimb, dreptul național nu permite sau permite doar o
+înlăturare incompletă a consecințelor încălcării, art. 41 abilitează
+Curtea să îi acorde părții lezate, dacă este cazul, reparația pe
+care o consideră adecvată (Brumărescu împotriva României
+(reparație echitabilă) [MC], nr. 28.342/95, § 20, CEDO 2000-I).
+În exercitarea acestei atribuții, ea dispune de o anumită
+latitudine; adjectivul ăechitabil” și expresia ădacă este cazul”
+demonstrează acest lucru.
+Printre elementele luate în considerare de Curte, atunci când
+statuează în materie, se numără prejudiciul material, și anume
+
+31
+
+pierderile suferite efectiv ca urmare directă a încălcării pretinse,
+și prejudiciul moral, respectiv dezdăunarea stării de angoasă, a
+neplăcerilor și a incertitudinilor ce rezultă din această încălcare,
+precum și alte daune nepatrimoniale (a se vedea, printre altele,
+Ernestina Zullo împotriva Italiei, nr. 64.897/01, § 25,
+10 noiembrie 2004).
+Mai mult, atunci când diferitele elemente care constituie
+prejudiciul nu pot face obiectul unui calcul exact sau atunci când
+distincția dintre daunele materiale și daunele morale se
+dovedește a fi dificilă, Curtea poate fi determinată să le
+analizeze de o manieră globală (vezi Comingersoll împotriva
+Portugaliei [MC], nr. 35.382/97, § 29, CEDO 2000-IV).
+88. În speță, ținând cont de tipul încălcării constatate, Curtea
+consideră că reclamantul a suferit un prejudiciu material și moral
+considerabil și că acest prejudiciu nu este suficient compensat
+prin constatările încălcării.
+89. Curtea apreciază că restituirea terenului sau plata
+despăgubirilor validate prin deciziile din 5 aprilie și 17 mai 2002
+și calculate conform criteriilor stabilite de legislația română
+(paragraful 38 de mai sus) l-ar pune pe reclamant, pe cât posibil,
+într-o situație echivalentă cu cea în care s-ar fi aflat dacă
+cerințele art. 1 din Protocolul nr. 1 nu ar fi fost încălcate. Cu toate
+acestea, ținând cont de constatările prezentei hotărâri din care
+reiese că sistemul actual de retrocedare nu este eficient, Curtea
+apreciază că nu are altă opțiune decât să acorde suma care, în
+opinia sa, ar constitui o soluționare definitivă și completă a
+prezentului litigiu patrimonial (a se vedea, printre altele,
+Ramadhi și alți 5 împotriva Albaniei citată anterior, § 101).
+90. Pe baza elementelor aflate în posesia sa și statuând în
+echitate, conform art. 41 din Convenție, Curtea îi alocă
+reclamantului suma de 115.000 EUR cu titlu de daune materiale
+și morale.
+2. Cheltuieli de judecată
+91. Reclamantul nu a trimis nicio cerere privind cheltuielile
+efectuate în fața autorităților interne și în fața Curții.
+3. Dobânzi moratorii
+92. Curtea consideră potrivit ca rata dobânzii moratorii să se
+bazeze pe rata dobânzii facilității de împrumut marginal a Băncii
+Centrale Europene, majorată cu 3 puncte procentuale.
+
+P E N T R U A C E S T E M O T I V E,
+
+În unanimitate,
+C U R T E A:
+
+1. declară cererea admisibilă;
+2. hotărăște că a avut loc încălcarea art. 1 din Protocolul nr. 1 la Convenție;
+3. hotărăște:
+a) ca statul pârât să îi plătească reclamantului, în termen de 3 luni de la data rămânerii definitive a prezentei hotărâri,
+conform art. 44 § 2 din Convenție, suma de 115.000 EUR (una sută cincisprezece mii), care va fi convertită în lei românești, pentru
+ansamblul prejudiciilor suferite, plus orice sumă care ar putea fi datorată cu titlu de impozit;
+b) ca, începând de la expirarea termenului menționat mai sus și până la efectuarea plății, această sumă să se majoreze
+cu o dobândă simplă având o rată egală cu cea a facilității de împrumut marginal a Băncii Centrale Europene valabilă în această
+perioadă, majorată cu 3 puncte procentuale;
+4. respinge cererea de reparație echitabilă în rest.
+Întocmită în limba franceză, apoi comunicată în scris la data de 9 decembrie 2008, în conformitate cu art. 77 paragrafele
+2 și 3 din Regulament.
+Josep Casadevall,
+președinte
+
+Santiago Quesada,
+grefier
+
+32
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 361/29.V.2009
+RECTIFICĂRI
+La Ordinul ministrului justiției și libertăților cetățenești nr. 977/C/2009 privind acordarea cetățeniei române unor
+persoane, publicat în Monitorul Oficial al României, Partea I, nr. 204 din 31 martie 2009, se face următoarea rectificare
+(care nu aparține Redacției ăMonitorul Oficial al României, Partea I”):
+— în anexă, la poziția 69, în loc de: ă69. Sipahi Ayla, fiica lui Reyhan și Caliș Aynur, cetățean turc, născută la
+data de 22 mai 1978 în localitatea Ankara, Turcia, cu domiciliul actual în localitatea Voluntari, șos. Erou Nicolae Iancu
+nr. 6, bl. 39, județul Ilfov. (1.166/2008)” se va citi: ă69. Sipahi Ayla, fiica lui Reyhan și Aynur, cetățean turc, născută la
+data de 22 mai 1978 în localitatea Ankara, Turcia, cu domiciliul actual în orașul Voluntari, șos. Erou Nicolae Iancu nr. 6,
+bl. 39, județul Ilfov. (1.166/2008)”.
+
+La Ordinul ministrului justiției și libertăților cetățenești nr. 1.115/C/2009 privind redobândirea cetățeniei române
+de către unele persoane, publicat în Monitorul Oficial al României, Partea I, nr. 247 din 14 aprilie 2009, se fac
+următoarele rectificări (care nu aparțin Redacției ăMonitorul Oficial al României, Partea I”):
+— în anexa nr. 1, la poziția 37, în loc de: ă37. Buștiuc Lilia, fiica lui Cojocaru Pavel (născut la 30.03.1932 în
+localitatea Trebisăuți, județul Edineț) și Sofia, născută la data de 2 decembrie 1971 în localitatea Briceni, județul
+Edineț, Republica Moldova, cetățean moldovean, cu domiciliul actual în Republica Moldova, localitatea Chișinău,
+bd. Mircea cel Bătrân nr. 15, ap. 16. (3.212/2004) Copii minori: Pantaz Arina, născută la data de 8.05.2004.” se va citi:
+ă37. Buștiuc Lilia, fiica lui Cojocaru Pavel (născut la 30.03.1932 în localitatea Trebisăuți, județul Edineț) și Sofia,
+născută la data de 2 decembrie 1971 în satul Trebisăuți, sectorul Briceni, județul Edineț, Republica Moldova, cetățean
+moldovean, cu domiciliul actual în Republica Moldova, localitatea Chișinău, bd. Mircea cel Bătrân nr. 15, ap. 16.
+(3.212/2004) Copii minori: Pantaz Ariana, născută la data de 8.05.2004.”;
+— în anexa nr. 2, la poziția 91, în loc de: ă91. Vucolov Alexandru, fiul lui Șevcenco Pentelei și Maria (fiica lui
+Piotr, născut la 21.08.1924 în localitatea Badicul Moldovenesc), născut la data de 31 martie 1982 în localitatea Badicul
+Moldovenesc, Republica Moldova, cetățean moldovean, cu domiciliul actual în Republica Moldova, localitatea Badicul
+Moldovenesc, raionul Cahul. (2.482/2008)” se va citi: ă91. Vucolov Alexandru, fiul lui Șevcenco Pantelei și Maria (fiica
+lui Piotr, născut la 21.08.1924 în localitatea Badicul Moldovenesc), născut la data de 31 martie 1982 în orașul Cahul,
+Republica Moldova, cetățean moldovean, cu domiciliul actual în Republica Moldova, localitatea Badicul Moldovenesc,
+raionul Cahul. (2.482/2008)”.
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+ăMonitorul Oficial” R.A., Str. Parcului nr. 65, sectorul 1, București; C.I.F. RO427282,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala ăUnirea” București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 021.318.51.29/150, fax 021.318.51.15, e-mail: marketing@ramo.ro, internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 021.411.58.33 și 021.410.47.30, fax 021.410.77.36 și 021.410.47.23
+Tiparul: ăMonitorul Oficial” R.A.
+Monitorul Oficial al României, Partea I, nr. 361/29.V.2009 conține 32 de pagini.
+
+Prețul: 6,40 lei
+
+&JUYDGY|430839]
+ISSN 1453—4495
+
+

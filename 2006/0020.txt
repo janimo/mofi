@@ -1,0 +1,579 @@
+PARTEA
+
+Anul 174 (XVIII) — Nr. 20
+
+I
+
+Marți, 10 ianuarie 2006
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+
+491/2005. — Ordin al directorului general al Oficiului
+Registrului Național al Informațiilor Secrete de Stat
+pentru aprobarea Cerințelor minime pentru
+protecția informațiilor UE clasificate care fac
+obiectul activităților contractuale .............................
+
+ACTE
+ALE
+
+ALE
+
+ORGANELOR
+
+ADMINISTRAȚIEI
+
+DE
+
+1–16
+
+SPECIALITATE
+
+PUBLICE
+
+CENTRALE
+
+GUVERNUL ROMÂNIEI
+OFICIUL REGISTRULUI NAȚIONAL AL INFORMAȚIILOR SECRETE DE STAT
+
+ORDIN
+pentru aprobarea Cerințelor minime pentru protecția informațiilor UE clasificate
+care fac obiectul activităților contractuale
+În temeiul art. II din Legea nr. 343/2005 pentru modificarea și completarea Ordonanței de urgență a Guvernului
+nr. 153/2002 privind organizarea și funcționarea Oficiului Registrului Național al Informațiilor Secrete de Stat,
+directorul general al Oficiului Registrului Național al Informațiilor Secrete de Stat emite prezentul ordin.
+Articol unic. — Se aprobă Cerințele minime pentru
+protecția informațiilor UE clasificate care fac obiectul
+
+activităților contractuale, prevăzute în anexa care face parte
+integrantă din prezentul ordin.
+
+Directorul general al Oficiului Registrului Național
+al Informațiilor Secrete de Stat,
+Marius Petrescu
+
+București, 21 decembrie 2005.
+Nr. 491.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 20/10.I.2006
+ANEXĂ
+CERINȚELE MINIME
+
+pentru protecția informațiilor UE clasificate care fac obiectul activităților contractuale
+CAPITOLUL I
+Dispoziții generale
+Art. 1. — Oficiul Registrului Național al Informațiilor
+Secrete de Stat (ORNISS), în calitate de autoritate
+națională de securitate (ANS), asigură implementarea
+unitară, la nivel național, a politicilor de protecție a
+informațiilor UE clasificate care fac obiectul activităților
+contractuale, prin exercitarea atribuțiilor de reglementare,
+autorizare, evidență și control.
+Art. 2. — (1) Informațiile UE clasificate, gestionate în
+cadrul activităților contractuale, sunt protejate potrivit
+prezentelor cerințe, elaborate conform standardelor minime
+și principiilor cuprinse în documentele UE privind politica de
+securitate.
+(2) Prezentele cerințe se aplică obiectivelor industriale
+care desfășoară sau urmează să desfășoare activități
+contractuale care implică accesul la informații UE clasificate
+de nivel CONFIDENTIEL sau superior.
+Art. 3. — În sensul prezentelor cerințe, termenii următori
+se definesc astfel:
+a) anexa de securitate (AS) — documentul elaborat de
+contractantul/subcontractantul care pune la dispoziția
+celeilalte părți informații UE clasificate și care cuprinde
+cerințele de securitate specifice contractului;
+b) certificat de securitate industrială UE (CSI—UE) —
+documentul eliberat de ORNISS sau de autoritatea
+competentă a unui stat membru UE, care atestă că, din
+punct de vedere al securității, un obiectiv industrial asigură
+măsuri adecvate de protecție a informațiilor UE clasificate
+de un anumit nivel, iar personalul care necesită acces la
+informații UE clasificate a fost verificat și instruit în ceea ce
+privește reglementările de securitate și este autorizat
+corespunzător;
+c) contract/subcontract clasificat — contractul încheiat în
+condițiile legii, în cadrul căruia este necesar accesul la
+informații UE clasificate sau sunt generate astfel de
+informații;
+d) contractant/subcontractant — obiectivul industrial parte
+a unui contract/subcontract clasificat;
+e) lista clasificărilor de securitate (LCS) — documentul
+cuprinzând categoriile de informații UE clasificate,
+gestionate în cadrul contractului, precum și nivelurile de
+clasificare atribuite acestora;
+f) obiectiv industrial — persoana juridică ce desfășoară
+activități de producere/furnizare de bunuri, prestare de
+servicii sau execuție de lucrări în domeniul industrial,
+comercial, științific sau de cercetare-dezvoltare;
+g) securitate industrială — ansamblul măsurilor și
+procedurilor de protecție a informațiilor UE clasificate,
+aplicabile obiectivelor industriale care desfășoară sau
+urmează să desfășoare activități contractuale care implică
+accesul la astfel de informații, în scopul prevenirii pierderii,
+compromiterii sau divulgării neautorizate, precum și
+identificării și recuperării celor compromise ori pierdute și
+reducerii consecințelor.
+Art. 4. — În domeniul securității industriale, în
+conformitate cu prevederile Ordonanței de urgență a
+Guvernului nr. 153/2002 privind organizarea și funcționarea
+Oficiului Registrului Național al Informațiilor Secrete de Stat,
+aprobată prin Legea nr. 101/2003, cu modificările și
+completările ulterioare, ORNISS are următoarele atribuții
+principale:
+a) stabilește, pe baza principiilor generale și
+standardelor minime de securitate ale UE, măsurile și
+
+procedurile de protecție a informațiilor UE clasificate care
+fac obiectul activităților contractuale;
+b) stabilește strategia și coordonează implementarea
+unitară la nivel național a măsurilor și procedurilor de
+protecție a informațiilor UE clasificate care fac obiectul
+activităților contractuale;
+c) eliberează CSI—UE obiectivelor industriale cu sediul
+în România, implicate în negocierea/derularea contractelor
+care presupun accesul la informații UE clasificate;
+d) avizează AS la contractele/subcontractele clasificate,
+elaborate de contractanți/subcontractanți cu sediul în
+România, în conformitate cu prevederile legale în vigoare;
+e) monitorizează, cu sprijinul autorităților desemnate de
+securitate (ADS), respectarea cerințelor de securitate ce
+trebuie îndeplinite de către un obiectiv industrial pentru
+negocierea și derularea contractelor clasificate;
+f) gestionează la nivel național evidențele privind:
+— obiectivele industriale deținătoare de CSI—UE;
+— persoanele fizice autorizate pentru acces la informații
+UE clasificate în procesul de negociere, încheiere și
+derulare a unui contract clasificat;
+g) colaborează cu structurile de securitate ale UE și ale
+statelor membre UE și comunică, la cererea acestora,
+obiectivele industriale care dețin CSI—UE sau inițiază
+procedura de eliberare a acestora;
+h) solicită autorităților de securitate competente din
+statele membre UE informații privind eliberarea CSI—UE
+pentru persoanele juridice străine implicate în contracte
+clasificate;
+i) coordonează și participă la activitățile de control
+privind protecția informațiilor UE clasificate, gestionate în
+cadrul activităților contractuale;
+j) coordonează activitățile de transport internațional al
+materialelor UE clasificate, potrivit normelor în vigoare;
+k) asigură, la cerere, consultanță de specialitate
+obiectivelor industriale în vederea implementării cadrului
+legal în domeniul protecției informațiilor UE clasificate;
+l) desfășoară activități de pregătire a personalului cu
+atribuții pe linia protecției informațiilor UE clasificate, în
+cadrul activităților contractuale derulate în România care
+presupun accesul la astfel de informații.
+Art. 5. — Potrivit competențelor legale, în domeniul
+securității industriale, ADS:
+a) la solicitarea ORNISS, efectuează verificările de
+securitate necesare acordării avizului de securitate și
+comunică ORNISS rezultatul acestora;
+b) monitorizează respectarea condițiilor de securitate
+care au stat la baza avizului de securitate;
+c) investighează cazurile în care s-au semnalat încălcări
+ale reglementărilor de securitate, distrugeri, dispariții,
+dezvăluiri neautorizate de informații UE clasificate,
+diseminate sau produse în cadrul unui contract clasificat, și
+prezintă concluziile investigațiilor ORNISS;
+d) informează imediat ORNISS în cazul constatării unor
+riscuri de securitate sau vulnerabilități cu privire la protecția
+informațiilor UE clasificate și propune măsurile necesare.
+CAPITOLUL II
+Cerințe de securitate privind negocierea și derularea
+contractelor/subcontractelor clasificate
+Art. 6. — Certificarea de securitate a unui obiectiv
+industrial în ceea ce privește protecția informațiilor UE
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 20/10.I.2006
+clasificate, vehiculate în cadrul activităților contractuale, are
+ca scop:
+a) prevenirea accesului persoanelor neautorizate la
+informații UE clasificate;
+b) garantarea accesului la informații UE clasificate în
+conformitate cu principiul înecesității de a cunoaște“;
+c) identificarea persoanelor care pot pune în pericol
+informațiile UE clasificate și interzicerea accesului acestora
+la acest tip de informații;
+d) garantarea faptului că obiectivul industrial are
+capacitatea de a proteja informațiile UE clasificate în
+procesul de negociere, respectiv de derulare a contractului
+clasificat.
+Art. 7. — (1) Pentru a participa la procedurile de
+atribuire, respectiv de derulare a unui contract/subcontract
+clasificat de nivel CONFIDENTIEL sau superior, obiectivul
+industrial trebuie să dețină CSI—UE corespunzător nivelului
+de clasificare al informațiilor UE vehiculate în cadrul
+negocierii, respectiv al derulării contractului.
+(2) Accesul la informații UE clasificate în procesul de
+negociere și derulare a contractelor clasificate se va
+acorda, cu respectarea principiului înecesității de a
+cunoaște“, numai reprezentanților obiectivelor industriale
+autorizați potrivit reglementărilor în vigoare.
+Art. 8. — (1) Un contractant/subcontractant nu poate
+subcontracta executarea totală sau parțială a
+contractului/subcontractului clasificat fără autorizarea scrisă
+a contractantului/subcontractantului care pune la dispoziție
+sau împreună cu care sunt generate informațiile UE
+clasificate.
+(2) Dacă autoritatea competentă a UE a impus restricții
+pentru atribuirea de contracte clasificate în unele state
+membre UE, negocierea cu subcontractanți din aceste state
+se va face după obținerea prealabilă a permisiunii autorității
+competente a UE, prin intermediul ORNISS.
+(3) Contractele/subcontractele clasificate cu obiective
+industriale din state nemembre UE se vor încheia numai
+cu autorizarea scrisă a autorității competente a UE.
+Art. 9. — (1) Contractanții/subcontractanții deținători de
+informații UE clasificate răspund de protecția acestora
+potrivit legislației naționale în vigoare, precum și condițiilor
+impuse prin AS.
+(2) Contractele/subcontractele clasificate vor fi însoțite
+de AS, care trebuie să includă și LCS.
+(3) Contractanții/subcontractanții cu sediul în România
+sunt obligați să notifice ORNISS intenția de a
+contracta/subcontracta
+activități
+aferente
+unui
+contract/subcontract clasificat.
+(4) Pentru derularea contractelor/subcontractelor
+clasificate, încheiate de contractanții/subcontractanții cu
+sediul în România, AS trebuie avizată de ORNISS.
+CAPITOLUL III
+Procedura de eliberare a CSI—UE
+Art. 10. — (1) Pentru a i se elibera CSI—UE, un
+obiectiv industrial trebuie să îndeplinească următoarele
+cerințe:
+a) să nu prezinte riscuri de securitate;
+b) să fie stabil din punct de vedere economic;
+c) personalul implicat în negocierea/derularea
+contractului clasificat să fie autorizat pentru acces la
+informații UE clasificate de nivel corespunzător;
+d) să aibă implementate măsuri de securitate fizică și a
+informațiilor;
+e) să aibă implementate măsuri de securitate a
+informațiilor vehiculate în mediu electronic — INFOSEC;
+f) să nu fi înregistrat incidente de securitate cu implicații
+grave din punct de vedere al securității informațiilor
+clasificate;
+
+3
+
+g) să fi respectat obligațiile asumate în cadrul tuturor
+contractelor clasificate derulate anterior.
+(2) Implementarea cerințelor prevăzute la alin. (1) lit. d)
+și e) este necesară dacă negocierea sau derularea
+contractului/subcontractului clasificat impune procesarea sau
+stocarea informațiilor UE clasificate în locații și/sau prin
+sisteme informatice și de comunicații ale obiectivului
+industrial solicitant, după caz, în conformitate cu
+reglementările în vigoare.
+Art. 11. — (1) Pentru obiectivele industriale cu sediul în
+România, CSI—UE se eliberează de către ORNISS la
+solicitarea reprezentanților legali ai acestora.
+(2) Un obiectiv industrial poate solicita eliberarea CSI—
+UE dacă face dovada că urmează să participe la
+negocierea sau la derularea unui contract/subcontract
+clasificat.
+(3) În vederea inițierii procedurii de eliberare a CSI—UE
+solicitantul va depune la ORNISS următoarele documente:
+cererea de eliberare a CSI—UE (anexa nr. 1), chestionarul
+de securitate industrială (anexa nr. 2), lista cu personalul
+propriu implicat în negocierea/derularea contractului
+clasificat și care are acces la informații UE clasificate,
+precum și documentul din care să rezulte că obiectivul
+industrial urmează să fie implicat în activități contractuale
+în care se vehiculează informații UE clasificate.
+Art. 12. — (1) După primirea cererii de eliberare a
+CSI—UE, ORNISS va solicita ADS competente efectuarea
+verificărilor de securitate și eliberarea avizului de securitate.
+(2) Avizul de securitate eliberat de ADS competentă
+garantează îndeplinirea cerințelor menționate la art. 10
+alin. (1) lit. a), b) și c).
+(3) Avizul de securitate va fi însoțit de o sinteză a
+verificărilor de securitate, în vederea fundamentării deciziei
+ORNISS privind eliberarea CSI—UE.
+(4) Termenul de eliberare a avizului de securitate de
+către ADS este de 45 de zile lucrătoare de la primirea
+solicitării.
+Art. 13. — (1) ORNISS eliberează CSI—UE dacă sunt
+îndeplinite cerințele de securitate industrială necesare
+asigurării protecției informațiilor UE pentru nivelul de
+clasificare corespunzător.
+(2) Dacă prezintă relevanță pentru fundamentarea
+deciziei de eliberare, ORNISS este abilitat să solicite
+informațiile necesare de la conducătorii autorităților și ai
+instituțiilor publice, ai agenților economici cu capital integral
+sau parțial de stat și ai altor persoane juridice de drept
+public sau privat.
+(3) Decizia de eliberare a CSI—UE are la bază avizul
+de securitate al ADS competente, evaluarea sintezei de
+securitate comunicate de aceasta, rezultatele inspecțiilor de
+securitate efectuate de ORNISS/ADS și analiza altor
+documente solicitate în conformitate cu prevederile alin. (2).
+(4) Când sunt semnalate elemente care nu constituie
+riscuri de securitate, dar sunt relevante din punctul de
+vedere al securității, în luarea deciziei de eliberare a CSI—
+UE vor prima interesele de securitate.
+(5) Termenul de eliberare a CSI—UE sau de
+comunicare a deciziei de respingere a cererii este de
+60 de zile lucrătoare de la depunerea acesteia.
+Art. 14. — (1) CSI—UE este valabil pe o perioadă de
+3 ani de la data eliberării.
+(2) ORNISS, cu sprijinul ADS, este abilitat să
+monitorizeze respectarea, pe toată perioada de valabilitate
+a CSI—UE, a măsurilor de securitate existente la
+momentul eliberării și poate decide asupra menținerii sau
+retragerii acestuia.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 20/10.I.2006
+
+(3) După retragerea CSI—UE, obiectivul industrial pierde
+dreptul de a gestiona informații UE clasificate. În vederea
+eliberării unui nou CSI—UE, este necesară reluarea
+procedurii prevăzute în prezentul capitol.
+(4) Modelul CSI—UE este prezentat în anexa nr. 3 (în
+limba română) și în anexa nr. 4 (în limba engleză).
+Art. 15. — (1) Autorizarea personalului obiectivului
+industrial care urmează să participe la negocierea/derularea
+contractelor clasificate se face în conformitate cu
+prevederile referitoare la securitatea personalului și cu
+prezentele cerințe.
+(2) Reprezentanții legali ai obiectivelor industriale cu
+sediul în România sunt obligați să solicite ORNISS
+autorizarea personalului propriu care urmează să aibă
+acces la informații UE clasificate în cadrul procedurii de
+negociere sau de derulare a contractului/subcontractului
+clasificat.
+(3) Cererile privind autorizarea personalului vor specifica
+denumirea și obiectul contractului/subcontractului clasificat,
+precum și nivelul de clasificare a informațiilor UE la care
+personalul obiectivului industrial va avea acces.
+Art. 16. — (1) În situația în care un obiectiv industrial
+deține certificat de securitate industrială NATO sau
+autorizație/certificat de securitate industrială pentru informații
+clasificate naționale, i se poate elibera CSI—UE de nivel
+echivalent, dacă personalul implicat în negocierea și în
+derularea contractului clasificat este autorizat pentru acces
+la informații UE clasificate și sunt respectate prevederile
+art. 10 alin. (2).
+(2) ORNISS va informa ADS competentă în cazul CSI—
+UE în condițiile prevăzute la alin. (1).
+Art. 17. — (1) Vizitele care implică accesul la informații
+UE
+clasificate,
+efectuate
+de
+reprezentanți
+ai
+contractanților/subcontractanților la obiective industriale
+implicate în contracte/subcontracte clasificate, vor fi
+notificate în prealabil la ORNISS.
+(2) Notificarea prevăzută la alin. (1) va conține
+următoarele informații:
+a) datele de identificare ale vizitatorului: numele,
+prenumele, data și locul nașterii, naționalitatea, numărul
+pașaportului/cărții de identitate;
+b) calitatea în care efectuează vizita, precum și
+denumirea instituției/companiei/organizației pe care
+vizitatorul o reprezintă sau din care face parte;
+c) scopul vizitei;
+d) confirmarea că vizitatorul este autorizat să aibă
+acces la informații UE clasificate la nivel cel puțin egal cu
+cel al informațiilor pe care urmează să le acceseze;
+e) denumirea și adresa obiectivului industrial care
+urmează a fi vizitat;
+f) data sosirii și cea a plecării.
+Art. 18. — Obiectivul industrial deținător de CSI—UE nu
+va face public statutul său de securitate prin activități
+promoționale sau prin alte mijloace de această natură.
+Respectarea acestei cerințe va fi avută în vedere la
+fundamentarea deciziei prevăzute la art. 14 alin. (2).
+CAPITOLUL IV
+Transportul internațional al materialelor UE clasificate
+care fac obiectul activităților contractuale
+Art. 19. — (1) Transportul internațional al materialelor
+UE clasificate se face potrivit prevederilor Ordonanței
+
+Guvernului nr. 52/2005 privind organizarea și desfășurarea
+activității de curierat pentru materialele NATO clasificate,
+aprobată și modificată prin Legea nr. 342/2005.
+(2) Transportul internațional al materialelor UE clasificate
+se face cu respectarea următoarelor principii generale:
+a) securitatea materialelor UE clasificate va fi asigurată
+în toate etapele transportului și în toate condițiile, de la
+punctul de plecare până la destinația finală;
+b) măsurile de protecție aplicabile pe parcursul
+transportului vor fi determinate de cel mai înalt nivel de
+clasificare al materialelor conținute;
+c) atunci când este necesar, companiile transportatoare
+vor fi certificate din punct de vedere al securității
+industriale. În acest caz personalul acestor companii,
+implicat în manipularea și transportul materialelor UE
+clasificate, va fi autorizat în conformitate cu prevederile
+referitoare la accesul persoanelor la informații UE
+clasificate;
+d) toate etapele transportului vor fi planificate și vor fi
+realizate în cel mai scurt timp posibil permis de condițiile
+de transport;
+e) rutele de transport vor fi alese astfel încât să
+tranziteze numai teritoriile statelor membre UE. Transportul
+pe rute care traversează teritoriile statelor nemembre UE
+se va face numai după autorizarea acestuia de către
+autoritatea competentă din statul expeditorului/destinatarului,
+după caz;
+f) înaintea efectuării unui transport de materiale UE
+clasificate, expeditorul trebuie să elaboreze Planul de
+transport, aprobat de autoritățile competente implicate.
+CAPITOLUL V
+Activitatea de control
+Art. 20. — Toate obiectivele industriale care desfășoară
+activități contractuale în care se gestionează informații UE
+clasificate sau care se află în faza de certificare de
+securitate industrială vor fi incluse în programe de control.
+Art. 21. — (1) ORNISS coordonează activitatea de
+control la obiectivele industriale solicitante sau deținătoare
+de CSI—UE.
+(2) Activitatea de control are drept scop:
+a) evaluarea eficienței măsurilor de protecție a
+informațiilor UE clasificate, implementate la nivelul
+obiectivului industrial;
+b) identificarea vulnerabilităților existente în sistemul de
+protecție a informațiilor UE clasificate, care ar putea
+conduce la compromiterea acestor informații, în vederea
+adoptării măsurilor de prevenire necesare;
+c) constatarea cazurilor de nerespectare a prevederilor
+legale privind protecția informațiilor UE clasificate.
+(3) Obiectivul industrial solicitant sau deținător de CSI—
+UE are obligația de a asigura desfășurarea în condiții
+optime a activității de control prin facilitarea accesului
+reprezentanților ORNISS/ADS în locațiile/sediile acestuia și
+prin furnizarea, la cerere, a documentelor relevante, dacă
+se consideră necesar pentru evaluarea măsurilor de
+protecție a informațiilor UE clasificate, gestionate în cadrul
+activităților contractuale.
+Art. 22. — Anexele nr. 1—4*) fac parte integrantă din
+prezentele cerințe.
+
+*) Anexele nr. 1—4 sunt reproduse în facsimil.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 20/10.I.2006
+
+5
+ANEXA Nr. 1
+la cerințe
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 20/10.I.2006
+ANEXA Nr. 2
+la cerințe
+SECRET DE SERVICIU
+(după completare)
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 20/10.I.2006
+
+7
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 20/10.I.2006
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 20/10.I.2006
+
+9
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 20/10.I.2006
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 20/10.I.2006
+
+11
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 20/10.I.2006
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 20/10.I.2006
+
+13
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 20/10.I.2006
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 20/10.I.2006
+
+15
+ANEXA Nr. 3
+la cerințe
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 20/10.I.2006
+ANEXA Nr. 4
+la cerințe
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+Regia Autonomă îMonitorul Oficial“, Str. Parcului nr. 65, sectorul 1, București; C.U.I. 427282; Atribut fiscal R,
+IBAN: RO75RNCB5101000000120001 Banca Comercială Română — S.A. — Sucursala îUnirea“ București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 318.51.29/150, fax 318.51.15, E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 410.47.30, tel./fax 410.77.36 și 410.47.23
+Tiparul: Regia Autonomă îMonitorul Oficial“
+Monitorul Oficial al României, Partea I, nr. 20/10.I.2006 conține 16 pagini.
+
+Prețul: 1,15 lei noi/11.500 lei vechi
+
+&JUYDGY|071247]
+ISSN 1453—4495
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+

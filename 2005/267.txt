@@ -1,0 +1,992 @@
+PARTEA
+
+Anul 173 (XVII) — Nr. 267
+
+I
+
+Joi, 31 martie 2005
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE BĂNCII NAȚIONALE A ROMÂNIEI
+
+3.
+
+ACTE
+
+ALE
+
+— Regulament privind debitarea directă executată
+prin casa de compensare automată........................
+
+BĂNCII
+
+NAȚIONALE
+
+1–8
+
+A
+
+ROMÂNIEI
+
+BANCA NAȚIONALĂ A ROMÂNIEI
+
+REGULAMENT
+privind debitarea directă executată prin casa de compensare automată
+Având în vedere prevederile art. 22 alin. (1) și (2) din Legea nr. 312/2004 privind Statutul Băncii Naționale a
+României, ale art. 56 alin. 1 din Legea nr. 57/1998 privind activitatea bancară, republicată, ale art. 164 și 285 din
+Ordonanța de urgență a Guvernului nr. 97/2000 privind organizațiile cooperatiste de credit, aprobată cu modificări și
+completări prin Legea nr. 200/2002, cu modificările ulterioare, și ale art. 4 alin. (2) din Legea nr. 541/2002 privind
+economisirea și creditarea în sistem colectiv pentru domeniul locativ, cu modificările și completările ulterioare,
+în temeiul art. 48 alin. (2) din Legea nr. 312/2004,
+Banca Națională a României emite prezentul regulament.
+CAPITOLUL I
+Dispoziții generale
+Art. 1. — (1) Prezentul regulament stabilește modul de
+executare a unei instrucțiuni de debitare directă, emisă de
+un beneficiar prin intermediul unei instituții colectoare și
+trasă asupra contului unui plătitor deschis la o instituție
+plătitoare, denumită în continuare instrucțiune de debitare
+directă.
+(2) Se supun prevederilor prezentului regulament plățile
+preautorizate executate prin instrucțiuni de debitare directă,
+în cazul în care instituția colectoare și instituția plătitoare
+sunt participanți diferiți în casa de compensare automată.
+Art. 2. — (1) Prezentul regulament se aplică
+instrucțiunilor de debitare directă care:
+a) prevăd sume denominate în monedă națională;
+
+b) se execută pe baza unei autorizări permanente, dar
+revocabile din partea plătitorului, sub forma unui mandat de
+debitare directă dat instituției plătitoare.
+(2) Dacă un participant acceptă să acționeze ca
+instituție colectoare pentru un beneficiar, în vederea emiterii
+de către beneficiar a instrucțiunilor de debitare directă, este
+necesară și existența unui angajament privind debitarea
+directă.
+(3) Instrucțiunile de debitare directă pot să prevadă
+sume fixe sau variabile și pot să apară la intervale stabilite
+sau ocazional.
+(4) Instrucțiunile de debitare directă se emit numai în
+baza unui mandat de debitare directă valid.
+Art. 3. — În înțelesul prezentului regulament, termenii și
+expresiile de mai jos au următoarele semnificații:
+1. acceptarea unei instrucțiuni de debitare directă —
+procedura prin care o instituție colectoare recunoaște ca
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 267/31.III.2005
+
+fiind validă o instrucțiune de debitare directă primită de la
+un beneficiar și prin care instituția se obligă să introducă
+respectiva instrucțiune de debitare directă în casa de
+compensare automată;
+2. administrator de sistem — persoana juridică ce poartă
+responsabilitatea legală pentru operarea sistemului și care
+stabilește regulile de operare;
+3. angajament privind debitarea directă — acordul
+încheiat între beneficiar și instituția colectoare, ce cuprinde
+responsabilitățile beneficiarului și angajamentul său de
+respectare a prevederilor prezentului regulament, precum și
+acceptul instituției colectoare referitor la utilizarea de către
+beneficiar a instrucțiunilor de debitare directă în cadrul unei
+scheme de debitare directă;
+4. beneficiar — o persoană fizică sau juridică al cărei
+cont deschis la o instituție colectoare urmează să fie
+creditat sau a fost creditat cu suma prevăzută în
+instrucțiunea de debitare directă;
+5. data decontării interbancare a unei instrucțiuni de
+debitare directă — ziua bancară în care poziția netă
+obținută din compensarea în casa de compensare
+automată a instrucțiunii de debitare directă este decontată
+final în sistemul ReGIS;
+6. data finalizării — ziua bancară în care suma
+prevăzută în instrucțiunea de debitare directă este creditată
+în contul beneficiarului de către instituția colectoare;
+7. debitare directă — o modalitate de plată a unei sume
+de bani convenite între plătitor și beneficiar, care constă în
+debitarea preautorizată a contului plătitorului de către
+instituția plătitoare în baza prevederilor mandatului de
+debitare directă, la solicitarea beneficiarului, și creditarea
+corespunzătoare a contului beneficiarului de către instituția
+colectoare în baza angajamentului privind debitarea directă;
+această modalitate de plată nu necesită autorizarea
+prealabilă de către plătitor a fiecărei instrucțiuni de debitare
+directă trasă asupra contului său;
+8. executarea unei instrucțiuni de debitare directă —
+procedura prin care o instituție plătitoare pune în aplicare
+mandatul de debitare directă dat de plătitor, acceptând
+executarea instrucțiunii de debitare directă prin debitarea
+contului plătitorului, în conformitate cu prevederile din
+termenii și condițiile generale de afaceri, și acceptarea
+decontării interbancare, în conformitate cu prevederile din
+regulile de sistem ale casei de compensare automată;
+9. instituție colectoare — participantul la care beneficiarul
+are deschis contul care urmează a fi creditat sau a fost
+creditat cu suma prevăzută în instrucțiunea de debitare
+directă; instituția colectoare poate fi în același timp și
+beneficiar;
+10. instituție plătitoare — participantul la care plătitorul
+are deschis contul care urmează a fi debitat sau a fost
+debitat cu suma prevăzută în instrucțiunea de debitare
+directă; instituția plătitoare poate fi în același timp și
+plătitor;
+11. instrucțiune de debitare directă — o instrucțiune de
+plată prin debitare directă, emisă de un beneficiar și trasă
+asupra unui cont al unui plătitor deschis la o instituție
+plătitoare sau, după caz, asupra contului unei instituții
+plătitoare care este în același timp și plătitor;
+12. mandat de debitare directă — un document care
+satisface cerințele menționate în anexa nr. 1, transmis în
+scris ori prin mijloace electronice, semnat sau a cărei
+autenticitate a fost verificată prin aplicarea unei alte
+proceduri de securitate, prin care un plătitor acordă o
+autorizare permanentă dar revocabilă unui anumit beneficiar
+pentru a emite instrucțiuni de debitare directă asupra
+contului său deschis la instituția plătitoare și instituției
+
+plătitoare pentru a-i debita contul cu suma prevăzută în
+instrucțiunile de debitare directă emise de beneficiar;
+13. notificare prealabilă — o notificare privind o
+instrucțiune de debitare directă, făcută plătitorului de către
+beneficiar în situațiile și termenele prevăzute la art. 31
+alin. (1) lit. a) și b);
+14. participant — Banca Națională a României și orice
+instituție de credit admisă a participa în casa de
+compensare automată și al cărei statut de participant nu a
+fost revocat sau retras în conformitate cu prevederile din
+regulile de sistem ale casei de compensare automate;
+15. perioadă de așteptare — intervalul de timp cuprins
+între momentul transmiterii unei instrucțiuni de debitare
+directă de către instituția colectoare în casa de
+compensare automată și momentul limită până la care pot
+fi refuzate instrucțiunile de debitare directă, conform
+regulilor de sistem ale casei de compensare automată, din
+ziua de operare anterioară datei decontării interbancare;
+16. procedură de securitate — o procedură stabilită prin
+convenție între plătitor și instituția plătitorului, respectiv între
+beneficiar și instituția colectoare, în scopul:
+a) de a determina dacă un mandat de debitare directă,
+o modificare sau o revocare a acestuia provine de la
+persoana indicată ca fiind plătitor;
+b) de a determina dacă o instrucțiune de debitare
+directă, o modificare sau o revocare a acesteia provine de
+la persoana indicată ca fiind beneficiar;
+c) de a detecta erorile în transmiterea sau în conținutul
+mandatului de debitare directă ori a notificării de modificare
+sau revocare a acestuia;
+d) de a detecta erorile în transmiterea sau în conținutul
+instrucțiunii de debitare directă ori a comunicării de
+modificare sau revocare a acesteia;
+17. plătitor — o persoană fizică sau juridică al cărei
+cont deschis la o instituție plătitoare urmează să fie debitat
+sau a fost debitat cu suma prevăzută în instrucțiunea de
+debitare directă;
+18. reguli de sistem — regulile care stabilesc drepturile
+și obligațiile administratorului de sistem, precum și ale
+participanților, referitoare la operarea și, respectiv,
+participarea acestora în cadrul sistemului;
+19. zi de operare — acea parte a unei zile bancare pe
+parcursul căreia casa de compensare automată procesează
+plăți;
+20. casa de compensare automată — sistemul de plăți
+care asigură compensarea fondurilor, aflat în proprietatea și
+administrarea TransFonD — S.A.
+CAPITOLUL II
+Cerințe pentru emiterea instrucțiunii
+de debitare directă
+Art. 4. — (1) În scopul emiterii instrucțiunilor de debitare
+directă, un beneficiar trebuie să îndeplinească următoarele
+cerințe:
+a) să fi primit de la plătitor un exemplar al mandatului
+de debitare directă sau o notificare în acest sens;
+b) să aibă o creanță valabilă asupra plătitorului, care să
+rezulte dintr-un contract încheiat între plătitor și beneficiar.
+(2) Un beneficiar care nu este și participant trebuie să
+îndeplinească în plus față de cerințele prevăzute la alin. (1)
+și următoarele cerințe:
+a) să aibă un cont deschis la o instituție colectoare;
+b) să încheie cu instituția colectoare un angajament
+privind debitarea directă, care să îndeplinească cerințele
+prevăzute în anexa nr. 2.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 267/31.III.2005
+Art. 5. — O instituție colectoare care acceptă să
+colecteze fonduri pentru un beneficiar trebuie:
+a) să obțină angajamentul beneficiarului de respectare a
+tuturor obligațiilor ce îi revin acestuia potrivit prezentului
+regulament;
+b) să garanteze orice instituție plătitoare împotriva
+pretențiilor formulate în una dintre situațiile declarate de
+plătitor prevăzute la art. 40, precum și a celor formulate
+printr-o hotărâre definitivă emisă de o instanță competentă,
+care obligă instituția colectoare la plata respectivei pretenții.
+CAPITOLUL III
+Mandatul de debitare directă.
+Instrucțiunea de debitare directă.
+Angajamentul privind debitarea directă
+SECȚIUNEA 1
+Mandatul de debitare directă
+
+Art. 6. — (1) Debitarea directă a contului unui client se
+realizează exclusiv pe baza unui mandat de debitare
+directă.
+(2) Beneficiarul va fi notificat de către plătitor cu privire
+la existența mandatului de debitare directă și termenii
+acestuia.
+Art. 7. — Pentru a acționa ca instituție plătitoare, un
+participant trebuie:
+a) să obțină un mandat de debitare directă din partea
+plătitorului, care să îndeplinească cerințele prevăzute în
+anexa nr. 1;
+b) să-și asume responsabilitatea de a verifica validitatea
+mandatului, respectiv faptul că mandatul de debitare directă
+este dat de persoane autorizate și că asupra contului
+respectiv pot fi trase instrucțiuni de debitare directă;
+c) să accepte mandatul de debitare directă, prin
+semnare sau prin confirmarea acceptării prin mijloace
+electronice.
+Art. 8. — O instituție colectoare care este și beneficiar
+trebuie:
+a) să obțină mandatul de debitare directă din partea
+plătitorului care să îndeplinească cerințele prevăzute în
+anexa nr. 1;
+b) să despăgubească administratorul de sistem al casei
+de compensare automată și participanții pentru orice
+pierdere directă, costuri sau pagube datorate faptului că
+respectivul mandat de debitare directă nu a respectat
+cerințele minime prevăzute în anexa nr. 1 sau prevederile
+prezentului regulament.
+Art. 9. — În situația în care o instituție plătitoare este și
+plătitor, aceasta trebuie să emită un mandat de debitare
+directă care să autorizeze debitarea directă a contului său
+la inițiativa beneficiarului și să transmită beneficiarului un
+exemplar al acestuia.
+SECȚIUNEA a 2-a
+Instrucțiunea de debitare directă
+
+Art. 10. — (1) Emiterea fiecărei instrucțiuni de debitare
+directă de către un beneficiar trebuie să fie preautorizată
+printr-un mandat de debitare directă, iar instrucțiunea de
+debitare directă trebuie să conțină cel puțin următoarele
+elemente obligatorii:
+a) identificarea ca instrucțiune de debitare directă;
+b) suma prevăzută în instrucțiunea de debitare directă
+și moneda în care este denominată aceasta;
+c) data finalizării instrucțiunii de debitare directă;
+
+3
+
+d) identitatea instituției plătitoare, prin denumire și cod BIC;
+e) identitatea instituției colectoare, prin denumire și cod BIC;
+f) identitatea (prin titular și cod IBAN) a contului care
+trebuie debitat, deschis de plătitor la instituția plătitoare;
+g) identitatea (prin titular și cod IBAN) a contului care
+va fi creditat, deschis de beneficiar la instituția colectoare;
+h) semnăturile persoanelor autorizate ale beneficiarului
+sau elementul/elementele care permit autentificarea
+beneficiarului de către instituția colectoare.
+(2) Instituția plătitoare este răspunzătoare pentru
+verificarea existenței și validității unui mandat de debitare
+directă pentru fiecare instrucțiune de debitare directă pe
+care o recepționează de la casa de compensare automată
+și pentru fiecare instrucțiune care în aparență este o
+instrucțiune de debitare directă, emisă de beneficiar și
+introdusă în casa de compensare automată de instituția
+colectoare.
+Art. 11. — O instituție colectoare va introduce în casa
+de compensare automată doar instrucțiuni de debitare
+directă care respectă cerințele prevăzute la art. 10 și în
+regulile de sistem ale casei de compensare automată.
+SECȚIUNEA a 3-a
+Angajamentul privind debitarea directă
+
+Art. 12. — Când un participant convine să acționeze ca
+instituție colectoare pentru un beneficiar care emite
+instrucțiuni de debitare directă, acesta trebuie:
+a) să obțină un angajament privind debitarea directă de
+la fiecare beneficiar pentru care introduce instrucțiuni de
+debitare directă în casa de compensare automată,
+angajament care trebuie să îndeplinească cerințele
+prevăzute în anexa nr. 2;
+b) să se angajeze să despăgubească administratorul de
+sistem al casei de compensare automată și participanții
+pentru orice pierdere directă, costuri sau pagube suferite
+ca urmare a faptului că respectivul angajament privind
+debitarea directă nu a respectat cerințele prevăzute în
+anexa nr. 2 sau prevederile prezentului regulament.
+Art. 13. — În situația în care o instituție colectoare este
+și beneficiar, nu mai este necesară existența unui
+angajament privind debitarea directă.
+SECȚIUNEA a 4-a
+Revocarea sau modificarea unui mandat de debitare directă
+și a unei instrucțiuni de debitare directă
+
+Art. 14. — (1) Un mandat de debitare directă este
+revocat sau modificat atunci când instituția plătitoare
+primește o dispoziție în acest sens din partea plătitorului
+sau din partea unei persoane mandatate de acesta, a
+cărui autenticitate a fost verificată prin aplicarea unei
+proceduri de securitate. Dispoziția de revocare sau de
+modificare produce efecte din ziua bancară următoare
+primirii ordinului de către instituția plătitoare.
+(2) Dispoziția menționată la alin. (1) trebuie să identifice
+clar mandatul de debitare directă pe care îl revocă ori
+modifică și poate fi transmis instituției plătitoare în scris,
+prin mijloace electronice sau verbal. O dispoziție transmisă
+verbal trebuie confirmată în scris în termen de 24 de ore.
+Dispoziția de revocare sau de modificare va fi notificată
+beneficiarului de către plătitor.
+Art. 15. — (1) O instrucțiune de debitare directă este
+revocată sau modificată când o dispoziție de revocare sau
+de modificare dată de beneficiar, sau de o persoană
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 267/31.III.2005
+
+mandatată de acesta și a cărui autenticitate a fost
+verificată prin aplicarea unei proceduri de securitate, este
+primită de instituția colectoare la un moment și de o
+manieră care îi permite acesteia să inițieze revocarea sau
+modificarea instrucțiunii înainte ca instrucțiunea de debitare
+directă originală să fi fost transmisă casei de compensare
+automată.
+(2) O dispoziție de revocare sau de modificare a unei
+instrucțiuni de debitare directă trebuie să identifice clar
+instrucțiunea de debitare directă pe care o revocă ori
+modifică și poate fi transmisă instituției colectoare în scris,
+prin mijloace electronice sau verbal. O dispoziție transmisă
+verbal trebuie confirmată în scris în termen de 24 de ore.
+Art. 16. — (1) Revocarea sau modificarea unui mandat
+de debitare directă nu afectează nici un drept ori obligație
+care a apărut în legătură cu o instrucțiune de debitare
+directă dată în baza mandatului inițial și transmisă în casa
+de compensare automată anterior momentului în care
+revocarea sau modificarea produce efecte.
+(2) Un beneficiar al cărui mandat de debitare directă
+este revocat sau modificat în conformitate cu prevederile
+prezentei secțiuni va fi în continuare ținut de mandatul de
+debitare directă în ceea ce privește orice acțiune, fapt ori
+eveniment intervenit înaintea momentului la care respectiva
+revocare sau modificare își produce efectele ori ca rezultat
+al unei astfel de revocări sau modificări.
+SECȚIUNEA a 5-a
+Răspunderea beneficiarului
+
+Art. 17. — Beneficiarul este obligat prin instrucțiunea de
+debitare directă numai dacă aceasta a fost emisă de către
+beneficiar sau de către o persoană mandatată de acesta.
+Art. 18. — În cazul în care o instrucțiune de debitare
+directă a fost supusă aplicării unei proceduri de securitate,
+alta decât simpla comparare a semnăturilor, un prezumat
+beneficiar, care nu este obligat conform prevederilor art. 17,
+va fi totuși ținut răspunzător dacă:
+a) instituția colectoare a acceptat ca fiind autentică
+instrucțiunea de debitare directă primită, ca urmare a
+aplicării procedurii de securitate;
+b) procedura de securitate aplicată reprezintă o metodă
+rezonabilă pentru asigurarea protecției împotriva plăților
+neautorizate, acceptată și utilizată de instituțiile de credit.
+Art. 19. — (1) Un prezumat beneficiar nu este totuși
+ținut răspunzător conform art. 18 dacă dovedește că
+instrucțiunea de debitare directă acceptată de instituția
+colectoare, în forma primită, a rezultat din acțiunea unei
+persoane:
+a) un actual sau un fost angajat al prezumatului
+beneficiar; sau
+b) o persoană a cărei relație cu prezumatul beneficiar
+i-a permis acesteia accesul la procedura de securitate.
+(2) Prevederile alin. (1) nu se aplică în situația în care
+instituția colectoare dovedește că instrucțiunea de debitare
+directă a rezultat din acțiunea unei persoane care a avut
+acces la procedura de securitate din vina prezumatului
+beneficiar.
+Art. 20. — (1) Un beneficiar este obligat printr-o
+instrucțiune de debitare directă în termenii prevăzuți în
+instrucțiunea de debitare directă transmisă instituției
+colectoare.
+(2) Beneficiarul nu este ținut răspunzător de un duplicat
+eronat al unei instrucțiuni de debitare directă, de o eroare
+sau o neconcordanță dintr-o instrucțiune de debitare
+directă, dacă:
+
+a) beneficiarul și instituția colectoare au convenit o
+procedură de detectare a duplicatelor eronate, a erorilor sau
+neconcordanțelor din instrucțiunile de debitare directă; și
+b) utilizarea procedurii de la lit. a) de către instituția
+colectoare a evidențiat sau ar fi putut evidenția duplicatul
+eronat, eroarea ori neconcordanța.
+Art. 21. — Prezenta secțiune se aplică în mod
+corespunzător și modificărilor și revocărilor de instrucțiuni
+de debitare directă.
+SECȚIUNEA a 6-a
+Răspunderea plătitorului
+
+Art. 22. — Prevederile secțiunii a 5-a se aplică în mod
+corespunzător și emiterii, modificării sau revocării
+mandatului de debitare directă, plătitorul fiind înlocuit cu
+beneficiarul, instrucțiunea de debitare directă cu mandatul
+de debitare directă și instituția colectoare cu instituția
+plătitoare.
+SECȚIUNEA a 7-a
+Limite de timp stabilite pentru transmiterea
+și executarea instrucțiunilor de debitare directă
+
+Art. 23. — (1) Instrucțiunile de debitare directă vor fi
+transmise în casa de compensare automată de către
+instituția colectoare cu cel puțin 2 zile bancare înainte de
+data decontării interbancare, dacă regulile de sistem nu
+prevăd altfel.
+(2) Data decontării interbancare a unei instrucțiuni de
+debitare directă va fi stabilită de instituția colectoare ca
+fiind data finalizării sau ziua bancară anterioară acesteia,
+în funcție de convenția existentă între aceasta și clientul
+său beneficiar.
+(3) Instituția colectoare poate prevedea în cadrul
+termenilor și condițiilor sale generale de afaceri limite de
+timp pentru transmiterea de către clientul său a
+instrucțiunilor de debitare directă.
+Art. 24. — O instrucțiune de debitare directă va fi
+executată de instituția plătitoare dacă fondurile
+reprezentând suma prevăzută în instrucțiunea de debitare
+directă sunt puse la dispoziția acesteia de către plătitor
+începând cu a doua zi bancară anterioară datei decontării
+interbancare.
+Art. 25. — (1) Instituția plătitoare va lua toate măsurile
+ca instrucțiunea de debitare directă să fie decontată la
+data decontării interbancare.
+(2) Dacă decontarea interbancară nu se realizează la
+termenul menționat la alin. (1) din vina instituției plătitoare,
+aceasta are obligația de a returna plătitorului suma debitată
+din contul acestuia aferentă instrucțiunii de debitare directă.
+SECȚIUNEA a 8-a
+Dobânda pentru plăți întârziate sau neefectuate
+
+Art. 26. — (1) În situația prevăzută la art. 25 alin. (2),
+instituția plătitoare poate datora plătitorului o dobândă de
+întârziere calculată pe perioada cuprinsă între data debitării
+contului și data returnării sumei aferente instrucțiunii de
+debitare directă neexecutată.
+(2) Dacă instituția colectoare nu respectă data finalizării
+prevăzută în instrucțiunea de debitare directă din vina
+acesteia, poate datora beneficiarului o dobândă calculată
+pe perioada cuprinsă între data finalizării stabilită de
+beneficiar și data creditării contului acestuia cu suma
+aferentă instrucțiunii de debitare directă.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 267/31.III.2005
+(3) Dobânda prevăzută la alin. (1) și (2) se va calcula
+prin aplicarea unei rate a dobânzii convenite, dar cel puțin
+egală cu rata dobânzii de referință stabilită de Banca
+Națională a României.
+Art. 27. — În plus față de dobânda prevăzută la
+art. 26, plătitorul, instituția plătitoare, beneficiarul sau
+instituția colectoare este îndreptățită la despăgubiri.
+SECȚIUNEA a 9-a
+Obligațiile instituțiilor plătitoare și colectoare
+privind informarea clienților
+
+Art. 28. — Instituția plătitoare și instituția colectoare vor
+furniza clienților în avans informații clare în scris referitoare
+la termenii și condițiile generale de afaceri privind emiterea
+și executarea instrucțiunilor de debitare directă.
+Art. 29. — Termenii și condițiile generale de afaceri
+prevăzute la art. 28 vor include cel puțin următoarele
+informații:
+a) termenele limită pentru emiterea și executarea
+instrucțiunilor de debitare directă, inclusiv termenele pentru
+debitarea contului plătitorului și creditarea contului
+beneficiarului;
+b) nivelul comisioanelor plătibile de către client pentru
+instrucțiunea de debitare directă;
+c) detalii referitoare la procedurile de rezolvare a
+pretențiilor de returnare a plății formulate de clienți.
+CAPITOLUL IV
+Autorizarea plății
+SECȚIUNEA 1
+Notificarea prealabilă a plătitorului
+
+Art. 30. — Pentru emiterea și/sau transmiterea către
+casa de compensare automată a unei instrucțiuni de
+debitare directă care conține o altă sumă sau o altă dată
+decât cea prevăzută în mandatul de debitare directă (spre
+exemplu în cazul suplimentărilor sau ajustărilor) nu este
+necesară o autorizare prealabilă din partea plătitorului, cu
+condiția transmiterii de către beneficiar plătitorului a unei
+notificări prealabile privind această modificare, în
+conformitate cu prevederile prezentei secțiuni.
+Art. 31. — (1) Cerințele de notificare prealabilă
+aplicabile, în conformitate cu cele prevăzute în mandatul
+de debitare directă, sunt următoarele:
+a) când mandatul de debitare directă prevede
+instrucțiuni de debitare directă cu sumă fixă, care se
+repetă la intervale stabilite, beneficiarul trebuie să notifice
+în scris plătitorului, cu cel puțin 10 zile lucrătoare înainte
+de data finalizării primei instrucțiuni de debitare directă sau
+înaintea unei suplimentări ori ajustări anuale, la adresa
+înregistrată a acestuia, cu privire la suma care va fi
+debitată și data/datele la care fondurile trebuie asigurate de
+plătitor în contul său; o astfel de notificare va fi făcută de
+fiecare dată când se modifică suma sau data/datele plății;
+b) când mandatul de debitare directă prevede
+instrucțiuni de debitare directă cu sumă variabilă, care se
+repetă la intervale stabilite, beneficiarul trebuie să notifice
+în scris plătitorul, cu cel puțin 10 zile lucrătoare înainte de
+data finalizării fiecărei instrucțiuni de debitare directă, la
+adresa înregistrată a acestuia, cu privire la suma care va fi
+debitată și data la care fondurile trebuie asigurate de
+plătitor în contul său.
+
+5
+
+(2) Prin excepție de la prevederile alin. (1), nu este
+necesară notificarea prealabilă a modificărilor de sumă în
+cazul instrucțiunilor de debitare directă cu sumă fixă sau
+variabilă care se repetă la intervale stabilite dacă mandatul
+de debitare directă stipulează posibilitatea apariției unei
+modificări a sumei ca rezultat al unei acțiuni directe din
+partea plătitorului (cum este, spre exemplu, fără a se limita
+la aceasta, o instrucțiune transmisă prin telefon și
+confirmată în scris) prin care se solicită beneficiarului să
+modifice suma unei instrucțiuni de debitare directă.
+(3) Plătitorul și beneficiarul pot conveni modificarea
+modalității de notificare sau renunțarea la cerința de
+notificare prealabilă fie prin mandatul de debitare directă,
+fie prin alte acte de renunțare separate.
+SECȚIUNEA a 2-a
+Asigurarea fondurilor. Perioada de așteptare a refuzului
+
+Art. 32. — După primirea unei notificări prealabile în
+conformitate cu prevederile secțiunii 1 din prezentul capitol,
+plătitorul este obligat să se asigure că, începând cu a
+doua zi bancară anterioară datei decontării interbancare, în
+contul asupra căruia este trasă instrucțiunea de debitare
+directă vor fi suficiente fonduri pentru a acoperi suma
+prevăzută în instrucțiunea de debitare directă.
+Art. 33. — (1) Instituția colectoare va introduce
+instrucțiunile de debitare directă în casa de compensare
+automată în conformitate cu prevederile art. 23 alin. (1).
+Casa de compensare automată va valida fiecare
+instrucțiune de debitare directă în conformitate cu regulile
+proprii și va notifica fiecărui participant plătitor valoarea
+propriei poziții nete ce urmează a fi decontată.
+(2) În conformitate cu acordul dintre plătitor și instituția
+plătitoare, suma aferentă decontării instrucțiunii de debitare
+directă se va debita de către instituția plătitoare din contul
+asupra căruia instrucțiunea este trasă în ziua bancară
+precedentă datei decontării interbancare, nu mai târziu de
+momentul limită până la care instrucțiunile de debitare
+directă pot fi refuzate în casa de compensare automată de
+instituțiile plătitoare (moment prevăzut în regulile de sistem
+ale casei de compensare automată).
+(3) În cazul în care instituția plătitoare nu refuză o
+instrucțiune de debitare directă prin una dintre modalitățile
+prevăzute în regulile de sistem ale casei de compensare
+automată înainte de momentul limită prevăzut la alin. (2),
+instrucțiunea de debitare directă va fi considerată
+acceptată.
+Art. 34. — Instituția colectoare va informa beneficiarul
+cu privire la orice instrucțiune de debitare directă refuzată.
+Art. 35. — În cazul în care o instrucțiune de debitare
+directă este refuzată de către instituția plătitoare, refuzul
+trebuie transmis indiferent de motiv instituției colectoare,
+prin intermediul casei de compensare automată, în
+conformitate cu limitele de timp și cu procedurile prevăzute
+în regulile de sistem ale casei de compensare automată.
+Art. 36. — Instrucțiunea de debitare directă refuzată de
+către instituția plătitoare poate fi prezentată din nou spre
+încasare de către instituția colectoare numai cu respectarea
+cerințelor privind procesarea instrucțiunilor de debitare
+directă prezentate în regulile de sistem ale casei de
+compensare automată.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 267/31.III.2005
+SECȚIUNEA a 3-a
+Compensarea și decontarea instrucțiunilor
+de debitare directă
+
+Art. 37. — Instrucțiunile de debitare directă introduse în
+casa de compensare automată se vor compensa și
+deconta în conformitate cu regulile de sistem ale acesteia.
+CAPITOLUL V
+Returnarea și rambursarea
+SECȚIUNEA 1
+Returnarea către clienți și dreptul la rambursare
+
+Art. 38. — În cazul în care un plătitor formulează o
+pretenție de returnare în legătură cu o instrucțiune de
+debitare directă, în conformitate cu cele prevăzute la
+art. 39 și 40, instituția plătitoare care deține contul
+plătitorului, cont care a fost debitat cu suma prevăzută într-o
+instrucțiune de debitare directă acceptată, va analiza
+solicitarea în ziua în care aceasta a fost formulată și va
+returna întreaga sumă sau suma în exces în maximum o
+zi bancară de la formularea pretenției, în cazul în care
+solicitarea a fost formulată pentru situațiile declarate de
+plătitor, prevăzute la art. 40.
+Art. 39. — Orice pretenție de returnare formulată pentru
+una dintre situațiile declarate de plătitor, prevăzute la art. 40
+lit. b) și c), va fi transmisă instituției plătitoare în termen de
+maximum 10 zile bancare de la data la care plătitorul a
+cunoscut sau ar fi trebuit să cunoască din extrasul de cont
+că suma prevăzută în instrucțiunea de debitare directă
+disputată a fost debitată din contul plătitorului.
+Art. 40. — Instituția plătitoare va accepta o pretenție de
+returnare de la un plătitor al cărui cont a fost debitat cu
+suma prevăzută într-o instrucțiune de debitare directă, în
+oricare dintre următoarele situații pe care plătitorul le
+declară, în condițiile în care plătitorul a fost notificat în
+conformitate cu prevederile art. 31:
+a) inexistența mandatului de debitare directă;
+b) instrucțiunea de debitare directă nu a fost executată
+de instituția plătitoare în conformitate cu mandatul de
+debitare directă sau cu prevederile instrucțiunii de debitare
+directă, primită de la instituția colectoare (spre exemplu,
+suma debitată este mai mare decât suma prevăzută în
+instrucțiunea de debitare directă);
+c) mandatul de debitare directă a fost revocat în
+conformitate cu prevederile art. 14.
+Art. 41. — În cazul în care un plătitor pretinde o
+returnare în legătură cu o sumă prevăzută într-o
+instrucțiune de debitare directă, instituția plătitoare trebuie:
+a) să obțină de la plătitorul care a formulat pretenția de
+returnare o declarație în conformitate cu modelul prezentat
+în anexa nr. 3, întocmită în două exemplare originale;
+b) să se asigure că declarația este semnată de plătitor
+sau, după caz, de către o persoană mandatată de acesta;
+c) să rețină un exemplar al declarației, iar celălalt să-l
+transmită instituției colectoare.
+Art. 42. — (1) Instituția colectoare va rambursa instituției
+plătitoare orice sumă primită de la aceasta, aferentă unei
+instrucțiuni de debitare directă, sumă care a fost returnată
+
+plătitorului de către instituția plătitoare în conformitate cu
+prevederile prezentei secțiuni.
+(2) În situația prevăzută la alin. (1), instituția colectoare
+va proceda la debitarea automată a contului beneficiarului
+cu suma aferentă instrucțiunii de debitare directă a cărei
+plată a fost rambursată.
+Art. 43. — (1) Orice pretenție pentru plata unei dobânzi
+se va limita la dobânda pierdută de plătitor și plătită
+acestuia de instituția plătitoare pentru o instrucțiune de
+debitare directă a cărei plată a fost returnată în baza
+prezentei secțiuni.
+(2) Orice pretenție pentru plata unei dobânzi se va
+procesa separat de suma aferentă instrucțiunii de debitare
+directă a cărei plată a fost returnată, dar va conține toate
+elementele de identificare ale instrucțiunii de debitare
+directă.
+Art. 44. — Dacă un plătitor formulează o pretenție după
+depășirea limitelor de timp prevăzute la art. 39, aceasta va
+fi soluționată de părți în conformitate cu legislația în
+vigoare, iar returnarea sumei pretinse nu se va supune
+prevederilor referitoare la returnare din prezentul
+regulament.
+Art. 45. — În plus față de plata sumei sau a excesului
+de sumă, aferente instrucțiunii de debitare directă și a
+dobânzii, plătitorul, beneficiarul, instituția plătitoare sau
+instituția colectoare, după caz, este îndreptățită să solicite
+daune, fără a prejudicia astfel celelalte drepturi ale
+acesteia.
+SECȚIUNEA a 2-a
+Rambursarea către instituțiile plătitoare
+care sunt și plătitori
+
+Art. 46. — În cazul în care o instituție plătitoare care
+este și plătitor formulează o pretenție de rambursare în
+legătură cu o instrucțiune de debitare directă, prevederile
+secțiunii precedente se vor aplica în mod corespunzător,
+cu modificările impuse de situație (respectiv înlocuirea
+plătitorului cu instituția plătitoare).
+SECȚIUNEA a 3-a
+Soluționarea disputelor cu beneficiarul
+sau cu instituția colectoare
+
+Art. 47. — În situația în care beneficiarul sau instituția
+colectoare pune în discuție validitatea pretenției plătitorului,
+formulată în baza art. 26 și 27 ori a cap. V secțiunea 1 și
+prezentată în formularul de cerere de returnare, disputa va
+fi soluționată de părți pe cale amiabilă, în afara casei de
+compensare automată. În caz de eșec, se va aplica
+legislația în vigoare cu privire la medierea disputelor.
+CAPITOLUL VI
+Dispoziții finale și sancțiuni
+Art. 48. — Nerespectarea prevederilor prezentului
+regulament atrage aplicarea regimului sancțiunilor, prevăzut
+de Legea nr. 58/1998 privind activitatea bancară,
+republicată, sau de Legea nr. 312/2004 privind statutul
+Băncii Naționale a României, după caz.
+Art. 49. — Anexele nr. 1—3 fac parte integrantă din
+prezentul regulament.
+
+Președintele Consiliului de administrație al Băncii Naționale a României,
+MUGUR CONSTANTIN ISĂRESCU
+București, 23 februarie 2005.
+Nr. 3.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 267/31.III.2005
+
+7
+ANEXA Nr. 1
+la regulament
+
+ELEMENTE OBLIGATORII
+
+care trebuie incluse în mandatul de debitare directă*)
+1. Date de identificare obligatorii:
+a) identificarea ca mandat de debitare directă;
+b) identitatea plătitorului;
+c) identitatea beneficiarului;
+d) identitatea instituției plătitoare, prin denumire și/sau
+cod BIC;
+e) identitatea instituției colectoare, prin denumire și/sau
+cod BIC;
+f) codul IBAN alocat contului care trebuie debitat,
+deschis de plătitor la instituția plătitoare;
+g) codul IBAN alocat contului care va fi creditat, deschis
+de beneficiar la instituția colectoare;
+h) semnăturile persoanelor autorizate.
+2. Clauze obligatorii:
+a) autorizarea permanentă dar revocabilă dată de
+plătitor beneficiarului de a emite instrucțiuni de debitare
+directă asupra contului plătitorului deschis la instituția
+plătitoare sau, după caz, chiar asupra contului instituției
+plătitoare care este și plătitor, și, după caz, un mandat
+limitat și expres dat de plătitor instituției plătitoare de a-i
+debita contul cu suma prevăzută în instrucțiunea de
+debitare directă în baza cererii beneficiarului;
+b) limite predefinite de timp (spre exemplu, săptămânal,
+la două săptămâni, lunar, la intervale stabilite, în zile
+stabilite sau ocazional) și de sumă (fixă sau variabilă) sau
+suma maximă;
+c) posibilitatea revocării în orice moment a mandatului
+de către plătitor, pe baza unei notificări făcute beneficiarului
+și instituției plătitoare;
+d) modul de remitere a mandatului de debitare directă
+către beneficiar;
+e) modul de notificare/comunicare a datei/datelor de
+debitare a contului plătitorului și a sumelor aferente, dacă
+mandatul de debitare directă este pentru debitări directe de
+sume fixe sau variabile care se repetă la intervale stabilite,
+
+precum și a oricăror modificări, în conformitate cu
+prevederile art. 31 din regulament;
+f) notificarea prealabilă poate fi dată în scris sau în
+orice alt mod pe care plătitorul l-a consimțit pentru a primi
+notificări la adresa înregistrată a sa;
+g) prin excepție de la prevederile lit. e), mandatul de
+debitare directă poate indica faptul că plătitorul și
+beneficiarul au convenit să renunțe la notificarea prealabilă
+sau să modifice aceste cerințe;
+h) plătitorul și instituția plătitoare trebuie să indice faptul
+că toate informațiile referitoare la contul plătitorului sunt
+exacte și trebuie să accepte să comunice beneficiarului
+orice modificare a acestora;
+i) mandatul de debitare directă se aplică exclusiv
+modalității de plată și nu are nici o implicație asupra
+contractelor care stau la baza acestuia, încheiate între
+plătitor și beneficiar;
+j) plătitorul poate formula o pretenție de rambursare în
+cazul în care o debitare directă este efectuată în mod
+eronat din contul său în situațiile menționate la art. 40 și,
+în acest caz, plătitorului i se va solicita completarea unui
+formular de cerere de tipul celui prezentat în anexa nr. 3;
+k) orice termeni sau condiții suplimentare în care trebuie
+emise instrucțiunile de debitare directă;
+l) plătitorul trebuie să indice faptul că a înțeles, a
+acceptat și participă într-un aranjament de debitare directă;
+m) plătitorul trebuie să-și dea consimțământul pentru
+transmiterea către beneficiar sau către instituția colectoare
+a oricăror informații cu caracter personal care pot fi
+conținute în mandatul de debitare directă;
+n) în cazul în care mandatul de debitare directă este un
+document în formă electronică ce se conformează cerințelor
+prezentului regulament, plătitorul trebuie să certifice faptul
+că metoda de semnare a documentului constituie o
+autorizare corespunzătoare pentru instituția plătitoare pentru
+debitarea contului plătitorului.
+ANEXA Nr. 2
+la regulament
+
+ELEMENTE OBLIGATORII
+
+care trebuie incluse în angajamentul privind debitarea directă**)
+1. Scopul
+Angajamentul privind debitarea directă trebuie să conțină
+un articol introductiv în care să fie definit scopul acestuia.
+2. Aprobarea plătitorului
+Beneficiarul trebuie să se angajeze în fața instituției
+colectoare și să garanteze acesteia faptul că fiecare plătitor
+pentru care beneficiarul introduce o instrucțiune de debitare
+directă, în baza unui angajament privind debitarea directă,
+i-a acordat beneficiarului o autorizare permanentă dar
+revocabilă de a iniția instrucțiuni de debitare directă, că
+această autorizare reprezintă și baza în care instituția
+plătitoare va debita contul plătitorului cu suma prevăzută în
+
+fiecare instrucțiune de debitare directă inițiată de beneficiar
+și că dovada acestei autorizări (adică mandatul de debitare
+directă) va fi pusă la dispoziție instituției colectoare la
+cererea acesteia.
+3. Validitatea mandatului de debitare directă
+Beneficiarul trebuie să-și asume responsabilitatea de a
+se asigura că mandatul de debitare directă este valid și
+constituie o autorizare corespunzătoare pentru instituția
+plătitoare pentru debitarea contului plătitorului.
+4. Clauza de despăgubire
+Beneficiarul trebuie să despăgubească instituția
+colectoare pentru orice daune pe care aceasta le-ar putea
+
+*) Această anexă precizează elementele obligatorii care trebuie incluse în mandatul de debitare directă și nu restricționează posibilitatea ca
+beneficiarul să includă și alte prevederi în mandatul de debitare directă, să utilizeze un alt format sau să includă prevederi în contractul de bunuri ori
+servicii prezentat sau în alt document.
+**) Această anexă precizează elementele obligatorii care trebuie incluse în angajamentul privind debitarea directă și nu restricționează
+posibilitatea ca participantul să includă și alte prevederi în acordul pentru debitare directă, să utilizeze un alt format sau să includă aceste prevederi în
+alt contract ori document.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 267/31.III.2005
+
+suferi în urma tragerii sau emiterii unei instrucțiuni de
+debitare directă.
+5. Clauza de forță majoră
+Beneficiarul trebuie să exonereze instituția colectoare de
+orice obligație legată de întârzieri sau neexecutări datorate
+unor circumstanțe independente de voința acesteia.
+6. Obligația pentru exactitate
+Beneficiarul trebuie să-și asume obligația pentru
+exactitatea tuturor instrucțiunilor de debitare directă
+transmise instituției colectoare.
+7. Schimbarea instituției colectoare sau încetarea
+angajamentului
+Angajamentul privind debitarea directă trebuie să
+prevadă cazul în care un beneficiar schimbă instituția
+colectoare sau încetează să folosească facilitatea de
+instrucțiuni de debitare directă în intervalul de timp dintre
+momentul emiterii unei instrucțiuni de debitare directă și
+momentul formulării unei pretenții ori al returnării unei
+instrucțiuni de debitare directă pentru neplată.
+
+8. Limita de timp pentru returnare
+Angajamentul privind debitarea directă trebuie să
+stabilească termenul limită pentru emiterea pretențiilor de
+rambursare, în conformitate cu prevederile prezentului
+regulament.
+9. Notificarea prealabilă
+Beneficiarul trebuie să accepte procedura de notificare
+prealabilă sau renunțarea la cerințele de notificare
+prealabilă stabilite în art. 31 din regulament.
+10. Reglementări
+Beneficiarul trebuie să se oblige să respecte în orice
+moment reglementările în vigoare aplicabile instrucțiunilor
+de debitare directă.
+11. Pretenția pentru dobândă
+Beneficiarul va fi obligat pentru orice pretenție de
+dobândă asociată returnării sumei prevăzute într-o
+instrucțiune de debitare directă pe motiv că nu a existat
+niciodată un mandat de debitare directă pentru respectiva
+instrucțiune de debitare directă.
+ANEXA Nr. 3
+la regulament
+
+MODEL
+
+de cerere de rambursare a unei sume aferente unei instrucțiuni de debitare directă
+Subsemnatul/subsemnata (Noi) (numele plătitorului)
+declar (declarăm) următoarele în legătură cu o instrucțiune
+de debitare directă trasă în favoarea (numele beneficiarului)
+în sumă de (suma) lei trasă asupra contului cu numărul
+(numărul contului, IBAN sau BIC, după caz) la data (data):
+1. Instrucțiunea de debitare directă mai sus menționată
+nu a fost procesată în conformitate cu mandatul de
+debitare directă al plătitorului sau cu instrucțiunea de
+debitare directă a beneficiarului.
+SAU
+
+2. Mandatul de debitare directă al plătitorului a fost
+revocat și comunicarea acestei revocări a fost transmisă
+către (numele beneficiarului) înaintea datei finalizării
+instrucțiunii de debitare directă menționată.
+SAU
+
+3. Subsemnatul/Subsemnata (Noi) nu am (nu avem) un
+mandat de debitare directă sau alt contract pentru
+Semnături autorizate:
+......................................................................
+
+instrucțiuni de debitare directă cu (numele beneficiarului) și
+nu am autorizat niciodată pe (numele beneficiarului) să
+tragă instrucțiunea de debitare directă menționată asupra
+contului meu (nostru).
+Subsemnatul/Subsemnata (Noi) garantez (garantăm) că
+nu am pretins și nici nu am primit până în prezent vreo
+returnare direct de la beneficiar în legătură cu instrucțiunea
+de debitare directă menționată.
+Subsemnatul/Subsemnata (Noi) permit (permitem)
+(numele instituției plătitoare) să transmită prezenta declarație
+beneficiarului (numele beneficiarului) și instituției colectoare
+care acționează în numele acestuia.
+Subsemnatul/Subsemnata (Noi) declar (declarăm) că am
+formulat prezenta declarație în mod conștient și că cele
+declarate sunt adevărate.
+......................................................................
+
+(plătitor/persoane autorizate)
+
+......................................................................
+
+......................................................................
+
+În cazul în care contractul de cont curent al plătitorului prevede necesitatea a două semnături autorizate,
+ambele semnături vor fi necesare pe prezenta declarație.
+
+......................................................................
+
+......................................................................
+
+Data
+
+(Reprezentantul instituției plătitoare)
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+Regia Autonomă îMonitorul Oficial“, Str. Parcului nr. 65, sectorul 1, București,
+IBAN: RO75RNCB5101000000120001 Banca Comercială Română — S.A. — Sucursala îUnirea“ București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 224.09.71/150, fax 225.00.43, E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 410.47.30, tel./fax 410.77.36 și 410.47.23
+Tiparul: Regia Autonomă îMonitorul Oficial“
+Monitorul Oficial al României, Partea I, nr. 267/31.III.2005 conține 8 pagini.
+
+Prețul: 5.500 lei vechi/0,55 lei noi
+
+&JUYDGY|015203]
+ISSN 1453—4495
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+

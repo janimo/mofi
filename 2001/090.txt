@@ -1,0 +1,1201 @@
+PARTEA
+
+Anul XIII Ñ Nr. 90
+
+I
+
+Joi, 22 februarie 2001
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+
+946/2000. Ñ Ordin al președintelui Oficiului Național de
+Cadastru, Geodezie și Cartografie pentru aprobarea Instrucțiunilor privind întocmirea documentației
+cadastrale tehnice necesare la înscrierea cu
+caracter nedefinitiv în Cartea funciarã a actelor și
+faptelor juridice referitoare la terenuri și construcții......................................................................
+167.
+
+Ñ Ordin al ministrului finanțelor publice privind
+certificarea bilanțurilor contabile și a conturilor de
+execuție bugetarã prin persoane fizice sau juridice
+agreate, la instituțiile publice cu mai puțin de
+25 de posturi .............................................................
+
+1Ð14
+
+14Ð16
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+OFICIUL NAÞIONAL DE CADASTRU, GEODEZIE ȘI CARTOGRAFIE
+
+ORDIN
+pentru aprobarea Instrucțiunilor privind întocmirea documentației cadastrale tehnice necesare
+la înscrierea cu caracter nedefinitiv în Cartea funciarã a actelor și faptelor juridice referitoare
+la terenuri și construcții
+Președintele Oficiului Național de Cadastru, Geodezie și Cartografie,
+în temeiul prevederilor art. 5 lit. a) și b) din Legea cadastrului și a publicitãții imobiliare nr. 7/1996 și ale art. 2
+alin. (6) din Hotãrârea Guvernului nr. 1.038/1996 privind organizarea și funcționarea Oficiului Național de Cadastru,
+Geodezie și Cartografie, cu modificãrile și completãrile ulterioare,
+emite prezentul ordin.
+Art. 1. Ñ Se aprobã Instrucțiunile privind întocmirea
+documentației cadastrale tehnice necesare la înscrierea
+cu caracter nedefinitiv în Cartea funciarã a actelor și
+faptelor juridice referitoare la terenuri și construcții,
+
+cuprinse în anexa care face parte integrantã din prezentul ordin.
+Art. 2. Ñ Prezentul ordin va fi publicat în Monitorul
+Oficial al României, Partea I.
+
+Președintele Oficiului Național de Cadastru, Geodezie și Cartografie,
+Tudor Dana
+București, 12 octombrie 2000.
+Nr. 946.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 90/22.II.2001
+ANEXÃ
+
+INSTRUCÞIUNI
+privind întocmirea documentației cadastrale tehnice necesare la înscrierea cu caracter nedefinitiv în Cartea funciarã
+a actelor și faptelor juridice referitoare la terenuri și construcții
+1. Cadrul normativ:
+Ñ Legea cadastrului și a publicitãții imobiliare
+nr. 7/1996;
+Ñ Regulamentul de organizare și funcționare a birourilor
+de carte funciarã ale judecãtoriilor, aprobat prin Ordinul
+ministrului justiției nr. 2.371/C/1997 și publicat în Monitorul
+Oficial al României, Partea I, nr. 84 din 23 februarie 1998;
+Ñ Protocolul încheiat între Ministerul Justiției (MJ),
+Oficiul Național de Cadastru, Geodezie și Cartografie
+(ONCGC) și Uniunea Naționalã a Notarilor Publici din
+România (UNNP), în vederea colaborãrii privind efectuarea
+înscrierilor cu caracter nedefinitiv în Cartea funciarã;
+Ñ Normele tehnice pentru introducerea cadastrului
+general, aprobate prin Ordinul președintelui ONCGC
+nr. 452/1999 și publicate în Monitorul Oficial al României,
+Partea I, nr. 78 din 25 februarie 1999;
+Ñ Regulamentul privind autorizarea persoanelor fizice și
+juridice care pot sã realizeze și sã verifice lucrãri de specialitate în domeniile cadastrului, geodeziei și cartografiei pe
+teritoriul României, aprobat prin Ordinul președintelui
+ONCGC nr. 451/1999 și publicat în Monitorul Oficial al
+României, Partea I, nr. 50 din 3 februarie 1999;
+Ñ Regulamentul privind avizarea lucrãrilor de geodezie,
+cartografie, cadastru, fotogrammetrie și teledetecție, aprobat
+prin Ordinul președintelui ONCGC nr. 347/1998 și publicat
+în Monitorul Oficial al României, Partea I, nr. 412 din
+29 octombrie 1998;
+Ñ Regulamentul privind recepția lucrãrilor de geodezie,
+cartografie, cadastru, fotogrammetrie și teledetecție, aprobat
+prin Ordinul președintelui ONCGC nr. 450/1999 și publicat
+în Monitorul Oficial al României, Partea I, nr. 50 din
+3 februarie 1999;
+Ñ Regulamentul pentru verificarea lucrãrilor de specialitate din domeniile cadastrului, geodeziei și cartografiei, realizate de persoane fizice și juridice autorizate, aprobat prin
+Ordinul președintelui ONCGC nr. 691/1999 și publicat în
+Monitorul Oficial al României, Partea I, nr. 641 din
+29 decembrie 1999;
+Ñ Ordinul ministrului justiției nr. 1.330/C/1999 privind
+înființarea cãrților funciare cu caracter nedefinitiv;
+Ñ Decretul-lege nr. 115/1938 pentru unificarea
+dispozițiunilor privitoare la cãrțile funciare;
+Ñ Hotãrârea Guvernului nr. 834/1991 privind stabilirea
+și evaluarea unor terenuri deținute de societãțile comerciale
+cu capital de stat, cu modificãrile și completãrile ulterioare;
+Ñ Legea fondului funciar nr. 18/1991, republicatã, cu
+modificãrile ulterioare.
+2. Considerații generale privind înscrierea cu caracter
+nedefinitiv și conținutul documentației tehnice cadastrale
+Începând cu data de 1 iulie 1999, pe baza Ordinului
+ministrului justiției nr. 1.330/C/1999 și a protocolului încheiat
+între ONCGC, UNNP și MJ, s-a trecut la înscrierea cu
+caracter nedefinitiv în cãrțile funciare.
+Ca urmare, orice act și fapt juridic cu privire la terenuri
+sau construcții trebuie înscrise cu caracter nedefinitiv în
+Cartea funciarã, dacã pe acel teritoriu administrativ nu s-au
+definitivat lucrãrile de introducere a cadastrului general
+(dacã identificarea imobilelor nu se poate face cu numerele
+
+topografice din Cartea funciarã și acolo unde s-au înființat
+birouri de carte funciarã în anul 1999).
+Potrivit art. 61 din Legea nr. 7/1996, ”Actele și faptele
+juridice privind terenurile și construcțiile situate pe un teritoriu
+administrativ pentru care nu s-au definitivat documentele cadastrului general se vor înscrie cu caracter nedefinitiv, în câte
+o carte funciarã, urmând ca înscrierea definitivã sã fie efectuatã
+la punerea în aplicare a cadastrului general și pe acel teritoriu.
+În aceleași condiții se vor înscrie și titurile de proprietate emise
+în temeiul Legii fondului funciar nr. 18/1991. La cererea de
+înscriere se va atașa schița de plan a terenului sau a construcției la care se referã înscrierea, întocmitã de un cadru tehnic de specialitate autorizat de oficiul județean de cadastru,
+geodezie și cartografie. Schița de plan va cuprinde configurația
+parcelelor de teren sau a construcțiilor, suprafețele, categoriile
+de folosințã, caracteristicile calitative ale terenului, elementele
+pentru precizarea locului unde este situat imobilul, data întocmirii și numele celui care a întocmit schița.
+Mãsurãtorile cadastrale efectuate în cadrul acțiunilor de
+aplicare a Legii fondului funciar nr. 18/1991 și evidențiate ca
+atare în documentele cadastrale și în titlurile de proprietate se
+preiau ca date definitive ale cadastrului pentru teritoriul administrativ respectiv, dacã acestea corespund normelor metodologice de cadastru elaborate de cãtre Oficiul Național de
+Cadastru, Geodezie și Cartografie.
+Lucrãrile tehnice de cadastru vor sta la baza eliberãrii titlurilor de proprietate, emise în baza Legii fondului funciar
+nr. 18/1991, acolo unde acestea n-au fost întocmite și
+înmânate,,.
+Rezultã cã la cererea de înscriere se va atașa documentația cadastralã tehnicã, întocmitã numai de o persoanã
+fizicã autorizatã de ONCGC/OJCGC, lucrare care a fost
+avizatã/recepționatã de OJCGC.
+Potrivit art. 9 alin. 2 din Regulamentul privind avizarea
+lucrãrilor de geodezie, cartografie, cadastru, fotogrammetrie
+și teledetecție, aprobat prin Ordinul președintelui ONCGC
+nr. 347/1998, ”Avizul este obligatoriu pentru lucrãrile de profil
+finanțate din banii publici, precum și pentru cele finanțate din
+alte surse, cu excepția planurilor de amplasament și delimitare
+a bunurilor imobile, necesare înregistrãrii în evidențele
+cadastral-juridice sau utilizãrii în circuitul civil, dacã suprafața
+implicatã este sub un hectar în intravilan, respectiv 10 hectare
+în extravilan,,.
+3. Considerații privind modul de desfãșurare a
+activitãții de înscriere cu caracter nedefinitiv în Cartea
+funciarã
+3.1. Sintetic, fluxul informațional privind înscrierea cu caracter nedefinitiv în Cartea funciarã cuprinde urmãtoarele etape (anexa nr. 8):
+
+1. Solicitantul (proprietarul bunului imobil sau reprezentantul legal al acestuia) se adreseazã notarului public,
+OJCGC, Biroului de carte funciarã, dupã ce în prealabil a
+contactat o persoanã fizicã/juridicã autorizatã pentru întocmirea documentației tehnice cadastrale.
+2. Persoana fizicã/juridicã autorizatã întocmește documentația cadastralã tehnicã (pentru bunurile imobile situate
+în intravilan care au suprafața mai mare de 1 ha și de
+10 ha pentru cele din extravilan planurile de amplasament
+și delimitare vor fi supuse verificãrii de cãtre persoane
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 90/22.II.2001
+fizice/juridice autorizate de ONCGC în categoria D înainte
+de a fi recepționate de OJCGC) și o înainteazã OJCGC
+sau proprietarului bunului imobil.
+3. OJCGC verificã, recepționeazã și, dupã caz, avizeazã
+documentația, atribuie numãr cadastral provizoriu și o elibereazã persoanei fizice autorizate sau proprietarului bunului imobil.
+4. Solicitantul prezintã documentația eliberatã de
+OJCGC la Biroul de carte funciarã, care deschide o carte
+funciarã nedefinitivã și emite o încheiere. Dacã un imobil a
+fost înscris în Cartea funciarã nedefinitivã, Biroul de carte
+funciarã elibereazã la cerere un extras de carte funciarã.
+5. Când are loc un act sau un fapt juridic privitor la
+teren sau la construcții, pe baza documentației tehnice
+cadastrale recepționate notarul public întocmește actul notarial și transmite Biroului de carte funciarã sau, dupã caz,
+solicitantului (în cazul tranzacțiilor) întreaga documentație.
+6. Biroul de carte funciarã transmite OJCGC încheierea
+efectuatã și documentația privind înscrierea efectuatã
+(sãptãmânal), inclusiv numãrul Cãrții funciare și, dupã caz,
+date referitoare la noul proprietar.
+NOTÃ:
+
+Ø Fluxul informațional privind înscrierea cu caracter nedefinitiv în Cartea funciarã se referã la cazul în care solicitantului
+îi este necesarã documentația tehnicã cadastralã în vederea
+întocmirii unui act constitutiv sau translativ de drepturi, în formã
+autenticã.
+Ø În cazul în care solicitantul dorește doar deschiderea
+Cãrții funciare cu caracter nedefinitiv în scopul opozabilitãții
+dreptului deja dobândit, se exclud pct. 5 și 6 ale paragrafului
+3.1.
+3.2. Conținutul dosarului depus la OJCGC pentru recepționarea
+documentației cadastrale tehnice necesare în vederea înscrierii cu caracter nedefinitiv în Cartea funciarã este diferențiat, în funcție de una dintre
+situațiile în care se aflã imobilul, astfel:
+
+3.2.1. Pentru apartamente situate în blocuri:
+¥ cerere-tip (model prezentat în anexa nr. 1);
+¥ fișa bunului imobil (model prezentat în anexa nr. 2);
+¥ releveul apartamentului, de regulã la scara 1:100 sau,
+dupã caz, 1:50, întocmit de persoana fizicã/juridicã autorizatã de ONCGC/OJCGC (model prezentat în anexa nr. 5);
+¥ plan de amplasament și delimitare a bunului imobil, la
+scara 1:500, 1:1.000 sau 1:2.000 (model prezentat în
+anexa nr. 3). Se va întocmi un plan de amplasament și
+delimitare a terenului pe care este amplasat blocul (va fi
+inclusã și suprafața terenului aferentã blocului, inclusiv trotuarul de protecție, așa cum a fost stabilitã prin
+decizia/hotãrârea consiliului local) și se va calcula cota-indivizã aferentã fiecãrui apartament. Se admit și planuri la
+scara 1:5.000 sau 1:10.000, în cazul în care planuri la
+scãrile enumerate mai sus nu existã, iar ridicarea topograficã a blocului ar depãși limita tarifelor de onorarii stabilite
+pentru imobilul în cauzã;
+¥ copie de pe actul de proprietate al imobilului;
+¥ copie de pe actul de identitate al proprietarului;
+¥ declarație pe propria rãspundere privind identificarea și
+individualizarea limitelor bunului imobil mãsurat (model prezentat în anexa nr. 6);
+¥ memoriu tehnic (model prezentat în anexa nr. 7).
+3.2.2. Pentru terenuri cu sau fãrã construcții:
+¥ cerere-tip (model prezentat în anexa nr. 1);
+¥ plan de amplasament și delimitare a bunului imobil la
+scara 1:500, 1:1.000 sau 1:2.000, întocmit conform
+
+3
+
+Normelor tehnice pentru introducerea cadastrului general
+(model prezentat în anexa nr. 4);
+¥ plan de încadrare în zonã la scara 1:2.000, 1:10.000
+sau 1:25.000 (în fișa bunului imobil);
+¥ fișa bunului imobil (model prezentat în anexa nr. 2);
+¥ copie de pe actul de proprietate al imobilului;
+¥ copie de pe actul de identitate al proprietarului;
+¥ memoriu tehnic (model prezentat în anexa nr. 7);
+¥ inventar de coordonate:
+Ñ puncte vechi;
+Ñ puncte noi;
+Ñ puncte pe contur (limita proprietãții/bunului imobil);
+¥ descrierile topografice ale punctelor vechi și noi;
+¥ calculul analitic al suprafețelor;
+¥ declarație pe propria rãspundere privind identificarea și
+individualizarea limitelor bunului imobil mãsurat (model prezentat în anexa nr. 6).
+NOTÃ:
+
+Ø Pentru construcțiile care constituie obiectul unor sarcini
+(ipoteci, gajãri) sau care au mai mulți proprietari, indiferent de
+destinație, releveul va fi întocmit de o persoanã fizicã sau juridicã autorizatã, de regulã la scara 1:100 sau, dupã caz, 1:50,
+1:20.
+Ø În cazul în care imobilul construcție are un singur proprietar sau nu reprezintã obiectul unei ipoteci nu este necesarã
+efectuarea releveului.
+Ø Dosarul trebuie sã conținã toate datele tehnice necesare în vederea întocmirii planului de amplasament și delimitare (inclusiv date referitoare la cele 4 puncte care trebuie
+materializate în cazul inexistenței, la distanțã mai micã de 3 km
+a punctelor din rețeaua geodezicã, iar suprafața imobilului este
+mai micã de 10 ha).
+3.2.3. Pentru terenurile dobândite de societãțile comerciale în conformitate cu prevederile Hotãrârii Guvernului
+nr. 834/1991:
+¥ cerere-tip (model prezentat în anexa nr. 1);
+¥ copie de pe documentația topograficã avizatã care a
+stat la baza eliberãrii titlului de proprietate;
+¥ anexa nr. 2 la Criteriile nr. 2.665/1C/311/1992 privind
+stabilirea și evaluarea terenurilor aflate în patrimoniul
+societãților comerciale cu capital de stat, publicate în
+Monitorul Oficial al României, Partea I, nr. 54 din 31 martie 1992 (copie);
+¥ fișa bunului imobil;
+¥ plan de amplasament și delimitare a bunului imobil la
+scara 1:500, 1:1.000 sau 1:2.000, întocmit conform
+Normelor tehnice pentru introducerea cadastrului general,
+actualizat, care va conține:
+Ñ limita actualã a imobilului (incinta);
+Ñ radierea din plan a construcțiilor care nu mai existã;
+Ñ completarea planului cu construcțiile noi;
+¥ copie de pe certificatul de atestare a dreptului de proprietate asupra terenului;
+¥ copie de pe actele necesare în vederea identificãrii
+societãții comerciale (cod fiscal, certificat de înmatriculare
+la registrul comerțului etc.);
+¥ inventar de coordonate:
+Ñ puncte vechi;
+Ñ puncte noi;
+Ñ puncte pe contur/limita de proprietate/bun imobil;
+¥ descrierile topografice ale punctelor vechi și noi;
+¥ calculul analitic al suprafețelor;
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 90/22.II.2001
+
+¥ declarație pe propria rãspundere privind identificarea și
+individualizarea limitelor bunului imobil mãsurat (model prezentat în anexa nr. 6);
+¥ memoriu tehnic (model prezentat în anexa nr. 7).
+3.2.4. Pentru terenurile dobândite în baza Legii fondului
+funciar nr. 18/1991:
+¥ cerere-tip (model prezentat în anexa nr. 1);
+¥ copie de pe extrasul din planul de parcelare vizat de
+OCAOTA (pentru terenurile situate în extravilan), acolo
+unde acesta existã, sau, dupã caz, procesul-verbal de
+punere în posesie;
+¥ plan de amplasament și delimitare (cadastral) a bunului imobil;
+¥ plan de încadrare în zonã la scara 1:500, 1:1.000 sau
+1:2.000, pentru terenurile situate în intravilan;
+¥ fișa bunului imobil;
+¥ copie de pe actul de proprietate (titlul de proprietate)
+și copie de pe actul de identitate al proprietarului;
+¥ declarație pe propria rãspundere privind identificarea și
+individualizarea limitelor bunului imobil mãsurat (model prezentat în anexa nr. 6).
+NOTÃ:
+
+Ø Dosarele conținând documentația cadastralã tehnicã
+aferentã unui bun imobil și, dupã caz, dosarul de verificare se
+vor depune pentru verificare și recepție, în toate situațiile, în
+4 exemplare, dintre care numai un exemplar va rãmâne la
+OJCGC și va conține întreaga documentație menționatã/enumeratã mai sus, care se va completa cu încheierea judecãtorului de carte funciarã și, dupã caz, cu copia de pe actul notarial
+întocmit, transmis de Biroul de carte funciarã la OJCGC, iar
+celelalte 3 exemplare nu vor cuprinde inventarul de coordonate
+și descrierile topografice.
+În mãsura în care numãrul de 4 exemplare îngreuneazã
+activitatea OJCGC, acesta va fi stabilit de directorul general al
+OJCGC.
+¥ Exemplarul care va rãmâne în arhiva OJCGC va conține
+date din mãsurãtori, inventare de coordonate, calculul analitic
+al suprafețelor, descrieri topografice ale punctelor etc.
+¥ Exemplarele (exemplarul) care se înmâneazã persoanei
+autorizate sau proprietarului nu vor conține anexele referitoare
+la coordonate, descrieri, calcule de suprafețe, ci numai
+suprafața bunului imobil.
+Ø Exemplarul restituit solicitantului va avea urmãtorul
+conținut:
+¥ plan de amplasament și delimitare a bunului imobil la
+scara 1:500, 1:1.000 sau 1:2.000, întocmit conform Normelor
+tehnice pentru introducerea cadastrului general, în care se va
+specifica numai suprafața bunului imobil, fãrã redactarea
+inventarului de coordonate ale punctelor situate pe contur;
+¥ plan de încadrare în zonã la scara 1:2.000, 1:10.000 sau
+1:25.000 (în fișa bunului imobil);
+¥ fișa bunului imobil;
+¥ copie xerox de pe actul de proprietate;
+¥ copie de pe actul de identitate al proprietarului.
+¥ În cazul apartamentelor situate în blocuri:
+Ñ releveul apartamentului, de regulã la scara 1:100 sau,
+dupã caz, 1:50, întocmit de persoana fizicã/juridicã autorizatã
+de ONCGC/OJCGC.
+¥ Pentru terenuri cu sau fãrã construcții:
+Ñ pentru construcțiile care constituie obiectul unor ipoteci
+(sau care au mai mulți proprietari), indiferent de destinație,
+releveul va fi întocmit de o persoanã fizicã sau juridicã autorizatã, de regulã la scara 1:100 sau, dupã caz, 1:50, 1:20;
+
+Ñ în cazul în care imobilul construcție are un singur proprietar sau nu reprezintã obiectul unei ipoteci, nu este necesarã
+efectuarea releveului.
+Ø Coordonatele și planurile vechi utilizate la întocmirea
+dosarelor, dacã nu existã copia de pe chitanțã, care sã facã
+dovada procurãrii acestora, vor fi taxate conform Ordinului
+președintelui ONCGC nr. 468/1999 privind aprobarea tarifelor
+pentru serviciile prestate de Oficiul Național de Cadastru,
+Geodezie și Cartografie și de unitãțile subordonate acestuia,
+publicat în Monitorul Oficial al României, Partea I, nr. 111 din
+18 martie 1999.
+Ø În toate cazurile fișa bunului imobil și planul de amplasament și delimitare (cadastral) a bunului imobil se ștampileazã pe toate exemplarele de cãtre persoana autorizatã și de
+OJCGC.
+Ø Planul de amplasament și delimitare (cadastral) a bunului imobil va conține inventarul de coordonate numai pe exemplarul care rãmâne în evidența OJCGC.
+Ø În cazul în care se transmite dreptul de proprietate asupra uneia sau mai multor pãrți dintr-un bun imobil, se va
+întocmi o documentație cadastralã pentru întregul bun imobil,
+se individualizeazã partea sau pãrțile care se înstrãineazã și se
+atribuie numãr cadastral provizoriu fiecãrei pãrți.
+Ø Dupã rãmânerea definitivã și irevocabilã a încheierii
+operațiunea de înscriere nedefinitivã în Cartea funciarã se
+comunicã OJCGC pentru a fi avutã în vedere la finalizarea
+lucrãrilor cadastrale pentru teritoriul administrativ comunal sau
+orãșenesc (art. 132 din Regulamentul de organizare și
+funcționare a birourilor de carte funciarã ale judecãtoriilor).
+4. Numerotarea cadastralã provizorie
+4.1. Prevederi generale
+
+4.1.1. Fiecare unitate administrativ-teritorialã se identificã
+prin codul SIRUTA extras din Registrul permanent al
+unitãților administrativ-teritoriale, publicat de Institutul
+Național de Statisticã și Studii Economice.
+4.1.2. Bunul imobil se individualizeazã prin numãrul
+cadastral care asigurã legãtura dintre planul cadastral,
+registrele cadastrale și înregistrãrile din Cartea funciarã.
+Numãrul cadastral al bunului imobil este unul dintre identificatorii de legãturã logicã între baza de date grafice și
+baza de date alfanumerice în sistemul informatic al cadastrului.
+4.2. Numerotarea cadastralã provizorie
+
+4.2.1. Bunurile imobile se numeroteazã provizoriu cu
+cifre arabe de la 1 la n pe teritoriul administrativ, în ordinea solicitãrilor. În cadrul fiecãrui bun imobil parcelele componente se numeroteazã cu cifre arabe de la 1 la n,
+urmate de simbolul categoriei de folosințã, începând cu
+categoria de folosințã curțiÐconstrucții, și se evidențiazã în
+conținutul planului de amplasament și delimitare a bunului
+imobil.
+4.2.2. Suprafețelor de teren ocupate de proiecțiile la sol
+ale construcțiilor permanente din cadrul parcelelor cu categoria de folosințã curțiÑconstrucții, aparținãtoare unui bun
+imobil, li se va atribui litera ”C,, urmatã de un indice de la
+1 la n (de exemplu: C1, C2, C3, ...).
+4.2.3. Parcelele componente ale bunurilor imobile care
+au suprafețe mai mici de 150 m2 în intravilan și 500 m2 în
+extravilan nu se numeroteazã. Suprafața acestora se încadreazã în suprafețele și, respectiv, în categoriile de folosințã ale parcelelor alãturate ale aceluiași bun imobil.
+4.2.4. Codul de identificare a unui bun imobil la cãutarea în baza de date a cadastrului general este compus din
+codul SIRUTA, codul de intravilan/extravilan și numãrul
+cadastral al acestuia.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 90/22.II.2001
+4.2.5. Atunci când bunul imobil nu a mai fost înscris în
+Cartea funciarã și se transmite dreptul de proprietate asupra uneia sau mai multor pãrți din acesta, fiecãrei pãrți i
+se va acorda un numãr cadastral provizoriu în continuarea
+ultimului numãr atribuit pe teritoriul administrativ aferent.
+4.2.6. În situația privind modificãrile ce intervin prin
+operațiunile de dezlipire în structura bunurilor imobile
+înscrise în Cartea funciarã înainte de 1 iulie 1999, numerele cadastrale provizorii vor fi atribuite separat pentru fiecare bun imobil nou, acestea fiind menționate și pe planul
+de amplasament și delimitare a bunului imobil și în fișele
+bunului imobil rezultat.
+4.2.7. În situația în care bunul imobil a fost înscris cu
+caracter nedefinitiv în Cartea funciarã și se modificã prin
+dezlipire, numãrul cadastral provizoriu va fi atribuit
+fracționat (de exemplu: 2349/1, 2349/2 etc.).
+4.2.8. În cazul în care bunurile imobile au fost înscrise
+în Cartea funciarã înainte de 1 iulie 1999 și se alipesc,
+numãrul cadastral provizoriu va fi atribuit bunului imobil
+rezultat, în ordinea solicitãrilor.
+4.2.9. În cazul în care se alipesc bunurile imobile
+înscrise cu caracter nedefinitiv în Cartea funciarã, se atribuie un nou numãr cadastral provizoriu compus din cele
+douã numere cadastrale cu liniuțã între ele.
+4.2.10. Numerele cadastrale din vechile cãrți funciare
+vor fi înregistrate atât în fișa bunului imobil, cât și în planul
+de amplasament și delimitare și vor fi evidențiate în baza
+de date la istoricul bunului imobil.
+5. Particularitãți privind întocmirea documentației
+necesare în vederea înscrierii cu caracter nedefinitiv
+Înscrierea cu caracter nedefinitiv în Cartea funciarã se
+realizeazã pe baza actului notarial și a documentației tehnice cadastrale, respectiv a planului de amplasament și
+delimitare a bunului imobil, a fișei bunului imobil și a
+memoriului tehnic, întocmite de persoane fizice/persoane
+juridice autorizate de ONCGC/OJCGC, avizate/recepționate
+de OJCGC în conformitate cu Regulamentul de
+avizare/recepție a lucrãrilor de geodezie, cartografie,
+cadastru, fotogrammetrie și teledetecție.
+Planul de amplasament și delimitare, precum și fișa
+bunului imobil se vor întocmi în conformitate cu prevederile
+art. 13 și ale anexelor nr. 1 și 7 din Normele tehnice pentru introducerea cadastrului general, aprobate prin Ordinul
+președintelui ONCGC nr. 452/1999 și publicate în Monitorul
+Oficial al României, Partea I, nr. 78 din 25 februarie 1999.
+5.1. Pentru apartamente situate în blocuri
+
+Înscrierea cu caracter nedefinitiv în Cartea funciarã a
+unei construcții care face obiectul proprietãții pe etaje sau
+pe apartamente se va efectua pe baza fișei bunului imobil
+și a planului de amplasament și delimitare, deschizându-se
+astfel Cartea funciarã colectivã pentru întreaga construcție
+și câte o Carte funciarã individualã pentru fiecare etaj sau
+apartament având proprietari diferiți.
+În cazul în care nu existã planuri topografice (cadastrale) la scãrile 1:500, 1:1.000 sau 1:2.000, iar ridicarea
+topograficã ar necesita costuri care depãșesc tarifele
+onorariilor aprobate pentru categoria bunului imobil respectiv, va fi atribuit un numãr cadastral provizoriu pe baza planului de încadrare în zonã.
+Planul de încadrare în zonã va fi eliberat de OJCGC
+care, o datã cu avizarea și recepționarea releveului apartamentului, va atribui numãr cadastral atât acestuia, cât și
+întregului bun imobil (bloc).
+
+5
+
+Numãrul cadastral al fiecãrui apartament va fi un numãr
+fracționat, al cãrui numãrãtor va fi numãrul cadastral al
+bunului imobil (bloc), iar numitorul va fi, dupã caz, numãrul
+etajului sau al apartamentului. Atunci când apartamentele
+nu sunt numerotate pe întregul bloc, ci pe scãri, numãrul
+cadastral al fiecãrui apartament va fi un numãr fracționat,
+al cãrui numãrãtor va fi numãrul cadastral al blocului, iar
+numitorul va fi numãrul scãrii urmat de semnul ,,;î, dupã
+care urmeazã numãrul etajului sau al apartamentului, dupã
+caz (de exemplu: 300/2;1, în care: 300 Ñ numãrul cadastral provizoriu atribuit blocului; 2 Ñ numãrul scãrii; 1 Ñ
+numãrul etajului, în cazul proprietãții individuale pe etaje,
+sau 300/2;20, în cazul proprietãții pe apartamente, 20 fiind
+numãrul apartamentului).
+NOTÃ:
+
+Numãrul cadastral al bunului imobil se va atribui de cãtre
+OJCGC, cu caracter nedefinitiv, în ordinea solicitãrilor, de la 1
+la n, în cadrul teritoriului administrativ și se va consemna
+într-un registru de evidențã.
+Exemple de numerotare cadastralã:
+1. Atribuirea numãrului cadastral provizoriu în cazul unui
+apartament, atunci când numerotarea apartamentelor se face
+de la 1 la n pe întregul bloc:
+203/22,
+în care:
+203 Ñ numãrul cadastral al blocului;
+22 Ñ numãrul apartamentului.
+2. Atribuirea numãrului cadastral provizoriu în cazul unui
+apartament, atunci când numerotarea apartamentelor se face
+de la 1 la n pe fiecare scarã:
+300/2;20,
+în care:
+300 Ñ numãrul cadastral al blocului;
+2 Ñ numãrul scãrii;
+20 Ñ numãrul apartamentului.
+3. Atribuirea numãrului cadastral provizoriu în cazul unui
+apartament situat la subsol:
+200/Ð1; n,
+în care:
+200 Ñ numãrul cadastral al blocului;
+Ð1 Ñ subsol;
+n Ñ numãrul apartamentului.
+În cazul în care construcția are mai multe niveluri la subsol,
+ele vor fi numerotate cu valori negative: Ñ1, Ñ2, Ñ3 etc.
+4. Atribuirea numãrului cadastral provizoriu în cazul unui
+apartament nenumerotat situat la mansardã (203/n, în care n
+este numãrul acordat în continuarea ultimului numãr de apartament sau de etaj):
+203/20,
+în care:
+203 Ñ numãrul cadastral al blocului;
+20 Ñ numãrul acordat în continuarea ultimului numãr de
+apartament (în cazul în care sunt mai multe apartamente ele
+vor fi numerotate în continuare, pentru a putea fi identificate).
+5. Acordarea numãrului cadastral provizoriu unui spațiu
+comercial situat la parterul unui bloc:
+250/0 (când spațiul comercial are un singur proprietar),
+în care: 250 Ñ numãrul cadastal al blocului;
+0 Ñ parter;
+250/0/1, 250/0/2 etc. (când spațiul comercial are mai mulți
+proprietari),
+în care: 250 Ñ numãrul cadastral al blocului;
+0 Ñ parter;
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 90/22.II.2001
+
+1, 2 Ñ identificatorii proprietarilor din spațiul comercial respectiv.
+6. Acordarea numãrului cadastral provizoriu unui spațiu
+comercial situat la parterul a douã blocuri:
+275/0/n
+250/0/m,
+în care: 275, 250 Ñ numerele cadastrale ale celor douã
+blocuri;
+0 Ñ parter;
+n Ñ numerotarea spațiului comercial în blocul cu numãrul
+cadastral 275;
+m Ñ numerotarea spațiului comercial în blocul cu numãrul
+cadastral 250.
+7. Înscrierea în Cartea funciarã a unei boxe situate la subsolul unui bloc (numai în cazul în care proprietarul nu deține
+alte proprietãți în bloc):
+300/Ð1;10,
+în care: 300 Ñ numãrul cadastral al blocului;
+Ð1 Ñ subsol;
+10 Ñ numãrul de la 1 la n dat boxelor pentru poziționare.
+În cazul în care boxa este proprietatea unui deținãtor de
+apartament din bloc, cãruia i s-a atribuit numãr cadastral nedefinitiv, aceasta va fi indicatã la cap. B din fișa bunului imobil,
+numãrul cadastral provizoriu fiind valabil pentru întregul bun
+imobil (apartament + boxã).
+8. Înscrierea în Cartea funciarã a unui garaj situat la subsolul unui bloc:
+300/Ð1/n,
+în care: 300 Ñ numãrul cadastral al blocului;
+Ð1 Ñ subsol;
+n Ñ numãrul garajului.
+NOTÃ:
+
+În toate cazurile, cu excepția spațiilor comerciale situate la
+subsol, demisol, parter, mezanin sau la etaj, dacã apartamentele sunt numerotate, nu se ține seama de numãrul nivelului la
+care acestea sunt situate.
+5.2. Pentru terenuri cu sau fãrã construcții
+
+Înscrierea cu caracter nedefinitiv în Cartea funciarã a
+unui bun imobil teren cu sau fãrã construcții se va efectua
+pe baza fișei bunului imobil și a planului de amplasament
+și delimitare, deschizându-se astfel Cartea funciarã a bunului imobil respectiv.
+Bunul imobil cu sau fãrã construcții se numeroteazã
+provizoriu cu cifre arabe de la 1 la n pe teritoriul administrativ, în ordinea solicitãrilor. În cadrul fiecãrui bun imobil
+parcelele componente se numeroteazã cu cifre arabe de la
+1 la n, urmate de simbolul categoriei de folosințã, începând
+cu categoria de folosințã curțiÑconstrucții, și se evidențiazã
+în conținutul planului de amplasament și delimitare a bunului imobil.
+Exemple de numerotare cadastralã:
+1. Înscrierea în Cartea funciarã a unei porțiuni dintr-un bun
+imobil care a mai fost înscris cu caracter nedefinitiv în Cartea
+funciarã (dezmembrare):
+500/1; 500/2,
+în care: 500 Ñ numãrul cadastral al bunului imobil înscris
+inițial;
+1 și 2 Ñ cele douã pãrți ale imobilului dezmembrat.
+2. Înscrierea în Cartea funciarã a unei porțiuni dintr-un bun
+imobil care nu a mai fost înscris cu caracter nedefinitiv în
+Cartea funciarã:
+
+501 și 502,
+în care 501 și 502 Ñ numerele cadastrale pentru cele douã
+viitoare bunuri imobile.
+3. În cazul în care se alipesc bunurile imobile înscrise cu
+caracter nedefinitiv în Cartea funciarã se atribuie un nou numãr
+cadastral provizoriu compus din cele douã numere cadastrale
+cu liniuțã între ele:
+601 și 602,
+în care: 601Ñ602 Ñ numãrul cadastral al bunului imobil
+rezultat din alipirea celor douã bunuri imobile.
+5.3. Pentru terenurile dobândite de societãțile comerciale în conformitate cu prevederile Hotãrârii Guvernului nr. 834/1991, cu modificãrile
+ulterioare
+
+Documentațiile topografice întocmite pentru stabilirea și
+evaluarea terenurilor societãților comerciale cu capital de
+stat, în conformitate cu Hotãrârea Guvernului nr. 834/1991,
+cu modificãrile ulterioare, sau documentațiile topografice
+întocmite de instituțiile subordonate titularilor cadastrelor de
+specialitate vor fi acceptate pentru înscrierea cu caracter
+nedefinitiv în Cartea funciarã dacã au fost actualizate de
+persoane fizice/juridice autorizate, dacã sunt adaptate la
+cerințele normelor tehnice și sunt verificate și recepționate
+de OJCGC.
+Pentru regii autonome sau societãți comerciale (de
+exemplu: Tofan Grup, Metro etc) care nu fac obiectul
+Hotãrârii Guvernului nr. 834/1991 documentațiile topografice
+care se vor întocmi vor conține aceleași piese.
+Copia de pe documentația topograficã avizatã, pe baza
+cãreia s-a eliberat certificatul de atestare a dreptului de
+proprietate asupra terenului, va conține urmãtoarele:
+a) inventare de coordonate;
+b) descrieri topografice ale punctelor;
+c) calculul analitic al suprafețelor;
+d) schița rețelei de sprijin;
+e) planurile topografice avizate;
+f) procesele-verbale de vecinãtate;
+g) copie de pe anexa nr. 2 la Criteriile
+nr. 2.665/1C/311/1992 privind stabilirea și evaluarea terenurilor aflate în patrimoniul societãților comerciale cu capital
+de stat, publicate în Monitorul Oficial al României, Partea I,
+nr. 54 din 31 martie 1992.
+În cazul societãților care vor sã instituie o ipotecã asupra unui corp de clãdire aflat în patrimoniul acestora, se
+va solicita documentația cadastralã pentru întregul bun imobil.
+Exemple de numerotare cadastralã:
+Înscrierea în Cartea funciarã a unei pãrți dintr-un bun imobil
+aparținând unei societãți comerciale:
+505/1, 505/2, 505/3 etc.,
+în care: 505 Ñ numãrul cadastral al întregului bun imobil;
+505/2 Ñ partea care urmeazã sã fie înscrisã în Cartea funciarã.
+5.4. Pentru terenurile dobândite în baza Legii fondului funciar
+nr. 18/1991
+
+Mãsurãtorile cadastrale efectuate în cadrul acțiunilor de
+aplicare a Legii fondului funciar nr. 18/1991 și evidențiate
+ca atare în documentele cadastrale și în titlurile de proprietate se înscriu cu caracter nedefinitiv în Cartea funciarã
+numai dacã au fost actualizate și verificate de cãtre o persoanã fizicã autorizatã din punct de vedere al corespondenței cu prevederile normelor tehnice pentru introducerea
+cadastrului și dacã au fost verificate și recepționate de
+OJCGC.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+7
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 90/22.II.2001
+ANEXA Nr. 1
+la instrucțiuni
+
+Cãtre
+Oficiul județean de cadastru, geodezie și cartografie ........
+Ñ Model-cadru Ñ
+
+Subsemnatul .................................................................................................................., cu domiciliul
+în ..............................................................................., str. ....................................................... nr. ....,
+proprietar al imobilului situat în ................................................................................................................
+...................................................................................................................................................................,
+depun prezenta documentație în vederea atribuirii numãrului cadastral provizoriu necesar la înscrierea proprietãții în Cartea funciarã.
+
+Data .................................
+Semnãtura ............................
+
+Domnului director general al OJCGC ....................................
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+din str. ................................................. nr. ..............
+
+bunului imobil
+
+FIȘA
+
+ANEXA Nr. 2
+la instrucțiuni
+Ñ Model Ñ
+
+8
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 90/22.II.2001
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 90/22.II.2001
+
+9
+ANEXA Nr. 3
+la instrucțiuni
+
+PLAN DE AMPLASAMENT ȘI DELIMITARE A BUNULUI IMOBIL
+
+(intravilan; bloc)
+Scara 1:500
+Județul: Municipiul București
+Teritoriul administrativ: Sectorul 2
+Cod SIRUTA: 179150
+Adresa:
+Bd Florilor nr. 6, bl. 25
+Nr. cadastral .............................
+
+Numele și prenumele proprietarului:
+Damian Grigore
+Adresa:
+Bd Florilor nr. 6, bl. 25, sc. 2, et. 1, ap. 44
+Localitatea: București
+Județul:
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 90/22.II.2001
+ANEXA Nr. 4
+la instrucțiuni
+PLAN DE AMPLASAMENT ȘI DELIMITARE A BUNULUI IMOBIL
+
+(intravilan)
+Scara 1:500
+Județul: Municipiul București
+Teritoriul administrativ: Sectorul 6
+Cod SIRUTA: 179150
+Adresa imobilului:
+Str. Dudului nr. 31, sectorul 6
+Nr. cadastral al bunului imobil É
+
+Numele și prenumele proprietarului:
+Tãnase Constantin
+Tãnase Elena
+Adresa:
+Str. Granitului nr. 41, sectorul 6
+Localitatea: București
+Județul:
+
+.............................................
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 90/22.II.2001
+
+11
+ANEXA Nr. 5
+la instrucțiuni
+
+RELEVEU APARTAMENT
+
+Scara 1:100
+Județul: Municipiul București
+
+Numele și prenumele proprietarului:
+
+Teritoriul administrativ: Sectorul 2
+
+Damian Grigore
+
+Cod SIRUTA: 179150
+
+Adresa:
+
+Adresa:
+
+Aleea Sinaia nr. 4, bl. 82, sc. 2, et. 1, ap. 44
+
+Aleea Sinaia nr. 4, bl. 82, sc. 2, et. 1, ap. 44
+
+Localitatea: București
+
+Nr. cadastral É.................................................
+
+Județul:
+
+.............................................
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 90/22.II.2001
+ANEXA Nr. 6
+la instrucțiuni
+
+Cãtre
+Oficiul județean de cadastru, geodezie și cartografie ...................
+Ñ Model-cadru Ñ
+
+DECLARAÞIE
+
+Subsemnatul ÉÉ....................................................................................................................É,
+domiciliat în É...........................................................................................É, în calitate de proprietar
+al bunului imobil din É..........................................................................................................É, declar
+pe propria rãspundere cã bunul imobil mãsurat este proprietatea mea și îmi asum întreaga
+rãspundere pentru identificarea și individualizarea limitelor bunului imobil mãsurat.
+
+Data É.........................É
+Semnãtura É..............................É
+
+Domnului director general al OJCGC ............................................
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+13
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 90/22.II.2001
+ANEXA Nr. 7
+la instrucțiuni
+
+MEMORIU TEHNIC
+
+Ñ Model-cadru Ñ
+
+1. Denumirea lucrãrii: titlul sub care se elaboreazã lucrarea (identic cu cel din cartușul
+planșelor) și numãrul lucrãrii în registrul de evidențã propriu
+2. Beneficiarul lucrãrii: numele și prenumele sau denumirea, adresa ori sediul
+3. Executantul lucrãrii: numele și prenumele sau denumirea, numãrul autorizației
+4. Obiectul lucrãrii: scurtã prezentare, cu datele de localizare și identificare a bunului imobil care face obiectul lucrãrii:
+a) în cazul bunurilor imobile, terenuri cu construcții, se va face o descriere generalã a construcției conform tabelului urmãtor:
+
+Nr.
+
+Suprafața
+
+Numãrul
+
+Numãrul
+
+ocupatã la sol
+
+Destinația
+
+crt.
+
+de etaje
+
+de camere
+
+1.
+2.
+
+b) în cazul unei construcții care face obiectul proprietãții pe etaje sau apartamente se va
+face o descriere generalã a întregii construcții conform tabelului urmãtor:
+
+Numãrul
+
+Numãrul
+
+Numãrul
+
+Numãrul
+
+Modul de numerotare
+
+blocului
+
+de niveluri
+
+de scãri
+
+de camere
+
+a apartamentelor (pe scãri/pe întregul bloc)
+
+1
+2
+
+5. Scopul lucrãrii: scurtã prezentare a scopului în care se executã lucrarea cadastralã (dezmembrare, parcelare, ieșire din indiviziune, comasare, intabulare titlu de proprietate, intabulare
+construcții, apartamente etc.)
+6. Amplasamentul bunului imobil: prezentarea locului unde este amplasat terenul, cu elemente de reperaj
+7. Situația juridicã a imobilului în Cartea funciarã veche: prezentarea Cãrții funciare în care
+este intabulat imobilul în cauzã, cu eventuale comentarii dacã apar situații deosebite cu privire la
+proprietate și la sarcini sau prezentarea actului de proprietate deținut de proprietar
+8. Operațiuni topocadastrale efectuate: prezentarea succintã a lucrãrilor topografice și
+cadastrale efectuate în cadrul lucrãrii: metodele și aparatura folosite la mãsurãtori, sistemul de
+coordonate, punctele de sprijin vechi și noi folosite, descrierea punctelor noi determinate în cadrul
+lucrãrii (puncte de îndesire a rețelei de sprijin sau a rețelei de ridicare) și modul de calcul al
+coordonatelor punctelor ce definesc vârfurile conturului parcelelor cadastrale determinate în lucrare,
+descrierea sumarã a noilor linii de delimitare a parcelelor, calculul suprafețelor (din coordonate) și
+alte descrieri necesare, în funcție de specificul lucrãrii.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 90/22.II.2001
+ANEXA Nr. 8
+la instrucțiuni
+FLUX INFORMAÞIONAL
+
+privind înscrierea cu caracter nedefinitiv în Cartea funciarã
+SOLICITANT
+PERSOANÃ FIZICÃ/JURIDICÃ
+4
+1
+
+1
+
+PERSOANÃ FIZICÃ/JURIDICÃ
+
+5
+
+NOTAR PUBLIC
+
+AUTORIZATÃ DE ONCGC/OJCGC
+(ÎNTOCMEȘTE DOCUMENTAÞIA
+CADASTRALÃ TEHNICÃ)
+
+3
+
+(ÎNCHEIE ACTUL NOTARIAL)
+
+3
+5
+2
+
+OFICIUL JUDEÞEAN DE CADASTRU,
+GEODEZIE ȘI CARTOGRAFIE
+(RECEPÞIONEAZÃ DOCUMENTAÞIA
+CADASTRALÃ TEHNICÃ)
+
+1.
+2.
+tografie
+3.
+4.
+5.
+6.
+
+6
+
+BIROUL DE CARTE FUNCIARÃ
+(ÎNSCRIERE/EXTRAS CARTE FUNCIARÃ)
+
+Solicitantul se adreseazã notarului public sau persoanei fizice/juridice autorizate (PF/J A).
+PF/J A întocmește documentația tehnicã cadastralã și o înainteazã oficiului județean de cadastru, geodezie și car(OJCGC).
+OJCGC verificã și recepționeazã documentația și o elibereazã PF/J A sau solicitantului.
+Notarul public întocmește actul notarial și îl transmite, direct sau prin solicitant, Biroului de carte funciarã (BCF).
+BCF înscrie cu caracter nedefinitiv actul sau faptul juridic și elibereazã, la cerere, extrasul de carte funciarã.
+BCF transmite OJCGC documentația privind înscrierea efectuatã.
+
+MINISTERUL FINANÞELOR PUBLICE
+
+ORDIN
+privind certificarea bilanțurilor contabile și a conturilor de execuție bugetarã
+prin persoane fizice sau juridice agreate, la instituțiile publice cu mai puțin de 25 de posturi
+Ministrul finanțelor publice,
+în temeiul prevederilor art. 14 alin. (1) din Hotãrârea Guvernului nr. 18/2001 privind organizarea și funcționarea
+Ministerului Finanțelor Publice,
+având în vedere prevederile Ordonanței Guvernului nr. 119/1999 privind auditul intern și controlul financiar preventiv și ale Legii nr. 188/1999 privind Statutul funcționarilor publici,
+emite urmãtorul ordin:
+Art. 1. Ñ Începând cu data publicãrii prezentului ordin
+persoanele fizice, funcționari publici, înscrise în lista
+cuprinzând persoanele agreate de Ministerul Finanțelor
+Publice pentru realizarea certificãrii bilanțurilor contabile și
+a contului de execuție bugetarã ale instituțiilor publice, pre-
+
+cum și cele care vor dobândi calitatea de persoanã fizicã
+agreatã nu pot exercita activitatea de certificare pe perioada în care sunt funcționari publici.
+Art. 2. Ñ În termen de 3 zile lucrãtoare de la data
+publicãrii prezentului ordin în Monitorul Oficial al României,
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 90/22.II.2001
+Partea I, direcțiile generale ale finanțelor publice și controlului financiar de stat județene, respectiv a municipiului
+București, prin structurile proprii de audit intern, vor anunța
+în mod public organizarea examinãrii profesionale a persoanelor fizice și juridice externe în vederea agreãrii pentru
+certificarea bilanțurilor contabile și a conturilor de execuție
+bugetarã ale instituțiilor publice, astfel încât examenul sã
+aibã loc în cel mult 30 de zile lucrãtoare de la publicare.
+Art. 3. Ñ Procedura de organizare și desfãșurare a
+examenului pentru înscrierea pe lista cuprinzând persoanele
+agreate pentru certificarea bilanțului contabil și contului de
+execuție bugetarã ale instituțiilor publice, încheierea contractului de prestãri de servicii pentru certificare, precum și
+cazurile de excludere din aceastã listã sunt prezentate în
+anexa care face parte integrantã din prezentul ordin.
+Art. 4. Ñ La încheierea contractului de prestãri de servicii pentru certificarea bilanțului contabil și a contului de
+execuție bugetarã instituția publicã solicitantã și persoana
+fizicã sau juridicã agreatã vor avea în vedere, la stabilirea
+tarifului, faptul cã activitatea de certificare reprezintã cel
+
+15
+
+mult 50% din activitatea de auditare pe care ar desfãșura-o
+un auditor intern dacã ar fi angajat al instituției publice respective.
+Art. 5. Ñ Pentru tariful încasat de la instituțiile publice
+în urma activitãții de certificare a bilanțului contabil și a
+contului de execuție bugetarã obligația de a stabili și de a
+vira la buget, potrivit legii, impozitul aferent revine persoanei fizice sau juridice agreate care a efectuat certificarea.
+Art. 6. Ñ Certificarea bilanțului contabil și a contului de
+execuție bugetarã efectuatã la alte instituții publice de cãtre
+persoane desemnate din cadrul structurilor de audit intern
+ale Ministerului Finanțelor Publice este activitate desfãșuratã
+în baza atribuțiilor de serviciu.
+Art. 7. Ñ La data intrãrii în vigoare a prezentului ordin
+își înceteazã aplicabilitatea prevederile pct. 9 subpunctele
+9.1, 9.3, 9.4, 9.5 și 9.6 din cap. VIII al Ordinului ministrului
+finanțelor nr. 1.070/2000, prevederile pct. 6.2 din Ordinul
+ministrului finanțelor nr. 332/2000, precum și orice alte dispoziții contrare.
+
+Ministrul finanțelor publice,
+Mihai Nicolae Tãnãsescu
+București, 14 februarie 2001.
+Nr. 167.
+ANEXÃ
+
+PROCEDURA
+de organizare și desfãșurare a examenului pentru înscrierea pe lista cuprinzând persoanele agreate pentru certificarea
+bilanțului contabil și a contului de execuție bugetarã la instituțiile publice. Încheierea contractului de certificare.
+Cazurile de excludere a persoanelor fizice și juridice din lista cuprinzând persoanele agreate
+1. Organizarea și desfãșurarea examenului
+Direcțiile generale ale finanțelor publice și controlului
+financiar de stat județene, respectiv a municipiului
+București, anunțã în mod public organizarea examinãrii profesionale a persoanelor fizice și juridice externe în vederea
+agreãrii.
+În anunț se vor preciza: locul, data și condițiile de
+înscriere și participare la examen, precum și bibliografia din
+care se va efectua examinarea candidaților.
+La stabilirea bibliografiei minime obligatorii se va avea
+în vedere cuprinderea legislației din cel puțin urmãtoarele
+domenii: auditul intern al instituțiilor publice, activitatea
+financiar-contabilã a instituțiilor publice, finanțe publice,
+achiziții publice și executare silitã.
+Condițiile de eligibilitate în vederea examinãrii pentru
+înscrierea pe lista cuprinzând persoanele agreate sunt
+urmãtoarele:
+A. pentru persoane fizice:
+a) sã fie licențiate ale unei facultãți cu profil economic
+și sã aibã o vechime în specialitate economicã, pe studii
+superioare, de cel puțin 3 ani, sau sã aibã calitatea de
+expert contabil ori contabil autorizat cu studii medii sau
+superioare, ori sã aibã calitatea de auditor financiar;
+b) sã prezinte cazier juridic din care sã rezulte cã nu
+au antecedente penale;
+c) sã facã dovada cã au capacitatea deplinã de
+exercițiu;
+B. pentru persoane juridice:
+a) sã aibã prevãzutã în statut, ca obiect de activitate
+exclusiv, activitatea de certificare a bilanțului contabil și a
+contului de execuție bugetarã pentru instituțiile publice sau
+sã fie societate comercialã de expertizã contabilã care sã
+aibã prevãzutã în statut, ca obiect de activitate, și certificarea bilanțului contabil și a contului de execuție bugetarã
+pentru instituțiile publice;
+
+b) persoanele fizice, angajate ale persoanelor juridice,
+care vor efectua certificarea în numele persoanei juridice
+respective, trebuie sã îndeplineascã condițiile de agreare
+pentru persoanele fizice, menționate la lit. A;
+c) sã depunã la structurile de audit intern de la nivelul
+direcției generale a finanțelor publice și controlului financiar
+de stat județene, respectiv a municipiului București, documentația din care sã rezulte îndeplinirea condițiilor
+prevãzute la lit. a) și b).
+La nivelul direcției generale a finanțelor publice și controlului financiar de stat județene, respectiv a municipiului
+București, se vor constitui, prin decizie a directorului
+general, comisii de examinare profesionalã formate din:
+Ñ directorul general al direcției generale a finanțelor
+publice și controlului financiar de stat județene, respectiv a
+municipiului București Ñ președinte;
+Ñ șeful structurii de audit intern Ñ membru;
+Ñ directorul care are în subordine serviciul financiarcontabilitate Ñ membru;
+Ñ directorul direcției trezorerie Ñ membru.
+Secretariatul va fi asigurat de un reprezentant al
+serviciului resurse umane.
+Examinarea profesionalã se realizeazã printr-o probã
+scrisã și un interviu susținute pe baza bibliografiei indicate.
+Aprecierea la proba scrisã se face prin notare cu note
+de la 1 la 10.
+Candidatul va fi admis pentru interviu dacã media notelor primite la proba scrisã este cel puțin 8.
+Proba oralã se noteazã cu note de la 1 la 10.
+Media finalã este media mediilor de la proba scrisã și
+de la interviu.
+Pentru a fi considerat admis candidatul trebuie sã aibã
+o medie finalã de cel puțin 8.
+Rezultatele examinãrii profesionale se comunicã în termen de douã zile lucrãtoare, prin afișare într-un loc vizibil
+în mod public, la sediul instituției publice care a organizat
+examinarea.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 90/22.II.2001
+
+Rezultatul examinãrii poate fi contestat în termen de
+douã zile lucrãtoare de la data afișãrii lui. Contestațiile se
+depun la secretariatul direcției generale a finanțelor publice
+și controlului financiar de stat județene, respectiv a municipiului București. Contestațiile se soluționeazã de cãtre o
+comisie stabilitã prin decizie a directorului general, în
+termen de 5 zile lucrãtoare de la data depunerii acestora.
+Modul de soluționare a contestațiilor se comunicã în
+scris petenților. Urmãtoarea cale de atac, și ultima, este
+structura de audit intern din centrala Ministerului Finanțelor
+Publice.
+Persoanele declarate admise vor fi înscrise pe lista
+cuprinzând persoanele agreate ce va fi transmisã, în termen de 10 zile lucrãtoare, structurii de audit intern din centrala Ministerului Finanțelor Publice.
+Membrii comisiilor de examinare și personalul din centrala Ministerului Finanțelor Publice, la cerere, vor fi examinați de cãtre structura de audit intern din centrala
+Ministerului Finanțelor Publice. Procedura este analoagã,
+mutatis mutandis, cu cea urmatã la nivelul structurilor teritoriale de audit intern.
+Completarea listei cuprinzând persoanele agreate se
+efectueazã ori de câte ori șefii structurilor teritoriale de
+audit intern ale Ministerului Finanțelor Publice și conducerile
+direcțiilor generale ale finanțelor publice și controlului financiar de stat județene, respectiv a municipiului București,
+considerã necesar și se efectueazã în mod obligatoriu
+atunci când s-au depus cel puțin 10 cereri prin care se
+solicitã acest lucru. Orice completare a listei cuprinzând
+persoanele agreate se va transmite structurii de audit intern
+din centrala Ministerului Finanțelor Publice, în termen de 10
+zile lucrãtoare.
+2. Încheierea contractului de certificare
+Instituțiile publice cu mai puțin de 25 de posturi au
+obligația sã solicite certificarea bilanțului contabil și a contului de execuție bugetarã la structurile de audit intern ale
+Ministerului Finanțelor Publice.
+La primirea solicitãrii structurile de audit intern ale
+Ministerului Finanțelor Publice procedeazã mai întâi la verificarea îndeplinirii de cãtre instituția publicã respectivã a
+condițiilor de a solicita acest lucru. Dacã instituția publicã
+solicitantã nu îndeplinește condițiile prevãzute la art. 28 din
+Ordonanța Guvernului nr. 119/1999 privind auditul intern și
+controlul financiar preventiv, este informatã în scris despre
+aceasta. Dacã instituția publicã solicitantã îndeplinește
+condițiile legale pentru solicitarea certificãrii externe, atunci
+se procedeazã la acceptarea sau respingerea solicitãrii de
+efectuare a certificãrii de cãtre structura de audit intern a
+Ministerului Finanțelor Publice. Acceptarea sau respingerea
+solicitãrii de efectuare a certificãrii se face pe baza analizei
+fondului de timp de muncã disponibil, a gradului de acoperire cu sarcini a personalului specializat și a altor criterii,
+astfel încât sã nu fie afectatã îndeplinirea atribuțiilor
+prevãzute în regulamentul de organizare și funcționare și în
+fișa postului. Dacã se ajunge la concluzia cã certificarea
+poate fi realizatã de structura proprie de audit intern, atunci
+
+directorul general decide, la propunerea șefului structurii de
+audit intern, persoana care urmeazã sã efectueze certificarea, anunțând despre aceasta instituția publicã solicitantã.
+Dacã în urma analizei fondului de timp disponibil se ajunge
+la concluzia cã structura proprie de audit intern nu poate
+realiza certificarea solicitatã, atunci instituția publicã solicitantã este anunțatã despre necesitatea de a consulta lista
+cuprinzând persoanele agreate de unde poate sã aleagã
+persoana fizicã sau juridicã în vederea realizãrii certificãrii.
+Persoanele fizice sau juridice agreate, care încheie contract
+de certificare cu instituțiile publice respective, vor depune o
+copie de pe acest contract la structurile de audit intern ale
+Ministerului Finanțelor Publice unde au fost agreate, în termen de 10 zile lucrãtoare de la încheiere. Contractul de
+certificare este contract de prestãri de servicii.
+3. Cazurile de excludere a persoanelor fizice și juridice
+din lista cuprinzând persoanele agreate
+Excluderea de pe lista cuprinzând persoanele agreate
+se face în urmãtoarele cazuri:
+a) la cererea persoanei agreate, înaintatã în scris conducãtorului structurii de audit intern care a înscris-o pe
+listã;
+b) decizia structurii de audit intern luatã în urma analizei
+rapoartelor de certificare întocmite;
+c) încetarea îndeplinirii oricãrei condiții care a stat la
+baza agreãrii;
+d) decesul persoanei agreate.
+Persoanele fizice sau juridice agreate care au întocmit
+raport de certificare au obligația ca în termen de 10 zile
+lucrãtoare sã depunã o copie de pe acest raport și la
+structura de audit intern a Ministerului Finanțelor Publice
+care le-a agreat.
+La analiza rapoartelor de certificare se va urmãri dacã
+persoana care a fãcut certificarea a respectat atât metodologiile în vigoare privind certificarea bilanțului contabil și
+contul de execuție bugetarã, cît și întreaga legislație economico-financiarã care are implicații asupra certificãrii
+bilanțului contabil și a contului de execuție bugetarã.
+În cazul încetãrii valabilitãții contractului de certificare
+înainte de termenul stabilit în contract, pãrțile contractante
+vor informa în scris conducãtorul structurii de audit intern
+cãruia i-a fost transmisã copia de pe contract, asupra cauzelor care au condus la aceasta. Cu aceastã ocazie
+instituția publicã respectivã va preciza modul în care
+înțelege sã efectueze în viitor certificarea bilanțului contabil
+și a contului de execuție bugetarã.
+În orice situație în care o persoanã a fost exclusã de
+pe lista cuprinzând persoanele agreate, cu excepția cazului
+de deces, acea persoanã va fi informatã în scris despre
+aceasta, cu precizarea motivelor care au stat la baza
+excluderii. Decizia de excludere din lista cuprinzând persoanele agreate poate fi contestatã, în termen de 5 zile
+lucrãtoare de la comunicare, la structura de audit intern din
+centrala Ministerului Finanțelor Publice. Rãspunsul la contestație se dã în termen de 30 de zile lucrãtoare.
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 5069427282 Trezoreria sector 5, București (alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate : Centrul pentru relații cu publicul și agenții economici, București,
+șos. Panduri nr. 1, bloc P33, parter, sectorul 5, telefon 411.58.33.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: ramomrk@bx.logicnet.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 90/22.II.2001 conține 16 pagini.
+
+Prețul 5.536 lei
+
+ISSN 1453Ñ4495
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+

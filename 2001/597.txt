@@ -1,0 +1,971 @@
+PARTEA
+
+Anul XIII Ñ Nr. 597
+
+I
+
+Luni, 24 septembrie 2001
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+
+108.
+
+Ñ Ordin al ministrului de interne pentru aprobarea
+Dispozițiilor generale privind reducerea riscurilor de
+incendiu generate de încãrcãri electrostatice
+Ñ D.G.P.S.I.Ñ004 ....................................................
+
+1Ð8
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+MINISTERUL DE INTERNE
+
+ORDIN
+pentru aprobarea Dispozițiilor generale privind reducerea riscurilor de incendiu generate
+de încãrcãri electrostatice Ñ D.G.P.S.I.Ñ004
+Ministrul de interne,
+având în vedere prevederile art. 17 lit. c) din Legea nr. 121/1996 privind organizarea și funcționarea Corpului
+Pompierilor Militari,
+în temeiul art. 13 alin. 2 din Legea nr. 40/1990 privind organizarea și funcționarea Ministerului de Interne, cu
+modificãrile ulterioare,
+emite urmãtorul ordin:
+Art. 1. Ñ Se aprobã Dispozițiile generale privind reducerea riscurilor de incendiu generate de încãrcãri electrostatice Ñ D.G.P.S.I.Ñ004, cuprinse în anexa care face
+parte integrantã din prezentul ordin.
+Art. 2. Ñ Inspectoratul General al Corpului Pompierilor
+Militari va urmãri prin marile unitãți și unitãțile de pompieri
+militari punerea în aplicare a prevederilor prezentului ordin.
+Art. 3. Ñ Nerespectarea prevederilor Dispozițiilor generale privind reducerea riscurilor de incendiu generate de
+
+încãrcãri electrostatice Ñ D.G.P.S.I.Ñ004 atrage rãspunderea juridicã potrivit legii.
+Art. 4. Ñ (1) Prezentul ordin va fi publicat în Monitorul
+Oficial al României, Partea I, și va intra în vigoare la 30
+de zile de la data publicãrii.
+(2) La data intrãrii în vigoare a prezentului ordin orice
+dispoziții contrare își înceteazã aplicabilitatea.
+
+p. Ministru de interne,
+Toma Zaharia,
+secretar de stat
+București, 1 august 2001.
+Nr. 108.
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 597/24.IX.2001
+ANEXÃ
+DISPOZIÞII GENERALE
+
+privind reducerea riscurilor de incendiu generate de încãrcãri electrostatice Ñ D.G.P.S.I.Ñ004
+CAPITOLUL I
+Dispoziții generale
+Art. 1. Ñ (1) Dispozițiile generale privind reducerea riscurilor de
+incendiu generate de încãrcãri electrostatice Ñ D.G.P.S.I.Ñ004 stabilesc
+mãsurile tehnico-organizatorice, principiile, cerințele și condițiile tehnice
+necesare în vederea prevenirii formãrii scânteilor produse de descãrcarea
+sarcinilor electrostatice, care în anumite împrejurãri pot iniția incendii sau
+explozii.
+(2) Prevederile prezentelor dispoziții se aplicã și sunt obligatorii indiferent de titularul dreptului de proprietate.
+Art. 2. Ñ Mãsurile tehnico-organizatorice se stabilesc, se realizeazã
+și se mențin în exploatare de cãtre proiectanții, executanții sau proprietarii (utilizatorii) construcțiilor și amenajãrilor, echipamentelor, utilajelor și
+instalațiilor tehnologice, potrivit obligațiilor legale ce le revin, pe timpul
+desfãșurãrii proceselor tehnologice, precum și al manipulãrii, transportului
+și al depozitãrii materialelor.
+Art. 3. Ñ În sensul prezentelor dispoziții, termenii și expresiile utilizate au urmãtoarele semnificații:
+a) aditiv antistatic Ñ substanțã solidã (praf, pulbere) sau lichidã care,
+introdusã într-un volum de lichid combustibil, are rolul de a reduce efectul difuziei turbulente datorat pulsațiilor de vitezã, în cazul transvazãrii,
+transportului etc. lichidelor prin conducte cilindrice și de a limita astfel riscul datorat încãrcãrilor electrostatice;
+b) antistatic Ñ caracteristicã intrinsecã a materialului de a nu se
+încãrca cu electricitate staticã; în mod obișnuit aceastã caracteristicã este
+avutã în vedere la materialele care se utilizeazã în medii cu risc de
+incendiu sau explozie;
+c) corp electrostatic la pãmânt Ñ substanțã, material, circuit, aparat,
+mașinã, recipient sau instalație a cãrei rezistențã de scurgere a sarcinilor
+electrostatice nu depãșește 106 ohmi, rezistența fiind mãsuratã între
+pãmânt și un punct oarecare al elementului considerat;
+d) descãrcare corona Ñ descãrcare electricã incompletã (nu se dezvoltã pe toatã distanța dintre electrozii configurației) care apare în zone
+ale conductoarelor cu razã de curburã micã; descãrcarea corona se dezvoltã numai dacã intensitatea câmpului electric în zonã depãșește o
+valoare determinatã;
+e) descãrcare electrostaticã Ñ proces de realizare a unui canal conductor între douã corpuri aflate la potențiale diferite fațã de pãmânt; în
+funcție de valoarea medie a câmpului electric între cele douã corpuri,
+descãrcarea poate fi incompletã (corona) sau completã (strãpungere);
+f) dispersie Ñ fenomen de împrãștiere, rãspândire, risipire; în sensul
+prezentelor dispoziții, definiția se referã la pulberi, prafuri, gaze, cețuri,
+care se pot aprinde; de exemplu, praful este o formã dispersã a substanțelor solide, iar ceața este o formã dispersã a lichidelor combustibile;
+g) electricitate staticã Ñ energie de naturã electricã ce apare datoritã
+unor fenomene electrochimice, frecãri, încãlziri și de deformare a corpurilor, plasãrii acestora într-un câmp electric, precum și ca urmare a altor
+acțiuni fizice care presupun schimbarea relativã a suprafețelor de contact;
+energia acumulatã rãmâne practic constantã sau prezintã variații foarte
+lente; energia acumulatã, dacã se disipeazã într-o descãrcare electricã,
+poate iniția explozia unor amestecuri inflamabile, dacã este mai mare
+decât energia minimã de aprindere a acestora;
+h) influențã electrostaticã Ñ fenomen de separare a sarcinilor electrice pe un conductor neutru izolat sau modificarea repartiției sarcinilor
+electrice pe un conductor încãrcat și izolat, sub acțiunea unui câmp electric exterior;
+i) încãlțãminte antistaticã Ñ încãlțãminte încercatã în conformitate cu
+metoda 5.7 din SR EN 344; rezistența electricã trebuie sã fie cuprinsã
+între 100 k½ și 1.000 M½;
+j) încãrcare electrostaticã Ñ proces fizic prin care, pe corpuri solide,
+lichide sau vapori, apar sarcini electrice datoritã unor acțiuni mecanice
+(frecare, ciocnire, vibrații), termice, chimice etc;
+k) legare la pãmânt Ñ legãturã electricã a unui corp conductor la
+priza de pãmânt, pentru a asigura acestuia, în mod permanent,
+potențialul pãmântului (considerat nul);
+l) legãturã de echipotențializare Ñ legãturã electricã realizatã între
+diferite puncte pentru a asigura acestora același potențial fațã de pãmânt;
+m) pardosealã izolantã electric (electroizolantã) Ñ pardosealã realizatã
+din materiale izolante electric (lemn, cauciuc, bachelitã etc.), care acoperã întreaga suprafațã a pardoselii, sunt lipite pe suport, nu prezintã
+crãpãturi, iar rosturile nu depãșesc 3 mm;
+n) prizã de pãmânt Ñ instalație care asigurã o legãturã electricã
+directã cu pãmântul a unei instalații electrice sau a unor echipamente
+electrice;
+
+o) rezistența electricã de dispersie a unei prize de pãmânt Ñ rezistența
+electricã echivalentã a prizei de pãmânt;
+p) scânteie electrostaticã Ñ descãrcare bruscã de electricitate,
+printr-un interval, între douã corpuri;
+r) transvazare Ñ operațiune de trecere a unui fluid (lichid, gaz etc.)
+sau a unui material pulverulent dintr-un vas în altul prin curgere
+gravitaționalã, pompare etc.;
+s) zonã cu pericol de explozie Ñ spațiul în care, în condiții normale
+de funcționare, se pot acumula, accidental sau permanent, gaze, vapori
+sau praf în cantitãți suficiente pentru a da naștere unei atmosfere explozive în amestec cu aerul sau cu oxigenul.
+
+CAPITOLUL II
+Formarea și acumularea încãrcãrilor electrostatice
+Art. 4. Ñ Formarea și acumularea încãrcãrilor electrostatice reprezintã fenomene de sistem sau de asociație cu apariția unei sarcini
+electrice pe suprafața unui corp izolant sau izolat din punct de
+vedere al conductibilitãții electrice.
+Art. 5. Ñ Cele mai frecvente moduri de electrizare a corpurilor
+sunt: frecarea, contactul direct, influența, acțiunea electrochimicã și
+acțiunea fotoelectricã.
+Art. 6. Ñ (1) Principalele materiale și substanțe utilizate frecvent
+și pe scarã largã, susceptibile sã formeze și sã acumuleze sarcini
+electrostatice, sunt:
+a) solide: cauciucul natural și sintetic, masele plastice, fibrele artificiale, textilele pe bazã de lânã, fibrele artificiale, hârtia, sticla, sulful,
+rãșinile sintetice, unele rãșini naturale (chihlimbarul);
+b) lichide: sulfura de carbon, eterul, benzina, hidrocarburile, esterii,
+hidrocarburile clorurate, cetonele inferioare și alcoolii;
+c) gaze (vapori): dioxidul de carbon, metanul, propanul, etanul,
+butanul, acetilena și hidrogenul.
+(2) Principalele operațiuni cinetice în care sunt prezente materiale
+și substanțe menționate la alin. (1), pe timpul cãrora pot sã aparã
+încãrcãri electrostatice, sunt:
+a) încãrcare, descãrcare, umplere, golire, transvazare, alimentare;
+b) amestecare, malaxare, agitare, barbotare, omogenizare;
+c) filtrare, separare, sortare, cernere, centrifugare;
+d) ventilare, exhaustare, desprãfuire, aerisire, vacuumare;
+e) pulverizare, injectare, dispersare, stropire, purjare, refulare;
+f) frecare, angrenare, transmisie;
+g) spãlare, curãțare, purificare, ambalare;
+h) transport, vehiculare, manipulare;
+i) polizare, șlefuire, sablare;
+j) rulare, derulare, lipire, dezlipire;
+k) mãcinare, concasare, sfãrâmare.
+(3) Principalele procese tehnologice în care sunt prezente materialele și substanțele prevãzute la alin. (1), cu capacitate ridicatã de
+încãrcare electrostaticã, sunt:
+a) fabricarea fibrelor și firelor textile;
+b) fabricarea foliilor de polietilenã sau de policlorurã de vinil;
+c) fabricarea pulberilor pentru explozivi;
+d) egrenarea bumbacului;
+e) fabricarea hârtiei și imprimarea acesteia;
+f) fabricarea cauciucului și produselor de cauciuc.
+(4) Exemplele de operațiuni și procese pe parcursul cãrora pot sã
+aparã încãrcãri electrostatice sunt prezentate în anexa nr. 1 iar
+aspectele referitoare la pericolul de explozie și/sau incendiu, în cazul
+unor operațiuni și procese tehnologice care genereazã electricitate
+staticã, sunt prezentate în anexa nr. 2.
+Art. 7. Ñ Electricitatea staticã poate provoca incendiu sau explozie urmatã sau nu de incendiu, în cazul îndeplinirii simultane a
+urmãtoarelor condiții:
+a) existența materialului combustibil sau a atmosferei explozive;
+b) deplasarea sarcinilor cu apariția descãrcãrilor disruptive;
+c) energia eliberatã prin descãrcare sã fie mai mare decât energia minimã pentru aprinderea materialului combustibil sau a atmosferei explozive.
+Art. 8. Ñ În cazul în care atmosfera din spațiile închise este
+uscatã artificial, prin sisteme de încãlzire sau ventilare cu aer uscat,
+apar condiții favorizante astfel încât încãrcãrile electrostatice pot provoca incendiu sau explozie.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 597/24.IX.2001
+CAPITOLUL III
+Riscuri sau pericole de explozie și/sau de incendiu
+determinate de electricitatea staticã
+Art. 9. Ñ Pericolul de explozie poate sã aparã la manipularea
+substanțelor combustibile sau oxidabile, dacã acestea se prezintã sub
+formã de dispersie finã de gaze, vapori, ceațã (particule fine de
+lichid, aerosoli) sau prafuri (particule fine de solid, respectiv aerosoli),
+atunci când concentrația acestora în amestec cu aerul se aflã între
+limitele de explozie și când existã un potențial electrostatic egal sau
+mai mare decât energia minimã de aprindere a unor substanțe combustibile din mediul respectiv.
+Art. 10. Ñ Scânteile electrice care provin din diferențe de
+potențial inferioare nivelului de 350 volți sunt considerate nepericuloase datoritã insuficienței cãldurii la vârfurile scânteilor.
+Art. 11. Ñ Nivelul riscului generat de încãrcãrile electrostatice
+într-o zonã de lucru se apreciazã în funcție de energia minimã de
+aprindere, astfel:
+a) foarte redus
+³ 100 mJ
+b) redus
+50Ñ100 mJ
+c) mediu
+10Ñ50 mJ
+d) mare
+0,1Ñ10 mJ
+e) foarte mare
+² 0,1 mJ.
+Art. 12. Ñ Pericolul de explozie și/sau incendiu depinde de viteza
+și de modul de manipulare a lichidelor prin conducte sau instalații pe
+timpul desfãșurãrii operațiunilor de alimentare, golire, transport și
+distribuție.
+Art. 13. Ñ Stratul de praf combustibil se comportã diferit la
+descãrcãrile electrostatice, în funcție de natura produsului de aprindere.
+CAPITOLUL IV
+Mãsuri generale de prevenire a incendiilor determinate
+de electricitatea staticã
+SECÞIUNEA 1
+Soluții pentru dispersia electricitãții statice
+
+Art. 14. Ñ În funcție de caracteristicile proceselor tehnologice și
+de capacitatea de reacție a operatorilor se pot adopta soluții care sã
+conducã la dispersia electricitãții statice. Soluțiile cele mai eficiente
+sunt:
+a) legarea la pãmânt (sisteme echipotențiale);
+b) neutralizarea sarcinilor;
+c) reducerea frecãrilor;
+d) umidificarea atmosferei;
+e) mãrirea conductivitãții corpurilor izolante.
+Art. 15. Ñ (1) La o valoare a rezistenței de scurgere a sarcinilor
+electrice mai micã de 106 ohmi, pentru majoritatea substanțelor inflamabile se eliminã posibilitatea formãrii sarcinilor electrostatice mari și
+se considerã realizatã legarea la pãmânt.
+(2) În locurile în care se manipuleazã substanțe explozive valorile
+limitã care se aleg sunt de ordinul 104Ñ105 ohmi pentru rezistența
+de curgere a sarcinilor electrice.
+Art. 16. Ñ Legarea la pãmânt a obiectelor metalice asigurã
+reducerea diferenței de potențial dintre obiecte și pãmânt, pânã la
+limite nepericuloase, iar conductibilitatea materialelor utilizate trebuie
+sã fie suficient de mare, astfel încât sã permitã scurgerea fãrã
+descãrcare disruptivã a încãrcãrilor electrostatice.
+Art. 17. Ñ (1) Este obligatoriu sã fie legate la pãmânt:
+a) construcțiile metalice, echipamentele, rezervoarele, conductele,
+utilajele și instalațiile (pentru amestec, valțurile, calandrele, mașinile
+de extrudare sau injecție etc.) care vehiculeazã materiale și substanțe care produc electricitate staticã;
+b) elementele bune conducãtoare de electricitate care nu participã
+direct la procesul tehnologic;
+c) pãrțile metalice ale echipamentelor electrice (carcase, motoare,
+aparataj, tablouri etc.), ale instalațiilor, utilajelor, încãrcãtoarelor și cisternelor, inclusiv ale șinelor de cale feratã de la rampele de
+încãrcare-descãrcare.
+(2) Conductibilitatea electricã a legãturilor se asigurã prin:
+a) fixarea demontabilã (strângere);
+b) fixarea nedemontabilã (sudare, lipire etc.).
+Art. 18. Ñ (1) Atunci când continuitatea tubulaturii metalice este
+întreruptã prin burdufuri din materiale textile sau plastice, se prevãd
+
+3
+
+sisteme de echipotențializare între tronsoanele bune conducãtoare de
+electricitate.
+(2) Legãturi echipotențiale se prevãd la racordurile și flanșele cu
+garnituri izolatoare de pe traseele de conducte, tuburi și furtunuri
+pentru vehicularea fluidelor generatoare de electricitate staticã și,
+dupã caz, la dispozitivele (capetele) de pulverizare, refulare sau debitare a acestora.
+Art. 19. Ñ Conductele și recipientele racordate la gurile de
+aspirație, fixe sau mobile, precum și filtrele sau ciururile care intrã în
+contact cu o substanțã capabilã sã acumuleze sarcini electrostatice
+în timpul unui proces de fabricație, stocare sau al operațiunii de
+transvazare trebuie sã fie legate între ele (pentru a se asigura echipotențialitatea), precum și la pãmânt.
+Art. 20. Ñ Legãturile la pãmânt trebuie verificate astfel:
+a) zilnic, vizual;
+b) periodic, prin personal specializat se mãsoarã valoarea rezistenței de dispersie a prizei de pãmânt, precum și asigurarea continuitãții la instalațiile electrice.
+Art. 21. Ñ Legarea la pãmânt a bobinelor, cilindrilor și a tamburelor metalice ale cãror extremitãți se rotesc în lagãre prevãzute cu
+ungere se asigurã prin sisteme speciale cu perii alunecãtoare pe
+arbore, tangențiale și de capãt.
+Art. 22. Ñ Reducerea frecãrilor între corpurile (suprafețele) aflate
+în contact se poate realiza prin diminuarea presiunii exercitate pe
+corpuri.
+Art. 23. Ñ Neutralizarea sarcinilor electrostatice înmagazinate pe
+corpurile neconducãtoare se realizeazã prin:
+a) ionizarea permanentã a atmosferei;
+b) inducție electrostaticã;
+c) umidificarea atmosferei.
+Art. 24. Ñ (1) Ionizarea atmosferei se realizeazã cu:
+a) generatori de câmpuri electrostatice foarte intense, create în
+apropierea mediului încãrcat electrostatic;
+b) neutralizatori radioactivi cu radiații tip α sau §.
+(2) Neutralizatoarele radioactive se recomandã pentru procesele
+tehnologice de fabricare a foliilor de plastic, de cauciuc sau a hârtiei,
+precum și la prelucrarea firelor și fibrelor sintetice, ionizarea aerului
+realizându-se de-a lungul materialului.
+Art. 25. Ñ Inducția electrostaticã se realizeazã cu dispozitive care
+formeazã un câmp electrostatic autoindus, ele constând dintr-un fir
+metalic fix legat de o barã prevãzutã cu un capãt mișcãtor sau o tijã
+terminatã prin vârfuri. Legatã la pãmânt, bara trebuie sã fie așezatã
+foarte aproape de suprafața materialului (obiectului) încãrcat cu sarcini electrostatice, fãrã sã o atingã însã, fapt pentru care nu este
+recomandatã utilizarea dispozitivelor în atmosfere inflamabile sau
+explozive.
+Art. 26. Ñ (1) Umidificarea atmosferei se recomandã sã fie utilizatã în cazul operațiunilor de fabricație sau de manipulare care permit acest procedeu.
+(2) Pentru împiedicarea formãrii sarcinilor electrostatice se recomandã umiditãți relative ale aerului peste 70%.
+(3) Mãsura devine sigurã atunci când este combinatã cu utilizarea
+eliminatorilor inductivi sau radioactivi.
+Art. 27. Ñ Mãrirea conductivitãții corpurilor izolante (textile, cauciuc,
+materiale plastice, hârtie, lichide pure etc.) poate fi fãcutã, în masa
+lor sau superficial, prin adaosul sau aplicarea pe suprafața acestora
+a unor produse antistatice cum sunt compozițiile organice azotate
+(aminele, sãrurile de amoniu cuaternare, amidele etc.), derivații acidului fosforic sau fosforos.
+SECÞIUNEA a 2-a
+Mãsuri tehnico-organizatorice
+
+Art. 28. Ñ Stabilirea mãsurilor tehnico-organizatorice de prevenire
+a producerii scânteilor electrostatice trebuie sã se bazeze pe o analizã detaliatã care vizeazã:
+a) identificarea operațiunilor și instalațiilor care conduc la formarea
+și acumularea sarcinilor electrostatice;
+b) cunoașterea proprietãților fizico-chimice ale materiilor prime și
+materialelor folosite;
+c) evaluarea valorilor tensiunilor de încãrcare;
+d) evaluarea mediului în care se lucreazã;
+e) modul de manipulare a materialelor;
+f) controlul eficacitãții acestor mãsuri.
+Art. 29. Ñ Mãsurile tehnico-organizatorice rezultate în urma analizei,
+conform art. 28 trebuie sã îndeplineascã urmãtoarele condiții:
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 597/24.IX.2001
+
+a) sã fie în concordanțã cu caracteristicile specifice ale construcțiilor, instalațiilor tehnologice, utilajelor pentru care sunt adoptate;
+b) sã aibã la bazã calcule, determinãri, metode și experimentãri
+științifice;
+c) sã aibã cea mai mare eficiențã pentru limitarea acumulãrii sarcinilor electrostatice;
+d) sã fie în concordanțã cu noutãțile în domeniu.
+Art. 30. Ñ Reducerea riscurilor determinate de electricitatea staticã se realizeazã prin acțiuni de prevenire care vizeazã:
+a) locul de muncã;
+b) legãturile la pãmânt;
+c) îmbrãcãmintea sau echipamentul de protecție a personalului;
+d) operațiunile și procesele de fabricație;
+e) conductorii electrici;
+f) izolanții.
+Art. 31. Ñ Acțiunea asupra locului de muncã are în vedere, în
+primul rând, controlul amestecurilor, respectiv crearea unei atmosfere
+care sã fie în afara intervalului cuprins între limitele inferioare și
+superioare de explozie ale amestecului. Principalele metode utilizate
+sunt:
+a) inertizarea incintelor închise (rezervoare, reactoare etc.) pentru
+produsele cu niveluri de risc mare și foarte mare;
+b) ventilarea mecanicã forțatã a spațiilor sau a incintelor de lucru.
+Art. 32. Ñ Protecția împotriva electricitãții statice se realizeazã
+prin conectarea la priza de pãmânt, care în mod uzual poate avea și
+alte funcționalitãți cum ar fi, legarea la pãmânt a instalațiilor și utilajelor din motive de securitate a muncii sau legarea la pãmânt a
+instalațiilor de protecție împotriva trãsnetului.
+Art. 33. Ñ Legarea la pãmânt trebuie realizatã cu ajutorul unor
+conductoare din oțel zincat, cu aria secțiunii transversale de minimum
+10 mm2.
+Art. 34. Ñ Elementele de contact cu solul și circuitul de legare la
+pãmânt trebuie sã fie protejate împotriva deteriorãrilor mecanice, termice, chimice etc.
+Art. 35. Ñ Rezistența între obiectul legat la pãmânt și sol se compune din rezistența conductorului de legãturã și a electrodului din sol.
+Art. 36. Ñ Elementele conducãtoare ale unui obiect, aparat, utilaj
+sau ale unei instalații susceptibile sã acumuleze sarcini electrostatice
+ca urmare a procesului de fabricație sau a procedeului de manipulare trebuie sã fie legate la pãmânt.
+Art. 37. Ñ Se interzice folosirea îmbrãcãmintei și încãlțãmintei
+confecționate din materiale care se încarcã electrostatic.
+Art. 38. Ñ În zonele în care existã pericolul formãrii atmosferei
+explozive personalul trebuie sã utilizeze echipament special de protecție.
+Art. 39. Ñ În procesele de producție în care se produce electricitate staticã trebuie sã se aibã în vedere:
+a) înlocuirea, pe cât posibil, a elementelor izolante cu elemente
+conducãtoare de electricitate;
+b) mãrirea conductibilitãții electrice a benzilor transportoare, curelelor de transmisie și a tubulaturilor prin realizarea punților echipotențiale sau tratarea acestora cu adezivi buni conducãtori de
+electricitate;
+c) efectuarea proceselor de fabricație în încãperi cu atmosferã
+controlatã și inertizatã;
+d) limitarea vitezelor de curgere a lichidelor și a materialelor pulverulente;
+e) legarea la pãmânt pe toatã durata desfãșurãrii operațiunilor
+generatoare de sarcini electrostatice, inclusiv a celor care se
+desfãșoarã ocazional sau pentru a cãror efectuare se folosesc sisteme demontabile;
+f) evitarea mișcãrilor suplimentare ale persoanelor care executã
+ori supravegheazã activitãțile prevãzute la art. 6 alin. (2).
+Art. 40. Ñ Acțiunea asupra conductorilor vizeazã:
+a) asigurarea echipotențialitãții între materialele și obiectele legate
+la pãmânt;
+b) realizarea unor contacte sigure, de bunã calitate.
+Art. 41. Ñ Acțiunea asupra izolanților se referã la utilizarea selectivã, în funcție de procesele tehnologice, a limitatorilor de sarcini
+electrostatice prin ionizãri inductive, electrice sau radioactive, precum
+și a substanțelor antistatice.
+Art. 42. Ñ Descãrcarea electricitãții statice din baloturile de textile,
+materiale sintetice, hârtie etc. se realizeazã eficient prin ionizare, cu
+vârfuri, ace metalice, perii de descãrcare, benzi metalice sau prin
+umezirea localã a aerului.
+
+Art. 43. Ñ Pentru îmbunãtãțirea conductibilitãții pãrților în mișcare,
+în cazul lagãrelor care folosesc lubrifianți, se utilizeazã adaosuri de
+grafit sau sulfat de molibden.
+Art. 44. Ñ În procesele de uscare, prin pulverizare sau în strat
+fluidizat a substanțelor pulverulente, pentru limitarea acumulãrilor de
+sarcini electrostatice atât în uscãtorul propriu-zis, cât și în separatorul
+de praf, pe lângã legarea la pãmânt trebuie asiguratã inertizarea
+uscãtoarelor pe toatã durata desfãșurãrii operațiunilor de uscare.
+Art. 45. Ñ La spãlarea recipientelor de produse petroliere, viteza
+apei nu trebuie sã depãșeascã 1 m/s, iar presiunea aburului 3 atm.
+Art. 46. Ñ La descãrcarea din cisterne a gazelor petroliere lichefiate (GPL) se limiteazã viteza acestora la 1 m/s.
+Art. 47. Ñ Sunt interzise:
+a) pomparea unor produse grele (petrol, motorinã, ulei, pãcurã
+etc.) într-un rezervor care a conținut anterior benzinã sau alte produse inflamabile, înainte de golirea completã a conductei de
+încãrcare și a rezervorului de produsele anterioare sau înainte de
+evacuarea din rezervoare a gazelor rezultate;
+b) desfundarea cu apã a robinetelor prin care s-au vehiculat
+lichide combustibile;
+c) spãlarea cu apã a conductelor aferente rezervoarelor, înainte
+de asigurarea unui strat de apã, care sã depãșeascã cu minimum
+3 cm cota racordului conductei;
+d) vopsirea prin stropire sau pulverizare cu aer sau alte gaze a
+recipientelor deschise care conțin produse volatile și care pot genera
+gaze inflamabile;
+e) încãrcarea recipientelor cum ar fi: rezervoare, vagoane, autocisterne etc., cu produse combustibile lichide prin curgere
+gravitaționalã sau fãrã utilizarea pentru încãrcare a pâlniilor sau prelungitoarelor, care trebuie sã ajungã la cel mult 30 cm deasupra
+pãrții inferioare a recipientului;
+f) accesul personalului pe rezervoare pe durata unor operațiuni
+cum ar fi, pompare, amestec etc.; în cazul în care necesitãțile tehnologice impun totuși executarea unor mãsurãtori sau luarea probelor
+în timpul operațiunilor de pompare sau amestecare se vor lua mãsuri
+corespunzãtoare pentru asigurarea legãrii la pãmânt a utilajelor sau
+dispozitivelor utilizate;
+g) executarea de reparații în timpul funcționãrii instalațiilor tehnologice;
+h) utilizarea transmisiilor cu curele în medii unde apar frecvent
+amestecuri explozive;
+i) utilizarea încãrcãtoarelor cu gãuri sau neetanșeitãți, prin care
+produsul inflamabil pompat se poate rãspândi sub formã de stropi,
+generând suplimentar sarcini electrostatice;
+j) scurgerea bruscã, sub formã de jet, a produselor inflamabile și
+volatile, prin legãturile de luat probe, pe la sticlele de nivel etc.;
+k) desfundarea robinetelor de scurgere aferente aparatelor sau
+vaselor sub presiune prin lovire sau prin alte operațiuni mecanice;
+l) transportul și manipularea produselor petroliere în ambalaje din
+material plastic, cu excepția celor antistatizate și special destinate în
+acest scop;
+m) folosirea indicatoarelor de nivel cu plutitor în rezervoare de
+produse inflamabile, dacã nu sunt luate mãsuri de punere la pãmânt
+a plutitorului;
+n) agitarea sau omogenizarea în rezervoare, vase etc. a lichidelor
+ușor inflamabile; omogenizarea poate fi fãcutã numai prin recirculare
+sau cu amestecãtoare mecanice având palete situate sub nivelul
+lichidului;
+o) utilizarea unor instalații pentru exhaustarea prafului de materiale combustibile sau a vaporilor inflamabili, comune cu cele pentru
+evacuarea materialelor pulverulente provenite de la utilajele de șlefuit,
+polizat, strunjit etc.;
+p) folosirea aerului comprimat pentru alimentarea reactoarelor;
+aceasta se face în circuit etanș, mecanizat (automatizat) atât pentru
+încãrcarea, cât și pentru descãrcarea reactoarelor;
+r) deschiderea capacului reactorului în timpul procesului tehnologic
+fãrã asigurarea în prealabil a pernei de gaz inert și punerea în
+funcțiune a sistemului de ventilare;
+s) luarea probelor în timpul proceselor de cristalizare din reactor;
+t) deschiderea capacului reactorului în care au fost efectuate diferite operațiuni, fãrã programarea prealabilã a unei faze de liniștire cu
+durata cel puțin egalã cu timpul de relaxare pentru substanțele din
+reactor.
+Art. 48. Ñ Vasele metalice portabile, butoaiele, canistrele metalice
+etc., care urmeazã sã fie încãrcate cu produse petroliere lichide,
+trebuie sã fie așezate, pe durata încãrcãrii lor, pe o placã metalicã
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 597/24.IX.2001
+legatã la pãmânt și conectate, prin intermediul unei legãturi electrice,
+la recipientul sau racordul din care se face încãrcarea.
+Art. 49. Ñ Furtunurile flexibile de descãrcare sau încãrcãtoarele
+trebuie prevãzute cu armãturi din bronz și garnituri etanșe.
+Art. 50. Ñ Operațiunile de transvazare a lichidelor combustibile,
+cum ar fi alimentarea cu carburant, trebuie sã se întrerupã pe durata
+fenomenelor meteo însoțite de furtuni cu descãrcãri sub formã de
+trãsnet, dacã aceste fenomene se produc în zone apropiate.
+Art. 51. Ñ În cazul GPL, pentru egalizarea potențialelor cisterne
+și rezervorului se utilizeazã cablul de șuntare, aflat în dotarea
+cisternei.
+Art. 52. Ñ Este obligatorie instruirea personalului operator asupra
+modului de formare și acumulare a sarcinilor electrostatice, asupra
+metodelor de combatere a acestora, precum și asupra riscurilor
+determinate de încãrcãrile electrostatice.
+CAPITOLUL V
+Unele mãsuri specifice de prevenire a incendiilor determinate
+de electricitatea staticã
+SECÞIUNEA 1
+Mãsuri de prevenire la vehicularea și depozitarea
+lichidelor inflamabile
+
+Art. 53. Ñ (1) Încãrcarea rezervoarelor cu lichide inflamabile se
+face pe la baza acestora, sub nivelul lichidului.
+(2) Viteza de curgere poate fi mãritã numai dupã ce nivelul lichidului în recipient depãșește cu 2 cm gura conductei de intrare, iar în
+cazul rezervoarelor cu capac plutitor numai dupã ce capacul plutește
+pe lichid.
+Art. 54. Ñ (1) La umplerea rezervoarelor trebuie luate mãsuri
+pentru evitarea stropirii sau pulverizãrii lichidului.
+(2) În cazul pâlniilor confecționate din materiale izolante, înainte
+de începerea operațiunii de umplere, prin pâlnie trebuie introdus un
+conductor legat la pãmânt, pânã la partea inferioarã a rezervorului.
+Art. 55. Ñ În timpul încãrcãrii cu gaze petroliere lichefiate a
+vaselor tip termos trebuie introdusã în acestea o sârmã sau tijã
+metalicã, în vederea realizãrii contactului dintre lichidul din vas și
+racordul de încãrcare legat la pãmânt.
+Art. 56. Ñ Pentru a se evita pãtrunderea în interiorul rezervoarelor a corpurilor strãine, acumulatoare de sarcini electrice, în circuitele
+de transvazare trebuie sã se utilizeze filtre.
+Art. 57. Ñ Înainte de spãlarea cu apã sau spumã a rezervoarelor, autocisternelor, tancurilor petroliere sau a șlepurilor trebuie sã se
+asigure evacuarea amestecurilor inflamabile, utilizându-se în acest
+scop gaz inert sau abur.
+Art. 58. Ñ Furtunurile pentru spãlarea cu apã a depunerilor din
+rezervoare, vase sau utilaje, precum și cele pentru abur trebuie sã
+fie prevãzute cu inserție sau armare metalicã și legate la pãmânt,
+înainte de începerea operațiunilor de aburire și curãțare.
+Art. 59. Ñ Furtunurile flexibile ale pompelor de distribuție a carburanților trebuie sã fie omologate, antistatizate, lungimea lor
+nedepãșind valoarea specificatã de normativele în vigoare; ele trebuie
+menținute în stare de utilizare, iar dispozitivele de închidere trebuie
+realizate din materiale neferoase.
+Art. 60. Ñ Fiecare sortiment de carburant se depoziteazã în
+rezervoarele sau compartimentele stabilite, fiind interzisã schimbarea
+destinației acestora de la un sortiment de produs la altul, fãrã asigurarea tuturor mãsurilor de pregãtire necesare (golire, curãțare a
+pereților interiori etc.).
+Art. 61. Ñ La gurile de descãrcare a carburanților în rezervoare
+se prevãd borne de legare la pãmânt pentru conectarea autocisternelor.
+SECÞIUNEA a 2-a
+Mãsuri de prevenire la separarea substanțelor lichide și solide
+
+Art. 62. Ñ La operațiunile de separare prin filtrare a suspensiilor
+din lichidele inflamabile se impun urmãtoarele mãsuri:
+a) utilizarea numai a filtrelor metalice conectate la priza de
+pãmânt;
+b) conectarea la pãmânt a tuturor elementelor metalice ale
+instalației de separare;
+c) mãrirea conductivitãții lichidelor prin adãugare de aditivi cu proprietãți antistatice.
+Art. 63. Ñ La operațiunile de separare prin centrifugare a substanțelor lichide și solide se vor avea în vedere urmãtoarele:
+
+5
+
+a) utilizarea unor instalații de centrifugare care sã aibã în construcție partea interioarã din materiale bune conducãtoare de electricitate;
+b) asigurarea inertizãrii recipientului înaintea începerii operațiunii
+de separare;
+c) confecționarea cicloanelor în care sunt separate substanțele
+pulverulente din materiale bune conducãtoare de electricitate;
+d) legarea individualã la pãmânt a utilajelor de amestec, valțurilor, calandrelor, filtrelor, uscãtoarelor cu aer.
+SECÞIUNEA a 3-a
+Mãsuri de prevenire la vopsirea și/sau la lãcuirea
+prin pulverizare
+
+Art. 64. Ñ În zonele de lucru pentru operațiuni de vopsire și/sau
+lãcuire prin pulverizare trebuie sã se asigure umezirea localã a
+aerului.
+Art. 65. Ñ În camerele de pulverizat vopsea și/sau lac trebuie
+asigurate funcționarea la parametri normali a instalațiilor de ventilație
+generalã, interblocarea dintre sistemul de ventilație și cel de admisie
+a aerului comprimat la pistolul de pulverizare, precum și funcționarea
+perdelelor cu apã.
+Art. 66. Ñ Pentru operațiunile de vopsire și/sau lãcuire prin
+pulverizare se va utiliza numai aer comprimat fãrã impuritãți, iar
+temperatura acestuia, în cazul pulverizãrii nitrolacului la cald, nu
+trebuie sã depãșeascã 50¼C.
+Art. 67. Ñ La alimentarea utilajelor pentru turnarea lacului trebuie
+sã se utilizeze numai recipiente cu structurã metalicã, etanșe în
+raport cu mediul de lucru.
+SECÞIUNEA a 4-a
+Mãsuri de prevenire specifice vopsirii în câmp electrostatic
+
+Art. 68. Ñ La vopsirea în câmp electrostatic se respectã regulile
+și mãsurile precizate la art. 64Ñ67, precum și urmãtoarele:
+a) curentul maxim de scurtcircuit nu trebuie sã depãșeascã
+0,2 mA;
+b) distanța de siguranțã prevãzutã în reglementãrile tehnice specifice se menține strict, pentru a nu se produce strãpungeri ale
+dielectricului dintre pistolul/duza de pulverizare și piesele supuse vopsirii;
+c) instalația de vopsire prin pulverizare în câmp electrostatic se
+prevede cu sisteme de protejare împotriva cãderilor bruște de
+tensiune.
+SECÞIUNEA a 5Ða
+Mãsuri de prevenire la ansambluri și subansambluri
+aflate în mișcare
+
+Art. 69. Ñ În cazul transmisiilor prin curele trebuie sã se utilizeze
+materiale bune conducãtoare de electricitate, obținute prin aplicarea
+unui tratament antistatic pe toatã suprafața acestora.
+Art. 70. Ñ Legarea la pãmânt a benzilor transportoare este obligatorie și se poate realiza cu sisteme tip pieptene metalic, cu dinți
+ascuțiți și îndreptați spre partea interioarã a benzii, în punctul în care
+aceasta se desparte de tambure (role).
+Art. 71. Ñ Pentru scurgerea electricitãții statice generate de
+lagãrele cu cuzineți din materiale izolatoare (teflon, nailon etc.) sau
+de cele care lucreazã pe pernã de ulei sunt necesare realizarea
+legãturii electrice între arborele și carcasele lagãrului, precum și legarea la pãmânt a întregului sistem.
+SECÞIUNEA a 6-a
+Mãsuri de prevenire la prelucrarea cauciucului
+și a maselor plastice
+
+Art. 72. Ñ Toate elementele aflate în mișcare ale utilajului tehnologic prin care se prelucreazã cauciuc și/sau mase plastice trebuie
+legate la pãmânt prin intermediul unor perii metalice sau din cãrbune.
+Art. 73. Ñ Instalațiile și utilajele de prelucrare a cauciucului și/sau
+a maselor plastice trebuie prevãzute cu ventilație mecanicã localã și
+sisteme de umidificare a atmosferei, iar încãperile în care sunt
+amplasate se prevãd în mod obligatoriu cu pardosealã antistaticã.
+Art. 74. Ñ (1) Reducerea nivelului de încãrcare electrostaticã în
+procesele de prelucrare a maselor plastice se obține prin introducerea în material a unor substanțe antistatice, cum sunt:
+a) eter sau poliglicol multimolecular pentru polistiren, polietilenã
+sau polivinilclorid;
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 597/24.IX.2001
+
+b) combinație de stearinã-amoniac (18Ñ50%), pentru cele mai
+multe dintre masele plastice;
+c) fosfați de alcool gras pentru materialele plastice și fibrele sintetice.
+(2) Suprafețele din materiale izolante ale utilajelor trebuie sã fie
+acoperite cu substanțe antistatice.
+SECÞIUNEA a 7-a
+Mãsuri de prevenire la prelucrarea celulozei și hârtiei
+
+Art. 75. Ñ Formarea și acumularea sarcinilor electrostatice trebuie diminuate semnificativ prin reducerea presiunii dintre cilindri și
+modificarea unghiului sub care intrã hârtia la presare.
+Art. 76. Ñ Pornirea mașinilor de fabricat hârtie este permisã
+numai dupã verificarea sistemelor de colectare a sarcinilor electrice
+care se monteazã pe întreaga lãțime a cilindrului de imprimare.
+Art. 77. Ñ Instalațiile de fabricație a celulozei și hârtiei trebuie
+menținute în stare de curãțenie, dupã fiecare schimb de lucru personalul de deservire procedând la îndepãrtarea deșeurilor și materialelor
+combustibile și la curãțarea acestora de praf, scame și ulei.
+Art. 78. Ñ La fabricarea sortimentelor de hârtie trebuie sã se
+aibã în vedere urmãtoarele:
+a) asigurarea funcționãrii instalației de ventilație generalã pentru
+introducerea aerului proaspãt și evacuarea aerului viciat din compartimentele de fabricație;
+b) asigurarea permanentã a operaționalitãții instalațiilor automate
+de stingere a incendiilor.
+SECÞIUNEA a 8-a
+Unele mãsuri de prevenire la rampele auto și de cale feratã
+pentru încãrcarea-descãrcarea produselor petroliere
+
+Art. 79. Ñ (1) La rampele auto și de cale feratã pentru încãrcarea-descãrcarea produselor petroliere se realizeazã echipotențializarea
+elementelor metalice.
+(2) La intrarea în rampã și în zonele de descãrcare șinele de
+cale feratã se leagã electric între ele și se conecteazã la priza de
+pãmânt.
+(3) Conductele prin care se transvazeazã produsele petroliere și
+recipientele aferente operațiunilor de încãrcare/descãrcare se conecteazã la priza de pãmânt.
+SECÞIUNEA a 9-a
+Unele mãsuri de prevenire la alimentarea cu carburant
+a aeronavelor și navelor
+
+Art. 80. Ñ Pe durata alimentãrii cu carburant aeronavele nu trebuie sã se afle în imediata apropiere a unui radar de sol, la care se
+executã probe sau care se aflã în stare de funcționare.
+Art. 81. Ñ Pe durata operațiunilor de alimentare cu carburant
+sunt interzise instalarea sau demontarea bateriilor de acumulatori ale
+aeronavei, precum și branșarea generatoarelor de sol.
+Art. 82. Ñ (1) Pentru ca o aeronavã sau navã sã poatã fi alimentatã cu carburant în timp ce pasagerii se aflã la bord, se
+îmbarcã sau se debarcã, este necesarã prezența la bord a personalului calificat care poate executa procedurile de protecție și evacuare
+a pasagerilor.
+(2) Suplimentar se aplicã urmãtoarele mãsuri de prevenire:
+a) traseul urmat de pasageri trebuie sã evite zonele în care
+existã riscul degajãrii vaporilor de carburant; operațiunile de îmbarcare/debarcare trebuie sã fie supravegheate;
+b) prin sistemul de intercomunicații al aeronavei sau prin orice
+alte mijloace adecvate trebuie asiguratã comunicarea bilateralã între
+echipa de la sol responsabilã cu aceste operațiuni și personalul specializat de la bordul aeronavei.
+Art. 83. Ñ (1) Legarea la pãmânt a unei aeronave sau nave
+constã în luarea urmãtoarelor mãsuri:
+a) legarea la priza de pãmânt a alimentatorului;
+b) legarea la priza de pãmânt a aeronavei, respectiv a navei;
+c) realizarea unei legãturi electrice între aeronavã, respectiv a
+navei și alimentator;
+d) realizarea unei legãturi electrice între aeronavã și capãtul furtunului flexibil pentru carburant, în cazul alimentãrii prin extradosul
+aripilor.
+(2) La terminarea operațiunii de alimentare toate legãturile electrice trebuie deconectate în ordinea inversã celei specificate mai sus.
+
+Art. 84. Ñ În cazul în care nu este specificatã obligația legãrii la
+pãmânt a aeronavei sau navei, se vor lua urmãtoarele mãsuri pentru
+înlãturarea sarcinilor electrice:
+a) realizarea unei legãturi electrice între aeronavã și alimentator;
+b) realizarea unei legãturi electrice între aeronavã și capãtul furtunului flexibil pentru carburant, în cazul alimentãrii prin extradosul
+aripilor.
+Art. 85. Ñ La alimentarea cu carburant de la o stație (sistem de
+pompare fix) se va evita conectarea la priza de pãmânt în zona
+stației (pompei fixe), deoarece în momentul conectãrii pot apãrea
+descãrcãri electrice datorate diferențelor de potențial.
+Art. 86. Ñ Toate aeronavele aflate pe pistã, precum și autoalimentatoarele de pe platformele pistelor de decolare/aterizare trebuie
+sã fie legate la pãmânt pe toatã durata de staționare.
+SECÞIUNEA a 10-a
+Mãsuri de prevenire la umplerea rezervoarelor din benzinãrii
+și la alimentarea cu carburanți a autovehiculelor
+
+Art. 87. Ñ Personalul benzinãriilor trebuie sã urmãreascã permanent menținerea în bune condiții a capacelor și a ramelor chesoanelor rezervoarelor, pentru a evita formarea straturilor izolante electric.
+Art. 88. Ñ (1) Furtunurile flexibile ale pompelor de distribuție a
+carburanților trebuie sã fie omologate, antistatizate, lungimea lor
+nedepãșind valoarea specificatã de normativele în vigoare.
+(2) Dispozitivele de închidere trebuie realizate din materiale metalice care nu produc scântei.
+(3) Se interzice livrarea de carburanți în vase din mase plastice.
+Art. 89. Ñ Fiecare sortiment de carburant se depoziteazã în
+rezervoarele sau în compartimentele stabilite, fiind interzisã schimbarea destinației acestora de la un sortiment de produs la altul fãrã
+asigurarea tuturor mãsurilor de pregãtire necesare (golire, curãțare a
+pereților interiori etc.).
+Art. 90. Ñ La gurile de descãrcare a carburanților în rezervoare
+se prevãd borne de legare la pãmânt pentru conectarea autocisternelor.
+SECÞIUNEA a 11-a
+Mãsuri de prevenire specifice activitãților domestice (gospodãrești)
+
+Art. 91. Ñ În cazul activitãților domestice (gospodãrești) principalele mãsuri de prevenire a incendiilor, destinate reducerii riscurilor
+generate de electricitatea staticã, se referã la:
+a) interzicerea spãlãrii sau curãțãrii îmbrãcãmintei cu benzine, solvenți și alte lichide inflamabile;
+b) interzicerea utilizãrii bidoanelor, canistrelor și a altor recipiente
+din mase plastice la transportul, stocarea sau manipularea benzinei,
+petrolului și a altor lichide inflamabile;
+c) interzicerea folosirii pâlniilor din materiale plastice la transvazarea lichidelor inflamabile;
+d) legarea la pãmânt, pe durata încãrcãrii cu produse petroliere
+sau cu alte lichide inflamabile a butoaielor și canistrelor metalice, prin
+așezarea acestora pe o placã metalicã legatã la pãmânt, respectiv
+prin conectarea la recipientul legat la pãmânt de la care se realizeazã încãrcarea.
+SECÞIUNEA a 12-a
+Verificarea la recepția și darea în exploatare a instalațiilor de legare
+la pãmânt
+
+Art. 92. Ñ În vederea recepției și dãrii în exploatare a instalațiilor
+de legare la pãmânt executantul trebuie sã întocmeascã și sã predea
+beneficiarului:
+a) documentația tehnicã de execuție;
+b) procesul-verbal de lucrãri ascunse pentru elementele îngropate;
+c) buletinele de verificare.
+Art. 93. Ñ Buletinele de verificare trebuie sã cuprindã:
+a) data efectuãrii verificãrii;
+b) funcția, calitatea și numele persoanei care a efectuat verificarea;
+c) denumirea instalației sau a pãrții din instalație la care s-au
+efectuat verificãri;
+d) rezultatul verificãrii continuitãții conexiunilor electrice între utilaje și priza de pãmânt;
+e) valoarea rezistenței de dispersie a instalației de legare la
+pãmânt, mãsuratã la utilajul cel mai îndepãrtat de priza de pãmânt;
+f) metoda de mãsurare folositã, tipul și clasa de precizie a aparatelor utilizate în acest sens;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 597/24.IX.2001
+g) aprecieri asupra gradului de umiditate a solului (umed, uscat,
+foarte uscat);
+h) observații asupra defectelor constatate și înlãturate.
+Art. 94. Ñ Mãsurarea rezistenței de dispersie pentru instalația de
+legare la pãmânt se face:
+a) în instalații subterane și în instalații locale de legare la
+pãmânt, cel puțin de douã ori pe an;
+b) la rețelele generale de legare la pãmânt, cel puțin o datã
+pe an.
+CAPITOLUL VI
+Dispoziții finale
+Art. 95. Ñ Îmbrãcãmintea, încãlțãmintea și echipamentul de protecție a persoanelor care supravegheazã activitãțile prevãzute la
+art. 6 alin. (2) se aleg astfel încât sã îndeplineascã condițiile de prevenire a formãrii electricitãții statice stabilite în prezentele dispoziții.
+Art. 96. Ñ (1) În vederea aplicãrii prezentelor dispoziții factorii de
+decizie (patron, utilizator, administrator etc.) vor stabili, prin actele de
+
+7
+
+autoritate prevãzute de lege, aspectele de naturã organizatoricã și
+tehnicã specifice și vor lua mãsuri de elaborare a procedurilor și
+instrucțiunilor proprii, pentru detalierea anumitor prevederi.
+(2) În termen de 90 de zile de la data intrãrii în vigoare a prezentelor dispoziții patronii vor analiza situația existentã în raport cu
+prevederile prezentelor dispoziții și vor stabili, dupã caz, mãsurile de
+reabilitare necesare, specifice fiecãrei instalații, fiecãrui utilaj, echipament sau produs, capabile sã producã încãrcãri electrostatice.
+Art. 97. Ñ Unele date privind valorile tensiunilor de încãrcare, ale
+energiilor minime de aprindere, pentru amestecuri inflamabile sau
+pulverulente, pulberi metalice, la prelucrarea unor produse agricole,
+precum și ale rezistivitãții lichidelor inflamabile vor fi cuprinse într-un
+îndrumãtor care va fi publicat în Revista ”Pompierii Români,, cu
+scopul de a veni în sprijinul specialiștilor care doresc sã aprofundeze
+unele aspecte privind riscul generat de electricitatea staticã.
+Art. 98. Ñ Anexele nr. 1 și 2 fac parte integrantã din prezentele
+dispoziții.
+ANEXA Nr. 1
+la dispozițiile generale
+
+EXEMPLE
+de operațiuni și procese pe parcursul cãrora pot sã aparã încãrcãri electrostatice
+Principalele operațiuni și procese pe parcursul cãrora pot sã
+aparã încãrcãri electrostatice sunt:
+Ñ vehicularea lichidelor combustibile sau a solvenților cu viteze
+relativ mari (peste 0,7 m/s) prin elemente sau porțiuni de conducte;
+Ð încãrcarea și/sau descãrcarea lichidelor combustibile aflate la
+presiunea atmosfericã în/din rezervoare (cisterne);
+Ñ vehicularea lichidelor inflamabile prin elemente care determinã
+reducerea secțiunii transversale a traseului, cum ar fi ajutaje, ventile,
+diafragme etc.;
+Ñ pulverizarea produselor combustibile (lichide, pulberi etc.) prin
+utilizarea principiului lui Bernoulli;
+Ñ purjarea sau încãlzirea lichidelor inflamabile vâscoase
+utilizându-se aburul;
+Ñ transportul și manipularea produselor lichide inflamabile în
+ambalaje din materiale plastice;
+Ñ operațiunile de încãrcare/descãrcare în dane a navelor petroliere destinate transportului lichidelor combustibile;
+Ñ spãlarea prin agitare, frecare etc. a țesãturilor și hainelor, utilizându-se substanțe inflamabile;
+Ñ separarea prin centrifugare a substanțelor solide și lichide inflamabile;
+Ñ operațiunile cum ar fi umplerea, golirea, agitarea lichidelor
+inflamabile, efectuate în vase emailate;
+Ñ operațiunile de filtrare a suspensiilor din lichide inflamabile;
+Ñ uscarea prin pulverizare sau în strat fluidizat;
+Ñ vacuumarea lichidelor inflamabile;
+Ñ alimentarea aeronavelor cu carburanți la sol;
+Ñ procesele de mãcinare, amestecare etc. a unor produse combustibile;
+Ñ procesele de filtrare prin site, materiale poroase etc. a unor
+pulberi (prafuri) combustibile;
+Ñ mãcinarea materialelor combustibile;
+Ñ procesele de producere a pulberilor (prafurilor) combustibile;
+Ñ operațiunile de șlefuire și polizare a metalelor, maselor plastice, lemnului, plutei etc.;
+Ñ transportul pneumatic prin conducte al produselor pulverulente;
+Ñ sortarea, cernerea, ambalarea, mãcinarea, malaxarea și amestecarea produselor pulverulente;
+Ñ procesele de fabricație a firelor și fibrelor în industria textilã;
+Ñ fabricarea pulberilor explozive în industria de armament;
+Ñ operațiunile de sablare a structurilor metalice;
+Ñ filtrarea aerului sau a altor gaze impurificate cu pulberi metalice, pulberi (prafuri) agricole;
+Ñ desprãfuirea suprafețelor metalice de diferite forme, utilizându-se
+aer sau alte gaze sub presiune;
+Ñ transportul unor amestecuri de pulberi în flux de aer (uscare
+cu aer sau cu alte gaze);
+Ñ procesele locale și generale de ventilare, aerisire, desprãfuire etc.;
+Ñ egrenarea bumbacului;
+
+Ñ antrenarea cu curele de transmisie din materiale izolante, dispuse pe roți dințate sau fulii, în procese care utilizeazã produse combustibile;
+Ñ frecarea îmbrãcãmintei și încãlțãmintei confecționate din materiale izolante (mãtase, fibre sintetice sau artificiale etc.) de corpul
+operatorului pe durata utilizãrii acestora în procesul de producție;
+Ñ descãrcarea accidentalã, la presiune atmosfericã, a unui recipient care a conținut gaze inflamabile;
+Ñ transmisiile utilizând curele realizate din cauciuc izolant
+electric;
+Ñ spãlarea cu jet pulverizant de apã și/sau abur supraîncãlzit a
+recipientelor (cazane, rezervoare, cisterne etc.) care au conținut produse volatile și care mai pot conține vapori ai acestor produse;
+Ñ operațiunile de omogenizare în rezervoare a produselor combustibile prin agitarea cu aer, diverse alte gaze sau prin utilizarea de
+dispozitive mecanice;
+Ñ operațiunile de lãcuire și vopsire a materialelor prin procedeul
+pulverizãrii;
+Ñ pulverizarea electrostaticã utilizând vopseluri, pulberi etc.;
+Ñ procesele de imprimare utilizându-se procedeul gravãrii;
+Ñ operațiunile de imprimare în instalații tipografice (litografiere,
+vopsire etc.);
+Ñ detenta gazelor comprimate sau lichefiate;
+Ñ fabricarea foliilor de polietilenã;
+Ñ procesele tehnologice de producere a hârtiei;
+Ñ derularea unor filme sau pelicule, benzi din hârtie și textile;
+Ñ manipularea foliilor din materiale plastice; procese de ambalare
+în saci din materiale izolante;
+Ñ transvazarea aburului, aerului sau a altor gaze, prin conducte
+sau furtunuri, când aburul este umed, iar aerul sau gazul conține
+particule din materiale care se pot electriza ușor;
+Ñ operațiunile de umplere sau golire cu jet sau prin cãdere liberã
+a unor utilaje, rezervoare etc.;
+Ñ purificarea gazelor conținând particule coloidale;
+Ñ formarea cristalelor de gheațã;
+Ñ zgârierea, comprimarea, întinderea structurilor din cuarț;
+Ñ deformarea mecanicã a unor materiale (de exemplu, mica);
+Ñ dezintegrarea radioactivã;
+Ñ efectul fotoelectric;
+Ñ purificarea gazelor de particule lichide și solide în suspensie etc.
+Corpul uman intervine în acest fenomen în 3 moduri:
+Ñ ca generator de electricitate staticã (acumulare-descãrcare)
+datoritã mișcãrii corpului operatorilor (îndeosebi cei cu îmbrãcãminte
+de nailon sau plastic) ori prin frecarea materialelor în timpul
+deplasãrii;
+Ñ în transportul sarcinilor electrostatice de la un material încãrcat
+la corpul uman;
+Ñ la descãrcarea electrostaticã de la corpul uman la pãmânt, mai
+rapid la cei cu pielea umedã.
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 597/24.IX.2001
+ANEXA Nr. 2
+la dispozițiile generale
+ASPECTE
+
+referitoare la pericolul de explozie și/sau incendiu în cazul unor operațiuni și procese tehnologice
+care genereazã electricitate staticã
+Încãrcarea electrostaticã a materialelor sau conductelor din
+vecinãtatea celor prin care se vehiculeazã lichide inflamabile se produce prin influențã, în acest caz având loc descãrcarea prin scânteie
+între pãrțile metalice aflate în apropiere.
+La vehicularea hidrocarburilor prin pompare în/din recipiente apare
+o încãrcare electrostaticã a lichidului și a conductelor, respectiv a furtunurilor (curgere în conductele de legãturã, turbulențã mare în
+pompã) cu producerea de descãrcãri prin scânteie între pãrțile metalice ale conductelor și recipientelor, în special la intrarea și ieșirea
+din funcțiune a pompei.
+La umplerea sau golirea mijloacelor de transport auto pot apãrea
+descãrcãri electrostatice prin scânteie între pãrțile bune conducãtoare
+de electricitate ale sistemelor de alimentare cu combustibil și mijlocul
+de transport, precum și între șofer și autovehicul sau sistemul de
+alimentare.
+La recipientele din materiale izolatoare (sticlã, mase plastice etc.)
+cu capacitate sub 5 litri sarcinile electrostatice formate sunt nepericuloase, excepție fãcând sulfura de carbon.
+La încãrcarea rezervoarelor mari din materiale izolatoare, datoritã
+curgerii și turbulenței se pot produce descãrcãri prin scânteie între
+pãrțile conducãtoare ale conductelor de alimentare (flanșele de
+metal) și personalul de deservire.
+Pe timpul încãrcãrii cu hidrocarburi a vaselor prevãzute cu
+agitatoare pot avea loc descãrcãri electrostatice prin scântei între
+lichid și vas cu consecințe grave (explozii, incendii).
+Pe timpul manevrelor de la o gurã de vizitare deschisã a unui
+reactor plin cel mai mare pericol de descãrcare prin scânteie este în
+zona gurii de vizitare datoritã amestecãrii vaporilor inflamabili cu
+aerul. Pe timpul încãrcãrii cu substanțe solide (pulberi) a reactoarelor
+care conțin hidrocarburi, în special la încãrcarea vasului cu substanțe
+solide concomitent cu funcționarea sistemului de agitare-omogenizare
+se încarcã electrostatic substanțele solide și lichidul inflamabil și pot
+avea loc descãrcãri prin scânteie atât la suprafața lichidului, cât și în
+zona gurii de vizitare.
+La filtrarea suspensiilor din lichidele inflamabile sarcinile electrostatice preluate de pe materialele izolatoare ale filtrelor de cãtre conductele sau terminațiile metalice ale furtunurilor din material sintetic
+pot produce descãrcarea prin scânteie la apropierea unei astfel de
+pãrți de un obiect legat la pãmânt, descãrcãrile fiind cu atât mai mari
+cu cât lichidul are polaritatea mai micã.
+În situația în care rezervorul este izolat fațã de sol, potențialul format între rezervor și sol poate sã creeze o descãrcare electrostaticã
+prin scânteie atât la operațiunile de umplere, cât și la cele de golire
+a rezervorului (izolat de sol prin pneurile autovehiculului).
+Scânteile de aprindere din interiorul rezervoarelor conectate la sol
+nu pot fi oprite și nici evitate în totalitate prin simpla punere la
+pãmânt și nici prin scurgerea sarcinilor electrostatice. În exteriorul
+rezervorului însã formarea unei scântei de aprindere nu este probabilã, cu excepția cazului în care rezervorul este prevãzut cu o izolație
+fațã de sol mai mare de 106 ohmi.
+În cazul turbionãrii substanțelor pulverulente, la prelucrare, transport și depozitare pot apãrea descãrcãri puternice care conduc la
+aprinderea pulberii, prima explozie având loc în zona turbionarã, dupã
+care pot avea loc și explozii secundare.
+
+La operațiunile de uscare (prin pulverizare sau în strat fluidizat)
+descãrcãrile disruptive pot sã aparã între materialele pulverulente și
+pãrțile conducãtoare care vin în contact cu pulberea (cum ar fi cicloanele, separatoarele de praf, filtrele etc.), precum și între corpurile
+încãrcate electrostatic și personalul de deservire din imediata
+apropiere.
+În cazul operațiunilor de prelucrare a cauciucului și materialelor
+plastice electricitatea staticã poate constitui o sursã de aprindere.
+La trecerea materialelor prin valțuri, pentru omogenizare și plastifiere, acumularea sarcinilor electrostatice este însoțitã de degajarea
+vaporilor de plastifianți, aceștia putând forma cu aerul amestecuri
+explozive.
+Mașinile de formare a colilor de hârtie (în procesul de presare,
+dimensionare, tãiere), precum și operațiunea de imprimare a colilor
+(ca urmare a tehnicii imprimãrii rapide și folosirii unor solvenți,
+cerneluri inflamabile cu uscare rapidã) genereazã sarcini electrostatice care pot duce la apariția descãrcãrilor disruptive între materialele
+și pãrțile conducãtoare de electricitate din zona de lucru.
+La lucrãrile policrome procesul tehnologic se desfãșoarã în atmosferã inflamabilã, electricitatea staticã acumulatã fiind influențatã de
+umiditate. La viteze mari presele de policromie dezvoltã sarcini
+electrostatice care pot aprinde vaporii inflamabili formați deasupra
+rezervorului cu solvenți (cerneluri) sau în mediul înconjurãtor.
+În cazul preselor pentru heliogravurã sarcinile electrostatice se formeazã pe materiale și cilindri de cauciuc și de cupru, descãrcãrile
+disruptive care pot apãrea având energia suficientã pentru aprinderea
+vaporilor inflamabili formați în zona de lucru.
+La operațiunile de aplicare a lacurilor, vopselelor sau materialelor
+de impregnare se pot produce acumulãri electrostatice apãrând totodatã și descãrcãrile disruptive. În cazul metodei de vopsire sau
+lãcuire prin pulverizare sarcinile electrostatice acumulate pe suprafața
+supusã pulverizãrii pot produce doar un punct de aprindere care
+poate fi însã suficient pentru a ridica temperatura pânã la punctul de
+aprindere a solvenților inflamabili, antrenând și o reacție în lanț care
+poate avea urmãri grave.
+Sarcinile electrostatice produse pe timpul funcționãrii cu viteze
+mari a curelelor plate din piele sau din cauciuc, precum și în cazul
+benzilor transportoare utilizate pentru materiale încãlzite sau foarte
+uscate produc descãrcãri disruptive la zonele de contact între pãrțile
+aflate în mișcare. Și materialele care sunt vãrsate la capãtul unui
+transportor cu bandã pot produce descãrcãri disruptive ale cãror
+energii sunt capabile sã aprindã amestecuri explozive de pulberi cu aer.
+Cantitatea de electricitate ce poate fi acumulatã pe corpul uman,
+care se comportã ca un capacitor, poate fi suficientã pentru a da
+naștere unei descãrcãri disruptive la contactul corpului omenesc cu o
+masã legatã la pãmânt. În cazul în care persoanele (operatorii) sunt
+echipate cu încãlțãminte izolantã, acestea se pot încãrca și prin
+influențã de la vehiculele încãrcate electrostatic, iar la atingerea unui
+corp (obiect) legat la pãmânt descãrcarea se face prin scânteie.
+Energia maximã susceptibilã sã fie eliberatã printr-o descãrcare
+disruptivã poate sã atingã valoarea zecilor de milijouli, valoare suficientã pentru aprinderea mediilor explozive.
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 5069427282 Trezoreria sector 5, București (alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 411.97.54, tel./fax 410.77.36.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: ramomrk@bx.logicnet.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 597/24.IX.2001 conține 8 pagini.
+
+Prețul 3.352 lei
+
+ISSN 1453Ñ4495
+
+

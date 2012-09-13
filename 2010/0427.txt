@@ -1,0 +1,1264 @@
+PARTEA I
+
+Anul 178 (XXII) — Nr. 427
+
+Vineri, 25 iunie 2010
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+SUMAR
+
+Nr.
+
+Pagina
+HOTĂRÂRI ALE GUVERNULUI ROMÂNIEI
+
+510.
+
+— Hotărâre privind cerințele minime de securitate și
+sănătate în muncă referitoare la expunerea lucrătorilor
+la
+riscurile
+generate
+de
+radiațiile
+optice
+artificiale ....................................................................
+
+2–15
+
+Rectificări ..............................................................................
+
+15
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 427/25.VI.2010
+
+HOTĂRÂRI ALE GUVERNULUI ROMÂNIEI
+GUVERNUL ROMÂNIEI
+
+HOTĂRÂRE
+privind cerințele minime de securitate și sănătate în muncă referitoare la expunerea lucrătorilor
+la riscurile generate de radiațiile optice artificiale
+În temeiul art. 108 din Constituția României, republicată, și al art. 51 alin. (1) lit. b) din Legea securității și sănătății în
+muncă nr. 319/2006,
+Guvernul României adoptă prezenta hotărâre.
+CAPITOLUL I
+Dispoziții generale
+SECȚIUNEA 1
+Obiectivul și domeniul de aplicare
+
+Art. 1. — Prevederile prezentei hotărâri stabilesc cerințele
+minime privind protecția lucrătorilor împotriva riscurilor pentru
+securitatea și sănătatea lor, generate sau care pot fi generate de
+expunerea la radiații optice artificiale la locul de muncă.
+Art. 2. — Prevederile prezentei hotărâri se aplică activităților
+în care lucrătorii sunt expuși sau este posibil să fie expuși, prin
+natura muncii lor, la riscuri generate de radiațiile optice artificiale.
+Art. 3. — Prevederile Legii securității și sănătății în muncă
+nr. 319/2006 se aplică integral tuturor domeniilor menționate la
+art. 2, fără a aduce atingere dispozițiilor mai restrictive și/sau
+specifice cuprinse în prezenta hotărâre.
+Art. 4. — Prezenta hotărâre se referă la riscurile pentru
+sănătatea și securitatea lucrătorilor, generate de efectele nocive
+pentru ochi și piele ale expunerii la radiații optice artificiale.
+
+Art. 6. — Spectrul radiațiilor optice definite la art. 5 lit. a) este
+divizat în radiații ultraviolete, radiații vizibile și radiații infraroșii:
+a) radiații ultraviolete — radiațiile optice cu lungimea de undă
+cuprinsă între 100 nm și 400 nm; spectrul ultraviolet este divizat
+în radiații UVA (315—400 nm), UVB (280—315 nm) și UVC
+(100—280 nm);
+b) radiații vizibile — radiațiile optice cu lungimea de undă
+cuprinsă între 380 nm și 780 nm;
+c) radiații infraroșii — radiațiile optice cu lungimea de undă
+cuprinsă între 780 nm și 1 mm; spectrul infraroșu este divizat în
+radiații IRA (780—1.400 nm), IRB (1.400—3.000 nm) și
+IRC (3.000 nm — 1 mm).
+SECȚIUNEA a 3-a
+Valori-limită de expunere
+
+Art. 7. — Valorile-limită de expunere pentru radiațiile
+incoerente, altele decât cele emise de surse naturale de radiații
+optice, sunt stabilite în anexa nr. 1.
+Art. 8. — Valorile-limită de expunere pentru radiațiile laser
+sunt stabilite în anexa nr. 2.
+
+SECȚIUNEA a 2-a
+Definiții
+
+Art. 5. — În sensul prezentei hotărâri, următorii termeni se
+definesc astfel:
+a) radiații optice — toate radiațiile electromagnetice cu
+lungimea de undă cuprinsă între 100 nm și 1 mm;
+b) laser (amplificarea luminii printr-o emisie stimulată de
+radiații) — orice dispozitiv realizat pentru a produce sau
+amplifica radiații electromagnetice cu lungimea de undă
+corespunzătoare radiațiilor optice, în special prin procedeul de
+emisie stimulată controlată;
+c) radiații laser — radiațiile optice care provin de la un laser;
+d) radiații incoerente — toate radiațiile optice, altele decât
+radiațiile laser;
+e) valori-limită de expunere — limitele de expunere la
+radiațiile optice care sunt bazate direct pe efecte dovedite
+asupra sănătății și pe considerații biologice; respectarea acestor
+limite va asigura protecția lucrătorilor expuși la surse artificiale
+de radiații optice împotriva oricărui efect nociv cunoscut asupra
+sănătății lor;
+f) iluminare energetică (E) sau densitate de putere — puterea
+radiată incidentă pe unitate de suprafață pe o suprafață,
+exprimată în watt pe metru pătrat (W m-2);
+g) expunere energetică (H) — integrala iluminării energetice
+în raport cu timpul, exprimată în joule pe metru pătrat (J m-2);
+h) luminanță energetică (L) — fluxul energetic sau
+puterea pe unitate de unghi solid și pe unitate de
+suprafață, exprimat/exprimată în wați pe metru pătrat pe
+steradian (W m-2 sr-1);
+i) nivel — combinația de iluminare energetică, expunere
+energetică și luminanță energetică la care este expus lucrătorul.
+
+CAPITOLUL II
+Obligațiile angajatorilor
+SECȚIUNEA 1
+Determinarea expunerii și evaluarea riscurilor
+
+Art. 9. — (1) Pentru îndeplinirea obligațiilor prevăzute la art. 7
+alin. (4) și la art. 12 alin. (1) din Legea nr. 319/2006, angajatorul
+evaluează, în cazul lucrătorilor expuși la surse artificiale de
+radiații optice, și, dacă este necesar, măsoară și/sau calculează
+nivelurile de radiații optice la care pot fi expuși lucrătorii, în
+scopul de a putea defini și pune în aplicare măsurile necesare
+pentru a reduce expunerea la nivelurile limitelor aplicabile.
+(2) Metodologia utilizată la evaluare, măsurare și/sau
+calcularea nivelurilor de radiații optice este în conformitate cu
+următoarele standarde sau recomandări:
+a) pentru radiațiile laser, standardele Comisie Electrotehnice
+Internaționale (CEI);
+b) pentru radiațiile incoerente, recomandările Comisiei
+Internaționale de Iluminat (CIE) și ale Comitetului European de
+Standardizare (CEN).
+(3) În cazul în care se constată situații de expunere care nu
+sunt reglementate de aceste standarde și recomandări,
+evaluarea, măsurarea și/sau calcularea se efectuează potrivit
+recomandărilor stabilite științific la nivel național sau
+internațional.
+(4) În cele două situații de expunere, evaluarea poate lua în
+considerare datele furnizate de către producătorii
+echipamentelor, atunci când acestea din urmă fac obiectul unor
+reglementări comunitare specifice.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 427/25.VI.2010
+
+3
+
+Art. 10. — (1) Evaluarea, măsurarea și/sau calcularea
+prevăzute la art. 9 se planifică și se efectuează de către
+serviciile sau persoanele competente la intervale
+corespunzătoare, luând în considerare, în special, dispozițiile
+art. 8 și 18 din Legea nr. 319/2006 privind persoanele sau
+serviciile competente necesare, precum și consultarea și
+participarea lucrătorilor.
+(2) Datele obținute din evaluarea, inclusiv măsurarea și/sau
+calcularea nivelului de expunere prevăzut la alin. (1) se
+păstrează într-o formă care să permită consultarea acestora la
+o dată ulterioară.
+Art. 11. — Potrivit prevederilor art. 7 alin. (4) din Legea
+nr. 319/2006, angajatorul trebuie să ia în considerare la
+evaluarea riscului următoarele elemente:
+a) nivelul, domeniul lungimilor de undă și durata expunerii la
+surse artificiale de radiație optică;
+b) valorile-limită de expunere prevăzute la art. 7 și 8;
+c) orice impact asupra securității și sănătății lucrătorilor care
+aparțin unor grupuri sensibile la riscuri specifice;
+d) orice impact eventual asupra securității și sănătății
+lucrătorilor rezultat din interacțiuni, la locul de muncă, între
+radiații optice și substanțe chimice fotosensibile;
+e) orice impact indirect, precum pierderea temporară a
+vederii, o explozie sau un incendiu;
+f) existența unor echipamente de schimb, proiectate pentru
+a reduce nivelul de expunere la radiații optice artificiale;
+g) informații corespunzătoare obținute în urma supravegherii
+sănătății, inclusiv informații publicate, în măsura posibilităților;
+h) expunerea la mai multe surse de radiații optice artificiale;
+i) clasificarea unui laser potrivit standardului relevant al CEI
+și, în ceea ce privește sursele artificiale care pot provoca leziuni
+similare celor provocate de laserele din clasa 3B sau 4, orice
+clasificare similară;
+j) informații furnizate de producătorii surselor de radiații
+optice și ai echipamentelor de muncă, asociate potrivit
+reglementărilor comunitare specifice.
+Art. 12. — (1) Evaluarea riscurilor poate să conțină
+justificarea angajatorului în situația în care, conform naturii și
+amplorii riscului legat de expunerea la radiații optice artificiale,
+nu mai este necesară o evaluare ulterioară detaliată a riscului.
+(2) Evaluarea riscului va fi actualizată periodic, în special
+dacă există modificări semnificative sau dacă rezultatele
+supravegherii medicale reclamă această evaluare.
+
+mecanisme de închidere de ecranare sau a unor mecanisme
+similare de protecție a sănătății;
+d) programe corespunzătoare de întreținere a
+echipamentelor de muncă, a locului de muncă/posturilor de
+lucru și a sistemelor de la locul de muncă;
+e) proiectarea și amenajarea locurilor de muncă;
+f) limitarea duratei și nivelului expunerii;
+g) punerea la dispoziție de echipamente individuale de
+protecție corespunzătoare;
+h) instrucțiuni furnizate de producătorul echipamentelor,
+atunci când acestea fac obiectul unor reglementări comunitare
+specifice.
+Art. 16. — În cazul în care, în ciuda măsurilor luate de
+angajator pentru a se conforma prezentei hotărâri în ceea ce
+privește sursele artificiale de radiații optice, lucrătorii continuă
+să fie expuși la nivele de radiații optice artificiale care depășesc
+valorile-limită de expunere, angajatorul trebuie să adopte
+imediat măsuri pentru:
+a) reducerea expunerii la un nivel mai mic decât valorilelimită de expunere;
+b) identificarea cauzelor care au dus la depășirea valorilorlimită de expunere;
+c) adaptarea în consecință a măsurilor de protecție și
+prevenire, potrivit prevederilor art. 15 alin. (1), în scopul de a
+preveni o nouă expunere a lucrătorilor la nivele care depășesc
+valorile-limită de expunere.
+Art. 17. — Dacă evaluarea riscurilor, efectuată potrivit
+prevederilor secțiunii 1, indică faptul că în oricare dintre zonele
+locurilor de muncă aflate sub controlul angajatorului lucrătorii
+pot fi expuși la nivele ale radiațiilor optice artificiale care
+depășesc valorile-limită, angajatorul trebuie să asigure că acele
+zone sunt:
+a) identificate, iar accesul la acestea trebuie limitat, atunci
+când acest lucru este posibil din punct de vedere tehnic și când
+există riscul depășirii valorilor-limită de expunere;
+b) delimitate prin intermediul semnalizării corespunzătoare
+potrivit prevederilor Hotărârii Guvernului nr. 971/2006 privind
+cerințele minime pentru semnalizarea de securitate și/sau de
+sănătate la locul de muncă.
+Art. 18. — Potrivit prevederilor Legii nr. 319/2006, angajatorul
+adaptează măsurile prevăzute la art. 15—17 la nevoile
+lucrătorilor care aparțin unor grupuri sensibile la riscuri specifice.
+
+SECȚIUNEA a 2-a
+
+SECȚIUNEA a 3-a
+
+Evitarea sau reducerea expunerii la riscuri
+
+Informarea, formarea, consultarea și participarea lucrătorilor
+
+Art. 13. — Riscurile legate de expunerea la radiații optice
+artificiale trebuie eliminate sau reduse la un nivel cât mai mic
+posibil, ținându-se cont de progresul tehnic și de disponibilitatea
+măsurilor de control al riscului la sursă.
+Art. 14. — Reducerea riscurilor datorate expunerii la radiații
+optice artificiale are la bază principiile generale de prevenire
+prevăzute de Legea nr. 319/2006.
+Art. 15. — (1) Atunci când evaluarea riscului, efectuată
+potrivit prevederilor art. 9, pentru lucrătorii expuși la surse
+artificiale de radiații optice, indică cea mai mică posibilitate de
+depășire a valorilor-limită de expunere, angajatorul trebuie să
+elaboreze și să aplice un plan de măsuri tehnice și/sau
+organizatorice destinate prevenirii expunerii peste valorile-limită.
+(2) Planul prevăzut la alin. (1) trebuie să ia în considerare în
+special următoarele elemente:
+a) alte metode de lucru care reduc riscul generat de radiațiile
+optice;
+b) alegerea unor echipamente de muncă ce emit mai puține
+radiații optice, luându-se în considerare activitatea de efectuat;
+c) măsuri tehnice care urmăresc reducerea emisiei de radiații
+optice, inclusiv, atunci când este necesar, utilizarea unor
+
+Art. 19. — Fără a aduce atingere art. 17, 18, 20 și 21 din
+Legea nr. 319/2006, dacă rezultatul evaluării riscurilor,
+prevăzută la secțiunea 1, indică faptul că lucrătorii pot fi expuși
+riscului generat de radiații optice artificiale, angajatorul trebuie
+să asigure informarea și formarea lucrătorilor și/sau a
+reprezentanților acestora cu privire la rezultatele evaluării
+riscului, în special referitor la:
+a) măsurile luate în aplicarea prezentei hotărâri;
+b) valorile-limită de expunere și riscurile potențiale asociate;
+c) rezultatele evaluării, măsurării și/sau calculării nivelurilor
+de expunere la radiațiile optice artificiale, efectuate potrivit
+prevederilor secțiunii 1, însoțite de o explicație a semnificației
+acestora și a riscurilor potențiale;
+d) modul de depistare și semnalare a efectelor nocive ale
+expunerii asupra sănătății;
+e) condițiile în care lucrătorii au dreptul la supravegherea
+sănătății;
+f) practicile profesionale sigure care reduc la minimum
+riscurile generate de expunere;
+g) utilizarea adecvată a echipamentelor individuale de
+protecție corespunzătoare.
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 427/25.VI.2010
+
+Art. 20. — Consultarea și participarea lucrătorilor și/sau a
+reprezentanților acestora se desfășoară potrivit prevederilor
+art. 18 din Legea nr. 319/2006 în ceea ce privește domeniile
+reglementate de prezenta hotărâre.
+SECȚIUNEA a 4-a
+Supravegherea sănătății
+
+Art. 21. — În scopul de a preveni și depista în timp util oricare
+efect dăunător sănătății, precum și de a preveni orice risc pentru
+sănătate pe termen lung și orice risc de boală cronică, generate
+de expunerea la radiații optice, angajatorul trebuie să asigure
+supravegherea corespunzătoare a sănătății lucrătorilor, potrivit
+prevederilor art. 24 și 25 din Legea nr. 319/2006.
+Art. 22. — (1) Supravegherea sănătății lucrătorilor prevăzută
+la art. 21 trebuie efectuată de medicii de medicina muncii, în
+condițiile legii.
+(2) Angajatorul trebuie să ia măsurile necesare pentru ca
+medicul de medicina muncii să aibă acces la rezultatele evaluării
+riscului prevăzute la secțiunea 1, în situația în care aceste
+rezultate pot fi utile supravegherii sănătății.
+Art. 23. — (1) Angajatorul trebuie să asigure pentru fiecare
+lucrător care face obiectul supravegherii, potrivit prevederilor
+art. 21, întocmirea și actualizarea dosarului medical individual
+și a fișei de aptitudine, precum și păstrarea într-o formă care să
+permită consultarea ulterioară, cu respectarea dreptului la
+confidențialitatea informațiilor.
+(2) Dosarul medical prevăzut la alin. (1) conține un rezumat
+al rezultatelor supravegherii sănătății efectuate, iar fișa de
+aptitudine confirmă sau infirmă la perioade de timp stabilite
+aptitudinea în muncă pentru profesia/funcția și locul de muncă
+respectiv.
+(3) Angajatorul are obligația de a lua măsurile
+corespunzătoare astfel încât, după o cerere prealabilă:
+a) să permită fiecărui lucrător accesul la propriul dosar
+medical și la fișa de aptitudine;
+b) să pună la dispoziția autorității competente pentru
+supravegherea stării de sănătate a lucrătorilor o copie a
+dosarului medical și a fișei de aptitudine respective, cu
+respectarea dreptului la confidențialitatea informațiilor.
+Art. 24. — Angajatorul trebuie să asigure examenul medical
+al lucrătorilor, potrivit reglementărilor naționale, dar și atunci
+când:
+a) evaluarea riscurilor indică faptul că lucrătorul a fost expus
+la nivele de radiații optice artificiale care depășesc valorile-limită
+de expunere;
+b) se constată, în urma supravegherii sănătății, că un lucrător
+suferă de o boală identificabilă sau prezintă efecte dăunătoare
+sănătății acestuia, iar medicul de medicina muncii consideră că
+această boală sau aceste efecte sunt cauzate de expunerea la
+radiații optice artificiale la locul de muncă.
+Art. 25. — În urma examinărilor prevăzute la art. 24,
+angajatorul are următoarele obligații:
+a) să se asigure că medicul de medicina muncii îl informează
+pe lucrător cu privire la rezultatele proprii ale supravegherii
+sănătății și îi furnizează informații și sfaturi privind orice măsură
+
+de supraveghere a sănătății căreia ar trebui să i se supună la
+sfârșitul expunerii;
+b) să se asigure că este informat cu privire la elementele
+semnificative care rezultă din supravegherea sănătății
+lucrătorilor, cu respectarea confidențialității;
+c) să revizuiască evaluarea riscurilor realizată în temeiul
+secțiunii 1;
+d) să revizuiască măsurile pe care le adoptă în temeiul
+secțiunii a 2-a pentru a elimina sau reduce riscurile;
+e) să ia în considerare avizul medicului de medicina muncii
+sau al autorității competente cu supravegherea stării de
+sănătate a lucrătorilor, atunci când pune în aplicare orice
+măsură necesară pentru a elimina sau reduce riscul potrivit
+prevederilor secțiunii a 2-a;
+f) să organizeze supravegherea medicală continuă și să
+asigure reexaminarea stării de sănătate a oricărui alt lucrător
+care a suferit o expunere asemănătoare; în asemenea cazuri,
+medicul de medicina muncii sau autoritatea competentă poate
+propune ca persoanele expuse să fie supuse unui examen
+medical.
+CAPITOLUL III
+Dispoziții tranzitorii și finale
+Art. 26. — (1) Nerespectarea prevederilor art. 13, 15, 16, 18,
+23, art. 24 lit. b) și art. 25 constituie contravenții și se
+sancționează cu amendă de la 5.000 lei la 10.000 lei.
+(2) Constatarea contravențiilor și aplicarea sancțiunilor se fac
+de către inspectorii de muncă din cadrul Inspecției Muncii.
+(3) Prevederilor alin. (1) și (2) le sunt aplicabile dispozițiile
+Ordonanței Guvernului nr. 2/2001 privind regimul juridic al
+contravențiilor, aprobată cu modificări și completări prin Legea
+nr. 180/2002, cu modificările și completările ulterioare.
+Art. 27. — Autoritatea competentă pentru supravegherea
+stării de sănătate a lucrătorilor este Ministerul Sănătății.
+Art. 28. — Prezenta hotărâre intră în vigoare la data publicării
+în Monitorul Oficial al României, Partea I.
+Art. 29. — La data intrării în vigoare a prezentei hotărâri,
+Ordinul ministrului muncii, solidarității sociale și familiei
+nr. 706/2006 privind cerințele minime de securitate și sănătate
+referitoare la expunerea lucrătorilor la riscurile generate de
+radiațiile optice artificiale, publicat în Monitorul Oficial al
+României, Partea I, nr. 915 din 10 noiembrie 2006, se abrogă.
+Art. 30. — Anexele nr. 1 și 2 fac parte integrantă din prezenta
+hotărâre.
+*
+Prezenta hotărâre transpune Directiva 2006/25/CE a
+Parlamentului European și a Consiliului din 5 aprilie 2006 privind
+cerințele minime de securitate și de sănătate referitoare la expunerea
+lucrătorilor la riscuri generate de agenții fizici (radiații optice artificiale)
+[A nouăsprezecea directivă specială în sensul articolului 16
+alineatul (1) din Directiva 89/391/CEE], publicată în Jurnalul Oficial al
+Uniunii Europene seria L nr. 114 din 27 aprilie 2006.
+
+PRIM-MINISTRU
+
+EMIL BOC
+Contrasemnează:
+Ministrul muncii, familiei și protecției sociale,
+Mihai Constantin Șeitan
+Ministrul sănătății,
+Cseke Attila
+Șeful Departamentului pentru Afaceri Europene,
+Bogdan Mănoiu
+București, 2 iunie 2010.
+Nr. 510.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 427/25.VI.2010
+
+5
+ANEXA Nr. 1
+
+Radiații incoerente
+Valorile de expunere la radiațiile incoerente care sunt relevante din punct de vedere biofizic se pot calcula prin formulele
+enumerate în continuare. Formulele care trebuie utilizate se aleg în funcție de spectrul de radiații emis de sursă, iar rezultatele
+trebuie comparate cu valorile-limită de expunere corespunzătoare care figurează în tabelul 1.1. Pentru o sursă anumită de radiații
+optice, poate să fie relevantă mai mult de o valoare de expunere, deci mai mult de o limită de expunere corespunzătoare.
+Literele a)—o) trimit la rândurile corespunzătoare din tabelul 1.1.
+
+În sensul prezentei anexe, formulele menționate anterior se pot înlocui cu următoarele expresii și cu utilizarea valorilor
+discrete, potrivit tabelelor de mai jos:
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 427/25.VI.2010
+
+NOTE:
+
+Eλ (λ, t), Eλ iluminare energetică spectrală sau densitate de putere spectrală — puterea radiată incidentă pe unitate de
+suprafață pe o suprafață, exprimată în watt pe metru pătrat pe nanometru [W m-2 nm-1]; valorile Ελ (λ, t) și Eλ
+fie provin din măsurări, fie sunt comunicate de producătorul echipamentului;
+Eeff
+
+H
+
+iluminare energetică eficace (domeniu UV) — iluminare energetică calculată în domeniul de lungime de
+undă UV cuprinsă între 180 și 400 nm, ponderată în funcție de lungimea de undă cu S (λ) și exprimată în
+watt pe metru pătrat [W m-2];
+expunere energetică — integrala iluminării energetice în raport cu timpul, exprimată în joule pe metru pătrat
+[J m-2];
+
+Heff
+
+expunere energetică eficace — expunere energetică ponderată în funcție de lungimea de undă cu S (λ),
+exprimată în joule pe metru pătrat [J m-2];
+
+EUVA
+
+iluminare energetică totală (UVA) — iluminarea energetică calculată în domeniul de lungime de undă UVA
+cuprinsă între 315 și 400 nm, exprimată în watt pe metru pătrat [W m-2];
+
+HUVA
+
+expunere energetică — integrala sau suma iluminării energetice în raport cu timpul și lungimea de undă
+calculată în domeniul de lungime de undă UVA cuprinsă între 315 și 400 nm, exprimată în joule pe metru
+pătrat [J m-2];
+ponderare spectrală care ia în considerare legătura dintre lungimea de undă și efectele radiațiilor UV asupra
+ochilor și pielii (tabelul 1.2) [adimensional];
+
+S (λ)
+t, Δt
+λ
+Δλ
+Lλ (λ), Lλ
+
+timp, durată de expunere exprimate în secunde [s];
+lungime de undă exprimată în nanometri [nm];
+lărgimea benzii exprimată în nanometri [nm], a intervalelor de calcul sau de măsurare;
+luminanță energetică spectrală a unei surse exprimată în watt pe metru pătrat pe steradian pe nanometru
+[W m-2 sr-1 nm-1];
+
+R (λ)
+
+pondere spectrală care ia în considerare legătura dintre lungimea de undă și leziunea oculară cauzată de
+efectul termic provocat de radiațiile vizibile și IRA (tabelul 1.3) [adimensional];
+
+LR
+
+luminanță eficace (leziune provocată de efectul termic) — luminanță calculată și ponderată în funcție de
+lungimea de undă cu R (λ), exprimată în watt pe metru pătrat pe steradian [W m-2 sr-1];
+
+B (λ)
+
+pondere spectrală care ia în considerare legătura dintre lungimea de undă și leziunea oculară fotochimică
+provocată de lumina albastră (tabelul 1.3) [adimensional];
+
+LB
+
+luminanță eficace (lumina albastră) — luminanță calculată și ponderată în funcție de lungimea de undă cu
+B (λ), exprimată în watt pe metru pătrat pe steradian [W m-2 sr-1];
+
+EB
+
+iluminare energetică eficace (lumina albastră) — iluminare energetică calculată și ponderată în funcție de
+lungimea de undă cu B (λ), exprimată în watt pe metru pătrat [W m-2];
+
+EIR
+
+iluminare energetică totală (leziune generată de efectul termic) — iluminare energetică calculată în domeniul
+de lungime de undă infraroșie cuprinsă între 780 nm și 3.000 nm, exprimată în watt pe metru pătrat [W m-2];
+iluminare energetică totală (vizibil, IRA și IRB) — iluminare energetică calculată în domeniul de lungime de
+undă vizibilă și infraroșie cuprinsă între 380 nm și 3.000 nm, exprimată în watt pe metru pătrat [W m-2];
+
+Epiele
+Hpiele
+α
+
+expunere energetică — integrala sau suma iluminării energetice în raport cu timpul și lungimea de undă,
+calculată în domeniul de lungime de undă vizibilă și infraroșie cuprinsă între 380 și 3.000 nm, exprimată în
+joule pe metru pătrat [J m-2];
+unghi aparent — unghi subîntins de o sursă aparentă, așa cum este văzută într-un punct din spațiu, exprimat
+în miliradiani (mrad). Sursa aparentă este obiectul real sau virtual care formează cea mai mică imagine
+retiniană posibilă.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 427/25.VI.2010
+
+7
+Tabelul 1.1*)
+
+Valori-limită de expunere pentru radiațiile incoerente
+
+NOTA 1:
+Domeniul cuprins între 300 și 700 nm acoperă o parte din UVB, tot UVA și cea mai mare parte din radiațiile vizibile. Cu toate acestea, pericolele asociate sunt
+numite în mod curent pericole legate de lumina albastră. Lumina albastră propriu-zisă nu acoperă, cu aproximație, decât domeniul cuprins între 400 și 490 nm.
+NOTA 2:
+Pentru focalizarea stabilă pe sursele foarte mici cu un unghi subîntins mai mic de 11 mrad, LB poate fi convertit în EB. În mod normal, aceasta nu se aplică
+decât instrumentelor oftalmologice sau ochiului stabilizat sub anestezie. Durata maximă în care se poate focaliza o sursă se determină prin aplicarea următoarei
+formule: tmax = 100 / EB, EB exprimându-se în W m–2. Datorită mișcărilor oculare în timpul sarcinilor normale vizuale, această durată nu depășește 100 s.
+*) Tabelul 1.1 este reprodus în facsimil.
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 427/25.VI.2010
+Tabelul 1.2*)
+
+S (λ) [adimensional], 180 nm—400 nm
+
+*) Tabelul 1.2 este reprodus în facsimil.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 427/25.VI.2010
+
+9
+Tabelul 1.3*)
+
+B (λ), R (λ) [adimensional], 380 nm—1400 nm
+
+*) Tabelul 1.3 este reprodus în facsimil.
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 427/25.VI.2010
+ANEXA Nr. 2
+
+Radiații laser
+Valorile de expunere la radiațiile laser care sunt relevante din punct de vedere biofizic se pot calcula prin formulele
+enumerate în continuare. Formulele care trebuie utilizate se aleg în funcție de lungimea de undă și de durata de emisie a radiației
+de către sursă, iar rezultatele trebuie comparate cu valorile-limită de expunere corespunzătoare care figurează în tabelele 2.2, 2.3
+și 2.4. Pentru o anumită sursă de radiații optice laser poate să fie relevantă mai mult de o valoare de expunere, deci mai mult de
+o limită de expunere corespunzătoare.
+Riscurile asociate radiațiilor sunt prezentate în tabelul 2.1.
+Coeficienții care se folosesc ca instrumente de calcul în tabelele 2.2, 2.3 și 2.4 sunt indicați în tabelul 2.5; corecțiile care
+se aplică expunerilor repetate figurează în tabelul 2.6.
+
+NOTE:
+
+dP
+dA
+E (t), E
+
+H
+t
+λ
+γ
+γm
+α
+
+G
+
+putere exprimată în watt [W];
+suprafața exprimată în metri pătrați [m2];
+iluminare energetică sau densitate de putere — puterea radiată incidentă pe unitatea de suprafață pe o
+suprafață, exprimată în general în watt pe metru pătrat [W m–2]. Valorile E (t), E fie provin din măsurări, fie sunt
+comunicate de producătorul echipamentului.
+expunere energetică — integrala iluminării energetice în raport cu timpul, exprimată în joule pe metru pătrat [J m–2];
+timp — durată de expunere exprimată în secunde [s];
+lungimea de undă exprimată în nanometri [nm];
+unghiul de con de limitare a câmpului de măsurare, exprimat în miliradiani [mrad];
+câmp de măsurare exprimat în miliradiani [mrad];
+unghi aparent al unei surse, exprimat în miliradiani [mrad];
+diafragmă de limitare — suprafața circulară utilizată pentru a calcula media iluminării energetice și a expunerii
+energetice;
+luminanță energetică integrată — integrala luminanței energetice pe o anumită durată de expunere, exprimată
+sub formă de energie radiantă pe unitatea de suprafață a unei suprafețe radiante și pe unghiul solid unitar de
+emitere, în joule pe metru pătrat pe steradian [J m–2 sr–1].
+Tabelul 2.1
+
+Riscuri asociate radiațiilor
+Lungimea de undă
+[nm]
+λ
+
+Domeniu spectral
+
+Organ afectat
+
+180—400
+
+UV
+
+ochi
+
+Leziune fotochimică
+și leziune termică
+
+180—400
+
+UV
+
+piele
+
+Eritem
+
+2.4
+
+400—700
+
+vizibil
+
+ochi
+
+Leziunea retinei
+
+2.2
+
+400—600
+
+vizibil
+
+ochi
+
+Leziune fotochimică
+
+2.3
+
+400—700
+
+vizibil
+
+piele
+
+Leziune termică
+
+2.4
+
+700—1.400
+
+IRA
+
+ochi
+
+Leziune termică
+
+2.2, 2.3
+
+700—1.400
+
+IRA
+
+piele
+
+Leziune termică
+
+2.4
+
+1.400—2.600
+
+IRB
+
+ochi
+
+Leziune termică
+
+2.2
+
+2.600—106
+
+IRC
+
+ochi
+
+Leziune termică
+
+2.2
+
+1.400—106
+
+IRB, IRC
+
+ochi
+
+Leziune termică
+
+2.3
+
+1.400 —106
+
+IRB, IRC
+
+piele
+
+Leziune termică
+
+2.4
+
+Risc
+
+Tabel în care
+figurează valorile-limită
+de expunere
+
+2.2, 2.3
+
+*) Tabelul 2.2. este reprodus în facsimil.
+
+a În cazul în care lungimea de undă a laserului corespunde cu două limite, se aplică limita mai restrictivă.
+b Dacă 1 400≤ λ<105 nm: diametrul diafragmei de limitare = 1 mm pentru t ≤ 0,3 s și 1,5 t0,375 mm pentru 0,3 s < t < 10 s; dacă 105≤ λ<106 nm: diametrul diafragmei de limitare = 11 mm.
+c În lipsa datelor pentru aceste durate de impuls, Comisia Internațională pentru Protecția Împotriva Radiațiilor Neionizante (ICNIRP) recomandă utilizarea limitelor de luminanță energetică pentru 1 ns.
+d Tabelul indică valori corespunzătoare unui singur impuls laser. Dacă există mai multe impulsuri laser, trebuie făcută suma duratelor pentru impulsurile emise în cursul unui interval Tmin (care figurează
+în tabelul 2.6) și să i se dea lui t valoarea care rezultă de aici în formula: 5,6·103·t0.25.
+
+Valori-limită de expunere a ochiului la laser — Expunerea de scurtă durată < 10 s
+
+Tabelul 2.2*)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 427/25.VI.2010
+11
+
+*)Tabelul 2.3 este reprodus în facsimil.
+
+a În cazul în care lungimea de undă sau un alt parametru al laserului corespunde cu două limite, se aplică limita cea mai restrictivă.
+b Pentru sursele mici care subîntind un unghi de 1,5 mrad sau mai puțin, limitele duble de expunere E cuprinse între 400 nm și 600 nm, în spectrul vizibil, se reduc la limitele termice, pentru 10s≤t<T1,
+și la limitele fotochimice, pentru duratele mai mari. Pentru T1 și T2, a se vedea tabelul 2.5. Limita pentru riscul retinian legat de un efect fotochimic se poate exprima, de asemenea, sub forma unei luminanțe energetice
+integrate în raport cu timpul G = 106 CB [J m2 sr–1] pentru t > 10 s până la t = 10.000 s și L = 100 CB [W m–2 sr–1] pentru t > 10 000 s. Pentru măsurarea G și L, trebuie utilizat γm drept câmp pentru calcularea
+mediei. În mod oficial, limita dintre domeniul vizibil și domeniul infraroșu se situează la 780 nm, potrivit definiției CIE. Coloana în care sunt indicate numele domeniilor lungimilor de undă este utilizată numai pentru
+a oferi o privire de ansamblu utilizatorului. (Simbolul G este folosit de CEN; simbolul Lt este folosit de CIE; simbolul LP este folosit de CEI și CENELEC — Comitetul European pentru Standardizare Electrotehnică).
+c Pentru lungimile de undă între 1400 și 105 nm: diametrul diafragmei de limitare = 3,5 mm; pentru lungimile de undă între 105 și 106 nm: diametrul diafragmei de limitare = 11 mm.
+d Pentru măsurarea valorii de expunere, luarea în considerare a γ se definește astfel: dacă α (unghiul aparent al sursei) > γ (unghiul de con de limitare, indicat între paranteze drepte în coloana
+corespunzătoare), atunci câmpul vizual de măsurare γm ar trebui să fie valoarea indicată pentru γ. (Dacă s-ar utiliza un câmp mai mare de măsurare, s-ar supraestima riscul).
+Dacă α < γ, atunci câmpul de măsurare γm trebuie să fie suficient de mare pentru a include în întregime sursa, dar el nu este limitat și poate fi mai mare decât γ.
+
+Valorile-limită de expunere a ochiului la laser — Expunere de lungă durată ≥ 10 s
+
+Tabelul 2.3*)
+
+12
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 427/25.VI.2010
+
+a
+
+*) Tabelul 2.4 este reprodus în facsimil.
+
+În cazul în care lungimea de undă a laserului corespunde cu două limite, se aplică limita cea mai restrictivă
+
+Valorile-limită de expunere a pielii la laser
+
+Tabelul 2.4*)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 427/25.VI.2010
+13
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 427/25.VI.2010
+Tabelul 2.5
+
+Factorii de corecție aplicați și alți parametri de calcul
+Parametru utilizat de ICNIRP
+
+Domeniul spectral valabil (nm)
+
+λ < 700
+CA
+
+700—1.050
+
+Valoare
+
+CA = 1,0
+CA = 100,002(λ – 700)
+
+1.050—1.400
+
+CA = 5.0
+
+400—450
+
+CB = 1,0
+
+450—700
+
+CB = 100,02(λ – 450)
+
+CB
+
+700—1.150
+
+CC = 1.0
+
+1.150—1.200
+
+CC = 8,0
+
+λ < 450
+T1
+
+CC = 100,018(λ – 1.150)
+
+1.200—1.400
+
+CC
+
+T1 = 10 s
+
+450—500
+λ > 500
+Parametru utilizat de ICNIRP
+
+αmin
+
+Valoare
+
+αmin = 1,5 mrad
+
+Domeniul unghiular valabil
+(mrad)
+
+α < αmin
+CE
+
+T1 = 100 s
+
+Valabil pentru efectele biologice
+
+Toate efectele termice
+Parametru utilizat de ICNIRP
+
+T1 = 10 · [100,02 (λ – 450)] s
+
+αmin < α < 100
+
+Valoare
+
+CE = 1.0
+CE = α/αmin
+
+α > 100
+α < 1,5
+T2
+
+CE = α2/(αmin · αmax) mrad
+cu αmax = 100 mrad
+T2 = 10 s
+
+1,5 < α < 100
+α > 100
+Parametru utilizat de ICNIRP
+
+T2 = 100 s
+
+Interval temporal valabil de expunere
+(s)
+
+t ≤ 100
+γ
+
+T2 = 10 · [10(α – 1,5)/98,5] s
+
+100 < t < 104
+t > 104
+
+Valoare
+
+γ = 11 [mrad]
+γ = 1,1 t0,5 [mrad]
+γ = 110 [mrad]
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 427/25.VI.2010
+
+15
+Tabelul 2.6
+
+Corecția pentru expunerea repetitivă
+Fiecare dintre următoarele 3 reguli generale ar trebui aplicate pentru toate expunerile repetitive generate de sistemele laser
+pulsat repetitiv sau de sistemele de scanare laser:
+1. expunerea care rezultă dintr-un singur puls într-un tren de pulsuri nu trebuie să depășească valoarea-limită de expunere
+pentru un puls unic cu această durată de puls;
+2. expunerea care rezultă dintr-un tren de pulsuri (sau subgrup de pulsuri dintr-un tren) eliberate într-un timp t nu trebuie
+să depășească valoarea-limită de expunere pentru timpul t;
+3. expunerea care rezultă dintr-un puls unic într-un tren de pulsuri nu trebuie să depășească valoarea-limită de expunere
+pentru un puls unic, multiplicată cu un factor de corecție termică cumulată Cp = N–0,25, în care N este numărul de pulsuri. Prezenta
+regulă nu se aplică decât la limitele de expunere destinate protejării împotriva unei leziuni termice, atunci când toate pulsurile
+eliberate în mai puțin de Tmin sunt considerate ca un puls unic.
+
+Parametru
+
+Domeniu spectral valabil (nm)
+
+315 < λ ≤ 400
+
+Valoare
+
+Tmin = 10–9 s (= 1 ns)
+
+400 < λ ≤ 1.050
+1.050 < λ ≤ 1.400
+
+Tmin = 50 · 10–6 s (= 50 μs)
+
+1.400 < λ ≤ 1.500
+
+Tmin = 10–3 s (= 1 ms)
+
+1.500 < λ ≤ 1.800
+
+Tmin = 10 s
+
+1.800 < λ ≤ 2.600
+
+Tmin
+
+Tmin = 18 · 10–6 s (= 18 μs)
+
+Tmin = 10–3 s (= 1 ms)
+
+2.600 < λ ≤ 106
+
+Tmin = 10–7 s (= 100 ns)
+
+RECTIFICĂRI
+La Hotărârea Guvernului nr. 529/2010 pentru aprobarea menținerii managementului asistenței medicale la
+autoritățile administrației publice locale care au desfășurat faze-pilot, precum și a Listei unităților sanitare publice cu
+paturi pentru care se menține managementul asistenței medicale la autoritățile administrației publice locale și la
+Primăria Municipiului București și a Listei unităților sanitare publice cu paturi pentru care se transferă managementul
+asistenței medicale către autoritățile administrației publice locale și către Primăria Municipiului București, publicată în
+Monitorul Oficial al României, Partea I, nr. 385 din 10 iunie 2010, se face următoarea rectificare (care nu aparține
+Redacției ăMonitorul Oficial, Partea I”):
+— în anexa nr. 2, la poziția 247, coloana ăAutoritatea administrației publice locale”, în loc de: ăConsiliul Local
+Viișoara” se va citi: ăConsiliul Local Alexandru cel Bun”.
+
+ABONAMENTE LA PUBLICAȚIILE OFICIALE PE SUPORT FIZIC
+— Prețuri pentru anul 2010 —
+Nr.
+crt.
+
+Valoare
+(TVA 9% inclus) — lei
+
+Număr
+de apariții
+anuale
+
+Denumirea publicației
+
+12 luni
+
+3 luni
+
+1 lună
+
+900
+
+1.200
+
+330
+
+120
+
+100
+
+1.500
+
+140
+
+Monitorul Oficial, Partea a II-a
+
+200
+
+2.250
+
+200
+
+4.
+
+Monitorul Oficial, Partea a III-a
+
+500
+
+430
+
+40
+
+5.
+
+Monitorul Oficial, Partea a IV-a
+
+6.000
+
+1.720
+
+160
+
+6.
+
+Monitorul Oficial, Partea a VI-a
+
+240
+
+1.600
+
+150
+
+7.
+
+Monitorul Oficial, Partea a VII-a
+
+48
+
+540
+
+50
+
+8.
+
+Colecția Legislația României
+
+4
+
+450
+
+9.
+
+Colecția Hotărâri ale Guvernului României
+
+12
+
+750
+
+1.
+
+Monitorul Oficial, Partea I
+
+2.
+
+Monitorul Oficial, Partea I, limba maghiară
+
+3.
+
+120
+70
+
+NOTĂ:
+
+Monitorul Oficial, Partea I bis, se multiplică și se achiziționează pe bază de comandă.
+
+A B O N A M E N T E L A P R O D U S E L E Î N F O R M AT E L E C T R O N I C
+— Prețuri pentru anul 2010 —
+Abonamentul FLEXIBIL
+(Monitorul Oficial, Partea I + alte 3 părți ale Monitorului Oficial, la alegere)
+Lunar
+
+Produs
+
+Anual
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+AutenticMO
+
+40
+
+100
+
+250
+
+600
+
+1.320
+
+400
+
+1.000
+
+2.500
+
+6.000
+
+13.200
+
+ExpertMO
+
+90
+
+230
+
+580
+
+1.390
+
+3.060
+
+900
+
+2.250
+
+5.630
+
+13.510
+
+29.720
+
+Abonamentul COMPLET
+(Monitorul Oficial, Partea I + toate celelalte părți ale Monitorului Oficial)
+Lunar
+
+Produs
+
+Anual
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+AutenticMO
+
+50
+
+130
+
+330
+
+790
+
+1.740
+
+500
+
+1.250
+
+3.130
+
+7.510
+
+16.520
+
+ExpertMO
+
+110
+
+280
+
+700
+
+1.680
+
+3.700
+
+1.100
+
+2.750
+
+6.880
+
+16.510
+
+36.320
+
+Prețurile sunt exprimate în lei și conțin TVA.
+Mai multe informații puteți găsi pe site-ul www.expert-monitor.ro, unde puteți aplica on-line comanda.
+
+Gabriel S. Popa
+
+Motivul: Format electronic AUTENTIC, conform Legii nr. 202/1998, republicata.
+Locatia:Bucuresti
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+ăMonitorul Oficial” R.A., Str. Parcului nr. 65, sectorul 1, București; C.I.F. RO427282,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala ăUnirea” București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 021.318.51.29/150, fax 021.318.51.15, e-mail: marketing@ramo.ro, internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 021.401.00.70, fax 021.401.00.71 și 021.401.00.72
+Tiparul: ăMonitorul Oficial” R.A.
+Monitorul Oficial al României, Partea I, nr. 427/25.VI.2010 conține 16 pagini.
+
+Prețul: 3,20 lei
+
+&JUYDGY|444133]
+ISSN 1453—4495
+
+

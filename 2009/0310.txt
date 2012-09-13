@@ -1,0 +1,2112 @@
+PARTEA I
+
+Anul 177 (XXI) — Nr. 310
+
+Marți, 12 mai 2009
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+SUMAR
+
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+
+343.
+
+— Ordin al ministrului muncii, familiei și protecției
+sociale pentru modificarea și completarea Normelor
+de aplicare a prevederilor Legii nr. 19/2000 privind
+sistemul public de pensii și alte drepturi de asigurări
+sociale, cu modificările și completările ulterioare,
+aprobate prin Ordinul ministrului muncii și solidarității
+sociale nr. 340/2001 ..................................................
+
+2–16
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 310/12.V.2009
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+MINISTERUL MUNCII, FAMILIEI ȘI PROTECȚIEI SOCIALE
+
+ORDIN
+pentru modificarea și completarea Normelor de aplicare a prevederilor
+Legii nr. 19/2000 privind sistemul public de pensii și alte drepturi de asigurări sociale,
+cu modificările și completările ulterioare, aprobate prin Ordinul ministrului muncii și solidarității
+sociale nr. 340/2001
+Având în vedere:
+— Legea nr. 19/2000 privind sistemul public de pensii și alte drepturi de asigurǎri sociale, cu modificǎrile și completǎrile
+ulterioare;
+— Ordonanța de urgențǎ a Guvernului nr. 28/2009 privind reglementarea unor mǎsuri de protecție socialǎ;
+— Hotǎrârea Guvernului nr. 11/2009 privind organizarea și funcționarea Ministerului Muncii, Familiei și Protecției Sociale,
+cu modificǎrile și completǎrile ulterioare,
+ministrul muncii, familiei și protecției sociale emite urmǎtorul ordin:
+Art. I. — Normele de aplicare a prevederilor Legii nr. 19/2000
+privind sistemul public de pensii și alte drepturi de asigurǎri
+sociale, cu modificǎrile și completǎrile ulterioare, aprobate prin
+Ordinul ministrului muncii și solidaritǎții sociale nr. 340/2001,
+publicat în Monitorul Oficial al României, Partea I, nr. 237 din
+10 mai 2001, cu modificǎrile și completǎrile ulterioare, se
+modifică și se completează dupǎ cum urmeazǎ:
+1. La capitolul A ăContribuția de asigurări sociale”
+secțiunea I ăDispoziții generale”, la punctul 2, după
+paragraful al cincilea se introduce un nou paragraf,
+paragraful șase, cu următorul cuprins:
+ăÎncepând cu data de 25 martie 2009, data intrǎrii în vigoare a
+Ordonanței de urgență a Guvernului nr. 28/2009 privind
+reglementarea unor măsuri de protecție socială, pentru
+indemnizația de minimum 75% din salariul de bază corespunzător
+locului de muncă ocupat, acordată pe durata întreruperii
+
+temporare a activității angajatorului în temeiul prevederilor art. 53
+alin. (1) din Legea nr. 53/2003 — Codul muncii, cu modificările și
+completările ulterioare, angajatorul și asigurații sunt scutiți de la
+plata contribuțiilor de asigurări sociale datorate bugetului
+asigurărilor sociale de stat. Scutirea de la plata contribuțiilor de
+asigurări sociale, pentru indemnizația acordată asiguraților, pe
+durata întreruperii temporare a activității angajatorului, este de
+maximum 3 luni. Angajatorii care se regăsesc în astfel de situații
+vor depune lunar, cu respectarea prevederilor legale, declarația
+nominalǎ, în care vor înregistra asigurații care se aflǎ în situația
+întreruperii temporare a activității, completată conform anexei
+nr. 1.4 la prezentele norme.”
+2. Anexa nr. 1.4 la norme se înlocuiește cu anexa care
+face parte integrantă din prezentul ordin.
+Art. II. — Prezentul ordin se publică în Monitorul Oficial al
+României, Partea I.
+
+Ministrul muncii, familiei și protecției sociale,
+Marian Sârbu
+București, 14 aprilie 2009.
+Nr. 343.
+ANEXĂ
+(Anexa nr. 1.4 la norme)
+
+MODALITĂȚI
+
+de transmitere pe cale electronică a declarațiilor privind evidența nominală a asiguraților
+și a obligațiilor de plată către bugetul asigurărilor sociale
+Condiții generale
+Declarațiile privind evidența nominală a asiguraților și a
+obligațiilor de plată către bugetul asigurărilor sociale de stat se
+vor face numai pe suport electronic.
+Declarațiile în format electronic se depun odată cu
+declarațiile nominale pe suport hârtie (anexele nr. 1.1 și 1.2
+listate la calculator, semnate și ștampilate) la casa teritorială de
+pensii pe raza căreia se află sediul sau domiciliul angajatorului.
+Condiții tehnice standard pentru formatul electronic
+Declarațiile în format electronic vor fi transmise numai pe
+suport tip: dischetă FD 3,5” Microsoft DOS sau CD-ROM, în
+dublu exemplar.
+Suporturile vor fi etichetate cu informațiile următoare:
+— denumirea fișierului;
+
+— codul unic de înregistrare sau codul fiscal al angajatorului,
+după caz;
+— numărul suportului magnetic în cadrul setului de suporturi,
+de exemplu: 1/3, 2/3, 3/3, dacă setul are 3 suporturi.
+Suportul magnetic va conține două fișiere de tip DBF sau
+TXT (înregistrări de lungime fixă) pentru fiecare tip de declarație,
+care vor avea în mod obligatoriu următoarele denumiri și
+conținut:
+— A11.DBF sau A11.TXT (anexa nr. 1.1), conține datele
+aferente asiguraților;
+— A12.DBF sau A12.TXT (anexa nr. 1.2), conține datele
+totalizatoare ale fișierului;
+— A11.DBF sau A11.TXT.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 310/12.V.2009
+Ordinea câmpurilor din structura fișierelor este obligatorie,
+indiferent dacă acestea se completează sau nu și sunt de
+lungime fixă.
+În descrierea de mai jos ăTip câmp“ are următoarea
+semnificație:
+
+3
+
+— N — numeric, aliniat la dreapta
+— C — caracter (alfanumeric), aliniat la stânga, fără
+:,:,,,..(semne diacritice).
+În situația transmiterii fișierelor tip DBF se vor respecta
+obligatoriu denumirile câmpurilor date în structurile de fișier.
+
+Descrierea organizării înregistrărilor din fișiere:
+Fișierul A11.DBF sau A11.TXT (anexa nr. 1.1) conține câte o înregistrare pentru fiecare asigurat și are următoarea structură:
+
+Denumire
+câmp
+
+Tip
+câmp
+
+Lungime
+
+Explicații
+
+Anul
+
+AN
+
+N
+
+4 Se completează cu anul pentru care se întocmește
+declarația.
+
+Luna
+
+LN
+
+N
+
+2 Se completează cu luna anului pentru care se întocmește
+declarația.
+
+Cod unic de înregistrare (CUI)/CF pentru CF
+angajatori persoane juridice
+
+N
+
+10 Se completează partea numerică a codului unic de
+înregistrare/codului fiscal atribuit angajatorilor persoane
+juridice.
+
+Cod județ din numărul de înmatriculare în RJ
+registrul comerțului
+
+C
+
+3 Conține primele 3 caractere din numărul de înmatriculare în
+registrul comerțului al angajatorului.
+
+Nr. de înregistrare din registrul comerțului
+
+RN
+
+N
+
+5 Conține caracterele 4—8 din numărul de înmatriculare în
+registrul comerțului al angajatorului (nr. în RC).
+
+Anul din numărul de înmatriculare în registrul RA
+comerțului
+
+N
+
+4 Conține ultimele 4 caractere din numărul de înmatriculare în
+registrul comerțului al angajatorului.
+
+Nume și prenume asigurat
+
+NUME
+
+C
+
+29 Conține numele și prenumele asiguratului.
+
+Cod asigurat
+
+CNP
+
+N
+
+13 Conține codul numeric personal al asiguratului.
+
+Contract individual de muncă
+
+CM
+
+N
+
+1 Se completează cu:
+Începând cu 25 martie 2009:
+5 pentru asigurații ai cǎror angajatori și-au întrerupt temporar
+activitatea potrivit art. 53 alin. (1) din Legea nr. 53/2003 —
+Codul muncii, cu modificǎrile și completǎrile ulterioare,
+denumită în continuare Codul muncii, și care sunt beneficiari
+ai prevederilor art. 2 din Ordonanța de urgență a Guvernului
+nr. 28/2009 privind reglementarea unor măsuri de protecție
+socială.
+Începând cu 17 august 2006:
+4 pentru asigurații care beneficiază de indemnizațiile
+prevăzute la art. 42 din Normele metodologice de aplicare a
+Legii nr. 346/2002 privind asigurarea pentru accidente de
+muncă și boli profesionale, aprobate prin Ordinul ministrului
+muncii, solidarității sociale și familiei și al ministrului sănătății
+publice nr. 450/825/2006, și care sunt preluați în plată de
+CJP ca urmare a faptului că se află în situațiile prevăzute la
+art. 43 alin. (2) si (4) din aceleași norme.
+Începând cu raportarea aferentă lunii august 2007:
+3 în situația persoanelor care realizează venituri la
+angajatorul care efectuează raportarea fară a avea contract
+de muncă sau raport de serviciu cu acesta;
+1 pentru asigurații cu contract de muncă cu normă întreagă.
+Începând cu raportarea aferentă lunii ianuarie 2006:
+2 pentru raportarea efectuată de casele de sănătate pentru
+asigurații beneficiari ai Ordonanței de urgență a Guvernului
+nr. 158/2005 privind concediile și indemnizațiile de asigurări
+sociale de sănătate, aprobată cu modificări și completări prin
+Legea nr. 399/2006, cu modificările ulterioare, denumită în
+continuare OUG nr. 158/2005 — art. 1 alin. (2), art. 23 alin. (2)
+și art. 32 alin. (1) și (2);
+0 în rest.
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 310/12.V.2009
+Denumire
+câmp
+
+Contract individual de muncă cu timp parțial (din CV*)
+martie 2003 s-a introdus contractul de muncă cu
+timp parțial)
+
+Tip
+câmp
+
+N
+
+Lungime
+
+Explicații
+
+1 Se completează cu:
+1 pentru codificări anterioare;
+2 pentru asigurații care lucrează cu
+timp parțial, 2 ore pe zi;
+3 pentru asigurații care lucrează cu
+timp parțial, 3 ore pe zi;
+4 pentru asigurații care lucrează cu
+timp parțial, 4 ore pe zi;
+5 pentru asigurații care lucrează cu
+timp parțial, 5 ore pe zi;
+6 pentru asigurații care lucrează cu
+timp parțial, 6 ore pe zi;
+7 pentru asigurații care lucrează cu
+timp parțial, 7 ore pe zi;
+8 pentru asigurații care lucrează cu
+timp parțial mai puțin de 2 ore pe zi,
+0 în rest.
+
+contract de muncă cu
+contract de muncă cu
+contract de muncă cu
+contract de muncă cu
+contract de muncă cu
+contract de muncă cu
+contract de muncă cu
+
+*) La stabilirea stagiului de cotizare aceste câmpuri se vor corela cu câmpurile TT, NN, DD, SS, PP, PPS, PPD.
+Pensionar
+
+PE
+
+N
+
+1 Se completează cu:
+1 pentru codificări anterioare;
+2 pentru pensionarii care lucrează cu contract de muncă cu
+timp parțial, 2 ore pe zi;
+3 pentru pensionarii care lucrează cu contract de muncă cu
+timp parțial, 3 ore pe zi;
+4 pentru pensionarii care lucrează cu contract de muncă cu
+timp parțial, 4 ore pe zi;
+5 pentru pensionarii care lucrează cu contract de muncă cu
+timp parțial, 5 ore pe zi;
+6 pentru pensionarii care lucrează cu contract de muncă cu
+timp parțial, 6 ore pe zi;
+7 pentru pensionarii care lucrează cu contract de muncă cu
+timp parțial, 7 ore pe zi;
+8 pentru pensionarii cu contract de muncă cu normă
+întreagă;
+9 pentru pensionarii care lucrează cu contract de muncă cu
+timp parțial, mai puțin de 2 ore pe zi;
+0 în rest.
+
+Șomer
+
+SOM
+
+N
+
+1 Se completează numai de ANOFM/AJOFM cu:
+1 pentru beneficiarii de ajutor de șomaj;
+2 pentru beneficiarii de alocație de sprijin;
+3 pentru beneficiarii de plăți compensatorii;
+4 pentru alte beneficii suportate din fondul de șomaj, potrivit
+legii;
+0 în rest.
+
+Total zile
+
+TT**)
+
+N
+
+2 Conține suma zilelor lucrate și a zilelor în care asiguratul a
+beneficiat de indemnizații prevăzute de OUG nr. 158/2005,
+de prestații prevăzute de Legea nr. 346/2002 privind
+asigurarea pentru accidente de muncă și boli profesionale,
+cu modificările și completările ulterioare, denumită în
+continuare Legea nr. 346/2002, și, respectiv, de prestații de
+asigurări sociale conform Legii nr. 19/2000 privind sistemul
+public de pensii și ale drepturi de asigurări sociale, cu
+modificările și completările ulterioare, denumită în continuare
+Legea nr. 19/2000, în cazul declarațiilor rectificative
+anterioare datei de 1 ianuarie 2006, cu respectarea
+termenului general de prescripție (3 ani).
+De asemenea, se includ și zilele nelucrate plătite din fondul
+de salarii și pentru care se achită contribuție de asigurări
+sociale.
+Total zile nu poate fi mai mare decât numărul de zile
+lucrătoare din lună stabilit conform Codului muncii.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 310/12.V.2009
+Denumire
+câmp
+
+Tip
+câmp
+
+Lungime
+
+5
+
+Explicații
+
+Zile lucrate în condiții normale
+
+NN**)
+
+N
+
+2 Conține numărul de zile lucrate de asigurat în condiții
+normale de muncă.
+
+Zile lucrate în condiții deosebite
+
+DD**)
+
+N
+
+2 Conține numărul de zile lucrate de asigurat în condiții
+deosebite de muncă.
+
+Zile lucrate în condiții speciale
+
+SS**)
+
+N
+
+2 Conține numărul de zile lucrate de asigurat în condiții
+speciale de muncă.
+
+Total zile indemnizații în condiții normale
+
+PP
+
+N
+
+2 Conține numărul total de zile în care asiguratul a beneficiat
+de indemnizații prevăzute de OUG nr. 158/2005, de prestații
+prevăzute de Legea nr. 346/2002 și respectiv de prestații de
+asigurări sociale conform Legii nr. 19/2000, în cazul
+declarațiilor rectificative anterioare datei de 1 ianuarie 2006,
+cu respectarea termenului general de prescripție (3 ani).
+(număr total de zile lucrătoare aferente prestației și/sau
+indemnizației acordate)
+
+**) În cazul contractelor individuale de muncă cu timp parțial se completează numărul total de zile lucrate indiferent de numărul de ore prevăzut
+în contractul de muncă cu timp parțial. In perioada 1 martie 2003—30 iunie 2005, stagiul se va calcula corelativ cu câmpul CV, în funcție de
+numărul de ore prevăzut în contractul de muncă cu timp parțial.
+Total venit brut realizat de asigurat
+
+TV
+
+N
+
+10 Conține venitul brut total realizat de asigurat.
+
+Venit brut realizat de asigurat în condiții normale TVN
+
+N
+
+10 Conține venitul brut realizat de asigurat în condiții normale de
+muncă.
+
+Venit brut realizat de asigurat în condiții TVD
+deosebite
+
+N
+
+10 Conține venitul brut realizat de asigurat în condiții deosebite
+de muncă.
+
+Venit brut realizat de asigurat în condiții speciale TVS
+
+N
+
+10 Conține venitul brut realizat de asigurat în condiții speciale
+de muncă.
+
+CAS datorat de asigurat
+
+CASAT
+
+N
+
+9
+
+Începând cu raportarea aferentă lunii august 2007:
+— baza de calcul a CAS datorat de asigurat nu se mai
+plafonează;
+— conform Legii nr. 250/2007 pentru modificarea Legii
+nr. 19/2000 privind sistemul public de pensii și alte drepturi
+de asigurări sociale, cota CAS asigurat se aplică asupra
+sumei rezultate din cumulul venitului brut lunar realizat și
+baza de calcul a contribuției la BASS, aferentă
+indemnizațiilor conform art. 45 din OUG nr. 158/2005,
+proporțional cu numărul de zile de concediu medical pentru
+care se calculează CAS.
+CASAT = ROUND [(TV+BASS) * cota CAS asigurat/100,0)]
+Începând cu raportarea aferentă lunii ianuarie 2006:
+— conține contribuția de asigurări sociale reținută de la
+asigurat;
+— cota CAS asigurat se aplică la venitul total realizat pentru
+perioada lucrată plus baza de calcul a contribuției la
+BASS aferentă indemnizațiilor conform art. 45 din OUG
+nr. 158/2005, proporțional cu nr. de zile de concediu medical
+pentru care se calculează CAS, suma plafonată la maximum
+5 salarii medii brute;
+— dacă TV+BASS ≤ 5 * salariul mediu brut din Legea BASS:
+CASAT = ROUND [(TV+BASS) * cota CAS asigurat/100,0)]
+— dacă TV+BASS > 5 * salariul mediu brut din Legea
+BASS:
+CASAT= ROUND (5 * salariul mediu brut din Legea BASS *
+cota CAS asigurat/100,0).
+Pentru perioada de raportare 2001—2005:
+— conține contribuția de asigurări sociale reținută de la
+asigurat pentru venitul realizat.
+
+Total venit asigurat din indemnizații/prestații
+
+CASTOT
+
+N
+
+9
+
+Începând cu raportarea aferentă lunii ianuarie 2006:
+— conține cuantumul indemnizației pentru incapacitate
+temporară de muncă cauzată de accident de muncă sau
+boală profesională plus baza de calcul a contribuției la BASS
+aferentă indemnizațiilor conform art. 45 din OUG
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 310/12.V.2009
+Denumire
+câmp
+
+Tip
+câmp
+
+Lungime
+
+Explicații
+
+nr. 158/2005 (salariul de bază minim brut pe țară garantat în
+plată, proporțional cu numărul de zile de indemnizație pentru
+care se calculează CAS), conform legilor în vigoare, exclusiv
+ajutorul de deces.
+Pentru perioada de raportare 2001—2005:
+— conține cuantumul aferent prestațiilor de asigurări sociale,
+exclusiv ajutorul de deces, aplicabil doar în cazul declarațiilor
+rectificative anterioare datei de 1 ianuarie 2006.
+Baza de calcul a contribuției la BASS aferentă BASS
+indemnizațiilor conform art. 45 din OUG
+nr. 158/2005, proporțional cu numărul de zile de
+indemnizație pentru care se calculează CAS
+(fost prestații suportate din BASS)
+
+N
+
+9 Începând cu raportarea aferentă lunii ianuarie 2006:
+— conține cuantumul rezultat din salariul de bază minim brut
+pe țară garantat în plată proporțional cu numărul de zile de
+indemnizație, exclusiv ajutorul de deces.
+Pentru perioada de raportare 2001—2005:
+— conține cuantumul aferent prestațiilor de asigurări sociale
+suportat din bugetul asigurărilor sociale de stat, exclusiv
+ajutorul de deces, aplicabil doar în cazul declarațiilor
+rectificative anterioare datei de 1 ianuarie 2006.
+
+Cod unic de înregistrare (CUI) angajator CNPA
+persoane fizice
+
+N
+
+13 Conține codul unic de înregistrare atribuit prin certificatul de
+înregistrare angajatorilor persoane fizice și care reprezintă
+codul numeric personal al angajatorului.
+
+Norma zilnică de lucru
+
+NORMA
+
+N
+
+1 Se completează cu programul normal de lucru specific
+locului de muncă al asiguratului, exprimat în ore. Prin
+program normal de lucru se înțelege programul prevăzut la
+art. 109 alin. (1) din Codul muncii sau programul normal de
+lucru sub 8 ore stabilit cu respectarea prevederilor Legii
+nr. 31/1991 privind stabilirea duratei timpului de muncă sub
+8 ore pe zi pentru salariații care lucrează în condiții deosebite —
+vătămătoare, grele sau periculoase ori alin. (2) din art. 109
+din Codul muncii.
+Norma zilnică poate să fie de 8, 7 sau 6 ore.
+
+Tipul declarației
+
+TIPD
+
+C
+
+1 Se completează cu R pentru declarația rectificativă, spațiu
+în rest.
+Declarația rectificativă se completează astfel:
+a) anexa a11 se completează numai pentru pozițiile
+modificate față de declarația inițială (înregistrările cu
+modificări față de declarația inițială, înregistrări noi
+față de declarația inițială);
+b) anexa a12 se recalculează, ținându-se cont de
+modificările efectuate față de declarația inițială.
+
+Tip rectificare
+
+TIPR
+
+C
+
+1 Se completează cu următoarele caractere:
+M — modificare sume, zile, CNP sau nume asigurat pentru
+asigurații raportați anterior;
+A — adăugare asigurat nou;
+S — ștergere asigurat existent în declarația anterioară.
+
+Nume înainte de rectificare
+
+NUMEANT
+
+C
+
+29 Nume înainte de rectificare se completează numai dacă se
+modifică numele (TIPR=M), spațiu în rest.
+
+CNP înainte de rectificare
+
+CNPANT
+
+N
+
+13 CNP înainte de rectificare se completează numai dacă se
+modifică CNP-ul (TIPR=M), 0 în rest.
+
+Total zile indemnizații în condiții speciale
+
+PPS
+
+N
+
+2 Conține numărul total de zile lucrătoare corespunzătoare
+concediului medical pentru incapacitate temporară de
+muncă, în situația în care asiguratul a lucrat în ziua
+premergătoare concediului medical în condiții speciale de
+muncă.
+(Nu se înregistrează zilele de concediu de maternitate,
+concediu creștere copil, concediu îngrijire copil sau prestații
+pentru prevenirea îmbolnăvirilor și recuperarea capacității de
+muncă, care sunt corespunzătoare în aceste situații
+condițiilor normale de muncă.)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 310/12.V.2009
+Denumire
+câmp
+
+Tip
+câmp
+
+Lungime
+
+7
+
+Explicații
+
+Total zile indemnizații în condiții deosebite
+
+PPD
+
+N
+
+2 Conține numărul total de zile lucrătoare corespunzătoare
+concediului medical pentru incapacitate temporară de
+muncă, în situația în care asiguratul a lucrat în ziua
+premergătoare concediului medical în condiții deosebite de
+muncă.
+(Nu se înregistrează zilele de concediu de maternitate,
+concediu pentru creșterea copilului, concediu pentru îngrijirea
+copilului sau prestații pentru prevenirea îmbolnăvirilor și
+recuperarea capacității de muncă, care sunt corespunzătoare
+în aceste situații condițiilor normale de muncă.)
+
+Zile prestații suportate din BASS
+
+PPBASS
+
+N
+
+2 Nu se mai completează începând cu raportarea aferentă lunii
+ianuarie 2006.
+Pentru perioada de raportare 2001—2005:
+— zile lucrătoare prestații pentru cuantum prestații suportat
+din BASS.
+
+Zile prestații suportate din FAAMBP
+
+PPFAAMBP
+
+N
+
+2 Zile lucrătoare prestații pentru cuantum prestații suportat din
+FAAMBP
+
+Total cuantum prestații de asigurări sociale de FAAMBP
+suportat din Fondul pentru accidente de muncă
+și boli profesionale
+
+N
+
+9 Conține totalul cuantumului prestațiilor de asigurări sociale
+de suportat din Fondul de accidente de muncă și boli
+profesionale.
+Acest câmp este completat numai pentru concediile
+medicale cauzate de accidente de muncă sau boli
+profesionale.
+
+Zile indemnizații pentru calculul CAS
+
+PPCAS
+
+N
+
+2 Conține numărul de zile de indemnizații pentru care se
+calculează CAS, conform OUG nr. 158/2005 — art. 45.
+
+Indicativ condiții speciale
+
+IND_CS
+
+N
+
+1 Conține temeiul legal al încadrării în condiții speciale de
+muncă.
+Se completează cu:
+1 — art. 20 alin. (1) lit. a) din Legea nr. 19/2000;
+2 — art. 20 alin. (1) lit. b) din Legea nr. 19/2000, zona I de
+radiații;
+3 — art. 20 alin. (1) lit. b) din Legea nr. 19/2000, zona II de
+radiații;
+4 — art. 20 alin. (1) lit. c) din Legea nr. 19/2000;
+5 — art. 20 alin. (1) lit. d) din Legea nr. 19/2000;
+6 — Legea nr. 226/2006 privind încadrarea unor locuri de
+muncă în condiții speciale;
+0 în rest.
+
+N
+
+2 Conține numărul de zile de concediu fără plata indemnizației
+pentru creșterea copilului, conform art. 61 alin. (1) și (2) din
+OUG nr. 148/2005. Se acordă integral (3 luni), o singură
+dată, în perioada până la împlinirea de către copil a vârstei
+de 2 ani, respectiv 3 ani în cazul copilului cu handicap.
+Se acordă pentru persoanele care îndeplinesc condițiile
+prevăzute la art. 1 după primele 3 nașteri sau, după caz,
+după primii 3 copii ai persoanelor aflate în una din situațiile
+prevăzute la art. 5 alin. (2)
+Atenție !!!
+Acest câmp nu se completează pentru persoanele aflate în
+concediu pentru creșterea copilului până la împlinirea vârstei
+de 2 ani, respectiv 3 ani în cazul copilului cu handicap (cu
+activitate suspendată) și raportate de direcțiile de muncă și
+protecție socială județene și a municipiului București.
+
+Zile de concediu fără plata indemnizației pentru NRZ_CFP
+creșterea copilului, conform art. 61 alin. (1) și (2)
+din Ordonanța de urgență a Guvernului
+nr. 148/2005 privind susținerea familiei în
+vederea creșterii copilului, aprobată cu modificări
+prin Legea nr. 7/2007, cu modificările ulterioare,
+denumită în continuare OUG nr. 148/2005
+Atenție !!!!
+Se acordă pentru persoanele care îndeplinesc
+condițiile prevăzute la art. 1 după primele
+3 nașteri sau, după caz, după primii 3 copii ai
+persoanelor aflate în una din situațiile prevăzute
+la art. 5 alin. (2).
+
+TT=NN+DD+SS+PP+PPD+PPS+NRZ_CFP, începând cu raportarea lunii ianuarie 2007
+PPBASS + PPFAAMBP ≤ PP+PPD+PPS, unde, începând cu raportarea lunii ianuarie 2006, PPBASS=0
+PPCAS+ PPFAAMBP ≤ PP+PPD+PPS, începând cu raportarea lunii ianuarie 2006
+CASTOT ≥ BASS +FAAMBP
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 310/12.V.2009
+
+Fișierul A12.DBF sau A12.TXT (anexa nr. 1.2) conține o singură înregistrare cu date centralizatoare referitoare la obligațiile de plată ale
+angajatorului și are următoarea structură:
+Denumire
+câmp
+
+Tip
+câmp
+
+Lungime
+
+Explicații
+
+Anul
+
+AN
+
+N
+
+4 Se completează cu anul pentru care se întocmește
+declarația.
+
+Luna
+
+LN
+
+N
+
+2 Se completează cu luna anului pentru care se întocmește
+declarația.
+
+Ziua lichidării drepturilor salariale
+
+DCZZ
+
+N
+
+2 Se completează cu ziua lichidării drepturilor salariale.
+
+Luna lichidării drepturilor salariale
+
+DCLL
+
+N
+
+2 Se completează cu luna lichidării drepturilor salariale.
+
+Anul lichidării drepturilor salariale
+
+DCAA
+
+N
+
+4 Se completează cu anul lichidării drepturilor salariale.
+
+Denumire angajator
+
+DEN
+
+C
+
+29 Conține denumirea angajatorului.
+
+Cod unic de înregistrare CUI/CF pentru CF
+angajatori persoane juridice
+
+N
+
+10 Se completează partea numerică a codului unic de
+înregistrare/cod fiscal atribuit angajatorilor persoane juridice.
+
+Cod județ din numărul de înmatriculare în RJ
+registrul comerțului
+
+C
+
+3 Conține primele 3 caractere din numărul de înmatriculare în
+registrul comerțului al angajatorului.
+
+Numărul de înregistrare din registrul comerțului RN
+
+N
+
+5 Conține caracterele 4—8 din numărul de înmatriculare în
+registrul comerțului al angajatorului (nr. în RC).
+
+Anul din numărul de înmatriculare în registrul RA
+comerțului
+
+N
+
+4 Conține ultimele 4 caractere din numărul de înmatriculare în
+registrul comerțului al angajatorului.
+
+Numărul mediu de asigurați
+
+N
+
+8(2) Numărul mediu de asigurați se calculează cu două zecimale
+prin rotunjire matematică. Lungimea câmpului este 8.2
+(5 cifre partea întreagă, respectiv 2 cifre partea zecimală)
+De exemplu: dacă din calcul rezultă 10,172895, atunci
+numărul mediu de asigurați este 10,17.
+Dacă din calcul rezultă 10,175110, atunci numărul mediu de
+asigurați este 10,18.
+Începând cu 1 iulie 2005, numărul mediu de asigurați
+reprezintă media aritmetică simplă rezultată din suma
+efectivelor zilnice de asigurați din luna respectivă, indiferent
+de tipul contractului individual de muncă cu care sunt
+încadrați, exclusiv zilele de repaus săptămânal și de
+sărbători legale, raportată la numărul total de zile lucrătoare
+din lună, stabilit conform Codului muncii.
+La stabilirea numărului mediu de asigurați se iau în
+considerare numai perioadele pentru care se datorează
+contribuția de asigurări sociale, conform legii.
+NRM= ∑(NN+DD+SS)/Nr. zile lucrătoare din lună
+Această formulă este valabilă și pentru perioada 1 aprilie
+2001—28 februarie 2003.
+Pentru perioada 1 martie 2003—30 iunie 2005 se păstrează
+vechea formulă de calcul.
+
+NRM
+
+Formula de calcul al numărului mediu de asigurați pentru perioada 1 martie 2003—30 iunie 2005
+Notații:
+A=Norma zilnică 1
+B=Norma zilnică 2
+C=Norma zilnică 3
+∑ (Suma) se calculează după numărul de zile lucrate.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 310/12.V.2009
+
+9
+
+Formula pentru calculul numărului mediu de asigurați este:
+NRM =[∑ (număr asigurați cu contract de muncă cu normă întreagă* A * zile lucrate)
++ ∑ (număr asigurați cu contract de muncă cu timp parțial * 2 ore * zile lucrate)+
++ ∑ (număr asigurați cu contract de muncă cu timp parțial * 7 ore * număr zile lucrate)]
+/(Zile lucrătoare din lună * A)] +
+[∑ (număr asigurați cu contract de muncă cu normă întreagă * B * zile lucrate)+ ∑ (număr asigurați cu contract
+de muncă cu timp parțial * 2 ore * zile lucrate)+
++ ∑ (număr asigurați cu contract de muncă cu timp parțial
+* 6 ore * zile lucrate)] /(număr zile lucrătoare din lună * B)+
+[∑ (număr asigurați cu contract de muncă cu normă întreagă * C * zile lucrate)+ ∑ (număr asigurați cu contract
+de muncă cu timp parțial * 2 ore * zile lucrate)+
++ ∑(număr asigurați cu contract de muncă cu timp parțial *
+5 ore * zile lucrate)] /(zile lucrătoare din lună * C)
+Norma zilnică poate să fie de 8, 7 sau 6 ore (câmpul NORMA).
+De exemplu:
+Norma 1 = 8 ore
+Norma 2 = 7 ore
+
+O firmă are 9 angajați în luna martie 2003, din care:
+— cu norma 1
+3 angajați lucrează 21 de zile;
+1 angajat lucrează 10 zile și 11 zile este în concediu medical;
+1 angajat lucrează 21 de zile cu contract de muncă cu timp parțial 3 ore;
+1 angajat lucrează 18 zile cu contract de muncă cu timp parțial 2 ore;
+— cu norma 2
+1 angajat lucrează 21 de zile;
+1 angajat lucrează 15 zile și 6 zile este în concediu medical;
+1 angajat lucrează 21 de zile cu contract de muncă cu timp parțial 4 ore;
+NRM=[(((3*8*21)+(1*8*10)+(1*3*21)+(1*2*18))/(21*8))+(((1*7*21)+(1*7*15)+(1*4*21))/(21*7))] = 6.35
+Rotunjirea aritmetică se efectuează la rezultatul final.
+
+Denumire
+câmp
+
+Total venituri brute realizate lunar
+
+FS
+
+Tip
+câmp
+
+Lungime
+
+Explicații
+
+N
+
+13 Conține totalul veniturilor brute lunare realizate de asigurații
+înscriși în anexa a11 la care se calculează contribuția
+individuală de asigurări sociale, exclusiv baza de calcul a
+contribuției la BASS, aferentă indemnizațiilor conform OUG
+nr. 158/2005.
+
+Total venituri brute realizate lunar în condiții FSN
+normale de muncă
+
+N
+
+13 Conține totalul veniturilor brute lunare realizate în condiții
+normale de muncă de asigurații înscriși în anexa a11 la care
+se calculează contribuția individuală de asigurări sociale,
+exclusiv baza de calcul a contribuției la BASS, aferentă
+indemnizațiilor conform OUG nr. 158/2005.
+
+Total venituri brute realizate lunar în condiții FSD
+deosebite de muncă
+
+N
+
+13 Conține totalul veniturilor brute lunare realizate în condiții
+deosebite de muncă de asigurații înscriși în anexa a11 la
+care se calculează contribuția individuală de asigurări
+sociale, exclusiv baza de calcul a contribuției la BASS,
+aferentă indemnizațiilor conform OUG nr. 158/2005.
+
+Total venituri brute realizate lunar în condiții FSS
+speciale de muncă
+
+N
+
+13 Conține totalul veniturilor brute lunare realizate în condiții
+speciale de muncă de asigurații înscriși în anexa a11 la care
+se calculează contribuția individuală de asigurări sociale,
+exclusiv baza de calcul a contribuției la BASS, aferentă
+indemnizațiilor conform OUG nr. 158/2005.
+
+Total contribuții individuale de asigurări sociale CASS
+de virat
+
+N
+
+13 Conține totalul contribuției individuale de asigurări sociale de
+virat.
+
+Total CAS datorat de angajator conform Legii CASAN
+nr. 19/2000
+
+N
+
+13 Conține totalul contribuției de asigurări sociale datorate de
+angajator conform Legii nr. 19/2000.
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 310/12.V.2009
+Denumire
+câmp
+
+Tip
+câmp
+
+Lungime
+
+Explicații
+
+Total cuantum prestații de asigurări sociale de BASS
+suportat din BASS
+
+N
+
+13 Începând cu raportarea aferentă lunii ianuarie 2006:
+— conține numai cuantumul ajutorului de deces.
+Pentru perioada de raportare 2001—2005:
+— conține totalul cuantumului prestațiilor de asigurări sociale
+de suportat din bugetul asigurărilor sociale de stat, inclusiv
+ajutorul de deces.
+
+CASS conform art. 54 alin. (2) din Ordonanța de CASS145
+urgență a Guvernului nr. 150/2002 (exclusiv
+accidente de muncă și boli profesionale)
+
+N
+
+13 Începând cu raportarea aferentă lunii ianuarie 2006:
+— nu se mai completează.
+Pentru perioada de raportare 2001—2005:
+— conține contribuția de asigurări de sănătate aferentă
+concediilor medicale, exclusiv concediile medicale aferente
+accidentelor de muncă și bolilor profesionale, conform
+art. 54 alin. (2) din Ordonanța de urgență nr. 150/20021)
+privind organizarea și funcționarea sistemului de asigurări
+sociale de sănătate, cu modificările și completările ulterioare,
+denumită în continuare OUG nr. 150/2002
+1)
+
+Ordonanța de urgență nr. 150/2002 a fost abrogată prin
+Legea nr. 95/2006 privind reforma în domeniul sănătății, cu
+modificările și completările ulterioare.
+
+Total CAS angajator de virat
+
+CASVIR
+
+N
+
+Număr total de file de la anexa nr. 1.1
+
+NRF
+
+N
+
+Banca****)
+
+B1
+
+C
+
+16
+
+Filiala****)
+
+F1
+
+C
+
+16
+
+Cont****)
+
+C1
+
+C
+
+35
+
+Banca****)
+
+B2
+
+C
+
+16
+
+Filiala****)
+
+F2
+
+C
+
+16
+
+Cont****)
+
+C2
+
+C
+
+35
+
+Banca****)
+
+B3
+
+C
+
+16
+
+Filiala****)
+
+F3
+
+C
+
+16
+
+Cont****)
+
+C3
+
+C
+
+35
+
+Banca****)
+
+B4
+
+C
+
+16
+
+Filiala****)
+
+F4
+
+C
+
+16
+
+Cont****)
+
+C4
+
+C
+
+35
+
+N
+
+13 Conține codul unic de înregistrare atribuit prin certificatul de
+înregistrare angajatorilor persoane fizice și care reprezintă
+codul numeric personal al angajatorului.
+
+Cod unic de înregistrare (CUI) pentru angajatori CNPA
+persoane fizice
+
+13 Conține total CAS angajator de virat.
+Formula de calcul începând cu raportarea aferentă lunii
+noiembrie 2006:
+CASVIR=(CASAN+CASAN_CM )–BASS
+Formula de calcul începând cu raportarea aferentă lunii
+ianuarie 2006:
+CASVIR=CASAN–BASS
+Formula de calcul pentru perioada aferentă anilor 2001—
+2003:
+CASVIR=CASS+CASAN–BASS–CASS145
+Formula de calcul pentru perioada aferentă anului 2004:
+CASVIR=CASAN–CASS145–BASS
+Formula de calcul pentru perioada aferentă anului 2005:
+CASVIR=CASAN–CASS145–BASS
+3 Conține numărul de file de la anexa nr. 1.1.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 310/12.V.2009
+Denumire
+câmp
+
+Tip
+câmp
+
+Lungime
+
+11
+
+Explicații
+
+Contribuție asigurări pentru accidente de muncă CAAMBP
+și boli profesionale (Legea nr. 346/2002)
+
+N
+
+13 Conține contribuție asigurări pentru accidente de muncă și
+boli profesionale (Legea nr. 346/2002).
+Începând cu anul 2008 (art. 101 din Ordonanța de urgență a
+Guvernului nr. 91/2007 pentru modificarea și completarea
+unor acte normative din domeniul protecției sociale, aprobată
+cu modificări prin Legea nr. 200/2008):
+CAAMBP=ROUND((FS+TBASS) * PCAMBP/100,0)
+Pentru anii 2003, 2004:
+CAAMBP=ROUND(FS*0.5/100,0)
+Începând cu anul 2005:
+CAAMBP=ROUND(FS*PCAMBP/100,0)
+
+Localitatea (oraș, comună)
+
+A_LOCA
+
+C
+
+21 Adresa sediului angajatorului — localitatea (oraș sau
+comună)
+— se completează obligatoriu.
+
+Strada (strada, satul)
+
+A_STR
+
+C
+
+21 Adresa sediului angajatorului (strada sau satul)
+— dacă se completează orașul, se completează obligatoriu
+și strada.
+
+Număr
+
+A_NR
+
+C
+
+7 Adresa sediului angajatorului — număr
+
+Bloc
+
+A_BL
+
+C
+
+5 Adresa sediului angajatorului — bloc
+
+Scara
+
+A_SC
+
+C
+
+4 Adresa sediului angajatorului — scara
+
+Etaj
+
+A_ET
+
+C
+
+2 Adresa sediului angajatorului — etaj
+
+Apartament
+
+A_AP
+
+C
+
+4 Adresa sediului angajatorului — apartament
+
+Telefon
+
+TELEFON
+
+N
+
+Județ
+
+A_JUD
+
+C
+
+3 Adresa sediului angajatorului — cod județ
+— se completează obligatoriu*****).
+
+Sector
+
+A_SECT
+
+N
+
+2 Adresa sediului angajatorului — sector (numai pentru
+București)
+
+E-mail
+
+E_MAIL
+
+C
+
+Tipul declarației
+
+TIPD
+
+C
+
+1 Se completează cu R pentru declarația rectificativă, spațiu
+în rest.
+Declarația rectificativă pentru anexa a12 se completează
+astfel:
+— se recalculează a12, ținându-se cont de modificările
+efectuate în anexa a11 față de declarația inițială.
+
+Număr cazuri indemnizație pentru incapacitate NRCAZB
+temporară de muncă
+
+N
+
+5 Începând cu raportarea aferentă lunii ianuarie 2006:
+— nu se mai completează.
+Pentru perioada de raportare 2001—2005:
+— număr total cazuri indemnizație pentru incapacitate
+temporară de muncă la nivel de unitate, exclusiv pentru
+accidente de muncă și boli profesionale.
+
+Număr cazuri accidente de muncă și boli NRCAZA
+profesionale****)
+
+N
+
+5 Număr total cazuri accidente de muncă și boli profesionale la
+nivel de unitate (Câmpul nu se mai folosește din anul 2005.)
+
+Număr cazuri prevenire îmbolnăviri
+
+N
+
+5 Începând cu raportarea aferentă lunii ianuarie 2006:
+— nu se mai completează.
+Pentru perioada de raportare 2001—2005:
+— număr total cazuri prevenire îmbolnăviri la nivel de unitate =
+sumă de cazuri de:
+— trecere temporară în altă muncă;
+— reducerea timpului de muncă;
+— carantină.
+
+NRCAZP
+
+10 Telefon de legatură angajator
+
+45 Adresa de e-mail a angajatorului
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 310/12.V.2009
+Denumire
+câmp
+
+Tip
+câmp
+
+Lungime
+
+Explicații
+
+Număr cazuri sarcină și lăuzie
+
+NRCAZL
+
+N
+
+5 Începând cu raportarea aferentă lunii ianuarie 2006:
+— nu se mai completează.
+Pentru perioada de raportare 2001—2005:
+— număr total cazuri sarcină și lăuzie la nivel de unitate.
+
+Număr cazuri îngrijire copil bolnav
+
+NRCAZI
+
+N
+
+5 Începând cu raportarea aferentă lunii ianuarie 2006:
+— nu se mai completează.
+Pentru perioada de raportare 2001—2005:
+— număr total cazuri îngrijire copil bolnav la nivel de unitate.
+
+Număr cazuri creștere copil până la 2 ani/3 ani
+
+NRCAZC
+
+N
+
+5 Începând cu raportarea aferentă lunii ianuarie 2006:
+— nu se mai completează.
+Pentru perioada de raportare 2001—2005:
+— număr total cazuri creștere copil până la 2 ani/3 ani la
+nivel de unitate.
+
+Număr cazuri ajutoare de deces
+
+NRCAZD
+
+N
+
+5 Număr total cazuri ajutoare de deces la nivel de unitate
+
+Număr cazuri indemnizație de risc maternal
+
+NRCAZR
+
+N
+
+5 Începând cu raportarea aferentă lunii ianuarie 2006:
+— nu se mai completează.
+Pentru perioada de raportare 2001—2005:
+— număr total cazuri cu indemnizație de risc maternal la
+nivel de unitate.
+
+Număr total zile prestații indemnizație pentru NRPPB
+incapacitate temporară de muncă
+
+N
+
+6 Începând cu raportarea aferentă lunii ianuarie 2006:
+— nu se mai completează.
+Pentru perioada de raportare 2001—2005:
+— număr total zile lucrătoare indemnizație pentru
+incapacitate temporară de muncă la nivel de unitate din
+certificatele medicale.
+
+Număr total zile prestații accidente de muncă și NRPPA
+boli profesionale ****)
+
+N
+
+6 Număr total zile lucrătoare prestații accidente de muncă și
+boli profesionale la nivel de unitate din certificatele medicale
+(Câmpul nu se mai folosește din anul 2005.)
+
+Număr total zile prestații prevenire îmbolnăviri
+
+NRPPP
+
+N
+
+6 Începând cu raportarea aferentă lunii ianuarie 2006:
+— nu se mai completează.
+Pentru perioada de raportare 2001—2005:
+— număr total zile lucrătoare prestații prevenire îmbolnăviri
+la nivel de unitate din certificatele medicale.
+
+Număr total zile prestații sarcină și lăuzie
+
+NRPPL
+
+N
+
+6 Începând cu raportarea aferentă lunii ianuarie 2006:
+— nu se mai completează.
+Pentru perioada de raportare 2001—2005:
+— număr total zile lucrătoare prestații sarcină și lăuzie la
+nivel de unitate din certificatele medicale.
+
+Număr total zile prestații îngrijire copil bolnav
+
+NRPPI
+
+N
+
+6 Începând cu raportarea aferentă lunii ianuarie 2006:
+— nu se mai completează.
+Pentru perioada de raportare 2001—2005:
+— număr total zile lucrătoare prestații îngrijire copil bolnav
+la nivel de unitate din certificatele medicale.
+
+Număr total zile prestații creștere copil până la NRPPC
+2 ani/3 ani
+
+N
+
+6 Începând cu raportarea aferentă lunii ianuarie 2006:
+— nu se mai completează.
+Pentru perioada de raportare 2001—2005:
+— număr total zile lucrătoare prestații creștere copil până la
+2—3 ani la nivel de unitate.
+
+Număr total zile prestații indemnizație de risc NRPPR
+maternal
+
+N
+
+6 Începând cu raportarea aferentă lunii ianuarie 2006:
+— nu se mai completează.
+Pentru perioada de raportare 2001—2005:
+— număr total zile lucrătoare prestații indemnizație de risc
+maternal la nivel de unitate din certificatele medicale.
+
+Suma prestații pentru indemnizație pentru SUMAB
+incapacitate temporară de muncă, suportate din
+BASS
+
+N
+
+12 Începând cu raportarea aferentă lunii ianuarie 2006:
+— nu se mai completează.
+Pentru perioada de raportare 2001—2005:
+— suma prestații indemnizație pentru incapacitate temporară
+de muncă la nivel de unitate, suportate din BASS.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 310/12.V.2009
+Denumire
+câmp
+
+Tip
+câmp
+
+Lungime
+
+13
+
+Explicații
+
+Suma prestații pentru accidente de muncă și boli SUMAA
+profesionale, suportate din BASS ****)
+
+N
+
+12 Suma prestații pentru accidente de muncă și boli
+profesionale la nivel de unitate, suportate din BASS (Câmpul
+nu se mai folosește din anul 2005.)
+
+Suma prestații pentru prevenire îmbolnăviri, SUMAP
+suportate din BASS
+
+N
+
+12 Începând cu raportarea aferentă lunii ianuarie 2006:
+— nu se mai completează.
+Pentru perioada de raportare 2001—2005:
+— suma prestații pentru prevenire îmbolnăviri la nivel de
+unitate, suportate din BASS.
+
+Suma prestații pentru sarcină și lăuzie, suportate SUMAL
+din BASS
+
+N
+
+12 Începând cu raportarea aferentă lunii ianuarie 2006:
+— nu se mai completează.
+Pentru perioada de raportare 2001—2005:
+— suma prestații pentru sarcină și lăuzie la nivel de unitate,
+suportate din BASS.
+
+Suma prestații pentru îngrijire copil bolnav, SUMAI
+suportate din BASS
+
+N
+
+12 Începând cu raportarea aferentă lunii ianuarie 2006:
+— nu se mai completează.
+Pentru perioada de raportare 2001—2005:
+— suma prestații pentru îngrijire copil bolnav la nivel de
+unitate, suportate din BASS.
+
+Suma prestații pentru creștere copil până la SUMAC
+2 ani/3 ani, suportate din BASS
+
+N
+
+12 Începând cu raportarea aferentă lunii ianuarie 2006:
+— nu se mai completează.
+Pentru perioada de raportare 2001—2005:
+—suma prestații pentru creștere copil până la 2—3 ani la
+nivel de unitate, suportate din BASS.
+
+Suma ajutoare de deces suportată din BASS
+
+SUMAD
+
+N
+
+12 Suma totală ajutoare de deces la nivel de unitate, suportate
+din BASS.
+
+Suma prestații pentru indemnizație de risc SUMAR
+maternal, suportată din BASS
+
+N
+
+12 Începând cu raportarea aferentă lunii ianuarie 2006:
+— nu se mai completează.
+Pentru perioada de raportare 2001—2005:
+— suma prestații pentru indemnizație de risc maternal la
+nivel de unitate, suportate din BASS.
+
+Cod CAEN
+
+C
+
+4 Se completează cu codul CAEN al angajatorului conform
+Nomenclatorului privind clasificarea activităților economice
+la nivel național.
+
+Total zile prestații pentru prestațiile de la TPP
+pct. L1,L2,L3,L4,L5,L7 folosit la calculul
+contribuției de sănătate
+
+N
+
+6 Începând cu raportarea aferentă lunii ianuarie 2006:
+— nu se mai completează.
+Pentru perioada de raportare 2001—2005:
+— conține număr total zile prestații (atât plătite de angajator,
+cât și suportate din BASS).
+
+Procent contribuție de asigurări pentru accidente PCAMBP
+de muncă și boli profesionale
+
+N
+
+5(3) Procent contribuție de asigurări pentru accidente de muncă
+și boli profesionale, în funcție de încadrarea în clasele de risc
+(cod CAEN).
+
+Total zile prestații pentru prestațiile de la pct. TPPA
+O1,O2,O3,O4 folosit la calculul contribuției de
+sănătate
+
+N
+
+6 Începând cu raportarea aferentă lunii iunie 2006:
+— nu se mai completează.
+Pentru perioada de raportare anterioară:
+— conține număr total zile prestații pentru accidente de
+muncă și boli profesionale (atât plătite de angajator, cât și
+suportate din FAAMBP).
+
+CASS aferentă concediilor medicale cauzate de CASS145A
+accidente de muncă care se suportă din fondul
+de asigurare pentru accidente de muncă și boli
+profesionale, conform Legii nr. 95/2006, cu
+modificările și completările ulterioare, art. 260
+alin. (3) coroborate cu art. 260 alin. (1 ) lit. b)
+
+N
+
+13 Începând cu raportarea aferentă lunii august 2008, formula
+de calcul care a fost stabilită în conformitate cu prevederile
+art. 260 alin. (3) coroborate cu cele ale art. 260 alin. (1) lit. b)
+din Legea nr. 95/2006, cu modificările și completările
+ulterioare, devine:
+CASS145A=ROUND(SUMAIT * 5.5/100,0)
+Începând cu raportarea aferentă lunii iulie 2008, formula de
+calcul devine:
+CASS145A=ROUND( TSUMAIT * 5.5/100,0)
+Începând cu raportarea aferentă lunii iunie 2006, formula de
+calcul devine:
+CASS145A=ROUND( TSUMAIT * 6.5/100,0)
+
+CODCAEN
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 310/12.V.2009
+Denumire
+câmp
+
+Tip
+câmp
+
+Lungime
+
+Explicații
+
+CASS se calculează numai pentru indemnizațiile pentru
+incapacitate temporară de muncă cauzată de accidente de
+muncă sau boli profesionale.
+Pentru perioada ianuarie — mai 2006:
+— conține contribuția de asigurări de sănătate aferentă
+concediilor medicale cauzate de accidente de muncă și boli
+profesionale conform art. 54 alin. (2) din OUG nr. 150/2002.
+CASS145A=ROUND(salariul minim brut pe țară *2 * 6.5 %/
+Număr zile lucrătoare din luna de raportare)* Număr total zile
+de indemnizație, 0)
+Total cuantum prestații de asigurări sociale de PFAAMBP
+suportat din Fondul de accidente de muncă și
+boli profesionale
+
+N
+
+13 Conține total cuantum prestații de asigurări sociale de
+suportat din Fondul de accidente de muncă și boli
+profesionale.
+
+Număr cazuri indemnizație pentru incapacitate NRCAZIT
+temporară de muncă, cauzată de accidente de
+muncă și boli profesionale
+
+N
+
+5 Număr total cazuri indemnizație pentru incapacitate
+temporară de muncă, cauzate de accidente de muncă și boli
+profesionale la nivel de unitate
+
+Număr cazuri indemnizație pentru trecerea NRCAZTT
+temporară în alt loc de muncă, cauzată de
+accidente de muncă și boli profesionale
+
+N
+
+5 Număr total cazuri indemnizație pentru trecerea temporară în
+alt loc de muncă, cauzată de accidente de muncă și boli
+profesionale la nivel de unitate
+
+Număr cazuri indemnizație pentru reducerea NRCAZRT
+timpului de lucru, cauzată de accidente de
+muncă și boli profesionale
+
+N
+
+5 Număr total cazuri indemnizație pentru reducerea timpului
+de lucru, cauzată de accidente de muncă și boli profesionale
+la nivel de unitate
+
+Număr cazuri indemnizație pe durata cursurilor NRCAZCC
+de calificare și reconversie profesională, cauzate
+de accidente de muncă și boli profesionale
+
+N
+
+5 Număr total cazuri indemnizație pe durata cursurilor de
+calificare și reconversie profesională, cauzată de accidente
+de muncă și boli profesionale la nivel de unitate
+
+Număr total zile prestații indemnizație pentru NRPPIT
+incapacitate temporară de muncă, cauzată de
+accidente de muncă și boli profesionale
+
+N
+
+6 Număr total zile lucrătoare prestații pentru incapacitate
+temporară de muncă, cauzată de accidente de muncă și boli
+profesionale la nivel de unitate din certificatele medicale
+
+Număr total zile prestații pentru trecerea NRPPTT
+temporară în alt loc de muncă, cauzată de
+accidente de muncă și boli profesionale
+
+N
+
+6 Număr total zile lucrătoare prestații pentru trecerea
+temporară în alt loc de muncă, cauzată de accidente de
+muncă și boli profesionale la nivel de unitate din certificatele
+medicale
+
+Număr total zile prestații pentru reducerea NRPPRT
+timpului de lucru, cauzată de accidente de
+muncă și boli profesionale
+
+N
+
+6 Număr total zile lucrătoare prestații pentru reducerea timpului
+de lucru, cauzată de accidente de muncă și boli profesionale
+la nivel de unitate din certificatele medicale
+
+Număr total zile prestații pe durata cursurilor de NRPPCC
+calificare și reconversie profesională, cauzate de
+accidente de muncă și boli profesionale
+
+N
+
+6 Număr total zile lucrătoare prestații pe durata cursurilor de
+calificare și reconversie profesională, cauzate de accidente
+de muncă și boli profesionale la nivel de unitate din
+certificatele medicale
+
+Suma prestații pentru incapacitate temporară de SUMAIT
+muncă cauzată de accidente de muncă și boli
+profesionale, suportate din FAAMBP
+
+N
+
+12 Suma prestații pentru incapacitate temporară de muncă
+cauzată de accidente de muncă și boli profesionale la nivel
+de unitate, suportate din FAAMBP
+
+Suma prestații pentru trecerea temporară în alt SUMATT
+loc de muncă, cauzate de accidente de muncă și
+boli profesionale, suportate din FAAMBP
+
+N
+
+12 Suma prestații pentru trecerea temporară în alt loc de
+muncă, cauzată de accidente de muncă și boli profesionale
+la nivel de unitate, suportate din FAMMBP
+
+Suma prestații pentru reducerea timpului de SUMART
+lucru cauzate de accidente de muncă și boli
+profesionale, suportate din FAAMBP
+
+N
+
+12 Suma prestații pentru reducerea timpului de lucru, cauzată
+de accidente de muncă și boli profesionale la nivel de
+unitate, suportate din FAMMBP
+
+Suma prestații pe durata cursurilor de calificare SUMACC
+și reconversie profesională, cauzate de
+accidente de muncă și boli profesionale,
+suportate din FAAMBP
+
+N
+
+12 Suma prestații pe durata cursurilor de calificare și
+reconversie profesională, cauzată de accidente de muncă și
+boli profesionale la nivel de unitate, suportate din FAAMBP
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 310/12.V.2009
+Denumire
+câmp
+
+Tip
+câmp
+
+Lungime
+
+15
+
+Explicații
+
+Contribuție de asigurări pentru accidente de FAMBPV
+muncă și boli profesionale de virat
+
+N
+
+13 Conține contribuția de asigurări pentru accidente de muncă
+și boli profesionale de virat
+Începând cu raportarea aferentă lunii noiembrie 2006:
+FAMBPV = CAAMBP – PFAAMBP–CASS145A–
+CONTR_CM
+Pentru perioada anterioară:
+FAMBPV = CAAMBP – PFAAMBP – CASS145A
+
+Datorează contribuție pentru accidente de DATORAT
+muncă și boli profesionale
+
+N
+
+1 Se completează astfel:
+1 — datorează contribuție de accidente de muncă și boli
+profesionale;
+0 — nu datorează contribuție de accidente de muncă și boli
+profesionale (pentru angajatorii la care nu se aplică
+prevederile Legii nr. 346/2002).
+
+Cuantum total prestații pentru incapacitate TSUMAIT
+temporară de muncă cauzată de accidente de
+muncă și boli profesionale
+
+N
+
+12 Cuantum total prestații pentru incapacitate temporară de
+muncă, cauzată de accidente de muncă și boli profesionale
+la nivel de unitate
+
+Cuantum total prestații pentru trecerea TSUMATT
+temporară în alt loc de muncă, cauzată de
+accidente de muncă și boli profesionale
+
+N
+
+12 Cuantum total prestații pentru trecerea temporară în alt loc
+de muncă, cauzată de accidente de muncă și boli
+profesionale la nivel de unitate
+
+Cuantum total prestații pentru reducerea timpului TSUMART
+de lucru, cauzată de accidente de muncă și boli
+profesionale
+
+N
+
+12 Cuantum total prestații pentru reducerea timpului de lucru,
+cauzată de accidente de muncă și boli profesionale la nivel
+de unitate
+
+Cuantum total prestații pe durata cursurilor de TSUMACC
+calificare și reconversie profesională, cauzate de
+accidente de muncă și boli profesionale
+
+N
+
+12 Cuantum total prestații pe durata cursurilor de calificare și
+reconversie profesională, cauzate de accidente de muncă și
+boli profesionale la nivel de unitate
+
+Total bază de calcul a contribuției la BASS, TBASS
+aferentă indemnizatiilor conform OUG
+nr. 158/2005
+
+N
+
+13 Începând cu raportarea aferentă lunii noiembrie 2006:
+— conține total bază de calcul a contribuției la BASS,
+aferentă indemnizațiilor conform OUG nr. 158/2005, exclusiv
+ajutorul de deces.
+
+Total bază de calcul a contribuției la BASS, TBASS_N
+aferentă indemnizațiilor conform OUG
+nr. 158/2005, în condiții normale de muncă
+
+N
+
+13 Începând cu raportarea aferentă lunii noiembrie 2006:
+— conține total bază de calcul a contribuției la BASS, aferentă
+indemnizațiilor conform OUG nr. 158/2005, în situația în care
+asiguratul a lucrat în ziua premergătoare concediului medical
+în condiții normale de muncă, exclusiv ajutorul de deces.
+
+Total bază de calcul a contribuției la BASS, TBASS_D
+aferentă indemnizațiilor conform OUG
+nr. 158/2005, în condiții deosebite de muncă
+
+N
+
+13 Începând cu raportarea aferentă lunii noiembrie 2006:
+— conține total bază de calcul a contribuției la BASS,
+aferentă indemnizațiilor conform OUG nr. 158/2005, în
+situația în care asiguratul a lucrat în ziua premergătoare
+concediului medical în condiții deosebite de muncă, exclusiv
+ajutorul de deces.
+
+Total bază de calcul a contribuției la BASS, TBASS_S
+aferentă indemnizațiilor conform OUG
+nr. 158/2005, în condiții speciale de muncă
+
+N
+
+13 Începând cu raportarea aferentă lunii noiembrie 2006:
+— conține total bază de calcul a contribuției la BASS, aferentă
+indemnizațiilor conform OUG nr. 158/2005, în situația în care
+asiguratul a lucrat în ziua premergătoare concediului medical
+în condiții speciale de muncă, exclusiv ajutorul de deces.
+
+Total CAS datorat de angajator conform OUG CASAN_CM
+nr. 158/2005
+
+N
+
+13 Conține total contribuție de asigurări sociale datorată de
+angajator conform OUG nr. 158/2005.
+Începând cu raportarea aferentă lunii noiembrie 2006:
+CASAN_CM = ROUND (((TBASS_N * cota CAS angajator
+pentru condiții normale/100) + (TBASS_D * cota CAS
+angajator pentru condiții deosebite/100) + (TBASS_S * cota
+CAS angajator pentru condiții speciale/100)),0)
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 310/12.V.2009
+Denumire
+câmp
+
+Contribuția pentru concedii și indemnizații CONTR_CM
+conform art. 6 alin. (7) din OUG nr. 158/2005,
+suportată din FAAMBP
+
+Tip
+câmp
+
+N
+
+Lungime
+
+Explicații
+
+13 Conține contribuția pentru concedii și indemnizații conform
+art. 6 alin. (7) din OUG nr. 158/2005, suportată din FAAMBP.
+Începând cu raportarea aferentă lunii noiembrie 2006:
+CONTR_CM=ROUND (SUMAIT* cota de contribuție pentru
+concedii și indemnizații/100,0)
+
+TPPA din a12 = NRPPIT + NRPPTT + NRPPRT + NRPPCC, începând cu raportarea aferentă lunii iunie 2006 TPPA=0
+Total PP+PPS+PPD din a11 >= NRPPIT + NRPPTT + NRPPRT + NRPPCC
+Total PPFAAMBP din a11 <= NRPPIT + NRPPTT + NRPPRT + NRPPCC
+Total (CASTOT — BASS) din a11 = T SUMAIT + TSUMATT + TSUMARTT +TSUMACC
+Total BASS din a11 = TBASS, începând cu raportarea aferentă lunii noiembrie 2006
+T BASS = TBASS_N + TBASS_D+ TBASS_S, începând cu raportarea aferentă lunii noiembrie 2006
+Total FAAMBP din a11 = SUMAIT+SUMATT+SUMART+SUMACC
+PFAAMBP din a12 = SUMAIT+SUMATT+SUMART+SUMACC
+Total FAAMBP din a11 = PFAAMBP din a12
+****) Nu se completează (aceste câmpuri există pentru compatibilitate cu versiunea anterioară a programului).
+
+*****) Codurile de județe
+Codul județului
+
+011
+021
+031
+041
+051
+061
+071
+081
+091
+101
+111
+121
+131
+141
+151
+161
+171
+181
+191
+201
+211
+
+Denumirea județului
+
+Alba
+Arad
+Argeș
+Bacău
+Bihor
+Bistrița
+Botoșani
+Brașov
+Brăila
+Buzău
+Caraș-Severin
+Cluj
+Constanța
+Covasna
+Dâmbovița
+Dolj
+Galați
+Gorj
+Harghita
+Hunedoara
+Ialomița
+
+Codul județului
+
+221
+231
+241
+251
+261
+271
+281
+291
+301
+311
+321
+331
+341
+351
+361
+371
+381
+391
+401
+411
+471
+
+Denumirea județului
+
+Iași
+Giurgiu
+Maramureș
+Mehedinți
+Mureș
+Neamț
+Olt
+Prahova
+Satu Mare
+Sălaj
+Sibiu
+Suceava
+Teleorman
+Timiș
+Tulcea
+Vaslui
+Vâlcea
+Vrancea
+Călarași
+București
+Ilfov
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+ăMonitorul Oficial” R.A., Str. Parcului nr. 65, sectorul 1, București; C.I.F. RO427282,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala ăUnirea” București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 021.318.51.29/150, fax 021.318.51.15, e-mail: marketing@ramo.ro, internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 021.411.58.33 și 021.410.47.30, fax 021.410.77.36 și 021.410.47.23
+Tiparul: ăMonitorul Oficial” R.A.
+Monitorul Oficial al României, Partea I, nr. 310/12.V.2009 conține 16 pagini.
+
+Prețul: 3,20 lei
+
+&JUYDGY|430327]
+ISSN 1453—4495
+
+

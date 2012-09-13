@@ -1,0 +1,1908 @@
+PARTEA
+
+Anul 174 (XVIII) — Nr. 352
+
+I
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+Miercuri, 19 aprilie 2006
+
+SUMAR
+
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+
+144/EN. — Decizie a președintelui Autorității Naționale de
+Reglementare în Comunicații privind implementarea
+portabilității numerelor ...............................................
+411/158. — Ordin al ministrului sănătății și al
+președintelui Casei Naționale de Asigurări de
+Sănătate privind aprobarea Criteriilor de selecție a
+furnizorilor de servicii medicale paraclinice —
+laboratoare de analize medicale, precum și a
+Metodologiei de evaluare a furnizorilor de
+investigații medicale paraclinice — analize
+medicale de laborator ...............................................
+
+1–5
+
+5–9
+
+Nr.
+
+Pagina
+
+412/159. — Ordin al ministrului sănătății și al
+președintelui Casei Naționale de Asigurări de
+Sănătate privind aprobarea Criteriilor de selecție a
+furnizorilor de investigații medicale paraclinice —
+radiologie și imagistică medicală, precum și a
+Metodologiei de evaluare a furnizorilor de
+investigații medicale paraclinice — radiologie și
+imagistică medicală ...................................................
+
+9–13
+
+3.568. — Ordin al ministrului educației și cercetării pentru
+aprobarea Regulamentului privind atribuțiile,
+competența și funcționarea Consiliului Centrului
+Național pentru Burse de Studii în Străinătate ......
+
+13–16
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+AUTORITATEA NAȚIONALĂ DE REGLEMENTARE ÎN COMUNICAȚII
+
+DECIZIE
+privind implementarea portabilității numerelor
+În temeiul prevederilor art. 38 alin. (1), (3) și (5) și ale art. 46 alin. (1) pct. 7 din Ordonanța de urgență a
+Guvernului nr. 79/2002 privind cadrul general de reglementare a comunicațiilor, aprobată cu modificări și completări prin
+Legea nr. 591/2002, cu modificările și completările ulterioare, și ale art. 28 din Legea nr. 304/2003 pentru serviciul
+universal și drepturile utilizatorilor cu privire la rețelele și serviciile de comunicații electronice,
+președintele Autorității Naționale de Reglementare în Comunicații emite prezenta decizie.
+CAPITOLUL I
+Dispoziții generale
+Art. 1. — (1) Prezenta decizie are ca obiect stabilirea
+cadrului general de implementare a portabilității numerelor
+în România.
+(2) Prin prezenta decizie sunt reglementate:
+a) procedurile de administrare a procesului de portare;
+
+b) drepturile și obligațiile furnizorilor de rețele publice de
+comunicații electronice și de servicii de comunicații
+electronice destinate publicului, în ceea ce privește
+portabilitatea numerelor;
+c) modalitățile tehnice de implementare a portabilității
+numerelor;
+d) condițiile economice de implementare a portabilității
+numerelor;
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 352/19.IV.2006
+
+e) înființarea unui grup de lucru care va stabili condițiile
+concrete tehnice și comerciale de implementare a
+portabilității numerelor și va monitoriza implementarea
+acesteia.
+Art. 2. — (1) În înțelesul prezentei decizii, următorii
+termeni se definesc astfel:
+a) portabilitatea numerelor — posibilitatea unui abonat
+de a-și păstra numărul de telefon, la cerere, atunci când
+schimbă furnizorul de servicii de telefonie destinate
+publicului;
+b) portabilitatea numerelor geografice — posibilitatea unui
+abonat de a-și păstra, la un anumit punct geografic,
+numărul geografic asignat, atunci când schimbă furnizorul
+de servicii de telefonie fixă destinate publicului;
+c) portabilitatea numerelor nongeografice — posibilitatea
+abonatului de a-și păstra, la orice punct geografic, numărul
+nongeografic asignat, atunci când schimbă furnizorul de
+servicii de telefonie destinate publicului;
+d) furnizor donor inițial — furnizorul de servicii de
+telefonie destinate publicului, care are dreptul de a utiliza,
+prin licența de utilizare a resurselor de numerotație, blocul
+de numere care conține numărul ce se solicită a fi portat;
+e) furnizor donor — furnizorul donor inițial sau, în cazul
+portării succesive a aceluiași număr, furnizorul de servicii
+de telefonie destinate publicului, la care a fost portat în
+prealabil numărul pentru care se solicită portarea;
+f) furnizor acceptor — furnizorul de servicii de telefonie
+destinate publicului, la care se portează un număr dintr-un
+bloc de numere pe care alt furnizor de servicii de telefonie
+destinate publicului are dreptul, prin licența de utilizare a
+resurselor de numerotație, de a-l utiliza;
+g) furnizor care originează apelul — furnizorul de servicii
+de comunicații electronice la care este conectat utilizatorul
+apelant; în cazul utilizării serviciilor de selectare sau
+preselectare a transportatorului, furnizorul care originează
+apelul este considerat transportatorul selectat sau
+preselectat, iar, în cazul terminării apelurilor internaționale,
+furnizorul care originează apelul este considerat furnizorul
+care operează comutatorul sau elementul echivalent
+(gateway) utilizat pentru traficul internațional, aparținând
+primei rețele publice de comunicații electronice de pe
+teritoriul României în care ajunge apelul internațional;
+h) proces de portare — procesul cuprins între momentul
+primirii unei cereri de portare a numărului și momentul în
+care apelurile pot fi finalizate în mod corect la numărul
+portat;
+i) număr de rutare — un număr specific suplimentar,
+care nu face parte din Planul național de numerotație,
+utilizat în cadrul rețelelor publice de comunicații electronice
+în vederea rutării corecte a apelurilor către un număr
+portat;
+j) bază de date centralizată — setul complet de informații,
+care cuprinde numerele portate și numerele de rutare
+(baza de date de referință centralizată), precum și registrul
+tranzacțiilor (procedurilor administrative) dintre furnizori și
+alte informații suplimentare necesare în vederea realizării
+portabilității numerelor (baza de date administrativă
+centralizată);
+k) bază de date operațională — baza de date, copie a
+bazei de date de referință centralizate, utilizată în timp real
+de furnizorul care originează apelul pentru rutarea corectă
+a apelului sau a altor mesaje către un număr portat;
+l) metodă de rutare All Call Query (ACQ) — metodă de
+rulare directă a apelurilor de la furnizorul care originează
+apelurile la furnizorul acceptor; în urma interogării bazei de
+date operaționale, care va furniza numărul de rutare
+asociat numărului apelat, furnizorul care originează apelul
+
+va asigura rutarea apelului la destinație, în conformitate cu
+informațiile furnizate;
+m) metodă de rutare Onward Routing (OR) — metodă de
+rutare indirectă a apelurilor de la furnizorul care originează
+apelurile la furnizorul acceptor, care constă în rutarea
+apelului de către furnizorul care originează apelul către
+furnizorul donor inițial, care va interoga baza de date
+operațională și, pe baza numărului de rutare furnizat de
+aceasta, va ruta apelul la destinație;
+n) condiții tehnice și comerciale de implementare a
+portabilității numerelor — condițiile tehnice, procedurale și
+comerciale necesare pentru implementarea portabilității
+numerelor, adoptate prin decizie a președintelui Autorității
+Naționale de Reglementare în Comunicații, denumită în
+continuare ANRC, obligatorii pentru furnizorii de rețele
+publice de comunicații electronice și de servicii de
+comunicații electronice destinate publicului.
+(2) În cuprinsul prezentei decizii sunt, de asemenea,
+aplicabile definițiile relevante prevăzute la art. 2 din
+Ordonanța Guvernului nr. 34/2002 privind accesul la
+rețelele publice de comunicații electronice și la
+infrastructura asociată, precum și interconectarea acestora,
+aprobată cu modificări și completări prin Legea
+nr. 527/2002, și la art. 2 alin. (1) din Legea nr. 304/2003
+pentru serviciul universal și drepturile utilizatorilor cu privire
+la rețelele și serviciile de comunicații electronice.
+Art. 3. — (1) Furnizorii de servicii de telefonie destinate
+publicului, autorizați în condițiile art. 4 din Ordonanța de
+urgență a Guvernului nr. 79/2002 privind cadrul general de
+reglementare a comunicațiilor, aprobată cu modificări și
+completări prin Legea nr. 591/2002, cu modificările și
+completările ulterioare, titulari de licențe de utilizare a
+resurselor de numerotație, au obligația de a oferi abonaților
+lor, la cerere, portabilitatea numerelor geografice sau
+nongeografice, după caz, în termen de 9 luni de la data
+adoptării condițiilor tehnice și comerciale de implementare
+a portabilității numerelor.
+(2) Este interzisă schimbarea, în urma portării, a
+destinației numărului prevăzute în Planul național de
+numerotație.
+Art. 4. — (1) Sunt portabile următoarele categorii de
+resurse de numerotație din Planul național de numerotație:
+a) numerele naționale geografice din domeniile 0Z = 02
+și 0Z = 03;
+b) numerele naționale nongeografice din domeniul 0Z = 07,
+indiferent de modalitatea de plată a apelurilor pentru
+serviciile de telefonie mobilă destinate publicului, furnizate
+prin intermediul acestora (în avans sau ulterior furnizării
+serviciilor);
+c) numerele naționale nongeografice pentru servicii
+diverse, din următoarele subdomenii ale domeniului 0Z = 08:
+1. 0ZAB = 0800 (numere verzi);
+2. 0ZAB = 0801 (numere de acces universal);
+3. 0ZAB = 0802 (numere personale universale);
+d) numerele naționale nongeografice pentru servicii cu
+tarif special (Premium Rate), din domeniul 0Z = 09.
+(2) Următoarele numere nu pot fi portate:
+a) numerele care fac parte din alte domenii ale Planului
+național de numerotație decât cele prevăzute la alin. (1);
+b) numerele utilizate numai în interiorul unei rețele;
+c) numerele geografice asignate punctelor terminale
+conectate la centrale digitale ale căror caracteristici tehnice
+nu permit achiziționarea unor variante de soft adecvate
+implementării portabilității numerelor, la centrale analogice
+și la centrale manuale, până la înlocuirea acestor centrale,
+dar nu mai târziu de 1 ianuarie 2008.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 352/19.IV.2006
+(3) Blocurile de numere care pot fi portate vor fi
+publicate pe pagina de Internet a ANRC și a operatorului
+bazei de date centralizate.
+CAPITOLUL II
+Procesul de portare
+Art. 5. — (1) Administrarea procesului de portare a
+numerelor, inclusiv schimbul de informații dintre furnizori cu
+privire la numerele portate, se realizează prin intermediul
+bazei de date administrative centralizate, în conformitate cu
+regulamentul de organizare și funcționare a acesteia.
+(2) Utilizarea bazei de date administrative centralizate
+este obligatorie în vederea realizării schimbului de informații
+privind procesul de portare, modificării unor date referitoare
+la numerele portate, întreruperii serviciului furnizat prin
+intermediul unui număr portat și recuperării numărului portat
+de către furnizorul donor inițial.
+Art. 6. — (1) Portarea numărului se realizează în urma
+depunerii de către abonat a unei cereri în acest sens.
+(2) Pot face obiectul unei cereri de portare:
+a) numerele individuale asignate abonaților (pentru
+servicii de voce, fax sau transmisiuni de date);
+b) numerele multiple sau tranșele de numere asignate
+abonaților.
+(3) Prin condițiile tehnice și comerciale de implementare
+a portabilității numerelor se pot stabili reguli speciale cu
+privire la admisibilitatea și procesarea cererilor de portare a
+numerelor prevăzute la alin. (2) lit. b).
+Art. 7. — (1) Cererea de portare a numărului se
+transmite furnizorului acceptor prin completarea unui
+formular-tip.
+(2) Formularul-tip va conține, printre altele, informații cu
+privire la:
+a) eventualele tarife suplimentare asociate portării
+numărului;
+b) termenul estimativ în care va fi realizată portarea;
+c) măsura în care apelanții vor putea identifica rețeaua
+de destinație a apelului și tarifele cu amănuntul aplicabile;
+d) eventualele întreruperi ale serviciului care pot apărea
+în procesul de portare a numărului.
+(3) Furnizorul acceptor este responsabil pentru
+realizarea procesului de portare față de solicitant.
+(4) Furnizorul acceptor nu poate refuza realizarea
+portării numărului decât în cazul în care refuză conectarea
+solicitantului și furnizarea serviciilor de telefonie destinate
+publicului către acesta, în condițiile prevăzute de dispozițiile
+legale.
+(5) Cererea de portare a numărului acceptată se
+transmite de către furnizorul acceptor, în format electronic,
+operatorului bazei de date administrative centralizate, care
+o va transmite furnizorului donor.
+Art. 8. — (1) La primirea unei cereri de portare a
+numărului în condițiile art. 7 alin. (5), furnizorul donor va
+răspunde operatorului bazei de date administrative
+centralizate, care va transmite răspunsul furnizorului
+acceptor. Refuzul cererii de portare va fi justificat în
+conformitate cu prevederile alin. (2).
+(2) Furnizorul donor poate refuza realizarea portării
+numărului în următoarele cazuri:
+a) cererea nu este completă sau este completată în
+mod eronat;
+b) datele de identificare a abonatului sunt incorecte sau
+nu corespund cu numărul a cărui portare se solicită;
+c) furnizorul donor nu furnizează servicii prin intermediul
+numărului respectiv;
+
+3
+
+d) numărul nu face parte din blocurile de numere care
+pot fi portate;
+e) au fost primite mai multe cereri de portare pentru
+același număr;
+f) în cazul numerelor utilizate pentru furnizarea de
+servicii de telefonie mobilă, cartela SIM sau terminalul
+CDMA este declarat pierdut ori furat;
+g) în cazul numerelor utilizate pentru furnizarea de
+servicii de telefonie mobilă pentru care plata apelurilor se
+realizează în avans, de la numărul respectiv nu a fost
+originat și la numărul respectiv nu a fost primit nici un
+apel;
+h) din motive legate de apărarea națională, siguranța
+națională sau ordinea publică.
+(3) Nu pot constitui motive de refuz al cererii de portare
+a numărului:
+a) existența unor datorii ale abonatului către furnizorul
+donor;
+b) existența unei durate minime de încheiere a
+contractului;
+c) suspendarea furnizării serviciului prin intermediul
+numărului respectiv.
+Art. 9. — (1) În cazul revocării de către abonat a cererii
+de portare a numărului, furnizorul acceptor are obligația de
+a informa operatorul bazei de date centralizate, care va
+transmite informația furnizorului donor.
+(2) Cererea de portare a numărului nu poate fi revocată
+după transmiterea de către furnizorul donor a acceptării
+către operatorul bazei de date centralizate. În acest caz
+portarea numărului va fi finalizată, urmând să fie inițiat, la
+cererea abonatului, un nou proces de portare.
+(3) Furnizorul donor are obligația de a păstra informațiile
+necesare reluării furnizării serviciului prin intermediul
+numărului portat cel puțin 24 de ore după finalizarea
+procesului de portare.
+Art. 10. — (1) Procesul de portare a numărului va fi
+finalizat în termen de maximum 10 zile lucrătoare de la
+data transmiterii unei cereri acceptate atât de furnizorul
+acceptor, cât și de furnizorul donor, cu excepția
+următoarelor cazuri:
+a) abonatul solicită ca portarea să se realizeze într-un
+termen mai lung;
+b) conectarea abonatului și începerea furnizării serviciilor
+de telefonie destinate publicului de către furnizorul acceptor
+se realizează într-un termen mai lung.
+(2) Termenele în care trebuie finalizată fiecare etapă a
+procesului de portare și modalitățile de transmitere a
+informațiilor cu privire la procesul de portare se stabilesc
+prin condițiile tehnice și comerciale de implementare a
+portabilității numerelor.
+(3) Furnizorul acceptor are obligația de a informa
+abonatul, după primirea confirmării furnizorului donor, cu
+privire la momentul realizării portării numărului, precum și
+obligația de a informa atât abonatul, cât și operatorul bazei
+de date centralizate cu privire la finalizarea procesului de
+portare.
+(4) Operatorul bazei de date centralizate va informa toți
+furnizorii care originează apeluri cu privire la finalizarea
+procesului de portare și va actualiza baza de date
+administrativă centralizată și baza de date de referință
+centralizată.
+Art. 11. — (1) Contractul încheiat între furnizorul donor
+și abonat cu privire la furnizarea serviciilor prin intermediul
+numărului portat încetează în momentul finalizării procesului
+de portare, urmând ca din acest moment serviciile să fie
+furnizate prin intermediul numărului portat de către
+furnizorul acceptor, în conformitate cu prevederile
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 352/19.IV.2006
+
+contractului încheiat în prealabil între furnizorul acceptor și
+abonat.
+(2) Prevederile alin. (1) nu aduc atingere obligațiilor
+abonatului și furnizorului donor rezultate din prevederile
+contractului încheiat între aceștia, născute și neexecutate
+anterior încetării acestuia.
+CAPITOLUL III
+Drepturile și obligațiile furnizorului donor
+și ale furnizorului acceptor
+Art. 12. — (1) Furnizorul donor nu poate condiționa
+portarea unui număr de plata de către abonat a unor
+tarife suplimentare asociate procesului de portare.
+(2) Furnizorul donor inițial nu poate asigna altui abonat
+numărul portat, până la primirea informației privind
+eliberarea numărului, în conformitate cu prevederile art. 13
+alin. (3).
+Art. 13. — (1) Furnizorul acceptor are obligația de a nu
+schimba, în urma portării, destinația numărului prevăzută în
+Planul național de numerotație.
+(2) În cazul originării apelurilor de la un număr portat,
+datele de identificare a liniei apelante ce vor fi prezentate
+sunt cele corespunzătoare numărului portat.
+(3) În termen de 5 zile de la încetarea contractului
+dintre abonat și furnizorul acceptor cu privire la furnizarea
+de servicii prin intermediul unui număr portat, furnizorul
+acceptor are obligația de a informa furnizorul donor inițial
+sau, în cazul prevăzut la art. 14 alin. (1), ANRC cu privire
+la eliberarea numărului portat, prin intermediul operatorului
+bazei de date administrative centralizate.
+(4) Furnizorul acceptor nu are dreptul de a reasigna
+numărul portat după încetarea contractului având ca obiect
+furnizarea de servicii prin intermediul numărului respectiv.
+Art. 14. — (1) În cazul încetării dreptului furnizorului
+donor inițial de a utiliza, pe baza licenței de utilizare a
+resurselor de numerotație, un anumit număr portat,
+furnizorul acceptor și abonatul acestuia au dreptul de a
+utiliza în continuare acest număr, dacă este posibil din
+punct de vedere tehnic, până la încetarea furnizării
+serviciului de către furnizorul acceptor prin intermediul
+numărului respectiv.
+(2) În situația în care ANRC realocă, prin licența de
+utilizare a resurselor de numerotație, blocul de numere
+care conține numărul portat, titularul licenței de utilizare a
+resurselor de numerotație va fi considerat furnizor donor
+inițial.
+CAPITOLUL IV
+Rutarea apelurilor către numerele portate
+Art. 15. — (1) Furnizorii care originează apeluri au
+obligația de a asigura rutarea apelurilor către numerele
+portate.
+(2) În cazul în care furnizorul care originează apelurile
+nu dispune de mijloacele necesare pentru realizarea rutării,
+acesta are obligația de a achiziționa servicii de rutare a
+apelurilor către numerele portate de la un terț.
+Art. 16. — (1) În vederea rutării apelurilor către
+numerele portate se vor utiliza informațiile conținute în
+baza de date de referință centralizată.
+(2) Accesul furnizorilor care originează apeluri la baza
+de date de referință centralizată se realizează în mod
+nediscriminatoriu.
+(3) Rutarea apelurilor către numerele portate se
+realizează prin intermediul bazelor de date operaționale ale
+furnizorilor, constituite și actualizate pe baza informațiilor
+conținute în baza de date de referință centralizată.
+
+Art. 17. — (1) Metoda de rutare utilizată pentru
+implementarea portabilității numerelor între rețele este ACQ.
+(2) În cazurile stabilite prin condițiile tehnice și
+comerciale de implementare a portabilității numerelor,
+furnizorul care originează apelul va putea utiliza, cu
+suportarea tuturor costurilor suplimentare, metoda de
+rutare OR.
+(3) Metoda de rutare utilizată în interiorul rețelelor
+pentru implementarea portabilității numerelor se stabilește
+de fiecare furnizor.
+Art. 18. — (1) Informația de rutare va fi transmisă prin
+intermediul adreselor concatenate, numărul de rutare și
+numărul apelat fiind transmise împreună în câmpul de
+semnalizare îCalled Party Number“.
+(2) Numerele de rutare se alocă furnizorilor acceptori pe
+baza unei proceduri stabilite de ANRC.
+CAPITOLUL V
+Costuri și tarife
+Art. 19. — (1) Fiecare furnizor care originează apeluri
+va suporta propriile costuri asociate implementării
+portabilității numerelor, inclusiv costurile interfețelor cu
+bazele de date centralizate.
+(2) Costurile furnizorului donor determinate de portarea
+numărului, inclusiv cele administrative, vor putea fi
+recuperate de la furnizorul acceptor. Tarifele percepute
+furnizorului acceptor de către furnizorul donor nu vor
+depăși:
+a) 13 euro pentru fiecare număr portat, în cazul
+portabilității numerelor geografice și al portabilității numerelor
+nongeografice, altele decât cele pentru servicii de telefonie
+mobilă;
+b) 11 euro pentru fiecare număr portat, în cazul
+portabilității numerelor nongeografice pentru servicii de
+telefonie mobilă.
+(3) Tarifele prevăzute la alin. (2) nu includ taxa pe
+valoarea adăugată.
+(4) În cazul utilizării metodei de rutare OR furnizorul
+care originează apelul va datora tariful de interconectare în
+vederea terminării apelurilor furnizorului acceptor, tariful de
+interconectare în vederea tranzitului comutat și tariful ce
+reflectă utilizarea funcțiilor de portabilitate furnizorului donor
+inițial, precum și alte tarife suplimentare determinate de
+utilizarea acestei metode de rutare.
+(5) Furnizorul acceptor va suporta costurile interne
+determinate de portarea numărului.
+Art. 20. — (1) În cazul în care furnizorii acceptori
+percep utilizatorilor finali tarife pentru furnizarea serviciului
+de portabilitate a numerelor, acestea vor fi accesibile.
+(2) Tarifele apelurilor către numerele portate vor fi
+stabilite de furnizorii care originează apeluri.
+CAPITOLUL VI
+Informarea utilizatorilor finali
+Art. 21. — (1) Furnizorii de servicii de telefonie
+destinate publicului au obligația de a pune la dispoziție
+utilizatorilor finali, la solicitarea acestora, cu titlu gratuit,
+informații detaliate, clare și actualizate cu privire la serviciul
+de portabilitate a numerelor, inclusiv referitoare la tarifele
+practicate pentru furnizarea acestui serviciu și pentru
+apelurile realizate către numerele portate, atât în scris, cât
+și prin apelarea unui serviciu de relații cu clienții, disponibil
+cel puțin 40 de ore pe săptămână.
+(2) Modalitățile de informare a utilizatorilor finali la
+fiecare apel în cazul originării apelurilor către numerele
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 352/19.IV.2006
+portate se stabilesc prin condițiile tehnice și comerciale de
+implementare a portabilității numerelor.
+Art. 22. — Operatorul bazei de date administrative
+centralizate va pune la dispoziție publicului, prin intermediul
+paginii sale de Internet, informații cu privire la numerele
+portate, în conformitate cu regulamentul de organizare și
+funcționare a bazei de date administrative centralizate.
+CAPITOLUL VII
+Condițiile tehnice și comerciale de implementare a
+portabilității numerelor
+Art. 23. — (1) În termen de 15 zile de la data intrării în
+vigoare a prezentei decizii se înființează grupul de lucru
+care va stabili condițiile tehnice și comerciale de
+implementare a portabilității numerelor și va monitoriza
+implementarea portabilității numerelor.
+(2) Grupul de lucru prevăzut la alin. (1) va fi format din
+reprezentanți ai furnizorilor de servicii de telefonie destinate
+publicului, care sunt titulari de licențe de utilizare a
+resurselor de numerotație și care au asignat abonaților
+numere dintre cele prevăzute la art. 4 alin. (1), precum și
+ai ANRC și va fi coordonat de un specialist desemnat de
+președintele ANRC.
+(3) Condițiile tehnice și comerciale de implementare a
+portabilității numerelor vor fi elaborate în conformitate cu
+prevederile prezentei decizii și vor conține cel puțin
+următoarele elemente:
+a) specificațiile tehnice pentru implementarea portabilității
+numerelor, inclusiv în ceea ce privește rutarea mesajelor
+către numerele portate;
+b) formularul-tip de cerere de portare a numărului;
+c) descrierea detaliată a procedurii de administrare a
+procesului de portare;
+d) modalitățile de decontare a costurilor între furnizori;
+e) parametrii de calitate ai serviciului de portabilitate a
+numerelor;
+
+5
+
+f) modalitățile de informare a utilizatorilor finali la fiecare
+apel, în cazul originării apelurilor către numerele portate;
+g) procedura de modificare și completare a condițiilor
+tehnice și comerciale;
+h) regulamentul de organizare și funcționare a bazei de
+date administrative centralizate.
+Art. 24. — (1) În termen de 4 luni de la data înființării,
+grupul de lucru prevăzut la art. 23 alin. (1) va propune
+spre adoptare președintelui ANRC condițiile tehnice și
+comerciale de implementare a portabilității numerelor.
+(2) În cazul în care grupul de lucru nu propune
+condițiile tehnice și comerciale de implementare a
+portabilității numerelor în termenul prevăzut la alin. (1),
+acestea vor fi stabilite de ANRC.
+Art. 25. — (1) În termen de 5 luni de la data adoptării
+condițiilor tehnice și comerciale de implementare a
+portabilității numerelor, toți furnizorii de rețele publice de
+comunicații electronice sau de servicii de comunicații
+electronice destinate publicului vor modifica și vor completa
+în mod corespunzător acordurile de interconectare sau de
+acces încheiate anterior.
+(2) În acordurile de interconectare sau de acces
+încheiate după data adoptării condițiilor tehnice și
+comerciale de implementare a portabilității numerelor se vor
+introduce clauze specifice privind implementarea portabilității
+numerelor.
+CAPITOLUL VIII
+Dispoziții finale
+Art. 26. — Modalitatea de finanțare a activităților
+determinate de realizarea și administrarea bazei de date
+centralizate, precum și operatorul bazei de date centralizate
+vor fi stabilite de către ANRC.
+Art. 27. — Prezenta decizie se publică în Monitorul
+Oficial al României, Partea I, și intră în vigoare la 3 zile
+de la data publicării.
+
+Președintele Autorității Naționale de Reglementare în Comunicații,
+Dan Cristian Georgescu
+București, 10 aprilie 2006.
+Nr. 144/EN.
+MINISTERUL SĂNĂTĂȚII
+Nr. 411 din 14 aprilie 2006
+
+CASA NAȚIONALĂ DE ASIGURĂRI DE SĂNĂTATE
+Nr. 158 din 11 aprilie 2006
+
+ORDIN
+privind aprobarea Criteriilor de selecție a furnizorilor de servicii medicale paraclinice —
+laboratoare de analize medicale, precum și a Metodologiei de evaluare a furnizorilor
+de investigații medicale paraclinice — analize medicale de laborator
+În temeiul prevederilor Ordonanței de urgență a Guvernului nr. 150/2002 privind organizarea și funcționarea
+sistemului de asigurări sociale de sănătate, cu modificările și completările ulterioare, și ale Hotărârii Guvernului
+nr. 168/2005 privind organizarea și funcționarea Ministerului Sănătății, cu modificările și completările ulterioare,
+având în vedere Referatul de aprobare nr. 9.327 din 14 aprilie 2006 al Ministerului Sănătății și nr. DG 1.143 din
+11 aprilie 2006 al Casei Naționale de Asigurări de Sănătate,
+ministrul sănătății și președintele Casei Naționale de Asigurări de Sănătate emit următorul ordin:
+Art. 1. — (1) Se aprobă Criteriile de selecție a
+furnizorilor de servicii medicale paraclinice — laboratoare
+de analize medicale din ambulatoriu, denumiți în continuare
+furnizori, precum și Metodologia de evaluare a furnizorilor
+de investigații medicale paraclinice — analize medicale de
+
+laborator, în vederea contractării analizelor medicale de
+laborator cu casele de asigurări de sănătate din sistemul
+asigurărilor sociale de sănătate, cuprinse în anexele nr. 1
+și 2 care fac parte integrantă din prezentul ordin.
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 352/19.IV.2006
+
+(2) Pentru a intra în relații contractuale cu casele de
+asigurări de sănătate, furnizorii trebuie să îndeplinească
+următoarele etape:
+a) îndeplinirea criteriilor de selecție conform anexei nr. 1
+care face parte integrantă din prezentul ordin;
+b) să facă dovada efectuării analizelor medicale
+prevăzute în anexa nr. 3 care face parte integrantă din
+prezentul ordin, pentru grupa/grupele de analize medicale
+prevăzute în Ordinul ministrului sănătății și al președintelui
+Casei Naționale de Asigurări de Sănătate nr. 56/45/2005
+pentru aprobarea Normelor metodologice de aplicare a
+Contractului-cadru privind condițiile acordării asistenței
+medicale în cadrul sistemului de asigurări sociale de
+sănătate pentru anul 2005, cu modificările și completările
+ulterioare, cu excepția laboratoarelor de anatomopatologie;
+c) să se supună procesului de evaluare potrivit
+metodologiei de evaluare cuprinse în anexa nr. 2 care face
+parte integrantă din prezentul ordin. Metodologia de
+evaluare se aplică pentru fiecare punct de lucru al
+furnizorului, cu excepția punctelor de recoltare.
+Art. 2. — Furnizorii de servicii medicale spitalicești care
+efectuează investigații medicale paraclinice — analize
+medicale de laborator în regim ambulatoriu pot intra în
+relație contractuală cu casele de asigurări de sănătate cu
+condiția îndeplinirii etapelor menționate la art. 1 alin. (2).
+Art. 3. — (1) Pentru verificarea îndeplinirii criteriilor de
+selecție și aplicarea metodologiei de evaluare a furnizorilor,
+
+președintele—director general al casei de asigurări de
+sănătate numește, prin decizie, reprezentanți ai casei de
+asigurări de sănătate care, împreună cu reprezentanții
+direcției de sănătate publică județene, respectiv a
+municipiului București, constituie o comisie coordonată de
+casa de asigurări de sănătate. Reprezentanții direcției de
+sănătate publică judenețe, respectiv a municipiului
+București, sunt propuși de conducerea instituției respective.
+(2) Membrii comisiei trebuie să nu se găsească în una
+dintre condițiile de incompatibilitate prevăzute în declarația
+întocmită conform modelului cuprins în anexa nr. 4 care
+face parte integrantă din prezentul ordin.
+Art. 4. — Casele de asigurări de sănătate și direcțiile
+de sănătate publică județene, respectiv a municipiului
+București, sunt obligate să ducă la îndeplinire prevederile
+prezentului ordin.
+Art. 5. — La data intrării în vigoare a prezentului ordin
+se abrogă Ordinul ministrului sănătății și familiei și al
+președintelui Casei Naționale de Asigurări de Sănătate
+nr. 599/470/2001 privind aprobarea Criteriilor de selecție a
+furnizorilor de servicii ambulatorii de laborator, precum și a
+Metodologiei de evaluare a laboratoarelor de analize
+medicale din ambulatoriul de specialitate, publicat în
+Monitorul Oficial al României, Partea I, nr. 640 din
+12 octombrie 2001.
+Art. 6. — Prezentul ordin se publică în Monitorul Oficial
+al României, Partea I.
+
+Ministrul sănătății,
+
+Președintele Casei Naționale de Asigurări de Sănătate,
+
+Gheorghe Eugen Nicolăescu
+
+Cristian Vlădescu
+
+ANEXA Nr. 1
+CRITERII DE SELECȚIE
+
+a furnizorilor de servicii medicale paraclinice — laboratoare de analize medicale
+I. Pentru îndeplinirea criteriilor de selecție furnizorii
+trebuie să prezinte următoarele documente:
+1. copie după autorizația sanitară de funcționare, însoțită
+de copie după raportul de inspecție al direcției de sănătate
+publică, din care să reiasă îndeplinirea prevederilor
+Ordinului ministrului sănătății nr. 119/2004 pentru aprobarea
+Normelor de autorizare și funcționare a laboratoarelor care
+efectuează analize medicale, cu modificările ulterioare;
+2. copii după documentația de achiziție și/sau deținere
+legală a dispozitivelor medicale, din care să reiasă data
+fabricației și achiziției dispozitivelor medicale;
+3. copie după documentația efectuării controlului intern
+de calitate pentru toate grupele de analize efectuate, având
+anexate copii după prevederile metodologiei de lucru;
+4. copie după certificatul de înregistrare a dispozitivelor
+medicale emis de Ministerul Sănătății, valabil la data
+achiziționării dispozitivului medical, sau, după caz, avizul de
+utilizare după punerea în funcțiune pentru dispozitive
+medicale, eliberat de Oficiul Tehnic pentru Dispozitive
+Medicale, în conformitate cu reglementările în vigoare în
+
+domeniu, pentru următoarele dispozitive utilizate de
+furnizori:
+— sisteme de recoltare;
+— aparate;
+— reactivi;
+5. copii după documente specifice: buletine de verificare
+metrologică și, după caz, certificate de etalonare sau
+certificate de calibrare, pentru dispozitivele medicale pentru
+care legislația în vigoare prevede acest lucru;
+6. copia contractului/contractelor de verificare periodică
+și întreținere, conform cerințelor tehnice corespunzătoare
+fiecărui dispozitiv medical, încheiat/încheiate cu persoane
+fizice sau juridice avizate de Ministerul Sănătății și valabile
+pe toată perioada pentru care se face contractarea;
+7. copie după contractul de neutralizare a deșeurilor în
+conformitate cu prevederile legale în vigoare.
+II. Verificarea la sediul lucrativ al furnizorului, la punctele
+de lucru, filialele și punctele de recoltare ale acestuia a
+veridicității documentației prevăzute la pct. I.
+III. Verificarea posibilității efectuării analizelor medicale
+cuprinse în anexa nr. 3 la ordin.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 352/19.IV.2006
+
+7
+ANEXA Nr. 2
+
+METODOLOGIA DE EVALUARE
+
+a furnizorilor de investigații medicale paraclinice — analize medicale de laborator
+I. Documente necesare în procesul de evaluare a
+furnizorului:
+a) copii după documentațiile care atestă proprietățile
+tehnice ale dispozitivelor medicale;
+b) copii după contractele de muncă ale personalului
+medico-sanitar angajat;
+c) copii după certificatul de înregistrare în Registrul unic
+al cabinetelor medicale și certificatul constatator eliberat de
+Oficiul Național al Registrului Comerțului, care să ateste
+punctele externe proprii de recoltare, după caz;
+d) declarație privind facilitățile de înregistrare, gestiune
+și raportare a analizelor efectuate asiguraților, cuprinse în
+programul software, însoțite de print screen ale ecranului;
+e) declarație pe propria răspundere cuprinzând lista
+analizelor ofertate spre contractare.
+II. Comisia de evaluare a furnizorului verifică
+veridicitatea documentelor prevăzute la pct. I, precum și:
+a) concordanța dintre lista tipurilor de analize ce pot fi
+contractate cu casa de asigurări de sănătate și dotarea
+existentă;
+b) aparatura din dotare, cu menționarea seriei și
+numărului acesteia, numărul aparatelor din fiecare tip și
+data fabricației acestora;
+c) detalii privind existența și facilitățile programului
+software dedicat activității de laborator.
+III. Evaluarea furnizorilor cuprinde:
+A. evaluarea capacității tehnice;
+B. evaluarea resurselor umane;
+C. logistică;
+D. panel analize ofertate.
+A. Evaluarea capacității tehnice
+Se acordă punctaj pentru fiecare aparat deținut în
+punctul de lucru supus evaluării, după cum urmează:
+1. Hematologie:
+1.1. Morfologie*):
+a) analizor până la 18 parametri inclusiv — fabricat în
+anul anterior contractării — 9 puncte:
+— se scade din punctajul acordat câte un punct pentru
+fiecare an de vechime în plus al aparatului;
+b) analizor cu mai mult de 18 parametri (cu formulă
+leucocitară completă — 5 DIF) cu până la 59 teste/oră —
+fabricat în anul anterior contractării — 21 puncte:
+— se scad din punctajul acordat câte două puncte
+pentru fiecare an de vechime în plus al aparatului;
+c) analizor cu mai mult de 18 parametri (cu formulă
+leucocitară completă — 5 DIF) cu cel puțin 60 teste/oră —
+fabricat în anul anterior contractării — 24 puncte:
+— se scad din punctajul acordat câte două puncte
+pentru fiecare an de vechime în plus al aparatului.
+1.2. Hemostază: analizor coagulare cu un canal de
+citire — fabricat în anul anterior contractării — 17 puncte:
+— se scad din punctajul acordat câte două puncte
+pentru fiecare an de vechime în plus al aparatului;
+— pentru fiecare canal de citire în plus al aparatului se
+acordă câte un punct.
+1.3. Imunohematologie: 1 punct.
+2. Microbiologie:
+2.1. Bacteriologie:
+— identificarea germenilor — 10 puncte;
+— efectuarea antibiogramei — 8 puncte.
+
+2.2. Micologie:
+— decelarea prezenței miceliilor — 1 punct;
+— identificarea miceliilor — 8 puncte;
+— efectuarea antifungigramei — 8 puncte.
+2.3. Parazitologie:
+— examen parazitologic pe frotiu — 1 punct;
+— testare serologică — 4 puncte.
+3. Biochimie: analizor cu până la 80 probe/oră —
+fabricat în anul anterior contractării — 20 puncte:
+— se scad din punctajul acordat câte două puncte
+pentru fiecare an de vechime în plus al aparatului;
+— pentru aparatura cu capacitate mai mare de
+80 probe/oră se acordă la fiecare 50 probe/oră câte 8 puncte.
+4. Imunologie:
+a) sistem semiautomatizat Elisa — fabricat în anul
+anterior contractării — 17 puncte:
+— se scad din punctajul acordat câte două puncte
+pentru fiecare an de vechime în plus al aparatului;
+b) sistem automatizat Elisa — fabricat în anul anterior
+contractării — cu o capacitate de până la 50 probe/oră —
+21 puncte:
+— se scad din punctajul acordat câte două puncte
+pentru fiecare an de vechime în plus al aparatului;
+— pentru aparatura cu capacitate mai mare de
+50 probe/oră se acordă la fiecare 10 probe/oră câte 3 puncte;
+c) sisteme speciale (chemiluminiscență, electrochemiluminiscență) — fabricate în anul anterior contractării — cu
+o capacitate de până la 50 probe/oră — 24 puncte:
+— se scad din punctajul acordat câte două puncte
+pentru fiecare an de vechime în plus al aparatului;
+— pentru aparatura cu capacitate mai mare de
+50 probe/oră se acordă la fiecare 10 probe/oră câte 4 puncte.
+5. Citologie Papanicolau (este obligatoriu să fie
+efectuată de medici sau de biologi cu specializare în
+domeniu) — 5 puncte.
+6. Histopatologie — 10 puncte.
+B. Evaluarea resurselor umane
+Personalul este punctat numai pentru activitatea
+desfășurată într-un singur laborator dintr-o localitate. În
+situația în care acesta își desfășoară activitatea în mai
+multe laboratoare, își va exprima în scris opțiunea pentru
+laboratorul care urmează să beneficieze de punctajul
+stabilit.
+Punctajul se acordă pentru fiecare angajat medicosanitar cu normă întreagă, iar pentru medicii angajați cu
+normă parțială se acordă unități proporționale cu fracțiunea
+de normă lucrată:
+1. medic primar de specialitate — 6 puncte;
+2. medic specialist — 4 puncte;
+3. chimiști, biologi — 3 puncte;
+4. asistenți medicali de laborator — 1 punct.
+C. Logistică:
+1. puncte externe de recoltare proprii — se punctează
+fiecare punct de recoltare înregistrat ca punct de lucru și
+dotat conform reglementărilor Ministerului Sănătății —
+20 puncte.
+
+*) De menționat obligativitatea citirii frotiurilor sanguine de către medicul de laborator.
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 352/19.IV.2006
+
+Pentru furnizorii de servicii de laborator care participă
+cu mai multe puncte de lucru la contractare, situate în
+aceeași localitate, punctajul pentru punctele externe proprii
+de recoltare din acea localitate se acordă o singură dată
+pentru un punct de lucru pentru care optează furnizorul de
+servicii de laborator;
+2. sistem de transport al probelor de la puncte multiple
+de recoltare din afara laboratorului — 4 puncte.
+Pentru furnizorii de servicii de laborator care participă
+cu mai multe puncte de lucru la contractare, situate în
+aceeași localitate, punctajul pentru sistemul de transport din
+acea localitate se acordă o singură dată pentru un punct
+de lucru pentru care optează furnizorul de servicii de
+laborator;
+3. distribuția rezultatelor analizelor de laborator la
+medicul care a recomandat analizele:
+— fax — 1 punct;
+— e-mail — 2 puncte;
+— direct medicului — 3 puncte;
+— sistem de consultare electronică securizată a
+rezultatelor pe Internet — 4 puncte;
+4. software dedicat activității de laborator — care să
+conțină înregistrarea biletelor de trimitere, eliberarea și
+arhivarea datelor de laborator și raportarea activității
+desfășurate în conformitate cu formatul solicitat de casa de
+asigurări de sănătate (se prezintă facilitățile programului, se
+verifică la sediul furnizorului):
+— operațional, cu aparate conectate pentru transmitere
+de date — 20 puncte;
+— operațional, fără aparate conectate pentru transmitere
+de date — 5 puncte;
+5. posibilitatea de transmitere on line a raportărilor către
+casele de asigurări de sănătate — 2 puncte;
+6. web site — care să conțină minimum următoarele
+informații: adresa, orarul de funcționare, serviciile oferite în
+
+contractul cu casa de asigurări de sănătate,
+certificări/acreditări și chestionar de satisfacție a pacienților —
+10 puncte.
+Pentru furnizorii de servicii de laborator care participă
+cu mai multe puncte de lucru la contractare cu o casă de
+asigurări de sănătate, punctajul pentru web site se acordă
+o singură dată pentru un punct de lucru pentru care
+optează furnizorul de servicii de laborator.
+D. Panel analize ofertate:
+— se acordă un punct pentru fiecare tip de analiză de
+hematologie contractată;
+— se acordă două puncte pentru fiecare tip de analiză
+de microbiologie contractată;
+— se acordă un punct pentru fiecare tip de analiză de
+biochimie contractată;
+— se acordă 3 puncte pentru fiecare tip de analiză de
+imunologie contractată;
+— se acordă un punct pentru analiza de citologie
+Papanicolau contractată;
+— se acordă un punct pentru fiecare tip de analiză de
+histopatologie contractată.
+În urma evaluării comisia întocmește un raport de
+evaluare semnat atât de reprezentantul legal al furnizorului,
+cât și de membrii comisiei. Raportul de evaluare este
+documentul atașat la dosarul de contractare.
+În urma evaluării laboratoarele obțin un punctaj total și
+se ierarhizează în ordinea descrescătoare a punctajului
+obținut. Ierarhia furnizorilor și punctajul se afișează la
+sediul casei de asigurări de sănătate și pe site-ul acesteia,
+după caz. Modalitatea de utilizare a punctajului obținut în
+urma aplicării metodologiei de evaluare este precizată în
+normele de aplicare a Contractului-cadru privind condițiile
+acordării asistenței medicale în cadrul sistemului de
+asigurări sociale de sănătate.
+
+ANEXA Nr. 3
+LISTA MINIMĂ
+
+a analizelor medicale efectuate de un furnizor din ambulatoriu la contractarea cu casa de asigurări de sănătate
+1. Hemoleucogramă completă
+2. Examen citologic al frotiului sanguin
+3. VSH
+4. Timp Quick, activitate de protrombină
+5. APTT
+6. Determinare grup sanguin ABO
+7. Determinare grup sanguin Rh
+8. Uree serică
+9. Acid uric seric
+10. Creatinină serică
+11. Calciu ionic seric
+12. Calciu seric total
+13. Magneziemie
+14. Sideremie
+15. Glicemie
+16. Colesterol seric total
+17. Trigliceride serice
+
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+
+Proteine totale serice
+TGO
+TGP
+Fibrinogenemie
+LDH
+Bilirubină totală, directă
+VDRL sau RPR
+ASLO
+Factor reumatoid
+Proteina C reactivă
+Complement seric
+Exsudat faringian cu antibiogramă
+Examen complet de urină (sumar + sediment)
+Urocultură cu antibiogramă
+Determinare glucoză urinară
+Determinare proteine urinare
+
+9
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 352/19.IV.2006
+ANEXA Nr. 4
+
+DECLARAȚIE
+
+Subsemnatul ..........................................................., angajat la ................................................
+(numele și prenumele)
+
+(instituția, organizația)
+
+în funcția de ................................................, declar pe propria răspundere, cunoscând prevederile
+art. 292 din Codul penal privind falsul în declarații, că nu mă aflu în situația de conflict de
+interese prevăzută la art. ........ din Ordinul nr. ................... .
+
+Data
+.........................
+Semnătura
+...................................
+
+MINISTERUL SĂNĂTĂȚII
+Nr. 412 din 14 aprilie 2006
+
+CASA NAȚIONALĂ DE ASIGURĂRI DE SĂNĂTATE
+Nr. 159 din 11 aprilie 2006
+
+ORDIN
+privind aprobarea Criteriilor de selecție a furnizorilor de investigații medicale paraclinice —
+radiologie și imagistică medicală, precum și a Metodologiei de evaluare
+a furnizorilor de investigații medicale paraclinice — radiologie și imagistică medicală
+În temeiul prevederilor Ordonanței de urgență a Guvernului nr. 150/2002 privind organizarea și funcționarea
+sistemului de asigurări sociale de sănătate, cu modificările și completările ulterioare, și ale Hotărârii Guvernului
+nr. 168/2005 privind organizarea și funcționarea Ministerului Sănătății, cu modificările și completările ulterioare,
+având în vedere Referatul de aprobare nr. 9.326 din 14 aprilie 2006 al Ministerului Sănătății și nr. DG 1.144 din
+11 aprilie 2006 al Casei Naționale de Asigurări de Sănătate,
+ministrul sănătății și președintele Casei Naționale de Asigurări de Sănătate emit următorul ordin:
+Art. 1. — (1) Se aprobă Criteriile de selecție a
+furnizorilor de investigații medicale paraclinice — radiologie
+și imagistică medicală din ambulatoriu, denumiți în
+continuare furnizori, precum și Metodologia de evaluare a
+furnizorilor de investigații medicale paraclinice — radiologie
+și imagistică medicală, în vederea contractării investigațiilor
+de radiologie și imagistică medicală cu casele de asigurări
+de sănătate, cuprinse în anexele nr. 1 și 2 care fac parte
+integrantă din prezentul ordin.
+(2) Pentru a intra în relații contractuale cu casele de
+asigurări de sănătate, furnizorii trebuie să îndeplinească
+următoarele etape:
+a) îndeplinirea criteriilor de selecție conform anexei
+nr. 1;
+b) să facă dovada efectuării investigațiilor de radiologie
+și/sau imagistică medicală cuprinse în anexa nr. 3 care
+face parte integrantă din prezentul ordin;
+c) să se supună procesului de evaluare potrivit
+metodologiei de evaluare cuprinse în anexa nr. 2.
+Metodologia de evaluare se aplică pentru fiecare punct de
+lucru al furnizorului.
+Art. 2. — Pentru a intra în relație contractuală cu casele
+de asigurări de sănătate, criteriile de selecție prevăzute în
+anexa nr. 1 trebuie îndeplinite și de furnizorii de servicii
+medicale spitalicești care efectuează investigații medicale
+
+paraclinice — radiologie și imagistică medicală în regim
+ambulatoriu, precum și de furnizorii de servicii medicale
+clinice pentru investigațiile medicale paraclinice —
+imagistică medicală (ecografii).
+Art. 3. — (1) Pentru verificarea îndeplinirii criteriilor de
+selecție și aplicarea metodolgiei de evaluare a furnizorilor,
+președintele—director general al casei de asigurări de
+sănătate numește, prin decizie, reprezentanți ai casei de
+asigurări de sănătate care, împreună cu reprezentanții
+direcției de sănătate publică județene, respectiv a
+municipiului București, constituie o comisie coordonată de
+casa de asigurări de sănătate. Reprezentanții direcției de
+sănătate publică județene, respectiv a municipiului
+București, sunt propuși de conducerea instituției respective.
+(2) Membrii comisiei trebuie să nu se găsească în una
+dintre condițiile de incompatibilitate prevăzute în declarația
+întocmită conform modelului cuprins în anexa nr. 4 care
+face parte integrantă din prezentul ordin.
+Art. 4. — Casele de asigurări de sănătate și direcțiile
+de sănătate publică județene, respectiv a municipiului
+București, sunt obligate să ducă la îndeplinire prevederile
+prezentului ordin.
+Art. 5. — Prezentul ordin se publică în Monitorul Oficial
+al României, Partea I.
+
+Ministrul sănătății,
+Gheorghe Eugen Nicolăescu
+
+Președintele Casei Naționale de Asigurări de Sănătate,
+Cristian Vlădescu
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 352/19.IV.2006
+ANEXA Nr. 1
+CRITERII DE SELECȚIE
+
+a furnizorilor de investigații medicale paraclinice — radiologie și imagistică medicală
+I. Pentru îndeplinirea criteriilor de selecție furnizorii
+trebuie să prezinte următoarele documente:
+1. copie de pe autorizația sanitară;
+2. copie de pe documentația de achiziție și/sau de
+deținere legală a dispozitivelor medicale, din care să reiasă
+data fabricației și achiziției dispozitivelor medicale;
+3. copie de pe autorizația de funcționare (sau amplasare
+a construcției), emisă de Comisia Națională pentru Controlul
+Activităților Nucleare*);
+4. dovada verificării tehnice periodice a echipamentelor
+utilizate în conformitate cu reglementările Comisiei Naționale
+pentru Controlul Activităților Nucleare sau ale producătorului,
+după caz;
+5. copie de pe certificatul de înregistrare a dispozitivelor
+medicale emis de Ministerul Sănătății, valabil la data
+achiziționării dispozitivului medical, sau, după caz, avizul de
+utilizare după punerea în funcțiune pentru dispozitive
+medicale, eliberat de Oficiul Tehnic pentru Dispozitive
+Medicale, în conformitate cu reglementările în vigoare în
+
+domeniu, pentru următoarele dispozitive utilizate de
+furnizori:
+— instalații de diagnostic radiologic și imagistic, inclusiv
+anexele și accesoriile aferente;
+— consumabilele utilizate;
+6. copii de pe certificatele de garanție și/sau contractele
+de verificare periodică și întreținere conform cerințelor
+tehnice corespunzătoare fiecărui dispozitiv medical și
+accesoriilor utilizate, încheiate cu persoane fizice sau
+juridice avizate de Ministerul Sănătății și valabile pe toată
+perioada pentru care se încheie contractele de furnizare de
+investigații medicale paraclinice;
+7. copie de pe contractul de neutralizare a deșeurilor în
+conformitate cu prevederile legale în vigoare.
+II. Verificarea la sediul lucrativ al furnizorului, la punctele
+de lucru și filialele acestuia a veridicității documentației
+prevăzute la pct. I
+III. Verificarea posibilității efectuării investigațiilor
+medicale paraclinice de radiologie — imagistică medicală
+cuprinse în anexa nr. 3 la ordin.
+
+*) Nu se solicită furnizorilor de servicii medicale pentru specialitățile clinice care efectuează investigații medicale paraclinice — imagistică
+medicală (ecografii).
+ANEXA Nr. 2
+METODOLOGIA DE EVALUARE
+
+a furnizorilor de investigații medicale paraclinice — radiologie și imagistică medicală
+I. Documente necesare în procesul de evaluare a
+furnizorului:
+a) copii după documentațiile care atestă proprietățile
+tehnice ale dispozitivelor medicale utilizate;
+b) copii după documentația tehnică a dispozitivelor
+medicale utilizate, din care să reiasă gradul de performanță
+și încadrarea în prevederile Directivei UE 97/43;
+c) declarație privind facilitățile de înregistrare, gestiune și
+raportare a investigațiilor, de postprocesare, stocare și
+arhivare a imaginilor medicale și transmisie I.T. la distanță,
+cuprinse în programul software;
+d) declarație pe propria răspundere cuprinzând lista
+investigațiilor ofertate spre contractare.
+II. Comisia de evaluare a furnizorului certifică
+veridicitatea documentelor prevăzute la pct. I, precum și:
+a) concordanța dintre lista tipurilor de investigații
+medicale paraclinice de radiologie — imagistică medicală
+ce pot fi contractate cu casa de asigurări de sănătate și
+dotarea existentă;
+b) dispozitivele medicale din dotare, cu menționarea
+seriei și a numărului acestora, numărul dispozitivelor
+medicale din fiecare tip și data fabricației acestora;
+c) detalii privind existența și facilitățile programului
+software dedicat activității de radiologie și imagistică
+medicală.
+
+III. Evaluarea furnizorilor cuprinde:
+A. evaluarea capacității tehnice;
+B. evaluarea resurselor umane;
+C. logistica;
+D. panel investigații ofertate.
+A. Evaluarea capacității tehnice
+Se acordă punctaj pentru fiecare dispozitiv medical
+deținut în punctul de lucru supus evaluării, după cum
+urmează:
+a) radiologie (scopie-grafie) — se acordă 15 puncte
+pentru fiecare dispozitiv medical fabricat în anul anterior
+contractării, scăzându-se câte un punct pentru fiecare an
+de vechime al dispozitivului;
+b) post independent de radiografie — se acordă
+15 puncte pentru fiecare dispozitiv medical fabricat în anul
+anterior contractării, scăzându-se câte un punct pentru
+fiecare an de vechime al dispozitivului. După caz, la
+punctajul obținut se adaugă:
+— achiziție
+— digitalizat (plăci fosforice)
+1 punct; sau
+— direct digital
+2 puncte;
+— tomografie plană
+1 punct;
+— 2 Bucky
+1 punct;
+c) radiografie dentară — se acordă 15 puncte pentru
+fiecare dispozitiv medical fabricat în anul anterior
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 352/19.IV.2006
+contractării, scăzându-se câte un punct pentru fiecare an
+de vechime al dispozitivului;
+d) radiografie tip MRF — se acordă 15 puncte pentru
+fiecare dispozitiv medical fabricat în anul anterior
+contractării, scăzându-se câte un punct pentru fiecare an
+de vechime al dispozitivului. După caz, la punctajul obținut
+se adaugă:
+— low-dose (cu baleiaj)
+1 punct; sau
+— digital
+2 puncte;
+e) aparate de radiologie mobile — se acordă 15 puncte
+pentru fiecare dispozitiv medical fabricat în anul anterior
+contractării, scăzându-se câte un punct pentru fiecare an
+de vechime al dispozitivului;
+f) mamografie — se acordă 15 puncte pentru fiecare
+dispozitiv medical fabricat în anul anterior contractării,
+scăzându-se câte un punct pentru fiecare an de vechime
+al dispozitivului. După caz, la punctajul obținut se adaugă:
+— tipul de achiziție:
+— parțial digital
+1 punct; sau
+— digital
+2 puncte;
+— dimensiunea câmpului
+de expunere: 24/30
+1 punct;
+— existența de casete dedicate
+1 punct;
+— facilitate de stereotaxie
+1 punct;
+g) ecografia — se acordă 15 puncte pentru fiecare
+dispozitiv medical fabricat în anul anterior contractării,
+scăzându-se câte un punct pentru fiecare an de vechime
+al dispozitivului. După caz, la punctajul obținut se adaugă:
+— mod de lucru:
+— mod Doppler (color,
+continuu, pulsat)
+1 punct; sau
+— mod triplex
+0,5 puncte; sau
+— THI (tissue harmonic imaging)
+1 punct; sau
+— 3 D
+2 puncte;
+— caracteristici tehnice sistem:
+— monitor color — 15˝
+1 punct; sau
+— peste 15˝
+2 puncte;
+— aplicații software incluse
+(abdomen, părți moi,
+obstetrică—ginecologie)
+1 punct;
+— stocare imagini DICOM (CD,
+hard disk)
+2 puncte;
+— printer alb-negru
+1 punct;
+h) computertomografie — se acordă 30 de puncte
+pentru fiecare dispozitiv medical fabricat în anul anterior
+contractării, scăzându-se câte două puncte pentru fiecare
+an de vechime al dispozitivului. După caz, la punctajul
+obținut se adaugă:
+— tipul de mișcare
+a tubului:
+— rotație continuă
+2 puncte;
+— numărul de secțiuni
+concomitente:
+— 2—6 slice
+1 punct; sau
+— 16—32 slice
+3 puncte; sau
+— peste 32
+5 puncte;
+— timp de achiziție
+a imaginii:
+2—5 secunde
+1 punct;
+— accesorii — printer — digital
+2 puncte; sau
+— analog
+1 punct;
+— injector automat
+1 punct;
+
+11
+
+i) imagistică prin rezonanță magnetică — se acordă
+30 de puncte pentru fiecare dispozitiv medical fabricat în
+anul anterior contractării, scăzându-se câte două puncte
+pentru fiecare an de vechime al dispozitivului. După caz,
+la punctajul obținut se adaugă:
+— câmp magnetic — 1 T
+2 puncte; sau
+— 1,5 T și peste
+4 puncte;
+— Antene — Head (Bird cage)
+1 punct; sau
+— Neorovascular Coli
+1 punct; sau
+— Antenă în rețea fazată
+pentru coloana C-T-L
+1 punct; sau
+— Torsopa
+1 punct; sau
+— Extremități
+1 punct; sau
+— GPFlex (antenă
+de suprafață)
+1 punct; sau
+— antene de suprafață
+(3 și 5 Inch)
+1 punct; sau
+— Body Coil (abdomen
+și pelvis)
+1 punct; sau
+— 8 HR BRAIN
+1 punct; sau
+— San
+1 punct;
+j) medicina nucleară (Gamma Camera) — se acordă
+30 de puncte pentru fiecare dispozitiv medical fabricat în
+anul anterior contractării, scăzându-se câte două puncte
+pentru fiecare an de vechime al dispozitivului. După caz,
+la punctajul obținut se adaugă:
+— cu o cameră de citire
+2 puncte; sau
+— cu două camere de citire
+4 puncte;
+k) osteodensitometrie DEXA — se acordă 15 puncte
+pentru fiecare dispozitiv medical fabricat în anul anterior
+contractării, scăzându-se câte un punct pentru fiecare an
+de vechime al dispozitivului;
+l) accesorii pentru prelucrarea, transmisia și stocarea
+imaginilor:
+— cameră obscură umedă manuală
+1 punct; sau
+— developator automat umed
+3 puncte; sau
+— developator umed day light
+5 puncte; sau
+— cititor de plăci fosforice
+8 puncte; sau
+— stație der postprocesare DICOM
+10 puncte;
+— arhivă filme radiografice
+5 puncte;
+— arhiva CD
+8 puncte;
+— arhivă de mare capacitate (PACS)
+10 puncte;
+— digitizer pentru medii transparente
+(filme)
+5 puncte.
+B. Evaluarea resurselor umane
+Pentru fiecare categorie de personal se acordă
+următorul punctaj:
+— medici — medic de specialitate
+radiologie și imagistică
+medicală
+9 puncte;
+— medic cu competență Eco 5 puncte;
+— medic cu competență CT
+5 puncte;
+— medic cu competență RMN 5 puncte;
+— medic cu competență
+imagistica sânului
+5 puncte;
+— operatori — absolvent colegiu
+imagistică medicală
+5 puncte;
+— asistent medical
+imagistică medicală
+3 puncte;
+— bioinginer
+6 puncte;
+— fizician
+6 puncte;
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 352/19.IV.2006
+
+— asistenți medicali — de radiologie
+4 puncte;
+— alte specialități
+pentru Eco + ATI 3 puncte;
+— personal auxiliar — tehnician
+aparatură
+medicală
+5 puncte.
+N O T Ă: Se acordă punctaj pentru fiecare persoană
+încadrată cu normă întreagă. Pentru cei încadrați cu
+contract de muncă cu timp parțial lucrat se acordă punctaj
+proporțional cu fracțiunea de normă.
+C. Logistica:
+a) distribuția rezultatelor investigațiilor la medicul care a
+recomandat investigația:
+— rețea de transmisie imagini
+interne (RIS)
+8 puncte;
+— transmisie de imagini în perimetrul
+limitrof și la distanța (PACS)
+10 puncte;
+b) software dedicat activității medicale, care să conțină
+înregistrarea biletelor de trimitere, eliberarea și arhivarea
+datelor specifice și raportarea activității desfășurate în
+conformitate cu formatul solicitat de casa de asigurări de
+sănătate (se vor prezenta facilitățile programului și se
+verifică la sediul furnizorului):
+— operațional cu aparate conectate
+pentru transmitere de date
+20 puncte; sau
+— operațional fără aparate conectate
+pentru transmitere de date
+5 puncte;
+c) posibilitatea de transmitere
+a raportărilor către casele de
+asigurări de sănătate on line
+2 puncte;
+d) web site — care să conțină
+minimum următoarele informații:
+adresa, orarul de funcționare,
+servicii oferite în contractul
+cu casa de asigurări de sănătate,
+certificări și chestionar de satisfacție
+a pacienților
+10 puncte.
+
+Pentru furnizorii de investigații paraclinice de radiologie—
+imagistică medicală care participă cu mai multe puncte de
+lucru la contractare, cu o casă de asigurări de sănătate,
+punctajul pentru web site se acordă o singură dată pentru
+un punct de lucru, pentru care optează furnizorul de
+servicii de laborator.
+D. Panel investigații ofertate:
+a) se acordă un punct pentru orice tip de radiografie
+interpretată de un medic radiolog;
+b) se acordă două puncte pentru orice examen tip
+radioscopie gastrointestinală efectuată de un medic radiolog
+și/sau orice fel de ecografie generală;
+c) se acordă 3 puncte pentru orice tip de explorare
+radiologică cu substanță de contrast și/sau pentru orice
+ecografie de organ;
+d) se acordă 4 puncte pentru orice tip de examen
+computer tomografic efectuat de un medic radiolog cu
+competență CT și/sau orice ecografie specială (inclusiv
+ecografie fetală);
+e) se acordă 5 puncte pentru orice tip de explorare prin
+RMN efectuată de un medic radiolog cu competență RMN;
+f) se acordă câte 5 puncte pentru fiecare tip de
+exploatare de medicină nucleară (scintigrafie) efectuată de
+medic de specialitate medicină nucleară;
+g) se acordă 3 puncte pentru osteodensitometria DEXA.
+În urma evaluării comisia întocmește un raport de
+evaluare semnat atât de reprezentantul legal al furnizorului,
+cât și de membrii comisiei. Raportul de evaluare este
+documentul atașat la dosarul de contractare.
+În urma evaluării, furnizorii obțin un punctaj total și se
+ierarhizează în ordinea descrescătoare a punctajului obținut.
+Ierarhia furnizorilor și punctajul se afișează la sediul casei
+de asigurări de sănătate și pe site-ul acesteia, după caz.
+Modalitatea de utilizare a punctajului obținut în urma
+aplicării metodologiei de evaluare este precizată în normele
+de aplicare a Contractului-cadru privind condițiile acordării
+asistenței medicale în cadrul sistemului de asigurări sociale
+de sănătate.
+ANEXA Nr. 3
+
+LISTA MINIMĂ
+
+a investigațiilor efectuate de un furnizor de servicii paraclinice — radiologie și imagistică medicală din ambulatoriu
+la contractarea cu casa de asigurări de sănătate
+I. Laborator de radiologie și imagistică medicală:
+1. radiografii pe segmente anatomice;
+2. radiografii pulmonare;
+3. radioscopii ale tractului digestiv cu substanță de
+contrast.
+II. Ecografia generală, ca prestație independentă:
+ecografie generală efectuată în cabinete medicale de către
+medici de specialități clinice cu competență — certificat de
+studii complementare emis de organismele abilitate ale
+Ministerului Sănătății
+III. Ecografia de organe ca prestație independentă
+efectuată în cabinete medicale de către medici de
+specialități clinice în diabet zaharat, nutriție și boli
+metabolice, endocrinologie, urologie, medicină internă,
+geriatrie și gerontologie
+
+IV. Ecografia de vase — artere, vene, ca prestație
+independentă: efectuată în cabinete medicale de către
+medici de specialități clinice: cardiologie, medicină internă,
+geriatrie și gerontologie
+V. Ecocardiografia efectuată ca prestație independentă
+în cabinete medicale de cardiologie, medicină internă,
+geriatrie și gerontologie și pediatrie
+VI. Ecografia fetală efectuată ca prestație independentă
+în cabinete medicale de genetică medicală
+VII. Ecografia transfontanelară efectuată ca prestație
+independentă în cabinete medicale de pediatrie
+VIII. Radiografia dentară ca prestație independentă în
+cadrul cabinetelor de stomatologie
+IX. Microradiofotografia ca prestație independentă în
+cadrul rețelei de pneumologie.
+
+13
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 352/19.IV.2006
+ANEXA Nr. 4
+DECLARAȚIE
+
+Subsemnatul ......................................................, angajat la ......................................................
+(numele și prenumele)
+
+(instituția, organizația)
+
+în funcția de ........................................, declar pe propria răspundere, cunoscând prevederile
+art. 292 din Codul penal privind falsul în declarații, că nu mă aflu în situația de conflict de
+interese prevăzută la art. ........ din Ordinul nr. .........../......................... .
+Data
+.......................
+Semnătura
+.............................
+
+MINISTERUL EDUCAȚIEI ȘI CERCETĂRII
+
+ORDIN
+pentru aprobarea Regulamentului privind atribuțiile, competența și funcționarea
+Consiliului Centrului Național pentru Burse de Studii în Străinătate
+În baza Hotărârii Guvernului nr. 1.861/2005 pentru înființarea Centrului Național pentru Burse de Studii în
+Străinătate prin reorganizarea Oficiului Național al Burselor de Studii în Străinătate, publicată în Monitorul Oficial al
+României, Partea I, nr. 29 din 12 ianuarie 2006,
+în temeiul Ordinului ministrului educației și cercetării nr. 3.090/2006 privind componența Consiliului Centrului
+Național pentru Burse de Studii în Străinătate,
+în temeiul Ordinului ministrului educației și cercetării nr. 3.250/2006 privind aprobarea Regulamentului privind
+organizarea și funcționarea Centrului Național pentru Burse de Studii în Străinătate,
+în temeiul Hotărârii Guvernului nr. 223/2005 privind organizarea și funcționarea Ministerului Educației și Cercetării,
+cu modificările și completările ulterioare,
+ministrul educației și cercetării emite prezentul ordin.
+Art. 1. — Se aprobă Regulamentul privind atribuțiile,
+competența și funcționarea Consiliului Centrului Național
+pentru Burse de Studii în Străinătate, prevăzut în anexa
+care face parte integrantă din prezentul ordin.
+
+Art. 2. — Pe data intrării în vigoare a prezentului ordin
+se abrogă orice alte prevederi contrare.
+Art. 3. — Centrul Național pentru Burse de Studii în
+Străinătate va duce la îndeplinire prevederile prezentului
+ordin.
+
+Ministrul educației și cercetării,
+Mihail Hărdău
+București, 11 aprilie 2006.
+Nr. 3.568.
+ANEXĂ
+
+REGULAMENT
+privind atribuțiile, competența și funcționarea Consiliului Centrului Național pentru Burse de Studii în Străinătate
+CAPITOLUL I
+Dispoziții generale
+Art. 1. — Prin Hotărârea Guvernului nr. 1.861/2005,
+publicată în Monitorul Oficial al României, Partea I, nr. 29
+din 12 ianuarie 2006, s-a înființat Centrul Național pentru
+Burse de Studii în Străinătate (C.N.B.S.S.), prin
+reorganizarea Oficiului Național al Burselor de Studii în
+Străinătate.
+Art. 2. — C.N.B.S.S. este instituție publică, cu
+personalitate juridică, organ de specialitate în subordinea
+Ministerului Educației și Cercetării.
+Art. 3. — (1) C.N.B.S.S. lansează și organizează
+concursurile naționale pentru acordarea burselor de studii în
+
+străinătate oferite Ministerului Educației și Cercetării de
+Guvernul României, de autorități publice, fundații, donatori —
+persoane fizice sau juridice —, de diferite state în cadrul
+acordurilor bilaterale de colaborare sau în mod unilateral,
+precum și bursele provenite din programe guvernamentale
+și internaționale.
+(2) C.N.B.S.S. organizează concursuri naționale pentru
+acordarea burselor de studii în baza regulamentelor
+elaborate de acesta și aprobate prin ordin al ministrului
+educației și cercetării pentru fiecare tip de bursă, și anume:
+a) burse pentru stagii de studii universitare și
+postuniversitare în străinătate, instituite prin Hotărârea
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 352/19.IV.2006
+
+Guvernului nr. 697/1996, modificată prin Hotărârea
+Guvernului nr. 533/1998;
+b) burse oferite în baza documentelor de colaborare
+bilaterală sau oferite în mod unilateral de alte state,
+fundații, instituții din străinătate etc.;
+c) burse de studii și cercetare postuniversitară și
+postdoctorală îNicolae Titulescu“, pentru formarea de
+specialiști în vederea integrării în Uniunea Europeană,
+instituite prin Hotărârea Guvernului nr. 903/2003;
+d) burse de cercetare și formare postuniversitară și
+postdoctorală îVasile Pârvan“, la Accademia di Romania
+din Roma, și îNicolae Iorga“, la Istituto Romeno di Cultura
+e Ricerca Umanistica din Veneția, instituite prin Hotărârea
+Guvernului nr. 101/2002;
+e) bursa de studii postuniversitare în străinătate
+îTheodor Aman“ în domeniul artelor plastice, instituită prin
+Hotărârea Guvernului nr. 861/2003.
+Art. 4. — (1) Regulamentele de organizare și
+desfășurare a concursurilor pentru fiecare tip de bursă
+cuprind dispoziții privind înscrierea la concurs, condițiile de
+participare la concurs, conținutul dosarului de concurs,
+criteriile de selecție, condițiile financiare etc.
+(2) Etapele concursurilor naționale sunt:
+1. verificarea administrativă a dosarelor;
+2. evaluarea candidaturilor:
+a) evaluarea academică a dosarelor;
+b) interviul;
+3. selecția candidaților realizată de Consiliul C.N.B.S.S.
+(3) Verificarea administrativă a dosarelor intră în
+atribuțiile Compartimentului burse din cadrul C.N.B.S.S.;
+rezultatele verificării administrative a dosarelor se publică
+pe site-ul www.roburse.ro.
+(4) În vederea organizării activității de evaluare a
+candidaturilor, C.N.B.S.S. are dreptul să folosească
+colaboratori externi din învățământul preuniversitar și
+universitar, pentru activitatea de evaluare a dosarelor
+candidaților la burse, exprimată prin punctaje.
+(5) C.N.B.S.S. selectează, pe baza unei metodologii
+transparente și folosind criterii de competență, propriii
+evaluatori, pe care îi pregătește metodologic și îi solicită în
+calitate de evaluatori ai dosarelor de concurs.
+(6) Dosarele declarate eligibile în etapa de verificare
+administrativă sunt supuse evaluării academice, la sediul
+C.N.B.S.S., de către evaluatori, pe baza baremelor
+elaborate de C.N.B.S.S., pe categorii de candidați (elevi,
+studenți, licențiați, licențiați cu titlul de doctor în știință/artă).
+(7) Evaluarea academică a dosarelor de concurs se
+face conform procedurii de evaluare elaborate de
+C.N.B.S.S., pe domeniile de știință/artă în care se solicită
+bursa și care sunt prevăzute în Hotărârea Guvernului
+nr. 88/2005.
+(8) Prin baremele de evaluare academică a dosarelor
+de candidatură se punctează activitatea profesională
+(rezultate studii liceale/universitare, rezultate examene
+licență, premii obținute la concursuri naționale și
+internaționale ale elevilor/studenților), activitatea științifică
+(lucrări comunicate/publicate în țară sau în străinătate,
+cărți/traduceri publicate în țară sau în străinătate, în calitate
+
+de unic autor/coautor) și alte elemente relevante privind
+pregătirea, activitatea și performanțele obținute de candidat.
+(9) Intervievarea candidaților este de competența unei
+comisii formate din evaluatori, alții decât cei care au făcut
+evaluarea academică a dosarului, și un evaluator psiholog.
+(10) Membrii comisiei de interviu sunt propuși de
+directorul C.N.B.S.S. și numiți prin decizie a directorului
+C.N.B.S.S.
+(11) Rezultatul final al evaluării candidaturii constă în
+media ponderată a punctajului obținut la evaluarea
+academică a dosarului de concurs (cu ponderea de 80%)
+și a punctajului obținut la interviu de candidat (cu ponderea
+de 20%). Dacă această medie este mai mică de jumătate
+din punctajul maxim stabilit (100 puncte maximum) dosarul
+este respins la evaluarea academică.
+Art. 5. — În baza Hotărârii Guvernului nr. 1.861/2005, o
+persoană poate beneficia o singură dată în viață de o
+bursă de studii în străinătate finanțată din încasările
+valutare realizate de Ministerul Educației și Cercetării sau
+din alocații de la bugetul de stat.
+Art. 6. — C.N.B.S.S. încasează de la beneficiarii
+serviciilor oferite sume calculate pe baza tarifelor stabilite
+prin Ordinul ministrului educației și cercetării nr. 3.248/2006
+privind aprobarea cuantumului taxelor percepute de
+C.N.B.S.S., în condițiile legii, care se constituie în venituri
+proprii.
+Art. 7. — Consiliul C.N.B.S.S. este organism consultativ,
+aflat în subordinea directă a ministrului educației și
+cercetării.
+Art. 8. — (1) Activitatea C.N.B.S.S. se desfășoară în
+colaborare cu Consiliul C.N.B.S.S. format din profesori
+universitari titulari, cu activitate didactică și științifică
+recunoscută în țară și în străinătate, precum și cu conduită
+morală, din secretarul general al Ministerului Educației și
+Cercetării, din directorul de la Direcția generală învățământ
+în limbile minorităților din Ministerul Educației și Cercetării,
+2 profesori titulari din învățământul preuniversitar și din
+directorul C.N.B.S.S., numiți prin Ordinul ministrului
+educației și cercetării nr. 3.030/2006, pentru o perioadă de
+4 ani. Nici unul dintre membrii Consiliului C.N.B.S.S. nu
+poate fi numit pentru un nou mandat.
+(2) Consiliul C.N.B.S.S. are în componență și membri ai
+învățământului în limbile minorităților naționale și ai
+învățământului particular acreditat, propuși de universități și,
+respectiv, de inspectoratele școlare, la solicitarea
+C.N.B.S.S.
+(3) Consiliul C.N.B.S.S. este condus de un președinte și
+un birou executiv, format din 5 membri.
+(4) Potrivit Ordinului ministrului educației și cercetării
+nr. 3.030/2006, secretariatul Consiliului C.N.B.S.S. este
+asigurat de C.N.B.S.S.; în calitate de secretar al Consiliului
+C.N.B.S.S., fără drept de vot, este numit directorul adjunct
+al C.N.B.S.S.
+(5) În vederea organizării ședințelor Consiliului
+C.N.B.S.S. și, respectiv, a ședințelor Biroului executiv al
+Consiliului C.N.B.S.S., sarcinile Consiliului C.N.B.S.S., ale
+secretarului Consiliului C.N.B.S.S. și termenele de realizare
+a acestora sunt stabilite de directorul C.N.B.S.S., de
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 352/19.IV.2006
+președintele Consiliului C.N.B.S.S. sau în plenul ședințelor,
+prin majoritate simplă de voturi.
+CAPITOLUL II
+Organizarea și funcționarea Consiliului C.N.B.S.S.
+Art. 9. — În baza Ordinului ministrului educației și
+cercetării nr. 3.030/2006 privind componența Consiliului
+C.N.B.S.S., în prima ședință a Consiliului C.N.B.S.S. se
+procedează la alegerea prin vot secret a președintelui și a
+Biroului executiv al Consiliului C.N.B.S.S.
+Art. 10. — (1) Lucrările ședințelor Consiliului C.N.B.S.S.
+se desfășoară conform graficelor de selecție, dacă sunt
+prezenți două treimi din numărul membrilor.
+(2) Convocarea membrilor Consiliului C.N.B.S.S. se face
+la propunerea președintelui, a directorului C.N.B.S.S. sau a
+unei treimi din numărul membrilor Consiliului C.N.B.S.S.
+(3) Nu se admite ca un membru al Consiliului
+C.N.B.S.S. să absenteze nemotivat la 3 ședințe
+consecutive sau, în cazuri excepționale, se poate admite
+absența cu aprobarea președintelui Consiliului C.N.B.S.S.
+Art. 11. — Membrii Consiliului C.N.B.S.S. iau decizii
+privind selecția și nominalizarea candidaților, prin majoritate
+absolută de voturi (jumătate plus unu din numărul
+membrilor Consiliului C.N.B.S.S.).
+Art. 12. — La egalitate de voturi, decizia finală privind
+acordarea burselor de studii în străinătate revine
+președintelui Consiliului C.N.B.S.S.
+Art. 13. — (1) Remunerarea membrilor Consiliului
+C.N.B.S.S. se realizează proporțional cu activitatea depusă,
+din surse de la bugetul de stat, prin bugetul Ministerului
+Educației și Cercetării, în condițiile legii.
+(2) Remunerarea evaluatorilor se realizează proporțional
+cu activitatea depusă, din veniturile proprii ale C.N.B.S.S.,
+în condițiile legii.
+CAPITOLUL III
+Atribuțiile Consiliului C.N.B.S.S.
+Art. 14. — Consiliul C.N.B.S.S., în colaborare cu
+C.N.B.S.S., propune anual numărul și domeniile/
+specializările pentru care se acordă burse de studii în
+străinătate finanțate din încasările valutare realizate de
+Ministerul Educației și Cercetării sau din alocații de la
+bugetul de stat, în limita bugetului aprobat.
+Art. 15. — Consiliul C.N.B.S.S., în colaborare cu
+C.N.B.S.S., face propuneri pentru elaborarea ordinelor
+ministrului educației și cercetării de atribuire a burselor de
+studii în străinătate, pe baza îndeplinirii criteriilor formulate
+de ofertant, a rezultatelor concursurilor de selecție a
+candidaților, precum și în conformitate cu strategia generală
+de reformă a educației și cercetării universitare, promovată
+de Ministerul Educației și Cercetării.
+Art. 16. — Consiliul C.N.B.S.S. face selecția candidaților
+pe baza unor criterii generale (prioritățile de acordare a
+burselor în domenii de interes pentru formarea de
+specialiști români, reprezentativitatea domeniului bursei în
+țara în care se solicită efectuarea stagiului de studii,
+rezultatele evaluării candidaturii) și a unor criterii specifice
+tipului de bursă.
+
+15
+
+Art. 17. — Membrii Consiliului C.N.B.S.S. realizează,
+prin majoritate absolută de voturi, selecția și nominalizarea
+candidaților. Selecția și nominalizarea candidaților se fac în
+baza criteriilor de selecție stabilite pe tipuri de
+studii/cercetare, în funcție de rezultatul final al evaluării
+candidaturii, pentru acordarea burselor de studii în
+străinătate prevăzute la art. 3 alin. (2) lit. a), b) și c).
+Art. 18. — (1) Consiliul C.N.B.S.S., în colaborare cu
+C.N.B.S.S., soluționează contestațiile privind rezultatele
+concursurilor naționale.
+(2) Rezultatele concursurilor naționale se comunică prin
+afișare la sediul C.N.B.S.S. și prin publicare pe site-ul
+www.roburse.ro.
+(3) Nu se admit contestații privind rezultatul obținut de
+candidat la interviu.
+CAPITOLUL IV
+Competențele Consiliului C.N.B.S.S.
+Art. 19. — Membrii Consiliului C.N.B.S.S. fac parte din
+alte comisii/comitete sau jurii de selecție a candidaturilor
+pentru acordarea burselor de studii în străinătate prevăzute
+la art. 3 alin. (2) lit. b) d) și e), conform actelor normative
+prin care sunt instituite, și anume:
+a) comisii/comitete mixte, constituite conform prevederilor
+documentelor de colaborare bilaterală sau ofertelor
+unilaterale;
+b) juriul de selecție aprobat prin ordin comun al
+ministrului educației și cercetării, al ministrului afacerilor
+externe și al ministrului culturii și cultelor, pentru bursele
+îVasile Pârvan“ și îNicolae Iorga“, instituite prin Hotărârea
+Guvernului nr. 101/202;
+c) juriul de selecție aprobat prin ordin comun al
+ministrului educației și cercetării și al ministrului culturii și
+cultelor, pentru acordarea bursei îTheodor Aman“, instituită
+prin Hotărârea Guvernului nr. 861/2003.
+Art. 20. — Consiliul C.N.B.S.S., în colaborare cu
+C.N.B.S.S., monitorizează valorificarea activității desfășurate
+după efectuarea stagiului de bursă în străinătate, prin
+solicitarea de rapoarte de la instituțiile/universitățile
+beneficiare.
+Art. 21. — Consiliul C.N.B.S.S. poate formula răspunsuri
+la memorii și petiții, dacă acestea vizează aspecte legate
+de atribuțiile și competențele sale.
+Art. 22. — Consiliul C.N.B.S.S. propune ordine de
+revocare a bursierilor de la stagiu, în baza unei analize
+riguroase a atitudinii lor.
+Art. 23. — Consiliul C.N.B.S.S. se poate implica în
+elaborarea actelor normative care vizează modul de
+atribuire a burselor.
+CAPITOLUL V
+Atribuții și competențe ale Biroului executiv
+al Consiliului C.N.B.S.S.
+Art. 24. — Biroul executiv este condus de președintele
+Consiliului C.N.B.S.S. și are în componență 5 membri ai
+Consiliului C.N.B.S.S.:
+— directorul C.N.B.S.S.;
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 352/19.IV.2006
+
+— consilierul ministrului, ca reprezentant al Ministerului
+Educației și Cercetării;
+— 2 reprezentanți ai universităților de stat acreditate;
+— un reprezentant al universităților particulare acreditate.
+Art. 25. — Biroul executiv al Consiliului C.N.B.S.S.
+rezolvă în mod operativ problemele organizatorice, precum
+și problemele din domeniul burselor de studii în străinătate,
+prin delegare de competențe de către Consiliul C.N.B.S.S.
+Art. 26. — (1) Ședințele Biroului executiv al Consiliului
+C.N.B.S.S. au loc la propunerea președintelui Consiliului
+C.N.B.S.S. și/sau a directorului C.N.B.S.S.
+(2) Ședințele Biroului executiv al Consiliului C.N.B.S.S.
+se pot desfășura numai în prezența președintelui Consiliului
+C.N.B.S.S. și a două treimi din numărul membrilor Biroului
+executiv.
+Art. 27. — Biroul executiv al Consiliului C.N.B.S.S.
+poate soluționa, prin delegarea acestei competențe cu
+acordul a două treimi din numărul membrilor Consiliului
+C.N.B.S.S., contestațiile privind rezultatele concursurilor
+naționale, depuse la Registratura Ministerului Educației și
+Cercetării, în conformitate cu prevederile regulamentelor
+specifice fiecărui tip de bursă.
+
+are obligația de a se abține de la vot. Neabținerea de la
+vot, în aceste condiții, a unui membru al Consiliului
+C.N.B.S.S. atrage excluderea din Consiliul C.N.B.S.S.
+(4) Atitudinea subiectivă, părtinitoare, de acordare sau
+neacordare pe criterii etnice, religioase, politice etc. a
+burselor, cu încălcarea condițiilor prevăzute în actele
+normative, se sancționează cu excluderea din Consiliul
+C.N.B.S.S.
+Art. 29. — (1) Excluderea membrilor Consiliului
+C.N.B.S.S., în baza prevederilor art. 28 alin. (3) și (4), este
+propusă de Consiliul C.N.B.S.S., cu majoritate absolută, și
+înaintată de C.N.B.S.S. ministrului educației și cercetării, în
+vederea modificării ordinului privind componența Consiliului
+C.N.B.S.S.
+(2) Excluderea unui membru al Consiliului C.N.B.S.S.,
+aprobată de ministrul educației și cercetării, este urmată de
+imposibilitatea acestuia de a mai fi propus în calitate de
+membru al Consiliului C.N.B.S.S. în viitoarele mandate.
+(3) Încălcarea cu intenție a dispozițiilor legale privitoare
+la acordarea burselor atrage, după caz, răspunderea
+disciplinară, civilă, administrativă sau penală.
+
+CAPITOLUL VI
+
+Dispoziții finale
+
+Sancțiuni
+Art. 28. — (1) Membrii Consiliului C.N.B.S.S. au
+obligația de a păstra confidențialitatea asupra conținutului
+dosarelor de candidatură și a rezultatelor evaluării acestora,
+precum și asupra oricăror alte informații prezentate de
+candidați, a căror dezvăluire ar putea aduce prejudicii de
+orice natură C.N.B.S.S. sau candidaților.
+(2) Membrii Consiliului C.N.B.S.S. au obligația de a
+comunica, înainte de începerea ședințelor de atribuire a
+burselor, că nu se află în nici una dintre următoarele
+situații:
+a) este rudă până la gradul al IV-lea inclusiv cu unul
+dintre candidați;
+b) desfășoară o activitate la universitatea/instituția din
+care provine candidatul.
+(3) În cazul în care un membru al Consiliului C.N.B.S.S.
+este în una dintre situațiile prevăzute la alin. (2), acesta
+
+CAPITOLUL VII
+
+Art. 30. — Ședințele Consiliului C.N.B.S.S. și ale
+Biroului executiv al Consiliului C.N.B.S.S. se desfășoară la
+sediul C.N.B.S.S. din municipiul București, str. Spiru Haret
+nr. 12.
+Art. 31. — (1) Transmiterea invitațiilor de participare la
+ședințele Consiliului C.N.B.S.S. și, respectiv, ale Biroului
+executiv al Consiliului C.N.B.S.S. și a ordinii de zi este în
+competența C.N.B.S.S.
+(2) Pe baza confirmării de participare la ședință,
+transmisă la C.N.B.S.S., de către membrii Consiliului
+C.N.B.S.S. și, respectiv, de către membrii Biroului executiv,
+C.N.B.S.S. le comunică organizarea ședinței (data/ora), în
+condițiile respectării prevederilor art. 10 și 26.
+Art. 32. — (1) Prezentul regulament intră în vigoare la
+data emiterii ordinului ministrului educației și cercetării.
+(2) Pe aceeași dată se abrogă orice alte prevederi
+contrare prezentului regulament.
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+Regia Autonomă îMonitorul Oficial“, Str. Parcului nr. 65, sectorul 1, București; C.U.I. 427282; Atribut fiscal R,
+IBAN: RO75RNCB5101000000120001 Banca Comercială Română — S.A. — Sucursala îUnirea“ București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 318.51.29/150, fax 318.51.15, E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 410.47.30, tel./fax 410.77.36 și 410.47.23
+Tiparul: Regia Autonomă îMonitorul Oficial“
+Monitorul Oficial al României, Partea I, nr. 352/19.IV.2006 conține 16 pagini.
+
+Prețul: 1,15 lei noi/11.500 lei vechi
+
+&JUYDGY|115286]
+ISSN 1453—4495
+
+

@@ -1,0 +1,1832 @@
+PARTEA I
+
+Anul 177 (XXI) — Nr. 292
+
+Marți, 5 mai 2009
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+
+193.
+
+— Ordin al președintelui Institutului Național de
+Statistică privind stabilirea Metodologiei de elaborare
+a conturilor naționale nefinanciare în România ..........
+
+1–16
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+GUVERNUL ROMÂNIEI
+INSTITUTUL NAȚIONAL DE STATISTICĂ
+
+ORDIN
+privind stabilirea Metodologiei de elaborare a conturilor naționale nefinanciare în România
+Având în vedere Hotărârea Comitetului de avizare metodologică nr. 3 din 27 iulie 2007,
+ținând seama de cerințele Regulamentului (CE) nr. 2.223/96 al Consiliului din 25 iunie 1996 privind Sistemul european de
+conturi naționale și regionale din Comunitate, referitor la principiile de măsurare a prețurilor și volumelor, cu modificările ulterioare,
+în temeiul prevederilor Ordonanței Guvernului nr. 9/1992 privind organizarea statisticii oficiale, republicată, cu modificările
+și completările ulterioare, precum și ale Hotărârii Guvernului nr. 957/2005 privind organizarea și funcționarea Institutului Național
+de Statistică, republicată, cu modificările ulterioare,
+președintele Institutului Național de Statistică emite următorul ordin:
+Art. 4. — (1) Prezentul ordin va fi pus în aplicare de către
+Art. 1. — Obiectul prezentului ordin îl reprezintă stabilirea
+Metodologiei de elaborare a conturilor naționale nefinanciare în compartimentul de specialitate din cadrul Institutului Național de
+România.
+Statistică.
+Art. 2. — Metodologia menționată la art. 1 este prevăzută în
+(2) Prevederile prezentului ordin devin obligatorii pentru
+anexa care face parte integrantă din prezentul ordin.
+statistica oficială din România.
+Art. 3. — Institutul Național de Statistică va asigura
+Art. 5. — Prezentul ordin se publică în Monitorul Oficial al
+actualizarea metodologiei menționate la art. 1 în funcție de
+legislația europeană.
+României, Partea I.
+Președintele Institutului Național de Statistică,
+Vergil Voineagu
+București, 31 martie 2009.
+Nr. 193.
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 292/5.V.2009
+ANEXĂ
+
+METODOLOGIE
+de elaborare a conturilor naționale nefinanciare în Români
+1. Contabilitatea națională
+1.1. Cadrul legal
+
+Implementarea conturilor naționale în Sistemul statistic
+românesc a constituit o prioritate a perioadei de tranziție,
+începând cu anul de calcul 1989. În România, Sistemul
+european de conturi naționale și regionale versiunea 1995 —
+SEC95 — se aplică începând cu anul 1998. Metodologia SEC95
+este obligatoriu de aplicat, prin Regulamentul (CE) nr. 2.223/96
+al Consiliului din 25 iunie 1996 privind Sistemul european de
+conturi naționale și regionale din Comunitate, referitor la
+principiile de măsurare a prețurilor și volumelor, cu modificările
+ulterioare, în țările membre ale Uniunii Europene, fiind cadrul
+compatibil pe plan internațional cu Sistemul conturilor naționale
+versiunea 1993 — SCN93 —, utilizat de marile organizații
+internaționale. Acest regulament este completat de alte
+documente legislative, emise în timp, precum și de manuale
+detaliate (elaborate de Eurostat, referitoare la aspecte specifice
+ale SEC95: Venitul național brut, Estimări în prețuri constante,
+Servicii de intermediere financiară indirect măsurate, statistică
+guvernamentală etc.). Obligativitatea aplicării SEC95 în cadrul
+Uniunii Europene este întărită prin anexa B la regulamentul
+Consiliului menționat, ce se referă la Programul de transmitere
+a datelor SEC95.
+1.2. Noțiuni generale
+
+Sistemul de conturi naționale SEC95 are importanță politică
+deoarece este utilizat în procedura bugetară a Comunității
+pentru a stabili contribuția fiecărei țări provenind din resursa TVA
+și VNB. De asemenea, prin intermediul SEC95 se realizează
+urmărirea și orientarea politicilor monetare europene — criteriile
+de convergență ale Tratatului de la Maastricht.
+Conturile naționale oferă o descriere sistematică și detaliată
+a economiei totale — regiune, țară, grup de țări —, a
+componentelor sale, precum și a relațiilor cu alte economii,
+acoperind o anumită perioadă de timp — an, trimestru, semestru
+etc. Indiferent de întinderea spațială și temporală a estimărilor,
+conturile naționale se calculează pe baza aceluiași cadru stabilit
+prin regulamentul menționat. SEC95 este armonizat cu
+numeroase concepte și clasificări utilizate în cadrul altor statistici
+sociale și economice, cum ar fi cele privind ocuparea, industria
+sau comerțul exterior.
+Principalele elemente ale sistemului sunt:
+— unitățile statistice și gruparea lor;
+— fluxurile și stocurile;
+— sistemul de conturi și agregatele;
+— cadrul intrări-ieșiri/resurse-utilizări.
+O caracteristică definitorie a SEC95 o reprezintă utilizarea a
+două tipuri de unități și a două modalități de subdivizare a
+economiei:
+a) unitățile instituționale, grupate în următoarele sectoare
+instituționale, pe baza funcțiilor principale, a comportamentului
+și obiectivelor:
+
+• societăți nefinanciare;
+• societăți financiare;
+• administrații publice;
+• gospodăriile populației;
+• instituțiile fără scop lucrativ în serviciul gospodăriilor
+populației;
+• restul lumii.
+Acestea sunt utilizate pentru a descrie veniturile, cheltuielile
+și fluxurile financiare, bilanțurile economiei naționale;
+b) unitățile cu activitate economică la nivel local, grupate în
+ramuri de activitate, pe baza tipului lor de activitate. Ramurile
+de activitate sunt utilizate în vederea descrierii procesului de
+producție și a analizei intrări-ieșiri, cunoscută și ca ăinputoutput”. Tipul de activitate se identifică pe baza Clasificării
+activităților din economia națională Rev.1 aplicate în România,
+perfect compatibilă cu NACE Rev.1.1, clasificarea aplicată la
+nivelul Uniunii Europene. Această clasificare s-a modificat
+începând cu 1 ianuarie 2008.
+Ca regulă contabilă de bază trebuie precizat faptul că, în
+cadrul SEC95, operațiunile efectuate de către o unitate sau un
+sector fac obiectul unei înregistrări în partidă dublă, cele două
+părți ale contului fiind reprezentate de resurse și utilizări,
+permițând verificarea coerenței conturilor. În practică, conturile
+naționale sunt bazate pe principiul intrărilor cvadruple, datorită
+faptului că majoritatea operațiunilor implică două unități
+instituționale și astfel ele trebuie să fie înregistrate de două ori,
+pentru fiecare unitate.
+Contabilitatea națională operează cu noțiunea de agregate,
+acestea fiind valori sintetice care măsoară rezultatul activității
+economiei totale văzut dintr-o perspectivă particulară, de
+exemplu a producției, valorii adăugate, venitului disponibil,
+consumului final etc. Agregatelor le este recunoscută importanța
+atât ca indicatori de sinteză, cât și ca valori de referință.
+2. Sfera de cuprindere a conturilor naționale nefinanciare
+în România
+În România, conturile naționale nefinanciare se realizează
+de către Direcția de conturi naționale și sinteze
+macroeconomice, pentru următoarele componente:
+A. conturile naționale anuale. Acestea se calculează atât în
+prețuri curente, cât și în prețuri constante — prețurile anului
+anterior;
+B. conturile naționale trimestriale. Estimările acestora se fac
+în prețuri curente, în prețurile trimestrului corespunzător al anului
+precedent și în prețurile medii ale anului 2000, prin metoda
+înlănțuirii volumelor;
+C. conturile regionale. Calculele se realizează în prețuri
+curente.
+Programul de elaborare a variantelor provizorii,
+semidefinitive și definitive ale conturilor naționale anuale este
+prezentat în tabelul următor:
+
+Termenele de realizare
+
+Versiunea
+
+Date disponibile
+
+N+3 luni
+Martie
+
+Provizorie
+
+Contul de producție, pe 4 ramuri de activitate și PIB total, în prețuri
+curente și prețuri constante — prețurile anului anterior. PIB calculat
+pentru principalele agregate de cheltuieli
+
+N+12 luni
+Decembrie
+
+Semidefinitivă
+
+Contul de producție, pe 14 ramuri de activitate și PIB total, în
+prețuri curente și prețuri constante, precum și PIB calculat pentru
+principalele agregate de cheltuieli
+
+N+21 luni
+Septembrie
+
+Definitivă
+
+Tabelul intrări-ieșiri în prețuri curente și constante și tabelul
+conturilor economice integrate
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 292/5.V.2009
+În varianta definitivă a conturilor naționale se elaborează
+tabelele de sinteză prevăzute de SEC95, și anume:
+A. Tabelul intrări-ieșiri/resurse-utilizări pe ramurile de
+activitate ale economiei naționale, estimări anuale. Echilibrarea
+acestuia se realizează la nivel de 105 ramuri de activitate,
+obținute pe baza clasificării CAEN Rev.1. Tabelul se elaborează
+atât în prețuri curente, cât și în prețurile anului anterior, numai în
+faza definitivă de estimare a conturilor naționale. Principalele
+identități contabile urmărite în acest cadru de calcul sunt:
+a) identitatea pe ramuri de activitate:
+Producția = consum intermediar + valoarea adăugată brută,
+în care:
+Valoarea adăugată brută = remunerarea salariaților
++ impozite pe producție
+– subvenții pe producție
++ excedentul brut de exploatare
+b) identitatea pe produse:
+Total resurse = total utilizări
+În același timp, pentru fiecare produs se verifică următoarea
+identitate:
+Producția + importurile
+= consumul intermediar
++ consumul final
++ exporturile
++ formarea brută de capital
+Tabelul resurselor și utilizărilor exprimă fluxurile înregistrate
+pentru următoarele conturi:
+— Contul de bunuri și servicii;
+— Contul de producție;
+— Contul de exploatare.
+Trecerea de la tabelele resurselor și utilizărilor în prețuri de
+bază la tabelele în prețuri de achiziție se face prin:
+— realocarea adaosului comercial;
+— realocarea marjelor de transport;
+— adăugarea impozitelor nete pe produse.
+Aceste transformări constituie o etapă fundamentală a
+procesului de echilibrare și sunt detaliate în tabele distincte.
+B. Tabelul conturilor economice integrate se realizează
+anual, în prețuri curente, pentru cele 6 sectoare instituționale.
+Principalele conturi și subconturi nefinanciare prevăzute de
+sistemul conturilor naționale sunt următoarele:
+— Contul de bunuri și servicii (0);
+— Contul de producție (I);
+— Conturile de distribuire primară a venitului (II.1):
+— Contul de exploatare (II.1.1);
+— Contul de alocare a veniturilor primare (II.1.2):
+— Contul de venit al întreprinderii (II.1.2.1);
+— Contul de alocare a altor venituri primare (II.1.2.2);
+— Contul de distribuire secundară a venitului (II.2);
+— Contul de redistribuire a venitului în natură (II.3);
+— Contul de utilizare a venitului (II.4):
+— Contul de utilizare a venitului disponibil (II.4.1);
+— Contul de utilizare a venitului disponibil ajustat (II.4.2);
+— Contul de capital (III.1):
+— Contul variațiilor nete datorate economiei și transferurilor
+de capital (III.1.1);
+— Contul achizițiilor de active nefinanciare (III.1.2).
+
+3
+
+Conturile sunt echilibrate cu ajutorul soldurilor contabile. Cele
+mai importante solduri contabile sunt: valoarea adăugată,
+excedentul de exploatare, soldul veniturilor primare, venitul
+disponibil, economia și capacitatea/necesarul de finanțare,
+exprimate în valoare brută sau netă.
+3. Sursele de date
+Sursele de date utilizate în estimarea conturilor naționale
+sunt numeroase și variate, căutându-se permanent
+îmbunătățirea celor existente, precum și găsirea de noi surse
+de informații. Furnizorii principali ai acestora sunt direcțiile de
+specialitate ale INS, MFP, BNR etc. Procesul de integrare a
+informațiilor de bază existente, modificate sau nou-apărute, se
+realizează în respect cu cerințele metodologice ale SEC95.
+Principalele surse de date sunt enumerate mai jos:
+• Surse statistice:
+
+— ancheta structurală în întreprinderi;
+— ancheta bugetelor de familie;
+— ancheta forței de muncă în gospodării;
+— conturile economice pentru agricultură;
+— balanța produselor agricole;
+— costul forței de muncă;
+— recensământul populației și locuințelor din 2002;
+— anchete specifice realizate de către direcțiile de specialitate
+din INS privind industria, transporturile, comerțul, construcțiile,
+serviciile etc.;
+— alte anchete anuale și infraanuale disponibile privind
+producția industrială, de construcții, servicii, comerț; contul de
+producție al agriculturii.
+Registrul statistic reprezintă sursa unică de furnizare a
+nomenclatoarelor de unități pentru derularea anchetelor
+statistice. Principala caracteristică a REGIS este
+compatibilitatea completă cu alte registre utilizate în economie.
+• Surse administrative:
+
+— execuția bugetului general al administrațiilor publice —
+raportările bugetare, format din: bugetul administrației publice
+centrale; bugetele administrațiilor locale; bugetul securității
+sociale, compus din: Fondul pentru plata ajutorului de șomaj,
+Fondul unic de asigurări sociale de sănătate, Fondul de
+securitate socială;
+— declarațiile pe venitul global din activitățile independente,
+depuse de către întreprinzătorii individuali și asociațiile familiale
+la MFP.
+• Surse contabile și financiare:
+
+— situațiile financiare ale societăților financiare;
+— situațiile financiare ale altor operatori economici.
+• Alte surse de date:
+
+— balanța de plăți.
+Deoarece în conturi naționale se utilizează cele două tipuri
+de unități pentru subdivizarea economiei — sectoare
+instituționale și ramuri de activitate —, sursele de date folosite
+pot fi diferite pentru fiecare dintre acestea:
+• pentru ramurile de activitate, principalele surse de date
+sunt: ancheta structurală din întreprinderi, care are două capitole
+speciale pentru estimarea conturilor naționale, ancheta forței de
+muncă în gospodării, balanța produselor agricole, conturile
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 292/5.V.2009
+
+economice din agricultură, alte surse de date de la direcțiile de
+specialitate ale INS pentru activități de comerț, transporturi,
+construcții etc.;
+• pentru sectoarele instituționale, principalele surse de date
+sunt: situațiile financiare ale societăților nefinanciare, situațiile
+financiare ale societăților financiare, societăților de asigurări și
+ale IFSLSGP, sursele de date administrative — execuția
+bugetului administrațiilor publice, veniturile și cheltuielile
+instituțiilor publice finanțate parțial sau total din fonduri
+extrabugetare, balanța de plăți, declarațiile pe veniturile globale
+etc.
+4. Unitate statistică și unitate de calcul
+Unitatea de observare și înregistrare, cum ar fi unitatea
+statistică, este întreprinderea, chiar dacă anchetele pot furniza
+și informații referitoare la unitățile lor locale, precum și împărțiri
+pe activități realizate de către întreprindere pe ramuri omogene
+la nivel de 4 cifre CAEN Rev.1/NACE Rev.1.1. Întreprinderea se
+definește ca cea mai mică unitate stabilită legal, cu personalitate
+juridică, având independență în luarea deciziilor, ce ține
+contabilitate proprie și este organizată să realizeze activități în
+una sau mai multe locații, una sau mai multe activități de
+producție.
+Unitățile de calcul sunt următoarele:
+— întreprinderile — pentru estimarea PIB pe sectoare
+instituționale în cadrul tabelului conturilor economice integrate;
+— ramurile omogene — pentru calculul PIB pe ramuri de
+activitate în cadrul tabelului resurse-utilizări/intrări-ieșiri. Unitatea
+cu activitate locală se utilizează pentru a forma ramurile
+omogene de activitate în cadrul estimărilor PIB.
+5. Produsul intern brut în prețuri curente
+Produsul intern brut, principalul agregat macroeconomic al
+contabilității naționale, reprezintă rezultatul final al activității de
+producție a unităților producătoare rezidente. Acesta se poate
+calcula în variantă definitivă prin 3 metode: metoda de producție,
+metoda cheltuielilor și metoda veniturilor. Valorile PIB calculate
+independent prin cele 3 metode sunt reconciliate în vederea
+obținerii unei estimări unice a PIB.
+5.1. Metoda de producție
+
+PIB prin metoda de producție se obține pe baza următoarei
+formule de calcul:
+PIB = VAB + IP + TV – SP,
+unde:
+PIB = produsul intern brut la preț de piață;
+VAB = valoarea adăugată brută la preț de bază;
+IP = impozite pe produse;
+TV = taxe vamale/drepturi asupra importurilor;
+SP = subvențiile pe produse;
+iar:
+VAB = producția de bunuri și servicii — consum intermediar.
+5.1.1. Evaluarea principalelor agregate
+• Evaluarea producției de bunuri și servicii
+
+Producția de piață reprezintă producția de bunuri și servicii
+vândute pe piață la prețuri semnificative din punct de vedere
+economic sau destinate pieței. Prin convenție, conform SEC95,
+toate bunurile sunt considerate a fi vândute sau destinate pieței.
+
+Producția de servicii de piață cuprinde toate serviciile care sunt
+destinate pieței, fiind prestate de unități ale căror costuri de
+producție sunt acoperite cu mai mult de 50% de veniturile
+provenite din vânzarea producției lor: comerț, transport,
+comunicații, servicii personale și sociale. Criteriul
+veniturilor/costurilor este utilizat pentru toate serviciile de piață.
+Producția de piață este înregistrată și evaluată la preț de bază
+atunci când este generată prin procesul de producție.
+Producția pentru consum final propriu cuprinde bunuri și
+servicii produse și reținute de producătorii lor fie în scopul
+consumului final, fie în scopul formării brute de capital fix. Cum
+societățile nu au consum final, producția pentru consum final
+propriu este realizată numai de către gospodăriile populației, de
+exemplu, bunurile agricole produse și consumate de membrii
+aceleiași gospodării, serviciile de locuințe produse de proprietarii
+ocupanți etc. Bunurile și serviciile utilizate pentru formarea brută
+proprie de capital fix pot fi produse de orice tip de întreprindere.
+Acestea includ mașini-unelte, construcții realizate pentru uzul
+propriu al întreprinderii, locuințele și extinderile la locuințe
+realizate de către gospodăriile populației. Producția pentru
+consum final propriu este evaluată la prețul de bază al
+produselor similare vândute pe piață. Această producție poate
+genera un excedent de exploatare net sau un venit mixt.
+Aceeași regulă este aplicată producției de locuință a
+proprietarilor ocupanți ai locuințelor. Evaluarea producției pe
+cont propriu de construcții se bazează pe costurile de producție.
+Altă producție non-piață cuprinde bunurile și serviciile
+furnizate de unitățile aparținând administrațiilor publice sau
+instituțiilor fără scop lucrativ în serviciul gospodăriilor populației
+către alte unități, în mod gratuit sau la prețuri nesemnificative
+din punct de vedere economic. Aceasta se evaluează pe baza
+costurilor de producție care rezultă din însumarea următoarelor
+elemente: consum intermediar, remunerarea salariaților, consum
+de capital fix și alte impozite pe producție, mai puțin subvențiile
+pe producție. Producția non-piață se identifică cu total costuri
+de producție minus venituri din vânzări.
+Aceste principii generale de evaluare a producției prezintă
+câteva particularități, depinzând de natura activităților realizate.
+În conturile naționale românești se identifică anumite cazurilimită, semnalate prin SEC95, privind producția:
+— producția pe cont propriu de formare brută de capital fix
+este inclusă în producție pentru anumite cazuri speciale:
+software — deja acoperit de ASA și este în concordanță cu
+cerințele SEC95; exploatări miniere — deja acoperite prin ASA;
+construcțiile de locuințe ale gospodăriilor;
+— producerea, stocarea și prelucrarea produselor agricole
+pe cont propriu de către gospodării, principala sursă de date
+pentru acestea fiind balanța produselor agricole, care acoperă
+resursele și utilizările produselor agricole la nivel detaliat;
+— producția de servicii de locuință în cadrul sectorului
+gospodăriilor populației este, de asemenea, inclusă, iar
+estimările se realizează pe baza a două metode: metoda ăUserCost” și metoda stratificării, acestea oferind posibilitatea
+comparării celor două rezultate, până la apariția de noi surse de
+date în acest domeniu;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 292/5.V.2009
+— producția din acvacultură din fermele de acest tip,
+utilizând surse de date disponibile de la Ministerul Agriculturii,
+Pădurilor și Dezvoltării Rurale;
+— producția pe cont propriu de formare de capital fix
+constând în lucrările originale literare, artistice și de divertisment,
+primele estimări fiind făcute pentru anul 2003.
+• Evaluarea consumului intermediar
+
+Consumul intermediar este egal cu valoarea bunurilor și
+serviciilor utilizate ca intrări de-a lungul procesului de producție,
+excluzând activele fixe al căror consum este înregistrat drept
+consum de capital fix. Aceste bunuri și servicii ce intră în
+procesul de producție sunt ori transformate, ori consumate în
+totalitate în procesul de producție.
+Produsele utilizate pentru consum intermediar trebuie
+înregistrate în momentul introducerii în procesul de producție și
+trebuie evaluate la prețurile de achiziție.
+Anumite cazuri-limită sunt incluse în consum intermediar din
+conturile naționale românești, conform SEC95:
+— costurile de utilizare a activelor fixe închiriate — leasing
+operațional —, utilizând date obținute din ASA, care conține
+întrebări speciale legate de acest element;
+— întreținerea, reparațiile curente ale activelor fixe utilizate în
+producție;
+— subscrierile, contribuțiile plătite asociațiilor de afaceri nonprofit;
+— cheltuielile angajatorilor în beneficiul lor și al angajaților,
+cheltuieli necesare producției;
+— pentru economia totală: toate serviciile de intermediere
+financiară indirect măsurate, furnizate de producătorii rezidenți;
+alocarea SIFIM pe sectoare instituționale și repartizarea pe
+ramuri de activitate s-au realizat începând cu anul de calcul 2000;
+— uneltele mici și obiectele de inventar ce costă mai puțin de
+500 euro, la prețurile anului 1995, pentru fiecare element sau
+toată achiziția; cele ce costă mai mult de 500 euro și se
+utilizează în procesul de producție mai mult de un an sunt
+incluse în FBCF;
+— plățile pentru licențele de reproducere a activelor
+necorporale: patente, mărci înregistrate, drepturi de înregistrare
+etc. și licențele de utilizare a acestora.
+• Alte elemente de valorizare
+
+Aceste elemente sunt adunate la valoarea adăugată brută la
+preț de bază pentru estimarea PIB la prețurile pieței, fiind
+următoarele: impozitele pe produse și subvențiile pe produse.
+Datele provenite de la administrațiile publice sunt suficient
+de detaliate pentru a se putea trata informațiile privind impozitele
+și subvențiile în conformitate cu SEC95. Începând cu anul 2000,
+toate impozitele și subvențiile pe producție și produse,
+contribuțiile sociale și dobânzile sunt evaluate pe baza dreptului
+constatat în conturi naționale, conform cerințelor SEC95.
+Corecția ăplata efectivă”—ădrept constatat” se realizează prin
+metoda ăajustării temporale la plata efectivă”, însemnând că
+veniturile fiscale din luna ianuarie din anul ăt+1” minus veniturile
+fiscale din luna ianuarie anul ăt” sunt adăugate la sumele
+calculate pe baza plății efective.
+
+5
+
+5.1.2. Estimarea principalelor agregate pe sectoare instituționale
+a) Sectorul ăSocietăți nefinanciare” — S.11
+
+Principalele surse de date utilizate pentru calculul producției
+și consumului intermediar în cadrul acestui sector instituțional
+sunt situațiile financiare ale unităților nefinanciare juridice ale
+căror bilanțuri contabile sunt incluse în bilanțul agregat al
+economiei naționale.
+Producția acestui sector include producția de piață și
+producția pentru consum final propriu. Producția pentru consum
+final propriu cuprinde bunurile și serviciile utilizate pentru
+formarea brută de capital fix: mașini-unelte, construcții produse
+pentru utilizare proprie de către întreprinderi etc.
+Deoarece producția trebuie înregistrată și evaluată atunci
+când este generată în procesul productiv, prețul de evaluare
+este prețul de bază.
+Pentru a estima producția la prețuri de bază se utilizează
+următorii indicatorii disponibili în situațiile financiare, în contul
+de profit și pierdere cu predilecție:
+Producția la prețuri de bază
+
+= cifra
+de
+afaceri
+din
+activitatea
+de
+bază
+(veniturile din vânzări)
++ cifra de afaceri din alte
+activități (exclusiv TVA)
++ variația
+stocurilor
+la
+producător, pentru bunurile
+finite și producția în curs de
+execuție
++ subvențiile pe produse
+– costul mărfurilor destinate
+revânzării
+– impozitele pe produse
+Estimarea producției este ulterior ajustată cu următoarele
+elemente:
+— diferența dintre datele privind subvențiile pentru tarife și
+diferențele de preț, așa cum sunt înregistrate în situațiile
+contabile, și cifrele obținute din bugetele de stat și locale;
+— reclasarea unor unități în alte sectoare instituționale. Este
+cazul producției cooperativelor de credit, caselor de schimb
+reclasate în sectorul ăSocietăți financiare”; de asemenea,
+unitățile fără scop lucrativ ale căror venituri provin, în proporție
+de peste 50%, din vânzarea de bunuri și servicii de piață sunt
+excluse din IFSLSGP și adăugate sectorului ăSocietăți
+nefinanciare”;
+— economia neobservată privind evaziunea fiscală la plata
+TVA , pentru munca la negru și bacșișuri;
+— aprecierea de stoc de la producător și cea de la comerț;
+— producția de software.
+Consumul intermediar este calculat pe total sector ăSocietăți
+nefinanciare”, utilizând aceleași surse de date ca și pentru
+producție: situațiile financiare centralizate. În acest sens, calculul
+consumului intermediar se realizează însumând cheltuielile
+angajate de unități, după cum urmează:
+Consumul intermediar = cheltuielile cu materiile prime
++ cheltuielile cu consumabilele
++ cheltuielile cu energia și apa
++ alte cheltuieli materiale
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 292/5.V.2009
+
+Consumul intermediar pentru societăți nefinanciare și cvasisocietăți mai include următoarele: serviciile achiziționate,
+inclusiv comisioanele plătite consultanților; cheltuielile de
+recreere, publicitate și călătorie — transport, cazare; uneltele
+mici, obiectele de inventar și părți de mașini care au o valoare
+sub cea stabilită de lege pentru acel an sau o durată de utilizare
+mai mică de un an pentru a intra în categoria FBCF; reparații
+curente și de întreținere pentru toate activele fixe utilizate în
+producție; alte cheltuieli generale ale unității.
+Și în cazul consumului intermediar se aplică aceleași ajustări
+ca și pentru producție. Valoarea câștigurilor din deținere și a
+pierderilor cu stocurile de materii prime este, de asemenea,
+tratată. Serviciile de intermediere financiară indirect măsurate,
+incluse în consumul intermediar, au fost realocate pe sectoare
+instituționale și ramuri de activitate începând cu anul 2000.
+Valoarea câștigurilor din deținerea stocurilor la producător și
+a bunurilor destinate revânzării este scăzută pe sectoare
+instituționale și pe tipuri de activități și afectează atât producția,
+cât și consumul intermediar.
+Valoarea adăugată brută poate rezulta atât ca diferență între
+producție și consum intermediar, cât și ca sumă între:
+remunerarea salariaților, alte impozite pe producție, mai puțin
+subvențiile, plus excedentul brut de exploatare.
+b) Sectorul ăSocietăți financiare” — S.12
+
+Sursele de date pentru calculul agregatelor acestui sector
+sunt situațiile financiar-contabile ale acestor unități instituționale,
+care sunt special concepute de BNR, precum și balanța de plăți.
+Datele din situațiile financiar-contabile ale societăților de
+asigurări sunt incluse în raportul Comisiei de Supraveghere a
+Asigurărilor.
+Funcțiile principale ale unităților instituționale incluse în acest
+sector sunt: intermedierile financiare și auxiliarii financiari.
+Activitățile financiare sunt împărțite în două categorii principale:
+intermediere financiară și asigurări.
+Producția și consumul intermediar sunt calculate separat
+pentru fiecare subsector al sectorului ăSocietăți financiare”, în
+concordanță cu sursele de date specifice.
+c) Sectorul ăAdministrații publice” — S.13
+
+Acest sector acoperă activitățile realizate de producătorii de
+non-piață. Producția producătorilor de non-piață se estimează
+pe baza costurilor de producție, care corespund cu următoarele
+elemente: consum intermediar, remunerarea salariaților și
+consumul de capital fix.
+Producția de piață a producătorilor de non-piață este
+estimată la prețuri de bază.
+Producția se calculează ca sumă de consum intermediar și
+de valoare adăugată brută.
+Valoarea activităților realizate de unitățile administrațiilor
+publice se determină pe baza informațiilor provenite din conturile
+generale anuale de execuție pentru bugetul de stat, bugetul
+local, bugetul asigurărilor sociale de stat, bugetul Fondului unic
+de asigurări sociale de sănătate, bugetul asigurărilor pentru
+șomaj, bugetul instituțiilor publice finanțate integral sau parțial
+în subordinea ministerelor și prefecturilor.
+
+d) Sectorul ăGospodăriile populației” — S.14
+
+În producția acestui sector se cuprind:
+— veniturile brute obținute de întreprinzătorii individuali și
+asociațiile familiale implicați în activități productive;
+— venituri obținute de fermieri din vânzarea produselor
+agricole;
+— chiria imputată pentru serviciile de locuință proprietarilor
+ocupanți;
+— valoarea produselor alimentare și nealimentare produse
+de gospodării și utilizate pentru consumul propriu sau pentru
+vânzare pe piețele țărănești;
+— estimările activităților din economia neobservată.
+Principalele surse de date utilizate sunt: declarațiile pe
+venitul global al persoanelor independente și asociațiilor
+familiale, depuse la MFP; balanța produselor agricole; ancheta
+bugetelor de familie; ancheta forței de muncă și recensământul
+populației și locuințelor.
+Consumul intermediar acoperă bunurile și serviciile utilizate
+în producția gospodăriilor.
+Valoarea adăugată brută rezultă ca diferență între producție
+și consumul intermediar.
+e) Instituțiile fără scop lucrativ în serviciul gospodăriilor populației —
+S.15
+
+Producția acestor servicii este evaluată la costul de
+producție, prin însumarea elementelor de consum intermediar,
+remunerare a salariaților, impozite nete și consum de capital fix.
+Toate veniturile altor producători de non-piață din activitățile lor
+secundare sunt tratate ca venituri pentru un tip de producție de
+piață.
+Informațiile privind activitățile realizate de IFSLSGP sunt
+obținute din situațiile financiare colectate/centralizate de MFP și
+din alte surse statistice.
+5.1.3. Tranziția de la contabilitatea privată și conceptele administrative
+la conceptele SEC95, pentru sectoarele instituționale
+
+În procesul de elaborare a conturilor naționale pentru
+societățile nefinanciare este prevăzută corelarea dintre
+indicatorii din sistemul de contabilitate a întreprinderilor și cel al
+conturilor naționale. Acest demers se realizează în cadrul
+sistemului intermediar de conturi, care are scopul de a plasa
+informațiile utilizate într-o perspectivă macroeconomică, fără a
+pierde coerența internă dintre sursele de date.
+Începând cu conturile întreprinderilor care sunt echilibrate și
+elaborate dintr-o perspectivă patrimonială, sistemul intermediar
+reia în mod global fiecare cont dintr-o perspectivă
+macroeconomică și una financiară, având în vedere
+următoarele:
+— menținerea echilibrului contabil individual;
+— reținerea operațiilor corespunzătoare fluxurilor externe.
+Pentru a realiza sistemul simplificat de conturi al societăților
+nefinanciare sunt utilizate, pe lângă datele din bilanțurile
+contabile, date și din alte surse, cum ar fi execuția bugetului de
+stat pentru impozite și subvenții. Următorul pas constă în
+consolidarea fiecărei operațiuni, prin analizarea ei în relație cu
+alte sectoare instituționale. Procesul se finalizează prin
+elaborarea tabelului conturilor economice integrate, tabel de
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 292/5.V.2009
+sinteză al conturilor naționale, din perspectiva sectoarelor
+instituționale.
+Intermedierile financiare și asigurările reprezintă activitățile
+desfășurate în cadrul sectorului ăSocietăți financiare”, prin
+intermediul BNR, instituțiilor financiar-monetare, intermediarilor
+financiari și al auxiliarilor financiari. Unitățile instituționale
+corespunzătoare instituțiilor financiar-monetare și BNR
+utilizează instrumente contabile bazate pe contabilitatea
+întreprinderilor specifice acestui sector de activitate. Pentru a
+se realiza conturile acestui sector este necesar să se analizeze
+conținutul bilanțurilor și transpunerea acestor informații în
+operații ale conturilor naționale.
+Sectorul instituțional ăAdministrații publice” ocupă un rol
+central în elaborarea conturilor naționale datorită numeroaselor
+informații pe care le pune la dispoziție, nu numai asupra
+activității lui, dar și a celor desfășurate de celelalte sectoare, și
+datorită rolului său privilegiat în politica economică a unei țări.
+Pentru realizarea conturilor acestui sector este necesară o bună
+cunoaștere a organizării administrative, a procedurilor contabile,
+a regulilor sale de funcționare și a textelor juridice ce
+reglementează operațiunile.
+5.1.4. Principalele metode utilizate în abordarea exhaustivității
+
+O atenție specială în cadrul procesului de elaborare a PIB
+din România este dată estimărilor de economie neobservată,
+includerea lor oferind un plus de calitate și exhaustivitate
+conturilor naționale.
+Manualul OCDE — ediția 2002 — privind măsurarea
+economiei neobservate, elaborat în strânsă conexiune cu
+SCN93, se referă la următoarele arii problematice: producția
+subterană — ce evită fiscalitatea sau anumite reglementări
+legale, producția ilegală — interzisă prin lege, producția
+sectorului informal din cadrul gospodăriilor populației și
+producția gospodăriilor pentru consum final propriu. Manualul
+conține sugestii de abordare a estimărilor pentru fiecare arie în
+parte, urmărite în conturile naționale românești.
+5.1.5. Identificarea economiei neobservate în România
+
+Pentru identificarea economiei neobservate în România se
+recurge la clasificarea întregii economii în două sectoare: formal
+și informal. Metoda folosită de INS a fost îmbunătățită an de an
+în funcție de noile surse de date existente, iar din anul 1996
+există o stabilitate a surselor de date, metodologia fiind aceeași
+și asigurând comparabilitatea datelor.
+Pentru sectorul formal se are în vedere abordarea
+subraportării utilizării forței de muncă, precum și a evaziunii
+fiscale de către societățile nefinanciare, cu impact în
+subraportarea valorii adăugate brute.
+Evaluarea forței de muncă neînregistrate — ămunca la
+negru” — reprezintă cea mai importantă parte a economiei
+neobservate. Metoda folosită se bazează pe compararea cererii
+și ofertei de muncă cu scopul de a identifica persoanele care
+realizează o activitate legală într-o unitate din sectorul formal,
+dar nu sunt declarate autorităților. Estimarea ofertei de forță de
+muncă folosește datele din AMIGO și alte surse administrative
+privind participarea populației pe piața muncii. Ancheta oferă
+informații despre numărul de persoane care au declarat că au
+desfășurat o activitate plătită în perioada de referință. Estimarea
+ofertei de forță de muncă se realizează pe ramuri omogene de
+
+7
+
+activitate, la nivel de două cifre CAEN, fără agricultură și
+administrație publică. Producția agricolă se calculează în
+conturile naționale, folosind date cantitative, iar pentru
+administrația publică se aplică ipoteza conform căreia unitățile
+aparținând acestui sector nu subevaluează activitatea depusă.
+Ancheta structurală anuală este sursa de date pentru
+cererea de forță de muncă. Astfel, se utilizează datele privind
+numărul mediu de angajați, pe activități omogene, la nivel de
+4 cifre CAEN.
+Diferența dintre numărul persoanelor care au declarat că
+muncesc într-o întreprindere și numărul persoanelor declarate
+angajate de întreprinderi reprezintă ămunca la negru”. Munca la
+negru este evaluată cu aceleași componente ale situației legale:
+salarii brute medii, contribuții la asigurări sociale etc. Consumul
+intermediar este determinat folosind aceeași pondere în
+producție ca cea obținută de întreprinderile mici pentru
+respectivele ramuri de activitate.
+În conturile naționale românești se fac estimări privind
+evaziunea de la plata taxei pe valoarea adăugată. Evaziunea
+fiscală se obține ca diferență între TVA teoretică și cea încasată
+la bugetul de stat. TVA teoretică este estimată cu ajutorul
+elementelor de consum intermediar, consum final al
+gospodăriilor populației, consum final al administrației publice și
+private și FBCF, pe baza cotelor de TVA pe produse, stabilite
+prin lege. Această fraudă fiscală este inclusă în valoarea
+producției, precum și în valoarea adăugată brută pentru fiecare
+ramură corespunzătoare.
+În ceea ce privește sectorul informal, estimarea economiei
+neobservate se realizează pentru toate activitățile realizate de
+asociațiile familiale și lucrătorii pe cont propriu. Informațiile
+despre aceste activități provin de la MFP. Estimarea nu este pur
+de subraportare, pentru că metoda conține, de asemenea, și o
+problemă de neînregistrare și de lipsă a anchetelor statistice pe
+acest segment al economiei.
+Pe baza datelor din ancheta forței de muncă se estimează
+numărul de persoane care lucrează în asociații familiale și al
+întreprinzătorilor individuali/liber-profesioniști. Realizarea
+estimărilor se face pe principiul conform căruia veniturile
+persoanelor nesalariate nu pot fi mai mici decât media
+câștigurilor realizate de angajații din unitățile mici cu același
+domeniu de activitate. Declarațiile de venit ale asociațiilor
+familiale și lucrătorilor pe cont propriu, depuse la MFP, sunt
+comparate și ajustate cu valoarea acestor calcule. Astfel, sunt
+ajustate veniturile, evaziunea fiscală a unităților înregistrate în
+sectorul informal fiind total eliminată.
+O altă categorie importantă a economiei neobservate o
+reprezintă activitatea realizată de unitățile neînregistrate din
+sectorul informal. În această categorie intră: croitorii, mecanicii
+auto, coaforii, zugravii, instalatorii, profesorii care predau lecții
+particulare, persoane care închiriază casa în timpul vacanței etc.
+Pentru astfel de activități se realizează evaluări distincte,
+folosindu-se ipoteze specifice și surse de date disponibile din
+sistemul statistic, pentru următoarele ramuri de activitate:
+hoteluri, construcții, educație.
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 292/5.V.2009
+
+5.1.6. Evaluarea principalelor agregate pe ramuri de activitate
+
+Informațiile utilizate în estimările pentru majoritatea ramurilor
+de activitate se bazează pe metode directe, adică anchete
+statistice, și pe înregistrările administrative ale administrațiilor
+publice. Ancheta structurală din întreprinderi acoperă toate
+domeniile economice și colectează informații detaliate privind
+elementele necesare pentru estimarea producției și a
+consumului intermediar, de exemplu distribuția cheltuielilor din
+consumul intermediar, pe activitățile întreprinderii conform
+claselor CAEN și pe bunuri și servicii de proveniență. În general,
+anchetele statistice realizate de INS sunt adaptate conceptelor
+SEC95, pentru a oferi informații directe necesare estimării
+conturilor naționale. Informații suplimentare sunt colectate prin
+anchete asupra fiecărui domeniu important: comerț, transport,
+pescuit, construcții, domeniul hotelier și restaurante etc.
+În continuare vor fi amintite doar acele ramuri care prezintă
+anumite particularități de estimare conform conturilor naționale.
+Agregatele conturilor naționale referitoare la activitățile
+agricole sunt estimate pe baza conturilor economice din
+agricultură, realizate de direcția de specialitate din INS. Acestea
+răspund cerințelor Eurostat de estimare a producției agricole,
+vegetale și animale, precum și a serviciilor agricole.
+Producția în ramura de comerț acoperă:
+— valoarea ăadaosului comercial” din comerțul cu ridicata și
+cu amănuntul; aceasta se obține ca diferență între veniturile din
+vânzări și costurile bunurilor cumpărate de comerciant — costul
+mărfurilor; estimările asupra adaosului comercial pe produs sunt
+obținute pe baza rezultatelor unei anchete speciale conduse
+asupra unui eșantion de produse vândute cu amănuntul și cu
+ridicata, efectuată în cadrul Direcției de conturi naționale;
+— valoarea serviciilor de reparații și întreținere ale
+autovehiculelor și motocicletelor;
+— valoarea serviciilor de reparații ale bunurilor personale și
+gospodărești.
+Producția ramurii de transport și depozitare se măsoară prin
+veniturile obținute din serviciile de transport, atât de bunuri, cât
+și de pasageri, excluzându-se impozitele pe produse. Marjele
+de transport reprezintă ăcosturile cu transportul mărfurilor plătite
+separat de către beneficiar sau producător unei terțe persoane”.
+În cazurile când aceste costuri nu pot fi separate, atunci ele sunt
+incluse în prețul de bază al ramurii transporturilor.
+În conturile naționale românești marjele de transport se
+calculează în următoarele situații:
+— costurile implicate de transportul bunurilor de la
+producător la cumpărător, când producătorul plătește serviciile
+de transport unei terțe firme, cu condiția ca suma să fie explicit
+facturată cumpărătorului;
+— costul transportului bunurilor, când vânzătorul specifică
+suportarea acestuia de către beneficiar, indiferent cine
+realizează transportul, producătorul sau comerciantul.
+Excepții de la aceste reguli sunt:
+— producătorul care suportă costurile de transport până la
+beneficiar și această situație este specificată în contract;
+— producătorul care transportă produsul, fără facturarea
+separată a cheltuielilor de transport; aceste cheltuieli nu pot fi
+identificate, fiind înregistrate în consecință drept consum
+intermediar;
+
+— comerciantul care transportă bunurile la beneficiar, dar nu
+specifică separat costul transportului.
+Evaluarea marjelor de transport se realizează separat pentru
+fiecare tip de transport.
+Marjele de transport, precum și adaosul comercial reprezintă
+elemente utilizate pentru trecerea de la prețul de bază la cel de
+piață al produsului sau serviciului.
+În cadrul ramurii de servicii imobiliare se include estimarea
+chiriilor, care se face în concordanță cu recomandările
+metodologice SEC95. Chiriile totale cuprind estimări ale chiriilor
+efective și ale chiriilor imputate pentru locuințele ocupate de
+către proprietari.
+Din punctul de vedere al chiriei efective se disting două
+situații:
+— chiria pentru locuințele de stat — acelea deținute de stat
+sau de administrațiile locale;
+— chiria plătită proprietarilor privați care închiriază locuințe.
+Serviciilor de locuință ale proprietarilor ocupanți le sunt
+corespunzătoare chiriile imputate. Chiria imputată este cea pe
+care ar trebui să o plătească un locatar pentru o locuință similară
+dacă ar fi închiriat-o.
+Pentru estimarea chiriei imputate se folosesc informații
+privind valoarea chiriei efective pe metru pătrat plătite de chiriașii
+de locuințe proprietate privată. Estimarea chiriei imputate se
+face pe județe pe baza informațiilor privind suprafața locuibilă a
+fiecărui județ, numărul de locuințe cu proprietari privați și al
+locuințelor ocupate de proprietari în apartamente și case
+individuale, pe medii, urban și rural, precum și a valorii chiriei
+pe medii. Se estimează valoarea chiriei imputate pe total țară
+din însumarea acesteia pe mediu urban/rural, pe județe și pe
+tipuri de locuințe.
+Primele estimări ale chiriei imputate au fost realizate încă din
+anul 1990 odată cu introducerea estimărilor pentru conturi
+naționale. Metodologia de calcul a fost mereu îmbunătățită, iar
+din anul 1997, ca urmare a recomandărilor Eurostat, au fost
+făcute primele estimări ale chiriei imputate în concordanță cu
+metoda stratificării, metodă folosită de majoritatea statelor
+membre ale Uniunii Europene.
+Drept variabile folosite pentru estimarea chiriei imputate pe
+baza metodei stratificării sunt:
+— proprietarii locuințelor: locuințele aflate în proprietatea
+statului; locuințele aflate în proprietate privată; alte forme de
+proprietate;
+— locație: zone rurale; orașe; București;
+— facilități: locuințe în blocuri de apartamente; locuințe în
+case individuale;
+— camerele de locuit: numărul de camere; suprafața în m2.
+Principalele surse de date utilizate sunt: Anuarul statistic al
+României, ABF, recensământul populației și locuinței, alte surse
+statistice de la direcțiile de specialitate din INS: Raportul statistic
+ăLOC”; Buletinul statistic de prețuri.
+Estimarea consumului intermediar se face pe baza
+informațiilor culese, pe de o parte, din ancheta structurală în
+întreprinderi privind principalele produse care îl compun, cum ar
+fi produse din lemn și mobilier, sticlă și produse din sticlă, vase
+din ceramică, cărămizi, țigle și alte materiale de construcție,
+ciment, cleiuri și tencuială, produse și structuri metalice, servicii
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 292/5.V.2009
+de asigurări și servicii financiar-bancare și, pe de altă parte, din
+ancheta bugetelor de familie; din secțiunea de cheltuieli pentru
+plata serviciilor se obțin informații despre valoarea chiriei și a
+întreținerii locuinței, precum și a altor servicii de întreținere a
+locuinței, și anume: repararea mobilierului, sticlărie, repararea
+echipamentelor și uneltelor de grădinărit, reparații curente ale
+locuinței și asigurarea locuinței.
+Impozitele pe produse sunt taxe plătibile pe unitatea de bun
+sau serviciu produs ori tranzacționat. Impozitul poate fi o sumă
+specifică de bani, pe unitatea cantitativă de bun sau serviciu, ori
+poate fi calculat ad valorem ca un procent din prețul unitar al
+bunurilor sau serviciilor produse ori tranzacționate. Începând cu
+anul 2000 impozitele pe produse, precum și alte impozite pe
+producție se înregistrează pe baza dreptului constant.
+Subvențiile pe produse și importuri sunt estimate și distribuite
+pe produse, folosindu-se informațiile furnizate de MFP privind
+valoarea subvențiilor oferite pentru fiecare produs.
+5.2. Metoda cheltuielilor
+
+PIB prin metoda cheltuielilor se obține din următoarele
+elemente:
+PIB= CF + FBCF + VS + (E - I),
+în care:
+CF = consumul final efectiv;
+FBCF = formarea brută de capital fix;
+VS = variația de stoc;
+E = exporturile de bunuri și servicii;
+I = importurile de bunuri și servicii.
+Componente principale ale PIB prin metoda cheltuielilor sunt
+următoarele:
+• cheltuiala pentru consum final:
+— consumul final efectiv al gospodăriilor;
+— cheltuiala pentru consum final a gospodăriilor;
+— cheltuiala pentru consum final a administrațiilor publice;
+— cheltuiala pentru consum final a IFSLSGP;
+— consumul final efectiv al administrațiilor publice;
+• formarea brută de capital:
+— formarea brută de capital fix:
+— achiziții minus cedări de active fixe corporale;
+— achiziții minus cedări de active fixe necorporale;
+— variația de stoc;
+• exportul net de bunuri și servicii:
+— export de bunuri și servicii;
+— import de bunuri și servicii.
+Trebuie avut în vedere tipul de cheltuială finală în care este
+angajat fiecare sector instituțional, deoarece consumul este
+privit din unghiuri diferite, influențând momentul înregistrării și
+evaluarea.
+În contextul conturilor naționale, consumul poate fi privit din
+două perspective, și anume: perspectiva cheltuielii și cea a
+consumului efectiv. Perspectiva cheltuielii stă la baza SEC95,
+deoarece este relevant cine plătește efectiv pentru consum,
+indiferent că plătește cu monedă, prin barter, se angajează
+într-o datorie sau produce pe cont propriu. SEC95 include și
+conceptul de consum efectiv, care presupune — pentru
+gospodării — nu numai cheltuielile, dar și transferurile sociale
+în natură. Acestea din urmă sunt bunuri sau servicii individuale
+
+9
+
+produse ori achiziționate de administrația publică sau IFSLSGP
+și furnizate gratuit gospodăriilor. Astfel, consumul efectiv al
+administrației publice și al IFSLSGP exclude aceste bunuri și
+servicii. Exemple de consum individual de bunuri și servicii sunt
+îngrijirea sănătății, educație, servicii culturale și, prin convenție,
+toate serviciile furnizate de IFSLSGP. Numai administrațiile
+publice furnizează servicii colective.
+Principalele surse de date utilizate în calculul agregatului
+Cheltuiala pentru consumul final efectiv sunt:
+• surse de date statistice: ASA, ABF, balanța produselor
+agricole, date provenite de la direcția de specialitate de comerț
+din cadrul INS, alte surse statistice;
+• surse de date contabile și financiare: situațiile financiare
+furnizate de MFP;
+• surse de date administrative: execuția bugetului
+administrațiilor publice, veniturile și cheltuielile instituțiilor publice
+finanțate parțial sau total din fonduri extrabugetare; declarațiile
+privind venitului global depuse de către întreprinzătorii individuali
+și asociațiile familiale, obținute de la MFP;
+• alte surse: balanța de plăți elaborată de BNR.
+5.2.1. Evaluarea principalelor agregate
+
+Conform SEC95, consumul final se calculează în concept
+național. Astfel, consumul final total la nivel național reprezintă
+consumul gospodăriilor rezidente pe teritoriul economic sau în
+restul lumii. Cheltuiala pentru consumul domestic are loc în
+spațiul geografic al țării, indiferent dacă este realizată de
+rezidenți sau de nerezidenți.
+Bunurile și serviciile achiziționate de către gospodării sunt
+evaluate la preț de achiziție: prețurile de vânzare cu amănuntul,
+onorarii pentru servicii și prețurile de pe piața țărănească.
+Investițiile sunt evaluate la preț de achiziție, fără TVA
+deductibilă.
+Datele pentru export din partea de utilizări a tabelelor
+resurse-utilizări sunt evaluate FOB, spre deosebire de importuri,
+care sunt evaluate CIF în partea de resurse a tabelului. Trecerea
+de la CIF la FOB pentru valoarea importului se face prin
+ajustarea sumei.
+Cheltuiala pentru consumul final al gospodăriilor cuprinde
+toate cheltuielile de bunuri și servicii realizate de către
+gospodării în vederea satisfacerii nevoilor individuale. Aceasta
+acoperă toate bunurile și serviciile destinate pieței, precum și
+consumul producției agricole și neagricole realizată pe cont
+propriu în cadrul gospodăriilor și al serviciilor casnice. Cheltuiala
+pentru consumul final al gospodăriilor nu include achizițiile
+realizate de către proprietari unici sau asociații familiale pentru
+activități productive, acestea fiind tratate drept consum
+intermediar, dar include și toate achizițiile de bunuri de lungă
+durată, cu excepția locuințelor și a echipamentelor.
+Majoritatea cheltuielilor cu bunuri și servicii sunt realizate de
+către gospodării, estimarea acestora realizându-se cu date
+provenind din două surse principale: ancheta bugetelor de
+familie și ancheta structurală din întreprinderi.
+În cadrul producției pentru consum propriu al gospodăriilor, o
+importanță semnificativă o are producția obținută în cadrul
+activităților casnice.
+Producția agricolă obținută de persoane fizice independente
+care nu sunt înregistrate în conformitate cu Ordonanța de
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 292/5.V.2009
+
+urgență a Guvernului nr. 44/2008 privind desfășurarea
+activităților economice de către persoane fizice autorizate,
+întreprinderile individuale și întreprinderile familiale și nu fac
+parte din asociații agricole este estimată pe baza surselor de
+date statistice din conturile economice din agricultură și din
+balanța produselor agricole, pe baza cantităților obținute și a
+prețurilor de pe piața țărănească și prețurilor pentru achizițiile
+de stat.
+În România, activitățile desfășurate în cadrul gospodăriilor
+care formează așa-numita industrie casnică au o deosebită
+importanță, dezvoltarea lor fiind legată de tradițiile existente. Se
+consideră industrie casnică activitățile de prelucrare în
+gospodăriile populației, cu mijloace proprii, a produselor agricole
+obținute din gospodăria proprie sau cumpărate din comerț,
+precum vânatul, pescuitul neorganizat, culegerea de fructe de
+pădure, ciuperci, plante medicinale, în scopul obținerii de bunuri
+destinate în mare parte consumului propriu și într-o anumită
+măsură vânzării. Principalele produse obținute în urma
+desfășurării acestor activități se referă la: prelucrarea și
+conservarea legumelor și fructelor — conserve de legume,
+gemuri și compoturi; vinificarea strugurilor; distilarea fructelor,
+pentru obținerea țuicii; prelucrarea laptelui; prelucrarea cărnii;
+prelucrarea cânepii, inului, lânii și a bumbacului; împletituri;
+confecții; realizarea de confecții cu materiale cumpărate de pe
+piață; prelucrarea lemnului și a răchitei; prelucrarea papurei și a
+trestiei; culegerea de produse din flora spontană; prelucrarea
+grăsimilor și obținerea de săpun etc.
+Pentru stabilirea metodologiei de estimare a industriei
+casnice s-au efectuat studii pentru a se putea cunoaște atât
+structura activităților ce se desfășoară în gospodăriile populației,
+particularitățile acestora, cât și tipul de informații care pot fi
+obținute și folosite pentru estimarea producției, a consumului
+intermediar și a elementelor de valoare adăugată brută, în
+concordanță cu regulile conturilor naționale.
+Principalele surse de date sunt: balanța produselor agricole,
+care furnizează date privind producția animală și vegetală
+realizată în gospodării, permițând cunoașterea cantității și valorii
+producției agricole atât pe total, cât și pe fiecare tip de produs;
+ABF permite o estimare a produselor agricole realizate în
+gospodărie, supuse prelucrării pentru a obține diferite produse
+ale industriei casnice.
+Cantitatea estimată pentru a fi supusă prelucrării este
+transformată valoric cu ajutorul indicilor de preț de pe piața
+țărănească și a indicilor de preț ai producției industriale. Având
+în vedere procesele tehnologice care se desfășoară în domeniu,
+cu ajutorul ăcoeficienților de transformare” se determină
+valoarea totală a produselor obținute în industria casnică în
+funcție de cantitățile ce au fost supuse prelucrării.
+Conform SEC95 cheltuielile pentru consumul final ale
+IFSLSGP sunt tratate drept cheltuieli cu servicii individuale.
+Administrația publică prestează servicii pentru comunitate,
+gratuit sau la un preț nesemnificativ din punct de vedere
+economic. Cheltuielile pentru consum ale unităților publice pot fi
+atât în beneficiul gospodăriilor individuale, cât și pentru toată
+comunitatea ca întreg. SEC95 face distincție între:
+— cheltuiala pentru consum individual;
+— cheltuiala pentru consum colectiv.
+
+Serviciile colective prestate de către administrația publică
+sunt pentru beneficiul comunității ca întreg și sunt repartizate
+simultan tuturor membrilor comunității. Cheltuielile pentru
+serviciile colective sunt cele legate de securitate și apărare,
+menținerea ordinii și respectarea legilor, protecția mediului,
+cercetare și dezvoltare, finanțate de către administrația publică
+etc.
+În SEC95 cheltuielile pentru consumul final al administrației
+publice cu educația, sănătatea, asigurări sociale, sport și cultură,
+și o parte din serviciile de locuință sunt tratate drept cheltuieli
+pentru servicii individuale. Cheltuiala pentru consumul final al
+administrației publice reprezintă suma costurilor necesare
+pentru producerea acestor servicii. Se calculează ca diferență
+între producția totală a administrației publice și valoarea
+producției destinate pieței.
+Formarea brută de capital fix pentru o unitate cuprinde toate
+cheltuielile privind achiziționarea de active fixe noi sau pentru
+îmbunătățirea celor existente, inclusiv reparații capitale, minus
+cedări de active fixe. Activele fixe sunt acele active corporale
+sau necorporale utilizate în mod repetat sau continuu pe o
+perioadă mai mare de un an în procesul de producție.
+FBCF este estimată atât pe produse, cât și pe sectoare
+instituționale. Sursele de date utilizate pentru estimarea FBCF
+atât pe produse, cât și pe sectoare instituționale provin din surse
+statistice, ancheta structurală în întreprindere, în principal,
+precum și din surse de date financiar-contabile.
+În cadrul formării brute de capital fix se cuprind următoarele
+elemente:
+— investițiile nete realizate în anul de referință pe elemente
+de structură, repartizate pe activități de destinație — fără TVA;
+— lucrări de construcții, geologice și de foraj;
+— gruparea investițiilor pe utilaje și mijloace de transport și
+a altor investiții după activități de proveniență — fără TVA;
+— investiții nete în produse de tehnologia informațiilor — fără
+TVA;
+— investiții în produse software la valoare de intrare — total;
+— investiții în produse software cumpărate la valoare de
+intrare și investiții în produse software realizate cu forțe proprii
+la valoare de intrare;
+— leasing financiar la valoarea activelor imobilizate;
+— valoarea de reparații capitale la utilajele existente în
+dotare — fără TVA și valoarea lucrărilor de reparații capitale —
+total.
+Formarea brută de capital fix pe produse și pe total economie
+se referă numai la achizițiile de active fixe noi.
+În vederea verificării datelor se construiește o matrice
+sector/produs cu ajutorul căreia se pot observa unele
+discrepanțe între definițiile din contabilitatea întreprinderii și
+conceptele din contabilitatea națională. Pe baza acestor
+informații se fac unele ajustări în special la datele provenite din
+declarațiile contabile ale societăților și din sectorul gospodăriilor.
+Principalele active fixe corporale se referă la:
+— active fixe corporale noi sau deja existente: clădiri,
+construcții, mașini și echipamente;
+— variația șeptelului și plantațiile noi;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 292/5.V.2009
+— lucrări de reparații capitale sau de extindere a clădirilor, a
+bunurilor de capital și a echipamentelor realizate de către
+unitățile din sectorul ăSocietăți nefinanciare”;
+— lucrări de reparații capitale sau de extindere a clădirilor, a
+bunurilor de capital și a echipamentelor realizate de către
+unitățile din sectorul ăAdministrații publice”;
+— estimări pentru FBCF din economia ascunsă, în special în
+domeniul construcțiilor;
+— cheltuielile gospodăriilor privind construcțiile pe cont
+propriu sau achizițiile de locuințe, incluzând și reparațiile; sursele
+de date utilizate pentru estimarea cheltuielilor gospodăriilor
+privind construcțiile pe cont propriu ale locuințelor noi.
+Au fost identificate următoarele active fixe necorporale:
+— prospecțiuni miniere;
+— software;
+— lucrări literare și artistice originale;
+— costurile legate de transferul de proprietate al activelor
+neproduse.
+Stocurile reprezintă toate bunurile stocate de către unitățile
+rezidente pentru utilizarea lor în viitor și mai departe în procesul
+de producție sau vânzare. Variația de stoc se măsoară scăzând
+din valoarea intrărilor valoarea ieșirilor.
+Stocurile, conform SEC95, se clasifică în:
+— stocurile la utilizator, care cuprind materiile prime și
+materialele, plantele și animalele în faza de creștere, investițiile
+în echipamente stocate în vederea utilizării lor în procesul de
+producție;
+— stocurile la producător, care acoperă bunurile finite și
+lucrările în curs stocate de către producători;
+— stocurile în comerț, care acoperă bunurile destinate
+revânzării.
+Societățile înregistrează stocurile la începutul și sfârșitul
+perioadei contabile, având la bază un ăcost istoric” care
+reprezintă prețul de achiziție al bunului, mai degrabă decât la
+momentul utilizării — înlocuirea costului de bază. Aceasta
+înseamnă că într-o perioadă de creștere a prețurilor modificările
+ce apar legate de valoarea stocurilor includ un element care se
+datorează numai prețului. Sistemul de conturi naționale din
+România a ales să rezolve această problemă luând în
+considerare ămetoda franceză”. În primă fază se calculează un
+indice de preț mediu pe tipuri de stocuri. După aceea, se
+reevaluează valoarea înregistrată la începutul și sfârșitul
+perioadei acelei luni în care indicele de preț este cât mai
+aproape de valoarea indicelui de preț mediu calculat. Câștigul
+din deținere este dat de diferența dintre variația de stoc din
+datele inițiale și variația de stoc calculată după reevaluarea
+valorii înregistrate.
+Există diferite metode de calcul al costului istoric la sfârșitul
+perioadei contabile. Conturile naționale din România utilizează
+metoda FIFO (primul intrat, primul ieșit) pentru evaluarea
+stocurilor. Odată cu aplicarea normelor IAS (International
+Accounting Standards) în România se impune și modificarea
+chestionarului ASA, pentru a răspunde cerințelor metodologice
+privind evaluarea stocurilor.
+Sursele de date utilizate pentru estimarea exporturilor și
+importurilor, ce fac obiectul comerțului exterior, sunt:
+
+11
+
+— surse de date statistice: raportul statistic realizat pe baza
+declarațiilor vamale și a declarațiilor INTRASTAT referitoare la
+exportul și importul de bunuri;
+— balanța de plăți, realizată de BNR.
+Bunurile care fac obiectul comerțului exterior se clasifică
+conform Nomenclatorului combinat la nivel de 8 cifre pe baza
+tarifului vamal. Datele statistice sunt prezentate prin grupuri de
+produse conform standardului de clasificare internațională a
+comerțului și a marilor categorii economice, pe principalele
+activități ale economiei naționale și pe clasele din Sistemul
+național de conturi, având la bază chei de conversie între aceste
+clasificări.
+Balanța de plăți, principala sursă pentru estimarea
+importurilor și exporturilor, este realizată de BNR pe baza
+recomandărilor Manualului balanței de plăți al FMI, ediția a 5-a.
+Datele incluse în balanța de plăți se estimează lunar de către
+Departamentul de statistică din cadrul BNR și sunt diseminate
+după 45 de zile de la sfârșitul perioadei de referință.
+Datele referitoare la valoarea bunurilor atât de import, cât și
+de export trebuie exprimate în prețuri FOB — valoarea în vamă
+la frontiera exportatorului. În tabelele detaliate de comerț exterior
+bunurile de import sunt prezentate în prețuri CIF pentru toate
+grupele de produse. Trecerea de la CIF la FOB a valorii totale a
+bunurilor importate se realizează prin ajustarea pe linie și
+coloană în cadrul tabelului resurse-utilizări, în conformitate cu
+metodologia SCN93. Începând cu anul 2003, definiția din
+SEC95 a fost aplicată pentru corecția CIF—FOB.
+5.3. Metoda veniturilor
+
+PIB prin metoda veniturilor se obține din următoarele
+elemente:
+PIB = R + EBE + AIP – ASP + IP+TV-SP,
+în care:
+R = remunerarea salariaților;
+EBE = excedentul brut de exploatare;
+AIP = alte impozite pe producție;
+ASP = alte subvenții pe producție;
+IP = impozite pe produse;
+TV = taxe vamale (drepturi asupra importurilor);
+SP = subvențiile pe produse.
+Calculul produsului intern brut prin metoda veniturilor implică
+estimarea lui ca sumă a componentelor valorii adăugate brute,
+și anume remunerarea salariaților, alte impozite fără subvenții
+pe producție și excedentul brut de exploatare/venitul mixt.
+Contul de exploatare, ce stă la baza PIB prin metoda
+veniturilor, este calculat nu numai pe ramuri omogene, ci și pe
+sectoare instituționale, concomitent cu realizarea contului de
+producție. Această etapă de calcul este parte integrantă a
+tabelului intrări-ieșiri și a tabelului conturilor economice
+integrate, constituind tabelul intrărilor primare.
+5.3.1. Evaluarea principalelor agregate
+
+Valoarea adăugată brută la preț de bază și componentele
+sale de venit — remunerarea salariaților, alte impozite pe
+producție, alte subvenții pe producție, excedentul brut de
+exploatare — sunt estimate în același timp.
+Remunerarea salariaților se calculează pe sectoare
+instituționale și ramuri de activitate, folosind următoarele surse
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 292/5.V.2009
+
+de date: ancheta structurală în întreprinderi, situațiile financiare
+anuale pentru societăți nefinanciare și financiare, raportările
+bugetare pentru administrațiile publice, AMIGO și alte surse
+statistice de date. Alte impozite pe producție și alte subvenții pe
+producție sunt preluate din raportările bugetare.
+5.3.2. Tranziția de la contabilitatea de întreprindere și conceptele
+administrative la conceptele SEC95, pentru sectoarele instituționale
+
+Pentru a realiza tranziția de la datele și informațiile din
+contabilitatea întreprinderii și sursele administrative la
+conceptele contabilității naționale conform SEC95 este
+necesară conversia informațiilor care provin din sursele
+contabile și administrative în operațiuni și agregate specifice
+conturilor naționale. Datele contabile constituie sursa principală
+de informație pentru sectoarele ăSocietăți nefinanciare”,
+ăSocietăți financiare” și ăInstituțiile fără scop lucrativ în serviciul
+gospodăriilor populației”.
+Coerența dintre indicatorii prezenți în contabilitatea de
+întreprindere și cei ceruți de contabilitatea națională se obține
+în cadrul sistemului intermediar, plecând de la conturile de
+întreprindere care sunt echilibrate și elaborate dintr-o
+perspectivă patrimonială.
+5.3.3. Estimarea principalelor agregate
+
+Remunerarea salariaților se definește ca totalul remunerărilor
+în bani sau în natură pe care le plătesc patronii salariaților lor cu
+titlu de plată a muncii prestate de aceștia din urmă în cursul
+perioadei de referință a conturilor, conform SEC95.
+Remunerarea salariaților este formată din:
+— salarii și indemnizații brute, compuse din salarii și
+indemnizații în bani și salarii și indemnizații în natură;
+— cotizații sociale în sarcina patronilor, care se împart în:
+— cotizații sociale efective în sarcina patronilor, care
+cuprind vărsămintele efectuate de patroni în beneficiul
+salariaților lor către organismele de asigurare —
+administrațiile de securitate socială — și constau în:
+contribuția de asigurări sociale de stat, inclusiv
+contribuția la fondul de pensii; contribuția pentru
+constituirea Fondului pentru plata ajutorului de șomaj;
+contribuția pentru constituirea Fondului unic de
+asigurări sociale de sănătate;
+— cotizații sociale imputate în sarcina patronilor, care
+reprezintă contravaloarea prestațiilor sociale furnizate
+direct de patroni salariaților lor, fără a fi recurs în acest
+scop la o societate de asigurări sau la un fond de
+pensii autonome; în cotizații sociale imputate sunt
+clasate, în general, pensiile pentru militari.
+Alte impozite pe producție. Conform SEC95, impozitele și
+subvențiile pe producție trebuie înregistrate la valoarea din
+momentul în care au loc activitățile sau operațiunile ce dau
+naștere obligației de plată, deci pe baza principiului dreptului
+constatat, și nu la valoarea sumelor efectiv vărsate. Luând în
+considerare datele disponibile începând din anul 2000, în
+conturile naționale românești alte impozite pe producție se
+înregistrează pe baza dreptului constatat prin ajustarea sumelor
+încasate de la buget.
+Alte impozite pe producție cuprind toate impozitele pe care
+întreprinderile le suportă ca urmare a activității lor de producție,
+independent de cantitatea sau de valoarea bunurilor și serviciilor
+
+produse sau vândute. Acestea se regăsesc în bugetul de stat și
+bugetele locale.
+Alte impozite pe producție sunt alocate pe activități conform
+legislației în vigoare pentru fiecare tip de impozit.
+Alte subvenții pe producție cuprind alte subvenții decât cele
+pe produs, de care pot beneficia unitățile producătoare
+rezidente, în funcție de activitățile lor productive, și se
+înregistrează pe baza dreptului constatat prin ajustarea sumelor
+încasate de la buget.
+Sursele de date pentru aceste subvenții sunt raportările
+bugetare. Subvențiile pe producție sunt repartizate pe ramuri în
+funcție de natura lor.
+Excedentul brut de exploatare este soldul contului de
+exploatare și reprezintă ceea ce rămâne din valoarea adăugată
+nou-creată în procesul de producție după remunerarea
+salariaților și plata impozitelor pe producție. Este evaluat la
+prețul de bază. Se calculează pe tipuri de activități și pe sectoare
+instituționale astfel:
+EBE = VAB – R– AIP + ASP,
+în care:
+VAB = valoarea adăugată brută;
+R = remunerarea salariaților;
+AIP = alte impozite pe producție;
+ASP = alte subvenții pe producție;
+Venitul mixt este excedentul de exploatare al gospodăriilor
+populației care operează în parteneriat fără statut legal
+independent, fiind producători de piață. Venitul mixt constă în
+venitul obținut de proprietari și de membrii familiilor lor, care nu
+poate fi separat de profitul lor în calitate de antreprenori.
+Întreprinzătorii independenți și asociațiile familiale pot dispune
+de veniturile lor fără nicio restricție.
+6. Produsul intern brut în prețuri constante
+Un avantaj substanțial, ca sistem contabil, al conturilor
+naționale constă în posibilitatea evaluării în prețuri constante. În
+conturi naționale se poate realiza descompunerea în timp a
+variațiilor agregatelor sale în ăvariații de preț” și ăvariații de
+volum”, furnizând un cadru potrivit construirii unui sistem de
+indici de volum și de preț și asigurării coerenței datelor statistice.
+Importanța politică a acestor estimări reiese din Pactul de
+creștere și stabilitate, care recunoaște o recesiune severă —
+caz în care se acceptă un deficit guvernamental mai mare de
+3% din PIB — atunci când ăscăderea anuală a PIB-ului real este
+de cel puțin 2%”. PIB real înseamnă creșterea în volum a PIB,
+ceea ce a condus la o preocupare la nivel european de
+armonizare a datelor de preț și volum din conturi naționale, prin
+emiterea deciziilor Comisiei 98/715/CE de clarificare a anexei A
+la Regulamentul (CE) nr. 2.223/96 al Consiliului privind Sistemul
+european de conturi naționale și regionale din Comunitate,
+referitor la principiile de măsurare a prețurilor și volumelor și
+2002/990/CE care aduce clarificări suplimentare anexei A la
+Regulamentul (CE) nr. 2.223/96 al Consiliului privind Sistemul
+european de costuri naționale și regionale din Comunitate,
+referitor la principiile de măsurare a prețurilor și volumelor, și
+elaborarea de către Eurostat în anul 2001 a Manualului privind
+măsurarea prețurilor și volumelor în conturi naționale. Prin
+aceste documente sunt definite și clarificate metodele A —
+recomandate, B — acceptabile și C — inacceptabile pentru
+măsurările în preț și volum pe produse, care sunt urmărite
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 292/5.V.2009
+permanent în procesul de elaborare a conturilor naționale din
+România.
+Produsul intern brut în prețuri constante se estimează în
+cadrul sistemului conturilor naționale românești prin două
+metode: metoda de producție și metoda cheltuielilor. Pentru
+fiecare metodă se folosesc indici independenți ai
+componentelor, iar rezultatele finale sunt supuse reconcilierii.
+Conturile naționale înregistrează nu numai tranzacțiile unui
+anumit produs descompuse cu ușurință în cantitate și preț, ci și
+ansamblul fluxurilor economice ce se formează în economie în
+timpul proceselor de producție, repartiție și consum.
+Conform SEC95, indicii utilizați în elaborarea conturilor
+naționale în prețuri constante sunt: indicele de tip Paasche —
+pentru construirea indicilor de preț — și indicele de tip
+Laspeyres — pentru construirea indicilor de volum, împreună
+cu utilizarea anului anterior ca an de bază — sistem de indici
+înlănțuiți. Pentru calculul indicelui Paasche se folosesc ca
+ponderi valorile perioadei curente, în timp ce pentru indicele
+Laspeyres, ponderarea se realizează cu valorile perioadei de
+bază. Indicii Laspeyres și Paasche sunt simetrici, deoarece prin
+înmulțirea dintre indicele de volum și cel de preț se obține
+indicele de valoare.
+Produsul intern brut în prețuri constante rezultă din
+elementele sale componente evaluate în prețuri constante.
+Producția de piață și cea pentru consum final propriu se
+tratează împreună așa cum recomandă SEC95. Criteriul
+esențial de care se ține seama este acela că prețul sau volumul
+producției în sine sunt supuse măsurării, și nu intrările sale.
+Principalele metode pentru estimarea producției în prețuri
+constante sunt:
+• metodele deflatării prin preț; se folosesc următorii indici de
+preț cu care se deflatează valoarea producției în prețuri curente:
+indicii de preț ai producției industriale; indicii de cost în
+construcții; indicii prețurilor de consum; indicii valorii unitare;
+prețurile ăintrărilor”, de exemplu prețul forței de muncă sau un
+preț mediu al consumurilor intermediare etc.;
+• metoda extrapolării volumului, utilizându-se indicii de volum
+ai producției, indicatori de volum ai ăintrărilor”, de exemplu:
+numărul salariaților sau schimbarea de volum a consumului
+intermediar.
+Estimarea producției de bunuri și servicii în cadrul conturilor
+naționale se evaluează în prețuri de bază, iar estimarea ei în
+prețuri constante trebuie să țină seama de caracteristicile
+elementelor componente și de modul de formare și utilizare a
+producției în economie. Pentru evaluarea producției de piață și
+a celei pentru consum propriu în prețurile anului anterior se
+utilizează în general indici de preț și de volum agregați conform
+nomenclatorului de produse adoptat pentru realizarea
+echilibrului resurse-utilizări și care sunt disponibili în sistemul
+statistic. Principalii indici folosiți pentru estimarea producției de
+piață și a serviciilor sunt: indicii de preț ai producției industriale;
+indicii prețurilor de consum, indici de preț pentru producția
+agricolă și indici de cost pentru construcții, indicii de volum ai
+producției.
+Consumul intermediar este estimat în prețuri constante,
+luându-se în considerare componența sa structurală. El se
+deflatează produs cu produs pe baza detalierii pe care o permite
+
+13
+
+TII, respectiv 105 ramuri/produse, având drept avantaj faptul că,
+pentru toate ramurile, consumul intermediar este descris în
+aceeași clasificare de produs, astfel încât diferiții deflatori utilizați
+pentru un anumit produs pot fi comparați. Volumul total al
+consumului intermediar pentru fiecare ramură se obține prin
+suma volumelor intrărilor pentru toate produsele. Astfel, în cadrul
+tabelului intrări-ieșiri fiecărui element i se aplică indicele de preț
+al producției, precum și al importului utilizat în consumul
+intermediar. Ajustările sunt plauzibile și se repetă până se obține
+o valoare finală.
+Estimarea consumului final în prețuri constante se face
+pentru fiecare element component, astfel: valoarea de cheltuială
+pentru consum final al gospodăriilor populației se determină în
+prețuri constante folosind următorii indici: indicii prețurilor de
+consum pentru cumpărările de mărfuri și servicii; indici de preț
+care se utilizează pentru determinarea volumului consumului de
+bunuri obținute în gospodăria proprie; indice de preț la nivelul
+chiriei de pe piață pentru estimarea serviciilor de locuințe pentru
+proprietari; indici de preț pentru producția de nepiață pentru
+cheltuiala de consum final a administrației publice.
+Formarea brută de capital fix acoperă o varietate mare de
+produse, iar cea mai utilizată metodă de estimare în prețuri
+constante este cea de evaluare din punctul de vedere al
+resurselor. Deci, pentru fiecare element care intră în compoziția
+FBCF se analizează resursele acestuia, cu precădere producția
+și importul.
+Pentru stabilirea valorii variației de stoc în prețuri constante
+se ține seama de regulile de valorizare adoptate ce asigură
+coerența de ansamblu a echilibrului. Problema cea mai dificilă o
+reprezintă câștigurile din deținere, care sunt rezultatul schimbării
+de preț în perioada în care produsele sunt în stoc.
+Estimarea importului și exportului impune o tratare deosebită
+a măsurării prețurilor și volumului, utilizând în special indicele
+valorii unitare. Acesta are o arie de acoperire ce ajunge la un
+nivel detaliat al clasificării comerciale utilizate și este folosit
+pentru estimarea bunurilor de import și export în prețuri
+constante.
+Pentru estimarea elementelor de valorizare ce permit
+trecerea de la prețul de bază la prețul de achiziție se ține seama
+de faptul că mărimea lor se obține prin aplicarea unui anumit
+procent asupra valorii de piață a produsului sau serviciului supus
+impozitării.
+Baza unui impozit fiind valoarea fluxului, un prim element al
+evoluției sale îl reprezintă evoluția acestui flux, adică indicii de
+preț și de volum ai operației asupra căreia se aplică impozitul.
+Un alt element ține de caracterul specific al impozitului și provine
+în principal din modificarea procentelor practicate, iar în acest
+caz el intervine asupra prețului și niciodată asupra volumului.
+Evaluarea impozitelor în prețuri constante ține seama de
+legătura directă dintre acestea și producție. Astfel, calculul
+indicelui de preț se bazează pe indicele de preț al producției
+corectat cu un indicator ce reflectă evoluția ponderii implicite a
+impozitului respectiv în producție, de la un an la altul.
+Subvențiile pe produs reprezintă transferuri curente acordate
+de administrația publică proporțional cu cantitatea sau cu
+valoarea bunurilor și serviciilor produse sau importate și
+comercializate. Subvențiile pe produs sunt elemente de
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 292/5.V.2009
+
+valorizare a resurselor în preț de piață și ele sunt acordate în
+general populației pentru a permite tuturor categoriilor sociale
+accesul la consumul anumitor produse sau servicii de strictă
+necesitate; de aceea, indicii de preț specifici acestora se
+determină prin corectarea indicelui de preț al consumului final
+al populației cu un indicator ce reflectă modificarea raportului
+subvenție pe produs/consum final al populației pe produs.
+7. Venitul național brut
+Venitul național brut are o deosebită importanță politică în
+contextul Uniunii Europene deoarece:
+— totalul resurselor Uniunii Europene este determinat ca
+procent din veniturile naționale brute ale statelor membre;
+— contribuția relativă a fiecărui stat membru la a patra
+resursă proprie Uniunii Europene se bazează pe VNB propriu.
+Prin Regulamentul CE nr. 1.287/2003 al Consiliului din
+15 iulie 2003 privind armonizarea venitului național brut la
+prețurile pieței se creează bazele legale prin care acest indicator
+macroeconomic se calculează, cu respectarea strictă a
+metodologiei SEC95.
+VNB reprezintă ansamblul veniturilor primare primite de către
+unitățile instituționale rezidente: remunerarea salariaților,
+impozitele pe producție și importuri minus subvențiile, veniturile
+din proprietate, cele de primit minus cele de plătit, excedentul
+brut de exploatare și venitul mixt brut. Altfel spus:
+VNB (la prețuri de piață) = produsul intern brut (la prețuri
+de piață)
+– veniturile primare vărsate de
+unitățile nerezidente
++ veniturile primare primite de la
+restul lumii de către unitățile
+rezidente.
+Pe baza metodologiei SEC95, venitul național brut este
+identic din punct de vedere conceptual cu produsul național brut
+calculat pe baza SEC79.
+Venitul național brut poate fi în mărime absolută mai mic sau
+mai mare decât PIB, modificările sale fiind influențate de valorile
+veniturilor primare primite sau transferate de la sau către ăRestul
+lumii”.
+Procesul de calcul privind tranziția de la conceptul de PIB la
+cel de VNB este direct legat de estimările realizate pentru
+conturile sectorului instituțional ăRestul lumii”. Acest sector nu
+este caracterizat de o funcție specifică sau de anumite resurse
+principale; acesta grupează unitățile nerezidente atât timp cât
+acestea întrețin tranzacții economice cu unitățile instituționale
+rezidente. Conturile specifice ale acestui sector oferă o imagine
+de ansamblu a legăturilor economice ale țării cu restul lumii.
+Contul ăRestul lumii” nu este un sector instituțional ca atare,
+dar joacă un rol analog în structura conturilor naționale. În cadrul
+acestui sector se disting următoarele grupe de conturi:
+• conturile operațiunilor curente;
+• conturile de acumulare;
+• conturile de patrimoniu.
+Resursa acestui sector reprezintă o utilizare pentru
+economia totală (națională) și invers.
+În timp ce pentru calculul PIB se utilizează conceptul
+domestic, important mai ales din perspectiva teritoriului
+economic al unei țări, calculul VNB are la bază conceptul de
+rezidență, legat mai ales de deschiderea economiilor către restul
+lumii, în particular de integrarea României în Uniunea
+Europeană. Unitățile rezidente sunt acele unități care au centrul
+de interes economic pe teritoriul României, iar cele nerezidente
+
+sunt cele ce au centrul de interes în afara României. Toate
+unitățile angajate în activitățile economice în România pentru o
+perioadă de cel puțin un an sunt considerate rezidente pentru
+România.
+Principala sursă de date utilizată pentru calculul conturilor
+sectorului ăRestul lumii” și al VNB o reprezintă balanța de plăți,
+elaborată de BNR. Metodologia de elaborare a balanței de plăți
+are la bază recomandările celei de-a cincea ediții a Manualului
+balanței de plăți al Fondului Monetar Internațional.
+8. Conturile naționale trimestriale
+Conform SEC95, elaborarea conturilor naționale trimestriale
+face parte din cadrul general al Sistemului de conturi naționale.
+CNT reprezintă un set coerent de tranzacții și conturi, cu o
+periodicitate trimestrială. Dezvoltarea CNT este impusă de
+cauze variate:
+— CNT oferă o imagine a evoluției economiei naționale pe o
+perioadă mai mică de un an, într-un mod operativ pentru
+decidenții politici;
+— CNT pot detecta fazele ciclului economic;
+— CNT reprezintă un sistem de informații economice
+consistente și coerente.
+Principiile de realizare a conturilor naționale trimestriale
+derivă din cele de bază ale SCN 93 și SEC95 pentru conturile
+anuale, adaptate în contextul particular al conturilor trimestriale.
+Pentru a veni în sprijinul procesului complex de elaborare a
+acestei părți importante a sistemului de conturi naționale,
+Eurostat a publicat în anul 1999 Manualul de conturi naționale
+trimestriale.
+În România, CNT se publică începând cu anul 1997.
+Calculele trimestriale de conturi naționale, realizate în
+conformitate cu cerințele metodologice ale SEC95, sunt
+subordonate scopului de a oferi rezultatele de PIB trimestrial în
+mod operativ — la aproximativ două luni de la perioada de
+referință, conferind totodată acuratețe prezentării realității
+economice.
+Estimarea agregatelor principale pentru conturile trimestriale
+se bazează pe datele statistice disponibile la perioadele
+respective de timp, precum și pe informațiile obținute din sursele
+administrative realizate de către administrația publică. Atunci
+când informația lipsește sau nu are periodicitatea dorită, se pot
+utiliza anumite tehnici de estimare. Printre principalele surse de
+date se numără:
+— surse de date statistice: indicii producției industriale, indicii
+cifrei de afaceri, indicii prețurilor producției industriale, investițiile
+nete, indicii de cost din construcții, statisticile transportului,
+câștigurile și numărul salariaților, indicii prețurilor producției
+industriale, indicii prețurilor de consum, indicii prețurilor
+produselor agricole, alte publicații și rezultate ale anchetelor
+statistice infraanuale;
+— surse administrative: raportările bugetare lunare furnizate
+de MFP;
+— surse de date financiar-contabile: situațiile financiare
+colectate de către MFP în special de la societățile nefinanciare
+și cele nonprofit,
+— alte surse: balanța de plăți elaborată de BNR.
+Produsul intern brut trimestrial în România se calculează prin
+două metode: metoda de producție și metoda cheltuielilor,
+obținându-se un rezultat unic pentru cele două abordări.
+Acoperirea și formulele de calcul sunt aceleași ca pentru PIB
+anual. Estimările se fac în prețuri curente, în prețurile perioadei
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 292/5.V.2009
+corespunzătoare ale anului anterior și în prețurile medii ale
+anului 2000.
+Pentru estimările trimestriale în prețuri curente și în prețurile
+medii ale anului 2000 se verifică proprietatea de aditivitate, în
+sensul că prin însumarea rezultatelor celor 4 trimestre ale anului
+se obțin estimările anuale. Proprietatea nu se verifică pentru
+evaluările în prețurile trimestrului corespunzător al anului
+anterior.
+Datele de CNT nu sunt ajustate sezonier, acest fapt
+implicând două aspecte importante:
+— creșterea dificultății de elaborare a estimărilor de conturi
+trimestriale;
+— rezultatele sunt corelate puternic cu situația economică
+reală.
+9. Conturile naționale regionale
+Conturile regionale reprezintă o versiune la nivel regional a
+conturilor naționale anuale și, fără nicio excepție, ele recurg la
+aceleași concepte metodologice. Importanța lor în cadrul
+politicilor comunitare se leagă, în special, de acordarea de
+subvenții regiunilor Uniunii Europene prin intermediul fondurilor
+structurale, ale căror cheltuieli se bazează, în parte, pe datele
+conturilor regionalizate ale conturilor naționale.
+Problemele conceptuale privind elaborarea conturilor
+regionale în România, precum și unele aspecte privind
+disponibilitatea surselor de date au limitat sfera de cuprindere a
+acestora la regionalizarea valorii adăugate brute, a remunerării
+salariaților și a formării brute de capital fix pe ramuri de activitate
+și la construirea conturilor sectorului instituțional ăGospodăriile
+populației”.
+Construirea unui ansamblu complet al conturilor regionale
+înseamnă a trata fiecare regiune ca o entitate economică
+distinctă și presupune:
+— delimitarea teritoriului economic al unei țări;
+— stabilirea tipurilor de unități instituționale;
+— respectarea principiului rezidenței;
+— alegerea metodelor de regionalizare.
+Metodele folosite pentru regionalizarea produsului intern brut
+sunt: metoda ascendentă, metoda descendentă și metoda
+mixtă.
+Conturile regionale ale sectorului instituțional ăGospodăriile
+populației” au un rol deosebit în ceea ce privește compararea
+între regiuni a principalelor operațiuni în care gospodăriile
+populației sunt implicate, analiza diferitelor modalități în care
+venitul este generat pe regiuni, calculul venitului disponibil și al
+
+economiei gospodăriilor populației într-o regiune dată. Aceste
+conturi reprezintă varianta regională a conturilor existente la
+nivel național. Din considerente practice la nivel regional nu se
+elaborează o secvență completă de conturi, ci numai
+următoarele două conturi:
+• contul de alocare a veniturilor primare;
+• contul de distribuire secundară a venitului.
+Aceste conturi sunt realizate pentru gospodăriile populației
+rezidente pe teritoriul regional și extraregional și servesc la
+măsurarea venitului primar și a venitului disponibil al populației
+rezidente într-o regiune dată.
+Conturile regionale se realizează pentru două nivele
+administrative, corespunzătoare Nomenclatorului unităților
+teritoriale statistice, NUTS 2 — reprezentând cele 8 regiuni
+statistice și NUTS 3 — reprezentând cele 41 de județe plus
+municipiul București.
+Elaborarea conturilor regionale în România cuprinde:
+• calculul produsului intern brut regional;
+• estimarea valorii adăugate brute pe ramuri de activitate;
+• estimarea remunerării salariaților pe ramuri de activitate;
+• regionalizarea formării brute de capital fix pe ramuri de
+activitate;
+• calculul conturilor regionale ale gospodăriilor populației.
+Pentru regionalizarea valorii adăugate brute pe județe și
+regiuni se utilizează metodele descendentă — ăde sus în jos” —
+și metoda mixtă, utilizând diverse chei de distribuție specifice
+fiecărei ramuri de activitate.
+Principalele surse de date utilizate pentru estimarea
+produsului intern brut regional:
+— ancheta structurală anuală;
+— ancheta statistică privind ăcostul forței de muncă”;
+— balanța forței de muncă;
+— alte surse statistice specifice direcțiilor de specialitate.
+Regionalizarea produsului intern brut presupune
+regionalizarea valorii adăugate brute, a impozitelor pe produs și
+a subvențiilor pe produs.
+Echivalentul regional al produsului intern brut este produsul
+intern brut regional. PIBR este evaluat la prețurile pieței. Suma
+PIBR la preț de piață al diferitelor regiuni și al teritoriului
+extraregional este egală cu PIB la preț de piață al întregii
+economii naționale.
+Produsul intern brut la nivel de regiune/județ, precum și PIBR
+pe locuitor sunt indicatori ai activității de producție la nivel de
+țară/regiune/județ, instrumente utile pentru măsurarea și
+compararea nivelului economic de dezvoltare.
+
+Listă de abrevieri
+ABF
+AIP
+AMIGO
+ASA
+ASP
+BNR
+CAEN Rev.1
+CEA
+CF
+CI
+CNT
+EBE
+FBCF
+
+15
+
+= ancheta bugetelor de familie
+= alte impozite pe producție
+= ancheta forței de muncă în gospodării
+= ancheta structurală anuală în întreprinderi
+= alte subvenții pe producție
+= Banca Națională a României
+= Clasificarea activităților din economia națională, revizuită
+= conturile economice pentru agricultură
+= consumul final efectiv
+= consum intermediar
+= conturi naționale trimestriale
+= excedentul brut de exploatare
+= formarea brută de capital fix
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 292/5.V.2009
+IFSLSGP
+INS
+IP
+MFP
+NUTS
+OCDE
+PIB
+PIBR
+REGIS
+R
+SCN93
+SEC95
+SIFIM
+SP
+TCEI
+TII/TRU
+TV
+TVA
+VAB
+VNB
+VS
+
+= instituții fără scop lucrativ în serviciul gospodăriilor populației
+= Institutul Național de Statistică al României
+= impozite pe produse
+= Ministerul Finanțelor Publice
+= Nomenclatorul unităților teritoriale statistice
+= Organizația pentru Cooperare și Dezvoltare Economică
+= produsul intern brut
+= produsul intern brut regional
+= Registrul statistic
+= remunerarea salariaților
+= Sistemul conturilor naționale versiunea 1993
+= Sistemul european de conturi versiunea 1995
+= servicii de intermediere financiară indirect măsurate
+= subvenții pe produse
+= tabelul conturilor economice integrate
+= tabelul intrări-ieșiri/tabelul resurse-utilizări
+= taxe vamale (drepturi asupra importurilor)
+= taxa pe valoarea adăugată
+= valoarea adăugată brută
+= PNB (cf. SEC95) = venitul național brut = produsul național brut
+= variația stocurilor
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+ăMonitorul Oficial” R.A., Str. Parcului nr. 65, sectorul 1, București; C.I.F. RO427282,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala ăUnirea” București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 021.318.51.29/150, fax 021.318.51.15, e-mail: marketing@ramo.ro, internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 021.411.58.33 și 021.410.47.30, fax 021.410.77.36 și 021.410.47.23
+Tiparul: ăMonitorul Oficial” R.A.
+Monitorul Oficial al României, Partea I, nr. 292/5.V.2009 conține 16 pagini.
+
+Prețul: 3,20 lei
+
+&JUYDGY|430143]
+ISSN 1453—4495
+
+

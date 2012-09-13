@@ -1,0 +1,2405 @@
+PARTEA I
+
+Anul 179 (XXIII) — Nr. 75
+
+Vineri, 28 ianuarie 2011
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+SUMAR
+
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+
+173.
+
+— Ordin al ministrului comunicațiilor și societății
+informaționale pentru aprobarea Normelor tehnice
+privind Sistemul național electronic de plată online a
+taxelor și impozitelor utilizând cardul bancar..............
+
+1–32
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+MINISTERUL COMUNICAȚIILOR ȘI SOCIETĂȚII INFORMAȚIONALE
+
+ORDIN
+pentru aprobarea Normelor tehnice privind Sistemul național electronic de plată online a taxelor
+și impozitelor utilizând cardul bancar
+În temeiul dispozițiilor art. 6 alin. (6) din Hotărârea Guvernului nr. 12/2009 privind organizarea și funcționarea Ministerului
+Comunicațiilor și Societății Informaționale, cu modificările și completările ulterioare, și ale art. 5 alin. (2), art. 6 și 11 din Hotărârea
+Guvernului nr. 1.235/2010 privind aprobarea realizării Sistemului național electronic de plată online a taxelor și impozitelor utilizând
+cardul bancar,
+ministrul comunicațiilor și societății informaționale emite prezentul ordin.
+Art. 1. — Se aprobă Normele tehnice privind Sistemul
+național electronic de plată online a taxelor și impozitelor
+utilizând cardul bancar, prevăzute în anexa care face parte
+integrantă din prezentul ordin.
+Art. 2. — Centrul Național de Management pentru Societatea
+
+Informațională se desemnează ca operator al Sistemului
+național electronic de plată online a taxelor și impozitelor
+utilizând cardul bancar.
+Art. 3. — Prezentul ordin se publică în Monitorul Oficial al
+României, Partea I.
+
+Ministrul comunicațiilor și societății informaționale,
+Valerian Vreme
+
+București, 19 ianuarie 2011.
+Nr. 173.
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+ANEXĂ
+
+NORME TEHNICE
+
+privind Sistemul național electronic de plată online a taxelor și impozitelor utilizând cardul bancar
+CAPITOLUL I
+Dispoziții generale
+Art. 1. — Prezentele norme stabilesc cadrul tehnic
+corespunzător implementării și operării Sistemului național
+electronic de plată online a taxelor și impozitelor utilizând cardul
+bancar.
+Art. 2. — (1) În sensul prezentului ordin, abrevierile utilizate
+au următoarele semnificații:
+a) HTTPS — protocol de comunicare securizată prin internet;
+b) SNEP — Sistemul național electronic de plată online a
+taxelor și impozitelor utilizând cardul bancar.
+(2) În sensul prezentului ordin, următorii termeni se definesc
+după cum urmează:
+a) utilizator — instituție publică beneficiară, instituție publică
+prestatoare, persoană fizică sau persoană fizică autorizată care
+are obligații de plată, instituție de credit și instituție de credit
+acceptatoare, având CNP/NIF sau CIF/CUI valid;
+b) pagină web — document electronic, accesibil prin internet;
+c) navigator internet — program pentru calculator care
+permite vizualizarea paginilor web;
+d) operator SNEP — Centrul Național de Management
+pentru Societatea Informațională (CNMSI);
+e) contribuabil — persoană fizică sau persoană fizică
+autorizată care efectuează plata online a taxelor și impozitelor
+utilizând cardul bancar prin intermediul SNEP;
+f) instituții publice beneficiare — instituții publice care
+desfășoară activități de încasare online a taxelor și impozitelor
+utilizând cardul bancar prin intermediul SNEP.
+Art. 3. — Decuplarea utilizatorului de la SNEP se face
+automat la închiderea navigatorului internet.
+CAPITOLUL II
+Proceduri de securitate și asigurarea disponibilității
+Art. 4. — Operatorul SNEP are obligația de a defini și a
+implementa, până la darea în producție a sistemului, proceduri
+și mecanisme necesare pentru asigurarea securității și
+disponibilității sistemului, la nivelul tuturor componentelor
+acestuia, astfel încât SNEP să funcționeze la parametrii stabiliți
+prin pct. 4.1 din Normele metodologice privind Sistemul național
+electronic de plată online a taxelor și impozitelor utilizând cardul
+bancar, aprobate prin Ordinul ministrului comunicațiilor și
+societății informaționale, al ministrului administrației și internelor
+și al ministrului finanțelor publice nr. 168/14/95.
+Art. 5. — Operatorul SNEP are obligația de a implementa
+proceduri în domeniul cybersecurity care să asigure protecția
+SNEP, a utilizatorilor și a datelor acestora. Procedurile vor viza
+aspecte precum: colectarea și analiza logurilor, protecția
+împotriva tipurilor de atacuri informatice cunoscute, testarea
+periodică pentru identificarea posibilelor breșe de securitate.
+Art. 6. — Operatorul SNEP va implementa proceduri și
+mecanisme pentru a asigura în implementarea și operarea
+SNEP respectarea prevederilor Legii nr. 677/2001 pentru
+protecția persoanelor cu privire la prelucrarea datelor cu
+caracter personal și libera circulație a acestor date, cu
+modificările și completările ulterioare.
+Art. 7. — Administratorii SNEP, angajați ai operatorului
+SNEP, se vor autentifica cu certificat electronic pe stațiile de
+administrare a SNEP.
+Art. 8. — Operatorul SNEP va monitoriza funcționarea
+componentelor SNEP, inclusiv a liniilor de comunicații. În cazul
+funcționării necorespunzătoare a componentelor monitorizate
+ale SNEP, operatorul SNEP va proceda conform procedurilor
+interne.
+
+CAPITOLUL III
+Standardul de interfațare și interconectare
+Art. 9. — Instituțiile publice beneficiare înregistrate vor
+implementa conectorii corespunzători pentru realizarea
+comunicației între aplicația proprie de gestiune a contribuabililor
+și debitelor acestora și SNEP utilizând protocolul HTTPS, fără a
+fi însă obligatorie utilizarea unui certificat de server calificat.
+Art. 10. — Standardul de interfațare și interconectare pentru
+comunicarea obligațiilor de plată constituite de instituțiile publice
+beneficiare care dețin un sistem de gestiune a obligațiilor
+bugetare, precum și descrierea acestuia sunt puse la dispoziție
+de Ministerul Comunicațiilor și Societății Informaționale cu titlu
+gratuit, conform anexei nr. 1.
+Art. 11. — Standardul de interfațare și interconectare pentru
+actualizarea în SNEP a informațiilor privind contribuabilii,
+precum și a registrului tipurilor de taxe pentru instituțiile publice
+beneficiare care dețin un sistem de gestiune a obligațiilor
+bugetare, precum și descrierea acestuia sunt puse la dispoziție
+de Ministerul Comunicațiilor și Societății Informaționale cu titlu
+gratuit, conform anexei nr. 2.
+Art. 12. — Formatul electronic standardizat al fișierelor
+transmise operatorului SNEP de către instituțiile publice
+beneficiare care nu dețin un sistem de gestiune a obligațiilor
+bugetare pentru înregistrarea și actualizarea în SNEP a
+informațiilor privind contribuabilii, precum și descrierea acestuia
+sunt puse la dispoziție de Ministerul Comunicațiilor și Societății
+Informaționale cu titlu gratuit, conform anexei nr. 3.
+Art. 13. — Standardul de interfațare și interconectare între
+SNEP și aplicația informatică dezvoltată de Ministerul Finanțelor
+Publice — Agenția Națională de Administrare Fiscală, conform
+pct. 3.2.2.2 din Normele metodologice privind Sistemul național
+electronic de plată online a taxelor și impozitelor utilizând cardul
+bancar, aprobate prin Ordinul ministrului comunicațiilor și
+societății informaționale, al ministrului administrației și internelor
+și al ministrului finanțelor publice nr. 168/14/95, pentru
+comunicarea obligațiilor de plată constituite de instituțiile publice
+beneficiare care nu dețin un sistem de gestiune a obligațiilor
+bugetare, precum și descrierea acestuia sunt puse la dispoziție
+de Ministerul Comunicațiilor și Societății Informaționale cu titlu
+gratuit, conform anexei nr. 4.
+Art. 14. — Formatul electronic standardizat al fișierelor
+transmise Ministerului Finanțelor Publice — Agenția Națională
+de Administrare Fiscală de către instituțiile publice beneficiare
+care nu dețin un sistem de gestiune a obligațiilor bugetare
+pentru actualizarea informațiilor privind obligațiile de plată,
+precum și descrierea acestuia sunt puse la dispoziție de
+Ministerul Comunicațiilor și Societății Informaționale cu titlu
+gratuit, conform anexei nr. 5.
+Art. 15. — Numele fișierelor transmise prin SNEP vor
+respecta următorul format:
+Idemitent_Iddestinatar_data_numarordine_tipfisier_nrfisier.extensie,
+cu următoarele clarificări, cu respectarea definițiilor prevăzute
+la pct. 1.4 din Normele metodologice privind Sistemul național
+electronic de plată online a taxelor și impozitelor utilizând cardul
+bancar, aprobate prin Ordinul ministrului comunicațiilor și
+societății informaționale, al ministrului administrației și internelor
+și al ministrului finanțelor publice nr. 168/14/95:
+a) pentru fișierele prevăzute la pct. 3.5.3 din Normele
+metodologice privind Sistemul național electronic de plată online
+a taxelor și impozitelor utilizând cardul bancar, aprobate prin
+Ordinul ministrului comunicațiilor și societății informaționale, al
+ministrului administrației și internelor și al ministrului finanțelor
+publice nr. 168/14/95:
+Idemitent: ″SNEP″
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+Iddestinatar: [BIC al instituției de credit acceptatoare]
+data: [data calendaristică, în format aaaallzz]
+numarordine [generat automat de către SNEP]
+tipfisier: ″TA″, unde TA reprezintă tranzacții autorizate
+nrfisier: [generat automat de către SNEP, ca număr al
+fișierului]
+extensie: [se stabilește de către operatorul SNEP în funcție
+de tipul conținutului];
+b) pentru fișierele prevăzute la pct. 3.5.8 din Normele
+metodologice privind Sistemul național electronic de plată online
+a taxelor și impozitelor utilizând cardul bancar, aprobate prin
+Ordinul ministrului comunicațiilor și societății informaționale, al
+ministrului administrației și internelor și al ministrului finanțelor
+publice nr. 168/14/95:
+Idemitent: [BIC al instituției de credit acceptatoare]
+Iddestinatar: ″SNEP″
+data: [data calendaristică, în format aaaallzz]
+numarordine [generat de către instituția de credit
+acceptatoare]
+tipfisier: ″TD″, unde TD reprezintă tranzacții decontate
+nrfisier: [generat de către instituția de credit acceptatoare, ca
+număr al fișierului]
+extensie: [se stabilește de către operatorul SNEP în funcție
+de tipul conținutului];
+c) pentru fișierele prevăzute la pct. 3.6.2 din Normele
+metodologice privind Sistemul național electronic de plată online
+a taxelor și impozitelor utilizând cardul bancar, aprobate prin
+Ordinul ministrului comunicațiilor și societății informaționale, al
+ministrului administrației și internelor și al ministrului finanțelor
+publice nr. 168/14/95:
+
+3
+
+Idemitent: ″SNEP″
+Iddestinatar: [CIF al instituției publice beneficiare]
+data: [data calendaristică, în format aaaallzz]
+numarordine [generat automat de către SNEP]
+tipfisier: ″TASP″, unde TASP reprezintă tranzacții autorizate
+de SNEP către instituția publică beneficiară
+nrfisier: [generat automat de către SNEP, ca număr al
+fișierului]
+extensie: [se stabilește de către operatorul SNEP în funcție
+de tipul conținutului];
+d) pentru fișierele prevăzute la pct. 3.7.3 din Normele
+metodologice privind Sistemul național electronic de plată online
+a taxelor și impozitelor utilizând cardul bancar, aprobate prin
+Ordinul ministrului comunicațiilor și societății informaționale, al
+ministrului administrației și internelor și al ministrului finanțelor
+publice nr. 168/14/95:
+Idemitent: [CIF al instituției publice beneficiare]
+Iddestinatar: [BIC al instituției de credit acceptatoare]
+data: [data calendaristică, în format aaaallzz]
+numarordine [generat de către instituția publică beneficiară]
+tipfisier: ″TR″, unde TR reprezintă tranzacții restituite
+nrfisier: [generat automat de către instituția publică
+beneficiară, ca număr al fișierului]
+extensie: [se stabilește de către instituția publică beneficiară].
+Art. 16. — Fișierele transmise prin SNEP privitoare la
+tranzacții vor conține numai tranzacții aferente unei singure zile.
+Art. 17. — Anexele 1—5 fac parte integrantă din prezentele
+norme tehnice.
+ANEXA Nr. 1
+la normele tehnice
+
+1.1. Standardul de interfațare și interconectare pentru comunicarea obligațiilor de plată constituite de instituțiile
+publice beneficiare care dețin un sistem de gestiune a obligațiilor bugetare
+<?xml version=″1.0″ ?>
+<definitions xmlns=″http://schemas.xmlsoap. org/wsdl/″ xmlns: tns=″Aici va apărea namespace-ul aplicației dezvoltate
+de instituția care furnizează web service-ul, de ex.:
+https://www.domeniu_institutie_publica.ro/ghiseu_institutie_publica/ghiseu/server.php″
+xmlns: soap=″http://schemas.xmlsoap. org/wsdl/soap/″
+xmlns:xsd=″http://www.w3.org/2001/XMLSchema″ xmlns: soap-enc=″http://schemas.xmlsoap.org/soap/encoding/″
+xmlns: wsdl=″http://schemas.xmlsoap.org/wsdl/″
+name=″InformatiiPlataZF″ targetNamespace=″Aici va apărea namespace-ul aplicației dezvoltate de instituția care
+furnizează web service-ul, de ex.:
+https://www.domeniu_institutie_publica.ro/ghiseu_institutie_publica/ghiseu/server.php″>
+<types>
+<xsd:schema targetNamespace=″Aici va apărea namespace-ul aplicației dezvoltate de instituția care furnizează web
+service-ul, de ex.:
+https://www.domeniu_institutie_publica.ro/ghiseu_institutie_publica/ghiseu/server.php″>
+<xsd:element name=″getSumeDePlataPePersoana″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″cui″ type=″xsd:string″/>
+<xsd:element name=″timestamp″ type=″xsd:string″/>
+<xsd:element name=″check″ type=″xsd:string″/>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:complexType name=″ArrayOfString″>
+<xsd:sequence>
+<xsd:element name=″item″ type=″xsd:string″ minOccurs=″0″ maxOccurs=″unbounded″/>
+</xsd:sequence>
+</xsd:complexType>
+<xsd:complexType name=″LinieDetaliiSume″>
+<xsd:all>
+<xsd:element name=″linie″ type=″tns: ArrayOfString″/>
+</xsd:all>
+</xsd:complexType>
+<xsd:complexType name=″ArrayOfLiniedetaliisume″>
+<xsd:sequence>
+<xsd:element name=″item″ type=″tns: LinieDetaliiSume″ minOccurs=″0″ maxOccurs=″unbounded″/>
+</xsd:sequence>
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+</xsd:complexType>
+<xsd:complexType name=″TipSuma″>
+<xsd:all>
+<xsd:element name=″idTipSuma″ type=″xsd:int″/>
+<xsd:element name=″valoare″ type=″xsd:float″/>
+<xsd:element name=″prioritate″ type=″xsd:int″/>
+<xsd:element name=″detaliiHeader″ type=″tns: ArrayOfString″/>
+<xsd:element name=″detaliiBody″ type=″tns: ArrayOfLiniedetaliisume″/>
+</xsd:all>
+</xsd:complexType>
+<xsd:complexType name=″ArrayOfTipsuma″>
+<xsd:sequence>
+<xsd:element name=″item″ type=″tns: TipSuma″ minOccurs= ″0″ maxOccurs=″unbounded″/>
+</xsd:sequence>
+</xsd:complexType>
+<xsd:complexType name=″ListaTipuriSume″>
+<xsd:all>
+<xsd:element name=″sume″ type=″tns: ArrayOfTipsuma″/>
+<xsd:element name=″dataCalcul″ type=″xsd:string″/>
+<xsd:element name=″timestamp″ type=″xsd:string″/>
+<xsd:element name=″check″ type=″xsd:string″/>
+</xsd:all>
+</xsd:complexType>
+<xsd:element name=″getSumeDePlataPePersoanaResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″getSumeDePlataPePersoanaResult″ type=″tns: ListaTipuriSume″/>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:complexType name=″SumaIncasata″>
+<xsd:all>
+<xsd:element name=″idTipSuma″ type=″xsd:int″/>
+<xsd:element name=″valoare″ type=″xsd:float″/>
+</xsd:all>
+</xsd:complexType>
+<xsd:complexType name=″ArrayOfSumaincasata″>
+<xsd:sequence>
+<xsd:element name=″item″ type=″tns:SumaIncasata″ minOccurs=″0″ maxOccurs=″unbounded″/>
+</xsd:sequence>
+</xsd:complexType>
+<xsd:element name=″inregistrareIncasari″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″order″ type=″xsd:int″/>
+<xsd:element name =″cui″ type=″xsd:string″/>
+<xsd:element name=″sume″ type=″tns:ArrayOfSumaincasata″/>
+<xsd:element name=″data″ type=″xsd:string″/>
+<xsd:element name=″timestamp″ type=″xsd:string″/>
+<xsd:element name=″check″ type=″xsd:string″/>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name=″inregistrareIncasariResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″inregistrareIncasariResult″ type=″xsd:boolean″/>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>
+</types>
+<portType name=″InformatiiPlataZFPort″>
+<operation name=″getSumeDePlataPePersoana″>
+<documentation>Metoda care returnează sumele de plată cu detaliile acestora pentru un CUI dat</documentation>
+<input message=″tns:getSumeDePlataPePersoanaIn″/>
+<output message=″tns:getSumeDePlataPePersoanaOut″/>
+</operation>
+<operation name=″inregistrareIncasari″>
+<documentation>Metoda care primește sumele și tipurile pentru care s-a făcut plata pe un CUI</documentation>
+<input message=″tns:inregistrareIncasariIn″/>
+<output message=″tns:inregistrareIncasariOut″ />
+</operation>
+</portType>
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+
+5
+
+<binding name=″InformatiiPlataZFBinding″ type=″tns:InformatiiPlataZFPort″>
+<soap:binding style=″document″ transport=″http://schemas.xmlsoap.org/soap/http″/>
+<operation name=″getSumeDePlataPePersoana″>
+<soap:operation soapAction=″Aici va apărea url-ul metodei getSumeDePlataPePersoana, de ex.:
+https://www.domeniu_institutie_publica.ro/ghiseu_institutie_publica/ghiseu/server.php
+#getSumeDePlataPePersoana″/>
+<input>
+<soap:body use=″literal″/>
+</input>
+<output>
+<soap:body use=″literal″/>
+</output>
+</operation>
+<operation name=″inregistrareIncasari″>
+<soap:operation soapAction=″Aici va apărea url-ul metodei inregistrareIncasari, de ex.:
+https://www.domeniu_institutie_publica.ro/ghiseu_institutie_publica/ghiseu/server.php#inregistrareIncasari″/>
+<input>
+<soap:body use=″literal″/>
+</input>
+<output>
+<soap:body use=″literal″/>
+</output>
+</operation>
+</binding>
+<service name=″InformatiiPlataZFService″>
+<port name=″InformatiiPlataZFPort″ binding=″tns:InformatiiPlataZFBinding″>
+<soap:address location=″Aici va apărea url-ul aplicației dezvoltate de instituția care furnizează web service-ul, de ex.:
+https://www.domeniu_institutie_publica.ro/ghiseu_institutie_publica/ghiseu/server.php″/>
+</port>
+</service>
+<message name=″getSumeDePlataPePersoanaIn″>
+<part name=″parameters″ element=″tns:getSumeDePlataPePersoana″/>
+</message>
+<message name=″getSumeDePlataPePersoanaOut″>
+<part name=″parameters″ element=″tns:getSumeDePlataPePersoanaResponse″/>
+</message>
+<message name=″inregistrareIncasariIn″>
+<part name=″parameters″ element=″tns:inregistrareIncasari″>
+</message>
+<message name=″inregistrareIncasariOut″>
+<part name=″parameters″ element=″tns:inregistrareIncasariResponse″/>
+</message>
+</definitions>
+1.2. Descrierea standardului de interfațare și interconectare pentru comunicarea obligațiilor de plată constituite
+de instituțiile publice beneficiare care dețin un sistem de gestiune a obligațiilor bugetare
+Servicii web client
+Reguli generale
+Datele string se vor trimite codate în format UTF8.
+Checksumul (suma de control) din fiecare mesaj se va compune pe valorile codate UTF8.
+Requesturile SOAP trebuie să fie valide din punct de vedere XML.
+Web-service — debite/sume cu detalii
+Cerere:
+Denumire: getSumeDePlataPePersoana
+Descriere: Cererea este trimisă de ghiseul.ro către web-service-ul instituției, care va răspunde cu date despre persoana
+corespunzătoare CUI-ului trimis.
+Parametri:
+<xsd:element name=″getSumeDePlataPePersoana″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″cui″ type=″xsd:string″/>
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+<xsd:element name=″check″ type=″xsd:string″/>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+
+Explicațiile parametrilor:
+CUI — CNP/NIF sau CIF/CUI (pentru persoane fizice autorizate)
+timestamp — timestamp în formatul aaaallzzoommss (ex.: 20100915083837), unde aaaa este anul (ex.: 2010), ll este luna
+(ex.: 09), zz este ziua (ex.: 15), oo este ora (ex.: 08), mm sunt minutele (ex.: 38), ss sunt secundele (ex.: 38)
+check — suma de control al integrității mesajului; algoritmul folosit este HMAC-SHA1 cu cheie de criptare;
+— se aplică algoritmul pe valoarea CUI-ului.
+Răspuns:
+Denumire: getSumeDePlataPePersoanaResponse
+Descriere: Este răspunsul web-service-ului server al instituției la cererea adresată de web-service-ul client de pe ghiseul.ro.
+Răspunsul conține o listă cu sume de plătit de către persoana al cărei CUI este trimis prin mesajul getSumeDePlataPePersoana.
+Sumele sunt grupate pe tipuri de sume; tipurile de sume pot fi prioritizate.
+Parametri:
+<xsd:element name=″getSumeDePlataPePersoanaResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″getSumeDePlataPePersoanaResult″ type=″tns:ListaTipuriSume″/>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:complexType name=″ListaTipuriSume″>
+<xsd:all>
+<xsd:element name=″sume″ type=″tns:ArrayOfTipsuma″/>
+<xsd:element name=″dataCalcul″ type=″xsd:string″/>
+<xsd:element name=″timestamp″ type=″xsd:string″/>
+<xsd:element name=″check″ type=″xsd:string″/>
+</xsd:all>
+</xsd:complexType>
+<xsd:complexType name=″ArrayOfTipsuma″>
+<xsd:sequence>
+<xsd:element name=″item″ type=″tns:TipSuma″ minOccurs=″0″ maxOccurs=″unbounded″/>
+</xsd:sequence>
+</xsd:complexType>
+<xsd:complexType name=″TipSuma″>
+<xsd:all>
+<xsd:element name=″idTipSuma″ type=″xsd:int″/>
+<xsd:element name=″valoare″ type=″xsd:float″/>
+<xsd:element name=″prioritate″ type=″xsd:int″/>
+<xsd:element name=″detaliiHeader″ type=″tns:ArrayOfString″/>
+<xsd:element name=″detaliiBody″ type=″tns:ArrayOfLiniedetaliisume″/>
+</xsd:all>
+</xsd:complexType>
+<xsd:complexType name=″ArrayOfLiniedetaliisume″>
+<xsd:sequence>
+<xsd:element
+name=″item″
+type=″tns:LinieDetaliiSume″
+</xsd:sequence>
+</xsd:complexType>
+
+minOccurs=″0″ maxOccurs=″unbounded″/>
+
+<xsd:complexType name=″LinieDetaliiSume″>
+<xsd:all>
+<xsd:element name=″linie″ type=″tns:ArrayOfString″/>
+</xsd:all>
+</xsd:complexType>
+<xsd:complexType name=″ArrayOfString″>
+<xsd:sequence>
+<xsd:element name=″item″ type=″xsd:string″ minOccurs=″0″ maxOccurs=″unbounded″/>
+</xsd:sequence>
+</xsd:complexType>
+Explicațiile parametrilor:
+sume — un array cu sumele de plătit grupate pe tipuri de sume
+idTipSuma — codul tipului de sumă
+valoare — suma datorată pentru tipul de sumă idTipSuma de forma întreg.douăzecimale (ex.: 57.32)
+prioritate — prioritatea în care trebuie să se plătească suma; tipurile de sumă pot să fie prioritizate sau nu; fiecare tip de
+sumă care se dorește a fi prioritizată va avea un număr de prioritizare unic obligatoriu pozitiv;
+prioritate = 1 este cel mai prioritar tip de sumă, apoi cel cu prioritate = 2 etc.;
+restul tipurilor de sumă care nu se doresc a fi prioritizate vor avea prioritate = 0 și vor putea să fie plătite numai după ce
+sunt plătite sumele pe tipurile de sumă cu prioritate.
+detaliiHeader — un array de stringuri (ex.: Proprietate Debit Rămășiță Majorări Penalități)
+detaliiBody — un array de obiecte LinieDetaliiSume; conține detaliile de plată corespunzător tipului de sumă idTipSuma
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+
+7
+
+LinieDetaliiSume — un array de stringuri (ex.: denumire, suma debit, suma rămășiță, suma majorare, suma
+penalitate); acestea vor apărea utilizatorilor în format tabelar.
+dataCalcul — data la care s-a calculat valoarea obligațiilor de plată, în format aaaallzz, unde aaaa este anul
+(ex.: 2010), ll este luna (ex.: 09), zz este ziua (ex.: 15)
+timestamp — timestamp în formatul aaaallzzoommss (ex.: 20100915083837), unde aaaa este anul (ex.: 2010),
+ll este luna (ex.: 09), zz este ziua (ex.: 15), oo este ora (ex.: 08), mm sunt minutele (ex.: 38), ss sunt secundele
+(ex.: 38)
+check — suma de control al integrității mesajului; algoritmul folosit este HMAC-SHA1 cu cheie de criptare;
+— algoritmul se aplică pe stringul obținut prin concatenarea în ordine a valorilor: idTipSuma, valoare, apoi pe rând
+valorile din detaliiHeader luate în ordinea din array, apoi valorile din detaliiBody.
+OBSERVAȚIE:
+
+detaliiHeader și detaliiBody trebuie să conțină același număr de câmpuri.
+
+Web-service — înregistrare plăți acceptate
+Cerere:
+Denumire: inregistrareIncasari
+Descriere: Web-service-ul client de pe ghiseul.ro trimite un mesaj spre web-service-ul server de la instituție cu detalii
+despre încasarea acceptată de procesatorul de plăți electronice. Mesajul conține numărul plății, data plății și sumele totale pe
+tipuri de sume plătite de persoana respectivă.
+Parametri:
+<xsd:element name=″inregistrareIncasari″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″order″ type=″xsd:int″ />
+<xsd:element name=″cui″ type=″xsd:string″ />
+<xsd:element name=″sume″ type=″tns:ArrayOfSumaincasata″ />
+<xsd:element name=″data″ type=″xsd:string″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+<xsd:element name=″check″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:complexType name=″ArrayOfSumaincasata″>
+<xsd:sequence>
+<xsd:element name=″item″ type=″tns:SumaIncasata″ minOccurs=″0″ maxOccurs=″unbounded″ />
+</xsd:sequence>
+</xsd:complexType>
+<xsd:complexType name=″SumaIncasata″>
+<xsd:all>
+<xsd:element name=″idTipSuma″ type=″xsd:int″ />
+<xsd:element name=″valoare″ type=″xsd:float″ />
+</xsd:all>
+</xsd:complexType>
+Explicațiile parametrilor:
+order — numărul încasării
+cui — CNP/NIF sau CIF/CUI (pentru persoane fizice autorizate)
+data — data plății de forma aaaa-ll-zz oo:mm:ss (ex.: 2010-09-15 08:38:12)
+sume — array de obiecte SumaIncasata; listă cu sumele plătite pe tipuri de sume
+SumaIncasata conține câmpurile:
+idTipSuma — codul tipului de sumă
+valoare — totalul plătit pe tipul de sumă idTipSuma de forma întreg.douăzecimale (ex.: 1234.50)
+timestamp — timestamp în formatul aaaallzzoommss (ex.: 20100915083812), unde aaaa este anul (ex.: 2010), ll este
+luna (ex.: 09), zz este ziua (ex.: 15), oo este ora (ex.: 08), mm sunt minutele (ex.: 38), ss sunt secundele (ex.: 12)
+check — suma de control al integrității mesajului; algoritmul folosit este HMAC-SHA1 cu cheie de criptare;
+— algoritmul se aplică pe stringul obținut prin concatenarea în ordine a valorilor: order, cui, data, apoi pe rând
+valorile din arrayul cu sume.
+Răspuns:
+Denumire: inregistrareIncasariResponse
+Descriere: Web-service-ul server al instituției răspunde web-service-ului client de la ghiseul.ro. Va răspunde cu 1 dacă a
+reușit să facă descărcarea plății în sistemul local al instituției. Altfel va răspunde cu 0.
+Parametri:
+<xsd:element name=″inregistrareIncasariResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″inregistrareIncasariResult″ type=″xsd:boolean″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+Explicațiile parametrilor:
+inregistrareIncasariResult — este 1 dacă s-a înregistrat încasarea cu succes, 0 dacă înregistrarea nu s-a putut efectua.
+Tratarea erorilor (Soap Fault) pentru ambele servicii
+Se va trimite Soap Fault cu <faultcode> 1, 2 sau 3 în următoarele cazuri specifice:
+1 — în cazul în care nu s-a verificat integritatea mesajului;
+2 — în cazul în care CUI-ul nu este valid sau nu există în baza de date;
+3 — s-a produs o eroare și serviciul este indisponibil.
+EXEMPLU DE SOAP FAULT:
+
+Response de la: <?xml version=″1.0″ encoding=″UTF-8″?>
+<env:Envelope xmlns:env=″http://www.w3.org/2003/05/soap-envelope″>
+<env:Body>
+<env:Fault>
+<env:Code>
+<env:Value>1</env:Value>
+</env:Code>
+<env:Reason>
+<env:Text>Mesaj invalid</env:Text>
+</env:Reason>
+</env:Fault>
+</env:Body>
+</env:Envelope>
+ANEXA Nr. 2
+la normele tehnice
+
+2.1. Standardul de interfațare și interconectare pentru actualizarea în SNEP a informațiilor privind contribuabilii,
+precum și a registrului tipurilor de taxe pentru instituțiile publice beneficiare care dețin un sistem de gestiune a obligațiilor
+bugetare
+<?xml version=″1.0″ ?>
+<definitions xmlns=″http://schemas.xmlsoap.org/wsdl/″
+xmlns:tns=″https://www.ghiseul.ro/ghiseul_admin/public/transfer/transfer″
+xmlns:soap=″http://schemas.xmlsoap.org/wsdl/soap/″
+xmlns:xsd=″http://www.w3.org/2001/XMLSchema″
+xmlns:soap-enc=″http://schemas.xmlsoap.org/soap/encoding/″
+xmlns:wsdl=″http://schemas.xmlsoap.org/wsdl/″
+name=″Transfer″
+targetNamespace=″https://www.ghiseul.ro/ghiseul_admin/public/transfer/transfer″>
+<types>
+<xsd:schema targetNamespace=″https://www.ghiseul.ro/ghiseul_admin/public/transfer/transfer″>
+<xsd:element name=″connectionTest″>
+<xsd:complexType />
+</xsd:element>
+<xsd:element name=″connectionTestResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″connectionTestResult″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:complexType name=″PersoanaTransfer″>
+<xsd:all>
+<xsd:element name=″cui″ type=″xsd:string″ />
+<xsd:element name=″nume″ type=″xsd:string″ />
+<xsd:element name=″adresa″ type=″xsd:string″ />
+<xsd:element name=″cod″ type=″xsd:string″ />
+<xsd:element name=″data″ type=″xsd:string″ />
+</xsd:all>
+</xsd:complexType>
+<xsd:complexType name=″ArrayOfPersoanatransfer″>
+<xsd:sequence>
+<xsd:element name=″item″ type=″tns:PersoanaTransfer″ minOccurs=″0″ maxOccurs=″unbounded″/>
+</xsd:sequence>
+</xsd:complexType>
+<xsd:element name=″transferPersoane″>
+<xsd:complexType>
+<xsd:sequence>
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+<xsd:element name=″idClient″ type=″xsd:float″/>
+<xsd:element name=″userClient″ type= ″xsd:string″ />
+<xsd:element name=″date″type=″tns:ArrayOfPersoanatransfer″ />
+<xsd:element name=″utilizator″ type=″xsd:string″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+<xsd:element name=″primulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″ultimulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″check″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name=″transferPersoaneResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″transferPersoaneResult″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:complexType name=″FirmaTransfer″>
+<xsd:all>
+<xsd:element name=″cui″ type=″xsd:string″ />
+<xsd:element name=″nume″ type=″xsd:string″ />
+<xsd:element name=″adresa″ type=″xsd:string″ />
+<xsd:element name=″cod″ type=″xsd:string″ />
+<xsd:element name=″data″ type=″xsd:string″ />
+</xsd:all>
+</xsd:complexType>
+<xsd:complexType name=″ArrayOfFirmatransfer″>
+<xsd:sequence>
+<xsd:element name=″item″ type=″tns:FirmaTransfer″ minOccurs=″0″ maxOccurs=″unbounded″ />
+</xsd:sequence>
+</xsd:complexType>
+<xsd:element name=″transferFirme″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″idClient″ type=″xsd:float″ />
+<xsd:element name=″userClient″ type=″xsd:string″ />
+<xsd:element name=″date″ type=″tns:ArrayOfFirmatransfer″ />
+<xsd:element name=″utilizator″ type=″xsd:string″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+<xsd:element name=″primulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″ultimulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″check″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name=″transferFirmeResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″transferFirmeResult″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:complexType name=″TipSumaTransfer″>
+<xsd:all>
+<xsd:element name=″cod″ type=″xsd:string″ />
+<xsd:element name=″idNomUnic″ type=″xsd:string″ />
+<xsd:element name=″nume″ type=″xsd:string″ />
+<xsd:element name=″iban″ type=″xsd:string″ /> <xsd:element name=″debit″ type=″xsd:string″ />
+<xsd:element name=″valInitiala″ type=″xsd:string″ />
+<xsd:element name=″inactiv″ type=″xsd:string″ />
+<xsd:element name=″data″ type=ăxsd:string″ />
+<xsd:element name=″platitor″ type=″xsd:string″
+</xsd:all>
+</xsd:complexType>
+<xsd:complexType name=″ArrayOfTipsumatransfer″>
+<xsd:sequence>
+<xsd:element name=″item″ type=″tns:TipSumaTransfer″ minOccurs=″0″ maxOccurs=″unbounded″ />
+</xsd:sequence>
+</xsd:complexType>
+<xsd:element name=″transferTipuriSume″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″idClient″ type=″xsd:float″ />
+
+9
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+<xsd:element name=″userClient″ type=″xsd:string″ />
+<xsd:element name=″date″ type=″tns:ArrayOfTipsumatransfer″ />
+<xsd:element name=″utilizator″ type=″xsd:string″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+<xsd:element name=″primulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″ultimulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″check″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name=″transferTipuriSumeResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″transferTipuriSumeResult″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name=″getUltimaDataPersoane″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″idClient″ type=″xsd:float″ />
+<xsd:element name=″userClient″ type=″xsd:string″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name=″getUltimaDataPersoaneResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″getUltimaDataPersoaneResult″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name=″actualizarePersoane″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″idClient″ type=″xsd:float″ />
+<xsd:element name=″userClient″ type=″xsd:string″ />
+<xsd:element name=″date″ type=″tns:ArrayOfPersoanatransfer″ />
+<xsd:element name=″utilizator″ type=″xsd:string″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+<xsd:element name=″primulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″ultimulPachet″ type=ăxsd:boolean″ />
+<xsd:element name=″check″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name=″actualizarePersoaneResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″actualizarePersoaneResult″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name=″getUltimaDataFirme″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″idClient″ type=″xsd:float″ />
+<xsd:element name=″userClient″ type=″xsd:string″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name=″getUltimaDataFirmeResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″getUltimaDataFirmeResult″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name=″actualizareFirme″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″idClient″ type=″xsd:float″ />
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+<xsd:element name=″userClient″ type=″xsd:string″ />
+<xsd:element name=″date″ type=″tns:ArrayOfFirmatransfer″ />
+<xsd:element name=″utilizator″ type=″xsd:string″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+<xsd:element name=″primulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″ultimulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″check″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name=″actualizareFirmeResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″actualizareFirmeResult″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name=″getUltimaDataTipuriSume″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″idClient″ type=″xsd:float″ />
+<xsd:element name=″userClient″ type=″xsd:string″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name=″getUltimaDataTipuriSumeResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″getUltimaDataTipuriSumeResult″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name=″actualizareTipuriSume″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″idClient″ type=″xsd:float″ />
+<xsd:element name=″userClient″ type=″xsd:string″ />
+<xsd:element name=″date″ type=″tns:ArrayOfTipsumatransfer″ />
+<xsd:element name=″utilizator″ type=″xsd:string″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+<xsd:element name=″primulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″ultimulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″check″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name=″actualizareTipuriSumeResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″actualizareTipuriSumeResult″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name=″getUltimCodStergeri″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″idClient″ type=″xsd:float″ />
+<xsd:element name=″userClient″ type=″xsd:string″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name=″getUltimCodStergeriResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″getUltimCodStergeriResult″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:complexType name=″StergereTransfer″>
+<xsd:all>
+<xsd:element name=″cod″ type=″xsd:string″ />
+<xsd:element name=″codObiectSters″ type=″xsd:string″ />
+
+11
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+
+<xsd:element name=″fizjur″ type=″xsd:string″ />
+</xsd:all>
+</xsd:complexType>
+<xsd:complexType name=″ArrayOfStergeretransfer″>
+<xsd:sequence>
+<xsd:element name=″item″ type=″tns:StergereTransfer″ minOccurs=″0″ maxOccurs=″unbounded″ />
+</xsd:sequence>
+</xsd:complexType>
+<xsd:element name=″stergere″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″idClient″ type=″xsd:float″ />
+<xsd:element name=″userClient″ type=″xsd:string″ />
+<xsd:element name=″date″ type=″tns:ArrayOfStergeretransfer″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+<xsd:element name=″primulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″ultimulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″check″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name=″stergereResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″stergereResult″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>
+</types>
+<portType name=″TransferPort″>
+<operation name=″connectionTest″>
+<documentation>Returneaza o valoare</documentation>
+<input message=″tns:connectionTestIn″ />
+<output message=″tns:connectionTestOut″ />
+</operation>
+<operation name=″transferPersoane″>
+<documentation>Returneaza 0 daca operatia de scriere a datelor s-a efectuat cu succes</documentation>
+<input message=″tns:transferPersoaneIn″ />
+<output message=″tns:transferPersoaneOut″ />
+</operation>
+<operation name=″transferFirme″>
+<documentation>Returneaza 0 daca operatia de scriere a datelor s-a efectuat cu succes</documentation>
+<input message=″tns:transferFirmeIn″ />
+<output message=″tns:transferFirmeOut″ />
+</operation>
+<operation name=″transferTipuriSume″>
+<documentation>Returneaza 0 daca operatia de scriere a datelor s-a efectuat cu succes</documentation>
+<input message=″tns:transferTipuriSumeIn″ />
+<output message=″tns:transferTipuriSumeOut″ />
+</operation>
+<operation name=″getUltimaDataPersoane″>
+<documentation>Returneaza cea mai recenta data a unei persoane pentru institutia data sau ‘0’ daca nu exista o
+ultima data</documentation>
+<input message=″tns:getUltimaDataPersoaneIn″ />
+<output message=″tns:getUltimaDataPersoaneOut″ />
+</operation>
+<operation name=″actualizarePersoane″>
+<documentation>Returneaza 0 daca operatia de actualizare a datelor s-a efectuat cu succes</documentation>
+<input message=″tns:actualizarePersoaneIn″ />
+<output message=″tns:actualizarePersoaneOut″ />
+</operation>
+<operation name=″getUltimaDataFirme″>
+<documentation>Returneaza cea mai recenta data a unei persoane fizice autorizate pentru institutia data sau ‘0’
+daca nu exista o ultima data</documentation>
+<input message=″tns:getUltimaDataFirmeIn″ />
+<output message=″tns:getUltimaDataFirmeOut″ />
+</operation>
+<operation name=″actualizareFirme″>
+<documentation>Returneaza 0 daca operatia de actualizare a datelor s-a efectuat cu succes</documentation>
+<input message=″tns:actualizareFirmeIn″ />
+<output message=″tns:actualizareFirmeOut″ />
+</operation>
+<operation name=″getUltimaDataTipuriSume″>
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+
+13
+
+<documentation>Returneaza cea mai recenta data tipuri_sume pentru institutia data sau ‘0’ daca nu exista o ultima
+data</documentation>
+<input message=″tns:getUltimaDataTipuriSumeIn″ />
+<output message=″tns:getUltimaDataTipuriSumeOut″ />
+</operation>
+<operation name=″actualizareTipuriSume″>
+<documentation>Returneaza 0 daca operatia de actualizare a datelor s-a efectuat cu succes</documentation>
+<input message=″tns:actualizareTipuriSumeIn″ />
+<output message=″tns:actualizareTipuriSumeOut″ />
+</operation>
+<operation name=″getUltimCodStergeri″>
+<documentation>Returneaza ultimul cod din tabela de stergeri pentru institutia data sau ‘0’ daca nu exista ultimul
+cod</documentation>
+<input message=″tns:getUltimCodStergeriIn″ />
+<output message=″tns:getUltimCodStergeriOut″ />
+</operation>
+<operation name=″stergere″>
+<documentation>Returneaza 0 daca operatia de stergere a datelor s-a efectuat cu succes</documentation>
+<input message=″tns:stergereIn″ />
+<output message=″tns:stergereOut″ />
+</operation>
+</portType>
+<binding name=″TransferBinding″ type=″tns:TransferPort″>
+<soap:binding style=″document″ transport=″http://schemas.xmlsoap.org/soap/http″ />
+<operation name=″connectionTest″>
+<soap:operation soapAction=″https://www.ghiseul.ro/ghiseul_admin/public/transfer/transfer#connectionTest″ />
+<input>
+<soap:body use=″literal″ />
+</input>
+<output>
+<soap:body use=″literal″ />
+</output>
+</operation>
+<operation name=″transferPersoane″>
+<soap:operation soapAction=″https://www.ghiseul.ro/ghiseul_admin/public/transfer/transfer#transferPersoane″ />
+<input>
+<soap:body use=″literal″ />
+</input>
+<output>
+<soap:body use=″literal″ />
+</output>
+</operation>
+<operation name=″transferFirme″>
+<soap:operation soapAction=″https://www.ghiseul.ro/ghiseul_admin/public/transfer/transfer#transferFirme″ />
+<input>
+<soap:body use=″literal″ />
+</input>
+<output>
+<soap:body use=″literal″ />
+</output>
+</operation>
+<operation name=″transferTipuriSume″>
+<soap:operation soapAction=″https://www.ghiseul.ro/ghiseul_admin/public/transfer/transfer#transferTipuriSume″ />
+<input>
+<soap:body use=″literal″ />
+</input>
+<output>
+<soap:body use=″literal″ />
+</output>
+</operation>
+<operation name=″getUltimaDataPersoane″>
+<soap:operation soapAction=″https://www.ghiseul.ro/ghiseul_admin/public/transfer/transfer#getUltimaDataPersoane″ />
+<input>
+<soap:body use=″literal″ />
+</input>
+<output>
+<soap:body use=″literal″ />
+</output>
+</operation>
+<operation name=″actualizarePersoane″>
+<soap:operation soapAction=″https://www.ghiseul.ro/ghiseul_admin/public/transfer/transfer#actualizarePersoane″ />
+<input>
+<soap:body use=″literal″ />
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+</input>
+<output>
+<soap:body use=″literal″ />
+</output>
+</operation>
+<operation name=″getUltimaDataFirme″>
+<soap:operation soapAction=″https://www.ghiseul.ro/ghiseul_admin/public/transfer/transfer#getUltimaDataFirme″ />
+<input>
+<soap:body use=″literal″ />
+</input>
+<output>
+<soap:body use=″literal″ />
+</output>
+</operation>
+<operation name=″actualizareFirme″>
+<soap:operation soapAction=″https://www.ghiseul.ro/ghiseul_admin/public/transfer/transfer#actualizareFirme″ />
+<input>
+<soap:body use=″literal″ />
+</input>
+<output>
+<soap:body use=″literal″ />
+</output>
+</operation>
+<operation name=″getUltimaDataTipuriSume″>
+<soap:operation soapAction=″https://www.ghiseul.ro/ghiseul_admin/public/transfer/transfer#getUltimaDataTipuriSume″ />
+<input>
+<soap:body use=″literal″ />
+</input>
+<output>
+<soap:body use=″literal″ />
+</output>
+</operation>
+<operation name=″actualizareTipuriSume″>
+<soap:operation soapAction=″https://www.ghiseul.ro/ghiseul_admin/public/transfer/transfer#actualizareTipuriSume″ />
+<input>
+<soap:body use=″literal″ />
+</input>
+<output>
+<soap:body use=″literal″ />
+</output>
+</operation>
+<operation name=″getUltimCodStergeri″>
+<soap:operation soapAction=″https://www.ghiseul.ro/ghiseul_admin/public/transfer/transfer#getUltimCodStergeri″ />
+<input>
+<soap:body use=″literal″ />
+</input>
+<output>
+<soap:body use=″literal″ />
+</output>
+</operation>
+<operation name=″stergere″>
+<soap:operation soapAction=″https://www.ghiseul.ro/ghiseul_admin/public/transfer/transfer#stergere″ />
+<input>
+<soap:body use=″literal″ />
+</input>
+<output>
+<soap:body use=″literal″ />
+</output>
+</operation>
+</binding>
+<service name=″TransferService″>
+<port name=″TransferPort″ binding=″tns:TransferBinding″>
+<soap:address location=″https://www.ghiseul.ro/ghiseul_admin/public/transfer/transfer″ />
+</port>
+</service>
+<message name=″connectionTestIn″>
+<part name=″parameters″ element=″tns:connectionTest″ />
+</message>
+<message name=″connectionTestOut″>
+<part name=″parameters″ element=″tns:connectionTestResponse″ />
+</message>
+<message name=″transferPersoaneIn″>
+<part name=″parameters″ element=″tns:transferPersoane″ />
+</message>
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+<message name=″transferPersoaneOut″>
+<part name=″parameters″ element=″tns:transferPersoaneResponse″ />
+</message>
+<message name=″transferFirmeIn″>
+<part name=″parameters″ element=″tns:transferFirme″ />
+</message>
+<message name=″transferFirmeOut″>
+<part name=″parameters″ element=″tns:transferFirmeResponse″ />
+</message>
+<message name=″transferTipuriSumeIn″>
+<part name=″parameters″ element=″tns:transferTipuriSume″ />
+</message>
+<message name=″transferTipuriSumeOut″>
+<part name=″parameters″ element=″tns:transferTipuriSumeResponse″ />
+</message>
+<message name=″getUltimaDataPersoaneIn″>
+<part name=″parameters″ element=″tns:getUltimaDataPersoane″ />
+</message>
+<message name=″getUltimaDataPersoaneOut″>
+<part name=″parameters″ element=″tns:getUltimaDataPersoaneResponse″ />
+</message>
+<message name=″actualizarePersoaneIn″>
+<part name=″parameters″ element=″tns:actualizarePersoane″ />
+</message>
+<message name=″actualizarePersoaneOut″>
+<part name=″parameters″ element=″tns:actualizarePersoaneResponse″ />
+</message>
+<message name=″getUltimaDataFirmeIn″>
+<part name=″parameters″ element=″tns:getUltimaDataFirme″ />
+</message>
+<message name=″getUltimaDataFirmeOut″>
+<part name=″parameters″ element=″tns:getUltimaDataFirmeResponse″ />
+</message>
+<message name=″actualizareFirmeIn″>
+<part name=″parameters″ element=″tns:actualizareFirme″ />
+</message>
+<message name=″actualizareFirmeOut″>
+<part name=″parameters″ element=″tns:actualizareFirmeResponse″ />
+</message>
+<message name=″getUltimaDataTipuriSumeIn″>
+<part name=″parameters″ element=″tns:getUltimaDataTipuriSume″ />
+</message>
+<message name=″getUltimaDataTipuriSumeOut″>
+<part name=″parameters″ element=″tns:getUltimaDataTipuriSumeResponse″ />
+</message>
+<message name=″actualizareTipuriSumeIn″>
+<part name=″parameters″ element=″tns:actualizareTipuriSume″ />
+</message>
+<message name=″actualizareTipuriSumeOut″>
+<part name=″parameters″ element=″tns:actualizareTipuriSumeResponse″ />
+</message>
+<message name=″getUltimCodStergeriIn″>
+<part name=″parameters″ element=″tns:getUltimCodStergeri″ />
+</message>
+<message name=″getUltimCodStergeriOut″>
+<part name=″parameters″ element=″tns:getUltimCodStergeriResponse″ />
+</message>
+<message name=″stergereIn″>
+<part name=″parameters″ element=″tns:stergere″ />
+</message>
+<message name=″stergereOut″>
+<part name=″parameters″ element=″tns:stergereResponse″ />
+</message>
+</definitions>
+
+15
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+
+2.2. Descrierea standardului de interfațare și interconectare pentru actualizarea în SNEP a informațiilor privind
+contribuabilii, precum și a registrului tipurilor de taxe pentru instituțiile publice beneficiare care dețin un sistem de
+gestiune a obligațiilor bugetare
+Servicii web-server actualizare regiștri
+Reguli generale
+Datele string se vor trimite codate în format UTF8.
+Checksumul (suma de control) din fiecare mesaj se va compune pe valorile codate UTF8.
+Requesturile SOAP trebuie să fie valide din punct de vedere XML.
+Web service — transfer persoane
+Cerere:
+Denumire: transferPersoane
+Descriere: Cererea cu datele persoanelor care se transferă este trimisă de web-service-ul client al instituției către webservice-ul server de la ghiseul.ro. Se vor transfera toate persoanele care sunt în evidența instituției, nedecedate și care au CNP/NIF
+sau CIF/CUI (pentru persoane fizice autorizate) valid. Transmiterea datelor se va face pe pachete. Într-un pachet se pot trimite
+maximum 1.000 de persoane.
+Parametri:
+<xsd:element name=″transferPersoane″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″idClient″ type=″xsd:float″ />
+<xsd:element name=″userClient″ type=″xsd:string″ />
+<xsd:element name=″date″ type=″tns:ArrayOfPersoanatransfer″ />
+<xsd:element name=″utilizator″ type=″xsd:string″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+<xsd:element name=″primulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″ultimulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″check″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:complexType name=″ArrayOfPersoanatransfer″>
+<xsd:sequence>
+<xsd:element name=″item″ type=″tns:PersoanaTransfer″ minOccurs=″0″ maxOccurs=″unbounded″ />
+</xsd:sequence>
+</xsd:complexType
+<xsd:complexType name=″PersoanaTransfer″>
+<xsd:all>
+<xsd:element name=″cui″ type=″xsd:string″ />
+<xsd:element name=″nume″ type=″xsd:string″ />
+<xsd:element name=″adresa″ type=″xsd:string″ />
+<xsd:element name=″cod″ type=″xsd:string″ />
+<xsd:element name=″data″ type=″xsd:string″ />
+</xsd:all>
+</xsd:complexType>
+Explicațiile parametrilor:
+idClient — codul de client primit de la ghiseul.ro
+userClient — numele userului care a înrolat instituția la ghiseul.ro
+date — un array de obiecte PersoanaTransfer; listă cu datele persoanelor
+PersoanaTransfer conține câmpurile:
+CUI — CNP/NIF sau CIF/CUI (pentru persoane fizice autorizate)
+nume — numele și prenumele
+adresa — adresa persoanei
+cod — identificatorul unic al persoanei în baza de date a instituției
+data — data creării sau data ultimei modificări (dacă a fost modificată) a persoanei în baza de date a instituției; de
+forma aaaa-ll-zz oo:mm:ss (ex.: 2010-10-22 16:06:12)
+utilizator — numele utilizatorului care face transferul, de forma idClient.userWindows@numeStatie
+timestamp — timestamp în formatul aaaallzzoommss (ex.: 20100915083812), unde aaaa este anul (ex.: 2010), ll este luna
+(ex.: 09), zz este ziua (ex.: 15), oo este ora (ex.: 08), mm sunt minutele (ex.: 38), ss sunt secundele (ex.: 12)
+primulPachet = 1 dacă este primul pachet din transfer, 0 dacă nu e primul pachet
+ultimulPachet = 1 dacă este ultimul pachet din transfer, 0 dacă nu e ultimul pachet
+check — suma de control al integrității mesajului; algoritmul folosit este HMAC-SHA1 cu cheia de criptare;
+— algoritmul se aplică pe stringul obținut prin concatenarea în ordine a valorilor din arrayul date: cod, CUI, nume,
+adresa, data.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+
+17
+
+Răspuns:
+Denumire: transferPersoaneResponse
+Descriere: Web-service-ul server de la ghiseul.ro răspunde web-service-ului client al instituției. Va răspunde cu 0 dacă a
+reușit transferul persoanelor.
+Parametri:
+<xsd:element name=″transferPersoaneResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″transferPersoaneResult″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+Explicațiile parametrilor:
+transferPersoaneResult:
+0 — transfer reușit
+Soap Fault — la transfer nereușit (vezi ăTratarea erorilor″)
+Web service — transfer persoane fizice autorizate
+Cerere:
+Denumire: transferFirme
+Descriere: Cererea cu datele de transfer este trimisă de web-service-ul client al instituției către web-service-ul server de
+pe ghiseul.ro . Transmiterea datelor se va face pe pachete. Într-un pachet se pot trimite maximum 1.000 de persoane. Se vor
+transfera toate persoanele care sunt în evidența instituției și care au CIF/CUI (pentru persoane fizice autorizate) valid.
+Parametri:
+<xsd:element name=″transferFirme″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″idClient″ type=″xsd:float″ />
+<xsd:element name=″userClient″ type=″xsd:string″ />
+<xsd:element name=″date″ type=″tns:ArrayOfFirmatransfer″ />
+<xsd:element name=″utilizator″ type=″xsd:string″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+<xsd:element name=″primulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″ultimulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″check″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:complexType name=″ArrayOfFirmatransfer″>
+<xsd:sequence>
+<xsd:element name=″item″ type=″tns:FirmaTransfer″ minOccurs=″0″ maxOccurs=″unbounded″ />
+</xsd:sequence>
+</xsd:complexType>
+<xsd:complexType name=″FirmaTransfer″>
+<xsd:all>
+<xsd:element name=″cui″ type=″xsd:string″ />
+<xsd:element name=″nume″ type=″xsd:string″ />
+<xsd:element name=″adresa″ type=″xsd:string″ />
+<xsd:element name=″cod″ type=″xsd:string″ />
+<xsd:element name=″data″ type=″xsd:string″ />
+</xsd:all>
+</xsd:complexType>
+Explicațiile parametrilor
+idClient — codul de client primit de pe ghiseul.ro
+userClient — numele userului care a înrolat instituția pe ghiseul.ro
+date — un array de obiecte FirmaTransfer; listă cu datele firmelor
+FirmaTransfer conține câmpurile:
+CUI — CIF/CUI (pentru persoane fizice autorizate)
+nume — denumirea persoanei
+adresa — adresa persoanei
+cod — identificatorul unic al persoanei în baza de date a instituției
+data — data creării sau data ultimei modificări a persoanei în baza de date a instituției, de forma
+aaaa-ll-zz oo:mm:ss (ex.: 2010-10-22 16:06:12)
+utilizator — numele utilizatorului care face transferul, de forma idClient.userWindows@numeStatie
+timestamp — timestamp în formatul aaaallzzoommss (ex.: 20100915083812), unde aaaa este anul (ex.: 2010), ll este
+luna (ex.: 09), zz este ziua (ex.: 15), oo este ora (ex.: 08), mm sunt minutele (ex.: 38), ss sunt secundele
+(ex.: 12)
+primulPachet = 1 dacă este primul pachet din transfer, 0 dacă nu e primul pachet
+ultimulPachet = 1 dacă este ultimul pachet din transfer, 0 dacă nu e ultimul pachet
+check — suma de control al integrității mesajului; algoritmul folosit este HMAC-SHA1 cu cheie de criptare;
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+— algoritmul se aplică pe stringul obținut prin concatenarea în ordine a valorilor din arrayul date: cod, CUI, nume,
+adresa, data.
+Răspuns:
+
+Denumire: transferFirmeResponse
+Descriere: Web-service-ul server de pe ghiseul.ro răspunde web-service-ului client al instituției. Va răspunde cu 0 dacă a
+reușit transferul persoanelor.
+Parametri:
+<xsd:element name=″transferFirmeResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″transferFirmeResult″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+Explicațiile parametrilor:
+transferFirmeResult:
+0 — transfer reușit
+Soap Fault — la transfer nereușit (vezi ăTratarea erorilor″)
+Web-service — transfer tipuri de sume (tipuri de taxe)
+Cerere:
+Denumire: transferTipuriSume
+Descriere: Cererea cu datele de transfer este trimisă de web-service-ul client al instituției către web-service-ul server de
+pe ghiseul.ro. Se vor transfera toate tipurile de sume care sunt în evidența instituției ce au codul IBAN valid. Transmiterea datelor
+se va face pe pachete. Într-un pachet se pot trimite maximum 1.000 de tipuri de sume.
+Parametri:
+<xsd:element name=″transferTipuriSume″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″idClient″ type=″xsd:float″ />
+<xsd:element name=″userClient″ type=″xsd:string″ />
+<xsd:element name=″date″ type=″tns: ArrayOfTipsumatransfer″ />
+<xsd:element name=″utilizator″ type=″xsd:string″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+<xsd:element name=″primulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″ultimulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″check″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:complexType name=″ArrayOfTipsumatransfer″>
+<xsd:sequence>
+<xsd:element name=″item″ type=″tns: TipSumaTransfer″ minOccurs=″0″ maxOccurs=″unbounded″ />
+</xsd:sequence>
+</xsd:complexType>
+<xsd:complexType name=″TipSumaTransfer″>
+<xsd:all>
+<xsd:element name=″cod″ type=″xsd:string″ />
+<xsd:element name=″idNomUnic″ type=″xsd:string″ />
+<xsd:element name=″nume″ type=″xsd:string″ />
+<xsd:element name=″iban″ type=″xsd:string″ /> <xsd:element name=″debit″ type=″xsd:string″ />
+<xsd:element name=″valInitiala″ type=″xsd:string″ />
+<xsd:element name=″inactiv″ type=″xsd:string″ />
+<xsd:element name=″data″ type=″xsd:string″ />
+<xsd:element name=″platitor″ type=″xsd:string″ />
+</xsd:all>
+</xsd:complexType>
+Explicațiile parametrilor:
+idClient — codul de client primit de pe ghiseul.ro
+userClient — numele userului care a înrolat instituția pe ghiseul.ro
+date — un array de obiecte TipVenitTransfer; listă cu tipurile de sume
+TipVenitTransfer conține câmpurile:
+cod — identificatorul unic al tipului de sumă din baza de date a instituției
+idNomUnic — identificatorul unic al tipului de taxă din Nomenclatorul unic de tipuri de taxe
+nume — denumirea tipului de sumă
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+
+19
+
+iban — codul IBAN corespunzător tipului de venit (în combinație cu câmpul platitor) debit = 1 tipul de sumă cu debit —
+reprezintă tipurile de venit pentru care există solduri în baza de date a instituției; vor fi afișate în secțiunea Plăți
+cu autentificare (se va afișa suma totală de plată adusă prin web-service de la instituție) și în secțiunea Plăți fără
+autentificare
+= 0 tipul de venit fără debit — la aceste tipuri de sume utilizatorul poate să completeze suma pe care dorește
+să o plătească; se vor transfera doar cele care se dorește să apară în interfața utilizatorului; vor fi afișate
+numai în secțiunea Plăți fără autentificare
+= 2 tipul de venit amenda — vor apărea în secțiunea Plăți fără autentificare; în această secțiune se vor putea
+plăti amenzile în maximum 48 de ore; utilizatorul trebuie să completeze numărul, seria procesului-verbal
+și suma pe care o are de plătit
+valInitiala — va fi completată pentru tipurile de sume cu debit = 0; va apărea în secțiunea Plăți fără autentificare
+ca suma propusă de plată, cu posibilitate de modificare
+inactiv = 1 nu mai e folosit de instituție; = 0 folosit
+data — data creării sau data ultimei modificări a tipului de sumă în baza de date a instituției, de forma aaaa-ll-zz
+oo:mm:ss (ex.: 2010-10-22 16:06:12)
+platitor = 0 persoană fizică și juridică, = 1 persoană fizică, = 2 persoană juridică (în combinație cu iban)
+utilizator — numele utilizatorului care face transferul, de forma idClient.userWindows@numeStatie
+timestamp — timestamp în formatul aaaallzzoommss (ex.: 20100915083812), unde aaaa este anul (ex.: 2010), ll este
+luna (ex.: 09), zz este ziua (ex.: 15), oo este ora (ex.: 08), mm sunt minutele (ex.: 38), ss sunt secundele
+(ex.: 12)
+primulPachet = 1 dacă este primul pachet din transfer, 0 dacă nu e primul pachet
+ultimulPachet = 1 dacă este ultimul pachet din transfer, 0 dacă nu e ultimul pachet
+check — suma de control al integrității mesajului; algoritmul folosit este HMAC-SHA1 cu cheie de criptare;
+— algoritmul se aplică pe stringul obținut prin concatenarea în ordine a valorilor din arrayul date: cod, idNomUnic,
+nume, iban, debit, valInitiala, inactiv, platitor, data
+Răspuns:
+Denumire: transferTipuriSumeResponse
+Descriere: Web-service-ul server de pe ghiseul.ro răspunde web-service-ului client al instituției. Va răspunde cu 0 dacă a
+reușit transferul tipurilor de sume.
+Parametri:
+<xsd:element name=″transferTipuriSumeResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″transferTipuriSumeResult″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+Explicațiile parametrilor:
+transferTipuriSumeResult:
+0 — transfer reușit
+Soap Fault — la transfer nereușit (vezi ăTratarea erorilor”)
+Web-service — getUltimaDataPersoane
+Cerere:
+Denumire: getUltimaDataPersoane
+Descriere: Cererea este trimisă de web-service-ul client al instituției către web-service-ul server de pe ghiseul.ro. Se cere
+cea mai mare dată de creare sau dată de modificare din persoane de pe ghiseul.ro.
+Cererea este utilă pentru web-service-ul actualizare persoane care va trimite toate persoanele modificate după această dată.
+Parametri:
+<xsd:element name=″getUltimaDataPersoane″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″idClient″ type=″xsd:float″ />
+<xsd:element name=″userClient″ type=″xsd:string″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+Explicațiile parametrilor:
+idClient — codul de client primit de pe ghiseul.ro
+userClient — numele userului care a înrolat instituția pe ghiseul.ro
+timestamp — timestamp în formatul aaaallzzoommss (ex.: 20100915083812), unde aaaa este anul (ex.: 2010), ll este luna
+(ex.: 09), zz este ziua (ex.: 15), oo este ora (ex.: 08), mm sunt minutele (ex.: 38), ss sunt secundele (ex.: 12)
+Răspuns:
+Denumire: getUltimaDataPersoaneResponse
+Descriere: Web-service-ul server de pe ghiseul.ro răspunde web-service-ului client al instituției. Serverul va răspunde cu
+0 sau un string în format de dată.
+
+20
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+
+În funcție de răspunsul dat prin getUltimaDataPersoaneResponse se vor alege înregistrările care trebuie trimise
+la actualizare persoane.
+Parametri:
+<xsd:element name=″getUltimaDataPersoaneResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″getUltimaDataModificarePersoaneResult″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+Explicațiile parametrilor:
+getUltimaDataPersoaneResult:
+— 0 dacă nu există înregistrări cu dataModificare diferită de null (la updatePersoane se vor trimite toate
+înregistrările ca la transferPersoane)
+— un string în formatul aaaa-ll-zz oo:mm:ss (numit ăultimaDataModificarePersoane″), reprezentând cea mai
+recentă dataModificare din persoane; (la updatePersoane se vor trimite înregistrările cu dataModificare
+locală >= ultimaDataModificarePersoane primită ca răspuns la acest serviciu)
+Web-service — actualizare persoane
+Cerere:
+Denumire: actualizarePersoane
+Descriere: Cererea cu datele de actualizare este trimisă de web-service-ul client al instituției către web-service-ul server
+de pe ghiseul.ro. Vor trimite toate persoanele modificate după data returnată de getUltimaDataTipuriSumeResponse
+Parametri:
+<xsd:element name=″actualizarePersoane″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″idClient″ type=″xsd:float″ />
+<xsd:element name=″userClient″ type=″xsd:string″ />
+<xsd:element name=″date″ type=″tns:ArrayOfPersoanatransfer″ />
+<xsd:element name=″utilizator″ type=″xsd:string″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+<xsd:element name=″primulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″ultimulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″check″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:complexType name=″ArrayOfPersoanatransfer″>
+<xsd:sequence>
+<xsd:element name=″item″ type=″tns:PersoanaTransfer″ minOccurs=″0″ maxOccurs=″unbounded″ />
+</xsd:sequence>
+</xsd:complexType>
+<xsd:complexType name=″PersoanaTransfer″>
+<xsd:all>
+<xsd:element name=″cui″ type=″xsd:string″ />
+<xsd:element name=″nume″ type=″xsd:string″ />
+<xsd:element name=″adresa″ type=″xsd:string″ />
+<xsd:element name=″cod″ type=″xsd:string″ />
+<xsd:element name=″data″ type=″xsd:string″ />
+</xsd:all>
+</xsd:complexType>
+Explicațiile parametrilor:
+idClient — codul de client primit de pe ghiseul.ro
+userClient — numele userului care a înrolat instituția la ghiseul.ro
+date — un array de obiecte PersoanaTransfer; listă cu datele persoanelor
+PersoanaTransfer conține câmpurile:
+CUI — CNP/NIF al persoanei fizice
+nume — numele și prenumele
+adresa — adresa persoanei
+cod — identificatorul unic al persoanei în baza de date a instituției
+data — data creării sau data ultimei modificări a persoanei în baza de date a instituției, de forma aaaa-ll-zz oo:mm:ss
+(ex.: 2010-10-22 16:06:12)
+utilizator — numele utilizatorului care face transferul, de forma idClient.userWindows@numeStatie
+timestamp — timestamp în formatul aaaallzzoommss (ex.: 20100915083812), unde aaaa este anul (ex.: 2010), ll este
+luna (ex.: 09), zz este ziua (ex.: 15), oo este ora (ex.: 08), mm sunt minutele (ex.: 38), ss sunt secundele
+(ex.: 12)
+primulPachet = 1 dacă este primul pachet din transfer, 0 dacă nu e primul pachet
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+
+21
+
+ultimulPachet = 1 dacă este ultimul pachet din transfer, 0 dacă nu e ultimul pachet
+check — suma de control al integrității mesajului; algoritmul folosit este HMAC-SHA1 cu cheie de criptare;
+— algoritmul se aplică pe stringul obținut prin concatenarea în ordine a valorilor din arrayul date: cod, cui, nume,
+adresa, data
+Răspuns:
+Denumire: actualizarePersoaneResponse
+Descriere: Web-service-ul server de pe ghiseul.ro răspunde web-service-ului client al instituției. Va răspunde cu 0 dacă a
+reușit actualizarea persoanelor.
+Parametri:
+<xsd:element name=″actualizarePersoaneResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″actualizarePersoaneResult″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+Explicațiile parametrilor:
+actualizarePersoaneResult:
+0 — actualizare reușită
+Soap Fault — la actualizare nereușită (vezi ăTratarea erorilor″)
+Web-service — getUltimaDataFirme
+Cerere:
+Denumire: getUltimaDataFirme
+Descriere: Cererea este trimisă de web-service-ul client al instituției către web-service-ul server de pe ghiseul.ro. Se cere
+cea mai mare dată creare sau dată modificare de pe ghiseul.ro
+Cererea este utilă pentru web-service-ul actualizare persoane fizice autorizate care va trimite toate datele modificate după
+această dată.
+Parametri:
+<xsd:element name=″getUltimaDataFirme″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″idClient″ type=″xsd:float″ />
+<xsd:element name=″userClient″ type=″xsd:string″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+Explicațiile parametrilor:
+idClient — codul de client primit de pe ghiseul.ro
+userClient — numele userului care a înrolat instituția pe ghiseul.ro
+timestamp — timestamp în formatul aaaallzzoommss (ex.: 20100915083812), unde aaaa este anul (ex.: 2010), ll este
+luna (ex.: 09), zz este ziua (ex.: 15), oo este ora (ex.: 08), mm sunt minutele (ex.: 38), ss sunt secundele
+(ex.: 12)
+Răspuns:
+Denumire: getUltimaDataFirmeResponse
+Descriere: Web-service-ul server de pe ghiseul.ro răspunde web-service-ului client al instituției. Serverul va răspunde cu
+0 sau un string în format de dată.
+În funcție de răspunsul dat prin getUltimaDataFirmeResponse se vor alege înregistrările care trebuie trimise la actualizare.
+Parametri:
+<xsd:element name=″getUltimaDataFirmeResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″getUltimaDataFirmeResult″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+Explicațiile parametrilor:
+getUltimaDataFirmeResult:
+— 0 dacă nu există înregistrări cu data diferită de null (la actualizareFirme se vor trimite toate înregistrările ca la
+transferFirme)
+— un string în formatul aaaa-ll-zz oo:mm:ss (numit ăultimaDataModificareFirme″), reprezentând cea mai recentă
+dată (la actualizareFirme se vor trimite înregistrările cu dataModificare locală >= ultimaDataModificareFirme
+primită ca răspuns la acest serviciu)
+
+22
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+Web-service — actualizare persoane fizice autorizate
+Cerere:
+
+Denumire: actualizareFirme
+Descriere: Cererea cu datele de actualizare este trimisă de web-service-ul client al instituției către web-service-ul server
+de pe ghiseul.ro. Vor trimite toate datele modificate după data returnată de getUltimaDataTipuriSumeResponse
+Parametri:
+<xsd:element name=″actualizareFirme″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″idClient″ type=″xsd:float″ />
+<xsd:element name=″userClient″ type=″xsd:string″ />
+<xsd:element name=″date″ type=″tns:ArrayOfFirmatransfer″ />
+<xsd:element name=″utilizator″ type=″xsd:string″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+<xsd:element name=″primulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″ultimulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″check″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:complexType name=″ArrayOfFirmatransfer″>
+<xsd:sequence>
+<xsd:element name=″item″ type=″tns:FirmaTransfer″ minOccurs=″0″ maxOccurs=″unbounded″ />
+</xsd:sequence>
+</xsd:complexType>
+<xsd:complexType name=″FirmaTransfer″>
+<xsd:all>
+<xsd:element name=″cui″ type=″xsd:string″ />
+<xsd:element name=″nume″ type=″xsd:string″ />
+<xsd:element name=″adresa″ type=″xsd:string″ />
+<xsd:element name=″cod″ type=″xsd:string″ />
+<xsd:element name=″data″ type=″xsd:string″ />
+</xsd:all>
+</xsd:complexType>
+Explicațiile parametrilor:
+idClient — codul de client primit de pe ghiseul.ro
+userClient — numele userului care a înrolat instituția pe ghiseul.ro
+date — un array de obiecte FirmaTransfer; listă cu datele persoanelor fizice autorizate
+FirmaTransfer conține câmpurile:
+cui — CIF/CUI persoanei fizice autorizate
+nume — denumirea persoanei fizice autorizate
+adresa — adresa persoanei fizice autorizate
+cod — identificatorul unic al persoanei fizice autorizate în baza de date a instituției
+data — data creării sau data ultimei modificări a persoanei fizice autorizate în baza de date a instituției, de forma
+aaaa-ll-zz oo:mm:ss (ex.: 2010-10-22 16:06:12)
+utilizator — numele utilizatorului care face transferul de forma idClient.userWindows@numeStatie
+timestamp — timestamp în formatul aaaallzzoommss (ex.: 20100915083812), unde aaaa este anul (ex.: 2010), ll este
+luna (ex.: 09), zz este ziua (ex.: 15), oo este ora (ex.: 08), mm sunt minutele (ex.: 38), ss sunt secundele
+(ex.: 12)
+primulPachet = 1 dacă este primul pachet din transfer, 0 dacă nu e primul pachet
+ultimulPachet = 1 dacă este ultimul pachet din transfer, 0 dacă nu e ultimul pachet
+check — suma de control a integrității mesajului; algoritmul folosit este HMAC-SHA1 cu cheia de criptare;
+— algoritmul se aplică pe stringul obținut prin concatenarea în ordine a valorilor din arrayul date: cod, cui, nume,
+adresa, data
+Răspuns:
+Denumire: actualizareFirmeResponse
+Descriere: Web-service-ul server de pe ghiseul.ro răspunde web-service-ului client al instituției. Va răspunde cu 0 dacă a
+reușit actualizarea datelor.
+Parametri:
+<xsd:element name=″actualizareFirmeResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″actualizareFirmeResult″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+
+23
+
+Explicațiile parametrilor:
+actualizareFirmeResult:
+0 — actualizare reușită
+Soap Fault — la actualizare nereușită (vezi Tratarea erorilor)
+Web-service — getUltimaDataTipuriSume
+Cerere:
+Denumire: getUltimaDataTipuriSume
+Descriere: Cererea este trimisă de web-service-ul client al instituției către web-service-ul server de pe ghiseul.ro. Se cere
+cea mai mare dată creare sau dată modificare din tipurile de sume de pe ghiseul.ro
+Cererea este utilă pentru web-service-ul actualizare tipuri sume care va trimite toate tipurile de sume modificate după
+această dată.
+Parametri:
+<xsd:element name=″getUltimaDataTipuriSume″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″idClient″ type=″xsd:float″ />
+<xsd:element name=″userClient″ type=″xsd:string″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+Explicațiile parametrilor:
+idClient — codul de client primit de pe ghiseul.ro
+userClient — numele userului care a înrolat instituția pe ghiseul.ro
+timestamp — timestamp în formatul aaaallzzoommss (ex.: 20100915083812),
+unde aaaa este anul (ex.: 2010), ll este luna (ex.: 09), zz este ziua (ex.: 15), oo este ora (ex.: 08), mm
+sunt minutele (ex.: 38), ss sunt secundele (ex.: 12)
+Răspuns:
+Denumire: getUltimaDataTipuriSumeResponse
+Descriere: Web-service-ul server de pe ghiseul.ro răspunde web-service-ului client al instituției. Serverul va răspunde cu
+0 sau un string în format de dată.
+În funcție de răspunsul dat prin getUltimaDataTipuriSumeResponse se vor alege înregistrările care trebuie trimise la
+actualizare tipuri sume.
+Parametri:
+<xsd:element name=″getUltimaDataTipuriSumeResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″getUltimaDataTipuriSumeResult″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+Explicațiile parametrilor:
+getUltimaDataTipuriSumeResult:
+— 0 dacă nu există înregistrări cu data diferită de null (la actualizareTipuriSume se vor trimite toate înregistrările
+ca la transferTipuriSume)
+— un string în formatul aaaa-ll-zz oo:mm:ss (numit ăultimaDataModificareTipuriSume”), reprezentând cea mai
+recentă dată din tipuri sume (la actualizareTipuriSume se vor trimite înregistrările cu dataModificare locală >=
+ultimaDataModificareTipuriSume primită ca răspuns la acest serviciu)
+Web-service — actualizare tipuri sume
+Cerere:
+Denumire: actualizareTipuriSume
+Descriere: Cererea cu datele de actualizare este trimisă de web-service-ul client al instituției către web-service-ul server
+de pe ghiseul.ro. Vor trimite toate tipurile de sume modificate după data returnată de getUltimaDataTipuriSumeResponse
+Parametri:
+<xsd:element name=″actualizareTipuriSume″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″idClient″ type=″xsd:float″ />
+<xsd:element name=″userClient″ type=″xsd:string″ />
+<xsd:element name=″date″ type=″tns: ArrayOfTipsumatransfer″ />
+<xsd:element name=″utilizator″ type=″xsd:string″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+<xsd:element name=″primulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″ultimulPachet″ type=″xsd:boolean″ />
+
+24
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+<xsd:element name=″check″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:complexType name=″ArrayOfTipsumatransfer″>
+<xsd:sequence>
+<xsd:element name=″item″ type=″tns: TipSumaTransfer″ minOccurs=″0″ maxOccurs=″unbounded″ />
+</xsd:sequence>
+</xsd:complexType>
+<xsd:complexType name=″TipSumaTransfer″>
+<xsd:all>
+<xsd:element name=″cod″ type=″xsd:string″ />
+<xsd:element name=″idNomUnic″ type=″xsd:string″ />
+<xsd:element name=″nume″ type=″xsd:string″ />
+<xsd:element name=″iban″ type=″xsd:string″ />
+<xsd:element name=″debit″ type=″xsd:string″ />
+<xsd:element name=″valInitiala″ type=″xsd:string″ />
+<xsd:element name=″inactiv″ type=″xsd:string″ />
+<xsd:element name=″data″ type=″xsd:string″ />
+<xsd:element name=″platitor″ type=″xsd:string″ />
+</xsd:all>
+</xsd:complexType>
+Explicațiile parametrilor:
+idClient — codul de client primit de pe ghiseul.ro
+userClient — numele userului care a înrolat instituția pe ghiseul.ro
+date — un array de obiecte TipSumaTransfer; listă cu tipurile de sume
+TipSumaTransfer conține câmpurile:
+cod — identificatorul unic al tipului de sumă din baza de date a instituției
+idNomUnic — identificatorul unic al tipului de taxă din Nomenclatorul unic de tipuri de taxe
+nume — denumirea tipului de sumă
+iban — codul IBAN corespunzător tipului de venit (în combinație cu câmpul plătitor)
+debit = 1 tipul de sumă cu debit — reprezintă tipurile de venit pentru care există solduri în baza instituției; vor fi
+afișate în secțiunea Plăți cu autentificare (se va afișa suma totală de plată adusă prin web-service de la
+instituție) și în secțiunea Plăți fără autentificare
+= 0 tipul de venit fără debit — la aceste tipuri de sume utilizatorul poate să completeze suma pe care
+dorește să o plătească; se vor transfera doar cele care se dorește să apară în interfața utilizatorului;
+vor fi afișate numai în secțiunea Plăți fără autentificare
+= 2 tipul de venit Amenda — vor apărea în secțiunea Plăți fără autentificare; în această secțiune se vor
+putea plăti amenzile în maximum 48 de ore; utilizatorul trebuie să completeze numărul, seria
+procesului-verbal și suma ce o are de plătit
+valInitiala — poate fi completată pentru tipurile de sume cu debit = 0;
+inactiv = 1 nu mai e folosit de instituție; = 0 folosit
+data — data creării sau data ultimei modificări a tipului de sumă în baza de date a instituției; de forma aaaa-ll-zz
+oo:mm:ss (ex.: 2010-10-22 16:06:12)
+platitor = 0 persoană fizică și juridică, = 1 persoană fizică, = 2 persoană juridică (în combinație cu iban)
+utilizator — numele utilizatorului care face transferul; de forma idClient.userWindows@numeStatie
+timestamp — timestamp în formatul aaaallzzoommss (ex.: 20100915083812),
+unde aaaa este anul (ex.: 2010), ll este luna (ex.: 09), zz este ziua (ex.: 15), oo este ora (ex.: 08), mm
+sunt minutele (ex.: 38), ss sunt secundele (ex.: 12)
+primulPachet = 1 dacă este primul pachet din transfer, 0 dacă nu e primul pachet
+ultimulPachet = 1 dacă este ultimul pachet din transfer, 0 dacă nu e ultimul pachet
+check — suma de control al integrității mesajului; algoritmul folosit este HMAC-SHA1 cu cheie de criptare;
+— algoritmul se aplică pe stringul obținut prin concatenarea în ordine a valorilor din arrayul date: cod, idNomUnic,
+nume, iban, debit, valInitiala, inactiv, platitor, data
+Răspuns:
+
+Denumire: actualizareTipuriSumeResponse
+Descriere: Web-service-ul server de pe ghiseul.ro răspunde web-service-ului client al instituției. Va răspunde cu 0 dacă a
+reușit actualizarea tipurilor de sume.
+Parametri:
+<xsd:element name=″actualizareTipuriSumeResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″actualizareTipuriSumeResult″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+
+25
+
+Explicațiile parametrilor:
+actualizareTipuriSumeResult:
+0 — actualizare reușită
+Soap Fault — la actualizare nereușită (vezi Tratarea erorilor)
+Web-service — getUltimCodStergeri
+Cerere:
+Denumire: getUltimCodStergeri
+Descriere: Cererea este trimisă de web-service-ul client al instituției către web-service-ul server de pe ghiseul.ro. Se cere
+cel mai mare cod al ștergerilor reușite de instituția respectivă pe ghiseul.ro
+Poate fi util pentru web-service-ul Stergere care va trimite toate codurile de șters mai mari decât acest cod.
+Parametri:
+<xsd:element name=″getUltimCodStergeri″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″idClient″ type=″xsd:float″ />
+<xsd:element name=″userClient″ type=″xsd:string″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+Explicațiile parametrilor:
+idClient — codul de client primit de pe ghiseul.ro
+userClient — numele userului care a înrolat instituția pe ghiseul.ro
+timestamp — timestamp în formatul aaaallzzoommss (ex.: 20100915083812), unde aaaa este anul (ex.: 2010), ll este
+luna (ex.: 09), zz este ziua (ex.: 15), oo este ora (ex.: 08), mm sunt minutele (ex.: 38), ss sunt secundele
+(ex.: 12)
+Răspuns:
+Denumire: getUltimCodStergeriResponse
+Descriere: Web-service-ul server de pe ghiseul.ro răspunde web-service-ului client al instituției. Serverul va răspunde cu
+0 sau un string cu codul.
+În funcție de răspunsul dat prin getUltimCodStergeriResponse se vor alege înregistrările care trebuie trimise la ștergere transfer.
+Parametri:
+<xsd:element name=″getUltimCodStergeriResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″getUltimCodStergeriResult″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+Explicațiile parametrilor:
+getUltimCodStergeriResult:
+— 0 dacă nu există înregistrări pentru instituția respectivă
+— un string reprezentând cel mai recent cod șters de la instituția respectivă (la ștergere se vor trimite înregistrările
+cu cod local >= cod primit ca răspuns la acest serviciu)
+Web-service — stergere
+Cerere:
+Denumire: stergere
+Descriere: Cererea cu datele de șters este trimisă de web-service-ul client al instituției către web-service-ul server de pe
+ghiseul.ro. Se vor trimite un set de date, persoane și persoane fizice autorizate, care se doresc a fi șterse la ghiseul.ro. Acestea
+se vor alege în funcție de răspunsul dat de getUltimCodStergeriResult. Aceasta presupune implementarea la instituție a unei cozi
+de așteptare a operațiilor de ștergere.
+Parametri:
+<xsd:element name=″stergere″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″idClient″ type=″xsd:float″ />
+<xsd:element name=″userClient″ type=″xsd:string″ />
+<xsd:element name=″date″ type=″tns:ArrayOfStergeretransfer″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+<xsd:element name=″primulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″ultimulPachet″ type=″xsd:boolean″ />
+<xsd:element name=″check″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+<xsd:complexType name=″ArrayOfStergeretransfer″>
+<xsd:sequence>
+<xsd:element name=″item″ type=″tns:StergereTransfer″ minOccurs=″0″ maxOccurs=″unbounded″ />
+</xsd:sequence>
+</xsd:complexType>
+<xsd:complexType name=″StergereTransfer″>
+<xsd:all>
+<xsd:element name=″cod″ type=″xsd:string″ />
+<xsd:element name=″codObiectSters″ type=″xsd:string″ />
+<xsd:element name=″fizjur″ type=″xsd:string″ />
+</xsd:all>
+</xsd:complexType>
+Explicațiile parametrilor:
+idClient — codul de client primit de pe ghiseul.ro
+userClient — numele userului care a înrolat instituția pe ghiseul.ro
+date — un array de obiecte StergereTransfer; listă cu codurile de șters
+StergereTransfer conține câmpurile:
+cod —identificatorul unic al ștergerii
+codObiectSters — identificatorul unic (id) al persoanei sau persoanei fizice autorizate în baza de date a instituției
+fizjur =1 persoana, = 2 persoana fizică autorizată
+timestamp — timestamp în formatul aaaallzzoommss (ex.: 20100915083812), unde aaaa este anul (ex.: 2010), ll
+este luna (ex.: 09), zz este ziua (ex.: 15), oo este ora (ex.: 08), mm sunt minutele (ex.: 38), ss sunt
+secundele (ex.: 12)
+primulPachet = 1 dacă este primul pachet din transfer, 0 dacă nu e primul pachet
+ultimulPachet = 1 dacă este ultimul pachet din transfer, 0 dacă nu e ultimul pachet
+check — suma de control al integrității mesajului; algoritmul folosit este HMAC-SHA1 cu cheie de criptare;
+— algoritmul se aplică pe stringul obținut prin concatenarea în ordine a valorilor din arrayul date: cod,
+codObiectSters,fizjur
+Răspuns:
+
+Denumire: stergereResponse
+Descriere: Web-service-ul server de pe ghiseul.ro răspunde web-service-ului client al instituției. Va răspunde cu 0 dacă a
+reușit ștergerea datelor.
+Parametri:
+<xsd:element name= ″stergereResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name= ″stergereResult″ type= ″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+Explicațiile parametrilor:
+stergereResult:
+0 — actualizare reușită
+Soap Fault — la actualizare nereușită (vezi Tratarea erorilor)
+Tratarea erorilor Soap Fault
+Se va trimite Soap Fault cu <faultcode> 1, 2, 3 sau 4 în următoarele cazuri specifice:
+1 — în cazul în care nu s-a verificat integritatea mesajului (valoarea check incorectă)
+2 — în cazul în care codul instituției nu este corect (valoarea idClient incorectă)
+3 — în cazul în care utilizatorul instituției nu este corect (valoarea userClient incorectă)
+4 — s-a produs o eroare și serviciul este indisponibil
+5 — ăIntroducere TIP SUMA se face manual” — nu se pot face operații pe tipuri de sume decât manual (dacă în profil
+instituție din modulul Ghișeul administrare este setat ăIntroducere manuală tipuri de venit”)
+6 — ăError. Există mai multe persoane cu același CNP (″.$cui.″) în pachet” — se parcurge lista de persoane trimise, iar la
+primul CNP care apare de 2 ori în același pachet se va răspunde cu acest Soap Fault
+6 — ăError. Există mai multe persoane fizice autorizate cu același CUI (″.$cui.″) în pachet” — se parcurge lista de persoane
+fizice autorizate trimise, iar la primul CUI care apare de 2 ori în același pachet se va răspunde cu acest Soap Fault
+7— ăError. CNP-uri invalide”: ″.$cui1, $cui2,.... ″ — se parcurge lista de persoane trimise, se concatenează CNP-urile
+invalide și răspunde cu acest Soap Fault dacă există cel puțin unul invalid
+7 — ăError. CIF-uri invalide”: ″.$cui1, $cui2,.... ″ — se parcurge lista de persoane fizice autorizate trimise, se concatenează
+CF-urile invalide și răspunde cu acest SoapFault dacă există cel puțin unul invalid
+7 — ăError. Tip suma fără IBAN”: ″.$nume1, $nume2,...″ Tip suma cu debit invalid: ″.$nume1, $nume2,... ″ IBAN-uri
+invalide: ”.$iban1, $iban2,... ″ Tip suma cu IdNomUnic invalid: ″.$nume1, $nume2, ″ Tip suma cu plătitor invalid: ″.$nume1,
+$nume2, ″ se parcurge lista de tipuriSume trimise si se concatenează numele celor care nu au niciun IBAN, separat numele
+celor care nu au debit valid (0, 1 sau 2), separat IBAN-urile invalide, separat numele celor care nu au IdnomUnic valid (completat
+dar invalid — dacă nu e completat nu se consideră invalid), separat numele celor care nu au plătitor valid (0, 1 sau 2). Dacă cel
+puțin una dintre categorii are ceva completat atunci se răspunde cu acest Soap Fault. (dacă la una dintre categorii nu există niciun
+item, atunci nu va apărea deloc categoria respectivă.)
+Ex.: ă7”, ăError. Tip suma fără IBAN: Taxa Auto” IBAN-uri invalide: RO88TREZ02121340202XXXXX, RO88TREZ02121340202XXXXX
+
+27
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+
+8 — ăNumăr prea mare de entități per pachet (maximum 1000)” — dacă numărul de obiecte (persoane, persoane fizice
+autorizate sau tipuriSume) din array-ul ″$data″ este mai mare decât 1000, atunci se răspunde cu acest Soap Fault.
+ă9”, ăTestare nefinalizată pentru operația ″.$nume_operatie.″! Vă rugăm să folosiți modulul de testare!”
+(Ex.: ăTestare nefinalizată pentru operația TRANSFER TIPURI SUME! Vă rugăm să folosiți modulul de testare!”)
+ă10”, ăInstituție fără trimitere date prin web-services″
+(Dacă în tabela instituții, pentru instituția curentă, câmpul B_CU_SERVICES e pus pe 0 să nu poată transfera nimic. Se
+returnează un soap fault prin care se anunță că este pusă bifa pe ăFără trimitere date prin web-services” în profil instituție.
+Verificarea se face la orice apel al unei funcții.
+ANEXA Nr. 3
+la normele tehnice
+
+Formatul electronic standardizat al fișierelor transmise operatorului SNEP de către instituțiile publice beneficiare
+care nu dețin un sistem de gestiune a obligațiilor bugetare pentru înregistrarea și actualizarea în SNEP a informațiilor
+privind contribuabilii
+Fișierul ăcontribuabili.csv”
+Este generat cu o aplicație de calcul tabelar și va conține pe fiecare linie următoarele informații cu privire la contribuabili:
+CNP/NIF sau CIF/CUI, Nume, ăAdresa”
+Nr.
+crt.
+
+CNP/NIF sau CIF/CUI
+
+Nume
+
+Adresa
+
+unde:
+— CUI—CNP/NIF pentru persoane fizice sau CIF/CUI pentru persoanele fizice autorizate;
+— Nume—numele și prenumele/denumirea persoanei care are obligația de plată;
+— Adresa—adresa persoanei care are obligația de plată.
+ANEXA Nr. 4
+la normele tehnice
+
+4.1. Standardul de interfațare și interconectare între SNEP și aplicația informatică dezvoltată de Ministerul
+Finanțelor Publice — Agenția Națională de Administrare Fiscală pentru comunicarea obligațiilor de plată constituite de
+instituțiile publice beneficiare care nu dețin un sistem de gestiune a obligațiilor bugetare
+<?xml version=″1.0″ ?>
+<definitions xmlns=″http://schemas.xmlsoap.org/wsdl/″ xmlns:tns=″Aici va apărea namespace-ul aplicației dezvoltate
+de Ministerul Finanțelor Publice — Agenția Națională de Administrare Fiscală care furnizează web-service-ul, de ex.:
+https://www.domeniu_ANAF.ro/server.php″
+xmlns:soap=″http://schemas.xmlsoap.org/wsdl/soap/″
+xmlns:xsd=″http://www.w3.org/2001/XMLSchema″
+xmlns:soap-enc=″http://schemas.xmlsoap.org/soap/encoding/″
+xmlns:wsdl=″http: //schemas.xmlsoap.org/wsdl/″ name=″InformatiiPlataZF″ targetNamespace=″Aici va apărea namespace-ul
+aplicației dezvoltate de Ministerul Finanțelor Publice —– Agenția Națională de Administrare Fiscală care furnizează web-service-ul,
+de ex.:
+https//www.domeniu_ANAF.ro/server.php″>
+<types>
+<xsd:schema targetNamespace=″Aici va apărea namespace-ul aplicației dezvoltate de Ministerul Finanțelor Publice —
+Agenția Națională de Administrare Fiscală care furnizează web-service-ul, de ex.: https://www.domeniu_ANAF.ro/server.php″>
+<xsd:element name=″getSumeDePlataPePersoana″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:elementname=″cuiInstitutie″ type=″xsd:string″ />
+<xsd:elementname=″cui″ type=″xsd:string″ />
+<xsd:elementname=″timestamp″ type=″xsd:string″ />
+<xsd:elementname=″check″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:complexType name=″ArrayOfString″>
+<xsd:sequence>
+<xsd:elementname=″item″ type=″xsd:string″ minOccurs=″0″ maxOccurs=″unbounded″ />
+</xsd:sequence>
+</xsd:complexType>
+<xsd:complexType name=″LinieDetaliiSume″>
+<xsd:all>
+<xsd:elementname=″linie″ type=″tns:ArrayOfString″ />
+</xsd:all>
+</xsd:complexType>
+<xsd:complexType name=″ArrayOfLiniedetaliisume″>
+<xsd:sequence>
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+
+<xsd:elementname=″item″ type=″tns:LinieDetaliiSume″ minOccurs=″0″ maxOccurs=″unbounded″ />
+</xsd:sequence>
+</xsd:complexType>
+<xsd:complexType name=″TipSuma″>
+<xsd:all>
+<xsd:elementname=″idTipSuma″ type=″xsd:int″ />
+<xsd:elementname=″valoare″ type=″xsd:float″ />
+<xsd:elementname=″prioritate″ type=″xsd:int″ />
+<xsd:elementname=″detaliiHeader″ type=″tns:ArrayOfString″ />
+<xsd:elementname=″detaliiBody″ type=″tns:ArrayOfLiniedetaliisume″ />
+</xsd:all>
+</xsd:complexType>
+<xsd:complexType name=″ArrayOfTipsuma″>
+<xsd:sequence>
+<xsd:elementname=″item″ type=″tns:TipSuma″ minOccurs=″0″ maxOccurs=″unbounded″ />
+</xsd:sequence>
+</xsd:complexType>
+<xsd:complexType name=″ListaTipuriSume″>
+<xsd:all>
+<xsd:elementname=″sume″ type=″tns:ArrayOfTipsuma″ />
+<xsd:elementname=″dataCalcul″ type=″xsd:string″ />
+<xsd:elementname=″timestamp″ type=″xsd:string″ />
+<xsd:elementname=″check″ type=″xsd:string″ />
+</xsd:all>
+</xsd:complexType>
+<xsd:element name=″getSumeDePlataPePersoanaResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:elementname=″getSumeDePlataPePersoanaResult″ type=″tns:ListaTipuriSume″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>
+</types>
+<portType name=″InformatiiPlataZFPort″>
+<operation name=″getSumeDePlataPePersoana″>
+<documentation>Metoda care returneaza sumele de plata cu detaliile acestora pentru un cui dat</documentation>
+<inputmessage=″tns:getSumeDePlataPePersoanaIn″ />
+<outputmessage=″tns:getSumeDePlataPePersoanaOut″ />
+</operation>
+</portType>
+<binding name=″InformatiiPlataZFBinding″ type=″tns:InformatiiPlataZFPort″>
+<soap:bindingstyle=″document″ transport=″http://schemas.xmlsoap.org/soap/http″ />
+<operation name=″getSumeDePlataPePersoana″>
+<soap:operationsoapAction=″Aici va apărea url-ul metodei getSumeDePlataPePersoana, de ex.:
+https://www.domeniu_ANAF.ro/server.php#getSumeDePlataPePersoana″ />
+<input>
+<soap:bodyuse=″literal″ />
+</input>
+<output>
+<soap:bodyuse=″literal″ />
+</output>
+</operation>
+</binding>
+<service name=″InformatiiPlataZFService″>
+<port name=″InformatiiPlataZFPort″ binding=″tns:InformatiiPlataZFBinding″>
+<soap:addresslocation=″Aici va apărea url-ul aplicației dezvoltate de Ministerul Finanțelor Publice — Agenția Națională de
+Administrare Fiscală care furnizează web-service-ul, de ex.: https://www.domeniu_ANAF.ro/server.php″ />
+</port>
+</service>
+<message name=″getSumeDePlataPePersoanaIn″>
+<partname=″parameters″ element=″tns:getSumeDePlataPePersoana″ />
+</message>
+<message name=″getSumeDePlataPePersoanaOut″>
+<partname=″parameters″ element=″tns:getSumeDePlataPePersoanaResponse″ />
+</message>
+</definitions>
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+
+29
+
+4.2 Descrierea standardului de interfațare și interconectare între SNEP și aplicația informatică dezvoltată de
+Ministerul Finanțelor Publice — Agenția Națională de Administrare Fiscală pentru comunicarea obligațiilor de plată
+constituite de instituțiile publice beneficiare care nu dețin un sistem de gestiune a obligațiilor bugetare: interfațare și
+interconectare pentru comunicarea obligațiilor de plată
+Servicii web client
+Reguli generale
+Datele string se vor trimite codate în format UTF8.
+Checksumul (suma de control) din fiecare mesaj se va compune pe valorile codate UTF8.
+Requesturile SOAP trebuie să fie valide din punct de vedere XML.
+Web-service — debite/sume cu detalii
+Cerere:
+Denumire: getSumeDePlataPePersoana
+Descriere: Cererea este trimisă de ghiseul.ro către web-service-ul instituției, care va răspunde cu date despre persoana
+corespunzătoare CUI-ului trimis.
+Parametri:
+<xsd:element name=″getSumeDePlataPePersoana″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″cuiInstitutie″ type=″xsd:string″ />
+<xsd:element name=″cui″ type=″xsd:string″ />
+<xsd:element name=″ timestamp″ type=″xsd:string″ />
+<xsd:element name=″check″ type=″xsd:string″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+Explicațiile parametrilor:
+cuiInstitutie — CUI instituție
+CUI — CNP/NIF sau CIF/CUI (pentru persoane fizice autorizate)
+timestamp — timestamp în formatul aaaallzzoommss (ex.: 20100915083837), unde aaaa este anul (ex.: 2010), ll este
+luna (ex.: 09), zz este ziua (ex.: 15), oo este ora (ex.: 08), mm sunt minutele (ex.: 38), ss sunt secundele
+(ex.: 38)
+check — suma de control al integrității mesajului; algoritmul folosit este HMAC-SHA1 cu cheie de criptare;
+— se aplică algoritmul pe valoarea CUI-ului.
+Răspuns:
+Denumire: getSumeDePlataPePersoanaResponse
+Descriere: Este răspunsul web-service-ului server al instituției la cererea adresată de web-service-ul client de pe ghiseul.ro.
+Răspunsul conține o listă cu sume de plătit de către persoana al cărei CUI este trimis prin mesajul getSumeDePlataPePersoana.
+Sumele sunt grupate pe tipuri de sume; tipurile de sume pot fi prioritizate.
+Parametri:
+<xsd:element name=″getSumeDePlataPePersoanaResponse″>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=″getSumeDePlataPePersoanaResult″ type=″tns:ListaTipuriSume″ />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+<xsd:complexType name=″ListaTipuriSume″>
+<xsd:all>
+<xsd:element name=″sume″ type=″tns:ArrayOfTipsuma″ />
+<xsd:element name=″dataCalcul″ type=″xsd:string″ />
+<xsd:element name=″timestamp″ type=″xsd:string″ />
+<xsd:element name=″check″ type=″xsd:string″ />
+</xsd:all>
+</xsd:complexType>
+<xsd:complexType name=″ArrayOfTipsuma″>
+<xsd:sequence>
+<xsd:element name=″item″ type=″tns:TipSuma″ minOccurs=″0″ maxOccurs=″unbounded″ />
+</xsd:sequence>
+</xsd:complexType>
+<xsd:complexType name=″TipSuma″>
+<xsd:all>
+<xsd:element name=″idTipSuma″ type=″xsd:int″ />
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+<xsd:element name=″valoare″ type=″xsd:float″ />
+<xsd:element name=″prioritate″ type=″xsd:int″ />
+<xsd:element name=″detaliiHeader″ type=″tns:ArrayOfString″ />
+<xsd:element name=″detaliiBody″ type=″tns:ArrayOfLiniedetaliisume″ />
+</xsd:all>
+</xsd:complexType>
+<xsd:complexType name=″ArrayOfLiniedetaliisume″>
+<xsd:sequence>
+<xsd:element name=″item″ type=″tns:LinieDetaliiSume″ minOccurs=″0″ maxOccurs=″unbounded″ />
+</xsd:sequence>
+</xsd:complexType>
+<xsd:complexType name=″LinieDetaliiSume″>
+<xsd:all>
+<xsd:element name=″linie″ type=″tns:ArrayOfString″ />
+</xsd:all>
+</xsd:complexType>
+<xsd:complexType name=″ArrayOfString″>
+<xsd:sequence>
+<xsd:element name=″item″ type=″xsd:string″ minOccurs=″0″ maxOccurs=″unbounded″ />
+</xsd:sequence>
+</xsd:complexType>
+
+Explicațiile parametrilor:
+sume — un array cu sumele de plătit grupate pe tipuri de sume
+dataCalcul — data la care s-a calculat valoarea obligațiilor de plată, în format aaaallzz, unde aaaa este anul (ex.: 2010),
+ll este luna (ex.: 09), zz este ziua (ex.: 15)
+idTipSuma — codul tipului de sumă
+valoare — suma datorată pentru tipul de sumă idTipSuma de forma întreg.douăzecimale (ex.:57.32)
+prioritate — prioritatea în care trebuie să se plătească suma; tipurile de sumă pot să fie prioritizate sau nu; fiecare tip de
+sumă care se dorește a fi prioritizată va avea un număr de prioritizare unic obligatoriu pozitiv;
+prioritate = 1 este cel mai prioritar tip de sumă, apoi cel cu prioritate = 2 etc.;
+restul tipurilor de sumă care nu se doresc a fi prioritizate vor avea prioritate = 0 și vor putea să fie plătite numai după ce
+sunt plătite sumele pe tipurile de sumă cu prioritate.
+detaliiHeader — un array de stringuri (ex.: Proprietate Debit Rămășiță Majorări Penalități)
+detaliiBody — un array de obiecte LinieDetaliiSume; conține detaliile de plată corespunzător tipului de sumă idTipSuma
+LinieDetaliiSume — un array de stringuri (ex.: denumire, suma debit, suma rămășiță, suma majorare, suma
+penalitate); acestea vor apărea utilizatorilor în format tabelar.
+timestamp — timestamp în formatul aaaallzzoommss (ex.: 20100915083837),
+unde aaaa este anul (ex.: 2010), ll este luna (ex.: 09), zz este ziua (ex.: 15), oo este ora (ex.: 08), mm sunt minutele
+(ex.: 38), ss sunt secundele (ex.: 38)
+check — suma de control al integrității mesajului; algoritmul folosit este HMAC-SHA1 cu cheie de criptare;
+— algoritmul se aplică pe stringul obținut prin concatenarea în ordine a valorilor: idTipSuma, valoare, apoi pe rând
+valorile din detaliiHeader luate în ordinea din array, apoi valorile din detaliiBody.
+OBSERVAȚIE: detaliiHeader
+
+și detaliiBody trebuie să conțină același număr de câmpuri.
+
+Tratarea erorilor (Soap Fault) pentru ambele servicii
+Se va trimite Soap Fault cu <faultcode> 1, 2 sau 3 în următoarele cazuri specifice:
+1 — în cazul în care nu s-a verificat integritatea mesajului;
+2 — în cazul în care CUI-ul nu este valid sau nu există în baza de date;
+3 — în cazul în care s-a produs o eroare și serviciul este indisponibil.
+EXEMPLU DE SOAP FAULT:
+
+Response de la: <?xml version=″1.0″ encoding=″UTF-8″?>
+<env:Envelope xmlns:env=″http://www.w3.org/2003/05/soap-envelope″>
+<env:Body>
+<env:Fault>
+<env:Code>
+<env:Value>1</env:Value>
+</env:Code>
+<env:Reason>
+<env:Text>Mesaj invalid</env:Text>
+</env:Reason>
+</env:Fault>
+</env:Body>
+</env:Envelope>
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+
+31
+ANEXA Nr. 5
+la normele tehnice
+
+Formatul electronic standardizat al fișierelor transmise Ministerului Finanțelor Publice — Agenția Națională
+de Administrare Fiscală de către instituțiile publice beneficiare care nu dețin un sistem de gestiune a obligațiilor bugetare
+pentru actualizarea informațiilor privind obligațiile de plată
+Fișierul ″AdminCreante.xml″
+Este generat cu o aplicație pusă la dispoziția instituțiile publice beneficiare care nu dețin un sistem de gestiune a obligațiilor
+bugetare, în mod gratuit, de catre Ministerul Finanțelor Publice — Agenția Națională de Administrare Fiscală, având următoarea
+structură:
+<?xml version=″1.0″ encoding=″UTF-8″?>
+<xs:schema xmlns:xs=″http://www.w3.org/2001/XMLSchema″
+xmlns=″mfp:anaf:dgti:administrare_creante:declaratie:v1″targetNamespace=″mfp:anaf:dgti:administrare_creante:declaratie:
+v1″elementFormDefault=″qualified″ attributeFormDefault=″ unqualified″ version=″1.02″ xml:lang=″ro″>
+<!-Explicații Taguri/Atribute:
+1. ″cui″ — Codul de identificare fiscală al instituției publice beneficiare
+2. ″cnp″ — CNP/NIF sau CUI/CIF contribuabil
+3. ″nrDocT″ — număr document creanță (opțional)
+4. ″dataT″ — data document creanța (opțional)
+5. ″dataI″ — data înștiințării de plată (data calcul obligație)
+6. ″codClsBug″ — cod clasificație bugetară (anexa nr. 8)
+7. ″codDb″ — cod intern al naturii obligației
+8. ″catS″ — cod categorie de sumă (R — rămășiță, C — curent, A — accesorii)
+9. ″sumaI″— suma inițială stabilită prin titlu de creanță
+10. ″sumaR″ — suma rămasă prin plăți parțiale efectuate
+-->
+<xs:element name=″administratorCreanta″>
+<xs:complexType>
+<xs:sequence>
+<xs:element name=″contribuabil″ minOccurs=″1″ maxOccurs=″unbounded″ type=″ContribuabilCType″/>
+</xs:sequence>
+<xs:attribute name=″cui″ type=″CuiSType″ use=″required″/>
+</xs:complexType>
+</xs:element>
+<xs:complexType name=″ContribuabilCType″>
+<xs:complexContent>
+<xs:restriction base=″xs:anyType″>
+<xs:attribute name=″cnp″ type=″CnpSType″ use=″required″/>
+<xs:attribute name=″idRefOp″ use=″required″>
+<xs:simpleType>
+<xs:restriction base=″xs:token″>
+<!-<xs:length value=″10″/>-->
+<xs:minLength value=″1″/>
+<xs:maxLength value=″10″/>
+</xs:restriction>
+</xs:simpleType>
+</xs:attribute>
+<xs:attribute name=″nrDocT″>
+<xs:simpleType>
+<xs:restriction base=″xs:token″>
+<!-<xs:length value=″10″/>-->
+<xs:minLength value=″1″/>
+<xs:maxLength value=″10″/>
+</xs:restriction>
+</xs:simpleType>
+</xs:attribute>
+<xs:attribute name=″dataT″ type=″DateSType″/>
+<xs:attribute name=″dataI″ type=″DateSType″/>
+<xs:attribute name=″codClsBug″ use=″required″>
+<xs:simpleType>
+<xs:restriction base=″xs:token″>
+<xs:pattern value=″\d{1,10}″/>
+</xs:restriction>
+</xs:simpleType>
+</xs:attribute>
+<xs:attribute name=″codDb″ use=″required″>
+<xs:simpleType>
+
+32
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 75/28.I.2011
+<xs:restriction base=″xs:token″>
+<xs:length value=″3″/>
+<!-<xs:minLength value=″1″/>
+<xs:maxLength value=″3″/>-->
+</xs:restriction>
+</xs:simpleType>
+</xs:attribute>
+<xs:attribute name=″catS″ use=″required″>
+<xs:simpleType>
+<xs:restriction base=″xs:token″>
+<xs:length value=″2″/>
+<!-<xs:minLength value=″1″/>
+<xs:maxLength value=″2″/>-->
+</xs:restriction>
+</xs:simpleType>
+</xs:attribute>
+<xs:attribute name=″sumaI″ type=″SumaSType″ use=″required″/>
+<xs:attribute name=″sumaR″ type=″SumaSType″ use=″required″/>
+</xs:restriction>
+</xs:complexContent>
+</xs:complexType>
+<xs:simpleType name=″SumaSType″>
+<xs:restriction base=″xs:integer″>
+<xs:minInclusive value=″0″/>
+<xs:maxInclusive value=″9999999999″/>
+</xs:restriction>
+</xs:simpleType>
+<xs:simpleType name=″CuiSType″>
+<xs:restriction base=″xs:string″>
+<xs:pattern value=″[1-9]\d{1,9}″/>
+</xs:restriction>
+</xs:simpleType>
+<xs:simpleType name=″CnpSType″>
+<xs:restriction base=″xs:string″>
+<xs:pattern value=″[1-9]\d{12}|[1-9]\d{1,9}″/>
+</xs:restriction>
+</xs:simpleType>
+<xs:simpleType name=″DateSType″>
+<xs:restriction base=″xs:string″>
+<xs:pattern value=″([1-9]|0[1-9]|[12][0-9]|3[01])/([1-9]|0[1-9]|1[012])/\d{4}″/>
+<!--<xs:pattern value=″([1-9]|0[1-9]|[12][0-9]|3[01])\.([1-9]|0[1-9]|1[012])\.\d{4}″/>-->
+<!--<xs:pattern value=″.{0}|([1-9]|0[1-9]|[12][0-9]|3[01])\.([1-9]|0[1-9]|1[012])\.\d{4}″/>-->
+</xs:restriction>
+</xs:simpleType>
+</xs:schema>
+
+Gabriel S. Popa
+
+Motivul: Format electronic AUTENTIC, conform Legii nr. 202/1998, republicata.
+Locatia: Bucuresti
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+ăMonitorul Oficial” R.A., Str. Parcului nr. 65, sectorul 1, București; C.I.F. RO427282,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala ăUnirea” București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 021.318.51.29/150, fax 021.318.51.15, e-mail: marketing@ramo.ro, internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 021.401.00.70, fax 021.401.00.71 și 021.401.00.72
+Tiparul: ăMonitorul Oficial” R.A.
+Monitorul Oficial al României, Partea I, nr. 75/28.I.2011 conține 32 de pagini.
+
+Prețul: 6,40 lei
+
+&JUYDGY|449596]
+ISSN 1453—4495
+
+

@@ -1,0 +1,698 @@
+Anul XI Ñ Nr. 131
+
+PARTEA
+
+I
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+
+Miercuri, 31 martie 1999
+
+SUMAR
+Nr.
+
+28.
+
+29.
+
+30.
+
+Pagina
+ORDONANÞE ȘI HOTÃRÂRI
+ALE GUVERNULUI ROMÂNIEI
+Ñ Ordonanțã de urgențã privind obligația agenților
+economici de a utiliza aparate de marcat electronice fiscale.................................................................
+Ñ Ordonanțã de urgențã privind unele mãsuri legate
+de trecerea la anul 2000 a sistemelor informatice
+și a sistemelor electronice microprogramate...........
+Ñ Ordonanțã de urgențã pentru modificarea art. 7
+din Ordonanța Guvernului nr. 26/1993 privind Tariful
+vamal de import al României...................................
+
+Nr.
+
+Pagina
+
+31. Ñ Ordonanțã de urgențã pentru modificarea art. 17
+lit. B.s) din Ordonanța Guvernului nr. 3/1992 privind taxa pe valoarea adãugatã ..............................
+1Ð3
+
+220.
+
+6Ð7
+
+Ñ Hotãrâre privind transmiterea unui obiectiv de
+investiții, proprietate publicã a statului, situat în muni-
+
+4Ð5
+
+cipiul Iași, județul Iași, din administrarea Ministerului
+Sãnãtãții în folosința gratuitã a Mitropoliei Moldovei
+
+6
+
+și Bucovinei din Iași .................................................
+
+7Ð8
+
+ORDONANÞE ȘI HOTÃRÂRI ALE GUVERNULUI ROMÂNIEI
+GUVERNUL ROMÂNIEI
+
+ORDONANÞÃ DE URGENÞÃ
+privind obligația agenților economici de a utiliza aparate de marcat electronice fiscale
+În temeiul art. 114 alin. (4) din Constituția României,
+Guvernul României emite urmãtoarea ordonanțã de urgențã:
+Art. 1. Ñ (1) Agenții economici care efectueazã livrãri
+de bunuri sau prestãri de servicii direct cãtre populație,
+pentru care nu este obligatorie emiterea de facturi, sunt
+obligați sã utilizeze aparate de marcat electronice fiscale.
+(2) Agenții economici prevãzuți la alin. (1), denumiți în
+continuare utilizatori, au obligația sã emitã bonuri fiscale cu
+aparate de marcat electronice fiscale și sã le predea
+clienților.
+(3) În cazul în care agenții economici efectueazã atât
+activitãți de vânzare cu amãnuntul, cât și cu ridicata, aceștia au obligația sã emitã bonuri fiscale pentru bunurile vândute cu amãnuntul și facturi fiscale pentru vânzãrile cu
+ridicata.
+(4) În situația defectãrii aparatelor de marcat electronice
+fiscale, utilizatorii sunt obligați ca în momentul constatãrii
+
+defecțiunii sã anunțe distribuitorul autorizat care a livrat
+aparatul sau reprezentanții legali ai acestuia în teritoriu.
+Prin distribuitor autorizat, în sensul prezentei ordonanțe de
+urgențã, se înțelege orice agent economic producãtor,
+importator sau comerciant, autorizat în condițiile prevãzute
+la art. 5.
+(5) Pânã la repunerea în funcțiune a aparatelor de
+marcat electronice fiscale, agenții economici utilizatori sunt
+obligați sã înregistreze într-un registru, special întocmit în
+acest sens, toate operațiunile efectuate și sã emitã facturi
+fiscale pentru respectivele operațiuni.
+Art. 2. Ñ (1) Se excepteazã de la prevederile art. 1
+alin. (1):
+a) agenții economici care realizeazã venituri totale
+anuale de pânã la 100 milioane lei;
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 131/31.III.1999
+
+b) comerțul și prestãrile de servicii cu caracter ambulant, desfãșurate în zone publice ori la domiciliul clientului,
+pe bazã de autorizație, precum și vânzãrile efectuate prin
+automatele comerciale;
+c) serviciile de alimentație publicã efectuate în mijloace
+de transport;
+d) vânzarea de pâine și produse de panificație în magazine sau în raioane specializate;
+e) vânzarea de ziare și reviste prin distribuitori specializați;
+f) transportul de persoane pe bazã de bilete sau de
+abonamente, precum și cu metroul;
+g) activitãțile pentru care încasãrile se realizeazã pe
+bazã de bonuri cu valoare fixã Ñ bilete de acces la spectacole, muzee, expoziții, târguri și oboare, grãdini zoologice
+și grãdini botanice, biblioteci, locuri de parcare pentru autovehicule și altele similare.
+(2) În situația în care un agent economic presteazã atât
+activitãți prevãzute la alin. (1) lit. b)Ðg), cât și activitãți pentru care este obligatorie utilizarea aparatelor de marcat
+electronice fiscale, fãrã a organiza gestiuni și evidențe contabile distincte pentru acestea, obligația utilizãrii aparatelor
+de marcat electronice fiscale se extinde asupra întregii activitãți.
+Art. 3. Ñ (1) În sensul dispozițiilor art. 1 alin. (1),
+aparate de marcat electronice fiscale sunt: casele de
+marcat, precum și alte sisteme ce includ dispozitive cu
+funcții de case de marcat, care înglobeazã constructiv un
+modul fiscal, prin intermediul cãruia controleazã memoria
+fiscalã, dispozitivul dublu de imprimare și afișajul client.
+(2) Aparatele de marcat electronice fiscale trebuie sã
+îndeplineascã cumulativ cel puțin urmãtoarele funcții esențiale:
+a) conservarea datelor prin acumulãri progresive;
+b) imprimarea și emiterea de: bonuri fiscale, role jurnal,
+rapoarte fiscale de închidere zilnicã, rapoarte fiscale periodice;
+c) înregistrarea în memoria fiscalã a datelor de sintezã
+cu caracter fiscal provenite din rapoartele fiscale de închidere zilnicã și a oricãror modificãri de parametri care afecteazã interpretarea datelor stocate și evenimente care
+afecteazã continuitatea înregistrãrii datelor;
+d) blocarea automatã a funcționãrii aparatului atunci
+când sunt inactive memoria fiscalã, dispozitivul dublu de
+imprimare sau afișajul client;
+e) asigurarea continuitãții funcționãrii și înregistrãrii datelor, coerenței structurii de date și a documentelor emise,
+precum și asigurarea procedurilor de recuperare din stãri
+de eroare generate de manipulãri greșite sau de erori de
+sistem.
+(3) Memoria fiscalã este un dispozitiv unic inscriptibil din
+modulul fiscal, care trebuie sã permitã obligatoriu acumulãri
+progresive ale datelor fãrã ca acestea sã poatã fi modificate sau șterse, precum și conservarea în timp a acestora
+pe o perioadã de minimum 10 ani.
+(4) În memoria fiscalã se vor stoca urmãtoarele date:
+denumirea, adresa, codul fiscal ale emitentului, logotipul și
+seria aparatului, precum și datele prevãzute la alin. (2) lit. c).
+(5) Aparatele de marcat electronice fiscale vor fi sigilate
+prin aplicarea unui sigiliu fiscal de cãtre persoane autorizate în acest scop de Ministerul Finanțelor.
+Art. 4. Ñ (1) Bonul fiscal este documentul emis de aparatul de marcat electronic fiscal, care trebuie sã cuprindã
+cel puțin: denumirea, adresa și codul fiscal ale agentului
+economic emitent; logotipul și seria aparatului; numãrul de
+ordine; data și ora emiterii; denumirea bunurilor livrate sau
+a serviciilor prestate; cantitãțile; prețurile unitare; valoarea;
+
+cotele de taxã pe valoarea adãugatã; valoarea totalã;
+valoarea taxei pe valoarea adãugatã, precum și alte taxe
+care nu se cuprind în baza de impozitare a taxei pe valoarea adãugatã.
+(2) Rola jurnal este documentul care se tipãrește concomitent cu bonul fiscal, conține toate datele din acesta și se
+pãstreazã în arhiva agenților economici timp de 2 ani de
+la data încheierii exercițiului financiar în cursul cãruia a fost
+întocmit.
+(3) Raportul fiscal de închidere zilnicã este documentul
+care conține: denumirea, adresa și codul fiscal ale agentului
+economic emitent; logotipul și seria aparatului; numãrul de
+ordine numerotat progresiv; data și ora emiterii; numãrul
+bonurilor emise în ziua respectivã; valoarea totalã a operațiunilor efectuate, inclusiv taxa pe valoarea adãugatã, și
+defalcarea acesteia pe cote de taxã pe valoarea adãugatã,
+cu precizarea nivelului cotei, precum și valoarea taxelor
+care nu se cuprind în baza de impozitare a taxei pe valoarea adãugatã.
+(4) Registrul special prevãzut la art. 1 alin. (5) și raportul fiscal de închidere zilnicã sunt documente avute în
+vedere de cãtre organele fiscale cu ocazia verificãrii veniturilor care stau la baza determinãrii impozitelor și taxelor
+datorate bugetului de stat. Aceste documente se arhiveazã
+și se pãstreazã pe o perioadã de 10 ani.
+(5) Agenții economici care utilizeazã aparate de marcat
+electronice fiscale, la umplerea memoriei fiscale sau atunci
+când aceasta trebuie înlocuitã ca urmare a defectãrii, sunt
+obligați sã predea memoria fiscalã spre pãstrare și arhivare
+direcțiilor generale ale finanțelor publice și controlului financiar de stat județene sau a municipiului București, dupã
+caz. Pãstrarea și arhivarea memoriilor fiscale se asigurã
+pentru o perioadã de 10 ani.
+Art. 5. Ñ (1) În vederea avizãrii modelelor de aparate
+de marcat electronice fiscale, a distribuitorilor autorizați și a
+unitãților service acreditate se constituie Comisia de avizare
+a distribuției și utilizãrii aparatelor de marcat electronice fiscale.
+(2) Comercializarea sau utilizarea aparatelor de marcat
+electronice fiscale pe teritoriul României este permisã
+numai dacã pentru respectivele aparate s-a obținut avizul
+comisiei prevãzute la alin. (1) și în condițiile stipulate în
+acest aviz.
+(3) Aparatele de marcat electronice fiscale trebuie sã fie
+dotate de cãtre distribuitor cu o broșurã cu pagini numerotate, care conține istoria aparatului, denumitã carte de
+intervenții. Utilizatorii aparatelor de marcat electronice fiscale sunt obligați sã pãstreze în condiții optime cartea de
+intervenții, iar împreunã cu unitãțile de service acreditate
+rãspund de completarea și de actualizarea acesteia cu
+datele referitoare la utilizator și la intervențiile service.
+(4) Sunt admiși la procedura de avizare numai agenții
+economici care comercializeazã aparate de marcat electronice fiscale ce se încadreazã în prevederile art. 3, asigurã
+service pentru perioada de garanție, postgaranție și piese
+de schimb.
+(5) Distribuitorii sunt obligați ca prin sistemul de service
+acreditat sã asigure, în termen de maximum 72 de ore de
+la anunțarea defectãrii aparatului de cãtre agentul
+economic, repunerea în funcțiune a aparatului de marcat
+electronic fiscal sau înlocuirea acestuia.
+Art. 6. Ñ (1) Obligația agenților economici prevãzuți la
+art. 1 de a utiliza aparatele de marcat electronice fiscale ia
+naștere astfel:
+a) în termen de 6 luni de la data publicãrii în Monitorul
+Oficial al României a prezentei ordonanțe de urgențã,
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 131/31.III.1999
+pentru contribuabilii care au realizat venituri totale în anul
+1998 de peste 500 milioane lei;
+b) în termen de 12 luni de la data publicãrii în
+Monitorul Oficial al României a prezentei ordonanțe de
+urgențã, pentru contribuabilii care au realizat venituri totale
+în anul 1998 între 100 și 500 milioane lei.
+(2) Agenții economici care se înregistreazã la Oficiul
+Național al Registrului Comerțului dupã data de 1 ianuarie
+1999 au obligația de a utiliza aparate de marcat electronice fiscale de la data de întâi a lunii urmãtoare celei în
+care au depãșit plafonul prevãzut la art. 2 alin. (1) lit. a),
+dar nu înainte de 6 luni de la data publicãrii în Monitorul
+Oficial al României a prezentei ordonanțe de urgențã.
+Art. 7. Ñ Agenții economici care pânã la data intrãrii în
+vigoare a prezentei ordonanțe de urgențã au achiziționat
+aparate de marcat electronice fiscale în scopul utilizãrii sau
+distribuirii sunt obligați ca în termen de 6 luni de la
+aceastã datã sã obținã avizul Comisiei de avizare a distribuției și utilizãrii aparatelor de marcat electronice fiscale.
+Art. 8. Ñ Clienții vor solicita, vor prelua și vor pãstra
+bonurile fiscale asupra lor pânã la ieșirea din unitatea de
+livrare a bunurilor sau de prestare a serviciilor, în vederea
+prezentãrii acestora la un eventual control.
+Art. 9. Ñ Constituie contravenții urmãtoarele fapte, dacã
+potrivit legii penale nu sunt considerate infracțiuni:
+a) dotarea, comercializarea sau utilizarea de cãtre agenții economici a aparatelor de marcat electronice fiscale fãrã
+avizul Comisiei de avizare a distribuției și utilizãrii aparatelor de marcat electronice fiscale ori nerespectarea condițiilor
+stipulate în aviz;
+b) livrarea de bunuri sau prestarea de servicii fãrã emiterea bonului fiscal, cu excepția situației prevãzute la art. 1
+alin. (5);
+c) nepredarea bonului fiscal clientului de cãtre operatorul
+aparatului de marcat electronic fiscal;
+d) nerespectarea de cãtre clienți a obligației de a solicita, prelua, pãstra bonurile fiscale și de a le prezenta la
+cererea organelor de control;
+e) nerespectarea de cãtre utilizatori a obligației de a
+anunța distribuitorul autorizat sau reprezentanții legali ai
+acestuia în teritoriu în momentul constatãrii defectãrii aparatului de marcat electronic fiscal;
+f) nerespectarea obligațiilor ce revin distribuitorilor de
+repunere în funcțiune a aparatelor de marcat electronice
+fiscale defecte sau de înlocuire a acestora în termenul
+prevãzut de prezenta ordonanțã de urgențã;
+g) nerespectarea obligației de a pãstra și de a arhiva
+rola jurnal, raportul fiscal de închidere zilnicã și registrul
+special prevãzut la art. 1 alin. (5);
+h) nerespectarea obligației de a pãstra, de a completa
+și de a actualiza cartea de intervenții prevãzutã la art. 5
+alin. (3);
+
+i) nerespectarea obligației de a preda spre pãstrare și
+arhivare memoria fiscalã, conform prevederilor art. 4
+alin. (5);
+j) emiterea bonului fiscal pentru o valoare inferioarã
+celei reale, precum și nerespectarea prevederilor art. 1
+alin. (5).
+Art. 10. Ñ (1) Amenzile pentru contravențiile prevãzute
+la art. 9 se aplicã persoanelor juridice, cu excepția celor
+prevãzute la lit. c) și d), astfel:
+a) faptele prevãzute la lit. a), b), e), f) și j) se sancționeazã cu amendã de la 5 milioane lei la 10 milioane lei;
+b) faptele prevãzute la lit. g) și h) se sancționeazã cu
+amendã de la un milion lei la 25 milioane lei;
+c) fapta prevãzutã la lit. i) se sancționeazã cu amendã
+de la 50 milioane lei la 100 milioane lei.
+(2) Amenzile pentru contravențiile prevãzute la art. 9
+lit. c) și d) se aplicã persoanelor fizice, astfel:
+a) fapta prevãzutã la lit. c) se sancționeazã cu amendã
+de la un milion lei la 5 milioane lei;
+b) fapta prevãzutã la lit. d) se sancționeazã cu amendã
+de la 100.000 lei la 500.000 lei.
+Art. 11. Ñ (1) Constatarea contravențiilor, precum și
+aplicarea sancțiunilor se fac de cãtre organele de specialitate din Ministerul Finanțelor, Ministerul de Interne, precum
+și din unitãțile lor teritoriale.
+(2) Contestarea actelor de control întocmite de organele
+prevãzute la alin. (1) și soluționarea contestațiilor se
+efectueazã pe baza procedurilor prevãzute de legislația în
+vigoare.
+(3) Prevederile prezentei ordonanțe de urgențã se completeazã cu dispozițiile Legii nr. 32/1968 privind stabilirea și
+sancționarea contravențiilor, cu excepția art. 25Ñ27.
+Art. 12. Ñ În cazul repetãrii faptei prevãzute la art. 9
+lit. f), o datã cu aplicarea amenzii contravenționale organele
+de control vor dispune și retragerea definitivã a avizului
+eliberat distribuitorului pentru distribuția și comercializarea
+aparatelor de marcat electronice fiscale.
+Art. 13. Ñ Neîndeplinirea obligației agenților economici
+prevãzuți la art. 1 de a se dota și de a utiliza aparate de
+marcat electronice fiscale la termenele prevãzute la art. 6
+atrage suspendarea activitãții unitãții pânã în momentul
+înlãturãrii cauzelor care au generat aceasta.
+Art. 14. Ñ În termen de 60 de zile de la data publicãrii
+prezentei ordonanțe de urgențã în Monitorul Oficial al
+României Ministerul Finanțelor va elabora norme metodologice de aplicare, ce vor cuprinde prevederi privind structura
+și atribuțiile Comisiei de avizare a distribuției și utilizãrii
+aparatelor de marcat electronice fiscale, precum și procedura de suspendare a activitãții sau de retragere definitivã
+a avizului eliberat distribuitorului pentru distribuirea și
+comercializarea aparatelor, care se vor aproba prin hotãrâre
+a Guvernului.
+
+PRIM-MINISTRU
+
+RADU VASILE
+Contrasemneazã:
+Ministrul finanțelor,
+Decebal Traian Remeș
+Ministru de interne,
+Constantin Dudu-Ionescu
+Ministrul industriei și comerțului,
+Radu Berceanu
+București, 25 martie 1999.
+Nr. 28.
+
+3
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 131/31.III.1999
+GUVERNUL ROMÂNIEI
+
+ORDONANÞÃ DE URGENÞÃ
+privind unele mãsuri legate de trecerea la anul 2000 a sistemelor informatice
+și a sistemelor electronice microprogramate
+În temeiul prevederilor art. 114 alin. (4) din Constituția României,
+Guvernul României emite urmãtoarea ordonanțã de urgențã:
+Art. 1. Ñ (1) Prezenta ordonanțã de urgențã reglementeazã raporturile generate de mãsurile care se impun pentru prevenirea disfuncționalitãților ce pot apãrea la data de
+31 decembrie 1999, ora 24,00, din cauza unor defecte
+tehnologice legate de reprezentarea digitalã a datei calendaristice, care pot fi identificate în sistemele informatice și
+în sistemele electronice microprogramate (cu microprocesor
+încorporat), defecte care pot aduce prejudicii securitãții persoanelor, funcționãrii serviciilor publice, siguranței naționale,
+economiei și societãții în ansamblul ei.
+(2) Expresia prevenirea disfuncționalitãților care pot apãrea la data de 31 decembrie 1999, ora 24,00, din cauza unor
+defecte tehnologice legate de reprezentarea digitalã a datei
+calendaristice, care pot fi identificate în sistemele informatice și
+în sistemele electronice microprogramate (cu microprocesor
+încorporat) va fi denumitã prin sintagma ”Anul 2000,,.
+Art. 2. Ñ În cadrul acțiunilor ”Anul 2000,, rolul instituțiilor
+statului este de a mobiliza comunitatea naționalã prin
+acțiuni de informare și sensibilizare, în special pentru agenții economici, precum și de a urmãri direct adaptarea sau
+înlocuirea sistemelor utilizate de administrația publicã, de
+organismele subordonate acesteia și de agenții economici
+în care statul este acționar.
+Art. 3. Ñ Responsabilitatea pentru buna desfãșurare a
+acțiunii ”Anul 2000,, revine autoritãților publice pentru domeniile pe care le conduc sau, dupã caz, le coordoneazã,
+conform legilor în vigoare, atât la nivel central, cât și teritorial.
+Art. 4. Ñ (1) Coordonarea la nivel național a acțiunilor
+vizând ”Anul 2000,, se realizeazã de cãtre Consiliul
+Național ”Mileniul,,, constituit prin decizie a primului-ministru.
+(2) Sursa de finanțare pentru sumele necesare în vederea
+angajãrii logisticii și acoperirii costurilor aferente funcționãrii
+Consiliului Național ”Mileniul,, o constituie bugetul de stat,
+iar alocarea creditelor bugetare va fi prevãzutã distinct, cu
+aceastã destinație, în bugetul Agenției Naționale pentru
+Comunicații și Informaticã.
+(3) Sursa de finanțare pentru sumele necesare în vederea acoperirii costurilor ce revin pãrții române în derularea
+proiectelor finanțate din credite nerambursabile acordate
+Guvernului României de cãtre instituții financiare internaționale, destinate rezolvãrii problemei ”Anul 2000,,, o constituie bugetul de stat, iar alocarea creditelor bugetare va fi
+prevãzutã distinct, cu aceastã destinație, în bugetul
+Agenției Naționale pentru Comunicații și Informaticã.
+Art. 5. Ñ (1) Conducãtorii instituțiilor publice centrale, ai
+autoritãților administrației publice locale, precum și regiile
+autonome de interes național, instituțiile publice și autori-
+
+tãțile administrative autonome, societãțile și companiile
+naționale vor lua mãsurile corespunzãtoare privind ”Anul
+2000,,, prevãzute în prezenta ordonanțã de urgențã, și vor
+întocmi în termen de 30 de zile de la data intrãrii în
+vigoare a prezentei ordonanțe de urgențã planul de acțiuni
+”Anul 2000,, în domeniul condus sau, dupã caz, coordonat.
+(2) Societãțile comerciale, indiferent de forma de proprietate, inclusiv bãncile și societãțile de asigurare-reasigurare, regiile autonome de interes local vor lua mãsurile
+corespunzãtoare privind ”Anul 2000,,, prevãzute în prezenta
+ordonanțã de urgențã.
+(3) Planul de acțiuni va cuprinde:
+a) inventarierea și diagnosticul sistemelor informatice și
+sistemelor electronice microprogramate (cu microprocesor
+încorporat);
+b) evaluarea riscurilor și a prioritãților de remediere;
+c) soluții de adaptare sau de înlocuire a sistemelor în
+cauzã;
+d) estimarea resurselor umane și financiare necesare;
+e) graficul pentru implementarea soluțiilor identificate;
+f) graficul pentru testarea sistemelor remediate;
+g) calendarul de desfãșurare a acțiunilor.
+(4) Planurile de acțiuni astfel întocmite vor fi transmise
+Consiliului Național ”Mileniul,,, în vederea avizãrii și corelãrii
+intersectoriale, prin Agenția Naționalã pentru Comunicații și
+Informaticã.
+Art. 6. Ñ (1) Toate persoanele juridice au obligația de
+a raporta acțiunile întreprinse pentru rezolvarea problemei
+”Anul 2000,,.
+(2) Raportãrile privind stadiul acțiunilor întreprinse pentru
+”Anul 2000,, se vor realiza astfel:
+a) cãtre ministerul sau organul coordonator al domeniului, iar acesta cãtre Consiliul Național ”Mileniul,,, pentru persoanele juridice prevãzute la art. 5 alin. (1);
+b) cãtre prefecturile în a cãror razã teritorialã își au
+sediul social, iar acestea cãtre Consiliul Național ”Mileniul,,,
+pentru persoanele juridice prevãzute la art. 5 alin. (2).
+(3) Procedurile de lucru, conținutul raportãrilor și activitãțile legate de ”Anul 2000,, se stabilesc prin norme metodologice emise de cãtre Agenția Naționalã pentru
+Comunicații și Informaticã, cu avizul Ministerului Finanțelor,
+și vor fi supuse aprobãrii Guvernului în termen de 30 de
+zile de la data intrãrii în vigoare a prezentei ordonanțe de
+urgențã.
+Art. 7. Ñ Pentru realizarea acțiunilor ”Anul 2000,,, persoanele juridice prevãzute la art. 5 alin. (1) și (2) vor
+colabora cu furnizorii de produse și servicii de tehnologia
+informației și comunicației pentru diagnosticarea sistemelor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 131/31.III.1999
+informatice și a sistemelor electronice microprogramate (cu
+microprocesor încorporat), pentru identificarea de soluții și
+pentru punerea în aplicare a acestora.
+Art. 8. Ñ Achizitorii de echipamente și servicii de tehnologia informației și comunicației sunt obligați sã solicite
+furnizorilor acestora prezentarea de garanții și certificate de
+conformitate în problema ”Anul 2000,,.
+Art. 9. Ñ Costurile aferente elaborãrii planului de
+acțiuni, adaptãrii sau înlocuirii sistemelor, pentru rezolvarea
+problemei ”Anul 2000,,, vor fi suportate de beneficiari.
+Art. 10. Ñ (1) Sunt scutite de taxe vamale importurile
+de echipamente, componente și produse software destinate
+rezolvãrii problemei ”Anul 2000,,.
+(2) Scutirile de taxe vamale prevãzute se vor acorda în
+urmãtoarele condiții:
+a) prezentarea de cãtre fiecare beneficiar de importuri
+pentru ”Anul 2000,,, în termen de 45 de zile de la data
+intrãrii în vigoare a prezentei ordonanțe de urgențã, a listei
+cuprinzând, pentru fiecare produs importat:
+ii(i) denumirea;
+i(ii) caracteristicile tehnice relevante pentru ”Anul
+2000,,;
+(iii) cantitãțile necesare;
+(iv) nivelul riscului ”Anul 2000,, rezolvat;
+i(v) numele beneficiarului, inclusiv locurile de instalare
+a produselor importate;
+b) comunicarea, dupã stabilirea conform legislației în
+vigoare a furnizorilor, a identificãrii oficiale a furnizorilor de
+echipamente, componente și produse software;
+c) punerea la dispoziție Direcției Generale a Vãmilor a
+listei complete cuprinzând echipamente, componente și
+produse software, în vederea punerii în aplicare a acestor
+scutiri de taxe vamale.
+(3) Fiecare beneficiar va transmite organizatorului și
+administratorului bazei de date, pe propria rãspundere,
+toate informațiile prevãzute la alin. (2) cu privire la denumirea produselor, caracteristicile lor tehnice, cantitãțile necesare și numele furnizorilor stabiliți.
+
+(4) Agenția Naționalã pentru Comunicații și Informaticã,
+prin Institutul Național de Cercetare-Dezvoltare pentru
+Informaticã (ICI) București, va organiza și va administra
+baza de date necesarã pentru acordarea de scutiri de taxe
+vamale în vederea rezolvãrii problemei ”Anul 2000,,.
+(5) Sursa de finanțare pentru sumele necesare în vederea organizãrii și administrãrii bazei de date necesare pentru
+acordarea scutirilor de taxe vamale în problema ”Anul
+2000,,, pentru toatã perioada pânã la rezolvarea integralã a
+problemei ”Anul 2000,, pentru fiecare beneficiar, o constituie
+bugetul de stat, iar alocarea creditelor bugetare va fi prevãzutã distinct, cu aceastã destinație, în bugetul Agenției
+Naționale pentru Comunicații și Informaticã.
+Art. 11. Ñ Ministerul Finanțelor este autorizat sã opereze în bugetul de stat modificãrile corespunzãtoare prevederilor din prezenta ordonanțã de urgențã.
+Art. 12. Ñ Sunt scutite de taxe vamale importurile de
+echipamente, componente, produse software și documentație finanțate integral din credite nerambursabile acordate
+Guvernului României de cãtre instituții financiare internaționale, destinate rezolvãrii problemei ”Anul 2000,,.
+Art. 13. Ñ Înscrierea nejustificatã de echipamente, componente sau produse software, de cãtre beneficiari, în lista
+cuprinzând produsele scutite de taxe vamale la import, sub
+aspectul denumirii produsului, al caracteristicilor lui tehnice
+și al cantitãților necesare, constituie contravenție și se
+sancționeazã cu amendã de la 10.000.000 lei la
+30.000.000 lei.
+Art. 14. Ñ (1) Constatarea contravențiilor și aplicarea
+sancțiunilor se fac de cãtre împuterniciții Consiliului Național
+”Mileniul,,, precum și ai Agenției Naționale pentru
+Comunicații și Informaticã.
+(2) Sancțiunea se poate aplica și persoanelor juridice.
+Art. 15. Ñ Dispozițiile privitoare la constatarea contravențiilor și aplicarea sancțiunilor se completeazã cu prevederile Legii nr. 32/1968 privind stabilirea și sancționarea
+contravențiilor, cu modificãrile ulterioare.
+
+PRIM-MINISTRU
+
+RADU VASILE
+Contrasemneazã:
+p. Președintele Agenției Naționale
+pentru Comunicații și Informaticã,
+Dan Chirondojan,
+vicepreședinte
+Ministrul finanțelor,
+Decebal Traian Remeș
+
+București, 25 martie 1999.
+Nr. 29.
+
+5
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 131/31.III.1999
+GUVERNUL ROMÂNIEI
+
+ORDONANÞÃ DE URGENÞÃ
+pentru modificarea art. 7 din Ordonanța Guvernului nr. 26/1993
+privind Tariful vamal de import al României
+În temeiul prevederilor art. 114 alin. (4) din Constituția României,
+Guvernul României adoptã urmãtoarea ordonanțã de urgențã:
+Art. I. Ñ Articolul 7 din Ordonanța Guvernului
+nr. 26/1993 privind Tariful vamal de import al României,
+publicatã în Monitorul Oficial al României, Partea I, nr. 213
+din 31 august 1993, aprobatã și modificatã prin Legea
+nr. 102/1994, cu modificãrile și completãrile ulterioare, se
+modificã și va avea urmãtorul cuprins:
+”Art. 7. Ñ De asemenea, este scutit de taxe vamale
+importul urmãtoarelor categorii de bunuri:
+Ñ bunurile de origine românã;
+Ñ bunurile reparate în strãinãtate sau bunurile care le
+înlocuiesc pe cele necorespunzãtoare calitativ, returnate
+partenerilor externi în perioada de garanție;
+Ñ bunurile care se înapoiazã în țarã ca urmare a unei
+expedieri eronate;
+Ñ bunurile din import, destinate a fi utilizate de asociații familiale și unitãți din sectorul meșteșugãresc, agricol și
+al industriei mici, în cadrul unor programe și acțiuni de ajutorare și dezvoltare a activitãților, finanțate de cãtre
+
+guvernele strãine în baza unor acorduri sau tratate
+încheiate cu România.,,
+Art. II. Ñ Pentru bunurile importate, folosite de asociații
+familiale și unitãți din sectorul meșteșugãresc, agricol și al
+industriei mici, derulate în baza unor programe de ajutorare
+și dezvoltare, pentru care nu s-a plãtit datoria vamalã pânã
+la data intrãrii în vigoare a prezentei ordonanțe de urgențã,
+drepturile de import pentru aceste produse nu se mai datoreazã bugetului de stat.
+Art. III. Ñ Ordonanța Guvernului nr. 26/1993 privind
+Tariful vamal de import al României, publicatã în Monitorul
+Oficial al României, Partea I, nr. 213 din 31 august 1993,
+aprobatã și modificatã prin Legea nr. 102/1994, cu modificãrile și completãrile ulterioare, precum și cu modificãrile
+aduse prin prezenta ordonanțã de urgențã, va fi republicatã
+în Monitorul Oficial al României, Partea I, dându-se textelor
+o nouã numerotare.
+
+PRIM-MINISTRU
+
+RADU VASILE
+Contrasemneazã:
+Ministrul finanțelor,
+Decebal Traian Remeș
+Ministrul industriei și comerțului,
+Radu Berceanu
+
+București, 25 martie 1999.
+Nr. 30.
+GUVERNUL ROMÂNIEI
+
+ORDONANÞÃ DE URGENÞÃ
+pentru modificarea art. 17 lit. B.s) din Ordonanța Guvernului nr. 3/1992
+privind taxa pe valoarea adãugatã
+În temeiul art. 114 alin. (4) din Constituția României,
+Guvernul României
+
+emite urmãtoarea ordonanțã de urgențã:
+
+Articol unic. Ñ Litera B.s) a articolului 17 din
+Ordonanța Guvernului nr. 3/1992 privind taxa pe valoarea adãugatã, aprobatã și modificatã prin Legea
+nr. 130/1992 și republicatã în Monitorul Oficial al
+României, Partea I, nr. 288 din 12 decembrie 1995, cu
+
+modificãrile și completãrile ulterioare, se modificã și va
+avea urmãtorul cuprins:
+”s) editarea, tipãrirea și vânzarea de ziare și reviste de
+culturã, inclusiv activitatea de reclamã și de publicitate
+efectuatã prin acestea.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 131/31.III.1999
+Prin reviste de culturã se înțelege publicațiile periodice
+care au ca obiect literatura, științele teoretice și aplicate,
+artele și orice alt domeniu al vieții spirituale sau intelectu-
+
+ale, editate în scopul promovãrii acestor activitãți prin informare, dezbateri, educație și prin rãspândirea de creații specifice.,,
+
+PRIM-MINISTRU
+
+RADU VASILE
+Contrasemneazã:
+Ministrul finanțelor,
+Decebal Traian Remeș
+
+București, 25 martie 1999.
+Nr. 31.
+
+GUVERNUL ROMÂNIEI
+
+HOTÃRÂRE
+privind transmiterea unui obiectiv de investiții,
+proprietate publicã a statului, situat în municipiul Iași,
+județul Iași, din administrarea Ministerului Sãnãtãții
+în folosința gratuitã a Mitropoliei Moldovei și Bucovinei
+din Iași
+În temeiul prevederilor art. 107 alin. (1) din Constituția României și ale
+Legii nr. 213/1998 privind proprietatea publicã și regimul juridic al acesteia,
+Guvernul României
+
+h o t ã r ã ș t e :
+
+Art. 1. Ñ Se aprobã transmiterea obiectivului de investiții nefinalizat
+”Centrul de diagnostic și tratament,, și a terenului aferent acestuia, proprietate publicã a statului, situat în municipiul Iași, str. Poitiers nr. 10, județul
+Iași, din administrarea Ministerului Sãnãtãții în folosința gratuitã a Mitropoliei
+Moldovei și Bucovinei din Iași, pe durata existenței construcției, în vederea
+realizãrii unui spital filantropic.
+Art. 2. Ñ Datele de identificare a obiectivului prevãzut la art. 1 sunt
+cuprinse în anexa care face parte integrantã din prezenta hotãrâre.
+Art. 3. Ñ Predarea-preluarea obiectivului de investiții transmis potrivit
+art. 1 se face prin protocol încheiat între pãrțile interesate.
+PRIM-MINISTRU
+
+RADU VASILE
+Contrasemneazã:
+Secretar de stat,
+șeful Departamentului pentru
+Administrație Publicã Localã,
+Vlad Roșca
+Secretariatul de Stat pentru Culte
+Gheorghe Anghelescu,
+secretar de stat
+Ministrul sãnãtãții,
+Hajdœ G‡bor
+Ministrul lucrãrilor publice
+și amenajãrii teritoriului,
+Nicolae Noica
+Ministrul finanțelor,
+Decebal Traian Remeș
+
+București, 25 martie 1999.
+Nr. 220.
+
+7
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 131/31.III.1999
+ANEXÃ
+
+CARACTERISTICILE PRINCIPALE ȘI INDICATORII TEHNICO-ECONOMICI
+
+ai obiectivului de investiții ”Centrul de diagnostic și tratament,, din municipiul Iași,
+care se transmite din administrarea Ministerului Sãnãtãții în folosința gratuitã a Mitropoliei Moldovei
+și Bucovinei din Iași
+
+Amplasament:
+Teren proprietate de stat, situat în municipiul Iași, str. Poitiers nr. 10, județul Iași, în suprafațã
+totalã de 5.153 m2, din care:
+Ñ suprafața construitã = 1.028,5 m2;
+Ñ suprafața desfãșuratã = 3.159,9 m2;
+Ñ suprafața pentru circulație auto = 2.081,0 m2;
+Ñ suprafețele trotuarelor + mobilare urbanã = 1.480,0 m2;
+Ñ suprafața spațiilor verzi amenajate = 343,5 m2.
+Indicatori tehnico-economici:
+Ñ valoarea totalã a investiției
+(prețuri în luna octombrie 1998),
+din care:
+Ñ construcții-montaj
+
+20.216.284 mii lei
+
+12.119.290 mii lei
+
+Realizãri totale,
+din care:
+Ñ construcții-montaj
+Ñ proiectare
+Ñ I.G.S.I.C.
+Ñ alte cheltuieli
+(comisioane B.R.D., taxe de licitație)
+
+5.543.360 mii lei
+5.341.826
+174.102
+22.355
+5.074
+
+Capacitãți:
+Ñ suprafața desfãșuratã a obiectivului de bazã
+
+mii
+mii
+mii
+mii
+
+lei
+lei
+lei
+lei
+
+3.158,9 m 2 .
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 30.98.12.301 B.C.R. Ñ S.M.B.
+Adresa pentru publicitate : Serviciul relații cu publicul și agenții economici, București,
+Str. Blanduziei nr. 1, sectorul 2, telefon 211.57.30.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 668.55.58 și 335.01.11/2178.
+Monitorul Oficial al României, Partea I, nr. 131/31.III.1999 conține 8 pagini.
+
+Prețul 1.000 lei
+
+ISSN 1453Ñ4495
+
+

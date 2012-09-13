@@ -1,0 +1,795 @@
+Anul 171 (XV) Ñ Nr. 874
+
+PARTEA
+
+I
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+
+Marți, 9 decembrie 2003
+
+SUMAR
+Nr.
+21.
+
+482.
+
+483.
+
+484.
+
+Pagina
+HOTÃRÂRI ALE SENATULUI
+Ñ Hotãrâre privind validarea unui mandat de
+senator ......................................................................
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+Ñ Ordin al directorului general al Oficiului
+Registrului Național al Informațiilor Secrete de Stat
+pentru aprobarea Directivei privind structurile
+cu responsabilitãți în domeniul INFOSEC Ñ
+INFOSEC 1 ..............................................................
+Ñ Ordin al directorului general al Oficiului
+Registrului Național al Informațiilor Secrete de Stat
+pentru aprobarea Directivei principale privind
+domeniul INFOSEC Ñ INFOSEC 2 ......................
+Ñ Ordin al directorului general al Oficiului
+Registrului Național al Informațiilor Secrete de Stat
+pentru aprobarea Directivei privind managementul
+INFOSEC pentru sisteme informatice și de
+comunicații Ñ INFOSEC 3 .....................................
+
+HOTÃRÂRI
+
+Nr.
+
+Pagina
+
+485.
+1
+
+2
+
+2
+
+3
+
+Ñ Ordin al directorului general al Oficiului
+Registrului Național al Informațiilor Secrete de Stat
+privind aprobarea Directivei INFOSEC tehnice
+și de implementare pentru interconectarea sistemelor informatice și de comunicații (SIC) Ñ
+INFOSEC 7 ..............................................................
+1.062. Ñ Ordin al ministrului sãnãtãții pentru aprobarea
+modelului Dosarului standard al Laboratorului de
+Control al Calitãții Medicamentului (DSLCCM) .....
+1.063. Ñ Ordin al ministrului sãnãtãții pentru aprobarea
+Normelor privind stabilirea criteriilor pentru desemnarea unui medicament ca medicament orfan și a
+modului de autorizare de punere pe piațã a
+acestuia ....................................................................
+1.679. Ñ Ordin al ministrului finanțelor publice pentru
+modificarea Normelor metodologice generale referitoare la exercitarea controlului financiar preventiv,
+aprobate prin Ordinul ministrului finanțelor publice
+nr. 522/2003, cu modificãrile ulterioare .................
+
+ALE
+
+3
+
+4Ð5
+
+5Ð8
+
+8
+
+SENATULUI
+
+PARLAMENTUL ROMÂNIEI
+SENATUL
+
+HOTÃRÂRE
+privind validarea unui mandat de senator
+În temeiul prevederilor art. 70 alin. (1) din Constituția României, republicatã, ale art. 66 alin. (9) din Legea
+nr. 68/1992 pentru alegerea Camerei Deputaților și a Senatului, ale art. 2 și 3 din Legea nr. 115/1996 pentru declararea
+și controlul averii demnitarilor, magistraților, a unor persoane cu funcții de conducere și de control și a funcționarilor
+publici, cu modificãrile ulterioare, ale Legii nr. 161/2003 privind unele mãsuri pentru asigurarea transparenței în exercitarea demnitãților publice, a funcțiilor publice și în mediul de afaceri, prevenirea și sancționarea corupției, cu modificãrile
+ulterioare, precum și ale art. 11 și ale art. 179 din Regulamentul Senatului, republicat, cu modificãrile și completãrile ulterioare,
+Senatul adoptã prezenta hotãrâre.
+Articol unic.Ñ Se valideazã mandatul de senator al
+domnului Dan Avram Ñ Grupul parlamentar al P.N.L. Ñ în
+
+Circumscripția electoralã nr. 4 Bacãu, mandat rãmas vacant
+ca urmare a demisiei domnului Dan Constantinescu.
+
+Aceastã hotãrâre a fost adoptatã de Senat în ședința din 2 decembrie 2003, cu respectarea prevederilor art. 76 alin. (2)
+din Constituția României, republicatã.
+p. PREȘEDINTELE SENATULUI,
+
+DORU IOAN TÃRÃCILÃ
+București, 2 decembrie 2003.
+Nr. 21.
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 874/9.XII.2003
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+GUVERNUL ROMÂNIEI
+OFICIUL REGISTRULUI NAÞIONAL AL INFORMAÞIILOR SECRETE DE STAT
+
+ORDIN
+pentru aprobarea Directivei privind structurile cu responsabilitãți în domeniul INFOSEC Ñ INFOSEC 1
+În temeiul prevederilor art. 1 alin. (4) lit. b) și g) și ale art. 3 alin. (6) din Ordonanța de urgențã a Guvernului
+nr. 153/2002 privind organizarea și funcționarea Oficiului Registrului Național al Informațiilor Secrete de Stat, aprobatã prin
+Legea nr. 101/2003,
+directorul general al Oficiului Registrului Național al Informațiilor Secrete de Stat
+Art. 1. Ñ Se aprobã Directiva privind structurile cu responsabilitãți în domeniul INFOSEC Ñ INFOSEC 1,
+prevãzutã în anexa*) care face parte integrantã din prezentul ordin.
+Art. 2. Ñ (1) Directiva prevãzutã la art. 1 definește și
+stabilește structurile și personalul cu atribuții în domeniul
+INFOSEC și principalele responsabilitãți ale acestora, în
+scopul asigurãrii protecției corespunzãtoare a informațiilor
+NATO clasificate.
+(2) Aplicarea prevederilor directivei prevãzute la art. 1
+este obligatorie pentru sistemele informatice și de comunicații
+
+emite prezentul ordin.
+
+naționale, civile și militare, care stocheazã, proceseazã sau
+transmit informații NATO clasificate.
+Art. 3. Ñ Conținutul directivei prevãzute la art. 1 va fi
+revizuit periodic, în vederea armonizãrii normelor naționale
+cu reglementãrile NATO referitoare la domeniul INFOSEC.
+Art. 4. Ñ Prezentul ordin se publicã în Monitorul Oficial
+al României, Partea I.
+Art. 5. Ñ Oficiul Registrului Național al Informațiilor
+Secrete de Stat urmãrește ducerea la îndeplinire a prevederilor prezentului ordin.
+
+Directorul general al Oficiului Registrului Național al Informațiilor Secrete de Stat,
+Marius Petrescu,
+secretar de stat
+București, 21 noiembrie 2003.
+Nr. 482.
+
+GUVERNUL ROMÂNIEI
+OFICIUL REGISTRULUI NAÞIONAL AL INFORMAÞIILOR SECRETE DE STAT
+
+ORDIN
+pentru aprobarea Directivei principale privind domeniul INFOSEC Ñ INFOSEC 2
+În temeiul prevederilor art. 1 alin. (4) lit. b) și g) și ale art. 3 alin. (6) din Ordonanța de urgențã a Guvernului
+nr. 153/2002 privind organizarea și funcționarea Oficiului Registrului Național al Informațiilor Secrete de Stat, aprobatã
+prin Legea nr. 101/2003,
+directorul general al Oficiului Registrului Național al Informațiilor Secrete de Stat
+Art. 1. Ñ Se aprobã Directiva principalã privind domeniul INFOSEC Ñ INFOSEC 2, prevãzutã în anexa*) care
+face parte integrantã din prezentul ordin.
+Art. 2. Ñ (1) Directiva prevãzutã la art. 1 stabilește
+activitãțile referitoare la securitatea sistemelor informatice și
+de comunicații și a altor sisteme electronice, precum și
+relațiile dintre aceste activitãți.
+(2) Aplicarea prevederilor directivei prevãzute la art. 1
+este obligatorie pentru sistemele informatice și de comunicații
+
+emite prezentul ordin.
+
+naționale, civile și militare, care stocheazã, proceseazã sau
+transmit informații NATO clasificate.
+Art. 3. Ñ Conținutul directivei prevãzute la art. 1 va fi
+revizuit periodic, în vederea armonizãrii normelor naționale
+cu reglementãrile NATO referitoare la domeniul INFOSEC.
+Art. 4. Ñ Prezentul ordin se publicã în Monitorul Oficial
+al României, Partea I.
+Art. 5. Ñ Oficiul Registrului Național al Informațiilor
+Secrete de Stat urmãrește ducerea la îndeplinire a prevederilor prezentului ordin.
+
+Directorul general al Oficiului Registrului Național al Informațiilor Secrete de Stat,
+Marius Petrescu,
+secretar de stat
+București, 21 noiembrie 2003.
+Nr. 483.
+*) Anexa se comunicã unitãților și instituțiilor de drept public și privat îndreptãțite.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 874/9.XII.2003
+
+3
+
+GUVERNUL ROMÂNIEI
+OFICIUL REGISTRULUI NAÞIONAL AL INFORMAÞIILOR SECRETE DE STAT
+
+ORDIN
+pentru aprobarea Directivei privind managementul INFOSEC
+pentru sisteme informatice și de comunicații Ñ INFOSEC 3
+În temeiul prevederilor art. 1 alin. (4) lit. b) și g) și ale art. 3 alin. (6) din Ordonanța de urgențã a Guvernului
+nr. 153/2002 privind organizarea și funcționarea Oficiului Registrului Național al Informațiilor Secrete de Stat, aprobatã prin
+Legea nr. 101/2003,
+directorul general al Oficiului Registrului Național al Informațiilor Secrete de Stat emite prezentul ordin.
+Art. 1. Ñ Se aprobã Directiva privind managementul
+INFOSEC pentru sisteme informatice și de comunicații Ñ
+INFOSEC 3, prevãzutã în anexa*) care face parte integrantã din prezentul ordin.
+Art. 2. Ñ (1) Directiva prevãzutã la art. 1 definește și
+stabilește modul în care se asigurã managementul unui sistem informatic și de comunicații de cãtre personalul cu
+atribuții în domeniul INFOSEC, în scopul asigurãrii protecției
+corespunzãtoare a informațiilor NATO clasificate.
+(2) Aplicarea prevederilor directivei prevãzute la art. 1
+este obligatorie pentru sistemele informatice și de comu-
+
+nicații naționale, civile și militare, care stocheazã, proceseazã sau transmit informații NATO clasificate.
+Art. 3. Ñ Conținutul directivei prevãzute la art. 1 va fi
+revizuit periodic, în vederea armonizãrii normelor naționale
+cu reglementãrile NATO referitoare la domeniul INFOSEC.
+Art. 4. Ñ Prezentul ordin se publicã în Monitorul Oficial
+al României, Partea I.
+Art. 5. Ñ Oficiul Registrului Național al Informațiilor
+Secrete de Stat urmãrește ducerea la îndeplinire a prevederilor prezentului ordin.
+
+Directorul general al Oficiului Registrului Național al Informațiilor Secrete de Stat,
+Marius Petrescu,
+secretar de stat
+București, 21 noiembrie 2003.
+Nr. 484.
+
+GUVERNUL ROMÂNIEI
+OFICIUL REGISTRULUI NAÞIONAL AL INFORMAÞIILOR SECRETE DE STAT
+
+ORDIN
+privind aprobarea Directivei INFOSEC tehnice și de implementare pentru interconectarea
+sistemelor informatice și de comunicații (SIC) Ñ INFOSEC 7
+În temeiul prevederilor art. 1 alin. (4) lit. b) și g) și ale art. 3 alin. (6) din Ordonanța de urgențã a Guvernului
+nr. 153/2002 privind organizarea și funcționarea Oficiului Registrului Național al Informațiilor Secrete de Stat, aprobatã
+prin Legea nr. 101/2003,
+directorul general al Oficiului Registrului Național al Informațiilor Secrete de Stat emite prezentul ordin.
+Art. 1. Ñ Se aprobã Directiva INFOSEC tehnicã și de
+implementare pentru interconectarea sistemelor informatice
+și de comunicații (SIC) Ñ INFOSEC 7, prevãzutã în
+anexa*) care face parte integrantã din prezentul ordin.
+Art. 2. Ñ (1) Directiva prevãzutã la art. 1 stabilește
+principiile de bazã care trebuie aplicate la interconectarea
+SIC care vehiculeazã informații NATO clasificate, precum și
+cerințele minime de securitate pentru interconectare.
+(2) Aplicarea prevederilor directivei prevãzute la art. 1
+este obligatorie pentru sistemele informatice și de comu-
+
+nicații naționale, civile și militare, care stocheazã, proceseazã sau transmit informații NATO clasificate.
+Art. 3. Ñ Conținutul directivei prevãzute la art. 1 va fi
+revizuit periodic, în vederea armonizãrii normelor naționale
+cu reglementãrile NATO referitoare la domeniul INFOSEC.
+Art. 4. Ñ Prezentul ordin se publicã în Monitorul Oficial
+al României, Partea I.
+Art. 5. Ñ Oficiul Registrului Național al Informațiilor
+Secrete de Stat urmãrește ducerea la îndeplinire a prevederilor prezentului ordin.
+
+Directorul general al Oficiului Registrului Național al Informațiilor Secrete de Stat,
+Marius Petrescu,
+secretar de stat
+București, 21 noiembrie 2003.
+Nr. 485.
+*) Anexa se comunicã unitãților și instituțiilor de drept public și privat îndreptãțite.
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 874/9.XII.2003
+
+MINISTERUL SÃNÃTÃÞII
+
+ORDIN
+pentru aprobarea modelului Dosarului standard al Laboratorului de Control
+al Calitãții Medicamentului (DSLCCM)
+Având în vedere prevederile art. 10 alin. (9) din Ordonanța Guvernului nr. 125/1998 privind înființarea, organizarea
+și funcționarea Agenției Naționale a Medicamentului, aprobatã cu modificãri și completãri prin Legea nr. 594/2002, cu
+modificãrile și completãrile ulterioare,
+în baza anexei nr. 1 cap. I, pct. 4 lit. b) din Hotãrârea Guvernului nr. 63/2002 privind aprobarea Principiilor de bunã
+practicã de laborator, precum și inspecția și verificarea respectãrii acestora în cazul testãrilor efectuate asupra substanțelor chimice,
+vãzând Referatul de aprobare al Direcției generale farmaceutice, inspecția de farmacie și aparaturã medicalã
+nr. IB 5.558/2003,
+în temeiul Hotãrârii Guvernului nr. 743/2003 privind organizarea și funcționarea Ministerului Sãnãtãții,
+ministrul sãnãtãții emite urmãtorul ordin:
+Art. 1. Ñ Se aprobã modelul Dosarului standard al
+Laboratorului de Control al Calitãții Medicamentului
+(DSLCCM), conform anexei la prezentul ordin, ca document-cadru care se întocmește de fiecare laborator autorizat de Agenția Naționalã a Medicamentului pentru
+activitãțile care se desfãșoarã la locul respectiv.
+Art. 2. Ñ Direcțiile din cadrul Ministerului Sãnãtãții,
+
+Agenția Naționalã a Medicamentului, precum și persoanele
+juridice interesate vor duce la îndeplinire prevederile prezentului ordin.
+Art. 3. Ñ Prevederile contrare prezentului ordin se
+abrogã.
+Art. 4. Ñ Prezentul ordin se va publica în Monitorul
+Oficial al României, Partea I.
+
+Ministrul interimar al sãnãtãții,
+Ionel Blãnculescu
+București, 20 noiembrie 2003.
+Nr. 1.062.
+ANEXÃ
+DOSARUL STANDARD
+
+al Laboratorului de Control al Calitãții Medicamentului (DSLCCM)
+DSLCCM trebuie sã fie succint și, pe cât posibil, sã nu depãșeascã 25 de pagini A4.
+Laboratorul trebuie sã prezinte o scurtã descriere pentru fiecare dintre capitolele prezentate în prezenta anexã.
+Unde este cazul, se va anexa documentația suplimentarã explicativã.
+1. Informații generale
+1.1. Scurtã descriere a laboratorului (inclusiv numele și
+adresa)
+1.2. Activitãțile laboratorului conform autorizației emise
+de Agenția Naționalã a Medicamentului (inclusiv cele
+prevãzute mai jos)
+Activitatea
+
+Proprie
+(marcați
+cu ”X,,)
+
+Contractatã la
+(indicați numele
+și adresa)
+
+Analize chimice
+Analize instrumentale
+Analize biologice, microbiologice, pirogenitate etc.
+Testarea stabilitãții
+medicamentului
+1.3. Scurtã descriere a sistemului de management al
+calitãții al laboratorului (inclusiv referințe privind existența
+manualului calitãții)
+2. Documentație
+2.1. Instrucțiuni privind pregãtirea, revizuirea și distribuția
+documentelor necesare pentru specificații, proceduri de testare standard, caiete sau formulare ale analiștilor
+2.2. Scurtã descriere a tuturor documentelor referitoare
+la testarea produselor, inclusiv rapoarte, înregistrãri, proceduri
+standard de operare (PSO), autorizații privind deținerea și
+
+manipularea de substanțe și produse toxice, stupefiante,
+precursori etc.
+2.3. Orice altã activitate realizatã
+2.4. Numãrul de angajați:
+Activitatea
+
+Numãrul
+
+Șefi de laborator
+Specialiști în analiza fizico-chimicã
+a medicamentului
+Specialiști în analize biologice
+Tehnicieni
+Alții
+TOTAL:
+
+3. Personal
+3.1. Organigrama evidențiind organizarea, responsabilitãțile și relațiile din cadrul laboratorului
+3.2. Calificãri, experiențã și responsabilitãți ale personalului-cheie
+3.3. Prezentarea generalã a planurilor de instruire de
+bazã și la locul de muncã și a modului în care sunt
+pãstrate înregistrãrile aferente
+4. Prelevarea
+4.1. Scurtã descriere a modalitãților de prelevare
+4.2. Scurtã descriere a procedurii de prelevare utilizate.
+Unde este posibil, vor fi descrise procedurile de evaluare a
+furnizorului de materiale necesare funcționãrii laboratorului,
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 874/9.XII.2003
+schemele de flux precizând etapele importante și planurile
+de prelevare, pãstrare și manipulare a probelor, precum și
+atribuirea acestei activitãți în laborator.
+5. Materiale
+5.1. Scurtã descriere a materialelor manipulate
+5.2. Scurtã descriere a politicii generale de achiziționare
+a materialelor, incluzând chimicale, reactivi, operații și proceduri de achiziționare
+5.3. Scurtã descriere a pãstrãrii materialelor, inclusiv a
+contraprobelor, substanțelor toxice și stupefiantelor
+5.4. Scurtã descriere a sistemului de achiziționare,
+pregãtire și testare a substanțelor de referințã
+6. Localuri
+6.1. Planul simplu sau descrierea planului zonelor laboratorului, cu indicarea scãrii de proiectare (planurile arhitecturale sau proiectele tehnice nu sunt necesare)
+6.2. Natura construcției și finisãrilor
+6.3. Scurtã descriere a sistemului de ventilație, inclusiv
+pentru zonele de testare microbiologicã, zonele de depozitare etc. (referințe pentru temperaturã, control al umiditãții
+relative)
+6.4. Zone speciale pentru manipularea materialelor
+toxice, sensibilizante etc.
+6.5. Descrierea programelor de întreținere preventivã
+planificatã a localurilor și sistemelor de înregistrare
+Igienizare
+6.6. Scurtã descriere a procedurilor de curãțare a
+încãperilor și echipamentelor
+Depozitare
+6.7. Tipuri de produse pãstrate în laborator
+6.8. Scurtã descriere a localului (mãrime, locație, mediu
+înconjurãtor și alte activitãți desfãșurate în același local)
+7. Echipamente
+7.1. Scurtã descriere a echipamentelor principale utilizate în controlul calitãții. Se atașeazã lista echipamentelor
+în uz, sub formã de tabel, indicând echipamentul, producãtorul și modelul
+7.2. Scurtã descriere a programelor de întreținere preventivã planificatã pentru echipamente și a sistemului de
+înregistrare a acestora
+7.3. Scurtã descriere a calificãrii (de exemplu: calificarea
+la instalare, calificarea funcționãrii, calificarea performanței),
+precum și calibrarea, inclusiv sistemul de înregistrare
+7.4. Scurtã descriere a sistemului computerizat, accesul
+la date, managementul integritãții datelor și validarea sistemelor computerizate
+
+5
+
+8. Controlul calitãții
+8.1. Descrierea sistemului de control al calitãții și a activitãților departamentului de control al calitãții, inclusiv prelevarea și testarea, procedura de prelevare reprezentativã
+pentru un lot și testarea
+8.2. Scurtã descriere a operațiilor de testare utilizând,
+ori de câte ori este posibil, scheme logice și diagrame de
+flux specificând parametrii importanți
+8.3. Organizarea laboratorului în privința manipulãrii
+materiilor prime, a materialelor de ambalare, a produselor
+vrac și finite, inclusiv prelevarea, pãstrarea și testarea
+8.4. Politica de administrare a rezultatelor (inclusiv LIMS Ñ
+sistem de management al informațiilor în laborator Ñ unde
+este cazul)
+8.5. Scurtã descriere a politicii generale pentru validarea metodelor analitice
+8.6. Instrucțiuni pentru eliberarea certificatelor de conformitate și a buletinelor de analizã
+9. Operații și activitãți sub contract
+9.1. Lista activitãților contractate cu alte laboratoare,
+incluzând detalii (nume, adresã și detalii de contact)
+9.2. Descrierea modului în care este evaluatã respectarea standardelor pentru activitãțile contractate
+10. Investigații pentru rezultate în afara specificațiilor
+(RIAS)
+10.1. Planuri și înregistrãri ale RIAS
+10.2. Scurtã descriere a administrãrii și investigãrii RIAS
+11. Autoinspecții
+11.1. Scurtã descriere a sistemului de autoinspecții
+12. Testarea stabilitãții medicamentului
+12.1. Scurtã descriere a programului de testare a stabilitãții
+12.2. Descrierea condițiilor în care sunt pãstrate probele
+și a metodelor și echipamentelor de monitorizare
+13. Testare microbiologicã
+13.1. Scurtã descriere a activitãților de testare microbiologicã
+13.2. Scurtã descriere a preparãrii și a tipurilor de medii
+de culturã folosite
+13.3. Scurtã descriere a procedurii existente pentru martorul de control pozitiv și negativ
+13.4. Scurtã descriere a politicii de validare
+13.5. Scurtã descriere a sistemului de distrugere a
+deșeurilor
+14. Sistemul de apã
+14.1. Scurtã descriere a sistemului de apã folositã în
+laborator
+14.2. Program de prelevare și testare a apei utilizate în
+laborator.
+
+MINISTERUL SÃNÃTÃÞII
+
+ORDIN
+pentru aprobarea Normelor privind stabilirea criteriilor pentru desemnarea unui medicament
+ca medicament orfan și a modului de autorizare de punere pe piațã a acestuia
+Având în vedere prevederile art. 10 alin. (9) din Ordonanța Guvernului nr. 125/1998 privind înființarea, organizarea și funcționarea Agenției Naționale a Medicamentului, aprobatã cu modificãri și completãri prin Legea nr. 594/2002, cu
+modificãrile și completãrile ulterioare,
+vãzând Referatul comun de aprobare al Direcției generale farmaceuticã, inspecția de farmacie și aparaturã medicalã și al Direcției generale de asistențã medicalã nr. IB 5.559/2003,
+în temeiul Hotãrârii Guvernului nr. 743/2003 privind organizarea și funcționarea Ministerului Sãnãtãții,
+ministrul sãnãtãții emite urmãtorul ordin:
+Art. 1. Ñ Se aprobã Normele privind stabilirea criteriilor
+pentru desemnarea unui medicament ca medicament orfan
+
+și a modului de autorizare de punere pe piațã a acestuia,
+prevãzute în anexa la prezentul ordin.
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 874/9.XII.2003
+
+Art. 2. Ñ Direcția generalã farmaceuticã, inspecția de
+farmacie și aparaturã medicalã, Direcția generalã asistențã
+medicalã, Agenția Naționalã a Medicamentului, precum și
+
+persoanele fizice și juridice interesate vor duce la îndeplinire prevederile prezentului ordin.
+Art. 3. Ñ Prezentul ordin se publicã în Monitorul Oficial
+al României, Partea I.
+
+Ministrul interimar al sãnãtãții,
+Ionel Blãnculescu
+București, 20 noiembrie 2003.
+Nr. 1.063.
+ANEXÃ
+
+NORME
+privind stabilirea criteriilor pentru desemnarea unui medicament ca medicament orfan
+și a modului de autorizare de punere pe piațã a acestuia
+Prezentele norme descriu modul în care sunt autorizate în România medicamentele orfane și sunt elaborate în concordanțã cu Reglementarea nr. 141/2000/CE a Parlamentului European și a Consiliului din 16 decembrie 1999 referitoare
+la medicamentele orfane și cu Reglementarea Comisiei nr. 847/2000/CE din 27 aprilie 2000, care stabilește prevederile
+pentru implementarea criteriilor pentru desemnarea unui medicament drept medicament orfan și definițiile conceptului de
+”medicament similar,, și ”superioritate clinicã,,.
+CAPITOLUL I
+Definiții
+Art. 1. Ñ În sensul prezentelor norme, termenii de mai
+jos au urmãtoarea semnificație:
+a) medicament Ñ un medicament de uz uman, așa
+cum este definit în art. 2 din Ordonanța de urgențã a
+Guvernului nr. 152/1999 privind produsele medicamentoase
+de uz uman, aprobatã cu modificãri și completãri prin
+Legea nr. 336/2002, cu modificãrile și completãrile
+ulterioare;
+b) medicament orfan Ñ un medicament desemnat ca
+atare în conformitate cu prevederile prezentelor norme;
+c) sponsor Ñ orice persoanã fizicã sau juridicã stabilitã
+în România ori în Comunitatea Europeanã (Comunitate),
+care încearcã sã obținã sau care a obținut desemnarea
+unui medicament drept medicament orfan;
+d) substanțã Ñ o substanțã utilizatã la fabricarea unui
+medicament de uz uman, așa cum este definit în art. 2 din
+Ordonanța de urgențã a Guvernului nr. 152/1999, aprobatã
+cu modificãri și completãri prin Legea nr. 336/2002, cu
+modificãrile și completãrile ulterioare;
+e) substanțã activã Ñ o substanțã cu activitate fiziologicã sau farmacologicã;
+f) substanțã activã similarã Ñ o substanțã activã identicã
+sau o substanțã activã cu aceleași caracteristici structurale
+moleculare principale (dar nu în mod necesar toate caracteristicile structurale moleculare) și care acționeazã prin
+intermediul aceluiași mecanism. Acesta include:
+Ñ izomeri, amestecuri de izomeri, complecși, esteri,
+sãruri și derivați necovalenți ai substanțelor active originale
+sau o substanțã activã care diferã de substanța activã originalã numai prin schimbãri minore din structura molecularã, așa cum ar fi analogul structural; sau
+Ñ aceeași macromoleculã sau o macromoleculã care
+diferã de macromolecula originalã numai în privința
+schimbãrilor din structura macromolecularã; sau
+Ñ aceeași substanțã activã radiofarmaceuticã sau una
+care diferã de substanța originalã prin radionuclid, ligand,
+locul de marcare sau mecanismul de legare dintre moleculã
+și radionuclid, cu condiția ca mecanismul de acțiune sã fie
+același;
+g) medicament similar Ñ un medicament care conține
+una sau mai multe substanțe active similare celor conținute
+de un medicament orfan autorizat și care este destinat
+pentru aceeași indicație terapeuticã;
+h) beneficiu semnificativ Ñ un avantaj clinic relevant sau
+o contribuție majorã la îngrijirea bolnavului;
+
+i) medicament clinic superior Ñ un medicament care prezintã un avantaj terapeutic sau de diagnosticare semnificativ fațã de un medicament orfan autorizat, într-unul sau mai
+multe dintre urmãtoarele moduri:
+Ñ eficacitate mai mare decât un medicament orfan
+autorizat (așa cum s-a constatat prin efect asupra unei
+ținte relevante clinic în studii clinice adecvate și bine controlate); în general, aceasta ar reprezenta același fel de
+dovadã necesarã pentru a susține revendicarea unei eficacitãți comparative pentru douã medicamente diferite; în
+general sunt necesare studii clinice comparative directe;
+totuși comparațiile pe baza altor ținte, inclusiv a țintelor
+surogat, pot fi utilizate; în orice caz, abordarea metodologicã trebuie justificatã; sau
+Ñ siguranțã mai mare la o parte substanțialã a
+populației-țintã; în unele cazuri vor fi necesare studii clinice
+comparative directe; sau
+Ñ în cazuri excepționale, când nu s-a dovedit nici siguranța, nici eficacitatea mai mari, demonstrarea faptului cã
+medicamentul aduce în alt fel o contribuție majorã la
+diagnosticarea sau la îngrijirea pacientului.
+CAPITOLUL II
+Criterii pentru desemnarea unui medicament
+ca medicament orfan
+Art. 2. Ñ În România se acceptã criteriile de desemnare a medicamentelor orfane, stabilite în reglementãrile
+nr. 141/2000/CE și 847/2000/CE, și desemnarea fãcutã de
+Comitetul pentru Medicamente Orfane al Agenției Europene
+pentru Evaluarea Medicamentelor (European Medicines
+Evaluation Agency = EMEA).
+Art. 3. Ñ Un medicament va fi desemnat drept medicament orfan dacã sponsorul acestuia poate demonstra:
+a) cã este destinat pentru diagnosticarea, prevenirea
+sau tratarea unei afecțiuni care pune în pericol viața ori
+produce o invaliditate cronicã afectând nu mai mult de 5
+din 10.000 de persoane în România sau în Comunitate,
+atunci când se depune cererea; sau
+cã este destinat pentru diagnosticarea, prevenirea sau
+tratarea unei boli care pune în pericol viața, unei boli care
+produce o invaliditate cronicã sau unei afecțiuni care este
+gravã și cronicã în România sau în Comunitate și cã este
+puțin probabil ca prin comercializare în România sau în
+Comunitate medicamentul sã genereze suficient profit pentru a justifica investiția necesarã fãrã stimulente; și
+b) cã nu existã nici o metodã satisfãcãtoare pentru
+diagnosticarea, prevenirea sau tratarea afecțiunii în cauzã,
+care sã fi fost autorizatã în România ori în Comunitate,
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 874/9.XII.2003
+sau, dacã astfel de metode existã, cã medicamentul va
+aduce beneficii semnificative celor afectați de acea stare.
+Art. 4. Ñ Prevalența unei afecțiuni la nu mai mult de 5
+din 10.000 de persoane în România sau în Comunitate se
+demonstreazã aplicându-se urmãtoarele reguli specifice și
+furnizându-se documentația enumeratã mai jos:
+a) documentația va include anexate referințe demne de
+încredere care demonstreazã cã boala sau afecțiunile pentru care s-ar administra medicamentul nu afecteazã mai
+mult de 5 din 10.000 de persoane din România sau din
+Comunitate, în momentul în care se depune cererea pentru
+desemnare, atunci când acestea sunt disponibile;
+b) documentația va include detalii utile asupra afecțiunii
+care se intenționeazã sã fie tratatã și o justificare a naturii
+periculoase pentru viațã sau a naturii invalidante cronic a
+afecțiunii, susținute de referințe științifice sau medicale;
+c) documentația depusã de sponsor va include sau se
+va referi la o analizã a literaturii științifice relevante și va
+furniza informații din bazele de date relevante din România
+sau din Comunitate, atunci când sunt disponibile; dacã nu
+sunt disponibile baze de date în România sau în
+Comunitate, se poate face referire la alte baze de date
+disponibile în terțe țãri, cu condiția sã se efectueze extrapolãrile necesare;
+d) atunci când o boalã sau o afecțiune a fost studiatã
+în cadrul altor activitãți din România sau din Comunitate
+referitoare la boli rare, aceastã informație va fi furnizatã; în
+cazul unor boli sau afecțiuni incluse în proiecte sprijinite
+financiar de România sau de Comunitate pentru a
+îmbunãtãți informațiile asupra bolilor rare, se va trimite un
+extras relevant din aceste informații, incluzând mai ales
+detalii asupra prevalenței bolii sau afecțiunii în cauzã.
+Art. 5. Ñ Pentru a demonstra cã este puțin probabil ca
+prin comercializare în România sau în Comunitate medicamentul sã genereze suficient profit pentru a justifica
+investiția necesarã fãrã stimulente și sã se recupereze
+investiția, se aplicã urmãtoarele reguli specifice și se furnizeazã documentația adecvatã:
+a) informațiile vor include detaliile adecvate referitoare la
+afecțiunea care se intenționeazã sã fie tratatã și o justificare a naturii periculoase pentru viațã, a naturii grav invalidante sau a naturii grave și cronice a afecțiunii, susținute
+de referințele științifice sau medicale;
+b) documentația depusã de sponsor va include informații
+referitoare la toate costurile pe care sponsorul le-a suportat
+în cursul dezvoltãrii medicamentului;
+c) documentația furnizatã va include detalii asupra
+oricãror subvenții, facilitãți fiscale sau altor modalitãți de
+recuperare a cheltuielilor, de care a beneficiat fie în
+România, fie în Comunitate, fie în terțe țãri;
+d) în cazurile în care medicamentul este deja autorizat
+pentru vreo indicație sau când medicamentul este în curs
+de investigare în vederea autorizãrii pentru una sau mai
+multe indicații, se vor furniza o explicație clarã și o justificare pentru metoda utilizatã pentru a distribui cheltuielile de
+dezvoltare pentru diferite indicații;
+e) se vor furniza o declarație și o justificare pentru
+toate cheltuielile de dezvoltare pe care sponsorul se
+așteaptã sã le suporte dupã depunerea cererii pentru
+desemnare;
+f) se vor furniza o declarație și o justificare pentru toate
+cheltuielile de producție și punere pe piațã pe care sponsorul le-a suportat în trecut și pe care se așteaptã sã le
+suporte în primii 10 ani de la autorizare;
+g) se vor furniza o estimare și o justificare pentru profitul așteptat din vânzãrile medicamentului în România sau
+în Comunitate în primii 10 ani dupã autorizare;
+h) toate informațiile despre cheltuieli și profit vor fi stabilite conform practicilor contabile general acceptate și vor
+
+7
+
+fi avizate de un contabil autorizat în România sau în
+Comunitate;
+i) documentația furnizatã va include informația referitoare
+la prevalența și incidența în România sau în Comunitate a
+afecțiunii pentru care s-ar administra medicamentul, în
+momentul în care cererea pentru desemnare este depusã.
+Art. 6. Ñ Pentru a se demonstra lipsa unei metode
+satisfãcãtoare de diagnosticare, prevenire sau de tratament
+al afecțiunii în cauzã sau, în cazul existenței unei astfel de
+metode, pentru a se demonstra cã medicamentul va avea
+un beneficiu semnificativ pentru cei afectați de aceastã
+afecțiune, se vor aplica urmãtoarele reguli:
+a) vor fi furnizate detalii asupra oricãrei metode de
+diagnosticare, prevenire sau de tratament existente pentru
+afecțiunea în cauzã, care au fost autorizate în România
+sau în Comunitate, fãcându-se referire la literatura medicalã sau științificã ori la alte informații relevante; acestea
+pot include medicamente, dispozitive medicale sau alte
+metode de diagnosticare, prevenire sau de tratament care
+sunt autorizate și utilizate în România sau în Comunitate;
+b) va fi furnizatã fie o justificare referitoare la cauza
+pentru care metodele prevãzute la lit. a) nu sunt considerate satisfãcãtoare, fie o justificare conținând motivele datoritã cãrora se apreciazã cã medicamentul pentru care se
+cere desemnarea va aduce beneficii semnificative celor
+afectați de aceastã stare.
+CAPITOLUL III
+Autorizarea de punere pe piațã
+Art. 7. Ñ Autorizarea de punere pe piațã în România a
+medicamentelor orfane se face prin procedura simplificatã
+CADREAC (Collaboration Agreement of Drug Regulatory
+Authorities from European Union Associated Countries)
+pentru acordarea autorizației de punere pe piațã de cãtre
+țãrile central- și est-europene pentru medicamentele de uz
+uman autorizate de Uniunea Europeanã prin procedura
+centralizatã, de aprobare a variațiilor și de reînnoire a
+acestor autorizații de punere pe piațã, aprobatã prin
+hotãrârea Consiliului științific al Agenției Naționale a
+Medicamentului nr. 7/2001.
+CAPITOLUL IV
+Înscrierea și radierea din Lista medicamentelor orfane
+Art. 8. Ñ Agenția Naționalã a Medicamentului va alcãtui
+Lista medicamentelor orfane, în care va înscrie urmãtoarele
+informații:
+a) denumirea comercialã;
+b) denumirea/denumirile comunã/comune internaționalã/
+internaționale a/ale substanței/substanțelor activã/active;
+c) forma farmaceuticã;
+d) concentrația;
+e) mãrimea ambalajului;
+f) numele sau denumirea firmei și domiciliul sau sediul
+sponsorului;
+g) indicația terapeuticã pentru care medicamentul este
+desemnat ca orfan;
+h) numãrul și data autorizației de punere pe piațã emise
+de Agenția Naționalã a Medicamentului.
+Art. 9. Ñ Agenția Naționalã a Medicamentului va radia
+medicamentele orfane din Lista medicamentelor orfane în
+urmãtoarele situații:
+a) la cererea sponsorului;
+b) dacã se stabilește înainte de acordarea autorizației
+de punere pe piațã cã nu mai sunt îndeplinite criteriile
+prevãzute la art. 3;
+c) la sfârșitul perioadei de exclusivitate pe piațã
+prevãzute la cap. V.
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 874/9.XII.2003
+CAPITOLUL V
+Exclusivitatea pe piațã
+
+Art. 10. Ñ Dupã eliberarea unei autorizații de punere
+pe piațã pentru un medicament orfan, Agenția Naționalã a
+Medicamentului nu va accepta, pe o perioadã de 10 ani
+de la autorizarea în Comunitate, altã cerere pentru autorizare de punere pe piațã sau nu va elibera o autorizație de
+punere pe piațã ori nu va accepta o cerere de extindere a
+unei autorizații de punere pe piațã existente, pentru
+aceeași indicație terapeuticã pentru un alt medicament
+similar.
+Art. 11. Ñ (1) Perioada prevãzutã la art. 9 poate fi
+totuși redusã la 6 ani, dacã la sfârșitul celui de-al 5-lea an
+se stabilește, referitor la medicamentul în cauzã, cã nu mai
+sunt îndeplinite criteriile prevãzute la art. 3, printre altele,
+atunci când se demonstreazã, pe baza dovezilor disponibile, cã produsul este suficient de profitabil pentru a nu
+justifica pãstrarea exclusivitãții pe piațã.
+
+(2) Agenția Naționalã a Medicamentului va iniția procedura de radiere imediat dupã luarea acestei decizii de
+cãtre EMEA.
+Art. 12. Ñ Prin derogare de la art. 9 și fãrã a prejudicia legislația privind proprietatea intelectualã sau orice altã
+prevedere a legislației în vigoare, poate fi acordatã o autorizație de punere pe piațã, pentru aceeași indicație terapeuticã, a unui medicament similar, dacã:
+a) deținãtorul autorizației de punere pe piațã pentru
+medicamentul orfan și-a dat acordul pentru cel de-al doilea
+solicitant; sau
+b) deținãtorul autorizației de punere pe piațã pentru
+medicamentul orfan nu poate furniza cantitãți suficiente din
+medicament; sau
+c) al doilea solicitant poate demonstra în cerere cã al
+doilea medicament, deși similar cu medicamentul deja autorizat, este mai sigur, mai eficace sau în alt fel superior din
+punct de vedere clinic.
+
+MINISTERUL FINANÞELOR PUBLICE
+
+ORDIN
+pentru modificarea Normelor metodologice generale referitoare la exercitarea controlului financiar
+preventiv, aprobate prin Ordinul ministrului finanțelor publice nr. 522/2003,
+cu modificãrile ulterioare
+În temeiul art. 12 alin. (6) din Hotãrârea Guvernului nr. 735/2003 privind organizarea și funcționarea Ministerului
+Finanțelor Publice, modificatã și completatã prin Hotãrârea Guvernului nr. 1.224/2003,
+având în vedere prevederile art. II din Legea nr. 84/2003 pentru modificarea și completarea Ordonanței
+Guvernului nr. 119/1999 privind auditul public intern și controlul financiar preventiv,
+ministrul finanțelor publice emite urmãtorul ordin:
+Art. I. Ñ Normele metodologice generale referitoare la
+exercitarea controlului financiar preventiv, aprobate prin
+Ordinul ministrului finanțelor publice nr. 522/2003, publicat
+în Monitorul Oficial al României, Partea I, nr. 320 din
+13 mai 2003, cu modificãrile ulterioare, se modificã dupã
+cum urmeazã:
+1. Punctul 12.1 va avea urmãtorul cuprins:
+”12.1 Ministerul Finanțelor Publice, prin Direcția generalã
+de control financiar preventiv, elaboreazã, în temeiul art. 19
+alin. (8) lit. i) din Ordonanța Guvernului nr. 119/1999 privind controlul intern și controlul financiar preventiv, republicatã, raportul național anual privind controlul preventiv.
+Ministerul Finanțelor Publice transmite acest raport spre
+dezbatere Guvernului o datã cu conturile generale anuale
+de execuție a bugetelor prevãzute de lege.,,
+
+2. Ultima frazã a ultimului alineat al punctului 12.5 va
+avea urmãtorul cuprins:
+”Acestea vor fi transmise Ministerului Finanțelor Publice
+(Direcția generalã de control financiar preventiv) la termenele fixate de acesta pentru situațiile financiare trimestriale
+și anuale prevãzute de lege.,,
+Art. II. Ñ Normele metodologice generale referitoare la
+exercitarea controlului financiar preventiv, cu modificãrile
+aduse prin prezentul ordin, vor fi cuprinse în pagina de
+Internet a Ministerului Finanțelor Publice.
+Art. III. Ñ Direcția generalã de control financiar preventiv va duce la îndeplinire prevederile prezentului ordin.
+Art. IV. Ñ Prezentul ordin va fi publicat în Monitorul
+Oficial al României, Partea I.
+
+p. Ministrul finanțelor publice,
+Gheorghe Gherghina,
+secretar de stat
+București, 29 noiembrie 2003.
+Nr. 1.679.
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 5069427282 Direcția de Trezorerie și Contabilitate Publicã a Municipiului București
+(alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 411.97.54, tel./fax 410.77.36.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 874/9.XII.2003 conține 8 pagini.
+
+Prețul de vânzare 7.500 lei
+
+ISSN 1453Ñ4495
+
+

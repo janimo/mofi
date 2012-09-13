@@ -1,0 +1,1567 @@
+PARTEA
+
+Anul 174 (XVIII) — Nr. 679
+
+I
+
+Marți, 8 august 2006
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE BĂNCII NAȚIONALE A ROMÂNIEI
+
+13.
+14.
+
+ACTE
+
+ALE
+
+— Normă privind raportarea statistică a datelor
+pentru elaborarea bilanțului monetar .......................
+
+1–20
+
+— Normă privind statistica ratelor dobânzii
+practicate de instituțiile de credit .............................
+
+21–31
+
+BĂNCII
+
+NAȚIONALE
+
+A
+
+ROMÂNIEI
+
+BANCA NAȚIONALĂ A ROMÂNIEI
+
+NORMĂ
+privind raportarea statistică a datelor pentru elaborarea bilanțului monetar
+În baza art. 49 din Legea nr. 312/2004 privind Statutul Băncii Naționale a României,
+în temeiul art. 48 din Legea nr. 312/2004,
+Banca Națională a României emite prezenta normă.
+CAPITOLUL I
+Dispoziții generale
+Art. 1. — Prezenta normă reglementează metodologia
+de raportare a datelor pentru elaborarea bilanțului monetar
+și se aplică instituțiilor de credit, societăților de administrare
+a investițiilor și societăților de investiții autoadministrate
+care administrează fonduri de piață monetară.
+Art. 2. — În sensul prezentei norme, termenii și
+expresiile de mai jos au următoarele semnificații:
+a) instituții de credit — are semnificația prevăzută în
+Legea nr. 58/1998 privind activitatea bancară, republicată,
+cu modificările ulterioare;
+b) societăți de administrare a investițiilor și societăți de
+investiții autoadministrate — au semnificația prevăzută în
+Legea nr. 297/2004 privind piața de capital, cu modificările
+și completările ulterioare;
+
+c) fonduri de piață monetară — organisme de plasament
+colectiv, definite în conformitate cu legislația în vigoare
+privind piața de capital, ale căror acțiuni sau unități de fond
+sunt, din punct de vedere al lichidității, substitute ale
+depozitelor; fondurile de piață monetară investesc cu
+prioritate în instrumente ale pieței monetare, în
+acțiunile/unitățile altor fonduri de piață monetară, în alte
+instrumente de împrumut transferabile și având scadența
+reziduală de până la un an, precum și în depozite bancare,
+urmărind o rată a profitului apropiată de ratele dobânzii
+oferite de instrumentele pieței monetare;
+d) bilanț monetar — sinteza statistică a tuturor
+categoriilor bilanțiere de activ și pasiv existente în sold la
+sfârșitul lunii de raportare, clasificate și detaliate astfel încât
+să permită calcularea agregatelor monetare și a
+contrapartidelor acestora; în bilanțul monetar se cuprind
+activele și pasivele bilanțiere ale instituțiilor de credit,
+precum și ale fondurilor de piață monetară care au investit
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+cel puțin 85% din active în instrumente financiare din
+categoria celor enumerate la lit. c);
+e) rezidenți:
+e1) persoane fizice — cetățeni români, cetățeni străini
+și apatrizi, cu domiciliul în România atestat cu documente
+de identitate emise conform legii;
+e2) persoane juridice și orice alte entități, cu sediul în
+România, precum și persoane fizice, cetățeni români,
+cetățeni străini și apatrizi, cu domiciliul/reședința în
+România, care sunt autorizate și/sau înregistrate să
+desfășoare activități economice pe teritoriul României, în
+mod independent, în condițiile prevăzute de reglementările
+legale în vigoare;
+e3) sucursale, agenții, reprezentanțe, birouri ale
+persoanelor juridice străine, precum și ale oricăror alte
+entități străine, înregistrate și/sau autorizate să funcționeze
+în România;
+e4) ambasade, consulate și alte reprezentanțe și misiuni
+permanente ale României în străinătate;
+f) nerezidenți:
+f1) persoane fizice — cetățeni străini, cetățeni români și
+apatrizi, cu domiciliul în străinătate atestat cu documente
+de identitate emise conform legii;
+f2) persoane juridice și orice alte entități, cu sediul în
+străinătate, precum și persoane fizice cetățeni străini,
+cetățeni români și apatrizi, cu domiciliul în străinătate, care
+sunt autorizate și/sau înregistrate să desfășoare activități
+economice în străinătate, în mod independent, în condițiile
+prevăzute de reglementările legale în vigoare;
+f3) sucursale, agenții, reprezentanțe, birouri ale
+persoanelor juridice române, precum și ale oricăror alte
+entități române, înregistrate și/sau autorizate să funcționeze
+în străinătate;
+f4) ambasade, consulate și alte reprezentanțe și misiuni
+permanente ale altor state în România, precum și
+organizații internaționale sau reprezentanțe ale unor astfel
+de organizații care funcționează în România;
+g) cvasi-societăți — unități distincte, producători de
+bunuri și servicii destinate pieței, care se bucură de
+autonomie de decizie și care se caracterizează prin faptul
+că dispun de contabilitate completă potrivit legii, dar nu au
+personalitate juridică;
+h) sector instituțional — ansamblu de unități instituționale
+grupate în funcție de comportamentul lor economic, ținând
+cont de categoria de producători din care fac parte și de
+natura activităților și funcțiilor lor principale;
+i) instrumente financiare nenegociabile — instrumente
+financiare care nu pot fi negociate deoarece există restricții
+în privința transferului legal al proprietății asupra lor sau,
+deși din punct de vedere tehnic pot fi negociabile, nu pot
+fi tranzacționate datorită absenței unei piețe organizate;
+j) durata inițială/maturitatea la emitere — perioada fixă de
+timp în care un instrument financiar nu poate fi rambursat
+sau în care poate fi rambursat numai cu plata de către
+client a unor penalități (sau a altor costuri suplimentare);
+k) perioada notificată — perioada de timp dintre
+momentul notificării către instituția de credit a intenției
+deținătorului unui depozit de a transforma în numerar acel
+depozit și momentul în care această operațiune poate fi
+efectuată fără plata unor penalități (sau a altor costuri
+suplimentare).
+
+Art. 3. — Activele bilanțiere se raportează la valoare
+brută și se clasifică după cum urmează:
+a) numerar și alte valori — sume în monedă națională și
+în alte monede, deținute sub formă de bancnote și
+monede în circulație utilizate în mod curent pentru
+efectuarea plăților; în această categorie se includ și cecuri
+de călătorie;
+b) credite — fonduri date cu împrumut clienților de către
+instituțiile de credit, exclusiv titlurile de valoare negociabile;
+această categorie include, fără a se limita la acestea,
+următoarele elemente de activ:
+b1) credite acordate de instituțiile de credit gospodăriilor
+populației și instituțiilor fără scop lucrativ în serviciul
+gospodăriilor populației, sub formă de:
+b1.1) credite pentru consum — credite acordate de
+instituția de credit gospodăriilor populației și instituțiilor fără
+scop lucrativ în serviciul gospodăriilor populației, în scopul
+finanțării consumului personal de bunuri (automobile,
+mobilă, aparatură electrocasnică, electronică și altele
+asemenea) sau servicii (sănătate, educație, petrecerea
+vacanțelor și altele asemenea);
+b1.2) credite pentru locuințe — credite acordate de
+instituțiile de credit gospodăriilor populației și instituțiilor fără
+scop lucrativ în serviciul gospodăriilor populației, în scopul
+achiziționării sau construirii unei locuințe (apartament, casă
+de locuit, casă de vacanță și altele asemenea), al
+achiziționării unui teren destinat construirii de locuințe sau
+în scopul renovării, consolidării ori îmbunătățirii unei
+locuințe;
+b1.3) credite pentru dezvoltarea afacerilor — credite
+acordate de instituțiile de credit asociațiilor familiale și
+persoanelor fizice care desfășoară activități economice în
+mod independent;
+b1.4) credite pentru alte scopuri — credite acordate de
+instituțiile de credit gospodăriilor populației și instituțiilor fără
+scop lucrativ în serviciul gospodăriilor populației, pentru
+refinanțarea altor credite, pentru achiziționarea de terenuri
+în alte scopuri decât cele pentru construire de locuințe,
+pentru achiziționarea de valori mobiliare și altele
+asemenea; în această categorie nu se includ creditele
+definite la lit. b1.1), b1.2) și b1.3);
+b2) credite acordate de instituțiile de credit societăților
+nefinanciare;
+b3) credite acordate de instituțiile de credit altor instituții
+financiare monetare [definite la art. 5 pct. (1) lit. b)]; în
+această categorie de credite se includ și depozitele plasate
+la alte instituții financiare monetare;
+b4) titluri de valoare nenegociabile — portofoliul de titluri
+deținute, altele decât acțiuni și alte participații de capital,
+care nu sunt negociabile și nu pot fi tranzacționate pe
+piețele secundare; titlurile de valoare nenegociabile deținute
+de instituțiile de credit, care ulterior devin negociabile și pot
+fi tranzacționate pe piața secundară, vor fi reclasificate ca
+titluri de valoare negociabile;
+b5) credite subordonate — creanțe nereprezentate de
+un titlu, pentru care împrumutătorul acceptă ca în cazul
+lichidării debitorului drepturile sale să fie restituite numai
+după satisfacerea celorlalți creanțieri;
+b6) împrumuturi rezultate din operațiuni reverse-repo —
+contrapartida numerarului plătit în schimbul titlurilor
+achiziționate temporar de la clienți;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+b7) titluri de creanță negociabile achiziționate de la terți
+(cambii, bilete la ordin și altele asemenea);
+b8) credite acordate pe descoperit de cont — overdraft
+(soldurile debitoare autorizate sau neautorizate ale
+conturilor curente);
+b9) leasing financiar acordat terților;
+b10) credite restante — creanțe comerciale, valori de
+recuperat, credite acordate inclusiv pe baza valorilor primite
+în pensiune, nerambursate la scadență, precum și soldurile
+debitoare neautorizate (overdraft) ale conturilor curente,
+creanțe din dobânzi neîncasate la scadență;
+c) titluri de valoare negociabile (altele decât acțiunile) —
+titluri, altele decât acțiunile sau alte participații de capital,
+care sunt negociabile și tranzacționate de regulă pe piețele
+secundare sau compensate pe piață și care nu conferă
+deținătorului vreun drept de proprietate asupra instituției
+emitente; în această categorie se includ:
+c1) titluri deținute care dau deținătorului dreptul
+necondiționat la un venit fix sau stabilit contractual sub
+forma plății cuponului sau a unei sume fixe stabilite la o
+dată anumită ori începând de la o dată stabilită la
+momentul emisiunii;
+c2) împrumuturi negociabile acordate, care au fost
+restructurate într-un număr mare de documente identice și
+care pot fi tranzacționate pe piețele secundare;
+c3) creanțe reprezentate de un titlu;
+d) acțiuni/unități ale fondurilor de piață monetară — titluri
+de participare emise de fondurile de piață monetară, care,
+în funcție de modul de constituire a acestora, pot fi acțiuni
+(în cazul societăților de investiții) sau unități de fond (în
+cazul fondurilor de investiții);
+e) acțiuni și alte participații de capital — titluri deținute
+care reprezintă drepturi de proprietate în cadrul societăților
+sau cvasisocietăților; aceste titluri dau dreptul deținătorului
+de a participa la profitul societății și la împărțirea fondurilor
+proprii în cazul lichidării societății; în această categorie sunt
+cuprinse și unitățile de fond la fondurile deschise de
+investiții, altele decât fondurile de piață monetară, deținute
+de instituțiile de credit;
+f) active fixe — active nefinanciare, corporale și
+necorporale, care sunt prevăzute a fi utilizate pentru mai
+mult de un an; în această categorie se includ terenurile și
+clădirile instituțiilor de credit, echipamente, software și alte
+asemenea;
+g) alte active — active neincluse în alte categorii de
+activ; este o categorie reziduală în care se includ:
+g1) instrumente financiare derivate — valoarea de piață
+pozitivă înregistrată în bilanțul contabil;
+g2) sume de primit în curs de lămurire (solduri
+debitoare deținute în bilanțul instituțiilor de credit care nu
+sunt reținute în numele clientului, dar care au totuși
+legături cu fondurile clienților);
+g3) sume în tranzit interbancare și intrabancare;
+g4) dividende de primit;
+g5) alte active.
+Art. 4. — Pasivele bilanțiere se clasifică după cum
+urmează:
+a) depozite — sume datorate de instituțiile de credit
+creditorilor (altele decât cele aferente titlurilor de valoare
+negociabile); categoria depozite include și împrumuturile
+primite (inclusiv împrumuturile subordonate) de instituțiile de
+
+3
+
+credit, disponibilul din conturile curente, depozitele
+colaterale și depozitele garanții.
+Depozitele sunt clasificate în funcție de perioada
+notificată numai dacă nu au durată inițială.
+Titlurile de valoare nenegociabile emise de instituțiile de
+credit sunt incluse în categoria depozite. Titlurile de
+valoarea nenegociabile care devin negociabile vor fi
+reclasificate ca titluri de valoare negociabile emise.
+Depozitele se clasifică astfel:
+a1) depozite overnight — depozite convertibile în
+numerar sau transferabile la cerere prin cec, ordin de
+plată, debitare sau prin mijloace similare, fără întârzieri
+semnificative, restricții sau penalități; în această categorie
+nu se includ depozitele netransferabile care pot fi retrase
+la cerere, dar cu anumite penalități.
+Depozitele overnight includ:
+a1.1) sume purtătoare sau nu de dobândă, transferabile
+prin cec, debitare sau ordin de plată, fără restricții sau
+penalizări semnificative;
+a1.2) sume purtătoare sau nu de dobândă, care nu
+sunt transferabile și care pot fi transformate în numerar
+imediat, la cerere, sau până la închiderea zilei următoare
+celei de constituire a depozitului, fără restricții sau
+penalizări semnificative;
+a1.3) soldurile deținute la instituțiile emitente de monedă
+electronică, purtătoare de dobândă sau nu, ale sumelor
+preplătite instituțiilor emitente de monedă electronică și/sau
+intermediarilor acestora, pentru moneda electronică de tip
+hardware (stocate pe carduri cu funcție de monedă
+electronică) și/sau software (produse cu funcție de monedă
+electronică, altele decât cardurile cu funcție de monedă
+electronică), emisă în monedă națională și alte monede;
+a1.4) împrumuturi overnight primite ce vor fi rambursate
+în ziua lucrătoare care o succedă pe cea în care au fost
+acordate.
+În această categorie de pasive bilanțiere se includ și
+conturile curente (soldurile creditoare ale conturilor curente),
+precum și depozitele la vedere;
+a2) depozite la termen — depozite netransferabile, care
+nu pot fi transformate în numerar înainte de un termen fix
+convenit sau care pot fi transformate doar cu plata unor
+penalități; se includ și depozitele de economii reglementate
+prin acte normative, unde criteriul duratei inițiale nu este
+relevant (se încadrează în durata inițială îpeste 2 ani“).
+Produsele financiare cu clauze ce prevăd posibilitatea
+reînnoirii lor vor fi încadrate conform duratei inițiale.
+Depozitele la termen se clasifică, în funcție de durata
+inițială, astfel:
+a2.1) depozite cu durata inițială de până la un an
+inclusiv:
+a2.1.1) sume atrase cu durata inițială de până la un an
+(exclusiv depozitele cu durata inițială de o zi), care nu sunt
+transferabile și care nu pot fi transformate în numerar
+înainte de termen;
+a2.1.2) sume atrase cu durata inițială de până la un an
+(exclusiv depozitele cu durata inițială de o zi), care nu sunt
+transferabile și care nu pot fi transformate în numerar
+înainte de termen fără o notificare prealabilă;
+a2.1.3) sume atrase cu durata inițială de până la un an
+(exclusiv depozitele cu durata inițială de o zi), care nu sunt
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+transferabile și care pot fi transformate în numerar înainte
+de termen cu plata unor penalități;
+a2.1.4) garanții cu obligații de plată în cadrul
+instrumentelor financiare derivate;
+a2.1.5) împrumuturi nereprezentate prin titluri cu
+maturitatea la emitere de până la un an inclusiv;
+a2.1.6) titluri de împrumut nenegociabile, emise de
+instituțiile de credit raportoare, cu maturitatea la emitere de
+până la un an inclusiv, emise în formă materializată sau
+dematerializată;
+a2.1.7) datorie subordonată atrasă de instituțiile de
+credit raportoare sub formă de depozite sau împrumuturi
+cu durata inițială de până la un an inclusiv;
+a2.2) depozite cu durata inițială cuprinsă între un an și
+2 ani inclusiv:
+a2.2.1) sume atrase cu durata inițială cuprinsă între un
+an și 2 ani, care nu sunt transferabile și care nu pot fi
+transformate în numerar înainte de termen;
+a2.2.2) sume atrase cu durata inițială cuprinsă între un
+an și 2 ani inclusiv, care nu sunt transferabile și care nu
+pot fi transformate în numerar înainte de termen fără o
+notificare prealabilă;
+a2.2.3) sume atrase cu durata inițială cuprinsă între un
+an și 2 ani inclusiv, care nu sunt transferabile și care pot
+fi transformate în numerar înainte de termen cu plata unor
+penalizări;
+a2.2.4) garanții cu obligații de plată în cadrul
+instrumentelor financiare derivate;
+a2.2.5) împrumuturi nereprezentate prin titluri cu
+maturitatea la emitere între un an și 2 ani inclusiv;
+a2.2.6) titluri de împrumut nenegociabile, emise de
+instituția de credit raportoare, cu maturitatea la emitere
+între un an și 2 ani inclusiv, emise în formă materializată
+sau dematerializată;
+a2.2.7) datorie subordonată atrasă de instituția de credit
+raportoare sub formă de depozite sau împrumuturi, cu
+durata inițială între un an și 2 ani inclusiv;
+a2.3) depozite cu durata inițială mai mare de 2 ani:
+a2.3.1) sume atrase cu durata inițială mai mare de
+2 ani, care nu sunt transferabile și care nu pot fi
+transformate în numerar înainte de termen;
+a2.3.2) sume atrase cu durata inițială mai mare de
+2 ani, care nu sunt transferabile și care nu pot fi
+transformate în numerar înainte de termen fără o notificare
+prealabilă;
+a2.3.3) sume atrase cu durata inițială mai mare de
+2 ani, care nu sunt transferabile și care pot fi transformate
+în numerar înainte de termen cu plata unor penalizări;
+a2.3.4) garanții cu obligații de plată în cadrul
+instrumentelor financiare derivate;
+a2.3.5) împrumuturi nereprezentate prin titluri cu
+maturitatea la emitere mai mare de 2 ani;
+a2.3.6) titluri de împrumut nenegociabile, emise de
+instituția de credit raportoare, cu maturitatea la emitere mai
+mare de 2 ani, emise în formă materializată sau
+dematerializată;
+a2.3.7) datorie subordonată atrasă de instituția de credit
+raportoare sub formă de depozite sau împrumuturi cu
+durata inițială mai mare de 2 ani;
+a3) depozite rambursabile după notificare — depozite
+netransferabile, fără un termen de rambursare stabilit la
+
+încheierea contractului, care nu pot fi transformate în
+numerar decât după expirarea perioadei notificate sau care
+pot fi transformate în numerar înainte de expirarea
+perioadei notificate numai cu plata unor penalități ori cu
+alte costuri suplimentare semnificative din partea clientului.
+Această categorie include depozite care, deși legal pot
+fi lichidate la cerere, sunt supuse unor penalizări și restricții
+în concordanță cu reglementările în materie (se includ în
+categoria îla cel mult 3 luni inclusiv“). În această categorie
+sunt cuprinse și conturile de investiții fără perioadă
+notificată sau durată inițială convenită, dar care au fixate
+restricții la retrageri (clasificate ca depozite rambursabile
+după notificare la mai mult de 3 luni);
+a3.1) depozite rambursabile după notificare la cel mult
+3 luni inclusiv:
+a3.1.1) sume plasate fără durată inițială convenită, care
+pot fi retrase numai după cel mult 3 luni de la notificare
+inclusiv;
+a3.1.2) depozite de economii la vedere netransferabile
+și alte tipuri de depozite care, deși pot fi debitate la
+cerere, sunt supuse în acest caz unor penalizări;
+a3.1.3) sume plasate cu durată inițială convenită,
+netransferabile, dar a căror retragere înainte de termen a
+făcut obiectul unei notificări prealabile cu cel mult 3 luni
+inclusiv;
+a3.2) depozite rambursabile după notificare la mai mult
+de 3 luni și mai puțin de 2 ani inclusiv:
+a3.2.1) sume plasate fără durată inițială convenită, care
+pot fi retrase numai după mai mult de 3 luni, dar nu mai
+mult de 2 ani de la notificare; dacă este permisă
+încălcarea perioadei notificate, deponentul va plăti o
+penalitate;
+a3.2.2) conturi de investiții fără perioadă notificată sau
+durată inițială convenită, dar care au fixate restricții la
+retrageri;
+a3.2.3) sume plasate cu durată inițială convenită,
+netransferabile, dar a căror retragere înainte de termen a
+făcut obiectul unei notificări prealabile cu cel puțin 3 luni,
+dar nu mai mult de 2 ani;
+a3.3) depozite rambursabile după notificare la mai mult
+de 2 ani:
+a3.3.1) sume plasate fără durată inițială convenită, care
+pot fi retrase numai după 2 ani de la notificare; dacă este
+permisă încălcarea perioadei notificate, deponentul va plăti
+o penalitate;
+a3.3.2) conturi de investiții fără perioadă notificată sau
+durată inițială convenită, dar care au fixate restricții la
+retrageri;
+a3.3.3) sume plasate cu durata inițială convenită,
+netransferabile, dar a căror retragere înainte de termen a
+făcut obiectul unei notificări prealabile cu cel puțin 2 ani;
+a4) împrumuturi din operațiuni repo — contrapartida
+numerarului primit în schimbul titlurilor/aurului vândute/
+vândut de instituțiile de credit la un anumit preț, cu
+angajamentul ferm de a răscumpăra aceleași titluri de
+valoare (sau similare)/aur la o dată ulterioară prestabilită și
+la un preț fixat.
+Sumele primite de instituțiile financiare monerare în
+schimbul titlurilor/aurului transferate/transferat unui terț
+(îcumpărătorul temporar“) se includ în această categorie
+numai dacă există angajamentul ferm și nu doar opțiunea
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+de răscumpărare. Aceasta implică păstrarea dreptului de
+proprietate asupra titlurilor/aurului de către vânzător pe
+parcursul operațiunii, fapt pentru care, în acest caz,
+transferul legal de proprietate nu este un element relevant
+pentru a decide modalitatea de tratare a operațiunilor de
+tip repo. În cazul în care cumpărătorul temporar vinde
+activele care fac obiectul contractului repo, această vânzare
+trebuie înregistrată ca o tranzacție definitivă cu titluri/aur și
+evidențiată în bilanțul cumpărătorului temporar ca o poziție
+negativă în portofoliul de titluri/aur.
+Următoarele categorii ale operațiunilor de tip repo sunt
+structurate astfel încât să întrunească cerințele necesare
+pentru tratarea împrumuturilor colateralizate. Sunt
+considerate împrumuturi din operațiuni repo următoarele
+sume primite de instituțiile de credit în schimbul
+titlurilor/aurului temporar transferate/transferat unui terț:
+a4.1) sume primite în schimbul titlurilor/aurului temporar
+transferate/transferat unui terț sub forma acordurilor de
+răscumpărare;
+a4.2) sume primite în schimbul titlurilor/aurului temporar
+transferate/transferat unui terț sub forma împrumuturilor de
+titluri (colateralizate cu numerar);
+a4.3) sume primite în schimbul titlurilor/aurului temporar
+transferate/transferat unui terț sub forma acordurilor de
+vânzare/răscumpărare;
+b) acțiuni/unități ale fondurilor de piață monetară — titluri
+de participare emise de fondurile de piață monetară, care,
+în funcție de modul de constituire a acestora, pot fi acțiuni
+(în cazul societăților de investiții) sau unități de fond
+(în cazul fondurilor de investiții);
+c) titluri de valoare negociabile emise (altele decât
+acțiunile) — titluri, altele decât acțiunile sau alte participații
+de capital emise de instituțiile de credit, reprezentând
+instrumente negociabile, tranzacționate în mod obișnuit pe
+piețele secundare sau compensate pe piață și care nu
+conferă deținătorului vreun drept de proprietate asupra
+instituției emitente; instrumentele nenegociabile emise de
+instituțiile de credit, care ulterior devin negociabile, vor fi
+reclasificate ca titluri de valoare negociabile emise.
+În această categorie de pasive se includ:
+• titluri emise care dau deținătorului dreptul
+necondiționat la un venit fix sau stabilit contractual sub
+formă de plată a cuponului și/sau a unei sume fixe stabilite
+la o dată anumită ori începând de la o dată stabilită la
+momentul emisiunii;
+• împrumuturi nenegociabile primite care au fost
+restructurate prin transformarea în titluri și care pot fi
+negociate pe piețele secundare;
+c1) titluri de valoare negociabile cu maturitatea de până
+la un an inclusiv:
+c.1.1) titluri de împrumut negociabile emise de instituțiile
+de credit în formă materializată sau dematerializată, având
+maturitatea de până la un an inclusiv;
+c1.2) împrumuturi subordonate primite de instituțiile de
+credit pe baza titlurilor emise cu maturitatea de până la un
+an inclusiv;
+c2) titluri de valoare negociabile cu maturitatea cuprinsă
+între un an și 2 ani inclusiv:
+c.2.1) titluri de împrumut negociabile emise de instituțiile
+de credit (evidențiate sau nu în documente), având
+maturitatea între un an și 2 ani inclusiv;
+
+5
+
+c2.2) împrumuturi subordonate primite de instituțiile de
+credit pe baza titlurilor emise cu maturitatea între un an și
+2 ani inclusiv;
+c3) titluri de valoare negociabile cu maturitatea mai
+mare de 2 ani:
+c3.1) titluri de împrumut negociabile emise de instituțiile
+de credit (evidențiate sau nu în documente), având
+maturitatea mai mare de 2 ani;
+c3.2) împrumuturi subordonate primite de instituțiile de
+credit pe baza titlurilor emise cu maturitatea mai mare de
+2 ani;
+d) capital și rezerve — sume aferente emisiunii de titluri
+de capital de către instituțiile de credit către acționari sau
+alți proprietari; titlurile conferă deținătorului dreptul de
+proprietate asupra unei părți din capitalul societății emitente
+și în general drepturi asupra unei părți din profit, precum și
+a unui procent din fondurile proprii, în cazul lichidării;
+profiturile nerepartizate și provizioanele sunt și ele incluse
+în această categorie de pasive.
+În această categorie de pasive se includ:
+d1) capital propriu:
+d1.1) capital social;
+d1.2) profit (+)/pierdere (—) — va include atât rezultatul
+exercițiului curent, cât și rezultatul reportat (profit
+nerepartizat sau pierdere neacoperită);
+d1.3) alte fonduri (prime legate de capital, rezerve și
+altele);
+d2) capital suplimentar:
+d2.1) provizioane, din care:
+d2.1.1) pentru riscul de credit;
+d2.2) alte fonduri (fondul special constituit de casele de
+economii pentru domeniul locativ, rezervele din reevaluarea
+patrimoniului, acțiuni preferențiale cumulative pe durate
+determinate și alte asemenea elemente);
+e) alte pasive — pasive neincluse în alte categorii de
+pasiv; este o categorie reziduală în care se includ:
+e1) instrumente financiare derivate — valoarea de piață
+negativă înregistrată în bilanțul contabil;
+e2) sume de plătit în curs de lămurire (solduri
+creditoare deținute în bilanțul instituțiilor financiare monetare
+care nu sunt reținute în numele clientului, dar care au
+legătură cu fondurile clienților);
+e3) sume în tranzit interbancare și intrabancare;
+e4) dividende de plată;
+e5) sume de plătit care nu se referă la obiectul
+principal de activitate al instituțiilor de credit (sume de plătit
+către furnizori, taxe, salarii, contribuții sociale și alte
+asemenea);
+e6) alte pasive.
+Art. 5. — Clienții instituțiilor financiare monetare se
+grupează în următoarele sectoare instituționale:
+1. sectoare instituționale rezidente:
+a) societăți nefinanciare (S11) — unități cu personalitate
+juridică și cvasi-societăți a căror activitate principală constă
+în producerea de bunuri și servicii nefinanciare pentru
+piață; acest sector instituțional cuprinde: regii autonome,
+companii naționale, societăți naționale, societăți comerciale
+cu capital public sau privat, societăți cooperatiste, societăți
+agricole, instituții fără scop lucrativ aflate în serviciul
+societăților nefinanciare (asociații patronale, ale
+meșteșugarilor) și altele asemenea;
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+b) instituții financiare monetare — cuprinde următoarele
+sectoare instituționale:
+b1) banca centrală (S121) — acest sector instituțional
+cuprinde Banca Națională a României;
+b2) alte instituții financiare monetare (S122) — societăți
+și cvasi-societăți a căror funcție principală constă în
+furnizarea de servicii de intermediere financiară ce constau
+în primirea de depozite și/sau substitute de depozite din
+partea unităților instituționale, altele decât societățile
+financiare monetare, și acordarea de credite și/sau în
+efectuarea de plasamente în nume propriu; acest sector
+instituțional cuprinde instituțiile de credit și fondurile de
+piață monetară;
+c) alți intermediari financiari (S123) — societăți și cvasisocietăți financiare a căror funcție principală constă în
+furnizarea de servicii de intermediere financiară (exclusiv
+cele furnizate de instituțiile financiare monetare); acest
+sector instituțional cuprinde: fonduri de investiții (fonduri
+deschise de investiții, societăți de investiții și altele
+asemenea), vehicule investiționale, instituții financiare
+nebancare (societăți de leasing financiar, societăți de credit
+de consum, societăți de credit ipotecar, unități cu
+personalitate juridică emitente de carduri de credit/debit,
+societăți de factoring, case de ajutor reciproc, societăți de
+microfinanțare, fonduri de garantare a creditelor și altele
+asemenea), societăți de servicii de investiții financiare;
+d) auxiliari financiari (S124) — societăți și cvasi-societăți
+financiare a căror funcție principală constă în exercitarea
+de activități financiare auxiliare; acest sector instituțional
+cuprinde: societăți de registru, case de schimb valutar,
+burse de valori, case de compensare, societăți de
+administrare a investițiilor și alți auxiliari financiari a căror
+activitate este asociată cu intermedierea financiară;
+e) societăți de asigurări și fonduri de pensii (S125) —
+societăți și cvasi-societăți financiare a căror funcție
+principală constă în furnizarea de servicii de intermediere
+financiară rezultate din reciprocitatea riscurilor; acest sector
+instituțional cuprinde: societăți de asigurări, grupuri
+financiare de asigurări, fonduri de pensii private sau
+administrate privat;
+f) administrații publice (S13) — acest sector instituțional
+cuprinde: administrația centrală, administrațiile locale,
+administrațiile sistemelor de asigurări sociale;
+f1) administrația centrală (S1311) — organismele centrale
+a căror competență se întinde pe tot teritoriul țării, cu
+excepția administrațiilor sistemelor de asigurări sociale; în
+scopul prezentei norme, informațiile referitoare la activele și
+pasivele autorităților publice se includ în acest sector
+instituțional;
+f2) administrațiile locale (S1313) — administrațiile
+publice a căror competență se întinde numai pe o unitate
+administrativă locală (comună, oraș, municipiu, județ,
+sector, municipiul București), cu excepția instituțiilor
+teritoriale ale administrațiilor sistemelor de asigurări sociale;
+f3) administrațiile sistemelor de asigurări sociale (S1314) —
+cuprinde autoritățile care administrează sistemele de
+asigurări sociale (sistemul public de pensii și alte drepturi
+de asigurări sociale, sistemul asigurărilor pentru șomaj,
+sistemul asigurărilor sociale de sănătate, sistemul
+asigurărilor pentru accidente de muncă și boli profesionale
+
+și altele asemenea), precum și instituțiile teritoriale din
+subordinea acestora, indiferent de modul de finanțare;
+g) gospodării ale populației (S14) — persoane fizice sau
+grupuri de persoane fizice consumatoare de bunuri și
+servicii, care folosesc aceeași locuință, utilizează în comun
+o parte sau totalitatea veniturilor și a patrimoniului,
+consumă în colectiv bunuri și servicii și, eventual, produc
+bunuri și/sau servicii nefinanciare exclusiv pentru consumul
+lor final; acest sector instituțional cuprinde, de asemenea,
+asociațiile familiale și persoanele fizice care desfășoară
+activități economice în mod independent, asociațiile de
+persoane fără personalitate juridică (altele decât cvasisocietățile) care sunt producători de bunuri și servicii pentru
+piață, instituțiile fără scop lucrativ și fără personalitate
+juridică aflate în serviciul gospodăriilor populației,
+persoanele instituționalizate (în mânăstiri, unități de
+asistență socială și altele asemenea);
+h) instituții fără scop lucrativ în serviciul gospodăriilor
+populației (S15) — persoane juridice care servesc
+gospodăriile populației, furnizând bunuri și servicii
+nedestinate pieței; acest sector instituțional cuprinde:
+sindicate, grupuri profesionale, societăți științifice, asociații
+de consumatori, biserici și comunități religioase, cluburi
+sociale, recreative, culturale și sportive, organizații de
+caritate, asociații și fundații de binefacere finanțate prin
+transferuri voluntare (în numerar sau în natură), provenite
+de la alte entități și altele asemenea;
+2. sectoare instituționale nerezidente din zona Uniunii
+Europene:
+a) societăți nefinanciare (S11) — unități cu personalitate
+juridică a căror activitate principală constă în producerea
+de bunuri și servicii nefinanciare pentru piață;
+b) instituții financiare monetare — cuprinde următoarele
+sectoare instituționale:
+b1) banca centrală (S121) — acest sector instituțional
+cuprinde Banca Centrală Europeană, precum și băncile
+centrale naționale ale țărilor din zona Uniunii Europene;
+b2) alte instituții financiare monetare (S122) — societăți
+și cvasi-societăți a căror funcție principală constă în
+furnizarea de servicii de intermediere financiară ce constau
+în primirea de depozite și/sau substitute de depozite din
+partea unităților instituționale, altele decât societățile
+financiare monetare, și acordarea de credite și/sau în
+efectuarea de plasamente în cont propriu;
+c) alți intermediari financiari (S123) — societăți și cvasisocietăți financiare a căror funcție principală constă în
+furnizarea de servicii de intermediere financiară (exclusiv
+cele furnizate de instituțiile financiare monetare);
+d) auxiliari financiari (S124) — societăți și cvasi-societăți
+financiare a căror funcție principală constă în exercitarea
+de activități financiare auxiliare;
+e) societăți de asigurări și fonduri de pensii (S125) —
+societăți și cvasi-societăți financiare a căror funcție
+principală constă în furnizarea de servicii de intermediere
+financiară rezultate din reciprocitatea riscurilor;
+f) administrații publice (S13) — acest sector instituțional
+cuprinde: administrația centrală, administrațiile locale,
+administrațiile sistemelor de asigurări sociale;
+g) gospodării ale populației (S14) — persoane fizice sau
+grupuri de persoane fizice consumatoare de bunuri și
+servicii, care folosesc aceeași locuință, utilizează în comun
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+o parte sau totalitatea veniturilor și a patrimoniului,
+consumă în colectiv bunuri și servicii și, eventual, produc
+bunuri și/sau servicii nefinanciare exclusiv pentru consumul
+lor final;
+h) instituții fără scop lucrativ în serviciul gospodăriilor
+populației (S15) — persoane juridice care servesc
+gospodăriile populației, furnizând bunuri și servicii
+nedestinate pieței;
+3. sectoare instituționale nerezidente din afara zonei
+Uniunii Europene:
+a) instituții bancare — acest sector instituțional cuprinde
+banca centrală și alte instituții financiare monetare;
+b) instituții nebancare:
+b1) guvernamentale — acest sector instituțional cuprinde
+administrații publice;
+b2) neguvernamentale — acest sector instituțional
+cuprinde: societăți nefinanciare, alți intermediari financiari,
+auxiliari financiari, societăți de asigurări și fonduri de pensii,
+gospodării ale populației, instituții fără scop lucrativ în
+serviciul gospodăriilor populației.
+Art. 6. — (1) Instituțiile de credit vor evidenția, separat,
+ajustările din reevaluare, conform structurii prezentate în
+anexa nr. 2.
+(2) Ajustările din reevaluare evidențiază modificările care
+se produc în cursul lunii de raportare în valoarea creditelor
+și a titlurilor de valoare negociabile deținute de instituțiile
+de credit, astfel:
+a) ajustările datorate modificării soldului creditelor, ca
+urmare a scoaterii în afara bilanțului a creditelor
+nerecuperabile; în acest caz, anexa nr. 2 va cuprinde
+soldul creditelor scoase în afara bilanțului pe parcursul lunii
+de raportare;
+b) ajustările datorate modificării prețurilor la titlurile de
+valoare negociabile, deținute în perioada de referință; în
+acest caz, anexa nr. 2 va cuprinde schimbările
+(profit/pierdere) care se produc în luna de raportare în
+valoarea bilanțieră a stocului de titluri.
+CAPITOLUL II
+Obligații de raportare
+Art. 7. — (1) Instituțiile de credit (inclusiv sucursalele
+din România ale instituțiilor de credit străine) au obligația
+să transmită la Banca Națională a României — Direcția
+statistică, lunar, până cel mai târziu la data de 15 a lunii
+următoare lunii pentru care se întocmește raportarea, în
+format electronic, date privind:
+a) activele și pasivele bilanțiere, conform structurii
+prezentate în anexa nr. 1;
+b) soldul creditelor restante, conform structurii prezentate
+în anexa nr. 1A;
+c) ajustări din reevaluare, conform structurii prezentate
+în anexa nr. 2;
+
+d) activele și pasivele bilanțiere în echivalent lei,
+conform structurii prezentate în anexa nr. 3.
+Instituțiile de credit vor raporta date agregate privind
+activitatea unităților operative de pe teritoriul național.
+(2) Societățile de administrare a investițiilor și societățile
+de investiții autoadministrate vor transmite Băncii Naționale
+a României — Direcția statistică, separat pentru fiecare
+fond de piață monetară cuprins în lista fondurilor de piață
+monetară, lunar, până cel mai târziu la data de 15 a lunii
+următoare lunii pentru care se întocmește raportarea, în
+format electronic, date privind:
+a) activele și pasivele bilanțiere ale fondurilor de piață
+monetară, conform structurii prezentate în anexa nr. 4;
+b) activele și pasivele bilanțiere în echivalent lei ale
+fondurilor de piață monetară, conform structurii prezentate
+în anexa nr. 5.
+Lista fondurilor de piață monetară se elaborează de
+Comisia Națională a Valorilor Mobiliare și se transmite
+trimestrial Băncii Naționale a României.
+(3) În cazul în care data limită până la care se face
+raportarea este o zi nelucrătoare, raportarea se transmite
+cel târziu în ultima zi lucrătoare anterioară acesteia.
+(4) Datele raportate conform prevederilor alin. (1) și (2)
+au la bază informațiile din evidența contabilă a instituțiilor
+de credit, precum și a fondurilor de piață monetară.
+CAPITOLUL III
+Dispoziții finale
+Art. 8. — Anexele nr. 1, 1A, 2, 3, 4 și 5*) constituie
+parte integrantă a prezentei norme.
+Art. 9. — Nerespectarea prevederilor prezentei norme
+intră sub incidența art. 57 din Legea nr. 312/2004 privind
+Statutul Băncii Naționale a României, precum și a art. 99
+și 100 din Legea nr. 58/1998 privind activitatea bancară,
+republicată, cu modificările ulterioare, sau, după caz, a
+sancțiunilor și/sau a măsurilor prevăzute la art. 189, 190 și
+191 din Ordonanța de urgență a Guvernului nr. 97/2000
+privind organizațiile cooperatiste de credit, aprobată cu
+modificări și completări prin Legea nr. 200/2002, cu
+modificările și completările ulterioare, și a sancțiunilor
+prevăzute la art. 34 din Legea nr. 541/2002 privind
+economisirea și creditarea în sistem colectiv pentru
+domeniul locativ, cu modificările și completările ulterioare.
+Art. 10. — Prezenta normă intră în vigoare la data de
+1 ianuarie 2007.
+Art. 11. — La data intrării în vigoare a prezentei norme
+se abrogă orice dispoziții contrare.
+
+p. Președintele Consiliului de administrație al Băncii Naționale a României,
+Florin Georgescu
+București, 20 iulie 2006.
+Nr. 13.
+*) Anexele nr. 1, 1A, 2, 3, 4 și 5 sunt reproduse în facsimil.
+
+7
+
+ANEXA Nr. 1
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+9
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+11
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+ANEXA Nr. 1A
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+13
+
+ANEXA Nr. 2
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+15
+
+ANEXA Nr. 3
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+ANEXA Nr. 4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+17
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+19
+
+ANEXA Nr. 5
+
+20
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+21
+
+BANCA NAȚIONALĂ A ROMÂNIEI
+
+NORMĂ
+privind statistica ratelor dobânzii practicate de instituțiile de credit
+În baza art. 49 din Legea nr. 312/2004 privind Statutul Băncii Naționale a României,
+în temeiul art. 48 din Legea nr. 312/2004,
+Banca Națională a României emite prezenta normă.
+CAPITOLUL I
+Dispoziții generale
+Art. 1. — Prezenta normă reglementează:
+1. metodologia de determinare și raportare a ratelor
+medii ale dobânzii aferente creditelor în lei, în euro și,
+respectiv, în dolari S.U.A. și ale dobânzii aferente
+depozitelor în lei, în euro și, respectiv, în dolari S.U.A.,
+practicate de instituțiile de credit în relațiile cu următoarele
+categorii de rezidenți: gospodării ale populației, instituții fără
+scop lucrativ în serviciul gospodăriilor populației și societăți
+nefinanciare;
+2. metodologia de determinare și raportare a ratelor
+medii ale dobânzii aferente creditelor noi în lei, în euro și,
+respectiv, în dolari S.U.A. și ale dobânzii aferente
+depozitelor noi în lei, în euro și, respectiv, în dolari S.U.A.,
+practicate de instituțiile de credit în relațiile cu următoarele
+categorii de rezidenți: gospodării ale populației, instituții fără
+scop lucrativ în serviciul gospodăriilor populației și societăți
+nefinanciare;
+3. metodologia de determinare și raportare a dobânzii
+anuale efective medii aferente creditelor noi pentru consum
+în lei, în euro și, respectiv, în dolari S.U.A. și creditelor noi
+pentru locuințe în lei, în euro și, respectiv, în dolari S.U.A.,
+acordate de instituțiile de credit gospodăriilor populației
+rezidente.
+Art. 2. — În sensul prezentei norme, termenii și
+expresiile de mai jos au următoarele semnificații:
+1. credite noi/depozite noi:
+a) sunt asimilate creditelor noi/depozitelor noi:
+a1) creditele acordate/depozitele atrase de instituțiile de
+credit în cursul lunii pentru care se întocmește raportarea;
+a2) creditele acordate/depozitele atrase de instituțiile de
+credit în lunile anterioare, ale căror rate ale dobânzii sau
+criterii de stabilire a ratei dobânzii sunt renegociate de
+către instituția de credit și client în cursul lunii pentru care
+se întocmește raportarea;
+b) nu sunt asimilate creditelor noi/depozitelor noi:
+b1) creditele acordate/depozitele atrase de instituțiile de
+credit în lunile anterioare, ale căror contracte/convenții sunt
+prelungite în mod automat, fără implicarea activă a
+clientului instituției de credit în renegocierea termenilor și
+condițiilor contractului/convenției, inclusiv a ratei dobânzii;
+b2) creditele acordate/depozitele atrase de instituțiile de
+credit în lunile anterioare cu rata dobânzii variabilă, în
+sensul ajustării automate în funcție de un index extern;
+
+b3) creditele acordate/depozitele atrase de instituțiile de
+credit în lunile anterioare, în cazul cărora are loc o
+modificare a ratei dobânzii pe parcursul lunii pentru care se
+întocmește raportarea sau o modificare a modului de
+stabilire a acesteia, dacă modificarea și noul nivel al ratei
+dobânzii au fost stabilite de comun acord între instituția de
+credit și client la încheierea contractului/convenției de
+credit/depozit;
+b4) creditele acordate/depozitele atrase de instituțiile de
+credit în lunile anterioare, ale căror rate ale dobânzii sunt
+modificate unilateral de instituția de credit în cursul lunii
+pentru care se întocmește raportarea în baza unor clauze
+prevăzute în contractele/convențiile de credit/depozit;
+2. descoperit de cont (overdraft) — soldul debitor al
+conturilor curente. Caracteristicile generale ale creditului
+acordat pe descoperit de cont sunt: limita maximă a
+sumelor trase; perioada maximă de timp pe parcursul
+căreia titularul contului poate utiliza această facilitate;
+posibilitatea tragerii sumelor fără notificarea în prealabil a
+instituției de credit; inexistența unei maturități definite;
+3. perioada inițială fixă a ratei dobânzii — perioada de
+timp, determinată la începutul contractului, pe parcursul
+căreia rata dobânzii nu se modifică. Contractele de credit
+cu rata dobânzii variabilă (de exemplu, ajustată în mod
+automat în funcție de un index extern) nu au perioadă
+inițială fixă a ratei dobânzii;
+4. rata dobânzii efective — rata dobânzii, calculată în
+termeni anuali și exprimată în procente pe an, pentru care
+valoarea prezentă a creditului/depozitului acordat/plasat (în
+una sau mai multe tranșe) este egală cu valoarea prezentă
+a tuturor angajamentelor de rambursare a capitalului și a
+dobânzilor aferente, viitoare sau prezente, stabilite de
+comun acord între instituția de credit și client;
+5. rata anualizată a dobânzii — rata dobânzii convenită
+între instituția de credit și client pentru un credit sau
+depozit, calculată în termeni anuali și exprimată în procente
+pe an;
+6. dobânda anuală efectivă — are semnificația prevăzută
+în Legea nr. 289/2004 privind regimul juridic al contractelor
+de credit pentru consum destinate consumatorilor, persoane
+fizice;
+7. rezidenți, gospodării ale populației, instituții fără scop
+lucrativ în serviciul gospodăriilor populației, societăți
+nefinanciare, credite, credite pentru consum, credite pentru
+locuințe, credite pentru dezvoltarea afacerilor, credite pentru
+alte scopuri, depozite, depozite overnight, depozite la termen,
+
+22
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+depozite rambursabile după notificare, împrumuturi din
+operațiuni repo, perioada notificată, durata inițială/maturitatea
+la emitere — au semnificația prevăzută în Norma Băncii
+Naționale a României nr. 13/2006 privind raportarea
+statistică a datelor pentru elaborarea bilanțului monetar.
+Art. 3. — Pentru determinarea ratelor medii ale dobânzii
+aferente creditelor și ale dobânzii aferente depozitelor
+practicate de instituțiile de credit în relațiile cu gospodăriile
+populației, instituțiile fără scop lucrativ în serviciul
+gospodăriilor populației și societățile nefinanciare, instituțiile
+de credit aplică următoarele reguli:
+1. În baza de calcul a ratelor medii ale dobânzii
+aferente creditelor se cuprind toate creditele existente în
+sold la sfârșitul lunii pentru care se întocmește raportarea,
+acordate de instituțiile de credit gospodăriilor populației,
+instituțiilor fără scop lucrativ în serviciul gospodăriilor
+populației și societăților nefinanciare, cu excepția creditelor
+provizionate în proporție de 100%, cu provizioane specifice
+de risc de credit de către instituția de credit.
+2. În baza de calcul a ratelor medii ale dobânzii
+aferente depozitelor se cuprind toate depozitele existente în
+sold la sfârșitul lunii pentru care se întocmește raportarea,
+plasate la instituțiile de credit de către gospodăriile
+populației, instituțiile fără scop lucrativ în serviciul
+gospodăriilor populației și societățile nefinanciare.
+3. Creditele, respectiv depozitele la termen, se
+rapartizează pe scadențe în funcție de durata inițială a
+contractului/convenției al cărui/cărei obiect îl constituie,
+conform anexei nr. 2. Depozitele rambursabile după
+notificare se repartizează în funcție de perioada notificată,
+conform anexei nr. 3.
+4. În cazul conturilor curente, instituțiile de credit
+evidențiază distinct soldul creditor de soldul debitor al
+acestora.
+Soldul creditor este inclus în baza de calcul a ratelor
+medii ale dobânzii aferente depozitelor overnight, iar soldul
+debitor este inclus în baza de calcul a ratelor medii ale
+dobânzii aferente creditelor acordate pe descoperit de cont
+(anexa nr. 3) și în baza de calcul a ratelor medii ale
+dobânzii aferente creditelor cu durata inițială mai mică sau
+egală cu un an (anexa nr. 2).
+5. În cazul creditelor acordate în tranșe, altele decât
+creditele acordate pe descoperit de cont, baza de calcul a
+ratelor medii ale dobânzii aferente creditelor include
+valoarea trasă existentă în sold la sfârșitul lunii pentru care
+se întocmește raportarea.
+6. În cazul creditelor/depozitelor la care suma plătită
+drept dobândă de către o parte a contractului/convenției de
+credit/depozit este diferită de suma primită de cealaltă
+parte, pentru calculul ratelor medii ale dobânzii aferente
+creditelor/depozitelor se utilizează ratele dobânzii pe care
+instituția de credit le plătește pentru depozite/încasează
+pentru credite, indiferent de dobânda primită de client
+pentru depozite/plătită de client pentru credite.
+Conform acestui principiu, în cazul depozitelor constituite
+de gospodăriile populației, dobânzile sunt înregistrate
+
+înainte de plata impozitului pe venit. Dobânzile mai mari
+acordate de instituția de credit la depozitele constituite de
+salariații proprii, respectiv dobânzile mai mici plătite de
+salariații proprii la creditele primite de la angajator, sunt
+reflectate în ratele medii ale dobânzii. De asemenea,
+subvențiile acordate de o terță parte (în general statul)
+gospodăriilor populației, instituțiilor fără scop lucrativ în
+serviciul gospodăriilor populației sau societăților nefinanciare
+nu influențează ratele medii ale dobânzii întrucât aceste
+subvenții nu sunt destinate instituției de credit, ci pot fi
+doar transferate prin intermediul acesteia.
+7. Pentru calculul ratelor medii ale dobânzii aferente
+creditelor/depozitelor, instituțiile de credit consideră anul de
+365 de zile.
+8. DISAGIO, definit ca diferență între valoarea nominală
+a creditului și valoarea sumei primite efectiv de client, este
+considerat plată de dobândă la începutul contractului și
+este reflectat în calculul ratei medii a dobânzii, prin
+includerea în formula de calcul a mediei ponderate, a ratei
+dobânzii efective pentru acel credit, indiferent de
+periodicitatea de plată a ratelor de dobândă.
+9. În cazul depozitelor overnight, depozitelor rambursabile
+după notificare și creditelor acordate pe descoperit de cont
+(detaliate în anexa nr. 3), ratele medii ale dobânzii se
+calculează conform procedurilor stabilite la cap. II.
+Art. 4. — Pentru determinarea ratelor medii ale dobânzii
+aferente creditelor noi și ale dobânzii aferente depozitelor
+noi practicate de instituțiile de credit în relațiile cu
+gospodăriile populației, instituțiile fără scop lucrativ în
+serviciul gospodăriilor populației și societățile nefinanciare,
+instituțiile de credit aplică următoarele reguli:
+1. În baza de calcul a ratelor medii ale dobânzii
+aferente creditelor noi se cuprind toate creditele noi
+[definite conform art. 2 pct. 1 lit. a)] acordate de către
+instituțiile de credit gospodăriilor populației, instituțiilor fără
+scop lucrativ în serviciul gospodăriilor populației și
+societăților nefinanciare, cu excepția creditelor acordate pe
+descoperit de cont și a creditelor provizionate în proporție
+de 100% cu provizioane specifice de risc de credit de
+către instituția de credit.
+2. În baza de calcul a ratelor medii ale dobânzii
+aferente depozitelor noi se cuprind toate depozitele noi
+[definite conform art. 2 pct. 1 lit. a)] plasate la instituțiile
+de credit de către gospodăriile populației, instituțiile fără
+scop lucrativ în serviciul gospodăriilor populației și
+societățile nefinanciare, cu excepția depozitelor overnight și
+depozitelor rambursabile după notificare.
+3. În baza de calcul a ratelor medii ale dobânzii
+aferente creditelor noi/depozitelor noi se include întreaga
+valoare acordată/plasată a acestora, în situația prezentată
+la art. 2 pct. 1 lit. a1), respectiv valoarea pentru care se
+renegociază nivelul ratei dobânzii, în situația prezentată la
+art. 2 pct. 1 lit. a2).
+4. Creditele noi se repartizează pe scadențe în funcție
+de durata inițială și în funcție de perioada inițială fixă a
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+ratei dobânzii, iar depozitele noi la termen se repartizează
+pe scadențe în funcție de durata inițială a
+contractului/convenției al cărui/cărei obiect îl constituie,
+conform anexei nr. 4. În cazul creditelor noi, perioada
+inițială fixă a ratei dobânzii este cel mult egală cu durata
+inițială a contractului/convenției al cărui/cărei obiect îl
+constituie.
+5. Creditele noi acordate de instituțiile de credit ale
+căror contracte/convenții conțin clauze ce permit
+modificarea unilaterală în orice moment a ratei dobânzii de
+către instituția de credit nu au perioadă inițială fixă a ratei
+dobânzii.
+6. Creditele noi care nu au perioadă inițială fixă a ratei
+dobânzii sunt clasificate în categoria rata dobânzii variabilă,
+conform anexei nr. 4.
+7. Creditele noi acordate societăților nefinanciare se
+împart în două categorii, în funcție de valoarea creditului
+nou acordat, conform anexei nr. 4. Valoarea de 1 milion
+echivalent euro pentru creditele acordate în lei și, respectiv,
+în dolari S.U.A. se determină pe baza cursului de schimb
+comunicat de Banca Națională a României în ultima zi
+bancară a lunii pentru care se întocmește raportarea.
+Valoarea pragului de clasificare se referă la creditele
+individuale acordate și nu ține cont de expunerea totală a
+instituției de credit față de societatea nefinanciară căreia îi
+acordă creditul.
+8. Creditele la care, din anumite motive, încetează
+temporar plata ratelor de credit și dobândă nu intră în
+baza de calcul a ratelor medii ale dobânzii aferente
+creditelor noi la reluarea plăților în condițiile stabilite în
+contractul inițial.
+9. În cazul depozitelor ajunse la scadență la care s-au
+renegociat termenii și condițiile contractului inițial și, în
+consecință, reprezintă depozite noi conform art. 2 pct. 1
+lit. a2), durata inițială se consideră perioada dintre data
+noii calsificări ca depozit nou și data rambursării stabilită la
+renegociere.
+10. În cazul creditelor noi definite conform art. 2 pct. 1
+lit. a2), durata inițială și perioada inițială fixă a ratei
+dobânzii se calculează din momentul intrării în vigoare a
+actului adițional al contractului de credit renegociat.
+11. Prevederile art. 3 pct. 6, 7 și 8 se aplică și pentru
+determinarea ratelor medii ale dobânzii aferente creditelor
+noi și ale dobânzii aferente depozitelor noi.
+Art. 5. — Pentru determinarea dobânzii anuale efective
+medii aferente creditelor noi pentru consum și creditelor noi
+pentru locuințe acordate gospodăriilor populației, instituțiile
+de credit aplică următoarele reguli:
+1. În baza de calcul a dobânzii anuale efective medii
+se cuprind creditele noi pentru consum și creditele noi
+pentru locuințe acordate în lei, în euro și, respectiv, în
+dolari S.U.A. de către instituțiile de credit gospodăriilor
+populației, cu excepția creditelor acordate pe descoperit de
+cont și a celor provizionate în proporție de 100% cu
+provizioane specifice de risc de credit de către instituția de
+credit.
+
+23
+
+2. Prevederile art. 4 pct. 3, 8 și 11 se aplică și pentru
+determinarea dobânzii anuale efective medii aferente
+creditelor noi pentru consum și creditelor noi pentru
+locuințe acordate gospodăriilor populației de către instituțiile
+de credit.
+Art. 6. — (1) Instituțiile de credit raportează Băncii
+Naționale a României — Direcția statistică date privind
+ratele medii ale dobânzii aferente creditelor și ale dobânzii
+aferente depozitelor, conform structurii prevăzute în anexa
+nr. 2 — Ratele medii ale dobânzii aferente creditelor și ale
+dobânzii aferente depozitelor — și, respectiv, în anexa
+nr. 3 — Ratele medii ale dobânzii aferente depozitelor
+overnight, depozitelor rambursabile după notificare și
+creditelor acordate pe descoperit de cont.
+Instituțiile de credit raportează Băncii Naționale a
+României — Direcția statistică date privind ratele medii ale
+dobânzii aferente creditelor noi și ale dobânzii aferente
+depozitelor noi, conform structurii prevăzute în anexa nr. 4 —
+Ratele medii ale dobânzii aferente creditelor noi și ale
+dobânzii aferente depozitelor noi.
+Instituțiile de credit raportează Băncii Naționale a
+României — Direcția statistică date privind dobânda anuală
+efectivă medie aferentă creditelor noi pentru consum și
+creditelor noi pentru locuințe acordate gospodăriilor
+populației, conform structurii prevăzute în tabelul Dobânda
+anuală efectivă medie aferentă creditelor noi din anexa nr. 3.
+(2) Datele raportate Băncii Naționale a României —
+Direcția statistică conform alin. (1) se referă la activitatea
+tuturor unităților operative de pe teritoriul național și se
+transmit lunar, în format electronic, până cel mai târziu în
+data de 17 a lunii următoare lunii pentru care se
+întocmește raportarea. În cazul în care data limită până la
+care se transmite raportarea este o zi nebancară,
+raportarea se transmite cel mai târziu în ultima zi bancară
+anterioară acesteia.
+(3) Instituțiile de credit a căror autorizație de funcționare
+a fost retrasă de Banca Națională a României efectuează
+ultima raportare pentru determinarea indicatorilor enumerați
+la alin. (1) în luna publicării în Monitorul Oficial al
+României, Partea I, a hotărârii de retragere a autorizației
+de funcționare.
+CAPITOLUL II
+Determinarea ratelor medii ale dobânzii aferente
+creditelor și ale dobânzii aferente depozitelor
+Art. 7. — (1) Instituțiile de credit calculează ratele medii
+ale dobânzii aferente creditelor și ale dobânzii aferente
+depozitelor pentru toate categoriile de credite/depozite
+prezentate în anexele nr. 2 și 3.
+(2) Rata medie a dobânzii aferentă fiecărei categorii de
+credite/depozite se determină ca medie aritmetică
+ponderată, calculată cu două zecimale prin rotunjire,
+conform formulei nr. 1 prezentate în anexa nr. 1.
+Art. 8. — În cazul creditelor/depozitelor la care
+plata/capitalizarea dobânzii se realizează la sfârșitul
+
+24
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+contractului/convenției de credit/depozit, intervalul de timp
+între două plăți/capitalizări succesive de dobândă se
+consideră egal cu durata inițială a creditelor/depozitelor.
+
+populației conform metodologiei prevăzute pentru creditele
+pentru consum în Legea nr. 289/2004.
+
+Art. 9. — Pe baza informațiilor privind ratele medii ale
+dobânzii aferente creditelor și ale dobânzii aferente
+depozitelor primite de la instituțiile de credit conform
+prevederilor art. 6, Banca Națională a României determină,
+în formă agregată, ratele medii ale dobânzii aferente
+creditelor și ale dobânzii aferente depozitelor cu ajutorul
+formulei nr. 4 prezentate în anexa nr. 1.
+
+Art. 15. — Pe baza informațiilor privind dobânda anuală
+efectivă medie aferentă creditelor noi pentru consum și
+creditelor noi pentru locuințe acordate gospodăriilor
+populației, primite de la instituțiile de credit conform
+prevederilor art. 6, Banca Națională a României determină,
+în formă agregată, dobânda anuală efectivă medie aferentă
+creditelor noi pentru consum și creditelor noi pentru locuințe
+cu ajutorul formulei nr. 10 prezentate în anexa nr. 1.
+
+CAPITOLUL III
+
+CAPITOLUL V
+
+Determinarea ratelor medii ale dobânzii aferente
+creditelor noi și ale dobânzii aferente depozitelor noi
+
+Dispoziții finale
+
+Art. 10. — (1) Instituțiile de credit calculează ratele
+medii ale dobânzii aferente creditelor noi și ale dobânzii
+aferente depozitelor noi pentru toate categoriile de credite
+noi/depozite noi prezentate în anexa nr. 4.
+(2) Rata medie a dobânzii aferentă fiecărei categorii de
+credite noi/depozite noi se determină ca medie aritmetică
+ponderată, calculată cu două zecimale prin rotunjire,
+conform formulei nr. 5 prezentate în anexa nr. 1.
+Art. 11. — În cazul creditelor noi/depozitelor noi la care
+plata/capitalizarea dobânzii se realizează la sfârșitul
+contractului/convenției de credit/depozit, intervalul de timp
+între două plăți/capitalizări succesive de dobândă se
+consideră egal cu durata inițială a creditelor noi/depozitelor noi.
+Art. 12. — Pe baza informațiilor privind ratele medii ale
+dobânzii aferente creditelor noi și ale dobânzii aferente
+depozitelor noi primite de la instituțiile de credit conform
+prevederilor art. 6, Banca Națională a României determină,
+în formă agregată, ratele medii ale dobânzii aferente
+creditelor noi și ale dobânzii aferente depozitelor noi cu
+ajutorul formulei nr. 8 prezentate în anexa nr. 1.
+CAPITOLUL IV
+Determinarea dobânzii anuale efective medii
+Art. 13. — Dobânda anuală efectivă medie aferentă
+creditelor noi pentru consum, respectiv creditelor noi pentru
+locuințe acordate gospodăriilor populației se determină ca
+medie aritmetică ponderată, calculată cu două zecimale
+prin rotunjire, conform formulei nr. 9 prezentate în anexa
+nr. 1.
+Art. 14. — Instituțiile de credit calculează dobânda
+anuală efectivă aferentă creditelor noi pentru consum și
+creditelor noi pentru locuințe acordate gospodăriilor
+
+Art. 16. — (1) Datele raportate Băncii Naționale a
+României — Direcția statistică conform art. 6 se întocmesc
+pe baza informațiilor din evidența contabilă a instituțiilor de
+credit.
+(2) Anexele nr. 1—4*) fac parte integrantă din prezenta
+normă.
+Art. 17. — Nerespectarea prevederilor prezentei norme
+intră sub incidența art. 57 din Legea nr. 312/2004 privind
+Statutul Băncii Naționale a României, precum și a art. 99
+și 100 din Legea nr. 58/1998 privind activitatea bancară,
+republicată, cu modificările ulterioare, sau, după caz, a
+sancțiunilor și/sau a măsurilor prevăzute la art. 189, 190 și
+191 din Ordonanța de urgență a Guvernului nr. 97/2000
+privind organizațiile cooperatiste de credit, aprobată cu
+modificări și completări prin Legea nr. 200/2002, cu
+modificările și completările ulterioare, și a sancțiunilor
+prevăzute la art. 34 din Legea nr. 541/2002 privind
+economisirea și creditarea în sistem colectiv pentru
+domeniul locativ, cu modificările și completările ulterioare.
+Art. 18. — Prezenta normă transpune prevederile
+Regulamentului Băncii Centrale Europene privind statistica
+ratelor dobânzii practicate de instituțiile financiare monetare
+la credite și depozite în relațiile cu gospodăriile populației
+și societățile nefinanciare (Regulamentul BCE/2001/18).
+Art. 19. — (1) Prezenta normă intră în vigoare la data
+de 1 ianuarie 2007.
+(2) La data intrării în vigoare a prezentei norme se
+abrogă Normele Băncii Naționale a României nr. 2/2003
+privind determinarea și raportarea ratelor medii ale
+dobânzilor practicate în sistemul bancar, publicate în
+Monitorul Oficial al României, Partea I, nr. 160 din
+13 martie 2003.
+
+p. Președintele Consiliului de administrație al Băncii Naționale a României,
+Florin Georgescu
+București, 20 iulie 2006.
+Nr. 14.
+
+*) Anexele nr. 1—4 sunt reproduse în facsimil.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+25
+ANEXA Nr. 1
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+27
+
+ANEXA Nr. 2
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+ANEXA Nr. 3
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+29
+
+ANEXA Nr. 4
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 679/8.VIII.2006
+
+31
+
+P R E Ț U R I L E
+
+publicațiilor legislative pentru anul 2006
+— pe suport tradițional —
+Nr.
+crt.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+
+Valoarea
+abonamentului
+anual
+— lei noi —
+
+Denumirea publicației
+
+Monitorul Oficial, Partea I, în limba
+Monitorul Oficial, Partea I, în limba
+numere bis*)
+Monitorul Oficial, Partea I, în limba
+Monitorul Oficial, Partea a II-a
+Monitorul Oficial, Partea a III-a
+Monitorul Oficial, Partea a IV-a
+Monitorul Oficial, Partea a VI-a
+Monitorul Oficial, Partea a VII-a
+Colecția Legislația României
+Colecția de hotărâri ale Guvernului
+acte normative
+Repertoriul actelor normative
+Decizii ale Curții Constituționale
+Ediții trilingve
+
+Valoarea
+abonamentului trimestrial
+— lei noi —
+Trim. I
+
+Trim. II
+
+Trim. III
+
+Trim. IV
+
+română
+română,
+
+1.480
+250
+
+370,00
+—
+
+370,00
+—
+
+370,00
+—
+
+370,00
+—
+
+maghiară
+
+1.140
+1.700
+370
+1.540
+1.420
+460
+375
+620
+
+285,00
+425,00
+92,50
+385,00
+355,00
+115,00
+93,75
+155,00
+
+285,00
+425,00
+92,50
+385,00
+355,00
+115,00
+93,75
+155,00
+
+285,00
+425,00
+92,50
+385,00
+355,00
+115,00
+93,75
+155,00
+
+285,00
+425,00
+92,50
+385,00
+355,00
+115,00
+93,75
+155,00
+
+117
+100
+350
+
+—
+—
+—
+
+—
+—
+—
+
+—
+—
+—
+
+—
+—
+—
+
+și alte
+
+**) Cu excepția numerelor bis în care se publică acte cu un volum extins și care interesează doar un număr restrâns de utilizatori.
+
+Toate publicațiile Regiei Autonome îMonitorul Oficial“ sunt purtătoare de T.V.A. în cotă de 9%, aceasta fiind
+inclusă în prețul de abonament.
+Pentru siguranța clienților, abonamentele la publicațiile Regiei Autonome îMonitorul Oficial“ se pot efectua prin
+următorii difuzori:
+u COMPANIA NAȚIONALĂ îPOȘTA ROMÂNĂ“ — S.A. — prin oficiile sale poștale
+u RODIPET — S.A.
+— prin toate filialele
+u INTERPRESS SPORT — S.R.L.
+— București, str. Hristo Botev nr. 6
+(telefon/fax: 313.85.07; 313.85.08; 313.85.09)
+u PRESS EXPRES — S.R.L.
+— Otopeni, str. Flori de Câmp nr. 9
+(telefon/fax: 221.05.37; 0745.133.712)
+u M.T. PRESS IMPEX — S.R.L.
+— București, bd. Basarabia nr. 256
+(telefon/fax: 255.48.15; 255.48.16)
+u INFO EUROTRADING — S.A.
+— București, Splaiul Independenței nr. 202A
+(telefon: 316.30.57, fax: 316.30.58)
+u ACTA LEGIS — S.R.L.
+— București, str. Banul Udrea nr. 10,
+(telefon/fax: 411.91.79)
+u CURIER PRESS — S.A.
+— Brașov, str. Traian Grozăvescu nr. 7
+(telefon/fax: 0268/47.05.96)
+u MIMPEX — S.R.L.
+— Hunedoara, str. Ion Creangă nr. 2, bl. 2, ap. 1
+(telefon/fax: 0254/71.92.43)
+u CALLIOPE — S.R.L.
+— Ploiești, str. Candiano Popescu nr. 36
+(telefon/fax: 0244/51.40.52, 0244/51.48.01)
+u ART ADVERTISING — S.R.L.
+— Râmnicu Vâlcea, str. Regina Maria nr. 7, bl. C1, sc. C, mezanin II
+(tel. 0250/73.54.75, 0744.50.90.99)
+u ZIRKON MEDIA — S.R.L.
+— București, str. Călin Ottoi nr. 29
+(tel. 250.52.77, 250.22.94, fax 250.56.30)
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+îMonitorul Oficial“ R.A., Str. Parcului nr. 65, sectorul 1, București; C.U.I. 427282; Atribut fiscal R,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala îUnirea“ București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 318.51.29/150, fax 318.51.15, E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 410.47.30, fax 410.77.36 și 410.47.23
+Tiparul: îMonitorul Oficial“ R.A.
+Monitorul Oficial al României, Partea I, nr. 679/8.VIII.2006 conține 32 de pagini.
+
+Prețul: 2,25 lei
+
+&JUYDGY|118553]
+ISSN 1453—4495
+
+

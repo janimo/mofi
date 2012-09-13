@@ -1,0 +1,1916 @@
+PARTEA
+
+Anul X Ñ Nr. 228
+
+I
+
+Marți, 23 iunie 1998
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+
+SUMAR
+Nr.
+
+Pagina
+HOTÃRÂRI ALE GUVERNULUI ROMÂNIEI
+
+318.
+
+HOTÃRÂRI
+
+Ñ Hotãrâre privind aprobarea instrucțiunilor de
+metrologie legalã .......................................................
+
+ALE
+
+GUVERNULUI
+
+1Ð16
+
+ROMÂNIEI
+
+GUVERNUL ROMÂNIEI
+
+HOTÃRÂRE
+privind aprobarea instrucțiunilor de metrologie legalã
+În aplicarea prevederilor art. 17 și 37 din Ordonanța Guvernului nr. 20/1992 privind activitatea de metrologie,
+aprobatã și modificatã prin Legea nr. 11/1994,
+Guvernul României
+
+h o t ã r ã ș t e :
+
+Art. 1. Ñ Se aprobã instrucțiunile de metrologie legalã
+prevãzute în anexele nr. 1Ñ7, care fac parte integrantã din
+prezenta hotãrâre:
+Ñ Anexa nr. 1 Ñ I.M.L. 1Ñ97 Transmiterea unitãților
+de mãsurã;
+Ñ Anexa nr. 2 Ñ I.M.L. 2Ñ97 Aprobarea de model;
+Ñ Anexa nr. 3 Ñ I.M.L. 3Ñ97 Autorizații și avize
+metrologice;
+Ñ Anexa nr. 4 Ñ I.M.L. 4Ñ97 Mãrci metrologice de stat;
+Ñ Anexa nr. 5 Ñ I.M.L. 5Ñ97 Sistemul național de
+etaloane ale unitãților de mãsurã;
+
+Ñ Anexa nr. 6 Ñ I.M.L. 6Ñ97 Controlul metrologic al
+statului prin inspecții și testãri inopinate;
+Ñ Anexa nr. 7 Ñ I.M.L. 7Ñ97 Supravegherea metrologicã a activitãții deținãtorilor de autorizații metrologice.
+Art. 2. Ñ Pe data intrãrii în vigoare a prezentei hotãrâri
+se abrogã Hotãrârea Guvernului nr. 811/1995 privind aprobarea ”I.M.L. 1Ñ95 Ñ Instrucțiuni de metrologie legalã Ñ
+Transmiterea unitãților de mãsurã,, și ”I.M.L. 2Ñ95 Ñ
+Instrucțiuni de metrologie legalã Ñ Aprobarea de model,,,
+publicatã în Monitorul Oficial al României, Partea I, nr. 246
+din 30 octombrie 1995, precum și orice alte dispoziții contrare.
+
+PRIM-MINISTRU
+
+RADU VASILE
+Contrasemneazã:
+Ministrul cercetãrii și tehnologiei,
+Horia Ene
+Directorul general al Biroului Român
+de Metrologie Legalã,
+Dan Grigore Stoichițoiu
+București, 16 iunie 1998.
+
+Nr. 318.
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/23.VI.1998
+ANEXA Nr. 1
+INSTRUCÞIUNI DE METROLOGIE LEGALÃ
+I.M.L. 1Ñ97
+TRANSMITEREA UNITÃÞILOR DE MÃSURÃ
+
+CAPITOLUL I
+Prevederi generale
+Art. 1. Ñ Prezentele instrucțiuni reglementeazã modul de
+exercitare a controlului metrologic al statului prin etalonãri
+și/sau verificãri metrologice. Rezultatele operațiunilor efectuate sunt exprimate în unitãți de mãsurã legale.
+Unitãțile de mãsurã legale folosite în România sunt unitãțile de mãsurã din Sistemul internațional de unitãți de
+mãsurã (SI), și anume: unitãți fundamentale, derivate și suplimentare. Sunt tolerate și unitãțile de mãsurã care nu fac
+parte din SI și care sunt specificate la pct. 2 din anexa nr. 1
+la Ordonanța Guvernului nr. 20/1992, aprobatã și modificatã
+prin Legea nr. 11/1994.
+Art. 2. Ñ În România, folosirea unitãților de mãsurã
+legale este obligatorie.
+Art. 3. Ñ Transmiterea unitãților de mãsurã se realizeazã
+prin operațiuni tehnice de etalonare și/sau verificare metrologicã, inclusiv încercare a mijloacelor de mãsurare, pornind de
+la etaloanele internaționale și naționale, trecând prin niveluri
+succesive de exactitate, la mijloacele de mãsurare de lucru,
+conform schemei de principiu anexate.
+Trasabilitatea constituie proprietatea rezultatului unei
+mãsurãri sau a valorii unui etalon de a putea fi raportat la
+referințe stabilite, de regulã etaloane naționale sau internaționale, prin intermediul unui lanț neîntrerupt de comparãri,
+toate având incertitudini determinate.
+Art. 4. Ñ Asigurarea uniformitãții, exactitãții și legalitãții
+mãsurãrilor se realizeazã în România sub coordonarea și
+supravegherea Biroului Român de Metrologie Legalã, prin
+transmiterea unitãților de mãsurã de cãtre laboratoare de
+metrologie autorizate și/sau acreditate.
+
+Art. 9. Ñ Trasabilitatea etalonãrii sau a verificãrii se
+atestã prin indicarea, în certificatele de etalonare, respectiv în
+buletinele de verificare metrologicã, a etaloanelor din Sistemul
+național de etaloane ale unitãților de mãsurã, care au servit
+ca referințã în cadrul operațiunilor respective.
+
+CAPITOLUL III
+Transmiterea unitãților de mãsurã la mijloacele
+de mãsurare supuse obligatoriu controlului metrologic
+al statului
+Art. 10. Ñ Mijloacele de mãsurare utilizate în domeniile
+de interes public și nominalizate în Lista oficialã a mijloacelor
+de mãsurare supuse obligatoriu controlului metrologic al statului
+sunt supuse obligatoriu transmiterii unitãților de mãsurã, în
+conformitate cu prevederile prezentelor instrucțiuni.
+Domeniile de interes public sunt cele evidențiate în
+Ordonanța Guvernului nr. 20/1992, aprobatã și modificatã
+prin Legea nr. 11/1994.
+Art. 11. Ñ Etalonarea sau verificarea metrologicã a mijloacelor de mãsurare supuse obligatoriu controlului metrologic
+al statului se executã, în conformitate cu prevederile normelor de metrologie legalã și cu alte reglementãri care le sunt
+aplicabile, în laboratoarele de metrologie autorizate din structura Biroului Român de Metrologie Legalã sau, dupã caz, în
+laboratoare de metrologie autorizate de cãtre acesta.
+Art. 12. Ñ Mijloacele de mãsurare utilizate ca etaloane
+sunt supuse, de regulã, etalonãrii, iar în cazuri stabilite prin
+reglementãri ale Biroului Român de Metrologie Legalã, numai
+verificãrii metrologice sau pot fi supuse ambelor operațiuni.
+Mijloacele de mãsurare de lucru se supun obligatoriu verificãrii metrologice. În situații speciale, ele pot fi, în mod
+suplimentar, supuse și etalonãrii.
+CAPITOLUL II
+Art. 13. Ñ Etalonarea sau verificarea metrologicã a mijEtalonãri și verificãri metrologice
+loacelor de mãsurare supuse obligatoriu controlului metrologic
+Art. 5. Ñ Etalonarea este ansamblul de operațiuni prin al statului se executã asupra fiecãrui exemplar de mijloc de
+care, în condiții specificate, se determinã relația dintre valo- mãsurare, în conformitate cu prevederile normativelor metrorile indicate de un mijloc de mãsurare sau dintre valorile logice specifice în vigoare (norme de metrologie legalã,
+reprezentate de o mãsurã sau un material de referințã și norme tehnice de metrologie, documente și recomandãri ale
+valorile corespunzãtoare indicate de un etalon care mãsoarã Organizației Internaționale de Metrologie Legalã, standarde și
+aceeași mãrime. Rezultatele etalonãrii se consemneazã în altele).
+Normativele metrologice în baza cãrora se efectueazã
+documentul Certificat de etalonare, întocmit de cãtre personalul din cadrul laboratorului de metrologie care a efectuat ope- etalonarea sau verificarea metrologicã se precizeazã în docurațiunea și care își asumã responsabilitatea asupra mentele întocmite: certificate de etalonare sau buletine de verificare metrologicã.
+rezultatelor obținute.
+Rezultatele verificãrii metrologice se concretizeazã în buleArt. 6. Ñ Verificarea metrologicã este ansamblul de operațiuni prin care se constatã dacã un mijloc de mãsurare tinele de verificare metrologicã prin înscrierea deciziei Admis,
+satisface prevederile normelor de metrologie legalã sau ale atunci când mijlocul de mãsurare a corespuns integral noraltor reglementãri metrologice care îi sunt aplicabile. mativelor metrologice, sau Respins, în caz contrar.
+Art. 14. Ñ Etalonarea sau verificarea metrologicã inițialã
+Rezultatul verificãrii se consemneazã în documentul Buletin
+de verificare metrologicã, întocmit de cãtre personalul din se efectueazã numai asupra mijloacelor de mãsurare care
+cadrul laboratorului de metrologie care a efectuat operațiunea. dețin aprobare de model; situațiile speciale sunt reglementate
+Art. 7. Ñ Etalonãrile și verificãrile metrologice se executã, prin ordin al directorului general al Biroului Român de
+de regulã, în laboratoare de metrologie, unde sunt asigurate Metrologie Legalã.
+Art. 15. Ñ Etalonarea sau verificarea metrologicã inițialã
+condițiile tehnice și de mediu necesare.
+Etalonarea sau verificarea mijloacelor de mãsurare se efectueazã obligatoriu asupra tuturor categoriilor de mijnetransportabile din cauza gabaritelor sau a greutãților mari loace de mãsurare supuse obligatoriu controlului metrologic
+sau care se pot deregla în timpul transportului se executã la al statului, respectiv:
+Ñ mijloace de mãsurare noi, produse în țarã sau imporlocul de utilizare, cu asigurarea condițiilor necesare.
+Art. 8. Ñ Etalonarea sau verificarea metrologicã poate fi tate, înainte de intrarea în exploatare;
+Ñ mijloace de mãsurare importate, care au mai fost utiliinițialã sau ulterioarã.
+Etalonarea sau verificarea inițialã se efectueazã asupra zate în țara de origine a producãtorului sau a beneficiarului
+mijloacelor de mãsurare noi sau care nu au mai fost supuse acestora și care îndeplinesc toate celelalte condiții necesare
+pentru a fi acceptate la etalonare sau la verificare.
+unei asemenea operațiuni pe teritoriul național.
+Art. 16. Ñ Etalonarea sau verificarea metrologicã inițialã
+Etalonarea sau verificarea ulterioarã se efectueazã asupra
+mijloacelor de mãsurare care au parcurs o anumitã perioadã a mijloacelor de mãsurare supuse obligatoriu controlului
+de exploatare și poate fi: periodicã, dupã reparare sau la metrologic al statului se efectueazã de cãtre personalul labocerere.
+ratoarelor de metrologie Evaluation Purposes Only
+Compression by CVISION Technologies’ PdfCompressor. Forautorizate:
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/23.VI.1998
+a) în laboratoare de metrologie autorizate. Operațiunea se
+executã obligatoriu înainte de livrare și constituie obligația
+producãtorului autohton sau a importatorului care suportã
+cheltuielile aferente;
+b) la locul de utilizare a mijlocului de mãsurare, pentru
+mijloacele de mãsurare pentru care în Lista oficialã a mijloacelor de mãsurare supuse obligatoriu controlului metrologic al
+statului se prevede acest lucru. Operațiunea se executã obligatoriu înainte de utilizare și constituie obligația producãtorului/importatorului/deținãtorului care suportã cheltuielile aferente.
+Art. 17. Ñ Etalonarea sau verificarea metrologicã periodicã a mijloacelor de mãsurare supuse obligatoriu controlului
+metrologic al statului se efectueazã:
+a) în laboratoare de metrologie autorizate, cu o periodicitate stabilitã de utilizator, în cadrul intervalului de timp specificat în Lista oficialã a mijloacelor de mãsurare supuse
+obligatoriu controlului metrologic al statului și cu respectarea
+celorlalte condiții prevãzute în aceasta;
+b) la locul de utilizare a mijlocului de mãsurare, de cãtre
+laboratoare de metrologie autorizate.
+Prezentarea la etalonare sau verificare metrologicã periodicã a mijloacelor de mãsurare constituie obligația deținãtorului care suportã cheltuielile aferente.
+În situația în care au avut loc incidente care sã afecteze
+corecta funcționare a mijloacelor de mãsurare sau dacã,
+datoritã frecvenței mari de utilizare a regimurilor grele de
+exploatare ori altor cauze, nu mai existã garanția unor mãsurãri corecte, deținãtorul are obligația de a prezenta mijloacele
+de mãsurare respective la etalonare și/sau verificare metrologicã ori de a le scoate din uz imediat ce se constatã asemenea situații, indiferent de data expirãrii termenului de
+valabilitate a etalonãrii sau verificãrii metrologice anterioare.
+Art. 18. Ñ Etalonarea sau verificarea metrologicã dupã
+reparare, precum și dupã instalarea categoriilor de mijloace
+de mãsurare la care reglementãrile prevãd ca aceste operațiuni sã se efectueze dupã ce au fost instalate se executã
+de cãtre personalul laboratoarelor de metrologie autorizate,
+înainte de utilizarea mijloacelor de mãsurare. În aceste
+cazuri, prezentarea la etalonare sau verificare metrologicã
+constituie obligația celor care au efectuat repararea sau
+instalarea.
+Art. 19. Ñ Mijloacele de mãsurare supuse obligatoriu controlului metrologic al statului, pentru care, în urma operațiunilor de transmitere a unitãților de mãsurã, s-a eliberat Buletin
+de verificare metrologicã cu decizia Admis, se marcheazã cu
+marca metrologicã de verificare de cãtre personalul laboratorului de metrologie autorizat.
+Pe mijloacele de mãsurare respinse la verificarea metrologicã se aplicã, la loc vizibil, o etichetã cu aceastã mențiune
+de cãtre personalul laboratorului de metrologie care a efectuat operațiunea.
+
+3
+
+domeniile de interes public, dar se aflã amplasate în locuri
+unde se desfãșoarã activitãți de interes public, deținãtorii sunt
+obligați sã inscripționeze la loc vizibil pe acestea: Interzisã
+utilizarea în domeniu de interes public.
+Aceastã mențiune se va preciza în toate documentele eliberate de laboratorul de metrologie Ñ certificate de etalonare
+și buletine de verificare metrologicã.
+Art. 21. Ñ Nu sunt supuse obligatoriu verificãrii metrologice sau etalonãrii mijloacele de mãsurare:
+Ñ nevandabile, expuse în muzee, standuri demonstrative
+sau expoziții;
+Ñ aflate în tranzit pe teritoriul național;
+Ñ montate pe mijloace de transport neînmatriculate în
+România;
+Ñ aflate în stare de conservare;
+Ñ destinate uzului personal, casnic sau didactic.
+Art. 22. Ñ La cerere, mijloacele de mãsurare nesupuse
+obligatoriu controlului metrologic al statului pot fi etalonate,
+verificate metrologic sau supuse ambelor operațiuni, la solicitarea beneficiarului, în conformitate cu normativele metrologice, standardele sau alte reglementãri specificate de
+beneficiarii acestor operațiuni, în laboratoare de metrologie
+care asigurã trasabilitatea.
+Documentele eliberate ca urmare a efectuãrii etalonãrii
+și/sau verificãrii metrologice Ñ certificate de etalonare/buletine
+de verificare metrologicã Ñ, precum și conținutul de informații
+al acestora sunt cele specifice acestor operațiuni sau cele
+impuse prin sistemul de acreditare a laboratoarelor de metrologie, cu precizarea cã în documentul Buletin de verificare
+metrologicã se va consemna decizia Corespunde cu cerințele
+în baza cãrora s-a efectuat verificarea metrologicã sau, dupã
+caz, Nu corespunde cu cerințele în baza cãrora s-a efectuat verificarea metrologicã.
+CAPITOLUL V
+Sancțiuni
+Art. 23. Ñ Nerespectarea prevederilor specificate la
+art. 9Ñ19 din prezentele instrucțiuni atrage sancționarea conform art. 29 pct. II lit. c) din Ordonanța Guvernului
+nr. 20/1992, aprobatã și modificatã prin Legea nr. 11/1994.
+
+CAPITOLUL VI
+Prevederi finale și tranzitorii
+Art. 24. Ñ În vederea aplicãrii prezentelor instrucțiuni,
+Biroul Român de Metrologie Legalã va emite proceduri de
+metrologie legalã în termen de 90 de zile de la data publicãrii acestora în Monitorul Oficial al României.
+Art. 25. Ñ Pânã la elaborarea normelor de metrologie
+legalã pentru etalonarea sau verificarea metrologicã a tuturor
+mijloacelor de mãsurare supuse obligatoriu controlului metrologic al statului, transmiterea unitãților de mãsurã la mijloacele de mãsurare pentru care nu sunt elaborate norme de
+CAPITOLUL IV
+metrologie legalã se efectueazã în conformitate cu normele
+Transmiterea unitãților de mãsurã la mijloacele
+tehnice de metrologie și cu instrucțiunile de verificare metrode mãsurare care nu sunt supuse obligatoriu controlului
+logicã în vigoare sau cu alte reglementãri naționale sau intermetrologic al statului
+naționale, stabilite prin ordin al directorului general al Biroului
+Art. 20. Ñ Mijloacele de mãsurare care nu sunt utilizate Român de Metrologie Legalã.
+în domeniile de interes public sau care sunt incluse în Lista
+Art. 26. Ñ Mijloacele de mãsurare care nu au avut aprooficialã a mijloacelor de mãsurare supuse obligatoriu controlului bare de model la data de 1 decembrie 1995, dar au fost
+metrologic al statului și nu sunt utilizate în domeniile de inte- supuse anterior operațiunilor de etalonare sau verificare
+res public nu sunt supuse obligativitãții transmiterii unitãților metrologicã, sau care au fost exceptate de la aprobarea de
+de mãsurã.
+model, în temeiul I.M.L. 2Ñ95, aprobate prin Hotãrârea
+Aceastã prevedere nu scutește de rãspundere persoanele Guvernului nr. 811/1995, pot fi acceptate, în continuare, la
+fizice sau juridice cãrora li se impune, prin alte reglementãri etalonare sau verificare metrologicã.
+legale, obligativitatea transmiterii unitãților de mãsurã sau din
+Art. 27. Ñ Documentele emise în alte țãri ca urmare a
+cauza cãrora, prin neasigurarea transmiterii unitãților de unor operațiuni de transmitere a unitãților de mãsurã Ñ etamãsurã la mijloacele de mãsurare pe care le dețin sau le lonãri și/sau verificãri metrologice Ñ au valabilitate în
+utilizeazã, s-au produs evenimente care afecteazã valori România numai în situația în care Biroul Român de
+materiale sau sociale.
+Metrologie Legalã le recunoaște prin convenții, protocoale
+În cazul mijloacelor de mãsurare care figureazã în Lista sau ordine.
+oficialã a mijloacelor de mãsurare supuse obligatoriu controlului
+Art. 28. Ñ Anexa face parte integrantã din prezentele
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+metrologic al statului, declarate cã nu sunt utilizate în instrucțiuni.
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/23.VI.1998
+Anexã
+la I.M.L. 1Ñ97
+SCHEMÃ DE PRINCIPIU
+
+a transmiterii unitãților de mãsurã
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/23.VI.1998
+
+5
+ANEXA Nr. 2
+
+INSTRUCÞIUNI DE METROLOGIE LEGALÃ
+I.M.L. 2Ñ97
+APROBAREA DE MODEL
+
+CAPITOLUL I
+Prevederi generale
+
+Art. 9. Ñ Aprobarea de model se solicitã de cãtre:
+a) producãtor-fabricant/constructor sau reprezentantul
+împuternicit al acestuia, pentru mijloacele de mãsurare noi,
+Art. 1. Ñ Prezentele instrucțiuni de metrologie legalã prevãzute la art. 6 lit. a) și b);
+stabilesc, în conformitate cu prevederile Ordonanței
+b) deținãtor, pentru mijloacele de mãsurare destinate utiGuvernului nr. 20/1992, aprobatã și modificatã prin Legea lizãrii în exclusivitate, noi sau utilizate anterior în țara de
+nr. 11/1994, condițiile în care se exercitã controlul metrolo- origine, pentru mijloacele de mãsurare prevãzute la art. 6
+gic al statului prin aprobãri de model pentru mijloacele de lit. c), pentru care se acordã aprobare de model indivimãsurare supuse obligatoriu controlului metrologic al statu- dualã.
+Art. 10. Ñ Schimbarea producãtorului atrage dupã sine
+lui, produse sau importate în România.
+Metodologia de acordare a aprobãrii de model este sta- o nouã evaluare.
+Art. 11. Ñ Evaluarea modelului se realizeazã prin una
+bilitã prin proceduri de metrologie legalã.
+sau mai multe din urmãtoarele activitãți:
+Art. 2. Ñ Prin aprobarea de model Biroul Român de
+a) evaluarea documentației anexate cererii;
+Metrologie Legalã atestã conformitatea unui mijloc de
+b) încercãri de model;
+mãsurare cu prevederile normelor de metrologie legalã în
+c) urmãrirea funcționãrii la locul de utilizare;
+vigoare.
+d) evaluarea sistemului de asigurare a calitãții la produArt. 3. Ñ La mijloacele de mãsurare pentru care nu
+cãtor.
+existã norme de metrologie legalã, Biroul Român de
+Art. 12. Ñ Pentru fiecare caz în parte, Biroul Român
+Metrologie Legalã acordã aprobãri de model în conformide Metrologie Legalã stabilește, pe bazã de programe de
+tate cu prevederile reglementãrilor aprobate de directorul evaluare obligatorii, modalitãțile de încercare, conform
+general al acestuia, precum și ale standardelor internațio- art. 11, care sunt aplicabile în funcție de complexitatea și
+nale, naționale și profesionale.
+de dimensiunile de gabarit ale mijloacelor de mãsurare resArt. 4. Ñ Persoanele care participã la activitãți legate pective, de existența aprobãrilor de model anterioare și a
+de acordarea aprobãrii de model trebuie sã asigure confi- unor informații privind comportarea în exploatare, de posibidențialitatea informațiilor referitoare la rezultatele încercãri- litãțile tehnice de efectuare a încercãrilor.
+lor, la construcția mijlocului de mãsurare și la tehnologiile
+Art. 13. Ñ Încercãrile de model se efectueazã sub conde fabricație, cu excepția informațiilor destinate publicãrii. trolul Biroului Român de Metrologie Legalã:
+a) în laboratoare de încercãri din structura Biroului
+CAPITOLUL II
+Român de Metrologie Legalã;
+Mijloacele de mãsurare supuse aprobãrii de model
+b) în laboratoare de încercãri autorizate de Biroul
+Român de Metrologie Legalã;
+Art. 5. Ñ Se supun aprobãrii de model:
+c) în laboratoare de încercãri ale producãtorului mijlocua) mijloacele de mãsurare care figureazã în Lista oficialã
+lui de mãsurare supus aprobãrii, dacã acestea asigurã cona mijloacelor de mãsurare supuse obligatoriu controlului metrodițiile de dotare, exactitate și trasabilitate, impuse prin
+logic al statului, publicatã periodic de Biroul Român de
+programul de evaluare;
+Metrologie Legalã, și care sunt utilizate în domenii de inted) la locul de utilizare;
+res public;
+e) în alte locuri prevãzute în programul de evaluare.
+b) dispozitivele suplimentare sau auxiliare, dacã acestea
+Art. 14. Ñ Biroul Român de Metrologie Legalã poate
+pot influența rezultatele mãsurãrilor executate cu mijloacele recunoaște documentele eliberate în urma încercãrilor de
+de mãsurare cãrora le sunt asociate.
+model efectuate în alte țãri de cãtre autoritãțile naționale
+Art. 6. Ñ Aprobarea de model se acordã pentru:
+de metrologie.
+a) un tip de mijloc de mãsurare cu anumite caracterisArt. 15. Ñ Pe baza analizei raportului de evaluare a
+tici tehnice și metrologice, inclusiv un ansamblu, o instalație modelului, Biroul Român de Metrologie Legalã poate lua
+una dintre urmãtoarele decizii:
+sau un sistem de mãsurare;
+a) sã acorde aprobarea de model, în cazul în care prob) o familie de mijloace de mãsurare definitã ca atare
+de cãtre producãtori, recunoscutã și aprobatã de cãtre gramul de evaluare a modelului a fost încheiat cu rezultate
+Biroul Român de Metrologie Legalã; în acest caz, încercã- corespunzãtoare, situație în care elibereazã certificatul aprorile sunt efectuate pe mijlocul de mãsurare desemnat ca bãrii de model;
+b) sã nu acorde aprobare de model, situație în care
+reprezentativ pentru întreaga familie de mijloace de mãsucomunicã motivația deciziei.
+rare;
+Art. 16. Ñ Termenul de valabilitate a unei aprobãri de
+c) un mijloc de mãsurare.
+model poate fi de maximum 10 ani de la acordare. În
+Art. 7. Ñ Orice modificare a unui tip de mijloc de
+cazul constatãrii unor comportãri necorespunzãtoare în
+mãsurare aprobat atrage dupã sine reevaluarea.
+exploatare a mijlocului de mãsurare, Biroul Român de
+Metrologie Legalã poate decide reexaminarea aprobãrii de
+CAPITOLUL III
+model prin noi evaluãri.
+Acordarea aprobãrii de model
+Art. 17. Ñ Prelungirea termenului de valabilitate a aproArt. 8. Ñ Aprobarea de model se acordã de cãtre bãrii de model se poate acorda, la cerere, fie pe baza
+Biroul Român de Metrologie Legalã, la cerere, pe baza unor încercãri complete sau parțiale, fie pe baza unor
+evaluãrii modelului conform art. 6.
+informații privind For Evaluation Purposes Only
+Compression by CVISION Technologies’ PdfCompressor. stabilitatea caracteristicilor metrologice
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/23.VI.1998
+
+constatate în urma etalonãrii și/sau verificãrii metrologice a
+mijlocului de mãsurare aflat în exploatare.
+Art. 18. Ñ Mijloacele de mãsurare fabricate/construite
+sau importate în perioada de valabilitate a aprobãrii de
+model, aflate în utilizare și care sunt verificate metrologic
+în termen, sunt mijloace de mãsurare legale.
+Art. 19. Ñ Aprobãrile de model pot fi însoțite de condiționãri privind: utilizarea, instalarea, montarea, recalibrarea,
+marcarea, sigilarea, inscripționarea și verificarea metrologicã
+inițialã sau periodicã a mijlocului de mãsurare respectiv,
+precum și pãstrarea modelelor.
+Art. 20. Ñ Marca metrologicã de model, ca semn distinctiv care atestã conformitatea cu modelul aprobat, se
+aplicã în cazurile prevãzute la art. 6 lit. a) și b), prin grija
+producãtorului sau importatorului autorizat, astfel încât sã
+fie lizibilã și rezistentã la ștergere.
+Aplicarea mãrcii metrologice de model este reglementatã
+prin instrucțiuni de metrologie legalã, iar condițiile specifice
+fiecãrui mijloc de mãsurare, referitoare la marca de model,
+sunt reglementate prin precizãrile din aprobarea de model
+respectivã.
+Art. 21. Ñ Un exemplar din documentația care constituie dosarul aprobãrii de model se pãstreazã la Biroul
+Român de Metrologie Legalã pe o perioadã cu 5 ani mai
+mare decât perioada de valabilitate a aprobãrii de model.
+Prin Certificatul aprobãrii de model se stabilește dacã
+este necesarã reținerea, ca model de referințã, a unuia sau
+mai multor exemplare dintre mijloacele de mãsurare supuse
+evaluãrii, precum și locul și condițiile de pãstrare.
+Art. 22. Ñ Certificatul aprobãrii de model se elibereazã
+numai dupã ce solicitantul a achitat costul lucrãrilor efectuate pentru acordarea aprobãrii de model, care se stabilește conform actelor normative în vigoare.
+Art. 23. Ñ Biroul Român de Metrologie Legalã poate
+retrage aprobarea de model, dacã:
+a) mijloacele de mãsurare fabricate/construite sau importate nu sunt conforme cu modelul aprobat;
+b) se constatã cã mijloacele de mãsurare produse sau
+importate în baza aprobãrii de model au deficiențe care le
+fac neutilizabile conform scopurilor propuse;
+c) ca urmare a modificãrii unor reglementãri de metrologie legalã, mijloacele de mãsurare nu mai corespund prevederilor acestora;
+d) titularul nu a respectat condiționãrile din Certificatul
+aprobãrii de model.
+Art. 24. Ñ Biroul Român de Metrologie Legalã publicã
+periodic în publicațiile oficiale de metrologie deciziile de
+acordare sau de retragere a aprobãrilor de model și le
+notificã unitãților de metrologie legalã din subordine, împreunã cu toate informațiile necesare efectuãrii verificãrilor și
+supravegherii metrologice.
+CAPITOLUL IV
+Obligațiile producãtorilor și importatorilor de mijloace de
+mãsurare
+
+lele supuse evaluãrii, însoțite de piesele și dispozitiveleanexã, necesare funcționãrii;
+d) atunci când este cazul, sã asigure mijloacele materiale, etaloanele însoțite de certificatele de etalonare, instalațiile de încercare și personalul auxiliar, în conformitate cu
+prevederile programului de evaluare acceptat și aprobat;
+e) sã colaboreze cu personalul Biroului Român de
+Metrologie Legalã care efectueazã evaluarea/încercarea, la
+solicitarea acestuia, pe tot parcursul evaluãrilor de model;
+f) sã respecte condiționãrile din aprobarea de model;
+g) sã informeze beneficiarii mijloacelor de mãsurare în
+legãturã cu conținutul complet al certificatelor aprobãrii de
+model, inclusiv despre condiționãrile existente;
+h) sã aplice marca metrologicã de model, conform prevederilor Certificatului aprobãrii de model;
+i) sã comunice Biroului Român de Metrologie Legalã
+orice modificare pe care intenționeazã sã o aplice unui tip
+de mijloc de mãsurare fabricat conform aprobãrii de model
+și sã solicite aprobarea modificãrii sau, dupã caz, o nouã
+aprobare de model;
+j) sã conserve nealterate, dupã caz, modelele sau unele
+subansambluri sau pãrți componente ale acestora, precum
+și sã pãstreze documentațiile predate de Biroul Român de
+Metrologie Legalã și sã le punã la dispoziție acestuia ori
+de câte ori li se solicitã;
+k) sã nu expunã în spații destinate operațiunilor comerciale mijloace de mãsurare fãrã aprobare de model, dacã
+acestea nu sunt însoțite de inscripții din care sã rezulte
+caracterul de mostre nevandabile;
+l) sã înceteze producția sau importul la termenele de
+expirare a aprobãrii de model sau în momentul în care nu
+mai sunt îndeplinite cerințele cuprinse în aprobarea de
+model, iar în cazul în care, la data expirãrii valabilitãții
+aprobãrii de model, în România existã stocuri de astfel de
+mijloace de mãsurare, producãtorul sau importatorul este
+obligat sã le declare la Biroul Român de Metrologie Legalã;
+m) sã comunice Biroului Român de Metrologie Legalã
+orice modificare în situația lor juridicã sau tehnicã, de
+naturã sã afecteze conținutul certificatelor aprobãrii de model
+sau elementele care au stat la baza acordãrii aprobãrii de
+model.
+CAPITOLUL V
+Sancțiuni
+Art. 26. Ñ Nerespectarea obligațiilor prevãzute la art. 25
+din prezentele instrucțiuni atrage sancționarea contravenționalã prevãzutã la art. 29 din Ordonanța Guvernului
+nr. 20/1992, aprobatã și modificatã prin Legea nr. 11/1994,
+dupã cum urmeazã:
+Ñ pentru nerespectarea art. 25 lit. a), sancționare conform art. 29 pct. I lit. b);
+Ñ pentru nerespectarea art. 25 lit. f) și i), sancționare
+conform art. 29 pct. I lit. c);
+Ñ pentru nerespectarea art. 25 lit. h), sancționare conform art. 29 pct. I lit. e);
+Ñ pentru nerespectarea art. 25 lit. g), l) și m), sancționare conform art. 29 pct. II lit. c).
+
+Art. 25. Ñ Producãtorii și importatorii de mijloace de
+mãsurare și, dupã caz, reprezentanții împuterniciți ai acestora sunt obligați:
+a) sã punã în circulație mijlocul de mãsurare respectiv
+CAPITOLUL VI
+numai dupã obținerea aprobãrii de model și, dupã caz, a
+Prevederi finale
+autorizației de exercitare a activitãții de fabricare/construire,
+Art. 27. Ñ În vederea aplicãrii prezentelor instrucțiuni,
+import sau vânzare;
+b) sã punã la dispoziție Biroului Român de Metrologie Biroul Român de Metrologie Legalã va emite proceduri de
+Legalã, în limba românã, toate informațiile și documentațiile metrologie legalã în termen de 90 de zile de la data publicãrii acestora în Monitorul Oficial al României, pentru solinecesare pentru definirea modelului supus aprobãrii;
+c) sã punã la dispoziție Biroului Român de Metrologie citanții aprobãrilor de model și pentru ceilalți factori implicați
+Compression by CVISION Technologies’ PdfCompressor. ForșiEvaluation aprobãrii de model.
+în acordarea Purposes Only
+Legalã și sã prezinte în locurile stabilite de acesta mode- în evaluarea modelelor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/23.VI.1998
+
+7
+ANEXA Nr. 3
+
+INSTRUCÞIUNI DE METROLOGIE LEGALÃ
+I.M.L. 3Ñ97
+AUTORIZAÞII ȘI AVIZE METROLOGICE
+
+CAPITOLUL I
+Prevederi generale
+Art. 1. Ñ Prezentele instrucțiuni stabilesc condițiile în
+care se exercitã controlul metrologic al statului prin autorizãri și avizãri pentru desfãșurarea activitãților care fac
+obiectul controlului metrologic al statului și stabilesc cerințele care trebuie îndeplinite de cãtre agenții economici în
+vederea obținerii autorizațiilor și avizelor metrologice.
+Art. 2. Ñ Autorizația metrologicã este documentul eliberat de Biroul Român de Metrologie Legalã prin care se
+acordã dreptul pentru exercitarea unor activitãți ce fac
+obiectul controlului metrologic al statului asupra unor sortimente de mijloace de mãsurare sau asupra unui tip de
+mijloc de mãsurare. Prin autorizare se atestã competența
+legalã, organizatoricã și tehnicã a unei entitãți de a desfãșura activitatea metrologicã respectivã care face obiectul
+controlului metrologic al statului.
+Art. 3. Ñ Avizul metrologic este documentul eliberat de
+Biroul Român de Metrologie Legalã, prin care se acceptã
+începerea efectuãrii unor lucrãri asupra anumitor mijloace
+de mãsurare sau se acceptã utilizarea anumitor mijloace
+de mãsurare. Avizul este necesar numai pentru mijloacele
+de mãsurare pentru care în Lista oficialã a mijloacelor de
+mãsurare supuse obligatoriu controlului metrologic al statului
+existã aceastã precizare.
+Art. 4. Ñ Autorizațiile metrologice se acordã în condițiile
+stabilite de Biroul Român de Metrologie Legalã pentru
+exercitarea asupra mijloacelor de mãsurare supuse obligatoriu controlului metrologic al statului a urmãtoarelor activitãți:
+a) încercarea, etalonarea și/sau verificarea metrologicã;
+b) fabricarea/construirea;
+c) importul;
+d) repararea;
+e) închirierea;
+f) vânzarea;
+g) montarea.
+Art. 5. Ñ Avizele metrologice se acordã pentru fiecare
+mijloc de mãsurare în parte și sunt obligatorii pentru exercitarea urmãtoarelor activitãți:
+a) instalarea mijloacelor de mãsurare supuse obligatoriu
+controlului metrologic al statului, pentru care este precizatã
+verificarea metrologicã la locul utilizãrii;
+b) punerea în funcțiune a anumitor mijloace de mãsurare supuse obligatoriu controlului metrologic al statului, la
+care se prevede obținerea, în prealabil, a avizului de
+punere în funcțiune.
+Art. 6. Ñ Autorizațiile de verificator metrolog sunt documente personale care conferã personalului laboratoarelor
+de metrologie dreptul de a efectua încercãri, etalonãri
+și/sau verificãri metrologice ale mijloacelor de mãsurare
+supuse obligatoriu controlului metrologic al statului.
+Autorizațiile sunt obligatorii pentru personalul care desfãșoarã activitãțile menționate la art. 4 lit. a).
+
+efectuare a transmiterii unitãților de mãsurã prin încercãri,
+etalonãri și/sau verificãri metrologice, laboratorul de metrologie trebuie sã îndeplineascã urmãtoarele condiții:
+a) sã fie identificabil din punct de vedere juridic în
+România, având declaratã activitatea de laborator de
+metrologie pentru încercãri, etalonãri și/sau verificãri metrologice;
+b) sã demonstreze imparțialitate, independențã și integritate;
+c) sã fie competent din punct de vedere tehnico-organizatoric pentru efectuarea încercãrilor, etalonãrilor și/sau
+verificãrilor metrologice;
+d) sã aibã proceduri de cooperare cu toate pãrțile interesate în funcționarea laboratorului de metrologie.
+Art. 8. Ñ Laboratorul de metrologie solicitant poate
+demonstra cã îndeplinește condițiile specificate la art. 7
+prin una dintre urmãtoarele modalitãți:
+a) laboratorul de metrologie este acreditat de cãtre
+organismul național de acreditare a laboratoarelor de
+metrologie;
+b) laboratorul de metrologie este evaluat de cãtre Biroul
+Român de Metrologie Legalã pe baza unei proceduri de
+metrologie legalã.
+Art. 9. Ñ Biroul Român de Metrologie Legalã acordã
+autorizație laboratorului de metrologie pentru desfãșurarea
+activitãților de încercãri, etalonãri și/sau verificãri metrologice
+ale mijloacelor de mãsurare supuse obligatoriu controlului
+metrologic al statului, dacã acesta îndeplinește, suplimentar
+fațã de cele specificate la art. 7, urmãtoarele condiții:
+a) se supune controlului metrologic prin supraveghere,
+exercitat de personalul împuternicit al Biroului Român de
+Metrologie Legalã în baza unei instrucțiuni de metrologie
+legalã. Conducerea laboratorului trebuie sã prezinte o
+declarație în acest sens;
+b) personalul care efectueazã încercãri, etalonãri și/sau
+verificãri metrologice deține autorizații personale pentru sortimentele pentru care se solicitã autorizarea laboratorului;
+c) conducerea laboratorului prezintã o declarație prin
+care se angajeazã sã foloseascã documentele specifice
+recunoscute de Biroul Român de Metrologie Legalã;
+d) conducerea laboratorului prezintã o declarație de utilizare a mãrcilor metrologice de verificare în conformitate
+cu prevederile legale;
+e) conducerea laboratorului prezintã o declarație de
+colaborare cu Biroul Român de Metrologie Legalã în vederea desfãșurãrii expertizelor metrologice;
+f) procedurile de etalonare/verificare utilizate sunt în
+conformitate cu normativele metrologice în vigoare, specifice fiecãrui tip de mijloc de mãsurare.
+B. Activitatea de fabricare/construire a mijloacelor de mãsurare
+supuse obligatoriu controlului metrologic al statului
+
+Art. 10. Ñ În vederea obținerii autorizației pentru exercitarea activitãții de fabricare/construire, agentul economic
+interesat trebuie sã îndeplineascã urmãtoarele condiții:
+a) sã fie identificabil din punct de vedere juridic în
+CAPITOLUL II
+România, având declaratã activitatea de fabricare/construire
+de mijloace de mãsurare;
+Cerințe pentru obținerea autorizațiilor metrologice
+b) sã aibã aprobare de model pentru tipurile de mijA. Activitatea de încercãri, etalonãri și/sau verificãri metrologice
+loace de mãsurare pentru care solicitã autorizarea;
+c) sã aibã condiții tehnico-organizatorice adecvate fabriArt. 7. Ñ Activitatea de încercãri, etalonãri și/sau verificãri metrologice se desfãșoarã de cãtre laboratoare de cãrii/construirii tipurilor de mijloace de mãsurare pentru care
+metrologie. Pentru recunoașterea Technologies’ de solicitã autorizarea;
+Compression by CVISION oficialã a dreptului PdfCompressor. For Evaluation Purposes Only
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/23.VI.1998
+
+d) sã asigure verificarea metrologicã inițialã, într-un laborator de metrologie autorizat, a mijloacelor de mãsurare
+fabricate/construite;
+e) sã se supunã controlului metrologic prin supraveghere, exercitat de personalul împuternicit al Biroului
+Român de Metrologie Legalã în baza unei instrucțiuni de
+metrologie legalã. Conducerea agentului economic trebuie
+sã prezinte o declarație în acest sens;
+f) sã asigure piese de schimb, service în garanție și
+postgaranție pe o perioadã de minimum 10 ani pentru mijloacele de mãsurare fabricate/construite.
+NOTÃ:
+
+Prin construire se înțelege:
+Ñ realizarea unor sisteme de mãsurare din mijloace de
+mãsurare fabricate de cãtre producãtori diferiți;
+Ñ asamblarea unor mijloace de mãsurare de cãtre un
+agent economic, altul decât producãtorul, cãruia producãtorul i-a acordat acest drept.
+C. Activitatea de import al mijloacelor de mãsurare supuse obligatoriu controlului metrologic al statului
+
+Art. 11. Ñ În vederea obținerii autorizației pentru exercitarea activitãții de import, agentul economic interesat trebuie sã îndeplineascã urmãtoarele condiții:
+a) sã fie identificabil din punct de vedere juridic în
+România, având declaratã activitatea de import de mijloace
+de mãsurare;
+b) sã aibã aprobare de model pentru tipurile de mijloace
+de mãsurare pentru care solicitã autorizarea;
+c) sã prezinte o împuternicire de comercializare din partea producãtorului mijlocului de mãsurare;
+d) sã asigure verificarea metrologicã inițialã a mijloacelor
+de mãsurare importate, într-un laborator de metrologie autorizat;
+e) sã se supunã controlului metrologic prin supraveghere, exercitat de personalul împuternicit al Biroului
+Român de Metrologie Legalã pe baza unei instrucțiuni de
+metrologie legalã. Conducerea agentului economic trebuie
+sã prezinte o declarație în acest sens;
+f) sã prezinte o declarație prin care se obligã sã
+importe numai mijloacele de mãsurare care au aplicatã
+marca metrologicã de model;
+g) sã asigure piese de schimb, service în garanție și
+postgaranție pe o perioadã de minimum 10 ani pentru mijloacele de mãsurare importate.
+D. Activitatea de reparare a mijloacelor de mãsurare supuse obligatoriu controlului metrologic al statului
+
+E. Activitatea de închiriere a mijloacelor de mãsurare supuse obligatoriu controlului metrologic al statului
+
+Art. 13. Ñ În vederea obținerii autorizației pentru exercitarea activitãții de închiriere, agentul economic interesat trebuie sã îndeplineascã urmãtoarele condiții:
+a) sã fie identificabil din punct de vedere juridic în
+România, având declaratã activitatea de închiriere de mijloace de mãsurare;
+b) sã aibã condiții tehnico-organizatorice pentru depozitarea și manipularea mijloacelor de mãsurare de închiriat,
+astfel încât sã nu fie afectate caracteristicile metrologice și
+legale ale acestora;
+c) sã asigure verificarea metrologicã a mijloacelor de
+mãsurare închiriate, prin laboratoare de metrologie autorizate;
+d) sã se supunã controlului metrologic prin supraveghere, exercitat de personalul împuternicit al Biroului
+Român de Metrologie Legalã în baza unei instrucțiuni de
+metrologie legalã. Conducerea agentului economic trebuie
+sã prezinte o declarație în acest sens.
+F. Activitatea de vânzare a mijloacelor de mãsurare supuse obligatoriu controlului metrologic al statului
+
+Art. 14. Ñ În vederea obținerii autorizației pentru exercitarea activitãții de vânzare a mijloacelor de mãsurare,
+agentul economic interesat trebuie sã îndeplineascã urmãtoarele condiții:
+a) sã fie identificabil din punct de vedere juridic în
+România, având declaratã activitatea de vânzare de mijloace de mãsurare;
+b) sã aibã condiții tehnico-organizatorice pentru transportul, manipularea, depozitarea și livrarea mijloacelor de
+mãsurare, astfel încât sã nu fie afectate caracteristicile
+metrologice și legale ale acestora;
+c) sã se supunã controlului metrologic prin supraveghere, exercitat de personalul împuternicit al Biroului
+Român de Metrologie Legalã în baza unei instrucțiuni de
+metrologie legalã. Conducerea agentului economic trebuie
+sã prezinte o declarație în acest sens;
+d) sã asigure service pentru mijloacele de mãsurare
+vândute;
+e) sã prezinte o declarație prin care se obligã sã vândã
+numai mijloace de mãsurare care dețin aprobare de model
+și care sunt verificate metrologic în termen;
+f) sã asigure verificarea metrologicã a mijloacelor de
+mãsurare prin laboratoare de metrologie autorizate, în cazul
+în care mijloacele de mãsurare supuse vânzãrii își pierd
+valabilitatea verificãrii metrologice.
+G. Activitatea de montare a mijloacelor de mãsurare supuse obligatoriu controlului metrologic al statului
+
+Art. 12. Ñ În vederea obținerii autorizației pentru exerciArt. 15. Ñ În vederea obținerii autorizației pentru exercitarea activitãții de reparare, agentul economic interesat tretarea activitãții de montare a mijloacelor de mãsurare,
+buie sã îndeplineascã urmãtoarele condiții:
+a) sã fie identificabil din punct de vedere juridic în agentul economic interesat trebuie sã îndeplineascã urmãtoarele condiții:
+România, având declaratã activitatea de reparare de mija) sã fie identificabil din punct de vedere juridic în
+loace de mãsurare;
+România, având declaratã activitatea de montare de mijb) sã aibã condiții tehnico-organizatorice adecvate repa- loace de mãsurare;
+rãrii sortimentelor de mijloace de mãsurare pentru care
+b) sã aibã condiții tehnico-organizatorice pentru montasolicitã autorizarea;
+rea mijloacelor de mãsurare;
+c) sã prezinte o declarație prin care se obligã sã asic) sã se supunã controlului metrologic prin supragure garanția reparației;
+veghere, exercitat de personalul împuternicit al Biroului
+d) sã asigure verificarea metrologicã a mijloacelor de Român de Metrologie Legalã în baza unei instrucțiuni de
+mãsurare reparate, de cãtre un laborator de metrologie metrologie legalã. Conducerea agentului economic trebuie
+autorizat;
+sã prezinte o declarație în acest sens;
+e) sã se supunã controlului metrologic prin suprad) sã prezinte o declarație prin care se obligã sã soliveghere, exercitat de personalul împuternicit al Biroului cite avizul de instalare din partea Biroului Român de
+Român de Metrologie Legalã în baza unei instrucțiuni de Metrologie Legalã în cazul mijloacelor de mãsurare pentru
+metrologie legalã. Conducerea agentului economic trebuie care este precizatã verificarea metrologicã la locul de
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+sã prezinte o declarație în acest sens.
+utilizare;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/23.VI.1998
+e) sã prezinte o declarație prin care se obligã sã monteze numai mijloace de mãsurare verificate metrologic de
+laboratoare de metrologie autorizate, în cazul mijloacelor de
+mãsurare care nu se verificã la locul de utilizare;
+f) sã prezinte o declarație prin care asigurã garanție
+pentru fiecare mijloc de mãsurare montat.
+NOTÃ:
+
+Prin montare se înțelege amplasarea, la locul de utilizare, a unui mijloc de mãsurare sau a unui sistem de
+mãsurare.
+CAPITOLUL III
+Cerințe pentru obținerea avizelor metrologice
+H. Instalarea mijloacelor de mãsurare supuse obligatoriu controlului
+metrologic al statului
+
+Art. 16. Ñ Agentul economic care desfãșoarã activitãți
+de instalare a mijloacelor de mãsurare pentru care în Lista
+oficialã a mijloacelor de mãsurare supuse obligatoriu controlului
+metrologic al statului este prevãzutã verificarea metrologicã
+la locul utilizãrii, înainte de începerea lucrãrilor de instalare,
+trebuie sã obținã avizul de instalare de la Biroul Român de
+Metrologie Legalã.
+Pentru obținerea avizului de instalare, agentul economic
+interesat trebuie sã îndeplineascã urmãtoarele condiții:
+a) sã deținã autorizație de montator din partea Biroului
+Român de Metrologie Legalã, pentru sortimentul de mijloace de mãsurare pentru care se solicitã avizul;
+b) sã aibã competențã tehnico-organizatoricã pentru
+instalarea mijlocului de mãsurare conform cerințelor din
+Certificatul aprobãrii de model și celorlalte cerințe stipulate în
+documentația tehnicã de cãtre fabricantul sau importatorul
+mijlocului de mãsurare;
+c) sã prezinte o declarație prin care se obligã sã asigure verificarea metrologicã a mijlocului de mãsurare de
+cãtre un laborator de metrologie autorizat, dupã încheierea
+lucrãrilor de instalare.
+I. Punerea în funcțiune a mijloacelor de mãsurare supuse obligatoriu
+controlului metrologic al statului
+
+Art. 17. Ñ Agentul economic care deține mijloacele de
+mãsurare pentru care în Lista oficialã a mijloacelor de mãsurare supuse obligatoriu controlului metrologic al statului este
+prevãzutã obținerea avizului este obligat sã obținã avizul de
+punere în funcțiune din partea Biroului Român de
+Metrologie Legalã. Pentru obținerea avizului, agentul economic interesat trebuie sã îndeplineascã urmãtoarele condiții:
+a) sã asigure montarea mijlocului de mãsurare numai cu
+agenți economici autorizați de Biroul Român de Metrologie
+Legalã pentru exercitarea activitãții de montare, pentru respectivul sortiment de mijloace de mãsurare;
+b) sã asigure la montarea mijlocului de mãsurare respectarea cerințelor din Certificatul aprobãrii de model și a
+altor cerințe exprese ale fabricantului sau importatorului, stipulate în documentația tehnicã a produsului;
+c) sã demonstreze cã mijlocul de mãsurare care
+urmeazã a fi pus în funcțiune a fost verificat metrologic de
+cãtre un laborator de metrologie autorizat.
+
+9
+
+a) sã deținã cel puțin diplomã de bacalaureat;
+b) sã facã dovada instruirii practice de minimum 15 zile
+într-un laborator autorizat pentru sortimentele de mijloace
+de mãsurare pentru care solicitã autorizare;
+c) sã promoveze examenul de autorizare Ñ probe
+scrise, orale și practice;
+d) sã facã dovada cã nu a suferit condamnãri pentru
+fapte penale.
+CAPITOLUL V
+Eliberarea autorizațiilor și a avizelor
+Art. 19. Ñ Autorizațiile și avizele pentru activitãțile ce
+fac obiectul controlului metrologic al statului se elibereazã
+de cãtre Biroul Român de Metrologie Legalã, dupã ce solicitanții fac dovada plãții costurilor lucrãrilor prestate.
+Taxele pentru autorizãri și avizãri se achitã anticipat
+solicitãrii și constituie venit la bugetul de stat.
+Art. 20. Ñ Autorizațiile și avizele se acordã în urma
+unor evaluãri prin care se stabilește conformitatea situației
+reale cu documentația prezentatã. Metodologiile de acordare a autorizațiilor și a avizelor sunt stabilite prin proceduri de metrologie legalã.
+Art. 21. Ñ Evaluarea condițiilor tehnico-organizatorice
+specificate la art. 10Ñ15 se efectueazã asupra elementelor
+sistemului de asigurare a calitãții aplicabil, conform prevederilor seriei de standarde SR ISO 9000.
+Art. 22. Ñ Autorizațiile și avizele conțin definirea clarã a
+obiectului autorizãrii sau al avizului, limitele autorizãrii sau
+ale avizului, condiționãrile, precum și modalitãțile de control
+metrologic al statului prin supraveghere metrologicã.
+Metodologia generalã de supraveghere metrologicã se stabilește prin instrucțiuni de metrologie legalã.
+Art. 23. Ñ Durata de valabilitate a tuturor autorizațiilor
+acordate de Biroul Român de Metrologie Legalã este de
+2 ani, cu excepția primei autorizãri a verificatorilor metrologi, care este valabilã un an.
+CAPITOLUL VI
+Drepturi și obligații ale agenților economici care
+desfãșoarã activitãți ce fac obiectul controlului metrologic
+al statului
+
+Art. 24. Ñ Pentru desfãșurarea legalã a activitãților specificate la cap. II, III și IV din prezentele instrucțiuni, agenții economici trebuie sã obținã autorizațiile și avizele
+necesare din partea Biroului Român de Metrologie Legalã.
+Art. 25. Ñ În urma desfãșurãrii activitãților specificate în
+prezentele instrucțiuni trebuie asiguratã verificarea mijloacelor de mãsurare de cãtre laboratoare de metrologie autorizate.
+Art. 26. Ñ Agenții economici care au obținut autorizații
+și avize din partea Biroului Român de Metrologie Legalã
+sunt obligați sã respecte, în cursul desfãșurãrii activitãții,
+limitele autorizãrii și/sau avizului, condițiile în care au fost
+acordate, precum și condiționãrile acestora.
+Art. 27. Ñ Agenții economici care au obținut autorizații
+și avize din partea Biroului Român de Metrologie Legalã
+CAPITOLUL IV
+pot face referiri la acestea în orice document sau
+Cerințe pentru obținerea autorizațiilor personale
+publicație.
+Art. 28. Ñ Orice modificãri ale condițiilor în care s-au
+Art. 18. Ñ Personalul laboratoarelor de metrologie care
+acordat autorizațiile și avizele Ñ extinderi ale obiectului de
+efectueazã încercãri, etalonãri și/sau verificãri metrologice
+asupra mijloacelor de mãsurare supuse obligatoriu contro- activitate, schimbarea denumirii, adresei etc. Ñ necesitã
+lului metrologic al statului, pentru obținerea din partea reînnoirea autorizațiilor și/sau avizelor în termen de 15 zile.
+Biroului Român de Metrologie Legalã a autorizațiilor perso- În caz contrar, autorizațiile/avizele se anuleazã. Reobținerea
+nale de verificatori metrologi, trebuie sã îndeplineascã autorizațiilor și avizelor se reglementeazã prin proceduri de
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+urmãtoarele condiții:
+metrologie legalã.
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/23.VI.1998
+CAPITOLUL VII
+Sancțiuni
+
+Art. 29. Ñ Nerespectarea prevederilor prevãzute la
+art. 24 din prezentele instrucțiuni, precum și utilizarea la
+efectuarea încercãrilor, etalonãrilor și/sau verificãrilor metrologice, în vederea legalizãrii mijloacelor de mãsurare, de
+cãtre personal neautorizat sau având autorizația expiratã,
+
+atrage sancționarea conform art. 29 pct. I lit. a) din
+Ordonanța Guvernului nr. 20/1992, aprobatã și modificatã
+prin Legea nr. 11/1994.
+Art. 30. Ñ Nerespectarea prevederilor art. 25 și 26 din
+prezentele instrucțiuni atrage sancționarea conform art. 29
+pct. II lit. c) din Ordonanța Guvernului nr. 20/1992, aprobatã și modificatã prin Legea nr. 11/1994.
+
+ANEXA Nr. 4
+INSTRUCÞIUNI DE METROLOGIE LEGALÃ
+I.M.L. 4Ñ97
+MÃRCI METROLOGICE DE STAT
+
+CAPITOLUL I
+Prevederi generale
+Art. 1. Ñ Prezentele instrucțiuni de metrologie legalã
+stabilesc, în conformitate cu prevederile Ordonanței
+Guvernului nr. 20/1992, aprobatã și modificatã prin Legea
+nr. 11/1994, condițiile de învestire a mijloacelor de mãsurare care au corespuns controlului metrologic al statului cu
+mãrci metrologice de stat.
+Art. 2. Ñ Mijloacele de mãsurare supuse obligatoriu
+controlului metrologic al statului, care au corespuns controlului metrologic al statului, devin mijloace de mãsurare
+legale. Aceastã calitate se atestã prin documentele specifice, întocmite în urma controlului și, dupã caz, prin învestirea acestora cu mãrci metrologice de stat: marcã
+metrologicã de model și marcã metrologicã de verificare.
+Art. 3. Ñ Mãrcile metrologice de stat atestã legalitatea
+mijloacelor de mãsurare care au corespuns controlului
+metrologic al statului, exercitat în condițiile specificate în
+instrucțiunile de metrologie legalã, prin:
+Ñ aprobãri de model;
+Ñ verificãri metrologice inițiale ale mijloacelor de mãsurare noi, fabricate/construite sau importate;
+Ñ verificãri metrologice ulterioare Ñ periodice, dupã
+reparare sau la cerere Ñ ale mijloacelor de mãsurare
+aflate în utilizare.
+Art. 4. Ñ Biroul Român de Metrologie Legalã stabilește
+reprezentarea graficã și înscrisul mãrcilor metrologice de
+stat, reglementeazã modul de aplicare a acestora prin proceduri de metrologie legalã, ține evidența acestora, coordoneazã execuția centralizatã, distribuie mãrcile metrologice
+de verificare și controleazã modul de utilizare și de aplicare a mãrcilor metrologice de stat.
+CAPITOLUL II
+Marca metrologicã de model
+
+Art. 9. Ñ Marca metrologicã de model se aplicã numai
+pe mijloacele de mãsurare produse sau importate în
+perioada de valabilitate înscrisã în Certificatul aprobãrii de
+model.
+Art. 10. Ñ Reprezentarea graficã și înscrisul mãrcii de
+model sunt redate în anexã, iar detaliile de realizare sunt
+precizate în procedura de metrologie legalã specificã.
+CAPITOLUL III
+Marca metrologicã de verificare
+Art. 11. Ñ Mijloacele de mãsurare supuse obligatoriu
+controlului metrologic al statului, care au corespuns controlului exercitat prin verificãri metrologice, se învestesc cu
+mãrci metrologice de verificare.
+Art. 12. Ñ Documentul în baza cãruia se aplicã marca
+metrologicã de verificare este Buletinul de verificare metrologicã, cu decizia Admis, eliberat de personalul verificator
+autorizat care a efectuat verificarea mijlocului de mãsurare
+respectiv.
+Art. 13. Ñ Marca metrologicã de verificare se aplicã de
+personalul verificator autorizat care a efectuat verificarea
+metrologicã în conformitate cu prevederile normei de metrologie legalã aplicabilã și a întocmit Buletinul de verificare
+metrologicã cu decizia Admis.
+Art. 14. Ñ Marca metrologicã de verificare aplicatã pe
+mijlocul de mãsurare este valabilã numai în intervalul de
+timp precizat în Buletinul de verificare metrologicã, interval
+care nu trebuie sã depãșeascã perioada de verificare stabilitã în Lista oficialã a mijloacelor de mãsurare supuse obligatoriu controlului metrologic al statului, pentru mijlocul de
+mãsurare respectiv.
+Art. 15. Ñ Reprezentarea graficã și înscrisul mãrcilor
+metrologice de verificare sunt redate în anexã, iar detaliile
+de realizare Ñ dimensiuni, materiale Ñ sunt precizate în
+procedura de metrologie specificã.
+Art. 16. Ñ Mãrcile metrologice de verificare se înapoiazã Biroului Român de Metrologie Legalã în cazul în care
+au termenul de valabilitate Ñ anul înscris Ñ depãșit, precum și în cazul expirãrii autorizației laboratorului de metrologie sau a personalului verificator.
+
+Art. 5. Ñ Mijloacele de mãsurare produse/fabricate/construite sau importate, supuse obligatoriu controlului metrologic al statului, care sunt conforme cu modelele aprobate,
+se învestesc cu marca metrologicã de model.
+Art. 6. Ñ Documentul eliberat de Biroul Român de
+Metrologie Legalã în baza cãruia se aplicã marca metroloCAPITOLUL IV
+gicã de model este Certificatul aprobãrii de model.
+Obligațiile deținãtorilor și utilizatorilor de mãrci
+Art. 7. Ñ Marca metrologicã de model se aplicã pe mijmetrologice de stat
+locul de mãsurare, prin grija producãtorului și/sau importaArt. 17. Ñ Agenții economici care au obținut de la
+torului mijlocului de mãsurare, la loc vizibil, astfel încât sã
+Biroul Român de Metrologie Legalã dreptul de a aplica
+fie lizibilã și rezistentã la ștergere.
+Art. 8. Ñ Condițiile specifice de aplicare pe un anumit marca metrologicã de model au obligația:
+a) sã aplice marca metrologicã de model numai pe mijmijloc de mãsurare se stabilesc în proceduri de metrologie
+legalã specifice și în CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+loacele de mãsurare conforme cu modelul aprobat;
+Compression by Certificatul aprobãrii de model.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/23.VI.1998
+b) sã aplice marca metrologicã de model în condițiile
+specificate în Certificatul de aprobare de model.
+Art. 18. Ñ Personalul verificator autorizat care a obținut
+de la Biroul Român de Metrologie Legalã dreptul de utilizare a mãrcilor metrologice de verificare are obligația:
+a) sã aplice marca metrologicã de verificare numai pe
+mijloacele de mãsurare supuse obligatoriu controlului metrologic al statului, care au corespuns verificãrii metrologice;
+b) sã predea mãrcile metrologice de verificare Biroului
+Român de Metrologie Legalã, la expirarea valabilitãții acestora, a autorizației laboratorului în care își desfãșoarã activitatea sau a autorizației personale.
+
+11
+
+CAPITOLUL V
+Sancțiuni
+Art. 19. Ñ Nerespectarea obligațiilor prevãzute la art. 17
+lit. a) și la art. 18 lit. a) din prezentele instrucțiuni atrage
+sancționarea conform art. 29 pct. I lit. e) din Ordonanța
+Guvernului nr. 20/1992, aprobatã și modificatã prin Legea
+nr. 11/1994.
+Art. 20. Ñ Nerespectarea obligațiilor prevãzute la art. 17
+lit. b) și la art. 18 lit. b) din prezentele instrucțiuni atrage
+sancționarea conform art. 29 pct. II lit. c) din Ordonanța
+Guvernului nr. 20/1992, aprobatã și modificatã prin Legea
+nr. 11/1994.
+Art. 21. Ñ Anexa face parte integrantã din prezentele
+instrucțiuni.
+Anexã
+la I.M.L. 4 Ñ 97
+
+REPREZENTAREA GRAFICÃ ȘI ÎNSCRISUL
+MÃRCILOR METROLOGICE DE STAT
+
+1. Marca metrologicã de model conține înscrisurile:
+Ñ simbolul României (RO);
+Ñ numãrul curent al aprobãrii de model (XXX);
+Ñ ultimele douã cifre ale anului în care s-a acordat
+aprobarea de model (YY).
+Reprezentare graficã:
+RO XXX/YY
+
+2. Marca metrologicã de verificare conține înscrisurile:
+Ñ simbolul României (RO);
+Ñ ultimele douã cifre ale anului în care s-a efectuat
+verificarea metrologicã (YY);
+Ñ indicativul de identificare a personalului verificator
+autorizat (XXX).
+Reprezentare graficã:
+RO YY/XXX
+
+ANEXA Nr. 5
+INSTRUCÞIUNI DE METROLOGIE LEGALÃ
+I.M.L. 5Ñ97
+SISTEMUL NAÞIONAL DE ETALOANE ALE UNITÃÞILOR DE MÃSURÃ
+
+CAPITOLUL I
+Prevederi generale
+
+Art. 4. Ñ Etaloanele primare sunt etaloanele care prezintã cele mai înalte calitãți metrologice, ale cãror valori
+sunt atribuite fãrã raportare la alte etaloane ale aceleiași
+Art. 1. Ñ Sistemul național de etaloane ale unitãților de mãrimi.
+mãsurã constituie baza științificã, tehnicã și legalã de refeArt. 5. Ñ Etaloanele secundare sunt etaloane ale cãror
+rințã pentru asigurarea uniformitãții, exactitãții și legalitãții valori sunt atribuite prin comparație cu etaloanele primare
+mãsurãrilor efectuate pe teritoriul național, inclusiv în relați- ale acelorași mãrimi.
+ile economice și tehnico-științifice cu alte țãri.
+Art. 6. Ñ Etaloanele, dupã destinația lor la locul de utiSistemul cuprinde etaloanele naționale și etaloanele teri- lizare, se clasificã în:
+toriale, constituind un ansamblu coerent și ierarhizat în
+a) etaloane de referințã;
+funcție de nivelurile de exactitate și de criteriile teritoriale,
+b) etaloane de lucru.
+conform unor proceduri specifice.
+Art. 7. Ñ Etaloanele de referințã sunt etaloanele de cea
+Sistemul este deschis și perfectibil. El trebuie permanent mai înaltã calitate metrologicã, disponibile într-un loc dat
+adaptat intereselor economice, științifice și sociale ale țãrii, sau într-o organizație datã, de la care derivã mãsurãrile
+convențiilor internaționale la care România este parte și ori- care sunt efectuate în acel loc.
+cãror modificãri ulterioare ale Sistemului internațional de
+Art. 8. Ñ Etaloanele de lucru sunt etaloanele utilizate
+unitãți de mãsurã.
+în mod curent pentru a etalona sau a verifica mãsuri, apaArt. 2. Ñ Mãsurile, aparatele, dispozitivele, instalațiile, rate de mãsurat sau materiale de referințã.
+mostrele de materiale și substanțele care materializeazã și
+Art. 9. Ñ Etaloanele, dupã locul de utilizare a acestora,
+conservã unitãți de mãsurã și furnizeazã informații de se clasificã în:
+mãsurare sunt mijloace de mãsurare.
+a) etaloane naționale;
+Mijloacele de mãsurare etalon sunt mijloacele de mãsub) etaloane teritoriale;
+rare destinate sã defineascã, sã realizeze, sã conserve sau
+c) etaloane ale agenților economici și ale altor
+sã reproducã unitãțile de mãsurã și sunt folosite, exclusiv, organizații.
+pentru a le transmite altor mijloace de mãsurare. Ele vor fi
+Art. 10. Ñ Etaloanele naționale sunt etaloane primare
+denumite, în continuare, pe scurt, etaloane.
+sau etaloane secundare, recunoscute prin hotãrâre a
+Art. 3. Ñ Etaloanele, în funcție de performanțele teh- Guvernului, care nu sunt aducãtoare de venituri.
+nice și metrologice, se clasificã în:
+Etaloanele naționale trebuie sã fie trasabile la etaloanele
+a) etaloane primare;
+internaționale sau la alte etaloane recunoscute pe plan
+b) etaloane secundare.
+mondial sau regional.
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/23.VI.1998
+
+Art. 11. Ñ Etaloanele teritoriale sunt etaloane secundare
+sau etaloane de lucru, recunoscute de Biroul Român de
+Metrologie Legalã ca referințã pentru conservarea și transmiterea unitãților de mãsurã în anumite zone teritoriale ale
+României.
+Etaloanele teritoriale trebuie sã fie trasabile la etaloanele
+naționale.
+Art. 12. Ñ Trasabilitatea etaloanelor este garantatã de
+cãtre Biroul Român de Metrologie Legalã prin atestarea lor
+în calitate de componente ale Sistemului național de etaloane. Atestarea se realizeazã pe baza unor proceduri de
+metrologie legalã.
+CAPITOLUL II
+Etaloane naționale
+Art. 13. Ñ Etaloanele naționale reprezintã bunuri
+publice, referințã unicã legalã pentru reproducerea, conservarea și transmiterea unitãților de mãsurã în România.
+Art. 14. Ñ Etaloanele naționale sunt deținute, perfecționate, conservate și utilizate de instituții specializate, stabilite
+prin hotãrâre a Guvernului.
+Art. 15. Ñ Etaloanele naționale sunt supuse unui regim
+de pãstrare, perfecționare, comparare, utilizare, întreținere,
+transport, înlocuire și scoatere din uz, stabilit prin proceduri
+de metrologie specifice.
+Art. 16. Ñ Deținãtorii etaloanelor naționale au urmãtoarele obligații:
+a) sã întocmeascã și sã actualizeze periodic dosarele
+etaloanelor naționale;
+b) sã menținã etaloanele naționale în limitele prescrise
+ale caracteristicilor metrologice; sã coreleze etaloanele
+naționale cu etaloane recunoscute pe plan mondial, în
+vederea asigurãrii trasabilitãții internaționale;
+c) sã asigure disponibilitatea etaloanelor naționale pentru
+transmiterea unitãții de mãsurã; sã realizeze condițiile necesare de securitate, de prevenire a unor intervenții neautorizate și de asigurare a integritãții etaloanelor naționale în
+cazuri de calamitãți sau alte evenimente deosebite care le
+pot afecta integritatea sau performanțele;
+d) sã permitã accesul la etaloanele naționale numai persoanelor autorizate în acest scop.
+Art. 17. Ñ Se considerã ca fiind asociate etalonului
+național: încãperea în care este amplasat, instalațiile sau
+aparatele cu ajutorul cãrora se realizeazã compararea altor
+etaloane cu etalonul național, aparatele auxiliare cu care se
+determinã valorile mãrimilor de influențã, utilajele auxiliare
+și cele care contribuie la realizarea condițiilor necesare
+pentru funcționarea etalonului național. Acestea sunt precizate la atestarea etalonului național.
+Art. 18. Ñ Fiecare etalon național trebuie sã fie însoțit
+de o documentație al cãrei conținut este stabilit prin proceduri de metrologie legalã. Documentația se întocmește în
+
+3 exemplare identice, cu urmãtoarele destinații: un exemplar se pãstreazã la Biroul Român de Metrologie Legalã,
+un exemplar se pãstreazã de cãtre deținãtorul etalonului și
+un exemplar se pãstreazã de laboratorul de metrologie
+însãrcinat cu reproducerea, conservarea și transmiterea unitãților de mãsurã.
+Art. 19. Ñ În vederea asigurãrii stabilitãții și trasabilitãții
+internaționale, etaloanele naționale se comparã, direct sau
+prin intermediul unor metode prevãzute în documentația
+specificã, cu etaloanele internaționale sau ale altor țãri.
+Aceste comparãri reprezintã condiții în vederea atestãrii.
+Art. 20. Ñ Etaloanele naționale sunt atestate de cãtre
+organul tehnic de specialitate al Biroului Român de
+Metrologie Legalã, numit în acest scop, prin ordin, de cãtre
+directorul general.
+Art. 21. Ñ Etaloanele naționale care nu mai prezintã
+garanțiile necesare sunt scoase din uz prin ordin al directorului general al Biroului Român de Metrologie Legalã,
+care informeazã Guvernul despre împrejurãrile care au
+determinat aceastã decizie.
+Art. 22. Ñ Mutarea pe alt amplasament sau scoaterea
+din țarã a etaloanelor naționale, pentru comparãri cu etaloanele internaționale, se poate face numai cu acordul
+Biroului Român de Metrologie Legalã.
+Art. 23. Ñ Orice situații deosebite în legãturã cu etaloanele naționale trebuie comunicate imediat de cãtre deținãtori Biroului Român de Metrologie Legalã.
+Reparațiile, modificãrile sau îmbunãtãțirile etaloanelor
+naționale pot fi efectuate numai cu acordul prealabil
+al Biroului Român de Metrologie Legalã și implicã
+reatestarea lor.
+CAPITOLUL III
+Etaloane teritoriale
+Art. 24. Ñ Etaloanele teritoriale sunt deținute, perfecționate, conservate și utilizate, de regulã, de cãtre laboratoarele teritoriale de metrologie ale Biroului Român de
+Metrologie Legalã.
+CAPITOLUL IV
+Sancțiuni
+Art. 25. Ñ Nerespectarea prevederilor prevãzute la
+art. 20 lit. a) și b) din prezentele instrucțiuni atrage sancționarea în conformitate cu art. 29 pct. I lit. g) din
+Ordonanța Guvernului nr. 20/1992, aprobatã și modificatã
+prin Legea nr. 11/1994.
+Art. 26. Ñ Nerespectarea prevederilor prevãzute la
+art. 20 lit. c) din prezentele instrucțiuni atrage sancționarea
+în conformitate cu art. 29 pct. II lit. c) din Ordonanța
+Guvernului nr. 20/1992, aprobatã și modificatã prin Legea
+nr. 11/1994.
+ANEXA Nr. 6
+
+INSTRUCÞIUNI DE METROLOGIE LEGALÃ
+I.M.L. 6Ñ97
+CONTROLUL METROLOGIC AL STATULUI PRIN INSPECÞII ȘI TESTÃRI INOPINATE
+
+ile, precum și ale persoanelor fizice și juridice supuse
+controlului.
+Art. 2. Ñ Controlul metrologic al statului prin inspecții și
+Art. 1. Ñ Prezentele instrucțiuni stabilesc condițiile
+testãri inopinate se exercitã de cãtre personal al Biroului
+de exercitare a controlului metrologic al statului prin
+inspecții și testãri inopinate asupra mãsurãrilor și mij- Român de Metrologie Legalã, special împuternicit în acest
+loacelor de mãsurare, precum și drepturile și obligațiile scop prin ordin al directorului general, în temeiul art. 36
+personalului Biroului Român de Metrologie Legalã, din Ordonanța Guvernului nr. 20/1992, aprobatã și modifiîmputernicit sã by CVISION Technologies’ PdfCompressor. 11/1994.
+Compressionconstate și sã sancționeze contravenți- catã prin Legea nr.For Evaluation Purposes Only
+CAPITOLUL I
+Prevederi generale
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/23.VI.1998
+Art. 3. Ñ Documentele de referințã utilizate de persoanele prevãzute la art. 2 pentru efectuarea controlului metrologic prin inspecții și testãri inopinate sunt reglementãrile
+legale privind activitatea de metrologie Ñ legi, hotãrâri ale
+Guvernului, instrucțiuni de metrologie legalã Ñ, precum și
+reglementãrile referitoare la mãsurãri.
+CAPITOLUL II
+A. Condiții generale de desfãșurare a controlului
+
+Art. 4. Ñ Persoanele fizice și juridice care utilizeazã în
+activitãțile proprii, pentru mãsurãri, mijloace de mãsurare
+supuse obligatoriu controlului metrologic al statului sunt
+denumite în continuare agenți controlați.
+Art. 5. Ñ Controalele metrologice prin inspecții și testãri
+inopinate se desfãșoarã de cãtre persoanele împuternicite
+conform art. 2, pe bazã de ordin de serviciu, eliberat de
+conducãtorul unitãții teritoriale a Biroului Român de
+Metrologie Legalã. Aceste persoane sunt denumite în continuare agenți constatatori.
+Art. 6. Ñ Cu ocazia inspecțiilor inopinate efectuate se
+consemneazã în procesul-verbal de control cel puțin urmãtoarele informații:
+a) datele de identificare a agentului controlat Ñ numele
+sau denumirea, adresa, buletinul de identitate sau numãrul
+de înregistrare la oficiul registrului comerțului, codul fiscal
+etc.;
+b) activitatea generalã desfãșuratã și mãsurãrile de interes public efectuate;
+c) metoda de mãsurare utilizatã și constatãri privind
+corectitudinea ei;
+d) constatãri privind adaptarea caracteristicilor tehnice și
+metrologice ale mijloacelor de mãsurare la metoda de
+mãsurare utilizatã;
+e) legalitatea mijloacelor de mãsurare utilizate în mãsurãrile din domeniile de interes public;
+f) rezultatele testãrilor și mãsurãrilor efectuate;
+g) aspecte conexe, dacã existã;
+h) dacã s-a întocmit proces-verbal de contravenție.
+Art. 7. Ñ Pentru stabilirea corectitudinii rezultatelor
+mãsurãrilor efectuate de agentul controlat și a modului de
+funcționare a mijloacelor de mãsurare se utilizeazã, pentru
+testare, mijloace de mãsurare legale și corespunzãtoare din
+punct de vedere tehnic.
+Art. 8. Ñ Forma proceselor-verbale de control și de
+contravenție, precum și modul de completare se stabilesc
+prin proceduri de metrologie legalã.
+Art. 9. Ñ Înainte de începerea controlului, agenții constatatori sunt obligați sã prezinte agentului controlat legitimația de inspecție și ordinul de serviciu.
+Art. 10. Ñ În cazul în care reprezentantul legitim al
+agentului controlat nu este prezent sau situația legalitãții nu
+poate fi stabilitã pe loc, agentul constatator va efectua constatãrile tehnice și va preda reprezentantului prezent al
+agentului controlat o invitație de prezentare la sediul unitãții
+teritoriale a Biroului Român de Metrologie Legalã.
+B. Ridicarea de probe pentru efectuarea analizelor și mãsurãrilor
+comparative, în vederea determinãrii corectitudinii rezultatelor de mãsurare declarate
+
+13
+
+ora la care va avea loc testarea. Agentul controlat este
+invitat la testare.
+Art. 14. Ñ Constatãrile se vor efectua în prezența
+agentului controlat sau a reprezentantului acestuia ori a
+unui martor, în cazul în care agentul controlat nu se prezintã la data și la ora stabilite. Înainte de începerea constatãrilor, agentul constatator va consemna inviolabilitatea
+sigiliilor.
+Art. 15. Ñ În urma constatãrilor, agentul constatator va
+întocmi proces-verbal de control metrologic și, dacã este
+cazul, proces-verbal de contravenție.
+C. Interzicerea utilizãrii, sigilarea și confiscarea mijloacelor de mãsurare nelegale
+
+Art. 16. Ñ În cazul în care se constatã utilizarea de
+mijloace de mãsurare nelegale, agentul constatator va
+întocmi proces-verbal de contravenție și va sigila mijlocul
+de mãsurare.
+Art. 17. Ñ În cazul în care se constatã utilizarea mijloacelor de mãsurare modificate, dereglate, agenții constatatori vor întocmi proces-verbal de confiscare și vor
+confisca mijloacele de mãsurare respective. Mijloacele de
+mãsurare confiscate se valorificã sau se distrug conform
+prevederilor legale.
+Art. 18. Ñ Sigilarea împotriva utilizãrii se consemneazã
+în procesul-verbal de contravenție. Ruperea sigiliilor îi este
+permisã doar personalului atelierelor de reparat mijloace de
+mãsurare, autorizate pentru respectivul sortiment de mijloace de mãsurare, și se face numai în prezența verificatorilor metrologi. Aceasta se consemneazã într-un document
+oficial.
+Ruperea sigiliilor de cãtre alte persoane este interzisã,
+fapta fiind sancționabilã conform prevederilor Codului penal,
+republicat.
+CAPITOLUL III
+Drepturi și obligații ale persoanelor fizice și juridice
+supuse controlului metrologic al statului prin inspecții și
+testãri inopinate
+Art. 19. Ñ Agentul controlat are urmãtoarele drepturi:
+a) sã solicite agentului constatator legitimația de inspecție și ordinul de serviciu;
+b) sã solicite, pentru luare la cunoștințã, documentele de
+referințã în baza cãrora se efectueazã controlul metrologic;
+c) sã-și expunã obiecțiile privind constatãrile efectuate,
+care vor fi consemnate în procesele-verbale întocmite;
+d) sã conteste, în conformitate cu prevederile legale,
+rezultatele controlului.
+Art. 20. Ñ Agentul controlat are urmãtoarele obligații:
+a) sã permitã accesul agentului constatator în locurile
+unde se efectueazã mãsurãrile și unde se aflã mijloacele
+de mãsurare supuse controlului;
+b) sã permitã ridicarea de probe în condițiile stabilite la
+art. 11Ñ15;
+c) sã se conformeze deciziilor luate de agentul constatator privind interzicerea utilizãrii mijloacelor de mãsurare.
+
+CAPITOLUL IV
+Art. 11. Ñ În cazurile în care nu se pot face determinãri și mãsurãri la locul controlului, agentul constatator va
+Sancțiuni
+proceda la ridicarea de probe pentru efectuarea testãrilor în
+Art. 21. Ñ Nerespectarea prevederilor art. 20 lit. a) și
+condiții de laborator.
+Art. 12. Ñ Probele ridicate vor fi introduse în ambalaje b) din prezentele instrucțiuni atrage sancționarea în conforși vor fi sigilate, în prezența agentului controlat, cu etichete, mitate cu art. 29 pct. I lit. g) din Ordonanța Guvernului
+astfel încât deschiderea ambalajului sã se poatã face doar nr. 20/1992, aprobatã și modificatã prin Legea nr. 11/1994.
+Art. 22. Ñ Nerespectarea prevederilor art. 20 lit. c) din
+cu distrugerea etichetei-sigiliu.
+Art. 13. Ñ Agentul constatator va completa și va preda prezentele instrucțiuni atrage sancționarea în conformitate
+agentului controlat o invitație în care va consemna denumi- cu art. 29 pct. II lit. c) din Ordonanța Guvernului
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Legea nr. 11/1994.
+rea produsului și cantitatea ridicatã pentru probe, data și nr. 20/1992, aprobatã și modificatã prin Purposes Only
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/23.VI.1998
+ANEXA Nr. 7
+INSTRUCÞIUNI DE METROLOGIE LEGALÃ
+I.M.L. 7Ñ97
+SUPRAVEGHEREA METROLOGICÃ A ACTIVITÃÞILOR DEÞINÃTORILOR DE AUTORIZAÞII METROLOGICE
+
+CAPITOLUL I
+Prevederi generale
+Art. 1. Ñ Prezentele instrucțiuni reglementeazã modul
+de exercitare a controlului metrologic al statului prin supraveghere metrologicã.
+Art. 2. Ñ Supravegherea metrologicã a activitãții deținãtorilor de autorizații metrologice este activitatea exercitatã
+de cãtre Biroul Român de Metrologie Legalã asupra agenților economici care desfãșoarã activitãți ce fac obiectul
+controlului metrologic al statului.
+Art. 3. Ñ Supravegherea metrologicã se desfãșoarã în
+conformitate cu prevederile prezentelor instrucțiuni, iar costurile aferente se suportã de cãtre agenții economici supuși
+supravegherii metrologice.
+CAPITOLUL II
+Condiții de exercitare a supravegherii metrologice
+A. Supravegherea activitãții de încercãri, etalonãri și/sau verificãri
+metrologice
+
+b) pentru laboratoare de metrologie aparținând fabricanților/constructorilor și importatorilor Ñ tabelul nr. 2 din
+anexã;
+c) pentru laboratoare de metrologie aparținând deținãtorilor mijloacelor de mãsurare Ñ tabelul nr. 3 din anexã.
+NOTÃ:
+
+Pentru evaluarea în vederea autorizãrii, laboratoarele de
+metrologie se încadreazã în una dintre categoriile prevãzute la lit. a) Ð c).
+Art. 10. Ñ Constatãrile efectuate cu ocazia supravegherii pot conduce la stabilirea unor mãsuri corective.
+Art. 11. Ñ Metodologia de efectuare a supravegherii
+metrologice se stabilește de cãtre Biroul Român de
+Metrologie Legalã prin proceduri de metrologie legalã.
+B. Supravegherea agenților economici care desfãșoarã activitãți de
+fabricare/construire sau import de mijloace de mãsurare
+
+Art. 12. Ñ Supravegherea metrologicã a activitãților de
+fabricare/construire și import de mijloace de mãsurare se
+desfãșoarã pe baza programului de supraveghere stabilit
+cu ocazia autorizãrii.
+Art. 13. Ñ Supravegherea metrologicã se exercitã prin
+monitorizare și reevaluare.
+Art. 14. Ñ Monitorizarea urmãrește, în principal, modul
+de asigurare a legalitãții tuturor mijloacelor de mãsurare
+livrate.
+Art. 15. Ñ Reevaluãrile desfãșurate periodic urmãresc,
+în principal:
+a) respectarea aprobãrilor de model și a condițiilor în
+care s-a acordat autorizația pentru exercitarea activitãții;
+b) modul de asigurare a etalonãrilor și/sau verificãrilor
+metrologice inițiale ale mijloacelor de mãsurare
+fabricate/construite sau importate;
+c) modul de recepție, manipulare, transport, depozitare
+și livrare;
+d) modul de asigurare de service în garanție și postgaranție;
+e) înregistrãrile fabricantului/constructorului sau importatorului.
+Art. 16. Ñ Constatãrile efectuate cu ocazia supravegherii pot conduce la stabilirea unor mãsuri corective.
+
+Art. 4. Ñ Încercãrile, etalonãrile și verificãrile metrologice se desfãșoarã de cãtre agenții economici care dețin
+autorizație în acest sens din partea Biroului Român de
+Metrologie Legalã.
+Art. 5. Ñ Supravegherea metrologicã a laboratoarelor
+de metrologie se desfãșoarã pe baza programului de
+supraveghere metrologicã, comunicat cu ocazia autorizãrii
+și acceptat de cãtre conducerea laboratorului.
+Art. 6. Ñ Programul de supraveghere metrologicã
+cuprinde calendarul acțiunilor de supraveghere și modalitãțile de supraveghere metrologicã.
+Art. 7. Ñ Supravegherea metrologicã a laboratoarelor
+de încercãri, etalonãri și/sau verificãri metrologice se desfãșoarã în douã etape:
+a) controlul respectãrii condițiilor în care a fost acordatã
+autorizarea și modul de funcționare a laboratorului;
+b) testarea unui eșantion reprezentativ din mijloacele de
+mãsurare încercate, etalonate și/sau verificate de cãtre
+laboratorul de metrologie supus supravegherii. Testarea se
+efectueazã prin repetarea etalonãrilor și/sau verificãrilor
+metrologice. Cuantificarea se efectueazã asupra rezultatelor
+declarate de cãtre laboratorul de metrologie supravegheat.
+Art. 8. Ñ Controlul respectãrii condițiilor în care a fost
+C. Supravegherea metrologicã a agenților economici care
+acordatã autorizarea se efectueazã prin monitorizarea acti- desfãșoarã activitate de reparare de mijloace de mãsurare în cadrul atevitãții laboratorului de metrologie de cãtre Biroul Român de lierelor autorizate
+Metrologie Legalã și prin reevaluãri periodice.
+Art. 17. Ñ Supravegherea metrologicã a atelierelor
+Cu ocazia reevaluãrilor periodice se urmãresc cel puțin: autorizate de reparat mijloace de mãsurare se desfãșoarã
+a) modul de completare și de eliberare a documentelor pe baza programului de supraveghere stabilit cu ocazia
+emise la încercare, etalonare și/sau verificare;
+autorizãrii.
+b) înregistrãrile laboratorului de metrologie;
+Art. 18. Ñ Supravegherea metrologicã se exercitã prin
+c) starea etaloanelor, mijloacelor de mãsurare, a utilaje- monitorizare și reevaluare.
+lor și instalațiilor, în vederea pãstrãrii caracteristicilor tehArt. 19. Ñ Monitorizarea urmãrește, în principal, modul
+nice și metrologice inițiale;
+de asigurare a legalitãții prin verificarea în laboratoarele de
+d) modul de executare de cãtre personalul autorizat a metrologie autorizate a tuturor mijloacelor de mãsurare
+operațiunilor de transmitere a unitãților de mãsurã;
+reparate.
+e) modul de recepție, manipulare, depozitare și livrare a
+Art. 20. Ñ Reevaluãrile desfãșurate periodic urmãresc,
+mijloacelor de mãsurare asupra cãrora își exercitã activita- în principal:
+tea laboratorul de metrologie.
+a) înregistrãrile atelierului;
+Art. 9. Ñ Numãrul mijloacelor de mãsurare care constib) starea etaloanelor mijloacelor de mãsurare, a instalatuie eșantioane supuse supravegherii prin verificãri metrolo- țiilor și utilajelor;
+gice, prezentat în anexã, a fost stabilit în funcție de gradul
+c) modul de asigurare a etalonãrilor și/sau verificãrilor
+de asigurare a independenței, imparțialitãții și integritãții, și metrologice ale mijloacelor de mãsurare reparate;
+anume:
+d) modul de recepție, manipulare și livrare a mijloacelor
+a) pentru laboratoare de metrologie care au demonstrat, de mãsurare reparate;
+cu ocazia autorizãrii, cã au calitatea de parte neutrã Ñ
+e) modul de acordare și asigurare a garanției dupã
+tabelul nr. 1 din by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+reparare.
+Compression anexã;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/23.VI.1998
+Art. 21. Ñ Constatãrile efectuate cu ocazia supravegherii pot conduce la stabilirea unor mãsuri corective.
+D. Supravegherea metrologicã a agenților economici care desfãșoarã activitate de închiriere de mijloace de mãsurare
+
+Art. 22. Ñ Supravegherea metrologicã a agenților economici autorizați care desfãșoarã activitate de închiriere de
+mijloace de mãsurare se desfãșoarã pe baza programului
+de supraveghere stabilit cu ocazia autorizãrii.
+Art. 23. Ñ Supravegherea metrologicã se exercitã prin
+monitorizare și reevaluare.
+Art. 24. Ñ Monitorizarea urmãrește, în principal, modul
+de asigurare a legalitãții tuturor mijloacelor de mãsurare de
+închiriat.
+Art. 25. Ñ Reevaluãrile periodice urmãresc, în principal,
+urmãtoarele aspecte:
+a) starea tehnico-legalã a mijloacelor de mãsurare închiriate;
+b) înregistrãrile agentului economic;
+c) modul de tratare a mijloacelor de mãsurare care
+și-au pierdut legalitatea;
+d) modul propriu de monitorizare a utilizãrii mijloacelor
+de mãsurare închiriate.
+Art. 26. Ñ Constatãrile efectuate cu ocazia supravegherii pot conduce la stabilirea unor mãsuri corective.
+E. Supravegherea metrologicã a agenților economici care desfãșoarã activitate de vânzare de mijloace de mãsurare
+
+Art. 27. Ñ Supravegherea metrologicã a agenților economici autorizați care desfãșoarã activitate de vânzare de
+mijloace de mãsurare se desfãșoarã pe baza programului
+de supraveghere stabilit cu ocazia autorizãrii.
+Art. 28. Ñ Supravegherea metrologicã se exercitã prin
+monitorizare și reevaluare.
+Art. 29. Ñ Monitorizarea urmãrește, în principal, modul
+de asigurare a legalitãții tuturor mijloacelor de mãsurare
+vândute.
+Art. 30. Ñ Reevaluãrile desfãșurate periodic urmãresc,
+în principal:
+a) starea tehnico-legalã a mijloacelor de mãsurare pregãtite pentru vânzare;
+b) înregistrãrile agentului economic;
+c) modul de tratare a mijloacelor de mãsurare care
+și-au pierdut legalitatea;
+d) modul de recepție, transport, manipulare, depozitare
+și livrare a mijloacelor de mãsurare.
+Art. 31. Ñ Constatãrile efectuate cu ocazia supravegherii pot conduce la stabilirea unor mãsuri corective.
+
+15
+
+CAPITOLUL III
+Obligațiile agenților economici care desfãșoarã activitãți
+ce fac obiectul controlului metrologic al statului și sunt
+supuși supravegherii metrologice
+Art. 32. Ñ Agenții economici care sunt supuși supravegherii metrologice sunt obligați:
+a) sã respecte programul de supraveghere pe care l-au
+acceptat cu ocazia autorizãrii;
+b) sã permitã personalului Biroului Român de Metrologie
+Legalã desemnat cu supravegherea accesul în laboratorul
+de metrologie și la documentele metrologice specifice;
+c) sã respecte condițiile în baza cãrora au obținut autorizarea și sã aplice mãsurile corective stabilite de cãtre
+Biroul Român de Metrologie Legalã;
+d) sã ținã și sã punã la dispoziție organelor Biroului
+Român de Metrologie Legalã evidențele prevãzute de sistemul de evidențã a activitãții de metrologie, stabilit prin
+instrucțiuni de metrologie legalã.
+CAPITOLUL IV
+Sancțiuni
+Art. 33. Ñ Nerespectarea obligațiilor prevãzute la art. 32
+lit. a) și la art. 32 lit. c) din prezentele instrucțiuni atrage
+sancționarea conform art. 29 pct. II lit. c) din Ordonanța
+Guvernului nr. 20/1992, aprobatã și modificatã prin Legea
+nr. 11/1994, și/sau suspendarea autorizației.
+Art. 34. Ñ Nerespectarea obligațiilor prevãzute la art. 32
+lit. b) din prezentele instrucțiuni atrage sancționarea
+conform art. 29 pct. I lit. g) din Ordonanța Guvernului
+nr. 20/1992, aprobatã și modificatã prin Legea nr. 11/1994.
+Art. 35. Ñ Nerespectarea obligațiilor prevãzute la art. 32
+lit. d) din prezentele instrucțiuni atrage sancționarea conform art. 29 pct. II lit. d) din Ordonanța Guvernului
+nr. 20/1992, aprobatã și modificatã prin Legea nr. 11/1994.
+CAPITOLUL V
+Prevederi finale
+Art. 36. Ñ Reclamațiile și sesizãrile privind mijloacele de
+mãsurare și mãsurãrile de interes public se soluționeazã
+doar de cãtre Biroul Român de Metrologie Legalã prin
+expertize metrologice, efectuate în laboratoare de metrologie autorizate de acesta.
+Art. 37. Ñ Anexa face parte integrantã din prezentele
+instrucțiuni.
+
+Anexã la
+I.M.L. 7Ñ97
+PLANURILE DE SUPRAVEGHERE METROLOGICÃ A LABORATOARELOR DE METROLOGIE AUTORIZATE
+
+în funcție de numãrul de mijloace de mãsurare etalonate și/sau verificate metrologic
+de cãtre acestea
+Supravegherea unui laborator de metrologie autorizat supraveghere de cãtre personalul Biroului Român de
+începe cu nivelul de supraveghere normalã.
+Metrologie Legalã desemnat cu efectuarea controlului. În
+Deciziile privind aplicarea nivelurilor de supraveghere cazul în care la douã controale metrologice de supraredusã, severã, foarte severã sau de retragere a autoriza- veghere consecutive s-a trecut la un nivel mai sever de
+ției se iau de cãtre conducerea unitãții teritoriale a Biroului supraveghere, acest nivel de supraveghere devine, prin
+Român de Metrologie Legalã, în urma analizei rezultatelor decizia conducerii unitãții teritoriale a Biroului Român de
+supravegherii.
+Metrologie Legalã, nivelul de începere a supravegherii.
+În cazul în care, dupã patru controale metrologice de
+În cazul rezultatelor necorespunzãtoare la nivelul de
+supraveghere · A = 0, dupã analiza activitãții laboratorului supraveghere foarte severã, conducerea unitãții teritoriale a
+de metrologie autorizat, conducerea unitãții teritoriale a Biroului Român de Metrologie Legalã poate lua decizia de
+Biroului Român de Metrologie Legalã poate lua decizia de suspendare a autorizației.
+efectuare a supravegherii reduse.
+Verificãrile metrologice de supraveghere efectuate de cãtre
+Decizia de trecere la un nivel mai sever de supra- personalul desemnat al Biroului Român de Metrologie Legalã
+veghere se ia cu ocazia fiecãrui control metrologic de nu atestã legalitatea nici Evaluation Purposes nici
+Compression by CVISION Technologies’ PdfCompressor. Forunui mijloc de mãsurare din lot șiOnly
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 228/23.VI.1998
+
+unui indice privind calitatea produsului. Prin aceastã operațiune se cuantificã doar corectitudinea în care s-au efectuat
+operațiunile de etalonãri și/sau verificãri metrologice de
+cãtre laboratorul de metrologie autorizat. În urma
+verificãrilor metrologice de supraveghere, personalul Biroului
+Român de Metrologie Legalã nu elibereazã Buletin de verificare metrologicã sau Certificat de etalonare. Rezultatele obținute se consemneazã în procesul-verbal de control
+metrologic, care reprezintã și baza de calcul pentru facturarea și decontarea lucrãrilor de supraveghere.
+Lotul de mijloace de mãsurare supus supravegherii N
+poate fi și eterogen, eșantionarea fãcându-se la fel, dar
+urmãrind și respectarea urmãtoarei relații:
+100 (Cn/CN) = 100 (n/N) +/Ð 2 (%), în care:
+Cn = suma tarifelor de etalonare și/sau verificare prevãzute în lista oficialã, pentru eșantionul n;
+CN = suma tarifelor de etalonare și/sau verificare prevãzute în lista oficialã, pentru întregul lot N;
+
+N = numãrul mijloacelor de mãsurare etalonate și/sau
+verificate de laboratorul de metrologie supus supravegherii,
+în perioada dintre douã controale metrologice de supraveghere;
+n = numãrul mijloacelor de mãsurare ale eșantionului
+prelevat din lotul N, care sunt supuse unei noi etalonãri
+și/sau verificãri metrologice în cadrul controlului metrologic
+de supraveghere;
+A = numãrul maxim de mijloace de mãsurare gãsite
+respinse la verificarea metrologicã de supraveghere, pentru
+care nu se ia o decizie de supraveghere severã;
+R = numãrul minim de mijloace de mãsurare gãsite respinse la verificarea metrologicã de supraveghere, pentru
+care se pot lua decizii de supraveghere severã.
+Costurile supravegherii metrologice pe care trebuie sã le
+suporte laboratorul de metrologie autorizat sunt formate din
+Cn și tariful orar al vizitei de reevaluare.
+
+Tabelul nr. 1. Ñ Planuri de supraveghere a laboratoarelor prevãzute la art. 9 lit. a)
+N
+
+9É15
+16É25
+26É50
+51É90
+91É150
+151É280
+281É500
+501É1.200
+
+Nivel de
+supraveghere redusã
+
+n=1;
+n=2;
+n=3;
+n=5;
+n=8;
+n=12;
+n=20;
+
+n=0
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+
+Nivel de
+supraveghere normalã
+
+n=1;
+n=2;
+n=3;
+n=5;
+n=8;
+n=12;
+n=20;
+n=40;
+
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+
+Nivel de
+supraveghere severã
+
+n=2;
+n=3;
+n=5;
+n=8;
+n=12;
+n=20;
+n=40;
+n=90;
+
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+
+Nivel de
+supraveghere foarte severã
+
+n=3;
+n=5;
+n=8;
+n=12;
+n=20;
+n=40;
+n=90;
+n=130;
+
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+
+Tabelul nr. 2. Ñ Planuri de supraveghere a laboratoarelor prevãzute la art. 9 lit. b)
+N
+
+9É15
+16É25
+26É50
+51É90
+91É150
+151É280
+281É500
+501É1.200
+
+Nivel de
+supraveghere redusã
+
+n=2;
+n=3;
+n=5;
+n=5;
+n=8;
+n=12;
+n=20;
+n=30;
+
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+
+Nivel de
+supraveghere normalã
+
+n=3;
+n=5;
+n=8;
+n=12;
+n=20;
+n=30;
+n=50;
+n=90;
+
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+
+Nivel de
+supraveghere severã
+
+n=5;
+n=8;
+n=12;
+n=20;
+n=30;
+n=50;
+n=90;
+n=130;
+
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+
+Nivel de
+supraveghere foarte severã
+
+n=8;
+n=12;
+n=20;
+n=30;
+n=50;
+n=90;
+n=130;
+n=190;
+
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+
+Tabelul nr. 3. Ñ Planuri de supraveghere a laboratoarelor prevãzute la art. 9 lit. c)
+N
+
+9É15
+16É25
+26É50
+51É90
+91É150
+151É280
+281É500
+501É1.200
+1.201É3.200
+
+Nivel de
+supraveghere redusã
+
+n=3;
+n=5;
+n=8;
+n=12;
+n=20;
+n=30;
+n=50;
+n=90;
+n=130;
+
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+
+Nivel de
+supraveghere normalã
+
+n=5;
+n=8;
+n=12;
+n=20;
+n=30;
+n=50;
+n=90;
+n=130;
+n=190;
+
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+
+Nivel de
+supraveghere severã
+
+n=8;
+n=12;
+n=20;
+n=30;
+n=50;
+n=90;
+n=130;
+n=190;
+n=270;
+
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+
+Nivel de
+supraveghere foarte severã
+
+n=N;
+n=N;
+n=N;
+n=50;
+n=90;
+n=130;
+n=190;
+n=270;
+n=450;
+
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+A=0;
+
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+R=1
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 30.98.12.301 B.C.R. Ñ S.M.B.
+Adresa pentru publicitate : Serviciul relații cu publicul și agenții economici, București,
+Str. Blanduziei nr. 1, sectorul 2, telefon 211.57.30.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 668.55.58 și 335.01.11/4028.
+Monitorul Oficial al României, Partea I, nr. 228/23.VI.1998 conține 16
+Prețul 1.440 lei
+ISSN 1453Ñ4495
+Compression by CVISION Technologies’pagini.
+PdfCompressor. For Evaluation Purposes Only
+
+

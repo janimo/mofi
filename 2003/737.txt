@@ -1,0 +1,1497 @@
+Anul 171 (XV) Ñ Nr. 737
+
+PARTEA
+
+I
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+
+Miercuri, 22 octombrie 2003
+
+SUMAR
+Nr.
+
+Pagina
+
+Nr.
+vențiilor referitoare la comercializarea sau utilizarea vehiculelor rutiere, a echipamentelor, pieselor
+de schimb și materialelor destinate acestora, la
+funcționarea unitãților de reparații și reconstrucție
+a vehiculelor, a stațiilor de inspecție tehnicã,
+precum și la metodologia de efectuare
+a inspecției tehnice periodice...................................
+
+8Ð10
+
+1.395. Ñ Ordin al ministrului finanțelor publice pentru
+aprobarea Normelor privind aplicarea scutirii de
+taxa pe valoarea adãugatã pentru livrãrile de
+bunuri și prestãrile de servicii în favoarea directã
+a misiunilor diplomatice, oficiilor consulare și
+reprezentanțelor internaționale interguvernamentale
+acreditate în România, precum și a personalului
+acestora......................................................................
+
+10Ð16
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+232. Ñ Ordin al directorului general al Biroului Român
+de Metrologie Legalã privind aprobarea Normei de
+metrologie legalã ”NML 022-03 Cronotahografe,,.......
+373/99. Ñ Ordin al ministrului muncii, solidaritãții sociale
+și familiei și al ministrului economiei și comerțului
+pentru stabilirea documentelor justificative și a
+modalitãții de decontare privind taxa pentru abonamentul la curentul electric pentru nevãzãtorii
+cu handicap grav ......................................................
+
+1Ð6
+
+6Ð8
+
+525. Ñ Ordin al ministrului transporturilor, construcțiilor
+și turismului privind exercitarea controlului
+respectãrii reglementãrilor și sancționãrii contra-
+
+ACTE
+ALE
+
+ALE
+
+ORGANELOR
+
+ADMINISTRAÞIEI
+
+Pagina
+
+DE
+
+SPECIALITATE
+
+PUBLICE
+
+CENTRALE
+
+MINISTERUL ECONOMIEI ȘI COMERÞULUI
+BIROUL ROMÂN DE METROLOGIE LEGALÃ
+
+ORDIN
+privind aprobarea Normei de metrologie legalã ”NML 022-03 Cronotahografe,,
+În conformitate cu Hotãrârea Guvernului nr. 899/2003 privind stabilirea condițiilor referitoare la aprobarea de model
+pentru aparatul de control în transporturile rutiere, la omologarea de tip a limitatoarelor de vitezã, precum și a condițiilor
+de montare, reparare, reglare și verificare a aparatelor de control în transporturile rutiere și a limitatoarelor de vitezã,
+în temeiul Ordonanței Guvernului nr. 20/1992 privind activitatea de metrologie, aprobatã și modificatã prin Legea
+nr. 11/1994, cu modificãrile ulterioare,
+în baza Hotãrârii Guvernului nr. 193/2002 privind organizarea și funcționarea Biroului Român de Metrologie Legalã,
+în baza Instrucțiunilor de Metrologie Legalã IML 1-97 și IML 2-97, aprobate prin Hotãrârea Guvernului nr. 318/1998,
+directorul general al Biroului Român de Metrologie Legalã emite urmãtorul ordin:
+Art. 1. Ñ Se aprobã Norma de metrologie legalã
+”NML 022-03 Cronotahografe,, cuprinsã în anexa care face
+parte integrantã din prezentul ordin.
+Art. 2. Ñ La data de 19 octombrie 2003 se abrogã
+
+Norma de metrologie legalã ”NML 10-02-96 Cronotahografe
+pentru autovehicule,,, Ediție oficialã 1996, aprobatã prin
+Ordinul directorului general al Biroului Român de Metrologie
+Legalã nr. 105 din 14 octombrie 1996.
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 737/22.X.2003
+
+Art. 3. Ñ Unitãțile din structura și în subordinea Biroului
+Român de Metrologie Legalã vor duce la îndeplinire
+prevederile prezentului ordin.
+
+Art. 4. Ñ Prezentul ordin va fi publicat în Monitorul
+Oficial al României, Partea I, și va intra în vigoare la data
+publicãrii lui.
+
+p. Directorul general al Biroului Român de Metrologie Legalã,
+Valentin Pãtãșanu
+București, 15 octombrie 2003.
+Nr. 232.
+
+ANEXÃ
+
+NORMA DE METROLOGIE LEGALÃ
+”NML 022-03 Cronotahografe,,
+1. Domeniu de aplicare
+Prezenta normã de metrologie legalã stabilește cerințele
+tehnice și metrologice pe care trebuie sã le îndeplineascã,
+în vederea acordãrii aprobãrii de model, atât cronotahografele la care înregistrarea datelor se face pe foi de
+înregistrare, cât și foile de înregistrare utilizate în acest
+scop.
+Prezenta normã de metrologie legalã nu se referã la
+cronotahografele la care înregistrarea datelor se efectueazã
+pe un tip de suport diferit de cel prezentat la alineatul
+precedent.
+2. Terminologie
+În sensul prezentei norme de metrologie legalã, termenii
+specifici utilizați au urmãtoarele semnificații:
+2.1. cronotahograf: aparat destinat sã fie instalat pe
+vehiculele rutiere pentru a indica și a înregistra pe foi de
+înregistrare, în mod automat sau semiautomat, datele privind mersul acestor vehicule și anumite perioade de lucru
+ale șoferilor lor; în alte reglementãri naționale și
+internaționale, cronotahograful este desemnat și prin alți termeni echivalenți: aparat de control, tahograf, echipament de
+înregistrare;
+2.2. foaie de înregistrare: foaie conceputã pentru a primi
+și a pãstra înregistrãrile, care se introduce în cronotahograf
+și pe care dispozitivele de înregistrare ale acestuia înscriu
+în mod continuu diagramele datelor de înregistrat;
+2.3. constanta cronotahografului: caracteristicã numericã
+ce reprezintã valoarea semnalului de intrare necesar pentru
+a obține indicarea și înregistrarea unei distanțe parcurse de
+un kilometru; aceastã constantã trebuie sã fie exprimatã fie
+în rotații pe kilometru (K = ... rot./km), fie în impulsuri pe
+kilometru (K = ... imp./km);
+2.4. coeficient specific al vehiculului: caracteristicã numericã ce reprezintã valoarea semnalului de ieșire emis de
+piesa vehiculului ce se racordeazã la cronotahograf (axul
+de ieșire din cutia de viteze), pentru distanța parcursã de
+vehicul egalã cu un kilometru, în condiții normale de încercare; coeficientul specific al vehiculului se exprimã fie în
+rotații pe kilometru (W... rot./km), fie în impulsuri pe kilometru (W... imp./km).
+3. Cerințe tehnice și metrologice pentru cronotahograf
+3.1. Cerințe generale
+
+3.1.1. Cronotahograful trebuie sã fie astfel realizat încât
+sã înregistreze urmãtoarele:
+a) distanța parcursã de vehicul;
+b) viteza vehiculului;
+
+c) timpul de conducere;
+d) alte perioade de lucru sau disponibile;
+e) pauzele și periodele de odihnã zilnicã;
+f) deschiderea cutiei care conține foaia de înregistrare;
+g) pentru cronotahografele electronice, care funcționeazã
+pe bazã de semnale transmise electric de la senzorul de
+distanțã și de vitezã, orice întrerupere mai mare de 100
+milisecunde a alimentãrii cronotahografului (cu excepția iluminãrii), a alimentãrii senzorului de distanțã și de vitezã și
+orice întrerupere a semnalului senzorului de distanțã și de
+vitezã.
+Pentru vehiculele folosite de doi șoferi, cronotahograful
+trebuie sã înregistreze perioadele menționate la lit. c), d) și
+e), în mod simultan și distinct, pe douã foi de înregistrare
+separate.
+3.1.2. Cronotahograful trebuie sã includã urmãtoarele
+dispozitive:
+a) dispozitive indicatoare pentru:
+Ñ distanța parcursã (totalizator al distanței parcurse);
+Ñ vitezã (vitezometru);
+Ñ timp (ceas);
+b) dispozitive înregistratoare care sã cuprindã:
+Ñ un înregistrator pentru distanța parcursã;
+Ñ un înregistrator pentru vitezã;
+Ñ unul sau mai multe înregistratoare de timp;
+c) un dispozitiv de închidere și marcare, care sã indice
+separat pe foaia de înregistrare:
+Ñ fiecare deschidere a cutiei care conține aceastã
+foaie;
+Ñ pentru cronotahografele electronice prevãzute la
+pct. 3.1.1 lit. g), orice întrerupere a alimentãrii electrice a
+cronotahografului mai mare de 100 milisecunde (cu
+excepția iluminãrii), pânã în momentul în care se face
+realimentarea;
+Ñ pentru cronotahografele electronice prevãzute la
+pct. 3.1.1 lit. g), orice întrerupere a alimentãrii electrice a
+senzorului de distanțã și vitezã mai mare de 100 milisecunde și orice întrerupere a semnalului senzorului de distanțã și de vitezã.
+3.1.3. Includerea în cronotahograf a unor dispozitive
+suplimentare fațã de cele enumerate la pct. 3.1.2 nu
+trebuie sã afecteze buna funcționare a dispozitivelor
+obligatorii și nici sã împiedice citirea acestora.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 737/22.X.2003
+Cronotahograful trebuie sã fie supus aprobãrii de model
+echipat cu aceste dispozitive suplimentare.
+3.1.4. Toate elementele constitutive ale cronotahografului
+trebuie sã fie realizate din materiale cu o rezistențã
+mecanicã și stabilitate corespunzãtoare, având caracteristici
+electrice și magnetice invariabile.
+3.1.5. Orice modificare a unei pãrți componente a unui
+cronotahograf cu aprobare de model emisã de Biroul
+Român de Metrologie Legalã sau a tipului de materiale
+folosite la fabricația cronotahografului respectiv trebuie sã
+fie supusã aprobãrii Biroului Român de Metrologie Legalã,
+înainte de a fi aplicatã în producție.
+3.1.6. Distanțele parcurse pot fi mãsurate și înregistrate
+fie:
+Ñ astfel încât sã includã ambele mișcãri, de mers
+înainte și de mers înapoi; fie
+Ñ astfel încât sã includã numai mișcarea de mers
+înainte.
+Orice înregistrare a manevrelor de mers înapoi nu trebuie sã afecteze claritatea și exactitatea celorlalte înregistrãri.
+3.1.7. Frecvența proprie și amortizarea dispozitivului de
+mãsurare a vitezei trebuie sã fie astfel încât dispozitivele
+de indicare și înregistrare a vitezei sã funcționeze în limitele erorilor tolerate, în cadrul domeniului de mãsurare, în
+condițiile unor variații ale accelerației de pânã la 2 m/s2.
+3.1.8. Comanda dispozitivului de setare a orei trebuie
+sã se gãseascã în interiorul cutiei care conține foaia de
+înregistrare; fiecare deschidere a acestei cutii trebuie sã fie
+înregistratã automat pe foaia de înregistrare.
+3.1.9. Dacã mecanismul de avansare a foii de
+înregistrare este comandat de ceas, durata de funcționare
+corectã a acestuia, dupã armarea completã, trebuie sã fie
+superioarã cu cel puțin 10% duratei de înregistrare
+corespunzãtoare încãrcãrii maxime cu foi de înregistrare a
+aparatului.
+3.1.10. Dispozitivele indicatoare ale cronotahografului trebuie sã fie prevãzute cu o iluminare adecvatã, care sã nu
+fie prea puternicã.
+3.1.11. Pentru condițiile normale de utilizare, toate
+pãrțile interne ale cronotahografului trebuie sã fie protejate
+împotriva umiditãții și prafului. În plus, ele trebuie sã fie
+protejate împotriva intervențiilor neautorizate, prin intermediul unor carcase care pot fi sigilate.
+3.1.12. Erori tolerate pentru cronotahograful neinstalat
+pe vehicul:
+a) eroarea toleratã atât pentru indicarea, cât și pentru
+înregistrarea distanței parcurse este de ±1% din valoarea
+convențional adevãratã pentru o distanțã parcursã de cel
+puțin un kilometru;
+b) eroarea toleratã atât pentru indicarea, cât și pentru
+înregistrarea vitezei este de ±3 km/h din valoarea
+convențional adevãratã;
+c) eroarea toleratã atât pentru indicarea, cât și pentru
+înregistrarea timpului este de ±2 min./zi, dar nu mai mult
+de ±10 min./7 zile, în cazul în care perioada de
+funcționare a ceasului, dupã rearmare, nu este mai micã
+decât aceastã perioadã.
+Cronotahograful neinstalat pe vehicul trebuie sã se încadreze în erorile tolerate menționate mai sus, pentru temperaturi ale mediului ambiant cuprinse între 0¼C și 40¼C,
+
+3
+
+temperaturile fiind înregistrare în imediata apropiere a
+aparatului.
+3.2. Cerințe specifice dispozitivelor indicatoare
+
+A. Dispozitivul indicator al distanței parcurse
+3.2.1. Valoarea diviziunii dispozitivului indicator al distanței parcurse trebuie sã fie de 0,1 km. Cifrele care indicã
+hectometri trebuie sã fie diferențiate în mod clar de cele
+care indicã kilometri.
+3.2.2. Cifrele dispozitivului indicator al distanței parcurse
+trebuie sã fie clar lizibile și sã aibã o înãlțime aparentã de
+cel puțin 4 mm.
+3.2.3. Dispozitivul indicator al distanței parcurse trebuie
+sã aibã capacitatea sã indice pânã la cel puțin 99999,9 km.
+B. Dispozitivul indicator al vitezei
+3.2.4. În limitele domeniului de mãsurare, scara de
+vitezã trebuie sã fie gradatã în mod uniform, prin 1, 2, 5
+sau 10 km/h. Valoare diviziunii nu trebuie sã depãșeascã
+10% din limita superioarã a domeniului scãrii de vitezã.
+3.2.5. Zonele din afara domeniului de mãsurare a vitezei nu trebuie sã fie inscripționate cu cifre.
+3.2.6. Distanța dintre douã repere ale scãrii, care reprezintã o diferențã de vitezã de 10 km/h, trebuie sã fie de
+cel puțin 10 mm.
+3.2.7. Pe un indicator cu ac, distanța dintre ac și
+suprafața cadranului nu trebuie sã depãșeascã 3 mm.
+C. Dispozitivul indicator al timpului (ceas)
+3.2.8. Indicatorul de timp trebuie sã fie vizibil din
+exteriorul aparatului, iar citirea acestuia trebuie sã fie
+sigurã, ușoarã și clarã.
+3.3. Cerințe specifice dispozitivelor înregistratoare
+
+A. Cerințe generale
+3.3.1. Cronotahograful trebuie prevãzut cu un reper care
+sã permitã o așezare corectã a foii de înregistrare, oricare
+ar fi forma acesteia (bandã sau disc), astfel încât ora indicatã de ceas sã corespundã cu ora înscrisã pe foaie.
+3.3.2. Mecanismul care antreneazã foaia de înregistrare
+trebuie sã asigure antrenarea acesteia fãrã joc, introducerea și scoaterea foii în mod liber.
+3.3.3. Dispozitivul de avansare a foii de înregistrare,
+când aceasta are forma unui disc, trebuie sã fie comandat
+de mecanismul ceasului. În acest caz, mișcarea de rotație
+a foii trebuie sã fie continuã și uniformã, cu o vitezã
+minimã de 7 mm/h, mãsuratã pe cercul interior al zonei de
+înregistrare a vitezei.
+În cazul aparatelor cu bandã, când dispozitivul de avansare este comandat de mecanismul ceasului, viteza de
+avansare rectilinie trebuie sã fie de cel puțin 10 mm/h.
+3.3.4. Înregistrãrile distanței parcurse, ale vitezei vehiculului și ale oricãrei deschideri a cutiei conținând foaia sau
+foile de înregistrare trebuie sã se facã în mod automat.
+B. Dispozitivul înregistrator al distanței parcurse
+3.3.5. Fiecare kilometru al distanței parcurse trebuie sã
+fie reprezentat pe diagramã printr-o variație de cel puțin
+1 mm pe coordonata corespunzãtoare.
+3.3.6. Diagrama distanței parcurse trebuie sã fie clar
+lizibilã, inclusiv la viteze situate la limita superioarã a
+domeniului de mãsurare.
+C. Dispozitivul înregistrator al vitezei
+3.3.7. Acul de înregistrare a vitezei trebuie sã aibã în
+mod normal o mișcare rectilinie și perpendicularã pe
+direcția de deplasare a foii de înregistrare, oricare ar fi
+forma acesteia.
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 737/22.X.2003
+
+Totuși, poate fi admisã o mișcare curbilinie a acului,
+dacã sunt îndeplinite urmãtoarele condiții:
+Ñ traiectoria acului trebuie sã fie perpendicularã pe circumferința medie (în cazul foilor sub formã de disc) sau
+pe axa zonei rezervate înregistrãrii vitezei (în cazul foilor
+sub formã de bandã);
+Ñ raportul dintre raza de curburã a traiectoriei trasate
+de ac și lãțimea zonei rezervate înregistrãrii vitezei nu trebuie sã fie mai mic de 2,4 : 1, oricare ar fi forma foii de
+înregistrare;
+Ñ reperele scãrii de timp trebuie sã intersecteze zona
+de înregistrare dupã o curbã cu aceeași razã ca traiectoria
+descrisã de ac. Distanța între douã repere succesive pe
+scara de timp trebuie sã reprezinte o perioadã de cel mult
+o orã.
+3.3.8. Fiecare variație a vitezei de 10 km/h trebuie sã
+fie reprezentatã pe diagramã printr-o variație de cel puțin
+1,5 mm pe coordonata corespunzãtoare.
+D. Dispozitivul înregistrator al timpului
+3.3.9. Cronotahograful trebuie sã fie astfel construit,
+încât sã înregistreze automat timpul de conducere și separat, dupã eventuala operare a unui dispozitiv de comutare,
+celelalte perioade de timp, sub semnele corespunzãtoare,
+dupã cum urmeazã:
+a) sub semnul
+b) sub semnul
+lucru;
+
+orei trebuie sã fie înregistratã în mod automat pe foaia sau
+pe foile de înregistrare.
+3.5. Cerințe privind inscripționarea
+
+3.5.1. Pe panoul frontal al cronotahografului trebuie sã
+figureze urmãtoarele inscripții:
+Ñ lângã numãrul indicat de totalizatorul distanței parcurse, unitatea de mãsurã a distanței, cu simbolul ”km,,;
+Ñ lângã scara de vitezã, simbolul ”km/h,,;
+Ñ domeniul de mãsurare a vitezei, de forma
+”Vmin...km/h, Vmax...km/h,,. Aceastã inscripție nu este
+necesarã dacã ea figureazã pe placa de identificare a cronotahografului, menționatã la pct. 3.5.2.
+3.5.2. Cronotahograful trebuie sã aibã încorporatã o
+placã de identificare cu urmãtoarele inscripții, care trebuie
+sã fie vizibile și atunci când aparatul este instalat:
+Ñ numele și adresa producãtorului aparatului;
+Ñ seria și anul de fabricație;
+Ñ marcajul aprobãrii de model a cronotahografului;
+Ñ constanta aparatului, cu simbolul ”Κ = ...rot./km,, sau
+”Κ = .... imp./km,,;
+Ñ opțional, domeniul de mãsurare a vitezei, sub forma
+indicatã la pct. 3.5.1;
+Ñ dacã aparatul este sensibil la înclinare, putând conduce la depãșirea erorilor tolerate, se inscripționeazã
+unghiul permis, de forma prezentatã în figura 1:
+
+: timpul de conducere;
+: toate celelalte perioade de
+
+c) sub semnul
+: alte perioade disponibile, și
+anume:
+Ñ timpul de așteptare Ñ perioada în care șoferii nu
+sunt obligați sã rãmânã la posturile lor de muncã decât
+doar pentru a rãspunde la un eventual apel pentru a porni
+sau a relua cursa sau pentru a efectua alte activitãți;
+Ñ timpul petrecut alãturi de șofer în timpul mersului
+vehiculului;
+Ñ timpul petrecut într-o cușetã, în timpul mersului
+vehiculului;
+d) sub semnul
+: pauze și perioade de
+odihnã zilnicã.
+3.3.10. Caracteristicile traiectoriilor, pozițiile lor relative
+și, dacã este necesar, semnele prevãzute la pct. 3.3.9 trebuie sã facã posibilã deosebirea clarã dintre diversele perioade de timp.
+Diversele perioade de timp pot fi diferențiate unele fațã
+de altele prin diferența de grosime a liniilor
+corespunzãtoare acestora sau prin orice alt sistem care sã
+fie cel puțin la fel de eficace din punctul de vedere al lizibilitãții și interpretãrii diagramei.
+3.2.11. În cazul vehiculelor folosite de un echipaj compus din mai mult de un șofer, înregistrãrile menționate la
+pct. 3.3.9 trebuie sã fie fãcute pe douã foi separate,
+fiecare foaie fiind atribuitã unui șofer. În acest caz, antrenarea foilor de înregistrare separate trebuie sã fie efectuatã
+fie de același mecanism, fie de mecanisme separate,
+sincronizate.
+3.4. Cerințe specifice dispozitivului de închidere și marcare
+
+3.4.1. Cutia care conține foaia sau foile de înregistrare
+și comanda dispozitivului de setare a orei trebuie sã aibã
+o încuietoare.
+3.4.2. Fiecare deschidere a cutiei conținând foaia sau
+foile de înregistrare și comanda dispozitivului de setare a
+
+Figura 1
+în care α este unghiul de înclinare fațã de poziția orizontalã a panoului frontal (orientat în sus), pentru care s-a
+etalonat aparatul, iar β și ϒ reprezintã limitele abaterilor
+admise în sus și în jos, fațã de unghiul α.
+3.6. Cerințe privind sigilarea
+
+3.6.1. Cronotahograful trebuie sã fie conceput și realizat
+astfel încât sã poatã fi sigilate urmãtoarele componente:
+a) placa de instalare (prin care este atestatã instalarea
+corespunzãtoare a aparatului), atunci când aceasta se
+aplicã pe cronotahograf, numai dacã ea nu este aplicatã
+astfel încât sã nu poatã fi desprinsã fãrã sã se deterioreze
+indicațiile pe care le conține;
+b) cele douã capete ale conexiunii dintre cronotahograful propriu-zis și vehicul;
+c) adaptorul constantei cronotahografului la coeficientul
+specific al vehiculului și inserarea adaptorului în circuit;
+d) dispozitivul de comutare pentru vehiculele cu mai
+multe sarcini pe axe;
+e) conexiunile dintre adaptor și dispozitivul de comutare
+și restul echipamentului;
+f) carcasele prevãzute la pct. 3.1.11.
+3.6.2. În anumite cazuri poate fi necesarã și aplicarea
+altor sigilii în afara celor menționate, a cãror poziționare va
+fi precizatã în certificatul aprobãrii de model.
+4. Cerințe specifice foilor de înregistrare
+4.1. Foile de înregistrare trebuie sã fie de o asemenea
+calitate încât sã nu împiedice funcționarea normalã a cronotahografului, iar înregistrãrile fãcute pe ele sã nu se
+șteargã, sã fie clar lizibile și identificabile.
+Foile de înregistrare trebuie sã-și pãstreze dimensiunile
+și înregistrãrile, în condiții normale de umiditate și temperaturã.
+În plus, pentru fiecare membru al echipajului trebuie sã
+existe posibilitatea sã înscrie în foile de înregistrare, fãrã
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 737/22.X.2003
+sã le deterioreze și fãrã sã afecteze lizibilitatea
+înregistrãrilor, urmãtoarele informații:
+a) numele și prenumele, la începutul utilizãrii foii;
+b) data și locul în care începe utilizarea foii, precum și
+data și locul în care se terminã aceastã utilizare;
+c) numãrul de înmatriculare al vehiculului pe care îl
+conduce, înainte de prima cursã înregistratã pe foaie și
+ulterior, în cazul schimbãrii vehiculului în timpul utilizãrii foii
+de înregistrare;
+d) indicația totalizatorului distanței parcurse:
+Ñ la începutul primei curse înregistrate pe foaie;
+Ñ la sfârșitul ultimei curse înregistrate pe foaie;
+Ñ în cazul schimbãrii vehiculului în timpul zilei de lucru
+(indicațiile totalizatoarelor distanțelor parcurse, pentru vehiculul pe care l-a condus și pentru vehiculul pe care îl va
+conduce);
+e) dacã este cazul, ora schimbãrii vehiculului.
+În condiții normale de pãstrare, înregistrãrile trebuie sã
+rãmânã clar lizibile timp de cel puțin un an.
+4.2. Capacitatea minimã de înregistrare a foilor trebuie
+sã fie de 24 de ore, oricare ar fi forma acestora.
+Dacã mai multe discuri sunt legate între ele pentru a
+mãri capacitatea de înregistrare continuã, realizabilã fãrã
+intervenția personalului, racordãrile dintre diferitele discuri
+trebuie sã fie astfel realizate încât înregistrãrile sã nu prezinte întreruperi sau suprapuneri în punctul de transfer de
+la un disc la altul.
+4.3. Foile de înregistrare trebuie sã cuprindã urmãtoarele zone de înregistrare:
+a) o zonã rezervatã exclusiv datelor referitoare la vitezã;
+b) o zonã rezervatã exclusiv datelor privind distanța parcursã;
+c) una sau mai multe zone pentru datele privind timpul
+de conducere, alte perioade de lucru și disponibile, pauzele
+și perioadele de odihnã zilnicã pentru șoferi.
+4.4. Zona rezervatã înregistrãrii vitezei trebuie sã fie
+împãrțitã în diviziuni de cel mult 20 km/h. Viteza corespunzãtoare fiecãrui marcaj al scãrii astfel obținute trebuie
+indicatã prin cifre în dreptul marcajului respectiv. Simbolul
+”km/h,, trebuie sã figureze cel puțin o datã în interiorul
+acestei zone. Ultimul marcaj al scãrii trebuie sã coincidã cu
+limita superioarã a domeniului de mãsurare a vitezei.
+4.5. Zona rezervatã înregistrãrii distanței parcurse trebuie sã fie astfel stabilitã încât sã permitã citirea ușoarã a
+numãrului de kilometri parcurși.
+4.6. Zona sau zonele rezervate înregistrãrii perioadelor
+menționate la pct. 4.3 trebuie sã fie astfel marcate încât
+sã se poatã face diferența clarã între diversele perioade de
+timp.
+4.7. Fiecare foaie trebuie sã conținã, sub formã tipãritã,
+urmãtoarele informații:
+Ñ numele și adresa sau marca producãtorului;
+Ñ marcajul aprobãrii de model a foii de înregistrare;
+Ñ marcajul aprobãrii de model pentru tipul sau tipurile
+de cronotahografe la care se poate folosi foaia de
+înregistrare;
+Ñ limita superioarã a domeniului de mãsurare a vitezei,
+tipãritã în km/h.
+În plus, fiecare foaie trebuie sã conținã în formã tipãritã
+o scarã de timp gradatã astfel încât sã permitã citirea
+directã a timpului la intervale de 15 minute, precum și
+determinarea fãrã dificultate a intervalelor de 5 minute.
+
+5
+
+4.8. Pe foaia de înregistrare trebuie sã fie prevãzut un
+spațiu liber, pentru a permite șoferului sã adauge în acest
+spațiu, de mânã, cel puțin mențiunile de mai jos:
+a) numele și prenumele șoferului;
+b) data și locul în care începe utilizarea foii, precum și
+data și locul în care se sfârșește aceastã utilizare;
+c) numãrul sau numerele de înmatriculare ale vehiculului, respectiv vehiculelor pe care le conduce șoferul, pe
+durata utilizãrii foii;
+d) indicațiile totalizatorului sau totalizatoarelor distanțelor
+parcurse pentru vehiculul, respectiv vehiculele pe care le
+conduce șoferul, pe durata utilizãrii foii;
+e) ora la care are loc orice schimbare a vehiculului.
+5. Prevederi finale
+5.1. Aprobarea de model acordatã în condițiile prezentei
+norme se finalizeazã prin emiterea certificatului aprobãrii de
+model.
+5.2. Certificatul aprobãrii de model pentru cronotahograf
+sau pentru foaia de înregistrare trebuie sã conținã:
+a) numele instituției desemnate sã elibereze certificatul
+aprobãrii de model (Biroul Român de Metrologie Legalã);
+b) comunicarea privind obiectul certificatului, care poate
+fi, dupã caz:
+Ñ aprobarea de model a cronotahografului;
+Ñ retragerea aprobãrii de model a cronotahografului;
+Ñ aprobarea de model a foii de înregistrare;
+Ñ retragerea aprobãrii de model a foii de înregistrare;
+c) numãrul aprobãrii de model;
+d) urmãtoarele informații:
+1. denumirea comercialã a produsului;
+2. denumirea tipului sau modelului;
+3. denumirea producãtorului;
+4. adresa producãtorului;
+5. data solicitãrii aprobãrii de model;
+6. laboratorul care a efectuat încercãrile;
+7. data și numãrul raportului de încercãri;
+8. data aprobãrii;
+9. data retragerii aprobãrii;
+10. tipul sau tipurile de cronotahografe la care se poate
+folosi foaia de înregistrare;
+11. locul emiterii;
+12. data emiterii;
+13. documente descriptive anexate;
+14. observații;
+e) semnãtura.
+5.3. Marcajul aprobãrii de model a cronotahografului trebuie sã se aplice atât pe placa de identificare a fiecãrui
+exemplar de cronotahograf, conform cu modelul aprobat,
+cât și pe fiecare foaie de înregistrare care se poate folosi
+cu acesta, în conformitate cu prevederile pct. 3.5.2 și 4.7.
+Marcajul aprobãrii de model a foii de înregistrare se
+tipãrește pe fiecare foaie de înregistrare, conform prevederilor pct. 4.7. Marcajele trebuie sã nu poatã fi șterse și
+sã-și pãstreze lizibilitatea.
+5.4. Conținutul, forma și dimensiunile minime, exprimate
+în mm, ale marcajului aprobãrii de model trebuie sã fie
+conforme cu figura 2. În cazul adoptãrii unor dimensiuni
+mai mari, raportul dintre dimensiuni trebuie respectat. În
+figura 2, cifra 19 din interiorul dreptunghiului reprezintã
+numãrul distinctiv al României ca stat parte la Acordul
+european privind activitatea echipajelor vehiculelor care
+efectueazã transporturi rutiere internaționale (A.E.T.R.),
+încheiat la Geneva la 1 iulie 1970, la care România a
+aderat prin Legea nr. 101/1994, iar numãrul de sub
+dreptunghi reprezintã numãrul aprobãrii de model.
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 737/22.X.2003
+
+Figura 2
+MINISTERUL MUNCII, SOLIDARITÃÞII
+SOCIALE ȘI FAMILIEI
+Nr. 373 din 4 august 2003
+
+MINISTERUL ECONOMIEI ȘI COMERÞULUI
+Nr. 99 din 28 august 2003
+
+ORDIN
+pentru stabilirea documentelor justificative și a modalitãții de decontare
+privind taxa pentru abonamentul la curentul electric pentru nevãzãtorii cu handicap grav
+În baza art. 19 alin. (1) lit. r) din Ordonanța de urgențã a Guvernului nr. 102/1999 privind protecția specialã și
+încadrarea în muncã a persoanelor cu handicap, aprobatã cu modificãri și completãri prin Legea nr. 519/2002, cu modificãrile ulterioare,
+vãzând Referatul de aprobare al președintelui Autoritãții Naționale pentru Persoanele cu Handicap nr. 2.056 bis
+din 25 iulie 2003,
+având în vedere avizul Ministerului Finanțelor Publice nr. 21.449 din 1 octombrie 2003,
+în temeiul art. 17 din Hotãrârea Guvernului nr. 737/2003 privind organizarea și funcționarea Ministerului Muncii,
+Solidaritãții Sociale și Familiei și al art. 5 alin. (6) din Hotãrârea Guvernului nr. 738/2003 privind organizarea și funcționarea Ministerului Economiei și Comerțului,
+ministrul muncii, solidaritãții sociale și familiei și ministrul economiei și comerțului emit urmãtorul ordin:
+Art. 1. Ñ Se aprobã documentele justificative pe baza
+cãrora nevãzãtorii cu handicap grav sunt scutiți de taxa
+pentru abonamentul la curentul electric, prevãzute în anexa
+nr. 1.
+Art. 2. Ñ Se aprobã modalitatea de decontare privind
+taxa pentru abonamentul la curentul electric pentru
+nevãzãtorii cu handicap grav, prevãzutã în anexa nr. 2.
+Art. 3. Ñ Autoritatea Naționalã pentru Persoanele cu
+Handicap, serviciile publice de asistențã socialã din cadrul
+consiliilor județene și consiliilor locale ale sectoarelor municipiului București, Asociația Nevãzãtorilor din România,
+Societatea Comercialã de Distribuție și Furnizare a Energiei
+Ministrul muncii, solidaritãții sociale și familiei,
+Elena Dumitru
+
+Electrice ”Electrica,, Ñ S.A. și filialele sale vor duce la
+îndeplinire prevederile prezentului ordin.
+Art. 4. Ñ Pe data intrãrii în vigoare a prezentului ordin
+se abrogã Ordinul secretarului de stat al Secretariatului de
+Stat pentru Persoanele cu Handicap nr. 122/2000 privind
+modalitatea de decontare a abonamentului la curentul electric pentru nevãzãtorii cu handicap grav, publicat în
+Monitorul Oficial al României, Partea I, nr. 8 din 9 ianuarie
+2001.
+Art. 5. Ñ Anexele nr. 1 și 2 fac parte integrantã din
+prezentul ordin.
+Art. 6. Ñ Prezentul ordin se publicã în Monitorul Oficial
+al României, Partea I.
+Ministrul economiei și comerțului,
+Dan Ioan Popescu
+
+7
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 737/22.X.2003
+
+ANEXA Nr. 1
+DOCUMENTELE JUSTIFICATIVE
+
+pe baza cãrora nevãzãtorii cu handicap grav sunt scutiți de taxa pentru abonamentul la curentul electric
+Art. 1. Ñ Asociația Nevãzãtorilor din România, prin
+filialele județene, va întocmi lista cu nevãzãtorii cu handicap grav, titulari de contract cu Societatea Comercialã de
+Distribuție și Furnizare a Energiei Electrice ”Electrica,, Ñ
+S.A., și va comunica în scris serviciilor publice de asistențã
+socialã din cadrul consiliilor județene și consiliilor locale ale
+sectoarelor municipiului București datele de identitate și
+domiciliul acestora.
+Art. 2. Ñ Serviciile publice de asistențã socialã din
+cadrul consiliilor județene și al consiliilor locale ale sectoarelor municipiului București vor comunica filialelor Societãții
+Comerciale de Distribuție și Furnizare a Energiei Electrice
+
+”Electrica,, Ñ S.A. persoanele care beneficiazã de scutire
+de la plata taxei pentru abonamentul la curentul electric.
+Art. 3. Ñ Sumele necesare pentru decontarea contravalorii abonamentului la curentul electric se suportã în anul
+2003 din bugetul de stat, iar începând cu data de 1 ianuarie 2004, din bugetele locale, din transferuri de la bugetul
+de stat, în baza protocolului încheiat de serviciile publice
+de asistențã socialã din cadrul consiliilor județene și consiliilor locale ale sectoarelor municipiului București cu
+Societatea Comercialã de Distribuție și Furnizare a Energiei
+Electrice ”Electrica,, Ñ S.A. și Asociația Nevãzãtorilor din
+România.
+
+ANEXA Nr. 2
+MODALITATEA DE DECONTARE
+
+privind taxa pentru abonamentul la curentul electric pentru nevãzãtorii cu handicap grav
+PROTOCOL
+
+Între Serviciul public de asistențã socialã din cadrul
+Consiliului Județean ÉÉÉÉÉ/Consiliului Local al
+Sectorului ÉÉÉÉÉÉÉÉ București, Societatea
+Comercialã de Distribuție și Furnizare a Energiei Electrice
+”Electrica,, Ñ S.A. și Asociația Nevãzãtorilor din România
+s-a încheiat prezentul protocol.
+ARTICOLUL 1
+Obiectul protocolului
+
+Obiectul prezentului protocol îl constituie aplicarea prevederilor art. 19 alin. (1) lit. r) din Ordonanța de urgențã a
+Guvernului nr. 102/1999 privind protecția specialã și încadrarea în muncã a persoanelor cu handicap, aprobatã cu
+modificãri și completãri prin Legea nr. 519/2002, care
+stipuleazã scutirea de la plata taxei pentru abonamentul la
+curentul electric pentru nevãzãtorii cu handicap grav.
+ARTICOLUL 2
+Drepturile și obligațiile pãrților
+
+1. Serviciul public de asistențã socialã are urmãtoarele
+drepturi și obligații:
+Ñ procedeazã la decontarea sumelor datorate cãtre
+Societatea Comercialã de Distribuție și Furnizare a Energiei
+Electrice ”Electrica,, Ñ S.A., prin filialele acesteia, în conturile comunicate de aceasta, dupã confruntarea datelor
+cuprinse în lista întocmitã de Asociația Nevãzãtorilor din
+România cu centralizatorul elaborat de filialele Societãții
+Comerciale de Distribuție și Furnizare a Energiei Electrice
+”Electrica,, Ñ S.A., pe baza adeverințelor primite de la
+nevãzãtorii cu handicap grav;
+Ñ decontarea se efectueazã lunar pânã la data de 30
+a fiecãrei luni de cãtre serviciile publice de asistențã
+socialã, pe bazã de facturã care însoțește lista, cu explicarea detaliatã a sumelor facturate (numele și prenumele,
+adresa completã, suma de platã și perioada pentru care se
+face decontarea);
+Ñ are dreptul de a sista plãțile pentru taxa abonamentului la curentul electric dacã Asociația Nevãzãtorilor din
+
+România nu trimite lista cuprinzând beneficiarii scutirii de la
+plata taxei pentru abonamentul la curentul electric pânã la
+data de 25 a fiecãrei luni;
+Ñ are dreptul de a face controale asupra modului în
+care Asociația Nevãzãtorilor din România elaboreazã documentația care stã la baza plãții taxei abonamentului la
+curentul electric pentru nevãzãtorii cu handicap grav.
+2. Societatea Comercialã de Distribuție și Furnizare a
+Energiei Electrice ”Electrica,, Ñ S.A., prin filialele sale, are
+urmãtoarele drepturi și obligații:
+Ñ are dreptul de a denunța protocolul în mod unilateral,
+dacã decontarea sumelor de cãtre serviciile publice de
+asistențã socialã nu se efectueazã în termen de 30 de zile
+de la data de 30 a lunii precedente;
+Ñ trimite pânã la data de 15 a fiecãrei luni, pe baza
+adeverințelor primite de la nevãzãtorii cu handicap grav,
+serviciilor publice de asistențã socialã, în vederea
+decontãrii, factura și centralizatorul cu sumele datorate de
+nevãzãtorii cu handicap grav, care vor cuprinde numele și
+prenumele, adresa completã, suma de platã și perioada
+pentru care se face decontarea;
+Ñ în termen de 15 zile de la data publicãrii în
+Monitorul Oficial al României, Partea I, a Ordinului
+ministrului muncii, solidaritãții sociale și familiei și al
+ministrului economiei și comerțului nr. 373/99/2003 pentru
+stabilirea documentelor justificative și a modalitãții de
+decontare privind taxa pentru abonamentul la curentul
+electric pentru nevãzãtorii cu handicap grav, pune la
+dispoziție serviciilor publice de asistențã socialã conturile și
+banca la care se face decontarea.
+3. Asociația Nevãzãtorilor din România are urmãtoarele
+drepturi și obligații:
+Ñ pune la dispoziție nevãzãtorilor cu handicap grav o
+adeverințã care sã cuprindã toate datele de identificare a
+acestora, și anume:
+a) numele și prenumele;
+b) adresa;
+c) numãrul certificatului sau al deciziei de încadrare într-o
+categorie de persoane cu handicap care necesitã protecție
+specialã;
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 737/22.X.2003
+
+d) gradul de handicap;
+e) termenul de valabilitate;
+Ñ elaboreazã lunar lista cuprinzând beneficiarii adeverințelor sau ai deciziilor și le înainteazã serviciilor publice
+de asistențã socialã pânã la data de 15 a fiecãrei luni;
+Ñ elaboreazã lunar, pânã la data de 15 a lunii în curs,
+lista cuprinzând modificãrile survenite în luna anterioarã;
+Ñ rãspunde pentru corectitudinea întocmirii documentelor arãtate mai sus.
+
+publice de asistențã socialã filialelor Societãții Comerciale
+de Distribuție și Furnizare a Energiei Electrice ”Electrica,, Ñ
+S.A. pânã la data de 15 a fiecãrei luni anterioare perioadei
+de încetare a scutirii.
+În cazul în care se vor înregistra erori de orice naturã,
+acestea se vor reglementa în luna imediat urmãtoare.
+ARTICOLUL 4
+Valabilitatea protocolului
+
+ARTICOLUL 3
+Dispoziții finale
+
+Încetarea dreptului de scutire de la plata sumelor
+prevãzute de lege se va comunica de cãtre serviciile
+
+Prezentul protocol intrã în vigoare la data semnãrii lui
+de cãtre pãrți.
+Protocolul poate înceta prin acordul pãrților.
+
+SERVICIUL PUBLIC DE ASISTENÞÃ SOCIALÃ
+
+ÉÉÉÉÉÉ....................ÉÉÉ............
+Director,
+ÉÉÉÉÉÉÉÉÉÉÉÉ
+SOCIETATEA COMERCIALÃ DE DISTRIBUÞIE ȘI FURNIZARE
+A ENERGIEI ELECTRICE ”ELECTRICA,, Ñ S.A.
+
+ASOCIAÞIA NEVÃZÃTORILOR DIN ROMÂNIA
+
+Director,
+ÉÉÉÉÉÉÉÉÉ
+
+Președinte,
+ÉÉÉÉÉÉÉÉÉ
+
+MINISTERUL TRANSPORTURILOR, CONSTRUCÞIILOR ȘI TURISMULUI
+
+ORDIN
+privind exercitarea controlului respectãrii reglementãrilor și sancționãrii contravențiilor
+referitoare la comercializarea sau utilizarea vehiculelor rutiere, a echipamentelor,
+pieselor de schimb și materialelor destinate acestora, la funcționarea unitãților
+de reparații și reconstrucție a vehiculelor, a stațiilor de inspecție tehnicã,
+precum și la metodologia de efectuare a inspecției tehnice periodice
+Având în vedere prevederile art. 12 lit. d) și q) din Ordonanța Guvernului nr. 19/1997 privind transporturile, republicatã, cu modificãrile și completãrile ulterioare, ale art. 4 alin. (2) lit. b) și alin. (3) lit. a)Ñi), ale art. 40 lit. g), h), i), j)
+și k), precum și ale art. 43 din Ordonanța Guvernului nr. 44/1997 privind transporturile rutiere, aprobatã cu modificãri și
+completãri prin Legea nr. 105/2000, cu modificãrile ulterioare, ale art. 6 alin. (1) și (2) din Ordonanța Guvernului
+nr. 80/2000 privind certificarea sau omologarea echipamentelor, pieselor de schimb și materialelor de exploatare utilizate
+la vehicule rutiere, precum și condițiile de comercializare și utilizare a acestora, aprobatã cu modificãri și completãri prin
+Legea nr. 671/2002, ale art. 6 1 alin. (1) și (3) din Ordonanța Guvernului nr. 82/2000 privind autorizarea agenților
+economici care desfãșoarã activitãți de reparații, de reglare, de modificãri constructive, de reconstrucție a vehiculelor rutiere, precum și de dezmembrare a vehiculelor uzate, aprobatã cu modificãri și completãri prin Legea nr. 222/2003, ale
+art. 62 alin. (1) și (8) din Ordonanța Guvernului nr. 81/2000 privind certificarea încadrãrii vehiculelor rutiere înmatriculate în
+normele tehnice privind siguranța circulației rutiere, protecția mediului și în categoria de folosințã conform destinației, prin
+inspecția tehnicã periodicã, aprobatã cu modificãri și completãri prin Legea nr. 167/2003, ale art. 15 din Ordonanța
+Guvernului nr. 78/2000 privind omologarea vehiculelor rutiere și eliberarea cãrții de identitate a acestora, în vederea
+admiterii în circulație pe drumurile publice din România, aprobatã cu modificãri și completãri prin Legea nr. 230/2003, ale
+art. 12 și 14 din Hotãrârea Guvernului nr. 899/2003 privind stabilirea condițiilor referitoare la aprobarea de model pentru
+aparatul de control în transporturile rutiere, la omologarea de tip a limitatoarelor de vitezã, precum și a condițiilor de montare, reparare, reglare și verificare a aparatelor de control în transporturile rutiere și a limitatoarelor de vitezã, ale art. 49
+din Ordonanța Guvernului nr. 21/1992 privind protecția consumatorilor, republicatã, cu modificãrile și completãrile ulterioare,
+în temeiul prevederilor art. 5 alin. (4) din Hotãrârea Guvernului nr. 740/2003 privind organizarea și funcționarea
+Ministerului Transporturilor, Construcțiilor și Turismului,
+ministrul transporturilor, construcțiilor și turismului emite urmãtorul ordin:
+Art. 1. Ñ Controlul respectãrii reglementãrilor privind
+comercializarea sau utilizarea vehiculelor rutiere, a echipamentelor, pieselor de schimb și materialelor destinate acestora, funcționarea unitãților de reparații și reconstrucție a
+vehiculelor, a stațiilor de inspecție tehnicã, precum și al respectãrii condițiilor de montare, reparare, reglare și verificare
+
+a aparatelor de control în transporturile rutiere și a limitatoarelor de vitezã și constatarea și sancționarea contravențiilor corespunzãtoare, prevãzute la art. 40 lit. g), h), i),
+j), k) și, respectiv, la art. 41 din Ordonanța Guvernului
+nr. 44/1997 privind transporturile rutiere, aprobatã cu modificãri și completãri prin Legea nr. 105/2000, cu modificãrile
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 737/22.X.2003
+ulterioare, a celor prevãzute la art. 6 din Ordonanța
+Guvernului nr. 80/2000 privind certificarea sau omologarea
+echipamentelor, pieselor de schimb și materialelor de
+exploatare utilizate la vehicule rutiere, precum și condițiile
+de comercializare și utilizare a acestora, aprobatã cu modificãri și completãri prin Legea nr. 671/2002, a celor
+prevãzute la art. 61 alin. (1) din Ordonanța Guvernului
+nr. 82/2000 privind autorizarea agenților economici care
+desfãșoarã activitãți de reparații, de reglare, de modificãri
+constructive, de reconstrucție a vehiculelor rutiere, precum
+și de dezmembrare a vehiculelor uzate, aprobatã cu modificãri și completãri prin Legea nr. 222/2003, a celor
+prevãzute la art. 6 2 alin. (1)Ñ(5) din Ordonanța
+Guvernului nr. 81/2000 privind certificarea încadrãrii vehiculelor rutiere înmatriculate în normele tehnice privind siguranța circulației rutiere, protecția mediului și în categoria
+de folosințã conform destinației, prin inspecția tehnicã periodicã, aprobatã cu modificãri și completãri prin Legea
+nr. 167/2003, a celor prevãzute la art. 15 din Ordonanța
+Guvernului nr. 78/2000 privind omologarea vehiculelor rutiere și eliberarea cãrții de identitate a acestora, în vederea
+admiterii în circulație pe drumurile publice din România,
+aprobatã cu modificãri și completãri prin Legea
+nr. 230/2003, a celor prevãzute la art. 12 și 13 din
+Hotãrârea Guvernului nr. 899/2003 privind stabilirea
+condițiilor referitoare la aprobarea de model pentru aparatul
+de control în transporturile rutiere, la omologarea de tip a
+limitatoarelor de vitezã, precum și a condițiilor de montare,
+reparare, reglare și verificare a aparatelor de control în
+transporturile rutiere și a limitatoarelor de vitezã, a celor
+prevãzute la art. 46 și 46 1 din Ordonanța Guvernului
+nr. 21/1992, republicatã, cu modificãrile și completãrile ulterioare, se efectueazã de cãtre personalul împuternicit de
+Ministerul Transporturilor, Construcțiilor și Turismului pe
+baza legitimației de inspecție și control, ale cãrei model,
+
+9
+
+formã și conținut sunt prevãzute în anexa care face parte
+integrantã din prezentul ordin.
+Art. 2. Ñ Personalul împuternicit, locul de muncã,
+funcția și competențele de control ale acestuia se aprobã
+de Ministerul Transporturilor, Construcțiilor și Turismului, la
+propunerea Regiei Autonome ”Registrul Auto Român,,,
+denumitã în continuare RAR.
+Art. 3. Ñ (1) Legitimațiile de inspecție și control se atribuie de secretarul de stat, coordonator al activitãții de
+transporturi rutiere, și se elibereazã de RAR, care va ține
+evidența acestora.
+(2) Legitimațiile de inspecție și control se vizeazã anual
+de RAR.
+(3) Legitimațiile de inspecție și control emise în baza
+Ordinului ministrului lucrãrilor publice, transporturilor și
+locuinței nr. 1.939/2001 rãmân valabile pânã la înlocuirea
+acestora cu cele prevãzute la art. 1.
+Art. 4. Ñ Pe data intrãrii în vigoare a prezentului ordin,
+Ordinul ministrului lucrãrilor publice, transporturilor și
+locuinței nr. 1.939/2001, publicat în Monitorul Oficial al
+României, Partea I, nr. 57 din 28 ianuarie 2002, se
+abrogã.
+Art. 5. Ñ Punctul 11 din Reglementãrile privind certificarea și/sau omologarea echipamentelor, pieselor de
+schimb și materialelor utilizate la vehicule rutiere, precum
+și evaluarea capabilitãții tehnice și autorizarea agenților
+economici care presteazã servicii de reparație, reglare
+și/sau desfãșoarã activitate de reconstrucție a vehiculelor
+rutiere Ñ RNTR 4, aprobate prin Ordinul ministrului transporturilor nr. 536/1997, publicat în Monitorul Oficial al
+României, Partea I, nr. 348 din 9 decembrie 1997, cu
+modificãrile și completãrile ulterioare, rãmâne abrogat.
+Art. 6. Ñ RAR va duce la îndeplinire prevederile
+prezentului ordin.
+Art. 7. Ñ Prezentul ordin se publicã în Monitorul Oficial
+al României, Partea I.
+
+p. Ministrul transporturilor, construcțiilor și turismului,
+Ileana Tureanu,
+secretar de stat
+București, 13 octombrie 2003.
+Nr. 525.
+ANEXÃ
+
+(stânga)
+MINISTERUL TRANSPORTURILOR, CONSTRUCÞIILOR ȘI TURISMULUI
+
+LEGITIMAÞIE DE INSPECÞIE ȘI CONTROL
+Nr. É.................. Data emiterii .................É.
+Dl/Dna É............................................................
+Unitatea É.........................................................
+În conformitate cu prevederile art. 12 lit. d) din Ordonanța Guvernului nr. 19/1997 privind transporturile, republicatã, cu modificãrile și completãrile ulterioare, ale art. 4 alin. (2) lit. b) și alin. (3) lit. a)Ñi), ale art. 40 lit. g), h), i), j) și
+k), precum și ale art. 43 din Ordonanța Guvernului nr. 44/1997 privind transporturile rutiere, aprobatã cu modificãri și
+completãri prin Legea nr. 105/2000, cu modificãrile și completãrile ulterioare, ale Ordonanței Guvernului nr. 80/2000, aprobatã cu modificãri și completãri prin Legea nr. 671/2002, Ordonanței Guvernului nr. 82/2000, aprobatã cu modificãri și
+completãri prin Legea nr. 222/2003, Ordonanței Guvernului nr. 81/2000, aprobatã și modificatã prin Legea nr. 167/2003,
+Ordonanței Guvernului nr. 78/2000, aprobatã prin Legea nr. 230/2003, Hotãrârii Guvernului nr. 899/2003 și ale Ordonanței
+Guvernului nr. 21/1992, republicatã, cu modificãrile și completãrile ulterioare, titularul legitimației este împuternicit:
+1. sã execute controlul respectãrii reglementãrilor privind comercializarea sau utilizarea vehiculelor rutiere, a
+echipamentelor, pieselor de schimb și materialelor destinate acestora, certificate sau omologate, conform Ordinului
+ministrului lucrãrilor publice, transporturilor și locuinței nr. 657/2003, a reglementãrilor privind funcționarea unitãților de
+reparații și reconstrucție a vehiculelor, conform Ordinului ministrului transporturilor, construcțiilor și turismului
+nr. 62/2003, a reglementãrilor privind certificarea încadrãrii vehiculelor rutiere înmatriculate în normele tehnice, prin inspecția tehnicã periodicã, conform Ordinului ministrului transporturilor, construcțiilor și turismului nr. 61/2003, a reglementãrilor privind condițiile impuse pentru utilizarea, montarea, reviziile tehnice și repararea instalațiilor de alimentare a
+motoarelor cu GPL, conform Ordinului ministrului transporturilor, construcțiilor și turismului nr. 229/2003, și constatarea
+și sancționarea contravențiilor corespunzãtoare;
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 737/22.X.2003
+(dreapta)
+
+2. sã aibã acces în unitãțile agenților economici care desfãșoarã activitãțile menționate la pct. 1;
+3. sã constate contravențiile prevãzute la art. 40 lit. g), h), i), j), k) și, respectiv, la art. 41 din Ordonanța
+Guvernului nr. 44/1997 privind transporturile rutiere, aprobatã cu modificãri și completãri prin Legea nr. 105/2000, cu
+modificãrile și completãrile ulterioare, cele prevãzute la art. 6 din Ordonanța Guvernului nr. 80/2000, aprobatã cu modificãri și completãri prin Legea nr. 671/2002, cele prevãzute la art. 61 alin. (1) din Ordonanța Guvernului nr. 82/2000,
+aprobatã cu modificãri și completãri prin Legea nr. 222/2003, cele prevãzute la art. 62 alin. (1)Ñ(5) din Ordonanța
+Guvernului nr. 81/2000, aprobatã cu modificãri și completãri prin Legea nr. 167/2003, cele prevãzute la art. 15 din
+Ordonanța Guvernului nr. 78/2000, aprobatã cu modificãri și completãri prin Legea nr. 230/2003, cele prevãzute la
+art. 12 și 13 din Hotãrârea Guvernului nr. 899/2003 și cele prevãzute la art. 46 și 461 din Ordonanța Guvernului
+nr. 21/1992, republicatã, cu modificãrile și completãrile ulterioare.
+Anul
+
+2004
+
+2005
+
+2006
+
+2007
+
+Secretar de stat,
+
+VIZE
+
+É...................................
+(semnãtura și ștampila)
+
+MINISTERUL FINANÞELOR PUBLICE
+
+ORDIN
+pentru aprobarea Normelor privind aplicarea scutirii de taxa pe valoarea adãugatã
+pentru livrãrile de bunuri și prestãrile de servicii în favoarea directã a misiunilor diplomatice,
+oficiilor consulare și reprezentanțelor internaționale interguvernamentale acreditate în România,
+precum și a personalului acestora
+În temeiul prevederilor art. 11 alin. (1) lit. k) și alin. (3) din Legea nr. 345/2002 privind taxa pe valoarea
+adãugatã, republicatã în Monitorul Oficial al României, Partea I, nr. 653 din 15 septembrie 2003, precum și ale art. 12
+alin. (6) din Hotãrârea Guvernului nr. 735/2003 privind organizarea și funcționarea Ministerului Finanțelor Publice,
+ministrul finanțelor publice emite urmãtorul ordin:
+Art. 1. Ñ Se aprobã Normele privind aplicarea scutirii
+de taxa pe valoarea adãugatã pentru livrãrile de bunuri și
+prestãrile de servicii în favoarea directã a misiunilor diplomatice, oficiilor consulare și reprezentanțelor internaționale
+interguvernamentale acreditate în România, precum și a
+personalului acestora, prevãzute în anexa care face parte
+integrantã din prezentul ordin.
+Art. 2. Ñ Pe data intrãrii în vigoare a prezentului ordin
+se abrogã prevederile Ordinului ministrului finanțelor publice
+nr. 816/2002 pentru aprobarea Normelor privind aplicarea
+scutirii de taxa pe valoarea adãugatã cu drept de deducere
+pentru livrãrile de bunuri și prestãrile de servicii în favoarea
+directã a misiunilor diplomatice, oficiilor consulare și reprezentanțelor internaționale interguvernamentale acreditate în
+
+România, precum și a personalului acestora, publicat în
+Monitorul Oficial al României, Partea I, nr. 478 din 4 iulie
+2002.
+Art. 3. Ñ Certificatele de scutire de taxa pe valoarea
+adãugatã emise în baza prevederilor Ordinului ministrului
+finanțelor publice nr. 816/2002 își mențin valabilitatea pânã
+la expirarea termenului prevãzut în acestea.
+Art. 4. Ñ Direcția generalã a finanțelor publice a
+municipiului București va lua mãsuri pentru ducerea la
+îndeplinire a prevederilor prezentului ordin.
+Art. 5. Ñ Prezentul ordin va fi publicat în Monitorul
+Oficial al României, Partea I.
+
+p. Ministrul finanțelor publice,
+Gheorghe Gherghina,
+secretar de stat
+București, 9 octombrie 2003.
+Nr. 1.395.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 737/22.X.2003
+
+11
+ANEXÃ
+
+NORME
+privind aplicarea scutirii de taxa pe valoarea adãugatã pentru livrãrile de bunuri și prestãrile
+de servicii în favoarea directã a misiunilor diplomatice, oficiilor consulare și reprezentanțelor internaționale
+interguvernamentale acreditate în România, precum și a personalului acestora
+Art. 1. Ñ (1) Potrivit prevederilor art. 11 alin. (1) lit. k)
+din Legea nr. 345/2002 privind taxa pe valoarea adãugatã,
+republicatã, sunt scutite de taxa pe valoarea adãugatã
+livrãrile de bunuri și prestãrile de servicii în favoarea
+directã a misiunilor diplomatice, oficiilor consulare și a personalului acestora, cu excepția cetãțenilor români, pe bazã
+de reciprocitate. Limita plafonului pentru care se aplicã
+aceastã scutire se stabilește de Ministerul Afacerilor
+Externe, pe bazã de reciprocitate acordatã misiunilor diplomatice române și personalului acestora. Rãspunderea pentru verificarea respectãrii condițiilor de reciprocitate revine
+Direcției generale protocol național din cadrul Ministerului
+Afacerilor Externe. Sunt asimilate taxei pe valoarea
+adãugatã și intrã sub incidența reciprocitãții impozitele pe
+consum generale, aplicate misiunilor diplomatice române și
+personalului acestora de cãtre statele partenere.
+(2) De asemenea, sunt scutite de taxa pe valoarea
+adãugatã livrãrile de bunuri și prestãrile de servicii în
+favoarea directã a reprezentanțelor internaționale interguvernamentale acreditate în România, precum și a personalului
+acestora, cu excepția cetãțenilor români.
+Art. 2. Ñ Pentru livrãrile de bunuri și/sau prestãrile de
+servicii în favoarea persoanelor menționate la art. 1, furnizorii de bunuri și/sau prestatorii de servicii au obligația sã
+emitã facturi fiscale sau alte documente specifice, aprobate
+prin Hotãrârea Guvernului nr. 831/1997 pentru aprobarea
+modelelor formularelor comune privind activitatea financiarã
+și contabilã și a normelor metodologice privind întocmirea
+și utilizarea acestora sau prin ordine ale ministrului
+finanțelor publice emise în baza Hotãrârii Guvernului
+nr. 831/1997, care sã cuprindã, în mod obligatoriu, denumirea misiunii diplomatice, a oficiului consular sau a reprezentanței internaționale interguvernamentale acreditate în
+România, respectiv numele persoanei, în cazul personalului
+acestora, cu excepțiile prevãzute la art. 5 alin. (2) și (3).
+Art. 3. Ñ Scutirea de taxa pe valoarea adãugatã se
+realizeazã prin urmãtoarele modalitãți:
+a) prin facturare fãrã taxa pe valoarea adãugatã de
+cãtre furnizorii de bunuri și/sau prestatorii de servicii, în
+favoarea persoanelor menționate la art. 1, pe baza certificatului de scutire de taxa pe valoarea adãugatã eliberat de
+Direcția generalã a finanțelor publice a municipiului
+București, conform modelului prezentat în anexa nr. 1, și a
+legitimației speciale eliberate în acest scop de Ministerul
+Afacerilor Externe, în cazul în care încasarea contravalorii
+bunurilor livrate și a serviciilor prestate nu se efectueazã în
+numerar sau cu instrumente de platã nenominale;
+b) prin facturarea chiriei fãrã taxa pe valoarea adãugatã
+de cãtre persoanele impozabile care închiriazã spații cu
+destinația de sediu al misiunilor diplomatice, al oficiilor consulare și al reprezentanțelor internaționale interguvernamentale acreditate în România, reședințe ale șefilor acestora,
+precum și locuințe pentru personalul misiunilor diplomatice,
+al oficiilor consulare sau al reprezentanțelor internaționale
+interguvernamentale acreditate în România, pe baza avizului Ministerului Afacerilor Externe privind respectarea
+condițiilor de reciprocitate în cazul închirierii de spații pentru
+misiunile diplomatice, oficiile consulare și personalul acestora. Dacã nu mai este respectatã condiția de reciprocitate,
+
+Ministerul Afacerilor Externe își va retrage avizul acordat și
+nu se mai aplicã scutirea de taxa pe valoarea adãugatã;
+c) prin restituirea taxei pe valoarea adãugatã aferente
+bunurilor și serviciilor cumpãrate, efectuatã de Direcția
+generalã a finanțelor publice a municipiului București.
+Restituirea se solicitã de misiunile diplomatice, oficiile
+consulare, reprezentanțele internaționale interguvernamentale acreditate în România, pentru bunurile și/sau serviciile
+achiziționate atât de acestea, cât și de personalul lor, astfel
+cum este prevãzut la art. 1.
+Art. 4. Ñ (1) Certificatul de scutire de taxa pe valoarea
+adãugatã prevãzut la art. 3 lit. a) se elibereazã la cererea
+furnizorului de bunuri/prestatorului de servicii, întocmitã conform modelului prezentat în anexa nr. 2, pe baza urmãtoarelor documente:
+a) copie de pe actul constitutiv;
+b) copie de pe documentul care atestã calitatea de
+plãtitor de taxã pe valoarea adãugatã;
+c) dovada dotãrii cu aparatura necesarã pentru utilizarea cãrților de credit;
+d) declarație pe propria rãspundere din care sã rezulte
+cã nu se va încasa contravaloarea bunurilor livrate sau a
+serviciilor prestate în numerar ori cu instrumente nenominale.
+(2) Direcția generalã a finanțelor publice a municipiului
+București va comunica Ministerului Afacerilor Externe lista
+cuprinzând furnizorii de bunuri/prestatorii de servicii cãrora li
+s-au eliberat certificate de scutire de taxa pe valoarea
+adãugatã.
+(3) Cererile de eliberare a certificatelor de scutire de
+taxa pe valoarea adãugatã se soluționeazã în termen de
+15 zile de la data depunerii cererii și documentelor
+prevãzute la alin. (1).
+(4) Ministerul Afacerilor Externe elibereazã legitimații
+speciale numai în cazurile de reciprocitate efectivã deplinã,
+fãrã existența unor restricții sortimentale și plafonãri valorice sau cantitative, acordate de statul partener misiunilor
+diplomatice române și personalului acestora.
+Art. 5. Ñ (1) Pentru restituirea taxei pe valoarea
+adãugatã prevãzutã la art. 3 lit. c), solicitanții trebuie sã
+completeze o cerere de restituire și un borderou conform
+modelului prezentat în anexa nr. 3, întocmit în douã exemplare, care trebuie sã cuprindã:
+a) documentele în care sunt consemnate bunurile și serviciile achiziționate în cursul trimestrului pentru care se solicitã restituirea, cu excepția cazurilor în care condițiile de
+reciprocitate prevãd termene mai mari de 3 luni;
+b) documentele care atestã achitarea contravalorii bunurilor și serviciilor pânã la data depunerii cererilor, dupã caz.
+(2) Pentru livrãrile de bunuri și/sau prestãrile de servicii
+efectuate în mod global pentru nevoile unui imobil cu mai
+multe apartamente, în care persoanele menționate la art. 1
+ocupã o parte, cu titlu de proprietar sau de chiriaș,
+documentele pe baza cãrora se face restituirea sunt
+urmãtoarele:
+a) decontul cuprinzând cheltuielile comune și taxa pe
+valoarea adãugatã, întocmit de administratorul imobilului, cu
+indicarea cotei-pãrți pe care colocatarul este obligat sã o
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 737/22.X.2003
+
+plãteascã, potrivit normelor legale privind repartizarea cheltuielilor comune pe locatari;
+b) chitanța emisã de administrația imobilului, prin care
+se certificã plata cheltuielilor comune și a taxei pe valoarea
+adãugatã, rezultatã din decont.
+(3) Pentru carburanții auto se admit bonurile fiscale
+emise conform Ordonanței de urgențã a Guvernului
+nr. 28/1999 privind obligația agenților economici de a utiliza
+aparate de marcat electronice fiscale, republicatã, dacã
+sunt ștampilate și au înscrise denumirea cumpãrãtorului și
+numãrul de înmatriculare al autovehiculului.
+(4) Documentele justificative pe baza cãrora se solicitã
+restituirea taxei pe valoarea adãugatã prevãzute de prezentul articol se depun în copie pentru bunurile și serviciile
+destinate uzului oficial al misiunilor diplomatice, al oficiilor
+consulare și al reprezentanțelor internaționale interguvernamentale acreditate în România și în original pentru bunurile
+și serviciile destinate uzului personalului acestora. Pot fi
+prezentate în copie documentele pentru bunurile de folosințã îndelungatã, prevãzute în anexa la Hotãrârea
+Guvernului nr. 394/1995 privind obligațiile ce revin agenților
+economici Ñ persoane fizice sau juridice Ñ în comercializarea produselor de folosințã îndelungatã, destinate consumatorilor, republicatã, cu modificãrile ulterioare.
+(5) Cererile de restituire a taxei pe valoarea adãugatã,
+prevãzute în anexele nr. 4 și 5, împreunã cu borderourile
+și documentele justificative, se transmit trimestrial
+Ministerului Afacerilor Externe, cel mai târziu pânã la finele
+lunii urmãtoare încheierii trimestrului pentru care se solicitã
+restituirea, cu excepția cazurilor în care condițiile de reciprocitate prevãd termene mai mari de 3 luni.
+(6) Prin derogare de la termenele de restituire a taxei
+pe valoarea adãugatã prevãzute la alin. (5), misiunile diplomatice și oficiile consulare ale statelor în care exercițiul
+bugetar se încheie la data de 30 septembrie pot solicita
+restituirea taxei pe valoarea adãugatã pentru trimestrul III
+în douã tranșe, prin depunerea cererii de restituire și a
+documentelor justificative separat pentru lunile iulie și
+august pânã la finele lunii septembrie și separat pentru
+luna septembrie pânã cel târziu la finele lunii octombrie.
+(7) Nedepunerea în termenul prevãzut la alin. (5) a
+cererilor de restituire și/sau a documentației aferente atrage
+pierderea dreptului de restituire a taxei pe valoarea
+adãugatã. Cererile de restituire și documentele justificative
+nedepuse în termen vor fi returnate de Ministerul Afacerilor
+Externe celor care le-au transmis.
+(8) Prin derogare de la prevederile alin. (7), în cazuri
+temeinic justificate, la solicitarea persoanelor menționate la
+art. 1, ministrul finanțelor publice poate aproba efectuarea
+restituirii taxei pe valoarea adãugatã, în situația în care
+cererea de restituire și/sau documentația aferentã nu au
+fost depuse în termenul prevãzut la alin. (5).
+Art. 6. Ñ (1) Direcția generalã protocol național din
+cadrul Ministerului Afacerilor Externe are obligația sã confrunte sumele evidențiate în borderouri cu documentele justificative prezentate. În urma verificãrii, pe borderou se va
+face mențiunea, sub semnãturã, ”Confruntat cu documentele justificative,,.
+(2) Documentația avizatã favorabil de Ministerul
+Afacerilor Externe va fi transmisã solicitanților prevãzuți la
+art. 3 lit. c), care o vor depune la Direcția generalã a
+finanțelor publice a municipiului București.
+(3) Ministerul Afacerilor Externe va comunica Direcției
+generale a finanțelor publice a municipiului București, în
+
+termen de 15 zile de la data publicãrii în Monitorul Oficial
+al României, Partea I, a prezentelor norme, lista
+cuprinzând statele pentru care condițiile de reciprocitate
+prevãd termene de restituire mai mari de 3 luni. Informațiile
+respective vor fi actualizate ori de câte ori intervin modificãri în relațiile reciproce dintre state.
+(4) Direcția generalã a finanțelor publice a municipiului
+București analizeazã cererile de restituire a taxei pe valoarea adãugatã și documentele însoțitoare. Verificarea și analiza efectuate urmãresc urmãtoarele:
+a) documentele ce atestã achiziționarea de bunuri și de
+servicii sã corespundã formularelor tipizate comune și specifice privind aplicarea taxei pe valoarea adãugatã,
+prevãzute de reglementãrile în vigoare, și sã se refere la
+trimestrul pentru care se solicitã restituirea, cu excepția
+cazurilor în care condițiile de reciprocitate prevãd termene
+mai mari de 3 luni;
+b) existența avizului favorabil al Ministerului Afacerilor
+Externe.
+(5) În urma verificãrii și analizei se întocmește o notã în
+care se consemneazã numãrul și data cererii, rezultatul
+verificãrii și propuneri cu privire la aprobarea restituirii sau,
+dupã caz, respingerea cererii de restituire a taxei pe valoarea adãugatã.
+(6) Restituirea taxei pe valoarea adãugatã se aprobã de
+cãtre directorul general al Direcției generale a finanțelor
+publice a municipiului București. Pe baza aprobãrii se
+întocmesc comunicarea cãtre trezorerie, potrivit modelului
+prezentat în anexa nr. 6, precum și comunicarea cãtre solicitant privind modul de soluționare a cererii, potrivit modelului prezentat în anexa nr. 7.
+Art. 7. Ñ (1) În baza comunicãrilor primite trezoreria va
+întocmi ordine de platã tip trezorerie pentru fiecare solicitant, în care se va înscrie suma care se restituie. Pe versoul ordinului de platã se vor menționa distinct suma care
+se restituie misiunilor diplomatice, oficiilor consulare sau
+reprezentanțelor internaționale interguvernamentale acreditate în România și suma restituitã personalului acestora, în
+cazul în care nu sunt deschise conturi personale în care
+sã se facã vãrsãmintele.
+(2) Operațiunile de restituire a taxei pe valoarea
+adãugatã se evidențiazã în contabilitate prin contul
+20.13.01.02 ”Taxa pe valoarea adãugatã restituitã,,, deschis
+la Trezoreria Statului.
+Art. 8. Ñ (1) Soluționarea de cãtre Direcția generalã a
+finanțelor publice a municipiului București a cererilor de
+restituire a taxei pe valoarea adãugatã se face în termen
+de 30 de zile de la data depunerii cererii și a documentelor însoțitoare, avizate de Ministerul Afacerilor Externe.
+(2) În situațiile prevãzute la art. 5 alin. (6), termenul de
+soluționare a cererii pentru lunile iulie și august de cãtre
+Direcția generalã a finanțelor publice a municipiului
+București este de 15 zile de la data depunerii cererii și a
+documentelor însoțitoare, avizate de Ministerul Afacerilor
+Externe.
+Art. 9. Ñ Intrã sub incidența prezentelor norme numai
+bunurile și serviciile a cãror contravaloare a fost achitatã
+în lei pe teritoriul României.
+Art. 10. Ñ Cererile de restituire a taxei pe valoarea
+adãugatã nesoluționate pânã la intrarea în vigoare a prezentelor norme, aferente cumpãrãrilor efectuate în trimestrul III
+al anului 2003, se soluționeazã potrivit acestora.
+Art. 11. Ñ Anexele nr. 1Ñ7 fac parte integrantã din
+prezentele norme.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 737/22.X.2003
+
+13
+ANEXA Nr. 1
+la norme
+
+MINISTERUL FINANÞELOR PUBLICE
+DIRECÞIA GENERALÃ A FINANÞELOR PUBLICE A MUNICIPIULUI BUCUREȘTI
+
+CERTIFICAT
+
+de scutire de taxa pe valoarea adãugatã
+Nr. ............ din ............................
+
+În conformitate cu prevederile art. 3 lit. a) din Normele privind aplicarea scutirii de taxa pe valoarea adãugatã
+pentru livrãrile de bunuri și prestãrile de servicii în favoarea directã a misiunilor diplomatice, oficiilor consulare și reprezentanțelor internaționale interguvernamentale acreditate în România, precum și a personalului acestora, aprobate prin
+Ordinul ministrului finanțelor publice nr. 1.395/2003, a fost eliberat prezentul certificat care atestã dreptul furnizorului de
+bunuri/prestatorului de servicii ........................................................................, cu sediul în ..........................................................,
+str. .................................................. nr. ...................., județul/sectorul ...................., codul poștal ...................., codul fiscal
+...................., înmatriculat la Registrul comerțului sub nr. ................ din ....................., sã efectueze livrãri de bunuri/prestãri
+de servicii în favoarea directã a ambasadelor, consulatelor generale, reprezentanțelor internaționale interguvernamentale
+acreditate în România, precum și a personalului acestora, cu excepția cetãțenilor români, în regim de scutire de taxa pe
+valoarea adãugatã, cu drept de deducere, pe baza legitimației speciale eliberate de Ministerul Afacerilor Externe.
+Prezentul certificat este valabil 12 luni de la data de ................................... .
+Director general,
+..........................................
+
+ANEXA Nr. 2
+la norme
+CERERE
+
+Denumirea solicitantului ...................................
+Codul fiscal ......................................................
+Sediul ...............................................................
+În conformitate cu prevederile art. 3 lit. a) din Normele privind aplicarea scutirii de taxa pe valoarea adãugatã
+pentru livrãrile de bunuri și prestãrile de servicii în favoarea directã a misiunilor diplomatice, oficiilor consulare și reprezentanțelor internaționale interguvernamentale acreditate în România, precum și a personalului acestora, aprobate prin
+Ordinul ministrului finanțelor publice nr. 1.395/2003, prin prezenta cerere solicitãm eliberarea unui certificat de scutire de
+taxa pe valoarea adãugatã pentru livrarea de bunuri și prestarea de servicii în favoarea directã a misiunilor diplomatice,
+oficiilor consulare, reprezentanțelor internaționale interguvernamentale acreditate în România și a personalului acestora, cu
+excepția cetãțenilor români.
+Anexãm urmãtoarele documente:
+Ñ copie de pe actul constitutiv;
+Ñ copie de pe documentele care atestã calitatea de plãtitor de taxã pe valoarea adãugatã;
+Ñ dovada dotãrii cu aparatura necesarã pentru utilizarea cãrților de credit;
+Ñ declarație pe propria rãspundere din care sã rezulte cã nu se va încasa în numerar sau cu instrumente nenominale contravaloarea bunurilor livrate sau a serviciilor prestate.
+
+Semnãtura și ștampila
+........................................
+
+Data
+.................
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 737/22.X.2003
+ANEXA Nr. 3
+la norme
+BORDEROU
+
+cuprinzând documentele justificative prevãzute la art. 5 alin. (2) din norme
+Nr.
+crt.
+
+Denumirea
+1
+
+0
+
+Valoarea fãrã Valoarea
+T.V.A.
+T.V.A.
+
+Documentul
+Nr.
+2
+
+Data
+3
+
+4
+
+5
+
+Total
+
+6
+
+Documentul de platã
+corespunzãtor
+Denumirea
+Nr.
+Data
+7
+8
+9
+
+Suma achitatã
+
+10
+
+Solicitant,
+É..............................É
+Semnãtura
+É..........................É
+
+Ștampila
+É.................................É
+
+Data
+É..............................É
+
+N O T Ã:
+
+În cazul bonurilor fiscale, documentul înscris în borderou în col. 1Ñ3 se va înscrie și în
+col. 7Ñ9, iar totalul de la col. 6 se va înscrie și în col. 10.
+
+ANEXA Nr. 4
+la norme
+
+Nr. de înregistrare ..............
+Data: ...................................
+Loc rezervat
+pentru Ministerul Finanțelor Publice
+
+1.
+
+2.
+
+CERERE
+
+de restituire a taxei
+pe valoarea adãugatã
+
+Nr. de înregistrare ............
+Data: ..................................
+Loc rezervat
+pentru Ministerul Afacerilor Externe
+
+Denumirea instituției:
+a) Misiunea diplomaticã .........................................................................................................
+b) Oficiul consular ...................................................................................................................
+c) Reprezentanța internaționalã interguvernamentalã
+...................................................................................................................................................
+
+Adresa:
+Localitatea ................................, str. ................................ nr. ............., sectorul .................,
+codul poștal ..........................................
+
+Prin prezenta cerere solicitãm restituirea taxei pe valoarea adãugatã plãtite
+pentru cumpãrãri de bunuri/prestãri de servicii, în conformitate cu procedura prevãzutã, în
+sumã de ................. lei.
+
+RESTITUIREA ESTE AFERENTÃ TRIMESTRULUI
+
+Solicitãm restituirea în contul nr. ................................, deschis la ..........................................
+..................................................... Sucursala .................................
+
+Conducãtorul instituției,
+..................................................
+(semnãtura și ștampila)
+
+15
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 737/22.X.2003
+CADRU REZERVAT MINISTERULUI AFACERILOR EXTERNE
+
+Avizãm favorabil restituirea T.V.A. în sumã de ..................... lei, fiind îndeplinite
+condițiile de reciprocitate.
+Directorul general al
+Direcției generale protocol național,
+Semnãtura ........................
+Ștampila
+
+Data ..................
+
+CADRU REZERVAT MINISTERULUI FINANÞELOR PUBLICE
+
+Aprobãm restituirea T.V.A. în sumã de ......................... lei.
+Directorul general al Direcției generale
+a finanțelor publice a municipiului București,
+Semnãtura ........................
+Ștampila
+
+Data ..................
+
+ANEXA Nr. 5
+la norme
+
+Nr. de înregistrare ..............
+Data: ...................................
+Loc rezervat
+pentru Ministerul Finanțelor Publice
+
+CERERE
+
+de restituire a taxei
+pe valoarea adãugatã
+
+Nr. de înregistrare ............
+Data: ..................................
+Loc rezervat pentru
+Ministerul Afacerilor Externe
+
+Numele și prenumele solicitantului ....................................................................................
+Instituția ................................................................................................................................
+Funcția solicitantului ............................................................................................................
+Numãrul carnetului eliberat de Ministerul Afacerilor Externe ...........................................
+Adresa instituției:
+Localitatea ............................., str. ..................................... nr. ........, sectorul ..............,
+codul poștal .............
+Prin prezenta cerere solicitãm restituirea taxei pe valoarea adãugatã plãtite pentru
+cumpãrãri de bunuri/prestãri de servicii, în conformitate cu procedura prevãzutã, în sumã
+de ........................... lei.
+RESTITUIREA ESTE AFERENTÃ TRIMESTRULUI ................
+
+Solicitãm restituirea în contul nr. ..................., deschis la .........................................................
+Sucursala ............................ .
+Conducãtorul instituției,
+.........................................................
+(semnãtura și ștampila)
+CADRU REZERVAT MINISTERULUI AFACERILOR EXTERNE
+
+Avizãm favorabil restituirea T.V.A. în sumã de .............. lei, fiind îndeplinite condițiile
+de reciprocitate.
+Directorul general
+al Direcției generale protocol național,
+Semnãtura .............
+Ștampila
+
+Data .....................
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 737/22.X.2003
+CADRU REZERVAT MINISTERULUI FINANÞELOR PUBLICE
+
+Aprobãm restituirea T.V.A. în sumã de ............... lei.
+Directorul general al Direcției generale
+a finanțelor publice a municipiului București,
+Semnãtura .............
+Ștampila
+
+Data .....................
+ANEXA Nr. 6
+la norme
+
+DIRECÞIA GENERALÃ A FINANÞELOR PUBLICE
+A MUNICIPIULUI BUCUREȘTI
+
+Compartimentul ...................
+
+Nr. ............................./.........................................
+
+Cãtre
+Trezoreria ................................
+Ca urmare a cererii de restituire a taxei pe valoarea adãugatã, înregistratã la Direcția generalã a finanțelor
+publice a municipiului București sub nr. .........../..............., vã comunicãm aprobarea restituirii taxei pe valoarea adãugatã
+aferente bunurilor și serviciilor cumpãrate de:
+a) Misiunea diplomaticã/Oficiul consular/Reprezentanța internaționalã interguvernamentalã ......................................;
+b) personal al ...............................................................................................................................................................,
+în sumã de:
+a) ................. lei;
+b) ................. lei.
+Vã rugãm ca sumele de mai sus sã fie restituite prin virament în contul .................................... nr. ................,
+(instituției sau al persoanei)
+
+deschis la Banca .............................................., Sucursala/Filiala/Agenția .......................................... .
+Alãturat cã remitem cererea de restituire aprobatã, pe baza cãreia vã rugãm sã efectuați viramentul.
+Șef de compartiment,
+.............................................
+ANEXA Nr. 7
+la norme
+DIRECÞIA GENERALÃ A FINANÞELOR PUBLICE
+A MUNICIPIULUI BUCUREȘTI
+
+Nr. ..................../......................
+C ã t r e .....................
+Ca urmare a cererii de restituire a taxei pe valoarea adãugatã, înregistratã la Direcția generalã a finanțelor
+publice a municipiului București sub nr. ......./......., vã comunicãm aprobarea restituirii taxei pe valoarea adãugatã aferente
+bunurilor și serviciilor cumpãrate pentru:
+a) Misiunea diplomaticã/Oficiul consular/Reprezentanța internaționalã interguvernamentalã .......................................;
+b) personalul Misiunii diplomatice/Oficiului consular/Reprezentanței internaționale interguvernamentale ......................,
+urmând ca plata sã se efectueze prin virament în contul ............................................................ nr. ................., deschis la
+(instituției sau al persoanei)
+
+Banca ..............................., Sucursala/Filiala/Agenția ................................................... .
+Sumele aferente sunt:
+a) .......................... lei;
+b) .......................... lei.
+Director general,
+.......................................
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 5069427282 Direcția de Trezorerie și Contabilitate Publicã a Municipiului București
+(alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 411.97.54, tel./fax 410.77.36.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 737/22.X.2003 conține 16 pagini.
+
+Prețul de vânzare 15.000 lei
+
+ISSN 1453Ñ4495
+
+

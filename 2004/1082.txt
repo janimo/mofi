@@ -1,0 +1,855 @@
+Anul 172 (XVI) — Nr. 1.082
+
+PARTEA
+
+I
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+Luni, 22 noiembrie 2004
+
+SUMAR
+
+Nr.
+
+Pagina
+
+Nr.
+
+Pagina
+
+LEGI ȘI DECRETE
+510.
+
+955.
+
+nr. 82/1991, republicată, cu modificările și
+completările ulterioare .............................................
+
+— Lege privind reorganizarea Inspectoratului
+General pentru Comunicații și Tehnologia
+Informației .................................................................
+
+1–5
+
+— Decret pentru promulgarea Legii privind
+reorganizarea Inspectoratului General pentru
+Comunicații și Tehnologia Informației ....................
+
+592.
+5
+
+DECIZII ALE CURȚII CONSTITUȚIONALE
+Decizia nr. 361 din 23 septembrie 2004 referitoare la
+excepția de neconstituționalitate a prevederilor
+art. 35 pct. 2 lit. b) din Legea contabilității
+
+LEGI
+
+ȘI
+
+6–7
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+— Ordin al președintelui Agenției Naționale de
+Control al Exporturilor pentru completarea
+Ordinului președintelui Agenției Naționale de
+Control al Exporturilor Strategice și al Interzicerii
+Armelor Chimice nr. 25/1999 pentru aprobarea
+Normelor metodologice de aplicare a prevederilor
+Ordonanței de urgență a Guvernului nr. 158/1999
+privind regimul exporturilor și importurilor de
+produse strategice .....................................................
+
+8
+
+DECRETE
+
+PARLAMENTUL ROMÂNIEI
+CAMERA DEPUTAȚILOR
+
+SENATUL
+
+LEGE
+privind reorganizarea Inspectoratului General pentru Comunicații și Tehnologia Informației
+Parlamentul României adoptă prezenta lege.
+CAPITOLUL I
+Dispoziții generale
+Art. 1. — Prezenta lege are ca obiect reorganizarea
+Inspectoratului General pentru Comunicații și Tehnologia
+Informației, denumit în continuare IGCTI, ca instituție
+publică autonomă în domeniul radiocomunicațiilor și
+tehnologiei informației, aflată în subordinea Guvernului.
+Art. 2. — (1) În înțelesul prezentei legi, următorii
+termeni se definesc astfel:
+
+a) atribuirea unei benzi de frecvențe — stabilirea
+serviciului de radiocomunicații care poate utiliza o anumită
+bandă de frecvențe, în condiții specificate; atribuirile sunt
+cuprinse în Tabelul național de atribuire a benzilor de
+frecvențe, denumit în continuare T.N.A.B.F.;
+b) alocarea unei frecvențe sau a unui canal radio —
+nominalizarea utilizatorului sau a categoriei de utilizatori ai
+unei frecvențe ori ai unui canal radio, într-o zonă
+geografică precizată și în condiții specificate;
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 1.082/22.XI.2004
+
+c) asignarea unei frecvențe sau a unui canal radio —
+autorizarea din punct de vedere tehnic a unei stații de
+radiocomunicații în vederea utilizării unei frecvențe sau a
+unui canal radio în condiții specificate;
+d) stație de radiocomunicații — unul sau mai multe
+emițătoare ori receptoare sau o combinație de emițătoare
+și receptoare, inclusiv echipamentele accesorii, necesare
+pentru asigurarea unui serviciu de radiocomunicații într-un
+amplasament dat sau într-o zonă de deplasare precizată;
+e) radiocomunicații — comunicații electronice care se
+realizează prin intermediul undelor radio;
+f) spectru de frecvențe radio/spectru radio — porțiunea
+spectrului electromagnetic care cuprinde undele radio ale
+căror frecvențe sunt situate între 9 kHz și 3.000 GHz;
+g) serviciu de radiocomunicații — transmisia, emisia
+și/sau recepția de unde radio, în scopul realizării de
+radiocomunicații;
+h) echipament radio — un produs sau o parte
+componentă relevantă a acestuia, capabil să comunice prin
+intermediul emisiei și/sau recepției undelor radio utilizând
+spectrul alocat radiocomunicațiilor;
+i) echipament terminal de telecomunicații — un produs
+sau o parte componentă relevantă din acesta, care permite
+comunicația și care este destinat să fie conectat direct ori
+indirect prin orice mijloace la interfețele rețelelor publice de
+comunicații;
+j) compatibilitate electromagnetică — proprietatea unui
+dispozitiv, echipament sau sistem de a funcționa
+satisfăcător în mediul său electromagnetic, fără a introduce
+el însuși perturbații electromagnetice prejudiciabile pentru
+orice aparat ce se găsește în acest mediu;
+k) aparate — ansamblul dispozitivelor electrice și
+electronice împreună cu echipamentele și instalațiile ce
+conțin componente electrice și/sau electronice;
+l) perturbație prejudiciabilă — o perturbație care
+periclitează funcționarea unui serviciu de radionavigație sau
+a altor servicii de radiocomunicații destinate siguranței vieții
+sau care, în orice mod, afectează grav, obstrucționează ori
+întrerupe repetat un serviciu de radiocomunicații, care
+operează în conformitate cu dispozițiile legale în vigoare.
+(2) În cuprinsul prezentei legi sunt, de asemenea,
+aplicabile definițiile relevante prevăzute la:
+a) art. 2 din Ordonanța de urgență a Guvernului
+nr. 79/2002 privind cadrul general de reglementare a
+comunicațiilor, aprobată cu modificări și completări prin
+Legea nr. 591/2002;
+b) art. 2 din Ordonanța Guvernului nr. 34/2002 privind
+accesul la rețelele publice de comunicații electronice și la
+infrastructura asociată, precum și interconectarea acestora,
+aprobată cu modificări și completări prin Legea
+nr. 527/2002;
+c) art. 1 din Legea audiovizualului nr. 504/2002, cu
+modificările și completările ulterioare.
+
+CAPITOLUL II
+Organizarea și funcționarea IGCTI
+Art. 3. — (1) IGCTI se reorganizează și funcționează ca
+instituție publică autonomă în domeniul radiocomunicațiilor
+și tehnologiei informației, în subordinea Guvernului,
+finanțată integral din venituri proprii.
+(2) IGCTI administrează spectrul de frecvențe radio și
+monitorizează benzile de frecvențe cu utilizare
+neguvernamentală.
+(3) IGCTI controlează îndeplinirea cerințelor esențiale de
+compatibilitate electromagnetică și de utilizare eficientă a
+spectrului.
+(4) IGCTI operează la nivel național sistemele
+informatice ale administrației publice centrale ce furnizează
+servicii destinate guvernării prin mijloace electronice.
+(5) IGCTI preia toate obligațiile asumate anterior
+reorganizării.
+Art. 4. — (1) Conducerea IGCTI este asigurată de un
+președinte și de un vicepreședinte, numiți prin decizie a
+primului-ministru.
+(2) Președintele IGCTI este ordonator principal de
+credite.
+(3) În exercitarea atribuțiilor sale președintele emite
+decizii.
+(4) Deciziile președintelui IGCTI, referitoare la
+administrarea spectrului de frecvențe radio, se publică în
+Monitorul Oficial al României, Partea I.
+Art. 5. — În exercitarea atribuțiilor sale, IGCTI are
+obligația să respecte principiile obiectivității, proporționalității,
+transparenței, imparțialității și neutralității tehnologice.
+Art. 6. — (1) Organizarea și funcționarea IGCTI se
+aprobă prin hotărâre a Guvernului în termen de 90 de zile
+de la data intrării în vigoare a prezentei legi și va
+cuprinde, pe lângă aparatul central, direcții teritoriale,
+precum și alte structuri specifice, necesare realizării
+obiectului său de activitate.
+(2) Paza sediului central și a direcțiilor teritoriale ale
+IGCTI se organizează și se efectuează cu efective de
+jandarmi.
+Art. 7. — (1) Finanțarea cheltuielilor curente și de
+capital ale IGCTI se asigură din venituri proprii, care provin
+din următoarele surse:
+a) sumele încasate de la titularii dreptului de utilizare a
+spectrului de frecvențe radio pentru utilizarea acestuia;
+b) tariful de înregistrare a Sistemului electronic de
+achiziții publice;
+c) tariful de reînnoire a înregistrării în Sistemul
+electronic de achiziții publice;
+d) tariful de utilizare a Sistemului electronic de achiziții
+publice;
+e) tariful de participare în Sistemul electronic de achiziții
+publice;
+f) tariful de eliberare a certificatului digital de înregistrare
+în Sistemul informatic pentru atribuirea electronică a
+autorizațiilor de transport rutier internațional de marfă;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 1.082/22.XI.2004
+g) tariful de reînnoire a certificatului digital de
+înregistrare în Sistemul informatic pentru atribuirea
+electronică a autorizațiilor de transport rutier internațional
+de marfă;
+h) donații, legate și sponsorizări în condițiile legii;
+i) credite interne și externe contractate în condițiile legii;
+j) sumele provenite din amenzile administrative aplicate
+conform art. 56 din Ordonanța de urgență a Guvernului
+nr. 79/2002 privind cadrul general de reglementare a
+comunicațiilor, aprobată cu modificări și completări prin
+Legea nr. 591/2002, și conform art. 30, 31 și 32 din Legea
+nr. 608/2001 privind evaluarea conformității produselor, cu
+modificările și completările ulterioare;
+k) venituri rezultate din certificarea semnăturii
+electronice;
+l) alte venituri ce se pot realiza în condițiile legii.
+(2) Cuantumul sumelor datorate de către fiecare titular
+al dreptului de utilizare a frecvențelor radio se stabilește
+prin decizie cu caracter individual a președintelui IGCTI.
+(3) Decizia președintelui IGCTI prevăzută la alin. (2)
+constituie titlu de creanță, care devine titlu executoriu la
+data la care expiră termenul de plată și se execută
+conform Ordonanței Guvernului nr. 92/2003 privind Codul
+de procedură fiscală, republicată.
+(4) Pentru colectarea creanțelor IGCTI, organul de
+executare silită al acestuia, înființat potrivit legii, a cărui
+conducere este asigurată de către o persoană desemnată
+de președintele IGCTI, este abilitat să instituie măsurile
+asigurătorii și să efectueze procedura de executare silită,
+potrivit Codului de procedură fiscală, republicat.
+(5) În exercitarea atribuțiilor sale, organul de executare
+silită prevăzut la alin. (4) emite acte administrative cu
+putere de titlu executoriu, în condițiile Codului de procedură
+fiscală, republicat.
+(6) Sumele încasate din sursele prevăzute la alin. (1)
+se rețin integral ca venituri proprii, cu titlu permanent, la
+dispoziția IGCTI și vor fi folosite în conformitate cu
+prevederile bugetului de venituri și cheltuieli aprobat în
+condițiile Legii nr. 500/2002 privind finanțele publice, cu
+modificările ulterioare.
+Art. 8. — (1) Bugetul anual de venituri și cheltuieli al
+IGCTI se aprobă de către președintele acestuia în condițiile
+art. 16 alin. (1) lit. e) din Legea nr. 500/2002, cu
+modificările ulterioare.
+(2) Excedentul anual rezultat din execuția bugetului de
+venituri și cheltuieli al IGCTI se reportează în anul următor.
+(3) IGCTI efectuează operațiunile de plăți și încasări
+prin unitățile Trezoreriei Statului.
+(4) În vederea administrării eficiente a resurselor
+financiare, precum și pentru garantarea obligațiilor asumate,
+IGCTI are dreptul să constituie depozite în condițiile legii.
+Art. 9. — (1) Personalul IGCTI este personal
+contractual, angajat pe bază de concurs organizat în
+condițiile legii, în conformitate cu structura organizatorică.
+
+3
+
+(2) Salarizarea personalului IGCTI, inclusiv a
+președintelui și a vicepreședintelui acestuia, se realizează
+potrivit dispozițiilor legale în vigoare aplicabile instituțiilor
+publice finanțate integral din venituri proprii.
+Art. 10. — Pentru desfășurarea activităților sale, IGCTI
+utilizează mijloace tehnice specifice, în condițiile legii.
+CAPITOLUL III
+Funcțiile și atribuțiile IGCTI
+Art. 11. — În vederea îndeplinirii rolului său, astfel cum
+este definit la art. 3, IGCTI îndeplinește următoarele funcții:
+a) de administrare a spectrului radio prin planificarea,
+atribuirea, alocarea benzilor de frecvențe, asignarea și
+monitorizarea frecvențelor radio din benzile de frecvențe cu
+utilizare neguvernamentală;
+b) de gestionare a benzilor de frecvențe radio cu
+atribuire neguvernamentală conform T.N.A.B.F., prin
+alocarea sau asignarea frecvențelor radio, în scopul
+asigurării unei utilizări raționale și eficiente a acestora;
+c) de elaborare de proceduri și norme cu caracter
+tehnic utilizate în activitățile de supraveghere și control
+specifice;
+d) de participare în organismele și organizațiile cu
+activități la nivel internațional în domeniile de activitate ale
+IGCTI;
+e) de supraveghere și control al respectării de către
+utilizatorii frecvențelor radio a obligațiilor ce le revin potrivit
+legii, licențelor de utilizare a frecvențelor radio și licențelor
+de emisie;
+f) de operare la nivel național a sistemelor informatice
+ale administrației publice centrale ce furnizează servicii
+publice destinate guvernării prin mijloace electronice.
+Art. 12. — În vederea îndeplinirii funcțiilor sale, IGCTI
+are următoarele atribuții:
+1. elaborarea, adoptarea și publicarea de norme
+cu caracter tehnic și administrativ în domeniul
+radiocomunicațiilor;
+2. punerea la dispoziție Ministerului Comunicațiilor și
+Tehnologiei Informației a datelor necesare în vederea
+elaborării T.N.A.B.F.;
+3. stabilirea prin decizie a președintelui IGCTI a sumelor
+datorate de titularii dreptului de utilizare a spectrului de
+frecvențe;
+4. acordarea licențelor de utilizare a frecvențelor pentru
+furnizarea de rețele și/sau servicii de comunicații
+electronice care utilizează spectrul radio, precum și a
+licențelor de emisie;
+5. încasarea sumelor datorate de titularii dreptului de
+utilizare a spectrului de frecvență;
+6. alocarea și asignarea frecvențelor radio în benzile cu
+atribuire neguvernamentală, exclusivă sau în partaj,
+prevăzute în T.N.A.B.F., cu respectarea reglementărilor
+tehnice și administrative, naționale și internaționale, a
+acordurilor și protocoalelor interne sau a acordurilor
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 1.082/22.XI.2004
+
+internaționale la care România este parte, care se referă
+la utilizarea spectrului radio;
+
+20. exercitarea altor activități stabilite în sarcina sa în
+conformitate cu dispozițiile legale în vigoare.
+
+7. analizarea și expertizarea tehnică a utilizării
+frecvențelor
+pentru
+asigurarea
+compatibilității
+electromagnetice între stațiile și rețelele de radiocomunicații
+autorizate, precum și pentru prevenirea apariției
+perturbațiilor prejudiciabile, în scopul evaluării posibilității de
+asignare a acestora, în urma solicitărilor;
+
+Art. 13. — (1) În vederea îndeplinirii atribuțiilor sale,
+IGCTI are dreptul de a achiziționa din import instalații,
+sisteme, echipamente, aparate, autoturisme specifice
+desfășurării obiectului de activitate, precum și alte bunuri
+necesare realizării obiectului său de activitate.
+
+8. realizarea expertizelor tehnice necesare folosirii
+raționale și eficiente a spectrului radio;
+9. aplicarea procedurilor de coordonare stabilite prin
+acorduri internaționale pentru utilizarea frecvențelor radio;
+10. alocarea și asignarea codurilor de identificare pentru
+unele servicii de radiocomunicații, certificarea personalului
+de operare a stațiilor de radiocomunicații, precum și
+exercitarea activităților de evidență conexe acestora;
+11. asigurarea evidenței permanente a utilizării
+frecvențelor radio prin asigurarea evidenței asignărilor de
+frecvențe, întreținerea permanentă a bazelor de date
+specializate care formează Registrul național al frecvențelor
+asignate/alocate;
+12. monitorizarea spectrului de frecvențe radio cu
+atribuire neguvernamentală;
+13. supravegherea și controlul respectării obligațiilor
+cuprinse în licențele de utilizare a frecvențelor sau
+reglementărilor din domeniul radiocomunicațiilor;
+14. urmărirea și controlul aplicării prevederilor cuprinse
+în actele normative în vigoare și în acordurile
+internaționale, în domeniul radiocomunicațiilor, al
+comunicațiilor audiovizuale, al echipamentelor radio și al
+echipamentelor terminale de comunicații electronice, inclusiv
+din punct de vedere al compatibilității electromagnetice, și
+luarea de măsuri pentru prevenirea, înlăturarea și
+sancționarea nerespectării acestor prevederi, potrivit
+competenței recunoscute de acestea;
+15. eliberarea de avize de confirmare a conformității cu
+cerințele esențiale prevăzute de legislația aplicabilă, pentru
+echipamente radio și echipamente terminale de comunicații
+electronice, inclusiv din punct de vedere al compatibilității
+electromagnetice;
+16. eliberarea de avize necesare obținerii autorizației de
+construire a pilonilor și clădirilor care pot afecta
+funcționarea sistemelor de monitorizare ale IGCTI;
+17. operarea Sistemului electronic de achiziții publice, a
+Sistemului electronic național și a Sistemului informatic
+pentru atribuirea electronică a autorizațiilor de transport
+internațional rutier de marfă;
+18. poate furniza semnătură electronică extinsă bazată
+pe un certificat calificat pentru administrația publică
+centrală;
+19. asigurarea recunoașterii în sistemele pe care le
+operează a oricărei semnături electronice extinse bazate pe
+un certificat calificat emis de un furnizor de servicii de
+certificare acreditat;
+
+(2) În exercitarea atribuțiilor sale, IGCTI va fi sprijinit
+operativ de autoritățile administrației publice locale,
+organele de poliție sau de către alte autorități publice, în
+condițiile legii.
+(3) Se exceptează de la supravegherea și controlul
+efectuate de IGCTI activitățile autorităților publice abilitate
+din domeniul apărării naționale, al siguranței naționale și al
+ordinii publice.
+CAPITOLUL IV
+Dispoziții tranzitorii și finale
+Art. 14. — (1) Ordonanța de urgență a Guvernului
+nr. 79/2002 privind cadrul general de reglementare a
+comunicațiilor, publicată în Monitorul Oficial al României,
+Partea I, nr. 457 din 27 iunie 2002, aprobată cu modificări
+și completări prin Legea nr. 591/2002, se modifică și se
+completează după cum urmează:
+1. În tot cuprinsul ordonanței de urgență, cu excepția
+art. 8 alin. (1) și (3), art. 9, art. 13 alin. (4), art. 45 lit. a),
+art. 46 alin. (1) pct. 21 și 22, precum și a art. 66 lit. c), d) și
+e), sintagma îMinisterul Comunicațiilor și Tehnologiei
+Informației/ministerul de specialitate“ se înlocuiește cu
+abrevierea îIGCTI“.
+2. Alineatul (3) al articolului 62 se abrogă.
+3. După alineatul 62 se introduce articolul 62 1 cu
+următorul cuprins:
+îArt. 621. — (1) Până la data de 31 decembrie 2005,
+IGCTI va analiza și va revizui toate prevederile care se
+referă la drepturi de utilizare a frecvențelor și la obligațiile
+conexe acestora din cadrul licențelor, autorizațiilor și
+acordurilor eliberate în temeiul prevederilor Legii
+telecomunicațiilor nr. 74/1996, cu modificările ulterioare, și
+ale legislației secundare asociate pentru a asigura
+respectarea prevederilor cap. III din prezenta ordonanță de
+urgență, ale Tabelului național de atribuire a benzilor de
+frecvențe și ale reglementărilor în vigoare elaborate în
+baza prezentei ordonanțe de urgență.
+(2) Dreptul de utilizare a frecvențelor radioelectrice și
+obligațiile conexe acestuia, inclusiv plata tarifului de utilizare
+a spectrului, se exercită, respectiv sunt asumate, în baza
+prevederilor menționate la alin. (1) și rămân valabile până
+la momentul revizuirii, cu excepția situațiilor în care titularii
+acestora renunță prin solicitare scrisă la drepturile
+respective sau nu depun solicitările de revizuire a
+drepturilor de utilizare a frecvențelor în termenele stipulate
+în procedura de emitere a licențelor de utilizare a
+frecvențelor radioelectrice, prevăzută la art. 21.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 1.082/22.XI.2004
+(3) Prin revizuirea licențelor, autorizațiilor și acordurilor
+eliberate în temeiul prevederilor Legii nr. 74/1996 se
+conferă titularului un nou drept de utilizare a frecvențelor
+radioelectrice, însoțit de obligațiile aferente, în condițiile
+prezentei ordonanțe de urgență.“
+(4) În cuprinsul Legii audiovizualului nr. 504/2002, cu
+modificările și completările ulterioare, cu excepția art. 19
+alin. (1), art. 67 și a art. 69 alin. (1), sintagma îMinisterul
+Comunicațiilor și Tehnologiei Informației“ se înlocuiește cu
+abrevierea îIGCTI“.
+Art. 15. — La data intrării în vigoare a prezenei legi se
+abrogă Hotărârea Guvernului nr. 1.594/2002 privind
+organizarea și funcționarea Inspectoratului General pentru
+Comunicații și Tehnologia Informației, publicată în Monitorul
+Oficial al României, Partea I, nr. 47 din 28 ianuarie 2003.
+Art. 16. — (1) În termen de 90 de zile de la data
+intrării în vigoare a prezentei legi, Hotărârea Guvernului
+nr. 88/2003 privind echipamentele radio și echipamentele
+terminale de telecomunicații și recunoașterea mutuală a
+conformității acestora, cu modificările și completările
+
+5
+
+ulterioare, Hotărârea Guvernului nr. 497/2003 privind
+stabilirea condițiilor de introducere pe piață și de
+funcționare a aparatelor electrice și electronice din punct
+de vedere al compatibilității electromagnetice, cu
+modificările și completările ulterioare, și Hotărârea
+Guvernului nr. 744/2003 privind organizarea și funcționarea
+Ministerului Comunicațiilor și Tehnologiei Informației, cu
+modificările ulterioare, vor fi modificate și completate
+corespunzător.
+(2) Până la revizuirea legislației secundare, actele
+normative emise de Ministerul Comunicațiilor și Tehnologiei
+Informației rămân în vigoare.
+(3) Până la numirea în funcție a președintelui și
+vicepreședintelui, conducerea IGCTI va fi asigurată de
+către persoanele care ocupă în prezent funcțiile de director
+general și director general adjunct.
+(4) Personalul existent la data intrării în vigoare a
+prezentei legi își păstrează drepturile și obligațiile stabilite
+prin contractele individuale de muncă și contractele
+colective de muncă.
+
+Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 și ale art. 76 alin. (1) din
+Constituția României, republicată.
+PREȘEDINTELE CAMEREI DEPUTAȚILOR
+
+PREȘEDINTELE SENATULUI
+
+VALER DORNEANU
+
+NICOLAE VĂCĂROIU
+
+București, 17 noiembrie 2004.
+Nr. 510.
+
+PREȘEDINTELE ROMÂNIEI
+
+DECRET
+pentru promulgarea Legii privind reorganizarea
+Inspectoratului General pentru Comunicații
+și Tehnologia Informației
+În temeiul prevederilor art. 77 alin. (1) și ale art. 100 alin. (1) din
+Constituția României, republicată,
+Președintele României
+
+d e c r e t e a z ă :
+
+Articol unic. — Se promulgă Legea privind reorganizarea Inspectoratului
+General pentru Comunicații și Tehnologia Informației și se dispune
+publicarea acestei legi în Monitorul Oficial al României, Partea I.
+PREȘEDINTELE ROMÂNIEI
+
+ION ILIESCU
+București, 17 noiembrie 2004.
+Nr. 955.
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 1.082/22.XI.2004
+
+DECIZII
+
+ALE
+
+CURȚII
+
+CONSTITUȚIONALE
+
+CURTEA CONSTITUȚIONALĂ
+
+D E C I Z I A Nr. 361
+din 23 septembrie 2004
+
+referitoare la excepția de neconstituționalitate a prevederilor art. 35 pct. 2 lit. b)
+din Legea contabilității nr. 82/1991, republicată, cu modificările și completările ulterioare
+Ioan Vida
+Nicolae Cochinescu
+Aspazia Cojocaru
+Constantin Doldur
+Acsinte Gaspar
+Kozsokár Gábor
+Petre Ninosu
+Ion Predescu
+Șerban Viorel Stănoiu
+Ioan Tiucă
+Claudia Margareta Niță
+
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+
+președinte
+judecător
+judecător
+judecător
+judecător
+judecător
+judecător
+judecător
+judecător
+procuror
+magistrat-asistent
+
+Pe rol se află soluționarea excepției de neconstituționalitate
+a prevederilor art. 35 pct. 2 lit. b) din Legea contabilității
+nr. 82/1991, republicată. Excepția a fost ridicată de
+Societatea Comercială îRev Inox“ — S.A. din Târgu Mureș
+în Dosarul nr. 1.353/2004 al Judecătoriei Timișoara.
+La apelul nominal se constată lipsa părților, față de care
+procedura de citare a fost legal îndeplinită.
+Reprezentantul Ministerului Public pune concluzii de
+respingere a excepției de neconstituționalitate ca
+neîntemeiată, arătând în acest sens că dispozițiile de lege
+criticate nu contravin normelor constituționale invocate de
+autorul excepției în motivarea sa.
+C U R T E A,
+
+având în vedere actele și lucrările dosarului, constată
+următoarele:
+Prin Încheierea din 18 mai 2004, pronunțată în Dosarul
+nr. 1.353/2004, Judecătoria Timișoara a sesizat Curtea
+Constituțională cu excepția de neconstituționalitate a
+prevederilor art. 35 pct. 2 lit. b) din Legea contabilității
+nr. 82/1991, republicată. Excepția a fost ridicată de
+Societatea Comercială îRev Inox“ — S.A. din Târgu Mureș
+într-o cauză având drept obiect soluționarea unei plângeri
+contravenționale formulate de aceasta împotriva procesuluiverbal de contravenție întocmit de Garda Financiară Timiș.
+În motivarea excepției se arată că dispozițiile art. 35
+pct. 2 lit. b) din Legea contabilității nr. 82/1991, republicată,
+încalcă prevederile art. 1 alin. (4), art. 61, 73, 74, 78 și ale
+art. 139 din Constituție, republicată. Textul de lege criticat
+stabilește anumite categorii de contravenții în materia
+contabilității, săvârșite prin nerespectarea reglementărilor
+emise de Ministerul Finanțelor Publice. În opinia autorului
+excepției aceste dispoziții oferă competență de legiferare
+unui organ al puterii executive, încălcându-se astfel
+principiul separației și echilibrului puterilor în stat, precum
+și normele constituționale referitoare la rolul și structura
+Parlamentului, categorii de legi, inițiativa legislativă și
+intrarea în vigoare a legii. Mai menționează că textul de
+lege criticat contravine și art. 139 din Constituție,
+republicată, prin aceea că amenzile sunt aplicate ca urmare
+a nerespectării unor ordine emise de Ministerul Finanțelor
+Publice, în timp ce îamenzile sunt venituri ale bugetului de
+stat și, prin urmare, se stabilesc numai prin lege“.
+
+Judecătoria Timișoara consideră că textul de lege
+criticat este în conformitate cu prevederile din Constituție,
+republicată, invocate de autorul excepției în motivarea sa.
+În acest sens, arată că emiterea de norme de nivel inferior
+pentru aplicarea și detalierea prevederilor din Legea
+contabilității este necesară și evidentă, fără a se prejudicia
+principiul separației puterilor în stat.
+Potrivit prevederilor art. 24 alin. (1) din Legea
+nr. 47/1992, republicată, modificată și completată prin
+Legea nr. 232/2004, încheierea de sesizare a fost
+comunicată președinților celor două Camere ale
+Parlamentului, Guvernului și instituției Avocatul Poporului,
+pentru a-și exprima punctele de vedere asupra excepției de
+neconstituționalitate ridicate.
+Guvernul consideră că dispozițiile art. 35 pct. 2 lit. b)
+din Legea contabilității nr. 82/1991, republicată, nu
+contravin prevederilor constituționale invocate de autorul
+excepției de neconstituționalitate. Se arată că activitatea de
+legiferare poate fi exercitată fie de către autoritatea
+legiuitoare, care are competență exclusivă în domeniu, fie,
+ca activitate secundară, de către o autoritate de
+specialitate, cum este, de exemplu, Ministerul Finanțelor
+Publice. Se precizează că înormele ce pot fi emise de
+ministerul în cauză nu țin loc de reglementare legală, ci
+vizează aplicarea legii.“ În consecință, se mai menționează
+că în speță îeste vorba despre stricta aplicare și
+interpretare a legii“, atribuții ce intră în competența
+exclusivă a instanțelor judecătorești.
+Avocatul Poporului apreciază că excepția de
+neconstituționalitate este neîntemeiată. Astfel, în ceea ce
+privește critica de neconstituționalitate față de art. 1
+alin. (4) și art. 61 din Legea fundamentală, republicată,
+consideră că îstabilirea prin dispozițiile de lege criticate a
+unor categorii de contravenții în materia contabilității,
+săvârșite prin nerespectarea reglementărilor emise de
+Ministerul Finanțelor Publice, reprezintă o opțiune a
+legiuitorului“, care corespunde îdreptului exclusiv al acestuia
+de a alege soluția de tehnică legislativă necesară redactării
+normelor juridice, fără a încălca sub nici un aspect
+principiul separației și echilibrului puterilor în cadrul
+democrației constituționale.“
+Cu referire la critica față de normele constituționale ale
+art. 73, 74, 78 și 139, apreciază că acestea nu au
+incidență în cauza de față.
+Președinții celor două Camere ale Parlamentului nu au
+comunicat punctele lor de vedere.
+C U R T E A,
+
+examinând încheierea de sesizare, punctele de vedere ale
+Guvernului și ale instituției Avocatul Poporului, raportul
+întocmit de judecătorul-raportor, concluziile procurorului,
+dispozițiile legale criticate, raportate la prevederile
+Constituției României republicată, precum și dispozițiile Legii
+nr. 47/1992, reține următoarele:
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 1.082/22.XI.2004
+Curtea Constituțională a fost legal sesizată și este
+competentă, potrivit dispozițiilor art. 146 lit. d) din
+Constituția României, republicată, precum și ale art. 1
+alin. (2), ale art. 2, 3, 10 și 29 din Legea nr. 47/1992,
+republicată, să soluționeze excepția de neconstituționalitate
+ridicată.
+Obiectul excepției de neconstituționalitate îl constituie
+prevederile art. 35 pct. 2 lit. b) din Legea contabilității
+nr. 82/1991, republicată, în temeiul art. III din Ordonanța
+Guvernului nr. 61/2001, în Monitorul Oficial al României,
+Partea I, nr. 629 din 26 august 2002, modificată prin
+Ordonanța Guvernului nr. 70/2004, publicată în Monitorul
+Oficial al României, Partea I, nr. 773 din 24 august 2004.
+Aceste dispoziții au următorul conținut:
+— Art. 35 pct. 2 lit. b): îConstituie contravenții la
+prevederile prezentei legi următoarele fapte, dacă nu sunt
+săvârșite în astfel de condiții încât, potrivit legii, să fie
+considerate infracțiuni:
+(...)
+2. nerespectarea reglementărilor emise de Ministerul
+Finanțelor Publice cu privire la:
+(...)
+b) întocmirea și utilizarea documentelor justificative și
+contabile pentru toate operațiunile efectuate, înregistrarea în
+contabilitate a acestora în perioada la care se referă, păstrarea
+și arhivarea acestora, precum și reconstituirea documentelor
+pierdute, sustrase sau distruse.“
+În opinia autorului excepției de neconstituționalitate
+dispozițiile de lege criticate contravin următoarelor prevederi
+din Constituția României, republicată: art. 1 alin. (4) —
+referitor la principiul separației și echilibrului puterilor în
+stat; art. 61 — îRolul și structura Parlamentului“; art. 73 —
+îCategorii de legi“; art. 74 — îInițiativa legislativă“; art. 78 —
+îIntrarea în vigoare a legii“ și art. 139 — îImpozite, taxe și
+alte contribuții“.
+Din examinarea excepției de neconstituționalitate, Curtea
+observă că, în esență, autorul critică sancționarea unor
+contravenții specifice domeniului contabilității, constând în
+nerespectarea reglementărilor emise de Ministerul
+Finanțelor Publice, considerând că prin aceasta se încalcă
+principiul separației și echilibrului puterilor în stat și sunt
+eludate atribuțiile legislative ce revin, conform Constituției
+României, exclusiv Parlamentului. Cu alte cuvinte, critica
+autorului vizează neconstituționalitatea tehnicii legislative de
+reglementare a unei anumite categorii de contravenții din
+
+7
+
+domeniul contabilității, și nu a textului de lege în substanța
+acestuia.
+Curtea Constituțională constată că excepția de
+neconstituționalitate este neîntemeiată și urmează să o
+respingă pentru următoarele argumente:
+Activitatea de legiferare constituie, conform art. 61
+alin. (1) din Constituția României, republicată, atribuția ce
+intră în competența exclusivă a Parlamentului, sens în care
+a fost adoptată și Legea contabilității nr. 82/1991. Potrivit
+art. 35 pct. 2 lit. b) din lege, criticat ca fiind
+neconstituțional, cuprins în capitolul VI intitulat îContravenții
+și infracțiuni“, constituie contravenție, printre altele, și fapta
+de a nu respecta reglementările emise de Ministerul
+Finanțelor Publice referitoare la unele acte în materia
+contabilității. Curtea reține că, potrivit art. 34 și art. 46
+alin. (3) din Legea nr. 90/2001 privind organizarea și
+funcționarea Guvernului României și a ministerelor, cu
+modificările și completările ulterioare, fiecare minister, în
+exercitarea atribuției de organizare, coordonare și control al
+aplicării și executării legilor în domeniul său de activitate,
+emite, în condițiile legii, ordine și instrucțiuni. A fost
+opțiunea legiuitorului de a stabili nivelul normelor juridice și
+organul emitent, care, o dată ce nu au fost respectate,
+atrag răspunderea contravențională, fără ca prin aceasta să
+se aducă atingere, așa cum susține autorul excepției,
+principiului separației și echilibrului puterilor în cadrul
+democrației constituționale, consacrat de art. 1 alin. (4) din
+Constituția României, republicată.
+În consecință, prin dispozițiile de lege ce fac obiectul
+prezentei excepții de neconstituționalitate, iar nu prin acte
+cu forță juridică inferioară acesteia, se sancționează
+contravențional, printre altele, și nerespectarea anumitor
+reglementări emise de Ministerul Finanțelor Publice în
+domeniul activității contabile. Așa fiind, Curtea constată că
+art. 35 pct. 2 lit. b) din legea criticată nu îdelegă puteri
+legislative“ unui organ al puterii executive, așa cum susține
+autorul excepției, întrucât contravențiile și sancțiunile sunt
+stabilite prin lege, iar nu prin reglementări ale unei astfel
+de autorități, cum este, de exemplu, Ministerul Finanțelor
+Publice.
+În ceea ce privește pretinsa neconstituționalitate față de
+prevederile art. 73, 74, 78 și ale art. 139 din Constituția
+României, republicată, Curtea constată că acestea nu sunt
+incidente în cazul excepției invocate.
+
+Pentru considerentele expuse, în temeiul art. 146 lit. d) și al art. 147 alin. (4) din Constituție, precum și al
+art. 1—3, al art. 11 alin. (1) lit. A.d) și al art. 29 alin. (1) din Legea nr. 47/1992, republicată,
+CURTEA
+
+CONSTITUȚIONALĂ
+
+În numele legii
+D E C I D E:
+
+Respinge ca neîntemeiată excepția de neconstituționalitate a prevederilor art. 35 pct. 2 lit. b) din Legea
+contabilității nr. 82/1991, republicată, cu modificările și completările ulterioare, excepție ridicată de Societatea Comercială
+îRev Inox“ — S.A. din Târgu Mureș în Dosarul nr. 1.353/2004 al Judecătoriei Timișoara.
+Definitivă și general obligatorie.
+Pronunțată în ședința publică din data de 23 septembrie 2004.
+PREȘEDINTELE CURȚII CONSTITUȚIONALE,
+
+prof. univ. dr. IOAN VIDA
+Magistrat-asistent,
+Claudia Margareta Niță
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 1.082/22.XI.2004
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+MINISTERUL AFACERILOR EXTERNE
+AGENȚIA NAȚIONALĂ DE CONTROL AL EXPORTURILOR
+
+ORDIN
+pentru completarea Ordinului președintelui Agenției Naționale de Control al Exporturilor Strategice
+și al Interzicerii Armelor Chimice nr. 25/1999 pentru aprobarea Normelor metodologice de aplicare
+a prevederilor Ordonanței de urgență a Guvernului nr. 158/1999 privind regimul exporturilor
+și importurilor de produse strategice
+Având în vedere prevederile art. 21 alin. (3) lit. a) și g) din Ordonanța de urgență a Guvernului nr. 158/1999
+privind regimul exporturilor și importurilor de produse strategice,
+președintele Agenției Naționale de Control al Exporturilor emite următorul ordin:
+Art. I. — Normele metodologice de aplicare a
+prevederilor Ordonanței de urgență a Guvernului
+nr. 158/1999 privind regimul exporturilor și importurilor de
+produse strategice, aprobate prin Ordinul președintelui
+Agenției Naționale de Control al Exporturilor Strategice și al
+Interzicerii Armelor Chimice nr. 25/1999, publicat în
+Monitorul Oficial al României, Partea I, nr. 563 din
+18 noiembrie 1999, se modifică după cum urmează:
+1. La articolul 7, litera d) va avea următorul cuprins:
+îd) copia legalizată a contractului de vânzare-cumpărare
+(pentru valori mai mari de 200.000 euro sau echivalent) ori
+copia certificată în conformitate cu contractul de vânzarecumpărare sau cu ordinul/comanda primit/primită (pentru
+valori egale ori mai mici de 200.000 euro sau echivalent).
+
+Conformitatea copiei cu originalul se realizează de către o
+persoană autorizată să reprezinte persoana juridică
+solicitantă de licență.“
+2. La articolul 8, litera e) va avea următorul cuprins:
+îe) copia legalizată a contractului de vânzare-cumpărare
+(pentru valori mai mari de 200.000 euro sau echivalent) ori
+copia certificată în conformitate cu contractul de vânzarecumpărare ori cu ordinul/comanda transmis/transmisă
+(pentru valori egale sau mai mici de 200.000 euro ori
+echivalent). Conformitatea copiei cu originalul se realizează
+de către o persoană autorizată să reprezinte persoana
+juridică solicitantă de licență.“
+Art. II. — Prezentul ordin se publică în Monitorul Oficial
+al României, Partea I.
+
+Președintele Agenției Naționale de Control al Exporturilor,
+Nineta Bărbulescu,
+secretar de stat
+București, 10 noiembrie 2004.
+Nr. 592.
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+Regia Autonomă îMonitorul Oficial“, Str. Parcului nr. 65, sectorul 1, București,
+IBAN: RO75RNCB5101000000120001 Banca Comercială Română — S.A. — Sucursala îUnirea“ București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 224.09.71/150, fax 225.00.43, E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 410.47.30, tel./fax 410.77.36 și 410.47.23
+Tiparul: Regia Autonomă îMonitorul Oficial“
+Monitorul Oficial al României, Partea I, nr. 1.082/22.XI.2004 conține 8 pagini.
+
+Prețul de vânzare 9.500 lei
+
+ISSN 1453—4495
+
+

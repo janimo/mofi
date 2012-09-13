@@ -1,0 +1,1424 @@
+Anul 178 (XXII) — Nr. 644
+
+PARTEA I
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+Miercuri, 15 septembrie 2010
+
+SUMAR
+
+Nr.
+
+922.
+944.
+
+945.
+
+223.
+
+224.
+225.
+
+Pagina
+HOTĂRÂRI ALE GUVERNULUI ROMÂNIEI
+— Hotărâre privind organizarea și funcționarea
+Punctului de contact unic electronic ..........................
+— Hotărâre privind actualizarea inventarului bunurilor
+care alcătuiesc domeniul public al statului, aflate în
+administrarea Ministerului Sănătății, pentru Direcția de
+Sănătate Publică a Județului Bihor ............................
+— Hotărâre privind modificarea Hotărârii Guvernului
+nr. 286/2010 pentru aprobarea bugetului de venituri și
+cheltuieli pe anul 2010 al Companiei Naționale a
+Imprimeriilor CORESI — S.A., aflată sub autoritatea
+Ministerului Culturii și Patrimoniului Național ............
+DECIZII ALE PRIMULUI-MINISTRU
+— Decizie privind eliberarea din funcția de director
+general adjunct al Oficiului Român pentru Drepturile
+de Autor a domnului Eugen Vasiliu ............................
+— Decizie privind înlocuirea unui membru al Comisiei
+speciale de retrocedare..............................................
+— Decizie privind modificarea anexei la Decizia
+primului-ministru nr. 21/2008 pentru numirea Comisiei
+de coordonare prevăzute la art. 4 alin. (1) din Legea
+nr. 346/2007 privind măsuri pentru asigurarea
+siguranței în aprovizionarea cu gaze naturale ..........
+
+Nr.
+
+Pagina
+
+226. — Decizie pentru eliberarea domnului Ioan Andreica
+2–3
+
+din funcția de secretar de stat la Ministerul Dezvoltării
+Regionale și Turismului ..............................................
+
+11
+
+227. — Decizie pentru numirea domnului Eugen-Dicones
+4
+
+Curteanu în funcția de secretar de stat la Ministerul
+Dezvoltării Regionale și Turismului ............................
+
+11
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+5–9
+
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+5.106. — Ordin al ministrului educației, cercetării, tineretului
+și sportului pentru aprobarea Normelor metodologice
+
+9
+10
+
+10–11
+
+privind modul de realizare a raportului de activitate în
+vederea obținerii gradației de merit pentru personalul
+didactic de predare din învățământul preuniversitar ....
+
+12–15
+
+Rectificări ..............................................................................
+
+15
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 644/15.IX.2010
+
+HOTĂRÂRI ALE GUVERNULUI ROMÂNIEI
+GUVERNUL ROMÂNIEI
+
+HOTĂRÂRE
+privind organizarea și funcționarea Punctului de contact unic electronic
+În temeiul art. 108 din Constituția României, republicată, și al art. 6 alin. (8) din Ordonanța de urgență a Guvernului
+nr. 49/2009 privind libertatea de stabilire a prestatorilor de servicii și libertatea de a furniza servicii în România, aprobată cu
+modificări și completări prin Legea nr. 68/2010,
+Guvernul României adoptă prezenta hotărâre.
+Art. 1. — (1) Prin prezenta hotărâre se stabilește modul de
+funcționare și organizare a Punctului de contact unic electronic,
+denumit în continuare PCU electronic, ca sistem informatic de
+utilitate publică, parte integrantă a Sistemului e-guvernare din
+Sistemul Electronic Național, în responsabilitatea Centrului
+Național România Digitală, denumit în continuare CNRD, aflat în
+subordinea
+Ministerului
+Comunicațiilor
+și
+Societății
+Informaționale, denumit în continuare MCSI.
+(2) PCU electronic este implementat prin proiectul ăPlatformă
+pentru integrarea serviciilor e-Guvernare în SEN-PISEG”, care
+are următoarele componente: software, hardware și comunicații.
+(3) PCU electronic pentru serviciile din sfera justiției îl
+reprezintă portalul e-justice, dezvoltat de Comisia Europeană în
+colaborare cu statele membre ale Uniunii Europene. PCU
+electronic va face trimitere printr-un link la portalul e-justice.
+(4) În aplicarea prevederilor prezentei hotărâri, CNRD și
+autoritățile competente au obligația de a respecta prevederile
+Legii nr. 677/2001 pentru protecția persoanelor cu privire la
+prelucrarea datelor cu caracter personal și libera circulație a
+acestor date, cu modificările și completările ulterioare.
+Art. 2. — În înțelesul prezentei hotărâri, expresiile de mai jos
+au următoarele semnificații:
+a) autentificare unică — procesul prin care o autoritate
+competentă, instituție publică sau prestator poate avea acces și
+poate fi identificat unic în sistemul PCU electronic;
+b) persistența datelor de autentificare — reutilizarea datelor
+introduse în sistem de către autoritățile competente și instituțiile
+publice, persoane fizice și operatorii economici;
+c) asigurarea disponibilității datelor și documentelor —
+procesul prin care datele și documentele introduse în PCU
+electronic atât de prestator, cât și de beneficiar sunt arhivate în
+format electronic, în vederea accesării ulterioare de către
+autoritățile competente și instituțiile publice competente sau de
+către beneficiar;
+d) autoritate competentă — orice autoritate, astfel cum
+aceasta este definită la art. 2 lit. h) din Ordonanța de urgență a
+Guvernului nr. 49/2009 privind libertatea de stabilire a
+prestatorilor de servicii și libertatea de a furniza servicii în
+România, aprobată cu modificări și completări prin Legea
+nr. 68/2010.
+Art. 3. — (1) Conținutul și structura PCU electronic se
+actualizează permanent și se extind pentru a permite
+îndeplinirea tuturor procedurilor și formalităților necesare,
+
+inclusiv a unor noi proceduri introduse prin acte normative
+adoptate ulterior termenului de operaționalizare a sistemului.
+(2) Procedurile agreate între autoritățile competente implicate
+în rezolvarea unei solicitări vor fi comunicate către MCSI în
+vederea implementării de către CNRD în cadrul PCU electronic,
+cu respectarea prevederilor art. 6 alin. (7) din Ordonanța de
+urgență a Guvernului nr. 49/2009, aprobată cu modificări și
+completări prin Legea nr. 68/2010.
+Art. 4 — (1) CNRD întocmește și transmite MCSI setul de
+informații necesare pentru operaționalizarea fiecărei proceduri
+sau formalități ce urmează a fi implementată în PCU electronic,
+inclusiv actualizări ale celor deja implementate.
+(2) La solicitarea MCSI, autoritățile competente care dețin
+și/sau administrează informațiile necesare operaționalizării
+procedurilor ori formalităților necesare accesului prestatorilor la
+informațiile ce pot fi accesate în cadrul PCU electronic, în
+conformitate cu prevederile art. 7 alin. (1) din Ordonanța de
+urgență a Guvernului nr. 49/2009, aprobată cu modificări și
+completări prin Legea nr. 68/2010, au obligația de a le pune la
+dispoziția CNRD în termen de maximum 15 zile de la data
+solicitării.
+(3) Autoritățile competente care dețin și/sau administrează
+informațiile necesare operării procedurilor ori formalităților
+necesare accesului la prestarea serviciilor implementate în PCU
+electronic vor defini proceduri interne în vederea asigurării bunei
+funcționări a serviciului public electronic din cadrul PCU
+electronic, în termen de maximum 60 de zile de la data la care
+acesta devine funcțional sau de la data la care devin funcționale
+respectivele autorități competente, potrivit prevederilor art. 6 din
+Ordonanța de urgență a Guvernului nr. 49/2009, aprobată cu
+modificări și completări prin Legea nr. 68/2010.
+(4) Autoritățile competente care dețin și/sau administrează
+informațiile necesare operării procedurilor ori formalităților
+necesare accesului la prestarea serviciilor implementate în PCU
+electronic au obligația de a publica în cadrul PCU electronic
+datele de contact și de a le actualiza ori de câte ori este cazul,
+în cel mult 10 zile de la modificarea acestora.
+Art. 5. — (1) Este obligatoriu ca întreaga comunicare cu
+autoritățile competente să se desfășoare prin intermediul PCU
+electronic, dacă este legată de un proces de autorizare inițiat
+prin PCU electronic.
+(2) Instituțiile publice care dețin sau administrează
+informațiile necesare operării procedurilor ori formalităților
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 644/15.IX.2010
+necesare accesului la prestarea serviciilor implementate în PCU
+electronic au obligația de a se autentifica unic în PCU electronic.
+(3) Pentru realizarea obiectivelor specifice organizării și
+funcționării PCU electronic, CNRD, în calitate de instituție
+desemnată responsabilă cu administrarea PCU electronic, are
+responsabilități în:
+a) asigurarea autentificării unice a fiecărui prestator în PCU
+electronic;
+b) asigurarea persistenței datelor de autentificare, pentru a
+permite accesul la activitatea deja desfășurată de către
+beneficiar în PCU electronic;
+c) asigurarea mijloacelor de recuperare/modificare în condiții
+de securitate necesare a datelor de autentificare, atunci când
+este necesar;
+d) asigurarea mijloacelor tehnice necesare pentru
+transmiterea de către prestator, prin intermediul PCU electronic,
+a formularelor completate, împreună cu toate documentele și
+informațiile necesare, conform procedurilor și informațiilor
+publice ale autorității competente responsabile cu tratarea
+solicitării;
+e) asigurarea mijloacelor tehnice necesare pentru
+monitorizarea și raportarea automată a stării solicitărilor;
+f) asigurarea mijloacelor tehnice necesare pentru notificarea
+automată prin e-mail a prestatorului, cu privire la modificări în
+comunicarea sa cu autoritatea competentă;
+g) asigurarea mijloacelor tehnice necesare pentru trimiterea
+de către autoritățile competente a răspunsului semnat electronic
+prin intermediul PCU electronic;
+
+3
+
+h) asigurarea salvării, arhivării și disponibilității datelor,
+documentelor, comunicărilor efectuate prin intermediul PCU
+electronic, fără drept de modificare ulterioară, pentru toți
+utilizatorii PCU electronic;
+i) asigurarea mijloacelor tehnice necesare pentru
+implementarea procedurilor de lucru agreate între autoritățile
+competente implicate în rezolvarea unei solicitări.
+Art. 6. — (1) Primirea solicitării de la prestator se face prin
+intermediul portalului, pe baza unei notificări transmise automat
+prin mijloace electronice de către portal.
+(2) Tratarea solicitării de la prestator, respectiv circuitul
+documentelor între solicitare și răspuns se efectuează pe
+procesele existente în cadrul fiecărei autorități competente în
+parte.
+(3) Responsabilitatea pentru tratarea solicitării revine
+fiecăreia dintre autoritățile competente implicate în procesul de
+soluționare a solicitării în parte.
+(4) Termenul legal de soluționare curge de la data înregistrării
+cererii.
+(5) Solicitarea de informații se realizează prin intermediul
+PCU electronic conform mijloacelor tehnice puse la dispoziție
+de CNRD.
+(6) Trimiterea răspunsului către prestator se efectuează prin
+intermediul PCU electronic, ca document semnat cu semnătură
+electronică extinsă, bazat pe certificatul calificat digital al
+autorităților competente emitente și marcat temporal în
+conformitate cu prevederile Legii nr. 451/2004 privind marca
+temporală. Fiecare autoritate competentă este responsabilă de
+achiziționarea propriului certificat calificat digital cu ajutorul
+căruia se efectuează semnătura electronică extinsă.
+
+PRIM-MINISTRU
+
+EMIL BOC
+Contrasemnează:
+Ministrul comunicațiilor și societății informaționale,
+Gabriel Sandu
+Ministrul administrației și internelor,
+Vasile Blaga
+Ministrul economiei, comerțului și mediului de afaceri,
+Adriean Videanu
+p. Președintele Autorității Naționale de Supraveghere
+a Prelucrării Datelor cu Caracter Personal,
+Florin Negoiță
+Președintele Autorității Naționale pentru Protecția
+Consumatorilor,
+Constantin Cerbulescu
+Șeful Departamentului pentru Afaceri Europene,
+Bogdan Mănoiu
+Ministrul finanțelor publice,
+Sebastian Teodor Gheorghe Vlădescu
+
+București, 1 septembrie 2010.
+Nr. 922.
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 644/15.IX.2010
+GUVERNUL ROMÂNIEI
+
+HOTĂRÂRE
+privind actualizarea inventarului bunurilor care alcătuiesc domeniul public al statului, aflate
+în administrarea Ministerului Sănătății, pentru Direcția de Sănătate Publică a Județului Bihor
+În temeiul art. 108 din Constituția României, republicată, al art. 20 din Legea nr. 213/1998 privind proprietatea publică și
+regimul juridic al acesteia, cu modificările și completările ulterioare,
+având în vedere dispozițiile art. 2 alin. (1) și (2) din Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului
+centralizat al bunurilor din domeniul public al statului, cu modificările și completările ulterioare,
+Guvernul României adoptă prezenta hotărâre.
+Art. 1. — Elementele-cadru reprezentând datele de
+identificare, valoarea de inventar și bază legală a situației
+juridice ale bunurilor imobile formate din clădiri-construcții și
+terenul aferent acestora, aflate în domeniul public al statului și
+în administrarea Ministerului Sănătății, pentru Direcția de
+Sănătate Publică a Județului Bihor, cu nr. M.F. 34552 și
+nr. M.F. 145212, se modifică în conformitate cu anexa care face
+parte integrantă din prezenta hotărâre.
+
+Art. 2. — Ministerul Sănătății își va actualiza în mod
+corespunzător datele din evidența cantitativ-valorică și,
+împreună cu Ministerul Finanțelor Publice, va opera modificarea
+corespunzătoare a anexei nr. 15 la Hotărârea Guvernului
+nr. 1.705/2006 pentru aprobarea inventarului centralizat al
+bunurilor din domeniul public al statului, cu modificările și
+completările ulterioare.
+
+PRIM-MINISTRU
+
+EMIL BOC
+Contrasemnează:
+Ministrul sănătății,
+Cseke Attila
+Ministrul finanțelor publice,
+Gheorghe Ialomițianu
+București, 8 septembrie 2010.
+Nr. 944.
+
+ANEXĂ
+
+Datele de identificare, valoarea de inventar și baza legală ale bunurilor din domeniul public al statului,
+aflate în administrarea Ministerului Sănătății, pentru Direcția de Sănătate Publică a Județului Bihor
+
+Modificările efectuate la datele
+de identificare ale bunului/
+Descrierea tehnică
+
+Modificările efectuate
+la valoarea de
+inventar raportată în
+lei, la data
+de 31 decembrie
+2009
+
+Modificările efectuate
+la baza legală
+
+3
+
+4
+
+5
+
+Nr.
+M.F.
+
+Denumirea bunului care face
+obiectul actului normativ
+
+Ordonatorul/
+Administratorul
+(CIF și denumirea)
+
+0
+
+1
+
+2
+
+34552
+
+Clădirea sediului
+Direcției de Sănătate
+Publică a Județului
+Bihor, clădirea
+Departamentului de
+Sănătate Publică și
+Programe și terenul
+aferent
+Clădire garaj și depozite
+
+Ministerul Sănătății
+4266456/Direcția
+de Sănătate
+Publică a Județului
+Bihor/4230398
+
+S+P+E, cadre beton,
+zidărie cărămidă,
+șarpantă din lemn
+Suprafața totală a
+terenului = 1.111 m2,
+din care suprafața
+construită = 675,35 m2
+
+173.810,77
+
+Decizia
+nr. 917/1956 a
+Sfatului Popular
+Oradea, nr. topo
+627/1 și 628
+
+Ministerul Sănătății
+4266456/Direcția
+de Sănătate
+Publică a Județului
+Bihor/4230398
+
+P, clădire cărămidă,
+acoperiș țiglă
+Suprafață construită =
+121,07 m2
+
+12.335,95
+
+Decizia
+nr. 917/1956 a
+Sfatului Popular
+Oradea, nr. topo
+627/1 și 628
+
+145212
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 644/15.IX.2010
+GUVERNUL ROMÂNIEI
+
+HOTĂRÂRE
+privind modificarea Hotărârii Guvernului nr. 286/2010
+pentru aprobarea bugetului de venituri și cheltuieli
+pe anul 2010 al Companiei Naționale a Imprimeriilor
+CORESI — S.A., aflată sub autoritatea Ministerului Culturii
+și Patrimoniului Național
+În temeiul art. 108 din Constituția României, republicată, al art. 15 alin. (1) din
+Ordonanța de urgență a Guvernului nr. 37/2008 privind reglementarea unor măsuri
+financiare în domeniul bugetar, aprobată cu modificări prin Legea nr. 275/2008, cu
+modificările și completările ulterioare,
+având în vedere prevederile Ordonanței de urgență a Guvernului nr. 79/2008
+privind măsuri economico-financiare la nivelul unor operatori economici, aprobată
+cu modificări și completări prin Legea nr. 203/2009, precum și dispozițiile art. IV
+alin. (1) din Ordonanța de urgență a Guvernului nr. 55/2010 privind unele măsuri
+de reducere a cheltuielilor publice,
+Guvernul României adoptă prezenta hotărâre.
+Articol unic. — Anexa la Hotărârea Guvernului nr. 286/2010 pentru
+aprobarea bugetului de venituri și cheltuieli pe anul 2010 al Companiei Naționale
+a Imprimeriilor CORESI — S.A., aflată sub autoritatea Ministerului Culturii și
+Patrimoniului Național, publicată în Monitorul Oficial al României, Partea I, nr. 269
+din 26 aprilie 2010, se modifică și se înlocuiește cu anexa care face parte
+integrantă din prezenta hotărâre.
+
+PRIM-MINISTRU
+
+EMIL BOC
+
+Contrasemnează:
+Ministrul culturii
+și patrimoniului național,
+Kelemen Hunor
+Viceprim-ministru,
+Markó Béla
+Ministrul muncii,
+familiei și protecției sociale,
+Ioan Nelu Botiș
+Ministrul finanțelor publice,
+Gheorghe Ialomițianu
+
+București, 8 septembrie 2010.
+Nr. 945.
+
+5
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 644/15.IX.2010
+ANEXĂ*)
+(Anexă la Hotărârea Guvernului nr. 286/2010)
+
+MINISTERUL CULTURII ȘI PATRIMONIULUI NAȚIONAL
+Compania Națională a Imprimeriilor CORESI — S.A.
+Cod de identificare fiscală: RO 11648971
+BUGETUL DE VENITURI ȘI CHELTUIELI PE ANUL 2010
+— rectificat —
+— mii lei —
+
+*) Anexa este reprodusă în facsimil.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 644/15.IX.2010
+
+7
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 644/15.IX.2010
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 644/15.IX.2010
+
+DECIZII ALE PRIMULUI-MINISTRU
+GUVERNUL ROMÂNIEI
+PRIMUL-MINISTRU
+
+DECIZIE
+privind eliberarea din funcția de director general adjunct
+al Oficiului Român pentru Drepturile de Autor
+a domnului Eugen Vasiliu
+Având în vedere cererea domnului Eugen Vasiliu nr. 9.368 din 7 septembrie
+2010,
+în temeiul art. 15 lit. a) și al art. 19 din Legea nr. 90/2001 privind organizarea
+și funcționarea Guvernului României și a ministerelor, cu modificările și
+completările ulterioare, și al art. 137 alin. (4) din Legea nr. 8/1996 privind dreptul
+de autor și drepturile conexe, cu modificările și completările ulterioare,
+primul-ministru emite prezenta decizie.
+Articol unic. — Începând cu data de 1 octombrie 2010, domnul Eugen Vasiliu
+se eliberează din funcția de director general adjunct al Oficiului Român pentru
+Drepturile de Autor.
+PRIM-MINISTRU
+
+EMIL BOC
+
+Contrasemnează:
+Secretarul general al Guvernului,
+Daniela Nicoleta Andreescu
+
+București, 15 septembrie 2010.
+Nr. 223.
+
+9
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 644/15.IX.2010
+GUVERNUL ROMÂNIEI
+PRIMUL-MINISTRU
+
+DECIZIE
+privind înlocuirea unui membru al Comisiei speciale
+de retrocedare
+Având în vedere propunerea formulată de Secretariatul de Stat pentru Culte
+prin Adresa nr. C 869 din 6 septembrie 2010,
+în temeiul art. 19 din Legea nr. 90/2001 privind organizarea și funcționarea
+Guvernului României și a ministerelor, cu modificările și completările ulterioare, și
+al pct. 2 din anexa nr. 2 la Hotărârea Guvernului nr. 1.164/2002 pentru aprobarea
+Normelor metodologice de aplicare a Ordonanței de urgență a Guvernului
+nr. 94/2000 privind retrocedarea unor bunuri imobile care au aparținut cultelor
+religioase din România, aprobată cu modificări și completări prin Legea
+nr. 501/2002, precum și pentru stabilirea unor măsuri privind organizarea și
+funcționarea Comisiei speciale de retrocedare, cu modificările ulterioare,
+primul-ministru emite prezenta decizie.
+Articol unic. — Pe data intrării în vigoare a prezentei decizii, domnul Frunză
+Florinel-Irinel, director în cadrul Secretariatului de Stat pentru Culte, se numește
+în calitatea de membru al Comisiei speciale de retrocedare, în locul domnului Ioniță
+Ștefan.
+PRIM-MINISTRU
+
+EMIL BOC
+Contrasemnează:
+Secretarul general al Guvernului,
+Daniela Nicoleta Andreescu
+București, 15 septembrie 2010.
+Nr. 224.
+GUVERNUL ROMÂNIEI
+PRIMUL-MINISTRU
+
+DECIZIE
+privind modificarea anexei la Decizia primului-ministru
+nr. 21/2008 pentru numirea Comisiei de coordonare
+prevăzute la art. 4 alin. (1) din Legea nr. 346/2007
+privind măsuri pentru asigurarea siguranței
+în aprovizionarea cu gaze naturale
+Având în vedere propunerea formulată de ministrul economiei, comerțului și
+mediului de afaceri prin Adresa nr. 2.365 din 8 septembrie 2010,
+în temeiul art. 19 din Legea nr. 90/2001 privind organizarea și funcționarea
+Guvernului României și a ministerelor, cu modificările și completările ulterioare,
+primul-ministru emite prezenta decizie.
+Articol unic. — Anexa la Decizia primului-ministru nr. 21/2008 pentru
+numirea Comisiei de coordonare prevăzute la art. 4 alin. (1) din Legea nr. 346/2007
+privind măsuri pentru asigurarea siguranței în aprovizionarea cu gaze naturale,
+publicată în Monitorul Oficial al României, Partea I, nr. 50 din 22 ianuarie 2008, cu
+modificările ulterioare, se modifică și se înlocuiește cu anexa care face parte
+integrantă din prezenta decizie.
+PRIM-MINISTRU
+
+EMIL BOC
+Contrasemnează:
+Secretarul general al Guvernului,
+Daniela Nicoleta Andreescu
+București, 15 septembrie 2010.
+Nr. 225.
+
+11
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 644/15.IX.2010
+
+ANEXĂ
+(Anexă la Decizia nr. 21/2008)
+
+COMPONENȚA
+
+Comisiei de coordonare
+8. Dan Vecerdea, director producție, Sucursala de
+1. Constantin Claudiu Stafie, secretar de stat, Ministerul
+Înmagazinare Subterană a Gazelor Naturale Ploiești, Societatea
+Economiei, Comerțului și Mediului de Afaceri
+2. Gheorghe Emacu, secretar de stat, Ministerul Națională de Gaze Naturale ăRomgaz” — S.A.
+9. Yvonnick David, director general, Societatea Comercială
+Administrației și Internelor
+3. Iulius Dan Plaveti, președinte, Autoritatea Națională de ăGDF SUEZ Energy Romania” — S.A.
+10. Dan Pantilie, director general, Societatea Comercială
+Reglementare în Domeniul Energiei
+4. Alexandru Pătruți, președinte, Agenția Națională pentru ăDistrigaz Sud Rețele” — S.R.L.
+11. Harald Kraft, director Divizia Gaze Naturale, Societatea
+Resurse Minerale
+5. Florin Muntean, director general, Societatea Națională de Comercială ăPetrom” — S.A.
+12. Dan Morari, director general, Societatea Comercială
+Transport Gaze Naturale ăTransgaz” — S.A.
+6. Marius Stroia, director, Direcția de Dispecerizare E. ON GAZ România — S.A.
+13. Virgil Metea, director general, Societatea Comercială
+București, Societatea Națională de Transport Gaze Naturale
+E. ON GAZ Distribuție — S.A.
+ăTransgaz” — S.A.
+14. Mihai Ogrean, director, Asociația Națională a
+7. Lucian Stancu, director general adjunct, Societatea
+Consumatorilor de Energie din România.
+Națională de Gaze Naturale ăRomgaz” — S.A.
+GUVERNUL ROMÂNIEI
+PRIMUL-MINISTRU
+
+DECIZIE
+pentru eliberarea domnului Ioan Andreica
+din funcția de secretar de stat
+la Ministerul Dezvoltării Regionale și Turismului
+Având în vedere cererea de demisie a domnului Ioan Andreica, înregistrată
+la Cabinetul primului-ministru sub nr. 5/7.036 din 9 septembrie 2010,
+în temeiul art. 15 lit. d) și al art. 19 din Legea nr. 90/2001 privind organizarea
+și funcționarea Guvernului României și a ministerelor, cu modificările și
+completările ulterioare,
+primul-ministru emite prezenta decizie.
+Articol unic. — Pe data intrării în vigoare a prezentei decizii, domnul Ioan
+Andreica se eliberează din funcția de secretar de stat la Ministerul Dezvoltării
+Regionale și Turismului.
+PRIM-MINISTRU
+
+EMIL BOC
+Contrasemnează:
+Secretarul general al Guvernului,
+Daniela Nicoleta Andreescu
+București, 15 septembrie 2010.
+Nr. 226.
+GUVERNUL ROMÂNIEI
+PRIMUL-MINISTRU
+
+DECIZIE
+pentru numirea domnului Eugen-Dicones Curteanu
+în funcția de secretar de stat
+la Ministerul Dezvoltării Regionale și Turismului
+În temeiul art. 15 lit. d) și al art. 19 din Legea nr. 90/2001 privind organizarea
+și funcționarea Guvernului României și a ministerelor, cu modificările și
+completările ulterioare,
+primul-ministru emite prezenta decizie.
+Articol unic. — Pe data intrării în vigoare a prezentei decizii, domnul EugenDicones Curteanu se numește în funcția de secretar de stat la Ministerul Dezvoltării
+Regionale și Turismului.
+PRIM-MINISTRU
+
+EMIL BOC
+Contrasemnează:
+Secretarul general al Guvernului,
+Daniela Nicoleta Andreescu
+București, 15 septembrie 2010.
+Nr. 227.
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 644/15.IX.2010
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+MINISTERUL EDUCAȚIEI, CERCETĂRII, TINERETULUI ȘI SPORTULUI
+
+ORDIN
+pentru aprobarea Normelor metodologice privind modul de realizare a raportului de activitate
+în vederea obținerii gradației de merit pentru personalul didactic de predare
+din învățământul preuniversitar
+În baza art. 13 alin. (3) din Metodologia și criteriile de acordare a gradației de merit în învățământul preuniversitar, aprobate
+prin Ordinul ministrului educației, cercetării și inovării nr. 6.054/2009,
+în temeiul Hotărârii Guvernului nr. 81/2010 privind organizarea și funcționarea Ministerului Educației, Cercetării, Tineretului
+și Sportului, cu modificările ulterioare,
+ministrul educației, cercetării, tineretului și sportului emite prezentul ordin.
+Art. 1. — Se aprobă Normele metodologice privind modul de
+realizare a raportului de activitate în vederea obținerii gradației
+de merit pentru personalul didactic de predare din învățământul
+preuniversitar, cuprinse în anexa care face parte integrantă din
+prezentul ordin.
+
+Art. 2. — Prezentul ordin se publică în Monitorul Oficial al
+României, Partea I.
+Art. 3. — Direcția generală management, resurse umane și
+rețea școlară, inspectoratele școlare și unitățile de învățământ
+vor duce la îndeplinire prevederile prezentului ordin.
+
+Ministrul educației, cercetării, tineretului și sportului,
+Daniel Petru Funeriu
+București, 1 septembrie 2010.
+Nr. 5.106.
+ANEXĂ
+
+NORME METODOLOGICE
+
+privind modul de realizare a raportului de activitate în vederea obținerii gradației de merit
+pentru personalul didactic de predare din învățământul preuniversitar
+CAPITOLUL I
+Dispoziții generale
+Art. 1. — (1) Prezentele norme metodologice reglementează
+modul de realizare a raportului de activitate/portofoliului personal
+de către personalul didactic de predare din unitățile de
+învățământ preuniversitar, unitățile conexe, palatele și cluburile
+copiilor, denumite în continuare unități de învățământ, în
+vederea participării la concursul de acordare a gradației de merit
+organizat începând cu anul școlar 2014—2015.
+(2) Raportul de activitate/Portofoliul personal se realizează
+în baza proiectului propus și implementat de cadrul didactic în
+ultimii 4 ani școlari.
+(3) Proiectul propus de cadrul didactic trebuie realizat
+împreună cu un colectiv de preșcolari, respectiv un colectiv de
+elevi constituit la nivelul unității de învățământ și poate
+reprezenta o grupă sau mai multe grupe de preșcolari, respectiv
+una ori mai multe clase de elevi sau un grup alcătuit din
+minimum 10 preșcolari/elevi.
+Art. 2. — În vederea aprobării implementării proiectelor se
+parcurg următoarele etape:
+1. Proiectele se depun și se înregistrează la secretariatul
+unității/unităților de învățământ în care urmează a fi
+implementate, până la data de 1 octombrie a fiecărui an școlar.
+2. Consiliul de administrație al unității/unităților de învățământ
+evaluează eligibilitatea candidaților și a proiectelor în
+conformitate cu condițiile și criteriile de eligibilitate prezentate în
+cap. II și III și întocmește lista candidaților și a proiectelor
+eligibile, pe care o supune spre avizare consiliului profesoral.
+
+3. Consiliul profesoral avizează, după caz, proiectele
+eligibile, menționând numele candidatului și titlul proiectului în
+procesul-verbal al ședinței.
+4. Conducerea unității/unităților de învățământ transmite
+candidaților ale căror proiecte au fost avizate de consiliul
+profesoral acordul scris pentru implementarea proiectului.
+Art. 3. — Proiectul aprobat este monitorizat permanent de
+conducerea unității/unităților de învățământ, care va asigura
+cadrul legal și organizatoric necesar desfășurării activităților.
+Art. 4. — Proiectul propus de cadrul didactic poate fi
+reactualizat la începutul fiecărui an școlar, în funcție de situația
+încadrării cadrului didactic în unitatea de învățământ respectivă
+sau în altă unitate de învățământ.
+Art. 5. — Evaluarea activității candidatului se face după cum
+urmează:
+1. La nivelul unității de învățământ:
+a) candidatul întocmește și depune la conducerea unității de
+învățământ raportul de autoevaluare a activității desfășurate și
+portofoliul personal;
+b) directorul unității de învățământ transmite inspectoratului
+școlar raportul de autoevaluare al candidatului, însoțit de
+portofoliul personal completat cu aprecierea consiliului
+profesoral și calificativele anuale.
+2. La nivelul inspectoratului școlar:
+a) în urma consultării consiliului consultativ de specialitate,
+inspectorul de specialitate completează fișele de evaluare
+prezentate în anexele nr. 1 și 2;
+b) fișa de evaluare prezentată în anexa nr. 1 reprezintă
+evaluarea proiectului și are o pondere de 80% din punctajul
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 644/15.IX.2010
+maxim de 100 de puncte care se acordă în vederea obținerii
+gradației de merit;
+c) fișa de evaluare prezentată în anexa nr. 2 are o pondere
+de 20% din punctajul maxim de 100 de puncte și se acordă
+pentru performanțe deosebite în inovarea didactică, în
+activitatea metodică, în pregătirea preșcolarilor sau a elevilor,
+în pregătirea elevilor distinși la concursuri școlare, faza națională
+și internațională etc., dacă aceste activități nu sunt desfășurate
+în cadrul proiectului supus evaluării.
+3. Punctajul minim acceptat pentru acordarea gradației de
+merit se aprobă în comisia paritară de la nivelul inspectoratului
+școlar.
+4. a) Consiliul de administrație al inspectoratului școlar
+primește spre analiză raportul de autoevaluare, portofoliul
+personal și fișele de evaluare completate de inspectorul de
+specialitate.
+b) Hotărârea asupra rezultatului concursului, precum și
+ponderea pe diferite specialități și unități de învățământ aparțin
+inspectorului școlar general, în baza listei întocmite în ordinea
+descrescătoare a punctajului pe posturi și discipline, care a fost
+aprobată de consiliul de administrație al inspectoratului școlar,
+cu condiția respectării proporției numărului de locuri pe
+discipline/domenii de activitate din unitățile de învățământ.
+5. Cadrele didactice de la Palatul Național al Copiilor vor
+depune raportul de autoevaluare a activității desfășurate și
+portofoliul personal pentru concursul de acordare a gradației de
+merit la Ministerul Educației, Cercetării, Tineretului și Sportului.
+6. Reprezentanții organizațiilor sindicale reprezentative din
+învățământ la nivel județean/al municipiului București participă,
+în calitate de observatori, la toate lucrările, au drept de acces la
+documentele comisiilor și dreptul să solicite consemnarea în
+procesul-verbal a propriilor observații.
+Art. 6. — Comisia paritară de la nivelul inspectoratului școlar,
+prin aplicarea fișei de evaluare prezentate în anexa nr. 2,
+detaliază criteriile și stabilește punctajul, prin câte o grilă
+specifică
+fiecărei
+categorii
+de
+cadre
+didactice:
+educatoare/institutori/profesori pentru învățământul preșcolar;
+învățători/institutori/profesori pentru învățământul primar;
+profesori; maiștri-instructori; cadre didactice din învățământul
+vocațional, din cluburile sportive școlare, din palatele și cluburile
+copiilor și elevilor, din învățământul special. Pentru fiecare
+criteriu, punctajul maxim care se poate atribui este cel prevăzut
+în anexa nr. 2.
+Art. 7. — Îndeplinirea activităților cuprinse în fișa postului
+este condiție obligatorie pentru participarea la concursul de
+obținere a gradației de merit.
+CAPITOLUL II
+Condiții de eligibilitate pentru candidații la concursul de
+acordare a gradației de merit
+Art. 8. — La concursul pentru acordarea gradației de merit
+poate depune proiect personalul didactic de predare cu contract
+individual de muncă pe perioadă nedeterminată, precum și
+suplinitorii calificați, care au obținut cel puțin definitivarea în
+învățământ și calificativul ăFoarte bine” în anul școlar anterior
+depunerii proiectului, care își desfășoară activitatea în cadrul:
+a) unităților de învățământ preuniversitar;
+b) centrelor județene/al municipiului București de resurse și
+asistență educațională, centrelor școlare pentru educație
+incluzivă, centrelor logopedice interșcolare și cabinetelor
+logopedice,
+centrelor
+și
+cabinetelor
+de
+asistență
+psihopedagogică;
+1
+2
+
+13
+
+c) cluburilor sportive școlare, cluburilor și palatelor copiilor și
+elevilor cu statut de unități de învățământ subordonate
+inspectoratului școlar, Palatului Național al Copiilor.
+Art. 9. — Pentru participarea la evaluarea raportului de
+activitate în vederea acordării gradației de merit, candidații care
+au depus proiecte trebuie să obțină calificativul ăFoarte bine” în
+fiecare dintre cei 4 ani școlari din perioada evaluată.
+CAPITOLUL III
+Criterii de eligibilitate a proiectelor depuse la concursul
+de acordare a gradației de merit
+Art. 10. — Obiectivul general al proiectului trebuie să fie
+relevant pentru realizarea obiectivelor din planul de dezvoltare
+instituțională al unității de învățământ, fie prin remedierea
+punctelor slabe, fie prin stimularea excelenței, contribuind astfel
+la creșterea prestigiului unității de învățământ.
+Art. 11. — (1) Tema proiectului trebuie să vizeze, în
+exclusivitate, îmbunătățirea activității la clasă/grupă, în
+specialitatea/specialitățile predată/predate.
+(2) Sunt eligibile proiectele care contribuie la:
+a) îmbunătățirea activității proprii prin utilizarea metodelor
+interactive de învățare-predare și tehnologia informației și
+comunicării (TIC), prin programe de cercetare științifică realizate
+în țară sau prin cooperare internațională, prin inovare
+educațională, creație științifică, tehnică și artistică;
+b) dezvoltarea competențelor-cheie și profesionale ale
+colectivului de elevi;
+c) prevenirea eșecului școlar;
+d) realizarea progresului școlar;
+e) obținerea performanței școlare;
+f) dezvoltarea unității de învățământ ca centru de resurse
+educaționale pentru comunitate;
+g) promovarea conceptului de educație incluzivă/incluziune
+socială.
+Art. 12. — Proiectul trebuie să respecte următoarea structură
+minimală:
+a) date privind aplicantul;
+b) tema/titlul proiectului;
+c) unitatea/unitățile de învățământ în care se derulează
+proiectul;
+d) diagnoză relevantă pentru obiectivele proiectului, la
+depunerea proiectului/analiza SWOT;
+e) obiectivul general (în acord cu planul de dezvoltare
+instituțională al unității de învățământ), obiectivele specifice
+(conform art. 11);
+f) descrierea colectivului de elevi (grupul-țintă din proiect);
+g) relevanța proiectului în acord cu nevoile colectivului de
+elevi din proiect;
+h) descrierea activităților propuse în proiect și a rezultatelor
+anticipate (se vor avea în vedere obiectivul la care răspunde
+activitatea, resursele necesare, orizontul de timp);
+i) precizarea indicatorilor de realizare imediată (output)1, a
+indicatorilor de rezultat (result)2 și a indicatorilor de impact3;
+j) utilizarea TIC;
+k) procedura de autoevaluare a proiectului (periodicitate,
+instrumente, feedback de la elevi, părinți, colegi etc.);
+l) alte informații relevante despre proiect (legătura/
+complementaritatea cu alte proiecte — Școala incluzivă, ăA doua
+șansă” etc., modul în care contribuie la dezvoltarea
+competențelor transversale, cursuri de formare absolvite în
+vederea perfecționării proprii pentru realizarea proiectului).
+
+Măsoară produsele și serviciile realizate în cadrul proiectului. Vor fi corelați cu activitățile și obiectivele specifice ale proiectului.
+Reprezintă modalitatea de măsurare a efectelor, beneficiilor și avantajelor imediate și directe ale proiectului pentru grupul-țintă și sunt în relație cu
+obiectivul proiectului.
+3 Reprezintă consecințele indirecte și pe termen lung ale proiectului.
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 644/15.IX.2010
+CAPITOLUL IV
+Monitorizarea
+
+Art. 13. — (1) Responsabilitatea monitorizării proiectelor
+propuse în vederea obținerii gradației de merit revine consiliului
+de administrație al unității/unităților de învățământ și șefului de
+catedră/responsabilului de comisie metodică.
+(2) În cazul în care șeful de catedră/responsabilul comisiei
+metodice a depus proiect în concurs, monitorizarea va fi
+asigurată de un cadru didactic propus de consiliul de
+administrație.
+Art. 14. — Monitorizarea se realizează permanent și
+urmărește progresul proiectului, prin examinarea conformității
+implementării cu obiectivele, indicatorii și calendarul activităților.
+Rezultatele monitorizării se consemnează anual într-un raport
+de monitorizare întocmit de șeful de catedră/responsabilul
+comisiei metodice și se avizează de consiliul de administrație al
+unității de învățământ.
+Art. 15. — Raportul de monitorizare anual conține aprecieri
+privind stadiul implementării proiectului și recomandări de
+măsuri corective.
+CAPITOLUL V
+Raportul de activitate în vederea participării la concursul
+de acordare a gradației de merit
+Art. 16. — Raportul de activitate are structura următoare:
+I. Raport de autoevaluare privind realizarea proiectului:
+a) date privind candidatul/profilul candidatului;
+b) tema/titlul proiectului;
+c) justificarea alegerii temei de proiect și prezentarea
+relevanței obiectivului general și a obiectivelor specifice ale
+proiectului față de obiectivele din planul de dezvoltare
+instituțională al unității de învățământ și față de nevoile
+colectivului de elevi (grupului-țintă);
+d) criteriile de selecție, respectiv motivația alegerii colectivului
+de elevi;
+e) demonstrarea clară a valorii adăugate a proiectului
+(proiectul propune noi modalități/soluții personalizate pentru a
+răspunde nevoilor identificate ale grupului-țintă sau noi
+modalități de utilizare a instrumentelor existente; proiectul
+demonstrează că nevoile grupului/grupurilor-țintă identificate nu
+sunt abordate în mod corespunzător ori deloc în cadrul
+activităților curente etc.);
+f) activitățile realizate și rezultatele obținute prin analiza
+comparativă a valorilor inițiale și finale ale indicatorilor de
+realizare;
+
+g) modul în care feedbackul obținut prin autoevaluarea și
+monitorizarea
+proiectului
+au
+fost
+utilizate
+la
+îmbunătățirea/ameliorarea acestuia, respectiv elementele din
+proiect reactualizate la începutul fiecărui an școlar, în funcție de
+situația încadrării.
+II. Raport de autoevaluare privind alte performanțe
+didactice obținute în ultimii 4 ani: performanțe deosebite în
+inovarea didactică, în activitatea metodică, în pregătirea
+preșcolarilor sau a elevilor, în pregătirea elevilor distinși la
+concursuri școlare, faza națională și internațională etc., dacă
+activitățile respective nu sunt desfășurate în cadrul proiectului
+supus evaluării.
+Art. 17. — Raportul de activitate este certificat de consiliul
+profesoral al unității de învățământ în care este implementat
+proiectul.
+Art. 18. — Raportul de activitate este însoțit de portofoliul
+personal cuprinzând:
+a) proiectul supus evaluării în vederea obținerii gradației de
+merit cu reactualizările anuale, dacă este cazul;
+b) acte doveditoare privind rezultatele proiectului și
+complementaritatea cu alte proiecte derulate de unitatea de
+învățământ/inspectoratele școlare;
+c) documente doveditoare privind realizarea indicatorilor
+prevăzuți în proiect;
+d) rapoartele de monitorizare realizate de consiliul de
+administrație al unității/unităților de învățământ și de șeful de
+catedră sau responsabilul/responsabilii comisiei/comisiilor
+metodice;
+e) documente doveditoare privind realizarea activităților/
+performanțelor deosebite în inovarea didactică, în activitatea
+metodică, în pregătirea preșcolarilor sau a elevilor, în pregătirea
+elevilor distinși la concursuri școlare, faza națională și
+internațională, dacă activitățile respective nu sunt desfășurate
+în cadrul proiectului supus evaluării, prevăzute la art. 16 pct. II;
+f) aprecierea consiliului profesoral, calificativele anuale.
+CAPITOLUL VI
+Dispoziții finale
+Art. 19. — Personalul de conducere, de îndrumare și control
+din învățământul preuniversitar, precum și personalul didactic
+de predare, care desfășoară activitate de formare continuă a
+cadrelor didactice din învățământul preuniversitar la casa
+corpului didactic pot opta pentru participarea la concursul de
+acordare a gradației de merit în calitate de personal didactic de
+predare, conform prezentelor norme metodologice.
+Art. 20. — Anexele nr. 1 și 2 fac parte integrantă din
+prezentele norme metodologice.
+ANEXA Nr. 1
+la normele metodologice
+
+Fișa de evaluare a proiectului
+Criteriul
+
+Punctajul
+maxim
+
+Observații
+
+Realizarea activităților din proiect în conformitate cu
+graficul stabilit
+
+5p
+
+Se vor utiliza și concluziile rapoartelor de monitorizare.
+
+Existența dovezilor privind autoevaluarea proiectului
+
+5p
+
+Se vor lua în considerare periodicitatea autoevaluării,
+instrumentele, feedbackul de la elevi, părinți și colegi.
+
+Reactualizarea anuală a proiectului în funcție de
+situația încadrării cadrului didactic și/sau de rapoartele
+de monitorizare
+
+5p
+
+Existența și implementarea măsurilor corective
+
+Gradul de realizare a indicatorilor
+
+50 p
+
+Se vor urmări în mod special atingerea obiectivelor și
+obținerea rezultatelor prevăzute în proiect.
+
+15
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 644/15.IX.2010
+Punctajul
+maxim
+
+Criteriul
+
+Promovarea principiilor egalității de șanse, de gen și
+a nediscriminării
+
+5p
+
+Gradul de transferabilitate a proiectului
+
+10 p
+
+Observații
+
+Modul în care este asigurată o posibilă transferare a
+activităților/rezultatelor proiectului către alt grup-țintă, alte
+activități, multiplicare
+
+80 p
+
+TOTAL:
+
+ANEXA Nr. 2
+la normele metodologice
+
+Fișă-cadru de punctaj pentru personalul didactic
+Criteriul
+
+Punctajul maxim
+
+1. Criteriul activităților complexe cu valoare instructiv-educativă
+
+10 p
+
+2. Criteriul privind performanțe deosebite în inovarea didactică
+
+6p
+
+3. Criteriul privind participarea la proiecte regionale, naționale, europene
+
+2p
+
+4. Criteriul privind creșterea prestigiului unității de învățământ
+
+2p
+20 p
+
+TOTAL:
+
+RECTIFICĂRI
+La Ordinul ministrului agriculturii și dezvoltării rurale nr. 185/2010 privind modificarea anexei nr. 7 la Ordinul
+ministrului agriculturii și dezvoltării rurale nr. 445/2008 pentru aprobarea Normelor metodologice privind organizarea
+și funcționarea Sistemului Informațional pentru Piața Produselor Agricole și Alimentare și a metodologiilor de colectare,
+prelucrare, interpretare și difuzare a datelor statistice, publicat în Monitorul Oficial al României, Partea I, nr. 627 din
+6 septembrie 2010, se fac următoarele rectificări (care aparțin emitentului și Redacției ăMonitorul Oficial, Partea I”):
+— în preambul, la paragraful 1, în loc de: ă...transmisă de către Comisia de clasificare a carcaselor de porcine,
+bovine și ovine din cadrul Ministerului Agriculturii și Dezvoltării Rurale...” se va citi: ă...transmisă de către Comisia de
+clasificare a carcaselor de porcine, bovine și ovine Ministerului Agriculturii și Dezvoltării Rurale...”;
+— la art. I pct. 6, în loc de: ă6. La punctul 1, la litera d) a subpunctului 3.3 de la punctul 3 și la nota de după
+punctul 6, sintagma «Regulamentului (CE) nr. 295/1996» se înlocuiește cu sintagma «Regulamentului (CE)
+nr. 1.249/2008 al Comisiei din 10 decembrie 2008 de stabilire a normelor de aplicare a grilelor comunitare de
+clasificare a carcaselor de bovine, porcine și ovine și privind raportarea prețurilor acestora.»” se va citi: ă6. La punctul 1,
+sintagma «Regulamentului (CE) nr. 295/96 de stabilire a normelor de aplicare a Regulamentului (CEE) nr. 1.892/87
+privind înregistrarea prețurilor de pe piață pentru bovinele adulte, pe baza grilei comunitare de clasificare a carcaselor»
+se înlocuiește cu sintagma «Regulamentului (CE) nr. 1.249/2008 de stabilire a normelor de aplicare a grilelor
+comunitare de clasificare a carcaselor de bovine, porcine și ovine și privind raportarea prețurilor acestora», iar la
+litera d) a subpunctului 3.3 de la punctul 3 și la nota de după punctul 6, sintagma «Regulamentului (CE) nr. 295/1996»
+se înlocuiește cu sintagma «Regulamentului (CE) nr. 1.249/2008»”.
+
+ABONAMENTE LA PUBLICAȚIILE OFICIALE PE SUPORT FIZIC
+— Prețuri pentru anul 2010 —
+Nr.
+crt.
+
+Valoare
+(TVA 9% inclus) — lei
+
+Număr
+de apariții
+anuale
+
+Denumirea publicației
+
+12 luni
+
+3 luni
+
+1 lună
+
+900
+
+1.200
+
+330
+
+120
+
+100
+
+1.500
+
+140
+
+Monitorul Oficial, Partea a II-a
+
+200
+
+2.250
+
+200
+
+4.
+
+Monitorul Oficial, Partea a III-a
+
+500
+
+430
+
+40
+
+5.
+
+Monitorul Oficial, Partea a IV-a
+
+6.000
+
+1.720
+
+160
+
+6.
+
+Monitorul Oficial, Partea a VI-a
+
+240
+
+1.600
+
+150
+
+7.
+
+Monitorul Oficial, Partea a VII-a
+
+48
+
+540
+
+50
+
+8.
+
+Colecția Legislația României
+
+4
+
+450
+
+9.
+
+Colecția Hotărâri ale Guvernului României
+
+12
+
+750
+
+1.
+
+Monitorul Oficial, Partea I
+
+2.
+
+Monitorul Oficial, Partea I, limba maghiară
+
+3.
+
+120
+70
+
+NOTĂ:
+
+Monitorul Oficial, Partea I bis, se multiplică și se achiziționează pe bază de comandă.
+
+A B O N A M E N T E L A P R O D U S E L E Î N F O R M AT E L E C T R O N I C
+— Prețuri pentru anul 2010 —
+Abonamentul FLEXIBIL
+(Monitorul Oficial, Partea I + alte 3 părți ale Monitorului Oficial, la alegere)
+Lunar
+
+Produs
+
+Anual
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+AutenticMO
+
+40
+
+100
+
+250
+
+600
+
+1.320
+
+400
+
+1.000
+
+2.500
+
+6.000
+
+13.200
+
+ExpertMO
+
+90
+
+230
+
+580
+
+1.390
+
+3.060
+
+900
+
+2.250
+
+5.630
+
+13.510
+
+29.720
+
+Abonamentul COMPLET
+(Monitorul Oficial, Partea I + toate celelalte părți ale Monitorului Oficial)
+Lunar
+
+Produs
+
+Anual
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+AutenticMO
+
+50
+
+130
+
+330
+
+790
+
+1.740
+
+500
+
+1.250
+
+3.130
+
+7.510
+
+16.520
+
+ExpertMO
+
+110
+
+280
+
+700
+
+1.680
+
+3.700
+
+1.100
+
+2.750
+
+6.880
+
+16.510
+
+36.320
+
+Prețurile sunt exprimate în lei și conțin TVA.
+Mai multe informații puteți găsi pe site-ul www.expert-monitor.ro, unde puteți aplica on-line comanda.
+
+Georgeta N. Stoica
+
+Motivul: Format electronic AUTENTIC, conform Legii nr. 202/1998, republicata.
+Locatia:Bucuresti
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+ăMonitorul Oficial” R.A., Str. Parcului nr. 65, sectorul 1, București; C.I.F. RO427282,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala ăUnirea” București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 021.318.51.29/150, fax 021.318.51.15, e-mail: marketing@ramo.ro, internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 021.401.00.70, fax 021.401.00.71 și 021.401.00.72
+Tiparul: ăMonitorul Oficial” R.A.
+Monitorul Oficial al României, Partea I, nr. 644/15.IX.2010 conține 16 pagini.
+
+Prețul: 3,20 lei
+
+&JUYDGY|446304]
+ISSN 1453—4495
+
+

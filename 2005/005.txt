@@ -1,0 +1,277 @@
+PARTEA
+
+Anul 173 (XVII) — Nr. 5
+
+I
+
+Marți, 4 ianuarie 2005
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+HOTĂRÂRI ALE GUVERNULUI ROMÂNIEI
+
+2.269/2004. — Hotărâre privind aprobarea Normelor
+metodologice de calcul al contribuției de asigurare
+pentru accidente de muncă și boli profesionale ....
+
+HOTĂRÂRI
+
+ALE
+
+GUVERNULUI
+
+1–8
+
+ROMÂNIEI
+
+GUVERNUL ROMÂNIEI
+
+HOTĂRÂRE
+privind aprobarea Normelor metodologice de calcul al contribuției de asigurare
+pentru accidente de muncă și boli profesionale
+În temeiul art. 108 din Constituția României, republicată, și al art. 99 alin. (1) din Legea nr. 346/2002 privind
+asigurarea pentru accidente de muncă și boli profesionale, cu modificările și completările ulterioare,
+Guvernul României adoptă prezenta hotărâre.
+Articol unic. — Se aprobă Normele metodologice de
+calcul al contribuției de asigurare pentru accidente de
+
+muncă și boli profesionale, prevăzute în anexa care face
+parte integrantă din prezenta hotărâre.
+
+PRIM-MINISTRU
+
+ADRIAN NĂSTASE
+Contrasemnează:
+Ministrul muncii, solidarității sociale și familiei,
+Dan Mircea Popescu
+Ministrul finanțelor publice,
+Mihai Nicolae Tănăsescu
+București, 9 decembrie 2004.
+Nr. 2.269.
+ANEXĂ
+
+NORME METODOLOGICE
+de calcul al contribuției de asigurare pentru accidente de muncă și boli profesionale
+CAPITOLUL I
+Dispoziții generale
+Art. 1. — În sensul prezentelor norme metodologice,
+termenii de mai jos au următoarele semnificații:
+a) clasa de risc, denumită în continuare CR, reprezintă
+gradul de risc de accidentare în muncă și de îmbolnăvire
+profesională;
+
+b) tariful de risc, denumit în continuare TR, reprezintă
+procentul din fondul brut de salarii realizat, corespunzător
+clasei de risc;
+c) contribuția de asigurare pentru accidente de muncă și boli
+profesionale, notată în continuare C, reprezintă exprimarea
+valorică a tarifului de risc;
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 5/4.I.2005
+
+d) perioada de referință reprezintă ultimii 3 ani anteriori
+anului de calcul al contribuției de asigurare pentru accidente
+de muncă și boli profesionale;
+e) fișa de înregistrare a accidentului de muncă, denumită în
+continuare FIAM;
+f) fișa de înregistrare a bolilor profesionale, denumită în
+continuare BP2.;
+g) Casa Națională de Pensii și Alte Drepturi de Asigurări
+Sociale, denumită în continuare CNPAS.
+CAPITOLUL II
+Stabilirea claselor de risc
+Art. 2. — Clasele de risc se stabilesc pe categorii de
+activități ale economiei naționale, conform Clasificării
+activităților din economia națională — CAEN, aprobată prin
+Hotărârea Guvernului nr. 656/1997, cu modificările ulterioare.
+Art. 3. — (1) Clasele de risc se determină pe baza a
+4 indici de frecvență:
+a) I1 — indicele care reprezintă frecvența de accidentare,
+respectiv câți accidentați revin la 1.000 de salariați;
+b) I2 — indicele care reprezintă frecvența accidentelor de
+muncă soldate cu invaliditate și/sau deces, respectiv câți
+accidentați soldați cu invaliditate și/sau deces revin la 1.000
+de salariați;
+c) I3 — indicele care reprezintă frecvența îmbolnăvirilor
+profesionale, respectiv câte cazuri noi de îmbolnăviri
+profesionale revin la 1.000 de salariați;
+d) I4 — Indicele care reprezintă frecvența salariaților care
+lucrează în condiții de muncă speciale și deosebite la 1.000
+de salariați.
+(2) Numărul accidentaților luați în considerare la
+determinarea indicilor I1 și I2 este dat de numărul fișelor
+FIAM.
+(3) Numărul cazurilor noi de îmbolnăviri profesionale este
+dat de numărul fișelor BP2 înregistrate în perioada de
+referință.
+(4) Indicii de frecvență prevăzuți la alin. (1) se calculează
+pe baza datelor statistice din perioada de referință.
+Art. 4. — (1) Fiecărui indice de frecvență îi corespunde o
+clasă de risc. Pe baza claselor de risc corespunzătoare celor
+4 indici de frecvență se determină, ca medie aritmetică,
+clasa de risc aferentă sectorului de activitate, conform anexei
+nr. 1. Formula de calcul CR este următoarea:
+CR = (CR1 + CR2 + CR3 + CR4) : 4,
+unde:
+CR1 — clasa de risc aferentă indicelui de frecvență I1;
+CR2 — clasa de risc aferentă indicelui de frecvență I2;
+CR3 — clasa de risc aferentă indicelui de frecvență I3;
+CR4 — clasa de risc aferentă indicelui de frecvență I4.
+(2) Clasa de risc aferentă fiecărui indice de frecvență se
+stabilește pe baza mediei indicilor de frecvență respectivi din
+perioada de referință.
+(3) Clasele de risc aferente indicilor de frecvență au valori
+cuprinse între 1 și 20, pentru fiecare dintre cei 4 indici.
+Intervalele dintre valorile celor 4 indici de frecvență, ce stau
+la baza determinării claselor de risc, corespund intervalelor
+dintre termenii unei progresii, conform anexei nr. 2.
+CAPITOLUL III
+Stabilirea tarifului de risc
+Art. 5. — (1) Fiecărei clase de risc îi corespunde un tarif
+de risc, conform grilei prezentate în anexa nr. 3.
+Tariful de risc reprezintă cota de contribuție și are
+valoarea cuprinsă între 0,5% și 4%, aplicată asupra fondului
+brut de salarii realizat. Tariful minim de risc corespunde
+clasei de risc 1, iar tariful maxim de risc corespunde clasei
+de risc 20.
+
+(3) Pentru primul an de funcționare a sistemului de
+asigurare pentru accidente de muncă și boli profesionale,
+tariful de risc este stabilit la nivel de diviziune CAEN și este
+prezentat în anexa nr. 4.
+Art. 6. — CNPAS va comunica angajatorilor anual, până
+la data de 31 ianuarie, tariful de risc stabilit pentru
+determinarea contribuției pe anul în curs.
+CAPITOLUL IV
+Stabilirea contribuției de asigurare
+Art. 7. — Contribuția lunară de asigurare pentru accidente
+de muncă și boli profesionale datorată de angajatori se
+determină după următoarea formulă:
+TR x Fs
+,
+C =
+100
+unde:
+TR — tariful de risc aferent sectorului de activitate din
+care face parte angajatorul;
+Fs — fondul brut de salarii realizate de către angajator
+în luna anterioară perioadei de plată a contribuției.
+Art. 8. — Pentru primul an de funcționare a sistemului de
+asigurare pentru accidente de muncă și boli profesionale,
+contribuția datorată de angajatori se calculează în
+conformitate cu prevederile art. 3—5 și 7, pe baza datelor
+statistice din anii 2001, 2002 și 2003, aferente sectorului de
+activitate din care fac parte aceștia.
+CAPITOLUL V
+Dispoziții finale
+Art. 9. — (1) Începând cu data de 1 ianuarie 2005,
+instituțiile și unitățile cărora nu li s-a atribuit cod CAEN se
+vor încadra, în conformitate cu prevederile prezentelor norme
+metodologice și ale anexei la Hotărârea Guvernului
+nr. 656/1997, cu modificările și completările ulterioare, după
+cum urmează:
+a) instituțiile și unitățile de administrație publică și
+apărare, precum și cele de asigurări sociale din sistemul
+public, la diviziunea 75; în această categorie intră și
+administrarea sistemului școlar, financiar, de sănătate publică,
+direcțiile cultural-sportive, direcțiile agricole, sanitar-veterinare
+și alte direcții și inspectorate din administrația publică;
+b) instituțiile și unitățile de învățământ, la diviziunea 80;
+c) instituțiile și unitățile de sănătate și asistență socială,
+la diviziunea 85.
+(2) Pentru instituțiile și unitățile care nu sunt prevăzute la
+alin. (1), codul CAEN va fi identificat în cadrul clasificării
+activităților din economia națională, în funcție de specificul
+activității principale desfășurate.
+Art. 10. — Termenul de declarare și de plată a
+contribuției de asigurare pentru accidente de muncă și boli
+profesionale este până la data de 25 inclusiv a lunii
+următoare celei pentru care se efectuează plata drepturilor
+salariale.
+Art. 11. — (1) În cazul în care plata contribuției de
+asigurare pentru accidente de muncă și boli profesionale nu
+s-a efectuat până la termenul prevăzut la art. 10, cheltuielile
+pentru prestațiile și serviciile de asigurare prevăzute de lege
+și efectuate de către asigurător se recuperează de la
+angajator.
+(2) Recuperarea sumelor prevăzute la alin. (1) se va face
+de către asigurător, conform prevederilor legale, după
+stabilirea caracterului de muncă al accidentului, respectiv
+caracterului profesional al bolii și primirea documentelor
+justificative de plată de la prestatorii de servicii.
+Art. 12. — Anexele nr. 1—4*) fac parte integrantă din
+prezentele norme metodologice.
+
+*) Anexele nr. 1—4 sunt reproduse în facsimil.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+3
+
+ANEXA Nr. 1
+la normele metodologice
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 5/4.I.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 5/4.I.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+5
+
+ANEXA Nr. 2
+la normele metodologice
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 5/4.I.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 5/4.I.2005
+ANEXA Nr. 3
+la normele metodologice
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 5/4.I.2005
+
+7
+ANEXA Nr. 4
+la normele metodologice
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 5/4.I.2005
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+Regia Autonomă îMonitorul Oficial“, Str. Parcului nr. 65, sectorul 1, București,
+IBAN: RO75RNCB5101000000120001 Banca Comercială Română — S.A. — Sucursala îUnirea“ București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 224.09.71/150, fax 225.00.43, E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 410.47.30, tel./fax 410.77.36 și 410.47.23
+Tiparul: Regia Autonomă îMonitorul Oficial“
+Monitorul Oficial al României, Partea I, nr. 5/4.I.2005 conține 8 pagini.
+
+Prețul de vânzare 5.500 lei
+
+ISSN 1453—4495
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+

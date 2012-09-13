@@ -1,0 +1,4065 @@
+PARTEA I
+
+Anul 178 (XXII) — Nr. 726
+
+Luni, 1 noiembrie 2010
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+SUMAR
+
+Nr.
+
+Pagina
+ACTE ALE BĂNCII NAȚIONALE A ROMÂNIEI
+ȘI ALE COMISIEI NAȚIONALE A VALORILOR
+MOBILIARE
+
+17/73. — Ordin pentru aprobarea Regulamentului Băncii
+Naționale a României și al Comisiei Naționale a
+Valorilor Mobiliare nr. 18/16/2010 privind tratamentul
+riscului de credit aferent expunerilor securitizate și
+pozițiilor din securitizare ............................................
+
+2–17
+
+18/87. — Ordin privind aprobarea Regulamentului Băncii
+Naționale a României și al Comisiei Naționale a
+Valorilor Mobiliare nr. 19/23/2010 pentru modificarea
+și completarea Regulamentului Băncii Naționale a
+României și al Comisiei Naționale a Valorilor Mobiliare
+nr. 22/27/2006 privind adecvarea capitalului instituțiilor
+de credit și al firmelor de investiții ..............................
+
+18–22
+
+19/90. — Ordin privind aprobarea Regulamentului Băncii
+Naționale a României și al Comisiei Naționale a
+Valorilor Mobiliare nr. 20/25/2010 pentru modificarea
+și completarea Regulamentului Băncii Naționale a
+României și al Comisiei Naționale a Valorilor Mobiliare
+nr. 23/28/2006 privind criteriile tehnice referitoare la
+organizarea și tratamentul riscurilor, precum și criteriile
+tehnice utilizate de autoritățile competente pentru
+verificarea și evaluarea acestora................................
+
+23–25
+
+20/91. — Ordin privind aprobarea Regulamentului Băncii
+Naționale a României și al Comisiei Naționale a
+Valorilor Mobiliare nr. 21/26/2010 pentru modificarea
+și completarea Regulamentului Băncii Naționale a
+României și al Comisiei Naționale a Valorilor Mobiliare
+nr. 25/30/2006 privind cerințele de publicare pentru
+instituțiile de credit și firmele de investiții....................
+
+25–29
+
+21/78. — Ordin privind aprobarea Regulamentului Băncii
+Naționale a României și al Comisiei Naționale a
+Valorilor Mobiliare nr. 23/21/2010 pentru modificarea
+și completarea Regulamentului Băncii Naționale a
+României și al Comisiei Naționale a Valorilor Mobiliare
+nr. 13/18/2006 privind determinarea cerințelor minime
+de capital pentru instituțiile de credit și firmele de
+investiții ......................................................................
+
+30–31
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+
+ACTE ALE BĂNCII NAȚIONALE A ROMÂNIEI ȘI ALE
+C O M I S I E I N A Ț I O N A L E A VA L O R I L O R M O B I L I A R E
+BANCA NAȚIONALĂ A ROMÂNIEI
+Nr. 17 din 30 septembrie 2010
+
+COMISIA NAȚIONALĂ A VALORILOR MOBILIARE
+Nr. 73 din 8 octombrie 2010
+
+ORDIN
+pentru aprobarea Regulamentului Băncii Naționale a României și al Comisiei Naționale
+a Valorilor Mobiliare nr. 18/16/2010 privind tratamentul riscului de credit aferent
+expunerilor securitizate și pozițiilor din securitizare
+Având în vedere dispozițiile art. 126, art. 134 lit. b), art. 384 și ale art. 385 din Ordonanța de urgență a Guvernului
+nr. 99/2006 privind instituțiile de credit și adecvarea capitalului, aprobată cu modificări și completări prin Legea nr. 227/2007, cu
+modificările și completările ulterioare,
+în temeiul prevederilor art. 420 din Ordonanța de urgență a Guvernului nr. 99/2006, aprobată cu modificări si completări
+prin Legea nr. 227/2007, cu modificările și completările ulterioare, și ale art. 48 din Legea nr. 312/2004 privind Statutul Băncii
+Naționale a României, precum și ale prevederilor art. 1, 2 și ale art. 7 alin. (1), (3), (10) și (15) din Statutul Comisiei Naționale a
+Valorilor Mobiliare, aprobat prin Ordonanța de urgență a Guvernului nr. 25/2002, aprobată cu modificări și completări prin Legea
+nr. 514/2002, cu modificările și completările ulterioare,
+Banca Națională a României și Comisia Națională a Valorilor Mobiliare emit următorul ordin:
+Art. 1. — Se aprobă Regulamentul Băncii Naționale a
+României și al Comisiei Naționale a Valorilor Mobiliare
+nr. 18/16/2010 privind tratamentul riscului de credit aferent
+expunerilor securitizate și pozițiilor din securitizare, prevăzut în
+anexa care face parte integrantă din prezentul ordin.
+Art. 2. — Prezentul ordin și regulamentul menționat la art. 1
+se publică în Monitorul Oficial al României, Partea I.
+Art. 3. — La data de 31 decembrie 2010 se abrogă Ordinul
+Băncii Naționale a României și al Comisiei Naționale a Valorilor
+
+Mobiliare nr. 18/115/2006 pentru aprobarea Regulamentului
+Băncii Naționale a României și al Comisiei Naționale a Valorilor
+Mobiliare nr. 21/26/2006 privind tratamentul riscului de credit
+aferent expunerilor securitizate și al pozițiilor din securitizare,
+publicat în Monitorul Oficial al României, Partea I, nr. 1.035 şi
+1.035 bis din 28 decembrie 2006.
+Art. 4. — Banca Națională a României și Comisia Națională
+a Valorilor Mobiliare vor urmări ducerea la îndeplinire a
+prevederilor prezentului ordin.
+
+Președintele Consiliului de administrație
+al Băncii Naționale a României,
+Mugur Constantin Isărescu
+
+Președintele Comisiei Naționale a Valorilor Mobiliare,
+Gabriela Anghelache
+
+ANEXĂ
+
+R E G U L A M E N T U L Nr. 18/16/2010
+privind tratamentul riscului de credit aferent expunerilor securitizate și pozițiilor din securitizare
+CAPITOLUL I
+Dispoziții generale
+Art. 1. — (1) Prezentul regulament stabilește metodologia de
+determinare a valorilor ponderate la risc ale expunerilor care fac
+obiectul securitizării, denumite pe parcursul prezentului
+regulament expuneri securitizate, și ale pozițiilor din securitizare,
+în vederea calculării cerințelor minime de capital pentru riscul
+de credit și, după caz, riscul de diminuare a valorii creanței
+potrivit prevederilor Regulamentului BNR — CNVM nr. 13/18/2006
+privind determinarea cerințelor minime de capital pentru
+instituțiile de credit și firmele de investiții, cu modificările și
+completările ulterioare.
+(2) Prezentul regulament se aplică instituțiilor de credit,
+persoane juridice române, și sucursalelor din România ale
+instituțiilor de credit din state terțe.
+(3) Casele centrale sunt responsabile pentru reglementarea
+în conformitate cu prevederile prezentului regulament a cadrului
+general aferent cooperativelor de credit din cadrul rețelelor
+cooperatiste. Reglementările emise vor avea în vedere
+prevederile prezentului regulament în ceea ce privește
+
+determinarea valorilor ponderate la risc ale expunerilor care fac
+obiectul securitizării și ale pozițiilor din securitizare, în vederea
+calculării cerințelor minime de capital pentru riscul de credit și,
+după caz, riscul de diminuare a valorii creanței ale
+cooperativelor de credit, și nu vor putea stabili cerințe mai puțin
+restrictive decât cele prevăzute de acesta. În acest sens,
+reglementările emise de casa centrală vor fi transmise spre
+avizare Băncii Naționale a României.
+(4) Prezentul regulament se aplică în mod corespunzător
+societăților de servicii de investiții financiare, precum și
+societăților de administrare a investițiilor care au în obiectul de
+activitate administrarea portofoliilor individuale de investiții. În
+acest sens, orice referire la Banca Națională a României se
+consideră a fi făcută, după caz, la Comisia Națională a Valorilor
+Mobiliare.
+(5) Prezentul regulament se aplică la nivel individual și, după
+caz, la nivel consolidat, în conformitate cu prevederile
+Regulamentului BNR — CNVM nr. 17/22/2006 privind
+supravegherea pe bază consolidată a instituțiilor de credit și a
+firmelor de investiții, cu modificările ulterioare.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+(6) Casele centrale sunt responsabile pentru aplicarea
+prezentului regulament la nivel de rețea cooperatistă.
+Art. 2. — (1) Termenii și expresiile folosite în prezentul
+regulament au semnificațiile prevăzute în Ordonanța de urgență
+a Guvernului nr. 99/2006 privind instituţiile de credit și adecvarea
+capitalului, aprobată cu modificări şi completări prin Legea
+nr. 227/2007, cu modificările și completările ulterioare.
+(2) Expresiile protecție finanțată a creditului și protecție
+nefinanțată a creditului au semnificațiile prevăzute în
+Regulamentul BNR — CNVM nr. 19/24/2006 privind tehnicile de
+diminuare a riscului de credit utilizate de instituțiile de credit și
+firmele de investiții, cu modificările și completările ulterioare, iar
+expresiile instituție externă de evaluare a creditului, instituție
+externă de evaluare a creditului eligibilă, expunere și rating au
+semnificațiile prevăzute în Regulamentul BNR — CNVM
+nr. 14/19/2006 privind tratamentul riscului de credit pentru
+instituțiile de credit și firmele de investiții potrivit abordării
+standard, cu modificările și completările ulterioare.
+(3) Expresiile risc de diminuare a valorii creanței, pierdere,
+pierdere așteptată și factor de conversie au semnificațiile
+prevăzute în Regulamentul BNR — CNVM nr. 15/20/2006
+privind tratamentul riscului de credit pentru instituțiile de credit și
+firmele de investiții potrivit abordării bazate pe modele interne
+de rating, cu modificările și completările ulterioare.
+(4) Expresia portofoliu de tranzacționare are semnificația
+prevăzută în Regulamentul BNR — CNVM nr. 22/27/2006
+privind adecvarea capitalului instituțiilor de credit și al firmelor
+de investiții, cu modificările și completările ulterioare.
+(5) Expresia structură de conducere are semnificația
+prevăzută în Regulamentul Băncii Naționale a României
+nr. 18/2009 privind cadrul de administrare a activității instituțiilor
+de credit, procesul intern de evaluare a adecvării capitalului la
+riscuri și condițiile de externalizare a activităților acestora, cu
+modificările și completările ulterioare.
+(6) Termenul trust are semnificația prevăzută în
+Regulamentul Băncii Naționale a României nr. 4/2009 pentru
+modificarea și completarea Regulamentului Băncii Naționale a
+României nr. 11/2007 privind autorizarea instituțiilor de credit,
+persoane juridice române, și a sucursalelor din România ale
+instituțiilor de credit din state terțe.
+(7) În scopul prezentului regulament, termenii și expresiile
+de mai jos au următoarele semnificații:
+a) securitizare — o tranzacție sau o schemă prin care riscul
+de credit asociat unei expuneri sau unui portofoliu de expuneri
+este segmentat pe tranșe și care are următoarele caracteristici:
+— plățile în cadrul tranzacției sau schemei depind de
+performanța aferentă expunerii sau portofoliului de expuneri; și
+— subordonarea tranșelor determină modul de alocare a
+pierderilor pe parcursul întregii durate de viață a tranzacției sau
+a schemei;
+b) securitizare tradițională — securitizarea ce presupune
+transferul economic al expunerilor care fac obiectul securitizării
+către o entitate special constituită în scopul securitizării, care
+emite titluri. Aceasta se realizează prin transferul proprietății
+asupra expunerilor securitizate de la instituția de credit
+inițiatoare sau prin tehnica subparticipării. Titlurile emise nu
+reprezintă obligații de plată ale instituției de credit inițiatoare;
+c) securitizare sintetică — securitizarea în cadrul căreia
+segmentarea riscului de credit pe tranșe se realizează prin
+utilizarea instrumentelor financiare derivate de credit sau a
+garanțiilor și în care portofoliul de expuneri rămâne în bilanțul
+instituției de credit inițiatoare;
+d) tranșă — un segment, stabilit pe bază contractuală, al
+riscului de credit asociat unei expuneri sau unui număr de
+expuneri, în condițiile în care o poziție din cadrul segmentului
+implică un risc de pierdere din credit superior ori inferior celui
+pe care îl implică o poziție de valoare egală din orice alt
+
+3
+
+segment, fără a lua în considerare protecția creditului furnizată
+de terți în mod direct deținătorilor de poziții din respectivul
+segment sau din alte segmente ale riscului de credit;
+e) poziție din securitizare — o expunere față de o
+securitizare;
+f) inițiator — oricare dintre următoarele:
+— o entitate care, fie ea însăși, fie prin intermediul entităților
+legate, a fost implicată direct ori indirect în contractul inițial care
+a dat naștere obligațiilor sau obligațiilor potențiale ale debitorului
+ori ale debitorului potențial, care au condus la înregistrarea
+expunerilor care fac obiectul securitizării; sau
+— o entitate care achiziționează expunerile unei terțe părți,
+le include în propriul său bilanț și apoi le securitizează;
+g) sponsor — o instituție de credit, alta decât o instituție de
+credit inițiatoare, care înființează și administrează un program
+ABCP sau o altă schemă de securitizare ce implică
+achiziționarea de expuneri de la entități terțe;
+h) îmbunătățirea calității creditului — o înțelegere
+contractuală prin care calitatea creditului aferentă unei poziții
+dintr-o securitizare este ameliorată față de cum ar fi fost aceasta
+dacă nu s-ar fi produs îmbunătățirea și care include
+îmbunătățirea furnizată de tranșele din securitizare de rang
+inferior și de alte tipuri de protecție a creditului;
+i) entitate special constituită în scopul securitizării —
+o entitate organizată ca trust sau o altă entitate, diferită de o
+instituție de credit, constituită pentru desfășurarea uneia sau mai
+multor securitizări, ale cărei activități sunt limitate la acelea
+corespunzătoare pentru atingerea acestui obiectiv, a cărei
+structură vizează izolarea obligațiilor sale de cele ale instituției
+de credit inițiatoare și în care deținătorii de interese generatoare
+de beneficii au dreptul să gajeze sau să schimbe respectivele
+interese nerestricționat;
+j) marjă în exces — suma veniturilor de natură financiară și
+a altor venituri din comisioane încasate aferente expunerilor
+securitizate, nete de costuri și cheltuieli;
+k) opțiune de solicitare a stingerii securitizării (clean-up call
+option) — o opțiune contractuală care permite inițiatorului să
+răscumpere sau să închidă pozițiile din securitizare înainte de
+rambursarea integrală a expunerilor-suport, în cazul în care
+valoarea expunerilor rămase de rambursat scade sub un nivel
+specificat;
+l) facilitate de lichiditate — poziția din securitizare care
+provine dintr-o înțelegere contractuală de finanțare care vizează
+să asigure plata la timp a fluxurilor de numerar către investitori;
+m) KIRB — suma următoarelor două elemente:
+— 8% din valorile ponderate la risc ale expunerilor
+securitizate care ar fi fost calculate potrivit prevederilor
+Regulamentului BNR — CNVM nr. 15/20/2006, cu modificările
+și completările ulterioare, dacă acestea nu ar fi fost securitizate;
+și
+— valorile pierderilor așteptate asociate respectivelor
+expuneri calculate potrivit aceluiași regulament;
+n) metoda bazată pe ratinguri — metoda de calcul al valorilor
+ponderate la risc ale expunerilor aferente pozițiilor din
+securitizare, potrivit prevederilor art. 77—81;
+o) metoda formulei reglementate — metoda de calcul al
+valorilor ponderate la risc ale expunerilor aferente pozițiilor din
+securitizare, potrivit prevederilor art. 82—84;
+p) poziție care nu beneficiază de rating — o poziție din
+securitizare care nu beneficiază de un rating eligibil furnizat de
+către o instituție externă de evaluare de credit eligibilă;
+q) poziție care beneficiază de rating — o poziție din
+securitizare care beneficiază de un rating eligibil furnizat de
+către o instituție externă de evaluare de credit eligibilă;
+r) program ABCP — program de emisiune de titluri pe termen
+scurt garantate cu active (asset-backed commercial paper),
+respectiv un program de securitizare în cadrul căruia titlurile
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+
+emise au, în mod predominant, forma de titluri pe termen scurt
+cu o scadență inițială de cel mult un an;
+s) formalizare — descrierea și, după caz, fundamentarea
+unui proces, sistem, a unei metodologii sau decizii, regăsite la
+nivelul instituției de credit sub forma unei prezentări scrise cu
+un grad adecvat de complexitate și detaliere.
+CAPITOLUL II
+Calculul valorilor ponderate la risc ale expunerilor
+în cadrul unei operațiuni de securitizare
+Art. 3. — (1) În cazul în care o instituție de credit utilizează
+abordarea standard prevăzută în Regulamentul BNR — CNVM
+nr. 14/19/2006, cu modificările și completările ulterioare, în
+vederea calculării valorilor ponderate la risc ale expunerilor
+aferente clasei de expuneri căreia i-ar fi atribuite, potrivit
+prevederilor art. 4 din regulamentul menționat, expunerile
+securitizate, instituția de credit în cauză calculează valoarea
+ponderată la risc a expunerii aferentă unei poziții din securitizare
+potrivit prevederilor art. 37—68.
+(2) În toate celelalte cazuri, instituția de credit calculează
+valoarea ponderată la risc a expunerii în conformitate cu
+prevederile art. 37—41 și ale art. 69—103.
+Art. 4. — (1) În cazul în care un nivel semnificativ al riscului
+de credit asociat expunerilor securitizate a fost transferat de la
+instituția de credit inițiatoare în condițiile prevederilor cap. IV,
+acea instituție de credit poate:
+a) în cazul unei securitizări tradiționale, să excludă
+expunerile pe care le-a securitizat de la calcularea valorilor
+ponderate la risc ale expunerilor și, dacă este cazul, a valorilor
+pierderilor așteptate; și
+b) în cazul unei securitizări sintetice, să calculeze valorile
+ponderate la risc ale expunerilor și, dacă este cazul, valorile
+pierderilor așteptate, aferente expunerilor securitizate, potrivit
+prevederilor cap. IV.
+(2) În cazul în care se aplică prevederile alin. (1), instituția
+de credit inițiatoare calculează, pentru eventualele poziții pe
+care le deține în respectiva securitizare, valorile ponderate la
+risc ale expunerilor potrivit prevederilor art. 22—103.
+(3) În cazul în care instituția de credit inițiatoare nu realizează
+transferul unui nivel semnificativ al riscului de credit potrivit
+prevederilor alin. (1), aceasta nu trebuie să calculeze valoarea
+ponderată la risc a expunerii pentru niciuna dintre pozițiile pe
+care eventual le deține în respectiva securitizare.
+Art. 5. — (1) În vederea calculării valorii ponderate la risc a
+expunerii aferente unei poziții din securitizare, valorii expunerii
+aferente poziției îi sunt atribuite ponderi de risc în conformitate
+cu prevederile art. 22—103, pe baza calității creditului
+respectivei poziții.
+(2) În vederea determinării calității creditului aferente unei
+poziții din securitizare, în sensul alin. (1), se poate utiliza ratingul
+furnizat de o instituție externă de evaluare a creditului sau o altă
+metodă, potrivit prevederilor art. 22—103.
+Art. 6. — (1) În cazul în care există o expunere față de diferite
+tranșe ale unei securitizări, expunerea față de fiecare tranșă
+este considerată o poziție distinctă din securitizare.
+(2) Furnizorii de protecție a creditului pentru pozițiile din
+securitizare sunt considerați deținători de poziții în securitizare.
+(3) Pozițiile din securitizare trebuie să includă expunerile față
+de o securitizare care provin din instrumente financiare derivate
+pe rata dobânzii sau pe valute.
+Art. 7. — În cazul în care o poziție din securitizare face
+obiectul unei protecții finanțate sau nefinanțate a creditului,
+ponderea de risc aplicabilă pentru poziția respectivă poate fi
+modificată potrivit prevederilor Regulamentului BNR — CNVM
+nr. 19/24/2006, cu modificările și completările ulterioare, corelate
+cu cele ale prezentului regulament.
+
+Art. 8. — Pentru scopul calculării cerințelor de capital pentru
+riscul de credit și riscul de diminuare a valorii creanței potrivit
+prevederilor art. 2 lit. a) din Regulamentul BNR — CNVM
+nr. 13/18/2006, cu modificările și completările ulterioare,
+valoarea ponderată la risc a expunerii aferente unei poziții din
+securitizare care primește un coeficient de ponderare de 1.250%
+este inclusă în totalul valorilor ponderate la risc ale expunerilor
+instituției de credit, fără a aduce atingere prevederilor art. 22
+alin. (1) lit. g) din Regulamentul BNR — CNVM nr. 18/23/2006
+privind fondurile proprii ale instituțiilor de credit și ale firmelor de
+investiții, cu modificările și completările ulterioare.
+Art. 9. — (1) În vederea determinării ponderii de risc a unei
+poziții din securitizare potrivit prevederilor art. 5—8, se poate
+utiliza un rating furnizat de o instituție externă de evaluare a
+creditului numai dacă aceasta din urmă a fost recunoscută ca
+eligibilă în acest scop de către Banca Națională a României,
+fiind denumită în continuare instituție externă de evaluare a
+creditului eligibilă.
+(2) Banca Națională a României recunoaște o instituție
+externă de evaluare a creditului ca fiind eligibilă pentru scopurile
+alin. (1) numai dacă respectiva instituție îndeplinește cerințele
+prevăzute la art. 6 din Regulamentul BNR — CNVM nr. 14/19/2006,
+cu modificările și completările ulterioare, prin luarea în
+considerare a criteriilor tehnice stabilite în cap. IV din cadrul
+aceluiași regulament și dacă aceasta dispune de competență
+dovedită în domeniul securitizării, care poate fi probată printr-un
+grad ridicat de acceptare din partea pieței. În cazul în care o
+instituție externă de evaluare a creditului este înregistrată ca
+agenție de rating de credit în conformitate cu Regulamentul (CE)
+nr. 1.060/2009, se consideră ca fiind îndeplinite cerințele de
+obiectivitate, independență, revizuire continuă și transparență
+aferente metodologiei de evaluare.
+(3) În situația în care o instituție externă de evaluare a
+creditului a fost recunoscută ca fiind eligibilă pentru scopul alin. (1)
+de către autoritățile competente dintr-un stat membru, Banca
+Națională a României poate recunoaște respectiva instituție
+externă de evaluare a creditului ca fiind eligibilă pentru acest
+scop, fără a mai pune în aplicare un proces propriu de evaluare.
+(4) Banca Națională a României publică procedura de
+recunoaștere a instituțiilor externe de evaluare a creditului,
+precum și lista acestor instituții recunoscute ca fiind eligibile.
+(5) Pentru a putea fi utilizat în scopul prevăzut la alin. (1), un
+rating furnizat de o instituție externă de evaluare a creditului
+eligibilă trebuie să respecte principiile de credibilitate și
+transparență prevăzute în cap. V.
+Art. 10. — (1) În vederea aplicării ponderilor de risc aferente
+pozițiilor din securitizare, Banca Națională a României
+determină corespondența dintre nivelurile scalei de evaluarea a
+calității creditului prevăzute la art. 22—103 și ratingurile
+relevante furnizate de instituții externe de evaluare a creditului
+eligibile.
+(2) Determinarea corespondenței în sensul alin. (1) trebuie
+să fie obiectivă și consecventă.
+(3) În situația în care autoritățile competente dintr-un stat
+membru sau Comisia Națională a Valorilor Mobiliare au făcut o
+determinare a corespondenței în sensul alin. (1), Banca
+Națională a României poate recunoaște respectiva determinare,
+fără a mai pune în aplicare un proces propriu de determinare a
+corespondenței.
+Art. 11. — (1) Utilizarea ratingurilor furnizate de instituții
+externe de evaluare a creditului în vederea calculării valorilor
+ponderate la risc ale expunerilor unei instituții de credit potrivit
+prevederilor art. 5—8 trebuie să fie consecventă și în
+conformitate cu prevederile cap. V.
+(2) Pentru scopurile alin. (1), ratingurile nu trebuie să fie
+utilizate în mod selectiv.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+Art. 12. — (1) În cazul securitizării unor expuneri reînnoibile
+supuse unei clauze de amortizare anticipată, instituția de credit
+inițiatoare calculează, potrivit prevederilor art. 22—103, o
+valoare ponderată la risc a expunerii suplimentară pentru riscul
+de creștere a nivelului riscului de credit la care este expusă
+respectiva instituție de credit, ca urmare a producerii efectelor
+clauzei de amortizare anticipată.
+(2) Pentru scopul alin. (1), o expunere reînnoibilă reprezintă
+expunerea în cazul căreia soldurile sumelor rămase de
+rambursat ale clienților pot fluctua în funcție de deciziile acestora
+de a lua cu împrumut și de a rambursa, până la o limită
+convenită cu instituția de credit, iar o clauză de amortizare
+anticipată reprezintă o clauză contractuală care impune ca la
+producerea unor evenimente definite pozițiile investitorilor să fie
+răscumpărate înainte de scadența convenită inițial pentru titlurile
+emise.
+Art. 13. — (1) O instituție de credit sponsor sau o instituție de
+credit inițiatoare care, în legătură cu o securitizare, a utilizat
+prevederile art. 4 la calcularea valorilor ponderate la risc ale
+expunerilor are interdicția de a furniza suport securitizării peste
+obligațiile sale contractuale în vederea reducerii pierderilor
+potențiale sau efective ale investitorilor.
+(2) În situația în care o instituție de credit inițiatoare sau o
+instituție de credit sponsor nu respectă dispozițiile alin. (1) în
+ceea ce privește o securitizare, Banca Națională a României
+solicită acesteia cel puțin să dețină capital pentru toate
+expunerile securitizate, ca și cum acestea nu ar fi fost
+securitizate.
+(3) Instituția de credit aflată în situația prevăzută la alin. (2)
+trebuie să facă public faptul că a furnizat suport peste obligațiile
+sale contractuale, precum și impactul acestei acțiuni asupra
+capitalului reglementat.
+CAPITOLUL III
+Expuneri la riscul de credit transferat
+Art. 14. — (1) O instituție de credit, în altă calitate decât cea
+de inițiator, sponsor sau creditor inițial, este expusă la riscul de
+credit al unei poziții din securitizare din portofoliul de
+tranzacționare ori din afara portofoliului de tranzacționare numai
+dacă inițiatorul, sponsorul sau creditorul inițial a făcut cunoscut
+în mod explicit instituției de credit faptul că va reține, pe bază
+continuă, un interes economic net semnificativ care, în niciun
+caz, nu poate fi mai mic de 5%.
+(2) Pentru scopurile acestui articol reținerea unui interes
+economic net înseamnă:
+a) păstrarea a cel puțin 5% din valoarea nominală a fiecăreia
+dintre tranșele vândute sau transferate investitorilor;
+b) în cazul securitizărilor expunerilor reînnoibile, păstrarea
+interesului inițiatorului de cel puțin 5% din valoarea nominală a
+expunerilor securitizate;
+c) păstrarea unor expuneri selectate aleatoriu, echivalente
+cu cel puțin 5% din valoarea nominală a expunerilor securitizate,
+în cazul în care aceste expuneri ar fi fost, altfel, securitizate în
+respectiva securitizare, cu condiția ca numărul expunerilor
+potențial securitizate să fie de cel puțin 100 la inițierea
+tranzacției de securitizare; sau
+d) păstrarea tranșei care suportă prima pierdere și, dacă este
+necesar, a altor tranșe cu un profil de risc similar sau mai sever
+decât cele transferate sau vândute investitorilor și care nu sunt
+scadente mai devreme decât cele transferate sau vândute
+investitorilor, astfel încât reținerea să reprezinte în total cel puțin
+5% din valoarea nominală a expunerilor securitizate.
+(3) Interesul economic net este cuantificat la inițierea
+tranzacției de securitizare și trebuie păstrat pe bază continuă.
+Acesta nu face obiectul diminuării riscului de credit, pozițiilor
+scurte sau altei acoperiri. Interesul economic net este determinat
+pe baza valorii noționale a elementelor din afara bilanțului.
+
+5
+
+(4) În sensul prezentului articol, pe bază continuă înseamnă
+că pozițiile, interesul sau expunerile reținute nu sunt acoperite
+ori vândute.
+(5) Pentru nicio securitizare nu va exista o aplicare multiplă
+a cerințelor de reținere.
+Art. 15. — (1) În cazul în care o instituție de credit mamă la
+nivelul Uniunii Europene, o societate financiară holding-mamă la
+nivelul Uniunii Europene sau una dintre filialele sale
+securitizează, în calitate de inițiator sau sponsor, expuneri de la
+mai multe instituții de credit, firme de investiții sau alte instituții
+financiare care sunt incluse în aria de cuprindere a
+supravegherii pe bază consolidată, cerința prevăzută la art. 14
+poate fi îndeplinită pe baza situației consolidate a instituției de
+credit mamă la nivelul Uniunii Europene sau a societății
+financiare holding-mamă la nivelul Uniunii Europene.
+(2) Prevederile alin. (1) se aplică numai în cazul în care
+instituțiile de credit, firmele de investiții sau instituțiile financiare
+care au creat expunerile securitizate s-au angajat să respecte
+cerințele prevăzute la art. 19 și transmit, în timp util, inițiatorului
+sau sponsorului și instituției de credit mamă la nivelul Uniunii
+Europene sau societății financiare holding-mamă la nivelul
+Uniunii Europene informațiile necesare în vederea îndeplinirii
+cerințelor menționate la art. 20.
+Art. 16. — (1) Art. 14 nu se aplică în cazul în care expunerile
+securitizate sunt creanțe sau creanțe potențiale asupra sau
+garantate integral, necondiționat și irevocabil de:
+a) administrații centrale sau bănci centrale;
+b) administrații regionale, autorități locale și entități din
+sectorul public ale statelor membre;
+c) instituții cărora li se aplică o pondere de risc de 50% sau
+mai mică, în conformitate cu prevederile Regulamentului BNR—
+CNVM nr. 14/19/2006, cu modificările și completările ulterioare;
+sau
+d) bănci multilaterale de dezvoltare.
+(2) Art. 14 nu se aplică:
+a) tranzacțiilor bazate pe un indice clar, transparent și
+accesibil, în cazul în care entitățile de referință suport sunt
+identice cu cele care alcătuiesc un indice de entități care este
+tranzacționat pe scară largă sau reprezintă titluri
+tranzacționabile, altele decât poziții din securitizare; sau
+b) creditelor sindicalizate, creanțelor achiziționate sau
+instrumentelor de tipul Credit Default Swap în cazul în care
+aceste instrumente nu sunt utilizate pentru a structura și/sau
+acoperi o securitizare care intră sub incidența art. 14.
+Art. 17. — (1) Înainte de a investi și, dacă este cazul, ulterior,
+instituțiile de credit trebuie să fie în măsură să demonstreze
+Băncii Naționale a României că au o înțelegere completă și
+detaliată asupra fiecărei poziții din securitizare și că au
+implementat politicile și procedurile formale, adecvate pentru
+portofoliul de tranzacționare și pentru afara portofoliului de
+tranzacționare, corespunzătoare cu profilul de risc al investițiilor
+lor în poziții securitizate, în scopul de a analiza și a înregistra
+următoarele elemente:
+a) informațiile aduse la cunoștință, conform art. 14, de către
+inițiatori sau sponsori, pentru a preciza interesul economic net
+pe care îl rețin în securitizare pe bază continuă;
+b) caracteristicile de risc ale fiecărei poziții din securitizare;
+c) caracteristicile de risc ale expunerilor suport aferente
+poziției din securitizare;
+d) reputația și istoricul pierderilor suferite în securitizări
+anterioare de inițiatori sau sponsori, corespunzătoare claselor
+relevante de expuneri-suport aferente poziției din securitizare;
+e) declarațiile și dezvăluirile făcute de inițiatori, sponsori sau
+de agenții ori consilierii acestora în legătură cu obligația de
+diligență (due diligence) privind expunerile securitizate și, după
+caz, calitatea garanțiilor reale aferente expunerilor securitizate;
+f) dacă este cazul, metodologiile și conceptele pe care se
+bazează evaluarea garanțiilor reale aferente expunerilor
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+
+securitizate, precum și politicile adoptate de inițiator sau de
+sponsor pentru a asigura independența evaluatorului; și
+g) toate caracteristicile structurale ale securitizării care pot
+influența în mod semnificativ performanța poziției din
+securitizare deținute de instituția de credit.
+(2) Instituțiile de credit trebuie să efectueze periodic propriile
+simulări de criză adecvate pentru pozițiile lor din securitizare. În
+acest scop, instituțiile de credit se pot baza pe modelele
+financiare elaborate de o instituție externă de evaluare a
+creditului, cu condiția ca instituțiile de credit să poată demonstra,
+la cerere, că au manifestat o preocupare corespunzătoare,
+înainte de a investi, pentru a valida ipotezele relevante ale
+modelelor și structurarea acestora și pentru a înțelege
+metodologia, ipotezele și rezultatele.
+Art. 18. — (1) Instituțiile de credit, în altă calitate decât cea
+de inițiator, sponsor sau creditor inițial, trebuie să stabilească
+proceduri formale adecvate pentru portofoliul de tranzacționare
+și afara portofoliului de tranzacționare, care să fie
+corespunzătoare cu profilul de risc al investițiilor lor în poziții
+securitizate, în scopul monitorizării pe bază continuă și în timp
+util a informațiilor privind performanța expunerilor-suport
+aferente pozițiilor lor din securitizare.
+(2) În sensul alin. (1), informațiile includ, după caz, tipul
+expunerii, procentajul împrumuturilor cu întârzieri la plată de
+peste 30, 60 și 90 de zile, ratele de nerambursare, ratele de
+rambursare anticipată, împrumuturile cu garanția aflată în
+executare, tipul garanției reale și rata de ocupare a acesteia și
+distribuția frecvenței scorurilor de credit sau a altei cuantificări a
+bonității debitorilor de-a lungul expunerilor-suport, gradul de
+diversificare la nivel de industrie și de arie geografică, distribuția
+frecvenței raportului dintre împrumut și valoarea garanției reale
+(loan to value), cu intervale ale căror mărimi să permită
+efectuarea cu ușurință a unei analize de senzitivitate adecvate.
+(3) În cazul în care expunerile-suport sunt ele însele poziții
+din securitizare, instituțiile de credit trebuie să dispună de
+informațiile menționate la alin. (2) nu numai în ceea ce privește
+tranșele-suport din securitizare, cum ar fi numele și calitatea
+creditului emitentului, ci și în ceea ce privește caracteristicile și
+performanța portofoliilor-suport aferente acestor tranșe din
+securitizare.
+(4) Instituțiile de credit trebuie să dispună de o înțelegere în
+profunzime a tuturor caracteristicilor structurale ale unei
+tranzacții de securitizare care ar putea influența în mod
+semnificativ performanța expunerilor provenind din această
+tranzacție, cum ar fi ordinea distribuirii fluxurilor de numerar
+către investitori stabilită prin contract (contractual waterfall),
+precum și factorii de declanșare aferenți, îmbunătățirea calității
+creditului, creșterea lichidității, factorii de declanșare legați de
+valoarea de piață și definiția stării de nerambursare specifică
+tranzacției.
+(5) În cazul în care instituția de credit nu îndeplinește
+cerințele legate de orice aspect important prevăzut la art. 17,
+prezentul articol și art. 20, ca urmare a neglijenței sau a
+omisiunii, Banca Națională a României impune o pondere de
+risc suplimentară proporțională, de cel puțin 250% din ponderea
+de risc (limitată la 1.250%) care s-ar aplica, în lipsa prevederilor
+prezentului alineat, pozițiilor corespunzătoare din securitizare,
+în conformitate cu prevederile cap. VI, pondere care crește
+progresiv cu fiecare încălcare ulterioară a prevederilor privind
+obligația de diligență.
+(6) În sensul alin. (5), Banca Națională a României ia în
+considerare exceptările pentru anumite securitizări, prevăzute
+la art. 16, prin reducerea ponderii de risc pe care de altfel ar
+impune-o prin prezentul articol cu privire la o securitizare căreia
+i se aplică prevederile art. 16.
+Art. 19. — (1) În conformitate cu cerințele prevăzute la art. 6
+din Regulamentul BNR—CNVM nr. 23/28/2006 privind criteriile
+
+tehnice referitoare la organizarea și tratamentul riscurilor,
+precum și criteriile tehnice utilizate de autoritățile competente
+pentru verificarea și evaluarea acestora, cu modificările și
+completările ulterioare, instituțiile de credit, în calitate de sponsor
+și inițiator, trebuie să aplice expunerilor care urmează să fie
+securitizate aceleași criterii solide și bine definite de acordare a
+creditelor ca în cazul expunerilor care urmează să fie deținute în
+portofoliul acestora. În acest scop, instituțiile de credit, în calitate
+de inițiator și sponsor, trebuie să aplice aceleași procese pentru
+aprobarea și, dacă este cazul, pentru modificarea termenilor
+contractuali aferenți creditelor, precum și pentru înlocuirea
+(reînnoirea și refinanțarea) expunerilor.
+(2) În sensul alin. (1), instituțiile de credit trebuie să aplice
+aceleași standarde de analiză și în cazul participațiilor sau
+subscrierilor de titluri provenind din securitizare, achiziționate de
+la terțe părți, indiferent dacă aceste participații sau subscrieri
+urmează să fie deținute în portofoliul lor de tranzacționare sau
+în afara acestuia.
+(3) În cazul în care nu se respectă cerințele prevăzute la
+alin. (1), o instituție de credit inițiatoare nu poate aplica
+prevederile art. 4 alin. (1), iar respectiva instituție de credit nu
+poate exclude expunerile securitizate de la calcularea cerințelor
+de capital în conformitate cu prezentul regulament.
+Art. 20. — (1) Instituțiile de credit, în calitate de sponsor și
+inițiator, trebuie să facă public investitorilor nivelul
+angajamentului lor, prevăzut la art. 14, de a menține un interes
+economic net în securitizare.
+(2) Instituțiile de credit, în calitate de sponsor și inițiator,
+trebuie să se asigure că investitorii potențiali au acces imediat
+la toate datele relevante privind calitatea creditului și
+performanța fiecărei expuneri-suport, fluxurile de numerar și
+garanția reală aferente unei expuneri din securitizare, precum
+și la alte informații de acest tip necesare pentru efectuarea unor
+simulări de criză cuprinzătoare și bine documentate cu privire la
+fluxurile de numerar și valorile garanției reale aferente
+expunerilor-suport. În acest scop, datele relevante trebuie să fie
+stabilite la data inițierii operațiunii de securitizare și, dacă este
+cazul, ulterior, din considerente ce țin de natura operațiunii de
+securitizare.
+Art. 21. — (1) Art. 14—20 se aplică securitizărilor noi, inițiate
+începând cu 1 ianuarie 2011.
+(2) Art. 14—20 se aplică, după 31 decembrie 2014,
+securitizărilor existente în cazul în care, după această dată, se
+adaugă sau se substituie noi expuneri-suport.
+(3) Banca Națională a României poate decide să suspende
+temporar cerințele menționate la art. 14 și 15 în perioadele în
+care piața se confruntă cu o criză generală de lichiditate.
+CAPITOLUL IV
+Cerințe minime pentru recunoașterea transferului
+semnificativ al riscului de credit și pentru calcularea
+valorilor ponderate la risc ale expunerilor și a valorilor
+pierderilor așteptate aferente expunerilor securitizate
+SECȚIUNEA 1
+Cerințe minime pentru recunoașterea transferului semnificativ
+al riscului de credit în cadrul unei securitizări tradiționale
+
+Art. 22. — (1) Instituția de credit inițiatoare a unei securitizări
+tradiționale poate exclude expunerile securitizate de la
+calcularea valorilor ponderate la risc ale expunerilor și a valorilor
+pierderilor așteptate dacă este îndeplinită oricare dintre
+următoarele condiții:
+a) se consideră că un nivel semnificativ al riscului de credit
+asociat expunerilor securitizate a fost transferat către terțe părți;
+b) instituția de credit inițiatoare aplică o pondere de risc de
+1.250% tuturor pozițiilor din securitizare pe care le deține în
+această securitizare sau deduce aceste poziții din securitizare
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+din fondurile proprii, în conformitate cu prevederile art. 22
+alin. (1) lit. g) din Regulamentul BNR—CNVM nr. 18/23/2006,
+cu modificările și completările ulterioare.
+(2) Cu excepția cazurilor specifice în care Banca Națională a
+României decide că eventuala reducere a valorilor ponderate la
+risc ale expunerilor pe care instituția de credit inițiatoare ar
+realiza-o prin această securitizare nu este justificată de un
+transfer corespunzător al riscului de credit către terțe părți, se
+consideră că un nivel semnificativ al riscului de credit a fost
+transferat în următoarele situații:
+a) valorile ponderate la risc ale expunerilor aferente pozițiilormezanin din securitizare deținute de instituția de credit
+inițiatoare în cadrul acestei securitizări nu depășesc 50% din
+valorile ponderate la risc ale expunerilor aferente tuturor
+pozițiilor-mezanin din securitizare existente în această
+securitizare;
+b) în cazul în care într-o anumită securitizare nu există pozițiimezanin din securitizare și instituția de credit inițiatoare
+demonstrează că valoarea expunerilor aferente pozițiilor din
+securitizare care ar fi supuse unei deduceri din fondurile proprii
+sau unei ponderi de risc de 1.250% depășește cu o marjă
+substanțială estimarea întemeiată a pierderii așteptate aferente
+expunerilor securitizate, instituția de credit inițiatoare nu deține
+mai mult de 20% din valorile expunerilor aferente pozițiilor din
+securitizare care ar face obiectul unui astfel de tratament.
+(3) Pentru scopurile alin. (2), poziții-mezanin din securitizare
+înseamnă poziții din securitizare cărora li se aplică o pondere
+de risc mai mică de 1.250% și care sunt de rang inferior în raport
+cu poziția de cel mai înalt rang în această securitizare și de rang
+inferior în raport cu orice poziție din securitizare în cadrul acestei
+securitizări căreia:
+a) în cazul unei poziții din securitizare care face obiectul
+prevederilor art. 42—68, i se atribuie nivelul 1 pe scala de
+evaluare a calității creditului; sau
+b) în cazul unei poziții din securitizare care face obiectul
+prevederilor art. 69—103, i se atribuie nivelul 1 sau 2 pe scala
+de evaluare a calității creditului.
+(4) Ca alternativă la prevederile alin. (2) și (3), se poate
+considera că un nivel semnificativ al riscului de credit a fost
+transferat dacă instituția de credit demonstrează Băncii
+Naționale a României că dispune de politici și metodologii care
+să asigure că eventuala reducere a cerințelor de capital pe care
+instituția de credit inițiatoare o realizează prin securitizare este
+justificată de un transfer corespunzător al riscului de credit către
+terțe părți.
+(5) Pentru scopurile alin. (4), instituția de credit inițiatoare
+trebuie să demonstreze că acest transfer al riscului de credit
+către terțe părți este de asemenea recunoscut în scopurile
+administrării interne a riscului instituției de credit și în alocarea
+capitalului intern al acesteia.
+(6) Pe lângă cerințele menționate la alin. (1)—(5),
+următoarele condiții trebuie îndeplinite în totalitate:
+a) documentația aferentă securitizării reflectă substanța
+economică a tranzacției;
+b) expunerile securitizate devin inaccesibile instituției de
+credit inițiatoare și creditorilor săi, inclusiv în caz de faliment sau
+de reorganizare judiciară. Îndeplinirea acestei condiții trebuie să
+fie confirmată printr-o opinie juridică de specialitate;
+c) titlurile emise nu reprezintă obligații de plată ale instituției
+de credit inițiatoare;
+d) transferul este efectuat către o entitate special constituită
+în scopul securitizării;
+e) instituția de credit inițiatoare nu păstrează controlul, efectiv
+sau indirect, asupra expunerilor transferate. Se consideră că un
+inițiator a păstrat controlul efectiv asupra expunerilor transferate
+dacă are dreptul de a răscumpăra de la destinatarul transferului
+expunerile transferate anterior în vederea realizării profiturilor
+
+7
+
+aferente sau dacă are obligația de a-și asuma din nou riscul
+transferat. Menținerea de către instituția de credit inițiatoare a
+drepturilor sau obligațiilor aferente administrării expunerilor
+transferate nu reprezintă în sine control indirect al expunerilor;
+f) în cazul existenței unei opțiuni de solicitare a stingerii
+securitizării (clean-up call option), următoarele condiții sunt
+îndeplinite:
+— dreptul de exercitare a opțiunii este la discreția instituției
+de credit inițiatoare;
+— opțiunea poate fi exercitată numai dacă cel mult 10% din
+valoarea inițială a expunerilor securitizate rămâne
+nerambursată; și
+— opțiunea nu este structurată astfel încât să evite alocarea
+pierderilor asupra pozițiilor de îmbunătățire a calității creditului
+sau asupra altor poziții deținute de investitori și nici nu este
+structurată într-un alt mod care să furnizeze o îmbunătățire a
+calității creditului; și
+g) documentația aferentă securitizării nu conține clauze care:
+— să impună, în alte cazuri decât clauza amortizării
+anticipate, ca pozițiile din securitizare să fie ameliorate de către
+instituția de credit inițiatoare, prin metode care includ, dar fără a
+se limita la acestea, modificarea expunerilor-suport sau
+creșterea randamentului de plătit către investitori pentru a
+contracara efectul deteriorării calității creditului aferente
+expunerilor securitizate; sau
+— să conducă la creșterea randamentului de plătit către
+deținătorii de poziții din securitizare pentru a contracara efectul
+deteriorării calității creditului aferente portofoliului de expunerisuport.
+SECȚIUNEA a 2-a
+Cerințe minime pentru recunoașterea transferului semnificativ
+al riscului de credit în cadrul unei securitizări sintetice
+
+Art. 23. — (1) Instituția de credit inițiatoare a unei securitizări
+sintetice poate calcula valorile ponderate la risc ale expunerilor
+și, dacă este cazul, valorile pierderilor așteptate aferente
+expunerilor securitizate, în conformitate cu prevederile art. 24 și
+25, dacă este îndeplinită oricare dintre următoarele condiții:
+a) un nivel semnificativ al riscului de credit a fost transferat
+către terțe părți prin intermediul unei protecții finanțate sau
+nefinanțate a creditului;
+b) instituția de credit inițiatoare aplică o pondere de risc de
+1.250% tuturor pozițiilor din securitizare pe care le deține în
+securitizare sau deduce aceste poziții din securitizare din
+fondurile proprii, în conformitate cu prevederile art. 22 alin. (1)
+lit. g) din Regulamentul BNR—CNVM nr. 18/23/2006, cu
+modificările și completările ulterioare.
+(2) Cu excepția situațiilor în care Banca Națională a
+României decide de la caz la caz că eventuala reducere a
+valorilor ponderate la risc ale expunerilor pe care instituția de
+credit inițiatoare ar realiza-o prin această securitizare nu este
+justificată de un transfer corespunzător al riscului de credit către
+terțe părți, se consideră că un nivel semnificativ al riscului de
+credit a fost transferat dacă este îndeplinită oricare dintre
+următoarele condiții:
+a) valorile ponderate la risc ale expunerilor aferente pozițiilormezanin din securitizare deținute de instituția de credit
+inițiatoare în cadrul acestei securitizări nu depășesc 50% din
+valorile ponderate la risc ale expunerilor aferente tuturor
+pozițiilor-mezanin din securitizare existente în această
+securitizare;
+b) în cazul în care într-o anumită securitizare nu există pozițiimezanin din securitizare și instituția de credit inițiatoare
+demonstrează că valoarea expunerilor aferente pozițiilor din
+securitizare care ar fi supuse unei deduceri din fondurile proprii
+sau unei ponderi de risc de 1.250% depășește cu o marjă
+substanțială estimarea întemeiată a pierderii așteptate aferente
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+
+expunerilor securitizate, instituția de credit inițiatoare nu deține
+mai mult de 20% din valorile expunerilor aferente pozițiilor din
+securitizare care ar face obiectul unui astfel de tratament.
+(3) Pentru scopurile alin. (2), poziții-mezanin din securitizare
+înseamnă poziții din securitizare cărora li se aplică o pondere
+de risc mai mică de 1.250% și care sunt de rang inferior în raport
+cu poziția de cel mai înalt rang în această securitizare și de rang
+inferior în raport cu orice poziție din securitizare în cadrul acestei
+securitizări căreia:
+a) în cazul unei poziții din securitizare care face obiectul
+prevederilor art. 42—68, i se atribuie nivelul 1 pe scala de
+evaluare a calității creditului potrivit cap. V; sau
+b) în cazul unei poziții din securitizare care face obiectul
+prevederilor art. 69—103, i se atribuie nivelul 1 sau 2 pe scala
+de evaluare a calității creditului potrivit cap. V.
+(4) Ca alternativă la prevederile alin. (2) și (3), se poate
+considera că un nivel semnificativ al riscului de credit a fost
+transferat dacă instituția de credit demonstrează Băncii
+Naționale a României că dispune de politici și metodologii care
+să asigure că eventuala reducere a cerințelor de capital pe care
+instituția de credit inițiatoare o realizează prin securitizare este
+justificată de un transfer corespunzător al riscului de credit către
+terțe părți.
+(5) Pentru scopurile alin. (4), instituția de credit inițiatoare
+trebuie să demonstreze că acest transfer al riscului de credit
+către terțe părți este recunoscut și în scopurile administrării
+interne a riscului instituției de credit, precum și în alocarea
+capitalului intern.
+(6) În plus, transferul trebuie să îndeplinească următoarele
+condiții:
+a) documentația aferentă securitizării reflectă substanța
+economică a tranzacției;
+b) protecția creditului prin intermediul căreia se realizează
+transferul riscului de credit îndeplinește cerințele de eligibilitate
+și celelalte cerințe prevăzute în Regulamentul BNR—CNVM
+nr. 19/24/2006, cu modificările și completările ulterioare, pentru
+recunoașterea unei astfel de protecții a creditului. Pentru scopul
+prezentei litere, entitățile special constituite în scopul securitizării
+nu sunt recunoscute în calitate de furnizori eligibili de protecție
+nefinanțată a creditului;
+c) instrumentele utilizate pentru transferul riscului de credit
+nu conțin clauze sau condiții care:
+— să impună praguri de semnificație supradimensionate,
+sub al căror nivel se consideră că producerea unui eveniment de
+credit nu declanșează protecția creditului;
+— să permită rezilierea protecției ca urmare a deteriorării
+calității creditului expunerilor-suport;
+— să impună ca, în alte cazuri decât clauzele de amortizarea
+anticipată, pozițiile din securitizare să fie ameliorate de către
+instituția de credit inițiatoare;
+— să majoreze costurile instituției de credit legate de
+protecția creditului sau randamentul de plătit către deținătorii de
+poziții din securitizare, pentru a contracara efectul deteriorării
+calității creditului aferente portofoliului de expuneri-suport; și
+d) caracterul executoriu al protecției creditului în toate
+jurisdicțiile relevante a fost confirmat printr-o opinie juridică de
+specialitate.
+SECȚIUNEA a 3-a
+Calcularea de către instituția de credit inițiatoare a valorilor
+ponderate la risc ale expunerilor aferente expunerilor
+securitizate în cadrul unei securitizări sintetice
+
+Art. 24. — (1) În vederea calculării valorilor ponderate la risc
+ale expunerilor securitizate, în situația în care sunt îndeplinite
+condițiile prevăzute la art. 23, instituția de credit inițiatoare a unei
+securitizări sintetice utilizează, potrivit prevederilor art. 26 și 27,
+metodologiile relevante de calcul prevăzute în cap. VI, și nu pe
+
+cele prevăzute în Regulamentul BNR—CNVM nr. 14/19/2006,
+cu modificările și completările ulterioare, și în Regulamentul
+BNR—CNVM nr. 15/20/2006, cu modificările și completările
+ulterioare.
+(2) În cazul instituțiilor de credit care calculează valorile
+ponderate la risc ale expunerilor și valorile pierderilor așteptate
+potrivit prevederilor Regulamentului BNR—CNVM nr. 15/20/2006,
+cu modificările și completările ulterioare, valorile pierderilor
+așteptate referitoare la astfel de expuneri sunt zero.
+Art. 25. — (1) Dispozițiile art. 24 se referă la întregul
+portofoliu de expuneri care fac obiectul securitizării.
+(2) Fără a aduce atingere prevederilor art. 26 și 27, instituția
+de credit inițiatoare trebuie să calculeze valorile ponderate la
+risc ale expunerilor aferente tuturor tranșelor din securitizare în
+conformitate cu prevederile cap. VI, inclusiv cu cele referitoare
+la recunoașterea diminuării riscului de credit (de exemplu, în
+situația în care o tranșă este transferată unei terțe părți prin
+intermediul unei protecții nefinanțate a creditului, la calcularea
+valorilor ponderate la risc ale expunerilor instituției de credit
+inițiatoare, pentru tranșa respectivă se aplică ponderea de risc
+aferentă terței părți).
+3.1. Tratamentul decalajului de scadență în cadrul securitizării
+sintetice
+
+Art. 26. — (1) În vederea calculării valorilor ponderate la risc
+ale expunerilor în conformitate cu prevederile art. 24, orice
+decalaj de scadență între scadența protecției creditului prin
+intermediul căreia se realizează segmentarea riscului de credit
+pe tranșe și scadența expunerilor securitizate este tratat în
+conformitate cu prevederile alin. (2) și (3) ale prezentului articol
+și cu cele ale art. 27.
+(2) Scadența protecției creditului se determină în
+conformitate cu prevederile Regulamentului BNR—CNVM
+nr. 19/24/2006, cu modificările și completările ulterioare.
+(3) Scadența expunerilor securitizate este cea mai mare
+scadență a oricăreia dintre expunerile respective, dar nu mai
+mare de 5 ani.
+Art. 27. — (1) O instituție de credit inițiatoare trebuie să
+ignore orice decalaj de scadență la calcularea valorilor
+ponderate la risc ale expunerilor aferente tranșelor cărora le-a
+fost atribuită o pondere de risc de 1.250% în conformitate cu
+prevederile cap. VI.
+(2) Pentru toate celelalte tranșe, tratamentul decalajului de
+scadență prevăzut în Regulamentul BNR—CNVM nr. 19/24/2006,
+cu modificările și completările ulterioare, se aplică potrivit
+următoarei formule:
+
+,
+unde:
+— RW* reprezintă valorile ponderate la risc ale expunerilor în
+vederea calculării cerințelor de capital potrivit prevederilor art. 2
+lit. a) din Regulamentul BNR—CNVM nr. 13/18/2006, cu
+modificările și completările ulterioare;
+— RW(Ass) reprezintă valorile ponderate la risc ale
+expunerilor care s-ar fi calculat în mod proporțional dacă
+expunerile nu ar fi fost securitizate;
+— RW(SP) reprezintă valorile ponderate la risc ale
+expunerilor calculate potrivit prevederilor art. 24, dacă nu ar fi
+existat niciun decalaj de scadență;
+— T reprezintă scadența expunerilor-suport, exprimată în ani;
+— t reprezintă scadența protecției creditului, exprimată în
+ani; și
+— t* este 0,25.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+CAPITOLUL V
+Ratinguri externe
+SECȚIUNEA 1
+Cerințe aplicabile ratingurilor furnizate de instituțiile externe
+de evaluare a creditului eligibile (ECAI)
+
+Art. 28. — Pentru a fi utilizat în scopul calculării valorilor
+ponderate la risc ale expunerilor, potrivit prevederilor cap. VI, un
+rating furnizat de o instituție externă de evaluare a creditului
+eligibilă trebuie să îndeplinească următoarele condiții:
+a) să nu existe nicio nepotrivire între tipurile de plăți luate în
+considerare în cadrul procesului de evaluare a creditului și
+tipurile de plăți la care instituția de credit este îndreptățită potrivit
+contractului care dă naștere respectivei poziții din securitizare;
+și
+b) ratingurile trebuie să fie în mod public disponibile
+participanților de pe piață. Se consideră că ratingurile sunt în
+mod public disponibile participanților de pe piață numai dacă au
+fost publicate într-un cadru accesibil publicului și dacă au fost
+incluse în matricea de tranziție (de migrare a ratingurilor dintr-o
+clasă în alta) a instituției externe de evaluare a creditului.
+Ratingurile care sunt disponibile numai unui număr limitat de
+entități nu sunt considerate ca fiind disponibile în mod public.
+SECȚIUNEA a 2-a
+Utilizarea ratingurilor
+
+Art. 29. — O instituție de credit poate nominaliza una sau
+mai multe instituții externe de evaluare a creditului eligibile ale
+căror ratinguri să fie utilizate la calcularea valorilor ponderate la
+risc ale expunerilor potrivit prevederilor art. 3—13 (instituție
+externă de evaluare a creditului nominalizată).
+Art. 30. — Fără a aduce atingere prevederilor art. 32—34, o
+instituție de credit trebuie să utilizeze în mod consecvent
+ratingurile furnizate de instituțiile externe de evaluare a creditului
+nominalizate pentru pozițiile sale din securitizare.
+Art. 31. — Fără a aduce atingere prevederilor art. 32 și 33, o
+instituție de credit nu poate utiliza ratingurile furnizate de o
+instituție externă de evaluare a creditului pentru pozițiile sale în
+unele tranșe ale unei structuri de securitizare și ratingurile
+furnizate de o altă instituție externă de evaluare a creditului
+pentru pozițiile sale în alte tranșe din cadrul aceleiași structuri,
+indiferent dacă acestea din urmă beneficiază sau nu de un rating
+furnizat de prima instituție externă de evaluare a creditului.
+Art. 32. — În cazul în care o poziție din securitizare dispune
+de două ratinguri furnizate de instituții externe de evaluare a
+creditului nominalizate, instituția de credit utilizează ratingul mai
+puțin favorabil.
+Art. 33. — (1) În cazul în care o poziție din securitizare
+dispune de mai mult de două ratinguri furnizate de instituții
+externe de evaluare a creditului nominalizate, instituția de credit
+utilizează cele mai favorabile două ratinguri.
+(2) În cazul în care cele două ratinguri prevăzute la alin. (1)
+sunt diferite, instituția de credit utilizează ratingul mai puțin
+favorabil dintre cele două.
+Art. 34. — (1) În situația în care o protecție a creditului
+eligibilă potrivit prevederilor Regulamentului BNR—CNVM
+nr. 19/24/2006, cu modificările și completările ulterioare, este
+furnizată în mod direct entității special constituite în scopul
+securitizării și acea protecție este luată în considerare în
+procesul de evaluare a creditului aferent unei poziții din
+securitizare, efectuat de către o instituție externă de evaluare a
+creditului nominalizată, poate fi utilizată ponderea de risc
+asociată acelui rating.
+(2) Dacă protecția furnizată în sensul alin. (1) nu este eligibilă
+conform prevederilor Regulamentului BNR—CNVM nr. 19/24/2006,
+
+9
+
+cu modificările și completările ulterioare, ratingul nu poate fi
+recunoscut.
+(3) În situația în care protecția creditului nu este furnizată
+entității special constituite în scopul securitizării, ci în mod direct
+unei poziții din securitizare, ratingul nu poate fi recunoscut.
+(4) Ratingurile furnizate de instituțiile externe de evaluare a
+creditului cu privire la instrumentele de finanțare structurată vor
+putea fi folosite numai dacă acestea fac disponibilă public
+explicarea modului în care performanța portofoliului de active
+afectează propriile ratinguri pe care le furnizează.
+SECȚIUNEA a 3-a
+Punerea în corespondență a ratingurilor cu nivelurile scalei
+de evaluare a calității creditului (Mapping)
+
+Art. 35. — (1) Banca Națională a României determină
+corespondența dintre nivelurile scalei de evaluare a calității
+creditului din tabelele prevăzute în cap. VI și ratingurile furnizate
+de instituții externe de evaluare a creditului eligibile.
+(2) Pentru scopurile alin. (1), Banca Națională a României
+diferențiază între gradele de risc relative exprimate de fiecare
+rating.
+(3) Pentru scopurile alin. (1), Banca Națională a României ia
+în considerare factori cantitativi (cum ar fi ratele de
+nerambursare și/sau ratele de pierdere) și factori calitativi (cum
+ar fi gama de tranzacții evaluate de către instituția externă de
+evaluare a creditului și semnificația ratingului).
+Art. 36. — (1) În cadrul procesului de determinare a
+corespondenței prevăzute la art. 35, Banca Națională a
+României urmărește să se asigure că pozițiile din securitizare
+cărora le este atribuită aceeași pondere de risc pe baza
+ratingurilor furnizate de instituțiile externe de evaluare a
+creditului eligibile, prezintă un grad de risc de credit echivalent.
+(2) În sensul alin. (1), Banca Națională a României poate
+modifica în mod corespunzător determinarea corespondenței
+dintre nivelurile scalei de evaluare a calității creditului și ratinguri.
+CAPITOLUL VI
+Metodologia de calcul
+SECȚIUNEA 1
+Calcularea valorilor ponderate la risc ale expunerilor
+
+Art. 37. — Pentru scopurile art. 5—8, valoarea ponderată la
+risc a expunerii aferente unei poziții din securitizare se
+calculează prin aplicarea ponderii de risc relevante la valoarea
+expunerii aferente poziției, așa cum este precizat în cadrul
+acestui capitol.
+Art. 38. — Fără a aduce atingere prevederilor art. 39:
+a) în cazul în care o instituție de credit calculează valorile
+ponderate la risc ale expunerilor conform prevederilor art. 42—
+68, valoarea expunerii aferente unei poziții din securitizare din
+bilanț este egală cu valoarea sa bilanțieră;
+b) în cazul în care o instituție de credit calculează valorile
+ponderate la risc ale expunerilor conform prevederilor art. 69—
+103, valoarea expunerii aferente unei poziții din securitizare din
+bilanț este egală cu valoarea sa înainte de deducerea ajustărilor
+de valoare; și
+c) valoarea expunerii aferente unei poziții din securitizare din
+afara bilanțului este egală cu produsul dintre valoarea sa
+nominală și un factor de conversie, așa cum este prevăzut în
+cadrul prezentului regulament. Dacă nu este specificat altfel,
+factorul de conversie este 100%.
+Art. 39. — Valoarea expunerii aferente unei poziții din
+securitizare care provine dintr-un instrument financiar derivat
+prevăzut în anexa la Regulamentul BNR—CNVM nr. 20/25/2006
+privind tratamentul riscului de credit al contrapartidei în cazul
+instrumentelor financiare derivate, al tranzacțiilor de
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+
+răscumpărare, al operațiunilor de dare/luare de titluri/mărfuri cu
+împrumut, al tranzacțiilor cu termen lung de decontare și al
+tranzacțiilor de creditare în marjă, cu modificările și completările
+ulterioare, se determină în conformitate cu prevederile
+regulamentului respectiv.
+Art. 40. — În cazul în care o poziție din securitizare face
+obiectul unei protecții finanțate a creditului, valoarea expunerii
+acelei poziții poate fi modificată în conformitate cu și potrivit
+cerințelor din Regulamentul BNR—CNVM nr. 19/24/2006, cu
+modificările și completările ulterioare, completate cu cele ale
+prezentului regulament.
+Art. 41. — (1) În cazul în care o instituție de credit deține
+două sau mai multe poziții din securitizare care se suprapun,
+aceasta trebuie ca, pentru partea care se suprapune, să includă
+în calcularea valorilor ponderate la risc ale expunerilor numai
+poziția sau partea din poziție care produce cea mai mare valoare
+ponderată la risc a expunerii.
+(2) Pentru scopurile acestui articol, suprapunere înseamnă
+că pozițiile reprezintă, total sau parțial, o expunere față de
+același risc, astfel încât partea care se suprapune este
+considerată o singură expunere.
+SECȚIUNEA a 2-a
+Calcularea valorilor ponderate la risc ale expunerilor în cazul
+utilizării abordării standard
+
+Art. 42. — Fără a aduce atingere prevederilor art. 44,
+valoarea ponderată la risc a expunerii aferente unei poziții din
+securitizare care beneficiază de rating se calculează prin
+aplicarea la valoarea expunerii a ponderii de risc asociate
+nivelului scalei de evaluare a calității creditului cu care a fost pus
+în corespondență ratingul de către Banca Națională a României,
+în conformitate cu prevederile art. 10, așa cum este prevăzut în
+tabelele nr. 1 și 2.
+Tabelul nr. 1
+Poziții, altele decât cele care beneficiază de rating pe termen
+scurt
+Nivelul scalei de evaluare
+a calității creditului
+
+1
+
+Pondere de risc
+
+20%
+
+2
+
+3
+
+4
+
+Cel mult 5
+
+50% 100% 350%
+
+1.250%
+
+Tabelul nr. 2
+Poziții care beneficiază de rating pe termen scurt
+Nivelul scalei de evaluare
+a calității creditului
+
+1
+
+Pondere de risc
+
+20%
+
+2
+
+3
+
+50% 100%
+
+Toate celelalte
+ratinguri
+
+1.250%
+
+Art. 43. — Fără a aduce atingere prevederilor art. 46—50,
+valoarea ponderată la risc a expunerii aferente unei poziții din
+securitizare care nu beneficiază de rating se calculează prin
+aplicarea unei ponderi de risc de 1.250%.
+2.1. Instituțiile de credit inițiator și sponsor
+
+Art. 44. — În cazul unei instituții de credit inițiatoare sau care
+are calitatea de sponsor, valorile ponderate la risc ale
+expunerilor aferente pozițiilor sale din securitizare pot fi limitate
+la valorile ponderate la risc ale expunerilor care ar fi fost
+calculate pentru expunerile securitizate dacă acestea nu ar fi
+fost securitizate, condiționat de aplicarea unei eventuale ponderi
+de risc de 150% asupra tuturor elementelor restante și
+elementelor încadrate în categoria ărisc reglementat ridicat” din
+cadrul expunerilor securitizate.
+
+2.2. Tratamentul pozițiilor care nu beneficiază de rating
+
+Art. 45. — Instituțiile de credit care dețin o poziție din
+securitizare care nu beneficiază de rating pot să aplice, pentru
+calcularea valorii ponderate la risc a expunerii aferente poziției
+respective, tratamentul prevăzut la art. 46, cu condiția ca, în
+orice moment, să fie cunoscută componența portofoliului de
+expuneri securitizate.
+Art. 46. — (1) O instituție de credit poate aplica ponderea de
+risc medie ponderată ce ar fi aplicată expunerilor securitizate
+potrivit prevederilor Regulamentului BNR — CNVM nr. 14/19/2006,
+cu modificările și completările ulterioare, de către o instituție de
+credit care ar deține expunerile, multiplicată cu un coeficient de
+concentrare.
+(2) Coeficientul de concentrare prevăzut la alin. (1) este egal
+cu raportul dintre suma valorilor nominale ale tuturor tranșelor
+securitizării și suma valorilor nominale ale tranșelor de rang
+inferior sau de rang egal cu cel al tranșei în care este deținută
+poziția, inclusiv valoarea nominală a respectivei tranșe.
+(3) Ponderea de risc rezultată din aplicarea alin. (1) nu poate
+depăși 1.250% și nu poate fi mai mică decât orice pondere de
+risc aplicabilă unei tranșe de rang superior care beneficiază de
+rating.
+(4) În situația în care instituția de credit nu poate să
+determine ponderile de risc aplicabile expunerilor securitizate
+potrivit prevederilor Regulamentului BNR — CNVM nr. 14/19/2006,
+cu modificările și completările ulterioare, respectivei poziții i se
+aplică o pondere de risc de 1.250%.
+2.3. Tratamentul pozițiilor din securitizare deținute într-o tranșă
+ce suportă a doua pierdere (second loss) sau într-o tranșă mai
+favorabilă din cadrul unui program ABCP
+
+Art. 47. — Fără a aduce atingere posibilității aplicării unui
+tratament mai avantajos în temeiul dispozițiilor referitoare la
+facilitățile de lichiditate prevăzute la art. 49 și 50, o instituție de
+credit poate aplica pozițiilor din securitizare care îndeplinesc
+condițiile prevăzute la art. 48 o pondere de risc reprezentând
+maximum dintre 100% și cea mai mare dintre ponderile de risc
+care ar fi fost aplicate oricăreia dintre expunerile securitizate
+potrivit prevederilor Regulamentului BNR — CNVM nr. 14/19/2006,
+cu modificările și completările ulterioare, de către o instituție de
+credit care ar deține respectivele expuneri.
+Art. 48. — Tratamentul prevăzut la art. 47 poate fi aplicat
+dacă poziția din securitizare:
+a) este încadrată într-o tranșă care din punct de vedere
+economic suportă a doua pierdere (second loss) sau într-o
+tranșă mai favorabilă a securitizării, iar tranșa care suportă
+prima pierdere (first loss) trebuie să îi furnizeze acesteia o
+îmbunătățire semnificativă a calității creditului;
+b) este de o calitate cel puțin echivalentă ratingului aferent
+unei investiții cu risc scăzut (investment grade); și
+c) este deținută de o instituție de credit care nu deține nicio
+poziție în tranșa care suportă prima pierdere (first loss).
+2.4. Tratamentul facilităților de lichiditate care nu beneficiază
+de rating
+
+2.4.1. Facilități de lichiditate eligibile
+Art. 49. — (1) În vederea determinării valorii expunerii
+aferente unei facilități de lichiditate care nu beneficiază de rating,
+asupra valorii nominale a facilității se poate aplica un factor de
+conversie de 50% dacă facilitatea de lichiditate este eligibilă.
+(2) O facilitate de lichiditate care nu beneficiază de rating
+este eligibilă în sensul alin. (1), dacă sunt îndeplinite
+următoarele condiții:
+a) documentația aferentă facilității de lichiditate identifică și
+delimitează în mod clar circumstanțele în care facilitatea de
+lichiditate poate fi trasă;
+b) facilitatea de lichiditate nu poate fi trasă pentru a furniza
+suport de credit prin acoperirea pierderilor deja înregistrate la
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+momentul tragerii (de exemplu, prin furnizarea de lichidități
+pentru expunerile aflate în stare de nerambursare la momentul
+tragerii sau pentru achiziționarea de active la un preț superior
+valorii lor juste);
+c) facilitatea de lichiditate nu poate fi utilizată pentru a furniza
+finanțare permanentă sau periodică pentru securitizare;
+d) rambursarea lichidităților trase în cadrul facilității nu este
+subordonată creanțelor investitorilor, altele decât cele legate de
+instrumentele financiare derivate pe rata dobânzii sau pe valute
+ori de comisioane sau alte astfel de plăți, și nici nu face obiectul
+unor excepții sau amânări;
+e) nu este posibilă recurgerea la facilitatea de lichiditate
+ulterior epuizării tuturor modalităților disponibile de îmbunătățire
+a calității creditului de care respectiva facilitate poate beneficia;
+f) facilitatea de lichiditate trebuie să includă o clauză care să
+conducă la o reducere automată a sumei care mai poate fi
+utilizată, cu valoarea expunerilor care se află în stare de
+nerambursare, în sensul prevăzut în Regulamentul BNR —
+CNVM nr. 15/20/2006, cu modificările și completările ulterioare,
+sau care să conducă, atunci când portofoliul de expuneri
+securitizate este alcătuit din instrumente care beneficiază de
+rating, la revocarea facilității în situația în care calitatea medie a
+portofoliului se situează sub ratingul aferent unei investiții cu risc
+scăzut (investment grade);
+(3) Ponderea de risc care se aplică în cazul unei expuneri
+aferente unei facilități de lichiditate eligibile care nu beneficiază
+de rating este cea mai mare pondere care ar fi aplicată oricăreia
+dintre expunerile securitizate conform Regulamentului BNR —
+CNVM nr. 14/19/2006, cu modificările și completările ulterioare,
+de către o instituție de credit care ar deține respectivele
+expuneri.
+2.4.2. Facilități de furnizare de numerar în avans
+Art. 50. — În vederea determinării valorii expunerii aferente
+unei facilități de lichiditate care nu beneficiază de rating și care
+poate fi revocată necondiționat, asupra valorii nominale a
+respectivei facilități de lichiditate se poate aplica un factor de
+conversie de 0%, dacă sunt îndeplinite condițiile prevăzute la
+art. 49 și dacă rambursarea lichidităților trase în cadrul facilității
+are rang superior în raport cu orice alte creanțe asupra fluxurilor
+de numerar generate de expunerile securitizate.
+2.5. Cerințe de capital suplimentare pentru securitizarea
+expunerilor reînnoibile cu clauză de amortizare anticipată
+
+Art. 51. — În afară de valorile ponderate la risc ale
+expunerilor calculate pentru pozițiile sale din securitizare, o
+instituție de credit inițiatoare trebuie să calculeze o valoare
+ponderată la risc a expunerii în conformitate cu metodologia
+prevăzută la art. 52—65, în situația în care vinde expuneri
+reînnoibile în cadrul unei securitizări care conține o clauză de
+amortizare anticipată.
+Art. 52. — Pentru scopurile art. 51, instituția de credit
+calculează valoarea ponderată la risc a expunerii aferente sumei
+interesului inițiatorului și interesului investitorilor.
+Art. 53. — Pentru structurile de securitizare în care
+expunerile securitizate sunt atât expuneri reînnoibile, cât și
+expuneri care nu sunt reînnoibile, o instituție de credit inițiatoare
+aplică, pentru partea de portofoliu formată din expuneri
+reînnoibile, tratamentul prevăzut la art. 54—64.
+Art. 54. — (1) Pentru scopurile art. 51—64, prin interesul
+inițiatorului se înțelege valoarea expunerii aferente părții
+noționale a portofoliului de sume trase, vândute în cadrul
+securitizării, a cărei proporție în raport cu valoarea portofoliului
+total vândut în cadrul structurii de securitizare determină
+proporția fluxurilor de numerar generate de colectarea
+principalului și a dobânzii, precum și a altor sume asociate care
+nu sunt disponibile pentru efectuarea de plăți către cei care dețin
+poziții din securitizare în cadrul securitizării.
+
+11
+
+(2) Pentru a putea fi calificat drept interes al inițiatorului în
+sensul alin. (1), acesta nu trebuie să fie subordonat interesului
+investitorilor.
+(3) Prin interesul investitorilor se înțelege valoarea expunerii
+aferente părții noționale rămase din portofoliul de sume trase.
+Art. 55. — Expunerea instituției de credit inițiatoare, asociată
+drepturilor sale care decurg din interesul inițiatorului, nu trebuie
+să fie considerată o poziție din securitizare, ci o expunere
+proporțională față de expunerile securitizate, ca și cum acestea
+nu ar fi fost securitizate.
+2.5.1. Excepții de la tratamentul aplicabil în cazul clauzei de
+amortizare anticipată
+Art. 56. — Inițiatorii următoarelor structuri de securitizare
+care conțin o clauză de amortizare anticipată sunt exceptați de
+la cerința de capital suplimentară prevăzută la art. 51:
+a) securitizările expunerilor reînnoibile în cazul cărora
+investitorii rămân expuși în totalitate la toate tragerile viitoare ale
+împrumutaților, astfel încât riscul aferent facilităților-suport nu
+revine la instituția de credit inițiatoare nici chiar după producerea
+unui eveniment care declanșează o amortizare anticipată; și
+b) securitizările în cadrul cărora amortizarea anticipată este
+declanșată numai de producerea unor evenimente care nu sunt
+legate de performanța activelor securitizate sau a instituției de
+credit inițiatoare, cum ar fi modificări semnificative în legislația
+sau în reglementările fiscale.
+2.5.2. Cerința de capital maximă
+Art. 57. — În cazul unei instituții de credit inițiatoare supuse
+cerinței de capital suplimentare prevăzute la art. 51, totalul dintre
+valorile ponderate la risc ale expunerilor aferente pozițiilor sale
+în interesul investitorilor și valorile ponderate la risc ale
+expunerilor calculate conform art. 51 nu trebuie să depășească
+cea mai mare dintre:
+a) valorile ponderate la risc ale expunerilor aferente pozițiilor
+sale în interesul investitorilor; și
+b) valorile ponderate la risc ale expunerilor aferente
+expunerilor securitizate, așa cum ar fi acestea calculate de către
+o instituție de credit care ar deține respectivele expuneri fără a
+le securitiza, pentru o valoare egală cu interesul investitorilor.
+Art. 58. — Deducerea unor eventuale câștiguri nete,
+recunoscute în conturile de rezerve, pentru scopurile art. 8 din
+Regulamentul BNR — CNVM nr. 18/23/2006, cu modificările și
+completările ulterioare, este tratată independent de valoarea
+maximă indicată la art. 57.
+2.5.3. Calcularea valorilor ponderate la risc ale expunerilor
+Art. 59. — Valoarea ponderată la risc a expunerii care trebuie
+calculată în conformitate cu art. 51 este egală cu produsul dintre
+valoarea interesului investitorilor, factorul de conversie
+corespunzător, conform prevederilor de la art. 61—65, și
+ponderea de risc medie ponderată care s-ar fi aplicat expunerilor
+securitizate în cazul în care acestea nu ar fi fost securitizate.
+Art. 60. — O clauză de amortizare anticipată este
+considerată controlată dacă sunt îndeplinite următoarele condiții:
+a) instituția de credit inițiatoare dispune de un plan adecvat
+referitor la capital/lichiditate, pentru a se asigura că are la
+dispoziție capital și lichiditate suficiente, în vederea utilizării în
+cazul producerii unui eveniment care declanșează amortizarea
+anticipată;
+b) pe tot parcursul tranzacției se păstrează o distribuire
+proporțională între interesul inițiatorului și interesul investitorilor,
+în ceea ce privește plățile de dobândă și principal, cheltuielile,
+pierderile și recuperările, pe baza soldurilor de rambursat ale
+creanțelor existente la una sau mai multe date de referință din
+cadrul fiecărei luni;
+c) perioada de rambursare este considerată suficientă pentru
+90% din datoria totală (interesul inițiatorului și interesul
+investitorilor) de rambursat la începutul perioadei de amortizare
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+
+anticipată, care trebuie să fie rambursată sau recunoscută ca
+fiind în stare de nerambursare; și
+d) ritmul rambursărilor nu este mai rapid decât cel produs de
+o rambursare liniară pe parcursul perioadei prevăzute la lit. c).
+Art. 61. — (1) În cazul securitizărilor care conțin o clauză de
+amortizare anticipată a expunerilor de tip retail, care nu sunt
+angajate ferm și pot fi revocate necondiționat fără notificare
+prealabilă, în situația în care amortizarea anticipată este
+declanșată de scăderea nivelului marjei în exces la un nivel
+prestabilit, instituțiile de credit trebuie să compare marja în exces
+medie pe 3 luni cu nivelurile marjei în exces în raport cu care
+trebuie să se producă reținerea marjei în exces (niveluri de
+reținere).
+(2) În cazul în care securitizarea nu prevede obligația de a
+reține marja în exces, nivelul de reținere se consideră a fi cu
+4,5 puncte procentuale mai mare decât nivelul marjei în exces
+la care se declanșează amortizarea anticipată.
+Art. 62. — Factorul de conversie care trebuie aplicat în
+sensul art. 59 este determinat de nivelul marjei în exces medii
+efective pe 3 luni în conformitate cu tabelul nr. 3.
+Tabelul nr. 3
+Securitizări care
+Securitizări care
+conțin o clauză
+conțin o clauză
+controlată de
+necontrolată de
+amortizare anticipată amortizare anticipată
+
+Factor
+de conversie
+
+Factor
+de conversie
+
+Nivel superior nivelului A
+
+0%
+
+0%
+
+Nivelul A
+
+1%
+
+5%
+
+Nivelul B
+
+2%
+
+15%
+
+Nivelul C
+
+10%
+
+50%
+
+Nivelul D
+
+20%
+
+100%
+
+Nivelul E
+
+40%
+
+100%
+
+Marja în exces medie pe 3 luni
+
+unde:
+— Nivelul A reprezintă nivelurile marjei în exces care se
+încadrează între 100% și 133,33% din nivelul de reținere;
+— Nivelul B reprezintă nivelurile marjei în exces care se
+încadrează între 75% și 100% din nivelul de reținere;
+— Nivelul C reprezintă nivelurile marjei în exces care se
+încadrează între 50% și 75% din nivelul de reținere;
+— Nivelul D reprezintă nivelurile marjei în exces care se
+încadrează între 25% și 50% din nivelul de reținere;
+— Nivelul E reprezintă nivelurile marjei în exces care sunt
+inferioare valorii de 25% din nivelul de reținere.
+Art. 63. — În cazul securitizărilor care conțin o clauză de
+amortizare anticipată a expunerilor de tip retail care nu sunt
+angajate ferm și pot fi revocate necondiționat fără notificare
+prealabilă și în situația în care amortizarea anticipată este
+declanșată de o limită cantitativă referitoare la un element, altul
+decât marja în exces medie pe 3 luni, Banca Națională a
+României poate aplica, pentru determinarea factorului de
+conversie corespunzător, un tratament similar celui prevăzut la
+art. 61 și 62.
+Art. 64. — (1) În cazul în care pentru o anumită securitizare
+Banca Națională a României intenționează să aplice un
+tratament în conformitate cu prevederile art. 63, aceasta
+informează în prealabil autoritățile competente relevante din
+toate celelalte state membre.
+(2) Înainte ca aplicarea unui astfel de tratament să devină
+parte a politicii generale a Băncii Naționale a României pentru
+securitizările ce conțin clauze de amortizare anticipată de natura
+
+celei în cauză, Banca Națională a României se consultă cu
+autoritățile competente relevante din toate celelalte state
+membre și ține cont de opiniile exprimate de acestea.
+(3) Opiniile exprimate de autoritățile competente relevante
+din toate celelalte state membre în urma consultărilor prevăzute
+la alin. (2) și tratamentul aplicat sunt făcute publice de către
+Banca Națională a României.
+Art. 65. — (1) Pentru toate celelalte securitizări care cuprind
+o clauză controlată de amortizare anticipată a expunerilor
+reînnoibile se aplică un factor de conversie de 90%.
+(2) Pentru toate celelalte securitizări care cuprind o clauză
+necontrolată de amortizare anticipată a expunerilor reînnoibile,
+se aplică un factor de conversie de 100%.
+2.6. Recunoașterea diminuării riscului de credit pentru pozițiile
+din securitizare
+
+Art. 66. — În cazul în care o poziție din securitizare
+beneficiază de protecție a creditului, calcularea valorilor
+ponderate la risc ale expunerilor poate fi modificată în
+conformitate cu Regulamentul BNR — CNVM nr. 19/24/2006,
+cu modificările și completările ulterioare.
+2.7. Reducerea valorilor ponderate la risc ale expunerilor
+
+Art. 67. — (1) În cazul unei poziții din securitizare căreia îi
+este atribuită o pondere de risc de 1.250%, instituțiile de credit
+pot să deducă valoarea expunerii aferentă poziției respective
+din fondurile proprii, potrivit art. 22 alin. (1) din Regulamentul
+BNR — CNVM nr. 18/23/2006, cu modificările și completările
+ulterioare, în locul includerii respectivei poziții în calculul valorilor
+ponderate la risc ale expunerilor.
+(2) În sensul alin. (1), calcularea valorii expunerii poate lua în
+considerare protecția finanțată a creditului eligibilă, într-o
+modalitate conformă cu prevederile art. 66.
+Art. 68. — În cazul în care o instituție de credit utilizează
+alternativa prevăzută la art. 67 alin. (1), o sumă egală cu de 12,5
+ori suma dedusă conform prevederii menționate trebuie dedusă,
+pentru scopurile art. 44, din valoarea ponderată la risc maximă
+a expunerii, specificată la art. 44, care trebuie calculată de
+instituțiile de credit în cauză.
+SECȚIUNEA a 3-a
+Calcularea valorilor ponderate la risc ale expunerilor
+în cazul utilizării abordării bazate pe modele interne de rating
+3.1. Ierarhia metodelor
+
+Art. 69. — Pentru scopurile prevederilor art. 5—8, valoarea
+ponderată la risc a expunerii aferente unei poziții din securitizare
+se calculează în conformitate cu prevederile art. 70—103.
+Art. 70. — (1) În cazul unei poziții care beneficiază de rating
+sau al unei poziții pentru care se poate utiliza un rating dedus,
+se utilizează, pentru calcularea valorii ponderate la risc a
+expunerii, metoda bazată pe ratinguri prevăzută la art. 77—81.
+(2) În cazul unei poziții care nu beneficiază de rating, se
+utilizează metoda formulei reglementate, prevăzută la art. 82—84,
+cu excepția cazurilor în care, potrivit prevederilor art. 74 și 75,
+este permisă utilizarea abordării bazate pe evaluări interne.
+Art. 71. — O instituție de credit, alta decât o instituție de
+credit inițiatoare sau o instituție de credit sponsor, poate utiliza
+metoda formulei reglementate numai cu aprobarea Băncii
+Naționale a României.
+Art. 72. — În cazul unei instituții de credit inițiatoare sau al
+unei instituții de credit sponsor, care se află în imposibilitatea de
+a calcula KIRB și care nu a obținut aprobarea de a utiliza
+abordarea bazată pe evaluări interne pentru pozițiile sale din
+cadrul programelor ABCP, precum și în cazul altor instituții de
+credit care nu au obținut aprobarea de a utiliza metoda formulei
+reglementate sau, pentru pozițiile din cadrul programelor ABCP,
+abordarea bazată pe evaluări interne, se atribuie o pondere de
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+risc de 1.250% pozițiilor din securitizare care nu beneficiază de
+rating și pentru care nu se poate utiliza un rating dedus.
+3.1.1. Utilizarea ratingurilor deduse
+Art. 73. — O instituție de credit atribuie un rating dedus unei
+poziții care nu beneficiază de rating, echivalent ratingului atribuit
+pozițiilor care beneficiază de rating (poziții de referință) care au
+rangul cel mai înalt și care sunt din toate punctele de vedere
+subordonate poziției din securitizare în cauză care nu
+beneficiază de rating, dacă următoarele cerințe operaționale
+minime sunt îndeplinite:
+a) pozițiile de referință trebuie să fie subordonate din toate
+punctele de vedere poziției din securitizare care nu beneficiază
+de rating;
+b) scadența aferentă pozițiilor de referință trebuie să fie cel
+puțin egală cu cea aferentă respectivei poziții care nu
+beneficiază de rating; și
+c) orice rating dedus trebuie să fie actualizat pe bază
+continuă pentru a reflecta orice schimbări intervenite în
+evaluarea de credit a pozițiilor de referință.
+3.1.2. Utilizarea abordării bazate pe evaluări interne în cazul
+pozițiilor din cadrul programelor ABCP
+Art. 74. — (1) O instituție de credit poate să atribuie unei
+poziții care nu beneficiază de rating, din cadrul unui program
+ABCP, un rating derivat, potrivit prevederilor art. 75, dacă obține
+aprobarea prealabilă a Băncii Naționale a României și dacă sunt
+îndeplinite următoarele condiții:
+a) pozițiile din titlurile pe termen scurt emise în cadrul
+programului ABCP trebuie să fie poziții care beneficiază de
+rating;
+b) instituția de credit demonstrează Băncii Naționale a
+României că evaluările sale interne cu privire la calitatea
+creditului poziției respective reflectă metodologia de evaluare,
+disponibilă în mod public, a uneia sau mai multor instituții
+externe de evaluare a creditului eligibile, în ceea ce privește
+atribuirea de ratinguri titlurilor garantate cu expuneri de tipul
+celor securitizate;
+c) instituțiile externe de evaluare a creditului a căror
+metodologie de evaluare este luată în considerare la stabilirea
+evaluărilor interne ale instituțiilor de credit, în sensul lit. b),
+trebuie să includă acele instituții externe de evaluare a creditului
+care au acordat un rating extern titlurilor pe termen scurt emise
+în cadrul programului ABCP. Elementele cantitative (precum
+factorii pentru simulările de criză) utilizate pentru atribuirea unei
+anumite calități a creditului poziției din securitizare trebuie să fie
+cel puțin la fel de conservatoare precum cele utilizate de
+respectivele instituții externe de evaluare a creditului în cadrul
+metodologiilor lor de evaluare;
+d) la elaborarea metodologiei de evaluare internă, instituția
+de credit trebuie să ia în considerare metodologiile de rating
+relevante publicate, pe care instituțiile externe de evaluare a
+creditului eligibile le utilizează pentru atribuirea de ratinguri
+titlurilor pe termen scurt din cadrul programului ABCP. Acest
+proces trebuie să fie formalizat de către instituția de credit și
+actualizat cu regularitate, așa cum este prevăzut la lit. g);
+e) metodologia de evaluare internă a instituției de credit
+trebuie să includă clase de rating. Trebuie să existe o
+corespondență între aceste clase de rating și ratingurile
+furnizate de instituțiile externe de evaluare a creditului eligibile.
+Această corespondență trebuie să fie formalizată în mod explicit;
+f) metodologia de evaluare internă trebuie utilizată de
+instituția de credit în cadrul proceselor interne de administrare a
+riscului, inclusiv în cadrul proceselor decizionale, de informare
+a conducerii și de alocare a capitalului;
+g) auditorii interni sau externi, o instituție externă de evaluare
+a creditului sau funcția de control al riscului de credit ori funcția
+de administrare a riscurilor din cadrul instituției de credit trebuie
+să efectueze examinări periodice ale procesului de evaluare
+
+13
+
+internă și ale calității evaluărilor interne în ceea ce privește
+calitatea creditului aferentă expunerilor instituției de credit în
+cadrul unui program ABCP. În situația în care examinarea este
+efectuată de auditul intern, de funcția de control al riscului de
+credit sau de funcția de administrare a riscurilor din cadrul
+instituției de credit, aceste funcții trebuie să fie independente de
+activitățile legate de derularea programului ABCP, precum și de
+relația cu clienții;
+h) instituția de credit trebuie să monitorizeze performanța
+ratingurilor interne în timp pentru a evalua calitatea metodologiei
+de evaluare internă și ajustează, după caz, metodologia
+respectivă, în situația în care comportamentul expunerilor
+deviază în mod regulat de la cel indicat de ratingurile interne;
+i) programul ABCP trebuie să includă standarde de
+subscriere sub formă de ghiduri în domeniul creditului și
+investițiilor. Pentru a decide asupra achiziției unui activ,
+administratorul programului ABCP trebuie să ia în considerare
+tipul activului ce urmează să fie achiziționat, tipul și valoarea
+monetară a expunerilor ce rezultă din furnizarea facilităților de
+lichiditate și a mijloacelor de îmbunătățire a calității creditului,
+distribuția pierderii și separarea din punct de vedere economic
+și juridic a activelor transferate de entitatea care vinde activele.
+Trebuie efectuată o analiză de credit asupra profilului de risc al
+vânzătorului activului, care include analiza performanței
+financiare trecute și a celei viitoare previzionate, a poziției
+curente pe piață, a competitivității viitoare previzionate, a
+efectului de pârghie (leverage), a fluxurilor de numerar, a ratei
+de acoperire a dobânzilor și a ratingului datoriei. În plus, trebuie
+efectuată o examinare a standardelor de subscriere ale
+vânzătorului, a capacității sale de a administrare a creditelor
+(servicing) și a proceselor sale de colectare a debitelor aferente
+(collection processes);
+j) standardele de subscriere ale programului ABCP trebuie
+să stabilească criterii minime de eligibilitate a activelor care, în
+special:
+— exclud achiziția activelor care înregistrează întârzieri
+semnificative la plată sau se află în stare de nerambursare;
+— limitează concentrările excesive față de același debitor
+sau aceeași zonă geografică; și
+— limitează scadența activelor ce urmează a fi achiziționate;
+k) programul ABCP trebuie să dispună de politici și procese
+de colectare a debitelor care iau în considerare capacitatea
+operațională și calitatea creditului aferentă administratorului de
+credite (servicer). Programul ABCP trebuie să diminueze riscul
+vânzătorului/administratorului de credite prin diferite mijloace,
+cum ar fi stabilirea de praguri de declanșare care să împiedice
+orice confuzie cu privire la originea fondurilor, bazate pe
+calitatea curentă a creditului;
+l) estimarea agregată a pierderii aferente unui portofoliu de
+active ce se intenționează a fi achiziționate în cadrul unui
+program ABCP trebuie să ia în considerare toate sursele de risc
+potențial, cum ar fi riscul de credit și riscul de diminuare a valorii
+creanței. În situația în care îmbunătățirea calității creditului
+furnizată de vânzător este dimensionată doar pe baza pierderilor
+aferente creditului, trebuie să se constituie un fond de rezervă
+distinct pentru riscul de diminuare a valorii creanței, atunci când
+acest risc de diminuare a valorii creanței este semnificativ pentru
+portofoliul de expuneri respectiv. Suplimentar, pentru
+cuantificarea nivelului necesar de îmbunătățire a calității
+creditului, programul trebuie să analizeze seriile de informații
+istorice înregistrate pe parcursul mai multor ani, incluzând
+pierderile, întârzierile la plată, diminuările de valoare a creanțelor
+și viteza de rotație a creanțelor; și
+m) programul ABCP include caracteristici structurale (cum ar
+fi pragurile de închidere — wind down triggers) în cadrul
+achiziționării de expuneri în vederea diminuării riscului de
+deteriorare a calității creditului pentru portofoliul-suport.
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+
+(2) În procesul de aprobare prealabilă prevăzut la alin. (1),
+Banca Națională a României poate acorda o derogare de la
+cerința ca metodologia de evaluare a unei instituții externe de
+evaluare a creditului să fie disponibilă în mod public, în situația
+în care instituția de credit demonstrează că, datorită
+caracteristicilor specifice securitizării (spre exemplu structura
+unică a acesteia), nu există încă o astfel de metodologie de
+evaluare accesibilă în mod public.
+Art. 75. — (1) Instituția de credit alocă poziția care nu
+beneficiază de rating unei clase de rating descrise la art. 74.
+(2) În sensul alin. (1), poziției care nu beneficiază de rating îi
+este atribuit un rating derivat identic ratingurilor corespunzătoare
+acelei clase de rating, așa cum s-a prevăzut la art. 74.
+(3) Pentru scopurile calculării valorilor ponderate la risc ale
+expunerilor, în cazul în care, la inițierea securitizării, ratingul
+derivat este cel puțin la nivelul unui rating aferent unei investiții
+cu risc scăzut (investment grade), respectivul rating este
+considerat identic cu ratingul eligibil furnizat de o instituție
+externă de evaluare a creditului eligibilă.
+3.2. Valoarea maximă ponderată la risc a expunerilor
+
+Art. 76. — În cazul unei instituții de credit inițiatoare, al unei
+instituții de credit sponsor sau al altor instituții de credit care pot
+calcula KIRB, valoarea ponderată la risc a expunerilor calculată
+pentru pozițiile sale din securitizare poate fi limitată la cea care
+ar determina, prin aplicarea prevederilor art. 2 lit. a) din
+Regulamentul BNR—CNVM nr. 13/18/2006, cu modificările și
+completările ulterioare, o cerință de capital egală cu suma dintre
+8% din valoarea ponderată la risc a expunerilor aferente
+activelor securitizate, dacă acestea nu ar fi fost securitizate și ar
+fi fost păstrate în bilanțul instituției de credit, și dintre valoarea
+pierderilor așteptate aferente acestor expuneri.
+
+Tabelul nr. 5
+Poziții care beneficiază de ratinguri pe termen scurt
+Nivelul scalei de evaluare
+a calității creditului
+
+Pondere de risc
+A
+
+B
+
+C
+
+1
+
+7%
+
+12%
+
+20%
+
+2
+
+12%
+
+20%
+
+35%
+
+3
+
+60%
+
+75%
+
+75%
+
+Orice alte ratinguri
+
+1.250%
+
+1.250%
+
+1.250%
+
+Art. 78. — (1) Fără a se aduce atingere prevederilor art. 79,
+ponderile de risc din coloana A a fiecărui tabel prevăzut la art. 77
+se aplică în cazul în care poziția se situează în tranșa de cel mai
+înalt rang.
+(2) Pentru a determina dacă o tranșă este de cel mai înalt
+rang nu este necesar să fie luate în considerare sumele datorate
+în baza contractelor aferente instrumentelor financiare derivate
+pe rata dobânzii sau pe valute, comisioanele datorate sau alte
+plăți similare.
+Art. 79. — (1) Ponderile de risc din coloana C a fiecărui tabel
+prevăzut la art. 77 se aplică în cazul în care poziția se află într-o
+securitizare în care numărul efectiv al expunerilor securitizate
+este mai mic de 6.
+(2) În vederea calculării numărului efectiv al expunerilor
+securitizate, expunerile multiple față de un debitor trebuie să fie
+tratate ca o singură expunere.
+(3) Numărul efectiv al expunerilor se calculează astfel:
+
+3.3. Metoda bazată pe ratinguri
+
+Art. 77. — Potrivit metodei bazate pe ratinguri, valoarea
+ponderată la risc a expunerii aferente unei poziții din securitizare
+care beneficiază de rating se calculează prin aplicarea la
+valoarea expunerii a ponderii de risc asociate cu nivelul scalei
+de evaluare a calității creditului cu care Banca Națională a
+României a pus în corespondență ratingul, în conformitate cu
+prevederile art. 10, așa cum este prevăzut în tabelele nr. 4 și 5,
+multiplicată cu un coeficient de 1,06.
+Tabelul nr. 4
+Poziții, altele decât cele care beneficiază de evaluări de credit
+pe termen scurt
+Nivelul scalei de evaluare
+a calității creditului
+
+Pondere de risc
+A
+
+B
+
+C
+
+1
+
+7%
+
+12%
+
+20%
+
+2
+
+8%
+
+15%
+
+25%
+
+3
+
+10%
+
+18%
+
+35%
+
+4
+
+12%
+
+20%
+
+35%
+
+5
+
+20%
+
+35%
+
+35%
+
+6
+
+35%
+
+50%
+
+50%
+
+7
+
+60%
+
+75%
+
+75%
+
+8
+
+100%
+
+100%
+
+100%
+
+9
+
+250%
+
+250%
+
+250%
+
+10
+
+425%
+
+425%
+
+425%
+
+11
+
+650%
+
+650%
+
+650%
+
+Sub 11
+
+1.250%
+
+1.250%
+
+1.250%
+
+,
+
+unde EADi reprezintă suma valorilor tuturor expunerilor
+înregistrate față de al ăi”-lea debitor.
+(4) În cazul resecuritizării (securitizarea expunerilor din
+securitizare), instituția de credit trebuie să ia în considerare
+numărul expunerilor din securitizare din cadrul portofoliului, și
+nu pe cel al expunerilor-suport din portofoliile inițiale din care
+provin expunerile din securitizare suport.
+(5) În situația în care se cunoaște partea din portofoliu
+corespunzătoare celei mai mari expuneri, C1, instituția de credit
+poate determina N ca fiind 1/C1.
+Art. 80. — Ponderile de risc prevăzute în coloana B a fiecărui
+tabel prevăzut la art. 77 se aplică tuturor celorlalte poziții.
+Art. 81. — Diminuarea riscului de credit aferent pozițiilor din
+securitizare poate fi recunoscută în conformitate cu prevederile
+art. 89—91.
+3.4. Metoda formulei reglementate
+
+Art. 82. — Fără a aduce atingere prevederilor art. 87 și 88,
+ponderea de risc aplicabilă unei poziții din securitizare este,
+potrivit metodei formulei reglementate, maximum dintre 7% și
+ponderea de risc determinată potrivit prevederilor art. 83.
+Art. 83. — (1) Fără a aduce atingere prevederilor art. 87 și 88,
+ponderea de risc aplicabilă valorii expunerii este:
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+
+(2) În sensul alin. (1):
+a) Beta[x; a, b] reprezintă distribuția cumulativă beta cu
+parametrii ăa” și ăb” evaluați în punctul x;
+b) T reprezintă densitatea tranșei în care este deținută
+poziția și se măsoară ca raport între:
+— valoarea nominală a tranșei; și
+— suma valorilor expunerilor care au fost securitizate.
+În scopul calculării indicatorului T, valoarea expunerii unui
+instrument financiar derivat prevăzut în anexa la Regulamentul
+BNR—CNVM nr. 20/25/2006, cu modificările și completările
+ulterioare, atunci când costul de înlocuire curent nu are o
+valoare pozitivă, este egală cu expunerea de credit viitoare
+potențială, calculată în conformitate cu prevederile acelui
+regulament;
+c) Kirbr reprezintă raportul dintre KIRB și suma valorilor
+expunerilor care au fost securitizate. Kirbr se exprimă în formă
+zecimală (de exemplu, Kirbr egal cu 15% din portofoliu este
+exprimat ca 0,15);
+d) L reprezintă nivelul îmbunătățirii calității creditului și se
+măsoară ca raport între valoarea nominală a tuturor tranșelor
+subordonate tranșei în care este deținută poziția și suma
+valorilor expunerilor care au fost securitizate. Venitul viitor
+capitalizat nu este luat în considerare la determinarea
+indicatorului L. Sumele datorate de contrapartide în cazul
+instrumentelor financiare derivate prevăzute în anexa la
+Regulamentul BNR—CNVM nr. 20/25/2006, cu modificările și
+completările ulterioare, care reprezintă tranșe de rang inferior
+față de tranșa respectivă, pot fi luate în considerare la
+determinarea indicatorului L la costul de înlocuire curent
+(excluzând expunerea de credit viitoare potențială);
+e) N reprezintă numărul efectiv de expuneri, determinat în
+conformitate cu prevederile art. 79;
+
+15
+
+f) ELGD, valoarea medie ponderată în funcție de expunere a
+pierderii în caz de nerambursare, se determină astfel:
+
+unde LGDi reprezintă LGD mediu pentru ansamblul expunerilor
+față de al ăi”-lea debitor, iar LGD se determină în conformitate cu
+prevederile Regulamentului BNR—CNVM nr. 15/20/2006, cu
+modificările și completările ulterioare. În cazul resecuritizării, se
+aplică un LGD de 100% pozițiilor securitizate. În situația în care
+riscul de nerambursare și riscul de diminuare a valorii creanței
+aferente creanțelor achiziționate sunt tratate în mod agregat în
+cadrul unei securitizări (de exemplu, este disponibil un singur
+fond de rezervă sau o singură garanție reală suplimentară
+pentru acoperirea pierderilor din oricare dintre surse),
+parametrul de intrare LGDi este egal cu media ponderată a
+pierderii în caz de nerambursare (LGD) pentru riscul de credit și
+a pierderii în caz de nerambursare (LGD) de 75% pentru riscul
+de diminuare a valorii creanței. Ponderile sunt egale cu cele
+aferente cerințelor de capital strict individuale pentru riscul de
+credit și, respectiv, pentru riscul de diminuare a valorii creanței.
+(3) În situația în care valoarea expunerii celei mai mari
+expuneri securitizate, C1, nu depășește 3% din suma valorii
+expunerilor securitizate, instituția de credit poate, în scopul
+aplicării metodei formulei reglementate, să atribuie pierderii în
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+
+caz de nerambursare (LGD) o valoare de 50%, iar pentru N una
+dintre următoarele două valori, potrivit lit. a) sau b):
+
+; sau
+b) N = 1/C1.
+(4) În sensul alin. (3), Cm reprezintă raportul dintre suma
+valorilor expunerilor celor mai mari ăm” expuneri și suma valorilor
+expunerilor aferente tuturor expunerilor securitizate. Valoarea
+parametrului ăm” poate fi stabilită de către instituția de credit.
+(5) În situația în care securitizările includ expuneri de tip
+retail, Banca Națională a României poate permite
+implementarea metodei formulei reglementate cu următoarele
+simplificări: h = 0 și v = 0.
+Art. 84. — Diminuarea riscului de credit aferent pozițiilor din
+securitizare poate fi recunoscută în conformitate cu prevederile
+art. 89, 90 și 92—95.
+3.5. Facilități de lichiditate
+
+Art. 85. — În vederea determinării valorii expunerii unei poziții
+din securitizare care nu beneficiază de rating și care ia forma
+anumitor tipuri de facilități de lichiditate, se aplică prevederile
+art. 86—88.
+3.5.1. Facilități de furnizare de numerar în avans
+Art. 86. — Asupra valorii nominale a unei facilități de
+lichiditate care îndeplinește condițiile prevăzute la art. 50 se
+poate aplica un factor de conversie de 0%.
+3.5.2. Tratament excepțional pentru cazurile în care KIRB nu
+poate fi calculat
+Art. 87. — În situația în care pentru o instituție de credit nu
+este practică calcularea valorilor ponderate la risc ale
+expunerilor pentru expunerile securitizate ca și cum acestea nu
+ar fi fost securitizate, respectiva instituție de credit poate, în mod
+excepțional și numai cu acordul Băncii Naționale a României,
+să aplice, pentru o perioadă limitată, metoda prevăzută la art. 88
+pentru calcularea valorii ponderate la risc a expunerii aferente
+unei poziții din securitizare care nu beneficiază de rating,
+reprezentată sub forma unei facilități de lichiditate care
+îndeplinește condițiile de eligibilitate pentru o ăfacilitate de
+lichiditate eligibilă”, prevăzute la art. 49.
+Art. 88. — (1) Cea mai mare pondere de risc care s-ar aplica,
+potrivit prevederilor Regulamentului BNR — CNVM nr. 14/19/2006,
+cu modificările și completările ulterioare, oricăreia dintre
+expunerile securitizate în cazul în care acestea nu ar fi fost
+securitizate poate fi aplicată poziției din securitizare reprezentate
+de o facilitate de lichiditate.
+(2) Pentru a determina valoarea expunerii poziției se poate
+aplica un factor de conversie de 50% asupra valorii nominale a
+facilității de lichiditate, dacă respectiva facilitate are o scadență
+inițială de cel mult un an.
+(3) În toate celelalte cazuri, în afară de cele de la alin. (2), se
+aplică un factor de conversie de 100%.
+3.6. Recunoașterea diminuării riscului de credit în cazul
+pozițiilor din securitizare
+
+3.6.1. Protecția finanțată a creditului
+Art. 89. — Protecția finanțată a creditului eligibilă este limitată
+la cea care este eligibilă pentru calcularea valorilor ponderate
+la risc ale expunerilor potrivit prevederilor Regulamentului BNR —
+CNVM nr. 14/19/2006, cu modificările și completările ulterioare,
+așa cum este prevăzut în cadrul Regulamentului BNR—CNVM
+nr. 19/24/2006, cu modificările și completările ulterioare, iar
+recunoașterea sa este condiționată de îndeplinirea cerințelor
+minime relevante prevăzute în cadrul acestui din urmă regulament.
+3.6.2. Protecția nefinanțată a creditului
+Art. 90. — Protecția nefinanțată a creditului eligibilă și
+furnizorii eligibili de protecție nefinanțată se limitează la acelea
+care sunt eligibile potrivit prevederilor Regulamentului BNR —
+CNVM nr. 19/24/2006, cu modificările și completările ulterioare,
+
+iar recunoașterea acestora este condiționată de îndeplinirea
+cerințelor minime relevante prevăzute în respectivul regulament.
+3.6.3. Calcularea cerințelor de capital pentru pozițiile din
+securitizare care beneficiază de diminuarea riscului de credit
+Metoda bazată pe ratinguri
+Art. 91. — În situația în care valorile ponderate la risc ale
+expunerilor sunt calculate utilizând metoda bazată pe ratinguri,
+valoarea expunerii și/sau valoarea ponderată la risc a expunerii
+aferente unei poziții din securitizare, pentru care a fost obținută
+protecție a creditului, pot fi modificate în conformitate cu
+prevederile Regulamentului BNR — CNVM nr. 19/24/2006, cu
+modificările și completările ulterioare, așa cum se aplică acestea
+la calcularea valorii ponderate la risc a expunerii potrivit
+prevederilor Regulamentului BNR — CNVM nr. 14/19/2006, cu
+modificările și completările ulterioare.
+Metoda formulei reglementate — protecția totală a creditului
+Art. 92. — (1) În situația în care valorile ponderate la risc ale
+expunerilor sunt calculate utilizând metoda formulei
+reglementate, instituția de credit determină ăponderea de risc
+efectivă” a respectivei poziții.
+(2) Pentru scopurile aplicării alin. (1), valoarea ponderată la
+risc a expunerii aferentă poziției se împarte la valoarea expunerii
+poziției respective, iar rezultatul obținut se înmulțește cu 100.
+Art. 93. — În cazul protecției finanțate a creditului, valoarea
+ponderată la risc a expunerii aferente poziției din securitizare
+este egală cu produsul dintre valoarea expunerii aferente poziției
+ajustate cu protecția finanțată (E*, calculat potrivit prevederilor
+Regulamentului BNR — CNVM nr. 19/24/2006, cu modificările
+și completările ulterioare, în scopul calculării valorilor ponderate
+la risc ale expunerilor potrivit prevederilor Regulamentului
+BNR—CNVM nr. 14/19/2006, cu modificările și completările
+ulterioare, considerând că E este egală cu valoarea poziției din
+securitizare) și ponderea de risc efectivă.
+Art. 94. — În cazul protecției nefinanțate a creditului,
+valoarea ponderată la risc a expunerii aferente poziției din
+securitizare este egală cu suma dintre:
+a) produsul dintre GA, reprezentând valoarea protecției
+ajustate pentru orice neconcordanță între monede și pentru
+orice decalaj de scadență, determinată în conformitate cu
+prevederile Regulamentului BNR — CNVM nr. 19/24/2006, cu
+modificările și completările ulterioare, și ponderea de risc
+aferentă furnizorului de protecție; și
+b) produsul dintre valoarea poziției din securitizare, din care
+se scade GA, și ponderea de risc efectivă.
+Metoda formulei reglementate — protecția parțială a
+creditului
+Art. 95. — (1) În cazul în care prin diminuarea riscului de
+credit se acoperă ăprima pierdere” aferentă poziției din
+securitizare sau se acoperă pierderi pe o bază proporțională
+aferente poziției din securitizare, instituția de credit poate aplica
+prevederile de la art. 92—94.
+(2) În celelalte cazuri, instituția de credit tratează poziția din
+securitizare ca reprezentând două sau mai multe poziții, partea
+neacoperită fiind considerată poziția cu calitatea creditului mai
+scăzută.
+(3) În vederea calculării valorii ponderate la risc a expunerii
+aferente poziției de la alin. (2) se aplică prevederile art. 82—84,
+cu următoarele modificări:
+a) în cazul protecției finanțate a creditului, T este ajustat la e*;
+b) în cazul protecției nefinanțate a creditului, T este ajustat la
+T-g.
+(4) Indicatorii prevăzuți la alin. (3) au următoarele
+semnificații:
+a) e* reprezintă raportul dintre E* și valoarea noțională totală
+a portofoliului suport;
+b) E* reprezintă valoarea expunerii ajustate aferente poziției
+din securitizare, calculată în conformitate cu prevederile
+Regulamentului BNR — CNVM nr. 19/24/2006, cu modificările
+și completările ulterioare, așa cum se aplică acestea pentru
+calcularea valorilor ponderate la risc ale expunerilor potrivit
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+Regulamentului BNR — CNVM nr. 14/19/2006, cu modificările
+și completările ulterioare, considerând valoarea poziției din
+securitizare ca fiind E;
+c) g este raportul dintre valoarea nominală a protecției
+creditului (ajustată în conformitate cu prevederile
+Regulamentului BNR — CNVM nr. 19/24/2006, cu modificările
+și completările ulterioare, pentru orice neconcordanță de
+monede sau orice decalaj de scadență) și suma valorilor
+expunerilor aferente expunerilor securitizate.
+(5) În cazul protecției nefinanțate a creditului, ponderea de
+risc aferentă furnizorului de protecție se aplică acelei părți a
+poziției care nu este luată în considerare în cadrul valorii ajustate
+a lui T.
+3.7. Cerințe de capital suplimentare pentru securitizarea
+expunerilor reînnoibile cu clauză de amortizare anticipată
+
+Art. 96. — În plus față de valorile ponderate la risc ale
+expunerilor calculate pentru pozițiile sale din securitizare, o
+instituție de credit inițiatoare trebuie să calculeze o valoare
+ponderată la risc a expunerii în conformitate cu metodologia
+prevăzută la art. 51—65, în situația în care expunerile reînnoibile
+sunt vândute în cadrul unei securitizări care conține o clauză de
+amortizare anticipată.
+Art. 97. — Art. 98 și 99 înlocuiesc art. 54 și 55, pentru
+scopurile art. 96.
+Art. 98. — (1) Pentru scopurile prezentei subsecțiuni
+(subsecțiunea 3.7), prin interesul inițiatorului se înțelege suma
+următoarelor elemente:
+a) valoarea expunerii aferente părții noționale a portofoliului
+de sume trase, vândute în cadrul securitizării, a cărei proporție,
+în raport cu valoarea portofoliului total vândut în cadrul structurii
+de securitizare, determină proporția fluxurilor de numerar
+generate de colectarea principalului și a dobânzii, precum și a
+altor sume asociate care nu sunt disponibile pentru efectuarea
+de plăți către cei care dețin poziții din securitizare în cadrul
+securitizării; și
+b) valoarea expunerii aferente părții portofoliului de sume
+netrase corespunzătoare liniilor de credit ale căror sume trase
+au fost vândute în cadrul securitizării, a cărei proporție în raport
+cu valoarea totală a sumelor netrase este aceeași cu raportul
+dintre valoarea expunerii prevăzute la lit. a) și valoarea expunerii
+aferente portofoliului de sume trase vândute în cadrul
+securitizării.
+(2) Pentru a răspunde definiției prevăzute la alin. (1),
+interesul inițiatorului nu se poate subordona interesului
+investitorilor.
+(3) Prin interesul investitorilor se înțelege valoarea expunerii
+aferente părții noționale a portofoliului de sume trase care nu se
+încadrează în prevederile alin. (1) lit. a), la care se adaugă și
+valoarea expunerii aferente părții din portofoliul de sume netrase
+corespunzătoare liniilor de credit ale căror sume trase au fost
+vândute în cadrul securitizării și care nu se încadrează în
+prevederile alin. (1) lit. b).
+Art. 99. — (1) Expunerea instituției de credit inițiatoare,
+asociată drepturilor care îi conferă partea din interesul
+inițiatorului, descrisă la art. 98 alin. (1) lit. a), nu este considerată
+o poziție din securitizare, ci o expunere proporțională față de
+sumele trase securitizate, ca și cum acestea nu ar fi fost
+securitizate, pentru o valoare egală cu cea prevăzută la art. 98
+alin. (1) lit. a).
+(2) Se consideră că instituția de credit inițiatoare deține o
+expunere proporțională față de sumele netrase aferente liniilor
+de credit ale căror sume trase au fost vândute în cadrul
+securitizării, de o valoare egală cu cea prevăzută la art. 98
+alin. (1) lit. b).
+3.8. Reducerea valorilor ponderate la risc ale expunerilor
+
+Art. 100. — (1) Valoarea ponderată la risc a expunerii
+aferente unei poziții din securitizare căreia îi este atribuită o
+pondere de risc de 1250% poate fi redusă cu o valoare egală cu
+12,5 ori suma tuturor ajustărilor de valoare aplicate de instituția
+de credit în ceea ce privește expunerile securitizate.
+
+17
+
+(2) În măsura în care ajustările de valoare sunt luate în
+considerare pentru scopurile alin. (1), acestea pot fi luate în
+considerare în scopul efectuării calculelor menționate la art. 65
+din Regulamentul BNR — CNVM nr. 15/20/2006, cu modificările
+și completările ulterioare.
+Art. 101. — Valoarea ponderată la risc a expunerii aferentă
+unei poziții din securitizare poate fi redusă cu o valoare egală cu
+12,5 ori suma tuturor ajustărilor de valoare aplicate de instituția
+de credit în ceea ce privește poziția respectivă.
+Art. 102. — (1) În cazul unei poziții din securitizare căreia îi
+este atribuită o pondere de risc de 1250%, instituțiile de credit
+pot, în locul includerii respectivei poziții în calculul valorilor
+ponderate la risc ale expunerilor, să deducă din fondurile proprii
+valoarea expunerii aferente poziției, potrivit art. 22 alin. (1) lit. g)
+din Regulamentul BNR — CNVM nr. 18/23/2006, cu modificările
+și completările ulterioare.
+(2) În sensul alin. (1):
+a) valoarea expunerii poziției poate fi determinată pornind de
+la valorile ponderate la risc ale expunerilor, ținând cont de orice
+eventuale reduceri efectuate în conformitate cu prevederile
+art. 100 și 101;
+b) calculul valorii expunerii poate lua în considerare protecția
+finanțată a creditului eligibilă într-o manieră care să fie în
+concordanță cu metodologia prevăzută la art. 89—95; și
+c) în cazul în care, pentru calcularea valorilor ponderate la
+risc ale expunerilor, se folosește metoda formulei reglementate,
+iar L ≤ Kirbr și [L + T] > Kirbr, poziția poate fi tratată ca
+reprezentând două poziții distincte în care L este egal cu Kirbr
+pentru poziția cu rangul mai ridicat.
+Art. 103. — În cazul în care o instituție de credit utilizează
+alternativa prevăzută la art. 102 alin. (1), o valoare egală cu 12,5
+ori suma dedusă conform prevederii menționate este dedusă,
+pentru scopurile art. 76, din valoarea ponderată la risc maximă
+a expunerii specificată la art. 76 care trebuie calculată de
+instituțiile de credit în cauză.
+CAPITOLUL VII
+Sancțiuni și dispoziții finale
+Art. 104. — Nerespectarea dispozițiilor prezentului
+regulament atrage aplicarea măsurilor și/sau a sancțiunilor
+prevăzute la art. 226, 227, 229, precum și 284 din Ordonanța
+de urgență a Guvernului nr. 99/2006, aprobată cu modificări și
+completări prin Legea nr. 227/2007, cu modificările și
+completările ulterioare.
+Art. 105. — Prezentul regulament intră în vigoare la data de
+31 decembrie 2010.
+
+*
+Prezentul regulament transpune dispoziții cuprinse în
+directive ale Uniunii Europene, după cum urmează:
+1. dispozițiile art. 4 pct. 36—44, art. 94—101, ale anexei IX
+la Directiva 2006/48/CE a Parlamentului European și a
+Consiliului din 14 iunie 2006 privind inițierea și exercitarea
+activității instituțiilor de credit, publicată în Jurnalul Oficial al
+Uniunii Europene nr. L 177 din 30 iunie 2006;
+2. dispozițiile art. 1 pct. 9 și 10 din Directiva 2009/83/CE a
+Comisiei din 27 iulie 2009 de modificare a unor anexe la
+Directiva 2006/48/CE a Parlamentului European și a Consiliului
+în ceea ce privește normele tehnice referitoare la administrarea
+riscurilor, publicată în Jurnalul Oficial al Uniunii Europene
+nr. L 196 din 28 iulie 2009;
+3. dispozițiile art. 1 pct. 18, 30 și 41 din Directiva
+2009/111/CE a Parlamentului European și a Consiliului din
+16 septembrie 2009 de modificare a Directivelor 2006/48/CE,
+2006/49/CE și 2007/64/CE în ceea ce privește băncile afiliate
+instituțiilor centrale, anumite elemente ale fondurilor proprii,
+expunerile mari, reglementările privind supravegherea, precum
+și gestionarea crizelor, publicată în Jurnalul Oficial al Uniunii
+Europene nr. L 302 din 17 noiembrie 2009.
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+BANCA NAȚIONALĂ A ROMÂNIEI
+Nr. 18 din 30 septembrie 2010
+
+COMISIA NAȚIONALĂ A VALORILOR MOBILIARE
+Nr. 87 din 18 octombrie 2010
+
+ORDIN
+privind aprobarea Regulamentului Băncii Naționale a României și al Comisiei Naționale
+a Valorilor Mobiliare nr. 19/23/2010 pentru modificarea și completarea Regulamentului
+Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 22/27/2006
+privind adecvarea capitalului instituțiilor de credit și al firmelor de investiții
+Având în vedere dispozițiile art. 124, 126, 135, 278, 384 și 385 din Ordonanța de urgență a Guvernului nr. 99/2006 privind
+instituțiile de credit și adecvarea capitalului, aprobată cu modificări și completări prin Legea nr. 227/2007, cu modificările și
+completările ulterioare,
+în temeiul prevederilor art. 420 alin. (3) din Ordonanța de urgență a Guvernului nr. 99/2006, aprobată cu modificări și
+completări prin Legea nr. 227/2007, cu modificările și completările ulterioare, și ale art. 48 din Legea nr. 312/2004 privind Statutul
+Băncii Naționale a României, precum și ale prevederilor art. 1, 2 și ale art. 7 alin. (1), (3), (10) și (15) din Statutul Comisiei Naționale
+a Valorilor Mobiliare, aprobat prin Ordonanța de urgență a Guvernului nr. 25/2002, aprobată cu modificări și completări prin Legea
+nr. 514/2002, cu modificările și completările ulterioare,
+Banca Națională a României și Comisia Națională a Valorilor Mobiliare emit următorul ordin:
+Art. 1. — Se aprobă Regulamentul Băncii Naționale a
+României și al Comisiei Naționale a Valorilor Mobiliare
+nr. 19/23/2010
+
+pentru
+
+modificarea
+
+și
+
+completarea
+
+Regulamentului Băncii Naționale a României și al Comisiei
+
+Naționale a Valorilor Mobiliare nr. 19/116/2006, prevăzut în
+anexa care face parte integrantă din prezentul ordin.
+Art. 2. — Prezentul ordin și regulamentul menționat la art. 1
+se publică în Monitorul Oficial al României, Partea I.
+
+Naționale a Valorilor Mobiliare nr. 22/27/2006 privind adecvarea
+
+Art. 3. — Banca Națională a României și Comisia Națională
+
+capitalului instituțiilor de credit și al firmelor de investiții, aprobat
+
+a Valorilor Mobiliare vor urmări ducerea la îndeplinire a
+
+prin Ordinul Băncii Naționale al României și al Comisiei
+
+prevederilor prezentului ordin.
+
+Președintele Consiliului de administrație
+al Băncii Naționale a României,
+Mugur Constantin Isărescu
+
+Președintele Comisiei Naționale a Valorilor Mobiliare,
+Gabriela Anghelache
+
+ANEXĂ
+
+R E G U L A M E N T U L Nr. 19/23/2010
+pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale
+a Valorilor Mobiliare nr. 22/27/2006 privind adecvarea capitalului instituțiilor de credit și al firmelor de investiții
+Art. I. — Regulamentul Băncii Naționale a României și al
+Comisiei Naționale a Valorilor Mobiliare nr. 22/27/2006 privind
+adecvarea capitalului instituțiilor de credit și al firmelor de
+investiții, aprobat prin Ordinul Băncii Naționale a României și al
+Comisiei Naționale a Valorilor Mobiliare nr. 19/116/2006, publicat
+în Monitorul Oficial al României, Partea I, nr. 1.035 și 1.035 bis
+din 28 decembrie 2006, se modifică și se completează după
+cum urmează:
+1. La articolul 2 alineatul (1), după teza a V-a, se
+introduce o nouă teză, teza a VI-a, cu următorul cuprins:
+ăExpresia instituție externă de evaluare a creditului
+nominalizată are semnificația prevăzută de Regulamentul
+BNR—CNVM nr. 14/19/2006 privind tratamentul riscului de
+
+credit pentru instituțiile de credit și firmele de investiții potrivit
+abordării standard, cu modificările și completările ulterioare.”
+2. La articolul 2 alineatul (2), după litera j) se introduc
+două noi litere, literele k) și l), cu următorul cuprins:
+ăk) consiliul de administrație al instituției de credit — structura
+de conducere a instituției de credit, definită în cadrul
+Regulamentului BNR nr. 18/2009 privind cadrul de administrare
+a activității instituțiilor de credit, procesul intern de evaluare a
+adecvării capitalului la riscuri și condițiile de externalizare a
+activităților acestora, cu modificările și completările ulterioare;
+l) conducerea superioară a instituției de credit — organele
+cu funcție de conducere ale instituției de credit, unde expresia
+funcție de conducere are semnificația prevăzută de
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+Regulamentul BNR nr. 18/2009, cu modificările și completările
+ulterioare.”
+3. La articolul 3, după alineatul (5) se introduce un nou
+alineat, alineatul (6), cu următorul cuprins:
+ă(6) Deținerea unor poziții pe instrumente financiare în afara
+portofoliului de tranzacționare, cu scopul de a investi fondurile
+proprii, nu se consideră deținere cu intenție de tranzacționare, în
+înțelesul alin. (1). Prevederile prezentului alineat se aplică
+societăților de servicii de investiții financiare prevăzute la art. 7
+alin. (1) lit. a) și b) din Legea nr. 297/2004, cu modificările și
+completările ulterioare.”
+4. Articolul 4 se modifică și va avea următorul cuprins:
+ăArticolul 4
+
+Fondurile proprii de nivel I se compun din totalul elementelor
+prevăzute la art. 4, art. 5 lit. d) și art. 6 alin. (1) din Regulamentul
+BNR—CNVM nr. 18/23/2006 privind fondurile proprii ale
+instituțiilor de credit și ale firmelor de investiții, cu modificările și
+completările ulterioare, mai puțin totalul elementelor menționate
+la art. 5 lit. a), b), c), e) și f) din cadrul aceluiași regulament.”
+5. La articolul 5 alineatul (2) paragraful al doilea, litera b)
+se modifică și va avea următorul cuprins:
+ăb) profiturile nete aferente portofoliului de tranzacționare al
+instituției, nete de orice obligație sau dividend previzibile, minus
+pierderile nete din alte activități ale acesteia, cu condiția ca
+niciuna din aceste sume să nu fi fost deja inclusă, în calitate de
+element prevăzut la art. 4 lit. c), art. 5 lit. d) și art. 6 alin. (1) sau
+la art. 5 lit. e) din Regulamentul BNR—CNVM nr. 18/23/2006, cu
+modificările și completările ulterioare, în cadrul elementului
+prevăzut la lit. a) a prezentului paragraf;”.
+6. La articolul 5, alineatul (5) se modifică și va avea
+următorul cuprins:
+ă(5) Instituțiile pot, cu aprobarea autorității competente, să
+înlocuiască capitalul sub formă de împrumut subordonat, la care
+se face referire la alin. (2) paragraful al 2-lea lit. c), cu
+elementele prevăzute la art. 12 din Regulamentul BNR—CNVM
+nr. 18/23/2006, cu modificările și completările ulterioare.”
+7. La articolul 7, alineatul (1) se modifică și va avea
+următorul cuprins:
+ă(1) În cazul în care o instituție calculează valorile ponderate
+la risc ale expunerilor pentru scopurile anexei II la prezentul
+regulament, potrivit prevederilor Regulamentului BNR—CNVM
+nr. 15/20/2006 privind tratamentul riscului de credit pentru
+instituțiile de credit și firmele de investiții potrivit abordării bazate
+pe modele interne de rating, cu modificările și completările
+ulterioare, atunci pentru scopurile calculului prevăzut la art. 65
+din cadrul aceluiași regulament se aplică următoarele:
+a) ajustările de valoare realizate pentru a ține cont de
+calitatea creditului contrapartidei pot fi incluse în totalul
+ajustărilor de valoare și al provizioanelor constituite pentru
+expunerile indicate în anexa II; și
+b) sub rezerva obținerii aprobării autorităților competente,
+valoarea pierderii așteptate aferente expunerii la riscul de credit
+al contrapartidei este zero dacă, la evaluarea unei poziții incluse
+în portofoliul de tranzacționare, riscul de credit al contrapartidei
+este luat în considerare în mod adecvat.
+În cazul unor astfel de instituții, pentru scopurile lit. a),
+asemenea ajustări de valoare nu se includ în fondurile proprii
+decât în conformitate cu prevederile prezentului alineat.”
+8. După articolul 12 se introduce un nou articol, articolul 121,
+cu următorul cuprins:
+ăArticolul 121
+
+Societatea de administrare a investițiilor care are în obiectul
+de activitate administrarea portofoliilor individuale de investiții și
+administrează toate portofoliile individuale de investiții în baza
+unor contracte de mandat special, conform cărora clienții își aleg
+custodele, activele și tipurile de instrumente financiare în care
+
+19
+
+doresc să investească, precum și limitele maxime investiționale
+pentru fiecare tip de active sau emitent de instrumente
+financiare, va respecta regulile de adecvare a capitalului
+exclusiv cu privire la pozițiile sale proprii.”
+9. Articolul 17 se modifică și va avea următorul cuprins:
+ăArticolul 17
+
+(1) Instituțiile, cu excepția societăților de servicii de investiții
+financiare care îndeplinesc criteriile stabilite la art. 11 alin. (2)
+sau (3) din prezentul regulament, trebuie să monitorizeze și să
+controleze expunerile mari conform prevederilor Regulamentului
+BNR—CNVM nr. 14/24/2010 privind expunerile mari ale
+instituțiilor de credit și ale firmelor de investiții și prevederilor
+art. 142 din Ordonanța de urgență a Guvernului nr. 99/2006,
+aprobată cu modificări și completări prin Legea nr. 227/2007, cu
+modificările și completările ulterioare.
+(2) Prin derogare de la prevederile alin. (1), instituțiile care
+calculează cerințele de capital pentru activitățile aferente
+portofoliului de tranzacționare în conformitate cu anexele I și II
+și, după caz, cu anexa V la prezentul regulament trebuie să
+monitorizeze și să controleze expunerile mari conform
+prevederilor Regulamentului BNR—CNVM nr. 14/24/2010 și
+prevederilor art. 142 din Ordonanța de urgență a Guvernului
+nr. 99/2006, aprobată cu modificări și completări prin Legea
+nr. 227/2007, cu modificările și completările ulterioare, supuse
+modificărilor prevăzute la art. 18—20 din prezentul regulament.”
+10. Articolul 19 se modifică și va avea următorul cuprins:
+ăArticolul 19
+
+(1) Expunerile totale față de clienții individuali sau grupurile
+de clienți aflați în legătură se calculează prin însumarea
+expunerilor care rezultă din portofoliul de tranzacționare și a
+expunerilor care rezultă din afara portofoliului de tranzacționare,
+ținând cont de art. 11—19 din Regulamentul BNR—CNVM
+nr. 14/24/2010.
+(2) Expunerile totale ale instituției față de clienții individuali și
+grupurile de clienți aflați în legătură, calculate în conformitate cu
+alin. (4), se raportează în conformitate cu art. 8 din Regulamentul
+BNR—CNVM nr. 14/24/2010.
+Cu excepția expunerilor aferente tranzacțiilor de
+răscumpărare și operațiunilor de dare/luare cu împrumut de
+titluri/mărfuri, calculul expunerilor mari față de clienții individuali
+și grupurile de clienți aflați în legătură, efectuat pentru scopuri de
+raportare, nu poate include recunoașterea diminuării riscului de
+credit.
+(3) Suma expunerilor față de un client individual sau un grup
+de clienți aflați în legătură la care se face referire în alin. (1) este
+limitată în conformitate cu art. 9—19 din Regulamentul BNR—
+CNVM nr. 14/24/2010.
+(4) Prin derogare de la prevederile alin. (3), activele
+reprezentând creanțe și alte expuneri față de firme de investiții
+recunoscute din state terțe, case de compensare și burse
+recunoscute pot fi supuse aceluiași tratament prevăzut la art. 9
+din Regulamentul BNR—CNVM nr. 14/24/2010, respectiv la
+art. 4 lit. c) din cadrul aceluiași regulament.”
+11. Articolul 20 se modifică și va avea următorul cuprins:
+ăArticolul 20
+
+Instituțiile cărora le este permis să utilizeze modalitatea
+alternativă de determinare a fondurilor proprii conform art. 5
+alin. (2) pot folosi respectiva modalitate de determinare pentru
+scopurile art. 19 alin. (2) și (3), cu condiția ca instituțiile în cauză
+să îndeplinească toate obligațiile prevăzute la art. 8—19 din
+Regulamentul BNR—CNVM nr. 14/24/2010, cu privire la
+expunerile care rezultă din afara portofoliului de tranzacționare,
+prin utilizarea fondurilor proprii așa cum sunt definite în
+Regulamentul BNR—CNVM nr. 18/23/2006, cu modificările și
+completările ulterioare.”
+
+20
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+
+12. La anexa nr. I punctul 8, litera B se modifică și va
+avea următorul cuprins:
+ăB. TRATAMENTUL CUMPĂRĂTORULUI PROTECȚIEI
+Pentru partea care transferă riscul de credit (cumpărătorul
+protecției), pozițiile sunt determinate prin simetrie cu cele
+înregistrate de vânzătorul protecției, cu excepția instrumentelor
+de tip credit linked note (care nu generează poziții scurte pe
+emitent). Dacă la un moment dat există o opțiune call în
+combinație cu un step-up, un asemenea moment este
+considerat ca fiind scadența protecției. În cazul instrumentelor
+financiare derivate de credit de tipul first-to-default și al
+instrumentelor financiare derivate de credit de tipul nth-to-default,
+în locul principiului simetriei se aplică tratamentul detaliat mai
+jos.
+Instrumente financiare derivate de credit de tipul first-todefault
+Atunci când o instituție obține o protecție a creditului pentru
+o serie de entități de referință suport pentru un instrument
+derivat de credit cu condiția ca prima nerambursare din cadrul
+activelor să declanșeze plata și ca acest eveniment de credit să
+determine încetarea contractului, instituția poate compensa
+riscul specific pentru entitatea de referință căreia i se aplică cea
+mai scăzută cerință de capital pentru risc specific dintre entitățile
+de referință suport, conform tabelului 1 din prezenta anexă.
+
+Instrumente financiare derivate de credit de tipul nth-todefault
+Atunci când al n-lea caz de nerambursare din cadrul
+expunerilor declanșează plata în baza protecției creditului,
+cumpărătorul protecției poate compensa riscul specific numai
+dacă protecția a fost obținută și pentru cazurile de nerambursare
+de la 1 la n-1 sau dacă s-au produs deja n-1 cazuri de
+nerambursare. În astfel de cazuri se urmează metodologia
+descrisă mai sus pentru instrumentele financiare derivate de
+credit de tipul first-to-default, adaptată corespunzător pentru
+produsele de tipul nth-to-default.”
+13. La anexa nr. I, punctul 11 se modifică și va avea
+următorul cuprins:
+ă11. O instituție, în cazul în care transferă titlurile sau
+drepturile garantate referitoare la proprietatea titlurilor în cadrul
+unui acord repo ori în cazul în care dă cu împrumut titlurile în
+cadrul unei operațiuni de dare de titluri cu împrumut, trebuie să
+includă titlurile respective în calculul cerinței de capital, conform
+acestei anexe, cu condiția ca astfel de titluri să îndeplinească
+criteriile prevăzute la art. 3.”
+14. La anexa nr. I punctul 14, tabelul 1 se modifică și va
+avea următorul cuprins:
+
+ăTabelul 1
+
+Categorii
+
+Cerința de capital pentru riscul specific
+
+Titluri de creanță emise sau garantate de administrații centrale, emise de bănci centrale, 0%
+organizații internaționale, bănci multilaterale de dezvoltare ori administrații
+regionale/autorități locale ale statelor membre, care, potrivit regulilor cu privire la ponderarea
+în funcție de risc a expunerilor în conformitate cu prevederile Regulamentului BNR—CNVM
+nr. 14/19/2006, cu modificările și completările ulterioare, s-ar încadra la nivelul 1 al scalei de
+evaluare a calității creditului sau cărora le-ar fi atribuită o pondere de risc de 0%
+Titluri de creanță emise sau garantate de administrații centrale, emise de bănci centrale,
+organizații internaționale, bănci multilaterale de dezvoltare ori administrații
+regionale/autorități locale ale statelor membre, care, potrivit regulilor cu privire la ponderarea
+în funcție de risc a expunerilor în conformitate cu prevederile Regulamentului BNR—CNVM
+nr. 14/19/2006, cu modificările și completările ulterioare, s-ar încadra la nivelul 2 sau 3 al
+scalei de evaluare a calității creditului și
+
+0,25% (durata reziduală până la
+scadența finală este mai mică sau
+egală cu 6 luni)
+
+1,00% (durata reziduală până la
+scadența finală este mai mare de
+6 luni și mai mică sau egală cu
+titluri de creanță emise sau garantate de instituții care, potrivit regulilor cu privire la 24 de luni)
+ponderarea în funcție de risc a expunerilor în conformitate cu prevederile Regulamentului
+BNR—CNVM nr. 14/19/2006, cu modificările și completările ulterioare, s-ar încadra la nivelul 1 1,60% (durata reziduală până la
+sau 2 al scalei de evaluare a calității creditului și
+scadența finală este mai mare de
+24 de luni)
+titluri de creanță emise sau garantate de instituții care, potrivit regulilor cu privire la
+ponderarea în funcție de risc a expunerilor în conformitate cu prevederile art. 24 alin. (1) din
+Regulamentul BNR—CNVM nr. 14/19/2006, cu modificările și completările ulterioare, s-ar
+încadra la nivelul 3 al scalei de evaluare a calității creditului și
+titluri de creanță emise sau garantate de societăți care, potrivit regulilor cu privire la
+ponderarea în funcție de risc a expunerilor în conformitate cu prevederile Regulamentului
+BNR—CNVM nr. 14/19/2006, cu modificările și completările ulterioare, s-ar încadra la nivelul 1,
+2 sau 3 al scalei de evaluare a calității creditului
+Alte elemente eligibile așa cum sunt definite la pct. 15
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+Categorii
+
+21
+
+Cerința de capital pentru riscul specific
+
+Titluri de creanță emise sau garantate de administrații centrale, emise de bănci centrale, 8,00%
+organizații internaționale, bănci multilaterale de dezvoltare ori administrații
+regionale/autorități locale/instituții ale statelor membre, care, potrivit regulilor cu privire la
+ponderarea în funcție de risc a expunerilor în conformitate cu prevederile Regulamentului
+BNR—CNVM nr. 14/19/2006, cu modificările și completările ulterioare, s-ar încadra la nivelul 4
+sau 5 al scalei de evaluare a calității creditului și
+titluri de creanță emise sau garantate de societăți care, potrivit regulilor cu privire la
+ponderarea în funcție de risc a expunerilor în conformitate cu prevederile Regulamentului
+BNR—CNVM nr. 14/19/2006, cu modificările și completările ulterioare, s-ar încadra la nivelul 4
+al scalei de evaluare a calității creditului
+Expuneri pentru care nu este disponibilă o evaluare a creditului din partea unei instituții
+externe de evaluare a creditului (ECAI) nominalizate
+Titluri de creanță emise sau garantate de administrații centrale, emise de bănci centrale, 12,00%”
+organizații internaționale, bănci multilaterale de dezvoltare ori administrații
+regionale/autorități locale/instituții ale statelor membre, care, potrivit regulilor cu privire la
+ponderarea în funcție de risc a expunerilor în conformitate cu prevederile Regulamentului
+BNR—CNVM nr. 14/19/2006, cu modificările și completările ulterioare, s-ar încadra la nivelul 6
+al scalei de evaluare a calității creditului și
+titluri de creanță emise sau garantate de societăți care, potrivit regulilor cu privire la
+ponderarea în funcție de risc a expunerilor în conformitate cu prevederile Regulamentului
+BNR—CNVM nr. 14/19/2006, cu modificările și completările ulterioare, s-ar încadra la nivelul 5
+sau 6 al scalei de evaluare a calității creditului
+15. La anexa nr. I punctul 14, ultimul alineat se modifică
+și va avea următorul cuprins:
+ăExpunerile rezultate din securitizare care, în conformitate cu
+art. 22 alin. (1) și (3) din Regulamentul BNR—CNVM
+nr. 18/23/2006, cu modificările și completările ulterioare, ar fi
+supuse unui tratament de deducere sau care, în conformitate
+cu cap. VI din Regulamentul BNR—CNVM nr. 18/16/2010
+privind tratamentul riscului de credit aferent expunerilor
+securitizate și pozițiilor din securitizare, ar fi ponderate în funcție
+de risc cu 1250% se supun unei cerințe de capital care nu poate
+fi mai mică decât cea stabilită prin tratamentele amintite.
+Facilitățile de trezorerie pentru care nu există rating se supun
+unei cerințe de capital care nu poate fi mai mică decât cea
+prevăzută în cap. VI din Regulamentul BNR—CNVM
+nr. 18/16/2010.”
+16. La anexa nr. I, punctul 28 se modifică și va avea
+următorul cuprins:
+ă28. În continuare, instituția trebuie să calculeze durata
+modificată pentru fiecare titlu de creanță pe baza următoarei
+formule:
+durata (D)
+durata modificată =
+
+(1+r)
+
+, unde
+
+unde:
+r = randamentul la scadență (a se vedea pct. 27);
+Ct = plata la momentul t;
+m = scadența totală (a se vedea pct. 27).”
+17. La anexa nr. I, punctul 47 se modifică și va avea
+următorul cuprins:
+ă47. Cerințele de capital pentru pozițiile pe organisme de
+plasament colectiv (OPC-uri) care îndeplinesc condițiile
+specificate în art. 3 în vederea aplicării tratamentului privind
+cerințele de capital aferente portofoliului de tranzacționare se
+calculează în conformitate cu metodele stabilite la pct. 48—56.”
+18. La anexa nr. II, punctul 6 se modifică și va avea
+următorul cuprins:
+ă6. Ținând cont de prevederile pct. 7—10, valorile expunerilor
+și valorile ponderate la risc ale expunerilor se calculează în
+conformitate cu prevederile Regulamentului BNR—CNVM
+nr. 14/19/2006, cu modificările și completările ulterioare, ale
+Regulamentului BNR—CNVM nr. 15/20/2006, cu modificările și
+completările ulterioare, ale Regulamentului BNR—CNVM
+nr. 19/24/2006 privind tehnicile de diminuare a riscului de credit
+utilizate de instituțiile de credit și firmele de investiții, cu
+modificările și completările ulterioare, și ale Regulamentului
+BNR—CNVM nr. 18/16/2010, în cadrul acestora referințele la
+«instituții de credit» din respectivele prevederi urmând a fi
+înțelese ca referințe la «instituții», referințele la «instituții de
+credit mamă» urmând a fi înțelese ca referințe la «instituții
+mamă», cu termenii concomitenți interpretați în consecință.”
+19. La anexa nr. II, punctul 11 se modifică și va avea
+următorul cuprins:
+ă11. În cazul în care un instrument financiar derivat de credit
+inclus în portofoliul de tranzacționare face parte dintr-o
+operațiune de acoperire internă (internal hedge), iar protecția
+
+22
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+
+creditului este recunoscută potrivit Regulamentului BNR—
+CNVM nr. 19/24/2006, cu modificările și completările ulterioare,
+se consideră că nu rezultă risc de credit al contrapartidei din
+poziția pe instrumentul financiar derivat de credit. În mod
+alternativ, o instituție poate include sistematic, în scopul
+calculării cerințelor de capital pentru riscul de credit al
+contrapartidei, toate instrumentele financiare derivate de credit
+incluse în portofoliul de tranzacționare care fac parte din
+operațiuni de acoperire internă sau care au fost achiziționate ca
+protecție față de expunerea la riscul de credit al contrapartidei,
+în cazul în care protecția creditului este recunoscută potrivit
+Regulamentului BNR—CNVM nr. 19/24/2006, cu modificările și
+completările ulterioare.”
+20. La anexa nr. III punctul 3.1, teza a II-a se modifică și
+va avea următorul cuprins:
+ăDouă valute sunt considerate ca fiind strâns corelate numai
+dacă, în următoarele 10 zile lucrătoare, apariția unei pierderi,
+din poziții egale și opuse pe astfel de valute, de 4% sau mai
+puțin din valoarea respectivei poziții puse în corespondență
+(exprimată în moneda de raportare), are o probabilitate —
+calculată pe baza ratelor de schimb zilnice pe ultimii 3 sau 5 ani —
+de cel puțin 99%, atunci când se folosește o perioadă de
+observare de 3 ani, sau de cel puțin 95%, când se folosește o
+perioadă de observare de 5 ani.”
+21. La anexa nr. V punctul 1, teza I se modifică și va avea
+următorul cuprins:
+ă1. Instituțiile pot, în condițiile stabilite în această anexă, să
+calculeze cerințele de capital pentru riscul de poziție, riscul
+valutar și/sau riscul de marfă prin utilizarea propriilor modele
+interne de administrare a riscului în locul sau în combinație cu
+metodele descrise în anexele I, III și IV.”
+22. La anexa nr. V punctul 5 paragraful 7, teza I se
+modifică și va avea următorul cuprins:
+ăÎn ceea ce privește expunerile din securitizarea tradițională
+sau sintetică care ar fi supuse unui tratament de deducere în
+conformitate cu tratamentul stabilit în art. 22 alin. (1) și (3) din
+Regulamentul BNR—CNVM nr. 18/23/2006, cu modificările și
+completările ulterioare, sau care ar fi ponderate la risc cu 1250%
+în conformitate cu cap. VI din Regulamentul BNR—CNVM
+nr. 18/16/2010 privind tratamentul riscului de credit aferent
+expunerilor securitizate și pozițiilor de securitizare, aceste poziții
+se supun unei cerințe de capital care nu poate fi mai mică decât
+cea stabilită conform tratamentului respectiv.”
+23. La anexa nr. V punctul 9, litera b) se modifică și va
+avea următorul cuprins:
+ăb) media nivelurilor zilnice ale valorii la risc (value-at-risk)
+din ultimele 60 de zile lucrătoare, înmulțită cu factorul menționat
+la pct. 7, ajustat cu factorul la care se face referire la pct. 8, la
+care se adaugă, dacă este cazul, cerința de capital pentru riscul
+de nerambursare adițional prevăzută la pct. 5.”
+24. La anexa nr. VI partea C, punctul 3 se modifică și va
+avea următorul cuprins:
+ă3. Prin derogare de la pct. 1 și 2, în cazul în care o instituție
+acoperă o expunere la riscul de credit din afara portofoliului de
+tranzacționare, utilizând un instrument financiar derivat de credit
+inclus în portofoliul de tranzacționare (utilizând o acoperire
+internă), nu se va considera că expunerea din afara portofoliului
+de tranzacționare este acoperită pentru scopurile calculării
+
+cerințelor de capital decât dacă, pentru expunerea din afara
+portofoliului de tranzacționare, instituția cumpără de la o terță
+parte eligibilă din punctul de vedere al furnizării protecției un
+instrument financiar derivat de credit care îndeplinește cerințele
+prevăzute în art. 59 și 60 din Regulamentul BNR—CNVM
+nr. 19/24/2006, cu modificările și completările ulterioare. Fără a
+aduce atingere celei de-a doua teze de la pct. 11 din anexa II,
+atunci când o astfel de protecție furnizată de o terță parte este
+cumpărată și recunoscută ca acoperire pentru o expunere din
+afara portofoliului de tranzacționare pentru scopurile calculării
+cerințelor de capital, niciuna dintre acoperirile prin instrumente
+financiare derivate de credit, internă sau externă, nu poate fi
+inclusă în portofoliul de tranzacționare pentru scopul calculării
+cerințelor de capital.”
+25. La anexa nr. VI partea D, punctul 4 se modifică și va
+avea următorul cuprins:
+ă4. Acordurile la termen de tip repo tranzacționabile (term
+trading-related repo-style transactions) pe care o instituție le
+include în afara portofoliului de tranzacționare pot fi incluse în
+portofoliul de tranzacționare pentru scopurile calculării cerințelor
+de capital în condițiile în care toate acordurile de tip repo de
+acest fel sunt incluse. Pentru acest scop, acordurile de tip repo
+tranzacționabile sunt definite drept cele care îndeplinesc
+cerințele prevăzute la art. 3 alin. (2) și în anexa VI partea A, iar
+cele două segmente componente sunt fie sub formă de
+numerar, fie sub formă de titluri care pot fi incluse în portofoliul
+de tranzacționare. Indiferent de locul unde sunt înregistrate,
+toate tranzacțiile de tip repo sunt supuse unei cerințe de capital,
+calculată în legătură cu activitățile din afara portofoliului de
+tranzacționare, pentru riscul de credit al contrapartidei.”
+Art. II. — Prezentul regulament intră în vigoare la data de
+31 decembrie 2010.
+Prezentul regulament transpune următoarele prevederi ale
+directivelor Uniunii Europene:
+a) art. 2 paragraful 1, art. 2 paragraful 2 lit. a), art. 2
+paragraful 3 și art. 4 paragraful 1 subparagrafele 2 și 3 din
+Directiva 2009/111/CE a Parlamentului European și a Consiliului
+din 16 septembrie 2009 de modificare a Directivelor
+2006/48/CE, 2006/49/CE și 2007/64/CE în ceea ce privește
+băncile afiliate instituțiilor centrale, anumite elemente ale
+fondurilor proprii, expunerile mari, reglementările privind
+supravegherea, precum și gestionarea crizelor, publicată în
+Jurnalul Oficial al Uniunii Europene nr. L 302 din 17 noiembrie
+2009;
+b) art. 1 paragraful 1 lit. a) și b), art. 1 paragrafele 2 și 3 și
+art. 2 paragraful 1 subparagrafele 2 și 3 din Directiva
+2009/27/CE a Comisiei din 7 aprilie 2009 de modificare a unor
+anexe la Directiva 2006/49/CE a Parlamentului European și a
+Consiliului în ceea ce privește normele tehnice referitoare la
+administrarea riscurilor, publicată în Jurnalul Oficial al Uniunii
+Europene nr. L 94 din 8 aprilie 2009.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+BANCA NAȚIONALĂ A ROMÂNIEI
+Nr. 19 din 30 septembrie 2010
+
+23
+
+COMISIA NAȚIONALĂ A VALORILOR MOBILIARE
+Nr. 90 din 25 octombrie 2010
+
+ORDIN
+privind aprobarea Regulamentului Băncii Naționale a României și al Comisiei Naționale
+a Valorilor Mobiliare nr. 20/25/2010 pentru modificarea și completarea Regulamentului Băncii
+Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 23/28/2006
+privind criteriile tehnice referitoare la organizarea și tratamentul riscurilor,
+precum și criteriile tehnice utilizate de autoritățile competente pentru verificarea
+și evaluarea acestora
+Având în vedere dispozițiile art. 24, 77, art. 101 alin. (2), art. 122, 148, 166, 167, 168, art. 278 alin. (1) lit. b) și c), art. 384
+și 385 din Ordonanța de urgență a Guvernului nr. 99/2006 privind instituțiile de credit și adecvarea capitalului, aprobată cu modificări
+și completări prin Legea nr. 227/2007, cu modificările și completările ulterioare,
+în temeiul prevederilor art. 420 alin. (3) din Ordonanța de urgență a Guvernului nr. 99/2006, aprobată cu modificări și
+completări prin Legea nr. 227/2007, cu modificările și completările ulterioare, și ale art. 48 din Legea nr. 312/2004 privind Statutul
+Băncii Naționale a României, precum și ale prevederilor art. 1, 2 și ale art. 7 alin. (1), (3), (10) și (15) din Statutul Comisiei Naționale
+a Valorilor Mobiliare, aprobat prin Ordonanța de urgență a Guvernului nr. 25/2002, aprobată cu modificări și completări prin Legea
+nr. 514/2002, cu modificările și completările ulterioare,
+Banca Națională a României și Comisia Națională a Valorilor Mobiliare emit următorul ordin:
+Art. 1. — Se aprobă Regulamentul Băncii Naționale a
+României și al Comisiei Naționale a Valorilor Mobiliare
+nr. 20/25/2010
+pentru
+modificarea
+și
+completarea
+Regulamentului Băncii Naționale a României și al Comisiei
+Naționale a Valorilor Mobiliare nr. 23/28/2006 privind criteriile
+tehnice referitoare la organizarea și tratamentul riscurilor,
+precum și criteriile tehnice utilizate de autoritățile competente
+pentru verificarea și evaluarea acestora, aprobat prin Ordinul
+
+Băncii Naționale a României și al Comisiei Naționale a Valorilor
+Mobiliare nr. 20/117/2006, prevăzut în anexa care face parte
+integrantă din prezentul ordin.
+Art. 2. — Prezentul ordin și regulamentul menționat la art. 1
+se publică în Monitorul Oficial al României, Partea I.
+Art. 3. — Banca Națională a României și Comisia Națională
+a Valorilor Mobiliare vor urmări ducerea la îndeplinire a
+prevederilor prezentului ordin.
+
+Președintele Consiliului de administrație
+
+Președintele Comisiei Naționale a Valorilor Mobiliare,
+
+al Băncii Naționale a României,
+
+Gabriela Anghelache
+
+Mugur Constantin Isărescu
+
+ANEXĂ
+
+R E G U L A M E N T U L Nr. 20/25/2010
+pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale
+a Valorilor Mobiliare nr. 23/28/2006 privind criteriile tehnice referitoare la organizarea și tratamentul riscurilor,
+precum și criteriile tehnice utilizate de autoritățile competente pentru verificarea și evaluarea acestora
+Art. I. — Regulamentul nr. 23/28/2006 privind criteriile
+tehnice referitoare la organizarea și tratamentul riscurilor,
+precum și criteriile tehnice utilizate de autoritățile competente
+pentru verificarea și evaluarea acestora, aprobat prin Ordinul
+Băncii Naționale a României și al Comisiei Naționale a Valorilor
+Mobiliare nr. 20/117/2006, publicat în Monitorul Oficial al
+României, Partea I, nr. 1.035 și 1.035 bis din 28 decembrie
+2006, se modifică și se completează după cum urmează:
+1. La articolul 9, alineatul (1) se modifică și va avea
+următorul cuprins:
+ăArt. 9. — (1) Instituțiile de credit trebuie să evalueze și să
+trateze prin politici și proceduri adecvate riscurile care decurg
+din tranzacțiile de securitizare în legătură cu care instituțiile de
+
+credit sunt investitori, inițiatori sau sponsori, inclusiv riscurile
+reputaționale (cum ar fi cele care apar în legătură cu structuri
+sau produse complexe), pentru a se asigura în special că
+substanța economică a tranzacției este reflectată în totalitate în
+evaluarea riscului și în deciziile de administrare.”
+2. După articolul 9 se introduce un nou articol, articolul 91,
+cu următorul cuprins:
+ăArt. 91. — În ceea ce privește administrarea riscului de
+credit, pentru instituțiile de credit prevederile prezentului
+regulament se completează cu prevederile relevante din
+Regulamentul BNR nr. 18/2009 privind cadrul de administrare a
+activității instituțiilor de credit, procesul intern de evaluare a
+
+24
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+
+adecvării capitalului la riscuri și condițiile de externalizare a
+activităților acestora, cu modificările și completările ulterioare.”
+3. După articolul 10 se introduce un nou articol, articolul 101,
+cu următorul cuprins:
+ăArt. 101. — În ceea ce privește administrarea riscului de
+piață, pentru instituțiile de credit prevederile prezentului
+regulament se completează cu prevederile relevante din
+Regulamentul BNR nr. 18/2009, cu modificările și completările
+ulterioare.”
+4. După articolul 11 se introduce un nou articol, articolul 111,
+cu următorul cuprins:
+ăArt. 111. — În ceea ce privește administrarea riscului de rată
+a dobânzii din activități în afara portofoliului de tranzacționare,
+pentru instituțiile de credit prevederile prezentului regulament se
+completează cu prevederile relevante din Regulamentul BNR
+nr. 18/2009, cu modificările și completările ulterioare.”
+5. La articolul 12, alineatul (2) se modifică și va avea
+următorul cuprins:
+ă(2) Fără a aduce atingere definiției riscului operațional în
+sensul art. 2 alin. 2 lit. c) din Regulamentul BNR—CNVM
+nr. 24/29/2006 privind determinarea cerințelor minime de capital
+pentru riscul operațional ale instituțiilor de credit și ale firmelor de
+investiții, cu modificările și completările ulterioare, instituțiile de
+credit trebuie să definească riscul operațional pentru scopurile
+politicilor și procedurilor prevăzute la alin. (1).”
+6. După articolul 13 se introduce un nou articol, articolul 131,
+cu următorul cuprins:
+ăArt. 131. — În ceea ce privește administrarea riscului
+operațional, pentru instituțiile de credit prevederile prezentului
+regulament se completează cu prevederile relevante din
+Regulamentul BNR nr. 18/2009, cu modificările și completările
+ulterioare.”
+7. Articolul 14 se modifică și va avea următorul cuprins:
+ăArt. 14. — (1) În ceea ce privește administrarea riscului de
+lichiditate, instituțiile de credit vor aplica prevederile relevante
+din Regulamentul BNR nr. 18/2009, cu modificările și
+completările ulterioare.
+(2) Prevederile alin. (1) nu se aplică în cazul societăților de
+servicii de investiții financiare și al societăților de administrare a
+investițiilor.
+(3) Riscul de lichiditate al instrumentelor financiare în care
+investesc societățile de servicii de investiții financiare și
+societățile de administrare a investițiilor, precum și cel al piețelor
+financiare pe care operează respectivele instituții se tratează în
+conformitate cu reglementările Comisiei Naționale a Valorilor
+Mobiliare.”
+8. Articolul 15 se abrogă.
+9. La capitolul II, după secțiunea a 5-a se introduce o
+nouă secțiune, secțiunea a 6-a, cu următorul cuprins:
+ăSECȚIUNEA a 6-a
+Politici de remunerare
+
+Art. 151. — În ceea ce privește politicile de remunerare,
+instituțiile de credit vor aplica prevederile relevante din
+
+Regulamentul BNR nr. 18/2009, cu modificările și completările
+ulterioare.”
+10. La articolul 16 alineatul (1), literele a), b), e) și g) se
+modifică și vor avea următorul cuprins:
+ăa) rezultatele simulărilor de criză efectuate de instituțiile de
+credit care aplică abordarea bazată pe modele interne de rating;
+b) expunerea la riscul de concentrare și administrarea
+acestui risc de către instituțiile de credit, inclusiv conformarea
+acestora cu cerințele Regulamentului BNR—CNVM
+nr. 14/24/2010 privind expunerile mari ale instituțiilor de credit
+și ale firmelor de investiții;
+..................................................................................................
+e) expunerea la riscul de lichiditate, măsurarea și
+administrarea acestui risc de către instituțiile de credit, inclusiv
+efectuarea unor analize pe bază de scenarii alternative,
+administrarea diminuatorilor de risc (în special nivelul,
+compoziția și calitatea rezervei de lichiditate) și existența unor
+planuri alternative eficace;
+..................................................................................................
+g) rezultatele simulărilor de criză efectuate de către instituțiile
+de credit care utilizează un model intern pentru a calcula
+cerințele de capital pentru riscul de piață potrivit anexei V la
+Regulamentul BNR—CNVM nr. 22/27/2006 privind adecvarea
+capitalului instituțiilor de credit și al firmelor de investiții, cu
+modificările și completările ulterioare.”
+11. La articolul 16, după alineatul (1) se introduce un nou
+alineat, alineatul (11), cu următorul cuprins:
+ă(11) În sensul alin. (1) lit. e), Banca Națională a României
+trebuie să efectueze în mod regulat o evaluare cuprinzătoare a
+administrării riscului de lichiditate de către instituțiile de credit și
+să promoveze dezvoltarea unor metodologii interne solide. La
+efectuarea unor astfel de analize, Banca Națională a României
+trebuie să aibă în vedere rolul instituțiilor de credit pe piețele
+financiare. Banca Națională a României trebuie să ia în
+considerare în mod corespunzător impactul potențial al deciziilor
+sale asupra stabilității sistemului financiar în toate celelalte state
+membre implicate.”
+12. La articolul 16, alineatul (3) se modifică și va avea
+următorul cuprins:
+ă(3) În sensul alin. (2), Banca Națională a României ia măsuri
+în cazul instituțiilor de credit a căror valoare economică scade cu
+mai mult de 20% din fondurile lor proprii ca urmare a unei
+schimbări bruște și neașteptate a ratelor de dobândă, a cărei
+dimensiune o stabilește și care nu diferă de la o instituție de
+credit la alta.”
+13. La articolul 16, după alineatul (3) se introduce un
+alineat nou, alineatul (4), cu următorul cuprins:
+ă(4) Prevederile alin. (1) lit. e) nu se aplică în cazul societăților
+de servicii de investiții financiare și al societăților de administrare
+a investițiilor.”
+14. După articolul 17 se introduce un nou articol,
+articolul 171, cu următorul cuprins:
+ăArt. 171. — (1) Banca Națională a României publică
+următoarele informații:
+a) până la 31 decembrie 2010, criteriile generale și
+metodologiile adoptate pentru a verifica modul de îndeplinire a
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+cerințelor prevăzute la art. 14—20 din Regulamentul BNR—
+CNVM nr. 18/16/2010 privind tratamentul riscului de credit
+aferent expunerilor securitizate și pozițiilor din securitizare;
+b) în condițiile respectării prevederilor titlului III cap. V din
+Ordonanța de urgență a Guvernului nr. 99/2006, aprobată cu
+modificări și completări prin Legea nr. 227/2007, cu modificările
+și completările ulterioare, o expunere succintă a rezultatelor
+procesului de verificare și o descriere a măsurilor impuse în
+cazurile de neîndeplinire a cerințelor prevăzute la art. 14—20
+din Regulamentul BNR—CNVM nr. 18/16/2010, identificate
+anual începând cu 31 decembrie 2011.
+(2) Conformarea cu prevederile alin. (1) se face cu
+respectarea art. 224 alin. (2) din Ordonanța de urgență a
+Guvernului nr. 99/2006, aprobată cu modificări și completări prin
+Legea nr. 227/2007, cu modificările și completările ulterioare.”
+Art. II. — Prevederile art. I pct. 1, 9, 11 și 13 intră în vigoare
+la 31 decembrie 2010.
+
+25
+
+Prezentul regulament transpune prevederile art. 1 pct. 30
+(paragraful 9 al art. 122a), 40 și 42 din Directiva 2009/111/CE a
+Parlamentului European și a Consiliului din 16 septembrie 2009
+de modificare a directivelor 2006/48/CE, 2006/49/CE și
+2007/64/CE în ceea ce privește băncile afiliate instituțiilor
+centrale, anumite elemente ale fondurilor proprii, expunerile
+mari, reglementările privind supravegherea, precum și
+gestionarea crizelor, publicată în Jurnalul Oficial al Uniunii
+Europene nr. L 302 din 17 noiembrie 2009, precum și
+prevederile pct. 1 din anexa I la Directiva Parlamentului
+European și a Consiliului de modificare a directivelor
+2006/48/CE și 2006/49/CE în ceea ce privește cerințele de
+capital pentru portofoliul de tranzacționare și resecuritizare,
+precum și procesul de supraveghere a politicilor de remunerare.
+
+BANCA NAȚIONALĂ A ROMÂNIEI
+
+COMISIA NAȚIONALĂ A VALORILOR MOBILIARE
+
+Nr. 20 din 30 septembrie 2010
+
+Nr. 91 din 25 octombrie 2010
+
+ORDIN
+privind aprobarea Regulamentului Băncii Naționale a României
+și al Comisiei Naționale a Valorilor Mobiliare nr. 21/26/2010 pentru modificarea și completarea
+Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare
+nr. 25/30/2006 privind cerințele de publicare pentru instituțiile de credit și firmele de investiții
+Având în vedere dispozițiile art. 122, art. 126 alin. (1), art. 128—134, art. 138 alin. (1), art. 140, 148, 159—163, 278 și ale
+art. 384 alin. (3) din Ordonanța de urgență a Guvernului nr. 99/2006 privind instituțiile de credit și adecvarea capitalului, aprobată
+cu modificări și completări prin Legea nr. 227/2007, cu modificările și completările ulterioare,
+în temeiul prevederilor art. 420 alin. (3) din Ordonanța de urgență a Guvernului nr. 99/2006, aprobată cu modificări și
+completări prin Legea nr. 227/2007, cu modificările și completările ulterioare, ale art. 48 din Legea nr. 312/2004 privind Statutul
+Băncii Naționale a României, precum și ale art. 1, 2 și ale art. 7 alin. (1), (3), (10) și (15) din Statutul Comisiei Naționale a Valorilor
+Mobiliare, aprobat prin Ordonanța de urgență a Guvernului nr. 25/2002, aprobată cu modificări și completări prin Legea
+nr. 514/2002, cu modificările și completările ulterioare,
+Banca Națională a României și Comisia Națională a Valorilor Mobiliare emit următorul ordin:
+Art. 1. — Se aprobă Regulamentul Băncii Naționale a
+României și al Comisiei Naționale a Valorilor Mobiliare
+nr. 21/26/2010
+pentru
+modificarea
+și
+completarea
+Regulamentului Băncii Naționale a României și al Comisiei
+Naționale a Valorilor Mobiliare nr. 25/30/2006 privind cerințele
+de publicare pentru instituțiile de credit și firmele de investiții,
+aprobat prin Ordinul Băncii Naționale a României și al Comisiei
+Naționale a Valorilor Mobiliare nr. 22/119/2006, prevăzut în
+anexa care face parte integrantă din prezentul ordin.
+Art. 2. — Prezentul ordin și regulamentul menționat la art. 1
+se publică în Monitorul Oficial al României, Partea I.
+
+Art. 3. — Banca Națională a României și Comisia Națională
+a Valorilor Mobiliare vor urmări ducerea la îndeplinire a
+prevederilor prezentului ordin.
+Art. 4. — Ordinul Băncii Naționale a României și al Comisiei
+Naționale a Valorilor Mobiliare nr. 22/119/2006 pentru aprobarea
+Regulamentului Băncii Naționale a României și al Comisiei
+Naționale a Valorilor Mobiliare nr. 25/30/2006 privind cerințele
+de publicare pentru instituțiile de credit și firmele de investiții,
+publicat în Monitorul Oficial al României, Partea I, nr. 1.035 și
+1.035 bis din 28 decembrie 2006, cu modificările și completările
+aduse prin prezentul ordin, se va republica în Monitorul Oficial
+al României, Partea I, dându-se textelor o nouă numerotare.
+
+Președintele Consiliului de administrație
+al Băncii Naționale a României,
+Mugur Constantin Isărescu
+
+Președintele Comisiei Naționale a Valorilor Mobiliare,
+Gabriela Anghelache
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+ANEXĂ
+
+R E G U L A M E N T U L Nr. 21/26/2010
+pentru modificarea și completarea Regulamentului Băncii Naționale a României
+și al Comisiei Naționale a Valorilor Mobiliare nr. 25/30/2006 privind cerințele de publicare
+pentru instituțiile de credit și firmele de investiții
+Art. I. — Regulamentul Băncii Naționale a României și al
+Comisiei Naționale a Valorilor Mobiliare nr. 25/30/2006 privind
+cerințele de publicare pentru instituțiile de credit și firmele de
+investiții, aprobat prin Ordinul Băncii Naționale a României și al
+Comisiei Naționale a Valorilor Mobiliare nr. 22/119/2006, publicat
+în Monitorul Oficial al României, Partea I, nr. 1.035 și 1.035 bis
+din 28 decembrie 2006, se modifică și se completează după
+cum urmează:
+1. Titlul regulamentului va avea următorul cuprins:
+ăREGULAMENTUL Nr. 25/30/2006
+privind cerințele de transparență și de publicare
+pentru instituțiile de credit și firmele de investiții”
+2. La articolul 6, literele b), c) și d) se modifică și vor avea
+următorul cuprins:
+ăb) structura și organizarea funcției relevante de administrare
+a riscului sau alte modalități de organizare corespunzătoare;
+c) sfera de cuprindere și tipul sistemelor de raportare și de
+cuantificare a riscurilor; și
+d) politicile de acoperire și diminuare a riscului, precum și
+strategiile și procesele pentru monitorizarea continuității
+eficacității elementelor de acoperire și de diminuare a riscului.”
+3. La articolul 7, literele a) și b) ale punctului 2 și
+punctele 3 și 4 se modifică și vor avea următorul cuprins:
+ăa) consolidate prin metoda consolidării globale
+b) consolidate prin metoda consolidării proporționale
+...............................................................................................
+3. orice impediment semnificativ, actual sau previzionat, de
+ordin practic sau legal, în calea transferului rapid al fondurilor
+proprii sau de rambursare a datoriilor între societatea-mamă și
+filialele acesteia; și
+4. valoarea totală cu care fondurile proprii efective sunt mai
+mici decât minimul cerut pentru toate filialele neincluse în
+consolidare, precum și denumirea filialei/filialelor respective.”
+4. La articolul 8, punctele 1—5 se modifică și vor avea
+următorul cuprins:
+ă1. informații succinte cu privire la clauzele contractuale
+referitoare la caracteristicile principale ale fiecărui element al
+fondurilor proprii, precum și ale componentelor aferente, inclusiv
+ale instrumentelor de capital hibride prevăzute la art. 4 lit. c1) din
+Regulamentul BNR—CNVM nr. 18/23/2006 privind fondurile
+proprii ale instituțiilor de credit și ale firmelor de investiții, cu
+modificările și completările ulterioare, ale instrumentelor ale
+căror prevederi stipulează un stimulent de răscumpărare de
+către instituția de credit emitentă, precum și ale instrumentelor
+ce fac obiectul regimului tranzitoriu prevăzut de art. 351 și 352
+din regulamentul sus-menționat;
+
+2. valoarea fondurilor proprii de nivel I, cu menționarea
+separată a fiecărui element luat în calcul și a fiecărui element
+deductibil; se publică, de asemenea, separat, valoarea totală a
+instrumentelor de capital hibride prevăzute la art. 4 lit. c1) din
+Regulamentul BNR—CNVM nr. 18/23/2006, cu modificările și
+completările ulterioare, precum și a instrumentelor ale căror
+prevederi stipulează un stimulent de răscumpărare de către
+instituția de credit emitentă; fiecare dintre comunicările
+respective va specifica instrumentele care fac obiectul regimului
+tranzitoriu prevăzut de art. 351 și 352 din regulamentul
+sus-menționat;
+3. valoarea totală a fondurilor proprii de nivel II, precum și a
+fondurilor proprii definite în cap. III din Regulamentul BNR—
+CNVM nr. 22/27/2006 privind adecvarea capitalului instituțiilor
+de credit și al firmelor de investiții, cu modificările și completările
+ulterioare;
+4. elementele deductibile din fondurile proprii de nivel I și din
+fondurile proprii de nivel II, potrivit prevederilor art. 22 din
+Regulamentul BNR—CNVM nr. 18/23/2006, cu modificările și
+completările ulterioare, cu prezentarea separată a elementelor
+prevăzute la art. 22 alin. (1) lit. f) din regulamentul menționat; și
+5. valoarea totală a fondurilor proprii eligibile, după aplicarea
+limitelor prevăzute la art. 21 și deducerea elementelor prevăzute
+la art. 22 din Regulamentul BNR—CNVM nr. 18/23/2006, cu
+modificările și completările ulterioare.”
+5. La articolul 9 punctul 3, literele b) și d) se modifică și
+vor avea următorul cuprins:
+ăb) expunerilor din titluri de capital tranzacționate la bursă,
+expunerilor din investiții de tip private equity din cadrul
+portofoliilor suficient de diversificate, precum și altor expuneri;
+...............................................................................................
+d) expunerilor care fac obiectul unei prevederi de tip
+grandfathering în materia cerințelor de capital;”.
+6. La articolul 10, partea introductivă și alineatele (1), (5), (8)
+și (9) se modifică și vor avea următorul cuprins:
+ăArt. 10. — Următoarele informații referitoare la expunerea
+unei instituții de credit la riscul de credit al contrapartidei, așa
+cum este definit la art. 2 alin. (5) pct. 1 din Regulamentul BNR—
+CNVM nr. 20/25/2006 privind tratamentul riscului de credit al
+contrapartidei în cazul instrumentelor financiare derivate, al
+tranzacțiilor de răscumpărare, al operațiunilor de dare/luare de
+titluri/mărfuri cu împrumut, al tranzacțiilor cu termen lung de
+decontare și al tranzacțiilor de creditare în marjă, cu modificările
+și completările ulterioare, vor fi făcute publice:
+(1) o descriere a metodologiei utilizate în vederea alocării
+capitalului intern și în vederea stabilirii limitelor de credit pentru
+expunerile la riscul de credit al contrapartidei;
+...............................................................................................
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+(5) valoarea justă pozitivă brută a contractelor, profiturile din
+compensare, expunerea de credit curentă după compensare,
+garanțiile reale deținute și expunerea de credit netă din
+instrumente financiare derivate. Expunerea de credit netă din
+instrumente financiare derivate reprezintă expunerea de credit
+decurgând din tranzacții cu instrumente financiare derivate,
+după ce a fost luat în calcul atât profitul obținut din acordurile de
+compensare executorii din punct de vedere juridic, cât și din
+contractele de garanție reală;
+...............................................................................................
+(8) tranzacții cu instrumente financiare derivate de credit
+(valoarea noțională), defalcate în tranzacții efectuate pentru
+portofoliul de credit propriu al instituției de credit și, respectiv, în
+tranzacții legate de activități de intermediere ale instituției de
+credit, incluzând distribuția produselor derivate de credit
+utilizate, efectuându-se o descompunere în continuare, în cadrul
+fiecărei grupe de produse, în tranzacții de cumpărare și,
+respectiv, de vânzare de protecție; și
+(9) valoarea estimată a lui alfa în cazul în care instituția de
+credit a obținut aprobarea Băncii Naționale a României pentru
+efectuarea unei astfel de estimări.”
+7. Articolul 12 se modifică și va avea următorul cuprins:
+ăArt. 12. — Ajustările de valoare, precum și reluările
+înregistrate direct în contul de profit și pierdere vor fi publicate
+separat.”
+8. La articolul 13, punctele 4 și 5 se modifică și vor avea
+următorul cuprins:
+ă4. corespondența ratingului extern al fiecărei instituții
+externe de evaluare a creditului nominalizate sau agenții de
+creditare a exporturilor nominalizate, cu nivelul scalei de
+evaluare a calității creditului, conform Regulamentului BNR—
+CNVM nr. 14/19/2006 privind tratamentul riscului de credit
+pentru instituțiile de credit și firmele de investiții potrivit abordării
+standard, cu modificările și completările ulterioare, cu mențiunea
+că publicarea acestor informații nu este obligatorie, în situația
+în care instituția de credit respectă corespondențele standard
+publicate de Banca Națională a României; și
+5. valoarea expunerii și valoarea expunerii rezultată după
+aplicarea tehnicilor de diminuare a riscului de credit, asociate
+fiecărui nivel al scalei de evaluare a calității creditului în parte,
+prevăzute de Regulamentul BNR—CNVM nr. 14/19/2006, cu
+modificările și completările ulterioare, precum și cele deduse din
+fondurile proprii.”
+9. La articolul 16, după punctul 3 se introduc două noi
+puncte, punctele 4 și 5, cu următorul cuprins:
+ă4. nivelul cel mai ridicat, nivelul cel mai scăzut și media
+nivelurilor zilnice ale valorii la risc (value-at-risk) pe perioada de
+raportare, precum și nivelul valorii la risc la sfârșitul perioadei;
+5. o comparație între nivelul zilnic al valorii la risc (value-atrisk), calculat pe baza pozițiilor din portofoliu de la sfârșitul zilei,
+și nivelul variației pe o zi a valorii portofoliului, constatat la
+sfârșitul următoarei zile lucrătoare, împreună cu o analiză a
+oricărei depășiri importante pe perioada de raportare.”
+
+27
+
+10. La articolul 17, punctele 1 și 2 se modifică și vor avea
+următorul cuprins:
+ă1. abordările pentru evaluarea cerințelor de capital aferente
+riscului operațional, pentru care instituția de credit se califică; și
+2. o descriere a metodologiei stabilite în art. 17 din
+Regulamentul
+BNR—CNVM
+nr.
+24/29/2006
+privind
+determinarea cerințelor minime de capital pentru riscul
+operațional ale instituțiilor de credit și ale firmelor de investiții, cu
+modificările și completările ulterioare, dacă este utilizată de
+instituția de credit, inclusiv o analiză a factorilor interni și externi
+relevanți luați în considerare în cadrul acestei abordări de
+evaluare; în cazul utilizării parțiale, se va face publică sfera de
+aplicare și cuprindere a diferitelor metodologii utilizate.”
+11. La articolul 19, punctele 1 și 2 se modifică și vor avea
+următorul cuprins:
+ă1. natura riscului de rată a dobânzii și principalele ipoteze
+avute în vedere (incluzând ipotezele legate de rambursarea
+anticipată a creditului și de comportamentul depozitelor fără
+scadență contractuală) și frecvența de cuantificare a riscului de
+rată a dobânzii; și
+2. variațiile profiturilor, valorii economice sau altor variabile
+relevante utilizate de organele cu funcție de conducere pentru a
+măsura impactul șocurilor pe rata dobânzii, crescătoare și
+descrescătoare, potrivit metodei adoptate de organele cu funcție
+de conducere pentru cuantificarea riscului de rată a dobânzii,
+defalcate în funcție de moneda utilizată.”
+12. La articolul 19 se introduce un nou alineat,
+alineatul (2), cu următorul cuprins:
+ă(2) În înțelesul prezentului regulament, expresia organe cu
+funcție de conducere are înțelesul prevăzut în art. 2 alin. (5) lit. c)
+din Regulamentul BNR nr. 18/2009 privind cadrul de
+administrare a activității instituțiilor de credit, procesul intern de
+evaluare a adecvării capitalului la riscuri și condițiile de
+externalizare a activităților acestora, cu modificările și
+completările ulterioare.”
+13. Articolul 20 se modifică și va avea următorul cuprins:
+ăArt. 20. — Instituțiile de credit care calculează valoarea
+ponderată la risc a expunerilor conform Regulamentului BNR—
+CNVM nr. 18/16/2010 privind tratamentul riscului de credit
+aferent expunerilor securitizate și pozițiilor din securitizare
+trebuie să facă publice următoarele informații:
+a) o descriere a obiectivelor instituției de credit în legătură
+cu activitatea de securitizare;
+b) rolurile instituției de credit în procesul de securitizare;
+c) o indicație cu privire la măsura în care instituția de credit
+s-a implicat în fiecare dintre rolurile menționate la lit. b);
+d) abordările pe care instituția de credit le urmează în
+vederea calculării valorilor ponderate la risc ale expunerilor
+pentru activitățile sale de securitizare;
+e) o prezentare succintă a politicilor contabile ale instituției de
+credit cu privire la activitățile de securitizare, incluzând:
+(i) tratarea tranzacțiilor ca transferuri de active sau ca
+finanțări ale acestora;
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+
+(ii) recunoașterea profiturilor aferente vânzărilor de
+active;
+(iii) ipotezele-cheie pentru evaluarea intereselor reținute;
+și
+(iv) tratamentul aferent securitizărilor sintetice în cazul în
+care acesta nu este acoperit prin alte politici
+contabile;
+f) denumirile instituțiilor externe de evaluare a creditului
+utilizate pentru securitizări și tipurile de expuneri pentru care
+este folosită fiecare agenție;
+g) valoarea totală a expunerilor rămase de rambursat
+securitizate de instituția de credit și care sunt acoperite de cadrul
+aferent securitizării (prezentată separat pentru securitizările
+tradiționale și pentru securitizările sintetice), defalcate pe tipuri
+de expunere;
+h) pentru expunerile securitizate de instituția de credit și care
+sunt acoperite de cadrul de securitizare, o defalcare pe tipuri de
+expunere a sumelor depreciate și restante aferente expunerilor
+securitizate, precum și pierderile recunoscute de instituția de
+credit pe perioada considerată;
+i) valoarea agregată a pozițiilor din securitizare reținute sau
+achiziționate, defalcate pe tipuri de expunere;
+j) valoarea agregată a pozițiilor din securitizare reținute sau
+achiziționate, defalcate pe un număr relevant de intervale de
+ponderi de risc. Pozițiile care au fost ponderate la risc cu 1250%
+sau deduse trebuie publicate separat;
+k) suma totală a expunerilor reînnoibile securitizate cu
+defalcare între interesul inițiatorului și interesul investitorilor; și
+l) o prezentare succintă a activității de securitizare pe
+perioada considerată, incluzând valoarea expunerilor
+securitizate (pe tipuri de expunere) și profitul sau pierderea
+aferente vânzărilor de active recunoscute pe tipuri de expunere.”
+14. După articolul 20 se introduce un nou articol,
+articolul 201, cu următorul cuprins:
+ăArt. 201. — (1) Următoarele informații, inclusiv actualizări
+periodice cu o frecvență cel puțin anuală, referitoare la politica
+și practicile de remunerare ale instituției de credit pentru acele
+categorii de personal ale căror activități profesionale au un
+impact semnificativ asupra profilului de risc al acesteia, trebuie
+făcute publice:
+a) informații privind procesul de luare a deciziilor, utilizate
+pentru determinarea politicii de remunerare, incluzând, dacă
+este cazul, informații referitoare la componența și mandatul
+comitetului de remunerare, la consultantul extern ale cărui
+servicii au fost utilizate pentru determinarea politicii de
+remunerare și la rolul deținătorilor de interese relevanți;
+b) informații privind legătura dintre remunerația totală și
+performanță;
+c) cele mai importante caracteristici de proiectare ale
+sistemului de remunerare, incluzând informații privind criteriile
+utilizate pentru măsurarea performanței și ajustarea la riscuri,
+politica de amânare și criteriile de intrare în drepturi legate de
+componenta amânată a remunerației variabile;
+
+d) informații privind criteriile de performanță pe care se
+bazează dreptul la acțiuni, opțiuni sau alte componente variabile
+ale remunerației;
+e) principalii parametri și fundamentarea alcătuirii oricărei
+scheme a componentei variabile și a acordării oricăror alte
+beneficii de tip non-cash;
+f) informații cantitative agregate privind remunerația,
+defalcate pe domenii de activitate;
+g) informații cantitative agregate privind remunerația, pentru
+membrii organelor cu funcție de conducere și membrii
+personalului ale căror acțiuni au un impact semnificativ asupra
+profilului de risc al instituției de credit, cu indicarea următoarelor
+elemente:
+(i) sumele aferente remunerației pentru anul financiar,
+defalcate pe remunerație fixă și variabilă, și numărul
+de beneficiari;
+(ii) sumele și formele remunerației variabile, defalcate pe
+numerar, acțiuni, instrumente legate de acțiuni și alte
+tipuri de instrumente;
+(iii) sumele remunerației amânate datorate și neplătite,
+defalcate pe părți pentru care au fost îndeplinite
+criteriile de intrare în drepturi și părți pentru care nu au
+fost îndeplinite criteriile de intrare în drepturi;
+(iv) sumele remunerației amânate acordate pe parcursul
+anului financiar, plătite și reduse prin intermediul
+ajustărilor de performanță;
+(v) plăți legate de noi angajări efectuate pe parcursul
+anului financiar și numărul de beneficiari ai unor astfel
+de plăți; și
+(vi) sumele plăților compensatorii legate de încetarea
+raporturilor contractuale, acordate pe parcursul anului
+financiar, numărul de beneficiari și cea mai mare plată
+de acest tip acordată unei singure persoane.
+(2) În cazul instituțiilor de credit care sunt semnificative în
+raport cu mărimea, organizarea internă și natura, extinderea și
+complexitatea activităților acestora, informațiile cantitative la
+care se face referire în acest articol trebuie, de asemenea,
+făcute publice la nivelul membrilor organelor cu funcție de
+supraveghere, în sensul art. 13 din Ordonanța de urgență a
+Guvernului nr. 99/2006, aprobată cu modificări și completări prin
+Legea nr. 227/2007, cu modificările și completările ulterioare.
+(3) Instituțiile de credit trebuie să se conformeze cu cerințele
+prevăzute în prezentul articol într-o modalitate care să fie
+corespunzătoare mărimii, organizării interne și naturii, extinderii
+și complexității activităților acestora și care să nu aducă atingere
+implementării prevederilor Directivei Parlamentului European și
+a Consiliului 95/46/CE a Parlamentului European și a Consiliului
+din 24 octombrie 1995 privind protecția persoanelor fizice în
+ceea ce privește prelucrarea datelor cu caracter personal și
+libera circulație a unor astfel de date.
+(4) În înțelesul prezentului regulament, expresia organe cu
+funcție de supraveghere are înțelesul prevăzut în art. 2 alin. (5)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+lit. b) din Regulamentul BNR nr. 18/2009, cu modificările și
+completările ulterioare.”
+15. La articolul 21 punctul 2, literele a) și d) se modifică
+și vor avea următorul cuprins:
+ăa) structurii sistemelor interne de rating și a relației dintre
+ratingurile interne și externe;
+...............................................................................................
+d) mecanismelor de control pentru sistemele de rating,
+incluzând o descriere a independenței, responsabilității și a
+examinării sistemelor de rating;”.
+16. La articolul 21 punctul 3, litera c) se modifică și va
+avea următorul cuprins:
+ăc) societăți, incluzând entități mici și mijlocii, finanțare
+specializată și creanțe achiziționate față de societăți;”.
+17. La articolul 21, partea introductivă a punctului 5 și
+punctele 6, 7 și 9 se modifică și vor avea următorul cuprins:
+ă5. pentru fiecare dintre clasele de expuneri «administrații
+centrale sau bănci centrale», «instituții», «societăți» și «titluri de
+capital» și de-a lungul unui număr suficient de clase de rating ale
+debitorilor (inclusiv pentru cei aflați în stare de nerambursare),
+în vederea obținerii unei diferențieri corespunzătoare a riscului
+de credit, instituțiile de credit vor face publice următoarele
+informații:
+...............................................................................................
+6. pentru clasa expunerilor de tip retail și pentru fiecare dintre
+categoriile definite la pct. 3 lit. d), fie informațiile publicate și
+menționate la pct. 5 (dacă este cazul, la nivel de grupă de risc),
+fie o analiză a expunerilor (credite în sold și valorile expunerilor
+pentru angajamentele de finanțare netrase) având ca referință
+un număr suficient de clase de rating ale pierderii așteptate, în
+vederea obținerii unei diferențieri corespunzătoare a riscului de
+credit (dacă este cazul, la nivel de grupă de risc);
+7. ajustările de valoare efective în perioada precedentă
+pentru fiecare clasă de expuneri [la expunerile de tip retail,
+pentru fiecare dintre categoriile definite la pct. 3 lit. d)], precum
+și variațiile în raport cu perioadele anterioare;
+...............................................................................................
+9. o comparație între estimările instituțiilor de credit și
+rezultatele efective pentru o perioadă mai îndelungată. Aceasta
+va cuprinde, cel puțin, informații referitoare la estimările
+pierderilor în raport cu pierderile efective din fiecare clasă de
+expuneri [pentru expuneri de tip retail, pentru fiecare categorie
+definită la pct. 3 lit. d)] pentru o perioadă de timp suficient de
+îndelungată pentru a permite o evaluare corespunzătoare a
+performanțelor înregistrate de procesele interne de rating
+aferente fiecărei clase de expuneri [pentru expuneri de tip retail,
+pentru fiecare categorie definită la pct. 3 lit. d)]. Dacă este cazul,
+instituțiile de credit vor detalia comparația la nivelul probabilității
+de nerambursare și, pentru instituțiile de credit care utilizează
+propriile estimări pentru pierderile în caz de nerambursare și/sau
+pentru factorii de conversie, la nivelul valorilor efective ale
+pierderilor în caz de nerambursare și ale factorilor de conversie
+în raport cu estimările furnizate în informațiile referitoare la
+evaluarea cantitativă a riscurilor.”
+
+29
+
+18. La articolul 23, punctele 4 și 6 se modifică și vor avea
+următorul cuprins:
+ă4. principalele tipuri de garanți și de contrapartide în cazul
+instrumentelor financiare derivate de credit, precum și bonitatea
+acestora;
+...............................................................................................
+6. pentru instituțiile de credit care calculează valoarea
+ponderată la risc a expunerilor conform Regulamentului BNR—
+CNVM nr. 14/19/2006, cu modificările și completările ulterioare,
+sau Regulamentului BNR—CNVM nr. 15/20/2006 privind
+tratamentul riscului de credit pentru instituțiile de credit și firmele
+de investiții potrivit abordării bazate pe modele interne de rating,
+cu modificările și completările ulterioare, dar nu furnizează
+propriile estimări ale pierderilor în caz de nerambursare sau ale
+factorilor de conversie pentru clasa de expuneri, separat pentru
+fiecare clasă de expuneri în parte, valoarea totală a expunerii
+(după compensarea bilanțieră sau compensarea elementelor
+din afara bilanțului, dacă este cazul) care este acoperită, după
+aplicarea ajustărilor de volatilitate, de garanții reale financiare
+eligibile sau de alte garanții reale eligibile; și”.
+19. Articolul 24 se modifică și va avea următorul cuprins:
+ăArt. 24. — Instituțiile de credit care utilizează abordarea
+prevăzută la art. 17 din Regulamentul BNR—CNVM
+nr. 24/29/2006, cu modificările și completările ulterioare, pentru
+calcularea cerințelor de capital pentru riscul operațional trebuie
+să facă publică o descriere a utilizării asigurărilor și altor
+mecanisme de transfer al riscului pentru scopul diminuării
+acestui risc.”
+Art. II. — Prezentul regulament intră în vigoare la data de
+31 decembrie 2010, cu excepția prevederilor art. I pct. 14, care
+se aplică începând cu data de 1 ianuarie 2011.
+Prezentul regulament transpune dispoziții cuprinse în
+directive ale Uniunii Europene, după cum urmează:
+1. dispozițiile art. 1 paragrafele 13 și 14 din Directiva
+2009/83/CE a Comisiei din 27 iulie 2009 de modificare a unor
+anexe la Directiva 2006/48/CE a Parlamentului European și a
+Consiliului în ceea ce privește normele tehnice referitoare la
+administrarea riscurilor, publicată în Jurnalul Oficial al Uniunii
+Europene nr. L 196 din 28 iulie 2009;
+2. dispozițiile art. 1 paragraful 43 din Directiva 2009/111/CE
+a Parlamentului European și a Consiliului din 16 septembrie
+2009 de modificare a directivelor 2006/48/CE, 2006/49/CE și
+2007/64/CE în ceea ce privește băncile afiliate instituțiilor
+centrale, anumite elemente ale fondurilor proprii, expunerile
+mari, reglementările privind supravegherea, precum și
+gestionarea crizelor, publicată în Jurnalul Oficial al Uniunii
+Europene nr. L 302 din 17 noiembrie 2009;
+3. dispozițiile pct. 5 lit. b) (iii) din anexa I la Directiva
+Parlamentului European și a Consiliului de modificare a
+directivelor 2006/48 și 2006/49 în ceea ce privește cerințele de
+capital pentru portofoliul de tranzacționare și resecuritizare,
+precum și procesul de supraveghere a politicilor de remunerare.
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+BANCA NAȚIONALĂ A ROMÂNIEI
+Nr. 21 din 30 septembrie 2010
+
+COMISIA NAȚIONALĂ A VALORILOR MOBILIARE
+Nr. 78 din 8 octombrie 2010
+
+ORDIN
+privind aprobarea Regulamentului Băncii Naționale a României
+și al Comisiei Naționale a Valorilor Mobiliare nr. 23/21/2010 pentru modificarea și completarea
+Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare
+nr. 13/18/2006 privind determinarea cerințelor minime de capital pentru instituțiile de credit
+și firmele de investiții
+Având în vedere dispozițiile art. 126, 278, 384, 385 și ale art. 421 alin. (2) din Ordonanța de urgență a Guvernului
+nr. 99/2006 privind instituțiile de credit și adecvarea capitalului, aprobată cu modificări și completări prin Legea nr. 227/2007, cu
+modificările și completările ulterioare,
+în temeiul prevederilor art. 420 alin. (3) din Ordonanța de urgență a Guvernului nr. 99/2006, aprobată cu modificări și
+completări prin Legea nr. 227/2007, cu modificările și completările ulterioare, și ale art. 48 din Legea nr. 312/2004 privind Statutul
+Băncii Naționale a României, precum și ale art. 1, 2 și ale art. 7 alin. (1), (3), (10) și (15) din Statutul Comisiei Naționale a Valorilor
+Mobiliare, aprobat prin Ordonanța de urgență a Guvernului nr. 25/2002, aprobată cu modificări și completări prin Legea
+nr. 514/2002, cu modificările și completările ulterioare,
+Banca Națională a României și Comisia Națională a Valorilor Mobiliare emit următorul ordin:
+Art. 1. — Se aprobă Regulamentul Băncii Naționale a
+României și al Comisiei Naționale a Valorilor Mobiliare
+nr. 23/21/2010
+
+pentru
+
+modificarea
+
+și
+
+completarea
+
+Regulamentului Băncii Naționale a României și al Comisiei
+Naționale a Valorilor Mobiliare nr. 13/18/2006 privind
+determinarea cerințelor minime de capital pentru instituțiile de
+
+Mobiliare nr. 10/107/2006, cu completările ulterioare, prevăzut în
+anexa care face parte integrantă din prezentul ordin.
+Art. 2. — Prezentul ordin și regulamentul menționat la art. 1
+se publică în Monitorul Oficial al României, Partea I.
+Art. 3. — Banca Națională a României și Comisia Națională
+
+credit și firmele de investiții, aprobat prin Ordinul Băncii
+
+a Valorilor Mobiliare vor urmări ducerea la îndeplinire a
+
+Naționale a României și al Comisiei Naționale a Valorilor
+
+prevederilor prezentului ordin.
+
+Președintele Consiliului de administrație
+al Băncii Naționale a României,
+Mugur Constantin Isărescu
+
+Președintele Comisiei Naționale a Valorilor Mobiliare,
+Gabriela Anghelache
+
+ANEXĂ
+
+R E G U L A M E N T U L Nr. 23/21/2010
+pentru modificarea și completarea Regulamentului Băncii Naționale a României
+și al Comisiei Naționale a Valorilor Mobiliare nr. 13/18/2006 privind determinarea cerințelor minime de capital
+pentru instituțiile de credit și firmele de investiții
+Art. I. — Regulamentul Băncii Naționale a României și al
+Comisiei Naționale a Valorilor Mobiliare nr. 13/18/2006 privind
+determinarea cerințelor minime de capital pentru instituțiile de
+credit și firmele de investiții, aprobat prin Ordinul Băncii
+Naționale a României și al Comisiei Naționale a Valorilor
+Mobiliare nr. 10/107/2006, publicat în Monitorul Oficial al
+României, Partea I, nr. 1.033 și 1.033 bis din 27 decembrie
+2006, cu completările ulterioare, se modifică și se completează
+după cum urmează:
+
+1. La articolul 2, litera a) se modifică și va avea următorul
+cuprins:
+ăa) pentru riscul de credit și riscul de diminuare a valorii
+creanței aferente întregii activități, cu excepția operațiunilor din
+portofoliul de tranzacționare, 8% din totalul valorilor ponderate
+la risc ale expunerilor, calculate, după caz, în conformitate cu
+Regulamentul BNR—CNVM nr. 14/19/2006 privind tratamentul
+riscului de credit pentru instituțiile de credit și firmele de investiții
+potrivit abordării standard, cu modificările și completările
+ulterioare, Regulamentul BNR—CNVM nr. 15/20/2006 privind
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 726/1.XI.2010
+tratamentul riscului de credit pentru instituțiile de credit și firmele
+de investiții potrivit abordării bazate pe modele interne de rating,
+cu modificările și completările ulterioare, și/sau Regulamentul
+BNR—CNVM nr. 18/16/2010 privind tratamentul riscului de
+credit aferent expunerilor securitizate și pozițiilor din
+securitizare;”.
+2. La articolul 3, alineatul (1) se modifică și va avea
+următorul cuprins:
+ăArt. 3. — (1) Instituțiile de credit vor evalua activele și
+elementele din afara bilanțului în conformitate cu reglementările
+contabile aplicabile și, după caz, în conformitate cu
+Regulamentul (CE) nr. 1.606/2002 privind aplicarea
+Standardelor Internaționale de Contabilitate, în condițiile
+prevăzute de Ordinul Băncii Naționale a României nr. 13/2008
+pentru aprobarea Reglementărilor contabile conforme cu
+directivele europene, aplicabile instituțiilor de credit, instituțiilor
+financiare nebancare și Fondului de garantare a depozitelor în
+sistemul bancar, cu modificările și completările ulterioare.”
+3. La articolul 3, după alineatul (1) se introduce un nou
+alineat, alineatul (11), cu următorul cuprins:
+ă(11) Societățile de servicii de investiții financiare, precum și
+societățile de administrare a investițiilor care au în obiectul de
+activitate administrarea portofoliilor individuale de investiții vor
+evalua activele și elementele din afara bilanțului în conformitate
+cu reglementările contabile aplicabile entităților autorizate,
+reglementate și supravegheate de Comisia Națională a Valorilor
+Mobiliare.”
+
+31
+
+4. La articolul 3, după alineatul (2) se introduc două noi
+alineate, alineatele (21) și (22), cu următorul cuprins:
+ă(21) În vederea transmiterii de către instituțiile de credit a
+datelor obținute în urma calculului menționat la alin. (2), Banca
+Națională a României va implementa, împreună cu celelalte
+autorități competente, formulare de raportare cu conținut,
+frecvențe și date de raportare uniforme, în conformitate cu
+ghidurile Comitetului Supraveghetorilor Bancari Europeni.
+Formularele de raportare vor fi proporționale cu natura,
+dimensiunea și complexitatea activităților instituțiilor de credit.
+(22) În vederea transmiterii de către societățile de servicii de
+investiții financiare și de către societățile de administrare a
+investițiilor care au în obiectul de activitate administrarea
+portofoliilor individuale de investiții a datelor obținute în urma
+calculului menționat la alin. (2), aceste societăți vor utiliza
+formularele de raportare cu conținut, frecvențe și date de
+raportare uniforme prevăzute la alin. (21).”
+Art. II. — Prezentul regulament intră în vigoare la data de
+31 decembrie 2010.
+Prezentul regulament transpune prevederile art. 1 paragraful 14
+și ale art. 2 paragraful 6 din Directiva 2009/111/CE a
+Parlamentului European și a Consiliului din 16 septembrie 2009
+de modificare a directivelor 2006/48/CE, 2006/49/CE și
+2007/64/CE în ceea ce privește băncile afiliate instituțiilor
+centrale, anumite elemente ale fondurilor proprii, expunerile
+mari, reglementările privind supravegherea, precum și
+gestionarea crizelor, publicată în Jurnalul Oficial al Uniunii
+Europene nr. L 302 din 17 noiembrie 2009.
+
+ABONAMENTE LA PUBLICAȚIILE OFICIALE PE SUPORT FIZIC
+— Prețuri pentru anul 2010 —
+Nr.
+crt.
+
+Valoare
+(TVA 9% inclus) — lei
+
+Număr
+de apariții
+anuale
+
+Denumirea publicației
+
+12 luni
+
+3 luni
+
+1 lună
+
+900
+
+1.200
+
+330
+
+120
+
+100
+
+1.500
+
+140
+
+Monitorul Oficial, Partea a II-a
+
+200
+
+2.250
+
+200
+
+4.
+
+Monitorul Oficial, Partea a III-a
+
+500
+
+430
+
+40
+
+5.
+
+Monitorul Oficial, Partea a IV-a
+
+6.000
+
+1.720
+
+160
+
+6.
+
+Monitorul Oficial, Partea a VI-a
+
+240
+
+1.600
+
+150
+
+7.
+
+Monitorul Oficial, Partea a VII-a
+
+48
+
+540
+
+50
+
+8.
+
+Colecția Legislația României
+
+4
+
+450
+
+9.
+
+Colecția Hotărâri ale Guvernului României
+
+12
+
+750
+
+1.
+
+Monitorul Oficial, Partea I
+
+2.
+
+Monitorul Oficial, Partea I, limba maghiară
+
+3.
+
+120
+70
+
+NOTĂ:
+
+Monitorul Oficial, Partea I bis, se multiplică și se achiziționează pe bază de comandă.
+
+A B O N A M E N T E L A P R O D U S E L E Î N F O R M AT E L E C T R O N I C
+— Prețuri pentru anul 2010 —
+Abonamentul FLEXIBIL
+(Monitorul Oficial, Partea I + alte 3 părți ale Monitorului Oficial, la alegere)
+Lunar
+
+Produs
+
+Anual
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+AutenticMO
+
+40
+
+100
+
+250
+
+600
+
+1.320
+
+400
+
+1.000
+
+2.500
+
+6.000
+
+13.200
+
+ExpertMO
+
+90
+
+230
+
+580
+
+1.390
+
+3.060
+
+900
+
+2.250
+
+5.630
+
+13.510
+
+29.720
+
+Abonamentul COMPLET
+(Monitorul Oficial, Partea I + toate celelalte părți ale Monitorului Oficial)
+Lunar
+
+Produs
+
+Anual
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+AutenticMO
+
+50
+
+130
+
+330
+
+790
+
+1.740
+
+500
+
+1.250
+
+3.130
+
+7.510
+
+16.520
+
+ExpertMO
+
+110
+
+280
+
+700
+
+1.680
+
+3.700
+
+1.100
+
+2.750
+
+6.880
+
+16.510
+
+36.320
+
+Prețurile sunt exprimate în lei și conțin TVA.
+Mai multe informații puteți găsi pe site-ul www.expert-monitor.ro, unde puteți aplica on-line comanda.
+
+Georgeta N. Stoica
+
+Motivul: Format electronic AUTENTIC, conform Legii nr. 202/1998, republicata.
+Locatia:Bucuresti
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+ăMonitorul Oficial” R.A., Str. Parcului nr. 65, sectorul 1, București; C.I.F. RO427282,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala ăUnirea” București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 021.318.51.29/150, fax 021.318.51.15, e-mail: marketing@ramo.ro, internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 021.401.00.70, fax 021.401.00.71 și 021.401.00.72
+Tiparul: ăMonitorul Oficial” R.A.
+Monitorul Oficial al României, Partea I, nr. 726/1.XI.2010 conține 32 de pagini.
+
+Prețul: 6,40 lei
+
+&JUYDGY|447127]
+ISSN 1453—4495
+
+

@@ -1,0 +1,766 @@
+Anul 173 (XVII) — Nr. 820
+
+PARTEA
+
+I
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+Vineri, 9 septembrie 2005
+
+SUMAR
+
+Nr.
+
+Pagina
+
+Nr.
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+221.
+
+642.
+
+— Ordin al președintelui Comisiei Naționale pentru
+Controlul Activităților Nucleare pentru aprobarea
+Normelor privind limitarea eliberărilor de efluenți
+radioactivi în mediu...................................................
+
+armonizate referitoare la echipamente și sisteme
+protectoare destinate utilizării în atmosfere
+potențial explozive .....................................................
+
+1–7
+
+44.
+
+— Ordin al ministrului muncii, solidarității sociale
+și familiei privind aprobarea Listei standardelor
+române care adoptă standarde europene
+
+ACTE
+ALE
+
+ALE
+
+Pagina
+
+7–15
+
+ACTE ALE COMISIEI NAȚIONALE
+A VALORILOR MOBILIARE
+— Ordin pentru aprobarea Regulamentului
+Comisiei Naționale a Valorilor Mobiliare nr. 8/2005
+de modificare a Regulamentului nr. 5/2005 privind
+Registrul public al Comisiei Naționale a Valorilor
+Mobiliare ....................................................................
+
+16
+
+ORGANELOR
+
+ADMINISTRAȚIEI
+
+DE
+
+SPECIALITATE
+
+PUBLICE
+
+CENTRALE
+
+GUVERNUL ROMÂNIEI
+COMISIA NAȚIONALĂ PENTRU CONTROLUL ACTIVITĂȚILOR NUCLEARE
+
+ORDIN
+pentru aprobarea Normelor privind limitarea eliberărilor de efluenți radioactivi în mediu
+În conformitate cu prevederile:
+• Legii nr. 111/1996 privind desfășurarea în siguranță a activităților nucleare, republicată, cu modificările și
+completările ulterioare;
+• Hotărârii Guvernului nr. 1.627/2003 privind aprobarea Regulamentului de organizare și funcționare a Comisiei
+Naționale pentru Controlul Activităților Nucleare, cu modificările ulterioare,
+președintele Comisiei Naționale pentru Controlul Activităților Nucleare emite următorul ordin:
+Art. 1. — Se aprobă Normele privind limitarea
+eliberărilor de efluenți radioactivi în mediu prezentate în
+anexa care face parte integrantă din prezentul ordin.
+Art. 2. — Prezentul ordin va fi publicat în Monitorul
+Oficial al României, Partea I.
+
+Art. 3. — Normele prevăzute la art. 1 intră în vigoare la
+data publicării în Monitorul Oficial al României, Partea I.
+Art. 4. — Direcția radioprotecție și deșeuri radioactive va
+duce la îndeplinire prevederile prezentului ordin.
+
+Președintele Comisiei Naționale pentru Controlul Activităților Nucleare,
+Vilmos Zsombori
+București, 25 august 2005.
+Nr. 221.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 820/9.IX.2005
+ANEXĂ
+
+NORME
+privind limitarea eliberărilor de efluenți radioactivi în mediu
+CAPITOLUL 1
+Scop și definiții
+Art. 1. — Prezentele norme sunt emise în temeiul Legii
+nr. 111/1996 privind desfășurarea în siguranță a activităților
+nucleare, republicată, cu modificările și completările
+ulterioare, de către Comisia Națională pentru Controlul
+Activităților Nucleare, denumită în continuare CNCAN, și
+stabilesc principiile și cerințele generale privind eliberările
+de efluenți radioactivi lichizi și gazoși în mediu, precum și
+autorizarea și controlul acestor eliberări.
+Art. 2. — Prezentele norme completează prevederile
+Normelor fundamentale de securitate radiologică, aprobate prin
+Ordinul președintelui CNCAN nr. 14/2000 și publicate în
+Monitorul Oficial al României, Partea I, nr. 404 și 404 bis din
+29 august 2000, ale Normelor fundamentale pentru
+gospodărirea în siguranță a deșeurilor radioactive, aprobate
+prin Ordinul președintelui CNCAN nr. 56/2004 și publicate în
+Monitorul Oficial al României, Partea I, nr. 393 din 4 mai
+2004, și ale Normelor de securitate radiologică privind
+radioprotecția operațională în mineritul și prepararea
+minereurilor de uraniu și toriu, aprobate prin Ordinul
+președintelui CNCAN nr. 127/2002 și publicate în Monitorul
+Oficial al României, Partea I, nr. 677 din 12 septembrie 2002.
+Art. 3. — În scopul aplicării prezentelor norme, pe lângă
+termenii și expresiile care se definesc în Legea
+nr. 111/1996, republicată, cu modificările și completările
+ulterioare, și în Normele fundamentale de securitate
+radiologică, aprobate prin Ordinul președintelui CNCAN
+nr. 14/2000, mai sunt utilizați termeni și expresii specifice,
+ale căror definiții sunt date în anexa nr. 1, care face parte
+integrantă din prezentele norme.
+CAPITOLUL 2
+Domeniul de aplicabilitate
+Art. 4. — (1) Prezentele norme se aplică tuturor
+practicilor în care, în cadrul operării normale, urmează să
+fie eliberate în mediu, în cantități și în concentrații limitate,
+substanțe radioactive sub formă lichidă sau gazoasă.
+(2) În particular, prezentele norme se aplică la practicile
+privind centralele nuclearoelectrice, reactorii de cercetare,
+stațiile pentru tratarea și condiționarea deșeurilor
+radioactive, mineritul și prepararea minereurilor de uraniu
+sau toriu, prelucrarea materiei prime nucleare și fabricarea
+combustibilului nuclear, precum și la practicile medicale,
+industriale și de cercetare unde are loc eliberarea de
+efluenți radioactivi, inclusiv eliberarea de efluenți radioactivi
+la canalizarea publică.
+(3) Prezentele norme nu se aplică în situații de accident.
+(4) Prezentele norme nu se aplică eliberărilor de efluenți
+radioactivi de la depozitele finale de deșeuri radioactive sau
+de la minele de uraniu ori toriu după finalizarea închiderii;
+pentru aceste situații autorizarea și controlul eliberărilor de
+efluenți radioactivi se vor stabili prin reglementări specifice.
+CAPITOLUL 3
+Obiectiv
+Art. 5. — Obiectivul prezentelor norme este limitarea și
+optimizarea eliberărilor de efluenți radioactivi în mediu în
+vederea asigurării protejării sănătății populației și protecției
+mediului acum și în viitor.
+CAPITOLUL 4
+Constrângeri de doză anuală și limitele derivate de emisie
+Art. 6. — (1) Pentru fiecare dintre practicile pentru care,
+în cadrul operării normale, urmează să fie evacuate în
+
+mediu substanțe radioactive sub formă lichidă sau gazoasă,
+CNCAN stabilește constrângeri de doză efectivă anuală
+pentru persoanele din populație, referitoare la expunerea la
+radiații datorată efluenților radioactivi.
+(2) Constrângerile de doză efectivă anuală stabilite de
+CNCAN asigură ca limitele anuale de doză efectivă pentru
+persoanele din populație, acum și în viitor, să nu fie
+depășite, în condițiile în care persoana respectivă este
+supusă expunerii provenite de la toate sursele și practicile
+relevante.
+(3) Constrângerile de doză efectivă anuală prevăzute la
+alin. (1) se referă la doza anuală încasată prin expunere
+externă, însumată cu doza anuală angajată ca urmare a
+încorporării de către persoanele din grupurile critice
+existente sau anticipate, pe toate căile relevante de
+expunere la radiații a persoanelor respective, ce decurg din
+eliberările de efluenți radioactivi în mediu.
+Art. 7. — (1) Solicitantul/titularul de autorizație a unei
+practici pentru care, în cadrul operării normale, urmează să
+fie evacuați în mediu efluenți radioactivi sub formă lichidă
+sau gazoasă trebuie să stabilească limite derivate de
+emisie anuală a efluenților radioactivi lichizi, respectiv
+gazoși, care să asigure respectarea constrângerilor de doză
+efectivă anuală.
+(2) În vederea declanșării de investigații în cazul
+apariției emisiilor crescute de efluenți radioactivi, pentru a
+preveni nerespectarea limitelor derivate de emisie anuală,
+precum și pentru a preveni posibilitatea creșterii
+semnificative a dozelor datorită emisiilor crescute de
+efluenți radioactivi în condiții de dispersie slabă în mediu,
+CNCAN poate cere titularului de autorizație să stabilească
+și limite derivate de emisie zilnică pe deversare,
+săptămânală, lunară și trimestrială.
+(3) Limitele derivate de emisie prevăzute la alin. (1)
+și (2) trebuie să fie certificate de un expert acreditat.
+(4) Se exceptează de la prevederile alin. (1) și (2):
+a) practicile medicale, industriale sau de cercetare,
+pentru care CNCAN a autorizat eliberarea efluenților
+radioactivi lichizi la canalizarea publică, pentru care limitele
+derivate de emisie implicite se stabilesc conform anexei
+nr. 2 care face parte integrantă din prezentele norme;
+b) practicile medicale, industriale sau de cercetare,
+pentru care CNCAN a autorizat limitele derivate implicite de
+emisie a efluenților radioactivi gazoși, conform anexei nr. 2.
+(5) Limitele derivate de emisie anuală stabilite de
+solicitantul/titularul de autorizație, conform prevederilor
+alin. (1) și (4), precum și limitele derivate de emisie zilnică
+pe deversare, săptămânală, lunară și trimestrială, stabilite
+de solicitantul/titularul de autorizație conform prevederilor
+alin. (2), se aprobă de CNCAN în procesul de autorizare.
+(6) În vederea optimizării expunerii la radiații a populației
+și a mediului, datorită eliberărilor de efluenți radioactivi,
+solicitantul/titularul de autorizație trebuie să realizeze
+evaluarea dozei anuale colective ce decurge din eliberările
+de efluenți radioactivi.
+(7) Măsurile de reducere a eliberărilor de efluenți
+radioactivi la valori mai joase decât limitele derivate de
+emisie anuală a efluenților radioactivi, alegerea metodelor și
+echipamentelor adecvate de monitorizare a emisiilor
+radioactive și a radioactivității mediului în vecinătatea
+instalațiilor nucleare și radiologice, precum și amploarea
+programelor de monitorizare vor fi optimizate luându-se în
+considerare atât doza efectivă anuală încasată de
+persoanele din grupurile critice, cât și dozele efective
+colective anuale pentru populație, ce decurg din eliberările
+de efluenți radioactivi.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 820/9.IX.2005
+CAPITOLUL 5
+Stabilirea limitelor derivate de emisie anuală a efluenților
+radioactivi și aprobarea acestora de către CNCAN
+Art. 8. — (1) Pentru stabilirea limitelor derivate de
+emisie anuală solicitantul/titularul de autorizație trebuie să
+evalueze dozele anuale corespunzătoare evacuărilor
+intenționate pentru toți radionuclizii emiși, pe fiecare cale
+de evacuare, determinând ponderea relativă a dozelor
+corespunzătoare fiecărui radionuclid de pe fiecare cale de
+evacuare.
+(2) Pe baza ponderilor relative, pentru fiecare
+radionuclid de pe fiecare cale de evacuare se stabilesc
+limite derivate de emisie anuală în așa fel încât pe total
+să se satisfacă constrângerea de doză efectivă anuală,
+conform formulei:
+E
+∑∑ (fik)model · Q* ≤ constr ,
+ik
+i k
+Γ
+unde:
+— (fik)model este doza efectivă maximă anuală pentru o
+persoană din grupul critic, datorată eliberării unui bequerel
+din radionuclidul i sau grupul de radionuclizi i, stabilit
+conform prevederilor alin. (3), pe calea de eliberare k;
+(fik)model trebuie să fie calculat conform unui model agreat
+în prealabil de CNCAN;
+— Q* este limita derivată de emisie anuală, exprimată
+ik
+în Bq/an, pentru radionuclidul i sau grupul de radionuclizi i,
+pe calea de evacuare k; doza respectivă este calculată cu
+același model folosit pentru calcularea lui (fik)model, model
+agreat în prealabil de CNCAN;
+— Econstr este constrângerea de doză efectivă anuală,
+exprimată în Sv/an pentru persoanele din grupurile critice
+referitoare la expunerea la radiații datorată efluenților
+radioactivi;
+— Γ este un factor de siguranță care ține cont de
+incertitudinile modelului utilizat la calculul dozelor și a cărui
+valoare se aprobă de CNCAN odată cu limitele derivate de
+emisie anuală.
+(3) CNCAN poate accepta și stabilirea de limite derivate
+de emisie anuală pentru grupurile de radionuclizi (cum ar fi
+gaze nobile, halogeni sau grupuri de radionuclizi mai puțin
+relevanți pentru doză), caz în care pentru stabilirea limitei
+derivate de emisie anuală pentru grupul respectiv se
+utilizează ipoteze conservative, cum ar fi, de exemplu,
+considerarea celui mai restrictiv radionuclid din grup.
+(4) În cazul în care constrângerea de doză efectivă
+anuală este stabilită de CNCAN separat pentru diferite căi
+de evacuare, este necesar ca pentru fiecare cale de
+evacuare k să fie satisfăcută constrângerea de doză
+respectivă, conform formulei:
+E
+∑ (fik)model · Q* ≤ constr,k ,
+ik
+i
+Γ
+unde:
+— Econstr,k reprezintă constrângerea de doză efectivă
+anuală, pentru persoane din grupuri critice față de calea de
+eliberare k, exprimată în mSv/an.
+Simbolurile celelalte au aceeași semnificație ca în
+formula prezentată la alin. (2).
+Art. 9. — (1) Aprobarea de către CNCAN a limitelor
+derivate de emisie, prevăzută la art. 7 alin. (1), (2) și (4),
+se face pe baza analizării documentației suport.
+(2) Documentația suport prevăzută la alin. (1) va
+cuprinde cel puțin următoarele elemente:
+a) descrierea exhaustivă a căilor și mecanismelor de
+evacuare și de dispersie în mediile receptoare a efluenților
+radioactivi (descrierea va fi însoțită de desene lămuritoare);
+b) caracteristicile fizico-chimice relevante ale efluenților
+radioactivi și estimarea activităților anuale și a
+concentrațiilor activității pentru radionuclizii conținuți în
+efluenți, pentru fiecare cale de evacuare (se vor preciza
+
+3
+
+atât valorile pentru operare normală, cât și pentru situațiile
+anormale, pentru toată durata de desfășurare a practicii);
+c) căile de expunere prin care radionuclizii emiși pot
+conduce la expunerea populației și/sau la contaminarea
+mediului ambiant;
+d) grupurile critice și justificarea selectării lor (grupurile
+critice trebuie să fie suficient de mici pentru a asigura
+omogenitatea referitoare la vârstă, dietă, condiții de viață și
+mediu, precum și la acele aspecte comportamentale care
+afectează dozele încasate);
+e) modelul de evaluare a dozelor, valorile parametrilor
+relevanți utilizați în cadrul modelului și justificarea selectării
+acestor valori, precum și incertitudinile asociate calculelor
+de doză (modelul va ține cont de variațiile unor parametri
+importanți, cum ar fi concentrația de activitate în efluenții
+radioactivi lichizi sau debitul apei receptoare pentru efluenții
+lichizi, precum și de condițiile climatice și de acumularea
+radionuclizilor emiși în anii anteriori);
+f) valoarea factorului de siguranță Γ prevăzut în
+formulele cuprinse la art. 8 alin. (2) și (4), utilizate pentru
+demonstrarea respectării constrângerilor de doză, precum și
+justificarea selectării acestei valori;
+g) valorile stabilite pentru limitele derivate de emisie și
+calculul acestor valori;
+h) descrierea generală a programului de monitorizare a
+emisiilor radioactive și a programului de monitorizare a
+radioactivității mediului în vecinătatea instalației nucleare
+sau radiologice;
+i) măsurile de optimizare avute în vedere pentru
+minimizarea evacuărilor de efluenți radioactivi;
+j) un studiu preoperațional care să constituie baza de
+stabilire a căilor de expunere și grupurile critice menționate
+la lit. c) și, respectiv, lit. d).
+CAPITOLUL 6
+Responsabilitățile titularului de autorizație pe durata
+operării instalației
+Art. 10. — Titularul de autorizație trebuie să respecte,
+după caz, următoarele restricții la deversarea efluenților
+radioactivi lichizi:
+a) lichidele de deversare trebuie să fie miscibile cu apa
+și rapid dispersabile în apă;
+b) dacă lichidul de deversare conține materiale în
+suspensie peste limitele legale, trebuie filtrat înainte de
+deversare;
+c) dacă lichidul de deversare conține sau este suspect
+de a conține particule ori aglomerări de particule cu
+activitate mare, trebuie filtrat înainte de deversare;
+d) lichidele acide sau alcaline trebuie neutralizate înainte
+de deversare;
+e) dacă lichidele de deversare conțin și substanțe toxice
+sau chimice de natură să afecteze în mod nefavorabil
+mediul ori tratarea apelor reziduale, ele trebuie tratate
+înainte de deversare, în conformitate cu reglementările
+specifice de protecție a sănătății și a mediului.
+Art. 11. — (1) Titularul de autorizație trebuie să
+analizeze la intervale regulate de timp eliberările de efluenți
+radioactivi și măsurile de control asociate.
+(2) Dacă autorizația nu prevede altfel, intervalul de timp
+prevăzut la alin. (1) este de 2 ani.
+(3) Titularul de autorizație trebuie să analizeze eliberările
+de efluenți radioactivi și măsurile de control asociate ori de
+câte ori au loc modificări privind căile de expunere sau
+componența grupurilor critice.
+Art. 12. — (1) Titularul de autorizație trebuie să asigure
+optimizarea expunerii populației și a contaminării mediului
+prin reducerea emisiilor de efluenți radioactivi sub valoarea
+limitelor derivate de emisie, atât cât este rezonabil de
+realizat.
+(2) Titularul de autorizație trebuie să stabilească și să
+implementeze programe de monitorizare a emisiilor
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 820/9.IX.2005
+
+radioactive și a radioactivității mediului în vecinătatea
+instalației, pe baza cărora să demonstreze că limitele
+derivate de emisie sunt respectate și să verifice că
+presupunerile făcute privind modelul de evaluare a dozelor
+și valorile parametrilor relevanți utilizați în cadrul modelului
+rămân valabile.
+CAPITOLUL 7
+Evidențe și raportări
+Art. 13. — (1) Titularul de autorizație trebuie să țină
+evidența emisiilor de efluenți radioactivi gazoși și lichizi și a
+dozelor efective asociate.
+(2) Evidența prevăzută la alin. (1) se păstrează până la
+încheierea dezafectării instalației și până la eliberarea
+nerestrictivă a amplasamentului de sub cerințele de
+autorizare.
+Art. 14. — (1) Titularul de autorizație trebuie să
+raporteze la CNCAN până la sfârșitul primului trimestru al
+anului următor emisiile radioactive anuale și dozele efective
+anuale asociate.
+(2) Titularul de autorizație pentru practicile privind
+centralele nuclearoelectrice, reactorii de cercetare,
+extragerea și prepararea minereurilor de uraniu sau toriu
+ori alte practici, pentru care autorizația prevede acest lucru,
+trebuie să raporteze la CNCAN, până la sfârșitul
+trimestrului următor, emisiile radioactive trimestriale și
+dozele efective trimestriale asociate.
+(3) Titularul de autorizație trebuie să raporteze de
+îndată la CNCAN orice depășire a limitelor derivate de
+
+emisie zilnică/pe deversare, săptămânală, lunară sau
+trimestrială.
+CAPITOLUL 8
+Managementul calității
+Art. 15. — (1) Titularul de autorizație trebuie să
+stabilească programe de management al calității privind
+activitățile de monitorizare a emisiilor de efluenți radioactivi
+și activitățile de monitorizare a factorilor de mediu.
+(2) Programele de management al calității prevăzute la
+alin. (1) trebuie să includă măsuri care să asigure că:
+a) cerințele privind monitorizarea emisiilor de efluenți
+radioactivi, monitorizarea factorilor de mediu și
+reprezentativitatea prelevărilor sunt implementate
+corespunzător;
+b) frecvența prelevărilor este corespunzătoare;
+c) procedurile de etalonare și verificare a echipamentelor
+de măsură sunt corespunzătoare;
+d) sunt implementate programe de intercomparare;
+e) măsurările sunt trasabile la standarde internaționale;
+f) laboratoarele analitice sunt desemnate de CNCAN ca
+laboratoare notificate, conform reglementărilor în vigoare;
+g) sistemul de evidență a înregistrărilor este
+corespunzător;
+h) procedura de raportare este în acord cu prevederile
+prezentelor norme și ale celorlalte reglementări interne
+aprobate de CNCAN.
+ANEXA Nr. 1
+
+DEFINIȚII
+
+CDA — concentrația derivată în aer a unui radionuclid,
+exprimată în Bq/m3, reprezentând concentrația de activitate
+a radionuclidului respectiv în aerul în care, dacă o
+persoană lucrează 2.000 de ore, se atinge doza limită
+anuală pentru persoane expuse profesional.
+CMA — concentrația maximă a activității în aer permisă
+pentru un radionuclid, exprimată în Bq/m3; în cuprinsul
+acestor norme CMA = 1% CDA.
+
+Efluenți gazoși — gaze nobile, halogeni, vapori și
+particule, inclusiv aerosoli.
+LAI — Limita anuală de încorporare reprezentând
+activitatea încorporată de o persoană expusă profesional ce
+conduce la o doză angajată de 20 mSv.
+ANEXA Nr. 2
+
+LIMITE
+
+derivate implicite de eliberare a efluenților radioactivi
+a) Limite derivate implicite de eliberare a efluenților
+radioactivi lichizi la canalizarea publică
+1. Pentru practicile medicale, industriale sau de cercetare,
+pentru care CNCAN a autorizat eliberarea efluenților la
+canalizarea publică, eliberările de efluenți radioactivi lichizi
+trebuie să satisfacă următoarele condiții:
+(i) pentru o singură eliberare:
+Ak
+∑
+≤ 2,5,
+k LAImin,k
+unde:
+— A k este activitatea de radionuclid k deversată în
+cursul eliberării respective, exprimată în Bq;
+— LAI min,k este cea mai restrictivă valoare a limitei
+anuale de încorporare prin inhalare sau ingestie a
+radionuclidului k, pentru o persoană expusă profesional,
+exprimată în Bq, obținută pentru doza efectivă anuală de
+20 mSv, utilizându-se valorile pentru coeficienții de doză
+efectivă prevăzuți în tabelele 4-C1 și 4-C2 din anexa nr. 4
+la Normele fundamentale de securitate radiologică, aprobate
+prin Ordinul președintelui CNCAN nr. 14/2000. Valoarea
+
+LAI min,k se obține prin rotunjirea valorii calculate la o
+singură cifră semnificativă;
+(ii) pentru toate eliberările de pe parcursul unei luni:
+Ak
+∑
+≤ 25,
+k LAImin,k
+unde:
+— LAImin,k are semnificația de la condiția (i);
+— A k este activitatea de radionuclid k deversată în
+cursul lunii respective;
+(iii) pentru toate eliberările de pe parcursul unui an
+calendaristic:
+Ak
+∑
+≤ 200,
+k LAImin,k
+unde:
+— LAImin,k are semnificația de la condiția (i);
+— A k este activitatea de radionuclid k deversată în
+cursul anului respectiv.
+2. Valorile LAImin,k pentru cei mai utilizați radionuclizi
+sunt prezentate în tabelul nr. 1.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 820/9.IX.2005
+b) Limite derivate implicite de eliberare a efluenților
+radioactivi gazoși
+1. Pentru practicile medicale, industriale sau de
+cercetare, pentru care CNCAN a autorizat utilizarea
+limitelor implicite de eliberare a efluenților gazoși, eliberările
+respective trebuie să fie limitate în așa fel încât, în
+imediata apropiere a gurii de ventilație (adică, dacă nu
+există puncte mai apropiate unde se poate afla un timp
+semnificativ un lucrător sau o persoană din populație, la
+maximum 5 m de gura de ventilație), să fie satisfăcută
+condiția:
+Ck
+∑
+≤ 1,
+k CMAk
+unde:
+— CMAk este concentrația maximă a activității în aer
+permisă pentru radionuclidul k, exprimată în Bq/m 3 ,
+reprezentând 1% din CDAk (concentrația derivată în aer a
+radionuclidului k);
+— Ck este concentrația activității în aer a radionuclidului
+k în imediata apropiere a gurii de ventilație, exprimată în
+Bq/m3.
+2. Deducerea CDA pentru un radionuclid oarecare, la
+care expunerea externă poate fi neglijată, se face pe baza
+formulei:
+LAIinh,k
+CDAk =
+,
+V
+unde:
+— CDA k este concentrația derivată în aer a
+radionuclidului k, exprimată în Bq/m3;
+
+5
+
+— V este 2.400 m3/an, reprezentând volumul de aer
+inhalat în 2.000 de ore de lucru pe an la o rată de
+inhalare de 1,2 m3/oră;
+— LAI inh,k este limita anuală de încorporare prin
+inhalare a radionuclidului k, pentru o persoană expusă
+profesional, exprimată în Bq, obținută pentru doza efectivă
+anuală de 20 mSv, utilizându-se valorile pentru coeficienții
+de doză efectivă prevăzuți în tabelele 4-C1 și 4-C2 din
+anexa nr. 4 la Normele fundamentale de securitate
+radiologică, aprobate prin Ordinul președintelui CNCAN
+nr. 14/2000, ținând cont de tipul de absorbție pulmonară
+(determinat de forma chimică a substanței radioactive
+emise) și de dimensiunile particulelor emise; dacă acești
+factori sunt necunoscuți, în calcularea CDA k conform
+formulei de mai sus se va utiliza cea mai restrictivă (deci
+cea mai mare) valoare pentru coeficientul de doză efectivă.
+Valoarea CDA se obține prin rotunjirea valorii calculate la o
+singură cifră semnificativă.
+3. La obținerea CDA pentru gazele nobile și gazele
+care nu sunt absorbite ușor în organism, precum și pentru
+radionuclizii de viață scurtă, emițători de radiații gamma
+penetrante, trebuie să se țină cont de expunerea externă.
+Calculul expunerii externe se face utilizându-se modelul
+imersiei într-un nor radioactiv infinit. Valoarea CDA se
+obține prin rotunjirea valorii calculate la o singură cifră
+semnificativă.
+4. Valorile CMA pentru cei mai uzuali radionuclizi și
+condițiile în care s-a efectuat calculul pentru fiecare
+radionuclid sunt prezentate în tabelul nr. 2.
+5. Valorile CMA pentru cele mai uzuale gaze inerte și
+alte gaze pentru care CMA se calculează pe baza
+expunerii externe sunt prezentate în tabelul nr. 3.
+Tabelul Nr. 1*)
+
+Valorile LAImin pentru cei mai uzuali radionuclizi
+
+*) Tabelul nr. 1 este reprodus în facsimil.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 820/9.IX.2005
+
+Tabelul Nr. 2*)
+Valorile CMA pentru cei mai uzuali radionuclizi
+
+*) Tabelul nr. 2 este reprodus în facsimil.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+7
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 820/9.IX.2005
+
+Tabelul Nr. 3*)
+Valorile CMA pentru gaze inerte și alte gaze
+
+*) Tabelul nr. 3 este reprodus în facsimil.
+
+MINISTERUL MUNCII, SOLIDARITĂȚII SOCIALE ȘI FAMILIEI
+
+ORDIN
+privind aprobarea Listei standardelor române care adoptă standarde europene armonizate
+referitoare la echipamente și sisteme protectoare destinate utilizării în atmosfere
+potențial explozive
+Având în vedere art. 5 alin. (1) din Legea protecției muncii nr. 90/1996, republicată, cu modificările și completările
+ulterioare, și art. 7 alin. (2) din Hotărârea Guvernului nr. 752/2004 privind stabilirea condițiilor pentru introducerea pe
+piață a echipamentelor și sistemelor protectoare destinate utilizării în atmosfere potențial explozive,
+în temeiul art. 16 din Hotărârea Guvernului nr. 412/2005 privind organizarea și funcționarea Ministerului Muncii,
+Solidarității Sociale și Familiei, cu modificările și completările ulterioare,
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 820/9.IX.2005
+ministrul muncii, solidarității sociale și familiei emite următorul ordin:
+
+Art. 1. — Se aprobă Lista standardelor române care
+adoptă standarde europene armonizate referitoare la
+echipamente și sisteme protectoare destinate utilizării în
+atmosfere potențial explozive, publicate în Jurnalul Oficial al
+Uniunii Europene prin Comunicarea Comisiei Europene
+nr. C 204/04 din 12 august 2004, prevăzută în anexă.
+Art. 2. — Anexa face parte integrantă din prezentul
+ordin.
+
+Art. 3. — Se abrogă Ordinul ministrului muncii,
+solidarității sociale și familiei nr. 476/2004 privind aprobarea
+Listei standardelor române care adoptă standarde europene
+armonizate referitoare la echipamente și sisteme
+protectoare destinate utilizării în atmosfere potențial
+explozive, publicat în Monitorul Oficial al României,
+Partea I, nr. 866 din 22 septembrie 2004.
+Art. 4. — Prezentul ordin va fi publicat în Monitorul
+Oficial al României, Partea I.
+
+Ministrul muncii, solidarității sociale și familiei,
+Gheorghe Barbu
+București, 30 august 2005.
+Nr. 642.
+ANEXĂ*)
+
+*) Anexa este reprodusă în facsimil.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 820/9.IX.2005
+
+9
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 820/9.IX.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 820/9.IX.2005
+
+11
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 820/9.IX.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 820/9.IX.2005
+
+13
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 820/9.IX.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 820/9.IX.2005
+
+15
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 820/9.IX.2005
+
+ACTE ALE COMISIEI NAȚIONALE
+A VALORILOR MOBILIARE
+COMISIA NAȚIONALĂ A VALORILOR MOBILIARE
+
+ORDIN
+pentru aprobarea Regulamentului Comisiei Naționale a Valorilor Mobiliare nr. 8/2005
+de modificare a Regulamentului nr. 5/2005 privind Registrul public al Comisiei Naționale
+a Valorilor Mobiliare
+În conformitate cu prevederile art. 1, 2 și ale art. 7 alin. (3) și (15) din Statutul Comisiei Naționale a Valorilor
+Mobiliare, aprobat prin Ordonanța de urgență a Guvernului nr. 25/2002, aprobată și modificată prin Legea nr. 514/2002,
+modificat și completat prin Legea nr. 297/2004 privind piața de capital,
+în ședința din 29 august 2005 Comisia Națională a Valorilor Mobiliare a hotărât emiterea următorului ordin:
+Art. 1. — Se aprobă Regulamentul Comisiei Naționale a
+Valorilor Mobiliare nr. 8/2005 de modificare a
+Regulamentului nr. 5/2005 privind Registrul public al
+Comisiei Naționale a Valorilor Mobiliare.
+Art. 2. — Regulamentul menționat la art. 1 intră în
+vigoare la data publicării prezentului ordin în Monitorul
+Oficial al României, Partea I, și va fi publicat în Buletinul
+
+Comisiei Naționale a Valorilor Mobiliare și pe site-ul
+acesteia (www.cnvmr.ro).
+Art. 3. — Direcția reglementare din cadrul Direcției
+generale autorizare reglementare împreună cu Secretariatul
+general și cu directorul general executiv vor urmări ducerea
+la îndeplinire a prevederilor prezentului ordin.
+
+Președintele Comisiei Naționale a Valorilor Mobiliare,
+prof. univ. dr. Gabriela Anghelache
+București, 5 septembrie 2005.
+Nr. 44.
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+Regia Autonomă îMonitorul Oficial“, Str. Parcului nr. 65, sectorul 1, București,
+IBAN: RO75RNCB5101000000120001 Banca Comercială Română — S.A. — Sucursala îUnirea“ București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 318.51.29/150, fax 318.51.15, E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 410.47.30, tel./fax 410.77.36 și 410.47.23
+Tiparul: Regia Autonomă îMonitorul Oficial“
+Monitorul Oficial al României, Partea I, nr. 820/9.IX.2005 conține 16 pagini.
+
+Prețul: 1,05 lei noi/10.500 lei vechi
+
+&JUYDGY|048058]
+ISSN 1453—4495
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+

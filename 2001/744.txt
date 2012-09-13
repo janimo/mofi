@@ -1,0 +1,2554 @@
+PARTEA
+
+Anul XIII Ñ Nr. 744
+
+I
+
+Miercuri, 21 noiembrie 2001
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+
+534.
+
+ACTE
+ALE
+
+ALE
+
+Ñ Ordin al ministrului administrației publice privind
+aprobarea Normelor tehnice pentru introducerea
+cadastrului general ....................................................
+
+ORGANELOR
+
+ADMINISTRAÞIEI
+
+DE
+
+1Ð32
+
+SPECIALITATE
+
+PUBLICE
+
+CENTRALE
+
+MINISTERUL ADMINISTRAÞIEI PUBLICE
+
+ORDIN
+privind aprobarea Normelor tehnice pentru introducerea cadastrului general
+Având în vedere Ordonanța de urgențã a Guvernului nr. 70/2001 pentru modificarea și completarea Legii cadastrului și a publicitãții imobiliare nr. 7/1996,
+în temeiul art. 9 alin. (3) din Hotãrârea Guvernului nr. 8/2001 privind înființarea, organizarea și funcționarea
+Ministerului Administrației Publice,
+ministrul administrației publice emite prezentul ordin.
+Art. 1. Ñ Se aprobã Normele tehnice pentru introducerea cadastrului general, prevãzute în anexa care face parte
+integrantã din prezentul ordin.
+Art. 2. Ñ Pe data intrãrii în vigoare a prezentului ordin
+își înceteazã aplicabilitatea dispozițiile Ordinului președintelui
+Oficiului Național de Cadastru, Geodezie și Cartografie
+
+nr. 452/1999, publicat în Monitorul Oficial al României,
+Partea I, nr. 78 din 25 februarie 1999.
+Art. 3. Ñ Prezentul ordin va fi publicat în Monitorul
+Oficial al României, Partea I, și va intra în vigoare la data
+publicãrii.
+
+Ministrul administrației publice,
+Octav Cozmâncã
+București, 1 octombrie 2001.
+Nr. 534.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+ANEXÃ
+
+NORME TEHNICE
+pentru introducerea cadastrului general
+1. Introducere
+Normele tehnice privind lucrãrile de introducere a cadastrului general sunt elaborate de O.N.C.G.C. în baza
+atribuțiilor care îi revin pentru organizarea și realizarea
+cadastrului general în România potrivit Legii cadastrului și a
+publicitãții imobiliare nr. 7/1996, cu modificãrile ulterioare.
+În conformitate cu prevederile legale mãsurãtorile cadastrale se fac la nivel de parcelã/corp de proprietate și au ca
+scop evidențierea imobilelor prin formã, dimensiune și atribute. Rolul normelor tehnice este acela de a prezenta succesiunea operațiunilor tehnice la introducerea cadastrului
+general, modul de organizare a lucrãrilor, modul de întocmire și conținutul documentațiilor tehnice rezultate, condițiile
+tehnice de calitate și modul de avizare, verificare și
+recepție a lucrãrilor. Normele tehnice nu se referã la metodele de execuție a lucrãrilor, la instrumentele utilizate, la
+modul de prelucrare a datelor rezultate din mãsurãtori, alegerea acestora fiind în responsabilitatea executantului, astfel
+încât sã îndeplineascã condițiile de conținut și de calitate
+cerute.
+Condițiile pentru realizarea rețelelor geodezice de sprijin,
+de îndesire și de ridicare, precum și structura și conținutul
+bazei de date a cadastrului general sunt stabilite în normele tehnice specifice.
+2. Dispoziții generale
+Prezentele norme tehnice sunt obligatorii pentru persoanele fizice și juridice care finanțeazã, contracteazã, avizeazã, executã, verificã și recepționeazã lucrãri de cadastru
+general.
+Titularii cadastrelor de specialitate trebuie sã își elaboreze propriile metodologii, instrucțiuni, regulamente sau
+norme tehnice și sunt obligați ca la întocmirea acestora sã
+ținã seama de prevederile prezentelor norme tehnice.
+Normele tehnice, instrucțiunile, regulamentele și metodologiile anterior aprobate de titularii cadastrelor de specialitate,
+vor fi revizuite conform prevederilor prezentelor norme tehnice și prezentate pentru avizare O.N.C.G.C.
+3. Rețele geodezice
+
+3.3.3. Rețeaua geodezicã de îndesire și ridicare se executã prin metode cunoscute: triangulație, trilaterație, triangulație-trilaterație, rețele de drumuiri poligonometrice sau
+tehnologii geodezice bazate pe înregistrãri satelitare (Global
+Positioning SystemÑGPS Ñ sisteme globale de
+poziționare). În cazul în care coordonatele punctelor sunt
+determinate prin tehnologie GPS, la proiectarea rețelei se
+va ține seama de urmãtoarele:
+Ñ rețeaua de îndesire și ridicare trebuie sã se sprijine
+pe minimum 4 puncte din rețeaua geodezicã de sprijin;
+Ñ punctele de sprijin vor trebui sã fie uniform repartizate atât în interiorul rețelei, cât și la marginea acesteia;
+Ñ toate punctele noi vor fi determinate cu ajutorul a
+minimum 3 vectori;
+Ñ se va prevedea determinarea punctelor de legãturã
+dublu-staționate în sesiuni diferite. Numãrul minim de sesiuni s într-o rețea cu p puncte și cu utilizarea a r receptoare se calculeazã cu relația:
+(p Ñ n)
+s =
+pentru n ³ 1,
+(r Ñ n)
+în care n este numãrul punctelor de legãturã între
+sesiuni.
+Dacã un punct este staționat de m ori, atunci numãrul
+de sesiuni se calculeazã cu relația:
+mxp
+s=
+r
+3.3.4. Rețelele geodezice de îndesire se compenseazã
+ca rețele libere prin încadrarea în configurația lor a cel
+puțin 4 puncte din rețeaua geodezicã de sprijin. Abaterea
+standard medie de determinare a punctelor rețelei geodezice de îndesire nu trebuie sã depãșeascã ± 5 cm în
+poziție planimetricã și se calculeazã cu relația:
+
+,
+
+3.1. Prevederi generale
+
+3.1.1. Materializarea punctelor din rețelele geodezice de
+sprijin și din rețelele de îndesire și ridicare se face conform
+prevederilor standardului român SR 3446-1/1996 (anexa
+nr. 9), având mãrci conform standardului de stat STAS
+4294-73 (anexa nr. 10). Aceste standarde sunt emise de
+Institutul Român de Standardizare și sunt obligatorii pe teritoriul României.
+3.1.2. Coordonatele punctelor din rețelele geodezice se
+calculeazã în Sistem de proiecție Stereografic 1970 și în
+Sistem de referințã Marea Neagrã 1975.
+3.2. Rețeaua geodezicã de sprijin
+
+3.2.1. Rețeaua geodezicã de sprijin pentru executarea
+lucrãrilor de cadastru general este formatã din totalitatea
+punctelor determinate în sisteme unitare de referințã.
+3.3. Rețea geodezicã de îndesire
+
+3.3.1. Rețeaua geodezicã de îndesire se realizeazã astfel încât sã asigure densitatea de puncte necesare în zona
+de lucru și în zona limitrofã pentru executarea lucrãrilor de
+introducere a cadastrului general.
+3.3.2. În configurația rețelei geodezice de îndesire vor fi
+incluse cel puțin 4 puncte din rețeaua geodezicã de sprijin,
+astfel încât poligonul format sã încadreze toate punctele
+rețelei de îndesire.
+
+în care:
+n = numãrul de puncte din rețea;
+Q xx, Q yy = elementele de pe diagonala principalã a
+matricii cofactorilor (coeficienților de pondere) a necunoscutelor, corespunzãtoare coordonatelor X și, respectiv, Y ale
+punctului i;
+s0 = abaterea standard a unitãții de pondere.
+3.3.5. Dupã compensarea ca rețea liberã se vor determina coordonatele plane ale punctelor rețelei de îndesire
+și ridicare în Sistemul de proiecție Stereografic 1970
+printr-o transformare Helmert cu ajutorul a minimum 4
+puncte din rețeaua geodezicã de sprijin.
+3.3.6. Punctele din rețeaua de îndesire trebuie sã asigure o densitate de 1 punct/5 km 2 în extravilan și
+1 punct/km2 în intravilan.
+3.4. Rețea geodezicã de ridicare
+
+3.4.1. Rețelele geodezice de ridicare sunt create în scopul asigurãrii numãrului de puncte necesare mãsurãtorilor
+topografice și cadastrale de detaliu. Punctele rețelelor geodezice de ridicare sunt determinate prin intersecții înainte,
+retrointersecții, intersecții combinate, drumuiri poligonometrice,
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+tehnologie GPS, utilizându-se puncte din rețeaua geodezicã
+de sprijin și de îndesire.
+3.4.2. Densitatea unei rețele geodezice de ridicare se
+stabilește în raport cu suprafața pe care se executã
+lucrãrile și cu scopul acestora. Rețelele geodezice de ridicare se proiecteazã astfel încât sã se asigure determinarea
+punctelor care delimiteazã unitãțile administrativ-teritoriale și
+intravilanele, precum și a celor care definesc parcelele/corpurile de proprietate. Se va asigura o densitate de cel
+puțin 1 punct/km2 în zonã de șes, 1 punct/2 km2 în zone
+colinare și 1 punct/5 km2 în zone de munte.
+3.4.3. Materializarea pe teren se va face cu o densitate
+impusã de configurația terenului și densitatea detaliilor (în
+principal limite de proprietate). Materializarea se va face,
+dupã natura solului, cu borne, repere și mãrci standardizate. În intravilan, în zonele asfaltate sau betonate, materializarea se poate face și cu picheți metalici cu diametrul
+de 25 mm și cu lungimea de 15 cm, bãtuți la nivelul solului, asigurând o densitate a punctelor de minimum
+4 puncte/km2. Din fiecare punct materializat se vor asigura
+vizibilitãți cãtre cel puțin alte douã puncte din rețeaua geodezicã de îndesire și ridicare sau din rețeaua geodezicã de
+sprijin.
+3.4.4. Indiferent de instrumentele și procedeele tehnice
+utilizate la executarea mãsurãtorilor, rețeaua geodezicã de
+ridicare se compenseazã ca rețea constrânsã pe punctele
+rețelelor de sprijin și de îndesire. Abaterea standard de
+determinare a unui punct nu trebuie sã depãșeascã:
+± 10 cm în intravilan, iar în extravilan ± 20 cm în zone de
+șes, ± 30 cm în zone colinare, ± 50 cm în zone de
+munte. Aceasta se calculeazã cu relațiile:
+
+3.4.5. Documentația tehnicã întocmitã dupã executarea
+rețelelor geodezice de sprijin, îndesire și ridicare, supusã
+operațiunilor de recepție, va cuprinde:
+Ñ memoriul tehnic cuprinzând descrierea generalã a
+lucrãrii, metode de lucru, instrumente utilizate, prelucrarea
+datelor (softul folosit, metoda de compensare a rețelei,
+abaterile standard, elipsa erorilor pentru fiecare punct geodezic nou-determinat), preciziile obținute etc.;
+Ñ schema dispunerii punctelor vechi și noi, cu marcarea vizibilitãților (schița vizelor);
+Ñ schema mãsurãtorilor efectuate (schița vizelor);
+Ñ fișiere ASCII pe suport magnetic, cu datele rezultate
+din mãsurãtorile de teren (denumirea/numãrul punctului de
+stație, denumirile/numerele punctelor vizate, direcții
+mãsurate, distanțe mãsurate);
+Ñ descrierile topografice (anexa nr. 8) și schițele de
+reperaj pentru punctele vechi și noi;
+Ñ inventar de coordonate, inclusiv pe suport magnetic
+(fișier ASCII conform modelului prezentat în anexa nr. 15);
+Ñ tabel din care sã reiasã diferențele dintre coordonatele vechi (puncte de ordinul I, II, III, IV) și coordonatele
+noi ale acelorași puncte, rezultate în urma compensãrii
+rețelei.
+4. Delimitarea cadastralã a unitãților administrativteritoriale
+4.1. Prevederi generale
+
+4.1.1. Delimitarea cadastralã a unitãților administrativteritoriale reprezintã operațiunea de bazã prin care se identificã, se mãsoarã la teren și se oficializeazã limitele
+
+3
+
+unitãților administrativ-teritoriale, conținând punctele de
+frângere și traseele hotarului unei unitãți administrativ-teritoriale, precum și limitele intravilanelor din respectiva unitate
+administrativ-teritorialã. Aceastã lucrare se executã obligatoriu înaintea începerii lucrãrilor de introducere a cadastrului general pe o unitate administrativ-teritorialã.
+4.1.2. Stabilirea liniei de hotar și a denumirilor unitãților
+administrativ-teritoriale se face în conformitate cu prevederile Legii nr. 2/1968 privind organizarea administrativã a
+teritoriului Republicii Socialiste România, republicatã, cu
+modificãrile ulterioare. Limitele intravilanelor se stabilesc
+conform planurilor urbanistice generale întocmite și aprobate potrivit prevederilor legale. În cazurile în care nu s-au
+aprobat planuri urbanistice generale, limitele intravilanelor
+vor fi cele existente la 1 ianuarie 1990, conform Legii fondului funciar nr. 18/1991, republicatã, cu modificãrile ulterioare.
+4.2. Operațiuni de delimitare
+
+4.2.1. Pentru realizarea delimitãrilor cadastrale se vor
+executa urmãtoarele:
+a) constituirea comisiei de delimitare cadastralã, denumitã în continuare comisie, și aprobarea componenței acesteia, prin ordin al prefectului;
+b) parcurgerea la teren a traseului hotarului teritoriului
+unitãții administrative și stabilirea punctelor de hotar care
+vor fi materializate;
+c) materializarea punctelor de hotar cu borne de
+suprafațã utilizate pentru punctele de triangulație de ordinul V și cu borne subterane tip 2, conform standardului SR
+3446-1/96. Mãrcile pentru bornele de suprafațã se
+inscripționeazã conform anexei nr. 10;
+d) executarea mãsurãtorilor pentru determinarea coordonatelor punctelor de hotar;
+e) calculul coordonatelor punctelor de hotar;
+f) întocmirea actelor de confirmare cu acordul membrilor
+comisiei de delimitare cadastralã și al delegaților unitãților
+administrativ-teritoriale vecine (anexa nr. 13);
+g) întocmirea dosarului de delimitare cadastralã și marcarea hotarelor administrative.
+4.2.2. Comisia de delimitare cadastralã are urmãtoarea
+componențã: primarii și secretarii consiliilor locale ale
+unitãților administrativ-teritoriale implicate în operațiunea de
+delimitare cadastralã, delegatul O.J.C.G.C. și, dupã caz,
+delegatul organului abilitat în problemele de urbanism și
+amenajarea teritoriului. Componența comisiei se aprobã prin
+ordin al prefectului. În comisie de recomandã convocarea
+unor localnici care cunosc traseul hotarului, fãrã ca aceștia
+sã fie nominalizați în ordinul prefectului pentru stabilirea
+componenței comisiei. La stabilirea hotarului administrativ
+pot fi invitați, dacã este cazul, delegați desemnați de titularii cadastrelor de specialitate și proprietari de mari
+suprafețe de teren.
+4.2.3. Înaintea începerii lucrãrilor de delimitare cadastralã delegatul O.J.C.G.C. împreunã cu primarul procedeazã
+la convocarea comisiei, care are obligația sã studieze
+(înainte de parcurgerea terenului) întreaga documentație
+existentã referitoare la ultima delimitare cadastralã.
+4.2.4. Consiliul local care dorește sã își delimiteze teritoriul va comunica în scris (anexa nr. 11), cu aviz de confirmare, consiliului local al unitãții administrativ-teritoriale
+vecine, cu minimum 15 zile înainte, data, ora și locul de
+întâlnire pentru a proceda la operațiunea de delimitare
+cadastralã. Consiliul local al unitãții administrativ-teritoriale
+vecine este obligat sã își delege membrii comisiei care vor
+participa la stabilirea hotarului.
+4.2.5. Când o parte din hotarul unitãții administrativ-teritoriale care se delimiteazã se aflã la limitã de județ, comisia de delimitare cadastralã va fi constituitã prin ordin
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+
+comun al prefecților județelor implicate. Consiliul local care
+își delimiteazã teritoriul și O.J.C.G.C. vor informa în scris
+(anexa nr. 12) prefectura județului vecin, respectiv
+O.J.C.G.C. din județul vecin, despre operațiunea de delimitare cadastralã cu minimum 15 zile înainte de data stabilitã
+pentru delimitarea cadastralã. Aceștia sunt obligați sã își
+trimitã delegații, membri ai comisiei, la data, ora și locul
+comunicate.
+4.2.6. În cazul în care delegații consiliului local al
+unitãții administrativ-teritoriale vecine, ai județului vecin sau
+ai O.J.C.G.C. vecin, dupã caz, nu se prezintã la termenul
+stabilit, delimitarea cadastralã a hotarului se va face în
+lipsa acestora, iar în procesul-verbal și în schița de delimitare se vor face mențiuni în legãturã cu aceasta.
+4.2.7. Operațiunea de delimitare cadastralã pe teren a
+liniei de hotar începe, de regulã, dintr-un punct de trei sau
+mai multe hotare, identificându-se traseul pânã la urmãtorul
+punct format din intersecția mai multor hotare. Identificarea
+pe teren a liniei de hotar se face cu schița din dosarul ultimei delimitãri cadastrale. În lipsa schiței menționate stabilirea liniei de hotar se face de cãtre membrii comisiei și se
+evidențiazã, la fața locului, pe hãrțile și planurile topografice existente. Reprezentanții executantului lucrãrilor, convocați prin grija O.J.C.G.C., participã în mod obligatoriu la
+operațiunile de stabilire a punctelor liniilor de hotar și a
+punctelor care vor fi materializate.
+4.2.8. În cazul în care unele segmente și puncte de
+hotar stabilite anterior (existente pe schița veche de delimitare) au suferit modificãri, pe noua schițã vor fi fãcute
+mențiunile corespunzãtoare. Numerotarea punctelor de
+hotar începe cu numãrul 101 din punctul de intersecție a
+trei sau mai multe hotare situate în partea de nord sau
+nord-vest și continuã în sens orar.
+4.2.9. În cazul existenței unor delimitãri cadastrale
+fãcute anterior se vor înlocui numerele vechi ale punctelor
+de hotar cu numere noi, fãrã a se dubla numerele. Pe
+segmentele de hotar comune pentru douã unitãți administrativ-teritoriale delimitate numerele vechi ale punctelor de
+hotar din teritoriul unitãții administrativ-teritoriale vecine vor
+fi scrise în parantezã.
+4.2.10. Pentru toate punctele de hotar materializate
+(vechi sau noi) se vor întocmi schițe de reperaj și descrieri
+topografice (anexa nr. 8). Se vor culege date asupra terenurilor traversate de tronsoanele liniilor de hotar (categoriile
+de folosințã, destinația terenurilor și proprietarii) și se vor
+consemna în procesul-verbal de delimitare cadastralã.
+4.2.11. Dacã linia de hotar este și linie de frontierã a
+țãrii, coordonatele punctelor de hotar se preiau, în mod
+obligatoriu, de la Institutul de Cadastru, Geodezie,
+Fotogrammetrie și Cartografie. Linia de frontierã a țãrii se
+avizeazã la Comandamentul Național al Grãnicerilor.
+4.2.12. Cu ocazia parcurgerii terenului se va face descrierea stãrii marcajelor atât pentru vechile puncte de hotar
+(care se mențin), cât și pentru noile puncte care trebuie
+materializate cu borne.
+4.2.13. Punctele care se borneazã sunt:
+Ñ punctele de intersecție ale liniilor de hotar (puncte de
+3 sau mai multe hotare);
+Ñ unele puncte de schimbare a aliniamentelor pe traseul hotarului alese astfel încât sã permitã, la nevoie,
+reconstituirea exactã a traseului hotarului. Pe tronsoanele
+de hotar, în aliniament, mai lungi de 3 km, bornele se
+planteazã la distanțe de aproximativ 2 km;
+Ñ punctele de intersecție a hotarului cu ape curgãtoare,
+cãi ferate, șosele se vor borna numai pe o parte a acestor
+detalii liniare, iar pe partea opusã se vor marca prin stâlpi
+
+de lemn cu diametrul de 10 cm și lungimea de 70 cm,
+protejați cu movile de pãmânt.
+4.2.14. În cazurile în care punctele de schimbare a aliniamentelor (de frângere) sau de intersecție a hotarelor
+care trebuie bornate se aflã în locuri improprii bornãrii
+(baltã, mlaștinã, carierã etc.), se vor planta în apropierea
+lor borne martor din care se vor determina coordonatele
+punctelor de hotar.
+4.2.15. Dacã hotarul traverseazã în linie dreaptã o
+pãdure compactã, o pãșune, o fâneațã sau un lac, se vor
+borna punctele de intersecție a liniei de hotar cu limita
+suprafețelor acestor categorii de folosințã (în aceste cazuri
+linia de hotar este o linie dreaptã imaginarã). Dacã linia de
+hotar care traverseazã pãdurea este o linie frântã sau
+sinuoasã, se vor materializa și se vor determina coordonate la punctele care definesc respectiva linie de hotar. La
+recunoașterea traseului hotarului care traverseazã pãduri și
+lacuri de acumulare, în comisia de delimitare vor fi invitați,
+dupã caz, și reprezentanții direcției silvice județene și ai
+Companiei Naționale ”Apele Române,, Ñ S.A.
+4.2.16. Dacã hotarul este format de talvegul unei ape
+curgãtoare se vor borna numai punctele de intersecție a
+liniei de hotar cu traseul apei pe partea dinspre teritoriul
+care se delimiteazã, indiferent de lungimea tronsonului.
+Dacã firul apei are un traseu sinuos, la lucrãrile de delimitare se vor determina coordonate la punctele intermediare
+care definesc acest traseu. Punctele intermediare se materializeazã la intervale de 200Ñ1.000 m cu stâlpi de lemn
+cu lungimea de 70 cm și diametrul de 20 cm, protejați cu
+movile de pãmânt. În cazul apelor curgãtoare interioare
+hotarul se stabilește pe talvegul firului de curgere a apei,
+iar în cazul albiilor secate, hotarul se stabilește la
+jumãtatea albiei minore. Coordonatele punctelor intermediare vor fi utilizate la calculul suprafeței unitãții administrativteritoriale.
+4.2.17. Dacã unitatea administrativ-teritorialã este mãrginitã de drumuri, cãi ferate, diguri, canale, linia de hotar se
+stabilește pe una dintre laturile acestora, astfel încât acestea sã fie cuprinse în întregime în suprafața unei unitãți
+administrativ-teritoriale. În cazul traseelor frânte ori sinuoase
+se vor determina coordonate la puncte intermediare care
+definesc aceste trasee. Coordonatele punctelor intermediare
+vor fi utilizate la calculul suprafeței unitãții administrativ-teritoriale.
+4.2.18. Pe râurile de frontierã ale țãrii și pe fluviul
+Dunãrea coordonatele punctelor de hotar vor fi cele preluate de la Institutul de Cadastru, Geodezie, Fotogrammetrie
+și Cartografie. Pe fluviul Dunãrea, pe porțiunea în care
+ambele maluri se aflã pe teritoriul României, punctele de
+hotar între douã teritorii se stabilesc de comun acord de
+cãtre consiliile locale ale unitãților administrativ-teritoriale.
+Coordonatele punctelor de hotar se determinã prin
+digitizare pe planuri topografice la scara 1:10.000 sau
+1:5.000, actualizate.
+4.2.19. La Marea Neagrã hotarele se stabilesc pe linia
+care separã uscatul de apã, la data mãsurãtorilor.
+4.2.20. În cazurile în care existã neînțelegeri între
+vecini la stabilirea liniei de hotar și membrii comisiei nu pot
+rezolva neînțelegerile, litigiul se consemneazã în documentele de delimitare cadastralã, astfel:
+a) pe schița generalã a hotarului administrativ și pe
+schița cu porțiunea de hotar în litigiu se consemneazã
+ambele variante;
+b) suprafața în litigiu se va calcula din coordonatele
+punctelor de pe contur, care se vor stabili în prezența
+membrilor comisiei de delimitare cadastralã;
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+c) unele puncte caracteristice de pe conturul suprafeței
+în litigiu se vor materializa cu stâlpi de lemn cu lungimea
+de 50 cm și diametrul de 10 cm și vor avea o altã numerotare decât restul punctelor de hotar;
+d) pânã la rezolvarea litigiului suprafața disputatã va fi
+inclusã în suprafața calculatã a teritoriului nominalizat de
+O.J.C.G.C.;
+e) în procesul-verbal de delimitare cadastralã se vor
+menționa argumentele celor douã pãrți și se vor anexa
+copii de pe actele deținute, dacã acestea existã;
+f) dupã soluționarea litigiului se reface documentația
+cadastralã și se vor materializa cu borne punctele de hotar
+de pe varianta acceptatã.
+4.2.21. Materializarea punctelor hotarului administrativ se
+realizeazã prin grija executantului lucrãrilor de delimitare
+cadastralã.
+4.2.22. Coordonatele X, Y, Z ale punctelor de hotar se
+calculeazã în Sistemul de proiecție Stereografic 1970 și în
+Sistemul de referințã Marea Neagrã 1975. Precizia de
+determinare a coordonatelor este similarã cu cea a punctelor din rețelele geodezice de ridicare.
+4.2.23. Operațiunile de delimitare a intravilanelor constau
+în:
+a) constituirea comisiei de delimitare a intravilanului;
+b) parcurgerea pe teren a limitei intravilanului, conform
+planului urbanistic general aprobat, și stabilirea punctelor
+care se vor materializa;
+c) materializarea punctelor;
+d) executarea operațiunilor de teren și de birou pentru
+determinarea coordonatelor punctelor;
+e) întocmirea procesului-verbal de delimitare cadastralã
+a intravilanului, cu acordul și cu semnãturile membrilor
+comisiei (anexa nr. 3);
+f) întocmirea dosarului de delimitare cadastralã.
+4.2.24. Comisia de delimitare a limitelor intravilanelor,
+numitã prin ordin al prefectului, este formatã din primarul
+și secretarul consiliului local, delegatul O.J.C.G.C. și delegatul organului abilitat în probleme de urbanism și amenajarea teritoriului.
+4.2.25. Convocarea membrilor comisiei se face prin grija
+secretarului primãriei la data și ora stabilite de primar.
+4.2.26. Limita intravilanului se materializeazã cu borne
+standardizate conform SR 3446-1/96 (anexa nr. 9). Mãrcile
+pentru borne se inscripționeazã conform anexei nr. 10.
+Punctele materializate vor asigura o densitate de minimum
+2 puncte/km.
+4.2.27. Punctele materializate pe limita intravilanului,
+precum și cele reprezentate prin detalii stabile se numeroteazã începând de la 1001, în sens orar, începând cu un
+punct din partea de nord-vest. Dacã limita intravilanului a
+fost materializatã cu ocazia întocmirii Planului urbanistic
+general (aprobat potrivit legii), vor fi determinate coordonatele punctelor materializate.
+4.2.28. Pentru toate punctele materializate se vor
+întocmi schițe de reperaj și descrieri topografice (anexa
+nr. 8).
+4.2.29. Pentru toate punctele geodezice utilizate și pentru punctele de hotar și limitã de intravilan, materializate,
+se vor întocmi procese-verbale de predare, conform modelului prezentat în anexa nr. 14.
+4.3. Documentații tehnice
+
+4.3.1. La terminarea lucrãrilor de delimitare cadastralã a
+unitãții administrativ-teritoriale se întocmește, în vederea
+realizãrii recepției, ”dosarul de delimitare,,, care trebuie sã
+cuprindã urmãtoarele piese:
+Ñ memoriul tehnic;
+Ñ schița generalã a hotarului unitãții administrativteritoriale;
+
+5
+
+Ñ schițele segementelor de hotar cuprinse între douã
+puncte de trei sau mai multe hotare, cu acordul și
+semnãturile membrilor comisiei de delimitare;
+Ñ dosarul de verificare a lucrãrilor de delimitare, întocmit potrivit regulamentelor aprobate de O.N.C.G.C.;
+Ñ schițele de reperaj ale tuturor punctelor materializate;
+Ñ descrierile topografice ale tuturor punctelor materializate (anexa nr. 8);
+Ñ inventarul de coordonate pentru toate punctele de
+hotar (materializate și nematerializate);
+Ñ inventar de coordonate pentru toate punctele materializate, pe suport magnetic (fișier ASCII conform modelului
+prezentat în anexa nr. 15);
+Ñ date rezultate din mãsurãtorile de teren și prelucrãrile
+acestora, pe suport magnetic Ñ fișier ASCII (denumire/
+numãrul punctului de stație, denumire/numerele punctelor
+vizate, direcții mãsurate, distanțe mãsurate, calcule, toleranțe, erori);
+Ñ schema mãsurãtorilor efectuate (schița vizelor);
+Ñ suprafața teritoriului calculatã din coordonatele tuturor punctelor de hotar;
+Ñ procesul-verbal de delimitare cadastralã, cu descrierea tronsoanelor de hotar corespunzãtoare fiecãrei unitãți
+administrativ-teritoriale vecine, cu semnãturile membrilor
+comisiei de delimitare (anexa nr. 13);
+Ñ copii de pe scrisorile de convocare trimise consiliilor
+locale ale unitãților administrativ-teritoriale vecine și, dupã
+caz, prefecturilor și O.J.C.G.C. vecine.
+4.3.2. Schița generalã a hotarului administrativ, însoțitã
+de o descriere a traseului hotarului, se întocmește pe copii
+extrase de pe hãrțile topografice, la scãrile 1:25.000 sau
+1:50.000, astfel ca, în funcție de mãrimea teritoriului, schița
+sã fie pe o singurã planșã. Schița generalã conține reprezentarea urmãtoarelor detalii:
+Ñ rețeaua hidrograficã formatã din apele curgãtoare și
+stãtãtoare, canalele și digurile principale;
+Ñ perimetrele intravilanelor și denumirile acestora;
+Ñ poziția și numerotarea punctelor materializate și a
+punctelor de 3 sau mai multe hotare;
+Ñ traseul liniei de hotar, marcat prin semne
+convenționale;
+Ñ denumirea teritoriilor vecine.
+4.3.3. Pentru segmentele care constituie și hotar de
+județ este necesar acordul prefecturilor și al O.J.C.G.C. din
+cele douã județe limitrofe și, respectiv, parafa prefecturii,
+semnãtura prefectului, semnãtura și parafa președintelui
+consiliului județean, aplicate pe schițã în dreptul porțiunii de
+hotar.
+4.3.4. Dosarul de delimitare cadastralã se întocmește în
+trei exemplare: un exemplar se depune la O.J.C.G.C., un
+exemplar la consiliul local și un exemplar la consiliul
+județean. Pentru porțiunile de hotar cu unitãți administrativteritoriale vecine se întocmesc dosare cu schița tronsonului
+de hotar, cu poziția și numerotarea punctelor de hotar. La
+fiecare consiliu local al unitãților administrativ-teritoriale
+vecine se transmite, prin grija O.J.C.G.C., un dosar
+cuprinzând schița porțiunii comune de hotar și inventarul
+de coordonate al punctelor de hotar pe tronsonul respectiv.
+4.3.5. Pentru fiecare intravilan se întocmește un dosar
+de delimitare cadastralã care conține:
+Ñ schița generalã a limitei intravilanului, la o scarã convenabilã (1:5.000, 1:10.000, 1:15.000), cu numerotarea
+punctelor, denumirea intravilanului, rețeaua generalã de
+drumuri/strãzi, hidrografia. Pentru cazurile deosebite se pot
+prezenta și detalii la scãri mai mari;
+Ñ schițe cu segmentele de pe limita intravilanului, la
+scara 1:2.000, cu numerotarea tuturor punctelor;
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+
+Ñ memoriu tehnic;
+Ñ dosarul de verificare a lucrãrilor de delimitare a intravilanului, întocmit potrivit regulamentelor aprobate de
+O.N.C.G.C.;
+Ñ schițe de reperaj și descrierile topografice ale punctelor materializate;
+Ñ procesul-verbal de delimitare, cu acordul și
+semnãturile membrilor comisiei județene și ai O.J.C.G.C.
+din cele douã județe;
+Ñ inventar de coordonate pentru toate punctele de pe
+limita intravilanului (materializate și nematerializate);
+Ñ inventar de coordonate pentru toate punctele materializate, pe suport magnetic (fișier ASCII conform modelului
+prezentat în anexa nr. 15);
+Ñ schema mãsurãtorilor efectuate;
+Ñ copii de pe scrisorile de încunoștințare trimise delegatului organului abilitat în probleme de urbanism și amenajarea teritoriului din cadrul consiliilor locale și, dupã caz,
+al comisiilor județene sau prefecturilor;
+Ñ suprafața intravilanului calculatã din coordonatele
+punctelor de pe limita intravilanului.
+4.3.6. Dosarul de delimitare cadastralã al intravilanului
+se întocmește în trei exemplare: un exemplar se predã la
+consiliul local al unitãții administrativ-teritoriale, un exemplar
+la O.J.C.G.C. și un exemplar la organul abilitat în probleme
+de urbanism și amenajarea teritoriului.
+5. Lucrãri de introducere a cadastrului general
+5.1. Proiectul tehnic de ansamblu
+
+5.1.1. Scopul proiectului tehnic de ansamblu, întocmit de
+executantul lucrãrii, este de a furniza datele principale
+necesare pentru elaborarea proiectelor tehnice de execuție,
+stabilirea soluțiilor tehnice și pentru estimarea cantitãților și
+valorilor pe categorii de lucrãri.
+5.1.2. În cazul unor lucrãri de actualizare de micã complexitate la care nu sunt necesare analize ale lucrãrilor
+vechi, iar execuția noilor lucrãri nu implicã studierea mai
+multor soluții, se poate trece direct la proiectul tehnic de
+execuție, cu aprobarea O.J.C.G.C. sau, dupã caz, a
+O.N.C.G.C.
+5.1.3. Întocmirea proiectului tehnic de ansamblu este
+obligatorie pentru lucrãrile care se executã pe unitãți
+administrativ-teritoriale întregi sau pe porțiuni de cel puțin
+jumãtate din suprafața acestora.
+5.1.4. Proiectul tehnic de ansamblu cuprinde urmãtoarele pãrți principale:
+a) constatãrile și concluziile în urma analizãrii documentațiilor existente, din punct de vedere cantitativ, calitativ
+și al gradului de actualitate;
+b) prezentarea soluțiilor tehnice de bazã pentru executarea lucrãrilor de introducere sau întreținere a cadastrului
+general;
+c) calcule estimative pentru volumul de lucrãri, forța de
+muncã necesarã pentru executarea lucrãrilor la termenele
+programate pe etape, necesarul de fonduri, mijloace tehnice și materiale;
+d) memoriul justificativ.
+5.1.5. Pentru urmãrirea realizãrii lucrãrilor se întocmește
+graficul programãrii calendaristice a desfãșurãrii pe etape
+de execuție a acestora.
+5.1.6. Proiectul tehnic de ansamblu se avizeazã de
+Comisia de avizare a O.J.C.G.C., numitã prin decizie a
+directorului general. Prevederile proiectului tehnic de
+ansamblu sunt obligatorii la întocmirea proiectului tehnic de
+execuție.
+5.2. Proiectul tehnic de execuție
+
+5.2.1. Proiectul tehnic de execuție constituie documentația care stã la baza justificãrii soluțiilor tehnice alese
+
+și a cuantificãrii volumelor de lucrãri pe etape și tipuri, precum și estimarea fondurilor necesare. La elaborarea proiectului executantul va respecta prevederile prezentelor
+norme tehnice, precum și precizãrile de ordin tehnic și
+financiar din proiectul tehnic de ansamblu și din caietul de
+sarcini.
+5.2.2. Proiectul tehnic de execuție cuprinde urmãtoarele
+pãrți principale:
+a) prevederile din proiectul tehnic de ansamblu referitoare la lucrãrile care trebuie sã facã obiectul proiectului
+tehnic de execuție;
+b) concluziile în urma recunoașterii fãcute la teren;
+c) studiul asupra posibilitãților de utilizare a documentațiilor și produselor cartografice și cadastrale existente
+în zonã;
+d) posibilitãțile de recuperare, integrare și utilizare a
+datelor și documentelor provenite în urma aplicãrii legilor
+proprietãții și a recepției lucrãrilor;
+e) soluțiile proiectate prezentate pe scheme grafice pentru ansamblul teritoriului sau pentru unitãțile administrativteritoriale și pentru fiecare intravilan, cuprinzând:
+Ñ punctele rețelei de sprijin;
+Ñ determinarea coordonatelor punctelor pe hotarul
+unitãții administrativ-teritoriale și pe limita intravilanelor;
+Ñ punctele sau traseele rețelelor de întreținere și ridicare pentru extravilan și intravilan;
+Ñ delimitarea zonelor pe categorii de planuri cadastrale
+sau topografice existente (dupã anii de întocmire sau
+ultima actualizare, dupã scarã, dupã felul materialului-suport
+pe care este fãcutã imprimarea și dupã metoda de întocmire);
+f) devizul estimativ pentru fiecare categorie de lucrãri
+(rețele geodezice, conversia planurilor în format digital,
+mãsurãtori de detaliu pentru actualizarea sau realizarea
+hãrților și planurilor, întocmirea registrelor cadastrale etc.);
+g) memoriul tehnic.
+5.3. Lucrãri de cadastru general prin utilizarea de planuri și hãrți
+vechi
+
+5.3.1. Înainte de începerea lucrãrilor de introducere a
+cadastrului general O.J.C.G.C. are obligația sã analizeze și
+sã pregãteascã întreaga documentație topograficã și cadastralã existentã pe unitatea administrativ-teritorialã.
+5.3.2. Criteriile de bazã pentru analizarea conținutului
+planurilor și hãrților existente, menționate mai sus, în vederea utilizãrii lor la introducerea și întreținerea cadastrului
+general într-o unitate administrativ-teritorialã, sunt:
+Ñ procentul de modificãri ale conținutului cadastral,
+raportat la conținutul general pe unitatea de
+suprafațã (km2);
+Ñ calitatea suportului planurilor și hãrților;
+Ñ lizibilitatea planurilor și hãrților și gradul de uzurã și
+degradare a acestora;
+5.3.3. Procentul de modificãri ale conținutului planurilor
+și hãrților constituie criteriul de bazã fațã de celelalte criterii menționate mai sus. Procentul de modificãri se stabilește
+prin confruntarea planurilor și hãrților cu situația din teren.
+5.3.4. Concluziile rezultate în urma analizei vor fi
+menționate în caietul de sarcini referitor la lucrãrile de
+introducere a cadastrului general. Rezultatele analizei
+fãcute asupra conținutului planurilor și hãrților, precum și
+documentația topograficã și cadastralã existentã vor fi puse
+la dispoziție executantului lucrãrilor.
+5.3.5. Confruntarea din teren a planurilor cadastrale sau
+topografice existente se face pe diferite zone din unitatea
+administrativ-teritorialã pentru cel puțin 75% din suprafața
+acesteia.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+5.3.6. În cadrul operațiunii de confruntare cu situația din
+teren se verificã existența și starea punctelor geodezice din
+rețeaua de referințã, din extravilan și din intravilanele componente ale unitãții administrativ-teritoriale. Pe copiile planurilor și hãrților existente, alese pentru confruntare, se vor
+nota zonele cu modificãri constatate ”din vedere,, asupra
+imobilelor, categoriilor de folosințã și detaliilor liniare și se
+vor estima în procente, în funcție de suprafața afectatã.
+5.3.7. Dupã determinarea procentului mediu de modificãri în conținutul planurilor și hãrților se va stabili soluția
+care trebuie adoptatã pentru asigurarea bazei cartografice
+necesare la lucrãrile de introducere și întreținere a cadastrului general: actualizarea planurilor și hãrților existente
+sau a planurilor și hãrților noi.
+5.3.8. O.J.C.G.C. va pune la dispoziție executantului
+lucrãrilor documentele cadastrale existente în zona de
+lucru, fie sub formã analogicã (pe suport hârtie, material
+plastic transparent, bazã tare), fie sub formã digitalã, dacã
+existã plan digital.
+5.3.9. La încheierea lucrãrii executantul este obligat sã
+predea O.J.C.G.C. documentele primite.
+Înainte de operarea modificãrilor pentru actualizarea planurilor cadastrale existente, acestea se transformã, de
+cãtre executantul lucrãrilor, în formã digitalã prin digitizare
+sau scanare/vectorizare.
+Parametrii de scanare și structura datelor predate vor fi
+menționate în caietul de sarcini referitor la lucrãrile de
+introducere a cadastrului general.
+Modificãrile constatate în urma lucrãrilor de actualizare
+vor fi fãcute direct pe planul digital obținut. Planurile cadastrale noi se realizeazã în formã digitalã și constituie baza
+de date grafice; datele și informațiile referitoare la imobile
+și proprietari constituie baza de date textuale. Structura
+bazei de date grafice și a bazei de date textuale și
+legãturile dintre acestea se stabilesc prin instrucțiuni
+specifice.
+5.3.10. La introducerea lucrãrilor de cadastru general
+recuperarea, integrarea sau utilizarea datelor și documentelor rezultate în urma aplicãrii legilor proprietãții se va realiza de executantul lucrãrii numai dacã acestea corespund
+din punct de vedere al calitãții și respectã prevederile din
+prezentele norme tehnice.
+5.3.11. Datele și informațiile conținute în documentațiile
+tehnice întocmite pentru atribuirea numerelor cadastrale
+provizorii vor fi preluate și vor face parte din lucrarea de
+introducere a cadastrului general.
+5.3.12. Pentru actualizarea planului cadastral existent se
+parcurge obligatoriu fiecare imobil din intravilan și din extravilan, realizându-se operațiunile de teren și de birou pentru
+determinarea elementelor necesare actualizãrii acestuia,
+astfel:
+a) în extravilan:
+Ñ mãsurãtori pentru determinarea coordonatelor punctelor care definesc sectoarele cadastrale sau ale grupurilor
+de parcele izolate;
+Ñ mãsurãtori pentru determinarea coordonatelor punctelor de pe contururile parcelelor/corpurilor de proprietate;
+Ñ întocmirea schițelor de teren pentru sectoarele
+cadastrale sau grupele de parcele izolate;
+b) în intravilan:
+Ñ mãsurãtori pentru determinarea coordonatelor punctelor de pe contururile corpurilor de proprietate;
+Ñ mãsurãtori expeditive pentru delimitarea parcelelor
+din interiorul corpurilor de proprietate;
+Ñ mãsurãtori pentru poziționarea construcțiilor cu caracter permanent, nou-apãrute;
+Ñ întocmirea schiței pentru fiecare corp de proprietate.
+5.3.13. În interiorul corpurilor de proprietate se vor
+reprezenta numai parcelele care au categoriile de folosințã
+în suprafațã mai mare de 50 m2 în intravilan și mai mare
+
+7
+
+de 300 m2 în extravilan și numai construcțiile cu caracter
+permanent. Parcelele cu suprafețe mai mici decât cele de
+mai sus vor fi incluse în parcelele adiacente ale aceluiași
+proprietar.
+5.3.14. Lãțimea strãzilor, drumurilor comunale și ulițelor
+se stabilește între limitele corpurilor de proprietate. Pe planul cadastral nu se reprezintã partea carosabilã, trotuarele,
+șanțurile, acostamentele, zonele de parcare și de refugiu,
+zonele verzi etc. Detaliile liniare (drumuri, strãzi, ulițe, cãi
+ferate, diguri, ape etc.) constituie corpuri de proprietate
+independente și se înregistreazã ca atare.
+5.3.15. Concomitent cu efectuarea operațiunilor de actualizare sau de realizare a planului cadastral, pentru fiecare
+parcelã/corp de proprietate se culeg și datele de identificare a proprietarului sau deținãtorului legal, categoriile de
+folosințã a parcelelor și modul de deținere (exclusiv sau în
+indiviziune).
+5.3.16. La nivelul fiecãrui corp de proprietate din intravilan se vor întocmi:
+a) schița cadastralã a corpului de proprietate. Pe schițã
+se figureazã perimetrul, parcelele din interior, categoriile de
+folosințã a parcelelor și clãdirile cu caracter parmanent. Pe
+schițã se scriu, de asemenea, numele și prenumele proprietarului (cu inițiala tatãlui), adresa corpului de proprietate,
+adresa de domiciliu a proprietarului (în cazul în care proprietarul are alt domiciliu), vecinii și cu o sãgeatã se indicã
+direcția nord. Schițele cadastrale vor fi grupate pe sectoare
+cadastrale;
+b) fișa corpului de proprietate, care constituie documentul de bazã în care se înscriu datele cadastrale care se
+introduc în baza de date a cadastrului general.
+Dupã încheierea lucrãrilor la nivelul intravilanului fiecare
+fișã a corpului de proprietate (anexa nr. 1) se completeazã
+cu numãrul cadastral definitiv, cu suprafețele calculate ale
+parcelelor și suprafața corpului de proprietate.
+5.3.17. Documentele care se întocmesc în extravilan
+sunt:
+a) schița cadastralã, pe grupe de parcele, în cazul terenurilor agricole și silvice, pe trupuri de pãdure sau pe corpuri de proprietate ale marilor deținãtori (ferme, exploatații
+agricole, triaje și depouri, aeroporturi, lacuri, exploatãri
+miniere, cariere etc.);
+b) fișa corpului de proprietate (anexa nr. 1).
+5.3.18. Condițiile de precizie pentru determinarea coordonatelor punctelor de detaliu sunt urmãtoarele:
+Ñ în intravilan: ± 10 cm pentru punctele de pe conturul
+sectoarelor cadastrale, al corpurilor de proprietate și al proiecțiilor la sol ale construcțiilor cu caracter permanent și
+± 20 cm pentru punctele de contur ale parcelelor din interiorul corpurilor de proprietate;
+Ñ în extravilan: ± 20 cm în zonele de șes, ± 30 cm în
+zonele colinare și ± 50 cm în zonele de munte, pentru
+punctele de contur ale sectoarelor cadastrale, parcelelor
+sau corpurilor de proprietate.
+5.3.19. Limitele parcelelor din interiorul corpurilor de proprietate se vor determina prin mãsurãtori expeditive.
+Suprafețele rezultate se vor constrânge pe suprafața
+corpului de proprietate calculatã din coordonate.
+Detaliile liniare și elementele punctuale reprezentând
+rețeaua de cãi de comunicații, hidrografia și construcțiile
+speciale se vor determina în aceleași condiții de precizie
+ca și pentru corpurile de proprietate.
+5.4. Lucrãri de cadastru general pe baza ortofotoplanurilor
+
+5.4.1. Noile tehnologii permit executarea lucrãrilor de
+cadastru prin utilizarea ortofotoplanurilor. Datoritã caracteristicilor și calitãților ortofotoplanului lucrãrile de cadastru
+general trebuie abordate conform unui nou concept: planul
+cadastral index.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+
+5.4.2. Scopul implementãrii planului cadastral index, realizat pe baza ortofotoplanurilor, este de a furniza soluții de
+cost eficiente, bazate pe utilizarea cât mai largã a datelor
+cadastrale existente.
+5.4.3. Planul cadastral index (anexa nr. 16) conține
+reprezentarea graficã în format digital a urmãtoarelor elemente:
+Ñ limitele corpurilor de proprietate;
+Ñ construcțiile permanente;
+Ñ elemente de infrastructurã (cãi ferate, drumuri, ape,
+canale și elemente de toponimie aferente);
+Ñ identificatori cadastrali georeferențiați.
+5.4.4. Planul cadastral index se obține prin vectorizarea
+corectã a limitelor de pe ortofotoplanurile digitale și necesitã atât o identificare pe teren a acestora, cât și evaluarea
+semnificației lor.
+5.4.5. Conturarea obiectelor se va face pe copiile ortofotoplanurilor, obținându-se o schițã de identificare. Se vor
+identifica în primul rând elementele vizibile pe ortofotoplanuri. Pentru elementele ce sunt neclare pentru vectorizare
+se vor efectua schițe ajutãtoare.
+5.4.6. Pozițiile punctelor topografice, pentru detalii care
+sunt în zone umbrite sau acoperite de vegetație, se pot
+determina prin ridicãri topografice simple (metoda coordonatelor rectangulare, metoda aliniamentului sau metoda
+intersecției liniare, radiere etc.). Pentru detaliile topografice
+ridicate prin aceste metode se vor întocmi schițe de
+detaliu.
+5.4.7. Preciziile care trebuie asigurate pentru poziția planimetricã relativã a punctelor topografice care pot fi identificate pe ortofotoplan sunt de ±10 cm în intravilan și
+±20 cm în extravilan pentru terenurile plane, ±30 cm pentru zonele de deal și ±50 cm pentru zonele de munte.
+5.4.8. Pentru corpurile de proprietate pentru care nu se
+dispune de una dintre urmãtoarele surse de informații:
+Ñ documentații tehnice întocmite pentru atribuirea
+numerelor cadastrale provizorii;
+Ñ plan parcelar și titluri de proprietate eliberate conform
+legilor proprietãții;
+Ñ documentații executate conform Hotãrârii Guvernului
+nr. 834/1991 privind stabilirea și evaluarea unor terenuri
+deținute de societãțile comerciale cu capital de stat, cu
+modificãrile ulterioare, și avizate tehnic,
+datele de identificare a proprietarului se vor culege pe teren.
+5.4.9. Prin vectorizare, de pe ortofotoplanuri se vor
+extrage urmãtoarele elemente:
+Ñ limitele corpurilor de proprietate;
+Ñ elementele de infrastructurã: cãi ferate, drumuri, ape,
+canale. Vectorizarea se va face ținându-se sema de elementele culese pe teren în schițele de identificare și
+schițele detaliilor determinate prin mãsurãtori clasice.
+5.4.10. Pentru includerea în planul cadastral index a
+documentațiilor tehnice întocmite pentru atribuirea numerelor cadastrale provizorii executate în Sistemul de proiecție
+Stereografic 1970 se vor utiliza coordonatele punctelor de
+contur. În cazul în care punctele de contur au coordonate
+într-un sistem de referințã local (ales arbitrar) se va efectua o poziționare relativã pe baza unor elemente comune
+cu suportul pus la dispoziție de beneficiar. Unde nu este
+posibilã aceastã poziționare pe planul cadastral index se
+va amplasa doar identificatorul cadastral corespunzãtor
+corpului de proprietate respectiv (cu ajutorul planului de
+încadrare în zonã). Forma și dimensiunile corpului de proprietate se vor regãsi în arhiva digitalã (realizatã prin scanarea documentației) cu ajutorul identificatorului cadastral.
+5.4.11. Conturul construcțiilor permanente se va vectoriza de pe imaginea raster a planului de amplasament și
+
+delimitare a corpului de proprietate și se va integra în corpul de proprietate corespunzãtor din planul cadastral index.
+5.4.12. Pentru integrarea în planul cadastral index a
+datelor și informațiilor rezultate în urma aplicãrii legilor proprietãții se va proceda astfel: pe imaginile raster furnizate
+de ortofotoplanuri se va identifica amplasamentul planului
+parcelar și se va determina prin vectorizare suprafața tarlalei. Executantul trebuie sã efectueze un plan parcelar vectorizat bazat pe planul parcelar existent, pãstrând forma,
+configurația și suprafața parcelelor înscrise în titlul de proprietate. Cu ajutorul elementelor fixe de pe imaginea raster
+acest nou plan parcelar va fi inserat pe planul index
+(printr-o transformare conformã), avându-se grijã sã se realizeze o cât mai bunã poziționare a proprietãților. În memoriul tehnic va fi prezentat un tabel (prezentat mai jos),
+cuprinzând fiecare plan parcelar și cele douã suprafețe:
+suprafața vectorizatã și suprafața din titlul de proprietate.
+Vor fi înscrise și diferențele dintre cele douã suprafețe.
+Planul parcelar se va regãsi în arhiva digitalã cu ajutorul
+identificatorului cadastral, obținutã prin scanarea planurilor
+parcelare.
+Nr.
+crt.
+
+1
+
+Codul
+planului
+parcelar
+
+Suprafața
+vectorizatã
+Ñ m2 Ñ
+
+Suprafața din
+Legea nr. 18/1991,
+republicatã
+Ñ m2 Ñ
+
+Diferențe
+Ñ m2 Ñ
+
+Diferențe
+Ñ % Ñ
+
+T47
+
+100.000
+
+9.000
+
+1.000
+
+10
+
+5.4.13. Pentru integrarea în planul cadastral index a
+documentațiilor întocmite conform Hotãrârii Guvernului
+nr. 834/1991, cu modificãrile ulterioare, se va introduce
+conturul incintei din inventarul de coordonate și se va verifica suprafața rezultatã cu suprafața din titlu (rezultatul va fi
+consemnat în memoriul tehnic sub formã de tabel).
+Conturul construcțiilor permanente se va introduce din
+inventarul de coordonate (dacã existã) sau se va vectoriza
+de pe imaginea raster a planului de situație și se va integra în corpul de proprietate corespunzãtor. Dacã planurile
+sunt în format digital se vor prelua din ele elementele
+necesare planului cadastral index. Conversia în format digital a materialului cartografic de pe suport analogic se va
+face cu o precizie corespunzãtoare preciziei grafice a scãrii
+documentației cartografice puse la dispoziție, calculatã pentru eroarea graficã de +/- 0,2 mm.
+5.4.14. Identificatorii cadastrali sunt definiți ca puncte cu
+atribut într-un fișier specific. Atributul punctului este un cod
+numeric de identificare unic, care face legãtura cu baza de
+date textuale.
+Toate imobilele, inclusiv elementele de infrastructurã
+(drumuri, cãi ferate etc.), vor primi un identificator cadastral
+al cãrui atribut va fi un numãr natural (de la 1 la n) unic
+pe întreaga unitate administrativ-teritorialã. Amplasarea
+identificatorilor cadastrali se va face obligatoriu în interiorul
+corpurilor de proprietate și pe cât posibil în centrul de
+greutate al acestora.
+5.4.15. Se vor atribui identificatori cadastrali și pentru
+elementele de infrastructurã, iar acestea se vor amplasa,
+pe cât posibil, în centrul de greutate al limitelor ce definesc elementul de infrastructurã respectiv.
+5.4.16. Identificatorii cadastrali nu reprezintã numerele
+cadastrale provizorii atribuite de O.J.C.G.C., acestea
+regãsindu-se în baza de date textuale.
+5.5. Baza de date grafice
+
+5.5.1. Baza de date grafice se va realiza în format digital, cu obligativitatea înregistrãrii tuturor entitãților definite în
+prezentele norme tehnice.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+5.6. Baza de date textuale
+
+5.6.1. Pentru realizarea bazei de date textuale vor fi
+folosite informațiile extrase din:
+iii(i) documentațiile tehnice întocmite pentru atribuirea
+numerelor cadastrale provizorii;
+ii(ii) titlurile de proprietate eliberate conform legilor
+proprietãții;
+i(iii) documentațiile executate conform Hotãrârii
+Guvernului nr. 834/1991, cu modificãrile ulterioare, și avizate tehnic;
+(iv) datele culese pe teren și înscrise în fișa corpului
+de proprietate.
+5.6.2. Atributele care se vor atașa entitãților grafice se
+vor încãrca într-o bazã de date care trebuie sã asigure
+conținutul registrelor cadastrale.
+5.6.3. Datele se stocheazã la nivelul unitãții administrativ-teritoriale.
+6. Conținutul planului cadastral
+6.1. Prevederi generale
+
+6.1.1. Conceptul de bazã la realizarea planului cadastral
+este forma digitalã. Planurile cadastrale de ansamblu și
+planurile cadastrale de bazã se obțin prin extragerea datelor din bazele de date grafice și textuale și prin desenarea
+la plotter.
+6.2. Planul cadastral de ansamblu
+
+6.2.1. Planul cadastral de ansamblu al unitãții administrativ-teritoriale se obține prin generalizarea planului cadastral de bazã și conține reprezentarea graficã a întregii
+suprafețe a unitãții administrativ-teritoriale.
+6.2.2. Planul cadastral de ansamblu sau, dupã caz,
+harta cadastralã de ansamblu, sub formã analogicã, se
+întocmește, în funcție de mãrimea unitãții administrativ-teritoriale și de forma sa, la o scarã standard convenabilã. De
+regulã este una dintre scãrile 1:10.000, 1:25.000, 1:50.000.
+6.2.3. Elementele de conținut obligatorii pentru planul
+cadastral de ansamblu sunt:
+Ñ denumirea unitãții administrativ-teritoriale;
+Ñ pãdurile și terenurile cu vegetație forestierã;
+Ñ rețeaua de șosele, drumuri, strãzi, ulițe și cãi ferate;
+Ñ rețeaua hidrograficã și construcțiile hidrotehnice
+importante (ape curgãtoare, stãtãtoare, canale deschise,
+baraje, diguri);
+Ñ punctele care marcheazã hotarele unitãții administrativ-teritoriale;
+Ñ limitele și denumirea intravilanelor;
+Ñ elemente de toponimie;
+Ñ punctele din rețeaua geodezicã;
+Ñ nordul geografic;
+Ñ scara planului.
+Pe fiecare foaie a planului cadastral de ansamblu se
+întocmește (în extracadru, în partea din stânga jos)
+schema cu dispunerea foilor componente.
+6.3. Planul cadastral de bazã
+
+6.3.1. Planul cadastral de bazã se întocmește în scopul
+reprezentãrii în plan a datelor rezultate la introducerea sau
+întreținerea cadastrului general pentru o anumitã unitate
+administrativ-teritorialã și cuprinde elementele de cadastru
+general în detaliu.
+6.3.2. Scara uzualã la care se reprezintã planul cadastral de bazã, în formã analogicã, este:
+Ñ 1:5.000, în zonele de șes pentru extravilan și 1:2.000,
+1:1.000 sau 1:500, în funcție de densitatea detaliilor, pentru
+intravilane;
+Ñ 1:2.000, în zonele de deal pentru extravilan și 1:2.000,
+1:1.000 sau 1:500, în funcție de densitatea detaliilor, pentru
+intravilane;
+
+9
+
+Ñ 1:5.000 și 1:10.000 sau, dupã caz, scãri mai mari în
+zonele montane;
+Ñ 1:2.000, 1:1.000, 1:500, în funcție de densitatea
+detaliilor, în zonele din Delta Dunãrii.
+6.3.3. Planurile cadastrale de bazã redactate sub formã
+analogicã la scãrile menționate anterior se întocmesc pe
+trapeze cu nomenclatura oficialã în România.
+Reprezentarea analogicã se face în Sistem de proiecție
+Stereografic 1970.
+6.3.4. Planul cadastral de bazã va conține urmãtoarele
+elemente:
+Ñ punctele rețelei geodezice de sprijin, de îndesire și
+de ridicare;
+Ñ limitele și punctele de hotar, cu numãrul de ordine,
+pentru hotarul unitãții administrativ-teritoriale și pentru intravilanele componente;
+Ñ limitele și numerele cadastrale ale corpurilor de proprietate/imobilelor, limitele, numerele cadastrale și categoriile de folosințã ale parcelelor, limitele și numerele
+cadastrale ale construcțiilor cu caracter permanent;
+Ñ rețeaua de drumuri;
+Ñ cãile ferate;
+Ñ apele curgãtoare cu sensul lor de curgere;
+Ñ apele stãtãtoare;
+Ñ construcțiile hidrotehnice;
+Ñ denumirile localitãților, apelor, principalelor forme de
+relief, pãdurilor, drumurilor și strãzilor, ale obiectivelor
+industriale, social-culturale etc., care sunt prevãzute în
+nomenclatoarele și atlasele oficiale în vigoare;
+Ñ numerele poștale ale imobilelor din intravilane;
+Ñ codul SIRSUP al unitãții administrativ-teritoriale;
+Ñ scara de reprezentare, sistemul de proiecție, anul de
+întocmire, schema de dispunere și încadrare a foilor componente la nivelul trapezelor din nomenclatura Sistemului
+de proiecție Stereografic 1970.
+6.3.5. Semnele convenționale, regulile de scriere și corpurile de literã stabilite pentru elementele de toponimie
+care trebuie reprezentate pe planurile cadastrale de bazã
+și de ansamblu sunt cele prevãzute în ”Atlasul de semne
+convenționale pentru planurile topografice la scãrile 1:5.000,
+1:2.000; 1:1.000 și 1:500,,, ediția 1978, pânã la elaborarea
+și avizarea și/sau aprobarea unui nou atlas de semne convenționale.
+7. Criteriile de împãrțire a terenurilor dupã destinații
+7.1. Prevederi generale
+
+7.1.1. Terenurile de orice fel care aparțin persoanelor
+fizice și juridice, indiferent de titlurile pe baza cãrora sunt
+deținute, se împart pe destinații conform prevederilor
+legale.
+7.1.2. Prin deținãtori de terenuri se înțelege titularii dreptului de proprietate, persoane fizice sau juridice, ai altor
+drepturi reale asupra terenurilor sau cei care, potrivit legii
+civile, au calitatea de posesor ori de deținãtor precar.
+7.1.3. Domeniul public poate fi de interes național, caz
+în care proprietatea asupra sa în regim de drept public
+aparține statului, sau de interes local, caz în care proprietatea (de asemenea în regim public) aparține comunelor,
+orașelor, municipiilor sau județelor.
+7.2. Terenurile cu destinație agricolã
+
+7.2.1. Din categoria terenurilor cu destinație agricolã fac
+parte: terenurile arabile, viile, livezile, pepinierele viticole,
+pomicole, plantațiile de hamei și duzi, pãșunile, fânețele,
+serele, solariile, rãsadnițele, terenurile cu vegetație forestierã, dacã nu fac parte din amenajamente silvice, pãșunile
+împãdurite, cele ocupate cu construcții agrozootehnice și
+de îmbunãtãțiri funciare, amenajãrile piscicole, drumurile
+tehnologice și de depozitare.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+
+7.3. Terenurile cu destinație forestierã
+
+7.3.1. Din categoria terenurilor cu destinație forestierã
+fac parte: terenurile împãdurite sau cele care servesc
+nevoilor de culturã, producție ori administrație silvicã, terenurile destinate împãduririlor și cele neproductive Ñ
+stâncãrii, abrupturi, bolovãnișuri, râpe, ravene, torenți.
+7.4. Terenurile aflate permanent sub ape
+
+7.4.1. Din aceastã categorie fac parte albiile minore ale
+cursurilor de apã, cuvetele lacurilor naturale și artificiale la
+nivelul maxim de retenție, brațele și canalele din Delta
+Dunãrii, fundul apelor maritime interioare și al mãrii teritoriale și contigue.
+7.5. Terenurile din intravilan
+
+7.5.1. În aceastã categorie se includ toate terenurile,
+indiferent de categoria de folosințã, situate în perimetrul
+localitãților urbane și rurale, ca urmare a stabilirii limitei de
+hotar a intravilanului, conform legislației în vigoare.
+7.6. Terenurile cu destinație specialã
+
+7.6.1. Din categoria terenurilor cu destinație specialã fac
+parte cele folosite pentru transporturile rutiere, feroviare,
+aeriene și navale, cele pe care se aflã obiective și instalații
+hidrotehnice, termice, de transport al energiei electrice și
+gazelor naturale, terenurile cu exploatãri miniere, petroliere,
+cele pentru nevoile de apãrare a țãrii, precum și
+rezervațiile și monumentele naturii, monumentele, ansamblurile și siturile arheologice și istorice și altele asemenea.
+8. Criteriile de clasificare și identificare a categoriilor
+de folosințã a terenurilor și a construcțiilor
+8.1. Prevederi generale
+
+8.1.1. Categoria de folosințã a terenului, individualizatã
+printr-un cod, este unul dintre atributele parcelei.
+Evidențierea la partea tehnicã a cadastrului general a categoriei de folosințã alãturi de celelalte atribute este necesarã
+atât pentru întocmirea cãrții funciare, cât și pentru stabilirea
+sarcinilor fiscale care greveazã imobilele. În cadastrul general nu se înregistreazã subcategorii de folosințã.
+8.1.2. Fiecare dintre cele 5 destinații ale terenurilor
+poate avea categorii de folosințã predominante, care ocupã
+suprafața majoritarã, și categorii de folosințã care ocupã un
+procent mai mic. De exemplu, în grupa terenurilor cu destinație agricolã categoriile de folosințã predominante sunt:
+arabilul, viile, livezile, fânețele și pãșunile, dar un procent
+mai mic îl ocupã și construcțiile, apele etc. Tot astfel, în
+intravilane, în afarã de categoria de folosințã curțiÑconstrucții, care este predominantã în cadrul destinației, se
+includ și alte categorii de folosințã care ocupã suprafețe
+mai mici, cum ar fi: arabil, livezi, ape etc.
+8.2. Criteriile de identificare a categoriilor de folosințã a terenurilor
+
+8.2.1. Terenuri arabile (A). În aceastã categorie se încadreazã acele terenuri care se arã în fiecare an sau la mai
+mulți ani (2Ñ6 ani) și sunt cultivate cu plante anuale sau
+perene cum ar fi: cereale, leguminoase pentru boabe,
+plante tehnice și industriale, plante medicinale și aromate,
+plante furajere, legume etc. În categoria de folosințã arabil
+se includ: arabil propriu-zis, pajiști cultivate, grãdini de
+legume, orezãrii, sere, solarii și rãsadnițe, cãpșunãrii, alte
+culturi perene. Se înregistreazã ca terenuri arabile:
+a) terenurile destinate culturilor furajere perene (trifoiști,
+sparcetiere, lucerniere sau alte terenuri însãmânțate cu
+diferite amestecuri de plante leguminoase și graminee
+perene), care se arã o datã la cel mult 6 ani;
+b) terenurile rãmase temporar neînsãmânțate datoritã
+inundațiilor, colmatãrilor, degradãrilor sau altor cauze;
+c) terenurile cu sere și rãsadnițe sistematizate, cu
+mențiunea ”sere,, sau ”rãsadnițe,,.
+
+Terenurile arabile amenajate sau ameliorate prin lucrãri
+de desecare, terasare, irigare etc. se vor delimita și se vor
+înscrie la arabil cu întreaga lor suprafațã, incluzând și
+suprafețele ocupate de canale, diguri, taluzuri, debușee,
+benzi înierbate etc., care au lãțimi mai mici de 2 m, cu
+excepția celor din proprietatea Societãții Naționale
+”Îmbunãtãțiri Funciare,, Ñ S.A. și Companiei Naționale
+”Apele Române,, Ñ S.A., care se vor înregistra la categoria de folosințã curțiÑconstrucții.
+8.2.2. Pãșuni (P). Pãșunile sunt terenuri înierbate sau
+înțelenite în mod natural sau artificial prin însãmânțãri la
+maximum 15Ñ20 de ani și care se folosesc pentru
+pãșunatul animalelor. În cadrul acestei categorii de folosințã
+se înregistreazã:
+a) pãșuni curate Ñ pãșunile acoperite numai cu
+vegetație ierboasã;
+b) pãșuni cu pomi Ñ pãșunile plantate cu pomi fructiferi, în scopul combaterii eroziunii sau a alunecãrilor de
+teren, precum și pãșunile care provin din livezi pãrãginite.
+La încadrarea acestora se va ține seama de faptul cã producția principalã este masa verde care se pãșuneazã, iar
+fructele pomilor reprezintã un produs secundar;
+c) pãșuni împãdurite Ñ pãșunile care în afarã de
+vegetație ierboasã sunt acoperite și cu vegetație forestierã,
+cu diferite grade de consistențã;
+d) pãșuni cu tufãrișuri și mãrãcinișuri.
+8.2.3. Fânețe (F). La categoria fânețe se încadreazã
+terenurile înierbate sau înțelenite în mod natural sau artificial prin însãmânțãri la maximum 15Ñ20 de ani, iar iarba
+se cosește pentru fân. Se înregistreazã la fânețe: fânețe
+curate, fânețe cu pomi, fânețe împãdurite, fânețe cu
+tufãrișuri și mãrãcinișuri.
+8.2.4. Vii (V). În aceastã categorie se încadreazã terenurile plantate cu vițã de vie:
+a) vii altoite și indigene:
+Ñ viile altoite au la baza lor un portaltoi;
+Ñ viile indigene sunt nealtoite, dezvoltându-se pe
+rãdãcini proprii.
+Împreunã mai sunt denumite și vii nobile;
+b) vii hibride Ñ sunt cele care poartã și denumirea de
+producãtori direcți;
+c) hamei Ñ deoarece au o agrotehnicã asemãnãtoare
+cu a viței de vie, plantațiile de hamei se includ în aceastã
+categorie de folosințã;
+d) pepiniere viticole Ñ terenuri pentru producerea materialului sãditor viticol: plantațiile portaltoi și pepinierele propriu-zise sau școlile de vițe.
+8.2.5. Livezi (L). Livezile sunt terenuri plantate cu pomi
+și arbuști fructiferi. Se înregistreazã ca livezi:
+a) livezi clasice Ñ terenurile plantate cu pomi fructiferi
+în diferite sisteme de culturã tradiționale, și anume: livezi
+cu culturi intercalate, livezi înierbate, livezi în sistem agropomicol, livezi pure etc.;
+b) livezi intensive și superintensive Ñ livezi amenajate
+având o mare densitate de pomi pe hectar, cu conducerea
+dirijatã a coroanelor și mecanizarea lucrãrilor de întreținere
+și recoltare;
+c) plantații de arbuști fructiferi Ñ terenuri plantate cu
+zmeurã, agrișe, coacãze, trandafiri de dulceațã etc.;
+d) pepiniere pomicole Ñ terenurile destinate pentru producerea materialului sãditor pomicol;
+e) plantații de duzi.
+8.2.6. Pãduri și alte terenuri forestiere. În aceastã categorie de folosințã intrã toate terenurile care sunt cuprinse
+în amenajamentele silvice și în afara acestora, indiferent
+de proprietar. Se înregistreazã la aceastã categorie de
+folosințã:
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+a) pãduri Ñ terenuri acoperite cu vegetație forestierã,
+cu o suprafațã mai mare de 0,25 ha;
+b) terenuri destinate împãduririi Ñ terenuri în curs de
+regenerare, terenuri degradate și poieni prevãzute a fi
+împãdurite prin amenajamente silvice;
+c) terenuri care servesc nevoilor de culturã, producție și
+administrație silvicã Ñ terenuri ocupate de pepiniere, solarii, plantații, culturi de rãchitã, arbuști ornamentali și fructiferi, cele destinate hranei vânatului și animalelor din
+unitãțile silvice, cele date în folosințã temporarã personalului silvic;
+d) perdele de protecție Ñ benzi ordonate din plantații
+silvice și uneori silvopomicole, care au diferite roluri de
+protecție, ca: perdele pentru protecția culturilor agricole,
+perdele pentru protecția cãilor de comunicație, pentru protecția așezãrilor umane, perdele pentru protecția digurilor,
+perdele pentru combaterea eroziunii etc.;
+e) tufãrișuri și mãrãcinișuri Ñ terenuri acoperite masiv
+cu vegetație arborescentã de micã înãlțime, cãtinișuri,
+ienupãrișuri, salcâmi, mãrãcinișuri etc.
+8.2.7. Terenuri cu ape și ape cu stuf. În aceastã categorie intrã terenurile acoperite permanent cu apã, precum
+și cele acoperite temporar, care dupã retragerea apelor nu
+pot avea altã folosințã. Se înregistreazã la aceastã
+categorie:
+a) ape curgãtoare (HR): fluviul Dunãrea, brațele și
+canalele din Delta Dunãrii, cursurile de apã, pârâurile,
+gârlele și alte surse de ape cu denumiri locale (izvoare,
+privaluri etc.). La apele curgãtoare se va înregistra
+suprafața ocupatã de întreaga albie minorã a cursului de
+apã, din mal în mal, chiar dacã aceasta nu este în întregime și permanent sub apã. De obicei apele curgãtoare
+formeazã de o parte și de alta a luciului apei prundișuri
+care numai la viituri mari sunt acoperite pentru scurt timp
+cu apã. Albia minorã a unui curs de apã include toate
+zonele joase ale cursului, insulele și prundișurile. Toate
+aceste terenuri din albia minorã nu se înscriu la neproductiv, ci la terenuri cu ape;
+b) ape stãtãtoare (HB). Limita acestor ape variazã în
+funcție de anotimp și de regimul de precipitații. La delimitarea acestor ape se va lua în considerare limita lor la
+nivelul mediu al apelor. În aceastã categorie se încadreazã
+și apele amenajate în mod special pentru creșterea dirijatã
+a peștelui, precum și suprafețele cu ape stãtãtoare de
+micã adâncime unde cresc trestișuri și pãpurișuri și alte
+tipuri de vegetație specificã în regim amenajat sau neamenajat;
+c) marea teritorialã și marea interioarã. Suprafața mãrii
+teritoriale este cuprinsã între liniile de bazã ale celui mai
+mare reflux de-a lungul țãrmului, inclusiv ale țãrmului dinspre larg al insulelor, ale locurilor de acostare, amenajamentelor hidrotehnice și ale altor instalații portuare
+permanente și linia din larg, care are fiecare punct situat la
+o distanțã de 12 mile marine (22.224 m), mãsuratã de la
+punctul cel mai apropiat de la liniile de bazã. Suprafața
+mãrii interioare este cuprinsã între țãrmul mãrii și liniile de
+bazã așa cum au fost definite mai sus.
+8.2.8. Limita terenurilor reprezentând albiile minore ale
+cursurilor de apã, cuvetele lacurilor naturale și artificiale,
+ale bãlților, ale țãrmului și plajei de nisip ale Mãrii Negre,
+este stabilitã prin norme specifice elaborate de ministerele
+interesate și avizate de O.N.C.G.C.
+8.2.9. Cãile de comunicații rutiere (DR) și cãile ferate
+(CF). Din punct de vedere funcțional și al administrãrii cãile
+de comunicații rutiere se împart, potrivit Ordonanței
+Guvernului nr. 43/1997 privind regimul juridic al drumurilor,
+dupã cum urmeazã:
+
+11
+
+a) drumuri de interes național: autostrãzi, drumuri
+expres, drumuri naționale europene, drumuri naționale principale, drumuri naționale secundare;
+b) drumuri de interes județean: drumurile care fac
+legãtura între reședințele de județ și reședințele de municipiu și orașe, stațiuni balneoclimaterice, porturi, aeroporturi
+și alte obiective importante;
+c) drumuri de interes local: drumurile comunale și drumurile vicinale;
+d) strãzile din localitãțile urbane;
+e) strãzile din localitãțile rurale: strãzi principale și strãzi
+secundare;
+f) cãi ferate simple, duble și înguste, triaje.
+Drumurile de exploatare din extravilan, care nu au un
+caracter permanent, nu se înregistreazã ca detalii și se
+atribuie în proporție egalã parcelelor din imediata
+vecinãtate.
+8.2.10. Terenurile ocupate cu construcții și curți (CC).
+Aceastã categorie cuprinde terenurile cu diverse utilizãri și
+destinații, de exemplu: clãdiri, curți, fabrici, uzine, silozuri,
+gãri, hidrocentrale, cariere, exploatãri miniere și petroliere,
+cabane, schituri, terenuri de sport, aerodromuri, diguri, taluzuri pietruite, terase, debușee, grãdini botanice și zoologice, parcuri, cimitire, piețe, rampe de încãrcare, fâșia de
+frontierã, locuri de depozitare, precum și alte terenuri care
+nu se încadreazã în nici una dintre categoriile de folosințã
+prevãzute la punctele anterioare.
+8.2.11. Terenuri degradate și neproductive (N). Aceastã
+categorie cuprinde terenurile degradate și cu procese excesive de degradare, care sunt lipsite practic de vegetație.
+Din aceastã categorie fac parte:
+a) nisipuri zburãtoare Ñ nisipuri mobile nefixate de
+vegetație și pe care vântul le poate deplasa dintr-un loc în
+altul;
+b) stâncãrii, bolovãnișuri, pietrișuri Ñ terenuri acoperite
+cu blocuri de stânci masive, îngrãmãdiri de bolovani și pietrișuri, care nu sunt acoperite de vegetație;
+c) râpe, ravene, torenți Ñ alunecãri active de teren
+care sunt neproductive când nu sunt împãdurite;
+d) sãrãturi cu crustã Ñ terenuri puternic sãrãturate, care
+formeazã la suprafața lor o crustã albicioasã friabilã;
+e) mocirle și smârcuri Ñ terenuri cu alternanțe frecvente de exces de apã și uscãciune, pe care nu se instaleazã vegetație. Terenurile cu mlaștini cu stuf nu se
+înregistreazã la categoria terenurilor neproductive, ci la
+categoria terenuri cu ape și stuf;
+f) gropile de împrumut și cariere Ñ terenuri devenite
+neproductive prin scoaterea stratului de sol și rocã pentru
+diverse nevoi de construcții;
+g) halde Ñ terenuri pe care s-a depozitat material steril
+rezultat în urma unor activitãți industriale și exploatãri
+miniere.
+8.3. Criteriile de identificare și înregistrare a construcțiilor
+
+8.3.1. La construcțiile cu caracter permanent se înregistreazã datele privind:
+Ñ situația juridicã;
+Ñ domeniul public sau privat;
+Ñ destinația. Dupã destinație construcțiile se clasificã
+în: construcții de locuințe, construcții administrative și
+social-culturale, construcții industriale și edilitare, construcții
+anexe.
+9. Culegerea în teren a datelor cadastrale
+9.1. Prevederi generale
+
+9.1.1. Lucrãrile de culegere în teren a datelor cadastrale
+constau în:
+Ñ identificarea amplasamentului și limitelor corpurilor de
+proprietate și categoriilor de folosințã ale acestora;
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+
+Ñ identificarea construcțiilor cu caracter permanent;
+Ñ identificarea proprietarilor, a titularilor altor drepturi
+reale asupra imobilelor;
+Ñ identificarea actului sau faptului juridic în temeiul
+cãruia este folosit imobilul.
+9.1.2. Culegerea datelor cadastrale se poate realiza ca
+o lucrare separatã, organizatã în acest scop sau concomitent cu executarea lucrãrilor de teren în cadrul actualizãrii
+sau realizãrii planurilor cadastrale.
+9.2. Identificarea proprietarilor și a situației juridice a imobilelor
+
+9.2.1. Operațiunea de identificare a proprietarului constã
+în înregistrarea persoanei/persoanelor fizice sau juridice
+care dețin un titlu de proprietate asupra imobilului.
+9.2.2. Proprietarii vor fi identificați din evidențele consiliului local. Datele vor fi extrase din Registrul permanent al
+populației, listele cu numele și prenumele, codul numeric
+personal și adresa tuturor proprietarilor din unitatea
+administrativ-teritorialã, conform evidențelor de la poliție.
+9.2.3. Datele referitoare la proprietar se înscriu în fișa
+corpului de proprietate (anexa nr. 1). Datele cu privire la
+identitatea proprietarului se preiau din buletinul/cartea de
+identitate al/a proprietarului. În situațiile în care proprietarul
+refuzã prezentarea acestor acte, în fișã se menționeazã
+refuzul și pentru rezolvare se solicitã sprijinul consiliului
+local și al poliției. În cazul în care nici cu ajutorul evidențelor existente la consiliul local și poliție nu poate fi
+identificat proprietarul imobilului, în fișã se face mențiunea
+”Proprietar neidentificat,,. În fișa corpului de proprietate se
+înscriu:
+a) numele, prenumele proprietarului și codul numeric
+personal. Aceste date se comparã cu cele din listele
+extrase din Registrul permanent al populației, în cazul când
+acestea au fost obținute. Pentru femeile cãsãtorite sau
+vãduve se vor înscrie numele de familie dobândit dupã
+cãsãtorie urmat de numele de familie avut înainte de
+cãsãtorie (de exemplu: Ionescu Ortansa, nãscutã
+Rãducanu) și codul numeric personal. La înscrierea adresei
+de domiciliu a proprietarului se vor preciza toate datele
+necesare expedierii corespondenței poștale, mai ales pentru
+proprietarii domiciliați în alte localitãți decât cele cuprinse
+în raza unitãții administrativ-teritoriale respective;
+b) situația juridicã a imobilelor: denumirea actului de
+proprietate cu numãrul și data eliberãrii, cota din coproprietate, unde este cazul, suprafața înscrisã în acte pentru fiecare parcelã, corp de proprietate și construcție, dupã caz.
+Înscrierea datelor privitoare la situația juridicã a imobilelor
+aflate în proprietatea persoanelor juridice se face potrivit
+specificațiilor din actele normative sau din alte acte în
+temeiul cãrora au dobândit dreptul real supus înscrierii. În
+cazul în care nu existã titlu de proprietate înscrierea se va
+face pe baza posesiei exercitate sub nume de proprietar la
+data identificãrii cadastrale, precum și a unei declarații pe
+propria rãspundere a persoanei deținãtoare a imobilului. În
+situația în care un imobil este într-un litigiu în curs de
+judecatã, pe fișa datelor cadastrale se face mențiunea
+”imobil în litigiu,, și se nominalizeazã pãrțile și obiectul
+litigiului.
+9.2.4. În cazul imobilelor dobândite prin moștenire se
+vor înregistra numele moștenitorului, felul moștenirii și
+actele care dovedesc calitatea de moștenitor.
+9.2.5. La identificarea proprietarilor persoane juridice se
+înscriu urmãtoarele date: denumirea persoanei juridice,
+codul SIRUES și adresa poștalã a sediului.
+9.2.6. Dacã nu face obiectul proprietãții pe etaje sau
+apartamente, în fișa corpului de proprietate se vor înscrie
+proprietarii respectivi, arãtându-se pentru fiecare (sub formã
+
+fracționarã sau în procente) numãrul de pãrți din întreg
+care îi revine, indiferent dacã acesta locuiește sau nu
+locuiește la adresa imobilului.
+9.2.7. În cazul clãdirilor cu mai multe apartamente se
+întocmește pentru fiecare clãdire lista proprietarilor și a titularilor altor drepturi reale asupra imobilelor, ca anexã la
+fișa corpului de proprietate. În aceastã listã se înscriu toți
+proprietarii grupați pe intrãri, astfel: numãrul cadastral al
+corpului de proprietate, numãrul blocului, numãrul etajului,
+numãrul apartamentului, numele, prenumele proprietarului și
+codul numeric personal sau, dupã caz, denumirea persoanei juridice și codul SIRUES, suprafața totalã ocupatã, în
+proprietate exclusivã sau în proprietate comunã, denumirea
+actului de proprietate și data emiterii acestuia. În situația
+în care în clãdirea respectivã sunt și apartamente aflate în
+proprietatea privatã a statului sau a unitãții administrativteritoriale, se vor înscrie denumirea persoanei juridice care
+administreazã fondul locativ de stat, codul SIRUES și
+datele de identificare a locatarilor. Lista proprietarilor se
+atașeazã la fișa corpului de proprietate.
+9.2.8. La stabilirea dreptului de proprietate asupra corpurilor de proprietate care, potrivit legii sau prin natura lor,
+sunt de uz sau de interes public se vor respecta prevederile Legii nr. 213/1998 privind proprietatea publicã și regimul juridic al acesteia, cu modificãrile ulterioare.
+9.2.9. La stabilirea limitelor imobilelor aparținând titularilor de cadastre de specialitate se va ține seama de prevederile legale privind delimitarea acestora, specifice fiecãrui
+domeniu de activitate.
+9.3. Identificarea categoriilor de folosințã
+
+9.3.1. Identificarea categoriilor de folosințã se realizeazã
+concomitent cu execuția lucrãrilor de cadastru general, respectiv cu executarea mãsurãtorilor de teren pentru actualizarea planurilor cadastrale sau a culegerii datelor de
+identificare a proprietarilor și a celor referitoare la actele de
+proprietate, în cazul utilizãrii ortofotogramelor.
+9.3.2. Identificarea și consemnarea categoriei de folosințã se fac pentru fiecare parcelã de teren (în extravilan
+și intravilan), iar datele se înscriu în fișa corpului de proprietate avându-se în vedere semnificațiile simbolurilor
+(codurilor) categoriilor de folosințã. Codurile categoriilor de
+folosințã se scriu și pe schițele întocmite pentru fiecare
+corp de proprietate.
+10. Numerotarea cadastralã a unei unitãți administrativ-teritoriale
+10.1. Prevederi generale
+
+10.1.1. Fiecare unitate administrativ-teritorialã se identificã prin codul SIRSUP extras din ”Registrul permanent al
+unitãților administrativ-teritoriale,, publicat de Comisia
+Naționalã pentru Statisticã.
+10.1.2. Fiecare corp de proprietate se individualizeazã
+prin numãrul cadastral, care asigurã legãtura între planul
+cadastral, registrele cadastrale și înregistrãrile din cartea
+funciarã. Numãrul cadastral al corpului de proprietate este
+unul dintre identificatorii de legãturã logicã dintre baza de
+date grafice și baza de date alfanumerice în sistemul informatic al cadastrului.
+10.2. Numerotarea cadastralã
+
+10.2.1. Numerotarea cadastralã într-o unitate administrativ-teritorialã se face la nivel de parcelã sau corp de proprietate. În cadrul teritoriului unei unitãți administrativ-teritoriale
+numerotarea cadastralã a corpurilor de proprietate se face
+separat pentru intravilan și extravilan. Codul de identificare
+în baza de date este ”1,, pentru extravilan și ”2,, pentru
+intravilan. În situația în care teritoriul cuprinde mai multe
+intravilane (de exemplu, o comunã cu mai multe sate),
+acestea vor primi coduri de identificare ”3,,, ”4,, etc. Pentru
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+a ușura numerotarea corpurilor de proprietate acestea vor
+fi, dupã caz, grupate pe sectoare cadastrale (tarlale sau
+cvartale).
+10.2.2. Corpurile de proprietate se numeroteazã cu cifre
+arabe de la 1 la n începând de la NV spre SE unitãții
+administrativ-teritoriale, separat pentru intravilan și extravilan. În cadrul fiecãrui corp de proprietate parcelele componente se numeroteazã cu cifre arabe de la 1 la n, urmate
+de simbolul categoriei de folosințã, începând cu categoria
+de folosințã curțiÑconstrucții.
+10.2.3. Imobilele care reprezintã detalii liniare ca: ape
+curgãtoare, canale, diguri, cãi ferate, drumuri clasate se
+numeroteazã separat în cadrul fiecãrui intravilan, respectiv
+extravilan. Detaliile liniare primesc un singur numãr cadastral pe toatã lungimea lor (cu excepția subtraversãrilor) în
+cadrul fiecãrui intravilan și un singur numãr cadastral în
+extravilan și pe tronsoane create prin intersecția cu alte
+detalii liniare (separat în intravilan și extravilan),
+respectându-se urmãtoarea ierarhie:
+Ñ cãile ferate întretãiate de ape;
+Ñ drumurile naționale întretãiate de cãi ferate și ape;
+Ñ drumurile județene întretãiate de ape, cãi ferate și
+drumuri naționale;
+Ñ drumurile comunale întretãiate de ape, cãi ferate,
+drumuri naționale și drumuri județene;
+Ñ drumurile de exploatare (comune) întretãiate de ape,
+cãi ferate, drumuri naționale, drumuri județene sau
+comunale.
+10.2.4. Dacã la încheierea numerotãrii se constatã omiterea unor imobile, acestea vor primi numere în continuarea numerotãrii în intravilanul unitãții administrativ-teritoriale
+respective.
+10.2.5. În cazul proprietãților izolate care nu au fost
+incluse la delimitare în suprafața intravilanelor corpurile de
+proprietate se numeroteazã în cadrul extravilanului. În
+același fel se procedeazã în cazurile speciale, în care nu
+s-a efectuat o delimitare clarã între intravilan și extravilan
+(în unele zone de munte).
+10.2.6. Parcelele componente ale corpurilor de proprietate, care au suprafețe mai mici de 50 m2 în intravilan și
+300 m2 în extravilan, nu se numeroteazã. Suprafața acestora se încadreazã în suprafețele și, respectiv, în categoriile de folosințã a parcelelor alãturate, ale aceluiași corp
+de proprietate.
+10.2.7. În cazurile în care un corp de proprietate sau
+pãrți dintr-un corp de proprietate își schimbã proprietarul,
+fiecare parte va fi numerotatã cu un numãr cadastral nou,
+în continuarea ultimului numãr atribuit la ultima numerotare
+cadastralã. Un numãr cadastral vechi nu se va atribui altui
+corp de proprietate, ci va rãmâne înregistrat în baza de
+date a cadastrului, la istoricul corpului de proprietate respectiv. Numerele cadastrale din vechile cãrți funciare vor fi
+înregistrate în baza de date la istoricul corpului de proprietate.
+10.2.8. În cazul în care se modificã configurația unui
+corp de proprietate prin comasare, dezmembrare, divizare,
+alipire, numerele cadastrale ale noilor corpuri de proprietate
+se modificã astfel: numerele cadastrale vechi dispar și se
+acordã numere cadastrale noi în continuarea ultimului
+numãr cadastral acordat pe suprafața unitãții administrativteritoriale.
+10.2.9. Numãrul cadastral al corpului de proprietate și
+cele ale parcelelor componente ale acestuia nu vor conține
+codul de identificare și codul SIRUTA, acestea fiind atribute
+ale fiecãrei unitãți administrativ-teritoriale.
+
+13
+
+Un exemplu de numerotare cadastralã în intravilan:
+2349 Corp de proprietate:
+Ionescu N.C. Ion Ñ total:
+3.450 m2 , din care:
+1. CurțiÑconstrucții
+750 m2
+2. Livadã
+240 m2
+3. Vie
+1.300 m2
+4. Arabil
+1.160 m2
+2350 Corp de proprietate:
+Vasilescu I. Petre Ñ total:
+5.400 m2 , din care:
+1. CurțiÑconstrucții
+1.400 m2
+2. Arabil
+1.500 m2
+3. Vii
+2.500 m2
+10.2.10. Suprafețelor de teren ocupate de proiecțiile la
+sol ale construcțiilor permanente din cadrul parcelelor cu
+categoria de folosințã curțiÑconstrucții aparținãtoare unui
+corp de proprietate li se va atribui litera ”C,, urmatã de un
+indice de la 1 la n (de exemplu: C1, C2, C3,...).
+11. Calculul suprafețelor
+11.1. Prevederi generale
+
+11.1.1. În cadastrul general calculul suprafețelor se face
+analitic, din coordonatele punctelor de contur ale unitãții
+administrativ-teritoriale (perimetrul extravilan și intravilan
+subdivizat în sectoare cadastrale), ale corpurilor de proprietate și ale parcelelor rezultate în urma prelucrãrii
+operațiunilor de teren și de birou.
+11.1.2. Valorile suprafețelor calculate înscrise în documentele cadastrului general se exprimã în metri pãtrați.
+11.1.3. Suprafețele calculate înregistrate în cadastrul
+general pot fi diferite de suprafețele înscrise în actele de
+proprietate (titlu de proprietate, acte de vânzare-cumpãrare
+și altele). Eventualele diferențe dintre aceste suprafețe sunt
+aduse la cunoștințã proprietarilor și pot fi contestate de
+aceștia, conform prevederilor legale, cu respectarea regulamentelor elaborate și aprobate de O.N.C.G.C.
+11.2. Calculul suprafețelor în extravilan și intravilan
+
+11.2.1 Calculul analitic al suprafețelor se face pentru:
+unitatea administrativ-teritorialã, extravilan Ñ intravilan, sectoarele cadastrale, corpurile de proprietate, parcele.
+11.2.2. Pentru controlul calculelor suprafețelor (în cazul
+în care nu au fost determinate analitic toate elementele) se
+au în vedere urmãtoarele:
+Ñ suma suprafețelor parcelelor componente ale unui
+corp de proprietate este egalã cu suprafața calculatã a corpului de proprietate, cu constrângere pe aceasta;
+Ñ suma suprafețelor corpurilor de proprietate este egalã
+cu suprafața calculatã a sectoarelor cadastrale, cu
+constrângere pe acestea;
+Ñ suma suprafețelor sectoarelor cadastrale este egalã
+cu suprafața calculatã a extravilanului și a intravilanului, cu
+constrângere pe acestea.
+12. Registrele cadastrale
+12.1. Prevederi generale
+
+12.1.1. Documentele tehnice principale ale cadastrului
+general, care se întocmesc dupã introducerea lucrãrilor de
+cadastru general la nivelul unei unitãți administrativ-teritoriale sunt:
+Ñ registrul cadastral al parcelelor;
+Ñ indexul alfabetic al proprietarilor și domiciliul
+acestora;
+Ñ registrul cadastral al proprietarilor;
+Ñ registrul corpurilor de proprietate;
+Ñ fișa centralizatoare, partida cadastralã pe proprietari
+și pe categorii de folosințã;
+Ñ planul cadastral.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+
+12.1.2. Fișele corpurilor de proprietate sunt documentele
+care conțin datele de intrare în baza de date a cadastrului
+general. Documentele tehnice ale cadastrului general se
+obțin prin prelucrarea datelor din baza de date.
+12.1.3. Orice informații grafice sau alfanumerice referitoare la un corp de proprietate se pot obține prin interogarea bazei de date a cadastrului general.
+12.1.4. Documentele cadastrale se întocmesc o singurã
+datã pe suport de hârtie, la încheierea tuturor lucrãrilor de
+cadastru general într-o unitate administrativ-teritorialã. De
+regulã, registrele cadastrale se întocmesc în trei exemplare,
+dintre care unul se depune la consiliul local și douã la
+O.J.C.G.C. (un exemplar pentru arhiva proprie și un exemplar pentru biroul de carte funciarã).
+12.2. Registrul cadastral al parcelelor
+
+12.2.1. Registrul cadastral al parcelelor conține situația
+tuturor parcelelor componente ale corpului de proprietate
+din cuprinsul unei unitãți administrativ-teritoriale și se
+întocmește separat pentru intravilan și pentru extravilan.
+Conținutul registrului cadastral al parcelelor este prezentat
+în anexa nr. 2.
+12.3. Indexul alfabetic al proprietarilor și domiciliul acestora
+
+12.3.1. Scopul principal al indexului alfabetic al proprietarilor este acela de a permite identificarea partidei cadastrale a fiecãrui proprietar în registrul cadastral al
+proprietarilor. Acesta este documentul care face legãtura
+între registrul cadastral și al parcelelor și registrul cadastral
+al proprietarilor. Conținutul acestui registru este prezentat în
+anexa nr. 3.
+12.3.2. Numerele de ordine date proprietarilor în indexul
+alfabetic coincid cu numerele partidelor cadastrale ale
+acestora din registrul cadastral al proprietarilor.
+12.4. Registrul cadastral al proprietarilor
+
+12.4.1. Registrul cadastral al proprietarilor conține partidele cadastrale ale fiecãrui proprietar, în care sunt înscrise
+toate suprafețele de teren ale parcelelor componente ale
+corpurilor de proprietate, atât în intravilan, cât și în extravilan. Conținutul registrului este prezentat în anexa nr. 4.
+12.5. Registrul corpurilor de proprietate
+
+12.5.1. Corpul de proprietate este format din una sau
+mai multe parcele alipite care aparțin aceluiași proprietar.
+Registrul se întocmește conform modelului prezentat în
+anexa nr. 5.
+12.6. Fișa centralizatoare a partidelor cadastrale pe proprietari și pe
+categorii de folosințã
+
+12.6.1. Fișele centralizatoare ale partidelor cadastrale
+constituie documentele sursã pentru întocmirea situațiilor
+statistice de sintezã privind terenurile și construcțiile care
+se pun la dispoziție autoritãților publice.
+12.6.2. În fișa centralizatoare se înscriu suprafața totalã
+pe fiecare categorie de folosințã și suprafața totalã generalã pe fiecare grupã de destinație a terenului, deținutã
+într-o unitate administrativ-teritorialã. Fișa se întocmește pe
+tipuri de proprietate și grupe de proprietari ai corpurilor de
+proprietate. Modelul fișei centralizatoare a partidelor cadastrale pe proprietari și pe categorii de folosințã este prezentat în anexa nr. 6.
+
+13. Execuția planurilor de amplasament și delimitare a
+corpurilor de proprietate
+13.1. Scopul întocmirii planurilor
+
+13.1.1. Planurile de amplasament și delimitare a corpurilor de proprietate se executã în urmãtoarele scopuri:
+Ñ înscrierea cu caracter nedefinitiv în cartea funciarã a
+actelor și faptelor juridice privind terenurile și construcțiile
+situate pe o unitate administrativ-teritorialã pentru care nu
+s-au definitivat documentele cadastrului general; pentru
+acestea sunt elaborate instrucțiuni de întocmire a documentației;
+Ñ soluționarea contestațiilor cu privire la corectitudinea
+și exactitatea datelor referitoare la un corp de proprietate;
+Ñ dupã finalizarea lucrãrilor de introducere a cadastrului
+general într-o unitate administrativ-teritorialã, pentru elaborarea documentațiilor topocadastrale necesare realizãrii solicitate de administrația publicã localã pentru emiterea
+avizelor, certificatelor și autorizațiilor legale, precum și pentru soluționarea aspectelor legate de constituirea sau
+reconstituirea proprietãților.
+13.2. Conținutul documentației
+
+13.2.1. Documentația privind întocmirea planurilor cadastrale de amplasament și delimitare a corpurilor de proprietate cuprinde:
+Ñ memoriul tehnic justificativ;
+Ñ planul de încadrare în zonã, întocmit la o scarã convenabilã, de regulã 1: 2.000 Ñ 1: 10.000;
+Ñ planul de amplasament propriu-zis;
+Ñ inventarul cu punctele folosite la ridicarea topograficã
+a imobilului în Sistem de coordonate Stereografic 1970 sau
+local;
+Ñ inventarul de coordonate al punctelor de pe conturul
+imobilului/corpului de proprietate și a patru puncte de detaliu stabilite (borne, picheți de fier, colțuri de clãdiri, cãmine
+de vizitare, puncte de frângere ale împrejmuirilor în intravilan și stâlpi, țãruși de lemn și borne în extravilan), care
+pot servi la reconstituirea sistemului de coordonate utilizat
+la determinarea limitelor de proprietate;
+Ñ descrierile topografice ale punctelor stabile.
+13.2.2. Condițiile de execuție a planurilor cadastrale de
+amplasament și delimitare a corpurilor de proprietate sunt:
+Ñ mãsurãtorile topografice se vor executa, de regulã,
+în Sistem de proiecție Stereografic 1970. În cazurile în
+care punctele din rețeaua geodezicã sunt amplasate la o
+distanțã mai mare de 3 km de zona de lucru, suprafața
+este mai micã de 10 ha și nu existã condiții de vizibilitate
+pentru mãsurãtori, prin metodele retrointersecției, intersecției
+înainte, intersecției combinate, se poate lucra în sistem
+local;
+Ñ în situația în care coordonatele punctelor se calculeazã în sistem local, se vor lua mãsurile necesare pentru
+materializarea și conservarea a minimum patru puncte stabile cu coordonate în sistem local, care vor folosi la integrarea ulterioarã în Sistemul de proiecție Stereografic 1970.
+13.2.3. Preciziile de determinare, modalitãțile de materializare, conținutul și modul de realizare a planurilor de
+amplasament și delimitare a corpurilor de proprietate vor fi
+cele specificate în prezentele norme tehnice, cu excepția
+numerotãrii cadastrale.
+La recepția planurilor de amplasament și delimitare,
+pentru fiecare unitate administrativ-teritorialã se vor atribui,
+în ordinea cronologicã a solicitãrilor, numere cadastrale
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+provizorii (în cazul teritoriilor în care nu s-a introdus cadastrul general) sau în continuarea ultimului numãr cadastral
+pentru teritoriile în care s-a introdus cadastrul general.
+13.2.4. Planurile se întocmesc pe suport analogic format
+A4, A3 la o scarã convenabilã (1:500, 1: 1.000, 1: 2.000)
+și în formã digitalã.
+13.2.5. Pe plan, în completarea pãrții grafice, se înscriu:
+numele, prenumele și adresa celui care a solicitat planul,
+adresa imobilului, inventarul cu numerele și coordonatele
+punctelor de contur, suprafața corpului de proprietate și a
+parcelelor componente Ñ pe categorii de folosințã, numere
+cadastrale provizorii, sistemul de proiecție, scara, direcția
+nord, numele, semnãtura și ștampila executantului, conform
+anexei nr. 7. Planurile de amplasament și delimitare vor fi
+însoțite de ”Fișa corpului de proprietate,, (anexa nr. 1) completatã corespunzãtor.
+13.2.6. Punctele de pe conturul imobilului se marcheazã
+cu țãruși de lemn sau picheți metalici, dacã imobilul nu
+este împrejmuit.
+14. Controlul, avizarea, recepția lucrãrilor și aprobarea
+pentru introducerea cadastrului general la nivelul unitãții
+administrativ-teritoriale
+14.1. Controlul lucrãrilor
+
+14.1.1. Controlul pe parcursul executãrii lucrãrilor de
+teren și de birou se face de cãtre personalul de specialitate al O.J.C.G.C., potrivit programelor întocmite în acest
+scop, sau la solicitarea executanților. Rolul controlului pe
+parcursul executãrii lucrãrilor îl constituie analiza și confirmarea stadiilor de realizare a etapelor prevãzute în graficele convenite prin contracte.
+14.1.2. În cazurile în care la controalele fãcute din
+inițiativa O.J.C.G.C. se constatã deficiențe de ordin tehnic
+sau de organizare a lucrãrilor, care anticipeazã o calitate
+scãzutã sau neîncadrarea în termenul din contract, se
+întocmește procesul-verbal de constatare în care se specificã mãsuri și termene pentru remedieri.
+Dacã la al doilea control situațiile deficitare constatate
+la controlul anterior nu au fost rezolvate și nu se anticipeazã remedierea lor, organul de control va înainta conducerii O.J.C.G.C. sau, dupã caz, O.N.C.G.C., în termen de
+3 zile, raportul de constatare și propuneri, mergându-se
+pânã la rezilierea contractului și luarea mãsurilor de recuperare a cheltuielilor care nu pot fi justificate, conform prevederilor legale.
+14.2. Avizarea soluțiilor din proiectele tehnice de ansamblu și de
+execuție
+
+14.2.1. În conformitate cu normele legale cu privire la
+metodologia de avizare a documentațiilor tehnico-economice, în cadrul O.J.C.G.C. se va constitui, prin decizie a
+directorului general, comisia de avizare. Procesele-verbale
+cuprinzând hotãrârile comisiilor de avizare se aduc la
+cunoștințã executanților lucrãrilor, în scris, cu confirmare de
+primire, în termen de 3 zile de la adoptare.
+14.2.2. Obiectul principal al activitãții de avizare îl constituie analizarea eficienței soluțiilor tehnice și economice
+propuse în proiectul tehnic de ansamblu și în proiectul tehnic de execuție a lucrãrilor destinate introducerii și întreținerii cadastrului general.
+14.2.3. Avizarea soluțiilor tehnice și economice propuse
+pentru lucrãri se face dupã adjudecarea prin licitație a
+acestora și înainte de contractarea execuției lucrãrilor.
+
+15
+
+14.2.4. Analizarea soluțiilor tehnice în ședințele de avizare se face, dupã caz, în prezența executanților lucrãrilor
+și în funcție de mãrimea și complexitatea lucrãrilor, la avizare fiind invitați și reprezentanți ai O.N.C.G.C., personalitãți în domeniu.
+14.3. Recepția lucrãrilor
+
+14.3.1. Recepția se va efectua pe baza dosarului de
+verificare întocmit de persoane fizice sau juridice autorizate,
+altele decât cele ale executantului. Recepția are drept scop
+confirmarea îndeplinirii clauzelor din contracte la terminarea
+lucrãrilor sau a etapelor de lucrãri, potrivit condițiilor tehnice prevãzute în prezentele norme tehnice și în caietele
+de sarcini.
+14.3.2. Din punct de vedere contractual, prin
+operațiunea de recepție se constatã și se recunoaște oficial
+cã lucrarea s-a încheiat și poate fi utilizatã potrivit normelor
+stabilite de O.N.C.G.C. Prin recepționarea lucrãrii executantul se elibereazã de obligațiile contractuale, iar O.J.C.G.C.,
+în calitate de beneficiar al lucrãrii, preia rãspunderile în privința utilizãrii, valorificãrii și întreținerii ei.
+14.3.3. Potrivit prevederilor contractuale se pot efectua
+recepții parțiale, dar numai pe faze de lucrãri încheiate
+prevãzute în contract.
+14.3.4. Recepția finalã a lucrãrilor de introducere și
+întreținere a cadastrului general Ñ partea tehnicã Ñ se
+considerã încheiatã dupã afișarea, timp de 60 de zile, a
+rezultatelor mãsurãtorilor și rezolvarea contestațiilor cu privire la exactitatea mãsurãtorilor.
+14.3.5. În cazurile în care se constatã cã lucrãrile necesitã remedieri de conținut, de calitate sau de prezentare
+graficã, ce conduc la hotãrârea amânãrii recepției, atunci în
+locul procesului-verbal de recepție se întocmește o notã de
+constatare în care se nominalizeazã deficiențele constatate
+și completãrile necesare, precum și termenele în care se
+vor efectua remedierile. Procesul-verbal de recepție sau
+nota de constatare se semneazã de împuterniciții
+O.N.C.G.C. și de executantul lucrãrii.
+14.3.6. Recepția finalã a lucrãrilor de cadastru general
+se va realiza în termen de 30 de zile de la data expirãrii
+celor 60 de zile prevãzute de lege pentru depunerea contestațiilor, timp în care se vor rezolva de cãtre executantul
+lucrãrii problemele legate de refaceri sau corecții ale
+datelor. Se vor respecta urmãtoarele condiții:
+a) afișarea la sediul consiliului local, conform prevederilor legale, a datelor rezultate în urma mãsurãtorilor cadastrale: amplasamentele, proprietarii, suprafețele parcelelor,
+corpurilor de proprietate și partidelor cadastrale. Proprietarii
+care au domiciliul în alte localitãți decât cele în care s-au
+executat lucrãrile vor fi înștiințați, prin grija consiliului local,
+în mod obligatoriu, prin adresã scrisã, expediatã prin poștã,
+cu confirmare de primire;
+b) rezolvarea contestațiilor care se referã la exactitatea
+mãsuratorilor în conformitate cu regulamentele și
+instrucțiunile elaborate de O.N.C.G.C. În cazurile în care în
+urma rezolvãrii contestațiilor persoanele nemulțumite apeleazã la acțiuni judecãtorești, recepția finalã se va face cu
+menționarea situațiilor litigioase care vor fi soluționate în
+instanțã.
+14.3.7. Soluțiile de compensare a unor suprafețe gãsite
+în plus sau în minus la introducerea cadastrului general
+fațã de înscrisurile din titlurile de proprietate obținute prin
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+
+reconstituirea sau constituirea dreptului de proprietate conform legilor proprietãții și din alte documente legale se vor
+stabili prin grija consiliilor locale, ca acțiune separatã ce
+intrã în responsabilitatea acestora.
+Deciziile luate în cadrul consiliilor locale, dupã ce sunt
+aduse la cunoștințã persoanelor implicate și devin definitive, vor fi puse în aplicare de persoane fizice și juridice
+autorizate de O.N.C.G.C. sau de O.J.C.G.C.
+14.3.8. Datele cadastrale modificate în conformitate cu
+hotãrârile judecãtorești definitive și irevocabile vor fi aduse
+la cunoștințã O.J.C.G.C. de persoanele beneficiare care au
+obligația sã prezinte în termen de 60 de zile o documentație tehnicã întocmitã de persoane fizice sau juridice
+autorizate, care va conține modificãrile rezultate din
+hotãrâre. Documentația modificatoare, întocmitã conform
+prevederilor regulamentului de recepție, se preia cu caracter nedefinitiv în cartea funciarã, urmând sã fie recuperatã
+și integratã în cadastrul general la introducerea sau
+întreținerea acestuia.
+14.3.9. Procesul-verbal de recepție finalã se întocmește
+în douã exemplare și se semneazã de membrii comisiei de
+recepție, se consemneazã luarea la cunoștințã de cãtre primar și se aprobã de cãtre directorul general al O.J.C.G.C.
+Data definitivãrii lucrãrilor de cadastru coincide cu data
+întocmirii proceselor-verbale de recepție finalã.
+14.4. Aprobarea pentru introducerea cadastrului general la nivelul
+unitãții administrativ-teritoriale
+
+14.4.1. În termen de 3 zile de la data recepției finale
+conducerea O.J.C.G.C. transmite O.N.C.G.C. un exemplar
+al procesului-verbal de recepție finalã, un exemplar al
+”Fișei centralizatoare a partidelor cadastrale pe proprietari
+și pe categorii de folosințã,, și o notã justificativã asupra
+categoriilor de lucrãri realizate. O.N.C.G.C. va analiza felul
+în care au fost aplicate prevederile legale de ordin tehnic
+și economic și va emite ordinul de validare a cadastrului
+general. Data emiterii ordinului reprezintã data oficialã a
+introducerii cadastrului general.
+14.4.2. Dupã primirea ordinului de la O.N.C.G.C.
+O.J.C.G.C. va transmite în termen de 30 de zile biroului
+de carte funciarã al judecãtoriei în raza cãreia se aflã unitatea administrativ-teritorialã respectivã registrele și copia
+de pe planurile cadastrale de bazã. Transmiterea documentelor menționate cãtre judecãtoria teritorialã se va face
+cu adresã scrisã în care se vor menționa data recepției și
+numãrul ordinului de aprobare al O.N.C.G.C.
+14.4.3. La consiliul local al unitãții administrativ-teritoriale se vor transmite urmãtoarele documente:
+Ñ dosarul de delimitare cadastralã a hotarului administrativ și a intravilanelor;
+Ñ copie de pe procesul-verbal de recepție finalã și de
+pe ordinul O.N.C.G.C.;
+Ñ registrele și copiile de pe planurile cadastrale.
+15. Lista de coduri
+Cod
+Tipul de proprietate
+Ñ proprietatea privatã a persoanelor fizice
+PF
+Ñ proprietatea privatã a persoanelor juridice
+PJ
+Ñ domeniul public al statului
+DS
+Ñ domeniul public al unitãților administrativteritoriale
+DAT
+Ñ domeniul privat al statului
+DPS
+Ñ domeniul privat al unitãților administrativteritoriale
+DAT
+
+Destinațiile terenurilor
+Ñ terenuri cu destinație agricolã
+TDA
+Ñ terenuri cu destinație forestierã
+TDF
+Ñ terenuri aflate permanent sub ape
+TDH
+Ñ terenuri aflate în intravilane
+TDI
+Ñ terenuri cu destinații speciale
+TDS
+Categorii de folosințã a terenurilor
+Ñ arabil
+A
+Ñ vii
+V
+Ñ livezi
+L
+Ñ pãșuni
+P
+Ñ fânețe
+F
+Ñ pãduri și alte terenuri cu vegetație
+forestierã
+PD
+Ñ ape curgãtoare
+HR
+Ñ ape stãtãtoare
+HB
+Ñ cãi de comunicații rutiere
+DR
+Ñ cãi ferate
+CF
+Ñ curți și curți cu construcții
+CC
+Ñ construcții
+C
+Ñ terenuri neproductive și degradate
+N
+Destinațiile construcțiilor
+Ñ locuințe
+CL
+Ñ construcții administrative și socialculturale
+CAS
+Ñ construcții industriale și edilitare
+CIE
+Ñ construcții-anexã
+CA
+16. Glosar de termeni
+Birou de carte funciarã Ñ compartiment auxiliar al
+judecãtoriei, care are ca obiect de activitate înscrierea în
+cartea funciarã a actelor și faptelor juridice referitoare la
+imobile.
+Cadastru general Ñ sistem unitar și obligatoriu de evidențã tehnicã, economicã și juridicã prin care se realizeazã
+identificarea, înregistrarea, reprezentarea pe planuri cadastrale a tuturor corpurilor de proprietate, indiferent de destinație și de proprietar, de pe întregul teritoriu al țãrii.
+Carte funciarã Ñ sistem de publicitate imobiliarã întemeiat pe identificarea cadastralã a imobilelor.
+Cadastre de specialitate Ñ subsisteme de evidențã și
+inventariere sistematicã din punct de vedere tehnic și economic a bunurilor imobile, specifice unor domenii de activitate, cu scopul administrãrii lor raționale. Dintre acestea se
+disting:
+Ñ cadastrul agricol Ñ evidența și inventarierea sistematicã a terenurilor agricole pe categorii și subcategorii de
+folosințã, specificând natura solului, panta, pretabilitatea la
+anumite culturi, clasa de calitate, venitul net etc.;
+Ñ cadastrul forestier Ñ evidența și inventarierea sistematicã a fondului forestier național și a amenajamentelor
+silvice, specificând suprafața, esența lemnoasã, vârsta, consistența masei lemnoase etc., precum și informații referitoare la sol, relief și climã;
+Ñ cadastrul cãilor ferate Ñ evidența și inventarierea
+terenurilor, construcțiilor, instalațiilor și stãrii rețelei feroviare;
+Ñ cadastrul drumurilor Ñ evidența și inventarierea terenurilor, construcțiilor, instalațiilor și stãrii rețelei de drumuri;
+Ñ cadastrul porturilor Ñ evidența și inventarierea sistematicã a terenurilor, construcțiilor, instalațiilor, cãilor de
+transport, rețelelor subterane și supraterane, platformelor
+tehnologice etc., care deservesc unitãțile portuare;
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+Ñ cadastrul aeroporturilor Ñ evidența și inventarierea
+sistematicã a terenurilor, construcțiilor, instalațiilor, cãilor de
+transport, rețelelor subterane și supraterane etc., care deservesc aeroporturile;
+Ñ cadastrul apelor Ñ evidența și inventarierea apelor, a
+terenurilor acoperite de ape și stuf, precum și a instalațiilor
+care le deservesc, organizate pe bazine hidrografice, specificând suprafața, calitatea, folosința, instalațiile de transport
+și exploatare, de protecție și ameliorare a calitãții, precum
+și condițiile de relief și climã;
+Ñ cadastrul fondului imobiliar Ñ evidența și inventarierea corpurilor de proprietate din localitãți, specificând pentru
+construcții folosința, materialele de construcție, structura,
+regimul de înãlțime, fundația, suprafața, dotãrile, starea;
+Ñ cadastrul rețelelor edilitare (apã, canalizare, termoficare,
+gaz, electrice, telefonice) Ñ evidența și inventarierea rețelelor edilitare și a instalațiilor care le deservesc, specificând
+amplasamentele, traseele, dimensiunile, materialele de construcții, parametrii tehnici, starea.
+Codificare cadastralã Ñ operațiunea prin care se atribuie
+numere identificatoare (coduri) de recunoaștere unicã a
+corpurilor de proprietate în raport cu proprietarul. De exemplu: codul pentru proprietatea de stat de interes public sau
+proprietatea de stat de interes privat; codul pentru terenurile deținute de persoanele fizice private; codul pentru terenurile cu destinație forestierã; codul pentru terenurile
+ocupate de ape etc.
+Corp de clãdire Ñ parte componentã a unei clãdiri, delimitatã dupã urmãtoarele criterii:
+Ñ sistemul arhitectonic și constructiv determinat de
+fațade și materialele de construcție a pereților exteriori;
+Ñ intrarea separatã în clãdire;
+Ñ independența și regimul diferit de înãlțime fațã de
+alte clãdiri alãturate.
+Categorie de folosințã a terenului Ñ caracterizare codificatã din punct de vedere al destinației terenului în funcție
+de scopul pentru care este utilizat (agricol, silvic, construcții, cãi de comunicații, exploatare minierã etc.).
+Construcție Ñ o proprietate sau o parte dintr-o proprietate construitã cu o utilizare distinctã pentru proprietar, care
+aparține unei persoane sau mai multor persoane, în indiviziune. Aceasta poate fi o clãdire întreagã sau pãrți dintr-o
+clãdire, cu una sau mai multe intrãri. Fiecare intrare are o
+adresã. Adresa este identicã cu cea a intrãrii.
+Corp de proprietate Ñ una sau mai multe parcele alipite,
+aparținând aceluiași proprietar.
+Delimitarea cadastralã a unitãții administrativ-teritoriale Ñ
+lucrare distinctã la introducerea cadastrului la nivelul unitãții
+administrativ-teritoriale, constând în: constituirea conform
+legii a comisiei, parcurgerea întregului traseu al hotarului
+unitãții administrativ-teritoriale, stabilirea punctelor de hotar
+caracteristice pe linia de hotar sau pe limita intravilanului
+și marcarea lor cu borne, determinarea coordonatelor acestora, întocmirea actelor și documentației tehnice de delimitare.
+Drept real Ñ dreptul absolut, opozabil tuturor, pe care
+titularul îl exercitã direct asupra bunului, fãrã a fi necesarã
+intervenția altor persoane.
+Drept de proprietate privatã Ñ drept aparținând numai
+persoanelor fizice care își pot exercita asupra imobilelor din
+
+17
+
+proprietatea privatã toate prerogativele dreptului de proprietate, adicã posesia, folosința și dispoziția din putere proprie
+și în interesul satisfacerii nevoilor personale.
+Drepturi reale imobiliare principale Ñ drepturi care au o
+existențã de sine stãtãtoare în raport cu alte drepturi reale
+sau de creanțã.
+Drepturi reale imobiliare accesorii Ñ drepturi reale imobiliare care servesc ca o garanție realã a unor drepturi de
+creanțã și au o existențã juridicã subordonatã drepturilor
+reale imobiliare principale. Din acestea fac parte: ipoteca,
+amanetul și unele privilegii imobiliare.
+Deținãtori de terenuri Ñ titularii dreptului de proprietate,
+ai altor drepturi reale asupra terenului sau cei care, potrivit
+legii civile, au calitatea de posesor ori deținãtor precar.
+Entitãți de bazã ale sistemului de evidențã a cadastrului
+general Ñ parcela, construcția și proprietarul.
+Extravilanul unitãții administrativ-teritoriale Ñ partea din
+unitatea administrativ-teritorialã, cuprinsã în afara intravilanului, delimitatã cadastral potrivit legii.
+Fond funciar Ñ totalitatea terenurilor de orice fel, indiferent de destinație, de titlurile pe baza cãrora sunt deținute
+sau de domeniul public ori privat din care fac parte (fondul
+funciar al unui județ, al României etc.).
+Imobil Ñ parcelã de teren cu sau fãrã construcții.
+Intravilanul unitãții administrativ-teritoriale Ñ partea din
+unitatea administrativ-teritorialã, legal delimitatã, destinatã
+construirii și habitației.
+Numerotare cadastralã Ñ operațiunea prin care se atribuie, dupã anumite reguli, numere de ordine (numere
+cadastrale) corpurilor de proprietate și parcelelor din cadrul
+unei unitãți administrativ-teritoriale.
+Numerotare topograficã (în cadastru) Ñ operațiunea prin
+care se atribuie numere de ordine punctelor caracteristice
+ale contururilor.
+Parcelã Ñ suprafața de teren situatã într-o unitate
+administrativ-teritorialã pe un amplasament bine stabilit,
+având o singurã categorie de folosințã și aparținând unui
+proprietar sau mai multor proprietari, în indiviziune. Din
+punct de vedere economic o parcelã poate avea mai multe
+subdiviziuni fiscale. O subdiviziune fiscalã este o porțiune a
+parcelei având aceeași clasificare calitativã.
+Publicitate imobiliarã Ñ sistem de înscriere în documente publice a corpurilor de proprietate împreunã cu
+drepturile imobiliare pe care le au proprietarii și posesorii
+asupra lor. Publicitatea imobiliarã se realizeazã prin cartea
+funciarã.
+Partidã cadastralã Ñ suma corpurilor de proprietate care
+aparțin aceluiași proprietar în cuprinsul unei unitãți administrativ-teritoriale (comunã, oraș sau municipiu).
+Plan topografic Ñ reprezentare convenționalã, în plan,
+analogicã sau digitalã, a unei suprafețe de teren, într-o
+proiecție cartograficã și într-un sistem de referințã. În
+România planul topografic se întocmește în Sistemul de
+proiecție Stereografic 1970 și în Sistemul de referințã
+Marea Neagrã 1975.
+Plan cadastral de bazã Ñ plan tematic întocmit pentru
+nevoile cadastrului general, pe care sunt redate detaliat
+poziția și numerele cadastrale ale corpurilor de proprietate
+și parcelelor, categoriile de folosințã a terenurilor și construcțiile permanente.
+Plan cadastral de ansamblu Ñ produs derivat obținut prin
+generalizarea conținutului planului cadastral de bazã. Se
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+
+întocmește, de regulã, pentru o unitate administrativ-teritorialã și conține reprezentarea hotarului, a limitelor intravilanelor și denumirile acestora, principalele detalii liniare,
+elemente de toponimie, denumirile unitãților administrativteritoriale vecine.
+Proprietar Ñ persoanã fizicã sau juridicã titularã în
+exclusivitate sau în indiviziune a dreptului real asupra corpului de proprietate supus înscrierii.
+Posesor Ñ persoanã fizicã sau juridicã care deține
+numai posesia și folosința din dezmembrãmintele dreptului
+de proprietate.
+Punct geodezic (PG) Ñ elementul din rețeaua geodezicã
+materializat în teren, poziționat prin coordonate în sistemele
+de referințã oficiale, inventariat dupã numãr/denumire și cu
+fișã de descriere.
+Registru cadastral Ñ documentul principal al cadastrului
+general, prin care se sistematizeazã datele cadastrale pentru evidențierea distinctã în cadrul unitãții administrativ-teritoriale a situației corpurilor de proprietate și proprietarilor,
+precum și a situațiilor centralizatoare pe destinații ale terenurilor, grupelor de proprietari, intravilanÑextravilan etc.
+Rețea geodezicã (RG) Ñ totalitatea punctelor determinate
+într-un sistem unitar de referințã, cuprinzând rețeaua de triangulație-trilaterație (RTT) pentru poziționarea în plan și
+rețeaua de nivelment și gravimetrie (RNG) pentru poziționarea altimetricã. Rețeaua de triangulație-trilaterație (RTT)
+este formatã din puncte situate pe o anumitã suprafațã,
+încadrate în rețele geometrice compacte în care s-au efectuat determinãri astronomice și/sau direcții azimutale, distanțe zenitale și lungimi de laturi, pe baza cãrora s-au
+calculat coordonatele punctelor în sistem unitar de referințã.
+Sector cadastral Ñ diviziune tehnicã cadastralã a unitãții
+administrativ-teritoriale, delimitatã de detalii liniare (cãi de
+comunicație, ape, diguri etc.), care nu suferã modificãri
+curente și care cuprinde mai multe bunuri imobile alipite.
+Sistemul informațional al cadastrului Ñ organizarea de
+baze de date grafice și alfanumerice de evidențã tehnicã,
+economicã și juridicã referitoare la corpurile de proprietate
+și la proprietarii acestora.
+Schița corpului de proprietate Ñ documentul grafic ce se
+întocmește o datã cu completarea fișei corpului de proprietate, la o scarã convenabilã, pe care se înscriu datele de
+localizare și de identificare a corpului de proprietate, categoriile de folosințã a parcelelor, construcțiile, precum și
+vecinãtãțile acestora.
+
+17. Lista abrevierilor
+O.N.C.G.C.
+Ñ Oficiul
+Național
+de
+Cadastru,
+Geodezie și Cartografie
+O.J.C.G.C.
+Ñ Oficiul județean de cadastru, geodezie
+și cartografie
+I.G.F.C.C.
+Ñ Institutul
+de
+Geodezie,
+Fotogrammetrie, Cartografie și Cadastru
+BCF
+Ñ Biroul Cãrții Funciare
+SR
+Ñ standard român emis de Institutul
+Român de Standardizare
+STAS
+Ñ standard român.
+18. Anexe
+Anexa nr. 1 Ñ Macheta pentru fișa corpului de proprietate
+Anexa nr. 2 Ñ Macheta registrului cadastral al parcelelor
+Anexa nr. 3 Ñ Macheta indexului alfabetic al proprietarilor și domiciliul acestora
+Anexa nr. 4 Ñ Macheta registrului cadastral al proprietarilor
+Anexa nr. 5 Ñ Macheta registrului corpurilor de proprietate
+Anexa nr. 6 Ñ Macheta pentru ”Fișa centralizatoare a
+partidelor cadastrale pe proprietari și
+pe categorii de folosințã,,
+Anexa nr. 7 Ñ Plan de amplasament și delimitare a
+corpului de proprietate
+Anexa nr. 8 Ñ Descrierea topograficã a punctului geodezic
+Anexa nr. 9 Ñ Schița bornei de beton
+Anexa nr. 10 Ñ Marcã pentru borna de suprafațã
+Anexa nr. 11 Ñ Scrisoare de încunoștințare pentru desemnarea delegaților consiliului local al
+unitãții administrativ-teritoriale vecine
+Anexa nr. 12 Ñ Scrisoare de încunoștințare pentru desemnarea delegaților prefecturii vecine
+Anexa nr. 13 Ñ Proces-verbal de delimitare a unitãții
+administrativ-teritoriale (comuna/orașul)
+Anexa nr. 14 Ñ Proces-verbal de predare-primire a
+punctelor geodezice/de hotar
+Anexa nr. 15 Ñ Inventar de coordonate Ñ fișier ASCII
+Anexa nr. 16 Ñ Exemplu de plan cadastral index.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+SCHIÞA CORPULUI DE PROPRIETATE
+
+Județul .....................................................................
+Unitatea administrativ-teritorialã..............................
+Cod SIRUTA ...........................................................
+Cod intravilan/extravilan ..........................................
+
+din
+
+str.
+
+.ÉÉÉÉnr. ÉÉÉ
+
+FIȘA CORPULUI DE PROPRIETATE
+
+Nomenclaturã ..........................................................
+Nr. sector cadastral ................................................
+Nr. cadastral al corpului de proprietate................
+Nr. carte funciarã....................................................
+
+ANEXA Nr. 1
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+19
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+REGISTRUL CADASTRAL AL PARCELELOR
+
+INDEXUL ALFABETIC AL PROPRIETARILOR ȘI DOMICILIUL ACESTORA
+
+Județul ................................................................
+Unitatea administrativ-teritorialã ........................
+Cod SIRUTA ......................................................
+Cod intravilan/extravilan ....................................
+
+Județul ..............................................................
+Unitatea administrativ-teritorialã ......................
+Cod SIRUTA ....................................................
+Cod intravilan/extravilan ..................................
+
+ANEXA Nr. 3
+
+ANEXA Nr. 2
+
+20
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+Județul ....................................................................
+Unitatea administrativ-teritorialã ............................
+Cod SIRUTA ..........................................................
+
+Exclusiv
+
+REGISTRUL CADASTRAL AL PROPRIETARILOR
+
+ANEXA Nr. 4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+21
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+Exclusiv
+
+REGISTRUL CORPURILOR DE PROPRIETATE
+
+NOTÃ:
+Se întocmește la nivelul unitãții administrativ-teritoriale (comunã, oraș sau municipiu și pe total județ).
+Datele din coloana 19 nu se adunã cu cele din coloana 18.
+
+FIȘA CENTRALIZATOARE A PARTIDELOR CADASTRALE PE PROPRIETARI ȘI PE CATEGORII DE FOLOSINÞÃ
+
+Județul ....................................................................
+Unitatea administrativ-teritorialã ............................
+Cod SIRUTA ..........................................................
+
+Județul ....................................................................
+Unitatea administrativ-teritorialã ............................
+Cod SIRUTA ..........................................................
+
+ANEXA Nr. 6
+
+ANEXA Nr. 5
+
+22
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+23
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+
+ANEXA Nr. 7
+PLAN DE AMPLASAMENT ȘI DELIMITARE A CORPULUI DE PROPRIETATE
+(intravilan)
+
+Ñ exemplu Ñ
+Scara .....................
+Județul: PRAHOVA
+Unitatea administrativ-teritorialã: DUMBRÃVENI
+Cod SIRUTA: 131461
+Adresa corpului de proprietate:
+Str. LIBERTATEA nr. 14
+
+Numele și prenumele proprietarului:
+IONESCU ION
+Domiciliul:
+Str. Covaci nr. 3
+Localitatea: TÂRGU MUREȘ
+Județul: MUREȘ
+
+Nr. cadastral al corpului de proprietate:
+
+Sistem de proiecție ..........................................................
+Suprafața terenului
+Pct.
+
+X(m)
+
+OFICIUL DE CADASTRU, GEODEZIE ȘI CARTOGRAFIE
+Y(m)
+
+......................................................................
+
+1
+2
+
+Recepționat ..........................................
+
+3
+4
+Suprafața:
+Data: 19.09.2001
+Numele și prenumele executantului:
+.......................................................
+(semnãtura și ștampila)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+24
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+ANEXA Nr. 8
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+25
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+
+ANEXA Nr. 9
+
+ICS 91.200
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+
+A.6. BORNE PENTRU PUNCTE DE TRIANGULAÞIE DE ORDINUL II, III, IV ȘI V ȘI PUNCTE GPS, INSTALATE ÎN TEREN STÂNCOS
+
+1 Ð Bornã de suprafațã micã, mãrime 1
+A.8. BORNE PENTRU PUNCTE DE TRIANGULAÞIE DE ORDINUL III ȘI IV ȘI PUNCTE GPS, INSTALATE ÎN TEREN NISIPOS CU PIETRIȘ ȘI/SAU BOLOVÃNIȘ
+
+1 Ð Bornã de suprafațã tip I, mãrime 1; 2, 3 Ð Bornã subteranã tip I, mãrime 1
+A.9. BORNE PENTRU PUNCTE DE TRIANGULAÞIE DE ORDINUL V, REPERE AZIMUTALE ȘI PUNCTE GPS, INSTALATE ÎN TEREN
+NISIPOS, ARGILOS
+
+1 Ð Bornã de suprafațã mijlocie, mãrime 1; 2 Ð Bornã subteranã tip I, mãrime 1
+A.10. BORNE PENTRU PUNCTE DE TRIANGULAÞIE DE ORDINUL V, REPERE AZIMUTALE ȘI PUNCTE GPS, INSTALATE ÎN TEREN
+NISIPOS CU PIETRIȘ ȘI/SAU BOLOVÃNIȘ
+
+1 Ð Bornã de suprafațã mare, mãrime 2; 2 Ð Bornã subteranã tip I, mãrime 2
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+
+27
+
+A.11. BORNE PILON PENTRU PUNCTE DE TRIANGULAÞIE DE ORDINUL II, III, IV, V ȘI PUNCTE GPS, INSTALATE ÎN TERENURI
+MLÃȘTINOASE ȘI ÎN DELTÃ
+
+A.12. BORNE PENTRU PUNCTE DE TRIANGULAÞIE DE ORDINUL V, INSTALATE ÎN LOCALITÃÞI
+
+1 Ð Bornã de suprafațã mijlocie, mãrime 1; 2 Ð Bornã subteranã tip I, mãrime 1
+A.13. PUNCTE MARTOR PENTRU PUNCTE DE TRIANGULAÞIE DE ORDINUL V, INSTALATE ÎN LOCALITÃÞI
+
+1 Ñ Bornã de suprafațã, mijlocie, mãrime 1; 2 Ñ Bornã subteranã tip 1, mãrime 1; 3 Ñ Tub de protecție;
+4 Ñ Capac metalic
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+ANEXA Nr. 10
+
+FORMA ȘI DIMENSIUNILE
+mãrcilor la sol conform STAS 4294 Ñ 73
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+29
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+ANEXA Nr. 11
+
+Primãria comunei/orașului ..........................
+Județul ........................................................
+
+Cãtre Primãria comunei/orașului ....................., județul ...................
+Domnule primar,
+potrivit Normelor tehnice pentru introducerea cadastrului general, elaborate de Oficiul Național
+de Cadastru, Geodezie și Cartografie în conformitate cu Legea cadastrului și a publicitãții imobiliare
+nr. 7/1996, cu modificãrile ulterioare, vã facem cunoscut cã în baza Ordinului prefectului
+județului ................................ nr. ........................... din ............................. a fost constituitã comisia
+de delimitare și marcare a hotarelor administrative ale comunei/orașului ..........................................,
+județul ............................... .
+Vã rugãm ca delegații dumneavoastrã, membri ai comisiei, cunoscãtori ai hotarului dintre
+comunele/orașele noastre, sã participe la recunoașterea, stabilirea și materializarea liniei de hotar.
+Reprezentanții dumneavoastrã se vor întâlni în ziua de ............................................, ora .....,
+la ..................................... și vor fi împuterniciți printr-o delegație scrisã, parafatã cu sigiliul consiliului local, pentru validarea traseului liniei de hotar.
+Potrivit Normelor tehnice pentru introducerea cadastrului general, în cazul în care delegații
+dumneavoastrã nu se vor prezenta la data și locul stabilite, se va proceda la delimitare în lipsa
+acestora, situație în care eventualele obiecțiuni ulterioare nu vor fi luate în considerare.
+Primar,
+..............................
+
+ANEXA Nr. 12
+
+Prefectura județului
+
+....................................
+
+Cãtre Prefectura județului ...........................................
+Domnului prefect .................................................
+Vã comunicãm cã în conformitate cu prevederile Legii cadastrului și a publicitãții imobiliare
+nr. 7/1996, cu modificãrile ulterioare, se vor face delimitarea și marcarea hotarelor administrative
+ale comunei/orașului .......................................................... din județul nostru.
+Întrucât hotarul dintre comunele/orașele ....................................................... formeazã limitã
+administrativã de județ, vã rugãm sã numiți delegații dumneavoastrã, membri ai comisiei,
+cunoscãtori ai acestui hotar, care împreunã cu delegatul Oficiului Județean de Cadastru, Geodezie
+și Cartografie ........................................................... sã procedeze la recunoașterea, stabilirea și
+materializarea liniei de hotar.
+Reprezentanții dumneavoastrã vor fi împuterniciți cu delegație scrisã purtând sigiliul prefecturii, pentru validarea liniei de hotar, și vor fi prezenți la data de ............................................, ora ....,
+la ........................................................................................................................................................... .
+Potrivit Normelor tehnice pentru introducerea cadastrului general, elaborate de Oficiul
+Național de Cadastru, Geodezie și Cartografie, în cazul în care delegații dumneavoastrã nu vor fi
+prezenți la data și locul menționate, se va proceda la delimitare în lipsa acestora, situație în care
+orice eventuale obiecțiuni ulterioare nu vor fi luate în considerare.
+
+Prefect,
+.................................
+
+Director O.J.C.G.C.,
+............................................
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+ANEXA Nr. 13
+
+OFICIUL NAÞIONAL DE CADASTRU, GEODEZIE ȘI CARTOGRAFIE
+
+Oficiul Județean de Cadastru, Geodezie și Cartografie .........................
+
+PROCES-VERBAL
+
+de delimitare a unitãții administrativ-teritoriale (comuna/orașul) ...........................
+Județul ................................................
+încheiat la data .......................................É
+
+În conformitate cu prevederile Legii cadastrului și a publicitãții imobiliare nr. 7/1996, cu
+modificãrile ulterioare, și ale Normelor tehnice pentru introducerea cadastrului general, subsemnații
+am procedat la recunoașterea și stabilirea liniei de hotar a unitãții administrativ-teritoriale
+(comuna/orașul) ..............................................É, județul ..........................................É, pe tronsonul de
+hotar comun cu comuna/orașul ..............................É, județul ..............É, dupã cum urmeazã:
+Linia de hotar începe din punctul de ...........É hotare marcat pe schița anexatã cu nr. .........,
+situat la intersecția hotarelor urmãtoarelor unitãți administrativ-teritoriale: ....................................É
+..................................................................................................................................................................
+trece prin punctele ..................................................................................................................................,
+(Se completeazã dupã materializarea punctelor cu numãrul fiecãrui punct de hotar
+și se face o descriere a traseului liniei de hotar.)
+
+..................................................................................................................................................................
+................................................................................................................................................................ .
+Punctele de hotar, felul materializãrii, principalele categorii de folosințã, direcția, forma și traseul liniei de hotar sunt prezentate în schița anexatã semnatã de noi, care face parte din prezentul proces-verbal.
+Linia de hotar se terminã în punctul de ....................É hotare, marcat pe schițã cu nr. .....É,
+situat la intersecția hotarelor urmãtoarelor unitãți administrativ-teritoriale: ......................................É .
+Schița hotarului face parte integrantã din documentație și însoțește prezentul proces-verbal.
+Prezentul proces-verbal a fost încheiat în 3 exemplare, dintre care unul a fost predat consiliului local al comunei/orașului ............................................................É, unul consiliului local al
+comunei/orașului ......................................É și unul O.J.C.G.C. ...................................................... .
+
+Reprezentant O.J.C.G.C.,
+
+Membrii comisiei de delimitare:
+.......................................................
+.......................................................
+.......................................................
+.......................................................
+.......................................................
+
+N O T Ã:
+
+Modelul procesului-verbal se utilizeazã și pentru limita unui intravilan, adaptat corespunzãtor.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+31
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+ANEXA Nr. 14
+
+OFICIUL NAÞIONAL DE CADASTRU, GEODEZIE ȘI CARTOGRAFIE
+
+Oficiul Județean de Cadastru, Geodezie și Cartografie .........................
+
+PROCES-VERBAL
+
+de predare-primire a punctelor geodezice/de hotar
+încheiat la data ..............................É
+Subsemnatul ............................................................................................................................ÉÉ,
+(se completeazã cu numele și prenumele, adresa proprietarului corpului de proprietate pe care se aflã punctul.)
+
+din partea O.J.C.G.C. ..............................................., împreunã cu ................................................ÉÉ,
+în baza prevederilor art. 12 din Legea cadastrului și a publicitãții imobiliare nr. 7/1996, cu modificãrile ulterioare, am procedat la predarea, respectiv primirea urmãtoarelor puncte geodezice:
+PunctulÉÉ................................................................É, situat la É..............................................É
+(nr., denumire cod)
+
+(data de reperare a punctului)
+
+..................................................................................................................................................................,
+materializat cu ........................................................ÉÉ și semnalizat cu ....................................É .
+Proprietarul va lua mãsuri de protejare și pãstrare în bune condiții a punctului.
+În cazul în care pe locul de amplasare a punctului geodezic se intenționeazã executarea
+unor lucrãri care pot duce la distrugerea acestuia, proprietarul va anunța în scris O.J.C.G.C. cu
+cel puțin 30 de zile înainte de începerea lucrãrilor.
+Degradarea sau distrugerea punctului geodezic constituie infracțiune și se pedepsește potrivit prevederilor art. 217 din Codul penal.
+Prezentul proces-verbal s-a întocmit în 2 exemplare, unul pentru O.J.C.G.C. ...........................
+și unul pentru Consiliul Local al .........................................ÉÉ
+Proprietar,
+...............................
+
+Delegatul O.J.C.G.C.,
+...............................
+
+Primar,
+...............................
+
+Executantul lucrãrii,
+...............................
+
+ANEXA Nr. 15
+INVENTAR DE COORDONATE Ñ FIȘIER ASCII
+
+Județul ....................................................................
+Denumirea unitãții administrativ-teritoriale ............
+Cod SIRUTA ..........................................................
+
+Cod punct
+
+X
+
+Y
+
+St
+
+Cod punct
+
+X
+
+Y
+
+St
+
+Cod punct
+
+X
+
+Y
+
+St
+
+Cod punct
+
+X
+
+Y
+
+St
+
+Cod punct
+
+X
+
+Y
+
+St
+
+Cod punct
+
+X
+
+Y
+
+St
+
+Cod punct
+
+X
+
+Y
+
+St
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+32
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 744/21.XI.2001
+ANEXA Nr. 16
+EXEMPLU DE PLAN CADASTRAL INDEX
+
+Strat index
+
+Identificatori
+cadastrali
+
+Straturi
+vectoriale
+
+Baza de
+Date
+Textuale
+BDT
+
+Strat
+Raster
+
+Legãtura dintre baza de date grafice BDG și baza de date textuale BDT se realizeazã prin intermediul identificatorilor cadastrali unici pe o unitate administrativ-teritorialã (numerotați de la 1 la n).
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 5069427282 Trezoreria sector 5, București (alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 411.97.54, tel./fax 410.77.36.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: ramomrk@bx.logicnet.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 744/21.XI.2001 conține 32 de pagini.
+
+Prețul 14.752 lei
+
+ISSN 1453Ñ4495
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+

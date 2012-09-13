@@ -1,0 +1,2025 @@
+Anul 175 (XIX) — Nr. 417 bis
+
+PARTEA
+
+I
+
+Vineri, 22 iunie 2007
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+SUMAR
+Pagina
+Anexele nr. I—V la Ordinul ministrului agriculturii și
+dezvoltării rurale nr. 387/2007 pentru modificarea
+și completarea Ordinului ministrului agriculturii,
+pădurilor și dezvoltării rurale nr. 912/2004 privind
+controlul putregaiului inelar al cartofului, produs de
+Clavibacter michiganensis ssp. sepedonicus ............
+
+2–32
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+MINISTERUL AGRICULTURII ȘI DEZVOLTĂRII RURALE
+
+ORDIN
+pentru modificarea și completarea Ordinului ministrului agriculturii, pădurilor
+și dezvoltării rurale nr. 912/2004 privind controlul putregaiului inelar
+al cartofului, produs de Clavibacter michiganensis ssp. sepedonicus*)
+În temeiul prevederilor art. 5 din Ordonanța Guvernului nr. 136/2000 privind măsurile de
+protecție împotriva introducerii și răspândirii organismelor de carantină dăunătoare plantelor sau
+produselor vegetale în România, cu modificările și completările ulterioare,
+în temeiul Hotărârii Guvernului nr. 385/2007 privind organizarea și funcționarea Ministerului
+Agriculturii și Dezvoltării Rurale,
+văzând Referatul de aprobare nr. 292.399 din 18 mai 2007 al Agenției Naționale Fitosanitare
+din cadrul Ministerului Agriculturii și Dezvoltării Rurale,
+ministrul agriculturii și dezvoltării rurale emite prezentul ordin.
+Art. I. — Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 912/2004 privind
+controlul putregaiului inelar al cartofului, produs de Clavibacter michiganensis ssp. sepedonicus,
+publicat în Monitorul Oficial al României, Partea I, nr. 127 și 127 bis din 9 februarie 2005, se
+modifică și se completează după cum urmează:
+1. Anexele nr. I—IV se modifică și se înlocuiesc cu anexele nr. I—IV care fac parte
+integrantă din prezentul ordin.
+2. După anexa nr. IV se introduce o nouă anexă, anexa nr. V, care face parte integrantă din
+prezentul ordin.
+Art. II. — Prezentul ordin va fi publicat în Monitorul Oficial al României, Partea I.
+Art. III. — Prezentul ordin transpune prevederile Directivei Consiliului 2006/56/CEE din
+12 iunie 2006, care amendează anexele Directivei Consiliului 93/85/CEE privind controlul
+putregaiului inelar al cartofului.
+Ministrul agriculturii și dezvoltării rurale,
+Decebal Traian Remeș
+București, 21 mai 2007.
+Nr. 387.
+ANEXA Nr. I
+
+PROTOCOL
+de testare în vederea diagnosticării, detectării și identificării agentului responsabil
+de putregaiul inelar al cartofului, Clavibacter michiganensis (Smith) Davis et al. ssp.
+sepedonicus (Spieckermann și Kotthoff) Davis et al.
+DOMENIU DE APLICARE AL PROTOCOLULUI DE TESTARE
+Protocolul prezentat în continuare descrie diferitele etape ce trebuie urmate pentru:
+(i) diagnosticarea putregaiului inelar al cartofului în tuberculi și plante de cartof;
+(ii) detectarea bacteriei Clavibacter michiganensis ssp. sepedonicus pe probe de tuberculi
+și plante de cartof;
+(iii) identificarea bacteriei Clavibacter michiganensis ssp. sepedonicus
+PRINCIPII GENERALE
+Protocoalele optimizate pentru diversele metode, reactivii validați și modalitățile de preparare
+a materialului necesar pentru teste și pentru controale figurează în apendicii din prezenta anexă.
+În apendicele 1 din prezenta anexă se furnizează o listă a laboratoarelor incluse pentru
+optimizarea și validarea protocoalelor.
+Deoarece protocoalele implică detectarea unui organism dăunător de carantină și includ
+utilizarea culturilor viabile de Clavibacter michiganensis ssp. sepedonicus ca materiale de control,
+este necesar ca procedurile să se desfășoare în condiții adecvate de carantină, cu instalații
+corespunzătoare de eliminare a deșeurilor și cu respectarea cerințelor referitoare la licențele
+corespunzătoare emise de autoritățile oficiale responsabile pentru carantină.
+*) Ordinul nr. 387/2007 a fost publicat în Monitorul Oficial al României, Partea I, nr. 417 din 22 iunie 2007 și este
+reprodus și în acest număr bis.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+Parametrii testelor trebuie să garanteze o detectare coerentă și reproductibilă a nivelurilor
+de Clavibacter michiganensis ssp. sepedonicus la pragurile stabilite pentru metodele selecționate.
+Este necesară pregătirea exactă a martorilor pozitivi.
+Realizarea testelor în funcție de pragurile cerute implică, de asemenea, stabilirea parametrilor
+corecți, întreținerea și calibrarea echipamentelor, manevrarea și conservarea atentă a reactivilor și
+toate măsurile care vizează împiedicarea contaminării între probe, de exemplu, separarea
+martorilor pozitivi de probele de testat. Trebuie aplicate norme de control al calității pentru a evita
+apariția oricărei greșeli, în special de ordin administrativ, în etichetare și în documentație.
+Apariția suspectată a unui focar, conform art. 4 alin. (2), implică o reacție pozitivă la testele
+de diagnostic sau de depistare efectuate pe o probă, după cum se indică în diagrame.
+În cazul în care primul test de depistare [testul de imunofluorescență (IF) sau testul reacției
+de polimerizare în lanț (PCR)/testul de hibridizare fluorescentă in situ (FISH)] este pozitiv, există o
+suspiciune de contaminare cu Clavibacter michiganensis. ssp. sepedonicus și trebuie efectuat un al
+doilea test de depistare. În cazul în care și al doilea test de depistare este pozitiv, suspiciunea
+este confirmată (apariție suspectată) și testele trebuie continuate în conformitate cu protocolul. În
+cazul în care al doilea test de depistare este negativ, proba este considerată necontaminată cu
+Clavibacter michiganensis ssp. sepedonicus.
+Reacția pozitivă la testul IF, prevăzută la art. 4 alin. (2) din ordin, este așadar definită ca o
+reacție pozitivă la testul IF, confirmată de un al doilea test de depistare (PCR/FISH).
+Prezența confirmată, prevăzută la art. 5 alin. (1) din ordin, implică izolarea și identificarea
+unei culturi pure de Clavibacter michiganensis ssp. sepedonicus, cu confirmarea patogenității.
+1. PREZENTAREA DIAGRAMEI FUNCȚIONALE
+
+1.1. Protocol de detectare în vederea diagnosticării putregaiului inelar al cartofului în
+tuberculi și plante de cartof care prezintă simptome ale bolii (vezi diagrama 1)
+Procedura de testare vizează tuberculii și plantele de cartof care prezintă simptome
+caracteristice veștejirii bacteriene sau care prezintă suspiciunea prezenței bolii respective.
+Procedura prevede un test rapid de depistare, izolarea organismului patogen plecând de la țesutul
+vascular infectat pe medii de diagnostic și, în cazul unui rezultat pozitiv, identificarea culturii ca
+fiind Clavibacter michiganensis ssp. sepedonicus.
+
+3
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+DIAGRAMA 1
+1
+
+Descrierea simptomelor figurează la pct. 2.
+2 Testele adecvate sunt:
+— testul IF (pct. 4);
+— testul PCR (pct. 6);
+— testul FISH (pct 5).
+3 Deși izolarea prin diluție și însămânțare pe medii de cultură a agentului patogen provenit
+din materialul vegetal care prezintă simptome caracteristice este o sarcină simplă, însămânțarea
+pe mediul de cultură poate să dea rezultate eronate în stadiile avansate de infecție. Bacteriile
+saprofite care se dezvoltă pe un țesut bolnav pot să se multiplice mult mai repede decât agentul
+patogen sau să îi inhibe creșterea pe mediul de izolare. Așadar, se recomandă să se utilizeze în
+același timp medii neselective și selective, de preferință de tip MTNA (pct. 8) sau să se recurgă
+la testul biologic (pct. 7).
+4 Profilul morfologic al unei colonii caracteristice este prezentat la pct. 8.
+5 Atunci când testul de izolare este negativ, în ciuda existenței simptomelor caracteristice
+ale bolii, trebuie repetată izolarea.
+6 Se poate identifica în mod sigur o cultură pură de Clavibacter michiganensis ssp.
+sepedonicus, utilizând testele enumerate la pct. 9.
+7 Testul de patogenitate este descris la pct. 10.
+1.2.1. Protocol de detectare și de identificare a bacteriei Clavibacter michiganensis ssp.
+sepedonicus pe probe de tuberculi de cartof fără simptome (vezi diagrama 2)
+Principiu
+Procedura de testare vizează detectarea infecțiilor latente ale tuberculilor de cartof. Orice
+rezultat pozitiv la cel puțin două teste de depistare, bazate pe principii biologice diferite, trebuie
+completat cu izolarea organismului patogen, urmată, în caz de izolare a coloniilor caracteristice,
+de confirmarea unei culturi pure ca fiind Clavibacter michiganensis ssp. sepedonicus. Rezultatul
+pozitiv al unui singur test de depistare nu este suficient pentru ca proba să fie considerată
+suspectă.
+Testele de depistare și testele de izolare trebuie să permită praguri de detectare cuprinse între
+103 și 104 celule/mL în depozitul resuspendat, inclusiv în martorii pozitivi din fiecare serie de teste.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+DIAGRAMA 2
+1
+
+Dimensiunea probei standard este de 200 de tuberculi, deși procedura poate fi aplicată și
+unor probe mai mici, în cazul în care nu se dispune de 200 de tuberculi.
+2 Extracția organismului patogen și metodele de concentrare sunt descrise la pct. 3.1.
+3 În cazul în care cel puțin două teste bazate pe principii biologice diferite sunt pozitive,
+trebuie să se efectueze izolarea și confirmarea. Se va realiza cel puțin un test de depistare. În
+cazul în care testul respectiv este negativ, proba se consideră negativă. În cazul în care testul
+este pozitiv, trebuie să se efectueze cel puțin un al doilea test de depistare, bazat pe principii
+biologice diferite, pentru a verifica primul rezultat pozitiv. În cazul în care al doilea test sau
+următoarele sunt negative, proba este considerată negativă. În acest caz nu este necesară
+efectuarea altor teste.
+4 Testul IF
+Se utilizează întotdeauna un anticorp policlonal pentru testele IF. Se poate obține o
+specificitate mai mare (vezi pct. 4), asociind anticorpului menționat anticorpi monoclonali
+suplimentari.
+5 Testul PCR.
+Se utilizează reactivi și protocoale PCR validate în mod corespunzător (vezi pct. 6).
+6 Testul FISH.
+Se utilizează reactivi și protocoale validate (vezi pct. 5).
+7 Izolare selectivă
+Asociată cu utilizarea unui mediu MTNA sau NCP-88 și a unei diluări la 1/100 din sediment
+resuspendat, izolarea selectivă constituie, în numeroase cazuri, o metodă bună de izolare directă
+a bacteriei Clavibacter michiganensis ssp. sepedonicus. Coloniile caracteristice se pot obține într-o
+perioadă de 3 până la 10 zile de la însămânțare. Atunci este posibil să se efectueze purificarea
+și identificarea agentului patogen. Pentru a profita din plin de posibilitățile oferite de testul în
+cauză, trebuie să se pregătească cu grijă conurile de cartof prelevate de la nivelul hilului pentru
+a evita contaminarea cu bacterii secundare legate de tubercul, care constituie organisme
+concurente ale bacteriei Clavibacter michiganensis ssp. sepedonicus pe mediul de cultură și sunt
+susceptibile de a înlocui agentul patogen menționat. În cazul obținerii unui rezultat eronat la testul
+de însămânțare, izolarea trebuie efectuată din plantele utilizate pentru testul biologic (vezi pct. 8).
+8 Testul biologic este utilizat pentru izolarea bacteriei Clavibacter michiganensis ssp.
+sepedonicus din extractele de cartof, prin îmbogățire selectivă în plante de vinete (Solanum
+melongena). Sunt necesare condiții optime de incubare, în conformitate cu specificațiile procedurii
+în cauză. Bacteriile care au efect inhibitor asupra bacteriei Clavibacter michiganensis ssp.
+sepedonicus în prezența unui mediu MTNA sau NCP-88 nu riscă să afecteze desfășurarea
+testului menționat (vezi pct. 7).
+9 Profilul morfologic al unei colonii caracteristice este prezentat la pct 8.
+10 Însămânțarea pe mediul de cultură sau testele biologice pot fi eronate din cauza
+concurenței sau a efectului inhibitor al bacteriilor saprofite. În cazul în care testele de depistare
+dau rezultate pozitive, dar testele de izolare sunt negative, trebuie repetate testele de izolare din
+același sediment sau cu ajutorul unor noi țesuturi vasculare prelevate din apropierea hilului de pe
+tuberculi tăiați provenind din aceeași probă și, după caz, trebuie testate probe suplimentare.
+11 Se pot identifica în mod sigur culturi pure de izolați presupuși de Clavibacter
+michiganensis ssp. sepedonicus, utilizând testele enumerate la pct. 9.
+12 Testul patogenității este descris la pct. 10.
+1.3. Protocol de detectare și de identificare a bacteriei Clavibacter michiganensis ssp.
+sepedonicus pe probe de plante de cartof fără simptome (vezi diagrama 3)
+
+5
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+
+DIAGRAMA 3
+1
+2
+3
+
+Vezi pct. 3.2 pentru dimensiunea recomandată a probelor.
+Extracția organismului patogen și metodele de concentrare sunt descrise la pct. 3.2.
+În cazul în care cel puțin două teste bazate pe principii biologice diferite sunt pozitive,
+trebuie efectuate izolarea și confirmarea. Se realizează cel puțin un test de depistare. În cazul în
+care testul respectiv este negativ, proba se consideră negativă. În cazul în care testul este pozitiv,
+trebuie să se efectueze cel puțin un al doilea test de depistare, bazat pe principii biologice
+diferite, pentru a verifica primul rezultat pozitiv. În cazul în care al doilea test sau următoarele
+sunt negative, proba este considerată negativă. În acest caz nu este necesară efectuarea altor
+teste.
+4 Testul de izolare selectivă și profilul morfologic al unei colonii caracteristice sunt prezentate
+la pct. 8.
+5 Testul IF este descris la pct 4.
+6 Testele PCR sunt descrise la pct. 6.
+7 Testul FISH este descris la pct. 5.
+8 Testul biologic este descris la pct. 7.
+9 Izolarea pe mediu de cultură sau testele biologice pot fi eronate din cauza concurenței sau
+a efectului inhibitor al bacteriilor saprofite. În cazul în care testele de depistare dau rezultate
+pozitive, dar testele de izolare sunt negative, trebuie repetate testele de izolare și, dacă este
+cazul, trebuie testate probe suplimentare.
+10 Se pot identifica în mod sigur culturi pure de izolați presupuși de Clavibacter
+michiganensis ssp. sepedonicus, utilizându-se testele enumerate la pct. 9.
+11 Testul de patogenitate este descris la pct. 10.
+2. EXAMINAREA VIZUALĂ A SIMPTOMELOR PUTREGAIULUI INELAR AL CARTOFULUI
+
+2.1. Plante de cartof
+În contextul climatic european se întâmplă rareori ca simptomele să fie observate pe teren,
+iar atunci când este cazul, acest lucru se întâmplă numai la sfârșitul sezonului. Adesea
+simptomele pot fi mascate de cele ale altor boli, de vătămări mecanice sau îmbătrânire ori pot fi
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+confundate cu acestea. Așadar, simptomele pot trece cu ușurință neobservate în momentul
+inspecției pe teren. Simptomele veștejirii sunt foarte diferite de cele ce caracterizează putregaiul
+inelar al cartofului. În general, primul simptom progresează într-adevăr lent și se limitează inițial la
+marginea frunzelor. În cazul celui de-al doilea, frunzele tinere infectate continuă să crească, într-o
+manieră mai puțin obișnuită, ceea ce dă frunzelor un aspect neregulat. Frunzele plantelor atinse
+de obstrucția țesuturilor vasculare situate mai jos pe tulpină prezintă adesea între nervuri pete
+clorotice de culoare galbenă sau portocalie. Se întâmplă ca frunzulițele, frunzele și chiar tulpinile
+infectate să moară. Deseori, frunzele și tuberculii se micșorează. Ocazional se constată o
+atrofiere a plantelor. Ilustrații colorate ale unor simptome se pot găsi la adresa:
+http://forum.europa.eu.int/Public/irc/sanco/Home/main.
+2.2. Tuberculi de cartof
+Primele simptome apar mai ales în apropierea hilului și dau un aspect ușor sticlos sau
+translucid țesutului, fără înmuiere în jurul sistemului vascular. Inelul vascular poate prezenta, la
+nivelul hilului, o culoare mai închisă decât de obicei. Primul simptom, ușor de identificat, este o
+îngălbenire a inelului vascular, ceea ce conduce la eliminarea din vase a unui exudat cu aspect
+cremos la presarea ușoară a tuberculului. Exudatul respectiv conține milioane de bacterii. Poate
+apărea o brunificare a țesutului vascular și în acest stadiu simptomele tuberculului sunt
+asemănătoare cu cele ale veștejirii bacteriene produse de bacteria Ralstonia solanacearum. Într-o
+primă fază, simptomele pot să se limiteze la o porțiune a inelului care nu este neapărat situată în
+apropierea hilului, dar ulterior aceste simptome vor cuprinde treptat întreg inelul. Pe măsură ce
+infecția progresează, țesuturile vasculare sunt distruse, iar cortexul exterior se poate separa de
+cortexul interior. În stadiile avansate ale infecției, la suprafața tuberculului apar fisuri cu marginile
+adesea colorate în roșu brun. În multe cazuri observate recent în Europa se constată o putrezire
+simultană a cortexului central și a inelului vascular, care antrenează o infecție secundară cu
+apariția de cavitați interne și necroză. O infecție fungică sau bacteriană secundară poate masca
+simptomele și poate fi dificil și chiar imposibil să se distingă simptomele avansate ale putregaiului
+inelar al cartofului de simptomele altor putregaiuri ale tuberculilor. Nu trebuie excluse nici formele
+fără simptome. Ilustrații colorate ale unor simptome se pot găsi la adresa: http://forum.europa.eu.int/
+Public/irc/sanco/Home/main.
+3. PREPARAREA PROBEI
+
+3.1. Tuberculi de cartof
+N O T Ă:
+
+— Dimensiunea probei standard este de 200 de tuberculi per test. Prelevarea mai multor
+probe implică un număr mai mare de teste. Un număr mai mare de tuberculi în probă va cauza
+inhibiție sau o interpretare dificilă a rezultatelor. În cazul în care nu se dispune de un număr atât de
+mare de tuberculi, procedura poate fi aplicată fără dificultate pe probe mai mici de 200 de tuberculi.
+— Validarea tuturor metodelor de detectare descrise în continuare se bazează pe teste
+realizate pe probe de 200 de tuberculi.
+— Extractul de cartof descris în continuare mai poate fi utilizat și pentru a detecta prezența
+bacteriei responsabile de veștejirea bacteriană a cartofului, Ralstonia solanacearum.
+Tratarea probei — etapa facultativă:
+Se spală tuberculii. Între probe se aplică substanțe dezinfectante (compuși clorurați pentru
+eliminarea ADN-ului patogen, atunci când trebuie utilizat testul PCR) și detergenți corespunzători.
+Se usucă tuberculii cu aer. Procedura de spălare menționată este utilă (dar nu este neapărat
+obligatorie) în special pentru probele care conțin sol în exces și în cazul în care trebuie efectuat
+un test PCR sau o procedură de izolare directă.
+3.1.1. Cu ajutorul unui bisturiu sau al unui cuțit pentru legume, curat și dezinfectat, se
+cojește fiecare tubercul la nivelul hilului până la apariția țesutului vascular. Se decupează cu
+atenție un mic con de țesut vascular la nivelul hilului, avându-se grijă să se preleve cât mai puțin
+țesut nevascular posibil (vezi site-ul web accesibil la adresa: http://forum.europa.eu.int/
+Public/irc/sanco/Home/main).
+N O T Ă:
+
+Dacă este cazul, tuberculii care prezintă simptome suspecte de putregai inelar se testează
+separat.
+În cazul în care se observă simptome suspecte de putregai inelar în momentul prelevării
+conului de la nivelul hilului, trebuie să se efectueze o examinare vizuală a tuberculului, după ce a
+fost tăiat în apropierea hilului. Orice tubercul tăiat care prezintă simptome suspecte trebuie
+suberificat timp de două zile la temperatura mediului ambiant, apoi păstrat în condiții de carantină
+(la o temperatură cuprinsă între 4 și 10˚C) până la efectuarea tuturor testelor. Toți tuberculii din
+probă (inclusiv cei care prezintă simptome suspecte) trebuie păstrați în conformitate cu prevederile
+din anexa nr. II.
+3.1.2. Se prelevă conurile în recipiente noi, de unică folosință, care să se poată închide
+și/sau sigila (în cazul recipientelor refolosite, acestea se vor curăța și dezinfecta integral cu
+ajutorul compușilor clorurați). Este preferabil ca tratarea conurilor să se efectueze imediat. În caz
+contrar, conurile se depozitează în recipient, fără a se adăuga tampon, și fie se refrigerează
+pentru o perioadă mai mică de 72 de ore, fie se conservă la temperatura mediului ambiant pentru
+
+7
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+o perioadă mai scurtă de 24 de ore. Uscarea și suberificarea, precum și dezvoltarea saprofiților în
+momentul depozitării conurilor pot împiedica detectarea agentului responsabil de putregaiul inelar.
+3.1.3. Conurile se tratează în conformitate cu una dintre următoarele proceduri:
+a) se acoperă conurile cu un volum suficient de tampon de extracție (aproximativ 40 mL;
+vezi apendicele 3) și se așază pe un agitator rotativ (50 și 100 ture/minut) timp de 4 ore, la o
+temperatură mai mică de 24șC, sau timp de 16—24 de ore, în cazul în care sunt refrigerați; sau
+b) se omogenizează conurile cu o cantitate suficientă de tampon de extracție (aproximativ
+40 mL; vezi apendicele 3) fie într-un mixer (de exemplu, Waring sau Ultra Thurax), fie zdrobindu-le
+cu un ciocan din cauciuc sau cu un alt dispozitiv de zdrobire potrivit (de exemplu, Homex), într-o
+pungă de macerare de unică folosință, sigilată (de exemplu, de tip Stomacher sau îBioreba strong
+guage polythene“ de 150 mm x 250 mm, sterilizată cu radiații ionizante).
+N O T Ă:
+
+Există un risc ridicat de contaminări încrucișate ale probelor atunci când acestea sunt
+omogenizate folosindu-se un mixer. Se vor lua măsuri de precauție pentru a se evita orice
+vaporizare sau vărsare în timpul procesului de extracție. Se va asigura folosirea unor lame de
+mixer și a unor vase proaspăt sterilizate pentru fiecare probă. În cazul folosirii testului PCR, se va
+evita orice transport de ADN în recipientele sau în aparatele de zdrobire. În cazul în care se
+recurge la testul PCR, se recomandă zdrobirea în pungi de unică folosință și utilizarea tuburilor
+de unică folosință.
+3.1.4. Se decantează supernatantul. În cazul în care lichidul este prea tulbure, se limpezește
+prin centrifugare la viteză redusă (la maximum 180 g timp de 10 minute, la o temperatură de
+4—10șC) sau prin filtrare în vid (40—100 μm), spălându-se suplimentar filtrul cu 10 mL tampon
+de extracție (vezi apendicele 3).
+3.1.5. Se concentrează fracțiunea bacteriană prin centrifugare la viteza de 7.000 g timp de
+15 minute (sau de 10.000 g timp de 10 minute), la o temperatură cuprinsă între 4 și 10șC, apoi
+se elimină supernatantul, fără a agita depozitul.
+3.1.6. Se resuspendă depozitul în 1,5 mL tampon de sedimentare (vezi apendicele 3). Se
+utilizează 500 μL pentru testele de Clavibacter michiganensis ssp. sepedonicus, 500 μL pentru
+testele de Ralstonia solanacearum și 500 μL ca alicot de referință. La cei 500 μL alicot de
+referință se adaugă glicerol steril 10—25% (în volum). Alicotul rămas se agită prin vortexare și se
+depozitează la o temperatură cuprinsă între —16 si —24șC (săptămâni) sau între —68 și
+—86șC (luni). În timpul testelor, alicoții se păstrează la o temperatură cuprinsă între 4—10șC.
+Nu sunt recomandate congelările și decongelările repetate.
+În cazul în care extractul trebuie transportat, se va păstra într-o ladă frigorifică pentru o
+perioadă de 24—48 de ore.
+3.1.7. Pentru a evita contaminarea, este necesar ca toți martorii pozitivi și toate probele de
+Clavibacter michiganensis ssp. sepedonicus să fie tratate separat, atât pentru testele de IF, cât și
+pentru toate celelalte teste.
+3.2. Plante de cartof
+N O T Ă:
+
+Pentru a detecta populațiile latente de Clavibacter michiganensis ssp. sepedonicus este
+recomandabil să se testeze probe mixte. Procedura poate fi aplicată cu ușurință pentru probele
+mixte care conțin până la 200 părți de tulpini. (Atunci când se efectuează anchete, anchetele
+respective trebuie să se bazeze pe o probă reprezentativă din punct de vedere statistic a
+populației vegetale examinate.)
+3.2.1. Cu ajutorul unui cuțit sau al unei foarfeci de grădină, curate și dezinfectate, se taie un
+segment de unu-doi centimetri de la baza fiecărei tulpini, chiar deasupra solului.
+Fragmentele de tulpini se dezinfectează rapid cu etanol 70% și se usucă imediat cu hârtie
+de filtru.
+Se colectează fragmentele de tulpini într-un recipient steril închis, respectându-se procedura
+de prelevare expusă în continuare.
+3.2.2. Fragmentele de tulpini se tratează urmându-se una dintre următoarele proceduri:
+a) se acoperă fragmentele de tulpină cu un volum suficient de tampon de extracție
+(aproximativ 40 mL; vezi apendicele 3) și se așază pe un agitator rotativ (între 50 și
+100 ture/minut) timp de 4 ore, la o temperatură mai mică de 24șC, sau timp de 16—24 de ore,
+în cazul în care sunt refrigerate; sau
+b) fragmentele se zdrobesc imediat într-o pungă de macerare rezistentă (de exemplu,
+Stomacher sau Bioreba), cu o cantitate adecvată de tampon de extracție (vezi apendicele 3),
+folosindu-se un ciocan de cauciuc sau un alt dispozitiv de zdrobire corespunzător (de exemplu,
+Homex). În caz contrar, fragmentele trebuie să fie păstrate la frigider maximum 72 de ore sau la
+temperatura mediului ambiant maximum 24 de ore.
+3.2.3. După o sedimentare de 15 minute, se decantează supernatantul.
+3.2.4. De obicei, nu este necesar să se efectueze o nouă limpezire a extractului sau a
+concentrației fracțiunii bacteriene; cu toate acestea, limpezirea se poate efectua prin filtrare și/sau
+centrifugare, în conformitate cu metoda descrisă la pct. 3.1.4—3.1.6.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+3.2.5. Se separă extractul de probă pur/concentrat în două părți egale. Una dintre părți se
+păstrează pe toată durata testului la o temperatură de 4—10șC, iar cealaltă se depozitează la o
+temperatură cuprinsă între –16 și –24șC (săptămâni) sau între –68 și –86șC (luni), după ce s-a
+adăugat în prealabil o cantitate de glicerol steril 10—25% (în volum), pentru cazurile în care va fi
+necesară efectuarea unor testări suplimentare.
+4. TESTUL DE IMUNOFLUORESCENȚĂ (IF)
+
+Principiu
+Ținându-se seama de capacitatea sa recunoscută de a atinge cerințele solicitate, se
+recomandă utilizarea testului IF ca principal test de depistare.
+În cazul în care testul IF este utilizat ca principal test de depistare și rezultatul său este
+unul pozitiv, trebuie să se efectueze un test PCR sau FISH ca test secundar. În cazul în care
+testul IF este folosit ca test secundar, iar rezultatul său este pozitiv, analiza trebuie completată cu
+teste suplimentare, în conformitate cu indicațiile din diagrama funcțională.
+N O T Ă:
+
+Atunci când testul IF se utilizează ca principal test de depistare, se folosesc întotdeauna
+anticorpi policlonali. Atunci când testul IF efectuat cu anticorpi policlonali dă un rezultat pozitiv, se
+efectuează un test suplimentar cu anticorpi monoclonali, test ce are o specificitate mai mare și o
+sensibilitate mai mică.
+Trebuie să se folosească anticorpii unei tulpini de referință a bacteriei Clavibacter
+michiganensis ssp. sepedonicus. Se recomandă să se determine titrul pentru fiecare nou lot de
+anticorpi. Titrul se definește ca fiind cea mai înaltă diluție la care se obține o reacție optimă,
+atunci când se testează o suspensie care conține între 105 și 106 celule per mL a unei tulpini
+omoloage de Clavibacter michiganensis ssp. sepedonicus, folosindu-se un conjugat adecvat de
+izotiocianat de fluoresceină (FITC), în conformitate cu recomandările producătorului. Soluția brută
+de anticorpi policlonali sau monoclonali trebuie să aibă un titru IF de cel puțin 1:2.000. În
+momentul efectuării testului, diluția/diluțiile de lucru a/ale anticorpilor trebuie să fie aproximativ
+egală/egale cu titrul. Se folosesc anticorpi validați (vezi site-ul web la adresa:
+http://forum.europa.eu.int/ Public/irc/sanco/Home/main).
+Testul trebuie efectuat pe extracte de probă proaspăt preparate. Dacă este cazul, acesta
+poate fi efectuat cu succes și pe extracte conservate cu glicerol, la o temperatură cuprinsă între
+–68 și –86șC. Glicerolul poate fi separat de probă prin adăugarea unui mL de tampon de
+sedimentare (vezi apendicele 3), urmat de recentrifugare timp de 15 minute la 7.000 g și
+resuspendare în același volum de tampon de sedimentare. Acest lucru este rareori necesar, în
+special atunci când proba este fixată pe lamă prin flambare (vezi pct. 2.2).
+Se pregătesc lame-martor pozitive distincte, utilizându-se tulpini omoloage sau oricare altă
+tulpină de referință a bacteriei Clavibacter michiganensius ssp. sepedonicus, obtinute dintr-o
+suspensie de extract de cartof, așa cum se specifică în apendicele 2 și, opțional, într-un tampon.
+Acolo unde este posibil, ar trebui să se utilizeze pe aceeași lamă un martor provenit din
+țesut infectat în mod natural (conservat prin liofilizare sau congelare la temperaturi cuprinse între
+–16șC și –24șC).
+Ca martori negativi se folosesc alicoți din extract de probă care au fost găsiți negativi la
+testare.
+Se utilizează lame de microscop cu multe godeuri, de preferință 10 godeuri, fiecare godeu
+având un diametru minim de 6 mm.
+Controalele se testează la fel ca probele.
+4.1. Lamele se prepară folosindu-se una dintre următoarele metode:
+(i) pentru sedimentele cu conținut relativ redus de amidon:
+se pipetează în primul godeu un volum standard (15 μL în godeurile de 6 mm; pentru
+godeurile cu un diametru mai mare se pipetează o cantitate mai mare) dintr-o diluție de 1/100 de
+sediment de cartof resuspendat. Apoi se pipetează un volum similar de sediment nediluat (1/1) în
+godeurile rămase de pe acel rând. Rândul următor poate fi folosit ca duplicat sau poate servi
+pentru a doua probă, așa cum este indicat în figura 1;
+(ii) alte sedimente:
+se prepară diluții zecimale (1/10 și 1/100) din sedimentul resuspendat în tampon de
+sedimentare. Se pipetează pe primul rând de godeuri un volum standard (15 μL în godeurile de
+6 mm; pentru godeurile cu un diametru mai mare se pipetează un volum mai mare) de sediment
+resuspendat și fiecare diluție. Șirul următor poate fi folosit ca duplicat sau poate servi pentru o a
+doua probă, așa cum este indicat în figura 2.
+4.2. Se usucă picăturile la temperatura mediului ambiant sau prin încălzire la temperaturi
+cuprinse între 40șC și 45șC. Celulele bacteriene se fixează pe lamă prin încălzire (15 minute la
+60șC), prin flambare, cu ajutorul etanolului 95%, sau urmând instrucțiunile specifice ale furnizorilor
+de anticorpi.
+Dacă este necesar, lamele fixate pot fi păstrate la frigider într-o cutie desicator pentru cel
+mult 3 luni înainte de efectuarea unui alt test.
+
+9
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+4.3. Procedura testului de imunofluorescență (IF):
+(i) în conformitate cu metoda de preparare a lamelor-test, indicată la pct. 4.1 (i):
+se prepară o serie de diluții de anticorpi la jumătate, într-un tampon IF. Primul
+godeu trebuie să conțină 1/2 din titru (T/2), celelalte, 1/4 din titru (T/4), 1/2 din titru
+(T/2), titrul (T) și de două ori titrul (2T);
+(ii) în conformitate cu metoda de preparare a lamelor-test, indicată la pct. 4.1 (ii):
+se prepară diluția de lucru de anticorpi într-un tampon IF. Diluția de lucru are efect
+asupra specificității.
+Figura 1. Prepararea lamei-test în conformitate cu pct. 4.1 (i) și 4.3 (i)
+
+4.3.1. Se plasează lamele pe hârtie umedă. Se acoperă complet fiecare godeu cu una sau
+mai multe diluții de anticorpi. Cantitatea de anticorpi aplicată pe fiecare godeu trebuie să fie cel
+puțin egală cu volumul de extract aplicat.
+În absența instrucțiunilor specifice ale furnizorilor de anticorpi, se aplică următoarea
+procedură:
+4.3.2. Se incubează lamele pe hârtie umedă, acoperite timp de 30 de minute, la temperatura
+mediului ambiant (18—25șC).
+4.3.3. Se elimină picăturile de pe fiecare lamă și se clătește cu grijă cu tampon IF. Se spală
+prin imersie timp de 5 minute într-o soluție tampon IF-Tween (vezi apendicele 3), apoi încă
+5 minute într-o soluție tampon IF. Se evită orice vaporizare sau vărsare care ar putea determina
+o contaminare încrucișată. Se elimină cu atenție excesul de umiditate cu ajutorul hârtiei sugative.
+4.3.4. Se plasează lamele pe hârtie umedă. Se acoperă godeurile cu conjugat FITC la diluția
+utilizată la titrare. Cantitatea de conjugat aplicată pe godeuri trebuie să fie identică cu cantitatea
+de anticorpi utilizată.
+4.3.5. Se incubează lamele pe hârtie umedă, acoperite timp de 30 de minute, la temperatura
+mediului ambiant (18—25șC).
+4.3.6. Se elimină de pe lamă picăturile de conjugat. Se clătește și se spală în conformitate
+cu indicațiile anterioare (vezi pct. 4.3.3).
+Se elimină cu grijă excesul de umiditate.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+4.3.7. În fiecare godeu se pipetează 5—10 μL tampon glicerol-fosfat 0,1 M (vezi apendicele 3)
+sau un suport antidecolorare din comerț, apoi se acoperă cu o lamelă.
+4.4. Citirea testului IF:
+4.4.1. Se examinează lamele-test cu ajutorul unui microscop cu epifluorescență prevăzut cu
+filtre adaptate la excitația FITC-ului, în imersie cu ulei sau apă și cu o mărire de la 500 la 1.000.
+Se examinează godeurile pe două diametre perpendiculare și în jurul perimetrului. Pentru probele
+care nu prezintă celule sau care prezintă doar un număr redus de celule se observă cel puțin
+40 de câmpuri microscopice.
+Se începe prin a se controla lama martorului pozitiv. Celulele trebuie să prezinte o
+fluorescență vie și să fie complet colorate la titrul de anticorp sau de diluție de lucru determinat.
+În cazul unei colorări anormale, testul IF (vezi pct. 4) trebuie repetat.
+4.4.2. Se caută în godeurile lamelor-test prezența celulelor cu o fluorescență vie și o
+morfologie caracteristică bacteriei Clavibacter michiganensis ssp. sepedonicus (vezi site-ul web
+http://forum.europa.eu.int/Public/irc/sanco/Home/main). Intensitatea fluorescenței trebuie să fie
+echivalentă cu cea a tulpinii martor pozitiv pentru o diluție identică de anticorpi. Celulele a căror
+colorare este incompletă sau care prezintă o fluorescență slabă nu trebuie luate în considerare.
+La cea mai mică suspiciune de contaminare testul trebuie repetat. Acest lucru se poate
+întâmpla în cazul în care toate lamele dintr-un lot prezintă celule pozitive din cauza contaminării
+tamponului sau în cazul în care celulele pozitive sunt izolate și găsite în exteriorul godeurilor.
+4.4.3. Există un anumit număr de probleme inerente specificității testului de
+imunofluorescență. La nivelul conurilor de țesut vascular și în segmentele de tulpină de cartof pot
+apărea populații de celule fluorescente atipice din punct de vedere morfologic, precum și bacterii
+saprofite care pot da reacții încrucișate având mărime și morfologie asemănătoare cu Clavibacter
+michiganensis ssp. sepedonicus.
+4.4.4. Numai celulele fluorescente care au o dimensiune și o morfologie caracteristice titrului
+sau diluției de lucru a anticorpilor menționați la pct. 4.3 trebuie să fie luate în considerare.
+4.4.5. Interpretarea testului IF:
+(i) Dacă proba conține celule care prezintă o fluorescență vie și o morfologie
+caracteristică, se evaluează numărul mediu de celule caracteristice per câmp
+microscopic și se calculează numărul celulelor menționate per mL de sediment
+resuspendat (vezi apendicele 4).
+Testul IF este considerat pozitiv atunci când proba conține cel puțin 5 x 103 celule
+caracteristice per mL de sediment resuspendat. În acest caz, proba este
+considerată ca fiind potențial contaminată și trebuie să se continue testele.
+(ii) Testul IF este considerat negativ atunci când proba conține mai puțin de 5 x 103
+celule per mL de sediment resuspendat, iar proba este considerată necontaminată.
+Nu este necesară continuarea testelor.
+5. TESTUL DE HIBRIDIZARE FLUORESCENTĂ IN SITU (FISH)
+
+Principiu
+Dacă testul FISH este folosit ca test de depistare inițial și rezultatul său este pozitiv, trebuie
+să se efectueze un test IF ca al doilea test obligatoriu de depistare. În cazul în care testul FISH
+este folosit ca test secundar, iar rezultatul său este pozitiv, diagnosticul trebuie completat de teste
+suplimentare, așa cum este indicat în diagramă.
+N O T Ă:
+
+Se utilizează oligosonde validate specifice pentru bacteria Clavibacter michiganensis ssp.
+sepedonicus (vezi apendice 7). Testele preliminare efectuate prin această metodă trebuie să
+permită detectarea a cel puțin 103—104 celule/mL ale bacteriei Clavibacter michiganensis ssp.
+sepedonicus adăugate extractelor de probe care au dat anterior rezultate negative.
+Este preferabil să se aplice procedura descrisă în continuare pentru extractele de probă
+proaspăt preparate, dar procedura poate funcționa, de asemenea, utilizând extracte de probă
+conservate cu glicerol la temperaturi cuprinse între –16șC și –24șC sau între –68șC și –86șC.
+Ca martori negativi se folosesc extracte de probe care au dus în prealabil la un rezultat
+negativ, în urma testelor de depistare a bacteriei Clavibacter michiganensis ssp. sepedonicus.
+Ca martori pozitivi se prepară suspensii care conțin între 105 și 106 celule/mL de Clavibacter
+michiganensis ssp. sepedonicus (de exemplu, tulpini NCPPB 4053 sau PD 406) în tampon fosfat
+0,01 M, pornindu-se de la o cultură de trei până la cinci zile (vezi apendicele 2 pentru preparare).
+Se prepară lame-martor pozitive distincte dintr-o tulpină omoloagă sau orice altă tulpină de
+referință a bacteriei Clavibacter michiganensis ssp. sepedonicus într-o suspensie de extract de
+cartof, așa cum se indică în apendicele 2.
+Controlul procesului de hibridizare se realizează prin utilizarea unei oligosonde eubacteriene
+marcate cu izotiocianat de fluoresceină (FITC), ce colorează toate eubacteriile prezente în probă.
+Materialul de control se testează la fel ca și probele.
+5.1. Fixarea extractului de cartof
+Protocolul prezentat în cele ce urmează se bazează pe Wullings et al. (1998).
+5.1.1. Se prepară soluția de fixare (vezi apendicele 7).
+
+11
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+5.1.2. Se pipetează 100 μL din fiecare extract într-un tub Eppendorf și se centrifughează
+8 minute la 7.000 g.
+5.1.3. Se elimină supernatantul și se dizolvă sedimentul concentrat în 500 μL soluție de
+fixare preparată cu mai puțin de 24 de ore înainte. Se agită și se lasă la incubat toată noaptea
+la 4șC.
+Se mai poate utiliza pentru fixare etanol 96%. În acest caz, sedimentul menționat la punctul 5.1.2
+se dizolvă într-un amestec format din 50 μL tampon fosfat 0,01 M și din 50 μL etanol 96%. Se
+vortexează și se incubează timp de 30—60 minute la 4șC.
+5.1.4. Se centrifughează timp de 8 minute la 7.000 g, apoi se elimină supernatantul și se
+resuspendă sedimentul în 75 μL tampon fosfat 0,01 M (vezi apendicele 3).
+5.1.5. Se pipetează 16 μL din fiecare suspensie pe o lamă multitest, așa cum este indicat
+în figura 3. Pe fiecare lamă se aplică două probe nediluate diferite și din acestea se prelevează
+10 μL pentru a face o diluție de 1:100 (în tampon fosfat 0,01 M). Restul probei (49 μl) poate fi
+conservat la –20șC, după ce s-a adăugat o cantitate de etanol 96%. În cazul în care este
+necesară repetarea testului FISH, se elimină etanolul prin centrifugare și se înlocuiește cu o
+cantitate echivalentă de tampon fosfat 0,01 M (se omogenizează prin agitare).
+Figura 3. Dispunerea unei lame pentru testul FISH
+
+5.1.6. Lamele se usucă la aer (sau într-un uscător la 37șC) și se fixează prin flambare.
+În acest stadiu procedura poate fi întreruptă, iar hibridizarea poate continua în ziua
+următoare. Lamele trebuie depozitate la adăpost de praf, într-un loc uscat și la temperatura
+mediului ambiant.
+5.2. Prehibridizare și hibridizare
+5.2.1. Se prepară o soluție de lizozim din 10 mg lizozim (Sigma L-6876) în 10 mL de
+tampon (100 mM Tri-HCl, 50 mM EDTA, pH 8,0). Soluția menționată poate fi conservată, dar nu
+trebuie congelată și dezghețată decât o singură dată. Fiecare probă se acoperă integral cu
+aproximativ 50 μL de soluție de lizozim și se incubează timp de 10 minute la temperatura camerei,
+apoi lamele se scufundă o singură dată în apă demineralizată și se usucă cu hârtie de filtru.
+O altă posibilitate: în fiecare godeu, în locul lizozimului, se adaugă 50 μL de 40—400 μg/mL
+proteinază K (preparată în 2mM Tri-HCl, 2mM CaCl2, pH 7,4) și se incubează la 37șC timp de
+30 de minute.
+5.2.2. Se deshidratează celulele prin băi succesive cu etanol 50%, 80% și 96% câte un
+minut fiecare. Se plasează lamele pe un suport și se lasă să se usuce în aer liber.
+5.2.3. Se prepară o cameră de incubație umedă, tapițând fundul unei cutii ermetice cu hârtie
+de filtru umedă sau cu hârtie de filtru impregnată cu hibmix 1x (vezi apendicele 7). Se pune la
+preincubat cutia timp de cel puțin 10 minute în cuptorul de hibridizare, la o temperatură de 55șC.
+5.2.4. Se prepară soluția de hibridizare (vezi apendicele 7), putându-se folosi până la 45 μL
+pe lamă, apoi se preincubează timp de 5 minute la o temperatură de 55șC.
+5.2.5. Se plasează lamele pe o placă încălzită la 45șC și se pipetează 10 μL soluție de
+hibridizare în fiecare dintre cele patru godeuri ale fiecărei lame.
+5.2.6. Se acoperă fiecare lamă cu două lamele (24 x 24 mm), avându-se grijă să nu prindă
+aer. Apoi se plasează lamele în camera de hibridizare umedă preîncălzită și se lasă acolo o
+noapte, la întuneric, la o temperatură de 55șC, pentru a permite desfășurarea hibridizării.
+5.2.7. Se prepară trei recipiente de laborator care conțin 1 L apă ultrapură, 1 L hibmix 1x
+(334 mL hibmix 3x în 666 mL apă ultrapură) și 1 L hibmix 1/2x (167 mL hibmix 3x în 833 mL
+apă ultrapură). Fiecare dintre recipiente se preincubează în baie de apă, la o temperatură
+de 55șC.
+5.2.8. Se îndepărtează lamelele de pe lame și se plasează lamele pe un suport.
+5.2.9. Se elimină excesul de sondă prin incubare la 55șC timp de 15 minute în recipientul de
+laborator care conține hibmixul 1x.
+5.2.10. Se transferă suportul cu lame într-o soluție de spălat ce conține hibmix 1/2 și se
+incubează timp de încă 15 minute.
+5.2.11. Se scufundă rapid lamele într-o baie de apă ultrapură și se usucă cu hârtie de filtru.
+Se elimină excesul de umiditate, așezând ușor hârtia de filtru peste suprafața care trebuie uscată.
+Se pipetează în fiecare godeu între 5 și 10 μL de soluție suport antidecolorare (de exemplu,
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+Vectashield de la Vecta Laboratories, CA, USA sau o soluție echivalentă) și se acoperă întreaga
+suprafață a lamei cu o lamelă mare (24 x 60 mm).
+5.3. Citirea testului FISH
+5.3.1. Lamele se observă imediat cu ajutorul unui microscop cu epifluorescență la o mărire
+de 630 sau 1.000 x, cu ulei de imersie. Cu un filtru adaptat pentru izotiocianatul de fluoresceină
+(FITC), celulele eubacteriene (inclusiv majoritatea celulelor gram-negative) prezente în probă se
+colorează în verde fluorescent. Cu un filtru adaptat pentru tetrametilrodamină-5-izotiocianat, celulele
+de Clavibacter michiganensis ssp. sepedonicus, marcate cu Cy3, apar colorate în roșu fluorescent.
+Se compară morfologia celulelor cu cea a martorilor pozitivi. Celulele trebuie să fie complet
+colorate și să prezinte o fluorescență vie. În caz de colorare anormală, testul FISH (vezi pct. 9.4)
+trebuie repetat. Se examinează godeurile pe două diametre perpendiculare și în jurul perimetrului.
+Pentru probele care nu prezintă celule sau care prezintă doar un număr redus de celule se
+observă cel puțin 40 de câmpuri microscopice.
+5.3.2. Se caută în godeurile lamelor-test prezența celulelor care prezintă o fluorescență vie și
+o morfologie caracteristică bacteriei Clavibacter michiganensis ssp. sepedonicus (vezi site-ul web
+http://forum.europa.eu.int/Public/irc/sanco/Home/main). Intensitatea fluorescenței trebuie să fie
+echivalentă cu cea a tulpinilor-martor pozitiv sau superioară acesteia. Celulele a căror colorare
+este incompletă sau care prezintă o fluorescență slabă nu trebuie luate în considerare.
+5.3.3. La cea mai mică suspiciune de contaminare, testul trebuie repetat. Acest lucru se
+poate întâmpla în cazul în care toate lamele dintr-un lot prezintă celule pozitive din cauza
+contaminării tamponului sau în cazul în care celulele pozitive sunt găsite în afara godeurilor.
+5.3.4. Există un anumit număr de probleme inerente specificității testului FISH. La nivelul
+conurilor de țesut vascular și în segmentele de tulpini de cartof pot apărea populații de celule
+fluorescente atipice din punct de vedere morfologic, precum și bacterii saprofite care pot da reacții
+încrucișate, având mărimea și morfologia asemănătoare cu Clavibacter michiganensis ssp.
+sepedonicus. Fenomenul menționat este cu toate acestea mult mai puțin frecvent decât în cazul
+testului IF.
+5.3.5. Doar celulele fluorescente care prezintă mărime și morfologie caracteristice trebuie
+luate în considerare (vezi pct. 5.3.2).
+5.3.6. Interpretarea rezultatului testului FISH:
+(i) rezultatele testului FISH sunt valabile atunci când prin intermediul filtrului pentru
+FITC se observă celule care prezintă o fluorescență vie de culoare verde și o
+mărime și o morfologie caracteristice bacteriei Clavibacter michiganensis ssp.
+sepedonicus. Cu ajutorul filtrului pentru rodamină se observă celule care prezintă o
+fluorescență vie de culoare roșie la toți martorii pozitivi și la niciun martor negativ.
+Dacă proba conține celule care prezintă o fluorescență vie și o morfologie
+caracteristică, se determină numărul mediu de celule caracteristice pe câmp
+microscopic și se calculează numărul celulelor respective per mL de sediment
+resuspendat (vezi apendicele 4). Probele care conțin cel puțin 5 x 103 celule
+caracteristice per mL de sediment resuspendat sunt considerate ca fiind potențial
+contaminate. În această situație se vor continua testele. Probele care conțin mai
+puțin de 5 x 103 celule caracteristice per mL de sediment resuspendat sunt
+considerate ca fiind negative;
+(ii) testul FISH este negativ în cazul în care nu se observă, cu ajutorul filtrului pentru
+rodamină, celule de mărimea și cu morfologia caracteristice bacteriei Clavibacter
+michiganensis ssp. sepedonicus, care prezintă o fluorescență vie de culoare roșie.
+Astfel de celule caracteristice cu o fluorescență vie și de culoare roșie trebuie să
+fie observate cu filtrul pentru rodamină numai în preparatele de martori pozitivi.
+6. TESTUL REACȚIEI DE POLIMERIZARE ÎN LANȚ (PCR)
+Principii
+
+Dacă testul PCR este folosit ca test principal de depistare și rezultatul său este pozitiv,
+trebuie să se efectueze un test IF ca test secundar de depistare obligatoriu. În cazul în care
+testul PCR este folosit ca test secundar, iar rezultatul său este pozitiv, diagnosticul trebuie
+completat de teste suplimentare, așa cum este indicat în diagramă.
+Exploatarea completă a metodei menționate ca test de depistare principal nu se recomandă
+decât în cazul în care există o expertiză specializată în domeniu.
+N O T Ă:
+
+Testele preliminarii efectuate în conformitate cu această metodă trebuie să permită
+detectarea a 103—104 celule/mL de Clavibacter michiganensis ssp. sepedonicus, care se adăugă
+extractelor de probe care au dat anterior rezultate negative. Se pot dovedi necesare experiențe de
+optimizare pentru a obține niveluri maxime de sensibilitate și de specificitate în toate laboratoarele.
+Se folosesc reactivi și protocoale PCR validate. Se alege, de preferință, o metodă cu control
+intern.
+Se iau precauțiile necesare pentru a se evita contaminarea probei cu ADN-ul țintă. Pentru a
+reduce pe cât posibil riscul contaminării cu ADN-ul țintă, ar trebui ca testul PCR să fie efectuat
+de către tehnicieni experimentați, în laboratoare de biologie moleculară specializate.
+
+13
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+Martorii negativi (în ceea ce privește procedurile PCR și de extracție a ADN-ului) trebuie
+tratați întotdeauna ca probe finale în procedură, pentru a evidenția apariția unui eventual transfer
+de ADN.
+În testul PCR trebuie incluși următorii martori negativi:
+— extract de probă care a dat anterior rezultate negative pentru bacteria Clavibacter
+michiganensis ssp. sepedonicus;
+— tampoane-martori folosite pentru extracția bacteriei și a ADN-ului din probă;
+— mixul pentru PCR.
+De asemenea, trebuie incluși aici și următorii martori pozitivi:
+— alicoți din sedimente resuspendate, după ce s-a adăugat bacteria C. m. ssp. sepedonicus
+(vezi apendicele 2 pentru preparare);
+— suspensie în mediu apos de 106 celule per mL dintr-un izolat virulent al bacteriei
+Clavibacter michiganensis ssp. sepedonicus (de exemplu, NCPPB 2140 sau NCPPB 4053);
+— de asemenea, în cazul în care este posibil, pentru testul PCR se utilizează ADN extras
+din probe de martori pozitivi.
+Pentru a evita riscurile de contaminare, martorii pozitivi se prepară într-un mediu diferit de cel în
+care se găsesc probele care trebuie testate.
+În măsura posibilului, extractele de probe trebuie curățate de pământ. În anumite cazuri este
+recomandabil să se prepare extracte din cartofi spălați, dacă se prevede folosirea protocoalelor
+PCR.
+6.1. Metode de purificare a ADN-ului
+
+Se folosesc probe-martori pozitivi și negativi, conform metodei descrise anterior.
+Materialul de control se prepară la fel ca și probele.
+Există o serie întreagă de metode pentru purificarea ADN-ului-țintă, în cazul substratelor de
+probe complexe, pentru a elimina inhibitorii PCR și alte reacții enzimatice și pentru a concentra
+ADN-ul-țintă în extractul de probă.
+Următoarea metodă a fost optimizată pentru a fi utilizată cu metoda PCR validată, descrisă
+în apendicele 6.
+6.1. a) Metoda Pastrik (2000)
+1. Se pipetează 220 μL tampon de liză (100 mM NaCl, 10mM Tri-HCl îpH 8,0ș, 1 mM
+EDTA îpH 8,0ș) într-un tub Eppendorf de 1,5 mL.
+2. Se adaugă 100 μL de extract de probă și se așază într-un bloc de încălzire sau într-o
+baie de apă la temperatura de 95șC timp de 10 minute.
+3. Se așază tubul pe gheață timp de 5 minute.
+4. Se adaugă 80 μL soluție concentrată de lizozim (50 mg de lizozim/mL în 10 mM Tri HCl,
+pH 8,0) și se incubează la temperatura de 37șC timp de 30 de minute.
+5. Se adaugă 220 μL Easy DNA ® soluție A (Invitrogen), se omogenizează bine prin
+vortexare și se incubează la temperatura de 65șC timp de 30 de minute.
+6. Se adaugă 100 μL Easy DNA ® soluție B (Invitrogen), se omogenizează bine prin
+vortexare până când precipitatul circulă liber în tub, iar proba prezintă o viscozitate uniformă.
+7. Se adaugă 500 μL cloroform și se omogenizează prin vortexare până când viscozitatea
+scade, iar amestecul devine omogen.
+8. Se centrifughează la 15.000 g timp de 20 de minute, la temperatura de 4șC, pentru a
+separa fazele și a forma interfaza.
+9. Se transfera faza superioară într-un alt tub Eppendorf.
+10. Se adaugă 1 mL etanol 100% (—20șC), se omogenizează rapid prin vortexare și se
+incubează pe gheață timp de 10 minute.
+11. Se centrifughează la 15.000 g timp de 20 de minute la temperatura de 4șC, apoi se
+elimină etanolul din sediment.
+12. Se adaugă 500 μL etanol 80% (–20șC) și se amestecă răsturnând tubul.
+13. Se centrifughează la 15.000 g timp de 10 minute la temperatura de 4șC, se conservă
+sedimentul și se elimină etanolul.
+14. Se lasă să se usuce extractul în aer liber sau într-un Speed Vac de ADN.
+15. Se resuspendă sedimentul în 100 μL apă ultrapură sterilă și se lasă la temperatura
+camerei timp de cel puțin 20 de minute.
+16. Se conservă la temperatura de –20șC până când se va utiliza pentru PCR.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+17. Se izolează orice precipitat alb prin centrifugare și se utilizează 5 μL din supernatantul
+ce conține ADN-ul pentru PCR.
+6.1. b) Alte metode
+Se pot aplica și alte metode de extracție a ADN-ului (de exemplu, Qiagen DNeasy Plant
+Kit), cu condiția ca metodele respective să aibă o eficacitate recunoscută ca fiind echivalentă,
+pentru purificarea ADN-ului provenit din probele-martori care conțin între 103 și 104 celule de
+agent patogen per mL.
+6.2. PCR
+
+6.2.1. Se prepară probele-test și controalele pentru PCR, urmând protocoale validate (vezi
+apendicele 6). Se prepară o diluție zecimală din extractul de ADN provenit din probă (1:10 în
+apă ultrapură).
+6.2.2. Se prepară mix-ul pentru PCR într-un mediu lipsit de orice contaminare, în
+conformitate cu protocoalele publicate (vezi apendicele 6). Protocolul PCR validat este o reacție
+multiplex care include și un control PCR intern.
+6.2.3. Se adaugă 5 μL de extract de ADN la 25 μL reactiv PCR în tuburi PCR sterile.
+6.2.4. Se constituie o probă-martor negativ, care nu conține decât mix-ul pentru PCR, și se
+adaugă în locul probei apă ultrapură provenind din aceeași sursă ca și cea utilizată în amestecul
+PCR.
+6.2.5. Se așază tuburile în același termociclor folosit la testul preliminar și se lansează
+programul PCR optimizat în mod corespunzător (vezi apendicele 6).
+6.3. Analiza produsului reacției PCR
+
+6.3.1. Se vizualizează ampliconii prin electroforeză în gel de agaroză. O cantitate de cel
+puțin 12 μL de ADN amplificat, provenit de la fiecare probă, la care se adaugă 3 μL de tampon
+de încărcare (vezi apendicele 6), se supune unei tensiuni de 5—8 V/cm în geluri de agaroză
+2,0% într-un tampon tris-acetat EDTA (TAE) (vezi apendicele 6). Se utilizează un marker de ADN
+corespunzator, de exemplu î100 bp ladder“.
+6.3.2. Pentru a pune în evidență benzile de ADN se folosește colorarea cu bromură de
+etidiu (0,5 mg/L) timp de 30—45 de minute, luând precauțiile care se impun pentru manipularea
+agentului mutagen în cauză.
+6.3.3. În cazul produselor PCR care au mărimea corespunzătoare (vezi apendicele 6), se
+vizualizează gelul colorat la transiluminator sub unde UV scurte (de exemplu, λ = 302 nm) și se
+notează rezultatele.
+6.3.4. Pentru toate cazurile/rezultatele noi se verifică autenticitatea ampliconului, efectuându-se
+o analiză de restricție enzimatică pe o probă din ADN-ul amplificat rămas. În acest scop, se lasă
+la incubat la o temperatură optimă și pe o durată optimă, folosindu-se o enzimă și un tampon
+corespunzătoare (vezi apendicele 6). Se vizualizează fragmentele restrictate prin electroforeză în
+gel de agaroză, în conformitate cu metoda indicată anterior, și se vizualizează la transiluminator
+sub UV dispunerea caracteristică a fragmentelor după restricția enzimatică și colorarea cu bromură
+de etidiu. Se compară apoi cu martorii pozitivi dinainte și de după restricție.
+Interpretarea rezultatului testului PCR:
+— testul PCR este negativ dacă se observă în mod evident ampliconul PCR specific
+bacteriei Clavibacter michiganensis ssp. sepedonicus de mărimea corespunzătoare, numai în
+martorii pozitivi, dar nu și în proba de analizat (în cazul unui PCR multiplex cu primeri de control
+intern specifici plantei, un al doilea produs PCR de mărimea corespunzătoare trebuie amplificat cu
+proba în cauză);
+— testul PCR este pozitiv dacă se observă în mod evident ampliconul PCR specific
+bacteriei Clavibacter michiganensis ssp. sepedonicus de mărimea și (în cazul în care este
+necesar) dispunerea postrestricție preconizate, cu condiția să nu fie amplificat cu una dintre
+probele-martori negativi. De asemenea, un rezultat pozitiv se poate confirma prin repetarea testului
+cu o a doua serie de primeri PCR (vezi pct. 9.3).
+N O T Ă:
+
+Se poate suspecta o inhibiție a PCR-ului, în cazul în care ampliconul corespunzător se
+obține în martorul pozitiv care conține bacteria Clavibacter michiganensis ssp. sepedonicus în
+soluție apoasă, iar martorii pozitivi care conțin Clavibacter michiganensis ssp. sepedonicus în
+extractul de cartof dau un rezultat negativ. În protocoalele de multiplex PCR cu controale PCR
+interne inhibiția reacției este probabilă atunci când nu se obține niciunul dintre cei 2 ampliconi.
+
+15
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+Se poate suspecta o contaminare dacă ampliconul corespunzător este evidențiat în cel puțin
+unul dintre martorii negativi.
+7. TESTUL BIOLOGIC
+N O T Ă:
+
+Testele preliminarii realizate în conformitate cu această metodă trebuie să permită detectarea
+de 103—104 celule formatoare de colonii de Clavibacter michiganensis ssp. sepedonicus /mL,
+adăugate extractelor de probe care anterior au dat rezultate negative (pentru preparare vezi
+apendicele 2).
+Pentru a obține o sensibilitate maximă a detecției este preferabil să se utilizeze un extract
+de probă proaspăt preparat în condiții optime de creștere. Cu toate acestea, metoda poate fi
+aplicată cu succes pentru extracte conservate cu glicerol la temperaturi cuprinse între –68șC și
+–86șC.
+Anumite soiuri de vinete constituie un mediu selectiv excelent de îmbogățire pentru creșterea
+bacteriei Clavibacter michiganensis ssp. sepedonicus chiar și în absența simptomelor și permit, de
+asemenea, realizarea unui excelent test de confirmare.
+Pentru a reduce riscul de a obține rezultate fals negative, condițiile de creștere trebuie să fie
+optime.
+Pentru detaliile privind cultura vezi apendicele 8.
+7.1. Se repartizează pe vinete, în conformitate cu una dintre metodele indicate în continuare
+(vezi pct. 7.3 sau 7.4), tot alicotul rămas din sedimentul resuspendat, obținut conform prevederilor
+pct. 3.1.6 sau 3.2.5. Se folosesc doar plante ajunse în stadiul celei de-a doua sau a treia frunze,
+până la dezvoltarea completă a celei de-a treia frunze adevărate. Pentru a folosi integral
+sedimentul resuspendat și pentru a asigura eficacitatea inoculării, pentru procedurile descrise în
+continuare sunt necesare între 15 și 25 vinete per probă.
+7.2. Înainte de inoculare, vinetele nu trebuie udate timp de una sau două zile, pentru a
+reduce turgescența.
+7.3. Inoculare prin incizie
+7.3.1. Se ține planta între două degete și se pipetează pe tulpină, între cotiledoane și prima
+frunză, o picătură (în jur de 5—10 μL) de sediment resuspendat.
+7.3.2. Cu ajutorul unui bisturiu steril se realizează, plecând de la picătura de sediment, o
+incizie diagonală cu o lungime de 1,0 cm și o adâncime aproximativ egală cu două treimi din
+grosimea tulpinii.
+7.3.3. Se închide incizia cu vaselină sterilă, folosindu-se o seringă.
+7.4. Inoculare prin injecție
+Se injectează sediment resuspendat în tulpini de vinete chiar deasupra cotiledoanelor, cu
+ajutorul unei seringi dotate cu un ac hipodermic (nu mai puțin de 23 G), repartizându-se în toate
+plantele de vinete utilizate pentru testare.
+7.5. Ca martori pozitivi se inoculează 5 plante prin aceeași metodă (vezi pct. 7.3 sau 7.4),
+cu o suspensie apoasă care conține între 105 și 106 celule/mL dintr-o cultură cunoscută de
+Clavibacter michiganensis ssp. sepedonicus, și, în cazul în care este posibil, cu extract din
+tubercul infectat în mod natural (vezi pct. 4).
+7.6. Ca martori negativi se inoculează 5 plante prin aceeași metodă (vezi pct. 7.3 sau 7.4),
+cu o soluție tampon fosfat sterilă.
+7.7. Se lasă plantele la incubat până la 4 săptămâni la temperaturi cuprinse între 18șC și
+24șC, în condiții de carantină. În timpul incubației se menține o lumină suficientă și un grad ridicat
+de umiditate (de la 70% la 80%), asigurându-se o udare adecvată pentru a evita orice obturare
+hidrică sau veștejire din cauza lipsei apei. Celulele de Clavibacter michiganensis ssp. sepedonicus
+nu rezistă la temperaturi mai mari de 30șC; temperatura optimă de dezvoltare este de 21șC.
+Pentru a evita riscurile de contaminare, martorii pozitivi și negativi se pun la incubat în seră sau
+fitotron pe etajere complet separate sau, în cazul în care spațiul este limitat, se prevede o
+compartimentare riguroasă. În cazul în care plantele infectate provenite din probe diferite trebuie
+să stea la incubat aproape unele de altele, plantele respective se vor separa cu ajutorul unor
+ecrane corespunzătoare. Se va acorda o mare atenție evitării contaminării încrucișate în timpul
+fertilizării, al udării, al inspecțiilor și în orice alt caz de manipulare. Este necesar să se evite
+prezența insectelor în sere sau fitotroane, deoarece sunt susceptibile de a răspândi bacteria de la
+o proba la alta.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+7.8. După o săptămână se examinează cu regularitate plantele pentru a identifica apariția
+simptomelor. Se numără plantele care prezintă simptome. Clavibacter michiganensis ssp.
+sepedonicus provoacă la vinete o veștejire a frunzelor, care se poate manifesta în primul rând
+printr-o inmuiere a marginilor frunzelor sau între nervuri. La început, țesutul veștejit poate lua o
+culoare verde închis sau un aspect pestriț, dar pălește înainte de a se necroza. Veștejirile dintre
+nervuri prezintă adesea aspectul unsuros al țesuturilor saturate cu apă. Țesutul necrozat prezintă
+adesea o margine de culoare galben viu. Plantele nu mor neapărat. Cu cât simptomele întârzie
+să apară, cu atât șansele de supraviețuire sunt mai mari. Plantele pot învinge infecția. Plantele
+tinere sunt mult mai sensibile la populațiile slabe de Clavibacter michiganensis ssp. sepedonicus
+decât plantele mai în vârstă, de unde necesitatea de a utiliza plante în stadiul celei de-a treia
+frunze adevărate sau chiar înaintea acestui stadiu.
+Veștejirile mai pot fi provocate și de populații de alte bacterii sau de ciuperci prezente în
+extract. Este vorba, printre altele, de Ralstonia solanacearum, de Erwinia carotovora ssp.
+carotovora și de Erwinia carotovora ssp. atroseptica, de Erwinia chrysanthemi, de Phoma exigua
+var. foveata, precum și de vaste populații de bacterii saprofite. Erwinia chrysanthemi, în special,
+poate induce simptome la nivelul frunzelor și o veștejire foarte asemănătoare cu simptomele
+produse de Clavibacter michiganensis ssp. sepedonicus, cu singura diferență că infecțiile cu
+Erwinia chrysanthemi provoacă o înnegrire a tulpinilor. Alte tipuri de veștejiri se disting de cele
+provocate de Clavibacter michiganensis ssp. sepedonicus prin faptul că frunzele sau plantele
+întregi se ofilesc rapid. De asemenea, se poate recurge la o colorare Gram pentru a distinge
+bacteria Clavibacter michiganensis ssp. sepedonicus de bacteria Erwinia spp.
+7.9. Odată cu apariția simptomelor pe vinete trebuie să se efectueze noi operațiuni de
+izolare, utilizându-se segmente de țesut care provin din frunzele veștejite sau din tulpinile plantelor
+(pentru macerarea țesuturilor vezi pct. 3.1.3). Se dezinfectează suprafața frunzelor și a tulpinilor
+de vinete cu etanol 70%. Se efectuează un test IF sau PCR pe extractul de vinete și se trece la
+izolarea pe mediu adecvat (selectiv) (vezi pct. 8). De asemenea, este posibil să se efectueze o
+colorare Gram (vezi apendicele 9). Se identifică culturile pure ale izolatelor presupuse a fi de
+Clavibacter michiganensis ssp. sepedonicus și li se confirmă patogenitatea (vezi pct. 9 și 10).
+7.10. În anumite circumstanțe și, în special, în cazul în care condițiile de cultură nu sunt
+optime, Clavibacter michiganensis ssp. sepedonicus poate fi prezent în vinete într-un stadiu de
+infecție latentă, chiar și după perioade de incubație care ajung până la 4 săptămâni. În cazul în
+care după 4 săptămâni nu se observă niciun simptom, se efectuează un test IF sau PCR pe o
+probă mixtă de segmente de tulpini de 1 cm provenind de la fiecare plantă-test, prelevate de
+deasupra punctului de inoculare. În cazul în care testul este pozitiv, se efectuează o nouă izolare
+pe un mediu adecvat (selectiv), conform procedurii de la pct. 8. Se identifică culturile pure ale
+izolatelor presupuse a fi de Clavibacter michiganensis ssp. sepedonicus și li se confirmă
+patogenitatea (vezi pct. 9 și 10).
+Interpretarea rezultatelor testului biologic
+Rezultatele testului biologic sunt valabile atunci când plantele care constituie martorul pozitiv
+prezintă simptome caracteristice, bacteria poate fi reizolată din aceste plante și când nu se
+observă niciun simptom pe martorii negativi.
+Testul biologic este negativ în cazul în care plantele-test nu sunt infectate cu bacteria
+Clavibacter michiganensis ssp. sepedonicus, aceasta fiind evidențiată numai pe martorii pozitivi.
+Testul biologic este pozitiv în cazul în care plantele-test sunt infectate cu bacteria
+Clavibacter michiganensis ssp. sepedonicus.
+8. IZOLAREA BACTERIEI CLAVIBACTER MICHIGANENSIS SSP. SEPEDONICUS
+N O T Ă:
+
+Diagnosticul nu poate fi confirmat decât după izolarea și identificarea bacteriei Clavibacter
+michiganensis ssp. sepedonicus (vezi pct. 9), urmate de o confirmare prin testul de patogenitate
+(vezi pct. 10). Deși este vorba de un organism dificil de izolat, el poate fi totuși izolat din țesut
+simptomatic.
+Cu toate acestea, organismul poate fi inhibat de bacterii saprofite cu creștere rapidă, ceea
+ce îl face dificil de izolat în mod direct din sedimentul de țesut de tubercul sau de tulpină (vezi
+pct. 3.1.6 sau 3.2.5). Izolarea directă a bacteriei Clavibacter michiganensis ssp. sepedonicus se
+poate realiza pe mediu selectiv, pornindu-se de la diluții corespunzătoare ale sedimentului
+resuspendat provenit din conuri sau tulpini de cartof.
+
+17
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+Izolările trebuie să se realizeze pornindu-se de la toți tuberculii sau fragmentele de tulpini de
+cartof cu simptome și de la toate vinetele care nu prezintă simptome, dar la care testul IF sau
+PCR efectuat pe o probă mixtă (vezi pct. 7.10) a fost pozitiv. Dacă este cazul, tulpinile de vinete
+trebuie să fie macerate conform metodei descrise la pct. 3.1.3.
+Ca martori pozitivi se prepară diluții zecimale dintr-o suspensie de 106 ufc/mL de Clavibacter
+michiganensis. ssp. sepedonicus (de exemplu, NCPPB 4053 sau PD 406). Pentru a se evita orice
+posibilitate de contaminare, martorii pozitivi se vor prepara separat de probe.
+În cazul fiecărui lot de mediu selectiv nou-preparat, trebuie să se verifice în ce măsură
+acesta este potrivit pentru cultura agentului patogen înainte de a-l utiliza pentru testarea de rutină
+a probelor.
+Materialul de control se testează la fel ca și probele.
+8.1. Izolarea pe medii selective
+8.1.1. Pornindu-se de la 100 μL alicot obținut dintr-un sediment de cartof resuspendat sau
+din extract de vinete, se efectuează diluții la a zecea parte într-un tampon de sedimentare 10mM
+(vezi apendicele 3).
+8.1.2. Tentativele de izolare pornindu-se de la sediment nediluat de cartof se soldează, în
+general, cu eșecuri datorită dificultăților care apar la izolarea bacteriei Clavibacter michiganensis
+subsp. sepedonicus și a concurenței saprofiților. Deoarece bacteria este în general prezentă în
+număr mare de populații în țesuturile infectate, adesea saprofiții pot fi înlăturați prin diluție, dar
+păstrându-se totodată agentul patogen. Prin urmare, se recomandă să se utilizeze tehnica de
+însămânțare pe plăci cu ajutorul unei anse, însămânțându-se câte 100 μl din fiecare probă și
+din fiecare diluție de 1/100 până la 1/10.000 pe mediu MTNA sau NCP-88 (vezi apendicele 5).
+N O T Ă:
+
+O altă modalitate poate consta în însămânțarea, cu ajutorul unei anse, a 100 μL din alicotul
+sedimentului de cartof inițial, la început pe o placă cu agar, apoi de pe aceasta pe o a doua
+placă cu agar, însămânțându-se astfel în striuri pe cea de-a doua placă ceea ce a rămas pe
+ansă; în final, procedura se repetă pe o a treia placă, ansa permițând astfel ca pe plăci să se
+obțină un efect de diluție.
+8.1.3. Se incubează plăcile la întuneric, la temperaturi cuprinse între 21șC și 23șC.
+8.1.4. Prima examinare a plăcilor, prin comparație cu plăcile-martor, cu numărarea
+eventualelor colonii asemănătoare cu cele produse de Clavibacter michiganensis ssp. sepedonicus,
+trebuie să se realizeze după 3 zile. Numărarea ulterioară se va realiza după 5, 7 și, în final,
+10 zile.
+8.2. Purificarea coloniilor suspecte
+N O T Ă:
+
+Trebuie să se efectueze o repicare pe mediu YGM a coloniilor asemănătoare cu cele
+produse de Clavibacter michiganensis ssp. sepedonicus, în scopul inoculării ulterioare a vinetelor
+și/sau al identificării. Aceasta trebuie efectuată înainte ca plăcile să atingă o creștere excesivă, de
+preferință, după 3—5 zile.
+8.2.1. Se efectuează o însămânțare în striuri a coloniilor asemănătoare cu cele produse de
+Clavibacter michiganensis. ssp. sepedonicus pe unul dintre următoarele medii (rețetele figurează în
+apendicele 5):
+— nutrient dextroza agar (numai pentru repicări);
+— drojdie peptonă glucoză agar;
+— extract de drojdie săruri minerale agar.
+Se incubează 10 zile la o temperatură cuprinsă între 21șC și 24șC.
+Clavibacter michiganensis. ssp. sepedonicus crește lent, producând, în general, în 10 zile
+colonii de dimensiunea și de forma unui vârf de ac, sub formă de cupolă și de culoare crem.
+Fotografii ale coloniilor caracteristice bacteriei Clavibacter michiganensis ssp. sepedonicus sunt
+prezentate la adresa http://forum.europa.eu.int/Public/irc/sanco/Home/main.
+8.2.2. Se însămânțează din nou în striuri pentru a obține culturi pure.
+Ratele de creștere sunt îmbunătățite prin subculturi. Coloniile caracteristice sunt de culoare
+crem-albicioasă sau de culoarea fildeșului, uneori galbene, rotunjite, netede, înălțate sub formă de
+cupolă convexă, cu o consistență mucoid-fluidă, cu margini întregi, cu diametrul în general de
+1—3 mm.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+O simplă colorare Gram (vezi apendicele 9) poate ajuta la selectarea coloniilor în vederea
+efectuării testelor suplimentare.
+8.2.3. Se identifică culturile presupuse (vezi pct. 9) și se realizează un test de patogenitate
+(vezi pct. 10).
+9. IDENTIFICARE
+Se identifică culturile pure obținute din izolatele presupuse a fi Clavibacter michiganensis.
+ssp. sepedonicus, utilizându-se cel puțin două dintre testele prezentate în continuare, bazate pe
+principii biologice diferite.
+Dacă este cazul, pentru fiecare test efectuat se includ tulpini de referință cunoscute.
+9.1. Teste de identificare de nutriție și enzimatice
+Se determină caracteristicile fenotipice menționate în continuare, care sunt în mod sistematic
+prezente sau absente la Clavibacter michiganensis ssp. sepedonicus, în conformitate cu metodele
+lui Lelliott și Stead (1987), Klement et al. (1990), Schaad (2001) și anonim (1987).
+Toate mediile se incubează la temperatura de 21șC și se examinează după 6 zile. În cazul
+în care nu se constată nicio creștere, se incubează până la 20 de zile.
+Fiecare test trebuie să includă o tulpină cunoscută de Clavibacter michiganensis ssp.
+sepedonicus ca martor. Testele de nutriție și cele fiziologice trebuie să fie efectuate utilizându-se
+un inocul provenit din repicări pe agar nutritiv. Comparațiile morfologice trebuie să se efectueze
+pe culturi obținute pe nutrient dextroza agar.
+Teste
+Oxidare/fermentare (O/F)
+Oxidază
+Creștere la 37șC
+Activitatea ureazei
+Hidroliza esculinei
+Hidroliza amidonului
+Creștere în soluție de NaCl 7%
+Producția de indol
+Activitatea catalazei
+Producție de H2S
+Utilizarea citratului
+Lichefierea gelatinei
+Producția de acid din glicerol
+Producția de acid din lactoză
+Producția de acid din ramnoză
+Producția de acid din salicin
+Colorația Gram (vezi apendice 9)
+
+Rezultate preconizate
+Inert sau slab oxidant
+—
+—
+—
++
+— sau slab
+—
+—
++
+—
+—
+—
+—
+— sau slab
+—
+—
++
+
+9.2. Testul de imunofluorescență (IF)
+a) Se prepară o suspensie de aproximativ 106 celule per mL într-un tampon IF (vezi
+apendicele 3).
+b) Se prepară o diluție la jumătate dintr-un antiser corespunzător.
+c) Se urmează procedura testului IF (vezi pct. 4).
+d) Pentru ca un test IF să fie pozitiv, titrul obținut din cultură trebuie să fie echivalent cu cel
+obținut din martorul pozitiv.
+9.3. Testul reacției de polimerizare în lanț (PCR)
+a) Se prepară o suspensie de aproximativ 106 celule per mL în apă ultrapură.
+b) Într-un bloc de încălzire sau într-o baie de apă fiartă se încălzesc 100 μl de suspensie în
+tuburi închise, la temperatura de 100șC timp de 4 minute. Dacă este necesar, se adaugă NaOH
+proaspăt preparat, cu o concentrație finală de 0,05 M pentru a facilita liza celulelor. Probele pot fi
+depozitate la temperaturi cuprinse între –16șC și –24șC, până în momentul utilizării.
+c) Se aplică procedurile PCR corespunzătoare pentru a amplifica ampliconii specifici de
+Clavibacter michiganensis ssp. sepedonicus (de exemplu: Pastrik, 2000; vezi apendicele 4; Li și de
+Boer, 1995; Mills et al., 1997; Pastrik și Rainey, 1999; Schaad et al., 1999).
+
+19
+
+20
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+(d) Identificarea bacteriei Clavibacter michiganensis ssp. sepedonicus este pozitivă atunci
+când ampliconii PCR au aceeași dimensiune și prezintă aceleași polimorfisme de lungime ale
+fragmentelor de restricție ca și pentru tulpina-martor pozitivă.
+9.4. Testul de hibridizare fluorescentă in situ (FISH)
+a) Se prepară o suspensie de aproximativ 106 celule per mL în apă ultrapură.
+b) Se urmează procedura testului FISH (vezi pct. 5).
+c) Testul FISH este pozitiv în cazul în care se obțin aceleași reacții din cultură ca și la
+martorul pozitiv.
+9.5. Testul de profil al acizilor grași (FAP)
+a) Cultura se dezvoltă timp de 72 de ore la temperatura de 21șC (+/-1șC) pe tripticaza soia
+agar (Oxoid).
+b) Se aplică o procedură FAP corespunzatoare (Janse, 1991; Stead, 1992).
+c) Pentru ca un test FAP să fie pozitiv, profilul culturii presupuse trebuie să fie identic cu
+cel al martorului pozitiv. Prezența acizilor grași caracteristici 15:1 Anteiso A, 15:0 Iso, 15:0
+Anteiso, 16:0 Iso, 16:0 și 17:0 Anteiso este puternic elocventă pentru bacteria Clavibacter
+michiganensis ssp. sepedonicus. Alte genuri de bacterii, ca de exemplu Curtobacterium,
+Arthrobacter și Micrococcus, prezintă, de asemenea, unii dintre acizii menționați, dar foarte rar
+15:1 Anteiso A; în schimb, acidul menționat este prezent la toate bacteriile Clavibacter spp., la
+niveluri cuprinse între 1% și 5%. Pentru Clavibacter michiganensis ssp. sepedonicus, nivelul
+menționat este de obicei în jurul valorii de 5%.
+9.6. Testul BOX-PCR
+a) Se prepară o suspensie de aproximativ 106 celule per mL în apă ultrapură.
+b) Se efectuează testul conform procedurii (Smith et al., 2001).
+10. TESTUL DE CONFIRMARE
+Testul de patogenitate se efectuează atât pentru a aduce confirmarea finală a unui
+diagnostic de Clavibacter michiganensis ssp. sepedonicus, cât și pentru a evalua virulența culturilor
+identificate ca fiind Clavibacter michiganensis ssp. sepedonicus.
+10.1. Se prepară un inoculum de aproximativ 106 celule/mL dintr-o cultură de 3 zile a
+izolatului de testat și dintr-o tulpină-martor pozitivă, corespunzătoare bacteriei Clavibacter
+michiganensis ssp. sepedonicus.
+10.2. Se inoculează 5—10 tulpini de plante tinere de vinete în stadiul celei de-a treia frunze
+adevărate (vezi pct. 7.3 sau 7.4).
+10.3. Se incubează la temperaturi cuprinse între 18șC și 24șC, la o umiditate relativ ridicată,
+asigurând o stropire corespunzătoare pentru a preveni obturarea hidrică sau stresul cauzat de
+secetă (vezi pct. 7.7). În cazul culturilor pure ar trebui să apară o veștejire tipică în două
+săptămâni; cu toate acestea, plantele care nu prezintă simptome (vezi pct. 7.8) la sfârșitul acestei
+perioade trebuie lăsate în continuare la incubat până la 3 săptămâni, la temperaturi favorabile
+creșterii vinetelor, nedepășind temperatura de 25șC (vezi apendicele 8). Dacă la sfârșitul celor
+3 săptămâni nu apar simptome, cultura nu poate fi confirmată ca fiind o formă patogenă de
+Clavibacter michiganensis ssp. sepedonicus.
+10.4. Se izolează din plante cu simptome, prelevându-se o secțiune de tulpină la o înălțime
+de 2 cm deasupra punctului de inoculare. Se mărunțesc și se suspendă într-o cantitate mică de
+apă distilată sterilă sau de tampon fosfat 50 mM (vezi apendicele 3). Se izolează din suspensie,
+diluând prin însămânțare simplă sau în striuri pe MTNA și YPGA (vezi apendicele 5), se
+incubează timp de 3—5 zile la o temperatură cuprinsă între 21șC și 23șC, apoi se observă
+formarea coloniilor caracteristice de C. m. ssp. sepedonicus.
+Apendice 1
+Laboratoare care practică optimizarea și validarea protocoalelor
+Laborator1)
+
+Agentur für Gesundheit und Ernährungssicherheit
+Departement Gewasbescherming
+Plantetdirektoratet
+Central Science Laboratory
+
+Localitate
+
+Viena și Linz
+Merelbeke
+Lyngby
+York
+
+Țară
+
+Austria
+Belgia
+Danemarca
+Anglia
+
+21
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+Laborator1)
+
+Localitate
+
+Scottish Agricultural Science Agency
+Laboratoire National de La Protection des Végétaux
+Unite de Bactériologie
+Laboratoire National de La Protection des Végétaux
+Station de Quarantaine de la Pomme de Terre
+Biologische Bundesanstalt
+Pflanzenschutzamt Hannover
+State Laboratory
+Plantenziektenkundige Dienst
+Norwegian Crop Research Institute, Plant Protection
+Center
+Direccão-Geral de Proteccão das Culturas
+Nacionalni Institut za Biologijo
+Centro de diagnostico de Aldearrubia
+
+Țară
+
+Edinburgh
+Angers
+
+Scoția
+Franța
+
+Le Rheu
+
+Franța
+
+Kleinmachnow
+Hanover
+Dublin
+Wageningen
+Aas
+
+Germania
+Germania
+Irlanda
+Olanda
+Norvegia
+
+Lisabona
+Ljubljana
+Salamanca
+
+Portugalia
+Slovenia
+Spania
+
+1)
+
+Pentru experții de contact vezi site-ul web la adresa http://forum.europa.eu.int/Public/irc/
+sanco/Home/main.
+Apendice 2
+Prepararea martorilor pozitivi și negativi pentru testele de depistare PCR/IF și FISH aplicate
+tuberculilor de cartof
+Se însămânțează pe un mediu MTNA, timp de 72 de ore, o tulpina virulentă de C. m. ssp.
+sepedonicus îNCPPB 4053 sau PD 406ș, apoi se suspendă în tampon fosfatat 10 mM, astfel
+încât să se obțină o densitate celulară de aproximativ 1-2 x 10 8 UFC per mL. Aceasta
+corespunde, în general, unei suspensii ușor tulburi, care prezintă o densitate optică de 0,20—600 nm.
+Se prelevează conurile de la 200 de tuberculi dintr-o recoltă de cartof alb, cunoscută ca
+fiind lipsită de Clavibacter michiganensis ssp. sepedonicus.
+Se tratează conurile urmând metoda obișnuită și se resuspendă sedimentul în 10 mL.
+Se pipetează 900 μL de sediment resuspendat în 10 microtuburi sterile de 1,5 mL.
+Se însămânțează primul microtub cu 100 μL din suspensia de Clavibacter michiganensis ssp.
+sepedonicus. Se omogenizează prin vortexare.
+Se stabilesc niveluri de contaminare la a zecea parte, urmând diluții în următoarele
+5 microtuburi.
+Cele 6 microtuburi contaminate vor fi utilizate ca martori pozitivi. Cele 4 microtuburi
+necontaminate vor fi utilizate ca martori negativi. Microtuburile se etichetează corespunzator.
+Se prepară alicoți de 100 μL în microtuburi sterile de 1,5 mL, astfel încât să se obțină
+9 repetiții ale fiecărei probe-martor. Se depozitează la temperaturi cuprinse între –16 și –24șC
+până în momentul utilizării.
+Prezența și determinarea bacteriei Clavibacter michiganensis ssp. sepedonicus în probelemartor trebuie confirmate în primul rând printr-un test IF.
+Pentru testul PCR se extrage ADN pe baza probelor-martor pozitive și negative din fiecare
+serie de probe.
+Pentru testele IF și FISH, se efectuează analize pe probele-martor pozitive și negative ale
+fiecărei serii de probe.
+În cazul testelor IF, FISH și PCR, Clavibacter michiganensis ssp. sepedonicus trebuie
+detectat în martorii pozitivi cel puțin 106 și 104 celule/mL și trebuie să lipsească complet în
+martorii negativi.
+Apendice 3
+Tampoane pentru procedurile de testare
+Generalitate: tampoanele sterilizate care nu sunt deschise pot fi depozitate timp de maximum
+un an.
+
+22
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+1. TAMPOANE PENTRU PROCEDURA DE EXTRAGERE
+
+1.1. Tampon de extracție (tampon fosfat 50 mM, pH 7,0)
+Tamponul menționat este utilizat pentru extracția, prin omogenizare sau agitare, a bacteriei
+prezente în țesuturile plantei.
+Na2HPO4 (anhidru)
+KH2PO4
+Apă distilată
+
+4,26 g
+2,72 g
+1,00 L
+
+Se dizolvă ingredientele, se verifică pH-ul și se sterilizează prin autoclavare timp de
+15 minute la 121șC.
+Următoarele componente pot fi utile:
+Obiect
+
+Defloculant*
+Agent antispumant*
+Antioxidant
+Leagă inhibitorii PCR
+
+Fulgi de Lubrol
+Antispumant cu DC silicon
+Pirofosfat tetrasodic
+Polivinilpirolidonă -40.000 (PVP-40)
+
+Cantitate
+(pe l)
+
+0,5 g
+1,0 mL
+1,0 g
+50 g
+
+*
+
+A se utiliza cu metoda de extracție prin omogenizare.
+1.2. Tampon de sedimentare (tampon fosfat 10 mM, pH 7,2)
+Tamponul menționat este utilizat pentru resuspendarea și diluția sedimentelor de conuri de
+cartof concentrate prin centrifugare.
+Na2HPO4.12H2O
+NaH2PO4.2H2O
+Apă distilată
+
+2,7 g
+0,4 g
+1,00 L
+
+Se dizolvă ingredientele, se verifică pH-ul și se sterilizează prin autoclavare timp de
+15 minute la 121șC.
+2. TAMPOANE PENTRU TESTUL IF
+
+2.1. Tampon IF (tampon fosfat salin PBS 10 mM, pH 7,2)
+Tamponul menționat este utilizat pentru diluția anticorpilor.
+Na2HPO4.12H2O
+NaH2PO4.2H2O
+NaCl
+Apă distilată
+
+2,7
+0,4
+8,0
+1,0
+
+g
+g
+g
+l
+
+Se dizolvă ingredientele, se verifică pH-ul și se sterilizează prin autoclavare timp de
+15 minute la 121șC.
+2.2. Tampon IF-Tween
+Tamponul menționat este utilizat pentru spălarea lamelor.
+Se adaugă 0,1% Tween 20 la tamponul IF.
+2.3. Tampon Glicerol fosfat, pH 7,6
+Tamponul menționat este utilizat ca lichid de montare pentru lamele IF, pentru a întări
+fluorescența.
+Na2HPO4.12H2O
+NaH2PO4.2H2O
+Glicerol
+Apă distilată
+
+3,2 g
+0,15 g
+50 mL
+100 mL
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+Soluții suport antidecolorare sunt disponibile în comerț: exemplu, Vectashield® (Vector
+Laboratories) sau Citifluor® (Leica).
+Apendice 4
+Determinarea gradului de contaminare în momentul testelor IF și FISH
+1. Se numără numărul mediu de celule fluorescente caracteristice per câmp (c).
+2. Se calculează celulele fluorescente caracteristice per godeu (C).
+C = c x S/s,
+unde:
+S = suprafața (S) godeului unei lame cu multe godeuri; și
+s = suprafața câmpului obiectivului
+s
+Πi2/4G2K2
+
+= unde: i = coeficientul câmpului (depinde de tipul de ocular și variază de la
+8 la 24)
+K = coeficientul tubului (1 sau 1,25)
+G = mărirea obiectivului (de 100 de ori, de 40 de ori etc.)
+3. Se calculează celulele fluorescente caracteristice per mL de sediment resuspendat (N)
+N = C x 1.000/y x F,
+unde: y = volumul de sediment resuspendat din fiecare godeu
+F = factorul de diluție al sedimentului resuspendat; și
+C = celule fluorescente caracteristice per godeu
+Apendice 5
+
+Medii de izolare și de cultură ale bacteriei C. m. ssp. sepedonicus
+(a) Medii de cultură generale
+Nutrient agar
+Nutrient agar (Difco)
+23,0 g
+Apă distilată
+1,0 L
+Se dizolvă ingredientele și se sterilizează prin autoclavare timp de 15 minute la 121șC.
+Nutrient dextroza agar (NDA)
+Difco Bacto nutrient agar conține 1% D-glucoză (monohidrat). Se sterilizează prin autoclavare
+la 115șC timp de 20 de minute.
+Drojdie peptonă glucoză agar (YPGA)
+Extract de drojdie (Difco)
+5,0 g
+Bacto-peptonă (Difco)
+5,0 g
+D-glucoză (monohidrat)
+10,0 g
+Bacto-Agar (Difco)
+15,0 g
+Apă distilată
+1,0 l
+Se dizolvă ingredientele și se sterilizează prin autoclavare la 121șC timp de 15 minute.
+Mediu de extract de drojdie — săruri minerale (YGM)
+Extract de drojdie bacto (Difco)
+2,0 g
+D-glucoză (monohidrat)
+2,5 g
+K2HPO4
+0,25 g
+KH2PO4
+0,25 g
+MgSO4.7H2O
+0,1 g
+MnSO4.H2O
+0,015 g
+NaCl
+0,05 g
+FeSO4.7H2O
+0,005 g
+Bacto-Agar (Difco)
+18 g
+Apă distilată
+1,0 L
+Se dizolvă ingredientele și se sterilizează, in recipiente de jumătate de litru, prin autoclavare
+timp de 20 de minute la 115șC.
+
+23
+
+24
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+(b) Medii de creștere selective validate
+Mediu MTNA
+Cu excepția unor mențiuni, toate ingredientele provin de la BDH.
+Extract de drojdie (Difco)
+2,0 g
+Manitol
+2,5 g
+K2HPO4
+0,25 g
+KH2PO4
+0,25 g
+NaCl
+0,05 g
+0,1 g
+MgSO4.7H2O
+0,015 g
+MnSO4.H2O
+0,005 g
+FeSO4.7H2O
+Agar (oxoid nr. 1)
+16,0 g
+Apă distilată
+1,0 L
+Se dizolvă ingredientele și se ajustează pH-ul la 7,2. După autoclavare (15 minute la 121șC)
+și o răcire la 50șC se adaugă antibioticele: trimetoprim 0,06 g, acid nalidixic 0,002 g, amfotericină
+B 0,01 g.
+Soluțiile stoc de antibiotice sunt: trimetoprimul (Sigma) și acidul nalidixic (Sigma) (ambele
+5 mg/mL) în metanol 96%; amfotericina B (Sigma) (1 mg/mL) în dimetilsulfoxid. Soluțiile stoc sunt
+sterilizate prin filtrare.
+N O T Ă:
+
+Mediul fără antibiotic se conservă timp de 3 luni. După adăugarea antibioticelor mediul se
+conservă o lună la frigider.
+Mediu NCP-88
+Agar nutritiv (Difco)
+23 g
+Extract de drojdie (Difco)
+2 g
+D-manitol
+5 g
+2 g
+K2HPO4
+0,5 g
+KH2PO4
+MgSO4.7H2O
+0,25 g
+Apă distilată
+1,0 L
+Se dizolvă ingredientele și se ajustează pH-ul la 7,2. Se sterilizează prin autoclavare și se
+răcește la 50șC, se adaugă apoi următoarele antibiotice: sulfat de polimixină B (Sigma) 0,003 g,
+acid nalidixic (Sigma) 0,008 g, cicloheximidă (Sigma) 0,2 g.
+Antibioticele se dizolvă în soluțiile stoc, după cum urmează: acidul nalidixic în NaOH 0,01 M;
+cicloheximida în etanol 50%, sulfatul de polimixină B în apă distilată. Soluțiile stoc sunt sterilizate
+prin filtrare.
+NOTĂ:
+
+Mediul fără antibiotic se conservă timp de trei luni. După adăugarea antibioticelor mediul se
+conservă timp de o lună la frigider.
+Apendice 6
+Protocol și reactivi PCR validați
+NOTĂ:
+
+Testele preliminare trebuie să permită detectarea a cel puțin 103—104 celule de C. m. ssp.
+sepedonicus per mL de extract de probă.
+De asemenea, testele preliminare nu trebuie să indice niciun rezultat fals pozitiv pentru o
+gamă de tulpini bacteriene selecționate.
+1. PROTOCOL PCR MULTIPLEX CU CONTROL PCR INTERN (PASTRIK, 2000)
+
+1.1. Secvență de oligonucleotide a primerilor
+Primer direct PSA-1
+5’ —
+Primer indirect PSA-R
+5’ —
+Primer direct NS-7-F
+5’ —
+Primer indirect NS-8-R
+5’ —
+
+ctc ctt gtg ggg tgg gaa aa — 3’
+tac tga gat gtt tca ctt ccc c — 3’
+gag gca ata aca ggt ctg tga tgc — 3’
+tcc gca ggt tca cct acg ga — 3’
+
+Dimensiunea prevăzută a ampliconului de ADN de Clavibacter michiganensis ssp.
+sepedonicus = 502 bp (în prezența primerului PSA).
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+Dimensiunea prevăzută a ampliconului controlului PCR intern 18S rRNA = 377 bp (în
+prezența primerului NS).
+1.2. Mixul pentru PCR
+Reactiv
+
+Cantitate per reacție
+
+15,725 μL
+2,5 μL
+0,25 μL
+0,125 μL
+0,5 μL
+0,5 μL
+0,1 μL
+0,1 μL
+0,2 μL
+5,0 μL
+25,0 μL
+
+Apă ultrapură sterilă
+10x tampon PCR1 (15 mM MgCl2)
+BSA (fracție V) (10%)
+Amestec d-nTP (20 mM)
+Primer PSA-1 (10 μM)
+Primer PSA-R (10 μM)
+Primer NS-7-F (10 μM)2
+Primer NS-8-R (10 μM)2
+Taq Polimerază (5U/μL)1
+Volumul probei
+Volum total:
+
+Concentrație finală
+
+1 x (1,5 mM MgCl2)
+0,1%
+0,1 mM
+0,2 μM
+0,2 μM
+0,04 μM
+0,04 μM
+1,0 U
+
+1
+
+Metodele au fost validate utilizând Taq polimeraza de la Perkin Elmer (AmpliTaq sau Gold)
+și Gibco BRL.
+2 Concentrațiile primerilor NS-7-F și NS-8-R au fost optimizate pentru extracția ADN-ului din
+tuberculii de cartof, utilizând metoda omogenizării și a purificării ADN-ului după Pastrik (2000);
+vezi pct. 6.1. (a) și 6.2ș. Va fi necesară o nouă optimizare a concentrațiilor de reactivi dacă se
+utilizează extracția prin agitare sau alte metode de extracție a ADN-ului.
+1.3. Condiții ale reacției PCR
+Se execută următorul program:
+1 ciclu de:
+(i)
+3 minute la 95șC: denaturarea ADN;
+10 cicluri de:
+(ii)
+1 minut la 95șC: denaturarea ADN;
+(iii)
+1 minut la 64șC: hibridizare cu primerii;
+(iv)
+1 minut la 72șC: elongarea ADN-ului;
+25 de cicluri de:
+(v)
+30 secunde la 95șC: denaturarea ADN;
+(vi)
+30 secunde la 62șC: hibridizare cu primerii;
+(vii)
+1 minut la 72șC: elongarea ADN-ului;
+1 ciclu de:
+(viii)
+5 minute la 72șC: elongare finală;
+(ix)
+se menține la 4șC.
+NOTĂ:
+
+Acest program a fost optimizat pentru termociclorul MJ Research PTC 200. Poate fi
+necesară modificarea etapelor ciclurilor (ii), (iii), (iv), (v), (vi) și (vii), în cazul utilizării altor modele
+de termociclor.
+1.4. Analiza restricției enzimatice a ampliconului
+Produsele PCR amplificate ale ADN-ului bacteriei Clavibacter michiganensis ssp. sepedonicus
+produc un polimorfism distinct al lungimii fragmentelor de restricție cu enzima Bgl II, după
+incubare la 37șC timp de 30 de minute. Fragmentele de restricție obținute pe baza fragmentului
+specific de C. m. ssp. sepedonicus au o lungime de 282 bp și 220 bp.
+2. PREPARAREA TAMPONULUI DE ÎNCĂRCARE
+
+2.1. Albastru de bromfenol (soluție concentrată 10%)
+Albastru de bromofenol
+5 g
+Apă distilată (bidistilată)
+50 mL
+2.2. Tampon de încărcare
+Glicerol (86%)
+3,5 mL
+Albastru de bromofenol (5,1)
+300 μL
+Apă distilată (bidistilată)
+6,2 mL
+3. 10X TAMPON TRISACETAT EDTA (TAE), pH 8,0
+
+Tampon tris
+Acid acetic glacial
+
+48,4 g
+11,42 mL
+
+25
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+EDTA (sare disodică)
+3,72 g
+Apă distilată
+1,00 L
+Înainte de utilizare se diluează până la 1x.
+Disponibil și în comerț (exemplu Invitrogen sau echivalent).
+Apendice 7
+Reactivi validați pentru testul FISH
+1. Oligosonde
+Sonda CMS-CY3-01 specifică pentru Cms
+5’ — ttg cgg ggc gca cat ctc tgc acg—3’
+Sonda eubacteriană EUB-338-FITC nespecifică 5’ — gct gcc tcc cgt agg agt—3’
+2. SOLUȚIE DE FIXARE
+ATENȚIE! SOLUȚIA DE FIXARE CONȚINE PARAFORMALDEHIDĂ, CARE ESTE TOXICĂ. SE MANIPULEAZĂ CU
+MĂNUȘI ȘI NU SE INHALEAZĂ. SE RECOMANDĂ SĂ SE LUCREZE SUB O NIȘĂ CHIMICĂ.
+
+(i) Se încălzesc 9 mL de apă pură moleculară (de exemplu, apă ultrapură) la aproximativ
+60șC și se adaugă 0,4 g de paraformaldehidă. Paraformaldehida se dizolvă după ce s-au
+adăugat 5 picături de 1N NaOH și se amestecă pe un agitator magnetic.
+(ii) Se ajustează pH-ul la 7,0 adăugându-se 1 mL de tampon fosfatat 0,1 M (PB; pH 7,0) și
+5 picături de 1N HCl. Se verifică pH-ul cu hârtie indicator și se ajustează, în cazul în
+care este necesar, cu HCl sau NaOH.
+ATENȚIE! NU SE UTILIZEAZĂ PH-METRU ÎN SOLUȚII CARE CONȚIN PARAFORMALDEHIDĂ.
+
+(iii) Soluția se filtrează printr-un filtru cu membrană de 0,22 μm, se protejează de praf și se
+păstrează la 4șC până la utilizare.
+(iv) NOTĂ:
+Soluție de fixare alternativă: etanol 96%.
+3. HIBMIX 3X
+
+NaCl
+Tris-HCl
+EDTA (sterilizat prin filtrare și autoclavare)
+Se diluează până la 1X, după caz.
+
+2,7 M
+60 mM (pH 7,4)
+15 mM
+
+4. Soluție de hibridizare
+Hibmix 1X
+Dodecilsulfat de sodiu (SDS)
+0,01%
+Sondă EUB 338
+5 ng/μL
+Sondă CMSCY301
+5 ng/μL
+Se prepară cantitățile de soluție de hibridizare, respectând calculele din tabel. Pentru fiecare
+lamă (care conține două probe diferite în duplicat) sunt necesari 90 μL de soluție de hibridizare.
+Tabel: Cantități sugerate pentru prepararea amestecului de hibridizare
+2 lame
+
+Apă ultrapură sterilă
+Hibmix 3 x
+1% Dodecilsulfat de sodiu
+Sonda EUB 338 (100 ng/μL)
+Sonda CMSCY301 (100 ng/μL)
+Volum total (μL)
+
+50,1
+30,0
+0,9
+4,5
+4,5
+90,0
+
+8 lame
+
+200,4
+120,0
+3,6
+18,0
+18,0
+360,0
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+NOTĂ:
+
+Toate soluțiile care conțin oligosonde sensibile la lumină se depozitează la întuneric și la o
+temperatură de –20șC. În timpul utilizării se protejează de lumina directă a soarelui sau de lumina
+electrică directă.
+5. Tampon fosfat 0,1 M, pH 7,0
+8,52 g
+Na2HPO4
+5,44 g
+KH2PO4
+Apă distilată
+1,00 L
+Se dizolvă ingredientele, se verifică pH-ul și se sterilizează prin autoclavare timp de
+15 minute la 121șC.
+Apendice 8
+Culturi de vinete
+Se seamănă semințe de vinete (Solanum melongena) într-un pământ sterilizat prin
+pasteurizare. Atunci când cotiledoanele sunt complet dezvoltate (10—14 zile), plantulele se repică
+într-un pământ sterilizat prin pasteurizare.
+Vinetele trebuie cultivate în seră în următoarele condiții:
+Durata zilei
+14 ore sau durata naturală a zilei
+Temperatura:
+ziua
+21—24șC
+noaptea
+15șC.
+Soiuri sensibile de vinete:
+îBlack Beauty“;
+îLong Tom“;
+îRima“;
+îBalsas“.
+Furnizor: vezi site-ul web la adresa http://forum.europa.eu.int/Public/irc/sanco/Home/main.
+
+Apendice 9
+Procedura pentru reacția Gram (modificarea lui Hucker) (Doetsch, 1981)
+Soluție Cristal violet
+Se dizolvă 2 g cristal violet în 20 mL etanol 95%.
+Se dizolvă 0,8 g oxalat de amoniu în 80 mL apă distilată.
+Se amestecă cele două soluții.
+Soluția iod Lugol
+Iod
+1 g
+Iodură de potasiu
+2 g
+Apă distilată
+300 mL
+Substanțele solide se zdrobesc împreună cu ajutorul unui pistil și al unui mojar. Se adaugă
+apă și se amestecă într-un recipient închis pentru a se dizolva.
+Soluție colorantă de safranină
+Soluție stoc:
+Safranină O
+2,5 g
+Etanol 95%
+100 mL
+Se amestecă și se depozitează.
+Se diluează în raport 1:10 pentru a obține o soluție de lucru.
+Procedura de colorare
+1. Se prepară frotiurile, se usucă la aer și se fixează la căldură.
+2. Se scufundă lama în soluția de cristal violet timp de un minut.
+3. Se spală rapid cu apă currentă.
+4. Se scufundă în soluția iod Lugol timp de un minut.
+5. Se spală cu apă de robinet și se usucă cu hârtia sugativă.
+6. Se decolorează adăugând picătură cu picătură etanol 95%, până când nu își mai
+modifică culoarea, sau scufundând în etanol timp de 30 de secunde și agitând ușor.
+
+27
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+7. Se spală cu
+8. Se scufundă
+9. Se spală cu
+Bacteriile Gram
+roz-roșie.
+
+apă de robinet și se usucă cu hârtia sugativă.
+în soluția de safranină timp de 10 secunde.
+apă de robinet și se usucă cu hârtia sugativă.
+pozitive au o culoare violet-albastră; bacteriile Gram negative au o culoare
+
+ANEXA Nr.II
+
+1. Pentru fiecare apariție suspectată pentru care s-a identificat un rezultat pozitiv prin
+testul/testele de depistare conform metodelor descrise în anexa nr. I și confirmată sau infirmată
+prin aplicarea completă a metodelor menționate trebuie să se păstreze și să se conserve adecvat:
+— toții tuberculii prelevați și, de câte ori este posibil, toate plantele prelevate;
+— orice extract rămas și materialul pregătit suplimentar pentru testul/testele de depistare, de
+exemplu lamele de imunofluorescență; și
+— toată documentația relevantă,
+până la finalizarea metodei menționate.
+Păstrarea tuberculilor permite testarea soiului, efectuată atunci când este cazul.
+2. În cazul confirmării organismului, trebuie să se păstreze și să se conserve în condiții
+corespunzătoare:
+— materialul specificat la alin. (1); și
+— o mostră din materialul de vânătă infectată, inoculată cu un tubercul sau extract de
+plantă; și
+— cultura izolată a organismului,
+timp de minimum o lună de la procedura de notificare conformă art. 5 alin. (2).
+ANEXA Nr.III
+
+1. Elementele avute în vedere pentru determinarea gradului contaminării probabile conform
+art. 5 alin. (1) lit. b) includ:
+— tuberculii sau plantele cultivate într-un loc de producție declarate ca fiind contaminate
+conform art. 5 alin. (1) lit. a);
+— locul/locurile de producție care au o anumită legătură cu producerea tuberculilor sau
+plantelor declarate ca fiind contaminate conform art. 5 alin. (1) lit. a), inclusiv acelea care
+utilizează echipamente și utilaje de producție în mod direct sau printr-un contractor comun;
+— tuberculii sau plantele produse în locul/locurile de producție menționat(e) la liniuța
+anterioară sau prezente în asemenea loc/locuri de producție, în perioada în care tuberculii sau
+plantele declarate ca fiind contaminate conform art. 5 alin. (1) lit. a) au fost prezente în locurile
+de producție menționate la prima liniuță;
+— locurile unde sunt manipulați cartofii care provin din locurile de producție menționate la
+liniuțele anterioare;
+— orice utilaj, vehicul, container, depozit sau părți din acestea și oricare alte obiecte,
+inclusiv ambalajul, care au venit în contact cu tuberculii sau plantele declarate ca fiind
+contaminate conform art. 5 alin. (1) lit. a);
+— orice tuberculi sau plante depozitate în sau în contact cu oricare dintre elementele ori
+obiectele menționate la liniuța anterioară, înainte de curățarea și dezinfectarea acestora;
+— acei tuberculi care, ca rezultat al testelor menționate la art. 7, au o legătură clonală cu
+tuberculii sau plantele declarate ca fiind contaminate conform art. 5 alin. (1) lit. a) și care, deși
+rezultatele testelor referitoare la prezența organismului au fost negative, sunt considerați probabil
+contaminați prin intermediul unei legături clonale. Testarea soiului poate fi efectuată pentru a
+verifica identitatea tuberculilor sau a plantelor contaminate și legătura clonală; și
+— locul/locurile de producție a tuberculilor sau a plantelor menționate la liniuța anterioară.
+2. Elementele avute în vedere pentru determinarea unei posibile răspândiri conform art. 5
+alin. (1) lit. c) includ:
+— apropierea de alte locuri de producție unde se cultivă cartofi sau alte plante-gazdă;
+— producția și utilizarea comună a stocurilor de cartof de sămânță.
+
+29
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+3. Notificarea menționată la art. 5 alin. (2) lit. b) cuprinde:
+a) imediat după confirmarea prezenței organismului prin teste de laborator, efectuate conform
+metodelor descrise în anexa nr. I, cel puțin:
+— denumirea soiului lotului de cartofi;
+— tipul (consum, sămânță etc.) și, dacă este cazul, categoria de cartofi de sămânță;
+b) atunci când există un risc de contaminare a cartofilor proveniți dintr-unul sau mai multe
+state membre ori care au ca destinație unul sau mai multe state membre, statul membru în care
+a fost confirmată apariția organismului comunică imediat statului membru sau statelor membre în
+cauză informațiile necesare conform art. 6, cum ar fi:
+— denumirea soiului lotului de cartof;
+— numele și adresa expeditorului și destinatarului;
+— data livrării lotului de cartof;
+— mărimea lotului de cartof livrat;
+— atunci când este cazul, o copie a pașaportului fitosanitar sau cel puțin numărul
+pașaportului fitosanitar, precum și numărul de înregistrare al producătorului sau al comerciantului
+și o copie a bonului de livrare. Comisiei i se notifică imediat aceste informații;
+c) după finalizarea tuturor investigațiilor, pentru fiecare caz:
+— data la care s-a confirmat contaminarea;
+— o scurtă descriere a investigațiilor realizate pentru identificarea sursei și posibilei
+răspândiri a contaminării, precizând intensitatea prelevării;
+— informații privind sursa/sursele identificate sau presupuse a/ale contaminării;
+— detalii ale întinderii contaminării declarate, inclusiv numărul de locuri de producție și
+numărul de loturi, cu indicarea soiului și, în cazul cartofului de sămânță, a categoriei;
+— detalii ale zonei delimitate, inclusiv numărul de locuri de producție nedeclarate ca fiind
+contaminate, dar incluse în zonă;
+— toate celelalte informații pe care Comisia le solicită, referitoare la focarul sau focarele
+confirmate.
+
+ANEXA Nr. IV
+
+1. Măsurile luate sub control oficial, conform art. 8 alin. (1), sunt:
+— utilizarea în hrana animalelor după un tratament termic, astfel încât să nu existe niciun
+risc de supraviețuire a organismului; sau
+— eliminarea într-un loc autorizat de distrugere a deșeurilor în mod oficial, în care nu există
+niciun risc identificabil de propagare a organismului în mediu, de exemplu, prin infiltrare în terenuri
+agricole; sau
+— incinerarea; sau
+— transformarea industrială prin livrare directă și imediată la o fabrică de procesare a
+plantelor care dispune de instalații de eliminare a deșeurilor, autorizate oficial, despre care s-a
+stabilit că nu prezintă niciun risc identificabil de răspândire a organismului, precum și de un
+sistem care permite curățarea și dezinfectarea cel puțin a vehiculelor care părăsesc fabrica; sau
+— alte măsuri, în situația în care s-a stabilit că nu există niciun risc identificabil de
+răspândire a organismului; aceste măsuri și justificarea lor trebuie sa fie notificate Comisiei și
+celorlalte state membre.
+Toate deșeurile asociate și care rezultă din operațiile menționate anterior sunt eliminate prin
+metode aprobate oficial, în conformitate cu anexa nr. V la prezentul ordin.
+2. Utilizarea sau eliminarea corespunzătoare a tuberculilor ori a plantelor declarate ca fiind
+probabil contaminate conform art. 5 alin. (1) lit. b) și menționate la art. 8 alin. (2), sub controlul
+organismelor oficiale responsabile ale statelor membre în cauză, prin comunicări corespunzătoare
+între organismele oficiale responsabile pentru a asigura controlul permanent și aprobarea de către
+organismele oficiale responsabile ale statului membru în care cartofii urmează să fie ambalați sau
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+procesați, cu privire la instalațiile de eliminare a deșeurilor menționate la prima și a doua liniuță,
+includ:
+— utilizarea acestora drept cartofi destinați consumului, în ambalaje prevăzute pentru livrare
+și utilizare directă care nu necesită reambalare, într-un loc care dispune de instalații
+corespunzătoare de eliminare a deșeurilor. Cartofii destinați plantării pot fi manipulați în același loc
+numai dacă sunt manipulați separat sau după curățarea și dezinfectarea acestuia; sau
+— utilizarea acestora drept cartofi de consum destinați prelucrării industriale după livrarea
+directă și imediată la o fabrică de prelucrare care dispune de instalații corespunzătoare de
+eliminare a deșeurilor, precum și de un sistem care permite curățarea și dezinfectarea cel puțin a
+vehiculelor care părăsesc fabrica; sau
+— un alt mod de utilizare sau eliminare, în măsura în care s-a stabilit că nu există niciun
+risc identificabil de răspândire a organismului și a fost supus aprobării de către organismele
+oficiale responsabile.
+3. Metodele corespunzătoare de curățare și de dezinfectare a obiectelor menționate la art. 8
+alin. (3) sunt cele prin care s-a stabilit că nu există niciun risc identificabil de răspândire a
+organismului și sunt aplicate sub control oficial.
+4. Măsurile care trebuie puse în aplicare în zona delimitată, stabilită conform art. 5 alin. (1)
+lit. c), menționate la art. 8 alin. (4) includ:
+4.1. în locurile de producție declarate ca fiind contaminate conform art. 5 alin. (1) lit. a):
+a) pe un teren declarat contaminat conform art. 5 alin. (1) lit. a):
+(i) pe durata a minimum 3 ani care urmează anului contaminării declarate:
+— se iau măsuri de eliminare a plantelor de cartof spontane și a celorlalte plantegazdă spontane ale organismului; și
+— nu se plantează și nu se seamană niciun tubercul, plantă sau sămânță de cartof,
+nicio altă plantă-gazdă spontană a organismului sau nicio cultură pentru care
+există un risc identificabil de răspândire a organismului;
+— în primul sezon de cultivare a cartofilor, care urmează după perioada specificată
+la liniuța anterioară și cu condiția ca terenul să fi fost găsit liber de plante
+spontane de cartof și de alte plante-gazde spontane ale organismului, în timpul
+inspecțiilor oficiale, timp de minimum doi ani consecutivi înainte de plantare, va fi
+autorizată numai producția de cartofi de consum și tuberculii recoltați trebuie să fie
+testați conform procedurii descrise în anexa nr. I;
+— în sezonul de cultură a cartofilor, care urmează celui menționat la liniuța
+anterioară și după un ciclu adecvat de rotație, care trebuie să fie de minimum
+2 ani, se autorizează plantarea cartofilor de sămânță pentru producția de cartofi
+de sămânță sau de consum și se efectuează supravegheri oficiale, conform art. 2
+alin. (1); sau
+(ii) pe durata a 4 ani de cultură care urmează anului contaminării declarate:
+— se iau măsuri de eliminare a plantelor spontane de cartof și a celorlalte plantegazde ale organismului prezente spontan; și
+— terenul trebuie să fie lăsat și menținut fie necultivat, fie ca pășune permanentă și,
+în acest caz, este frecvent cosit scurt sau folosit la pășunat intensiv;
+— în primul sezon de cultivare a cartofilor, care urmează după perioada specificată
+la liniuța anterioară și cu condiția ca terenul să fi fost găsit liber de plante
+spontane de cartof și de alte plante-gazde spontane ale organismului, în timpul
+inspecțiilor oficiale, timp de minimum 2 ani consecutivi înainte de plantare, se va
+autoriza producția de cartofi de sămânță sau de consum și tuberculii recoltați vor
+fi testați conform procedurii descrise în anexa nr. I;
+b) în toate celelalte terenuri din locul de producție contaminat și cu condiția ca organismele
+oficiale responsabile să dobândească certitudinea că riscul reprezentat de plantele spontane de
+cartof și de alte plante-gazdă spontane ale organismului a fost eliminat:
+— în timpul anului de cultură care urmează anului contaminării declarate fie nu se plantează
+și nu se seamănă niciun tubercul, plantă sau sămânță de cartof sau nicio altă plantă- gazdă
+spontană a organismului; sau
+
+31
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+— sămânța de cartof certificată poate fi plantată numai pentru producția de cartofi de
+consum;
+— în timpul celui de-al doilea an de cultură care urmează anului contaminării declarate,
+numai sămânța certificată sau cartofii de sămânță testați oficial pentru absența putregaiului inelar
+și cultivați sub control oficial în locurile de producție, altele decât cele menționate la pct. 4.1, vor
+fi plantați pentru producția de cartofi de sămânță sau de consum;
+— cel puțin în timpul celui de-al treilea an de cultură care urmează anului contaminării
+declarate, numai cartofii de sămânță certificați sau cartofii de sămânță cultivați sub control oficial
+din cartofi de sămânță certificați vor fi plantați pentru producția de cartofi de sămânță sau de
+consum;
+— în timpul fiecăruia dintre anii de cultură menționați la liniuțele anterioare se iau măsuri de
+eliminare a plantelor spontane de cartof, precum și a altor plante-gazdă spontane ale organismului
+și în fiecare câmp cu cartofi se efectuează teste oficiale asupra cartofilor recoltați, conform
+procedurii descrise în anexa nr. I;
+c) imediat după declararea contaminării conform art. 5 alin. (1) lit. a) și după primul an de
+cultură care urmează, toate utilajele și toate instalațiile de depozitare de la locul de producție
+implicate în producția de cartofi vor fi curățate și dezinfectate corespunzător, folosind metode
+corespunzătoare, specificate la pct. 3;
+d) într-o unitate de producție în cultură protejată unde este posibilă înlocuirea completă a
+mediului de cultură:
+— nu se plantează și nu se seamănă niciun tubercul, nicio plantă sau sămânță, decât în
+cazul în care unitatea de producție a fost supusă sub control oficial unor măsuri de eliminare a
+organismului și de îndepărtare a tuturor plantelor-gazdă, inclusiv, cel puțin, înlocuirea completă a
+mediului de cultură, precum și curățarea și dezinfectarea unității de producție și a tuturor
+echipamentelor, și în cazul în care unitățile fitosanitare au autorizat ulterior unitatea pentru
+producția de cartofi; și
+— producția de cartofi va fi obținută din cartofi de sămânță certificați sau din minituberculi
+ori microplante provenite din surse testate;
+4.2. în interiorul zonei delimitate și fără a prejudicia măsurile enumerate la pct. 4.1 se aplică
+următoarele măsuri:
+a) imediat după declararea contaminării toate mașinile și instalațiile de depozitare situate în
+astfel de locuri de producție trebuie să fie curățate și dezinfectate corespunzător, în conformitate
+cu metodele corespunzătoare menționate la pct. 3;
+b) imediat după declararea contaminării și timp de cel puțin 3 sezoane de cultură:
+— se asigură supravegherea de către unitățile fitosanitare a spațiilor în care se cultivă,
+depozitează sau se manipulează tuberculi de cartofi, precum și a spațiilor în care, pe bază de
+contract, funcționează echipamente destinate producției de cartofi;
+— se impune ca în zona respectivă să fie plantată doar sămânță certificată sau sămânță
+cultivată sub control oficial, pentru toate culturile de cartofi, și testarea cartofilor de sămânță
+recoltați din locurile de producție declarate ca fiind probabil contaminate conform art. 5 alin. (1)
+lit. b);
+— se impune, pentru toate spațiile din cadrul zonei, manipularea separată a stocurilor din
+recolta de cartofi de sămânță față de cele destinate consumului sau punerea în aplicare a unui
+sistem de curățare și dezinfectare între manipularea stocurilor de cartofi de sămânță și a celor de
+consum;
+— se efectuează inspecții oficiale, conform art. 2 alin. (1);
+c) se stabilește, atunci când este cazul, un program de înlocuire a tuturor stocurilor de
+cartofi de sămânță în decursul unei perioade corespunzătoare.
+
+ANEXA Nr. V
+
+Pentru a preveni orice risc identificabil de răspândire a organismului, metodele de eliminare
+a deșeurilor, aprobate în mod oficial și prevăzute în anexa nr. IV pct 1, respectă următoarele
+dispoziții:
+(i) deșeurile de cartof (inclusiv cartofii eliminați și cojile) și orice alt deșeu solid asociat
+cartofilor (inclusiv pământ, pietre și alte resturi) vor fi eliminate:
+
+32
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 417 bis/22.VI.2007
+— într-un loc autorizat de distrugere a deșeurilor, în care nu există niciun risc identificabil de
+propagare a organismului în mediul înconjurător, de exemplu, prin infiltrare în terenurile agricole.
+Deșeurile sunt transportate direct la locul respectiv, în condiții de izolare care previn orice risc de
+pierdere; sau
+— prin incinerare; sau
+— prin alte măsuri, în situația în care s-a stabilit că măsurile respective nu prezintă niciun
+risc identificabil de răspândire a organismului. Măsurile stabilite vor fi notificate Comisiei și
+celorlalte state-membre;
+(ii) deșeurile lichide: înainte de eliminare, deșeurile lichide ce conțin particule solide în
+suspensie trebuie să fie supuse unui procedeu de filtrare sau de sedimentare pentru
+a le îndepărta. Aceste particule solide vor fi eliminate conform pct. (i).
+Apoi, deșeurile lichide vor fi:
+— complet încălzite la o temperatură de 60șC timp de cel puțin 30 de minute înainte de a
+fi eliminate; sau
+— eliminate într-un alt mod, cu aprobare oficială și sub control oficial, astfel încât să nu
+existe niciun risc identificabil ca deșeurile să intre în contact cu terenurile agricole.
+Detaliile vor fi notificate Comisiei și celorlalte state membre.
+Diferitele proceduri descrise în prezenta anexă se aplică în egală măsură și deșeurilor
+asociate cu manipularea, eliminarea și tratarea loturilor contaminate.
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+îMonitorul Oficial“ R.A., Str. Parcului nr. 65, sectorul 1, București; C.I.F. RO427282,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala îUnirea“ București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 318.51.29/150, fax 318.51.15, E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 410.47.30, fax 410.77.36 și 410.47.23
+Tiparul: îMonitorul Oficial“ R.A.
+Monitorul Oficial al României, Partea I, nr. 417 bis/22.VI.2007 conține 32 de pagini.
+
+Prețul: 6,40 lei
+
+Acest număr al Monitorului Oficial al României a fost tipărit în afara abonamentului.
+
+&JUYDGY|204249]
+ISSN 1453—4495
+
+

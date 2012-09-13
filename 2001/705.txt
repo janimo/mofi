@@ -1,0 +1,1492 @@
+PARTEA
+
+Anul XIII Ñ Nr. 705
+
+I
+
+Marți, 6 noiembrie 2001
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+HOTÃRÂRI ALE GUVERNULUI ROMÂNIEI
+
+1.007. Ñ Hotãrâre pentru aprobarea Strategiei Guvernului
+privind informatizarea administrației publice ............
+
+HOTÃRÂRI
+
+ALE
+
+GUVERNULUI
+
+1Ð16
+
+ROMÂNIEI
+
+GUVERNUL ROMÂNIEI
+
+HOTÃRÂRE
+pentru aprobarea Strategiei Guvernului privind informatizarea administrației publice
+În temeiul prevederilor art. 107 din Constituția României și ale art. 26 din Legea nr. 90/2001 privind organizarea
+și funcționarea Guvernului României și a ministerelor,
+Guvernul României adoptã prezenta hotãrâre.
+Art. 1. Ñ Se aprobã Strategia Guvernului privind informatizarea administrației publice, prevãzutã în anexa care
+face parte integrantã din prezenta hotãrâre.
+Art. 2. Ñ Finanțarea acțiunilor prevãzute în strategia
+menționatã la art. 1 se va efectua în limita fondurilor ce
+
+vor fi aprobate anual, prin legea bugetului de stat, cu
+aceastã destinație.
+Art. 3. Ñ Strategia prevãzutã la art. 1 se actualizeazã
+anual, prin hotãrâre a Guvernului, la propunerea
+Ministerului Administrației Publice.
+
+PRIM-MINISTRU
+
+ADRIAN NÃSTASE
+Contrasemneazã:
+Ministrul administrației publice,
+Octav Cozmâncã
+Ministrul pentru coordonarea
+Secretariatului General al Guvernului,
+Petru Șerban Mihãilescu
+Ministrul comunicațiilor și tehnologiei informației,
+Dan Nica
+București, 4 octombrie 2001.
+Nr. 1.007.
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 705/6.XI.2001
+ANEXÃ
+
+STRATEGIA GUVERNULUI
+privind informatizarea administrației publice
+Scurtã prezentare
+În ultimii ani un proces de reformã radical a modificat profund cadrul general de referințã pentru activitãțile guvernamentale, generând o schimbare semnificativã.
+Acest impetuos proces de înnoire cere acțiuni ferme de direcționare și de conducere. Problemele nu constau în
+numãrul inițiativelor avute, care sunt impuse de prevederile legislative, de reglementãrile specifice și de planul lor de aplicare, ci într-o lipsã generalizatã de integrare, de uniformizare a scopului urmãrit, de o viziune unitarã și, mai ales, de o
+utilizare inadecvatã a oportunitãților oferite de tehnologia informației și comunicațiilor.
+Reformele trebuie sã demareze apelul la schimbare în structura organizatoricã a administrației publice. Dintr-o
+administrație dirijatã, descendentã, segmentatã dorim sã devinã o administrație orizontalã, de deservire, cu un schimb
+intensiv de informații atât între toate pãrțile sale componente, cât și cu exteriorul. O schimbare de acest fel corespunde
+transformãrii organizatorice pe care noile tehnologii o provoacã și o permit în egalã mãsurã.
+Din acest motiv utilizarea corespunzãtoare, atât intensiv, cât și extensiv, a noilor tehnologii informaționale este
+esențialã pentru implementarea reformei guvernamentale.
+Acțiunile necesare pentru atingerea acestor obiective trebuie sã devinã operaționale imediat, sã fie implementate
+urgent și sã își dovedeascã eficiența prin servicii corespunzãtoare acordate cetãțenilor și agenților economici, în sensul de
+a rãspunde satisfãcãtor cerințelor sociale crescânde, atât ca exigențã, cât și ca rãspândire, în ceea ce privește schimbarea și modernizarea.
+Aceste acțiuni nu pot fi lansate izolat, ci trebuie sã constituie un set de inițiative organice și coerente care sã
+cuprindã infrastructura, instrumentele de lucru, sistemele de distribuție, conținutul, managementul schimbãrii și modificãrile
+legislative.
+Acțiunile și instrumentele necesare implementãrii Planului de acțiune constituie parte integrantã a politicii de creare
+a societãții informaționale pe care Guvernul o promoveazã și aceasta nu numai datoritã beneficiilor aduse oamenilor
+printr-o calitate sporitã, eficiențã crescutã a serviciilor publice, ci și datoritã rolului determinant pe care înnoirea guvernãrii
+îl poate juca în rãspândirea la scarã socialã, în cele mai diverse categorii ale populației, culturii, metodelor și experienței
+noii economii digitale.
+1. Introducere
+Strategia propusã nu se referã la algoritmul general de
+dezvoltare a societãții informaționale, ci, în mod exclusiv, la
+acele aspecte, asociate generic în termenul IAP (sau
+”e-Administrație,,), care se referã la utilizarea metodelor
+specifice tehnologiei informaționale în modernizarea
+administrației noastre și care cuprinde urmãtoarele categorii
+de acțiune:
+a) informatizarea, desemnatã pentru creșterea eficienței
+operaționale în cadrul organismelor administrației publice
+centrale și locale;
+b) informatizarea serviciilor având ca beneficiari cetãțenii
+și agenții economici, fapt care implicã adesea integrarea
+serviciilor prestate de administrația publicã centralã și localã;
+c) asigurarea accesului la informații prin tehnologii
+informaționale pentru utilizatorii finali ai serviciilor administrației publice centrale.
+Pânã în prezent computerizarea aplicatã de organismele
+administrației publice centrale a fost cu precãdere de primul tip și, în general, a funcționat sub o responsabilitate
+sectorialã, la nivel de departament/agenție/minister sau doar
+la nivelul administrației publice centrale.
+Strategia Guvernului privind IAP, propusã, accentueazã
+acțiunile de tipul celor prevãzute la lit. b) și c), acestea
+având un impact și o relevanțã directe pentru utilizatori;
+
+propune, de asemenea, implicarea tuturor administrațiilor
+publice centrale și locale și a tuturor instituțiilor publice:
+județe, municipii, orașe, școli, spitale, unitãți locale de
+sãnãtate publicã, oficii de muncã, camere de comerț și
+altele, practic orice agenție sau organizație care exercitã
+funcții de furnizare de servicii publice cãtre populație sau
+agenți economici.
+Pentru a realiza un program integrat de IAP trebuie trecut rapid la o nouã fazã, în care toate administrațiile
+publice centrale și locale sunt autorizate și au capacitatea
+de a se angaja în cooperarea informaționalã de pe poziții
+de egalitate.
+Aceastã nouã fazã va avea un protagonist situat ierarhic
+deasupra administrației publice locale, care, într-un sistem
+descentralizat, va exercita din ce în ce mai mult un rol
+operațional, de front-office (la ghișeu), având rol de
+interfațã în serviciile publice, în timp ce organismele administrației publice centrale sunt destinate sã acționeze ca
+back-office (în spatele ghișeului).
+Alegerea autoritãților administrației publice locale ca prim
+factor în procesul de intermediere dintre cetãțeni, agenți
+economici și administrația publicã centralã este o opțiune
+exclusiv politicã. Proiectarea arhitectonicã corectã a unui
+sistem informațional la nivel național nu va exclude posibilitatea ca și alte entitãți, care nu fac parte din administrație,
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 705/6.XI.2001
+sã poatã juca un rol esențial de intermediere, cu eficiențã
+sporitã.
+
+3
+
+Elaborarea Strategiei Guvernului privind IAP trebuie sã
+decurgã din aceastã viziune. Implementarea lui va necesita
+
+Fiecare autoritate a administrației publice centrale sau
+locale va fi astfel chematã sã elaboreze planuri de acțiune
+care, împreunã, trebuie sã formeze un plan de modernizare generalã a administrației publice centrale, învingând
+astfel viziunea sectorialã rezumatã la exercitarea sarcinilor
+instituționale proprii și la furnizarea de servicii proprii.
+
+însã existența unor precondiții, dintre care cele mai impor-
+
+Aceste acțiuni vor fi coordonate și finanțate ca parte a
+aceluiași program și conduse în spiritul unui profund respect pentru autonomia localã, dar cu angajarea tuturor
+unitãților administrative locale pentru îndeplinirea unor
+obiective comune, utilizând instrumente corespunzãtoare de
+modernizare atât operațional, cât și organizațional.
+
+ționale ale altor unitãți ale administrației publice centrale.
+
+2. Conceptul de informatizare a administrației publice
+(IAP)
+
+tante sunt:
+¥ Toate organismele trebuie sã fie echipate cu un sistem informațional desemnat nu doar sã automatizeze
+funcțiile și procedurile interne și serviciile cãtre utilizatori, ci
+și furnizarea de servicii direct de la sistemele informa¥ O rețea de utilizatori echivalenți trebuie sã interconecteze sistemele operaționale ale tuturor unitãților administrației publice centrale, fãrã nici o ierarhie care sã reflecte
+o suprastructurã instituționalã sau organizatoricã. Limitãrile
+sau constrângerile interacțiunii dintre sisteme trebuie sã fie
+generate exclusiv de natura serviciului solicitat.
+¥ Toate administrațiile care activeazã în spatele
+ghișeului (back-office), cum ar fi cele care, din motive de
+
+Toate proiectele inovatoare de anvergurã trebuie sã fie
+susținute de o viziune clarã care sã specifice obiectivele
+generale ce trebuie atinse. Strategia Guvernului propusã
+cetãțenilor și care poate fi realizatã datoritã posibilitãților
+actuale ale tehnologiei informaționale poate fi rezumatã în
+cele ce urmeazã, astfel:
+
+statut instituțional, dețin arhive care conțin informații nece-
+
+¥ Cetãțenii pot beneficia de orice servicii publice la care
+au dreptul printr-o cerere adresatã oricãrui birou administrativ autorizat sã exercite serviciile respective, indiferent de
+domiciliu sau de competența judiciarã teritorialã.
+
+servicii fãrã a cere cetãțenilor informații pe care adminis-
+
+¥ Când solicitã un serviciu, în afara actelor personale de
+identitate, cetãțeanul nu trebuie sã furnizeze alte informații
+personale care sunt deja în baza de date a oricãrei administrații publice. O datã ce respectivul cetãțean a fost identificat, sistemul informațional al ghișeului trebuie sã fie
+capabil sã asigure, direct de la orice agenție sau departament care le deține, toate informațiile necesare pentru
+autorizarea exercitãrii serviciilor solicitate.
+¥ Cetãțenii nu trebuie sã știe cum se organizeazã statul
+pentru acordarea serviciilor sau care este departamentul la
+care solicitã aceasta, ci pot solicita un serviciu exclusiv pe
+baza propriilor necesitãți și fãrã sã știe cu ce se ocupã fiecare organism.
+¥ Cetãțenii trebuie sã poatã sesiza administrația o singurã datã, la momentul producerii evenimentului, despre
+orice schimbare intervenitã în viața lor sau Ñ în mãsura în
+care poate fi relevantã Ñ despre viața unor terțe persoane. Aceastã sesizare va produce automat efecte corespunzãtoare. Administrația va pãstra pentru fiecare cetãțean
+un fișier separat, permițându-i acestuia sã transmitã schimbarea intervenitã cãtre toate organismele interesate și sã
+activeze serviciile corespunzãtoare.
+
+sare furnizãrii atât cãtre propriile servicii, cât și pentru alte
+unitãți ale administrației publice centrale, vor permite accesul gratuit și permanent, la propriile servicii, al tuturor
+unitãților administrative care activeazã ca interfațã (frontoffice), permițând astfel acestora din urmã sã furnizeze
+trația deja le deține.
+¥ Administrațiile de interfațã trebuie sã îndeplineascã
+integrarea serviciilor administrațiilor din spatele ghișeului în
+scopul de a furniza servicii complete conform nevoilor
+cetãțenilor și nu conform unor aranjamente organizaționale
+ale unitãților furnizoare de servicii.
+¥ Identificarea (autentificarea identitãții) persoanei care
+solicitã un serviciu (persoanã fizicã sau juridicã) și verificarea autorizãrilor necesare trebuie sã fie efectuate conform
+unei proceduri unitare pe întreg teritoriul țãrii, utilizând mijloace de identificare independente de tipul serviciului solicitat, cu scopul de a asigura accesibilitatea tuturor serviciilor
+la orice ghișeu din țarã. În acel moment cartea electronicã
+de identitate (I.D. card) va fi instrumentul de lucru preferat
+pentru accesul la diverse servicii publice.
+Strategia Guvernului constã într-o serie de acțiuni proiectate, coordonate și direcționate cãtre atingerea acestor
+obiective. Strategia nu se limiteazã la proiectarea unor sisteme
+
+informaționale și de telecomunicații, ci, în același
+
+timp, solicitã perfectarea cadrului legal care sã facã asemenea acțiuni posibile și, mai ales, crearea unor structuri
+organizaționale suplimentare corespunzãtoare, atât pentru
+elaborarea strategiei, cât și pentru implementarea proiectelor, care sã cuprindã un mare numãr de unitãți ale
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 705/6.XI.2001
+
+administrației publice centrale ce vor purta în egalã mãsurã
+responsabilitatea asupra rezultatelor.
+Acest raport propune o serie de inițiative compatibile cu
+un plan de acțiune pe termen scurt, de la 10 la 12 luni,
+cum ar fi:
+¥ indicarea instrumentelor organizatorice și operaționale
+ce trebuie pregãtite și atribuțiile acestora;
+¥ completarea infrastructurii preliminare necesare unui
+plan de acțiune pe termen mediu sau lung;
+¥ o scurtã descriere a câtorva proiecte ce pot fi finalizate în perioada propusã, având asigurate instrumentele
+operaționale și de coordonare.
+Planul de acțiune pe termen scurt se concentreazã pe
+proiecte la care participã unele entitãți ale administrației
+publice centrale și administrației publice locale și pentru
+care Cabinetul primului-ministru trebuie sã asigure suportul
+de promovare, orientare și coordonare.
+Planul suplimenteazã și nu înlocuiește programul de
+introducere a tehnicii de calcul pe care fiecare minister și
+l-a propus și îl realizeazã în mod independent; acesta va
+conduce, în special, la orientarea lor cãtre obiectivele sinergetice și cãtre asigurarea unor servicii complete în strânsã
+colaborare cu alte organisme ale administrației publice
+centrale.
+Conform obiectivelor impuse de Uniunea Europeanã
+proiectele pe termen scurt sunt orientate cu precãdere
+cãtre accesul permanent la informațiile deținute de administrația publicã centralã, dar, mai ales, la propriile servicii și
+la colaborarea cu acestea, prin crearea unui set de
+portaluri.
+3. Instrumente organizatorice și operaționale
+Modernizarea administrației publice centrale, pe baza
+tehnologiilor informaționale actuale, implicã atât o serie de
+acțiuni administrative, cât și schițarea unei strategii, crearea infrastructurii tehnologice care sã permitã aplicarea lor,
+și identificarea instrumentelor organizatorice și operaționale
+necesare atingerii obiectivelor propuse.
+Furnizarea de servicii complete cãtre unele unitãți ale
+administrației publice centrale diferite implicã îndeplinirea
+interoperabilitãții totale a sistemelor informaționale centrale
+cu cele ale administrațiilor publice locale, care sunt desemnate din ce în ce mai mult sã asigure coordonarea directã
+a serviciilor furnizate cãtre cetãțeni sau agenți economici,
+devenind astfel interfața administrației publice centrale.
+Elaborarea și implementarea Strategiei Guvernului privind IAP, respectiv a planului de acțiune, necesitã acțiuni
+organizatorice care sã garanteze fezabilitatea proiectelor. În
+mod special va fi necesarã crearea unei autoritãți pentru
+
+activitãți de tehnologie informaționalã în administrația
+publicã, care va funcționa în cadrul și în subordinea
+Ministerului Administrației Publice și în coordonarea tehnicã a Ministerului Comunicațiilor și Tehnologiei Informației
+și a Ministerului Administrației Publice, având în structura
+proprie douã departamente principale:
+¥ o unitate de elaborare a strategiei de tehnologie
+informaționalã pentru administrația publicã centralã;
+¥ o unitate de management a programului.
+3.1. Unitatea de elaborare a strategiei
+
+Ministerul Administrației Publice va crea o unitate permanentã pentru aplicarea Strategiei Guvernului privind IAP.
+Sarcina acestei unitãți, aflatã în subordinea Ministerului
+Administrației Publice și în coordonarea Ministerului
+Administrației Publice și a Ministerului Comunicațiilor și
+Tehnologiei Informației, va consta în formularea viziunii de
+ansamblu și în elaborarea strategiei privind IAP în
+România, în special cu referire la interoperabilitatea și integrarea administrațiilor publice locale între ele și cu administrația publicã centralã și având drept obiectiv asigurarea
+unei funcționãri unitare și a accesibilitãții cetãțenilor și
+agenților economici la toate serviciile sistemului
+informațional național. Unitatea se va consulta cu reprezentanții administrației publice locale în cadrul unor forumuri
+instituționale corespunzãtoare.
+Unitatea va avea capacitatea de a mobiliza suficiente
+resurse și utilitãți pentru a îndeplini permanent urmãtoarele
+sarcini:
+¥ formularea, completarea și îmbunãtãțirea Strategiei
+Guvernului privind IAP;
+¥ comunicarea internã și externã a strategiei;
+¥ identificarea modalitãților și serviciilor de infrastructurã
+pentru interconectarea tuturor departamentelor administrației
+publice centrale și interoperabilitatea sistemelor lor
+operaționale;
+¥ elaborarea specificațiilor pentru serviciile asigurate
+între unitãțile administrației, atât cele locale, cât și centrale,
+care trebuie sã fie accesibile permanent, precum și
+schimbãrile de legislație și de reglementare necesare pentru aceasta.
+În perioada acestei faze inițiale a planului de acțiune și
+pânã când va fi creatã și va deveni operaționalã Unitatea
+Permanentã de Coordonare a Programului, unitatea de elaborare a strategiei va îndeplini, de asemenea, și funcțiile
+acesteia în scopul îndeplinirii obiectivelor pe termen scurt
+ale planului.
+Acțiunea 3.1.1. Dezvoltarea planului de acțiune
+
+Unitatea va proiecta și va susține dezvoltarea planului
+de acțiune privind IAP atât pe termen scurt, cât și pe
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 705/6.XI.2001
+termen mediu și lung. Planul de acțiune va elabora programe anuale de lucru care sã identifice și sã descrie proiectele tehnologiei informaționale care vor fi realizate pe
+parcursul derulãrii planului, organismele implicate, costurile,
+finanțarea și planificarea în timp.
+Consolidarea planului de acțiune pe termen scurt Ñ
+trim. IV/2001
+Planul de acțiune pe termen mediu Ñ trim. I/2002
+Acțiunea 3.1.2. Comunicarea strategiei
+
+Unitatea va proiecta un plan de comunicare care sã
+facã cunoscute strategia și liniile directoare ale planului de
+acțiune și sã atenționeze administratorii asupra acțiunilor ce
+trebuie sã fie realizate de administrațiile publice locale și
+agenții economici.
+
+5
+
+Acțiunea 3.1.4. Specificațiile serviciilor
+
+Conectarea fiecãrei unitãți administrative la rețea va
+însemna asumarea sarcinii de a furniza aplicațiile necesare
+celorlalte unitãți, în cadrul unui plan de dezvoltare gradual,
+agreat împreunã cu administrațiile utilizatoare, și coordonate
+în mod obligatoriu la nivel central și local.
+Specificațiile serviciilor vor conține în mod expres și precizãri legale referitoare la confidențialitatea informațiilor și
+de aceea nu vor putea fi lãsate la libera alegere a
+unitãților implicate.
+Unitatea utilizatoare va menționa expres informațiile,
+felul serviciilor și nivelul lor de confidențialitate, pe care fiecare unitate administrativã le poate pune la dispoziție permanent în scopul de a permite integrarea funcționalã.
+Specificațiile pentru aplicațiile de bazã ale serviciilor Ñ
+trim. II/2002
+
+Planul de comunicare Ñ trim. I/2002
+Acțiunea 3.1.5. Managementul de proiect pe termen scurt
+Acțiunea 3.1.3. Studiul de fezabilitate al rețelei naționale
+
+Unitatea va avea drept sarcinã elaborarea procedurilor
+specifice pentru crearea infrastructurii tehnologice abilitate
+sã îndeplineascã planul de acțiune.
+În acest moment prioritatea o constituie crearea, pe
+baza rețelelor existente, a unei rețele naționale de tehnologie informaționalã care sã aibã capacitatea de a interconecta toate unitãțile administrației publice locale și centrale,
+proiectatã dupã modelul Internet/Intranet, și care sã asigure
+schimbul interdepartamental de aplicații pentru servicii între
+toate componentele rețelei, aflate pe palier de egalitate.
+Interconectarea tuturor rețelelor existente rãspunde
+cerinței de integrare a serviciilor naționale în folosul
+cetãțenilor și de menținere a caracterului lor unitar și uniform la nivel național, mai ales în contextul descentralizãrii
+accentuate și rãspunzând nevoilor crescânde ale cetãțenilor
+privind libertatea de mișcare informaționalã.
+Crearea unei rețele naționale de tehnologie
+informaționalã se va realiza folosind o arhitecturã multicelularã/multinodalã, care sã asigure integrarea/interoperabilitatea actualelor rețele naționale/județene/locale, rețele
+specializate profesionale sau alte categorii și rețele dedicate ale unor sectoare administrative. Varianta optimã va fi
+stabilitã sub coordonarea specialiștilor din cadrul
+Ministerului Comunicațiilor și Tehnologiei Informației.
+Acoperirea totalã a teritoriului național pentru acele regiuni care pânã acum nu au fost deservite prin inițiative
+anterioare și care sã corespundã planificãrii de interconectare generalã la nivel național va necesita o acțiune secundarã utilizând setul de proceduri prevãzute la cap. 4.
+Studiu de fezabilitate Ñ trim. II/2002
+
+Pânã în momentul în care unitatea de management a
+programului va deveni funcționalã va trebui înființatã de
+urgențã o unitate operaționalã concentratã pe asigurarea
+managementului de proiect pe termen scurt, cu urmãtoarele sarcini:
+¥ activarea promptã a proiectelor aprobate;
+¥ coordonarea implementãrii acestora;
+¥ monitorizarea stadiului în care se aflã.
+Un ”cabinet direcțional,, va trebui instituit de urgențã în
+cadrul Ministerului Administrației Publice pentru promovarea,
+orientarea și stimularea acțiunilor prevãzute, monitorizând
+permanent stadiul în care se aflã acestea și asigurând
+coordonarea necesarã între diferite proiecte.
+Planul de acțiune pe termen scurt, care acoperã, în
+special, revigorarea, coordonarea și sinergia tuturor inițiativelor organismelor administrației publice centrale, luate în
+mod individual, nu poate fi complet fãrã o structurã dedicatã în mod expres îndeplinirii acestor funcții, încã de la
+început.
+De asemenea, trebuie monitorizat permanent stadiul în
+care se aflã planul de acțiune la un moment dat. Aceasta
+este determinatã de necesitatea ca interconectarea tuturor
+unitãților administrative implicate sã fie operaționalã (persoanele de contact trebuie sã fie identificate) și de gradul
+înalt de corelare care trebuie asigurat între diferitele proiecte.
+Pe de o parte, o administrație datã va fi afectatã de
+numãrul de proiecte diferite, iar pe de altã parte, unele
+aspecte pentru care sunt prevãzute acțiuni specifice
+(semnãtura digitalã, cartea de identitate electronicã
+”ID card,,, interconectarea administrativã etc.) necesitã aportul mai multor unitãți care trebuie coordonate, nu numai
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 705/6.XI.2001
+
+între ele, fiecare cu fiecare, ci și cu proiectele specifice cu
+care interacționeazã. Aceste interacțiuni, care constituie în
+fapt principala valoare adãugatã specificã planului de
+acțiune pe termen scurt, se impun a fi conduse printr-o
+activitate operaționalã specificã.
+3.2. Unitatea de management a programului
+
+Crearea programului de activitate, derivat din strategia
+Guvernului, respectiv din planul de acțiune, va însemna de
+fapt lansarea programelor de tehnologie informaționalã cu
+participarea mai multor organisme ale administrației publice
+centrale și locale.
+Este necesarã instituirea unui organism executiv independent, cu abilitãți pentru managementul de program, format din specialiști desemnați de Ministerul Administrației
+Publice și de Ministerul Comunicațiilor și Tehnologiei
+Informației și localizat în cadrul Ministerului Administrației
+Publice.
+Acest organism se va preocupa de coordonarea și
+managementul de proiect pentru toate activitãțile care
+implicã organisme ale administrației publice centrale și
+locale și va fi responsabil pentru atingerea obiectivelor planului de acțiune. Acesta va conduce direct integrarea subproiectelor realizate independent de diferite organisme, atât
+în ceea ce privește planificarea, cât și condițiile tehnice și
+funcționale.
+Organismul nu va furniza servicii și nu va conduce sisteme sau infrastructuri, dar poate îndeplini în mod direct
+sarcina de a desemna proiectele secundare necesare pentru atingerea obiectivelor și care nu pot fi atribuite organismelor administrației publice centrale participante, ca și orice
+alte activitãți care pot constitui un factor comun al tuturor
+administrațiilor participante la fiecare proiect.
+Acțiunea 3.2. Managementul programului de activitate
+
+Managementul operațional al programului de activitate
+va fi atribuit unui organism permanent creat în cadrul
+Ministerului Administrației Publice cu avizul Ministerului
+Comunicațiilor și Tehnologiei Informației. Acest organism va
+asigura abilitãțile profesionale necesare exercitãrii noilor
+misiuni.
+Unitatea de management a programului devine
+operaționalã Ñ trim. IV/2001.
+4. Acțiuni de infrastructurã: rețeaua naționalã
+Infrastructura tehnologicã necesarã pentru realizarea planului de acțiune conține o rețea naționalã de tehnologie
+informaționalã, o rețea extranet guvernamentalã completã
+care sã interconecteze toate sistemele informaționale ale
+administrației publice centrale și locale cu o alta de tip
+
+Internet și care sã poatã furniza protocoale echivalente tip
+Internet pentru toate domeniile administrative.
+4.1. Stadiul actual al rețelelor
+
+Inițiativele referitoare la rețea, aflate în prezent în uz,
+reprezintã o imagine complexã, care face necesar ca rolul
+de coordonare și direcționare sã fie jucat de un organism
+competent:
+¥ Singura rețea actualã guvernamentalã acordã servicii
+de transport, asigurând rețelele intraguvernamentale și serviciile de interoperabilitate, care pot susține relația standard
+dintre administrații. Calitatea de membru în rețeaua unicã a
+administrației publice este obligatorie doar pentru organismele administrației publice centrale. Extinderea preconizatã
+trebuie sã permitã o completã utilizare ca o rețea clasa IP,
+pentru a abilita administrațiile publice locale sã aibã acces
+la serviciile unitãților administrației publice centrale.
+¥ În prezent se creeazã sau au fost deja create numeroase rețele teritoriale utile, promovate în general de cãtre
+administrațiile județene sau de cãtre alte autoritãți locale:
+muncipii, orașe, comune etc.
+¥ Multe unitãți ale administrației publice centrale se
+strãduiesc sã creeze în mod independent rețele de sector
+pentru interconectarea serviciilor lor descentralizate
+(Ministerul Sãnãtãții și Familiei, Ministerul Educației și
+Cercetãrii, Ministerul Muncii și Solidaritãții Sociale,
+Ministerul Finanțelor Publice, pentru a enumera doar
+câteva); practic, la nivel local acest lucru creeazã o situație
+complexã de necoordonare.
+Lipsa liniilor directoare și a unui organ de coordonare a
+interconectãrii complete a tuturor rețelelor administrațiilor
+publice amenințã cu apariția unor situații de conflict între
+managerii diferitelor rețele (între managerii rețelei administrației publice și cei ai rețelelor județene).
+4.2. Rețeaua naționalã a administrației publice
+
+Stadiul actual al tehnologiei și pieței face ca interconectarea rapidã a tuturor organismelor administrației publice
+centrale și locale, prin rețea extranet organizatã dupã un
+model de interoperabilitate, care sã asigure așezarea tuturor beneficiarilor pe palier de egalitate, sã fie un obiectiv
+realist.
+Obiectivul Strategiei Guvernului privind IAP este acela
+de a conecta toate organismele administrației publice centrale în semestrul II/2003. Rețeaua naționalã de tehnologie
+informaționalã poate fi creatã prin douã acțiuni coordonate:
+¥ în primul rând sã se realizeze interoperabilitatea dintre
+rețelele județene și rețeaua unicã a administrației publice
+centrale;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 705/6.XI.2001
+¥ în al doilea rând sã se creeze o rețea extranet virtualã, care sã acopere întreg teritoriul țãrii, pentru acele
+județe care nu sunt încã deservite de alte inițiative locale.
+Realizarea interoperabilitãții în rețelele teritoriale existente (acțiunea 6.1.1) este o precondiție pentru descentralizarea multor funcții administrative, la care autoritãțile
+administrației publice centrale și locale trebuie sã participe
+efectiv, parțial cu stimulente financiare, pentru județele ale
+cãror obiective nu corespund întocmai obiectivelor lor
+instituționale.
+Acoperirea teritorialã naționalã a autoritãților
+administrației publice locale va fi realizatã printr-o acțiune
+secundarã, urmând modelul propus la pct. 4.3, fãcând disponibilã o singurã rețea extranet.
+Astfel va fi posibilã utilizarea unei singure infrastructuri
+pentru a construi rețele de sector pe care organismele
+administrației publice centrale le realizeazã în prezent prin
+forțe proprii, obținându-se astfel economii considerabile.
+4.3. Rețeaua extranet a administrațiilor publice locale
+
+Piața serviciilor IP oferã acum soluții care acum câțiva
+ani erau inaccesibile, pentru crearea unor rețele
+informaționale fãrã a investi în infrastructura fizicã.
+Furnizorii de servicii Internet (ISP) și operatorii de telecomunicații oferã acum servicii de acces la Internet, servicii
+de creare a unor rețele virtuale private (VPN) și altele;
+practic, ei au un catalog complet de servicii necesare pentru realizarea de rețele Intranet sau extranet ale oricãrei
+organizații. Aceste servicii constituie cu siguranțã modalitatea necesarã pentru interconectarea pe palier de egalitate
+a tuturor administrațiilor publice.
+Acțiunea 4.3.1. Rețeua extranet a administrațiilor publice locale
+
+Rețeaua extranet care se preconizeazã sã fie creatã va
+fi un multifurnizor virtual de tip IP (furnizor de informații)
+dedicat administrației publice locale, realizatã printr-un contract de interconectare între furnizori.
+Rețeaua extranet va fi creatã prin trecerea în revistã a
+furnizorilor ce garanteazã servicii de un nivel standard IP
+minim și interoperabilitate totalã între autoritãțile administrației publice centrale, folosind serviciile de tip IP ale
+oricãruia dintre furnizorii de pe listã.
+Contractul de interconectare și interoperabilitate dintre
+furnizori este identic din punct de vedere tehnic și managerial cu cel pe baza cãruia funcționeazã Internetul. Pentru
+toate aceste scopuri și intenții rețeaua este echivalentã cu
+o rețea Internet privatã pentru administrația publicã.
+Pentru a pãtrunde pe listã furnizorii vor trebui sã îndeplineascã cerințe de naturã economicã, de acoperire terito-
+
+7
+
+rialã și de nivel standard minim impus al serviciilor
+garantate.
+Autoritãțile administrației publice locale își vor alege
+furnizorul de servicii de pe listã, folosind propriile criterii la
+compararea ofertelor de pe piațã, asigurând garanția nivelului serviciilor și a interoperabilitãții cu toate celelalte
+administrații.
+Integrarea rețelei extranet cu rețelele existente se va
+face respectând același model. Managerii rețelelor județene,
+de exemplu, vor fi considerați fie ca fãcând parte din listã,
+fiind integrați deci automat în rețeaua extranet, fie drept
+clienți ai unora dintre furnizorii de pe listã. Rețeaua unicã
+a administrației publice va fi astfel consideratã în mod special, conform acestui model, ca furnizorul de servicii de
+acces la organismele administrației publice centrale.
+În acest context fiecare administrație publicã localã
+poate selecta o rețea la care sã se conecteze, dintre cele
+incluse în sistemul național de interconectare, fãrã sã prejudicieze capacitatea sa de a oferi serviciile specificate la
+nivel național tuturor celorlalte organisme ale administrației
+publice centrale.
+Realizarea rețelei naționale Ñ trim. IV/2002 Ñ trim. III/2003
+5. Acțiuni ale administrației publice centrale
+Proiectele propuse pe termen scurt sunt în totalitate
+vizate în conformitate cu obiectivele impuse de Uniunea
+Europeanã în cadrul inițiativei ”e-Europe,,, pentru a permite
+accesul electronic atât la informații, cât și la serviciile principalelor organisme, prin crearea unui set de portaluri.
+Portalurile sunt propuse, de asemenea, ca un mijloc de
+accesibilitate, mai ales în combinație cu noile servicii de
+înaltã eficiențã, cãtre alte instrumente, cum ar fi semnãtura
+electronicã și cartea de identitate electronicã (I.D. card),
+care sunt deja sau în curs de a fi prevãzute de lege, dar
+care, altfel, ar putea pãrea inaccesibile și inutile cetãțenilor
+și agenților economici.
+Pe parcursul planului de acțiune pe termen scurt ar fi
+nerealist sã se cearã crearea unui portal care sã ofere o
+integrare totalã a serviciilor diferitelor organisme ale administrației publice centrale, așa cum este prevãzut în viziunea de perspectivã a programului ”e-Government,,. Vor fi
+însã posibile, paralel cu emiterea reglementãrilor de
+rigoare, standardizarea interfeței portalurilor diferitelor organisme ale administrației publice centrale și realizarea procedurilor pentru un acces unitar atât la portalurile de
+informații, cât și la cele de furnizare de servicii de la principalele organisme.
+Pentru a obține rezultatele preliminate pe termen scurt
+(pânã la sfârșitul anului 2002) trebuie sã se înceapã cu proiectele care sunt deja convenite: înainte de toate însã este
+importantã alocarea resurselor necesare pentru conceperea
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 705/6.XI.2001
+
+proiectelor deja localizate la nivelul diverselor organisme
+individuale ale administrației publice centrale, în mãsura în
+care obiectivele conținute în plan sunt incompatibile cu termenele prea mari, necesare obținerii alocãrii de resurse din
+surse interne și/sau externe.
+5.1. Portalurile de informații
+
+Trebuie încurajate crearea arhivelor, garantarea calitãții
+datelor conținute și permiterea accesului larg și complet la
+acestea prin intermediul portalurilor de informații, care
+ușureazã accesul prin Internet și explorarea bazei de date
+a administrației publice.
+Organismele individuale ale administrației publice centrale care dețin baze de date relevante pentru cetãțeni și
+agenți economici își vor crea separat aceste portaluri;
+totuși ele trebuie sã respecte setul comun de reglementãri
+ce vor fi stabilite pentru crearea portalurilor publice.
+Acțiunea 5.1.1. Specificații pentru portaluri
+
+Obiectivele acestei acțiuni sunt:
+¥ elaborarea unui standard comun pentru crearea portalurilor de informații ale organismelor administrației publice
+centrale;
+¥ elaborarea unei liste cuprinzând bazele de date de
+importanțã naționalã, care sã fie accesibilã prin Internet, și
+a planului de implementare a acestei mãsuri;
+¥ monitorizarea stadiului de atingere a obiectivelor planului.
+Studiu de fezabilitate Ñ trim. III/2002
+Acțiunea 5.1.2. Portalul unic de reglementãri juridice
+
+În prezent existã mai multe bãnci principale de date
+legislative și juridice și un numãr considerabil de altele
+secundare, cu moduri diferite de accesibilitate și fãrã nici
+un fel de procedurã care sã le permitã sã devinã unitare.
+Se va crea un portal unic pentru a facilita și unifica
+accesul la documentația juridicã, legislativã și de reglementãri, disponibilã deja pe nenumãrate web-site ale diverselor instituții.
+Identificarea documentelor va fi standardizatã, permițând
+utilizatorilor sã le exploreze, cunoscând cãile și conexiunile
+de referințã dintre documente, reducând la minimum prelucrarea manualã a textelor de publicat.
+Pe lângã crearea unui puternic motor de cãutare, proiectul va elabora instrumentele necesare pentru simplificarea editãrii textelor atât din punct de vedere al conformitãții
+cu regulile tehnico-legislative, cât și al compatibilitãții
+formatului standard, constituind un instrument de tehnologie
+informaționalã care sã rãspundã cerințelor de reordonare și
+identificare a legilor codificate care deja sunt în vigoare.
+
+Din acest moment se va institui o bancã de date
+cuprinzând legislația primarã și secundarã care sã permitã
+o rapidã localizare, dupã subiect sau domeniu, a tuturor
+documentelor pertinente, potențând utilizarea cuvintelorcheie sau a codurilor semantice pentru cãutare strict
+direcționatã, dupã subiect și dupã locația tuturor documentelor referitoare la un domeniu dat.
+Mai mult, se prevede elaborarea unui instrument care
+sã ușureze evidența legilor în cadrul legal existent în
+funcție de codul alocat, utilizând atât tehnicile cunoscute de
+marcare a textului, cât și tehnicile hipertext, astfel încât sã
+fie facilitate deopotrivã atât orientarea în ”labirintul legislativ,,, cât și elaborarea coordonatã a textelor de lege.
+Utilizarea tehnologiei informaționale va permite depistarea
+automatã a legilor din care decurge textul respectiv.
+Disponibilitatea serviciilor Ñ trim. IV/2002
+Acțiunea 5.1.3. Banca de date a Ministerului Justiției
+
+Ministerul Justiției deține o bancã centralã de date juridice care conține documente legislative, juridice și de
+pregãtire juridicã provenind de la diverse surse. Sistemul
+de cãutare, care trebuie sã conținã o arie largã de funcții,
+necesitã o modernizare moralã și tehnologicã.
+Arhitectura sistemului va fi adaptatã la tehnologiile
+Internetului pentru a mãri accesibilitatea, a oferi gratuit
+aceste servicii și a permite indexarea documentelor prin
+motorul de cãutare al portalului legal unic.
+Disponibilitatea serviciilor Ñ trim. IV/2002
+Acțiunea 5.1.4. Monitorul Oficial al României
+
+Obiectivul acestei acțiuni este acela de a permite accesul on-line la Monitorul Oficial al României, cu indexarea
+motorului de cãutare al Portalului Legal Unic.
+Disponibilitatea serviciilor Ñ trim. IV/2002
+5.2. Portaluri de servicii
+
+Portalurile pentru furnizarea serviciilor nu vor permite
+numai accesul la informații, ci și solicitarea interactivã de
+servicii sau efectuarea de tranzacții. Planul de acțiune
+vizeazã crearea unui portal de servicii cãtre cetãțeni, unul
+pentru servicii cãtre agenți economici, un portal specializat
+pentru servicii de angajare a forței de muncã și unul special pentru certificãri.
+Una dintre trãsãturile-cheie ale introducerii portalurilor
+este standardizarea sistemelor de accesare, autentificarea
+ulterioarã și autorizarea solicitãrilor de servicii.
+Accesul la portalurile de servicii va necesita, de asemenea, utilizarea semnãturilor digitate ca mijloace legale de
+validare a declarațiilor transmise.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 705/6.XI.2001
+Cartea de identitate electronicã (I.D. card) este un card de
+plastic prevãzut cu un chip electronic, folosit ca instrument
+de editare și autentificare a semnãturilor, poate fi utilizat ca
+mijloc de identificare în vederea accesãrii portalurilor de
+servicii. Aceasta va evita proliferarea cardurilor specializate;
+altfel, în absența unei soluții standard, fiecare organism al
+administrației publice va putea crea propriul card de acces
+la serviciile sale.
+Acțiunea 5.2.1. Portalul de servicii unitare pentru cetãțeni
+
+Crearea unui portal care sã materializeze accesul nelimitat al cetãțenilor la serviciile unitare integrate constituie
+scopul final al Strategiei Guvernului privind IAP, respectiv
+al planului de acțiune. Proiectul este cel mai complex din
+punct de vedere organizatoric și tehnic, iar realizarea lui va
+atrage într-o fazã inițialã numeroase și importante impedimente și constrângeri.
+Realizarea portalului va necesita mai întâi completarea
+și unificarea rețelei naționale de interconectare a tuturor
+administrațiilor publice centrale și completarea sistemului
+unitar de înregistrãri de stare civilã, ceea ce constituie un
+obiectiv pe termen lung; pe termen scurt vor fi luate
+mãsuri preliminare, preparatorii, cum ar fi studiul de fezabilitate și procedurile de licitație deschisã, necesare pentru
+ca proiectul sã devinã operațional pentru un prim grup de
+servicii.
+Studiul de fezabilitate Ñ trim. III/2002
+Specificațiile și procedurile pentru licitația deschisã Ñ
+trim. II/2003
+Dezvoltarea serviciilor inițiale Ñ trim. II/2004
+Integrarea serviciilor cãtre cetãțeni se poate realiza pe
+termen scurt numai printr-o coordonare unitarã a proiectelor
+pe care administrațiile publice centrale le-au demarat deja
+separat.
+În prima fazã a operațiunii de instalare a portalului de
+servicii pentru cetãțeni se va realiza un portal unic pentru
+administrația publicã centralã, plasat între cetãțeanul-utilizator și siteurile, existente deja, ale Ministerului Administrației
+Publice, Ministerului Finanțelor Publice, Ministerului Muncii
+și Solidaritãții Sociale etc., având sarcina de a uniformiza
+procedura de utilizare și de a standardiza cel puțin funcțiile
+de identificare a cetãțeanului și de autorizare a accesului
+la aceste servicii.
+Cetãțenii vor putea folosi portalul unic pentru a gãsi formulare, oferite ca tipizate de cãtre organismele administrației publice centrale, pentru a le completa și a înainta
+diverse rapoarte și declarații, precum și pentru a transmite
+cereri de solicitare a unor diferite servicii.
+Portalul unic va institui un sistem unic de autentificare
+și autorizare pentru toate departamentele administrației
+publice centrale și va folosi cartea electronicã de identitate
+
+9
+
+(I.D. card) ca unicul mijloc de recunoaștere, iar semnãtura
+digitalã va conferi autenticitatea declarațiilor la care acest
+lucru este obligatoriu.
+Astfel organismele administrației publice centrale se pot
+uni și pot folosi în comun serviciile autoritãții de certificare.
+Studiul de fezabilitate Ñ trim. I/2002
+Implementarea serviciului Ñ trim. IV/2002
+Acțiunea 5.2.2. Portalul serviciului de certificare
+
+Aceastã acțiune urmãrește sã implice organismele administrației publice centrale care dețin bãnci de date dintre
+cele mai semnificative în realizarea scopurilor propuse privind autocertificarea (Ministerul Finanțelor Publice, Ministerul
+Justiției, Camera de Comerț și Industrie a României și a
+Municipiului București etc.). Fiind deja informatizate într-un
+stadiu mai mult sau mai puțin avansat, acestea vor fi implicate într-un proiect comun de accesibilitate on-line, în
+scopul de a permite autocertificarea pe care legislația o
+prevede, cu respectarea legilor referitoare la confidențialitatea datelor personale.
+Mai întâi se va crea un portal unic pentru administrațiile
+implicate, cu acces limitat la funcționarii publici ai administrațiilor care solicitã acest lucru, abilitându-i pe aceștia atât
+pentru verificarea pe loc a informațiilor de autocertificare
+necesare acordãrii unui serviciu, cât și pentru a proceda la
+verificãri ulterioare, inclusiv a celor privind autenticitatea
+ștampilelor de pe declarațiile de autocertificare. Portalul va
+avea, de asemenea, un sector informațional și va oferi un
+instrument operativ pentru afișarea informațiilor necesare
+verificãrii.
+În a doua fazã a proiectului portalul va fi capabil sã
+ofere servicii direct accesibile procedurilor de tehnologie
+informaționalã ale administrațiilor ce solicitã acest lucru,
+asigurând astfel accesul total automatizat la administrațiile
+abilitate sã ofere astfel de certificãri.
+Pentru ca acest proiect sã ofere accesul complet la
+toate principalele date de certificare va fi necesarã includerea registraturilor civile municipale printre administrațiile
+accesibile. Cu excepția cazurilor de acces doar la registratura localã a organismului solicitat, în general acest lucru
+se va putea realiza o datã cu definitivarea proiectului de
+integrare a registrelor civile în sine.
+Faza 1: acces interactiv Ñ trim. IV/2002
+Faza 2: acces automat Ñ trim. III/2003
+Acțiunea 5.2.3. Portalul pentru servicii de angajare a forței de muncã
+
+Portalul pentru servicii de angajare a forței de muncã
+va servi la gãsirea de slujbe și de solicitanți on-line.
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 705/6.XI.2001
+
+Acesta este unul dintre serviciile vizate pentru Sistemul
+Informațional al Muncii. Proiectul urmãrește ca acest serviciu sã devinã operațional mai devreme atât la nivel local,
+cât și la cel național.
+Județele pot realiza și demara un portal local, activând
+astfel serviciul între județele limitrofe, iar apoi, în cooperare
+cu Ministerul Muncii și Solidaritãții Sociale, vor furniza un
+serviciu la nivel național.
+Acest proiect necesitã o puternicã coordonare cu administrațiile județene. În consecințã, va fi susținut prin ajutoare financiare din partea autoritãților locale, care trebuie
+sã stimuleze instituirea acestor sisteme interoperaționale.
+Serviciul național de identificare a locurilor de muncã Ñ
+trim. IV/2002
+Acțiunea 5.2.4. Portalul pentru servicii cãtre agenți economici
+
+Acest proiect va realiza strict interoperabilitatea între
+unitãțile Ministerului Muncii și Solidaritãții Sociale, pe de o
+parte, și Registrul Camerei de comerț și industrie, pe de
+altã parte. Sistemele informaționale ale acestor organisme
+vor asigura permanent concordanța strictã a datelor
+conținute de arhivele lor.
+
+societãții informaționale la nivel local, prin dezvoltarea infrastructurii și serviciilor.
+¥ Județele pot activa, împreunã cu propriile administrații
+publice locale (municipale, orãșenești, comunale), adoptarea cooperãrii administrative și integrarea furnizãrii de
+servicii.
+Județele, în concordanțã cu propria viziune și strategie,
+vor decide asupra unei mari pãrți a acestor inițiative, în
+mod individual și separat.
+Planul de acțiune pe termen scurt se referã mai ales la
+inițiativele ce sunt necesar a fi instituite și la procedurile
+de coordonare și cooperare dintre județe în scopul de a
+garanta omogenitatea serviciilor pe plan național, schimbul
+interactiv de idei, resurse și experimente, precum și realizarea de economii.
+Coordonarea dintre județe va maximiza recuperarea
+investițiilor în inovarea tehnologicã pe care Guvernul
+intenționeazã sã o promoveze la nivel local; deci o
+condiție necesarã o constituie transferul resurselor de la
+administrația publicã centralã la cele județene.
+Acțiunea 6.1.1. Interoperabilitatea rețelelor județene
+
+Agenții economici, utilizând un set unitar de formulare,
+vor putea transmite printr-un singur portal diferitelor organisme, tipizatele de raportare cerute de lege. Portalul va
+verifica veridicitatea informațiilor raportate fațã de cele
+conținute în Registrul C.C.I.R. și va transmite organismelor
+respective datele solicitate în mod expres.
+
+Județele joacã un rol esențial în crearea principalelor
+infrastructuri și servicii necesare pentru implementarea sistemului informațional unitar al României.
+
+De asemenea, portalul va oferi serviciile necesare pentru autentificarea și autorizarea accesului, precum și pentru
+confirmarea rapoartelor, grație semnãturii digitale, permițând
+astfel trasmiterea declarațiilor semnate și care, în acest
+mod, vor deveni în mod legal valabile.
+
+În același scop existã și alte organisme și administrații
+publice locale care au promovat rețele locale la nivelul
+municipiilor, orașelor și comunelor.
+
+Portalul pentru servicii cãtre agenți economici Ñ
+trim. IV/2002
+
+6. Acțiuni ale administrațiilor județene și locale
+6.1. Rolul județelor în strategia Guvernului, respectiv în planul de
+acțiune
+
+Administrațiile publice locale constituie un pas esențial
+în implementarea Strategiei Guvernului privind IAP, din
+urmãtoarele motive:
+¥ Județele au un rol crucial în acțiunea efectivã de descentralizare a administrației în domeniul serviciilor publice
+(muncã, învãțãmânt, finanțe, sãnãtate etc.).
+¥ Județele pot juca un rol din ce în ce mai important,
+atât la nivel național, cât și european, în dezvoltarea
+
+Multe județe au promovat și parțial deja au constituit
+rețele destinate sã interconecteze propriile administrații
+publice locale.
+
+O principalã sarcinã în cadrul planului de acțiune constã
+în interconectarea și asigurarea interoperabilitãții tuturor
+acestor rețele cu rețeaua unicã a administrației publice, în
+scopul de a crea o rețea naționalã, permițând ca toate
+unitãțile și administrațiile publice locale, împreunã cu organismele administrației publice centrale, sã opereze interactiv
+de pe picior de egalitate și sã facã schimb de aplicații
+necesare serviciilor furnizate.
+Studiul de fezabilitate (acțiunea 3.1.3) Ñ trim. II/2002
+Rețeaua naționalã Ñ trim. II/2002 Ñ trim. II/2003
+Acțiunea 6.1.2. Servicii secundare și servicii în sprijinul descentralizãrii
+
+Managerii rețelelor naționale vor trebui sã furnizeze, prin
+propriile aplicații, toate serviciile aplicative secundare, precum și pe cele ce susțin descentralizarea, pentru a permite
+cooperarea aplicativã și armonioasã dintre administrațiile
+publice locale și centrale, indiferent de rețeaua la care
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 705/6.XI.2001
+
+11
+
+fiecare dintre ele este conectatã; acest lucru va fi
+menționat în studiul de fezabilitate (acțiunea 3.1.3).
+
+susținere a portalului pentru serviciul de certificare, propus
+la acțiunea 5.2.2.
+
+Prioritatea maximã va fi acordatã serviciilor descentralizate din domeniul muncii (Portalul serviciilor de angajare a
+forței de muncã, acțiunea 5.2.3), finanțelor publice, sãnãtãții
+etc., precum și cele referitoare la integrarea registrelor
+civile.
+
+Trebuie susținutã, de asemenea, dezvoltarea rețelelor
+civile de cãtre rețelele administrative orãșenești, rețele care
+pot furniza nu numai servicii publice, dar care încurajeazã
+și participarea cetãțenilor, promovând aspectele sociale și
+productive ale rețelei.
+
+Serviciile de susținere primarã Ñ trim. IV/2002 Ñ
+trim. II/2003
+Constituirea rețelei naționale, care este un obiectiv
+comun la nivel național și o acțiune esențialã pentru infrastructurã și care la rândul sãu constituie o condiție preliminarã a Strategiei Guvernului, va fi coordonatã și condusã
+de unitatea de elaborare a strategiei (acțiunea 3.1), în
+componența sa urmând sã fie reprezentate atât autoritãțile
+administrației publice centrale, cât și cele locale,
+evitându-se astfel competiția neloialã dintre managerii
+diferitelor rețele.
+Proiectul sinergic prevede mãsuri pe care județele trebuie sã le ia în mod independent, pentru ca obiectivul strategic urmãrit sã fie susținut și finanțat de cãtre cei vizați.
+6.2. Informatizarea administrației publice locale
+
+Administrațiile publice locale, în special cele municipale,
+sunt personajele principale în Strategia Guvernului privind
+IAP; ele sunt acelea care vor trebui sã creeze interfața,
+ghișeele pentru furnizarea serviciilor unitare cãtre cetãțeni.
+Date fiind diferențele de mãrime, de ocupare a forței de
+muncã și de capacitate de a utiliza tehnologia modernã,
+trebuie lansatã o strategie care sã nu accentueze și mai
+mult diferențele, la nivelul serviciilor locale, dintre diverși
+cetãțeni și agenți economici, în funcție de locul unde
+activeazã.
+Trebuie accelerate nu numai computerizarea completã a
+organismelor administrației publice locale, ci și conectarea
+lor la una dintre rețelele regionale accesibile la nivel local;
+mai presus de orice, în același timp trebuie acceleratã
+posibilitatea transmiterii on-line a serviciilor standard, definite clar pentru fiecare tip de organism al administrației
+publice centrale (acțiunea 3.1.4).
+Principala problemã constã sau în stimularea preluãrii
+soluțiilor tehnologiei informaționale adoptate deja de cãtre
+alte administrații publice locale sau unitãți ale administrației
+publice centrale ori în oferirea unor soluții la cheie, inclusiv
+a serviciilor de susținere aferente.
+Pentru administrațiile municipale o importanțã specialã o
+prezintã transmiterea serviciilor de registraturã și stare
+civilã, în concordanțã cu nevoia generalã de integrare la
+nivel național a registrelor și cu nevoia specificã de
+
+Acțiunea 6.2.1. Dezvoltarea rețelelor civice
+
+Dezvoltarea rețelelor civice va cuprinde urmãtoarele
+tipuri de servicii:
+¥ furnizarea de servicii on-line (acțiunea 5);
+¥ servicii pentru participarea cetãțenilor în activitatea
+administrativã și în procesul decizional;
+¥ servicii pentru instruire, utilizarea nonprofitului și sectorul organizațiilor neguvernamentale, care sã furnizeze
+servicii publice pentru întãrirea coeziunii sociale, pentru
+promovarea dezvoltãrii statutului socioeconomic, pentru dezvoltarea cooperãrii productive dintre tinerii angajați în activitãți nou-apãrute.
+Obiectiv: conectarea tuturor registrelor de stare civilã Ñ
+trim. II/2002 Ñ trim. IV/2003
+Obiectiv: furnizarea de servicii on-line societãții civile Ñ
+trim. IV/2002 Ñ trim. II/2004
+7. Integrarea registrelor de stare civilã
+Actuala fragmentare a dosarelor cu înregistrãri de stare
+civilã și familie, existente la nivelul tuturor municipiilor,
+orașelor și comunelor, constituie unul dintre principalele
+obstacole în realizarea practicã a Strategiei Guvernului privind IAP, conform cãreia cetãțeanul:
+¥ nu este obligat sã furnizeze informații care sunt deja
+în posesia administrației publice, nici chiar în forma de
+autocertificare;
+¥ poate anunța autoritãțile, o singurã datã, despre orice
+modificare survenitã în datele sale personale, de cele mai
+multe ori aceasta reprezentând o schimbare inclusã în
+registrul de stare civilã;
+¥ poate beneficia de servicii din partea administrației
+publice numai prin simpla accesare, fizicã sau virtualã, a
+oricãrui ghișeu, indiferent de locul sãu de rezidențã.
+Realizarea integrãrii înregistrãrilor municipale de stare
+civilã constituie desigur o provocare, care implicã nu numai
+complicații legislative și organizaționale enorme, ci și unele
+probleme de tehnologie informaționalã și de sistem.
+Acțiunile propuse în cap. 6 oferã o soluție problemelor
+conectãrii autoritãților publice locale; chiar dacã se conecteazã la o rețea teritorialã sau la una dedicatã unui anume
+tip de categorie socialã, acestea vor fi capabile, utilizând
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 705/6.XI.2001
+
+serviciile rețelelor respective, sã opereze interactiv de pe
+palier de egalitate cu toate celelalte administrații publice
+locale și cu organismele administrației publice centrale, în
+cadrul rețelei unice a administrației publice.
+7.1. Interacțiunea dintre administrațiile publice centrale și locale
+
+Respectând condițiile de securitate și de confidențialitate
+impuse de lege, solicitãrile și tranzacțiile efectuate dusîntors între administrațiile publice centrale și cele locale pot
+fi afectate, cel puțin din punct de vedere tehnic, direct și
+fãrã intermediar, de cãtre serviciile cu valoare adãugatã
+oferite de managerii rețelei județene, teritoriale sau de altã
+categorie la care municipiul, orașul sau comuna este
+conectatã.
+Din acel moment, fãrã a se afecta securitatea și confidențialitatea, restricțiile legislative și de autorizare, care în
+prezent limiteazã schimbul de informații on-line dintre administrațiile publice locale și alte organisme guvernamentale
+centrale și locale, vor fi astfel eliminate.
+Acțiunea 7.1. Accesul la serviciul de certificare a înregistrãrilor de stare
+
+care vor fi antrenate în acțiunea de creare și de actualizare a indexului național.
+De aceea municipiile, orașele și comunele vor fi solicitate sã comunice prin rețea, direct sau indirect, managerului de index doar acele schimbãri din datele personale,
+care vor produce schimbãri în index, ca: nașteri, decese,
+schimbãri de domiciliu și orice alte informații relevante care
+au legãturã cu redactarea documentelor de identitate.
+Orice alte servicii disponibile din partea managerului de
+index, cum ar fi medierea accesului la fișierele
+administrației publice centrale pentru administrațiile publice
+locale și viceversa sau medierea în anunțarea unor evenimente personale, vor fi furnizate autoritãților publice locale
+în concordanțã cu algoritmul logic stabilit și nu în mod
+exclusiv.
+Indexul va face posibilã furnizarea de servicii cãtre
+cetãțeni, oferindu-le acestora o viziune unitarã asupra înregistrãrilor de stare civilã în totalitatea lor, incluzând serviciile electorale, cartea de identitate (I.D. card) și alte
+servicii legate de rezidențã.
+Dezvoltarea și managementul indexului Ñ trim. IV/2002
+
+civilã
+
+În condiții similare de securitate și confidențialitate
+garantatã autoritatea localã trebuie sã asigure prin serviciile
+sale accesul la toate datele relevante scopului certificãrii pe
+care le dețin, pentru a permite funcționarea completã a
+portalului serviciului de certificare (acțiunea 5.2.2).
+Transmiterea informațiilor de certificare Ñ trim. II/2002 Ñ
+trim. I/2003
+
+7.2. Indexul registrelor de stare civilã
+
+Un sistem unitar al registrelor de stare civilã presupune
+crearea și coordonarea unui index al rezidenților, un index
+al înregistrãrilor de stare civilã, care este necesar atât pentru a localiza, cât și pentru a verifica și a pãstra conținutul
+datelor personale la nivel național. Indexul este conectat la
+codul unic de identificare a cetãțeanului, în prezent denumit codul numeric personal.
+Indexul nu va conține datele personale ale cetãțeanului,
+care aparțin exclusiv orașului de rezidențã, ci doar un minimum de date necesare pentru localizarea unor astfel de
+informații sau pentru un acces rapid la ele.
+Acțiunea 7.2. Dezvoltarea și managementul indexului înregistrãrilor de
+stare civilã
+
+Indexul înregistrãrilor de stare civilã va fi dezvoltat și
+coordonat de Ministerul Administrației Publice printr-un serviciu accesibil on-line pentru toate autoritãțile publice locale,
+
+7.3. Anunțarea schimbãrilor din datele personale
+
+Anunțarea schimbãrilor survenite în registrul de stare
+civilã va fi fãcutã managerului de index de la nivelul autoritãților locale fie direct, fie prin serviciul de notificare a
+evenimentelor, utilizându-se în acest scop aceleași proceduri folosite pentru anunțarea oricãror alte organisme interesate ale administrației publice centrale.
+Un serviciu general de notificare a evenimentelor care
+poate produce schimbãri în datele personale din registrul
+de stare civilã sau în statutul familial este nu numai de
+dorit, ci și indispensabil, pentru a se asigura faptul cã
+informațiile despre fiecare cetãțean, deținute de toate organismele administrației publice centrale sau locale, în scopul
+îndeplinirii sarcinilor specifice, sunt corecte și actualizate.
+Tehnologia actualã permite crearea unor sisteme general valabile de notificare a evenimentelor cãtre toate organismele interesate implicit de aceste schimbãri survenite.
+Acțiunea 7.3. Serviciul național de notificare a evenimentelor
+
+Un serviciu de notificare a evenimentelor va fi instituit
+ca un serviciu cu valoare adãugatã al rețelei naționale.
+Ca infrastructurã, managerii fiecãreia dintre rețelele componente vor coopera între ei, astfel încât evenimentele vor
+putea fi anunțate nu numai administrației publice centrale,
+ci și administrațiilor publice locale interesate.
+Serviciul de notificare a evenimentelor Ñ trim. II/2002 Ñ
+trim. II/200......
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 705/6.XI.2001
+8. Sistemul de schimburi interactive dintre registrele de
+proprietate și autoritãțile administrației publice locale
+Aceastã acțiune constã în completarea sistemului pentru
+schimburi interactive de date dintre registrele de proprietate
+
+13
+
+sã reclame administrației publice locale pozițiile contradictorii privind registrul de proprietate și/sau asupra rolului și
+taxelor datorate. Acest lucru va face posibilã verificarea
+tuturor contradicțiilor și actualizarea datelor referitoare la
+
+și administrațiile publice locale. Obiectivele proiectului sunt:
+
+proprietar, coduri de taxe, orice proprietate neînregistratã
+
+¥ sã facã accesibile serviciile oficiilor teritoriale, cum
+
+ori care nu are o declarație de impunere aferentã sau cu
+
+sunt: verificarea și certificarea registrelor de proprietate,
+
+inadvertențe între registrul de proprietate și datele de evi-
+
+verificarea registrelor de ipotecã, schimbãrile survenite în
+
+dențã la nivel de localitate.
+
+procedurile de înregistrare și în registrele de proprietate,
+atât cetãțenilor, cât și administrațiilor publice locale;
+¥ sã creeze un serviciu la nivel național care sã susținã
+constatarea, validarea și actualizarea taxelor de proprietate,
+care ulterior sã fie folosite de cãtre administrațiile publice
+locale, cetãțeni, agenți economici, notari publici, specialiști
+
+Acțiunea 8. Sistemul de schimburi interactive dintre registrul de proprietate
+și autoritãțile locale
+
+Sistemul de schimburi dintre registrul de proprietate și
+municipalitate Ð trim. III/2002
+
+etc;
+¥ sã facã accesibile pentru întregul teritoriu național
+toate bãncile de date cadastrale derivate din registrele de
+proprietate, ca o bazã comunã de informare în scopul dezvoltãrii evaluãrii și planificãrii teritoriale.
+Acțiunile vor determina:
+¥ Întãrirea sistemului Ministerului Finanțelor Publice,
+extinzând conexiunile sale la nivelul tuturor autoritãților
+locale și creând poluri locale de concentrare la nivel de
+județe. Fluxul de informații va deveni de tip ”dus-întorsî,
+
+9. Cartea de identitate electronicã (I.D. card)
+Cartea de identitate electronicã (I.D. card) va fi folositã
+nu doar ca document de identitate personal, dar și ca singurul card multifuncțional de acces la toate serviciile administrative on-line ce solicitã un anumit grad de identificare
+a utilizatorului.
+Semnãtura digitalã conținutã de cardul electronic I.D. va
+fi principalul mijloc de acces garantat la informațiile și ser-
+
+prin schimburi interactive reale de informații între autoritãțile
+
+viciile on-line furnizate de agențiile publice și private și
+
+locale și direcțiile județene, atât în ceea ce privește datele,
+
+poate asigura valabilitatea legalã a documentelor transmise
+
+cât și accesibilitatea și folosirea în comun a bãncilor de
+
+electronic.
+
+date.
+
+În scopul distribuirii acestor carduri municipalitãțile vor
+
+¥ Crearea unui serviciu la nivel național care sã susținã
+
+trebui sã întocmeascã propriile registre de stare civilã adre-
+
+constatarea, validarea și actualizarea taxelor municipale de
+
+sabile prin indexul registrelor de stare civilã (cap. 7.2) și
+
+proprietate, extins nu doar la nivelul administrațiilor publice
+
+vor trebui sã anunțe Ministerul Administrației Publice Ñ
+
+locale, ci și la cetãțeni și specialiști. Acest lucru se va
+
+Serviciul de evidențã informatizatã a persoanei numai asu-
+
+realiza prin:
+
+pra evenimentelor care produc schimbãri în index, fãrã sã
+
+Ð extinderea sistemului de schimburi interactive dintre
+
+fie nevoite sã apeleze la alte servicii auxiliare.
+
+registrele de proprietate și autoritãțile locale Ñ direcționat
+mai ales cãtre cele din urmã Ñ pentru a se accesa servi-
+
+Acțiunea 9.1. Testarea procedurii de emitere
+
+ciile de roluri și taxe, utile în verificarea vãrsãrii taxelor
+municipale de proprietate cãtre stat, ajutând astfel la accesul direct la fișierele Ministerului Finanțelor Publice;
+
+Pânã la finalizarea studiului de fezabilitate coordonat de
+Ministerul Administrației Publice, în colaborare cu câteva
+
+Ñ crearea unui portal Ñ fereastrã a taxelor de proprie-
+
+administrații municipale, va începe un proiect-test privind
+
+tate, destinat, în special, cetãțenilor, agenților economici,
+
+procedura de emitere a cãrților de identitate electronice
+
+tehnicienilor, specialiștilor, finanțiștilor și notarilor Ñ cu
+
+(I.D. cards).
+
+funcții specifice formalitãților de evidențã exactã a proprietãților. Fereastra taxelor de proprietate va permite utili-
+
+Este prevãzutã distribuirea a 100.000 de carduri I.D.
+cãtre municipiile participante.
+
+zatorilor sã solicite informãri asupra situației individuale
+
+Pe perioada acestei faze de lucru serviciile implicate vor
+
+proprii, referitoare la rolurile și taxele datorate, sã le com-
+
+fi cele locale, care au fost dezvoltate și funcționeazã în
+
+pare cu alte poziții din registrul de proprietate, sã evalueze
+
+cadrul municipalitãților participante.
+
+dobânzile aferente, sã constate eventualele contradicții și
+
+Emiterea a 100.000 carduri I.D. Ñ trim. III/2002
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 705/6.XI.2001
+
+Acțiunea 9.2. Faza a doua de emitere
+
+Când prima fazã va fi finalizatã vor fi emise 1.000.000
+de carduri I.D. care vor putea fi utilizate pentru accesul la
+serviciile de la nivel național.
+Se va efectua un studiu care sã menționeze serviciile
+la scarã naționalã ce vor putea fi accesate de posesorii
+cardurilor electronice I.D. și va fi planificat un program de
+dezvoltare a cel puțin unui astfel de serviciu. Pentru ca
+proiectul sã constituie un succes pentru comunitãțile locale
+este esențial ca testarea sã fie extinsã suficient de mult
+pentru a garanta transparența proiectului și pentru ca noul
+card, care va fi un sistem de identificare la nivel național,
+sã reprezinte, de asemenea, încã de la început un instrument de acces la serviciile cetãțenești care nu pot fi accesate utilizând actele de identitate actuale obișnuite.
+Specificațiile pentru serviciul național Ñ trim. II/2002
+Realizarea serviciului național Ñ trim. II/2003
+Emiterea a 1.000.000 de carduri I.D. Ñ trim. IV/2003
+10. Promovarea semnãturii digitale
+Aceastã acțiune intenționeazã sã promoveze rãspândirea
+și utilizarea semnãturii digitale.
+Dupã formarea registrului oficial al certificatorilor abilitați
+și asigurarea operabilitãții acestora semnãtura digitalã va
+deveni o realitate, fiind utilizabilã nu numai de cãtre
+cetãțeni sau agenți economici, ci mai ales de cãtre persoane fizice cu împuternicire de semnãturã.
+Inițiativele promoționale vor servi, de asemenea, la
+accelerarea utilizãrii semnãturilor digitale de persoane fizice
+și juridice, în special în relația lor cu administrația publicã
+prin intermediul portalului descris la cap. 5.2.
+Apoi se va constitui un fond destinat dotãrii unitãților
+administrației publice centrale și locale cu certificate de
+semnãturã digitalã pentru angajații lor. Semnãtura va face
+parte integrantã și va fi inclusã în cartea de identitate electronicã I.D. pentru angajații care vor poseda deja un asemenea card.
+Semnãtura digitalã pentru angajați Ñ trim. II/2002
+Promovarea utilizãrii portalurilor Ñ trim. IV/2002
+11. Informatizarea managementului documentelor
+Serviciile de registraturã informatizatã a documentelor, în
+versiunea lor cea mai avansatã, vor face posibile câteva
+performanțe inovatoare. În afarã de posibilitatea de a înregistra documentele de hârtie tradiționalã prin birourile de
+registraturã obișnuite, acestea vor face posibilã: înregistrarea electronicã a documentelor; conectarea directã a serviciului de registraturã la sistemul de completare și arhivare;
+forme de acces mai eficiente și o mai mare transparențã a
+
+actelor administrative; furnizarea de elemente ajutãtoare
+utile la efectuarea controlului managementului; testarea
+aplicațiilor electronice în coordonarea fluxului de documente.
+În acest context inovator este necesarã fundamentarea
+unei acțiuni de extindere a aplicațiilor și de instruire a personalului.
+Acțiunea 11.1. Serviciile de registraturã informatizatã a documentelor
+
+Înființarea serviciilor de registraturã informatizatã a documentelor la nivelul principalelor administrații publice locale
+(județe și orașe mari) pentru toate tipurile de formulare
+prevãzute în proiect, inclusiv obținere, completare, înaintare
+și înregistrare)
+Sistemele de înregistrare Ñ trim. IV/2002
+Acțiunea 11.2. Integrarea serviciilor de registraturã informatizatã a
+documentelor
+
+Conectarea sistemelor locale, prin intermediul rețelei
+naționale, la serviciile de registraturã ale organismelor
+administrației publice centrale va crea astfel o rețea de
+manipulare a documentelor, constituind o condiție preliminarã pentru folosirea programului de informatizare a registraturilor, în scopul asigurãrii transparenței.
+Integrarea sistemelor Ñ trim. II/2003
+Acțiunea 11.3. Transmiterea datelor structurate
+
+Proiecte-pilot de la nivelul administrațiilor centrale și
+locale pentru transmiterea principalelor informații într-o
+formã structuratã, utilizând standardele de piațã.
+Proiectul-pilot Ñ trim. IV/2002
+12. Procurarea electronicã ”e-Procurement,,
+Aceastã acțiune este menitã sã difuzeze, sã promoveze
+și sã dezvolte comerțul electronic ”e-Commerce,, ca instrument de lucru guvernamental pentru achiziția de bunuri și
+servicii. Noul instrument ar putea servi la atingerea câtorva
+obiective:
+¥ reducerea cheltuielilor pentru procurarea de bunuri și
+servicii de cãtre administrația publicã;
+¥ orientarea și accelerarea procedurilor;
+¥ asigurarea transparenței totale la licitații;
+¥ deschiderea pieței de desfacere mai competitive.
+Acțiunea 12. Procurarea electronicã ”e-Procurement,,
+
+Reglementãrile legale în vigoare și cele în curs de
+adoptare vor face posibilã procurarea electronicã, mai ales
+în sensul de a introduce noi prevederi privind ținerea
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 705/6.XI.2001
+licitațiilor on-line și asigurarea balanței cerere-ofertã în timp
+real, asigurând astfel permanent organismelor guvernamentale condiții optime de piațã. Publicarea caietelor de sarcini
+pentru licitații poate, de asemenea, sã fie fãcutã prin sistemele informaționale electronice, iar reglementãrile vor fi
+emise în așa fel încât sã facã noua metodã compatibilã cu
+actualele legi financiare.
+Printr-o mãsurã administrativã se vor institui douã comitete de coordonare care sã monitorizeze și sã ghideze
+acest proces de transformare din cadrul administrației
+publice centrale.
+Aceleași proceduri pot fi adoptate și de cãtre administrațiile publice locale pe bazã de voluntariat.
+Pregãtirea sistemelor și procedurilor Ñ trim. II/2002
+Lansarea sistemului ”e-Procurement,, Ñ trim. IV/2002
+13. Activitãți de instruire și specializare
+Introducerea tehnologiei informaționale în birourile de
+lucru la toate nivelurile creeazã necesitatea unei instruiri
+corespunzãtoare a funcționarilor publici. Nefamiliarizarea lor
+cu potențialul oferit de noile tehnologii și lipsa instruirii aferente pot duce la o reacție de respingere din partea acestora, afectând efectul scontat al substanțialelor investiții
+fãcute de Guvern în acest domeniu.
+Astfel conducerea de tip informațional trebuie sã conducã la:
+¥ ridicarea nivelului de competențã în utilizarea tehnologiei informaționale atât pentru cei care au deja abilitãți, cât
+și pentru cei care utilizeazã pentru prima datã un
+calculator;
+¥ creșterea productivitãții tuturor celor care lucreazã cu
+calculatorul;
+¥ realizarea unei amortizãri serioase a investițiilor fãcute
+în tehnologia informaționalã;
+
+15
+
+Acțiunea 13.1. Instruirea primarã
+
+Aceastã acțiune se concentreazã pe instruirea funcționarilor publici ca utilizatori ai tehnologiei informaționale, având
+douã aspecte:
+Ñ furnizarea cunoștințelor de bazã privind operarea pe
+calculator tuturor funcționarilor publici;
+Ñ creșterea nivelului cunoștințelor celor care deja au
+noțiuni de bazã.
+Cursurile de instruire și perfecționare vor urma modelul
+”Licenței Europene de Operare pe Computer,, (ECDL) care
+a fost adoptat ca standard de guvernele mai multor țãri.
+Ministerul Educației și Cercetãrii trebuie sã recomande
+aceastã abordare tuturor liceelor cu profil tehnic; ECDL a
+fost propus tuturor statelor membre ale U.E. ca certificat
+standard pentru calificarea de bazã în utilizarea calculatorului.
+Planul asigurã fiecãrui funcționar public un curs de
+instruire de 30 de ore atât pentru începãtori, cât și pentru
+avansați. Cursurile ECDL vor fi adaptate problemelor speciale legate de motivarea funcționarilor publici. Pentru a
+evita luarea oamenilor de la locul de muncã pe perioada
+instruirii se va recurge Ñ acolo unde va fi posibil Ñ la
+metodele învãțãmântului la distanțã.
+Cursurile vor consta, în mare parte, în practica efectivã
+pe calculator și vor necesita structuri adecvate pe întregul
+teritoriu al țãrii. Centre cu laboratoare pentru instruirea și
+certificarea ECDL vor fi înființate în toate municipiile
+reședințã de județ și în multe licee, ca și în câteva departamente universitare.
+În prima fazã în program vor fi implicați aproximativ
+250.000 de angajați publici.
+Acțiunea 13.2. Cursuri de specializare
+
+¥ crearea de abilitãți care sã determine pe oricine, indiferent de nivelul și felul școlarizãrii, sã doreascã sã devinã
+o parte a ”Societãții informaționale,,.
+
+Aceastã acțiune urmãrește sã accentueze și sã
+îmbunãtãțeascã abilitãțile specifice cadrelor de conducere
+responsabile cu infrastructura tehnologiei informaționale, mai
+ales managerii de rețea, personalul de înregistrare a documentelor și personalul de la ghișeele de relații cu publicul,
+pentru a se familiariza cu noile servicii și a le face eficiente în slujba cetãțenilor, prin familiarizarea acestora cu
+ultimele inovații tehnologice și legislative.
+
+Mulți funcționari publici (estimare 30% din numãrul lor
+total) sunt deja familiarizați cu instrumentele tehnologiei
+informaționale. Acest lucru este în strictã concordanțã cu
+rãspândirea folosirii calculatorului personal în cadrul
+administrațiilor publice, care în prezent este variabilã.
+Programul de rãspândire a instrumentelor tehnologiei
+informaționale și a rețelelor informaționale trebuie însoțit de
+un program de instruire în operarea pe calculator.
+
+Cursurile de specializare vor utiliza materialele metodologice de instruire editate special de Ministerul
+Comunicațiilor și Tehnologiei Informației și de Ministerul
+Administrației Publice, acestea urmând sã fie predate
+managerilor de rețea. Ministerul Administrației Publice și
+Ministerul Comunicațiilor și Tehnologiei Informației vor finaliza o convenție de cooperare pentru acordarea de consultanțã necesarã organizãrii acestor cursuri la nivel național.
+
+¥ asigurarea cã toți utilizatorii de calculatoare înțeleg
+cum poate fi eficient folositã tehnologia informaționalã și cã
+aceștia sunt familiarizați cu problemele de calitate implicite;
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 705/6.XI.2001
+14. Tabel recapitulativ Ñ costuri (în milioane dolari S.U.A.)
+Cost
+Cost
+Cost
+Cost
+Cost
+Cost
+Cost
+Cost
+Cost
+Cost
+Cost
+Cost
+Cost
+Cost
+Cost
+Cost
+Cost
+Cost
+Cost
+Cost
+Cost
+Cost
+Cost
+Cost
+
+3.1:
+3.2:
+acțiune
+acțiune
+5.1:
+5.2:
+acțiune
+6.1:
+6.2:
+acțiune
+7.1:
+7.2:
+7.3:
+acțiune
+acțiune
+9.1:
+9.2:
+acțiune
+acțiune
+acțiune
+acțiune
+13.1:
+13.2:
+acțiune
+
+3:
+4:
+
+5:
+
+6:
+
+7:
+8:
+
+9:
+10:
+11:
+12:
+
+13:
+
+Unitatea de elaborare a strategiei
+Unitatea de management a programului
+Structuri operaționale
+Rețeaua naționalã
+Portaluri informaționale
+Portaluri de servicii
+Portaluri ale administrației publice centrale
+Servicii județene
+Computerizarea administrațiilor publice locale
+Administrațiile publice locale
+Accesul la serviciile de stare civilã
+Indexul înregistrãrilor de stare civilã
+Serviciul de notificare a evenimentelor
+Integrarea registrelor de stare civilã
+Registrul de proprietate
+Testarea cardurilor electronice de identitate
+Emiterea cardurilor și furnizarea serviciilor
+Cartea electronicã de identitate (I.D. card)
+Semnãtura digitalã
+Managementul fluxului de documente
+Procurarea electronicã ”e-Procurement,,
+Instruirea de bazã
+Cursurile de specializare
+Instruirea funcționarilor publici
+
+1,5
+3,0
+4,5
+7,5
+8,8
+22,3
+31,1
+50,0
+95,0
+145,0
+10,0
+6,5
+15,0
+31,5
+50,0
+17,5
+13,0
+30,5
+13,0
+5,0
+2,5
+25,0
+12,0
+37,0
+
+TOTAL COST:
+
+357,6
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 5069427282 Trezoreria sector 5, București (alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 411.97.54, tel./fax 410.77.36.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: ramomrk@bx.logicnet.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 705/6.XI.2001 conține 16 pagini.
+
+Prețul 7.376 lei
+
+ISSN 1453Ñ4495
+
+

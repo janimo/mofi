@@ -1,0 +1,1969 @@
+PARTEA
+
+Anul IX Ñ Nr. 170 bis
+
+I
+
+Vineri, 25 iulie 1997
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+
+1.565Ð99/N. Ñ Ordin al ministrului de stat, ministrul industriei și comerțului, și al ministrului lucrãrilor publice
+și amenajãrii teritoriului privind aprobarea
+Normativului experimental pentru proiectarea și executarea sistemelor de distribuție a gazelor naturale
+cu conducte din polietilenã, indicativ I.6. PE-97 ....
+
+1Ð16
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+MINISTERUL INDUSTRIEI ȘI COMERÞULUI
+1.565/27 iunie 1997
+
+MINISTERUL LUCRÃRILOR PUBLICE
+ȘI AMENAJÃRII TERITORIULUI
+99/N/2 iulie 1997
+
+ORDIN
+privind aprobarea Normativului experimental pentru proiectarea și executarea sistemelor
+de distribuție a gazelor naturale cu conducte din polietilenã, indicativ I.6. PE-97
+În baza prevederilor hotãrârilor Guvernului nr. 386/1996, nr. 939/1996 și nr. 1.078/1996, privind înființarea distribuțiilor de gaze naturale în unele localitãți din țarã, precum și extinderea consumului de gaze naturale la gospodãriile
+populației, care prevãd realizarea rețelelor de distribuție prin utilizarea conductelor de polietilenã, și a avizelor Consiliului
+tehnico-științific al Ministerului Lucrãrilor Publice și Amenajãrii Teritoriului nr. 223 din 4 iunie 1997 și al Inspectoratului
+General al Corpului Pompierilor Militari nr. 33.964 din 18 iunie 1997,
+în temeiul Hotãrârii Guvernului nr. 1/1997 privind înființarea Ministerului Industriei și Comerțului și al Hotãrârii
+Guvernului nr. 456/1994 privind organizarea și funcționarea Ministerului Lucrãrilor Publice și Amenajãrii Teritoriului,
+ministru de stat, ministrul industriei și comerțului, și ministrul lucrãrilor publice și amenajãrii teritoriului emit urmãtorul ordin:
+Art. 1. Ñ Se aprobã Normativul experimental pentru
+proiectarea și executarea sistemelor de distribuție a gazelor
+naturale cu conducte din polietilenã, indicativ I.6. PE-97.
+Art. 2. Ñ Regia Autonomã a Gazelor Naturale
+”Romgaz,, Mediaș se va îngriji de revizuirea normativului,
+în termen de un an de la intrarea acestuia în vigoare.
+Art. 3. Ñ La data intrãrii în vigoare a prevederilor prezentului ordin își înceteazã valabilitatea Ordinul ministrului
+industriilor nr. 1.638 din 31 octombrie 1996. La aceeași
+datã își înceteazã valabilitatea și Normativul pentru proiecMinistru de stat, ministrul industriei și comerțului,
+
+tarea și executarea rețelelor de conducte din polietilenã
+pentru distribuție gaze naturale Ñ indicativ I.6. PE-96.
+Art. 4. Ñ Prezentul ordin și Normativul I.6. PE-97 se
+vor publica în Monitorul Oficial al României, Partea I, și în
+broșurã tipãritã de Societatea Românã pentru Protecția
+contra Incendiilor Ñ SORPINC București.
+Art. 5. Ñ Regia Autonomã a Gazelor Naturale
+”Romgaz,, Mediaș va aduce la îndeplinire prevederile prezentului ordin.
+Ministrul lucrãrilor publice și amenajãrii teritoriului,
+
+Cãlin Popescu-Tãriceanu
+Nicolae Noica
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 170 bis
+
+MINISTERUL INDUSTRIEI ȘI COMERÞULUI
+
+MINISTERUL LUCRÃRILOR PUBLICE
+ȘI AMENAJÃRII TERITORIULUI
+
+NORMATIV EXPERIMENTAL
+
+pentru proiectarea și executarea sistemelor de distribuție a gazelor naturale
+cu conducte din polietilenã
+Indicativ I.6. PE-97
+
+NORMATIV
+pentru proiectarea și executarea rețelelor de conducte din polietilenã de distribuție a gazelor naturale
+CAPITOLUL 1
+Obiectul. Domeniul de aplicare
+1.1. Prevederile prezentului normativ se aplicã la proiectarea și executarea lucrãrilor noi și reparațiilor capitale din
+sistemele de distribuție a gazelor naturale cu presiuni pânã
+la 4 bari, cu utilizarea conductelor și elementelor de îmbinare din polietilenã.
+1.2. Prevederile prezentului normativ completeazã normativul de proiectare și executare a rețelelor și instalațiilor
+de utilizare a gazelor naturale I.6. și se aplicã, experimental, timp de un an de la data intrãrii în vigoare.
+1.3. Nu fac obiectul prezentului normativ:
+Ñ sisteme de distribuție cu presiuni mai mari de 4 bari;
+Ñ conducte și branșamente montate suprateran;
+Ñ conducte și instalații tehnologice de gaze combustibile din schelele petroliere;
+Ñ conducte destinate vehiculãrii altor gaze decât cele
+definite de STAS 3317.
+1.4. Este interzisã montarea suprateranã a conductelor
+din polietilenã.
+Este interzisã montarea conductelor din polietilenã în
+soluri saturate în produse petroliere.
+CAPITOLUL 2
+Terminologie
+Terminologia utilizatã în normativul I.6. rãmâne valabilã
+și la prezentul normativ, cu urmãtoarele completãri:
+2.1. Caracteristici geometrice
+2.1.1. Diametrul nominal dn
+dn Ñ este diametrul exterior specificat al țevii.
+2.1.2. Diametrul exterior mediu de
+de Ñ este valoarea mediei aritmetice a caturilor dintre
+mãsurãtorile circumferinței exterioare a țevii în orice secțiune transversalã și (3,1416), rotunjitã în plus la 0,1 mm.
+2.1.3. Ovalitate
+Ovalitatea este diferența dintre diametrul exterior maxim
+mãsurat și diametrul exterior minim mãsurat în aceeași
+secțiune transversalã a țevii.
+2.1.4. Grosimea nominalã de perete en
+en Ñ este valoarea numericã a grosimii de perete a
+unei țevi, care este un numãr rotunjit apropiat, aproximativ
+egal cu dimensiunea de fabricație, în milimetri.
+2.1.5. Raport dimensional standard SDR
+SDR Ñ este raportul dintre diametrul nominal și grosimea nominalã de perete.
+dn
+SDR = e
+n
+
+Compression by CVISION Technologies’
+
+2.2. Definiții ale caracteristicilor materialelor
+2.2.1. Limita inferioarã de încredere (siguranța) Lî
+Lî Ñ este mãrimea mãsuratã în MN/m2, care poate fi
+consideratã ca o proprietate a materialului, reprezentând
+97,5% a limitei inferioare de rezistențã hidrostaticã pe termen lung, teoreticã, la o temperaturã de 20¡ C pe o
+perioadã de 50 ani, în apã. Se determinã conform
+SR ISO/TR 9080 și ISO 1167 .
+2.2.2. Coeficientul global de exploatare (de calcul) C
+C Ñ este un coeficient, luat din seria R 20, care înglobeazã condițiile de exploatare și proprietãțile componentelor
+sistemului de conducte, altele decât cele reprezentate de Lî.
+Pentru aplicațiile în domeniul gazelor, valoarea minimã a lui
+C este 2,0, iar cea maximã de 3,25, la alegerea utilizatorului.
+2.2.3. Rezistența minimã necesarã Pm
+Pm Ñ este valoarea Lî rotunjitã în minus la cea mai
+apropiatã valoare a seriei R10 când Lî este mai mic de
+10MN/m2 și la valoarea cea mai apropiatã a seriei R 20,
+când Lî este mai mare sau egalã cu 10MN/m2.
+Nota: Seria R 10 și R 20 sunt seriile numerelor Renard
+conform ISO 3 și ISO 497.
+2.3. Definiții referitoare la condițiile de exploatare
+2.3.1. Presiune maximã de funcționare Pf
+Cea mai mare presiune efectivã a gazului din sistemul
+de conducte, exprimatã în bari, care poate fi admisã la
+funcționarea continuã. Se iau în calcul caracteristicile fizice
+și mecanice ale componentelor fizice și mecanice ale sistemului de conducte și este datã de relația:
+20 Pm
+Pf = C(SDR-1)
+2.3.2. Presiunea maximã de serviciu Ps
+Este cea mai mare presiune la care sistemul de conducte funcționeazã în timpul unui ciclu normal.
+CAPITOLUL 3
+Materiale
+
+Pentru realizarea sistemelor de distribuție a gazelor
+naturale se vor folosi numai țevi și elemente de asamblare
+standardizate și agrementate conform prevederilor legale în
+vigoare.
+Materia primã utilizatã pentru producerea țevilor și elementelor de asamblare este polietilena de medie densitate
+Ñ PEMD Ñ, respectiv polietilena de înaltã densitate Ñ
+PEID Ñ, conform For nr. 1.
+PdfCompressor. tabeluluiEvaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 170 bis
+
+3
+
+TABELUL Nr. 1
+Denumirea
+
+PE
+PE
+PE
+PE
+
+50
+63
+80
+100
+
+Lî (20¼C, 50 de ani, 97,5%)
+(MN/m2)
+
+5,0
+6,3
+8,0
+10,0
+
+<
+<
+<
+<
+
+...
+...
+...
+...
+
+<
+6,5
+<
+8,2
+< 9,99
+< 11,19
+
+Pm
+(MN/m2)
+
+5,0
+6,3
+8,0
+10,0
+
+3.1. Þevi
+3.1.1. Þevile se produc din materie primã nouã (fãrã reciclare) în gama de dimensiuni prezentatã (conform SR-ISO 4437) în tabelul nr. 2.
+
+TABELUL Nr. 2
+Diametrul nominal (dn)
+[mm]
+
+Grosimea minimã de perete (emin)
+[mm]
+SDR 17,6
+SDR 11
+
+1
+
+2
+
+3
+
+16
+20
+25
+32
+40
+50
+63
+75
+90
+110
+125
+140
+160
+180
+200
+225
+250
+280
+315
+355
+400
+450
+500
+560
+630
+
+2,3
+2,3
+2,3
+2,3
+2,3
+2,9
+3,6
+4,3
+5,2
+6,3
+7,1
+8,0
+9,1
+10,3
+11,4
+12,8
+14,2
+16,0
+17,9
+20,2
+22,8
+25,6
+28,5
+31,9
+35,8
+
+3,0
+3,0
+3,0
+3,0
+3,7
+4,6
+5,8
+6,8
+8,2
+10,0
+11,4
+12,7
+14,6
+16,4
+18,2
+20,5
+22,7
+25,4
+28,6
+32,3
+36,4
+41,0
+45,5
+51,0
+57,3
+
+3.1.2. Þevile se livreazã în tronsoane drepte, în colaci sau roluite pe tamburi.
+3.1.3. Toleranțele maxime admise pentru diametrul exterior mediu și ovalitatea acestuia sunt
+conforme tabelului nr. 3.
+Þevile de produc:
+Ñ de grad A, la o execuție normalã (în gama de diametre 280Ñ630 mm) și sunt destinate
+îmbinãrilor mecanice sau cu element încãlzitor;
+Ñ de grad B, la o execuție precisã (în gama de diametre 16Ñ630 mm) și sunt destinate
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes
+tuturor tipurilor de îmbinãri.
+
+Only
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 170 bis
+TABELUL Nr. 3
+
+Diametre exterioare medii și abaterea de la circularitate
+Diametrul
+nominal dn
+[mm]
+
+de min.
+
+de max.
+
+[mm]
+
+Maximul valorii absolute
+a ovalitãții
+[mm]
+
+[mm]
+Grad A
+
+Grad B
+
+Grad K
+
+Grad N
+
+3
+
+4
+
+5
+
+6
+
+1
+
+2
+
+16
+
+16,0
+
+Ñ
+
+16,3
+
+1,2
+
+1,2
+
+20
+
+20,0
+
+Ñ
+
+20,3
+
+1,2
+
+1,2
+
+25
+
+25,0
+
+Ñ
+
+25,3
+
+1,5
+
+1,2
+
+32
+
+32,0
+
+Ñ
+
+32,3
+
+2,0
+
+1,3
+
+40
+
+40,0
+
+Ñ
+
+40,4
+
+2,4
+
+1,4
+
+50
+
+50,0
+
+Ñ
+
+50,4
+
+3,0
+
+1,4
+
+63
+
+63,0
+
+Ñ
+
+63,4
+
+3,8
+
+1,5
+
+75
+
+75,0
+
+Ñ
+
+75,5
+
+Ñ
+
+1,6
+
+90
+
+90,0
+
+Ñ
+
+90,6
+
+Ñ
+
+1,8
+
+110
+
+110,0
+
+Ñ
+
+110,7
+
+Ñ
+
+2,2
+
+125
+
+125,0
+
+Ñ
+
+125,8
+
+Ñ
+
+2,5
+
+140
+
+140,0
+
+Ñ
+
+140,9
+
+Ñ
+
+2,8
+
+160
+
+160,0
+
+Ñ
+
+161,0
+
+Ñ
+
+3,2
+
+180
+
+180,0
+
+Ñ
+
+181,1
+
+Ñ
+
+3,6
+
+200
+
+200,0
+
+Ñ
+
+201,2
+
+Ñ
+
+4,0
+
+225
+
+225,0
+
+Ñ
+
+226,4
+
+Ñ
+
+4,5
+
+250
+
+250,0
+
+Ñ
+
+251,5
+
+Ñ
+
+5,0
+
+280
+
+280,0
+
+282,6
+
+281,7
+
+Ñ
+
+9,8
+
+315
+
+315,0
+
+317,9
+
+316,9
+
+Ñ
+
+11,1
+
+355
+
+355,0
+
+358,2
+
+357,2
+
+Ñ
+
+12,5
+
+400
+
+400,0
+
+403,6
+
+402,4
+
+Ñ
+
+14,0
+
+450
+
+450,0
+
+454,1
+
+452,7
+
+Ñ
+
+15,6
+
+500
+
+500,0
+
+504,5
+
+503,0
+
+Ñ
+
+17,5
+
+560
+
+560,0
+
+565,0
+
+563,4
+
+Ñ
+
+19,6
+
+630
+
+630,0
+
+635,7
+
+633,8
+
+Ñ
+
+22,1
+
+NOTÃ:
+Ñ Mãsurarea ovalitãții se va determina la fabricant.
+Ñ Gradul K se aplicã pentru țeava livratã în colaci cu Dn ² 63 mm.
+Ñ Gradul N se aplicã pentru țeava livratã roluit pe tambur cu Dn ² 110 mm și pentru țevile
+livrate în tronsoane drepte (toatã gama de diametre).
+3.1.4. Diferența admisã între grosimea peretului în orice punct (ei) și grosimea nominalã de
+perete (en) va fi permanent pozitivã (ei > en). În tabelul nr. 4 sunt prezentate valorile maxime
+Compression byale toleranțelor Technologies’ PdfCompressor.perete. Evaluation Purposes
+admise CVISION pozitive în funcție de grosimea nominalã de For
+
+Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 170 bis
+
+5
+
+TABELUL Nr. 4
+Grosimea nominalã
+a peretului en
+(mm)
+
+Toleranța
+pozitivã
+(mm)
+
+Grosimea nominalã
+a peretului en
+(mm)
+
+Toleranța
+pozitivã
+(mm)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+2,0
+
+3,0
+
+0,4
+
+24,0
+
+25,0
+
+2,6
+
+3,0
+
+4,0
+
+0,5
+
+25,0
+
+26,0
+
+2,7
+
+4,0
+
+5,0
+
+0,6
+
+26,0
+
+27,0
+
+2,8
+
+5,0
+
+6,0
+
+0,7
+
+27,0
+
+28,0
+
+2,9
+
+6,0
+
+7,0
+
+0,8
+
+28,0
+
+29,0
+
+3,0
+
+7,0
+
+8,0
+
+0,9
+
+29,0
+
+30,0
+
+3,1
+
+8,0
+
+9,0
+
+1,0
+
+30,0
+
+31,0
+
+3,2
+
+9,0
+
+10,0
+
+1,1
+
+31,0
+
+32,0
+
+3,3
+
+10,0
+
+11,0
+
+1,2
+
+32,0
+
+33,0
+
+3,4
+
+11,0
+
+12,0
+
+1,3
+
+33,0
+
+34,0
+
+3,5
+
+12,0
+
+13,0
+
+1,4
+
+34,0
+
+35,0
+
+3,6
+
+13,0
+
+14,0
+
+1,5
+
+35,0
+
+36,0
+
+3,7
+
+14,0
+
+15,0
+
+1,6
+
+36,0
+
+37,0
+
+3,8
+
+15,0
+
+16,0
+
+1,7
+
+37,0
+
+38,0
+
+3,9
+
+16,0
+
+17,0
+
+1,8
+
+38,0
+
+39,0
+
+4,0
+
+17,0
+
+18,0
+
+1,9
+
+39,0
+
+40,0
+
+4,1
+
+18,0
+
+19,0
+
+2,0
+
+40,4
+
+41,0
+
+4,2
+
+19,0
+
+20,0
+
+2,1
+
+41,0
+
+42,0
+
+4,3
+
+20,0
+
+21,0
+
+2,2
+
+42,0
+
+43,0
+
+4,4
+
+21,0
+
+22,0
+
+2,3
+
+42,0
+
+43,0
+
+4,5
+
+22,0
+
+23,0
+
+2,4
+
+43,0
+
+44,0
+
+4,6
+
+23,0
+
+24,0
+
+2,5
+
+44,0
+
+45,0
+
+4,7
+
+24,0
+
+25,0
+
+2,6
+
+45,0
+
+46,0
+
+4,8
+
+3.1.5. Capetele țevilor trebuie sã fie tãiate neted și perpendicular pe lungimea țevii și vor fi
+protejate cu capace din polietilenã. Se admit abateri de la perpendicularitate ale capetelor țevilor,
+conform tabelului nr. 5.
+
+TABELUL Nr. 5
+Diametrul exterior al țevii
+[mm]
+
+Abaterea de la perpendicularitate
+[mm]
+
+0 É 50
+
+1
+
+63 É 110
+
+2
+
+125 É 160
+
+3
+
+180 É 200
+
+4
+
+250 É 315
+
+5
+
+355 É 630
+
+7
+
+3.1.6. Þevile se vor fabrica de culoare galbenã sau de culoare neagrã, marcatã cu dungi
+galbene subțiri (minim 4) de-a lungul generatoarelor, repartizate uniform pe circumferințã.
+3.1.7. Marcarea țevilor se va realiza prin imprimarea directã pe țeavã. Marcarea se va efecCompression astfelCVISION producã defecte țevii și sã fie lizibilã pe întreaga duratã de viațã a țevilor.
+tua by încât sã nu Technologies’ PdfCompressor. For Evaluation Purposes
+
+Only
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 170 bis
+Marcarea țevilor va conține:
+Aspecte
+
+Marcaj
+
+Fabricantul sau marca
+
+Nume, simbol, denumire comercialã
+
+Fluidul vehiculat
+
+Gaz
+
+Dimensiuni
+
+Dn x en
+
+SDR (pentru țevi Dn > 40 mm)
+
+SDR 11(17,6)
+
+Presiunea maximã de serviciu
+
+Ps
+
+Tipul de material
+
+PE 80
+
+Perioada de producție (data, codul) o identificarea
+schimbului, a liniei de producție
+Standardul de fabricație
+
+SR-ISO 4437 (sau echivalent)
+
+Mențiunea cã materia primã utilizatã nu este
+reciclatã
+Un numãr secvențial care crește la intervale de
+1 m, de-a lungul seriei, de la 000 la 999 sau de
+la 0000 pânã la 9999
+
+3.2. Elemente de asamblare
+3.2.1. Elementele de asamblare se vor realiza din materii prime care sã fie compatibile cu materiile prime din care
+sunt realizate țevile.
+3.2.2. Condițiile de realizare a elementelor de asamblare
+trebuie sã corespundã normelor internaționale (ISO 8085-1;
+ISO 8085-2; ISO 8085-3; ISO CD 10836 etc.)
+
+Ñ Este necesar sã se evite contactul cu produsele chimice, ca de exemplu hidrocarburile lichide.
+
+3.3. Transport
+3.3.1. Pentru transportul țevilor din PE drepte trebuie
+folosite vehicule cu podeaua netedã și prevãzutã cu apãrãtori laterale de aproximativ 2 m, plate, fãrã denivelãri, iar
+țevile din PE trebuie sã fie bine legate în timpul transportului.
+3.3.2. În timpul transportului, țevile din PE trebuie legate
+continuu în scopul reducerii la minimum a deplasãrii între
+ele și suporții lor.
+
+Fig. 1
+
+Ñ Þevile și fitingurile din polietilenã trebuie sã fie stocate astfel încât sã nu existe riscul deteriorãrii prin spargere, gãurire, zgâriere sau expunere la luminã pe duratã
+lungã (mai mare de 2 ani).
+Înãlțimea admisibilã de stivuire a țevilor depinde de
+3.4. Depozitarea
+material, diametru, grosimea de perete și temperatura exte3.4.1. Condiții de depozitare
+rioarã. Se vor respecta cu strictețe recomandãrile fabricanÑ Þevile drepte din polietilenã trebuie depozitate pe tului în acest sens.
+suprafețe plane, lipsite de pãrți proeminente care pot sã le
+3.4.2. Þeava livratã sub formã de colaci și tamburi se
+deformeze sau sã le deterioreze, sau pe cadre așezate la va depozita respectând urmãtoarele condiții:
+distanțe egale între ele și construite astfel încât greutatea
+Ñ rigidizarea capetelor de țeavã;
+fascicolului sã fie transmisã numai prin cadre (fig. 1).
+Ñ legarea în straturi a spirelor;
+Ñ Fitingurile din polietilenã trebuie sã fie stocate în
+Ñ asigurarea unei distanțe de siguranțã între țeavã și
+sol.
+ambalajele lor by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+Compressionoriginale, pânã la folosirea lor.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 170 bis
+3.4.3. Þevile și elementele de asamblare din PE se vor
+depozita în spații închise sau acoperite, ferite de acțiunea
+directã a razelor soarelui sau a intemperiilor.
+CAPITOLUL 4
+Proiectare
+4.1. Sistemele de distribuție a gazelor naturale utilizând
+conducte din polietilenã respectã regimul de curgere similar
+cu cele din oțel și, în consecințã, rãmân valabile condițiile
+din normativul I.6., cu precizarea cã, la pierderile de sarcinã liniare, se modificã coeficientul λ, acesta având valorile precizate în anexa 1.
+Elementele și relațiile de calcul pentru dimensionarea
+conductelor din PE sunt cele prezentate în normativul I.6.,
+cu precizarea cã nomograma pentru calculul conductelor
+este prezentatã în anexa nr. 2.
+4.2. Determinarea presiunii maxime de serviciu
+Ps =
+
+20 x Pm
+
+,
+
+[N/mm2],
+
+C x (SDR - 1)
+
+unde:
+Ñ Ps Ð presiune maximã de serviciu (N/mm2)
+Ñ C Ð coeficient global de calcul
+C = 2.......3,25
+Ñ Pm Ð rezistența minimã necesarã (conform tabelului nr. 1)
+Ñ SDR Ð raport dimensional standard
+se alege din tabelul nr. 2.
+4.3. Calculul grosimii de perete
+
+7
+
+unde:
+ÆL Ð modificarea de lungime (mm)
+K Ð 1
+L Ð lungimea inițialã (m)
+α Ð coeficientul dilatãrii liniare (mm/m¼C); Ð pentru PE:
+α = 0,2 mm/m¼C
+Æt Ð diferența de temperaturã (¼C).
+
+CAPITOLUL 5
+Execuție
+5.1. Verificarea materialelor
+5.1.1. La executarea lucrãrilor se vor utiliza numai materiale verificate în ceea ce privește respectarea condițiilor
+tehnice prevãzute în proiect și corespondența cu normele
+în vigoare.
+5.1.2. Þevile și elementele de îmbinare se vor verifica
+din punct de vedere al aspectului. Elementele de îmbinare
+sau porțiunile de țeavã necorespunzãtoare nu se vor utiliza. Verificarea aspectului se efectueazã cu ochiul liber, la
+lumina zilei, de la o distanțã de maximum 0,5 m, având ca
+scop identificarea eventualelor defecte (zgârieturi, bavuri,
+umflãturi, goluri de material, incluziuni etc.) pe suprafețele
+exterioare și interioare.
+5.2. Amplasarea conductelor
+
+5.2.1. Adâncimea minimã de pozare îngropatã a conductelor va fi de:
+e =
+,
+[mm],
+0,90 m Ð pentru conducte cu presiuni între 0,2 și 4,0
+20 σ + Ps
+bari;
+0,60 m Ð pentru conducte cu presiuni între 0,05 și 0,2
+unde:
+bari.
+Ñ e Ð grosimea de perete (mm);
+5.2.2. Adâncimea minimã de pozare îngropatã a conÐ dnÐ diametrul nominal al țevii (mm);
+Ñ PsÐ presiunea maximã de serviciu, determinatã con- ductelor se poate reduce în cazuri speciale cu condiția
+form pct. 4.2. (N/mm2)
+montãrii conductei din PE, protejatã în țevi din oțel, tuburi
+Ñ σ Ð tensiunea admisibilã (N/mm2)
+din beton sau tuburi și plãci de protecție din beton, care
+sã preia toate eforturile datorate circulației rutiere sau altor
+S
+factori.
+,
+σ =
+5.2.3. În cazul paralelismului între conductele din PE și
+K
+liniile de tramvai urbane, distanța minimã admisã Ñ pe orizontalã Ñ mãsuratã între cea mai apropiatã linie de tramunde:
+Ñ S Ð rezistența specificã la tracțiune minim vai și generatoarea conductei, este de 0,5 m.
+garantatã pentru 50 de ani la 20¼C
+5.2.4. La subtraversarea liniilor de tramvai adâncimea de
+(N/mm2). Valoarea se indicã de cãtre fur- pozare a tubului de protecție a conductelor din PE trebuie
+nizor;
+sã fie de minimum 1,0 m de la generatoarea superioarã a
+Ñ K Ð coeficient de siguranțã K = 3,25 pentru SDR 11
+tubului la șina de tramvai.
+K = 2,0 pentru SDR 17,6,
+5.2.5. La subtraversarea liniilor de cale feratã conductele
+de PE se vor proteja în conducte din oțel, conform preve4.4. Calculul dilatației și al contracției conductelor
+derilor din normativul I.6.
+din PE
+5.2.6. Distanțele minime dintre conductele din PE și alte
+instalații, construcții For Evaluation Purposes 6.
+ÆL = K x L x α x Æt,
+Compression by CVISION Technologies’ PdfCompressor. sau obstacole sunt redate în tabelul nr. Only
+dn x Ps
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 170 bis
+TABELUL Nr. 6
+Nr.
+crt.
+
+Instalația, construcția
+sau obstacolul
+
+p = 2...4 bari
+
+Distanța minimã (m)
+p = 0,2...2 bari
+
+1
+
+2
+
+3
+
+4
+
+3
+
+2
+
+2
+
+1,5
+
+1,5
+
+1
+
+3. Conducte de canalizare
+
+1
+
+1
+
+1
+
+4. Canale pentru rețele termice,
+canale pentru rețele telefonice
+
+1
+
+1
+
+1
+
+0,5
+
+0,5
+
+0,5
+
+6. Cãmine pentru rețele termice,
+telefonice și de canalizare,
+stații sau cãmine subterane în
+construcții independente
+
+1
+
+1
+
+1
+
+7. Linii de tramvai (distanța mãsuratã între linia cea mai apropiatã și generatoarea lateralã)
+
+0,5
+
+0,5
+
+0,5
+
+8. Copaci
+
+1,5
+
+1,5
+
+1,5
+
+9. Stâlpi
+
+0,3
+
+0,3
+
+0,3
+
+1. Clãdiri cu subsoluri sau aliniamente de terenuri susceptibile
+a fi construite
+2. Clãdiri fãrã subsoluri
+
+5. Conducte de apã, cabluri de
+forțã, cabluri telefonice, montate
+în sol sau în cãminele acestor
+instalații
+
+p = 0,0...0,2 bari
+
+NOTÃ:
+Când respectarea distanțelor de la pct. 1Ð6 nu este posibilã, aceste distanțe se pot reduce, cu
+condiția montãrii conductei în tub de protecție.
+5.2.7. Tuburile de protecție au drept scop:
+a) protecția conductei din PE, la solicitãri mecanice
+datorate sarcinilor externe;
+b) direcționarea eventualelor scãpãri de gaze.
+În cazul a), protecția se realizeazã prin utilizarea de
+tuburi de protecție din oțel sau beton, dimensionate corespunzãtor. În cazul b), se pot folosi ca protecție și alte
+materiale (inclusiv țevi din PE).
+5.3. Sãparea șanțurilor
+Sãparea șanțurilor se efectueazã în condițiile prevãzute
+în normativul I.6, cu urmãtoarele precizãri:
+5.3.1. Lãțimea sãpãturii șanțului se va alege astfel încât
+de fiecare parte a țevii sã rãmânã un spațiu liber de câte
+10 cm.
+5.3.2. Fundul șanțului va fi nivelat și acoperit cu un
+strat de nisip cu înãlțimea de 10 cm.
+
+5.4.3. Prelucrarea și îmbinarea țevilor și a elementelor
+de racordare din PE se pot realiza la o temperaturã a
+mediului ambiant cuprinsã între 0¼C și +40¼C.
+5.4.4. Fiecare dintre sistemele de îmbinare prezentate
+se realizeazã cu echipamente speciale pentru tipul de îmbinare respectiv. În anexa nr. 3 sunt prezentate sistemele de
+asamblare, procedeele și echipamentele utilizate la realizarea îmbinãrilor.
+5.4.5. Sistemele de îmbinare, procedeele și echipamentele utilizate trebuie agrementate în conformitate cu prevederile legale.
+
+5.5. Montarea armãturilor
+5.5.1. Se pot utiliza armãturi din PE sau din oțel.
+Armãturile din oțel vor avea suprafețele protejate împotriva
+coroziunii.
+5.5.2. Armãturile se vor instala, astfel încât sã nu
+5.4. Îmbinarea țevilor și a elementelor de asamblare supunã țeava din PE la sarcini suplimentare (datorate
+5.4.1. Îmbinarea țevilor și a elementelor de asamblare acționãrilor sau greutãții proprii).
+5.5.3. Armãturile din PE se sudeazã cu țevile din PE
+din PE se realizeazã prin urmãtoarele procedee:
+prin unul dintre procedeele prezentate la cap. 5.4. și în
+Ð sudarea cu elemente încãlzitoare:
+anexe.
+Ð sudura ”cap la cap,,;
+5.5.4. Armãturile din oțel se monteazã în douã variante:
+Ð sudura de tip ”șa,,;
+Ð cu flanșe;
+Ð sudura de tip ”polifuziune,,;
+Ð cu racorduri din PE.
+Ð sudura de tip ”electrofuziune,, (cu elemente de asam5.5.4.1. Armãturile din oțel, prevãzute cu flanșe, se vor
+blare prevãzute cu rezistențã electricã);
+racorda la țevile din PE prin sistemul de trecere de la PE
+Ð îmbinare cu racorduri mecanice;
+la metal, cu adaptor de flanșe și flanșe (vezi anexa nr. 3).
+Ð alte procedee agrementate.
+5.5.4.2. Armãturile din oțel, prevãzute cu racorduri de
+5.4.2. Toate îmbinãrile realizate între țevi și/sau între
+țevi și elemente de asamblare trebuie sã prezinte cel puțin PE, se vor suda cu țevile din PE prin unul dintre proceCompression bycu cea a țevii. Technologies’ PdfCompressor.la For 5.4 și în anexa nr. 3.
+deele prezentate
+cap. Evaluation Purposes Only
+aceeași rezistențã CVISION
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 170 bis
+5.5.5. Toate armãturile se vor monta subteran și
+vor fi prevãzute cu elemente de acționare de la suprafațã.
+
+9
+
+5.5.6. Armãturile pot fi montate în cãmine de vizitare
+sau îngropat în pãmânt (cu tub protector și tijã de acționare de la suprafațã) (vezi fig. 2)
+
+A. În cãmin de vizitare
+
+B. Fãrã cãmin de vizitare
+Fig. 2
+
+5.6. Pozarea conductelor
+5.6.1. Coborârea conductelor în șanț se va efectua
+numai dupã ce la toate îmbinãrile sudate s-au efectuat
+ciclurile de rãcire.
+5.6.2. La coborârea conductei în șanț se vor utiliza frânghii, chingi și/sau scânduri. Este interzisã folosirea cablurilor, sârmei, lanțurilor sau a altor dispozitive ori corpuri
+metalice.
+5.6.3. La coborârea conductei în șanț se va evita contactul conductei cu pereții șanțului, pentru a nu fi deterioratã conducta. Se va acorda o atenție deosebitã la
+trecerea conductei pe sub sau pe lângã obstacole.
+5.6.4. Pentru realizarea unor schimbãri de direcție, țevile
+din PE pot fi curbate fãrã aport de cãldurã. Raza minimã
+de curburã este de 30 Dn pentru SDR 17,6 și de 20 Dn
+pentru SDR 11.
+5.6.5. Þevile din PE se vor monta pe cât posibil pe mijlocul fundului șanțului.
+5.6.6. Pentru protejarea conductelor în timpul unor eventuale lucrãri edilitare se va monta deasupra conductei, pe
+întreaga lungime a acesteia, la circa 25Ð30 cm deasupra
+generatoarei superioare a conductei, o bandã de avertizare
+de culoare galbenã din PE, având o lãțime minimã de 6
+cm.
+
+5.7.4. Dupã depunerea și compactarea primului strat de
+umpluturã, se așazã banda de avertizare și se continuã
+umplerea șanțului (fig. 3).
+
+Fig. 3.
+5.7.5. Umplerea șanțului se va efectua pe zone de
+20Ð30 m, avansând într-o singurã direcție. Se poate lucra
+simultan pe trei zone consecutive, executându-se în același timp:
+Ð pe zona 1 Ð umplerea cu material de umpluturã pânã
+la 50 cm deasupra conductei;
+Ð pe zona 2 Ð umplerea cu material de umpluturã pânã
+la 20 cm deasupra conductei;
+Ð pe zona 3 Ð umplerea cu nisip.
+5.7.6. În cazul în care nu existã variații de temperaturã
+a mediului ambiant cu mai mult de 5¼C într-o perioadã de
+8 ore, se poate efectua umplerea șanțului și pe porțiuni
+mai mari de 30 m.
+
+5.7. Umplerea șanțului
+5.7.1. Înainte de pozarea conductei pe fundul șanțului
+se așazã un strat de nisip compactat, cu grosimea de
+10 cm.
+5.7.2. Dupã ce se așazã conducta în șanț se umple
+șanțul cu nisip pânã când grosimea stratului de nisip, compactat manual, depãșește cu 10 cm generatoarea supe5.8. Marcarea traseului conductelor
+rioarã a conductei.
+5.8.1. Traseul conductei va fi semnalat prin marcaje cu
+5.7.3. Materialul rezultat din sãpãturã, cu care se umple
+șanțul va fi introdus, treptat, în straturi de maximum 30 cm plãci inscripționate, montate pe repere fixe, în punctele stași va fi compactat CVISION Technologies’ PdfCompressor. și Romgaz Ñ R.A.
+bilite de proiectant For Evaluation Purposes Only
+Compression bymanual.
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 170 bis
+
+5.8.2. Pentru determinarea traseului conductelor se
+va utiliza un fir metalic însoțitor. Firul metalic va avea
+diametrul de 0,8 mm și va fi izolat. Firul metalic va fi
+montat pe întreg traseul conductelor și al branșamentelor
+
+și va fi fixat pe generatoarea superioarã a acestora.
+La distanțe de maximum 300 m, firul metalic va fi
+prevãzut cu puncte de racordare la o sursã electricã.
+(vezi fig. 4).
+
+Fig. 4
+
+Ð GRADUL I Ð P.E.: Proiectarea și executarea tuturor
+categoriilor de lucrãri aferente rețelelor de distribuție a
+Verificãri și probe
+gazelor naturale prin conducte din polietilenã.
+6.1. Verificãri înainte de montaj
+Ð GRADUL II Ð P.E.: Executarea tuturor categoriilor de
+6.1.1. Se va efectua o verificare a aspectului țevilor și lucrãri aferente rețelelor de distribuție a gazelor naturale
+elementelor de asamblare, pentru a fi eliminate cele care prin conducte din polietilenã.
+prezintã defecte (conform pct 5.1.2.).
+7.3. Prin instalator autorizat (P.E.) se înțelege persoana
+6.1.2. Se va efectua o verificare în ceea ce privește fizicã care posedã autorizație emisã de Regia Autonomã a
+corespondența materialelor cu prevederile din proiect (dia- Gazelor Naturale ”Romgaz,, Mediaș pentru proiectarea și
+metre nominale, grosimi de perete, tipul de material plastic executarea rețelelor de distribuție a gazelor naturale prin
+conducte din polietilenã.
+etc.).
+7.4. Autorizarea personalului specializat se va face de
+6.2. Verificãri în timpul montajului:
+cãtre Regia Autonomã a Gazelor Naturale ”Romgaz,,
+Ð verificarea corectei funcționãri a dispozitivelor de
+Mediaș, care va stabili componența și atribuțiile comisiei de
+sudare;
+Ð verificarea calitãții sudurilor efectuate conform celor examinare.
+7.5. Persoanele care vor fi supuse examinãrii, în vedeprezentate în anexa 4;
+rea obținerii autorizației în domeniul distribuțiilor de gaze
+Ð verificarea condițiilor de realizare a șanțului;
+Ð verificarea respectãrii distanțelor minime de amplasare prin conducte din polietilenã, sunt:
+a) GRADUL I P.E.: inginerii și subinginerii care dețin
+și a adâncimii de montaj;
+autorizație gradul I, conform normativului I.6Ð86.
+Ð verificarea modului de pozare a conductelor;
+Examinarea constã în verificarea cunoștințelor privind
+Ð verificarea modului de umplere a șanțului;
+proiectarea și executarea rețelelor de conducte din polietiÐ verificarea realizãrii marcãrii traseului.
+lenã pentru distribuția gazelor naturale;
+6.3. Probe
+b) GRADUL II P.E.: inginerii, subinginerii, tehnicienii și
+Probele de presiune se vor efectua în conformitate cu maiștrii care dețin autorizație gradul II, conform normativului
+prevederile din normativul I.6, cu urmãtoarele precizãri:
+I.6Ð86.
+6.3.1. Proba preliminarã se efectueazã cu aer la presiuExaminarea constã în verificarea cunoștințelor privind
+nea de 1 bar timp de 1 orã, dupã pozarea conductelor în executarea rețelelor din polietilenã pentru distribuția gazelor
+șanț.
+naturale.
+6.3.2. Proba de rezistențã se va efectua cu aer la o
+7.6. Actele necesare pentru înscrierea la examinare, în
+presiune de 1,5 x Ps (presiunea de serviciu), dar nu mai vederea obținerii dreptului de a proiecta și executa conmicã de 1 bar.
+ducte din polietilenã pentru distribuția gazelor naturale,
+6.3.3. Proba de etanșeitãți se va efectua cu aer la o sunt:
+Ð cerere-tip;
+presiune egalã cu Ps (presiunea de serviciu), dar nu mai
+Ð actul de studii (copie legalizatã);
+micã de 1 bar.
+Ð adeverințã de salariat, din care sã rezulte funcția,
+CAPITOLUL 7
+categoria de încadrare și vechimea în lucrãri de gaze;
+Competențe de proiectare și execuție
+Ð fotocopia carnetului de instalator autorizat în lucrãrile
+de gaze;
+7.1. Proiectarea și executarea sistemelor de distribuție
+Ð recomandãri din partea sucursalelor (regionalelor) de
+prin conducte de polietilenã se va face de cãtre instalatori
+distribuție a gazelor naturale.
+autorizați.
+7.7. Documentele necesare pentru examinare se depun
+7.2. În funcție de categoria de complexitate a lucrãrilor,
+competențele instalatorilor autorizați sunt:
+la registratura Romgaz Ñ R.A. Mediaș.
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+CAPITOLUL 6
+
+NOTÃ:
+Calculele sunt realizate având în vedere rugozitatea K = 0,007 cm.
+λ
+Ñ coeficient de frecare
+Re Ñ numãrul Reynolds
+di Ñ diametrul interior al conductei [cm]
+
+COEFICIENÞII DE FRECARE PENTRU CONDUCTE DIN POLIETILENÃ λ
+
+ANEXA Nr. 1
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 170 bis
+11
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 170 bis
+ANEXA Nr. 2
+NOMOGRAMA
+
+pentru calculul conductelor din P.E. pentru distribuția gazelor în regim cu volum variabil
+(presiune joasã, medie și redusã)
+
+Nomograma este realizatã în condițiile:
+δ = 0,554
+T = 288,15 K
+K = 0,007 cm
+Modalitatea CVISION a parametrilor este PdfCompressor.
+Compression by de determinareTechnologies’ identicã cu cea din I6Ð86
+
+For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 170 bis
+
+13
+ANEXA Nr. 3
+
+PROCEDEE DE SUDARE
+1. Sudarea cu element încãlzitor
+1.1. Generalitãți:
+Sudarea constã în încãlzirea suprafețelor de asamblat
+pânã la temperatura de topire, punerea lor în contact și
+menținerea conform condițiilor din graficul de sudare
+(fig. 5).
+
+Graficele de sudare sunt stabilite de producãtorii de
+țeavã și de cei de aparate de sudare.
+Procedeul este recomandat pentru sudarea țevilor cu
+diametrul exterior minim de 110 mm, limita nefiind restrictivã procedeul se poate aplica și țevilor cu diametre sub
+110 mm, dar nu mai mici de 63 mm.
+
+Fig. 5
+1.2. Echipamentul de sudare
+Trebuie sã respecte condițiile impuse prin standardele în
+vigoare și sã fie agrementat.
+Condițiile impuse pentru realizarea unei îmbinãri sudate
+sunt:
+Ñ prelucrarea capetelor țevilor înainte de sudare, cu
+încadrarea abaterii de la perpendicularitate în limitele prevãzute în tabelul nr. 5;
+Ñ menținerea temparaturii de sudare în limitele prescrise și cu posibilitatea de mãsurare, indicare și înregistrare.
+Elementele încãlzitoare vor fi încãlzite numai electric.
+Echipamentul de sudare conține urmãtoarele elemente:
+Ñ mașina de sudat;
+
+Ñ pompa hidraulicã (pneumaticã);
+Ñ dispozitivul de prelucrat capetele țevii;
+Ñ elementul încãlzitor (oglinda);
+Ñ aparatele pentru mãsurarea presiunii de sudare a
+temperaturii;
+Ñ accesorii (role de ghidare a țevii, lichide și materiale
+textile pentru curãțirea țevii și a elementului încãlzitor etc.)
+1.3. Graficul de sudare
+Elementele care configureazã graficul de sudare (presiunea exercitatã pe capetele țevilor și temperatura de
+sudare) sunt stabilite de producãtorii țevii și de cei ai aparatelor de sudare.
+Configurația graficului de sudare și semnificația simbolurilor utilizate sunt redate în fig. 6.
+
+Fazele sudãrii;
+
+Fig. 6
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 170 bis
+
+Fazele sudãrii:
+1. apropierea de elementul încãlzitor și preîncãlzire;
+2. încãlzire;
+3. îndepãrtare element încãlzitor;
+4. apropierea capetelor țevii și realizarea presiunii de
+sudare;
+5. sudare;
+6. rãcire.
+t1 Ñ timpul de preîncãlzire;
+p1 Ñ presiunea de contact necesarã pentru preîncãlzire;
+pt Ñ presiunea de compensare a forțelor axiale (tragerea țevii și frecãrile din aparatul de sudare);
+t2 Ñ timpul de încãlzire;
+p2 Ñ presiunea minimã de contact între țevi și elementul încãlzitor;
+t3 Ñ timpul de îndepãrtare a elementului încãlzitor;
+t4 Ñ timpul de apropiere a capetelor de țeavã și de
+ridicare a presiunii pânã la valoarea presiunii de sudare;
+t5 Ñ timpul de sudare;
+p5 Ñ pesiunea de sudare;
+t6 Ñ timpul de rãcire;
+t1 este timpul în care pe țeava aflatã în contact cu termoelementul apare o ranforsare a cãrei dimensiune este
+recomandatã de fabricantul aparatului de sudare și este de
+circa 1Ð2 mm;
+t2, t3, t4, t5, t6, p1, p2, p5 sunt parametrii stabiliți de
+cãtre producãtorul aparatelor de sudare, în funcție de
+caracteristicile fizice și geometrice ale țevii.
+1.4. Operațiile efectuate la sudarea cap la cap
+Succesiunea operațiilor este:
+Ñ fixarea capetelor țevilor în dispozitivele de prindere
+ale mașinii de sudat;
+Ñ curãțirea și prelucrarea frontalã a capetelor țevilor.
+Spațiul maxim dintre capetele țevilor trebuie sã fie:
+¥ 0,3 mm pentru de < 225 mm;
+¥ 0,5 mm pentru 225 < de < 400;
+¥ 1,0 mm pentru de > 400 mm;
+Ñ determinarea sarcinii necesare pentru compensarea
+rezistenței totale de frecare a mașinii de sudat și a translatãrii țevii și adãugarea valorii acesteia la valoarea mãsuratã a presiunii de sudare;
+Ñ verificarea suprafețelor de contact ale elementului
+încãlzitor;
+Ñ verificarea temperaturii elementului încãlzitor;
+Ñ așezarea elementului încãlzitor între capetele țevilor;
+Ñ închiderea mașinii de sudat și aplicarea presiunii de
+contact de preîncãlzire (p1 + p2);
+Ñ reducerea presiunii la valoarea de menținere a capetelor țevilor pe elementul încãlzitor (p1);
+Ñ deschiderea mașinii de sudat și îndepãrtarea elementului încãlzitor (t3);
+Ñ apropierea capetelor țevilor și realizarea îmbinãrii
+sudate la presiunea (p5 + pt), având durata (t5);
+Ñ reducerea pânã la zero a presiunii de sudare și rãcirea îmbinãrii (t6).
+1.5. Controlul calitãții sudurii
+Se executã conform procedurilor impuse de producãtorul
+aparatului de sudare.
+
+Criteriile de verificare vizualã a sudurii:
+Ñ diametrul suprafeței de contact sã fie cel puțin egal
+cu diametrul țevii (fig. 7);
+
+Fig. 7.
+Ñ decalajul între generatoarele țevilor sudate sã nu
+depãșeascã 5% din grosimea peretelui țevii;
+
+Fig. 8.
+Ñ diferența de lãțime a celor douã capete ranforsate
+ale țevilor (Æ S) va fi în limitele urmãtoare:
+
+Fig. 9.
+S Ñ lãțimea capãtului ranforsat;
+B Ñ lãțimea cordonului de sudurã.
+Ñ țeavã/țeavã:
+ÆS < 0,1 x B
+Ñ țeavã/fiting:
+ÆS < 0,2 x B
+Ñ fiting/fiting:
+ÆS < 0,2 x B
+2. Sudarea prin polifuziune
+2.1. Generalitãți:
+Sudarea constã în încãlzirea simultanã a suprafeței
+exterioare a țevii și a suprafeței interioare a fitingului pânã
+la temperatura de topire, urmatã de asamblarea prin punerea în contact a suprafețelor încãlzite.
+Sudarea prin polifuziune este recomandatã pentru diametre de pânã la 125 mm.
+Sudarea se realizeazã cu dispozitive mecanice pentru
+diametre mai mari de 63 mm; pentru diametre sub 63 mm,
+se poate realiza și manual.
+2.2. Echipamentul de sudare
+Se compune din:
+Ñ mașinã de sudat;
+Ñ dispozitiv de prelucrat capetele țevilor;
+Ñ element încãlzitor;
+Ñ dispozitive de calibrare;
+Ñ dispozitive de mãsurare a temperaturii și a timpului de sudare;
+Ñ accesorii.
+
+ELEMENT ÎNCÃLZITOR
+
+Fig. 10
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 170 bis
+2.3. Parametrii de sudare
+Timpul de sudare este dat în tabelul nr. 10.
+TABELUL Nr. 10
+
+Timpul de sudare {s}
+Diametrul exterior al țevii
+Ñ de Ñ
+
+¯20Ñ¯50
+
+Valori SDR
+SDR 17,6 timp de încãlzire
+SDR 11
+timp de încãlzire
+
+5Ñ25
+
+¯63Ñ¯125
+
+10Ñ35
+24Ñ50
+
+Timpul de îndepãrtare a elementului încãlzitor (max) 10
+Temperatura de sudare este datã de producãtorul de
+țevi și de fitinguri.
+2.4. Operațiuni efectuate la sudarea prin polifuziune:
+Ñ așezarea fitingului în suport;
+Ñ fixarea manevrei de aliniere în suportul aparatului;
+Ñ tãierea și debavurarea capetelor țevilor;
+Ñ calibrarea capetelor țevilor;
+Ñ încãlzirea capetelor țevilor și a fitingului;
+Ñ îndepãrtarea elementului încãlzitor;
+Ñ punerea în contact a suprafețelor încãlzite;
+Ñ menținerea în poziție o perioadã cel puțin egalã cu
+timpul de încãlzire.
+2.5. Controlul calitãții sudurii
+Se executã conform instrucțiunilor furnizorilor de fitinguri
+și de aparate de sudare.
+3. Sudarea cu șa
+3.1. Generalitãți:
+Constã în încãlzirea simultanã a suprafeței exterioare a
+țevii și a suprafeței interioare a șeii pânã la temperatura de
+topire, punerea lor în contact și menținerea în dispozitivul
+de fixare pânã la rãcire.
+Procedeul se aplicã la realizarea ramificațiilor și a îmbinãrilor tip branșament.
+3.2. Echipamentul de sudare
+Este compus din:
+Ñ dispozitivul de fixare pe țeavã;
+Ñ dispozitivul de prindere și presare a șeii;
+Ñ elementul încãlzitor.
+
+15
+
+Ñ montarea ansamblului pe durata prescrisã de încãlzire;
+Ñ reducerea presiunii și îndepãrtarea elementului încãlzitor;
+Ñ punerea în contact a suprafețelor încãlzite (țeavã-șa)
+și menținerea la presiunea prescrisã timp de minimum
+15 min.
+3.5. Controlul de calitate al îmbinãrii sudate cu șa
+Se executã conform instrucțiunilor furnizorilor de fitinguri
+și de aparate de sudare.
+Printr-un control vizual se pot depista eventualele întreruperi sau discontinuitãți ale cordonului de sudurã, eventuale incluziuni etc.
+4. Sudarea prin electrofuziune
+4.1. Constã în încãlzirea spirei metalice încorporate pe
+suprafața interioarã a fitingului, având ca efect topirea stratului superficial de polietilenã și realizarea sudurii.
+4.2. Echipamentul de sudare
+Este compus din:
+Ñ aparat de sudurã;
+Ñ accesorii pentru curãțirea țevii;
+Ñ dispozitive pentru prindere și poziționare.
+4.3. Parametrii de sudare
+Sudarea prin electrofuziune este determinatã de:
+Ñ tensiune/intensitate;
+Ñ timp de sudare;
+Ñ timp de rãcire.
+4.4. Operațiile efectuate:
+Ñ curãțirea țevii în zona ce urmeazã a intra în contact
+cu mufa sau cu șaua electrosudabilã.
+Adâncimea de rãzuire va fi de 0,1 mm pentru țevi cu
+de < 63 mm, respectiv 0,2 pentru țevi cu de > 63 mm;
+Ñ verificarea lungimii de fixare a țevilor în manșon;
+Ñ alinierea țevilor și a mufei în dispozitivul aparatului
+de sudare;
+Ñ alimentarea cu energie electricã și sudarea propriuzisã.
+4.5. Controlul îmbinãrii sudate
+Se realizeazã conform instrucțiunilor furnizorilor de aparate de sudare și ale celor de mufe electrosudabile.
+Se va verifica vizual alinierea pieselor (țeavã-mufã).
+Eventualele scurgeri de material constatate în urma unor
+controale vizuale conduc la respingerea ca nerecorespunzãtoare a îmbinãrii sudate.
+5. Îmbinãri mecanice
+5.1. Generalitãți:
+Constau în:
+Ñ un adaptor pentru flanșã, realizat din polietilenã,
+sudabil pe țeava din polietilenã prin una din metodele descrise mai sus și prevãzut cu flanșã metalicã sau din polietilenã cu inserție metalicã (fig. 12);
+
+Fig. 11.
+3.3. Parametrii de sudare
+Presiunea de sudare are valori de 0,15Ñ0,02 mm.
+Timpii de sudare sunt precizați în tabelul de mai jos:
+TABELUL Nr. 11
+Diametrul exterior
+mediu al țevii
+
+40<d<63
+
+63<d<90
+
+90<d<225
+
+d>225
+
+Fig. 12
+SDR
+Ñ un fiting mecanic sau o flanșã, premontat pe țeava
+17.6
+2Ñ25
+35Ñ45
+45Ñ55
+din polietilenã (fig. 13)
+11
+10Ñ20
+30Ñ40
+45Ñ55
+50Ñ60
+Timpul de rãcire sub presiune este de minimum 15 min.
+3.4. Operațiile efectuate la sudarea șeilor:
+Ñ montarea aparatului de sudat pe țeavã;
+Ñ presarea șeii pânã la atingerea presiunii de sudare;
+Ñ verificarea (eventuala rectificare) a suprafețelor ce
+urmeazã a fi sudate;
+Ñ verificarea elementului încãlzitor;
+Ñ presarea șeii și a țevii pe elementul încãlzitor la
+Compression byprescriși (presiune și temperaturã); PdfCompressor. For Fig. 13
+Evaluation Purposes Only
+nivelul parametrilor CVISION Technologies’
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 170 bis
+STANDARDE DE REFERINÞÃ
+
+1. SR ISO 16/I 1978
+Þevi din materiale termoplastice pentru transportul fluidelor. Diametre exterioare și presiuni nominale. Partea I:
+serie metricã
+2. SR ISO 1872-1/1993
+Materiale plastice. Polietilenã (PE) pentru formare și
+extrudare. Partea I: Sistem de codificare și baza pentru
+specificații.
+3. SR ISO 2506-1981
+Þevi din polietilenã (PE). Variația longitudinalã la cald.
+Metode de încercare, condiție tehnicã.
+4. SR ISO 3458-1976
+Asamblãri între racorduri și țevi din polietilenã (PE) sub
+presiune. Încercarea de etanșeitate la presiune interioarã.
+5. SR ISO 3459-1976
+Þevi de polietilenã (PE) sub presiune. Asamblãri cu
+racorduri mecanice. Încercarea de etanșeitate la subpresiune interioarã și condiții necesare.
+6. SR ISO 3501-1976
+Asamblãri între fitinguri și țevi din polietilenã (PE) sub
+presiune. Încercarea de rezistențã la smulgere.
+7. SR ISO 3503-1976
+Asamblãri între fitinguri și țevi din polietilenã (PE) sub
+presiune. Încercarea de etanșeitate la presiuni interioare
+când sunt supuse curbãrii.
+8. ISO 3663-1976
+Þevi și racorduri din polietilenã (PE) sub presiune, serie
+metricã. Dimensiunile flanșelor.
+9. SR ISO 472-1988
+Vocabular.
+10. ISO 1043-1/1992
+Polimeri de bazã și caracteristicile lor speciale.
+11. ISO 1133/1991
+Determinarea fluiditãții (masã și volum MFR, MVR).
+12. ISO 13949/1994
+Metoda de testare pentru dispersia pigmentului în conducta din polietilenã (PE) și fitinguri.
+13. ISO 11420/1994
+Metoda de testare pentru dispersia negrului de fum în
+conducte din polietilenã (PE) și fitinguri.
+14. SR ISO 3607/1977
+Þevi din polietilenã (PE). Toleranțe la diametrele exterioare și grosimile de perete.
+15. SR ISO 4059/1978
+Rețele din țevi din polietilenã (PE). Pierderi de fluid la
+îmbinãrile mecanice. Metode de încercare și condiții
+tehnice.
+16. SR ISO 4065/1978
+Þevi din materiale termoplastice. Tabel universal al grosimilor de perete.
+17. SR ISO 4437/1988
+Rețele de țevi din polietilenã (PE) îngropate pentru distribuția de combustibili gazoși. Serie metricã. Condiții
+tehnice.
+18. SR ISO 4440-1/1994
+53. ISO/DIS 13477
+54. ISO/DIS 13478
+
+55. ISO/DIS 13479
+Rezistențe de propagare a fisurii în țevile de PE.
+Metode de încercare.
+56. ASTM D 4019
+Determinarea conținutului de apã.
+57. ISO 13953/1995
+Îmbinãri. Determinarea rezistenței la forța de întindere.
+58. ISO 13954/1995
+Conducte și fitinguri din plastic. Testul de coeziune pentru asamblãri prin electrofuziune.
+59. ISO 13955/1995
+60. ISO 13956/1995
+61. A 88-800
+62. ISO 10838-1, 2, 3
+Fitinguri metalice pentru sisteme de conducte din PE cu
+diametre:
+Ñ de ² 63 mm;
+Ñ de > 63 mm;
+Ñ fitinguri termoplastice pânã la 63 mm.
+63. STAS 1665-75 Stare normalã și volum normal.
+64. STAS 3317-67 Gaze combustibile.
+65. STAS 8281-84 Conducte de gaze naturale. Rețele
+de transport, de distribuție și instalații de utilizare.
+Prescripții fundamentale.
+66. NFT - 20-052 Produse chimice. Principii generale
+pentru dozajul apei prin metode Karl Fiocher.
+67. NFT - 54-065 Conducte din PE pentru rețele de
+distribuție gaze. Specificații și metode de testare.
+68. NFT - 54-077 Robineți din PE pentru rețele de distribuție gaze. Specificații și metode de testare.
+69. NFT - 54-078 Racorduri din PE cu capete cepuri
+pentru rețele de distribuție a gazelor. Specificații și metode
+de încercare.
+70. I6-86 Normativ pentru proiectarea și executarea
+rețelelor și instalațiilor de utilizare gaze naturale.
+71. C 56 Normativ pentru verificarea calitãții lucrãrilor de
+construcții și instalații aferente.
+72. Norme generale de protecție a muncii, aprobate prin
+Ordinul ministrului muncii și protecției sociale
+nr. 578/DB/5.840 din 20/26 noiembrie 1996.
+73. Norme de igienã a localitãților, aprobate prin Ordinul
+ministrului sãnãtãții nr. 623/1973.
+74. Norme unice de protecție a muncii pentru activitatea
+de gospodãrire comunalã, elaborate de C.P.C.P., aprobate
+prin Hotãrârea C.P.C.P. nr. 1 din 30 ianuarie 1981.
+75. Norme de protecție a muncii (construcții-montaj)
+aprobate de M. C. Ind. cu Ordinul nr. 7N/1970.
+76. Norme generale de protecție a muncii împotriva
+incendiilor la proiectarea și realizarea construcțiilor și instalațiilor (Decretul nr. 290/1977).
+77. Norme tehnice de proiectare și realizare a construcțiilor privind protecția la acțiunea focului, indicativ P 118.
+78. Norme de p.s.i. pe durata executãrii lucrãrilor de
+construcții și instalații aferente acestora, indicativ 300.
+79. Norme generale de p.s.i., aprobate prin Ordinul
+nr. 381/1219/M.C./1994 al Ministerului de Interne și al
+M.L.P.A.T.
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ,,Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 30.98.12.301 B.C.R. Ñ S.M.B.
+Adresa pentru publicitate : Serviciul relații cu publicul și agenții economici, București,
+Str. Blanduziei nr. 1, sectorul 2, telefon 211.57.30.
+Tiparul : Regia Autonomã ,,Monitorul Oficial,,, tel. 668.55.58 și 335.01.11/4028.
+Monitorul Oficial al by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+Prețul 848 lei
+40.816
+Compression României, Partea I, nr. 170 bis/1997 conține 16 pagini.
+
+

@@ -1,0 +1,4331 @@
+PARTEA
+
+Anul VIII Ñ Nr. 33
+
+I
+
+Vineri,16 februarie 1996
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+
+SUMAR
+
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+
+15.776/1.122. Ñ Norme privind balanța imobilizãrilor necorporale, corporale și financiare, determinarea gradului de utilizare a mijloacelor fixe deținute de agenții
+economici, necesar stabilirii valorii amortizãrii incluse
+în cheltuielile de exploatare pe anul 1995, emise
+de Ministerul Finanțelor și de Comisia Naționalã
+pentru Statisticã.........................................................
+
+1Ð16
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+MINISTERUL FINANÞELOR
+Nr. 15.776/12 februarie 1996
+
+COMISIA NAÞIONALÃ PENTRU STATISTICÃ
+Nr. 1.122/1 februarie 1996
+
+NORME
+privind balanța imobilizãrilor necorporale, corporale și financiare,
+determinarea gradului de utilizare a mijloacelor fixe deținute de agenții economici,
+necesar stabilirii valorii amortizãrii incluse în cheltuielile de exploatare pe anul 1995
+În conformitate cu prevederile art. 28 din Legea nr. 15/1994 pentru amortizarea capitalului imobilizat în active corporale și necorporale și ale pct. 46 din Normele metodologice de aplicare a Legii nr. 15/1994, aprobate prin Ordinul
+ministrului de stat, ministrul finanțelor, nr. 746/1994, Ministerul Finanțelor și Comisia Naționalã pentru Statisticã au
+elaborat prezentele norme.
+I. Balanța imobilizãrilor necorporale, corporale și financiare
+Toți agenții economici care au în patrimoniu active
+necorporale, corporale și financiare au obligația ca, anual,
+sã întocmeascã ”Balanța imobilizãrilor necorporale, corpo-
+
+rale și financiare,, conform formularului (cod 29) Ð anexã la
+bilanțul contabil pe anul 1995.
+Acest formular cuprinde existentul la începutul anului,
+intrãrile și ieșirile în cursul anului, amortizarea înregistratã,
+valoarea rãmasã a imobilizãrilor la sfârșitul anului, provizioanele înregistrate și valoarea netã a imobilizãrilor.
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 33
+
+Completarea acestuia se va face în conformitate cu precizãrile din Normele metodologice privind întocmirea, verificarea și centralizarea bilanțurilor contabile ale agenților
+economici pe anul 1995, elaborate de Ministerul Finanțelor.
+II. Stabilirea gradului de utilizare a mijloacelor fixe de
+bazã deținute de agenții economici, necesar determinãrii
+valorii amortizãrii incluse în cheltuielile de exploatare pe
+anul 1995
+1. În conformitate cu prevederile art. 18 din Legea
+nr. 15/1994, agenții economici vor include în cheltuielile de
+exploatare pe anul 1995 amortizarea calculatã în directã
+corelație cu gradul de utilizare a mijloacelor fixe aflate în
+patrimoniul acestora, realizat în aceastã perioadã.
+Gradul de utilizare a mijloacelor fixe se determinã în
+funcție de mijloacele fixe de bazã care definesc activitatea
+de exploatare a agenților economici și sunt prezentate în
+anexa nr. 1 la prezentele norme.
+2. Gradul de utilizare a mijloacelor fixe se calculeazã
+astfel:
+U(%) =
+
+Em, 1995
+Em, an de înființare
+
+x
+
+K
+
+x
+
+Ipr
+
+în care:
+Em, 1995
+
+= indicatorul de eficiențã a mijloacelor fixe de bazã, realizat de agenții economici în anul 1995;
+
+Em, an de înființare = indicatorul de eficiențã a mijloacelor fixe de bazã, realizat de agenții economici în anul de înființare;
+K
+
+= coeficientul de corecție prevãzut în
+coloana 2, 4, respectiv 6, din
+anexa nr. 2 (dupã caz);
+
+Ipr
+
+= coeficientul mediu de preț, rezultat în
+urma reevaluãrii mijloacelor fixe în
+conformitate cu prevederile Hotãrârii Guvernului nr. 500/1994 =
+
+=
+
+Valoarea medie anualã a mijloacelor fixe de
+bazã existente la sfârșitul anului 1995, reevaluate
+conform Hotãrârii Guvernului nr. 500/1994
+Valoarea medie anualã a mijloacelor fixe de
+bazã existente la sfârșitul anului 1993
+
+La agenții economici care nu au efectuat reevaluarea
+mijloacelor fixe conform Hotãrârii Guvernului nr. 500/1994,
+Ipr = 1.
+Em =
+
+Venituri din exploatare*)
+Valoarea medie anualã a mijloacelor fixe
+de bazã existente la sfârșitul anului**)
+
+*) Pentru anii 1990Ñ1993 inclusiv, veniturile din exploatare
+vor fi cele evidențiate în creditul contului 600 ,,Venituri din activitatea de bazãî diminuat cu valoarea impozitului pe circulația
+mãrfurilor, evidențiat în debitul aceluiași cont.
+Pentru anii 1994Ñ1995 inclusiv, veniturile din exploatare
+vor fi cele evidențiate în creditul conturilor din grupa 70
+
+,,Venituri din vânzãri de produse, mãrfuri, servicii prestate și din
+alte activitãțiî (701-708) și din grupa 74 ,,Venituri din subvenții
+de exploatare,, (741).
+Agenții economici care, pentru lucrãrile și prestãrile executate unor clienți, încaseazã produse (sub forma plãții în naturã),
+pe care le valorificã ulterior la terți, în vederea determinãrii gradului de utilizare a mijloacelor fixe, nu vor lua în calcul veniturile
+facturate din vânzarea produselor respective (cont 707).
+Veniturile aferente activitãții de lohn vor fi recalculate în lei
+pe baza prețurilor pieței interne.
+**) Vma = V + Vmai Ñ Vmae,
+în care:
+Vmai sau Vmae =
+
+Vi (e) x T
+12
+
+în care:
+Vma
+
+= valoarea medie anualã a mijloacelor fixe de bazã
+existente la sfârșitul anului de înființare și al anului 1995;
+V
+= valoarea de inventar sau de intrare a mijloacelor
+fixe de bazã existente la începutul anului;
+Vmai = valoarea medie anualã a mijloacelor fixe de bazã
+intrate în cursul anului;
+Vmae = valoarea medie anualã a mijloacelor fixe de bazã
+ieșite în cursul anului;
+Vi (e) = valoarea de inventar sau de intrare a mijloacelor
+fixe de bazã intrate sau ieșite în cursul anului de
+înființare și în cursul anului 1995;
+T
+= numãrul de luni întregi începând cu luna urmãtoare celei de intrare a mijloacelor fixe de bazã
+pânã la sfârșitul anului de inființare sau al anului
+1995, respectiv numãrul de luni întregi începând
+cu luna urmãtoare celei de ieșire a mijloacelor fixe
+de bazã pânã la sfârșitul anului de înființare sau al
+anului 1995.
+Se precizeazã cã în Vma nu se include valoarea
+mijloacelor fixe aflate în conservare.
+Pentru agenții economici înființați în perioada 1990Ñ1991,
+rezultatul obținut prin aplicarea formulei de calcul al gradului de utilizare a mijloacelor fixe se înmulțește cu 1.000, iar
+pentru agenții economici înființați în perioada 1992Ñ1994
+se înmulțește cu 100.
+3. Agenții economici care s-au înființat, în conformitate
+cu prevederile Legii nr. 15/1990 privind reorganizarea unitãților economice de stat ca regii autonome și societãți
+comerciale și ale Legii nr. 31/1990 privind societãțile
+comerciale, în perioada 1990Ñ1991 inclusiv, vor folosi pentru determinarea gradului de utilizare a mijloacelor fixe coeficientul K din coloana 2 a anexei nr. 2 la prezentele
+norme.
+Agenții economici înființați, în condițiile alineatului de mai
+sus, în perioada 1992Ñ1993, vor folosi, pentru determinarea gradului de utilizare a mijloacelor fixe, coeficientul K din
+coloana 4 a anexei nr. 2 la prezentele norme.
+Agenții economici înființați, în condițiile alin. 1, în anul
+1994, vor folosi, pentru determinarea gradului de utilizare a
+mijloacelor fixe, coeficientul K din coloana 6 a anexei nr. 2
+la prezentele norme.
+Agenții economici care au funcționat, în anul de înființare, mai puțin de douã luni vor calcula gradul de utilizare
+a mijloacelor fixe în funcție de indicatorul de eficiențã a
+mijloacelor fixe de bazã din anul urmãtor.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 33
+Agenții economici care au funcționat, în anul de înființare, mai mult de douã luni, dar mai puțin de un an, vor
+determina gradul de utilizare a mijloacelor fixe pe baza
+veniturilor din exploatare realizate, reîntregite la nivel de an
+în funcție de venitul mediu lunar realizat.
+Pentru agenții economici înființați prin divizare, gradul de
+utilizare a mijloacelor fixe se va determina astfel:
+a) se determinã ponderea mijloacelor fixe preluate de
+noul agent economic în totalul mijloacelor fixe deținute de
+agentul economic supus divizãrii;
+b) se determinã veniturile din exploatare aferente anului
+de raportare, pentru agentul economic înființat prin divizare,
+an care corespunde cu anul de înființare a agentului economic supus divizãrii, prin aplicarea ponderii menționate la
+lit. a) asupra veniturilor totale din exploatare, realizate de
+agentul economic supus divizãrii în anul de înființare;
+c) se calculeazã indicatorul de eficiențã a mijloacelor
+fixe de bazã (Em) al anului de înființare prin raportarea
+veniturilor din exploatare, determinate conform prevederilor
+de la lit. b), la valoarea medie anualã a mijloacelor fixe de
+bazã preluate.
+Agenții economici înființați prin divizare în anul 1995 vor
+lua în calculul indicatorului de eficiențã a mijloacelor fixe de
+bazã (Em, 1995) veniturile din exploatare astfel:
+Ñ pentru perioada anterioarã divizãrii, veniturile din
+exploatare se înmulțesc cu ponderea mijloacelor fixe, determinatã conform lit. a), la care se adaugã veniturile din
+exploatare realizate de agentul economic înființat prin divizare în anul 1995.
+Pentru agenții economici înființați în anul 1995, precum
+și pentru cei la care din calculul efectuat rezultã un grad
+de utilizare a mijloacelor fixe mai mare de 100%, se va lua
+în considerare un grad de utilizare egal cu 100%.
+În situația în care un agent economic desfãșoarã mai
+multe activitãți, gradul mediu de utilizare a mijloacelor fixe
+se determinã utilizând un coeficient mediu anual de corecție K, calculat pe total activitate:
+
+K 1995/an de înființare =
+
+· Ki
+
+x
+
+Vi
+
+100
+
+în care:
+Ki = coeficientul de corecție pentru activitatea ”i,,;
+Vi = ponderea activitãții ”i,, (exprimatã în procente) în
+valoarea totalã a veniturilor din exploatare în anul
+1995.
+Agenții economici care nu regãsesc coeficientul de
+corecție, aferent activitãții desfãșurate, în anexa nr. 2, vor
+calcula coeficientul mediu anual de preț (Ip) astfel:
+Ip 1995/an de înființare =
+
+· q1995
+· q1995
+
+x
+
+x
+
+P 1995
+
+P/an de înființare
+
+în care:
+q1995
+
+= cantitãți livrate în anul 1995;
+
+P1995
+
+= prețuri de producție 1995;
+
+P/an de înființare = prețuri de producție/an de înființare.
+
+3
+
+Pentru agenții economici care, începând din anul înființãrii pânã în anul de raportare, nu dețin în patrimoniu mijloace fixe de bazã, pentru celelalte mijloace fixe, gradul de
+utilizare se considerã 100%.
+4. Agenții economici care se încadreazã în categoria de
+contribuabili mici, așa cum sunt definiți de Ordonanța
+Guvernului nr. 70/1994, vor regulariza în anul 1995, în
+funcție de gradul de utilizare a mijloacelor fixe, calculat
+pentru anul 1995 în conformitate cu prevederile pct. 3,
+amortizarea inclusã în cheltuielile de exploatare, cea înregistratã în debitul contului în afara bilanțului 8045
+”Amortizarea mijloacelor fixe aferentã gradului de neutilizare
+a mijloacelor fixe,,, profitul impozabil, impozitul pe profit și
+fondul de dezvoltare.
+Agenții economici care se încadreazã în categoria de
+contribuabili mari vor regulariza, în funcție de gradul de utilizare a mijloacelor fixe realizat în anul 1995, numai amortizarea inclusã în cheltuielile de exploatare și cea
+înregistratã în debitul contului 8045, precum și fondul de
+dezvoltare.
+Amortizarea astfel recalculatã va fi înregistratã în cheltuielile de exploatare, fãrã ca aceasta sã conducã la înregistrarea de pierderi pe total activitate.
+Diferența de amortizare care nu va fi acoperitã în condițiile stabilite la alineatul precedent va rãmâne înregistratã
+în debitul contului 8045.
+Agenții economici, care în anul 1995 înregistreazã pierderi cauzate de cheltuieli de altã naturã, vor înregistra în
+cheltuielile de exploatare amortizarea determinatã în funcție
+de gradul de utilizare a mijloacelor fixe, realizat în anul
+1995.
+Agenții economici care au realizat în anul 1995 un grad
+de utilizare a mijloacelor fixe mai mic decât cel al anului
+1994 și au efectuat investiții din fondul de dezvoltare constituit din amortizarea inclusã în cheltuielile de exploatare,
+consumând integral acest fond, nu vor mai efectua regularizarea amortizãrii. În situația în care fondul de dezvoltare
+constituit din amortizarea inclusã în cheltuielile de exploatare în anul 1995 a fost consumat parțial, se va efectua
+regularizarea amortizãrii la nivelul fondului de dezvoltare
+consumat, la care se adaugã investițiile în curs (sold cont
+debitor 231).
+De asemenea, nu mai efectueazã regularizarea amortizãrii pentrul anul 1995 nici agenții economici care în anul
+1994 au înregistrat în contul 471 ”Cheltuieli înregistrate în
+avansî imobilizãri corporale achiziționate sau realizate pe
+cont propriu, fãrã surse legale acoperitoare, potrivit pct. 16
+din anexa la Hotãrârea Guvernului nr. 3/1995.
+5. Pentru mijloacele fixe date în locație de gestiune sau
+închiriate, determinarea gradului de utilizare a acestora,
+aferent anului 1995, se va determina astfel:
+5.1. La locatar sau la chiriaș
+
+a) În cazul în care locatarul sau chiriașul folosește
+numai mijloace fixe de bazã luate în locație de gestiune
+sau închiriate, acesta nu calculeazã amortizare pentru
+mijloacele fixe luate în locație de gestiune sau închiriate.
+b) În cazul în care o parte din mijloacele fixe de bazã
+sunt luate în locație de gestiune sau închiriate, iar restul
+sunt proprietatea locatarului sau a chiriașului, se procedeazã dupã cum urmeazã:
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 33
+
+Ñ locatarul sau chiriașul calculeazã gradul de utilizare a
+mijloacelor fixe în funcție de ponderea mijloacelor fixe de
+bazã aflate în proprietatea sa, aplicatã asupra veniturilor
+din exploatare realizate în anul 1995, deci numai pentru
+cele proprii;
+Ñ gradul de utilizare a mijloacelor fixe astfel rezultat va
+sta la baza determinãrii amortizãrii pe care locatarul sau
+chiriașul o va înregistra în cheltuielile de exploatare, iar
+restul de amortizare aferentã gradului de neutilizare a mijloacelor fixe, aflate în patrimoniul locatarului sau al chiriașului, se va reflecta în debitul contului 8045 al locatarului
+sau al chiriașului;
+Ñ în situațiile în care locatarul sau chiriașul, la data
+înființãrii sale ca societate comercialã, avea în folosințã
+numai mijloace fixe de bazã luate în locație de gestiune
+sau închiriate, iar în anul imediat urmãtor dobândește mijloace fixe de bazã proprii, gradul de utilizare a mijloacelor
+fixe în anul 1995 se va determina în funcție de anul de
+raportare în care acestea au fost dobândite.
+(
+
+Em 1995
+
+)
+
+Em, an de dobândire a mijloacelor fixe proprii
+
+Pentru determinarea veniturilor din exploatare, necesare
+determinãrii indicatorului de eficiențã a mijloacelor fixe de
+bazã, se va aplica asupra totalului veniturilor din exploatare
+ponderea mijloacelor fixe de bazã proprii în totalul mijloacelor fixe de bazã.
+În cazul în care mijloacele fixe de bazã proprii au fost
+achiziționate în anul 1995, gradul de utilizare a acestora
+este de 100%.
+5.2. La locator sau la închiriator
+
+a) În cazul în care locatorul sau închiriatorul a dat în
+locație de gestiune sau a închiriat o parte din mijloacele
+fixe de bazã, iar restul a rãmas în folosința proprie, determinarea gradului de utilizare a mijloacelor fixe aflate în
+patrimoniu se va face astfel:
+Ñ locatorul sau închiriatorul calculeazã amortizarea mijloacelor fixe date în locație de gestiune sau închiriate, folosind gradul de utilizare de 100%, fãrã a modifica, din
+aceastã cauzã, nivelul locației sau al chiriei, stabilit prin
+contract;
+Ñ pentru mijloacele fixe de bazã proprii, nedate în locație de gestiune sau neînchiriate, locatorul sau închiriatorul
+calculeazã gradul de utilizare a mijloacelor fixe, având în
+vedere veniturile din exploatare, mai puțin veniturile din
+redevențe, locații de gestiune sau chirii.
+b) În cazul în care locatorul sau închiriatorul realizeazã
+venituri din exploatare numai ca urmare a locației de gestiune sau a închirierii, gradul de utilizare a mijloacelor fixe
+se va determina în funcție de:
+Ñ locatorul sau închiriatorul calculeazã amortizarea mijloacelor fixe date în locație de gestiune sau închiriate, folosind gradul de utilizare de 100%, fãrã a modifica, din
+Ministru de stat, ministrul finanțelor,
+Florin Georgescu
+
+aceastã cauzã, nivelul locației sau al chiriei, stabilit prin
+contract;
+Ñ pentru mijloacele fixe ce nu intrã în categoria celor
+de bazã și nu sunt date în locație de gestiune sau închiriate, gradul de utilizare a acestora se calculeazã având în
+vedere veniturile din exploatare, inclusiv cele din locație
+sau din chirii, realizate.
+6. În anul 1996 determinarea amortizãrii ce urmeazã a
+se include în cheltuielile de exploatare se face pe baza
+amortizãrii anuale, calculatã la valoarea de intrare a mijloacelor fixe, corectatã cu gradul de utilizare a mijloacelor fixe
+realizat în anul 1995, iar la finele anului se va proceda la
+regularizarea amortizãrii în funcție de gradul de utilizare a
+mijloacelor fixe realizat efectiv.
+7. Pentru agenții economici înființați în anul 1995 și care
+realizeazã în anul 1996 un indicator de eficiențã a mijloacelor fixe de bazã mai mare de 10 ori decât indicatorul de
+eficiențã realizat în anul 1995 se va proceda la majorarea
+de 5 ori a veniturilor realizate în anul 1995, dupã care se
+va determina noul indicator de eficiențã a mijloacelor fixe
+de bazã, aferent anului 1995.
+8. Diferența de amortizare rezultatã ca urmare a neutilizãrii mijloacelor fixe se va evidenția în debitul contului 8045.
+La expirarea duratei normale de funcționare a mijloacelor fixe, determinatã în conformitate cu prevederile Hotãrârii
+Guvernului nr. 266/1994 și ale Ordinului ministrului de stat,
+ministrul finanțelor, nr. 106/1995, diferențele de amortizare
+rezultate ca urmare a neutilizãrii mijloacelor fixe se vor
+introduce în cheltuielile de exploatare, în mod eșalonat, pe
+o perioadã de maximum 5 ani, cu aprobarea adunãrii
+generale a acționarilor sau asociaților la societãțile comerciale și a consiliului de administrație la regiile autonome.
+9. Pentru anul 1995 clasificarea mijloacelor fixe necesare calculãrii amortizãrii fiscale, prevãzutã de Ordonanța
+Guvernului nr. 70/1994, se va face în funcție de duratele
+normale de utilizare rãmase, calculate în conformitate cu
+prevederile Normelor nr. 180.200/1995 emise de Ministerul
+Finanțelor și aprobate prin Ordinul nr. 106/1995.
+Pentru mijloacele fixe intrate în patrimoniu dupã 1 ianuarie 1994, duratele normale de funcționare (utilizare) sunt
+cele aprobate prin Hotãrârea Guvernului nr. 266/1994.
+10. Pentru mijloacele fixe de natura obiectelor de inventar, amortizarea ce urmeazã a se introduce în cheltuielile
+de exploatare se determinã în conformitate cu prevederile
+pct. 33 din Normele metodologice de aplicare a Legii
+nr. 15/1994, aprobate prin Ordinul ministrului de stat, ministrul finanțelor, nr. 746/1994, fãrã a fi corectatã cu gradul
+de utilizare a mijloacelor fixe.
+11. O datã cu publicarea prezentelor norme în Monitorul
+Oficial al României își înceteazã aplicabilitatea Normele
+nr. 16.805/2.812/1994 și Precizãrile nr. 10.474/1.541/1995,
+emise de Ministerul Finanțelor și de Comisia Naționalã pentru Statisticã, precum și pct. 3, 4, 5 și 6 din Normele
+nr. 180.200/1995, aprobate prin Ordinul ministrului de stat,
+ministrul finanțelor, nr. 106/1995.
+Președintele Comisiei Naționale pentru Statisticã,
+Alexandru Radocea,
+secretar de stat
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 33
+
+5
+ANEXA Nr. 1
+
+SITUAÞIA
+
+mijloacelor fixe de bazã pe ramurile și activitãțile economiei naționale
+Ramurile și activitãțile
+
+Grupa de mijloace
+fixe cãreia îi aparțin
+mijloacele fixe de bazã
+
+Codul de clasificare a
+mijloacelor fixe care intrã în
+componența mijloacelor fixe de bazã
+
+1
+
+2
+
+3
+
+A. Agriculturã
+1. Agricultura și serviciile
+auxiliare Ñ cultura vegetalã;
+creșterea animalelor;
+servicii auxiliare (cu excepția
+activitãților veterinare)
+
+B. Silviculturã, exploatarea
+forestierã și economia
+vânatului
+1. Silvicultura, exploatarea forestierã
+și economia vânatului
+
+C. Pisciculturã și pescuit
+1. Piscicultura și pescuitul
+
+D. Industria extractivã
+1. Industria extractivã de produse
+energetice, din care:
+1.1. Extractivã și prepararea
+cãrbunelui
+
+1.2. Extracția petrolului și a gazelor
+naturale (exclusiv prospecțiunile)
+
+1.3. Extracția și prepararea
+minereurilor radioactive
+2. Industria extractivã de produse
+neenergetice
+2.1. Extracția și prepararea
+minereurilor metalifere
+
+a) grupa 1
+b) grupa 2
+
+c)
+d)
+e)
+f)
+
+grupa
+grupa
+grupa
+grupa
+
+3
+4
+5
+6
+
+a) grupa 2
+b) grupa 3
+c) grupa 5
+d) grupa 6
+
+3. Alte activitãți extractive
+
+2.2.2.; 2.2.4.; 2.3.2.; 2.3.3.;
+2.3.4.; 2.4.4.3.; 2.4.4.4.; 2.4.2.1.
+3.8.1.; 3.8.2.; 3.8.9.; 3.9.5.
+5.2.2.; 5.3.19.; 5.3.20.
+6.2.5.; 6.2.8.
+
+a) grupa 2
+b) grupa 3
+c) grupa 5
+
+2.2.1.
+3.14.5.; 3.14.14.
+5.3.4.; 5.3.10.; 5.3.12.; 5.3.13.
+5.3.20.; 5.3.21.; 5.3.31.; 5.3.32.
+
+a) grupa 2
+
+2.1.1.; 2.1.4.; 2.1.7.; 2.1.8.;
+2.1.9.; 2.1.10.; 2.1.11.; 2.1.12.;
+2.1.13.; 2.1.16.; 2.1.18.; 2.4.4.
+3.1.; 3.17.2.
+5.1.4.; 5.1.6.
+2.1.2.; 2.1.3.; 2.8.1.
+3.2.2.; 3.2.3.; 3.2.5.; 3.2.6.;
+3.6.1.; 3.6.4.; 3.16.1.3.2.;
+3.16.2.; 3.17.6.
+4.1.2.; 4.8.
+2.1.4.; 2.1.7.; 2.1.8.; 2.1.9.;
+2.1.10.; 2.1.11.; 2.1.12.;
+2.1.13.; 2.1.16.; 2.1.18.
+3.1.1. Ñ 3.1.12; 3.17.1.; 3.17.2.
+
+b)
+c)
+a)
+b)
+
+grupa
+grupa
+grupa
+grupa
+
+3
+5
+2
+3
+
+c) grupa 4
+a) grupa 2
+b) grupa 3
+a) grupa 2
+b) grupa 3
+
+2.2. Extracția și prepararea
+minereurilor neferoase
+și rare
+
+1.2.
+2.2.2.; 2.2.3; 2.2.4.; 2.2.5;
+2.7.1.; 2.7.2.; 2.7.3.; 2.7.4.;
+2.7.5.; 2.7.6.; 2.7.7.; 2.7.9.;
+2.7.13.; 2.7.19.
+3.21.1.; 3.21.2.; 3.21.3.
+4.9.1.
+5.2.2.
+6.1.; 6.2.
+
+a) grupa 2
+b) grupa 3
+a) grupa 2
+
+b) grupa 3
+
+c) grupa 5
+
+2.1.4.; 2.1.7.; 2.1.8.; 2.1.9.;
+2.1.10.; 2.1.11.; 2.1.12.;
+2.1.13.; 2.1.16.; 2.1.18.; 2.4.4.
+3.1.1.; 3.1.2.; 3.1.3.; 3.1.4.;
+3.1.6.; 3.1.7.; 3.1.8.; 3.1.9.;
+3.1.12.; 3.17.2.
+2.1.4.; 2.1.7.; 2.1.8.; 2.1.9.;
+2.1.10.; 2.1.11.; 2.1.12.;
+2.1.13.; 2.1.16.; 2.1.18.; 2.4.4.
+3.1.1. Ñ 3.1.4.; 3.1.7. Ñ
+3.1.10.; 3.1.12.; 3.17.2.
+2.1.1.; 2.1.2.; 2.1.4.; 2.1.7.;
+2.1.8.; 2.1.9.; 2.1.10.; 2.1.11.;
+2.1.12.; 2.1.13.; 2.1.14.;
+2.1.16.; 2.1.18.
+3.1.1.; 3.1.2.; 3.1.4.; 3.1.7.;
+3.1.8.; 3.1.9.; 3.1.12.; 3.2.1.;
+3.6.1.7.; 3.6.5.; 3.16.4.1.1.;
+3.17.2.1.; 3.17.2.2.; 3.17.2.3.;
+3.20.1.1.; 3.20.1.2.
+5.1.1.; 5.2.2.6.; 5.6.5.1.; 5.6.6.;
+5.6.7.1.
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 33
+1
+
+2
+
+3
+
+E. Industria prelucrãtoare
+1. Industria alimentarã, a bãuturilor
+și tutunului
+2. Industria textilã și a produselor
+textile
+3. Industria confecțiilor din textile,
+blãnuri și piele
+4. Industria pielãriei și încãlțãmintei
+5. Industria de prelucrare a lemnului
+6. Industria celulozei, hârtiei
+și cartonului
+7. Edituri, poligrafie și reproducerea
+înregistrãrilor pe suporturi
+8. Industria de prelucrare a țițeiului,
+cocsificarea cãrbunelui și tratarea
+combustibililor nucleari
+9. Industria chimicã și a fibrelor
+sintetice și artificiale
+
+10. Industria altor produse din
+minerale nemetalice
+
+a)
+b)
+a)
+b)
+a)
+b)
+a)
+b)
+a)
+b)
+a)
+b)
+a)
+b)
+a)
+b)
+c)
+a)
+b)
+c)
+
+grupa
+grupa
+grupa
+grupa
+grupa
+grupa
+grupa
+grupa
+grupa
+grupa
+grupa
+grupa
+grupa
+grupa
+grupa
+grupa
+grupa
+grupa
+grupa
+grupa
+
+1
+3
+1
+3
+1
+3
+1
+3
+1
+3
+1
+3
+1
+3
+1
+2
+3
+1
+2
+3
+
+d)
+a)
+b)
+c)
+
+grupa
+grupa
+grupa
+grupa
+
+4
+1
+2
+3
+
+11. Industria metalurgicã
+
+a) grupa 1
+b) grupa 3
+
+12. Industria construcțiilor metalice
+și a produselor din metal
+
+a) grupa 1
+b) grupa 3
+
+13. Industria de mașini și echipamente
+
+a)
+b)
+a)
+b)
+a)
+b)
+
+14. Industria de echipamente
+electrice și optice
+15. Industria mijloacelor de transport
+
+grupa
+grupa
+grupa
+grupa
+grupa
+grupa
+
+1
+3
+1
+3
+1
+2
+
+c) grupa 3
+
+d) grupa 5
+16. Alte activitãți industriale
+
+a) grupa 1
+b) grupa 3
+
+1.1.1.
+3.14.
+1.1.1.
+3.11.
+1.1.1.
+3.12.; 3.13.3.; 3.13.4.
+1.1.1.
+3.13.1.; 3.13.2.; 3.13.3.; 3.13.4.
+1.1.1.; 1.1.2.
+3.8.1.Ñ3.8.8.
+1.1.1.; 1.1.2.
+3.9.1.; 3.9.2.; 3.9.3.; 3.9.4.
+1.1.1.; 1.1.2.;
+3.15.1.; 3.26.1.
+1.1.1.; 1.1.2.
+2.1.14.; 2.1.15.
+3.3.1.; 3.6.2.; 3.6.3.; 3.6.4.
+1.1.1.; 1.1.2.
+2.1.14; 2.1.15.; 2.1.18.
+3.5.; 3.6.1.; 3.6.2.; 3.6.3.;
+3.6.5.; 3.11.; 3.17.1.; 3.17.2.2.;
+3.17.3.; 3.17.5.; 3.17.6.; 3.17.7.
+4.8.
+1.1.1.; 1.1.2.
+2.1.14.; 2.4.4.4.2.; 2.5.8.2.
+3.7.1.; 3.7.2.; 3.7.3.; 3.7.4.;
+3.7.5.; 3.7.6.; 3.7.7.; 3.7.8.;
+3.10.1.; 3.10.2.; 3.10.3.; 3.10.4.
+1.1.1.; 1.1.2.
+3.3.1.; 3.3.2.; 3.3.3.; 3.3.4.;
+3.3.5.; 3.3.6.; 3.3.7.; 3.4.1.;
+3.4.2.; 3.4.3.; 3.5.10.; 3.5.11.;
+3.5.12.; 3.5.13.; 3.5.14.; 3.5.15.;
+3.5.16.
+1.1.1.; 1.1.2.
+3.5.1Ñ3.5.8.; 3.5.17.; 3.5.18.;
+3.5.27.; 3.5.28.; 3.5.29.;
+3.5.32.; 3.5.34.
+1.1.1.; 1.1.2.
+3.5.1.Ñ3.5.18.
+1.1.1.; 1.1.2.
+3.5.19.Ñ3.5.25.; 3.5.36.
+1.1.1.; 1.1.2.; 1.1.3.a.; 1.4.1.2.;
+2.1.9.2.a; 2.4.2.1.4.; 2.4.3.1.;
+2.4.3.2.; 2.4.3.2.2.; 2.4.3.3.;
+2.4.3.4.; 2.4.3.5.; 2.5.1.2.;
+2.5.6.2.; 2.5.8.2.; 2.6.2.1.
+3.3.3.; 3.3.4.; 3.3.6.; 3.3.7.;
+3.4.3.; 3.5.1.Ñ3.5.19.; 3.5.27.;
+3.5.29.; 3.5.30.Ñ3.5.35.; 3.6.1.;
+3.6.2.1.; 3.6.3.5.; 3.6.3.6.;
+3.8.6.; 3.8.7.; 3.16.1.4.; 3.18.;
+3.19.; 3.22.3.3.
+5.1.7.; 5.3.5.7.; 5.3.7.; 5.6.2.2.;
+5.6.4.5.; 5.22.19.1.
+1.1.1.; 1.1.2.
+3.5.1.Ñ3.5.8.; 3.5.11.; 3.5.12.;
+3.5.13.; 3.5.14.; 3.5.29.; 3.5.32.;
+3.5.33.; 3.5.34.; 3.8.6.; 3.8.8.;
+3.9.4.; 3.18.; 3.19.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 33
+1
+
+2
+
+3
+
+F. Energia electricã și termicã, gaze și apã
+1. Producția, transportul și distribuția
+a) grupa 2
+de energie electricã și termicã,
+gaze și apã caldã
+b) grupa 3
+2. Captarea, tratarea și distribuția
+apei
+
+7
+
+a) grupa 2
+b) grupa 3
+
+2.1.5.; 2.1.6.; 2.1.14.; 2.1.15.;
+2.3.1.; 2.6.1.; 2.6.2.; 2.8.1.;
+2.8.2.; 2.8.3.; 2.8.4.; 2.9.7.
+3.16.1.Ñ3.16.5.; 3.17.1.
+2.3.9.; 2.7.1.Ñ2.7.9.; 2.7.10.;
+2.7.11.; 2.7.13.; 2.7.14.; 2.7.16.;
+2.7.18.; 2.7.19.
+3.17.1.
+
+G. Construcții
+
+a) grupa 1
+b) grupa 3
+c) grupa 5
+
+1.1.1.Ñ1.1.3.
+3.2.1.; 3.20.1.Ñ3.20.9.
+5.2.2.; 5.6.1.; 5.6.2.; 5.6.4.1.;
+5.6.5.; 5.6.7.
+
+H. Comerț
+
+a)
+b)
+c)
+d)
+e)
+
+grupa
+grupa
+grupa
+grupa
+grupa
+
+1
+2
+3
+4
+7
+
+1.4.
+2.1.10.; 2.5.8.2.; 2.8.1.; 2.9.1.
+3.8.2.; 3.17.1.; 3.17.2.3.; 3.23.
+4.1.2.1.; 4.9.
+7.8.2.; 7.9.2.; 7.9.3.
+
+a)
+b)
+c)
+d)
+
+grupa
+grupa
+grupa
+grupa
+
+1
+2
+3
+7
+
+1.4.; 1.5.
+2.9.1.
+3.23.; 3.24.1.
+7.8.2.; 7.9.3.
+
+I. Hoteluri și restaurante
+
+J. Transport și depozitare
+a) grupa 1
+b) grupa 2
+
+c) grupa 3
+d) grupa 5
+
+1.3.
+2.1.5.; 2.3.1.; 2.3.2.; 2.3.7.;
+2.3.9.;
+2.4.1.1.;
+2.4.1.2.;
+2.4.1.3.2.; 2.4.1.8.; 2.4.2.1.;
+2.4.3.1.Ñ2.4.3.5.;
+2.4.6.2.;
+2.4.6.3.; 2.5.1.; 2.5.3.Ñ2.5.9.;
+2.5.12.Ñ2.5.14.;
+2.6.1.3.;
+2.7.9.2.; 2.7.19.; 2.8.1.
+3.17.1.; 3.22.1.Ñ3.22.4.
+5.1.1.Ñ5.1.3.; 5.1.5.; 5.1.8.;
+5.2.1.; 5.2.2.; 5.3.1.; 5.3.2.;
+5.3.3.; 5.3.4.; 5.3.7.; 5.3.8.;
+5.3.10.; 5.3.16.Ñ5.3.20; 5.3.23.;
+5.3.24.; 5.3.25.; 5.4.1.; 5.4.3.;
+5.5.1.; 5.5.2.; 5.6.1.Ñ5.6.8.
+
+K. Poștã și telecomunicații
+a)
+b)
+c)
+d)
+
+grupa
+grupa
+grupa
+grupa
+
+1
+2
+3
+5
+
+1.3.1.; 1.3.2.
+2.4.6.
+3.22.5.; 3.22.6.
+5.2.2.
+
+L. Prestãri de servicii
+1. Informaticã și activitãți conexe
+a) grupa 1
+b) grupa 4
+2. Cercetare-dezvoltare, proiectare
+
+1.4.1.Ñ1.4.3.
+4.9.
+
+a)
+b)
+c)
+d)
+e)
+f)
+
+1.1.1.; 1.1.3.; 1.5.
+2.9.1.
+3.1.; 3.2.; 3.5.; 3.16.4.1; 3.17.
+4.1.Ñ4.9.
+5.2.2.
+7.9.1.
+
+grupa
+grupa
+grupa
+grupa
+grupa
+grupa
+
+1
+2
+3
+4
+5
+7
+
+3. Alte activitãți de servicii prestate
+în principal agenților economici
+3.1. Activitãți juridice, contabilitate,
+consulting
+a) grupa 1
+b) grupa 4
+c) grupa 7
+
+1.4.1.Ñ1.4.3.
+4.9.
+7.9.1.
+
+a) grupa 1
+b) grupa 4
+c) grupa 7
+
+1.4.1.Ñ1.4.3.
+4.9.
+7.9.1.
+
+3.2. Activitãți de proiectare, urbanism,
+inginerie și alte servicii tehnice
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 33
+1
+
+3.3. Activitãți de testãri și analize
+tehnice
+
+2
+
+3
+
+grupa
+grupa
+grupa
+grupa
+grupa
+
+1
+4
+1
+3
+7
+
+1.4.1.Ñ1.4.3.
+4.1.Ñ4.7.; 4.9.
+1.4.1.Ñ1.4.3.
+3.26.1.Ñ3.26.3.
+7.9.1.
+
+a)
+b)
+c)
+a)
+b)
+a)
+b)
+
+grupa
+grupa
+grupa
+grupa
+grupa
+grupa
+grupa
+
+1
+4
+7
+1
+7
+1
+3
+
+1.4.1.Ñ1.4.3.
+4.9.
+7.8.1.1.; 7.9.2.
+1.5.
+7.8.1.; 7.9.1.
+1.5.
+3.25.
+
+a) grupa 1
+b) grupa 3
+
+1.5.
+3.24.2.; 3.24.5.
+
+a)
+b)
+c)
+d)
+
+1
+2
+3
+4
+
+1.5.
+2.9.1.
+3.22.; 3.22.7.; 3.26.1.Ñ3.26.4.
+4.9.
+
+a) grupa 1
+b) grupa 2
+
+3.4. Publicitate
+
+a)
+b)
+a)
+b)
+c)
+
+1.1.1.Ñ1.1.3.; 1.3.1.; 1.4.; 1.5.
+2.3.3.1.; 2.3.3.2.; 2.3.4.2.;
+2.3.7.;
+2.3.8.1.;
+2.3.8.2.;
+2.4.2.1.3.; 2.4.3.1.; 2.4.3.5.;
+2.4.5.2.3.; 2.4.6.3.; 2.5.1.2.;
+2.6.1.3.; 2.7.9.2.; 2.7.10.1.
+3.1.9.; 3.2.; 3.5.1.; 3.5.2.;
+3.5.3.; 3.5.5.Ñ3.5.8.; 3.5.10.;
+3.5.11.; 3.5.12.; 3.5.17.; 3.5.18.;
+3.6.2.; 3.6.16.; 3.8.5.; 3.8.6.;
+3.8.8.; 3.16.3.; 3.16.4.; 3.17.;
+3.20.1.Ñ3.20.9.;
+3.22.3.4.;
+3.22.3.6.; 3.22.3.7.; 3.24.1.;
+3.24.6.; 3.26.6.; 3.51.7.
+4.1.1.; 4.3.; 4.5.; 4.9.
+5.2.2.; 5.3.7.; 5.3.9.; 5.3.12.;
+5.3.18.; 5.3.20.; 5.3.25; 5.3.26.;
+5.6.
+7.2.; 7.6.
+
+3.5. Activitãți financiare, bancare și
+de asigurãri
+
+3.6. Activitãți de învãțãmânt
+3.7. Activitãți de sãnãtate
+3.8. Alte activitãți de servicii colective,
+sociale și personale
+3.8.1. Salubritate și alte activitãți
+similare
+3.8.2. Activitãți recreative, culturale
+și sportive
+
+grupa
+grupa
+grupa
+grupa
+
+3.8.3. Alte activitãți de servicii
+
+c) grupa 3
+
+d) grupa 4
+e) grupa 5
+f) grupa 7
+
+ANEXA Nr. 2
+SITUAÞIA
+
+coeficientului de corecție în funcție de care se determinã gradul de utilizare
+a mijloacelor fixe de bazã
+
+Specificație
+
+0
+
+Industria extractivã
+Extracția și prepararea antracitului și
+a huilei
+Extracția și prepararea cãrbunelui brun
+și a lignitului
+Extracția petrolului brut
+Extracția gazelor naturale
+
+Coeficientul
+mediu
+anual
+de preț
+95/90
+Ip
+1
+
+K = 1/Ip
+
+Coeficientul
+mediu
+anual
+de preț
+95/92
+Ip
+
+2
+
+3
+
+Coeficientul
+de
+corecție
+
+K = 1/Ip
+
+Coeficientul
+mediu
+anual
+de preț
+95/94
+Ip
+
+K = 1/Ip
+
+4
+
+5
+
+6
+
+Coeficientul
+de
+corecție
+
+Coeficientul
+de
+corecție
+
+108,83
+
+0,009
+
+7,21
+
+0,139
+
+1,21
+
+0,826
+
+96,93
+93,19
+55,61
+
+0,010
+0,011
+0,018
+
+7,38
+6,74
+6,73
+
+0,136
+0,148
+0,149
+
+1,21
+1,21
+1,07
+
+0,826
+0,826
+0,935
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 33
+0
+
+Extracția și prepararea minereurilor
+feroase
+Extracția și prepararea minereurilor
+neferoase și rare (exclusiv minereurile
+radioactive)
+Extracția pietrei pentru construcții
+Extracția pietrei calcaroase, a gipsului
+și a cretei
+Extracția pietrișului și a nisipiului
+Extracția argilei și a caolinului
+Extracția și prepararea minereurilor
+pentru industria chimicã
+Extracția și prepararea sãrii
+Extracția și prepararea altor minereuri
+nemetalifere
+Industria prelucrãtoare alimentarã
+și bãuturi
+Producția, prelucrarea și conservarea
+cãrnii (exclusiv carnea de pasãre)
+Producția, prelucrarea și conservarea
+cãrnii de pasãre
+Produse pe bazã de carne (inclusiv
+din carne de pasãre)
+Prelucrarea și conservarea peștelui și
+a produselor din pește
+Prepararea sucurilor din fructe și legume
+Prelucrarea și conservarea fructelor și
+legumelor
+Fabricarea uleiurilor și a grãsimilor
+brute
+Fabricarea uleiurilor și a grãsimilor
+rafinate
+Fabricarea margarinei și a produselor
+comestibile similare
+Fabricarea produselor lactate și a
+brânzeturilor
+Fabricarea înghețatei
+Fabricarea produselor de morãrit
+Fabricarea amidonului și a produselor
+din amidon
+Fabricarea produselor pentru hrana
+animalelor
+Produse de panificație și de patiserie
+Fabricarea biscuiților, a pișcoturilor și
+a altor produse similare
+Fabricarea zahãrului
+Fabricarea de cacao, ciocolatã și
+produse zaharoase
+Fabricarea pastelor fãinoase alimentare
+și a altor produse fãinoase
+Prelucrarea ceaiului și a cafelei
+Fabricarea condimentelor
+Fabricarea altor produse alimentare
+Fabricarea bãuturilor alcoolice distilate
+Fabricarea alcoolului etilic de fermentație
+Fabricarea vinului din struguri
+Fabricarea altor bãuturi nedistilate,
+obținute prin fermentare
+Fabricarea berei
+Fabricarea malțului
+Producția de ape minerale
+Fabricarea bãuturilor nealcoolice
+Industria tutunului
+Textile și produse textile
+Pregãtirea fibrelor și filarea în fire tip
+bumbac
+
+1
+
+2
+
+3
+
+4
+
+9
+5
+
+6
+
+103,85
+
+0,010
+
+9,63
+
+0,104
+
+1,24
+
+0,806
+
+45,44
+119,87
+
+0,022
+0,008
+
+6,10
+9,67
+
+0,164
+0,103
+
+1,37
+1,58
+
+0,730
+0,633
+
+123,38
+161,65
+99,63
+
+0,008
+0,006
+0,010
+
+8,24
+7,34
+7,37
+
+0,121
+0,136
+0,136
+
+1,76
+1,22
+1,42
+
+0,568
+0,820
+0,704
+
+42,74
+250,45
+
+0,023
+0,004
+
+4,65
+12,20
+
+0,215
+0,082
+
+1,19
+1,61
+
+0,840
+0,621
+
+62,82
+
+0,016
+
+6,09
+
+0,164
+
+1,41
+
+0,709
+
+111,23
+
+0,009
+
+12,97
+
+0,077
+
+1,31
+
+0,763
+
+128,20
+
+0,008
+
+13,32
+
+0,075
+
+1,24
+
+0,806
+
+135,58
+
+0,007
+
+13,10
+
+0,076
+
+1,47
+
+0,680
+
+154,63
+88,83
+
+0,006
+0,011
+
+14,54
+14,64
+
+0,069
+0,068
+
+1,37
+1,81
+
+0,730
+0,552
+
+150,90
+
+0,007
+
+17,29
+
+0,058
+
+1,90
+
+0,526
+
+114,65
+
+0,009
+
+10,31
+
+0,097
+
+1,23
+
+0,813
+
+119,35
+
+0,008
+
+15,60
+
+0,064
+
+1,26
+
+0,794
+
+87,58
+
+0,011
+
+9,87
+
+0,101
+
+1,36
+
+0,735
+
+128,23
+72,94
+154,11
+
+0,008
+0,014
+0,006
+
+16,17
+10,32
+11,93
+
+0,062
+0,097
+0,084
+
+1,19
+1,26
+1,52
+
+0,840
+0,794
+0,658
+
+108,65
+
+0,009
+
+9,56
+
+0,105
+
+1,17
+
+0,855
+
+120,02
+94,26
+
+0,008
+0,011
+
+10,14
+21,44
+
+0,099
+0,047
+
+1,29
+1,32
+
+0,775
+0,758
+
+91,61
+83,74
+
+0,011
+0,012
+
+8,61
+8,34
+
+0,116
+0,120
+
+1,33
+1,18
+
+0,752
+0,847
+
+92,75
+
+0,011
+
+9,86
+
+0,101
+
+1,44
+
+0,694
+
+91,78
+54,47
+100,29
+83,41
+57,77
+126,76
+133,11
+
+0,011
+0,018
+0,010
+0,012
+0,017
+0,008
+0,008
+
+8,13
+8,55
+13,33
+9,20
+9,06
+7,59
+19,29
+
+0,123
+0,117
+0,075
+0,109
+0,110
+0,132
+0,052
+
+1,32
+1,76
+1,52
+1,20
+1,18
+1,28
+1,83
+
+0,758
+0,568
+0,658
+0,833
+0,847
+0,781
+0,546
+
+57,37
+115,12
+134,43
+48,54
+86,66
+78,00
+
+0,017
+0,009
+0,007
+0,021
+0,012
+0,013
+
+11,72
+18,41
+12,69
+7,32
+13,08
+18,42
+
+0,085
+0,054
+0,079
+0,137
+0,076
+0,054
+
+1,39
+1,37
+1,30
+1,47
+1,55
+1,30
+
+0,719
+0,730
+0,769
+0,680
+0,645
+0,769
+
+80,88
+
+0,012
+
+8,92
+
+0,112
+
+1,47
+
+0,680
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 33
+0
+
+Pregãtirea fibrelor și filarea în fire tip
+lânã cardatã
+Pregãtirea fibrelor și filarea în fire tip
+lânã pieptãnatã
+Pregãtirea fibrelor și filarea în fire tip
+in-cânepã-iutã
+Fabricarea aței
+Þesãturi tip bumbac
+Þesãturi tip lânã cardatã
+Þesãturi tip lânã pieptãnatã
+Þesãturi tip mãtase
+Þesãturi tip in-cânepã-iutã
+Alte țesãturi
+Fabricarea de articole confecționate
+din textile (cu excepția îmbrãcãmintei
+și a lenjeriei de corp)
+Fabricarea de covoare și mochete
+Fabricarea de textile nețesute și a
+articolelor din acestea (exclusiv
+confecțiile pentru îmbrãcãminte)
+Fabricarea altor articole textile
+Fabricarea de metraje prin tricotare
+sau croșetare
+Fabricarea de ciorapi, șosete și ciorapi-pantalon
+Fabricarea de pulovere, veste și
+articole similare tricotate
+Fabricarea de îmbrãcãminte tricotatã
+(exclusiv lenjeria de corp tricotatã)
+Fabricarea lenjeriei de corp tricotate
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+30,51
+
+0,033
+
+9,25
+
+0,108
+
+1,67
+
+0,599
+
+91,83
+
+0,011
+
+9,00
+
+0,111
+
+1,45
+
+0,690
+
+95,80
+83,68
+76,79
+78,27
+83,62
+93,12
+52,54
+152,93
+
+0,010
+0,012
+0,013
+0,013
+0,012
+0,011
+0,019
+0,007
+
+12,73
+8,09
+9,27
+9,71
+9,18
+8,13
+7,72
+9,98
+
+0,079
+0,124
+0,108
+0,103
+0,109
+0,123
+0,130
+0,100
+
+1,24
+1,39
+1,58
+1,37
+1,49
+1,38
+1,54
+1,42
+
+0,806
+0,719
+0,633
+0,730
+0,671
+0,725
+0,649
+0,704
+
+94,70
+56,35
+
+0,011
+0,018
+
+8,46
+6,67
+
+0,118
+0,150
+
+1,41
+1,45
+
+0,709
+0,690
+
+100,62
+196,06
+
+0,010
+0,005
+
+9,17
+13,11
+
+0,109
+0,076
+
+1,52
+1,70
+
+0,658
+0,588
+
+46,57
+
+0,021
+
+6,63
+
+0,151
+
+1,10
+
+0,909
+
+53,97
+
+0,019
+
+8,37
+
+0,119
+
+1,49
+
+0,671
+
+45,47
+
+0,022
+
+8,23
+
+0,122
+
+1,53
+
+0,654
+
+58,25
+54,50
+
+0,017
+0,018
+
+8,24
+7,11
+
+0,121
+0,141
+
+1,34
+1,29
+
+0,746
+0,775
+
+102,92
+
+0,010
+
+10,56
+
+0,095
+
+1,72
+
+0,581
+
+42,20
+
+0,024
+
+8,05
+
+0,124
+
+1,41
+
+0,709
+
+52,20
+
+0,019
+
+9,02
+
+0,111
+
+1,16
+
+0,862
+
+74,63
+59,25
+
+0,013
+0,017
+
+12,08
+10,85
+
+0,083
+0,092
+
+1,38
+1,45
+
+0,725
+0,690
+
+141,26
+
+0,007
+
+9,62
+
+0,104
+
+1,40
+
+0,714
+
+56,63
+
+0,018
+
+7,21
+
+0,139
+
+1,22
+
+0,820
+
+72,70
+
+0,014
+
+9,07
+
+0,110
+
+1,35
+
+0,741
+
+115,51
+
+0,009
+
+9,46
+
+0,106
+
+1,48
+
+0,676
+
+122,87
+
+0,008
+
+8,42
+
+0,119
+
+1,24
+
+0,806
+
+136,13
+
+0,007
+
+9,60
+
+0,104
+
+1,35
+
+0,741
+
+166,57
+116,06
+141,88
+
+0,006
+0,009
+0,007
+
+11,21
+10,03
+9,04
+
+0,089
+0,100
+0,111
+
+1,22
+1,49
+1,52
+
+0,820
+0,671
+0,658
+
+94,40
+
+0,011
+
+6,02
+
+0,166
+
+1,06
+
+0,943
+
+Confecții din textile, blãnuri și piele
+Fabricarea de articole de îmbrãcãminte
+din piele și din înlocuitori de piele (cu
+excepția celor din blanã)
+Fabricarea altor articole de îmbrãcãminte
+(exclusiv lenjeria de corp)
+Fabricarea de articole de lenjerie de
+corp
+Fabricarea altor articole de îmbrãcãminte
+și accesorii
+Confecționarea articolelor din blanã
+Pielãrie și încãlțãminte
+Tãbãcirea și finisarea pieilor
+Fabricarea articolelor de voiaj și marochinãrie, a articolelor de harnașament
+Fabricarea încãlțãmintei din piele și din
+înlocuitori
+Fabricarea încãlțãmintei din cauciuc și
+din materiale plastice
+Prelucrarea lemnului
+Prelucrarea brutã a lemnului și impregnarea lemnului
+Fabricarea de produse stratificate din
+lemn
+Fabricarea de elemente de dulgherie
+și tâmplãrie pentru construcții
+Producția de ambalaje din lemn
+Fabricarea altor produse din lemn
+Fabricarea articolelor din plutã, împletituri din nuiele și din alte materiale
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 33
+0
+
+1
+
+2
+
+3
+
+4
+
+11
+5
+
+6
+
+Celulozã, hârtie și carton
+Fabricarea celulozei
+Fabricarea hârtiei și a cartonului
+Fabricarea hârtiei și a cartonului ondulat și a ambalajelor din hârtie și din carton
+Fabricarea produselor de uz gospodãresc sau sanitar și a hârtiei de toaletã
+Fabricarea articolelor de papetãrie
+
+222,75
+149,82
+
+0,004
+0,007
+
+9,63
+8,80
+
+0,104
+0,114
+
+1,37
+1,51
+
+0,730
+0,662
+
+112,53
+
+0,009
+
+7,57
+
+0,132
+
+1,40
+
+0,714
+
+54,49
+158,47
+
+0,018
+0,006
+
+4,60
+9,53
+
+0,217
+0,105
+
+1,23
+1,51
+
+0,813
+0,662
+
+321,22
+142,09
+
+0,003
+0,007
+
+50,23
+22,21
+
+0,020
+0,045
+
+2,45
+1,58
+
+0,408
+0,633
+
+30,41
+72,14
+114,52
+
+0,033
+0,014
+0,009
+
+8,05
+13,30
+17,90
+
+0,124
+0,075
+0,056
+
+1,48
+1,40
+1,95
+
+0,676
+0,714
+0,513
+
+148,77
+107,14
+
+0,007
+0,009
+
+8,05
+6,27
+
+0,124
+0,159
+
+1,33
+1,27
+
+0,752
+0,787
+
+73,91
+
+0,014
+
+4,56
+
+0,219
+
+1,05
+
+0,952
+
+122,09
+
+0,008
+
+7,15
+
+0,140
+
+1,32
+
+0,758
+
+156,77
+
+0,006
+
+7,91
+
+0,126
+
+1,33
+
+0,752
+
+113,79
+134,15
+111,20
+
+0,009
+0,007
+0,009
+
+8,19
+8,73
+8,65
+
+0,122
+0,115
+0,116
+
+1,47
+1,41
+1,44
+
+0,680
+0,709
+0,694
+
+129,05
+
+0,008
+
+8,58
+
+0,117
+
+1,71
+
+0,585
+
+182,26
+204,48
+
+0,005
+0,005
+
+21,25
+11,33
+
+0,047
+0,088
+
+1,06
+1,83
+
+0,943
+0,546
+
+47,36
+55,46
+
+0,021
+0,018
+
+4,45
+7,39
+
+0,225
+0,135
+
+1,75
+1,01
+
+0,571
+0,990
+
+80,48
+
+0,012
+
+9,58
+
+0,104
+
+1,26
+
+0,794
+
+64,83
+88,22
+798,85
+
+0,015
+0,011
+0,001
+
+8,59
+6,81
+33,46
+
+0,116
+0,147
+0,030
+
+1,27
+1,14
+1,86
+
+0,787
+0,877
+0,538
+
+69,31
+173,29
+
+0,014
+0,006
+
+11,31
+8,84
+
+0,088
+0,113
+
+1,26
+1,79
+
+0,794
+0,559
+
+134,39
+
+0,007
+
+7,26
+
+0,138
+
+1,46
+
+0,685
+
+85,95
+141,45
+
+0,012
+0,007
+
+6,24
+6,62
+
+0,160
+0,151
+
+1,50
+1,38
+
+0,667
+0,725
+
+118,91
+
+0,008
+
+8,83
+
+0,113
+
+1,58
+
+0,633
+
+142,44
+
+0,007
+
+9,94
+
+0,101
+
+1,58
+
+0,633
+
+Edituri, poligrafie și reproducerea
+înregistrãrilor pe suporturi
+Editarea cãrților, a broșurilor și a altor
+publicații
+Editarea revistelor și a periodicelor
+Editarea suporturilor pentru înregistrãri
+audio
+Tipãrirea ziarelor
+Alte activitãți de tipãrire
+Prelucrarea țițeiului, cocsificarea
+cãrbunelui și tratarea combustibililor
+nucleari
+Cocsificarea cãrbunelui
+Prelucrarea țițeiului
+Chimie și fibre sintetice și artificiale
+Fabricarea coloranților și a pigmenților
+Fabricarea altor produse chimice anorganice de bazã
+Fabricarea altor produse chimice organice
+de bazã (cu excepția petrochimiei)
+Fabricarea îngrãșãmintelor și a produselor azotoase
+Fabricarea materialelor plastice primare
+Fabricarea cauciucului sintetic
+Fabricarea produselor petrochimice de
+bazã
+Fabricarea pesticidelor și a altor produse
+agrochimice
+Fabricarea vopselelor și a lacurilor
+Fabricarea produselor farmaceutice de
+bazã
+Fabricarea preparatelor farmaceutice
+Fabricarea sãpunurilor, a detergenților
+și a produselor de întreținere
+Fabricarea parfumurilor și a produselor
+cosmetice
+Fabricarea explozibililor
+Fabricarea cleiurilor și a gelatinelor
+Fabricarea preparatelor chimice de uz
+fotografic
+Fabricarea altor produse chimice
+Fabricarea fibrelor și a firelor sintetice
+și artificiale
+Prelucrarea cauciucului și a maselor
+plastice
+Fabricarea pneurilor și a camerelor de
+aer
+Fabricarea altor produse din cauciuc
+Fabricarea plãcilor, a foliilor, a tuburilor
+și a profilurilor din material plastic
+Fabricarea articolelor de ambalaj din
+material plastic
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 33
+0
+
+Fabricarea articolelor din material
+plastic pentru construcții
+Fabricarea altor articole din material
+plastic
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+88,20
+
+0,011
+
+10,97
+
+0,091
+
+1,69
+
+0,592
+
+121,42
+
+0,008
+
+8,32
+
+0,120
+
+1,53
+
+0,654
+
+141,19
+237,82
+110,54
+90,04
+113,94
+
+0,007
+0,004
+0,009
+0,011
+0,009
+
+7,24
+29,78
+9,72
+10,48
+8,31
+
+0,138
+0,034
+0,103
+0,095
+0,120
+
+1,29
+1,54
+1,09
+1,48
+1,53
+
+0,775
+0,649
+0,917
+0,676
+0,654
+
+42,56
+
+0,023
+
+7,30
+
+0,137
+
+1,26
+
+0,794
+
+110,43
+
+0,009
+
+7,15
+
+0,140
+
+1,40
+
+0,714
+
+120,27
+
+0,008
+
+7,84
+
+0,128
+
+1,41
+
+0,709
+
+84,45
+
+0,012
+
+7,71
+
+0,130
+
+1,32
+
+0,758
+
+81,01
+170,03
+197,55
+
+0,012
+0,006
+0,005
+
+8,69
+8,05
+9,02
+
+0,115
+0,124
+0,111
+
+1,39
+1,14
+1,36
+
+0,719
+0,877
+0,735
+
+124,06
+38,22
+132,96
+160,55
+98,91
+
+0,008
+0,026
+0,008
+0,006
+0,010
+
+9,68
+5,03
+6,34
+11,47
+8,62
+
+0,103
+0,199
+0,158
+0,087
+0,116
+
+1,44
+0,74
+1,18
+1,32
+1,36
+
+0,694
+1,351
+0,847
+0,758
+0,735
+
+98,56
+
+0,010
+
+8,01
+
+0,125
+
+1,29
+
+0,775
+
+116,58
+107,40
+168,26
+89,31
+100,24
+72,05
+134,12
+184,58
+47,30
+106,50
+145,14
+32,38
+57,96
+99,10
+214,65
+89,18
+187,09
+213,30
+86,00
+
+0,009
+0,009
+0,006
+0,011
+0,010
+0,014
+0,007
+0,005
+0,021
+0,009
+0,007
+0,031
+0,017
+0,010
+0,005
+0,011
+0,005
+0,005
+0,012
+
+7,08
+6,13
+8,48
+5,87
+6,66
+5,24
+7,81
+9,50
+4,45
+8,66
+8,68
+4,01
+6,12
+8,56
+10,19
+6,68
+9,90
+13,92
+7,22
+
+0,141
+0,163
+0,118
+0,170
+0,150
+0,191
+0,128
+0,105
+0,225
+0,115
+0,115
+0,249
+0,163
+0,117
+0,098
+0,150
+0,101
+0,072
+0,139
+
+1,28
+1,28
+1,35
+1,16
+1,24
+1,25
+1,40
+1,33
+0,79
+1,55
+1,29
+1,20
+1,37
+1,57
+1,81
+1,32
+1,53
+1,55
+1,57
+
+0,781
+0,781
+0,741
+0,862
+0,806
+0,800
+0,714
+0,752
+1,266
+0,645
+0,775
+0,833
+0,730
+0,637
+0,552
+0,758
+0,654
+0,645
+0,637
+
+89,78
+200,16
+
+0,011
+0,005
+
+9,09
+19,03
+
+0,110
+0,053
+
+1,21
+1,69
+
+0,826
+0,592
+
+98,38
+
+0,010
+
+6,56
+
+0,152
+
+1,32
+
+0,758
+
+Alte produse din minerale
+nemetalice
+Fabricarea sticlei plate
+Prelucrarea și fasonarea sticlei plate
+Fabricarea articolelor din sticlã
+Fabricarea fibrelor din sticlã
+Fabricarea de sticlãrie tehnicã
+Fabricarea articolelor ceramice pentru
+uz gospodãresc și ornamental
+Fabricarea de obiecte sanitare din
+ceramicã
+Fabricarea produselor ceramice
+refractare
+Fabricarea plãcilor și a dalelor din
+ceramicã
+Fabricarea cãrãmizilor, a țiglelor și a
+altor produse pentru construcții
+Fabricarea cimentului
+Fabricarea varului
+Fabricarea elementelor din beton
+pentru construcții
+Fabricarea betonului
+Fabricarea produselor din azbociment
+Tãierea, fasonarea și finisarea pietrei
+Fabricarea de produse abrazive
+Fabricarea altor produse din minerale
+nemetalice
+Metalurgie
+Producția de metale feroase sub forme
+primare și semifabricate
+Tuburi (țevi) din fontã
+Tuburi (țevi) din oțel
+Tragere la rece
+Laminare la rece
+Alte profiluri obținute la rece
+Trefilare
+Alte produse metalurgice
+Producția metalelor prețioase
+Producția aluminiului
+Prelucrarea aluminiului
+Producția plumbului, zincului și cositorului
+Producția cuprului
+Prelucrarea cuprului
+Producția altor metale neferoase
+Turnarea fontei
+Turnarea oțelului
+Turnarea metalelor neferoase ușoare
+Turnarea altor metale neferoase
+Construcții metalice și produse
+din metal
+Construcții metalice și pãrți componente
+Structuri și tâmplãrii metalice
+Producția de rezervoare, cisterne și
+conteinere metalice
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 33
+0
+
+Producția generatoarelor de aburi (cu
+excepția cazanelor pentru încãlzire
+centralã cu apã caldã)
+Fabricarea produselor metalice obținute
+prin deformare plasticã; metalurgia
+pulberilor
+Fabricarea produselor de tãiat
+Fabricarea sculelor de mânã
+Fabricarea articolelor de feronerie
+Fabricarea altor articole de fierãrie de
+uz gospodãresc
+Fabricarea amabalajelor din metale
+ușoare
+Fabricarea articolelor din fire metalice
+Fabricarea de șuruburi, buloane, lanțuri
+și arcuri
+Fabricarea altor articole din metal
+Construcții
+Clãdiri industriale
+Clãdiri agricole
+Clãdiri pentru transport și telecomunicații cu caracter civil
+Clãdiri pentru transport și telecomunicații cu caracter productiv
+Clãdiri pentru afaceri, comerț
+Clãdiri pentru depozitare
+Clãdiri de locuit
+Clãdiri pentru învãțãmânt, științã, artã,
+culturã
+Clãdiri pentru ocrotirea sãnãtãții, asistențã socialã, culturã fizicã și agrement
+Clãdiri administrative
+Construcții speciale industriale
+Construcții speciale agricole
+Construcții hidrotehnice
+Construcții speciale pentru transport
+și telecomunicații
+Construcții pentru depozitare
+Construcții pentru transportul energiei
+electrice
+Construcții pentru alimentare cu apã
+și canalizare
+Construcții pentru transportul și distribuția produselor petroliere, a gazelor,
+construcții pentru conducte tehnologice
+și pentru termoficare
+Alte construcții speciale
+Mașini și echipamente
+Fabricarea de motoare și turbine (cu
+excepția motoarelor pentru avioane,
+vehicule și motociclete)
+Fabricarea de pompe și compresoare
+Fabricarea lagãrelor, a angrenajelor și
+a organelor mecanice de transmisie
+Fabricarea cuptoarelor industriale și a
+arzãtoarelor
+Fabricarea echipamentelor de ridicat și
+manipulat
+Fabricarea echipamentelor de ventilare
+și condiționare a aerului (cu excepția
+celor pentru uz casnic)
+Fabricarea altor echipamente de utilizare
+generalã
+Fabricarea tractoarelor
+
+1
+
+2
+
+3
+
+4
+
+13
+5
+
+6
+
+701,76
+
+0,001
+
+17,19
+
+0,058
+
+0,67
+
+1,493
+
+97,46
+75,69
+76,65
+103,14
+
+0,010
+0,013
+0,013
+0,010
+
+7,69
+6,39
+7,92
+10,93
+
+0,130
+0,156
+0,126
+0,091
+
+1,47
+1,17
+1,55
+1,30
+
+0,680
+0,855
+0,645
+0,769
+
+85,87
+
+0,012
+
+7,48
+
+0,134
+
+1,42
+
+0,704
+
+136,57
+77,86
+
+0,007
+0,013
+
+9,29
+7,61
+
+0,108
+0,131
+
+1,29
+1,43
+
+0,775
+0,699
+
+97,49
+128,70
+
+0,010
+0,008
+
+8,47
+9,14
+
+0,118
+0,109
+
+1,52
+1,45
+
+0,658
+0,690
+
+280,83
+278,34
+
+0,004
+0,004
+
+10,76
+10,77
+
+0,093
+0,093
+
+1,83
+1,76
+
+0,546
+0,568
+
+256,57
+
+0,004
+
+10,13
+
+0,099
+
+1,80
+
+0,556
+
+268,35
+243,45
+266,87
+250,25
+
+0,004
+0,004
+0,004
+0,004
+
+10,30
+9,72
+10,31
+9,36
+
+0,097
+0,103
+0,097
+0,107
+
+1,84
+1,77
+1,80
+1,75
+
+0,543
+0,565
+0,556
+0,571
+
+243,06
+
+0,004
+
+9,81
+
+0,102
+
+1,78
+
+0,562
+
+254,49
+244,24
+264,79
+279,42
+261,13
+
+0,004
+0,004
+0,004
+0,004
+0,004
+
+9,83
+9,79
+10,23
+10,71
+10,52
+
+0,102
+0,102
+0,098
+0,093
+0,095
+
+1,78
+1,77
+1,87
+1,83
+1,78
+
+0,562
+0,565
+0,535
+0,546
+0,562
+
+284,28
+237,92
+
+0,004
+0,004
+
+11,35
+9,26
+
+0,088
+0,108
+
+1,76
+1,76
+
+0,568
+0,568
+
+249,89
+
+0,004
+
+9,88
+
+0,101
+
+1,77
+
+0,565
+
+270,24
+
+0,004
+
+11,03
+
+0,091
+
+1,86
+
+0,538
+
+246,00
+254,47
+
+0,004
+0,004
+
+9,36
+10,01
+
+0,107
+0,100
+
+1,64
+1,84
+
+0,610
+0,543
+
+239,04
+106,72
+
+0,004
+0,009
+
+10,65
+7,92
+
+0,094
+0,126
+
+1,74
+1,41
+
+0,575
+0,709
+
+110,71
+
+0,009
+
+8,27
+
+0,121
+
+1,27
+
+0,787
+
+127,22
+
+0,008
+
+9,93
+
+0,101
+
+1,53
+
+0,654
+
+43,71
+
+0,023
+
+5,07
+
+0,197
+
+1,40
+
+0,714
+
+113,82
+
+0,009
+
+6,82
+
+0,147
+
+1,27
+
+0,787
+
+122,58
+133,44
+
+0,008
+0,007
+
+8,72
+9,62
+
+0,115
+0,104
+
+1,50
+1,69
+
+0,667
+0,592
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 33
+0
+
+Fabricarea altor mașini și utilaje agricole
+și forestiere
+Fabricarea mașinilor-unelte
+Fabricarea utilajelor pentru metalurgie
+Fabricarea utilajelor pentru mine, cariere
+și construcții
+Fabricarea utilajelor pentru prelucrarea
+produselor alimentare, a bãuturilor și
+a tutunului
+Fabricarea utilajelor pentru industria
+textilã, îmbrãcãminte și pielãrie
+Fabricarea altor mașini și utilaje specifice
+Fabricarea de mașini și aparate electrocasnice
+Fabricarea de aparate neelectrice
+Mijloace ale tehnicii de calcul
+și de birou
+Fabricarea calculatoarelor și a altor
+echipamente electronice
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+81,32
+124,28
+52,73
+
+0,012
+0,008
+0,019
+
+9,79
+13,42
+5,36
+
+0,102
+0,075
+0,187
+
+1,52
+1,55
+0,93
+
+0,658
+0,645
+1,075
+
+103,78
+
+0,010
+
+10,81
+
+0,093
+
+1,31
+
+0,763
+
+87,14
+
+0,011
+
+11,08
+
+0,090
+
+1,84
+
+0,543
+
+54,85
+54,03
+
+0,018
+0,019
+
+6,60
+10,04
+
+0,152
+0,100
+
+1,45
+1,95
+
+0,690
+0,513
+
+110,74
+104,29
+
+0,009
+0,010
+
+7,60
+8,48
+
+0,132
+0,118
+
+1,40
+1,60
+
+0,714
+0,625
+
+6,43
+
+0,155
+
+5,72
+
+0,175
+
+1,04
+
+0,962
+
+139,00
+
+0,007
+
+7,94
+
+0,126
+
+1,55
+
+0,645
+
+85,86
+
+0,012
+
+9,32
+
+0,107
+
+1,58
+
+0,633
+
+110,29
+
+0,009
+
+7,93
+
+0,126
+
+1,49
+
+0,671
+
+84,75
+
+0,012
+
+7,35
+
+0,136
+
+1,45
+
+0,690
+
+90,61
+
+0,011
+
+9,95
+
+0,101
+
+1,45
+
+0,690
+
+94,25
+107,89
+
+0,011
+0,009
+
+6,41
+7,61
+
+0,156
+0,131
+
+1,27
+1,43
+
+0,787
+0,699
+
+91,87
+
+0,011
+
+13,76
+
+0,073
+
+1,83
+
+0,546
+
+47,60
+
+0,021
+
+18,87
+
+0,053
+
+1,91
+
+0,524
+
+63,20
+
+0,016
+
+8,58
+
+0,117
+
+1,42
+
+0,704
+
+83,45
+
+0,012
+
+19,45
+
+0,051
+
+1,69
+
+0,592
+
+67,51
+
+0,015
+
+10,85
+
+0,092
+
+1,57
+
+0,637
+
+131,85
+
+0,008
+
+13,57
+
+0,074
+
+2,49
+
+0,402
+
+126,71
+60,02
+
+0,008
+0,017
+
+20,35
+9,24
+
+0,049
+0,108
+
+1,61
+1,63
+
+0,621
+0,613
+
+138,53
+
+0,007
+
+10,19
+
+0,098
+
+1,71
+
+0,585
+
+105,49
+
+0,009
+
+8,71
+
+0,115
+
+1,98
+
+0,505
+
+Mașini și aparate electrice
+Producția de motoare, generatoare și
+transformatoare electrice
+Producția de aparate pentru distribuție
+și comandã electricã
+Producția de fire, cabluri electrice și
+optice izolate
+Producția de acumulatori, baterii și pile
+electrice
+Producția de lãmpi electrice și echipamente de iluminat
+Producția de componente electrice pentru
+motoare și vehicule
+Producția altor componente electrice
+Echipamente, aparate de radio,
+de televiziune și de comunicații
+Producția tuburilor electronice și a altor
+componente electronice
+Producția de emițãtoare de radio și de
+televiziune, echipamente și aparate telefonice și telegrafice
+Producția de receptoare de radio și de
+televiziune; aparate de înregistrare și de
+reproducere audio și video
+Aparaturã și instrumente medicale, de
+precizie și optice și de ceasornicãrie
+Producția de aparaturã și instrumente
+medicale
+Producția de aparaturã și instrumente
+de mãsurã, verificare și control (cu excepția
+echipamentelor de mãsurã, reglare și
+control pentru procesele industriale)
+Execuția de echipamente de mãsurã,
+reglare și control pentru procesele
+industriale
+Producția de aparaturã și instrumente
+optice și fotografice
+Producția de ceasuri
+Mijloace de transport rutier
+Producția de autovehicule
+Producția de caroserii, remorci și
+semiremorci
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 33
+0
+
+1
+
+2
+
+3
+
+4
+
+15
+5
+
+6
+
+Producția de piese și accesorii pentru
+autovehicule și motoare de autovehicule
+
+113,00
+
+0,009
+
+7,89
+
+0,127
+
+1,44
+
+0,694
+
+Alte mijloace de transport
+Producția și repararea mijloacelor de
+transport feroviar și a materialului rulant
+Producția de motociclete
+Producția de biciclete
+
+155,14
+56,95
+123,93
+
+0,006
+0,018
+0,008
+
+10,96
+7,35
+12,09
+
+0,091
+0,136
+0,083
+
+1,61
+1,66
+1,45
+
+0,621
+0,602
+0,690
+
+91,52
+
+0,011
+
+9,56
+
+0,105
+
+1,42
+
+0,704
+
+66,12
+85,18
+71,70
+
+0,015
+0,012
+0,014
+
+8,25
+9,42
+8,95
+
+0,121
+0,106
+0,112
+
+1,42
+1,31
+1,29
+
+0,704
+0,763
+0,775
+
+124,56
+97,56
+
+0,008
+0,010
+
+11,85
+15,40
+
+0,084
+0,065
+
+1,03
+1,69
+
+0,971
+0,592
+
+34,80
+58,45
+73,49
+125,18
+
+0,029
+0,017
+0,014
+0,008
+
+4,00
+7,13
+11,67
+10,48
+
+0,250
+0,140
+0,086
+0,095
+
+0,73
+1,62
+1,53
+1,44
+
+1,370
+0,617
+0,654
+0,694
+
+Mobilier și alte activitãți neclasificate
+Producția de scaune (exclusiv din metal)
+Producția mobilierului pentru birouri și
+magazine (exclusiv din metal)
+Producția mobilierului pentru bucãtãrii
+Producția altor tipuri de mobilier
+Producția mobilierului din metal pentru
+birouri și magazine
+Baterea monedelor și a medaliilor
+Fabricarea bijuteriilor și a articolelor
+similare din metal și pietre prețioase
+Fabricarea articolelor sportive
+Fabricarea jocurilor și a jucãriilor
+Alte produse manufacturiere
+Energie electricã și termicã, gaze
+și apã
+Transportul și distribuția energiei
+electrice
+Transportul și distribuția aburului și
+a apei calde
+Tratarea și distribuția apei
+
+96,71
+
+0,010
+
+6,77
+
+0,148
+
+1,20
+
+0,833
+
+97,28
+240,75
+
+0,010
+0,004
+
+7,07
+13,41
+
+0,141
+0,075
+
+1,20
+1,63
+
+0,833
+0,613
+
+Mãrfuri alimentare
+Mãrfuri alimentare
+
+112,67
+
+0,009
+
+3,31
+
+0,302
+
+1,31
+
+0,763
+
+Mãrfuri nealimentare
+Mãrfuri nealimentare
+
+90,76
+
+0,011
+
+3,06
+
+0,327
+
+1,29
+
+0,775
+
+82,67
+70,75
+90,24
+50,93
+56,08
+92,83
+117,30
+
+0,012
+0,014
+0,011
+0,020
+0,018
+0,011
+0,009
+
+3,61
+3,28
+3,28
+3,23
+3,06
+3,71
+3,85
+
+0,277
+0,305
+0,305
+0,310
+0,327
+0,270
+0,260
+
+1,42
+1,36
+1,36
+1,34
+1,27
+1,54
+1,39
+
+0,704
+0,735
+0,735
+0,746
+0,787
+0,649
+0,719
+
+79,15
+100,50
+72,49
+103,27
+112,27
+121,51
+42,00
+50,84
+124,52
+145,61
+51,00
+126,07
+
+0,013
+0,010
+0,014
+0,010
+0,009
+0,008
+0,024
+0,020
+0,008
+0,007
+0,020
+0,008
+
+3,93
+3,71
+3,56
+4,29
+4,01
+3,07
+2,66
+2,93
+4,21
+6,10
+3,80
+3,81
+
+0,254
+0,270
+0,281
+0,233
+0,249
+0,326
+0,376
+0,341
+0,238
+0,164
+0,263
+0,262
+
+1,43
+1,41
+1,42
+1,49
+1,48
+1,44
+1,33
+1,30
+1,93
+3,79
+1,65
+1,34
+
+0,699
+0,709
+0,704
+0,671
+0,676
+0,694
+0,752
+0,769
+0,518
+0,264
+0,606
+0,746
+
+Servicii
+Servicii
+Confecționat, reparat și curãțat
+Confecționat și reparat îmbrãcãminte
+Confecționat și reparat încãlțãminte
+Confecționat și reparat mobilã
+Curãțãtorii și spãlãtorii
+Apã, canal, salubritate
+Cinematografie, teatre, muzee și
+cheltuieli cu învãțãmântul
+Reparații auto, electrice și lucrãri foto
+Îngrijire medicalã
+Igienã și cosmeticã
+Transport urban
+Transport interurban
+C.F.R.
+Rutier
+Aerian
+Fluvial
+Poștã și telecomunicații
+Restaurante, cafenele, cantine
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 33
+0
+
+1
+
+Alte servicii cu caracter industrial*)
+Alte servicii**)
+Plata cazãrii în unitãți hoteliere
+
+2
+
+3
+
+4
+
+5
+
+6
+
+65,61
+117,26
+224,99
+
+0,015
+0,009
+0,004
+
+3,30
+3,37
+3,74
+
+0,303
+0,297
+0,267
+
+1,36
+1,40
+1,52
+
+0,735
+0,714
+0,658
+
+92,32
+92,32
+92,32
+
+0,011
+0,011
+0,011
+
+13,88
+13,88
+13,88
+
+0,072
+0,072
+0,072
+
+1,55
+1,55
+1,55
+
+0,643
+0,643
+0,643
+
+Prestãri de servicii
+Informaticã și activitãți conexe
+Cercetare-dezvoltare, proiectare
+Activitãți juridice, contabilitate, consulting
+Activitãți de proiectare, urbanism,
+inginerie și alte servicii tehnice
+Activitãți de testãri și analize tehnice
+Publicitate
+Activitãți financiare, bancare și de
+asigurãri
+Activitãți de învãțãmânt
+Activitãți de sãnãtate
+Salubritate și altele
+Activitãți recreative, culturale, sportive
+Alte activitãți de servicii
+
+92,32
+92,32
+92,32
+
+0,011
+0,011
+0,011
+
+13,88
+13,88
+13,88
+
+0,072
+0,072
+0,072
+
+1,55
+1,55
+1,55
+
+0,643
+0,643
+0,643
+
+92,32
+51,31
+86,73
+64,61
+65,46
+116,28
+
+0,011
+0,019
+0,012
+0,015
+0,015
+0,009
+
+13,88
+11,04
+12,52
+10,65
+11,95
+3,16
+
+0,072
+0,091
+0,080
+0,094
+0,084
+0,316
+
+1,55
+1,54
+1,42
+1,39
+1,49
+1,31
+
+0,643
+0,649
+0,704
+0,719
+0,671
+0,763
+
+Agriculturã
+Producția vegetalã
+Producția animalã
+Servicii agricole
+
+115,65
+78,82
+64,14
+
+0,009
+0,013
+0,015
+
+9,90
+9,10
+11,65
+
+0,101
+0,110
+0,086
+
+1,50
+1,40
+1,36
+
+0,667
+0,714
+0,734
+
+Silvicultura
+
+140,13
+
+0,007
+
+9,37
+
+0,107
+
+1,41
+
+0,706
+
+Pisciculturã și pescuit
+Piscicultura și pescuitul
+
+171,28
+
+0,006
+
+13,98
+
+0,072
+
+1,39
+
+0,720
+
+Silviculturã
+
+*) Alte servicii cu caracter industrial:
+Ñ Dãrãcit lânã
+Ñ Argãsit, tãbãcit, vopsit piei de oaie
+Ñ Încadrat tablou
+Ñ Aplicat petic pentru vulcanizare
+Ñ Confecționarea unei chei tip yale
+Ñ Legat volum
+Ñ Vopsit hainã din piele
+Ñ Confecționat jerbe din flori naturale
+Ñ Umplut sifoane
+Ñ Confecționat șipcã pentru zugrãveli
+Ñ Vopsit fire lânã
+Ñ Confecționat ușã, fereastrã
+Ñ Executat acoperiș din tablã;
+Ñ Executat zidãrie și tencuieli
+Ñ Înlocuit jgheab
+Ñ Executat placaje, pardoseli
+Ñ Zugrãvit, tencuieli interioare
+Ñ Cumpãrãri locuințe.
+**) Alte servicii:
+Ñ Servicii casnice (spãlat geamuri, rufe; scuturat covoare; frecat podele)
+Ñ Platã pentru îngrijire copil
+Ñ Cursuri de instruire șoferi
+Ñ Cazare școlarã
+Ñ Anunț la mica publicitate
+Ñ Închiriat casete video
+Ñ Încãrcat brichete
+Ñ Dactilografiat, xeroxat acte
+Ñ Taxã pentru servicii de parcare autoturisme.
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ,,Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 30.98.12.301 B.C.R. Ñ S.M.B.
+Adresa pentru publicitate : Serviciul relații cu publicul și agenții economici, București,
+Str. Blanduziei nr. 1, sectorul 2, telefon 211.57.30.
+Tiparul : Regia Autonomã ,,Monitorul Oficial,,, telefon 668.55.58 și 614.17.39.
+Monitorul Oficial al României, Partea I, nr. 33/1996 conține 16 pagini.
+
+Prețul 320 lei
+
+40.816
+
+

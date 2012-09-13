@@ -1,0 +1,2607 @@
+PARTEA
+
+Anul 171 (XV) Ñ Nr. 317 bis
+
+I
+
+Luni, 12 mai 2003
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+SUMAR
+Pagina
+Anexa la Ordinul ministrului industriei și resurselor
+nr. 142/2003 pentru aprobarea Prescripției tehnice
+PT R2-2003, ediția 1, ”Cerințe tehnice privind
+montarea, punerea în funcțiune, utilizarea, repararea și verificarea tehnicã a mecanismelor de
+ridicat,,.........................................................................
+
+1Ð51
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+MINISTERUL INDUSTRIEI ȘI RESURSELOR
+
+ORDIN
+pentru aprobarea Prescripției tehnice PT R2-2003, ediția 1, ”Cerințe tehnice privind montarea,
+punerea în funcțiune, utilizarea, repararea și verificarea tehnicã a mecanismelor de ridicat,,*)
+În aplicarea Hotãrârii Guvernului nr. 1.340/2001 privind organizarea și funcționarea Inspecției de Stat pentru
+Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat, publicatã în Monitorul Oficial al României,
+Partea I, nr. 37 din 21 ianuarie 2002,
+în temeiul Hotãrârii Guvernului nr. 19/2001 privind organizarea și funcționarea Ministerului Industriei și Resurselor,
+cu modificãrile și completãrile ulterioare,
+ministrul industriei și resurselor emite urmãtorul ordin:
+Art. 1. Ñ Se aprobã Prescripția tehnicã PT R2-2003,
+ediția 1, ”Cerințe tehnice privind montarea, punerea în
+funcțiune, utilizarea, repararea și verificarea tehnicã a
+
+mecanismelor de ridicat,,, cuprinsã în anexa care face parte
+integrantã din prezentul ordin.
+Art. 2. Ñ Prezentul ordin va fi publicat în Monitorul
+Oficial al României, Partea I.
+
+Ministrul industriei și resurselor,
+Dan Ioan Popescu
+București, 14 martie 2003.
+Nr. 142.
+*) Ordinul nr. 142/2003 a fost publicat în Monitorul Oficial al României, Partea I, nr. 317 din 12 mai 2003, și este reprodus și în acest
+numãr bis.
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317 bis/12.V.2003
+ANEXÃ*)
+
+MINISTERUL INDUSTRIEI ȘI RESURSELOR
+INSPECÞIA DE STAT PENTRU CONTROLUL CAZANELOR,
+RECIPIENTELOR SUB PRESIUNE ȘI INSTALAÞIILOR DE RIDICAT Ñ ISCIR
+
+Ñ REGLEMENTARE TEHNICÃ NAÞIONALÃ Ñ
+
+P R E S C R I P Þ I E T E H N I C Ã PT R2-2003,
+ediția 1, ”Cerințe tehnice privind montarea, punerea în funcțiune, utilizarea, repararea
+și verificarea tehnicã a mecanismelor de ridicat,,
+
+Colecția Inspecției de Stat pentru Controlul Cazanelor,
+Recipientelor sub Presiune și Instalațiilor de Ridicat Ñ ISCIR
+Ñ Ediție oficialã Ñ
+
+Scopul principal al prescripțiilor tehnice este crearea unui cadru legal unitar în vederea aplicãrii întocmai a prevederilor Hotãrârii Guvernului nr. 1.340/2001 privind asigurarea protecției utilizatorilor, mediului înconjurãtor și proprietãții.
+Prevederile prezentei prescripții tehnice sunt obligatorii pentru toți cei care monteazã, reparã, întrețin, dețin,
+exploateazã sau verificã mecanisme de ridicat.
+Utilizatorii prezentei prescripții tehnice sunt rãspunzãtori de aplicarea corectã a acesteia.
+
+ISCIR
+Str. Sf. Elefterie nr. 47Ñ49, sector 5
+BUCUREȘTI www.iscir.ro
+Cod: 762111
+Telefon: (+4021) 411.97.60; 411.97.61
+Fax: (+4021) 411.98.70
+E-mail: iscir@fx.ro
+
+Reproducerea sau utilizarea integralã sau parțialã a prezentei prescripții tehnice în orice publicație și prin orice
+procedeu (electronic, mecanic, fotocopiere, microfilmare etc.) este interzisã dacã nu existã acordul scris al ISCIR.
+Utilizatorii prezentei prescripții tehnice sunt obligați sã se asigure cã sunt în posesia ediției oficiale tipãrite.
+
+*) Anexa este reprodusã în facsimil.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+1
+
+GENERALITĂŢI
+
+1.1
+
+3
+
+Scop
+
+Prezenta prescripţie tehnică face parte din reglementările tehnice naţionale referitoare la
+punerea in funcţiune, utilizarea, repararea şi verificarea tehnică a mecanismelor de ridicat.
+Prezenta prescripţie tehnică stabileşte cerinţele tehnice minime obligatorii pe care trebuie
+să le satisfacă mecanismele de ridicat pentru a putea fi autorizată funcţionarea lor la utilizatorii
+finali (deţinătorii) din România.
+Cerinţele privind proiectarea, construirea şi introducerea pe piaţă a componentelor de
+securitate se adresează producătorilor acestora.
+Cerinţele privind exploatarea, repararea, întreţinerea, deţinerea şi siguranţa în utilizare a
+mecanismelor de ridicat se adresează agenţilor economici şi deţinătorilor.
+Cerinţele privind verificarea tehnică înaintea punerii în funcţiune, verificările tehnice
+periodice şi verificările după reparaţii ale mecanismelor de ridicat se adresează ISCIR-INSPECT,
+agenţilor economici, autorizaţi de ISCIR-INSPECT, şi deţinătorilor.
+Aceste cerinţe au drept scop asigurarea protecţiei sănătăţii şi securităţii utilizatorilor şi a
+persoanelor expuse din zona periculoasă şi a protecţiei mediului înconjurător şi proprietăţii.
+De asemenea, prescripţia tehnică stabileşte modul de verificare a respectării acestor cerinţe
+tehnice.
+Autoritatea tehnică ce asigură punerea în aplicare şi respectarea prevederilor din prezenta
+prescripţie tehnică este ISCIR– Inspecţia de Stat pentru Controlul Cazanelor, Recipientelor sub
+Presiune şi Instalaţiilor de Ridicat, care, în conformitate cu prevederile Hotărârii Guvernului nr.
+1.340/ 2001, este organ de specialitate cu personalitate juridică în subordinea Ministerului
+Industriei şi Resurselor având ca principal obiect de activitate asigurarea în numele statului a
+protecţiei utilizatorilor şi securitatea în funcţionare pentru instalaţiile în categoria cărora se
+integrează şi mecanismele de ridicat.
+Documentele, documentaţia tehnică (cartea mecanismului de ridicat şi informaţii furnizate
+de fabricant) precum şi inscripţionările privind informarea şi avertizarea utilizatorilor trebuie să
+fie redactate sau traduse în limba română.
+1.2
+
+Domeniu de aplicare
+
+1.2.1 Prezenta prescripţie tehnică se aplică următoarelor tipuri de mecanisme de ridicat:
+- vinciuri;
+- trolii;
+- palane;
+- dispozitive de ridicat şi tracţiune (tirfoare);
+- transpalete;
+- alte mecanisme de ridicat.
+1.2.2 Prezenta prescripţie tehnică stabileşte cerinţele tehnice minime obligatorii pentru punerea
+în funcţiune, exploatarea, repararea şi verificarea tehnică a mecanismelor de ridicat şi
+componentelor de securitate destinate acestora.
+1.2.3 Utilizarea mecanismelor de ridicat de către persoane fizice, pentru uzul propriu, se va face
+pe baza instrucţiunilor de folosire elaborate de producător şi nu face obiectul prevederilor
+prezentei prescripţii tehnice.
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+1.3
+
+Referinţe normative
+
+Prezenta prescripţie tehnică face referiri explicite sau implicite la acte legislative,
+standarde, prescripţii tehnice şi alte reglementări naţionale.
+1.3.1 Legi şi hotărâri
+·
+·
+·
+·
+·
+·
+·
+
+Legea nr. 608/2001 privind evaluarea conformităţii produselor
+Hotărârea Guvernului nr. 1.340/2001 privind organizarea şi funcţionarea Inspecţiei de
+Stat pentru Controlul Cazanelor, Recipientelor sub Presiune şi Instalaţiilor de Ridicat
+Hotărârea Guvernului nr. 394/1995 privind obligaţiile ce revin agenţilor economici persoane fizice sau juridice – în comercializarea produselor de folosinţă îndelungată
+destinate consumatorilor
+Ordonanţa Guvernului nr. 21/1992 privind protecţia consumatorilor
+Legea nr. 90/1996 privind protecţia muncii şi normele metodologice de aplicare a
+acesteia, aprobate prin Ordinul ministrului de stat, ministrul muncii şi protecţiei sociale
+nr. 388/1996
+
+1.3.2 Standarde
+Standardele aplicabile sunt menţionate în anexa P.
+1.4
+
+Termeni şi definiţii
+Termenii şi definiţiile se aplică numai în sensul prezentei prescripţii tehnice.
+
+1.4.1 activitate de reparare - ansamblu de lucrări şi operaţiuni specializate de investigare a
+defectelor apărute, asigurare a pieselor de schimb , efectuare a depanărilor şi/sau înlocuirilor de
+componente defecte şi încercare funcţională a mecanismului de ridicat pentru demonstrarea
+calităţii reparaţiei efectuate menite să-l readucă în stare bună de funcţionare în condiţii de
+securitate. Capacitatea unui agent economic de a efectua lucrările de reparare trebuie să fie
+atestată printr-o autorizaţie emisă de ISCIR-INSPECT IT.
+1.4.2 autorizarea funcţionării - ansamblu de activităţi de verificare şi validare a rezultatelor
+măsurătorilor şi încercărilor funcţionale executate la punerea în funcţiune a mecanismelor de
+ridicat sau cu ocazia verificărilor tehnice periodice ale acestora, în scopul confirmării îndeplinirii
+condiţiilor de funcţionare în securitate a mecanismelor de ridicat. Se efectuează de către RSVTI
+autorizat de ISCIR-INSPECT IT.
+1.4.3 cerinţă esenţială - cerinţă care are în vedere, în special, protecţia sănătăţii, securitatea
+utilizatorilor, protecţia proprietăţii şi a mediului, astfel cum este prevăzută în actele normative în
+vigoare.
+1.4.4 cursă de ridicare – distanţa pe verticală între poziţiile de lucru inferioară şi superioară a
+mecanismului de ridicat.
+1.4.5 declaraţie de conformitate – procedură prin care un producător sau un reprezentant
+autorizat al acestuia dă o asigurare scrisă că un produs este conform condiţiilor specificate.
+1.4.6 dispozitiv de manipulare a sarcinii – dispozitiv pentru prinderea sau manipularea sarcinii.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+5
+
+1.4.7 electropalan – palan cu acţionare electrică, la care cablul care susţine sarcina se înfăşoară
+pe unul sau mai mulţi tamburi.
+1.4.8 importator – orice persoană fizică sau juridică cu sediul în România, care introduce pe
+piaţă un produs provenit dintr-o altă ţară.
+1.4.9 introducere pe piaţă a mecanismului de ridicat - acţiune care are loc atunci când
+producătorul pune pentru prima dată mecanismul de ridicat la dispoziţia deţinătorului .
+1.4.10 încercări dinamice – încercarea unui mecanism de ridicat prin executarea mişcărilor de
+lucru cu o sarcină care depăşeşte cu Y% capacitatea de ridicare a mecanismului de ridicat.
+1.4.11 încercări statice – încercarea unui mecanism de ridicat prin aplicarea unei sarcini statice la
+dispozitivul de manipulare a sarcinii, care depăşeşte cu X% capacitatea de ridicare a
+mecanismului de ridicat.
+1.4.12 limitator de sfârşit de cursă – componentă de securitate destinată să întrerupă automat
+acţionarea mecanismelor de ridicat când părţile sale în mişcare depăşesc poziţiile limită de lucru
+stabilite, permiţând acţionarea mecanismelor în sens invers celui în care s-a limitat mişcarea
+respectivă.
+1.4.13 mecanism de ridicare – mecanism independent care serveşte la deplasarea pe verticală a
+sarcinii.
+1.4.14 organism de inspecţie - ISCIR – INSPECT, organism desemnat şi recunoscut de
+Ministerul Industriei şi Resurselor pentru supravegherea şi verificarea tehnică în funcţionare a
+mecanismelor de ridicat.
+1.4.15 organism notificat - organism desemnat şi recunoscut de Ministerul Industriei şi
+Resurselor, în calitate de autoritate publică în domeniu, pentru evaluarea şi certificarea
+conformităţii mecanismelor de ridicat şi a componentelor lor de securitate.
+1.4.16 palan – mecanism de ridicare format din roţi de cablu sau lanţ cu axe deplasabile sau/şi
+nedeplasabile. Deplasarea verticală a sarcinii se realizează prin manevrarea cablurilor sau
+lanţurilor care se înfăşoară în jurul acestor roţi.
+1.4.17 persoană expusă – orice persoană care se găseşte integral sau parţial în zona periculoasă.
+1.4.18 producător – persoană responsabilă pentru proiectarea şi realizarea a unui produs în scopul
+introducerii pe piaţă, în numele său; responsabilităţile producătorului se aplică oricărei persoane
+fizice sau juridice care asamblează sau etichetează produse în vederea introducerii pe piaţă sub
+nume propriu termen echivalent=fabricant.
+1.4.19 proiectant – persoană fizică sau juridică ce îşi asumă responsabilitatea proiectării
+mecanismelor de ridicat.
+1.4.20 punerea în funcţiune - prima utilizare a produsului pe teritoriul României de către
+deţinător .
+1.4.21 reprezentant autorizat al producătorului – persoană juridică împuternicită de producător
+să acţioneze în numele acestuia.
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+1.4.22 ridicare (coborâre) sarcină – deplasarea unei sarcini pe verticală.
+1.4.23 sarcină nominală - sarcina pentru care a fost proiectat şi construit mecanismul de ridicat.
+1.4.24 troliu – mecanism de ridicare, prevăzut cu un sistem de demultiplicare şi cu un tambur pe
+care se înfăşoară cablul sau lanţul prin intermediul cărora se exercită tracţiunea.
+1.4.25 utilizator - persoană fizică sau juridică deţinătoare a unui mecanism de ridicat pe care îl
+exploatează în folos propriu şi care are obligaţia de a îl utiliza numai dacă acesta a fost supus
+verificărilor tehnice periodice şi a obţinut autorizaţia de funcţionare în urma acestora. Termen
+echivalent = deţinător.
+1.4.26 verificare tehnică periodică - activitate desfăşurată la intervale predeterminate sau ori de
+câte ori deţinătorul consideră necesar, pentru a se asigura că mecanismul de ridicat pe care îl
+deţine şi îl utilizează satisface cerinţele de funcţionare în securitate. Activitatea cuprinde un
+ansamblu de verificări şi încercări menite să constate starea de bună funcţionare în condiţii de
+securitate şi aptitudinea acestuia de a-şi îndeplini rolul funcţional. Activitatea se efectuează de
+către RSVTI autorizat de ISCIR-INSPECT IT.
+1.4.27 vinci – mecanism de ridicare cu cursă scurtă, la care sarcina se reazemă pe o tijă sau
+coloană, putând avea o mişcare de translaţie verticală.
+1.4.28 zona periculoasă – orice zonă din interiorul şi/sau din apropierea unei mecanism de
+ridicat, în care prezenţa unei persoane expuse constituie un risc pentru sănătatea sau securitatea sa.
+1.5
+
+Abrevieri
+IT
+PT
+RSVTI
+RTS
+
+- Inspecţia Teritorială
+- Prescripţie tehnică
+- Responsabil cu supravegherea şi verificarea tehnică a instalaţiilor
+- Responsabil tehnic cu sudura
+
+2
+
+CERINŢE ESENŢIALE DE SĂNĂTATE ŞI DE SECURITATE CE TREBUIE
+ASIGURATE LA PROIECTAREA ŞI CONSTRUIREA MECANISMELOR DE
+RIDICAT ŞI COMPONENTELOR DE SECURITATE
+
+2.1
+
+Dispoziţii preliminare
+
+Cerinţele esenţiale de sănătate şi de securitate conţinute în prezenta prescripţie tehnică sunt
+obligatorii.
+Mecanismele de ridicat trebuie să fie proiectate şi construite astfel încât să se atingă
+obiectivele acestor cerinţe esenţiale.
+Producătorul mecanismelor de ridicat are obligaţia să efectueze analiza de risc în vederea
+identificării acelor riscuri care corespund produselor sale, fiind obligat să proiecteze şi să
+construiască produsele ţinând seama de această analiză.
+2.2
+
+Generalităţi
+
+2.2.1 Principii de integrare a securităţii
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+7
+
+2.2.1.1 Prin construcţie mecanismele de ridicat trebuie să fie apte de a-şi asigura funcţia, să fie
+reglate şi întreţinute fără ca persoanele să fie expuse riscului atunci când aceste operaţii sunt
+efectuate în condiţii prevăzute de fabricant.
+Măsurile adoptate trebuie să asigure eliminarea riscurilor de accidentare pe întreaga
+durată de viaţă previzibilă a mecanismului de ridicat chiar dacă aceste riscuri de accidentare
+rezultă din situaţii anormale previzibile.
+2.2.1.2 La alegerea celei mai corespunzătoare soluţii fabricantul trebuie să aplice următoarele
+principii :
+· eliminarea sau reducerea riscurilor într-o măsură maxim posibilă ( integrarea
+elementelor de securitate încă din faza de proiectare şi de execuţie a mecanismului de
+ridicat );
+· adoptarea măsurilor de protecţie necesare pentru riscurile care nu au putut fi eliminate;
+· informarea utilizatorilor despre riscurile reziduale datorate eficacităţii incomplete a
+măsurilor de protecţie adoptate.
+2.2.1.3 La proiectarea şi construcţia mecanismului de ridicat, precum şi la elaborarea cărţii
+tehnice, fabricantul trebuie să ia în considerare nu numai utilizarea sa normală, ci şi alte situaţii
+rezonabil previzibile.
+Mecanismul de ridicat trebuie să fie astfel proiectat încât să se evite utilizarea sa anormală,
+dacă aceasta comportă un risc. Eventual, cartea tehnică trebuie să atragă atenţia utilizatorului
+asupra contraindicaţiilor privind folosirea mecanismului de ridicat.
+2.2.2 Organe de comandă
+Organele de comandă trebuie să fie :
+· vizibile, uşor de identificat şi, când este necesar, să fie marcate corespunzător;
+· dispuse astfel încât să se garanteze o manevră sigură, univocă şi rapidă;
+· proiectate astfel încât sensul de mişcare al organului de comandă să corespundă cu
+sensul mişcării organului comandat;
+· amplasate în afara zonelor periculoase dispuse astfel încât acţionarea lor să nu
+provoace riscuri suplimentare;
+· proiectate sau protejate astfel încât acţionarea lor, dacă poate provoca un risc, să nu se
+poată produce fără o manevră intenţionată;
+· executate astfel încât să reziste la eforturi previzibile.
+De la locul de comandă personalul manevrant trebuie să se poată asigura de absenţa
+persoanelor expuse în zonele periculoase.
+2.2.3 Pornirea
+Pornirea mecanismului de ridicat trebuie să fie posibilă numai printr-o acţiune voluntară a
+organului de comandă prevăzut special pentru acest scop.
+Această cerinţă este obligatorie :
+· în cazul repunerii în funcţiune a mecanismului de ridicat după o oprire, independent de
+cauza ei;
+· pentru comandarea oricărei modificări semnificative a condiţiilor de funcţionare.
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+2.2.4 Oprirea normală
+Orice mecanism de ridicat trebuie să fie prevăzut cu un organ de comandă care să permită
+oprirea completă în condiţii de securitate.
+Orice post de lucru trebuie să fie prevăzut cu un organ de comandă care să permită oprirea,
+în funcţie de riscurile existente, a tuturor elementelor mobile ale mecanismului de ridicat astfel
+încât mecanismul de ridicat să fie adus în stare de securitate.
+2.2.5 Oprirea de urgenţă
+Orice mecanism de ridicat trebuie să fie prevăzut cu unul sau mai multe dispozitive de
+oprire de urgenţă care permit evitarea situaţiilor periculoase, care riscă să se producă iminent sau
+care sunt în curs de producere.
+După ce încetează acţionarea comenzii de oprire de urgenţă, după ce s-a declanşat un ordin
+de oprire, acest ordin trebuie menţinut prin blocarea dispozitivului de oprire de urgenţă până la
+deblocarea acestuia.
+2.2.6 Defectarea alimentării cu energie
+Întreruperea, restabilirea după o întrerupere, sau variaţia, oricare ar fi sensul, alimentării cu
+energie a mecanismului de ridicat nu trebuie să creeze situaţii periculoase.
+În mod special se va evita :
+- pornirea neaşteptată;
+- împiedicarea opririi mecanismului de ridicat, în cazul în care comanda a fost deja
+dată;
+- împiedicarea opririi elementelor mobile;
+- ineficacitatea dispozitivelor de protecţie.
+2.2.7 Separarea surselor de energie
+Mecanismele de ridicat trebuie să fie prevăzută cu dispozitive care să permită separarea
+acestora de oricare din sursele de alimentare cu energie.
+Aceste dispozitive trebuie să fie identificabile şi blocabile atunci când recuplarea lor
+reprezintă un pericol pentru persoanele expuse.
+2.2.8 Rezistenţa mecanică
+Mecanismele de ridicat trebuie să poată rezista la solicitările la care sunt supuse în timpul
+funcţionării.
+Mecanismele de ridicat trebuie să fie proiectate şi construite în aşa fel încât să se evite
+defecţiunile datorate oboselii sau uzurii, având în vedere utilizarea prevăzută.
+Materialele folosite trebuie să fie alese luându-se în consideraţie mediile de utilizare
+prevăzute de fabricant, în special în ceea ce priveşte coroziunea, abraziunea, şocurile, fragilitatea
+la frig şi îmbătrânirea.
+Mecanismele de ridicat trebuie să fie proiectate şi construite pentru a suporta
+suprasarcinile aplicate la probele statice, fără a prezenta deformaţii permanente sau disfuncţii.
+Mecanismele de ridicat trebuie să fie proiectate şi construite pentru a suporta probele
+dinamice.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+9
+
+2.2.9 Scripeţi, tamburi, lanţuri şi cabluri
+Diametrele scripeţilor, ale tamburilor şi ale rolelor trebuie să fie compatibile şi adecvate
+dimensiunilor cablurilor sau ale lanţurilor cu care pot fi echipate.
+Tamburii şi rolele trebuie să fie proiectate, construite şi instalate astfel încât cablurile sau
+lanţurile să se poată înfăşura fără a ieşi din locaşul prevăzut.
+2.2.10 Controlul mişcărilor
+Dispozitivele de control al mişcărilor trebuie să acţioneze în vederea asigurării securităţii
+mecanismului de ridicat pe care sunt instalate, astfel:
+a) mecanismele trebuie să fie proiectate şi construite astfel încât sarcinile să nu poată
+devia în mod periculos sau să cadă liber pe neaşteptate sau când încetează acţiunea
+personalului manevrant;
+b) elementele de prindere trebuie să fie proiectate şi construite astfel încât să se evite
+căderea neaşteptată a sarcinilor.
+2.3
+
+Riscuri
+
+2.3.1 Riscuri datorate energiei electrice
+Mecanismul de ridicat alimentat cu energie electrică trebuie să fie astfel proiectat,
+construit şi echipat încât să prevină sau să permită prevenirea riscurilor de origine electrică.
+2.3.2 Riscuri datorate energiilor, altele decât cele electrice
+Dacă mecanismul de ridicat este alimentat cu o sursă de energie diferită de cea electrică
+(hidraulică, pneumatică) trebuie să fie proiectat, construit şi echipat astfel încât să se prevină toate
+riscurile care pot decurge din utilizarea acestor tipuri de energie.
+2.3.3 Riscuri datorate sarcinilor manipulate
+Poziţia postului de manevrare a mecanismului de ridicat trebuie să permită supravegherea
+traiectoriilor elementelor în mişcare pentru a evita posibilitatea lovirii persoanelor, obiectivelor
+din zona periculoasă şi deci ar prezenta un pericol.
+Mecanismul de ridicat trebuie să fie proiectat şi construit astfel încât persoanele expuse în
+zona periculoasă să nu fie lovite de sarcini.
+2.3.4 Riscuri reziduale
+Dacă riscurile continuă să persiste, cu toate măsurile luate sau dacă se prevede existenţa
+unor riscuri, fabricantul trebuie să prevadă avertizări.
+Avertizările trebuie să utilizeze, de preferinţă, simboluri uşor de înţeles şi să fie redactate
+în limba română.
+2.4
+
+Marcarea
+
+Fiecare mecanism de ridicat trebuie să aibă afişate lizibil şi inteligibil, astfel încât să nu
+poată fi şterse, următoarele:
+- numele fabricantului şi adresa lui;
+- marcajul de conformitate şi anul de fabricaţie;
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+-
+
+3
+
+indicarea seriei sau a tipului;
+parametrii de funcţionare.
+
+PROIECTAREA ŞI FABRICAREA
+
+3.1
+Condiţia de bază pe care trebuie să o îndeplinească proiectarea şi fabricarea mecanismelor
+de ridicat este asigurarea funcţionării acestora în condiţii de securitate pe toată perioada de
+utilizare prevăzută în documentaţia tehnică a mecanismului de ridicat.
+3.2
+Proiectantul trebuie să-şi asume responsabilitatea privind concepţia soluţiilor constructive,
+alegerea materialelor, calculul de rezistenţă al tuturor elementelor, potrivit condiţiilor de
+funcţionare date, precum şi pentru stabilirea metodelor pentru încercări şi verificări tehnice, în
+conformitate cu legislaţia în vigoare.
+3.3
+La proiectarea şi fabricarea mecanismelor de ridicat, producătorul trebuie să ia în
+considerare nu numai utilizarea normală ci şi alte situaţii rezonabile previzibile.
+3.4
+Producătorii mecanismelor de ridicat sunt obligaţi să respecte întocmai cerinţele esenţiale
+de securitate precizate la capitolul 2.
+3.5
+Producătorii mecanismelor de ridicat răspund de alegerea corectă a procedeelor
+tehnologice de execuţie, de calitatea execuţiei şi a materialelor folosite.
+
+4
+
+INTRODUCEREA PE PIAŢĂ A MECANISMELOR DE RIDICAT
+
+4.1
+Pentru introducerea pe piaţă în România a mecanismelor de ridicat din import este
+necesară eliberarea de către ISCIR-INSPECT a unui document/dovadă de luare în evidenţă.
+4.2
+Documentul/dovada de luarea în evidenţă pentru mecanismele de ridicat şi componentele
+de securitate aferente acestora va fi eliberat în conformitate cu reglementările ISCIR-INSPECT în
+vigoare la data efectuării importului.
+4.3
+În vederea introducerii pe piaţă în România, orice mecanism de ridicat trebuie să
+îndeplinească cerinţele esenţiale de securitate menţionate la capitolul 2.
+4.4
+Producătorul sau reprezentantul său autorizat în România va întocmi instrucţiuni de
+utilizare şi de mentenanţă în limba română şi va aplica pe mecanismul de ridicat informaţii cu
+caracter permanent.
+
+5
+
+MONTAREA ŞI REPARAREA
+
+5.1
+
+Proiectarea
+
+5.1.1 Pentru efectuarea lucrărilor de montare/reparare trebuie să se întocmească proiecte care să
+fie în conformitate cu prevederile prescripţiilor tehnice, actelor normative şi legilor în vigoare.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+11
+
+5.1.2 Unitatea de proiectare trebuie să fie autorizată de ISCIR-INSPECT în acest scop şi
+răspunde de concepţia corectă a soluţiilor constructive, de alegerea materialelor, de calculul de
+rezistenţă al elementelor proiectate ale mecanismelor de ridicat potrivit condiţiilor de funcţionare
+în condiţii de securitate, de stabilirea condiţiilor tehnice de execuţie şi control.
+5.1.3 Condiţiile de autorizare ale unităţilor de proiectare sunt precizate în anexa E.
+5.2
+
+Montarea
+
+5.2.1 Condiţia de bază pe care trebuie să o satisfacă montarea mecanismelor de ridicat este
+asigurarea funcţionării în condiţii de securitate pe toată perioada de utilizare .
+5.2.2 Montarea mecanismelor de ridicat trebuie să fie efectuată de agenţi economici autorizaţi de
+ISCIR-INSPECT IT, denumiţi în continuare “montatori”, care dispun de mijloacele tehnice
+corespunzătoare şi personal tehnic calificat.
+5.2.3 Condiţiile de autorizare a montatorului sunt precizate în anexa B.
+5.2.4 Lucrările de montaj se vor executa pe baza unui proiect detaliat pe faze şi defalcat pe
+responsabilităţi, care va respecta prevederile prezentei prescripţii tehnice, standardele, actele
+normative în vigoare.
+5.2.5 Documentaţia tehnică de montaj se completează pentru fiecare mecanism de ridicat în
+parte, care necesită o operaţie de montaj la locul de funcţionare, şi se va anexa la cartea
+mecanismului de ridicat.
+Documentaţia tehnică de montaj trebuie să cuprindă cel puţin următoarele:
+a) lista documentaţiei de montaj, piese scrise şi desenate;
+b) certificat de calitate privind sistemul de susţinere a acestora;
+c) fişele de omologare şi specificaţiile procedurilor de sudare;
+d) tabelul nominal cu sudorii autorizaţi care au executat lucrarea şi cu valabilitatea
+autorizaţiilor;
+e) certificatele de calitate ale materialelor de adaos folosite la îmbinările sudate;
+f) certificatul privind calitatea îmbinărilor sudate;
+g) certificatul măsurărilor izolaţiei şi verificării împotriva tensiunilor de atingere;
+h) procesul-verbal încheiat cu ocazia încercărilor de casă, semnat de montator şi
+beneficiar;
+i) proiectul care a stat la baza efectuării montajului mecanismului de ridicat.
+5.2.6 Înaintea efectuării probelor de casă trebuie să fie îndeplinite următoarele condiţii :
+a) toate lucrările de montaj au fost complet terminate;
+b) construcţia sistemului de susţinere a fost terminată;
+c) toate elementele componente ale mecanismului de ridicat, supuse frecării, au fost
+gresate;
+d) frânele şi instalaţia de protecţie împotriva tensiunilor de atingere au fost verificate şi
+au corespuns; frânele trebuie să funcţioneze astfel încât opririle să se facă fără şocuri
+periculoase;
+e) mecanismul de ridicat a fost prevăzut cu tăbliţă indicatoare a sarcinii maxime şi au
+fost montate sau afişate toate panourile de protecţie, inscripţionările de avertizare şi
+tăbliţele indicatoare de securitate.
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+5.2.7 Montatorul are obligaţia să participe la verificarea tehnică oficială pentru autorizarea de
+funcţionare a mecanismului de ridicat şi să prezinte procesul-verbal al încercărilor de casă semnat
+de montator şi beneficiar, care va fi anexat la cartea mecanismului de ridicat.
+5.2.8 La lucrările de montare, montatorul va respecta Normele Tehnice de protecţia muncii
+specifice şi Normele Tehnice pentru prevenirea şi stingerea incendiilor valabile pe teritoriul
+României.
+5.3
+
+Repararea
+
+5.3.1 Condiţia de bază pe care trebuie să o satisfacă repararea mecanismelor de ridicat este
+asigurarea funcţionării în condiţii de securitate pe toată perioada de utilizare .
+5.3.2 Repararea mecanismelor de ridicat trebuie să fie făcută de agenţi economici care dispun de
+mijloacele tehnice corespunzătoare şi sunt autorizaţi de ISCIR-INSPECT IT în acest scop.
+5.3.3 Documentaţia tehnică pentru repararea mecanismelor de ridicat se va elabora de către
+proiectanţi autorizaţi de ISCIR-INSPECT, în limitele şi condiţiile prevăzute în anexa I.
+Proiectantul răspunde de concepţia corectă a soluţiilor constructive, de alegerea materialelor, de
+calculul de rezistenţă al tuturor elementelor mecanismelor de ridicat, potrivit condiţiilor de
+funcţionare date, precum şi de stabilirea metodelor şi volumului de verificare după reparare.
+5.3.4 Reparatorul răspunde de alegerea corectă a procedeelor tehnologice de execuţie şi de
+calitatea execuţiei şi a materialelor folosite, în conformitate cu prevederile prezentei prescripţii
+tehnice, cu prevederile documentaţiei tehnice pentru reparare şi cu instrucţiunile de reparare a
+mecanismelor de ridicat. Condiţiile privind autorizarea reparatorilor precum şi obligaţiile şi
+responsabilităţile ce le revin sunt prevăzute în anexa B.
+5.3.5 Autorizaţia de a repara mecanisme de ridicat nu este necesară atunci când reparaţia se
+efectuează de către unitatea constructoare a instalaţiei.
+5.3.6 La lucrările de reparaţii ale mecanismelor de ridicat trebuie folosit personal calificat şi
+instruit anume în acest scop.
+5.3.7 La efectuarea lucrărilor de reparaţii ale mecanismelor de ridicat se vor lua măsuri
+corespunzătoare pentru prevenirea avariilor şi accidentelor.
+5.3.8 Agenţii economici autorizaţi de ISCIR-INSPECT IT pentru reparare pot efectua şi lucrări
+de întreţinere şi revizie la mecanismele de ridicat.
+5.3.9 La lucrările de reparare, reparatorul va respecta Normele Tehnice de protecţia muncii şi
+Normele Tehnice pentru prevenirea şi stingerea incendiilor valabile pe teritoriul României.
+6
+
+AUTORIZAREA DE FUNCŢIONARE
+
+6.1
+
+Generalităţi
+
+6.1.1 Mecanismele de ridicat pot fi puse în funcţiune numai după obţinerea autorizaţiei de
+funcţionare în urma unei verificări tehnice oficiale efectuate în conformitate cu prevederile
+prezentei prescripţii tehnice.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+13
+
+6.1.2 Verificarea tehnică oficială a mecanismelor de ridicat, la autorizarea pentru punerea în
+funcţiune va fi efectuată de inspectorii de specialitate ai ISCIR-INSPECT IT, sau de către RSVTI
+numai cu acordul scris din partea ISCIR-INSPECT IT.
+6.1.3 Mecanismele de ridicat se înregistrează în evidenţele unităţii deţinătoare cu excepţia
+mecanismelor de ridicat acţionate electric, cu sarcina nominală mai mare de 5 tf, care se
+înregistrează în evidenţele ISCIR-INSPECT IT.
+6.1.4 Documentaţia tehnică necesară pentru obţinerea autorizaţiei de funcţionare a mecanismelor
+de ridicat va cuprinde următoarele :
+- cartea mecanismului de ridicat - completată cu documentaţia de montaj, după caz. În
+cazul instalaţiilor importate se va prezenta şi documentul/dovada de luare în evidenţă
+eliberat(ă) de ISCIR-INSPECT la efectuarea importului;
+- declaraţia de conformitate a mecanismului de ridicat;
+- procesul-verbal de probe de casă cu rezultate corespunzătoare.
+6.2
+
+Cartea mecanismului de ridicat
+
+6.2.1 Cartea mecanismului de ridicat trebuie să conţină :
+1) Cartea mecanismului de ridicat – partea tehnică, care va conţine:
+- indicaţii privind marcarea;
+- caracteristici tehnice de bază ale mecanismului de ridicat;
+- planuri şi scheme necesare pentru :
+- punerea în funcţiune;
+- întreţinerea şi inspecţia (scheme electrice, de ungere, hidraulice etc.);
+- verificarea funcţionării;
+- reparare;
+- instrucţiuni pentru :
+- montare şi demontare;
+- instalare şi reglare;
+- contraindicaţii privind utilizarea mecanismului de ridicat.
+Această carte trebuie să fie redactată sau tradusă în limba română.
+2) Cartea mecanismului de ridicat – partea de exploatare, în care se completează proceseleverbale de verificare şi de inspecţie.
+Cartea mecanismului de ridicat va fi completată cu documentaţia de montaj (acolo unde
+este cazul), întocmită de montatorul autorizat de ISCIR-INSPECT IT.
+6.2.2 Cartea mecanismului de ridicat pentru mecanismele care au documentaţie incompletă sau
+lipsă şi aflate în perioada de exploatare, la care nu se poate reconstitui, în nici un fel, cartea
+mecanismului de ridicat-partea de construcţie elaborată iniţial de producător, se va completa
+respectând următoarea procedură:
+a) se va întocmi documentaţia tehnică de către o unitate de proiectare autorizată de
+ISCIR-INSPECT care va stabili parametri de utilizare ai mecanismului de ridicat (dacă
+este cazul);
+b) unitatea de proiectare va elabora un plan de verificare a mecanismului de ridicat cu
+menţionarea metodelor şi volumului de încercări la care va fi supus (dacă este cazul);
+c) o unitate autorizată de ISCIR-INSPECT IT pentru activitatea de montare/reparare a
+mecanismelor de ridicat va derula planul de verificare şi va emite concluziile testelor
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+într-un raport tehnic de încercări şi verificări, însoţit de buletine de analiză ale
+examinărilor distructive şi nedistructive, eliberate de laboratoare autorizate de ISCIRINSPECT (dacă este cazul);
+d) se vor elabora instrucţiuni de exploatare, întreţinere şi revizie a mecanismului de
+ridicat;
+e) după autorizarea de funcţionare a mecanismului de ridicat de către RSVTI, autorizat de
+ISCIR-INSPECT IT, montatorul/reparatorul va marca pe mecanism (dacă este cazul):
+- un număr de înregistrare (corespunzător poziţiei din registrul de evidenţă al
+proiectantului);
+- parametrii de funcţionare ai mecanismului de ridicat.
+Cartea mecanismului de ridicat trebuie să conţină:
+1) Cartea mecanismului – partea tehnică, în care se va consemna:
+a) partea de proiectare:
+− caracteristici tehnice de bază ale mecanismului de ridicat;
+− lista componentelor de securitate;
+− planuri şi scheme necesare pentru:
+u punerea în funcţiune;
+u întreţinerea şi inspecţia (scheme electrice, de ungere, hidraulice etc.);
+− instrucţiuni pentru:
+u montare şi demontare;
+u instalare şi reglare;
+u întreţinere şi revizie;
+u exploatare etc.;
+b) raportul tehnic de încercări şi verificări:
+− metode de încercare folosite;
+− buletine de analiză ale examinărilor distructive şi nedistructive;
+− concluziile raportului.
+2) Cartea mecanismului – partea de exploatare, în care se completează procesele-verbale de
+verificare şi de inspecţie.
+6.3
+
+Verificarea tehnică oficială (la prima punere în funcţiune)
+
+6.3.1 Înainte de începerea verificării, se va face instructajul de protecţia muncii persoanelor
+participante de către beneficiarul instalaţiei. Celelalte persoane se vor îndepărta din raza de
+acţiune a mecanismului de ridicat.
+Verificarea va fi condusă de către RSTVI, autorizat de ISCIR-INSPECT IT.
+6.3.2 Verificarea tehnică oficială trebuie să stabilească dacă :
+- există cartea mecanismului de ridicat - completată cu documentaţia de montaj, după
+caz;
+- există declaraţia de conformitate a mecanismului de ridicat;
+- există procesul-verbal de probe de casă cu rezultate corespunzătoare;
+- mecanismul de ridicat a fost montat şi instalat în conformitate cu prevederile
+prezentei prescripţii tehnice;
+- mecanismul de ridicat supus la încercări a corespuns şi funcţionează normal;
+- este asigurată întreţinerea şi revizia de către un agent economic autorizat;
+- personalul de supraveghere şi manevrare este instruit;
+- construcţia metalică şi îmbinările acesteia nu prezintă defecte vizibile;
+- instalaţia electrică este echipată cu dispozitivele de protecţie necesare şi prevăzută
+cu inscripţionările corespunzătoare;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+15
+
+- mecanismul de ridicat este prevăzut cu : plăcuţă cu date despre sarcina maximă
+admisă, inscripţionări de avertizare;
+Acestea trebuie să corespundă cu mecanismul de ridicat prezentat pentru verificări.
+6.3.3 Verificarea tehnică oficială constă din:
+a) verificarea principalelor elemente componente ale mecanismului de ridicat;
+b) încercări în gol;
+c) încercări în sarcină:
+− statice;
+− dinamice;
+d) alte încercări.
+6.3.4 Încercările în gol se execută prin acţionarea mecanismului de ridicat, fără sarcină.
+Cu această ocazie se verifică şi funcţionarea componentelor de securitate.
+6.3.5 Încercarea statică se efectuează cu o suprasarcină cu 25% mai mare decât sarcina nominală
+de ridicare timp de 10 minute şi numai dacă verificările şi încercările anterioare au avut rezultate
+corespunzătoare.
+Ridicarea suprasarcinii de încercare se va face cu viteza minimă pe care o poate realiza
+mecanismul de ridicat.
+În cazul în care suprasarcina nu se poate ridica, mecanismul de ridicat nefiind dimensionat
+în acest scop, încercarea se va face ridicându-se suprasarcina de 10% şi adăugându-se fără şocuri
+diferenţa până la valoarea suprasarcinii cu care trebuie verificat.
+La încercarea statică nu este admisă deformaţia permanentă a structurii portante.
+Dacă la încercarea statică mecanismul de ridicat s-a comportat corespunzător, se va trece
+la efectuarea încercărilor dinamice.
+6.3.6 Încercările dinamice se efectuează cu sarcina nominală mărită cu 10% şi constă în
+efectuarea repetată a tuturor mişcărilor admise, verificându-se funcţionarea normală a frânelor şi
+componentelor de securitate.
+Mişcările se vor executa în felul următor:
+- porniri şi opriri ale mecanismului;
+- lent şi fără şocuri pe toată cursa.
+6.3.7 Mecanismele de ridicat acţionate pneumatic sau hidraulic se supun şi următoarelor
+încercări cu sarcina nominală:
+- încercarea de etanşeitate, care se execută prin acţionarea mecanismului de ridicat cu
+aer comprimat, respectiv lichid, la presiune maximă; după întreruperea acţionării
+sarcina nu trebuie să coboare timp de 10 minute peste limitele prevăzute in
+documentaţia tehnică a mecanismului de ridicat şi nu trebuie să se constate scăpări
+de fluid;
+- încercarea dinamică, ce se efectuează prin acţionarea succesivă a distribuitorului de
+aer, respectiv de lichid, în poziţiile opuse (ridicare, apoi coborâre); sarcina trebuie să
+fie deplasată cu o viteză uniformă, fără smucituri, trepidaţii sau înţepeniri; nu este
+permisă scăparea aerului, respectiv lichidului, prin garnituri şi armături;
+- încercarea la scăparea bruscă a presiunii de aer sau lichid se execută cu distribuitorul
+în poziţie de ridicare, desfăcându-se brusc conducta de alimentare cu aer, respectiv
+lichid; sarcina nu trebuie să coboare cu o viteză mai mare de 0,15 m/min; se admite
+utilizarea la această încercare a unui dispozitiv care să simuleze desfacerea bruscă a
+conductei de alimentare.
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+6.4
+
+Concluziile verificării tehnice oficiale
+
+6.4.1 Autorizarea de funcţionare se acordă numai dacă rezultatele verificării tehnice oficiale
+satisfac prevederile prezentei prescripţii tehnice, printr-un proces-verbal, conform modelului din
+anexa D, în care se consemnează parametrii de funcţionare aprobaţi, precum şi data scadenţei
+următoarei verificări (luna şi anul), care nu va fi mai mare de patru ani.
+6.4.2 Cartea mecanismului de ridicat se păstrează de RSVTI, autorizat de ISCIR-INSPECT IT.
+6.4.3 Evidenţa mecanismelor de ridicat va fi ţinută de către unităţile deţinătoare într-un registru
+ca în modelul din anexa Q.
+6.4.4 Este interzisă acordarea autorizării de funcţionare cu condiţia înlăturării ulterioare a unor
+deficienţe care afectează securitatea în funcţionare.
+6.4.5 Deficienţele menţionate în procesul-verbal de autorizare trebuie să fie înlăturate în
+termenele stabilite.
+Neîndeplinirea dispoziţiilor date prin procesul-verbal atrage după sine anularea autorizaţiei
+de funcţionare, la expirarea termenului stabilit pentru remedieri.
+6.4.6 Se interzice acordarea autorizaţiei de funcţionare în următoarele cazuri:
+- cartea mecanismului de ridicat şi documentaţia de montaj lipsesc sau sunt
+incomplete;
+- componentele de securitate lipsesc, nu funcţionează sau funcţionează defectuos;
+- frâna mecanismului funcţionează defectuos;
+- protecţia împotriva tensiunilor de atingere nu este asigurată, creând pericol de
+electrocutare;
+- instalaţia electrică este executată defectuos, prezentând pericol de electrocutare;
+- modul de fixare al elementelor de rezistenţă, cablurilor, lanţurilor, cârligelor sau altor
+dispozitive de prindere a sarcinii nu este corespunzător, putând conduce la
+producerea de avarii sau accidente;
+- se constată fisuri în structura portantă;
+- sunt slăbite sau lipsesc niturile sau şuruburile de la îmbinările principale ale
+construcţiei metalice;
+- există deformaţii permanente, vizibile cu ochiul liber, la construcţia metalică;
+- la încercările la care a fost supus mecanismul de ridicat nu s-au obţinut rezultate
+corespunzătoare;
+- instalaţia hidraulică prezintă scăpări de fluid.
+De asemenea, nu se acordă autorizaţia de funcţionare dacă se constată la verificare orice
+alte deficienţe care pot genera avarii sau accidente.
+6.5
+
+Verificări tehnice programate şi neprogramate (inopinate)
+
+6.5.1 În timpul exploatării, mecanismele de ridicat sunt supuse la termenul scadent unor
+verificări tehnice oficiale periodice. Cu această ocazie se verifică starea tehnică a mecanismului
+de ridicat şi se acordă, după caz, autorizaţia de funcţionare în continuare. Dacă rezultatele
+verificărilor tehnice şi încercărilor, comparativ cu prevederile documentaţiei tehnice însoţitoare şi
+ale prezentei prescripţii tehnice, au corespuns se întocmeşte un proces-verbal de verificare prin
+care se acordă autorizarea de funcţionare în continuare, fixându-se şi data (luna şi anul)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+17
+
+următoarei verificări tehnice oficiale care nu va fi mai mare de 3 ani. Scadenţa se stabileşte în
+funcţie de complexitatea, locul de instalare, condiţiile de mediu şi regimul de funcţionare,
+vechimea în serviciu şi starea tehnică ale mecanismului de ridicat.
+Dacă rezultatele sunt necorespunzătoare, deficienţele se consemnează în procesul-verbal şi
+nu se acordă autorizaţia de funcţionare.
+6.5.2 Verificarea tehnică periodică are ca scop să stabilească pe lângă cele menţionate la
+autorizarea de funcţionare, şi următoarele:
+- dacă registrul de evidenţa supravegherii este corect completat şi ţinut la zi;
+- dacă exploatarea, întreţinerea şi revizia se fac în condiţii satisfăcătoare şi asigură
+funcţionarea mecanismului de ridicat în condiţii de securitate;
+- dacă gradul de uzură şi deficienţele elementelor componente ale mecanismului de
+ridicat nu constituie un pericol pentru funcţionare şi nu s-au depăşit limitele admise.
+6.5.3 Verificarea tehnică periodică se efectuează în conformitate cu prevederile pct. 6.3.3, cu
+precizarea că încercarea statică se va face cu sarcina nominală mărită cu 10%.
+6.5.4 Autorizarea de funcţionare în continuare se va acorda numai dacă la verificările tehnice şi
+încercările efectuate se constată îndeplinirea tuturor cerinţelor de securitate prevăzute în prezenta
+prescripţie tehnică.
+Rezultatele verificării tehnice se vor consemna într-un proces-verbal din cartea
+mecanismului de ridicat–partea de exploatare.
+6.5.5
+
+Este interzisă funcţionarea mecanismului de ridicat cu scadenţa de verificare depăşită.
+
+6.5.6 Este interzisă acordarea autorizaţiei de funcţionare cu condiţia înlăturării ulterioare a unor
+deficienţe care afectează securitatea în funcţionare sau în cazurile menţionate la pct. 6.4.6.
+6.5.7 RSVTI al unităţii deţinătoare şi personalul tehnic de specialitate responsabil cu
+supravegherea lucrărilor de întreţinere au dreptul de a efectua verificări tehnice inopinate la
+mecanismele de ridicat aflate în exploatare, luând, după caz, măsurile necesare pentru respectarea
+prevederilor prezentei prescripţii tehnice.
+6.5.8 Examinările şi încercările periodice nu trebuie să fie mai dure decât cele cerute înainte de
+punerea în funcţiune a mecanismului de ridicat. Aceste încercări nu trebuie, prin repetarea lor, să
+cauzeze uzura excesivă sau scăderea rezistenţei care ar duce la diminuarea securităţii
+mecanismului de ridicat.
+7
+
+EXPLOATAREA
+
+7.1
+
+Supravegherea
+
+7.1.1 Pentru funcţionarea în condiţii de siguranţă, mecanismele de ridicat vor fi supuse unui
+regim de supraveghere, în conformitate cu prevederile prezentei prescripţii tehnice şi ale
+instrucţiunilor de exploatare elaborate de producător.
+7.1.2 Unităţile care deţin şi/sau exploatează mecanisme de ridicat sunt direct răspunzătoare
+pentru funcţionarea acestora în condiţii de siguranţă.
+7.1.3 În vederea aplicării prevederilor prezentei prescripţii tehnice, privind securitatea în
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+funcţionare a mecanismelor de ridicat, unităţile care le folosesc vor numi personal tehnic, ingineri
+şi tehnicieni de specialitate, în raport cu numărul şi complexitatea instalaţiilor, care vor fi
+autorizaţi de ISCIR-INSPECT IT(modelul autorizaţiei conform anexei K).
+Personalul autorizat răspunde împreună cu conducerea unităţilor menţionate de luarea
+măsurilor pentru aplicarea prevederilor prezentei prescripţii tehnice privind securitatea în
+funcţionare a mecanismelor de ridicat.
+7.1.4 Responsabilul cu supravegherea şi verificarea tehnică a instalaţiilor (RSVTI), autorizat de
+ISCIR-INSPECT IT, trebuie să posede cunoştinţe teoretice şi practice în domeniul mecanismelor
+de ridicat şi are următoarele sarcini principale:
+- să ţină evidenţa mecanismelor de ridicat şi să urmărească efectuarea la termen a
+verificării tehnice oficiale, fără de care acestea nu pot funcţiona;
+- să urmărească pregătirea mecanismelor de ridicat şi a sarcinilor de încercare
+necesare pentru verificările tehnice oficiale;
+- să supravegheze ca mecanismele de ridicat să fie folosite în conformitate cu
+prevederile prezentei prescripţii tehnice, instrucţiunile de exploatare şi normele
+specifice de protecţia muncii;
+- să urmărească realizarea la termen a dispoziţiilor date prin procesele-verbale
+încheiate cu ocazia verificării tehnice oficiale, să examineze în mod regulat registrul
+de evidenţă a supravegherii şi să ia măsuri pentru remedierea imediată a defectelor
+semnalate;
+- să interzică manevrarea mecanismelor de ridicat de către persoane neinstruite;
+- să efectueze instructajul profesional şi de protecţia muncii cu personalul de
+manevrare, o dată pe semestru;
+- să urmărească efectuarea reparaţiilor mecanismelor de ridicat numai de către agenţi
+economici autorizaţi conform prevederilor prezentei prescripţii tehnice;
+7.2
+
+Registrul de evidenţă a supravegherii mecanismelor de ridicat
+
+7.2.1 Unitatea deţinătoare va întocmi registre de evidenţă a supravegherii mecanismelor de
+ridicat în care se vor consemna, sub semnătură, toate observaţiile avute asupra deficienţelor în
+funcţionare şi a modului în care s-au soluţionat.
+În registrele de evidenţă a supravegherii mecanismelor de ridicat se vor înscrie, de
+asemenea, dispoziţiile pentru oprirea lor din funcţionare, ca urmare a unor deficienţe care
+afectează siguranţa în exploatare, inclusiv natura deficienţelor respective.
+7.2.2
+
+Registrul de evidenţă a supravegherii se va întocmi după modelul dat în anexa A, se va
+numerota, şnurui şi viza de către conducerea unităţii deţinătoare.
+
+7.3
+
+Norme de exploatare
+
+7.3.1 Exploatarea (manevrarea) mecanismelor de ridicat trebuie să se facă în conformitate cu
+prevederile prezentei prescripţii tehnice, cu normele specifice de protecţia muncii, cu
+instrucţiunile de exploatare specifice mecanismului de ridicat respectiv şi cu instrucţiunile interne
+elaborate de unitatea deţinătoare.
+7.3.2 Este interzisă funcţionarea mecanismelor de ridicat în cazul în care componentele de
+securitate nu sunt în stare perfectă de funcţionare sau nu îndeplinesc condiţiile tehnice prevăzute.
+7.3.3 Este interzisă folosirea mecanismelor de ridicat pentru ridicarea unor sarcini mai mari
+decât sarcina maximă admisă.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+19
+
+7.3.4 Manevrarea mecanismelor de ridicat se va face în condiţii de securitate pentru persoanele
+expuse în zona periculoasă.
+7.3.5 Locurile de muncă în care funcţionează mecanisme de ridicat trebuie să fie bine iluminate
+în tot timpul lucrului.
+7.3.6 Este interzis a se executa ungerea, curăţirea, întreţinerea sau repararea mecanismelor de
+ridicat în timpul funcţionării lor.
+7.3.7 După terminarea sau la întreruperea lucrului, sarcina nu trebuie să rămână suspendată. În
+cazuri excepţionale, când nu e posibilă coborârea sarcinii, se vor lua măsuri de asigurare prin
+îngrădirea locului de sub sarcină şi prevederea unor indicatoare de securitate şi după caz prin
+sprijinirea sarcinii.
+7.3.8 La exploatarea mecanismelor de ridicat cu acţionare manuală se vor respecta prevederile în
+legătură cu efortul fizic, înscrise în normele de protecţia muncii.
+7.3.9 Personalul de manevrare, legătorii de sarcină sau alte persoane însărcinate să dirijeze
+mişcările mecanismelor de ridicat trebuie să cunoască codul de semnalizare. Codul de semnalizare
+este prezentat în anexa R.
+7.4
+
+Manevrarea
+
+7.4.1 Manevrarea mecanismelor de ridicat va fi asigurată de personal instruit cu privire la
+măsurile de tehnica securităţii şi a modului de deservire a acestora. Rezultatul instruirii de către
+unitatea deţinătoare se va înscrie în fişa individuală de protecţia muncii şi constituie permis de
+lucru cu acel mecanism de ridicat, pe perioada de valabilitate a instructajului.
+7.4.2 Îndatoririle personalului de manevrare a mecanismelor de ridicat rezultă din prevederile
+prezentei prescripţii tehnice, ale instrucţiunilor de exploatare, precum şi din instrucţiunile interne
+ale unităţii deţinătoare.
+7.4.3 În exercitarea atribuţiilor sale, personalul de manevrare a mecanismelor de ridicat are
+următoarele obligaţii principale:
+- să cunoască mecanismul de ridicat pe care lucrează, normele de exploatare şi să le
+aplice întocmai;
+- să cunoască şi să respecte codul de semnalizare;
+- să nu acţioneze mecanismul de ridicat atât timp cât în zona periculoasă nu sunt
+satisfăcute condiţiile de securitate ;
+- să consemneze în registrul de evidenţă a supravegherii mecanismelor de ridicat toate
+observaţiile avute asupra deficienţelor în funcţionare şi a modului în care s-au
+soluţionat.
+7.4.4 Legarea şi fixarea sarcinilor se face numai de către personal instruit în acest scop, denumit
+în continuare “legător de sarcină”.
+Legătorul de sarcină efectuează legarea şi fixarea sarcinilor, le urmăreşte în timpul
+manipulării, semnalizează manevrele şi eliberează sarcinile după aşezarea lor corectă la locul
+dorit.
+Legătorii de sarcină vor fi supuşi unor instructaje lunare şi examinări periodice anuale.
+Dacă rezultatele examinărilor sunt corespunzătoare, unitatea eliberează o adeverinţă care îl
+
+20
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+autorizează să exercite funcţia de legător de sarcină în condiţiile prevăzute în prezenta prescripţie
+tehnică. Aceste adeverinţe trebuie să fie păstrate de legător asupra sa în timpul efectuării
+serviciului.
+Aceste adeverinţe vor cuprinde următoarele date:
+- date personale ale legătorului de sarcină;
+- locul de muncă;
+- semnătura legătorului de sarcină;
+- semnătura conducătorului locului de muncă;
+- rubrică de vize anuale ( completată şi semnată de RSVTI ).
+
+8
+
+ÎNTREŢINEREA ŞI REVIZIA MECANISMELOR DE RIDICAT
+
+8.1
+Întreţinerea şi revizia periodică a mecanismelor de ridicat trebuie să fie executată de către
+un agent economic autorizat de ISCIR-INSPECT IT, care dispune de personal calificat şi instruit
+în acest scop compus din mecanici, lăcătuşi şi electricieni cu o practică de cel puţin 2 ani în
+meserie, constituiţi în echipe conduse de personal de specialitate (tehnicieni, ingineri).
+Documentaţia tehnică de autorizare a agenţilor economici pentru lucrări de întreţinere şi
+revizie mecanisme de ridicat va fi întocmită conform prevederilor anexei L.
+Autorizaţia eliberată de ISCIR-INSPECT IT va fi conform modelului din anexa G.
+8.2
+Pentru efectuarea operaţiilor de întreţinere şi revizie se determină starea tehnică a
+mecanismului de ridicat şi principalele operaţii ce urmează a se efectua. Acestea constau în
+general din:
+- curăţirea mecanismului de ridicat;
+- controlul nivelului uleiului;
+- verificarea stării de uzură a lagărelor şi a bunei funcţionări a sistemului de ungere;
+- ungerea pieselor supuse frecării conform schemei de ungere;
+- verificarea uzurii cablurilor şi lanţurilor de tracţiune şi a fixării acestora;
+- verificarea funcţionării componentelor de securitate şi reglarea acestora;
+- verificarea funcţionării şi remedierea sau înlocuirea subansamblelor uzate;
+- verificarea elementelor de prindere sau manipulare a sarcinii;
+- verificarea funcţionării sistemului electric de forţă şi comandă;
+- verificarea rezistenţei de izolaţie, a înfăşurărilor motoarelor electrice faţă de pământ,
+a rezistenţei prizei de punere la pământ a echipamentelor electrice;
+- verificarea funcţionării şi etanşeităţii circuitelor hidraulice şi pneumatice.
+8.3
+Periodicitatea şi volumul lucrărilor de întreţinere şi revizie se vor stabili în funcţie de
+complexitatea mecanismului de ridicat, regimul de funcţionare şi condiţiile de mediu în care
+lucrează.
+8.4
+Evidenţa lucrărilor de întreţinere şi revizie se va ţine într-un registru întocmit conform
+modelului din anexa F.
+
+9
+
+AVARII ŞI ACCIDENTE
+
+9.1
+
+Deţinătorul sau cel care are în folosinţă mecanismele de ridicat are obligaţia să anunţe
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+21
+
+imediat ISCIR-INSPECT IT în raza căreia se află, avariile şi accidentele de persoane în timpul
+funcţionării, prin mijloacele cele mai rapide (telefon, fax etc.), în vederea efectuării cercetărilor
+tehnice necesare şi obligatorii.
+9.2
+Deţinătorul sau cel ce utilizează mecanismul de ridicat sunt obligaţi să ia toate măsurile
+necesare astfel ca situaţia produsă de avarie sau în timpul accidentului să rămână nemodificată
+până la sosirea inspectorului de specialitate al ISCIR–INSPECT IT în raza căreia se află acesta, cu
+excepţia cazului când situaţia respectivă ar pune în pericol viaţa persoanelor sau ar crea alte
+situaţii periculoase. Atunci când este necesar să se modifice starea de fapt din momentul avariei
+sau accidentului, deţinătorul mecanismului de ridicat va face fotografii sau schiţe ale locului unde
+s-a produs avaria sau accidentul.
+9.3
+În vederea stabilirii cauzelor care au produs avarii sau accidente, deţinătorul mecanismului
+de ridicat va trimite la laboratoare de specialitate, pentru cercetare, piese sau dispozitive precum şi
+probe de materiale, conform dispoziţiilor consemnate în procesul-verbal de constatare.
+9.4
+Dacă avaria sau accidentul s-a produs ca urmare a unei defecţiuni a mecanismului de
+ridicat acesta se va scoate din funcţiune. Repunerea lui în exploatare se va face după o verificare
+tehnică oficială completă.
+
+10
+
+DISPOZIŢII FINALE
+
+10.1 Prevederile prezentei prescripţii tehnice se aplică mecanismelor de ridicat în condiţiile
+precizate la subcapitolul 1.2.
+10.2 În cazul unor abateri de la prevederile prezentei prescripţii tehnice referitoare la montarea,
+repararea şi exploatarea mecanismelor de ridicat, deţinătorii, montatorii şi reparatorii, vor putea
+stabili, pe propria răspundere, soluţii compensatoare, motivate corespunzător din punct de vedere
+tehnic, care să nu afecteze securitatea în funcţionare a mecanismelor de ridicat şi să excludă
+pericolul de avarii sau accidente. Deţinătorii, montatorii şi reparatorii care au stabilit astfel de
+soluţii le vor supune avizării principalilor factori interesaţi: proiectant, producător şi ISCIR –
+INSPECT.
+10.3
+
+În vederea efectuării în bune condiţii a verificării tehnice a instalaţiilor, agenţii economici
+montatori, reparatori, utilizatori şi deţinători de instalaţii, după caz, sunt obligaţi să pună la
+dispoziţia inspectorilor de specialitate ai ISCIR-INPECT IT sau RSVTI, autorizat de
+ISCIR-INSPECT IT:
+a) datele, informaţiile sau documentele în legătură cu verificarea tehnică a instalaţiilor;
+b) instalaţia, personalul şi echipamentul de lucru şi protecţie necesar;
+c) mijloace de transport, dacă nu există mijloace publice de transport la şi de la locul
+respectiv.
+
+10.4 Nerespectarea prevederilor prezentei prescripţii tehnice se sancţionează conform legislaţiei
+în vigoare, mergând până la retragerea autorizaţiilor acordate.
+10.5 Trimiterile făcute în text la alte reglementări tehnice sau documente normative se referă la
+ediţiile în vigoare pe perioada aplicării prezentei prescripţii tehnice.
+10.6
+Prezenta prescripţie tehnică intră în vigoare la data publicării în Monitorul Oficial al
+României.
+
+22
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+10.7 Orice alte dispoziţii contrare prevederilor prezentei prescripţii tehnice îşi încetează
+valabilitatea.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+23
+
+ANEXA A
+REGISTRU DE EVIDENŢĂ A SUPRAVEGHERII PENTRU MECANISME
+DE RIDICAT
+Registrul de evidenţă a supravegherii se întocmeşte pentru fiecare mecanism de ridicat în
+parte şi va cuprinde următoarele:
+A.1
+
+Pe copertă se vor menţiona următoarele:
+1)
+2)
+3)
+4)
+5)
+6)
+
+A.2
+
+În interior se vor înscrie, pe coloane:
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+
+A.3
+
+REGISTRU DE EVIDENŢĂ A SUPRAVEGHERII
+Denumirea şi adresa unităţii deţinătoare:
+Numărul şi anul fabricaţiei mecanismului:
+Numărul de înregistrare în evidenţa unităţii deţinătoare:
+Caracteristicile tehnice principale ale mecanismului:
+Periodicitatea stabilită pentru lucrările de întreţinere , revizie
+periodică şi revizie generală:
+
+Numărul curent;
+Data;
+Operaţiile de întreţinere, revizie periodică, revizie generală efectuate, precum şi,
+după caz, constatarea unor deficienţe sau deranjamente în timpul exploatării;
+Principalele lucrări executate, ca urmare celor de la punctul 3);
+Numele, prenumele şi semnătura persoanei care a constatat deficienţe sau
+deranjamente ale mecanismului de ridicat;
+Numele, prenumele şi semnătura persoanei responsabile pentru efectuarea
+lucrărilor de întreţinere, revizie periodică, revizie generală sau pentru înlăturarea
+deficienţelor şi deranjamentelor constatate în timpul exploatării;
+Semnătura RSVTI, autorizat de ISCIR-INSPECT IT;
+Observaţii;
+
+Pe ultima pagină se va scrie:
+
+Se certifică de noi că prezentul registru, şnuruit, conţine …………… pagini numerotate (în
+cifre şi litere).
+(Semnătura şi ştampila deţinătorului).
+
+24
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+ANEXA B
+AUTORIZAREA AGENŢILOR ECONOMICI PENTRU EXECUTAREA LUCRĂRILOR
+DE MONTARE/REPARARE MECANISME DE RIDICAT
+B.1
+În vederea acordării/reactualizării autorizaţiei, agentul economic va înainta la ISCIRINSPECT IT în raza căreia îşi are sediul o documentaţie întocmită conform anexei C.
+B.2
+Prin “agenţi economici” se înţeleg toate Societăţile Comerciale cu sediul în România
+având personalitate juridică, constituite într-una din formele de organizare definite la art. 2 din
+Legea 31/1990 şi a căror activitate, înscrisă la Registrul Comerţului, cuprinde cel puţin unul din
+domeniile reglementate de prezenta anexă precum şi asociaţii sau organizaţii nonprofit având
+personalitate juridică şi sediul în România.
+B.3
+Autorizaţia pentru executarea lucrărilor de montare/reparare mecanisme de ridicat are
+valabilitate de maximum 2 ani.
+B.4
+Agentul economic autorizat să execute lucrări de montare/reparare mecanisme de ridicat
+are următoarele obligaţii şi răspunderi:
+a) să execute lucrări în conformitate cu documentaţia de montare/reparare cu respectarea
+prevederilor prescripţiilor tehnice ISCIR, standardelor în vigoare şi normele specifice
+de securitatea muncii;
+b) să pregătească şi să prezinte mecanismele de ridicat şi toate documentaţiile tehnice
+necesare, în timpul şi la sfârşitul montării /reparării, la verificările care se efectuează
+de inspectorii de specialitate ai ISCIR-INSPECT IT sau de RSVTI;
+c) să întocmească şi să prezinte pentru mecanismul de ridicat care trebuie verificată
+documentaţia tehnică pentru lucrările efectuate;
+d) să folosească la lucrările de montare/reparare mecanisme de ridicat personal calificat ;
+e) să numească personal tehnic propriu: responsabil tehnic pentru supravegherea
+lucrărilor care fac obiectul autorizării şi responsabil tehnic cu sudura, (ingineri şi
+tehnicieni de specialitate) în raport cu numărul şi complexitatea instalaţiilor, care să
+fie autorizaţi în acest scop de ISCIR-INSPECT IT în raza căreia îşi are sediul agentul
+economic;
+f) personalul menţionat la lit. e), trebuie să fie examinat odată cu verificarea în vederea
+acordării/reactualizării autorizaţiei agentului economic şi să facă dovada că are
+cunoştinţele de specialitate teoretice şi practice. Rezultatele examinării/reexaminării
+vor fi consemnate într-un proces-verbal de verificare, conform modelului din anexa D.
+g) să posede prescripţiile tehnice specifice domeniului de lucrări pentru care solicită
+autorizarea;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+25
+
+ANEXA B (continuare)
+h) să întocmească şi să ţină la zi un registru de evidenţă a lucrărilor din domeniul în care
+a fost autorizat. Registrul va fi numerotat şi vizat de ISCIR-INSPECT IT în raza căreia
+îşi are sediul agentul economic şi va cuprinde datele prevăzute în anexa F; pentru
+agenţii economici care au subunităţi în teritoriu va exista pentru fiecare subunitate un
+registru de evidenţă a lucrărilor;
+i) să ia măsuri corespunzătoare astfel ca personalul tehnic propriu, autorizat de ISCIRINSPECT IT, să-şi poată îndeplini în bune condiţii sarcinile prevăzute la pct. B.6 şi să
+comunice în scris la ISCIR-INSPECT IT în raza căreia îşi are sediul agentul economic
+orice schimbare a personalului tehnic menţionat la lit. e), şi să o definitiveze numai
+după confirmarea acestuia de către ISCIR-INSPECT; până la definitivarea schimbării
+personalului tehnic respectiv nu se vor putea efectua lucrări care fac obiectul
+autorizaţiei.
+B.5
+Numai agenţii economici autorizaţi vor monta/repara mecanisme de ridicat din categoria
+celor care nu trebuie să fie verificate de inspectorii de specialitate ai ISCIR-INSPECT IT, dar care
+se supun prevederilor prescripţiei tehnice.
+B.6
+Personalului tehnic propriu autorizat de ISCIR-INSPECT IT pentru supravegherea
+lucrărilor de montare/reparare mecanisme de ridicat îi revin, conform specificului său de
+activitate, următoarele obligaţii şi răspunderi:
+a) să cunoască legislaţia, prescripţiile tehnice specifice mecanismelor de ridicat şi
+standardele în domeniu;
+b) să verifice ca lucrările de montare/reparare să se execute după documentaţii tehnice
+întocmite de agenţi economici de proiectare autorizaţi de ISCIR-INSPECT;
+c) să întocmească documente de verificare în care să consemneze constatările şi
+rezultatele verificărilor şi examinărilor;
+d) să verifice registrele de evidenţă a lucrărilor executate şi să urmărească ţinerea la zi a
+acestora;
+e) să participe la instructaje şi testările periodice organizate de ISCIR-INSPECT;
+f) să verifice periodic, cel puţin odată pe an, pregătirea tehnică a personalul de
+montare/reparare a mecanismelor de ridicat, consemnând rezultatele într-un procesverbal.
+B.7
+Responsabilul tehnic cu sudura (RTS) autorizat de ISCIR-INSPECT IT are următoarele
+obligaţii şi răspunderi:
+a) să cunoască legislaţia, prescripţiile tehnice specifice mecanismelor de ridicat şi
+standardele în domeniu;
+b) să asigure condiţiile necesare pentru efectuarea probelor şi încercărilor în vederea
+omologării procedurilor de sudare;
+c) să ţină la zi evidenţa poansoanelor sudorilor autorizaţi şi a procedurilor de sudare
+omologate;
+d) să verifice proiectele şi tehnologiile de execuţie înainte de lansarea lor în lucru;
+e) să verifice dacă tehnologia de execuţie şi de examinare a îmbinărilor sudate este în
+concordanţă cu procedura de sudare omologată folosită;
+f) să participe la instructaje şi testările periodice organizate de ISCIR-INSPECT;
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+ANEXA B (sfârşit)
+B.8
+În vederea autorizării agenţilor economici pentru efectuarea lucrărilor de montare/reparare
+la mecanisme de ridicat, ISCIR-INSPECT IT trebuie să efectueze următoarele:
+a) să verifice concordanţa dintre datele din documentaţia prezentată de agenţii economici
+care solicită autorizarea şi situaţia existentă la agentul economic;
+b) să verifice personalul tehnic propus, privind pregătirea în domeniu şi cunoaşterea
+prevederilor prescripţiilor tehnice specifice;
+c) să verifice existenţa la agentul economic a prescripţiilor tehnice specifice în domeniu
+şi a standardelor specifice;
+d) să întocmească un proces-verbal asupra constatărilor făcute privind verificările
+prevăzute la lit. a)…c).
+B.9
+În cazul îndeplinirii condiţiilor de autorizare prevăzute de anexă şi pe baza constatărilor
+făcute în conformitate cu prevederile pct. B.8, ISCIR-INSPECT IT în raza căreia îşi are sediul
+agentul economic va elibera autorizaţia conform modelului din anexa G.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+27
+
+ANEXA C
+CONŢINUTUL DOCUMENTAŢIEI
+PENTRU OBŢINEREA/REACTUALIZAREA AUTORIZAŢIEI DE A EFECTUA
+LUCRĂRI DE MONTARE/REPARARE MECANISME DE RIDICAT
+Documentaţia se întocmeşte de către agenţii economici montatori şi/sau reparatori şi se
+înaintează la ISCIR-INSPECT IT. Documentaţia va conţine un memoriu în care se vor preciza
+următoarele:
+a) felul lucrărilor (montare, reparare);
+b) domeniul autorizaţiei (mecanisme de ridicat) cu precizarea parametrilor maximi şi a
+caracteristicilor principale ale instalaţiilor respective;
+c) calitatea principalelor materiale de bază folosite ;
+d) domeniul de dimensiuni ale materialelor de bază ce vor fi utilizate;
+e) procedurile de sudare ce vor fi folosite în execuţie;
+f) metodele şi mijloacele de examinare nedistructivă din dotare, pentru punerea în
+evidenţă a eventualelor defecte ce ar putea să apară în execuţie, în materialele de bază
+şi îmbinările sudate, funcţie de calitatea şi grosimea acestora precum şi a procedurilor
+de sudare aplicate;
+g) punctele de control în fluxul de montare/reparare care concură la realizarea execuţiei
+corespunzătoare a mecanismelor de ridicat în conformitate cu prevederile
+prescripţiilor tehnice - colecţia ISCIR;
+h) numele , pregătirea şi vechimea în specialitate a personalului tehnic pentru montare/
+reparare a mecanismelor de ridicat precum şi a responsabilului tehnic cu sudura,
+propuşi de agentul economic să fie autorizaţi de către ISCIR-INSPECT IT.
+La memoriu se vor ataşa următoarele documente:
+a) dotarea cu utilaje de execuţie, conform datelor din tabelul 1;
+b) procedurile de sudare omologate, conform datelor din tabelul 2;
+c) metodele folosite pentru verificarea calităţii produselor executate, precum şi dotarea
+cu laborator de efectuare a examinărilor nedistructive (autorizat de ISCIR-INSPECT)
+şi laborator de efectuare a încercărilor mecanice, tehnologice, metalografice şi analize
+chimice, autorizat de ISCIR-INSPECT; în cazul în care unitatea economică nu
+dispune de laboratoare proprii, se va anexa contractul de colaborare (copie) încheiat cu
+altă unitate economică autorizată de ISCIR-INSPECT pentru efectuarea examinărilor;
+de asemenea, se va preciza şi dotarea cu standuri pentru încercări şi verificări,
+conform datelor din tabelul 3;
+d) pregătirea şi activitatea practică în domeniu a personalului de execuţie şi control,
+conform datelor din tabelul 4;
+e) natura şi volumul lucrărilor efectuate în colaborare cu alţi agenţi economici,
+conform datelor din tabelul 5.
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+ANEXA C (continuare)
+Nr.
+crt.
+
+Tabelul 1
+Tipul (marca) şi Obs.
+caracteristicile
+principaleX)
+
+Utilajul pentru execuţie
+
+Tăiere:
+a) foarfeci;
+b) ghilotine;
+c) aparate oxiacetilenice;
+d) alte maşini şi aparate.
+2 Formare:
+a) îndoire (valţuri);
+b) maşini de îndoit;
+c) maşini şi dispozitive pentru prelucrarea rostului la table şi ţevi;
+d) maşini unelte (strunguri, maşini de frezat, raboteze, maşini de
+alezat, maşini de rectificat, maşini de găurit).
+3 Sudare:
+a) convertizoare;
+b) transformatoare;
+c) tractoare de sudare;
+d) aparatură WIG, TIG sau MIG;
+e) aparate pentru sudare în baie de zgură.
+4 Tratament termic:
+a) cuptoare;
+b) instalaţii de tratament local;
+c) dispozitive de preîncălzire înainte de sudare.
+1
+
+x)
+
+Pentru utilajul de sudare se va menţiona, după caz, aparatura de stabilire, măsurare şi
+reglare a parametrilor regimurilor de sudare.
+Tabelul 2
+Nr. Procedura
+crt. de sudare
+
+Tipul
+îmbinării
+
+Nr. fişei de
+omologare
+Ag.econ./
+ISCIRINSPECT
+
+Grupa de
+oţeluri
+acoperit de
+fişa de
+omologare
+
+Grupa de
+grosimi şi
+diametrul Poziţia de
+acoperite de
+sudare
+fişa de
+omologare
+
+Obs.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+29
+
+ANEXA C (sfârşit)
+
+Nr.
+crt.
+
+Utilajul pentru verificare şi control
+
+Tipul (marca) şi buc.
+Caracteristicile
+principale
+
+Tabelul 3
+Obs.
+
+1 Pentru măsurarea şi verificarea dimensiunilor:
+a) dispozitive pentru măsurarea diametrelor şi ovalităţii;
+b) şabloane pentru verificarea abaterilor de la forma
+geometrică;
+c) aparate şi dispozitive pentru verificarea paralelismului,
+denivelărilor şi verticalităţii;
+d) aparate şi dispozitive pentru măsurarea deformaţiilor;
+2 Standuri pentru rodaje la mecanisme
+3 Standuri pentru verificarea subansamblelor la
+mecanisme
+4 Standuri pentru încercări, echipamente cu aparatură de
+măsură şi control, în conformitate cu prevederile
+Prescripţiilor tehnice, Colecţia ISCIR şi normele de
+fabricaţie:
+a) la presiune hidraulică;
+b) la presiune pneumatică;
+c) sub sarcină;
+d) a componentelor de securitate (pentru limitarea
+presiunii, sarcinii, vitezei).
+
+Personalul de execuţie, nominalizat
+Nr.
+crt.
+1 Sudori autorizaţi
+2 Personal pentru examinări nedistructive,
+din care:
+- ingineri;
+- tehnicieni;
+- operatori.
+
+Specialitatea
+
+Număr
+
+Tabelul 4
+Obs.
+
+Tabelul 5
+Nr.
+crt.
+
+Natura colaborării
+
+Lucrările cuprinse în contractul
+de colaborare şi felul în care se
+realizează
+
+Denumirea agentului economic cu
+care se efectuează colaborarea
+
+Obs.
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+ANEXA D
+ROMÂNIA
+
+Inspecţia de stat pentru
+controlul
+cazanelor, recipientelor sub
+presiune şi instalaţiilor de
+ridicat
+- ISCIR -
+
+INSPECŢIA
+TERITORIALĂ……………
+
+Proces–verbal
+
+de verificare tehnică
+nr. …………….
+
+Adresa……………………….
+Telefon………………………
+Fax…………………………
+
+Încheiat astăzi ……………… cu ocazia ……………… efectuat în baza HG 1.340/2001, HG
+19/2001 şi Decretului nr. 587/1973, modificat şi completat prin Decretul nr. 417/1985, aplicabile, şi
+Prescripţiilor tehnice, Colecţia ISCIR, la …………………………………………………………………….
+tip………………… cu numărul de fabricaţie/inventar …………… şi cartea instalaţiei nr. ………… având
+parametrii ultimei verificări ……….……………………………………………………….………………..
+…………………………………………………………………………………………………………………
+Denumirea agentului economic …………………………………………………… din localitatea
+………………………. str. …………………………………… nr. …….. judeţ/sector …………………….
+CUI …………… .
+Verificarea s-a efectuat la ……………………….. din localitatea …………………………………
+str. ………………………..……. nr. …….. judeţ/sector …….………………….. ………………………..
+Subsemnatul¹) ……………………………………………………………... am constatat
+următoarele:
+……………………………………………………………………………..…………………………………..
+……………………………………………………………………………..…………………………………..
+……………………………………………………………………………..…………………………………..
+……………………………………………………………………………..…………………………………..
+……………………………………………………………………………..…………………………………..
+……………………………………………………………………………..…………………………………..
+……………………………………………………………………………..…………………………………..
+Am dat următoarele dispoziţii : ………………………………………………………………………
+……………………………………………………………………………..…………………………………..
+……………………………………………………………………………..…………………………………..
+……………………………………………………………………………..…………………………………..
+……………………………………………………………………………..…………………………………..
+……………………………………………………………………………..…………………………………..
+După această verificare s-a admis²) ………………………………..………………………………...
+……………………………………………………………………………..…………………………………..
+Scadenţa următoarei verificări se fixează la data de ………………………………………………...
+Pentru această verificare se va plăti suma de …..………… lei de către ……………………………
+din localitatea ……………………… str. …………………………… nr. …… judeţ/sector ……………… în
+cont …………………………… deschis la Banca ……………………… filiala ……………………………
+Am luat la cuno ştinţă
+Organ de
+verificare
+
+Directorul agentului
+economic sau
+delegatul său
+
+Responsabil cu
+supravegherea şi
+verificarea tehnică
+
+……………
+
+………………
+
+..………………
+
+..……………
+
+…………
+
+……………
+
+……………
+
+.………….
+
+¹) Funcţia, numele şi prenumele.
+²) Se vor înscrie parametrii de funcţionare ai instalaţiei, funcţie de felul ( tipul ) acesteia.
+
+Delegatul agentului
+economic montator,
+reparator
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+31
+
+ANEXA E
+AUTORIZAREA AGENŢILOR ECONOMICI PENTRU ELABORAREA
+PROIECTELOR LUCRĂRILOR DE MONTARE/REPARARE LA MECANISME DE
+RIDICAT
+E.1
+Proiectele de montare/reparare a mecanismelor de ridicat se elaborează de către agenţi
+economici de proiectare autorizaţi de ISCIR-INSPECT. Proiectele pot fi elaborate şi de către alţi
+agenţi economici, urmând ca proiectele respective, pentru a putea fi folosite, să fie, în prealabil,
+verificate de o unitate de proiectare autorizată de ISCIR-INSPECT şi avizate în conformitate cu
+prevederile pct. E.3.
+Agenţii economici de proiectare vor confirma în proiectele pe care le elaborează că au
+respectat prevederile prescripţiilor tehnice specifice în domeniu şi că îndeplinesc prevederile pct.
+E.3 lit. a), b) şi c).
+E.2
+În vederea autorizării, agenţii economici de proiectare sau agenţii economici care au unităţi
+de proiectare pentru lucrările menţionate la pct. E.1 vor înainta la ISCIR-INSPECT o
+documentaţie care va fi constituită din:
+a) adresă (domeniul solicitat, documente anexate etc.);
+b) acte agent economic (copie):
+- statut (actul constitutiv) actualizat;
+- certificat de înmatriculare;
+- certificat de înregistrare fiscală sau CUI (cod unic de înregistrare fiscală);
+c) procedură privind modul de efectuare a activităţii de proiectare (organizare şi
+responsabilităţi, prescripţii tehnice, standarde şi normative de proiectare specifice
+domeniului de proiectare solicitat);
+d) lista personalului calificat propus pentru autorizare (original);
+e) deciziile de numire a personalului propriu propus pentru autorizare (original), conform
+modelului din anexa J şi adaptat corespunzător;
+f) curriculum vitae pentru personalul propriu propus pentru autorizare (original);
+g) documentele de studii şi calificare pentru personalul propriu propus pentru autorizare
+(în original şi o copie);
+h) lista principalelor proiecte elaborate de personalul pentru care se solicită autorizarea
+(original).
+NOTĂ : În cazul existenţei unor subunităţi (filiale, ateliere etc.) pentru care se solicită autorizarea
+şi care au un alt sediu decât agentul economic solicitant, se vor indica adresele acestora şi, după
+caz, datele menţionate la aliniatele a), d), e), f) şi g).
+E.3
+Agenţii economici autorizaţi pentru activitatea de proiectare au următoarele obligaţii şi
+răspunderi:
+a) să posede prescripţiile tehnice specifice domeniului pentru care solicită autorizarea;
+b) să numească personal tehnic de specialitate, în număr necesar, care să verifice
+proiectele elaborate din punct de vedere al siguranţei în funcţionare şi care să răspundă
+împreună cu proiectantul de aplicarea prevederilor prescripţiilor tehnice, semnând
+proiectele în acest sens;
+
+32
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+ANEXA E (continuare)
+c) să adopte soluţii constructive care să permită funcţionarea în condiţii de securitate a
+mecanismelor de ridicat şi să prevadă în documentaţia tehnică examinările şi
+încercările ce trebuie să fie efectuate de agenţii economici montatori şi reparatori la
+locul de funcţionare pentru verificarea parametrilor de siguranţă în funcţionare,
+răspunzând de alegerea corectă a acestora şi de respectarea prevederilor prescripţiilor
+tehnice;
+d) să solicite în scris la ISCIR-INSPECT avizarea conformă a proiectelor elaborate,
+prezentând în acest scop desenul de ansamblu verificat de personalul tehnic de
+specialitate propriu menţionat la lit. b);
+Este interzisă folosirea proiectelor, care nu au avizul conform al ISCIR-INSPECT sau
+al personalului autorizat;
+e) să propună, în vederea autorizării de către ISCIR-INSPECT, personalul tehnic de
+specialitate care urmează să avizeze conform proiectele proprii sau elaborate de unităţi
+neautorizate.
+Orice schimbare a personalului tehnic de specialitate, autorizat de ISCIRINSPECT pentru verificare şi avizare conformă, va fi comunicată la ISCIR-INSPECT
+şi va deveni definitivă după confirmarea acesteia;
+f) să înregistreze la ISCIR-INSPECT IT proiectele pe care le avizează conform şi să ţină
+evidenţa acestora ;
+g) să comunice periodic (cel puţin o dată pe trimestru) la ISCIR-INSPECT IT, lista
+proiectelor elaborate şi avizate conform pentru perioada expirată precum şi lista
+proiectelor pe care le vor elabora şi care trebuie să fie avizate conform în perioada
+următoare;
+h) să avizeze conform proiectele, respectiv desenele de ansamblu, pentru care primeşte
+împuternicire scrisă din partea ISCIR-INSPECT IT.
+E.4
+Personalul tehnic de specialitate care verifică proiectele din punct de vedere al siguranţei
+în funcţionare, numit de agentul economic de proiectare şi autorizat de ISCIR-INSPECT, are
+următoarele obligaţii şi răspunderi:
+a) să verifice proiectele din punct de vedere al respectării prevederilor prescripţiei
+tehnice;
+b) să confirme că a efectuat verificarea pieselor scrise şi desenate ale proiectului prin
+aplicarea ştampilei pe desenul tip de ansamblu, în conformitate cu prevederile pct.
+E.8.
+E.5
+Personalul tehnic de specialitate autorizat de ISCIR-INSPECT să avizeze conform
+proiectele are următoarele obligaţii şi răspunderi:
+a) să avizeze conform desenele de ansamblu ale proiectelor pentru care a primit
+împuternicire din partea ISCIR-INSPECT IT, conform prevederilor pct. E.9;
+b) să confirme avizarea conformă prin aplicarea ştampilei pe desenul de ansamblu,
+conform prevederilor pct. E.10, precizând şi numărul de exemplare avizate;
+c) să participe la instructajele periodice organizate de ISCIR-INSPECT.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+33
+
+ANEXA E (continuare)
+E.6
+Personalul tehnic de specialitate ce urmează a fi autorizat de ISCIR-INSPECT pentru
+avizarea conformă de proiecte trebuie să fie absolvent al unui institut de învăţământ superior
+tehnic de specialitate de lungă durată şi să aibă o vechime în specialitate de cel puţin 8 ani, din
+care cel puţin 3 ani în proiectare sau 5 ani în construcţia, exploatarea sau verificarea mecanismelor
+de ridicat.
+E.7
+În vederea autorizării agenţilor economici de proiectare, în conformitate cu prevederile
+prezentei anexe, ISCIR-INSPECT are următoarele obligaţii şi răspunderi:
+a) să verifice concordanţa dintre datele înscrise în documentaţia prezentată de unitatea de
+proiectare care solicită autorizarea şi situaţia din unitatea respectivă precum şi
+existenţa prescripţiilor tehnice specifice în domeniu, întocmind un proces-verbal
+asupra constatărilor făcute;
+b) să verifice, din punct de vedere al cunoaşterii prevederilor prescripţiilor tehnice,
+personalul tehnic de specialitate propus pentru autorizare;
+c) să elibereze în baza constatărilor făcute, în cazul îndeplinirii condiţiilor de autorizare,
+autorizaţia de proiectare conform modelului din anexa H.
+E.8
+Verificarea proiectelor, în ceea ce priveşte concordanţa acestora cu prevederile
+prescripţiilor tehnice - Colecţia ISCIR şi ale legislaţiei în vigoare, se efectuează de către agenţii
+economici de proiectare autorizaţi de ISCIR-INSPECT.
+În acest scop, agenţii economici de proiectare autorizaţi vor numi personal de specialitate
+care să efectueze verificarea pieselor scrise şi desenate ale proiectului.
+Confirmarea verificării se va face pe desenul de ansamblu, consemnând pe acesta prin
+ştampilare pe copii, următoarele:
+- Denumirea agentului economic de proiectare autorizat de ISCIR-INSPECT
+” Verificat, corespunde prevederilor prescripţiei tehnice PT …”
+____________________________________________________
+- Numele şi prenumele___________________________________
+- Data____________________________
+- Semnătura_______________________
+E.9
+Avizarea conformă a desenului de ansamblu, cu privire la respectarea prevederilor
+prescripţiei tehnice şi ale legislaţiei în vigoare, se efectuează de către ISCIR-INSPECT IT sau de
+către personal autorizat de ISCIR-INSPECT.
+Avizarea conformă de către ISCIR-INSPECT ITse va efectua numai după verificarea
+proiectelor respective de către un agent economic de proiectare autorizat de ISCIR-INSPECT.
+Această avizare conformă se poate efectua şi de către personalul propriu de specialitate din
+unităţile de proiectare, dar numai cu acordul scris al ISCIR-INSPECT IT.
+E.10 Confirmarea avizării conforme pe desenul tip de ansamblu se face consemnând prin
+ştampilare pe copii, următoarele:
+a) în cazul în care avizarea se face de către ISCIR-INSPECT IT:
+
+34
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+ANEXA E (sfârşit)
+AVIZAT conform
+ISCIR-INSPECT IT
+Numele____________________ Prenumele________________
+Data ______________________ Semnătura_________________
+b) în cazul în care avizarea se face de către personalul propriu de specialitate din unităţile
+de proiectare, autorizat de ISCIR-INSPECT şi împuternicit în scris de ISCIRINSPECT IT pentru proiectul respectiv:
+AVIZAT conform
+AUTORIZAT de ISCIR-INSPECT
+Denumirea unităţii___________________________________________
+Scrisoarea ISCIR-INSPECT IT de împuternicire nr._______/____________
+Numele____________________ Prenumele_________________
+Data______________________ Semnătura_______________________
+E.11 Unitatea de proiectare în cadrul căreia se avizează conform desenele tip de ansamblu va
+reţine câte un exemplar din fiecare.
+Acestea vor fi înscrise într-un registru de evidenţă.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+35
+
+ANEXA F
+REGISTRU
+PENTRU EVIDENŢA LUCRĂRILOR DE x ) …………………….. MECANISME DE
+RIDICAT
+
+Nr.
+crt.xx)
+
+Proiect de
+Denumire şi
+execuţie
+Felul şi tipul
+sediu
+(unitatea
+mecanismului
+fabricant
+proiectantă,
+nr. şi dată)
+
+Nr. şi data
+actului de
+omologare/
+Certificare
+
+Parametrii
+Beneficiarul Proces-verbal
+mecanismului (denumire de recepţie (nr.
+xxx)
+şi sediu)
+şi data)
+
+Obs.
+
+x)
+
+Se va scrie după caz: MONTARE, REPARARE, ÎNTREŢINERE ŞI REVIZIE, conform
+obiectului autorizaţiei.
+xx)
+Este acelaşi cu numărul de fabricaţie menţionat în cartea mecanismului.
+xxx)
+Sarcina nominală (tf); înălţimea de ridicare (m).
+NOTĂ:
+Pentru agenţii economici autorizaţi să efectueze reparaţii, întreţinere şi revizie la
+mecanisme de ridicat, se va folosi modelul de registru completat cu trei coloane în plus, în care se
+vor scrie:
+- numărul şi anul fabricaţiei;
+- numărul autorizaţiei de funcţionare (cartea instalaţiei);
+- elementele reparate sau înlocuite, caracteristicile lor constructive.
+
+36
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+ANEXA G
+ISCIR
+INSPECŢIA DE STAT PENTRU CONTROLUL
+CAZANELOR, RECIPIENTELOR SUB
+PRESIUNE ŞI INSTALAŢIILOR DE RIDICAT
+ISCIR-INSPECT IT.......................................
+Str................nr...............telefon.................….
+AUTORIZAŢIE
+nr. ..........din......................
+În baza prevederilor legale în vigoare şi a prescripţiei tehnice PT R 2 şi în urma verificărilor
+efectuate şi consemnate în procesul-verbal nr. .......... din.............. .
+I Se autorizează pentru 1) ....................................................................agentul economic
+.......................................... din ............................... str. ...................nr. .................... urmare a cererii
+nr. ........................ din .......................... .
+II Se autorizează pentru supravegherea lucrărilor de mai sus următorul personal tehnic de
+specialitate:...........………………………….......…………….....……………
+şi responsabilul tehnic cu sudura:.....................................................................................
+..........................................................................................................................................
+În cazul schimbării denumirii, întreruperii activităţii sau desfiinţării .......................
+..................................................2)..................................................................are obligaţia să anunţe
+în termen de 15 zile ISCIR – INSPECT IT emitentă a autorizaţiei.
+Autorizaţia poate fi retrasă de ISCIR-INSPECT IT în baza documentului de constatare a
+comiterii unor abateri de la prevederile legale.
+Prezenta autorizaţie este valabilă până la data de 3) ………………….……………
+Se consideră reînnoirea autorizaţiei numai cazul în care cererea scrisă de reînnoire va fi depusă la
+ISCIR-INSPECT IT cu cel puţin 30 de zile calendaristice înainte de expirarea termenului de
+valabilitate al autorizaţiei. În caz contrar se consideră autorizare nouă.
+INSPECTOR ŞEF
+(numele, prenumele şi semnătura)
+
+Inspector de specialitate
+(numele, prenumele şi semnătura)
+
+_______________________________________________
+1)
+Se va indica succint domeniul autorizaţiei.
+2)
+Se va indica agentul economic.
+3)
+Se va indica data efectivă (ziua, luna, anul)-maxim 2 ani.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+37
+
+ANEXA H
+ISCIR
+INSPECŢIA DE STAT PENTRU CONTROLUL
+CAZANELOR, RECIPIENTELOR SUB
+PRESIUNE ŞI INSTALAŢIILOR DE RIDICAT
+ISCIR-INSPECT
+AUTORIZAŢIA DE PROIECTARE
+Nr........................ din...................
+În baza prevederilor legale în vigoare şi a prescripţiei tehnice PT R2 şi în urma
+verificărilor
+efectuate
+şi
+consemnate
+în
+procesul-verbal
+nr..............................
+din................................
+I Se autorizează pentru proiectare de 1)....……......................................…......
+agentul economic....................................din...................................str..........................
+nr........................judeţ / sector.............................din cadrul 2)...............................…...
+unitatea de proiectare..................................din.................................str........................
+nr.....................judeţ / sector..........................urmare cererii nr....................din............
+II Se autorizează pentru avizare conformă de proiecte proprii sau elaborate de unităţi
+neautorizate următoarele persoane, salariaţi ai unităţii de proiectare:3)
+............................................................................................................................................................
+............................................................................................................................................................
+...............................................................……............................
+În
+cazul
+schimbării
+denumirii,
+întreruperii
+activităţii
+sau
+desfiinţării
+4)
+................................... are obligaţia să anunţe în termen de 15 zile ISCIR-INSPECT.
+Autorizaţia poate fi retrasă de ISCIR-INSPECT în baza documentului de constatare a
+comiterii unor abateri de la prevederile legale.
+Prezenta autorizaţie este valabilă până la data de 5) ……………………………
+
+INSPECTOR DE STAT ŞEF
+
+INSPECTOR ŞEF ISCIR-INSPECT
+Inspector de specialitate
+
+______________________________________
+1)
+Se indică succint domeniul autorizaţiei.
+2)
+Se completează pentru filialele sau unitate având alt sediu.
+3)
+Se indică numele şi prenumele persoanelor.
+4)
+Se va indica unitatea de proiectare.
+5)
+Se va indica data efectivă (ziua, luna, anul)-maxim 2 ani.
+
+38
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+ANEXA I
+VERIFICAREA REPARAŢIILOR MECANISMELOR DE RIDICAT
+I.1
+Prezenta anexă conţine prevederi tehnice minime obligatorii care se referă la verificarea
+tehnică a reparaţiilor efectuate la mecanismele de ridicat care fac obiectul prescripţiei tehnice
+efectuate de către RSVTI, autorizat de ISCIR-INSPECT IT, al deţinătorului.
+I.2
+
+Lucrările care constituie reparaţii sunt următoarele:
+a) înlocuirea sau modificarea construcţiei metalice, refacerea sau remedierea îmbinărilor
+sudate ale elementelor de rezistenţă;
+b) transformarea de principiu a modului de acţionare a mecanismelor de ridicat (trecerea
+de la acţionare manuală la acţionare electrică, de la acţionare electrică la acţionare
+pneumatică sau hidraulică etc.);
+c) înlocuirea elementelor lor componente din lanţul cinematic cu alte tipo-dimensiuni,
+care diferă de cele prevăzute în documentaţia tehnică iniţială;
+d) modificarea de principiu a schemei electrice, hidraulice, pneumatice de acţionare;
+e) înlocuirea totală a instalaţiei electrice;
+f) înlocuirea sau modificarea componentelor de securitate ale mecanismului de ridicat cu
+alte tipo-dimensiuni, care diferă de cele prevăzute în documentaţia tehnică iniţială.
+
+I.3
+Înaintea începerii lucrărilor de reparaţii, unitatea reparatoare va întocmi o documentaţie de
+reparaţie din care să rezulte lucrările ce urmează a se efectua, precum şi condiţiile tehnice de
+execuţie, verificări şi încercări.
+I.4.
+În vederea efectuării verificării tehnice a reparaţiei, unitatea reparatoare va întocmi o
+documentaţie care va cuprinde:
+a) lista lucrărilor efectuate sau, după caz, proiectul sau tehnologia de reparaţie;
+b) certificatele de calitate ale materialelor şi subansamblelor întrebuinţate; la
+componentele de securitate se vor anexa certificatele de conformitate;
+c) fişele de omologare şi specificaţiile procedurilor de sudare folosite;
+d) tabelul nominal cu sudorii autorizaţi care au executat lucrarea şi cu valabilitatea
+autorizaţiilor;
+e) schema cinematică, schema electrică şi desenul de ansamblu al instalaţiei, dacă cu
+ocazia reparaţiei s-au efectuat modificări ale acestora;
+f) certificatul privind calitatea îmbinărilor sudate;
+g) procesul-verbal în care sunt consemnate rezultatele încercărilor de casă;
+h) certificatele de calitate şi garanţie ale lucrărilor executate;
+i) la documentaţie nu este obligatorie ataşarea fişelor de omologare a procedurilor de
+sudare, acestea putând fi înlocuite cu un tabel din care să rezulte numărul fişei de
+omologare (numărul dat de unitate şi ISCIR-INSPECT IT) şi domeniul de valabilitate.
+I.5
+
+Documentaţia tehnică de reparaţii se va anexa la cartea instalaţiei.
+
+I.6
+
+Efectuarea lucrărilor de reparaţii se va înscrie în registrul de evidenţă a supravegherii.
+
+I.7
+Unităţile autorizate de ISCIR-INSPECT IT să efectueze reparaţii la mecanismele de ridicat
+vor ţine la zi evidenţa lucrărilor executate într-un registru, numerotat, şnuruit şi parafat de ISCIR–
+INSPECT IT.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+39
+
+ANEXA J
+MODEL DE DECIZIE PENTRU NUMIREA RESPONSABILULUI CU
+SUPRAVEGHEREA ŞI VERIFICAREA TEHNICĂ A INSTALAŢIILOR (RSVTI)
+ANTETUL AGENTULUI ECONOMIC
+D E C I Z I E NR. ..........
+din ...................
+Unitatea ........................................... reprezentată prin ................................
+manager (director).
+Având în vedere legislaţia cu privire la funcţionarea în condiţii de securitate a
+instalaţiilor prin care agenţii economici care deţin şi exploatează aceste instalaţii sunt obligaţi să
+numească personal tehnic de specialitate (ingineri, subingineri, maiştri sau tehnicieni de
+specialitate) în raport cu numărul şi complexitatea acestora, care să fie autorizat de ISCIRINSPECT IT, în vederea aplicării prevederilor prescripţiilor tehnice-Colecţia ISCIR,
+DECIDE:
+1 D-ul (D-na) .................................de specialitate..........................având funcţia de
+.......................... începând cu data de...........................se numeşte responsabil cu supravegherea şi
+verificarea tehnică a instalaţiilor..........................din cadrul …………………………, urmând a fi
+autorizat de ISCIR-INSPECT IT.
+2 Responsabilul cu supravegherea şi verificarea tehnică a instalaţiilor este obligat să
+cunoască şi să aplice întocmai prevederile legislaţiei în vigoare şi ale prescripţiilor tehniceColecţia ISCIR, sarcinile lui fiind cele care rezultă din prescripţiile tehnice-Colecţia ISCIR.
+3 Activitatea responsabilului cu supravegherea şi verificarea tehnică a instalaţiilor va fi
+coordonată şi îndrumată din partea conducerii de ............................................... care răspunde
+împreună cu acesta de luarea măsurilor pentru aplicarea prevederilor legislaţiei în vigoare şi ale
+prescripţiilor tehnice-Colecţia ISCIR.
+4 Încălcarea obligaţiilor prevăzute în prescripţiile tehnice-Colecţia ISCIR, atrage,
+după caz, răspunderea disciplinară, materială, civilă sau penală a celor vinovaţi.
+5 Prezenta decizie anulează decizia anterioară nr. ….. din ……… şi devine definitivă
+după autorizarea responsabilului de către ISCIR-INSPECT IT.
+
+MANAGER,
+Numele şi prenumele
+(Semnătura şi ştampila)
+
+OFICIUL JURIDIC
+Numele şi prenumele
+(Semnătura)
+
+40
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+ANEXA K
+MODEL DE AUTORIZAŢIE PENTRU RESPONSABILUL CU SUPRAVEGHEREA
+ŞI VERIFICAREA TEHNICĂ A INSTALAŢIILOR (RSVTI)
+INSPECŢIA DE STAT PENTRU CONTROLUL
+CAZANELOR, RECIPIENTELOR SUB
+PRESIUNE ŞI INSTALAŢIILOR DE RIDICAT
+ISCIR-INSPECT IT………………………………
+AUTORIZAŢIE PENTRU SUPRAVEGHEREA ŞI VERIFICAREA
+TEHNICĂ A INSTALAŢIILOR
+
+AUTORIZAŢIA Nr.x)..........................
+Numele şi prenumele ............................... Data şi locul naşterii.....................
+Cod numeric personal……………………......................................................
+În baza prevederilor legale în vigoare şi urmare adresei nr. ....................... din
+............................ a agentului economic ...........................................………….......... se autorizează
+să execute în cadrul unităţii:
+a) supravegherea xx) .....................……………………………................ din dotarea sau
+folosinţa agentului economic.
+
+Data .....................
+
+INSPECTOR ŞEF,
+(Semnătura, ştampila)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+41
+
+ANEXA K (sfârşit)
+Posesorul autorizaţiei are obligaţia şi răspunderile prevăzute de legislaţia în vigoare şi
+prevederile prescripţiilor tehnice specifice. Răspunde, împreună cu conducerea agentului
+economic, de luarea măsurilor pentru aplicarea prevederilor prescripţiilor tehnice specifice.
+Autorizaţia este valabilă numai în cadrul agentului economic pentru care a fost autorizat
+personalul.
+Autorizaţia poate fi retrasă de ISCIR-INSPECT IT în baza documentului de constatare a
+comiterii unor abateri de la prevederile legale.
+Prezenta autorizaţie este valabilă până la data de xxx) ………………………
+NOTĂ:
+
+x)
+
+Se va trece numărul de înregistrare al agentului economic în evidenţa ISCIRINSPECT IT, supra numărul de ordine al autorizaţiei.
+Exemple: B 175/1; B 275/2; G 1305/1.
+xx)
+Se va trece, după caz: instalaţii sub presiune, instalaţii de ridicat, instalaţii sub
+presiune şi de ridicat, recipiente transportabile etc.
+xxx)
+Se va indica data efectivă (ziua, luna, anul) - maxim 2 ani.
+
+42
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+ANEXA L
+CONŢINUTUL DOCUMENTAŢIEI PENTRU OBŢINEREA AUTORIZAŢIEI
+PENTRU LUCRĂRILE DE ÎNTREŢINERE ŞI
+REVIZIE TEHNICĂ A MECANISMELOR DE RIDICAT
+L.1
+Documentaţia se întocmeşte de către agenţii economici care efectuează lucrări de
+întreţinere şi revizie la mecanismele de ridicat.
+L.2
+Documentaţia va fi constituită dintr-un memoriu tehnic din care să rezulte domeniul pentru
+care se solicită autorizarea. Acesta va cuprinde următoarele:
+a) felul lucrărilor (întreţinere şi revizie tehnică mecanisme de ridicat cu sarcina maximă
+de....tf);
+b) dotarea minimă cu materiale şi piese de schimb;
+c) numele, pregătirea şi vechimea în specialitate a responsabilului tehnic pentru
+supravegherea lucrărilor de întreţinere şi revizie a mecanismelor;
+d) decizia de numire, conform anexei J.
+L.3
+
+Memoriul va fi însoţit de documente din care să rezulte următoarele:
+a) dotarea cu scule, dispozitive, verificatoare, aparatură de măsurare şi control etc.;
+b) numele, prenumele, pregătirea şi activitatea practică în domeniu a personalului de
+execuţie (electricieni, mecanici etc.).
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+43
+
+ANEXA M
+INSTRUIREA MANEVRANŢILOR
+M.1
+Manevranţii de mecanisme de ridicat, denumiţi în continuare “manevranţi”
+trebuie să fie instruiţi de către agentul economic deţinător, printr-un curs de adaptare
+profesională.
+M.2
+Pentru a fi admişi în vederea instruirii, candidaţii trebuie să îndeplinească
+următoarele condiţii:
+a) au vârsta de cel puţin 18 ani împliniţi;
+b) îndeplinesc condiţiile de sănătate pentru manevrarea mecanismelor de ridicat şi
+prezintă o adeverinţă medicală cu menţiunea ăApt pentru manevrarea
+mecanismelor”;
+c) fac dovada că au absolvit învăţământul obligatoriu.
+M.3
+Instruirea teoretică se va efectua pe baza programei analitice specificate în anexa N,
+care prevede minimum de cunoştinţe necesare şi de durată a cursurilor.
+De la caz la caz, în funcţie de complexitatea mecanismelor de ridicat programa analitică
+menţionată va fi dezvoltată corespunzător.
+M.4
+Practica obligatorie pentru manevrarea mecanismului de ridicat va cuprinde minim
+16 ore şi se va efectua sub stricta supraveghere a RSVTI, autorizat de ISCIR-INSPECT IT sau de
+către un manevrant instruit.
+M.5
+La finalizarea instruirii teoretice şi practice, candidaţii vor fi examinaţi de o
+comisie numită prin decizie, din care va face parte în mod obligatoriu RSVTI al agentului
+economic.
+M.6
+Rezultatele examinării vor fi consemnate într–un proces–verbal. Candidaţilor
+admişi li se va elibera un carnet de manevrant al cărui model este prezentat în anexa O .
+M.7
+
+Carnetul de manevrant este valabil numai în cadrul unităţii care l–a eliberat.
+
+M.8
+Pentru împrospătarea cunoştinţelor profesionale, manevranţii vor fi instruiţi
+periodic, odată cu instructajul de protecţia muncii, de către personalul tehnic de specialitate
+desemnat pentru acest scop de către conducerea agentului economic deţinător de instalaţii, iar
+rezultatele instruirii periodice vor fi consemnate într-un proces-verbal.
+M.9
+Persoanele instruite, în conformitate cu prevederile prescripţiei tehnice, vor fi
+examinate anual pentru verificarea cunoştinţelor profesionale şi a deprinderilor practice de către o
+comisie numită de conducerea agentului economic deţinător la care acestea îşi desfăşoară
+activitatea.
+Din comisie va face parte obligatoriu şi responsabilul cu supravegherea şi verificarea
+tehnică a instalaţiilor (RSVTI), autorizat de ISCIR-INSPECT IT.
+
+44
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+ANEXA M(sfârşit)
+Rezultatele examinărilor vor fi consemnate într-un proces-verbal de verificare.
+M.10
+Persoanele instruite, în conformitate cu prevederile prescripţiei tehnice, au
+obligaţia să se prezinte anual la examinarea medicală, prezentând rezultatul comisiei menţionate la
+pct. M.9.
+M.11
+Persoanelor instruite care deţin carnet de manevrant şi nu se prezintă la examinările
+menţionate la pct. M.9 şi M.10 sau persoanelor instruite care, în urma examinărilor respective,
+obţin rezultate necorespunzătoare li se vor retrage carnetele de către agentul economic deţinător,
+pe timp limitat sau definitiv, după caz.
+M.12
+Personalul instruit, conform prevederilor prescripţiei tehnice, este obligat să poarte
+permanent asupra sa carnetul.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+45
+
+ANEXA N
+PROGRAMA ANALITICĂ PENTRU CURSUL DE INSTRUIRE
+A MANEVRANŢILOR
+Partea teoretică şi practică
+
+Numărul orelor de
+predare
+Teoretică
+Practică
+
+a) Descrierea detaliată a tipurilor de mecanisme de ridicat.
+Antrenarea mecanismelor(electrică, hidraulică etc.).
+
+4
+
+2
+
+b) Componente de securitate la mecanismele de ridicat:
+─ limitatoare de sfârşit de cursă;
+─ limitatoare de sarcină;
+─ tampoane, opritori, siguranţe la cârlig;
+─ dispozitive de reţinere a fluidului din cilindri;
+─ contacte şi siguranţe electrice.
+
+4
+
+2
+
+2
+
+2
+
+2
+
+2
+
+4
+2
+2
+
+2
+-
+
+4
+
+4
+
+4
+
+4
+
+2
+
+-
+
+c) Dispozitive de frânare (descriere, rol, tipuri existente, reglare
+şi verificare).
+d) Cabluri şi lanţuri (materiale, construcţie, mod de fixare, uzură
+permisă, întreţinere etc.).
+e) Mecanismul de ridicare/coborâre.
+f) Obligaţiile manevrantului.
+g) Semnalizarea comenzilor.
+h) Manevrarea şi exploatarea mecanismelor de ridicat:
+− manevre permise şi nepermise, cauzele deranjamentelor;
+− legarea sarcinilor;
+− exploatarea, cartea mecanismului, registrul de evidenţă a
+supravegherii.
+i) Întreţinerea, revizia, reparaţia şi verificarea tehnică oficială:
+- întreţinerea mecanismului de ridicat;
+- revizia mecanismului de ridicat;
+- reparaţia mecanismului de ridicat;
+- verificarea tehnică oficială: autorizaţia de funcţionare,
+încercări statice şi dinamice, verificări periodice la scadenţă.
+j) Avarii şi accidente la mecanismele de ridicat:
+− cauzele avariilor şi accidentelor;
+− măsuri pentru evitarea şi eliminarea avariilor şi accidentelor.
+
+46
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+ANEXA N (sfârşit)
+Partea teoretică şi practică
+k) Tehnica securităţii muncii
+− Legislaţia în vigoare privind protecţia muncii
+− Echipamentul de protecţie
+− Măsuri de prim ajutor în caz de avarii, de incendiu şi în
+caz de accidente la mecanismele de ridicat etc.
+l) Legislaţie, regulamente, instrucţiuni
+- HG 1340/2001
+- Decret 587/1973 şi 417/1985
+- Prescripţii tehnice – Colecţia ISCIR
+- Instrucţiuni tehnice interne întocmite de deţinător
+m) Disciplina în muncă, respectarea legislaţiei, a Prescripţiilor
+tehnice – Colecţia ISCIR, a normelor de tehnica securităţii şi
+protecţiei muncii etc.
+
+Numărul orelor de
+predare
+Teoretică
+Practică
+2
+
+-
+
+2
+
+-
+
+2
+
+-
+
+Recapitulaţie:
+I
+II
+
+Partea teoretică ………………
+36 ore
+Partea practică ………………
+18 ore
+Verificarea însuşirii cunoştinţelor - o oră pentru fiecare candidat.
+
+ANEXA O
+CARNET DE MANEVRANT
+
+4)
+
+VIZE ANUALE
+
+CARNET DE MANEVRANT
+Nr…..…..din………….…
+Nume……………………..
+Prenume……………………………
+CNP3)……………………………………………………
+…………..
+Tipul instalaţiei
+……………………………………………………..
+
+1)
+
+Se va înscrie denumirea completă a agentului economic
+RC/CUI – Număr de înregistrare la Registrul Comerţului sau Codul Unic de Înregistrare.
+3)
+CNP- Cod numeric personal al manevrantului.
+4) Se vor înscrie: număr proces–verbal/data, semnătura directorului (managerului) şi ştampila agentului economic.
+2)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+Agent economic …………………..
+……………………………………..1)
+RC/CUI……………………………2)
+
+47
+
+48
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+ANEXA P
+STANDARDE
+SR EN 292-1 :1996 -
+
+Securitatea maşinilor. Concepte de bază, principii generale de proiectare.
+Partea 1 : Terminologie de bază, metodologie
+SR EN 292-2 +A1 : 1998 Securitatea maşinilor. Concepte de bază, principii generale de proiectare.
+Partea 2 : Principii şi condiţii tehnice
+SR EN 294 :1997 Securitatea maşinilor. Distanţe de securitate pentru prevenirea pătrunderii
+membrelor superioare în zonele periculoase
+SR EN 349 :1996 Securitatea maşinilor. Distanţe minime pentru prevenirea strivirii părţilor
+corpului uman
+SR EN 418 :1996 Securitatea maşinilor. Echipament pentru oprirea de urgenţă, aspecte
+funcţionale. Principii de proiectare
+SR EN 811 :2000 Securitatea maşinilor. Distanţe de securitate pentru prevenirea pătrunderii
+Membrelor inferioare în zone periculoase
+SR EN 818-1:2000 Lanţuri cu zale scurte pentru ridicat. Reguli de securitate. Partea 1 : Condiţii
+generale de recepţie
+SR EN 818-2 : 2000 Lanţuri cu zale scurte pentru ridicat. Reguli de securitate. Partea 2 : Lanţ de
+toleranţă mijlocie pentru lanţuri de legare. Clasa 8
+SR EN 818-4 : 2000 Lanţuri cu zale scurte pentru ridicat. Reguli de securitate. Partea 4 : Lanţuri
+de legare. Clasa 8
+SR EN 10155 : 1995 Oţeluri de construcţie cu rezistenţă îmbunătăţită la coroziune atmosferică.
+Condiţii tehnice de livrare
+SR EN 50081-1 :1998
+- Compatibilitate electromagnetică. Standard generic de emisie. Partea 1 :
+Mediu rezidenţial, comercial şi uşor industrializat
+SR EN 50082-1 :1999
+- Compatibilitate electromagnetică. Standard generic de imunitate. Partea 1
+: Mediu rezidenţial, comercial şi uşor industrializat
+SR ISO 2262 : 1994 Rodanţe de uz general pentru cabluri de oţel. Condiţii tehnice
+SR ISO 4347 : 2000 Lanţuri de ridicat fără spaţiu liber între eclise, articulaţii şi role de transmisie
+SR ISO 9477 : 1995 Oţeluri turnate de înaltă rezistenţă pentru construcţii mecanice şi construcţii
+metalice de uz general
+SR 1944-1:1999 Instalaţii de ridicat. Cârlige simple forjate, cu tijă. Partea 1: condiţii tehnice
+pentru materiale, execuţie şi livrare.
+SR 1944-2:1999 Instalaţii de ridicat. Cârlige simple forjate, cu tijă. Partea 2: cârlige cu tija
+neprelucrată
+SR 1944-3:1999 Instalaţii de ridicat. Cârlige simple forjate, cu tijă. Partea 3: cârlige cu tija
+filetată
+SR 1944-4:1999 Instalaţii de ridicat. Cârlige simple forjate, cu tijă. Partea 4: filet rotund
+STAS 500/1-89 Oţeluri de uz general pentru construcţii. Condiţii tehnice generale de calitate
+STAS 500/2-80 Oţeluri de uz general pentru construcţii. Mărci
+STAS 500/3-80 Oţeluri de uz general pentru construcţii rezistente la coroziune atmosferică.
+Mărci
+STAS 791-88 Oţeluri aliate pentru tratament termic, destinate construcţiei de maşini.
+Mărci şi condiţii tehnice de calitate
+STAS 880-88 Oţeluri carbon de calitate pentru tratament termic, destinate construcţiei de
+maşini. Mărci şi condiţii tehnice de calitate
+STAS 1528-68 Lanţuri industriale cu zale sudate pentru tracţiune şi ridicat. Lanţuri de uz
+general cu zale sudate. Condiţii generale
+STAS 2577-67 Lanţuri articulate. Tipuri uzuale. Terminologie
+STAS 3208-72 Instalaţii de ridicat. Role pentru cabluri de oţel. Diametre de înfăşurare şi
+profilul şanţului
+STAS 4246-68 Instalaţii de ridicat. Roata de manevră pentru lanţ calibrat cu zale sudate,
+scurte. Dimensiuni
+STAS 7952-87 Lanţuri industriale cu zale sudate pentru tracţiune şi ridicat. Lanţuri de uz
+general cu zale sudate lungi. Parametri principali
+STAS 8277-68 Roţi de lanţ pentru lanţuri calibrate cu zale sudate scurte. Calculul
+elementelor geometrice ale profilului
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+49
+
+ANEXA P(sfârşit)
+STAS 8638-88 STAS 8639-70 STAS 12177-84 STAS 12350-85 STAS 12351-85 STAS 13077/2-91 -
+
+Instalaţii de ridicat. Papuc pentru fixarea capetelor de cablu din oţel
+Instalaţii de ridicat. Placa pentru fixarea axelor
+Instalaţii de ridicat. Cârlige forjate. Controlul în exploatare
+Instalaţii de ridicat. Cleme pentru cabluri din oţel
+Instalaţii de ridicat. Manşoane de presare pentru cabluri
+Oţeluri destinate fabricării de lanţuri industriale. Mărci şi condiţii tehnice de
+calitate
+
+50
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+ANEXA Q
+
+REGISTRU DE EVIDENŢĂ A MECANISMELOR DE RIDICAT
+
+Număr
+înregistrare
+
+Locul funcţionării
+instalaţiei (secţia,
+localitatea, strada,
+nr., sector, judeţ)
+
+Denumirea
+instalaţiei,
+parametrii
+principali
+
+Nr. de fabricaţie
+sau inventar/an
+de fabricaţie
+
+Unitatea
+constructoare
+
+Proces
+verbal/autorizaţie
+funcţionare/data
+autorizării
+
+Scadenţa
+următoarei
+verificări
+
+Obs.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 317bis/12.V.2003
+
+ANEXA R
+CODUL DE SEMNALIZARE
+
+CÂRLIG SUS !
+
+OPREŞTE !
+
+CÂRLIG JOS !
+
+OPREŞTE BRUSC !
+
+51
+
+P R E Þ U R I L E
+
+publicațiilor legislative pentru anul 2003
+Ñ pe suport tradițional Ñ
+Nr.
+crt.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+
+Nr.
+anual
+de apariții
+
+Monitorul Oficial, Partea I, în limba
+Monitorul Oficial, Partea I, în limba
+numere bis*)
+Monitorul Oficial, Partea I, în limba
+Monitorul Oficial, Partea a II-a
+Monitorul Oficial, Partea a III-a
+Monitorul Oficial, Partea a IV-a
+Monitorul Oficial, Partea a VI-a
+Colecția Legislația României
+Colecția de hotãrâri ale Guvernului
+acte normative
+Repertoriul actelor normative
+Decizii ale Curții Constituționale
+Ediții trilingve
+
+românã
+românã,
+maghiarã
+
+și alte
+
+Valoarea
+abonamentului
+anual
+Ñ lei Ñ
+
+Trim. I
+
+Trim. II
+
+Trim. III
+
+710
+50
+
+7.900.000
+1.480.000
+
+1.975.000
+Ñ
+
+2.172.500
+Ñ
+
+2.389.750
+Ñ
+
+2.628.750
+Ñ
+
+250
+300
+700
+2.100
+250
+4
+12
+
+6.585.000
+10.380.000
+2.105.000
+8.900.000
+8.195.000
+2.070.000
+3.450.000
+
+1.646.250
+2.595.000
+526.250
+2.225.000
+2.048.750
+517.500
+862.500
+
+1.646.250
+2.595.000
+526.250
+2.225.000
+2.048.750
+569.250
+948.750
+
+1.646.250
+2.595.000
+526.250
+2.225.000
+2.048.750
+626.150
+1.043.600
+
+1.646.250
+2.595.000
+526.250
+2.225.000
+2.048.750
+688.750
+1.147.950
+
+1
+1
+12
+
+Denumirea publicației
+
+Valoarea
+abonamentului trimestrial
+Ñ lei Ñ
+
+520.000
+390.000
+2.075.000
+
+Ñ
+Ñ
+Ñ
+
+Ñ
+Ñ
+Ñ
+
+Ñ
+Ñ
+Ñ
+
+Ñ
+Ñ
+Ñ
+
+Trim. IV
+
+**) Cu excepția numerelor bis în care se publicã acte cu un volum extins și care intereseazã doar un numãr restrâns de utilizatori.
+
+Publicațiile Regiei Autonome ”Monitorul Oficial,, menționate la punctele 1Ð7 sunt purtãtoare de T.V.A. în cotã de
+19%, iar cele menționate la punctele 8Ð12 sunt scutite de T.V.A.
+Pentru siguranța clienților, abonamentele la publicațiile Regiei Autonome ”Monitorul Oficial,, se pot efectua prin
+urmãtorii difuzori:
+x COMPANIA NAÞIONALÃ ”POȘTA ROMÂNÃ,, Ñ S.A. Ñ prin oficiile sale poștale
+x RODIPET Ñ S.A.
+Ñ prin toate filialele
+x INTERPRESS SPORT Ñ S.R.L.
+Ñ București, str. Hristo Botev nr. 6
+(telefon/fax: 313.85.07; 313.85.08; 313.85.09)
+x PRESS EXPRES Ñ S.R.L.
+Ñ Otopeni, str. Flori de Câmp nr. 9
+(telefon/fax: 772.66.87; 0745.133.712)
+x M.T. PRESS IMPEX Ñ S.R.L.
+Ñ București, bd. Basarabia nr. 256
+(telefon/fax: 255.48.15; 255.48.16)
+x INFO EUROTRADING Ñ S.A.
+Ñ București, Splaiul Independenței nr.202A
+(telefon/fax: 212.73.54)
+x ZIRKON MEDIA Ñ S.R.L.
+Ñ București, bd. Nicolae Grigorescu nr. 29A, bl. N22, ap. 38
+(telefon/fax: 340.31.09)
+x ACTA LEGIS Ñ S.R.L.
+Ñ București, str. Banul Udrea nr. 10,
+(telefon/fax: 411.91.79)
+x CURIER PRESS Ñ S.R.L.
+Ñ Brașov, str. Traian Grozãvescu nr. 7
+(telefon/fax: 0268/47.05.96)
+x ELIDA Ñ S.R.L.
+Ñ Brașov, str. Bisericii Române nr. 92
+(telefon/fax: 0268/47.74.64)
+x MIMPEX Ñ S.R.L.
+Ñ Hunedoara, str. Ion Creangã nr. 2, bl. 2, ap. 1
+(telefon/fax: 0254/71.92.43)
+x CALLIOPE Ñ S.R.L.
+Ñ Ploiești, str. Candiano Popescu nr. 36
+(telefon/fax: 0244/51.40.52, 0244/51.48.01)
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 5069427282 Trezoreria sector 5, București (alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 411.97.54, tel./fax 410.77.36.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 317 bis/12.V.2003 conține 52 de pagini.
+
+Prețul de vânzare 206.300 lei
+
+Acest numãr al Monitorului Oficial al României a fost tipãrit în afara abonamentului.
+
+ISSN 1453Ñ4495
+
+

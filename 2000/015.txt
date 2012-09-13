@@ -1,0 +1,2356 @@
+PARTEA
+
+Anul XII Ñ Nr. 15
+
+I
+
+Marți, 18 ianuarie 2000
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE AUTORITÃÞII NAÞIONALE DE
+REGLEMENTARE ÎN DOMENIUL ENERGIEI
+
+61/1999. Ñ Decizie pentru aprobarea Normelor tehnice
+privind delimitarea zonelor de protecție și de
+siguranțã ale capacitãților energetice ......................
+
+ACTE
+
+ALE
+
+AUTORITÃÞII
+
+REGLEMENTARE
+
+ÎN
+
+1Ð16
+
+NAÞIONALE
+
+DOMENIUL
+
+DE
+
+ENERGIEI
+
+AUTORITATEA NAÞIONALÃ DE REGLEMENTARE ÎN DOMENIUL ENERGIEI
+
+DECIZIE
+pentru aprobarea Normelor tehnice privind delimitarea zonelor de protecție
+și de siguranțã ale capacitãților energetice
+Președintele Autoritãții Naționale de Reglementare în Domeniul Energiei,
+în temeiul art. 5 lit. e) și al art. 9 alin. (4) și (5) din Ordonanța de urgențã a Guvernului nr. 29/1998 privind
+înființarea, organizarea și funcționarea Autoritãții Naționale de Reglementare în Domeniul Energiei Ñ ANRE, al art. 52
+alin. (1) lit. e) și al art. 58 alin. (2) și (5) din Ordonanța de urgențã a Guvernului nr. 63/1998 privind energia electricã și
+termicã,
+emite urmãtoarea decizie:
+Art. 1. Ñ Se aprobã Normele tehnice privind delimitarea
+zonelor de protecție și de siguranțã ale capacitãților energetice, prevãzute în anexa care face parte integrantã din
+prezenta decizie.
+Art. 2. Ñ Prezenta decizie va fi publicatã în Monitorul
+Oficial al României, Partea I.
+
+Art. 3. Ñ Departamentul licențe, autorizații și reglementãri tehnice din cadrul Autoritãții Naționale de
+Reglementare în Domeniul Energiei și agenții economici
+interesați în obținerea autorizațiilor de înființare/
+funcționare vor aduce la îndeplinire prevederile prezentei
+decizii.
+
+Președintele Autoritãții Naționale de Reglementare în Domeniul Energiei,
+Jean Constantinescu
+București, 1 noiembrie 1999.
+Nr. 61.
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 15/18.I.2000
+ANEXÃ
+
+NORME TEHNICE
+privind delimitarea zonelor de protecție și de siguranțã ale capacitãților energetice
+CAPITOLUL I
+Scopul
+
+CAPITOLUL III
+Abrevieri
+
+Art. 1. Ñ Scopul prezentelor norme tehnice este:
+1. sã stabileascã principiile care stau la baza delimitãrii
+zonelor de protecție și de siguranțã ale capacitãților energetice;
+2. sã identifice normele și procedurile tehnice în care
+sunt precizate dimensiunile zonelor de protecție și de siguranțã;
+3. sã propunã dimensiunile zonelor de protecție și de
+siguranțã pentru acele capacitãți energetice pentru care nu
+sunt stabilite distanțe reglementate, echivalente acestor
+zone, în normativele sau în reglementãrile existente.
+Art. 2. Ñ Aplicarea acestor norme tehnice urmãrește sã
+asigure prin proiectare, execuție, exploatare și întreținere
+funcționarea normalã a instalațiilor și construcțiilor energetice de producție, transport și distribuție a energiei electrice
+și termice, astfel încât sã fie asigurate: protecția oamenilor
+și a mediului înconjurãtor, folosirea raționalã a terenurilor,
+respectarea regimului proprietãților, a servituților și
+restricțiilor impuse prin lege vecinãtãților/de vecinãtãți capacitãților energetice.
+
+Art. 7. Ñ Abrevierile utilizate în contextul prezentelor
+norme tehnice au urmãtoarele semnificații:
+Centralã electricã de termoficare (cogenerare)
+CET
+CD
+Centralã electricã echipatã cu motoare Diesel
+CLU
+Combustibil lichid ușor
+CNEÐPC Centralã nuclearoelectricã Ñ parte clasicã. În
+înțelesul prezentelor norme tehnice, reprezintã
+acele obiecte tehnologice clasice (nenucleare)
+aparținând centralei nuclearoelectrice, pentru
+care zonele de protecție și de siguranțã
+depãșesc limita zonei de excludere stabilite în
+jurul fiecãrui reactor nuclear, în conformitate
+cu normele de securitate nuclearã aprobate
+de Comisia Naționalã pentru Controlul
+Activitãților Nucleare.
+CT
+Centralã termicã
+CTE
+Centralã termoelectricã
+CTG
+Centralã electricã echipatã cu turbine cu gaze
+CCGA
+Centralã electricã cu ciclu combinat gaze-abur
+CHE
+Centralã hidroelectricã
+CHEAP
+Centralã hidroelectricã cu acumulare prin
+pompare
+CHEMP Centralã hidroelectricã de micã putere
+MHC
+Microhidrocentralã
+MW
+Megawatt
+PE
+Cod de norme tehnice în domeniul energiei
+P.S.I.
+Prevenirea și stingerea incendiilor
+
+CAPITOLUL II
+Domeniul de aplicare
+Art. 3. Ñ Prezentele norme tehnice se integreazã în
+ansamblul reglementãrilor pe baza cãrora se emit autorizații
+de înființare și funcționare de cãtre autoritatea competentã.
+Art. 4. Ñ Solicitanții unei autorizații de înființare și de
+funcționare pentru capacitãți noi și/sau existente se vor asigura ca în documentația anexatã la cererea de acordare a
+acestor autorizații sã fie evidențiate și stabilite zonele de
+protecție și de siguranțã ale capacitãților energetice definite
+conform acestor norme tehnice.
+Art. 5. Ñ În înțelesul prezentelor norme tehnice prin
+capacitãți energetice se înțelege:
+1. capacitãți de producere a energiei electrice și termice;
+2. instalații de transport și distribuție a energiei electrice
+cu tensiuni peste 1 kV;
+3. instalații de transport și distribuție a energiei termice.
+Art. 6. Ñ Normele tehnice nu se aplicã la:
+1. centrale nuclearoelectrice, pentru care zonarea se
+face în conformitate cu normele de securitate nuclearã
+aprobate de Comisia Naționalã pentru Controlul Activitãților
+Nucleare, cu excepția acelor obiecte tehnologice clasice
+aparținând centralelor nuclearoelectrice pentru care zonele
+de protecție și de siguranțã depãșesc limita zonei de excludere stabilite în jurul fiecãrui reactor nuclear, potrivit normelor menționate anterior;
+2. acumulatori, grupuri mobile, instalații amplasate pe
+vehicule de orice fel;
+3. surse staționare de energie electricã în curent continuu;
+4. instalații energetice din marea teritorialã;
+5. sursele de încãlzire a imobilelor de locuit și similare,
+amplasate în interiorul acestora, precum și la sursele cu o
+putere sub 250 kW;
+6. instalațiile electrice cu caracter special, destinate
+tracțiunii electrice, industriei miniere, electrochimiei etc.,
+supuse unor norme specifice.
+
+CAPITOLUL IV
+Acte normative de referințã
+Art. 8. Ñ Aplicarea dispozițiilor prezentelor norme tehnice se face prin coroborarea acestora cu dispozițiile
+urmãtoarelor acte normative:
+1. Ordonanța de urgențã a Guvernului nr. 29/1998 privind înființarea, organizarea și funcționarea Autoritãții
+Naționale de Reglementare în Domeniul Energiei Ñ ANRE;
+2. Ordonanța de urgențã a Guvernului nr. 63/1998 privind energia electricã și termicã;
+3. Hotãrârea Guvernului nr. 567/1999 privind aprobarea
+Regulamentului pentru acordarea licențelor și autorizațiilor
+în sectorul energiei electrice și termice;
+4. Legea protecției mediului nr. 137/1995;
+5. Legea apelor nr. 107/1996;
+6. Hotãrârea Guvernului nr. 101/1997 pentru aprobarea
+Normelor speciale privind caracterul și mãrimea zonelor de
+protecție sanitarã;
+7. Legea cadastrului și a publicitãții imobiliare nr. 7/1996;
+8. Legea nr. 26/1996 Ñ Codul silvic;
+9. Hotãrârea Guvernului nr. 525/1996 pentru aprobarea
+Regulamentului general de urbanism;
+10. Legea nr. 213/1998 privind proprietatea publicã și
+regimul juridic al acesteia;
+11. Legea nr. 50/1991 privind autorizarea executãrii construcțiilor și unele mãsuri pentru realizarea locuințelor;
+12 Ordonanța Guvernului nr. 60/1997 privind apãrarea
+împotriva incendiilor, aprobatã și modificatã prin Legea
+nr. 212/1997;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 15/18.I.2000
+13. Legea nr. 33/1994 privind exproprierea pentru cauzã
+de utilitate publicã.
+Art. 9. Ñ Legislația și reglementãrile tehnice specifice
+domeniului energetic, precum și cele specifice altor domenii
+de activitate Ñ cãi ferate, gospodãrirea apelor Ñ, aplicabile anumitor categorii de capacitãți energetice, sunt
+cuprinse în anexa nr. 1.
+CAPITOLUL V
+Delimitarea zonelor de protecție și de siguranțã
+ale capacitãților energetice
+Art. 10. Ñ În prezentele norme tehnice sunt delimitate
+zonele de protecție și de siguranțã pentru urmãtoarele
+tipuri de capacitãți energetice:
+A. Capacitãți de producere a energiei electrice și termice
+
+A.1. Centrale termoelectrice (CTE), centrale electrice de
+termoficare (CET), centrale termice echipate cu cazane de
+abur și apã fierbinte (CT), centrale electrice echipate cu
+motoare Diesel (CD), centrale electrice echipate cu turbine
+cu gaze (CTG), centrale electrice cu ciclu combinat aburgaze (CCGA)
+A.1.1. Construcții, instalații și amenajãri din incinta împrejmuitã a
+centralei:
+
+A.1.1.1. Clãdirea principalã
+A.1.1.2. Instalații electrice cu tensiuni peste 1 kV: stație
+electricã de transformare și conexiuni, posturi de transformare, puncte de alimentare
+A.1.1.3. Clãdiri tehnologice, de producție și depozitare:
+stație de tratare chimicã a apei, stații de pompare, stații de
+concasare cãrbune, turnuri pentru benzi transportoare, stații
+compresoare, ateliere de reparații electrice și mecanice,
+laboratoare, depozite și magazii, depozite de hidrogen și
+dioxid de carbon, de oxigen și acetilenã
+A.1.1.4. Depozite de combustibili lichizi și solizi, fluide
+combustibile: depozit de pãcurã în rezervoare, depozit de
+motorinã în rezervoare, depozit de ulei în rezervoare sau
+butoaie, depozit de combustibil lichid ușor (CLU), depozit
+de butan în butelii, depozit de cãrbune
+A.1.1.5. Construcții, instalații și rețele de gaze naturale:
+stație de reglare gaze, estacade pentru conducte de gaze,
+canale pentru conducte de gaze
+A.1.1.6. Drumuri de incintã de acces tehnologic și P.S.I.
+A.1.1.7. Cãi ferate industriale interioare pentru transport
+combustibil, materiale, chimicale și echipamente, cãi de
+rulare pentru transformatoare de putere, cãi de rulare pentru macarale portal
+A.1.1.8. Rețele de conducte tehnologice: estacade pentru conducte de apã tratatã, aer comprimat, hidrogen,
+cabluri electrice, canale subterane pentru conducte de apã
+brutã, de rãcire, industrialã, potabilã, conducte de alimentare cu combustibil lichid, canalizãri diferite, canale și
+tunele pentru cabluri electrice
+A.1.2. Construcții, instalații și amenajãri în afara incintei împrejmuite a centralei:
+
+A.1.2.1. Amenajãri hidrotehnice: regularizãri cursuri de
+apã, baraje de derivație, casã site și grãtare, canale deschise de aducțiune și evacuare, conducte subterane pentru
+apa industrialã, puțuri de captare a apei potabile, conducte
+subterane pentru apã potabilã și ape menajere, tunele de
+evacuare a apei calde
+A.1.2.2. Stații de captare, pompare, tratare a apei, tratare a apei menajere
+A.1.2.3. Depozite de zgurã și cenușã:
+Ñ dig de vale cu baraj și diguri de compartimentare,
+stație de pompe de recirculare și estacade de conducte
+pentru hidroamestec;
+
+3
+
+Ñ dig de șes cu dig de contur și diguri de compartimentare, stație de pompe de recirculare și estacade de
+conducte pentru hidroamestec
+A.1.2.4. Instalații de cântãrire/dezghețare a combustibilului
+A.1.2.5. Rețele tehnologice (telecomunicații, linii electrice
+aeriene sau în cablu etc.)
+A.1.2.6. Drumuri industriale: drumuri de acces la incinta
+propriu-zisã, drumuri de exploatare la lucrãri exterioare
+incintei
+A.1.2.7. Cãi ferate industriale: cãi ferate în antestația
+tehnicã a centralei, cãi ferate de racord la incintã, cãi
+ferate pentru instalații speciale: cântãrire vagoane din mers,
+tunele de dezgheț, culbutori de descãrcare
+A.2. Centrale nuclearoelectrice Ñ parte clasicã (CNEÐ
+PC) pentru obiectele: amenajãri hidrotehnice, stații de captare, pompare, tratare a apei și de tratare a apei menajere, drumuri industriale, cãi ferate industriale, racorduri de
+telecomunicații și alimentare cu energie electricã, aeriene
+sau în cablu, alte obiecte tehnologice clasice (nenucleare)
+aparținând centralei nuclearoelectrice, pentru care zonele
+de protecție și de siguranțã depãșesc limita zonei de
+excludere stabilite în jurul fiecãrui reactor nuclear, conform
+normelor de securitate nuclearã aprobate de Comisia
+Naționalã pentru Controlul Activitãților Nucleare; în ultima
+categorie pot intra și obiecte de natura celor enumerate la
+lit. B și C
+A.3. Amenajãri hidroenergetice (centrale hidroelectrice Ñ
+CHE, centrale hidroelectrice cu acumulare prin pompare Ñ
+CHEAP)
+A.3.1. Clãdirea centralei cu uvraje anexe
+
+A.3.1.1. Clãdirea centralei
+A.3.1.2. Instalații electrice cu tensiuni peste 1 kV: stație
+electricã de transformare și conexiuni, posturi de transformare, puncte de alimentare
+A.3.1.3. Clãdiri tehnologice, de producție și depozitare:
+ateliere de reparații electrice și mecanice, laboratoare,
+depozite și magazii, depozit de oxigen și acetilenã, stații
+de compresoare, stații de pompare epuizmente, incendii și
+apã potabilã, centrale termice
+A.3.1.4. Depozite de combustibili lichizi și solizi pentru
+centrale termice, depozit de ulei în rezervoare sau butoaie
+A.3.1.5. Drumuri de incintã de acces tehnologic și P.S.I.
+A.3.1.6. Cãi ferate industriale pentru transport materiale
+și echipamente, cãi de rulare pentru macarale portal
+A.3.1.7. Rețele de conducte tehnologice, conducte de
+apã de rãcire, aer comprimat, cabluri electrice, canale subterane pentru conducte de apã de rãcire, potabilã și pentru
+stingerea incendiilor, canale și tunele pentru cabluri electrice, galerii de acces
+A.3.2. Construcții, instalații și amenajãri hidrotehnice în cadrul
+amenajãrii hidroenergetice
+
+A.3.2.0. Chiuvetã lac
+A.3.2.1. Baraj cu echipamente aferente, inclusiv evacuatori
+A.3.2.2. Prizã de apã (turnul vanelor, vane, grãtare,
+instalație de deviere plutitori, instalații de curãțat grãtare,
+instalații de acționare)
+A.3.2.3. Golire de fund, casã vane, acces
+A.3.2.4. Galeria (canalul) de aducțiune (aducțiune, traversãri etc.)
+A.3.2.5. Castel de echilibru și casã vane
+A.3.2.6. Aducțiuni secundare (galerii, canale, traversãri)
+A.3.2.7. Captare (prizã tirolezã): lac, grãtare, galerie
+colectoare, organ de reglaj, denisipator, stavilã spãlare)
+A.3.2.8. Galerie (canal) fugã
+A.3.2.9. Diguri și contracanale
+A.3.2.10. Conductã forțatã și galerii de acces la conductã
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 15/18.I.2000
+
+A.3.2.11. Ecluzã, avanport, port amonte, port aval
+A.3.3. Alte amenajãri în afara incintei
+
+A.3.3.1. Drumuri de acces la obiectivele amenajãrii
+hidroenergetice
+A.3.3.2. Cãi ferate industriale
+A.3.3.3. Depozite de echipamente. Instalații de telecomandã, telecomunicații și telemãsurã în afara incintei (în
+cablu și aeriene)
+A.3.3.4. Instalații de avertizare și alarmare în caz de
+accidente la baraje
+A.3.3.5. Instalații de semnalizare și dirijare navigație
+A.3.3.6. Instalații UCC în afara construcțiilor hidrotehnice
+(tubații piezometrice, foraje hidroenergetice de observație,
+foraje de drenaj, dispozitive hidrometrice, borne și pilaștri
+de mãsurã etc.)
+A.3.3.7. Construcții amenajare versanți
+A.3.3.8. Construcții regularizare albie
+B. Instalații de transport și distribuție a energiei electrice:
+
+B.1. Rețele electrice de înaltã tensiune: stații electrice
+de înaltã tensiune, linii electrice aeriene/în cablu de înaltã
+tensiune
+B.2. Rețele electrice de medie tensiune: posturi de
+transformare de medie tensiune, linii electrice aeriene/în
+cablu subteran de medie tensiune
+C. Instalații de transport și distribuție a energiei termice:
+
+C.1. Rețele termice subterane și supraterane (estacade
+de conducte, canale subterane, platforme de vane, stații de
+pompe pentru termoficare)
+C.2. Puncte termice.
+Art. 11. Ñ La delimitarea zonelor de protecție și de
+siguranțã ale capacitãților energetice se vor lua în considerare complexul de factori naturali, economici și sociali ai
+zonei și caracteristicile acestora, astfel încât coexistența
+ansamblului sã asigure funcționarea normalã a capacitãților
+energetice, evitarea punerii în pericol a persoanelor, bunurilor și a mediului.
+Art. 12. Ñ Prin delimitarea zonelor de protecție ale
+capacitãților energetice se asigurã:
+1. exploatarea corespunzãtoare a capacitãților energetice;
+2. accesul în cazul activitãților de întreținere, revizii,
+reparații;
+3. evitarea expunerii capacitãților energetice la:
+a) riscuri tehnologice (RT) determinate de procesele
+industriale sau agricole care prezintã pericol de incendiu,
+explozii, radiații și de poluare a aerului, apei și solului;
+b) riscuri rezultate ca urmare a unor activitãți umane
+(RA): apropieri periculoase, alunecãri de teren, surpãri
+rezultate din defrișãri;
+c) riscuri naturale (RN), cum ar fi: activitãți seismice,
+nisipuri mișcãtoare, terenuri mlãștinoase, scurgeri de torenți,
+avalanșe de zãpadã, dislocãri de stânci, zone inundabile,
+ape subterane.
+Art. 13. Ñ Prin delimitarea zonelor de siguranțã ale
+capacitãților energetice se protejeazã vecinãtãțile acestora
+la urmãtoarele riscuri (RS):
+1. explozii și/sau incendii la componente ale capacitãților
+energetice;
+2. emisii de gaze, lichide, vapori, pulberi, aerosoli, concentrații microbiene sau bacteriene;
+3. riscul prin electrocutare;
+4. radiații, electricitate staticã, temperaturi periculoase;
+5. ruperi, prãbușiri și proiectãri la distanțã ale unor pãrți
+de construcții și instalații;
+6. rãspândirea reziduurilor nocive (cenușã, ape poluante,
+gaze de ardere) în cazul depãșirii accidentale a normelor
+în vigoare;
+
+7. zgomot peste limitele admise în cazul depãșirii accidentale a normelor în vigoare;
+8. accidente sau avarii la construcțiile hidrotehnice.
+Art. 14. Ñ Delimitarea zonelor de protecție și de siguranțã ale capacitãților energetice se face avându-se în
+vedere urmãtoarele elemente:
+1. caracteristicile tehnice și constructive specifice fiecãrui
+obiectiv energetic sau componentelor acestuia, stabilite prin
+proiecte, aprobãri, acorduri și avize;
+2. gradul de rezistențã la foc a construcțiilor, instalațiilor
+și depozitelor, definit conform P 118-99 Ñ Normativ de
+siguranțã la foc a construcțiilor;
+3. categoria de pericol de incendiu a construcțiilor,
+instalațiilor și depozitelor, definitã conform P 118-99 Ñ
+Normativ de siguranțã la foc a construcțiilor;
+4. clasele de periculozitate a materialelor și substanțelor
+depozitate, definite conform P 118-99 Ñ Normativ de siguranțã la foc a construcțiilor;
+5. zonarea mediilor cu pericol de explozie, conform
+PE 009-93 Ñ Norme de prevenire, stingere și dotare
+împotriva incendiilor pentru ramura energiei electrice și termice și NP 004-96 Ñ Norme tehnice privind proiectarea,
+execuția, exploatarea și postutilizarea stațiilor de alimentare
+cu carburanți Ñ benzinãrii;
+6. condiții ce impun mãsuri de protecție sanitarã, de
+protecție a muncii și amplasãri speciale în raport cu
+vecinãtãțile.
+Art. 15. Ñ Actele normative care stabilesc dimensiunile
+distanțelor minime de protecție asimilabile zonelor de protecție și de siguranțã pentru capacitãți energetice de producere, transport și distribuție a energiei electrice și termice,
+luând în considerare varianta tehnicã concretã; distanțe sau
+mãsuri, în cazul în care condițiile permit acest lucru; date
+de fundamentare, precum: studii de impact, studii de trafic,
+alte documentații pentru acordurile, avizele necesare în
+vederea obținerii certificatului de urbanism și a autorizației
+de construire, utile în definirea zonelor de protecție și de
+siguranțã, sunt precizate în anexa nr. 2.
+Art. 16. Ñ Zonele de protecție și de siguranțã pentru
+capacitãți energetice pentru care nu existã reglementãri
+anterioare echivalente și pentru care nu se întrevede întocmirea unor reglementãri distincte sunt:
+1. Pentru A.1.1.8 și C.1:
+a) zonã de protecție Ñ suprafața de sub conducte și
+suporturi, corespunzãtoare proiecției acesteia în plan orizontal;
+b) zonã de siguranțã Ñ în limita a 10 m în exteriorul
+zonei de protecție.
+2. Pentru A.3.1:
+a) mãrimea zonei de protecție depinde de puterea electricã instalatã, astfel:
+putere instalatã (MW)
+lãțimea zonei de protecție (m)
+
+< 3,2
+5
+
+3,2Ñ20
+15
+
+> 20
+20;
+
+b) zona de protecție se mãsoarã de la limita zonei de
+construcție.
+Art. 17. Ñ Marcarea zonelor de protecție și de siguranțã prin împrejmuiri, panouri și semne avertizoare, borne
+de hotar etc. se va face în conformitate cu legislația și cu
+reglementãrile tehnice în vigoare.
+Art. 18. Ñ La tipurile de capacitãți energetice la care
+este posibil zonele de protecție și de siguranțã vor fi delimitate de împrejmuirea acestora, cum ar fi la:
+1. incintele centralelor electrice de orice tip;
+2. incintele stațiilor electrice de transformare și de
+distribuție;
+3. incintele nodurilor hidrotehnice;
+
+5
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 15/18.I.2000
+4. incintele stațiilor de captare și tratare a apei, ale
+puțurilor de apã potabilã și ale stațiilor de pompare;
+5. incintele depozitelor de combustibili, echipamente și
+materiale;
+6. incintele instalațiilor cu grad mare de periculozitate
+(stație reglare gaze, stație pentru carburanți etc.);
+7. incintele instalațiilor care ar putea fi deteriorate (vane,
+ventile, contoare);
+8. incintele construcțiilor sociale și administrative;
+9. incintele punctelor termice;
+10. incintele zonelor de organizare de șantier.
+Art. 19. Ñ La tipurile de capacitãți energetice la care
+nu este posibilã constituirea zonelor de protecție și de
+siguranțã prin împrejmuire, acestea se recunosc a fi perimetrul sau fâșia de teren delimitatã conform normelor tehnice specifice. În aceastã categorie se includ:
+1. lacuri de acumulare și barajele aferente;
+2. conducte și canale pentru aducțiune apã;
+3. depozite de zgurã și cenușã;
+4. rețele tehnologice de orice tip, exterioare incintelor.
+Marcarea acestor zone se va face în conformitate cu
+prevederile art. 17.
+
+CAPITOLUL VI
+Dispoziții finale și tranzitorii
+Art. 20. Ñ Normele și reglementãrile tehnice care definesc mãsurile/distanțele minime de protecție care, prin scopul lor, pot fi asimilate zonelor de protecție și de siguranțã
+ale capacitãților energetice, prezentate în prezentele norme
+tehnice, rãmân valabile pânã la actualizarea acestora de
+cãtre autoritatea competentã.
+Art. 21. Ñ Actualizarea normelor și reglementãrilor tehnice se realizeazã pe baza unui program elaborat de cãtre
+autoritatea competentã.
+Art. 22. Ñ În cazul apariției unor tehnologii noi de producere, transport și distribuție pentru care anexa nr. 2 nu
+prevede nici o normã tehnicã, delimitarea zonelor de protecție și de siguranțã ale capacitãților energetice se va
+face în conformitate cu normele tehnice aprobate de autoritatea competentã la propunerea operatorilor din sectorul
+energiei electrice și termice, deținãtori de licențã.
+Art. 23. Ñ Anexele nr. 1 și 2 fac parte integrantã din
+prezentele norme tehnice.
+
+ANEXA Nr. 1
+la normele tehnice
+
+Legislația și reglementãrile tehnice specifice domeniului energetic,
+precum și altor domenii de activitate, aplicabile anumitor categorii de capacitãți energetice
+Coduri de norme tehnice și instrucțiuni de proiectare
+Nr.
+crt.
+
+Indicativul
+
+Denumirea
+
+1
+
+2
+
+3
+
+1.
+
+PE 006/81
+
+Instrucțiuni generale de protecție a muncii pentru unitãțile M.E.E.
+
+2.
+
+PE 009/93
+
+Norme de prevenire, stingere și dotare împotriva incendiilor, pentru producerea, transportul și
+distribuția energiei electrice și termice
+
+3.
+
+PE 022-1/86
+
+Prescripții generale de proiectare a centralelor termoelectrice și a rețelelor de termoficare
+
+4.
+
+PE 022-2/89
+
+Prescripții generale de proiectare a amenajãrilor hidroenergetice
+
+5.
+
+PE 022-3/87
+
+Prescripții generale de proiectare a rețelelor electrice (republicate în 1993)
+
+6.
+
+PE 026/92
+
+Normativ pentru proiectarea sistemului energetic național
+
+7.
+
+PE 100/92
+
+Normativ pentru protecția antiseismicã a construcțiilor de locuințe social-culturale, agrozootehnice
+și industriale
+
+8.
+
+PE 101/85
+
+Normativ pentru construcția instalațiilor electrice de conexiuni și transformare cu tensiuni peste
+1 kV (republicat în 1993)
+
+9.
+
+PE 101 A/85
+
+Instrucțiuni privind stabilirea distanțelor normate de amplasare a instalațiilor electrice cu tensiunea
+peste 1 kV, în raport cu alte construcții (republicate în 1993)
+
+10.
+
+PE 104/93
+
+Normativ pentru construcția liniilor aeriene de energie electricã cu tensiuni peste 1.000 V
+
+11.
+
+PE 107/95
+
+Normativ pentru proiectarea și execuția rețelelor de cabluri electrice
+
+12.
+
+PE 111-1-92
+
+Instrucțiuni pentru proiectarea stațiilor de conexiuni și transformare
+
+6
+1
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 15/18.I.2000
+2
+
+3
+
+13.
+
+PE 111-10/78
+
+Instrucțiuni pentru proiectarea stațiilor de conexiuni și transformare. Stații electrice de distribuție
+de 6Ñ20 kV
+
+14.
+
+PE 122/82
+
+Instrucțiuni privind reglementarea coexistenței liniilor electrice aeriene cu tensiuni peste 1 kV cu
+sistemele de îmbunãtãțiri funciare
+
+15.
+
+PE 123/78
+
+Normativ privind sistematizarea, amplasarea, construirea și repararea liniilor electrice care trec
+prin pãduri și prin terenuri agricole
+
+16.
+
+PE 124/95
+
+Normativ pentru stabilirea soluțiilor de alimentare cu energie electricã a consumatorilor industriali
+și urbani
+
+17.
+
+PE 125/89
+
+Instrucțiuni privind coordonarea coexistenței instalațiilor electrice de 1..750 kV cu liniile de telecomunicații
+
+18.
+
+PE 132/95
+
+Normativ pentru proiectarea rețelelor electrice de distribuție publicã
+
+19.
+
+PE 150/86
+
+Regulament privind asigurarea electrosecuritãții la exploatarea instalațiilor de 750 kV
+
+20.
+
+PE 151/86
+
+Instrucțiuni tehnice departamentale provizorii pentru proiectarea instalațiilor electrice de 750 kV
+
+21.
+
+PE 155/92
+
+Normativ privind proiectarea și executarea branșamentelor electrice pentru clãdiri civile
+
+22.
+
+PE 201/85
+
+Normativ pentru construcția instalațiilor electrice de conexiune și transfer cu tensiune peste 1 kV
+
+23.
+
+PE 205/81
+
+Norme de protecție a muncii pentru partea mecanicã a centralelor electrice
+
+24.
+
+PE 206/81
+
+Instrucțiuni de proiectare și execuție a gospodãriilor de ulei din centralele electrice
+
+25.
+
+PE 207/80
+
+Normativ de proiectare și execuție a rețelelor de termoficare
+
+26.
+
+PE 209/97
+
+Normativ pentru proiectarea instalațiilor de preparare și livrare a cãldurii sub formã de apã fierbinte sau abur din termocentrale
+
+27.
+
+PE 210/72
+
+Regulament de exploatare a instalațiilor de termoficare din centrale electrice de termoficare
+
+28.
+
+PE 212/87
+
+Normativ privind alimentarea cu energie termicã (abur și apã fierbinte) a consumatorilor industriali, agricoli și urbani
+
+29.
+
+PE 223/75
+
+Instrucțiuni-cadru privind proiectarea și exploatarea depozitelor de zgurã și cenușã cu depunere
+hidraulicã
+
+30.
+
+PE 224/89
+
+Normativ privind proiectarea instalațiilor termomecanice ale termocentralelor
+
+31.
+
+PE 302/74
+
+Normativ pentru exploatarea tehnicã a construcțiilor hidrotehnice și a echipamentelor hidromecanice ale centralelor electrice
+
+32.
+
+PE 304/89
+
+Norme specifice de protecție împotriva incendiilor la proiectarea amenajãrilor hidroenergetice
+
+33.
+
+PE 306/90
+
+Normativ-cadru pentru proiectarea microhidrocentralelor și a centralelor hidroelectrice de micã
+putere
+
+34.
+
+PE 308/87
+
+Prescripții tehnice departamentale pentru proiectarea, montarea și verificarea instalațiilor și mecanismelor pentru ridicarea batardourilor, stavilelor și vanelor instalate în obiective hidroenergetice
+sau hidrotehnice
+
+35.
+
+PE 703/1-81
+
+Norme de protecție a muncii la lucrãrile de montaje ale centralelor electrice (republicate în 1994)
+
+36.
+
+PE 703/2-71
+
+Norme de protecție a muncii la lucrãri de construcții speciale termoenergetice
+
+37.
+
+PE 727/82
+
+Prescripții tehnice departamentale pentru proiectarea, montarea, exploatarea și verificarea
+instalațiilor de ridicat pe plan înclinat, necesare executãrii lucrãrilor amenajãrilor hidroenergetice
+
+38.
+
+PE 733/78
+
+Prescripții tehnice departamentale pentru proiectarea, construirea, montarea și revizuirea
+instalațiilor de ridicat pe puț, necesare executãrii lucrãrilor de construcții-montaj de amenajãri
+hidroenergetice
+
+39.
+
+PE 737/92
+
+Prescripție energeticã pentru proiectarea construcțiilor aferente CTE, CET și CT la acțiuni
+seismice
+
+40.
+
+PE 740/80
+
+Normativ-cadru pentru execuția lucrãrilor hidrotehnice
+
+41.
+
+E-Ip 38/89
+
+Îndreptar privind folosirea suprafețelor de teren necesare pentru termocentrale, rețele electrice și
+rețele de termoficare
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 15/18.I.2000
+1
+
+2
+
+7
+
+3
+
+42.
+
+E-Ip 53-87
+
+Condiții tehnice și prevederi de proiectare, execuție și exploatare pentru montarea și amenajãrile
+constructive necesare transformatoarelor de putere din stațiile de 110Ñ400 kV
+
+43.
+
+E-Ip 65-91
+
+Îndreptar de proiectare a stațiilor electrice. Alegerea amplasamentelor și a planului general pentru stațiile electrice de 110Ñ400 kV
+
+44.
+
+LI-Ip 20-82
+
+Instrucțiuni de proiectare pentru calculul influențelor reciproce între circuitele unei linii electrice
+aeriene de medie tensiune sau linii electrice aeriene de 110 kV cu mai multe circuite
+
+45.
+
+LI-Ip 22-78
+
+Instrucțiuni de proiectare privind executarea trecerilor din liniile electrice aeriene de 110 kV în linii
+electrice subterane de 110 kV
+
+46.
+
+LI-Ip 38/89
+
+Îndreptar pentru proiectarea liniilor electrice aeriene de înaltã tensiune. Apropieri și traversãri ale
+liniilor electrice aeriene de 110Ñ400 kV fațã de alte instalații
+
+47.
+
+LI-Ip 54-88
+
+Îndrumar de proiectare pentru linii electrice aeriene de 110 kV. Derivații linii electrice aeriene de
+110 kV din liniile existente
+
+48.
+
+H-Ip 19-84
+
+Îndreptar privind folosirea suprafețelor de teren necesare amenajãrilor hidroenergetice
+
+49.
+
+H-Ip 21-92
+
+Prescripții de proiectare a galeriilor hidrotehnice
+
+50.
+
+H-Ip 22-93
+
+Îndreptar de proiectare privind impactul asupra mediului la construcțiile hidroenergetice
+
+51.
+
+RE-Ip 30/90
+
+Îndreptar de proiectare și execuție a instalațiilor de legare la pãmânt
+
+52.
+
+RE-Ip 41/92
+
+Instrucțiuni de proiectare și exploatare privind protecția împotriva influențelor datorate apropierilor
+dintre liniile de energie electricã
+
+Norme tehnice elaborate de alte ministere sau unitãți centrale
+53.
+
+P 118-99
+
+Norme tehnice de proiectare și realizare a construcțiilor pentru protecția la acțiunea focului
+
+54.
+
+P 100/92
+
+Normativ pentru protecția antiseismicã a construcțiilor de locuințe social-culturale, agrozootehnice
+și industriale
+
+55.
+
+I6-98
+
+Normativ pentru proiectarea și realizarea rețelelor și instalațiilor de utilizare a gazelor naturale
+
+56.
+
+C79/80
+
+Normativ pentru proiectarea drumurilor industriale
+
+57.
+
+M 34/80
+
+Norme tehnice privind zonele de siguranțã ale terenurilor aeronautice, elaborate de
+Departamentul Aviației Civile
+
+58.
+
+Ñ
+
+Recomandãri speciale privind aplicarea dispozițiilor fundamentale pentru navigația pe Dunãre.
+Comisia Dunãrii, Budapesta, 1991
+
+59.
+
+Ñ
+
+Instrucțiuni asupra modului de instalare a semnalelor de balizaj pe Dunãre. Comisia Dunãrii,
+Budapesta, 1991
+
+60.
+
+Ñ
+
+Norme specifice de protecție a muncii pentru transportul și distribuția energiei electrice, emise de
+Ministerul Muncii și Protecției Sociale, 1997
+
+Standarde
+61.
+
+297/1-88,
+
+Indicatoare de securitate
+
+297/2-80
+62.
+
+832/79
+
+Influențe ale instalațiilor electrice de înaltã tensiune asupra liniilor de telecomunicații
+
+63.
+
+6290/80
+
+Încrucișãri între linii de energie electricã și linii de telecomunicații
+
+64.
+
+8074/76
+
+Încrucișãri între linii de contact pentru tramvaie și troleibuze și liniile electrice aeriene
+
+65.
+
+2612-87
+
+Protecția împotriva electrocutãrilor. Limite admise
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 15/18.I.2000
+
+1
+
+2
+
+3
+
+66.
+
+4273/83
+
+Construcții hidrotehnice. Încadrarea în clase de importanțã
+
+67.
+
+8591/1-91
+
+Amplasarea în localitãți a rețelelor utilitare subterane, executate în sãpãturã
+
+68.
+
+9570/1-89
+
+Marcarea și reperarea rețelelor de conducte și cabluri în localitãți
+
+69.
+
+11100/1-93
+
+Zonare seismicã. Macrozonarea teritoriului României
+
+70.
+
+4068/1-82
+
+Debite și volume de apã. Determinarea debitelor și volumelor maxime ale cursurilor de apã
+
+71.
+
+4068/2-82
+
+Debite și volume maxime de apã. Probabilitãțile teoretice ale debitelor maxime în condiții normale
+și speciale de exploatare
+
+72.
+
+9470/73
+
+Hidrotehnicã. Ploi maxime, intensitãți, durate, frecvențe
+
+Legislație
+
+73.
+
+Ñ
+
+Decretul nr. 237/1978 pentru stabilirea normativelor privind sistematizarea, amplasarea, construirea și repararea liniilor electrice care trec prin pãduri și terenuri agricole
+
+74.
+
+Ñ
+
+Decretul nr. 95/1979 privind condițiile de stabilire a terenurilor de aeronauticã, a zonelor de siguranțã și a servituților aeronautice
+
+75.
+
+Ñ
+
+Ordinul ministrului mediului nr. 298/1991 privind dreptul de acces la cursuri de apã și lacuri
+
+76.
+
+Ñ
+
+Ordonanța Guvernului nr. 47/1994 privind apãrarea împotriva dezastrelor
+
+77.
+
+Ñ
+
+Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor, aprobatã și modificatã prin Legea
+nr. 82/1998 și republicatã
+
+78.
+
+Ñ
+
+Ordinul ministrului transporturilor nr. 571/1997 pentru aprobarea Normelor tehnice privind proiectarea și amplasarea construcțiilor, instalațiilor și panourilor publicitare în zona drumurilor, pe
+poduri, pasaje, viaducte și tuneluri rutiere
+
+79.
+
+Ñ
+
+Ordinul ministrului transporturilor nr. 44/1998 pentru aprobarea Normelor privind protecția mediului ca urmare a impactului drumÑmediu înconjurãtor
+
+80.
+
+Ñ
+
+Ordonanța de urgențã a Guvernului nr. 12/1998 privind transportul pe cãile ferate române și
+reorganizarea Societãții Naționale a Cãilor Ferate Române
+
+81.
+
+Ñ
+
+Legea protecției muncii nr. 90/1996
+
+82.
+
+Ñ
+
+Ordinul ministrului apelor, pãdurilor și protecției mediului nr. 125/1996 pentru aprobarea Procedurii
+de reglementare a activitãților economice și sociale cu impact asupra mediului înconjurãtor
+
+83.
+
+Ñ
+
+Ordinul ministrului apelor, pãdurilor și protecției mediului nr. 184/1997 pentru aprobarea Procedurii
+de realizare a bilanțurilor de mediu
+
+84.
+
+Ñ
+
+Legea nr. 219/1998 privind regimul concesiunilor
+
+85.
+
+Ñ
+
+Legea nr. 10/1995 privind calitatea în construcții
+
+86.
+
+Ñ
+
+Legea fondului funciar nr. 18/1991
+
+87.
+
+Ñ
+
+Legea nr. 54/1998 privind circulația juridicã a terenurilor
+
+88.
+
+Ñ
+
+Ordonanța Guvernului nr. 96/1998 privind reglementarea regimului silvic și administrarea fondului
+forestier național
+
+89.
+
+Ñ
+
+Ordinul comun al ministrului industriei și comerțului și al președintelui Oficiului Național de
+Cadastru, Geodezie și Cartografie nr. 23/93/1999 pentru aprobarea metodologiei privind executarea lucrãrilor de cadastru energetic
+
+90.
+
+Ñ
+
+Ordinul președintelui Oficiului Național de Cadastru, Geodezie și Cartografie nr. 347/1998 pentru
+aprobarea Regulamentului privind avizarea lucrãrilor de geodezie, cartografie, cadastru, fotogrammetrie și teledetecție
+
+91.
+
+Ñ
+
+Legea protecției civile nr. 106/1996
+
+9
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 15/18.I.2000
+1
+
+2
+
+3
+
+92.
+
+Ñ
+
+Hotãrârea Guvernului nr. 127/1994 privind stabilirea și sancționarea unor contravenții la normele
+pentru protecția mediului înconjurãtor, modificatã prin Hotãrârea Guvernului nr. 254/1995
+
+93.
+
+Ñ
+
+Hotãrârea Guvernului nr. 638/1999 privind aprobarea Regulamentului de apãrare împotriva
+inundațiilor, fenomenelor meteorologice periculoase și accidentelor la construcțiile hidrotehnice și
+a Normativului-cadru de dotare cu materiale și mijloace de apãrare operativã împotriva
+inundațiilor și ghețurilor
+
+94.
+
+Ñ
+
+Ordinul ministrului finanțelor și al ministrului lucrãrilor publice și amenajãrii teritoriului
+nr. 784/34/N/1998 pentru aprobarea Normelor metodologice privind conținutul-cadru de organizare
+a licitațiilor, prezentarea ofertelor, adjudecare, contractare și decontare a execuției lucrãrilor
+
+ANEXA Nr. 2
+la normele tehnice
+
+Zone de protecție și de siguranțã ale capacitãților energetice
+
+Denumirea
+
+Zone de protecție
+Tipuri de risc
+Normative
+
+1
+
+2
+
+3
+
+Tipuri de risc
+
+Zone de siguranțã
+Normative, avize, studii
+
+4
+
+5
+
+A. Capacitãți de producere a energiei electrice și termice
+
+A.1. CTE, CET, CT, CD, CTG, CCGA
+A.1.1. Construcții, instalații și amenajãri în incintã
+
+A.1.1.1. Clãdirea principalã
+
+A.1.1.2. Instalații electrice cu tensiuni peste 1 kV:
+stație electricã de transformare și conexiuni,
+posturi de transformare, puncte de alimentare
+
+RT
+RA
+RN
+RT
+RA
+RN
+RT
+RA
+RN
+
+A.1.1.3. Clãdiri tehnologice, de producție și depozitare, RT
+clãdiri civile și social-administrative
+RA
+RN
+A.1.1.4. Depozite de combustibili lichizi și solizi, fluide RT
+combustibile
+RA
+RN
+A.1.1.5. Construcții, instalații și rețele de gaze naturale
+
+RT
+RA
+RN
+
+A.1.1.6. Drumuri de incintã pentru accese tehnologice RT
+și P.S.I.
+RA
+RN
+
+E-Ip 38/89
+
+RS
+
+E-Ip 38/89
+P 118-99
+PE 009/93
+PE 022/3-87
+PE 101/85
+PE 101A/85
+P 118-99
+PE 009/93
+P 118-99
+NP 004-96
+E-Ip 38/89
+PE 009/93
+P 118-99
+NP 004-96
+E-Ip 38/89
+I6-98; Hotãrârea
+Guvernului
+nr. 525/1996
+P 118-99
+Ordonanța
+Guvernului
+nr. 43/1997
+C 79/80
+Ordinul ministrului transporturilor
+nr. 44/1998
+E-Ip 38/89
+
+RS
+
+RS
+
+RS
+
+RS
+
+RS
+
+RS
+
+Studii de impact, acord de
+mediu, avize
+Min. 5 m
+E-Ip 38/89
+P118-99
+PE 009/93
+PE 101/85
+P 118-99
+Avize
+PE 009/93
+P 118-99
+NP 004-96
+E-Ip 38/89
+PE 009/93
+P 118-99
+NP 004-96
+E-Ip 38/89
+Avize
+
+Ordonanța Guvernului
+nr. 43/1997
+E-Ip 38/89
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 15/18.I.2000
+1
+
+2
+
+A.1.1.7. Cãi ferate industriale interioare pentru trans- RT
+port combustibil, materiale, chimicale și RA
+echipamente, cãi de rulare pentru transforma- RN
+toare de putere, cãi de rulare pentru macarale
+portal
+
+A.1.1.8. Rețele de conducte tehnologice
+
+RT
+RA
+RN
+
+3
+
+Ordonanța de
+urgențã a
+Guvernului
+nr. 12/1998
+Hotãrârea
+Guvernului
+nr. 525/1996
+E-Ip 38/89
+E-Ip 38/89
+
+4
+
+RS
+
+RS
+
+5
+
+Ordonanța de urgențã
+a Guvernului nr. 12/1998
+Hotãrârea Guvernului
+nr. 525/1996
+
+E-Ip 38/89
+E-Ip 38/89
+Normative specifice
+
+A.1.2. Construcții, instalații și amenajãri în afara incintei
+împrejmuite a centralei
+
+A.1.2.1. Amenajãri hidrotehnice
+
+A.1.2.2. Stații de captare, pompare, tratare a apei,
+tratare a apei menajere
+
+A.1.2.3. Depozite de zgurã și cenușã
+
+RT
+RA
+RN
+RT
+RA
+RN
+RT
+RA
+RN
+
+A.1.2.4. Instalații de cântãrire/dezghețare
+a combustibilului
+
+RT
+RA
+RN
+A.1.2.5. Rețele tehnologice (telecomunicații, linii RT
+electrice aeriene sau în cablu etc.)
+RA
+RN
+A.1.2.6. Drumuri industriale: drumuri de acces la incinta RT
+propriu-zisã, drumuri de exploatare la lucrãri RA
+exterioare incintei
+RN
+
+A.1.2.7. Cãi ferate industriale: cãi ferate în antestația
+tehnicã a centralei, cãi ferate de racord la
+incintã, cãi ferate pentru instalații speciale:
+cântãrire vagoane din mers, tunele de dezgheț,
+culbutori de descãrcare
+
+RT
+RA
+RN
+
+A.2. CNEÑPC
+Centrale nuclearoelectrice Ñ parte clasicã pentru RT
+obiectele: amenajãri hidrotehnice, stații de captare, RA
+pompare, tratare a apei și tratare a apei menajere, RN
+drumuri industriale, cãi ferate industriale, racorduri de
+telecomunicații și alimentare cu energie electricã,
+aeriene sau în cablu, alte obiecte tehnologice clasice
+(nenucleare) aparținând centralei nuclearoelectrice,
+pentru care zonele de protecție și de siguranțã
+depãșesc limita zonei de excludere stabilite în jurul
+fiecãrui reactor nuclear, conform normelor de
+securitate nuclearã, aprobate de Comisia Naționalã
+pentru Controlul Activitãților Nucleare; în ultima
+categorie pot intra și obiecte de natura celor
+enumerate la lit. B și C.
+
+Legea nr. 107/1996 RS
+
+Legea nr. 107/1996
+Legea nr. 137/1995
+
+Legea nr. 107/1996 RS
+Hotãrârea
+Guvernului
+nr. 101/1997
+Legea nr. 107/1996 RS
+PE 223/75
+10 m
+
+Legea nr. 107/1996
+Hotãrârea Guvernului
+nr. 101/1997
+Studii de impact
+Avize
+Min. 2000 m la depozit de
+șes
+PE 009/93
+P 118-99
+
+PE 009/93
+P 118-99
+
+RS
+
+PE 104/93
+PE 107/95
+
+RS
+
+PE 104/93
+PE 107/95
+
+Ordonanța
+Guvernului
+nr. 43/1997
+C 79/80
+Ordinul ministrului
+transporturilor
+nr. 44/1998
+Ordonanța de
+urgențã a
+Guvernului
+nr. 12/1998
+Hotãrârea
+Guvernului
+nr. 525/1996
+
+RS
+
+Ordonanța Guvernului
+nr. 43/1997
+Studii de trafic
+Acorduri și avize
+
+RS
+
+Acorduri și avize
+
+RS
+
+Avize
+Acord de mediu
+Studii de impact
+
+Normative pentru
+obiecte similare
+din centrale
+clasice, completate cu cerințe
+speciale din normativele pentru
+CNE
+
+11
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 15/18.I.2000
+1
+
+A.3. CHE, CHEAP
+A.3.1. Clãdirea centralei cu uvraje anexe
+
+2
+
+RT
+RA
+RN
+
+A.3.1.1. Clãdirea centralei
+
+RT
+RA
+RN
+
+A.3.1.2. Instalații electrice cu tensiuni peste 1 kV:
+stație electricã de transformare și conexiuni,
+posturi de transformare, puncte de alimentare
+
+RT
+RA
+RN
+
+A.3.1.3. Clãdiri tehnologice, de producție și depozitare: RT
+ateliere de reparații electrice și mecanice, RA
+laboratoare, depozite și magazii, depozit de RN
+oxigen și acetilenã, stații de compresoare,
+stații de pompare epuismente, incendii și apã
+potabilã, centrale termice
+
+A.3.1.4. Depozite de combustibili lichizi și solizi pentru RT
+centrale termice, depozit de ulei în rezervoare RA
+sau butoaie
+RN
+A.3.1.5. Drumuri de incintã de acces tehnologic și P.S.I. RT
+RA
+RN
+
+A.3.1.6. Cãi ferate industriale pentru transport materiale RT
+și echipamente, cãi de rulare pentru macarale RA
+portal
+RN
+
+A.3.1.7. Rețele de conducte tehnologice, conducte de RT
+apã de rãcire, aer comprimat, cabluri electrice, RA
+canale subterane pentru conducte de apã de RN
+rãcire, potabilã și incendiu, canale și tunele
+pentru cabluri electrice, galerii de acces
+
+3
+
+Legea
+nr. 107/1996
+Hotãrârea
+Guvernului
+nr. 101/1997
+PE 302/74
+PE 304/89
+PE 306/90
+PE 022-2/89
+Legea nr. 107/1996
+Hotãrârea
+Guvernului
+nr. 101/1997
+PE 302/74
+PE 304/89
+PE 306/90
+PE 022-2/89
+P 118-99
+PE 009/93
+PE 022/3-87
+PE 101/85
+PE 101A/85
+P 118-99
+PE 302/74
+PE 304/89
+PE 306/90
+PE 022-2/89
+PE 009/93
+P 118-99
+NP 004-96
+E-Ip 38/89
+PE 009/93
+P 118-99
+NP 004-96
+E-Ip 38/89
+Ordonanța
+Guvernului
+nr. 43/1997
+C 79/80
+Ordinul ministrului
+transporturilor
+nr. 44/1998
+E-Ip 38/89
+Ordonanța de
+urgențã a
+Guvernului
+nr. 12/1998
+Hotãrârea
+Guvernului
+nr. 525/1996
+E-Ip 38/89
+E-Ip 38/89
+
+4
+
+5
+
+RS
+
+Legea nr. 107/1996
+Hotãrârea Guvernului
+nr. 101/1997
+Studii de impact, acorduri și
+avize, normative specifice,
+autorizații de mediu
+
+RS
+
+Legea nr. 107/1996
+Hotãrârea Guvernului
+nr. 101/1997
+P 118-99
+PE 009/93
+
+RS
+
+PE 101/85
+P 118-99
+Avize
+
+RS
+
+Legea nr. 107/1996
+Hotãrârea Guvernului
+nr. 101/1997
+PE 009/93
+P 118-99
+NP 004-96
+
+RS
+
+PE 009/93
+P 118-99
+NP 004-96
+E-Ip 38/89
+Ordonanța Guvernului
+nr. 43/1997
+E-Ip 38/89
+
+RS
+
+RS
+
+Ordonanța de urgențã a
+Guvernului nr. 12/1998
+Hotãrârea Guvernului
+nr. 525/1996
+E-Ip 38/89
+
+RS
+
+E-Ip 38/89
+Normative specifice
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 15/18.I.2000
+1
+
+A.3.2. Construcții, instalații și amenajãri hidrotehnice
+în cadrul amenajãrii hidroenergetice
+
+2
+
+RT
+RA
+RN
+
+A.3.2.0. Chiuvetã lac
+
+RT
+RA
+RN
+
+A.3.2.1. Baraj cu echipamente aferente, inclusiv
+evacuatori
+
+RT
+RA
+RN
+
+A.3.2.2. Prizã de apã (turnul vanelor, vane, grãtare,
+instalație de deviere plutitori, instalații de
+curãțat grãtare, instalații de acționare)
+
+RT
+RA
+RN
+
+A.3.2.3. Golire de fund, casã vane, acces
+
+RT
+RA
+RN
+
+3
+
+PE 302/74
+PE 304/89
+PE 306/90
+PE 022-2/89
+Legea
+nr. 107/1996
+Legea
+nr. 137/1995
+Hotãrârea
+Guvernului
+nr. 101/1997
+PE 302/74
+PE 304/89
+PE 306/90
+PE 022-2/89
+Legea
+nr. 107/1996
+Legea
+nr. 137/1995
+Hotãrârea
+Guvernului
+nr. 101/1997
+PE 302/74
+PE 304/89
+PE 306/90
+PE 022-2/89
+Legea
+nr. 107/1996
+Legea
+nr. 137/1995
+Hotãrârea
+Guvernului
+nr. 101/1997
+PE 302/74
+PE 304/89
+PE 306/90
+PE 022-2/89
+Legea
+nr. 107/1996
+Legea
+nr. 137/1995
+Hotãrârea
+Guvernului
+nr. 101/1997
+PE 302/74
+PE 304/89
+PE 306/90
+PE 022-2/89
+Legea
+nr. 107/1996
+Legea
+nr. 137/1995
+Hotãrârea
+Guvernului
+nr. 101/1997
+
+4
+
+5
+
+RS
+
+Legea nr. 107/1996
+Legea nr. 137/1995
+Hotãrârea Guvernului
+nr. 101/1997
+Studii de impact, acorduri și
+avize, normative specifice,
+autorizații de mediu
+
+RS
+
+Legea nr. 107/1996
+Legea nr. 137/1995
+Hotãrârea Guvernului
+nr. 101/1997
+
+RS
+
+Legea nr. 107/1996
+Legea nr. 137/1995
+Hotãrârea Guvernului
+nr. 101/1997
+
+RS
+
+Legea nr. 107/1996
+Legea nr. 137/1995
+Hotãrârea Guvernului
+nr. 101/1997
+
+RS
+
+Legea nr. 107/1996
+Legea nr. 137/1995
+Hotãrârea Guvernului
+nr. 101/1997
+
+13
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 15/18.I.2000
+1
+
+2
+
+A.3.2.4. Galeria (canalul) de aducțiune (aducțiune,
+traversãri etc.)
+
+RT
+RA
+RN
+
+A.3.2.5. Castel de echilibru și casã vane
+
+RT
+RA
+RN
+
+A.3.2.6. Aducțiuni secundare (galerii, canale, traversãri) RT
+RA
+RN
+
+A.3.2.7. Captare (prizã tirolezã): lac, grãtare, galerie RT
+colectoare, organ de reglaj, denisipator, stavilã RA
+spãlare
+RN
+
+A.3.2.8. Galerie (canal) fugã
+
+RT
+RA
+RN
+
+3
+
+PE 302/74
+PE 304/89
+PE 306/90
+PE 022-2/89
+Legea
+nr. 107/1996
+Legea
+nr. 137/1995
+Hotãrârea
+Guvernului
+nr. 101/1997
+PE 302/74
+PE 304/89
+PE 306/90
+PE 022-2/89
+Legea
+nr. 107/1996
+Legea
+nr. 137/1995
+Hotãrârea
+Guvernului
+nr. 101/1997
+PE 302/74
+PE 304/89
+PE 306/90
+PE 022-2/89
+Legea
+nr. 107/1996
+Legea
+nr. 137/1995
+Hotãrârea
+Guvernului
+nr. 101/1997
+PE 302/74
+PE 304/89
+PE 306/90
+PE 022-2/89
+Legea
+nr. 107/1996
+Legea
+nr. 137/1995
+Hotãrârea
+Guvernului
+nr. 101/1997
+PE 302/74
+PE 304/89
+PE 306/90
+PE 022-2/89
+Legea
+nr. 107/1996
+Legea
+nr. 137/1995
+Hotãrârea
+Guvernului
+nr. 101/1997
+
+4
+
+5
+
+RS
+
+Legea nr. 107/1996
+Legea nr. 137/1995
+Hotãrârea Guvernului
+nr. 101/1997
+
+RS
+
+Legea nr. 107/1996
+Legea nr. 137/1995
+Hotãrârea Guvernului
+nr. 101/1997
+
+RS
+
+Legea nr. 107/1996
+Legea nr. 137/1995
+Hotãrârea Guvernului
+nr. 101/1997
+
+RS
+
+Legea nr. 107/1996
+Legea nr. 137/1995
+Hotãrârea Guvernului
+nr. 101/1997
+
+RS
+
+Legea nr. 107/1996
+Legea nr. 137/1995
+Hotãrârea Guvernului
+nr. 101/1997
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 15/18.I.2000
+1
+
+2
+
+A.3.2.9. Diguri și contracanale
+
+RT
+RA
+RN
+
+A.3.2.10. Conductã forțatã și galerii de acces la
+conductã
+
+RT
+RA
+RN
+
+A.3.2.11. Ecluzã, avanport, port amonte, port aval
+
+RT
+RA
+RN
+
+A.3.3. Alte amenajãri în afara incintei
+A.3.3.1. Drumuri de acces la obiectivele amenajãrii
+hidroenergetice
+
+RT
+RA
+RN
+
+A.3.3.2. Cãi ferate industriale
+
+RT
+RA
+RN
+
+A.3.3.3. Depozite de echipamente. Instalații de
+telecomandã, telecomunicații și telemãsurã
+în afara incintei (în cablu și aeriene)
+A.3.3.4. Instalații de avertizare și alarmare în caz de
+accidente la baraje
+
+RT
+RA
+RN
+RT
+RA
+RN
+
+3
+
+PE 302/74
+PE 304/89
+PE 306/90
+PE 022-2/89
+Legea
+nr. 107/1996
+Legea
+nr. 137/1995
+Hotãrârea
+Guvernului
+nr. 101/1997
+PE 302/74
+PE 304/89
+PE 306/90
+PE 022-2/89
+Legea
+nr. 107/1996
+Legea
+nr. 137/1995
+Hotãrârea
+Guvernului
+nr. 101/1997
+PE 302/74
+PE 304/89
+PE 306/90
+PE 022-2/89
+Legea
+nr. 107/1996
+Legea
+nr. 137/1995
+Hotãrârea
+Guvernului
+nr. 101/1997
+Ordonanța
+Guvernului
+nr. 43/1997
+C 79/80
+Ordinul ministrului transporturilor
+nr. 44/1998
+Ordonanța de
+urgențã a
+Guvernului
+nr. 12/1998
+Hotãrârea
+Guvernului
+nr. 525/1996
+PE 009/93
+P 118-99
+PE
+PE
+PE
+PE
+
+302/74
+304/89
+306/90
+022-2/89
+
+4
+
+5
+
+RS
+
+Legea nr. 107/1996
+Legea nr. 137/1995
+Hotãrârea Guvernului
+nr. 101/1997
+
+RS
+
+Legea nr. 107/1996
+Legea nr. 137/1995
+Hotãrârea Guvernului
+nr. 101/1997
+
+RS
+
+Legea nr. 107/1996
+Legea nr. 137/1995
+Hotãrârea Guvernului
+nr. 101/1997
+
+RS
+
+Ordonanța Guvernului
+nr. 43/1997
+Studii de trafic
+Acorduri și avize
+
+RS
+
+Acorduri și avize
+
+RS
+
+PE 009/93
+P 118-99
+
+RS
+
+Legea nr. 107/1996
+Legea nr. 137/1995
+Hotãrârea Guvernului
+nr. 101/1997
+
+15
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 15/18.I.2000
+1
+
+A.3.3.5. Instalații de semnalizare și dirijare navigație
+
+2
+
+RT
+RA
+RN
+
+A.3.3.6. Instalații UCC în afara construcțiilor hidrotehnice RT
+(tubații piezometrice, foraje hidroenergetice
+RA
+de observație, foraje de drenaj, dispozitive
+RN
+hidrometrice, borne și pilaștri de mãsurã etc.)
+
+A.3.3.7. Construcții amenajare versanți
+
+RT
+RA
+RN
+
+A.3.3.8. Construcții regularizare albie
+
+RT
+RA
+RN
+
+3
+
+Legea
+nr. 107/1996
+Legea
+nr. 137/1995
+Hotãrârea
+Guvernului
+nr. 101/1997
+Legea
+nr. 107/1996
+Legea
+nr. 137/1995
+Hotãrârea
+Guvernului
+nr. 101/1997
+PE 302/74
+PE 304/89
+PE 306/90
+PE 022-2/89
+Legea
+nr. 107/1996
+Legea
+nr. 137/1995
+Hotãrârea
+Guvernului
+nr. 101/1997
+PE 302/74
+PE 304/89
+PE 306/90
+PE 022-2/89
+Legea
+nr. 107/1996
+Legea
+nr. 137/1995
+Hotãrârea
+Guvernului
+nr. 101/1997
+PE 302/74
+PE 304/89
+PE 306/90
+PE 022-2/89
+Legea
+nr. 107/1996
+Legea
+nr. 137/1995
+Hotãrârea
+Guvernului
+nr. 101/1997
+
+4
+
+5
+
+RS
+
+Legea nr. 107/1996
+Legea nr. 137/1995
+Hotãrârea Guvernului
+nr. 101/1997
+
+RS
+
+Legea nr. 107/1996
+Legea nr. 137/1995
+Hotãrârea Guvernului
+nr. 101/1997
+
+RS
+
+Legea nr. 107/1996
+Legea nr. 137/1995
+Hotãrârea Guvernului
+nr. 101/1997
+
+RS
+
+Legea nr. 107/1996
+Legea nr. 137/1995
+Hotãrârea Guvernului
+nr. 101/1997
+
+RS
+
+1.
+1.
+1.
+1.
+2.
+1.
+
+B. Instalații de transport și distribuție a energiei electrice
+
+B.1. Rețele electrice de înaltã tensiune:
+1. stații electrice de înaltã tensiune
+2. linii electrice aeriene/în cablu de înaltã tensiune
+
+RT
+RA
+RN
+
+1.
+1.
+1.
+1.
+2.
+1.
+
+PE 022/3-87
+PE 101/85
+PE 101A/85
+P 118-99
+PE 104/93
+PE 107/95
+
+PE 022/3-87
+PE 101/85
+PE 101A/85
+P 118-99
+PE 104/93
+PE 107/95
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 15/18.I.2000
+1
+
+2
+
+B.2. Rețele electrice de medie tensiune:
+1. posturi de transformare de medie tensiune
+2. linii electrice aeriene/în cablu subteran de medie
+tensiune
+
+3
+
+RT
+RA
+RN
+
+1.
+1.
+1.
+1.
+2.
+1.
+
+C.1. Rețele termice subterane și supraterane
+(estacade de conducte, canale subterane,
+platforme de vane, stații de pompe pentru
+termoficare)
+
+RT
+RA
+RN
+
+C.2. Puncte termice
+
+RT
+RA
+RN
+
+PE 022/3-87
+PE 101/85
+PE 101A/85
+P 118-99
+PE 104/93
+PE 107/95
+
+4
+
+5
+
+RS
+
+1.
+1.
+1.
+1.
+2.
+1.
+
+PE 022/3-87
+PE 101/85
+PE 101A/85
+P 118-99
+PE 104/93
+PE 107/95
+
+STAS 8591/1-91
+PE 207/80
+P 118-99
+Hotãrârea
+Guvernului
+nr. 525/1996
+
+RS
+
+Ñ Intravilan
+PE 207/80
+P 118-99
+Hotãrârea Guvernului
+nr. 525/1996
+Avize
+Ñ Extravilan Ñ 3 m
+
+Suprafața clãdirii
+stabilitã prin
+proiecte, avize,
+acorduri
+
+RS
+
+Suprafața clãdirii stabilitã
+prin proiecte, avize, acorduri
+
+C. Instalații de transport și distribuție a energiei termice
+
+OBSERVAÞII:
+
+(1) Lista cuprinzând capacitãțile energetice/obiectele enumerate mai sus nu este exhaustivã. Ea poate fi completatã pe mãsurã ce apar noi tehnologii de producere, transport și distribuție.
+(2) Delimitarea zonelor de protecție și de siguranțã este similarã și în cazul în care obiectele considerate a fi
+amplasate în incinta împrejmuitã a centralei (A.1.1.1ÑA.1.1.8) se aflã în afara acesteia.
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 64690427282 Trezoreria sector 5, București.
+Adresa pentru publicitate : Serviciul relații cu publicul și agenții economici, București,
+Str. Blanduziei nr. 1, sectorul 2, telefon 211.57.30.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: ramomrk@bx.logicnet.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 15/18.I.2000 conține 16 pagini.
+
+Prețul 4.000 lei
+
+ISSN 1453Ñ4495
+
+

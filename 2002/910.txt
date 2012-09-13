@@ -1,0 +1,3674 @@
+PARTEA
+
+Anul XIV Ñ Nr. 910
+
+I
+
+Sâmbãtã, 14 decembrie 2002
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+
+577.
+
+Ñ Ordin al ministrului industriei și resurselor privind aprobarea Prescripției tehnice PT R6Ñ2002,
+ediția 1, ”Cerințe tehnice privind montarea, punerea în funcțiune, exploatarea, repararea și verificarea tehnicã a ascensoarelor electrice și hidraulice
+de persoane și/sau de materiale,, ..........................
+
+1Ð32
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+MINISTERUL INDUSTRIEI ȘI RESURSELOR
+
+ORDIN
+privind aprobarea Prescripției tehnice PT R6Ñ2002, ediția 1, ”Cerințe tehnice
+privind montarea, punerea în funcțiune, exploatarea, repararea și verificarea tehnicã
+a ascensoarelor electrice și hidraulice de persoane și/sau de materiale,,
+În aplicarea Hotãrârii Guvernului nr. 1.340/2001 privind organizarea și funcționarea Inspecției de Stat pentru
+Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat, publicatã în Monitorul Oficial al României,
+Partea I, nr. 37 din 21 ianuarie 2002,
+în temeiul Hotãrârii Guvernului nr. 19/2001 privind organizarea și funcționarea Ministerului Industriei și Resurselor,
+cu modificãrile și completãrile ulterioare,
+ministrul industriei și resurselor emite urmãtorul ordin:
+Art. 1. Ñ Se aprobã Prescripția tehnicã PT R6Ñ2002,
+ediția 1, ”Cerințe tehnice privind montarea, punerea în
+funcțiune, exploatarea, repararea și verificarea tehnicã a
+ascensoarelor electrice și hidraulice de persoane și/sau de
+
+materiale,,, cuprinsã în anexa care face parte integrantã din
+prezentul ordin.
+Art. 2. Ñ Prezentul ordin va fi publicat în Monitorul
+Oficial al României, Partea I.
+
+Ministrul industriei și resurselor,
+Dan Ioan Popescu
+București, 27 noiembrie 2002.
+Nr. 577.
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+ANEXÃ
+
+MINISTERUL INDUSTRIEI ȘI RESURSELOR
+INSPECÞIA DE STAT PENTRU CONTROLUL CAZANELOR,
+RECIPIENTELOR SUB PRESIUNE ȘI INSTALAÞIILOR DE RIDICAT
+Ñ ISCIR Ñ
+Ñ REGLEMENTARE TEHNICÃ NAÞIONALÃ Ñ
+
+P R E S C R I P Þ I A T E H N I C Ã PT R6Ñ2002
+Cerințe tehnice privind montarea, punerea în funcțiune, exploatarea, repararea și verificarea tehnicã
+a ascensoarelor electrice și hidraulice de persoane și/sau de materiale
+Colecția Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune
+și Instalațiilor de Ridicat Ñ ISCIR
+Ñ Ediție oficialã Ñ
+Scopul principal al prescripțiilor tehnice este crearea unui cadru legal unitar în vederea aplicãrii întocmai a prevederilor Hotãrârii Guvernului nr. 1.340/2001 privind organizarea și funcționarea Inspecției de Stat pentru Controlul
+Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat, în ceea ce privește asigurarea protecției utilizatorilor,
+mediului înconjurãtor și proprietãții.
+Prevederile prezentei prescripții tehnice sunt obligatorii pentru toți cei care monteazã, reparã, întrețin, dețin,
+exploateazã sau verificã ascensoare de persoane și materiale.
+Utilizatorii prezentei prescripții tehnice sunt rãspunzãtori de aplicarea corectã a acesteia.
+ISCIR
+str. Sf. Elefterie nr. 47Ñ49, sectorul 5
+București, www.iscir.ro
+Cod: 726111
+Telefon: (+4021) 411.97.60; 411.97.61
+Fax: (+4021) 411.98.70
+E-mail: iscir@fx.ro
+Reproducerea sau utilizarea integralã ori parțialã a prezentei prescripții tehnice în orice publicații și prin orice
+procedeu (electronic, mecanic, fotocopiere, microfilmare etc.) este interzisã dacã nu existã acordul scris al ISCIR.
+Utilizatorii prezentei prescripții tehnice sunt obligați sã se asigure cã sunt în posesia ediției oficiale tipãrite.
+1. Generalitãți
+1.1. Scop
+
+Prezenta prescripție tehnicã face parte din reglementãrile
+tehnice naționale referitoare la ascensoare electrice și
+hidraulice de persoane, materiale (mãrfuri), de persoane și
+materiale (mãrfuri) și ascensoare mici de materiale
+(mãrfuri).
+Prezenta prescripție tehnicã stabilește cerințele tehnice
+minime obligatorii pe care trebuie sã le satisfacã ascensoarele pentru a putea fi autorizatã funcționarea lor la utilizatorii finali (deținãtorii) din România.
+Cerințele privind proiectarea, construirea, montarea și
+introducerea pe piațã a ascensoarelor se adreseazã montatorilor ascensoarelor.
+Cerințele privind proiectarea, construirea și introducerea
+pe piațã a componentelor de securitate se adreseazã producãtorilor acestora.
+Cerințele privind exploatarea, repararea, întreținerea,
+deținerea și siguranța în exploatare a ascensoarelor se
+adreseazã agenților economici și deținãtorilor.
+Cerințele privind verificarea tehnicã înaintea punerii în
+funcțiune, verificãrile tehnice periodice și verificãrile dupã
+reparații ale ascensoarelor se adreseazã ISCIRÑINSPECT,
+agenților economici autorizați de ISCIRÑINSPECT și
+deținãtorilor.
+La verificãrile și încercãrile efectuate înainte de punerea
+în funcțiune a ascensorului model va participa și organismul notificat împreunã cu ISCIRÑINSPECT.
+Aceste cerințe au drept scop asigurarea protecției
+sãnãtãții utilizatorilor.
+De asemenea, prescripția tehnicã stabilește modul de
+verificare a respectãrii acestor cerințe tehnice.
+Autoritatea tehnicã care asigurã punerea în aplicare și
+respectarea prevederilor prezentei prescripții tehnice este
+ISCIR Ñ Inspecția de Stat pentru Controlul Cazanelor,
+Recipientelor sub Presiune și Instalațiilor de Ridicat, care,
+
+în conformitate cu prevederile Hotãrârii Guvernului
+nr. 1.340/2001, este organ de specialitate cu personalitate
+juridicã în subordinea Ministerului Industriei și Resurselor,
+având ca principal obiect de activitate asigurarea în numele
+statului a protecției utilizatorilor și securitatea în funcționare
+pentru instalațiile în categoria cãrora se integreazã și
+ascensoarele de persoane, materiale, de persoane și materiale și ascensoarele mici de materiale.
+Documentele, documentația tehnicã (cartea ascensorului
+și informații furnizate de montator), precum și
+inscripționãrile privind informarea și avertizarea utilizatorilor
+trebuie sã fie redactate sau traduse în limba românã.
+1.2. Domeniu de aplicare
+
+1.2.1. Prezenta prescripție tehnicã se aplicã urmãtoarelor
+ascensoare și componente:
+Ñ ascensoare pentru persoane;
+Ñ ascensoare pentru bolnavi;
+Ñ ascensoare pentru persoane și materiale;
+Ñ ascensoare pentru materiale;
+Ñ ascensoare mici pentru materiale;
+Ñ ascensoare care se deplaseazã de-a lungul unei
+curse determinate, chiar dacã nu se deplaseazã de-a lungul unor ghidaje rigide, cum sunt de exemplu ascensoarele
+foarfece etc.;
+Ñ componente de securitate pentru ascensoare.
+Instalațiile care nu fac obiectul prezentei prescripții tehnice sunt menționate în anexa X.
+1.2.2. Prezenta prescripție tehnicã stabilește cerințele
+tehnice minime obligatorii pentru execuția, montarea și
+exploatarea ascensoarelor electrice și hidraulice de persoane și/sau de materiale, montate fix în puț, acționate cu
+roatã de fricțiune, tambur sau hidraulic, care deservesc
+niveluri definite, care cuprind o cabinã destinatã transportului
+de persoane, de persoane și materiale sau de materiale,
+suspendatã prin cabluri sau lanțuri, care se deplaseazã în
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+lungul glisierelor a cãror înclinare nu depãșește 15¼ fațã de
+verticalã.
+1.2.3. Prezenta prescripție tehnicã se aplicã și ascensoarelor și componentelor de securitate destinate acestora
+care au fost proiectate, construite, introduse pe piațã, montate, puse în funcțiune și autorizate inițial pentru
+funcționare de ISCIR înaintea datei de 31 decembrie 2002,
+datã la care intrã în vigoare Hotãrârea Guvernului
+nr. 225/2002, publicatã în Monitorul Oficial al României,
+Partea I, nr. 220 din 2 aprilie 2002.
+1.2.4. Pentru ascensoarele și componentele de securitate destinate acestora, care erau în curs de realizare conform prevederilor prescripțiilor tehnice R 2-88 la data de
+2 aprilie 2002 și care sunt puse în funcțiune pânã la data
+de 31 decembrie 2003, se aplicã prevederile pct. 7.1.8.
+1.3. Referințe normative
+
+Prezenta prescripție tehnicã face referiri explicite sau
+implicite la acte legislative, standarde, prescripții tehnice și
+alte reglementãri naționale.
+1.3.1. Legi și hotãrâri
+
+¥ Legea nr. 608/2001 privind evaluarea conformitãții produselor
+¥ Hotãrârea Guvernului nr. 225/2002 privind stabilirea
+condițiilor de introducere pe piațã a ascensoarelor
+Hotãrârea Guvernului nr. 1.340/2001 privind organizarea
+și funcționarea Inspecției de Stat pentru Controlul
+Cazanelor, Recipientelor sub Presiune și Instalațiilor de
+Ridicat
+¥ Hotãrârea Guvernului nr. 394/1995 privind obligațiile ce
+revin agenților economici Ñ persoane fizice sau juridice Ñ
+în comercializarea produselor de folosințã îndelungatã, destinate consumatorilor, republicatã, cu modificãrile ulterioare
+¥ Ordonanța Guvernului nr. 21/1992 privind protecția
+consumatorilor, republicatã, cu modificãrile ulterioare
+¥ Legea protecției muncii nr. 90/1996, republicatã, și
+Normele metodologice în aplicarea prevederilor Legii protecției muncii nr. 90/1996, aprobate prin Ordinul ministrului
+muncii și protecției sociale nr. 388/1996, cu modificãrile
+ulterioare
+¥ Legea nr. 10/1995 privind calitatea în construcții, cu
+modificãrile ulterioare.
+1.3.2. Standarde
+
+¥ SR EN 81-1+AC:2001, Reguli de securitate pentru
+execuția și montarea ascensoarelor. Partea 1: Ascensoare
+electrice
+¥ SR EN 12015:2001, Compatibilitate electromagneticã.
+Standard gamã de produse pentru ascensoare, scãri și trotuare rulante. Emisie
+¥ SR EN 12016:2001, Compatibilitate electromagneticã.
+Standard gamã de produse pentru ascensoare, scãri și trotuare rulante. Imunitate
+¥ EN 81-2:1998+AC:1999, Safety rules for the construction and installation of liftsÑPart 2:Hydraulic lifts
+1.4. Termeni și definiții:
+
+1.4.1. activitate de reparare Ñ ansamblu de lucrãri și
+operațiuni specializate de investigare a defectelor apãrute,
+de asigurare a pieselor de schimb, de efectuare a
+depanãrilor și/sau a înlocuirilor de componente defecte și
+de încercare funcționalã a ascensorului pentru demonstrarea calitãții reparației efectuate menite sã readucã ascensorul în stare bunã de funcționare în condiții de securitate.
+Capacitatea unui agent economic de a efectua lucrãrile de
+reparare trebuie sã fie atestatã printr-o autorizație emisã de
+ISCIRÑINSPECT;
+1.4.2. ascensor derivat Ñ ascensorul definit prin parametri maximi și minimi, cum sunt sarcina, numãrul de persoane, lungimea cursei și viteza, și care utilizeazã
+componente de securitate identice din punct de vedere
+funcțional și al respectãrii cerințelor esențiale de securitate
+cu cele ale ascensorului model. Parametrii maximi și
+minimi, precum și satisfacerea cerințelor esențiale de securitate cu modelul trebuie sã fie declarați și demonstrați de
+
+3
+
+montator, prin calcule și/sau pe baza desenelor de
+execuție. Toate acestea vor fi cuprinse în dosarul tehnic de
+fabricație al ascensorului;
+1.4.3. ascensor electric Ñ instalație de ridicat, montatã
+fix în puț, acționatã cu roatã de fricțiune sau tambur, care
+deservește niveluri definite, care cuprinde o cabinã destinatã transportului de persoane, de persoane și materiale
+sau de materiale, suspendatã prin cabluri sau lanțuri, care
+se deplaseazã în lungul glisierelor a cãror înclinare nu
+depãșește 15¼ fațã de verticalã;
+1.4.4. ascensor electric cu roatã de fricțiune Ñ ascensor
+ale cãrui cabluri de tracțiune sunt acționate prin frecarea
+cu canalele roții motoare a troliului;
+1.4.5. ascensor electric cu tambur Ñ ascensor suspendat
+de lanțuri sau cabluri și antrenat prin alt procedeu decât
+prin frecare;
+1.4.6. ascensor hidraulic Ñ ascensor destinat transportului de persoane, de materiale sau de bolnavi, acționat de
+un grup de pompare printr-un sistem electrohidraulic;
+1.4.7. ascensor mic pentru materiale Ñ instalație de ridicat, montatã fix, deservind niveluri definite, având o cabinã
+în care, datoritã dimensiunilor și construcției, accesul persoanelor nu este posibil și care se deplaseazã cel puțin
+parțial între glisiere verticale sau între glisiere a cãror
+înclinație nu depãșește 15¼ fațã de verticalã;
+1.4.8. ascensor model Ñ ascensor reprezentativ al cãrui
+dosar tehnic de fabricație prezintã modul în care cerințele
+esențiale de securitate vor fi satisfãcute pentru ascensoarele derivate din ascensorul model, definite prin parametri
+obiectivi și care utilizeazã componente de securitate identice;
+1.4.9. ascensor pentru bolnavi Ñ ascensor destinat
+transportului de bolnavi cu însoțitor permanent din incinta
+spitalelor și/sau a policlinicilor, cu mijloace specifice acestora, și care are paracãzãtoare cu prindere amortizatã sau
+paracãzãtoare cu prindere instantanee cu efect amortizat;
+1.4.10. ascensor pentru materiale Ñ ascensor destinat
+transportului de materiale cu sau fãrã însoțitor (cu
+comandã interioarã, mixtã sau exterioarã);
+1.4.11. ascensor pentru materiale și persoane Ñ ascensor destinat transportului de materiale, a cãrui construcție
+permite și transportul de persoane concomitent sau independent de cel al materialelor;
+1.4.12. ascensor pentru persoane Ñ ascensor destinat
+transportului de persoane și de bagaje de mânã;
+1.4.13. autorizarea funcționãrii Ñ ansamblu de activitãți
+de verificare și validare a rezultatelor mãsurãtorilor și
+încercãrilor funcționale executate la punerea în funcțiune
+inițialã a ascensoarelor sau cu ocazia verificãrilor tehnice
+periodice ale acestora, în scopul confirmãrii îndeplinirii
+condițiilor de funcționare în securitate a ascensoarelor montate la deținãtori. Se efectueazã numai de cãtre ISCIRÑ
+INSPECT sau de RVTA, autorizat și împuternicit de
+ISCIRÑINSPECT în acest sens;
+1.4.14. autorizare preliminarã Ñ ansamblu de activitãți
+prin care un organism notificat constatã și atestã faptul cã
+un ascensor model satisface cerințele esențiale de securitate;
+1.4.15. cabinã Ñ componentã a ascensorului care
+transportã persoane, materiale, persoane și materiale sau
+bolnavi;
+1.4.16. cablu flexibil Ñ cablu electric, flexibil între cabinã
+și un punct fix;
+1.4.17. cablul limitatorului de vitezã Ñ cablu auxiliar legat
+de cabinã/contragreutate, destinat declanșãrii paracãzãtorului în caz de rupere a suspensiei;
+1.4.18. camera roților de deviere Ñ camerã în care nu
+se aflã troliul/grupul de pompare, în care sunt roți de deviere și unde se pot gãsi, eventual, limitatorul de vitezã
+și/sau echipamentul electric;
+1.4.19 camera mașinii Ñ camerã unde se aflã
+troliul/grupul de pompare și/sau echipamentul acestuia;
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+
+1.4.20. cerințã esențialã Ñ cerințã care are în vedere,
+în special, protecția sãnãtãții, securitatea utilizatorilor, protecția proprietãții și a mediului, astfel cum este prevãzutã
+în actele normative în vigoare;
+1.4.21. cilindrul hidraulic Ñ dispozitiv hidraulic care
+asigurã deplasarea și susținerea cabinei;
+1.4.22. contragreutate Ñ masã rigidã ghidatã care
+asigurã echilibrarea cabinei;
+1.4.23. declarație de conformitate Ñ documentul prin
+care montatorul dã o asigurare scrisã cã un ascensor este
+conform condițiilor specificate; documentul prin care producãtorul componentelor de securitate dã o asigurare
+scrisã cã acestea sunt conform condițiilor specificate;
+1.4.24. distribuitor electrohidraulic Ñ componentã de
+securitate a blocului electrohidraulic;
+1.4.25. glisiere Ñ elemente rigide care asigurã ghidarea
+cabinei sau a contragreutãții;
+1.4.26. introducerea pe piațã a ascensorului Ñ acțiune
+care are loc atunci când montatorul pune pentru prima
+datã ascensorul la dispoziția deținãtorului (utilizatorului
+final);
+1.4.27. jug Ñ structurã metalicã care susține cabina
+sau contragreutatea legatã de suspensie;
+1.4.28. lanț electric de securitate Ñ dispozitive electrice
+de securitate legate în serie;
+1.4.29. limitator de vitezã Ñ componentã de securitate
+care la depãșirea unei viteze stabilite
+acționeazã
+paracãzãtoarele și comandã oprirea ascensorului;
+1.4.30. montatorul unui ascensor Ñ persoanã fizicã sau
+juridicã ce își asumã responsabilitatea proiectãrii, fabricãrii,
+montãrii și introducerii pe piațã a ascensorului, care aplicã
+marcajul CS și întocmește în scris declarația CS de conformitate;
+1.4.31. organism de control Ñ ISCIR-SP, organism
+desemnat și recunoscut de Ministerul Industriei și
+Resurselor pentru verificarea respectãrii prevederilor
+Hotãrârii Guvernului nr. 225/2002;
+1.4.32. organism de inspecție Ñ ISCIRÑINSPECT, organism desemnat și recunoscut de Ministerul Industriei și
+Resurselor pentru supravegherea și verificarea tehnicã în
+funcționare a ascensoarelor;
+1.4.33. organism notificat Ñ organism desemnat și recunoscut de Ministerul Industriei și Resurselor, în calitate de
+autoritate publicã în domeniu, pentru evaluarea și certificarea conformitãții ascensoarelor, a componentelor de securitate și pentru compatibilitatea electromagneticã a acestora
+înaintea introducerii lor pe piațã;
+1.4.34. paracãzãtor Ñ componentã de securitate destinatã sã opreascã și sã menținã opritã pe glisiere cabina
+sau contragreutatea în cazul depãșirii vitezei;
+1.4.35. producãtorul componentelor de securitate Ñ persoanã fizicã sau juridicã ce își asumã responsabilitatea
+proiectãrii și fabricãrii componentelor de securitate, care
+aplicã marcajul CS și întocmește în scris declarația CS de
+conformitate;
+1.4.36. proiectant Ñ persoanã fizicã sau juridicã ce își
+asumã responsabilitatea proiectãrii ascensoarelor, componentelor de securitate și a proiectelor de reparații la ascensoare;
+1.4.37. punerea în funcțiune Ñ prima utilizare a produsului pe teritoriul României de cãtre deținãtor (utilizatorul
+final);
+1.4.38. puț Ñ spațiu în care se deplaseazã cabina
+și/sau contragreutatea;
+1.4.39. revizie tehnicã curentã Ñ ansamblu de operații
+de control al stãrii unui ascensor, menite sã corecteze
+eventualele abateri de la starea de funcționare normalã și
+sã preîntâmpine apariția unor defecte majore. Activitatea se
+efectueazã numai de cãtre agenți economici autorizați de
+ISCIRÑINSPECT;
+1.4.40. sarcinã nominalã Ñ sarcina pentru care a fost
+proiectat și construit ascensorul;
+
+1.4.41. spațiul superior al puțului Ñ parte a puțului
+cuprinsã între nivelul cel mai de sus deservit și plafonul
+puțului;
+1.4.42. tampon Ñ componentã de securitate aflatã în
+fundãtura puțului, destinatã pentru a prelua șocul cãderii
+cabinei sau a contragreutãții;
+1.4.43. troliul sau grupul de pompare al ascensorului Ñ
+ansamblu incluzând motorul care antreneazã și oprește
+ascensorul;
+1.4.44. utilizator Ñ persoanã care folosește serviciile
+unui ascensor;
+1.4.45. utilizator final Ñ persoanã fizicã sau juridicã
+deținãtoare a unui ascensor pe care îl exploateazã în folos
+propriu și care are obligația de a utiliza ascensorul numai
+dacã acesta a fost supus verificãrilor tehnice periodice și a
+obținut autorizația de funcționare în urma acestora. În perioada dintre douã verificãri tehnice periodice utilizatorul final,
+în cazul în care constatã o funcționare necorespunzãtoare
+a ascensorului, este obligat sã apeleze la agentul economic autorizat pentru întreținere. Termen echivalent:
+deținãtor;
+1.4.46. verificare tehnicã periodicã Ñ activitate solicitatã
+de deținãtor, la intervale predeterminate sau ori de câte ori
+deținãtorul considerã necesar, pentru a se asigura cã
+ascensorul pe care îl deține și utilizeazã satisface cerințele
+de funcționare în securitate. Activitatea cuprinde un ansamblu de verificãri și încercãri menite sã constate starea de
+bunã funcționare în condiții de securitate a ascensorului și
+aptitudinea acestuia de a-și îndeplini rolul funcțional conform specificațiilor montatorului. Activitatea se efectueazã
+de cãtre ISCIRÑINSPECT sau, dupã caz, de RVTA, autorizat și împuternicit de ISCIRÑINSPECT în acest sens;
+1.4.47. vitezã nominalã (v) Ñ viteza în metri pe secundã
+a cabinei, pentru care a fost proiectat și construit ascensorul.
+Termenii și definițiile menționate anterior se aplicã
+numai în sensul prezentei prescripții tehnice.
+1.5. Abrevieri:
+
+¥ IT Ñ inspecție teritorialã;
+¥ PT Ñ prescripție tehnicã;
+¥ RSVTI Ñ responsabil cu supravegherea și verificarea
+tehnicã a instalațiilor;
+¥ RVTA Ñ responsabil cu verificarea tehnicã a ascensoarelor;
+¥ SP Ñ supravegherea pieței.
+2. Cerințe esențiale de sãnãtate și de securitate ce trebuie asigurate la proiectarea și construirea ascensoarelor
+și componentelor de securitate
+Dispoziții preliminare
+Cerințele esențiale de sãnãtate și de securitate
+conținute în prezenta prescripție tehnicã sunt obligatorii.
+Ascensoarele sau componentele de securitate trebuie sã
+fie proiectate și construite astfel încât sã se atingã obiectivele acestor cerințe esențiale.
+Producãtorul de componente de securitate, precum și
+montatorul ascensorului au obligația sã efectueze o analizã
+de risc în vederea identificãrii acelor riscuri care corespund
+produselor lor, fiind obligați sã proiecteze și sã construiascã produsele ținând seama de aceastã analizã.
+Cerințele esențiale prevãzute la art. 5 din Legea
+nr. 10/1995 privind calitatea în construcții și care nu sunt
+incluse în prezentele cerințe esențiale se aplicã ascensoarelor, conform prevederilor art. 4 alin. (3) din Hotãrârea
+Guvernului nr. 225/2002.
+2.1. Generalitãți
+
+2.1.1. Cerințele esențiale de sãnãtate și securitate
+prevãzute în anexa nr. 1 la Normele metodologice referitoare la certificarea calitãții din punct de vedere al securitãții muncii a echipamentelor tehnice, aprobate prin
+Ordinul ministrului muncii și protecției sociale nr. 388/1996
+privind aprobarea Normelor metodologice în aplicarea prevederilor Legii protecției muncii nr. 90/1996, publicat în
+Monitorul Oficial al României, Partea I, nr. 249 din
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+15 octombrie 1996, se aplicã în situația în care existã riscuri concrete și acestea nu sunt abordate în prezentul
+capitol. Cerințele esențiale prevãzute la pct. 1.1.2 din
+anexa nr. 1 la normele metodologice menționate mai sus
+trebuie aplicate în orice situație.
+2.1.2. Cabina
+
+Cabina trebuie proiectatã și construitã astfel încât sã
+ofere un spațiu și o rezistențã corespunzãtoare numãrului
+maxim de persoane, precum și sarcinii nominale stabilite de
+montator. În cazul ascensoarelor destinate transportului de
+persoane, atunci când dimensiunile ascensorului permit,
+cabina trebuie proiectatã și construitã astfel încât caracteristicile sale constructive sã nu obstrucționeze sau sã nu
+împiedice accesul și utilizarea acestuia de cãtre persoane
+cu handicap și, de asemenea, sã permitã efectuarea
+oricãror modificãri necesare care sã faciliteze utilizarea
+ascensorului de cãtre astfel de persoane.
+2.1.3. Mijloace de suspendare și de susținere
+
+Mijloacele de suspendare și/sau de susținere a cabinei,
+accesoriile, precum și orice elemente terminale ale acestora trebuie sã fie alese și proiectate astfel încât sã asigure un nivel corespunzãtor de securitate și sã reducã
+riscul cãderii cabinei, luându-se în considerare condițiile de
+utilizare, materialele utilizate, precum și condițiile de
+fabricație. Atunci când se utilizeazã cabluri sau lanțuri pentru suspendarea cabinei trebuie sã existe cel puțin douã
+cabluri sau lanțuri independente, fiecare cu sistem propriu
+de ancorare. Astfel de cabluri și lanțuri nu trebuie sã aibã
+îmbinãri sau matisãri, cu excepția cazurilor în care acestea
+sunt necesare pentru fixare sau pentru formarea unui
+ochet.
+2.1.4. Controlul sarcinii (inclusiv depãșirea vitezei)
+
+2.1.4.1. Ascensoarele trebuie sã fie proiectate, construite
+și montate astfel încât sã fie împiedicatã pornirea normalã
+atunci când sarcina nominalã este depãșitã.
+2.1.4.2. Ascensoarele trebuie sã fie dotate cu limitatoare
+de vitezã. Aceastã cerințã nu se aplicã ascensoarelor la
+care, prin concepția sistemului de acționare, nu este posibilã depãșirea vitezei.
+2.1.4.3. Ascensoarele rapide trebuie sã fie dotate cu
+dispozitive pentru controlul și limitarea vitezei.
+2.1.4.4. Ascensoarele care utilizeazã roți de fricțiune trebuie sã fie proiectate astfel încât sã asigure stabilitatea
+cablurilor de trancțiune pe roata de fricțiune.
+2.1.5. Troliu
+
+2.1.5.1. Toate ascensoarele pentru persoane trebuie sã
+aibã troliu individual. Aceastã cerințã nu se aplicã ascensoarelor la care contragreutãțile sunt înlocuite cu o a doua
+cabinã.
+2.1.5.2. Montatorul ascensorului trebuie sã se asigure cã
+troliul ascensorului și dispozitivele anexe ale unui ascensor
+nu sunt accesibile decât pentru lucrãri de întreținere și în
+cazuri de urgențã.
+2.1.6. Comezi
+
+2.1.6.1. Comenzile ascensoarelor destinate utilizãrii de
+cãtre persoane cu handicap neînsoțite trebuie sã fie proiectate și amplasate în mod corespunzãtor.
+2.1.6.2. Funcția comenzilor trebuie indicatã clar.
+2.1.6.3. Comenzile de chemare ale unei baterii de
+ascensoare pot fi separate sau interconectate.
+2.1.6.4. Echipamentele electrice trebuie sã fie instalate
+și conectate astfel încât:
+Ñ sã fie exclusã orice confuzie cu circuitele care nu au
+legãturã directã cu ascensorul;
+Ñ alimentarea cu energie sã poatã fi comutatã sub sarcinã;
+Ñ mișcãrile ascensorului sã fie dependente de contactele electrice de securitate printr-un circuit electric de securitate separat;
+Ñ o defecțiune a instalației electrice sã nu conducã la
+o situație periculoasã.
+
+5
+
+2.2. Riscuri pentru persoanele aflate în afara cabinei ascensorului
+
+2.2.1. Ascensorul trebuie sã fie proiectat și construit
+pentru a se asigura cã spațiul în care se deplaseazã
+cabina nu este accesibil decât pentru lucrãri de întreținere
+și în cazuri de urgențã. Înainte ca o persoanã sã aibã
+acces în acel spațiu trebuie opritã funcționarea ascensorului.
+2.2.2. Ascensorul trebuie sã fie proiectat și construit astfel încât sã se elimine riscul de lovire atunci când cabina
+este în una dintre pozițiile sale extreme. Acest obiectiv se
+realizeazã cu ajutorul unui spațiu liber sau al unui refugiu
+dincolo de pozițiile extreme ale cabinei. Totuși în anumite
+cazuri, în special la clãdirile existente unde aceastã
+condiție este imposibil de îndeplinit, montatorul trebuie sã
+realizeze mãsuri compensatorii pentru evitarea acestui risc,
+dupã ce a fost obținut acordul scris din partea ISCIRÑ
+INSPECT.
+2.2.3. Spațiile de acces pentru intrarea și ieșirea din
+cabinã trebuie sã fie dotate cu uși de palier având o rezistențã mecanicã corespunzãtoare condițiilor de utilizare. În
+timpul funcționãrii normale un dispozitiv de zãvorâre a
+ușilor trebuie sã împiedice:
+a) mișcarea cabinei, comandatã sau necomandatã, dacã
+toate ușile de palier nu sunt închise și zãvorâte;
+b) deschiderea unei uși de palier, atunci când cabina
+încã se deplaseazã și nu se aflã într-o zonã prevãzutã
+pentru oprire.
+Sunt permise mișcãri de nivelare ale cabinei, în situația
+în care ușile de palier sunt deschise, numai în zone specificate, cu condiția ca viteza de deplasare sã fie controlatã.
+2.3. Riscuri pentru persoanele aflate în cabinã
+
+2.3.1. Cabinele ascensoarelor trebuie sã fie înconjurate
+complet de pereți plini, cu podele și tavane închise, cu
+excepția orificiilor pentru ventilație și a ușilor. Ușile cabinei
+trebuie sã fie proiectate și montate astfel încât cabina sã
+nu se poatã deplasa, cu excepția mișcãrilor de nivelare
+menționate la pct. 2.2.3, dacã ușile nu sunt închise, și sã
+se opreascã în cazul în care ușile se deschid. Ușile cabinei trebuie sã rãmânã închise și zãvorâte în cazul opririi
+între douã niveluri, acolo unde existã un risc de cãdere în
+spațiul dintre cabinã și puț.
+2.3.2. Ascensorul trebuie sã aibã dispozitive care sã
+împiedice cãderea liberã sau deplasarea necontrolatã a
+cabinei în cazul unei întreruperi de curent sau al defectãrii
+componentelor.
+Dispozitivul care împiedicã cãderea liberã a cabinei
+(paracãzãtor) trebuie sã fie independent de mijloacele de
+suspendare ale cabinei. Paracãzãtorul trebuie sã poatã opri
+cabina în domeniul de declanșare al limitatorului de vitezã,
+în funcție de viteza nominalã a ascensorului, stabilitã de
+montatorul ascensorului. Orice oprire produsã de acest dispozitiv nu trebuie sã producã o decelerare dãunãtoare pentru ocupanții cabinei, oricare ar fi condițiile de încãrcare.
+2.3.3. Tampoanele trebuie sã fie montate în fundãtura
+puțului. În acest caz spațiul liber menționat la pct. 2.2.2
+trebuie sã fie mãsurat cu tampoanele complet comprimate.
+Aceastã cerințã nu se aplicã ascensoarelor la care, datoritã
+concepției sistemului de acționare, cabina nu poate intra în
+spațiul liber menționat la pct. 2.2.2.
+2.3.4. Ascensoarele trebuie sã fie proiectate și construite
+astfel încât sã nu poatã fi puse în mișcare dacã dispozitivul
+menționat la pct. 2.3.2 nu se aflã într-o poziție de
+funcționare.
+2.4. Alte riscuri
+
+2.4.1. Ușile de palier și ușile de cabinã sau ansamblul
+celor douã uși, în cazul în care acestea sunt automate,
+trebuie sã fie prevãzute cu un dispozitiv care sã evite riscul strivirii atunci când acestea sunt în mișcare.
+2.4.2. Ușile de palier, atunci când sunt prevãzute sã
+contribuie la protecția clãdirii împotriva incendiilor, inclusiv
+cele care au elemente din sticlã, trebuie sã reziste în mod
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+
+corespunzãtor la foc, din punct de vedere al integritãții și
+al caracteristicilor referitoare la izolație, pentru oprirea
+propagãrii flãcãrilor, și la transmiterea cãldurii prin radiație
+termicã.
+2.4.3. Contragreutãțile trebuie sã fie montate astfel încât
+sã se evite orice risc de lovire cu cabina sau de cãdere pe
+aceasta.
+2.4.4. Ascensoarele trebuie sã fie echipate cu mijloace
+care sã dea posibilitatea oamenilor reținuți în cabinã sã fie
+scoși și evacuați.
+2.4.5. Cabinele trebuie sã fie dotate cu mijloace de
+comunicație cu dublu sens, care sã permitã legãtura permanentã cu echipa de intervenție rapidã.
+2.4.6. Ascensoarele vor fi proiectate și construite astfel
+încât, în cazul în care temperatura din camera troliului
+depãșește limita maximã stabilitã de montator, acestea sã
+poatã efectua pânã la capãt mișcarea comandatã aflatã în
+curs și sã refuze comenzi noi.
+2.4.7. Cabinele vor fi proiectate și fabricate astfel încât
+sã se asigure o ventilație suficientã pentru pasageri, chiar
+și în cazul unei opriri prelungite.
+2.4.8. Cabina trebuie sã fie iluminatã adecvat atunci
+când este utilizatã sau când se deschide o ușã. De asemenea, cabina trebuie sã fie prevãzutã cu sistem de iluminare de urgențã.
+2.4.9. Mijloacele de comunicație prevãzute la pct. 2.4.5
+și sistemul de iluminare de urgențã prevãzut la pct. 2.4.8
+vor fi proiectate și fabricate astfel încât sã funcționeze
+chiar și în lipsa alimentãrii normale cu energie. Perioada
+de funcționare a acestora trebuie sã fie suficient de mare
+pentru a permite efectuarea în condiții normale a procedurii de salvare.
+2.4.10. Circuitele de comandã a ascesorului, care pot fi
+folosite în caz de incendiu, vor fi proiectate și fabricate
+astfel încât sã se împiedice oprirea ascensoarelor la
+anumite niveluri și sã se permitã comandarea prioritarã a
+ascensorului de cãtre echipele de salvare.
+2.5. Marcare
+
+2.5.1. Fiecare cabinã trebuie sã aibã aplicatã o placã
+vizibilã, care sã indice în mod clar sarcina nominalã în kilograme și numãrul maxim de pasageri care pot fi transportați.
+2.5.2. În cazul în care ascensorul este proiectat astfel
+încât sã permitã oamenilor reținuți în cabinã sã iasã fãrã
+ajutor din exterior, instrucțiunile necesare acestei operațiuni
+trebuie sã fie afișate în mod clar și într-un loc vizibil în
+cabinã.
+2.6. Instrucțiuni de utilizare
+
+2.6.1. Componentele de securitate trebuie sã fie însoțite
+de un manual de instrucțiuni redactat în limba românã de
+cãtre producãtorul acestora, astfel încât asamblarea, conectarea, reglarea și întreținerea sã poatã fi efectuate eficient
+și fãrã riscuri.
+2.6.2. Fiecare ascensor trebuie sã fie însoțit de o documentație întocmitã de cãtre montator în limba românã.
+Documentația trebuie sã conținã cel puțin:
+a) un manual de instrucțiuni care va cuprinde planurile
+și diagramele necesare pentru utilizare în condiții normale,
+întreținere, inspecție, reparație, verificãri periodice și manevre de salvare, conform pct. 2.4.4;
+b) un registru în care se noteazã reparațiile și, dupã
+caz, verificãrile tehnice periodice.
+2.7. Respectarea cerințelor esențiale garanteazã cã, în
+cazul folosirii ascensoarelor și a componentelor de securitate destinate acestora, în mod normal acestea nu prezintã
+nici un pericol pentru persoane, mediu sau proprietate.
+3. Proiectarea și fabricarea
+3.1. Condiția de bazã pe care trebuie sã o îndeplineascã proiectarea și fabricarea ascensoarelor și a componentelor de securitate este asigurarea funcționãrii acestora
+în condiții de securitate pe toatã perioada de utilizare
+prevãzutã în documentația tehnicã a ascensorului.
+
+3.2. Proiectantul trebuie sã-și asume responsabilitatea
+privind concepția soluțiilor constructive, alegerea materialelor,
+calculul de rezistențã al tuturor elementelor instalațiilor și
+componentelor, potrivit condițiilor de funcționare date, precum
+și pentru stabilirea metodelor pentru încercãri și verificãri
+tehnice în conformitate cu legislația în vigoare.
+3.3. Proiectantul va trebui sã nominalizeze componentele de securitate pentru fiecare ascensor, care asigurã
+funcționarea în condiții de securitate.
+Componentele de securitate sunt urmãtoarele:
+3.3.1. Dispozitive de zãvorâre a ușilor de palier
+3.3.2. Paracãzãtoare pentru împiedicarea cãderii cabinei
+ascensorului
+3.3.3. Limitatoare de vitezã
+3.3.4. Tampoane
+a) tampoane cu înmagazinarea energiei:
+¥ neliniare;
+¥ cu amortizarea mișcãrii de revenire;
+b) tampoane cu disiparea energiei.
+3.3.5. Dispozitive de securitate montate pe circuitele
+hidraulice, care sunt utilizate pentru împiedicarea cãderii cabinei
+3.3.6. Contacte electrice de securitate.
+3.4. La proiectarea elementelor portante (de rezistențã)
+ale ascensoarelor montatorul trebuie sã ținã seama și de
+solicitãrile seismice ce pot apãrea în construcțiile respective, conform zonãrii seismice a teritoriului României.
+3.5. Montatorul ascensorului și producãtorul componentelor de securitate aferente acestuia sunt obligați sã respecte întocmai cerințele esențiale de securitate precizate la
+cap. 2.
+3.6. Producãtorul componentelor de securitate rãspunde
+de alegerea corectã a procedeelor tehnologice de execuție,
+de calitatea execuției și a materialelor folosite, în conformitate cu prevederile Hotãrârii Guvernului nr. 225/2002.
+4. Ascensoare și componente de securitate provenite
+din import
+4.1. Pentru introducerea pe piațã în România a ascensoarelor și a componentelor de securitate aferente acestora
+este necesarã eliberarea de cãtre ISCIRÑINSPECT a unui
+document tehnic în vederea importului.
+4.2. Documentul tehnic în vederea importului pentru
+ascensoarele și componentele de securitate aferente acestora va fi eliberat în conformitate cu reglementãrile ISCIRÑ
+INSPECT în vigoare la data efectuãrii importului.
+4.3. Este interzisã introducerea pe piațã în România a
+ascensoarelor și a componentelor de securitate provenite
+din import, fãrã documentul tehnic în vederea importului.
+4.4. Ascensoare și componente de securitate aferente acestora fabricate în Uniunea Europeanã
+
+Ascensoarele și componentele de securitate aferente
+acestora fabricate în țãrile din Uniunea Europeanã vor fi însoțite
+de o declarație de conformitate și vor purta marcajul CE.
+4.5. Ascensoare și componente de securitate fabricate în
+afara Uniunii Europene
+
+În vederea introducerii pe piațã în România orice ascensor și componentã de securitate aferentã acestuia trebuie
+sã îndeplineascã cerințele esențiale de securitate
+menționate la cap. 2.
+4.6. Pentru a se confirma îndeplinirea cerințelor
+esențiale de securitate producãtorul componentelor de
+securitate sau reprezentantul sãu autorizat în România va
+obține un certificat de examinare de tip eliberat de un
+organism notificat și va aplica marcajul CS.
+4.7. Pentru a se confirma îndeplinirea cerințelor
+esențiale de securitate montatorul ascensorului va obține
+un certificat de examinare de tip eliberat de un organism
+notificat și va aplica marcajul CS.
+5. Montarea și repararea
+5.1. Montarea
+
+5.1.1. Condiția de bazã pe care trebuie sã o satisfacã
+montarea ascensoarelor și a componentelor de securitate
+aferente acestora este asigurarea funcționãrii în condiții de
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+securitate pe toatã perioada de utilizare prevãzutã în documentația tehnicã a ascensorului.
+5.1.2. Montarea ascensoarelor și a componentelor de
+securitate aferente acestora trebuie sã fie efectuatã de
+montatori care dispun de mijloacele tehnice corespunzãtoare
+și de personal tehnic calificat, cu respectarea prevederilor
+Hotãrârii Guvernului nr. 225/2002.
+5.1.3. Obligațiile montatorului sunt în conformitate cu
+prevederile Hotãrârii Guvernului nr. 225/2002.
+5.1.4. Montatorul va elabora documentația tehnicã de
+însoțire a ascensorului.
+5.1.5. Cartea ascensorului Ñ partea tehnicã Ñ trebuie
+sã cuprindã cel puțin datele prevãzute la pct. 6.3.
+5.1.6. Cartea ascensorului Ñ partea tehnicã Ñ se completeazã de cãtre montator, pe rãspundere proprie, pentru fiecare ascensor.
+5.1.7. O datã cu ascensorul se predã deținãtorului cartea ascensorului. Deținãtorul poate încredința ulterior cartea
+ascensorului, pe bazã de document de predare-primire,
+întreținãtorului autorizat.
+5.1.8. La lucrãrile de montare montatorul va respecta
+normele tehnice de protecție a muncii specifice și normele
+tehnice pentru prevenirea și stingerea incendiilor, valabile
+pe teritoriul României.
+5.2. Repararea
+
+5.2.1. Condiția de bazã pe care trebuie sã o satisfacã
+repararea ascensoarelor este asigurarea funcționãrii în
+condiții de securitate pe toatã perioada de utilizare
+prevãzutã în documentația tehnicã a ascensorului.
+5.2.2. Repararea ascensoarelor trebuie sã fie fãcutã de
+agenți economici care dispun de mijloacele tehnice corespunzãtoare și sunt autorizați de ISCIRÑINSPECT conform
+prevederilor anexei B. Repararea componentelor de securitate se va face numai de cãtre producãtorul care aplicã
+marcajul CS sau CE.
+5.2.3. Documentația tehnicã pentru repararea ascensoarelor se va elabora de cãtre proiectanți specializați, în limitele și în condițiile prevãzute în prescripțiile tehnice din
+anexa I. Proiectantul rãspunde de concepția corectã a
+soluțiilor constructive, de alegerea materialelor, de calculul
+de rezistențã al tuturor elementelor ascensoarelor, potrivit
+condițiilor de funcționare date, precum și de stabilirea
+metodelor și a volumului de verificare dupã reparare.
+Proiectul de reparație pentru reparațiile și modificãrile
+importante menționate în anexa I trebuie sã fie avizat de
+proiectantul, producãtorul sau de montatorul ascensorului.
+5.2.4. Reparatorul rãspunde de alegerea corectã a procedeelor tehnologice de execuție și de calitatea execuției
+și a materialelor folosite, în conformitate cu prevederile prezentei prescripții tehnice, cu prevederile documentației tehnice pentru reparare și cu instrucțiunile de reparare a
+ascensoarelor. Condițiile privind autorizarea reparatorilor,
+precum și obligațiile și responsabilitãțile ce le revin sunt
+prevãzute în anexa B.
+5.2.5. La lucrãrile de reparare reparatorul va respecta
+normele tehnice de protecție a muncii și normele tehnice
+pentru prevenirea și stingerea incendiilor, valabile pe teritoriul României.
+5.2.6. Personalul tehnic de reparare a ascensoarelor,
+desemnat de agentul economic, trebuie sã fie examinat de
+ISCIRÑINSPECT în ceea ce privește cunoștințele teoretice
+și practice, conform prevederilor anexei B.
+6. Autorizarea de funcționare (examinãri și încercãri
+înainte de punerea în funcțiune)
+6.1. Generalitãți
+
+6.1.1. Ascensoarele nu pot fi puse în funcțiune decât
+dupã obținerea autorizației de funcționare în urma unei
+verificãri tehnice oficiale efectuate în conformitate cu prevederile prezentei prescripții tehnice. Verificãrile tehnice oficiale se vor efectua de cãtre ISCIRÑINSPECT IT în a
+cãrei razã de activitate se aflã ascensorul sau de cãtre RVTA,
+
+7
+
+conform metodologiei prevãzute în anexa M. Condițiile de
+autorizare, obligațiile și rãspunderile RVTA sunt menționate
+în anexa B.
+6.1.2. În vederea efectuãrii verificãrii tehnice înainte de
+punerea în funcțiune montatorul va înainta la ISCIRÑINSPECT
+o documentație care va cuprinde cel puțin urmãtoarele:
+a) documentația tehnicã obligatorie (cartea ascensorului Ñ
+partea tehnicã Ñ și manualul de instrucțiuni) în limba românã;
+b) procesul-verbal de probe de casã cu rezultate corespunzãtoare;
+c) certificatele privind mãsurãtorile împotriva tensiunilor
+de atingere, rezistența de izolație și reglarea automatelor și
+instalației de protecție;
+d) documentul eliberat de ISCIRÐINSPECT în vederea
+importului, pentru ascensoarele provenite din import;
+e) documentul din care sã rezulte certificarea compatibilitãții electromagnetice a componentelor electrice ale ascensorului, efectuatã de un organism notificat pentru acest
+domeniu;
+f) declarația de conformitate redactatã sau tradusã în
+limba românã.
+6.1.3. Documentația menționatã la pct. 6.1.2 va fi înaintatã cu adresã de însoțire la ISCIRÑINSPECT IT în a
+cãrei razã se aflã ascensorul, prin care se solicitã verificarea tehnicã înainte de punerea în funcțiune a ascensorului.
+6.1.4. Documentația incompletã va fi înapoiatã montatorului pentru a fi completatã.
+6.1.5. ISCIRÐINSPECT va stabili cu montatorul data la
+care urmeazã sã se efectueze verificarea tehnicã de cãtre
+inspectorii de specialitate.
+6.1.6. Pânã la data stabilitã pentru verificarea tehnicã
+montatorul trebuie sã pregãteascã ascensorul având
+încercãrile de casã efectuate cu rezultate corespunzãtoare,
+precum și echipamentul sau sarcinile pentru încercãri. De
+asemenea, trebuie sã asigure personalul necesar, cu respectarea prevederilor normelor tehnice de protecția muncii
+și pentru prevenirea și stingerea incendiilor, în vigoare.
+6.2. Examinãri
+
+Aceste examinãri trebuie sã acopere în special punctele
+urmãtoare:
+a) dacã existã o autorizare preliminarã, trebuie sã se
+facã comparația dintre documentele remise cu aceastã ocazie și instalația care a fost realizatã;
+b) în toate cazurile verificarea satisfacerii condițiilor din
+standardele aplicabile;
+c) examinarea realizãrii cerințelor de execuție corespunzãtoare pentru care standardele aplicabile nu prevãd
+cerințe speciale;
+d) compararea detaliilor indicate în verificarea conformitãții pentru componentele de securitate cu caracteristicile
+ascensorului;
+e) dacã este asiguratã întreținerea ascensorului de cãtre
+un agent economic autorizat de ISCIRÐINSPECT conform
+prevederilor anexei B;
+f) dacã ascensoarele prevãzute cu însoțitor (liftier) sunt
+deservite de personal autorizat de ISCIRÐINSPECT conform prevederilor anexei O;
+g) dacã existã în cabinã instrucțiuni de exploatare a
+ascensorului conform anexei U;
+h) dacã sunt afișați în cabinã parametrii nominali de
+funcționare ai ascensorului conform anexei U;
+i) dacã sunt afișate în cabinã datele de identificare a
+montatorului și a ascensorului;
+j) dacã existã marcajul de conformitate CS/CE.
+6.3. Cartea ascensorului
+
+Caracteristicile ascensorului trebuie sã fie consemnate
+într-o carte tip, numitã ”cartea ascensorului,,, întocmitã
+înaintea punerii în funcțiune a ascensorului. Aceastã carte
+trebuie sã conținã:
+a) o parte tehnicã, numitã ”cartea ascensorului Ñ partea tehnicã,,, în care se menționeazã:
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+
+1. datele de identificare a ascensorului;
+2. caracteristicile de bazã ale ascensorului;
+3. caracteristicile cablurilor și/sau ale lanțurilor;
+4. caracateristicile componentelor a cãror verificare de
+conformitate este cerutã:
+Ñ dispozitive de zãvorâre;
+Ñ uși de palier (de exemplu: certificate de încercare la
+foc);
+Ñ paracãzãtoare;
+Ñ limitator de vitezã;
+Ñ tampoane cu disipare de energie (sau tampoane cu
+acumulare de energie, cu amortizarea mișcãrii de revenire);
+Ñ circuite de securitate;
+Ñ dispozitive de protecție pentru limitarea vitezei cabinei la urcare;
+5. planurile de montaj în clãdire;
+6. schemele hidraulice;
+7. schemele electrice.
+Schemele electrice pot fi limitate la circuitele necesare
+pentru o privire generalã a componentelor de securitate. O
+legendã trebuie sã explice simbolurile utilizate;
+b) o parte numitã ”cartea ascensorului Ñ partea de
+exploatare,,, care sã cuprindã procesele-verbale de verificare, inspecție și observațiile apãrute.
+Aceastã carte trebuie ținutã la zi în cazul:
+1. reparațiilor controlate conform prevederilor anexei I;
+2. înlocuirii cablurilor de tracțiune;
+3. avariilor și accidentelor.
+NOTÃ:
+
+Aceastã carte trebuie sã fie la dispoziția persoanelor
+responsabile cu întreținerea și a ISCIRÐINSPECT.
+6.4. Informații furnizate de montator
+
+6.4.1. Montatorul ascensorului și producãtorul componentelor de securitate trebuie sã furnizeze manuale de
+instrucțiuni.
+6.4.2. Manualul de instrucțiuni al ascensorului trebuie sã
+ofere informațiile necesare despre utilizarea normalã a
+ascensorului și despre operațiunea de salvare a pasagerilor, în mod special despre:
+a) pãstrarea ușii camerei mașinii încuiate;
+b) încãrcarea și descãrcarea cabinei în condiții de securitate;
+c) mãsurile ce trebuie luate în cazul ascensoarelor cu
+puțul parțial închis, inclusiv mãsurile de protecție privind
+securitatea întreținãtorilor și utilizatorilor ascensorului;
+d) împrejurãrile care necesitã intervenția unei persoane
+competente;
+e) pãstrarea documentelor;
+f) utilizarea cheii de deszãvorâre în caz de urgențã;
+g) operațiunea de salvare a pasagerilor;
+h) mãsurile ce trebuie luate în cazul abaterilor de la
+prezenta prescripție tehnicã;
+i) instrucțiuni de exploatare și întreținere în condiții de
+securitate.
+6.5. Încercãri și verificãri
+6.5.1. Încercãri și verificãri funcționale pentru ascensoarele
+electrice
+6.5.1.1. Dispozitive de zãvorâre ale ușilor de palier
+
+Se verificã funcționarea corespunzãtoare a acestora.
+6.5.1.2. Dispozitive electrice de securitate (contacți, întreruptori etc.)
+
+Se verificã funcționarea corespunzãtoare a contacților și
+întreruptorilor electrici de securitate prezentați în schema
+de comandã a ascensorului.
+6.5.1.3. Dispozitive (limitatoare) de securitate de sfârșit de cursã
+(sus și jos)
+
+Aceste dispozitive trebuie poziționate astfel încât sã
+intervinã cât mai aproape posibil de stațiile extreme, întrerupând în cazul acționãrii lor funcționarea ascensorului. Ele
+trebuie sã acționeze înainte de intrarea cabinei (sau contragreutãții, dacã existã) în contact cu tampoanele.
+Acțiunea limitatoarelor de securitate de sfârșit de cursã
+
+trebuie sã fie efectivã atât timp cât tampoanele sunt comprimate. Pentru ascensoarele hidraulice cu tracțiune indirectã cilindrul hidraulic îndeplinește rolul limitatorului de
+securitate de sfârșit de cursã.
+6.5.1.4. Verificarea aderenței
+
+Trebuie controlat cã la urcare cabina goalã nu poate fi
+deplasatã atunci când contragreutatea se aflã pe tampoanele comprimate.
+6.5.1.5. Limitatorul de vitezã
+
+Se verificã concordanța dintre datele de identificare,
+parametrii limitatorului și datele din certificatul de examinare
+CE/CS de tip.
+6.5.1.6. Paracãzãtoarele contragreutãții
+
+Acestea sunt obligatorii dacã existã spații de acces situate sub traiectoria contragreutãții. Paracãzãtoarele contragreutãții trebuie sã acționeze numai în sensul de coborâre
+a acesteia și sã fie capabile sã o opreascã la viteza de
+declanșare a limitatorului de vitezã al contragreutãții (sau
+în caz de rupere a organelor de suspendare), prinzând-o
+pe glisierele sale și menținând-o opritã.
+Scopul încercãrii înainte de punerea în funcțiune este
+de a verifica montajul, reglajul și soliditatea ansamblului
+contragreutate, paracãzãtoare, glisiere și fixarea acestora
+de clãdire.
+6.5.1.7. Dispozitivul de alarmare
+
+Fiecare ascensor trebuie sã conținã un sistem de comunicare vocalã bidirecționalã care permite contactul cu dispeceratul/echipa de intervenție rapidã al/a agentului
+economic autorizat pentru întreținerea ascensorului. Se
+efectueazã încercarea funcționalã.
+6.5.1.8. Sistemul de iluminare de urgențã
+
+Se verificã funcționarea corespunzãtoare a acestuia.
+6.5.2. Verificãri și încercãri cu cabina încãrcatã cu sarcina
+nominalã pentru ascensoarele electrice
+6.5.2.1. Paracãzãtoarele cabinei Ñ paracãzãtor cu prizã instantanee
+
+Încercarea trebuie sã se facã la coborâre, cu cabina
+încãrcatã cu sarcina nominalã distribuitã uniform în cabinã,
+la viteza nominalã, troliul oprindu-se și paracãzãtoarele
+fixându-se pe glisiere.
+Scopul încercãrii înainte de punerea în funcțiune este
+de a verifica montajul corespunzãtor, reglajul corespunzãtor
+și soliditatea ansamblului cabinã Ñ paracãzãtoare Ñ glisiere și fixarea acestora de clãdire.
+6.5.2.2. Tampoane pentru ascensoare electrice și ascensoare
+hidraulice cu tracțiune indirectã:
+
+1. tampoane cu acumulare de energie.
+Încercarea se efectueazã dupã cum urmeazã: cabina cu
+sarcina nominalã se așazã pe tampon/tampoane, se provoacã slãbirea cablurilor și se verificã dacã comprimarea
+corespunde cu cea menționatã în documentația tehnicã;
+2. tampoane cu acumulare de energie cu amortizarea
+mișcãrii de revenire și tampoane cu disipare de energie.
+Încercarea se efectueazã dupã cum urmeazã: cabina cu
+sarcina sa nominalã sau contragreutatea se pune în contact cu tampoanele la viteza nominalã sau la viteza pentru
+care a fost calculatã cursa tampoanelor, în cazul folosirii
+tampoanelor cu cursã redusã cu verificarea încetinirii. Dupã
+încercare trebuie controlat dacã nu s-a produs nici o deterioare care ar putea compromite utilizarea normalã a
+ascensorului.
+Se considerã cã este suficient controlul vizual.
+6.5.3. Verificãri și încercãri cu cabina încãrcatã cu 125 % din
+sarcina nominalã pentru ascensoarele electrice
+6.5.3.1. Elementele suspensiei și sistemele de fixare
+
+Trebuie verificatã conformitatea caracteristicilor acestora
+cu cele indicate în cartea ascensorului și dacã nu au
+apãrut deformații în timpul sau dupã efectuarea încercãrii.
+6.5.3.2. Sistemul de frânare
+
+Încercarea trebuie sã se facã la coborâre, cu viteza
+nominalã, cu 125% din sarcina nominalã și cu întreruperea
+alimentãrii motorului și a frânei.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+Frâna trebuie sã opreascã singurã troliul, cabina
+deplasându-se cu viteza nominalã și având sarcina nominalã mãritã cu 25%.
+Dacã efortul manual necesar pentru deplasarea cabinei
+la urcare cu sarcina sa nominalã nu depãșește 400 N, troliul trebuie prevãzut cu un dispozitiv manual de manevrã
+de urgențã care sã permitã aducerea acesteia la una dintre stații cu ajutorul unei roți volante netede, fãrã spițe.
+Dacã volanta este demontabilã, aceasta trebuie sã se
+afle într-un loc accesibil din camera mașinii. Trebuie sã fie
+ușor de identificat dacã existã riscul unei confuzii asupra
+troliului pentru care este destinat.
+La montarea volantei pe troliu trebuie activat, cel mai
+târziu pânã la fixarea pe acesta, un dispozitiv electric de
+securitate.
+6.5.3.3. Verificarea aderenței
+
+Aderența se verificã prin efectuarea unor opriri repetate
+cu frânarea cea mai puternicã compatibilã cu instalația,
+prin întreruperea alimentãrii ascensorului cu energie electricã.
+La fiecare încercare trebuie sã se obținã oprirea completã a cabinei.
+Încercarea trebuie sã fie efectuatã la coborâre, cu
+cabina încãrcatã cu 125% din sarcina nominalã, în partea
+de jos a cursei.
+6.5.3.4. Paracãzãtoarele cabinei Ñ paracãzãtor cu frânare progresivã
+
+Încercarea trebuie sã se facã la coborâre, cu cabina
+încãrcatã cu 125% din sarcina nominalã distribuitã uniform
+în cabinã, la vitezã nominalã sau mai micã, troliul oprindu-se
+în momentul prinderii paracãzãtoarelor pe glisiere. Dupã
+încercare trebuie sã se asigure cã nu s-a produs nici o
+deteriorare care ar putea compromite funcționarea normalã
+a ascensorului. Dacã este necesar se pot înlocui elementele deteriorate.
+Controlul vizual este considerat suficient.
+6.5.4. Verificãri și încercãri pentru ascensoarele hidraulice
+
+6.5.4.1. Încercãrile și verificãrile funcționale menționate
+la pct. 6.5.1.1, 6.5.1.2, 6.5.1.3, 6.5.1.5 și 6.5.1.8 sunt valabile și pentru ascensoarele hidraulice.
+6.5.4.2. Verificãrile și încercãrile cu cabina încãrcatã cu
+sarcina nominalã, menționate la pct. 6.5.2, sunt valabile și
+pentru ascensoarele hidraulice.
+6.5.4.3. În cazul verificãrilor și încercãrilor cu cabina
+încãrcatã cu 125% din sarcina nominalã, în locul încercãrii
+se va accepta declarația de conformitate a valvei de rupturã (supapã de reținere a fluidului) furnizatã de
+producãtorul acesteia.
+6.5.4.4. Se vor efectua și urmãtoarele verificãri și
+încercãri:
+Ñ verificarea limitãrii cursei pistonului Ñ se verificã
+dacã pistonul se oprește cu efect de amortizare;
+Ñ verificarea presiunii la sarcina maximã Ñ se citește
+presiunea la sarcina maximã la manometrul grupului de
+pompare;
+Ñ verificarea reductorului de debit sau a clapetei de
+frânare;
+Ñ verificarea etanșeitãții Ñ la ascensorul hidraulic
+încãrcat cu sarcina nominalã, având distribuitorul electrohidraulic pe poziția zero și cabina situatã în poziția limitã
+superioarã, nu trebuie sã se înregistreze o coborâre a
+cabinei mai mare de 10 mm, în timp de 10 minute, datoritã neetanșeitãților circuitului hidraulic;
+Ñ verificarea limitatorului de timp al menținerii sub tensiune a motorului electric Ñ se verificã reglajul timpului de
+declanșare (prin simularea funcționãrii grupului de pompare);
+Ñ verificarea dispozitivului electric de detectare a temperaturii.
+6.6. Concluziile încercãrilor și verificãrilor
+
+6.6.1. Dacã rezultatele verificãrilor și încercãrilor, comparativ cu prevederile documentației tehnice și ale prezentei
+
+9
+
+prescripții tehnice, au corespuns, se întocmește un procesverbal de verificare, conform modelului din anexa D, prin
+care se acordã autorizația de funcționare, fixându-se scadența (luna și anul) urmãtoarei verificãri, care nu va fi mai
+mare de 3 ani. Scadența de verificare se stabilește în
+raport cu complexitatea, locul de instalare, condițiile de
+mediu și regimul de funcționare (frecvența de conectare și
+durata de conectare) ale ascensorului.
+Dacã rezultatele sunt necorespunzãtoare, deficiențele se
+consemneazã în procesul-verbal și nu se acordã autorizația
+de funcționare.
+6.6.2. Este interzisã acordarea autorizației de funcționare
+în urmãtoarele cazuri:
+¥ cartea ascensorului Ñ partea tehnicã Ñ și manualul
+de instrucțiuni lipsesc sau sunt incomplete;
+¥ lipsesc sau funcționeazã defectuos componentele de
+securitate;
+¥ frâna funcționeazã defectuos;
+¥ sistemul de semnalizare opticã și acusticã este incomplet sau funcționeazã defectuos;
+¥ instalația electricã este executatã defectuos și prezintã
+pericol de electrocutare;
+¥ elementele de rezistențã ale cabinei sunt fixate
+necorespunzãtor;
+¥ glisierele prezintã abateri fațã de planul de montaj;
+¥ șuruburi lipsã sau slãbite la troliu, cabinã, glisiere etc.;
+¥ lipsa certificatului privind mãsurãtorile împotriva tensiunii
+de atingere (priza de împãmântare);
+¥ lipsa certificatului privind rezistența de izolație;
+¥ la verificãrile și încercãrile efectuate conform
+pct. 6.5.1, 6.5.2, 6.5.3 și 6.5.4 s-au obținut rezultate
+necorespunzãtoare;
+¥ lipsa însoțitorului (liftierului) autorizat la ascensoarele
+prevãzute cu însoțitor prin documentația tehnicã.
+6.6.3. De asemenea, nu se va acorda autorizația de
+funcționare dacã în timpul verificãrilor tehnice și al
+încercãrilor se constatã orice altã defecțiune care pericliteazã securitatea în funcționare a ascensorului.
+6.6.4. Deficiențele minore, altele decât cele prevãzute la
+pct. 6.6.2 și 6.6.3, menționate în procesul-verbal de verificare, trebuie sã fie remediate în termenele stabilite și se
+acordã autorizația de funcționare condiționat. Neîndeplinirea
+dispozițiilor date prin procesul-verbal atrage anularea autorizației de funcționare la expirarea termenului stabilit pentru
+remedieri.
+6.6.5. Procesul-verbal menționat la pct. 6.6.1 se
+întocmește în cartea ascensorului Ñ partea de exploatare.
+6.6.6. Partea tehnicã, manualul de instrucțiuni, împreunã
+cu partea de exploatare, formeazã cartea ascensorului care
+se elibereazã montatorului sau deținãtorului de cãtre
+ISCIRÐINSPECT IT în raza cãreia se aflã ascensorul,
+ștampilatã și prevãzutã cu numãrul din evidența
+ISCIRÐINSPECT. Metodologia de întocmire a cãrții ascensorului, pãstrarea acesteia și evidența ascensoarelor vor
+respecta prevederile din anexa M.
+7. Examinãri, încercãri și verificãri tehnice periodice
+programate și neprogramate
+7.1. Verificarea tehnicã periodicã și verificarea tehnicã neprogramatã
+
+7.1.1 În timpul exploatãrii ascensoarele sunt supuse la
+termenul scadent unor verificãri tehnice oficiale periodice.
+Cu aceastã ocazie se verificã starea tehnicã a ascensorului
+și se acordã, dupã caz, autorizația de funcționare în continuare. Verificãrile se vor efectua de ISCIRÐINSPECT IT în
+a cãrei razã de activitate se aflã ascensorul sau de RVTA,
+conform metodologiei prevãzute în anexa M, cu împuternicire scrisã din partea ISCIRÐINSPECT. Dacã rezultatele
+verificãrilor tehnice și ale încercãrilor, comparativ cu prevederile documentației tehnice însoțitoare și ale prezentei prescripții tehnice, au corespuns, se întocmește un
+proces-verbal de verificare prin care se acordã autorizarea
+de funcționare în continuare, fixându-se și scadența (luna
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+
+și anul) urmãtoarei verificãri tehnice oficiale, care nu va fi
+mai mare de 3 ani. Scadența se stabilește în funcție de
+complexitatea, locul de instalare, condițiile de mediu și de
+regimul de funcționare (durata de acționare și frecvența de
+conectare), vechimea în serviciu și de starea tehnicã ale
+ascensorului. Dacã rezultatele sunt necorespunzãtoare, deficiențele se consemneazã în procesul-verbal și nu se
+acordã autorizația de funcționare.
+7.1.2. La verificarea tehnicã oficialã periodicã este obligatorie prezența delegatului deținãtorului și a delegatului
+întreținãtorului.
+7.1.3. Autorizarea funcționãrii în continuare a ascensoarelor, cu ocazia verificãrii tehnice oficiale periodice care se
+efectueazã de cãtre RVTA, se va efectua în aceleași
+condiții ca și autorizarea de funcționare efectuatã de cãtre
+inspectorii de specialitate ai ISCIRÐINSPECT.
+7.1.4. Autorizarea de funcționare în continuare se va
+acorda numai dacã la verificãrile tehnice și încercãrile efectuate se constatã îndeplinirea tuturor condițiilor de securitate prevãzute în prezenta prescripție tehnicã.
+Rezultatele verificãrii tehnice se vor consemna în cartea
+ascensorului Ñ partea de exploatare.
+În cazul prevãzut la pct. 7.1.3 un exemplar al procesului-verbal de verificare se va înainta imediat la ISCIRÐ
+INSPECT IT în a cãrei razã de activitate se aflã ascensorul.
+7.1.5. În cazul în care inspectorul de specialitate
+ISCIRÐINSPECT nu s-a putut prezenta din motive obiective
+la data stabilitã, se va stabili de comun acord cu
+întreținãtorul o nouã datã de verificare. Cel mai târziu termen va fi cu cel puțin 48 de ore înainte de depãșirea scadenței (ultima zi a lunii scadente). Dacã nici la aceastã
+datã inspectorul de specialitate al ISCIRÐINSPECT, din
+motive obiective, nu s-a prezentat, RVTA va proceda la
+verificarea tehnicã a ascensoarelor fãrã nici o altã comunicare.
+În situația în care ascensorul funcționeazã cu scadența
+de verificare depãșitã sau neautorizat, întreținãtorul este
+obligat sã opreascã ascensorul din funcțiune.
+7.1.6. Inspectorii de specialitate ai ISCIRÐINSPECT au
+dreptul de a efectua verificãri tehnice prin sondaj, neprogramate, la toate ascensoarele supuse prevederilor prezentei prescripții tehnice, precum și de a efectua verificãri prin
+sondaj asupra modului în care reparatorii, întreținãtorii și
+deținãtorii respectã prevederile prezentei prescripții tehnice.
+De asemenea, personalul responsabil cu supravegherea
+și verificarea tehnicã a instalațiilor (RSVTI) al deținãtorului
+și personalului tehnic de specialitate responsabil cu supravegherea lucrãrilor de întreținere al întreținãtorului au dreptul de a efectua verificãri tehnice inopinate la ascensoarele
+aflate în exploatare, luând, dupã caz, mãsurile necesare
+pentru respectarea prevederilor prezentei prescripții tehnice.
+Verificãrile tehnice inopinate (neprogramate) nu sunt considerate verificãri tehnice oficiale.
+7.1.7. Examinãrile și încercãrile periodice nu trebuie sã fie
+mai dure decât cele cerute înainte de punerea în funcțiune a
+ascensorului. Aceste încercãri nu trebuie, prin repetarea lor,
+sã cauzeze uzura excesivã sau scãderea rezistenței care ar
+duce la diminuarea securitãții ascensorului.
+7.1.8. Cu ocazia verificãrii tehnice oficiale periodice se
+vor efectua:
+a) pentru ascensoarele noi care intrã sub incidența
+Hotãrârii Guvernului nr. 225/2002, examinãrile și încercãrile
+funcționale menționate la pct. 6.5, ținând cont de
+precizãrile de la pct. 7.1.7;
+b) pentru ascensoarele montate și puse în funcțiune
+pânã la data de 31 decembrie 2002 și cele montate și
+puse în funcțiune pânã la 31 decembrie 2003, care erau în
+curs de realizare la data de 2 aprilie 2002, verificãrile tehnice și încercãrile funcționale menționate la pct. 7.1.8.1.,
+inclusiv încercãrile statice și dinamice menționate la
+pct. 7.1.8.2 și 7.1.8.3.
+
+Totodatã se va verifica dacã sunt asigurate o întreținere
+și o supraveghere corespunzãtoare a ascensoarelor și dacã
+cele prevãzute cu însoțitor (liftier) sunt manevrate de personal
+deservent autorizat de ISCIRÐINSPECT.
+7.1.8.1. Verificãri tehnice și încercãri funcționale
+
+Verificãrile tehnice și încercãrile funcționale se efectueazã în condiții normale de exploatare, examinându-se:
+¥ funcționarea corespunzãtoare a componentelor de
+securitate ale ascensorului;
+¥ funcționarea corespunzãtoare a frânei;
+¥ funcționarea normalã a troliului și a motorului de
+acționare, urmãrindu-se, printre altele, dacã se produc
+încãlziri, pierderi de ulei, vibrații etc.;
+¥ funcționarea normalã a aparatajului din camera troliului
+(de exemplu: placã electronicã, contactoare, relee, selectoare etc.);
+¥ opririle cabinei în stații, ținându-se cont de toleranțele
+admise;
+¥ aparatajul electric de protecție, sub aspectul respectãrii
+timpului de declanșare prescris de producãtor;
+¥ funcționarea instalațiilor electrice de forțã, comandã și
+semnalizare ale ascensorului, conform schemelor electrice;
+¥ elementele cinematice și statice ale ascensorului (glisiere, elemente de suspendare, cabinã etc.).
+7.1.8.2. Încercarea staticã
+
+7.1.8.2.1. Încercarea staticã are drept scop, printre
+altele, verificarea alunecãrii cablurilor de tracțiune în canalele roții de fricțiune, verificarea rezistenței troliului, verificarea rezistenței jugului cabinei și a suspensiei aferente și
+verificarea siguranței frânei.
+Încercarea staticã se efectueazã cu cabina situatã la
+stația cea mai de jos, timp de 10 minute, încãrcatã cu:
+a) 1,5 x sarcina nominalã, la ascensoarele cu tambur și
+la ascensoarele pentru materiale cu roatã de fricțiune;
+b) 2 x sarcina nominalã, la toate tipurile de ascensoare
+cu roatã de fricțiune cu care circulã persoane.
+7.1.8.2.2. La ascensoarele hidraulice încãrcate cu o sarcinã egalã cu 1,5 x sarcina nominalã, având distribuitorul
+electrohidraulic pe poziția zero și cabina situatã în poziția
+limitã superioarã, nu trebuie sã se înregistreze o coborâre
+a cabinei mai mare de 100 mm, în timp de 10 minute,
+datoritã neetanșeitãților circuitului hidraulic.
+7.1.8.2.3. În timpul încercãrii statice este interzis accesul
+persoanelor în cabinã.
+Sarcina de încercare va fi constituitã numai din greutãți
+etalonate și certificate metrologic, care vor fi puse la dispoziție de întreținãtor.
+7.1.8.3. Încercarea dinamicã
+
+7.1.8.3.1. Încercarea dinamicã are drept scop, printre
+altele, verificarea funcționãrii troliului, a motorului de
+acționare, a frânei, a aparatelor de comandã, a dispozitivelor de oprire a cabinei în stații, a dispozitivelor de zãvorâre
+mecanicã și electricã a ușilor de acces la puț, a contactelor
+de securitate, precum și a semnalizãrilor optice și acustice.
+Încercarea dinamicã se efectueazã prin deplasãri repetate ale cabinei încãrcate o datã cu sarcina nominalã și
+apoi cu o sarcinã egalã cu 1,1 x sarcina nominalã, în regimul de funcționare prescris de producãtor.
+În timpul încercãrii dinamice este interzis accesul persoanelor în cabinã.
+Sarcina de încercare va fi constituitã numai din greutãți
+etalonate și certificate metrologic, care vor fi puse la dispoziție de întreținãtor.
+7.1.8.3.2. În cadrul încercãrii dinamice se va verifica
+buna funcționare a limitatorului de vitezã și a paracãzãtoarelor. În timpul acestei verificãri sarcina de încercare va fi
+constituitã numai din greutãți.
+7.1.8.3.3. La ascensoarele cu roatã de fricțiune și cu
+viteza cabinei pânã la 1 m/s inclusiv, verificarea funcționãrii
+paracãzãtoarelor se face prin acționarea limitatorului de
+vitezã, trecând cablul de acționare al acestuia pe canalul
+de probã, mãrind astfel numãrul de rotații ale limitatorului.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+Dacã lipsește canalul de probã se va lua în considerare
+garanția producãtorului limitatorului, dacã sigiliul pus de
+acesta este intact și viteza nominalã de pe eticheta limitatorului corespunde cu cea a cabinei ascensorului. În acest
+caz verificarea funcționãrii paracãzãtoarelor se face prin
+blocarea limitatorului de vitezã, respectiv a cablului acestuia.
+7.1.8.3.4. La ascensoarele cu viteza nominalã a cabinei
+mai mare de 1 m/s, verificarea funcționãrii paracãzãtoarelor
+se va face fie prin mutarea cablului limitatorului de vitezã
+pe canalul de probã, fie, în cazul în care existã aceastã
+posibilitate, prin majorarea vitezei cabinei cu mijloace electrice.
+7.1.8.3.5. Verificarea funcționãrii paracãzãtoarelor se va
+face cu cabina sau cu contragreutatea, dupã caz, în apropierea celei mai de jos stații.
+7.1.9. Dacã la verificarea tehnicã periodicã se constatã
+defecțiuni, ascensorul va fi oprit din funcțiune sau, de la
+caz la caz, va fi autorizat sã funcționeze în continuare cu
+o sarcinã nominalã redusã corespunzãtor. Cauzele reducerii sarcinii nominale se vor menționa atât în procesul-verbal
+de verificare din cartea ascensorului, cât și în registrul de
+supraveghere a acestuia. De asemenea, se vor preciza
+eventualele mãsuri suplimentare stabilite pentru funcționarea în condiții de securitate a ascensorului, precum și termenele de realizare a acestora. Nerespectarea termenelor
+stabilite atrage anularea autorizației de funcționare acordate.
+7.1.10. Este interzisã acordarea autorizației de
+funcționare cu condiția înlãturãrii ulterioare a unor deficiențe
+care afecteazã securitatea în funcționare, în urmãtoarele
+cazuri:
+¥ cartea ascensorului (partea de construcție și partea de
+montaj, respectiv partea tehnicã și manualul de instrucțiuni)
+lipsește sau este incompletã;
+¥ lipsesc sau funcționeazã defectuos componentele de
+securitate;
+¥ frâna funcționeazã defectuos;
+¥ sistemul de semnalizare opticã și acusticã este incomplet sau funcționeazã defectuos;
+¥ instalația electricã este executatã defectuos și prezintã
+pericol de electrocutare;
+¥ elementele de rezistențã ale cabinei sunt fixate necorespunzãtor;
+¥ glisierele prezintã abateri vizibile de la verticalitate;
+¥ șuruburi lipsã sau slãbite la troliu, cabinã, glisiere
+etc.;
+¥ lipsa certificatului privind mãsurãtorile împotriva tensiunii de atingere;
+¥ lipsa certificatului privind rezistența de izolație;
+¥ la încercãrile statice și dinamice (pct. 7.1.8.2 și
+7.1.8.3), respectiv la încercãrile și verificãrile menționate la
+pct. 6.5, s-au obținut rezultate necorespunzãtoare;
+¥ cablurile de tracțiune au atins limita de uzurã admisã,
+conform prevederilor prescripției tehnice PT R14Ð2002;
+¥ troliul sau piesele componente ale acestuia au defecte
+vizibile periculoase (de exemplu: uzuri, jocuri etc.) care
+depãșesc limitele prevãzute în instrucțiunile de exploatare
+a ascensorului sau prezintã alte defecte periculoase (de
+exemplu: fisuri, crãpãturi etc.);
+¥ aparatajul electric de comandã și protecție se aflã în
+stare avansatã de uzurã sau nu prezintã siguranțã în
+funcționare;
+¥ rezistența de izolație a conductorilor electrici nu mai
+este corespunzãtoare, iar legãtura electricã la pãmânt are
+o rezistențã mai mare de 4 ohmi;
+¥ glisierele nu sunt suficient de rigid fixate și se deplaseazã în timpul mișcãrii cabinei;
+¥ lipsesc geamuri sau împrejmuiri necesare și corespunzãtoare la cabinã și, respectiv, la puț, din care cauzã
+se pot produce avarii sau accidente;
+¥ întreținerea și revizia generalã a ascensorului nu se
+fac printr-un agent economic întreținãtor autorizat de
+
+11
+
+ISCIRÐINSPECT, nu se efectueazã regulat sau calitatea
+lucrãrilor este necorespunzãtoare;
+¥ neprezentarea cãrții ascensorului organului de control
+autorizat.
+7.1.11. De asemenea, nu se va acorda autorizația de
+funcționare în continuare dacã în timpul verificãrilor tehnice
+și al încercãrilor se constatã orice altã defecțiune care pericliteazã securitatea în funcționare a ascensorului.
+7.1.12. La ascensoarele prevãzute cu însoțitor, cu ocazia verificãrii tehnice periodice se va examina și pregãtirea
+profesionalã și comportarea liftierilor în timpul serviciului.
+7.2. Verificarea tehnicã dupã reparații
+
+7.2.1. Ascensoarele care au fost supuse unor lucrãri de
+reparații nu vor fi repuse în funcțiune decât pe baza unei
+verificãri tehnice oficiale efectuate de ISCIRÐINSPECT IT în
+a cãrei razã de activitate se aflã acestea sau de RVTA,
+cu împuternicire scrisã din partea ISCIRÐINSPECT, în conformitate cu prevederile anexelor I și M.
+7.2.2. Verificarea tehnicã oficialã dupã reparații va
+cuprinde examinarea elementelor supuse reparației, precum
+și efectuarea verificãrilor tehnice și încercãrilor menționate la:
+a) pct. 6.5 pentru ascensoarele care intrã sub incidența
+Hotãrârii Guvernului nr. 225/2002; aceste încercãri nu trebuie sã fie mai dure decât cele prevãzute pentru elementele originale, la punerea în funcțiune a ascensorului;
+b) pct. 7.1.8.1, 7.1.8.2 și 7.1.8.3 pentru ascensoarele
+montate și puse în funcțiune pânã la data de 31 decembrie 2002 și cele montate și puse în funcțiune pânã la 31
+decembrie 2003, care erau în curs de realizare la data de
+2 aprilie 2002.
+7.2.3. Reparațiile care se verificã de cãtre inspectorii de
+specialitate ai ISCIRÐINSPECT sau de cãtre responsabilul
+cu verificarea tehnicã a ascensoarelor (RVTA) pentru
+ascensoarele care nu intrã sub incidența Hotãrârii
+Guvernului nr. 225/2002 sunt menționate în anexa I
+pct. I.2.1, iar pentru ascensoarele care intrã sub incidența
+Hotãrârii Guvernului nr. 225/2002, modificãrile importante
+sau dupã avarii și accidente sunt menționate în anexa I
+pct. I.2.2.
+7.2.4. La verificarea tehnicã dupã reparație este obligatorie prezența delegaților deținãtorului, ai reparatorului și
+întreținãtorului. Concluziile verificãrii tehnice, documentele
+care se vor încheia și metodologia de verificare tehnicã
+trebuie sã fie în concordanțã cu prevederile pct. 7.1.1,
+7.1.3, 7.1.4, 7.1.9 și 7.1.10.
+8. Exploatarea
+8.1. Supravegherea
+
+8.1.1. Pentru funcționarea în condiții de siguranțã,
+ascensoarele vor fi supuse unui regim special de supraveghere în conformitate cu prevederile prezentei prescripții
+tehnice și ale instrucțiunilor de exploatare elaborate de producãtor/montator.
+8.1.1.1. Este obligatorie întreținerea ascensorului de
+cãtre un agent economic autorizat de ISCIRÐINSPECT. În
+caz contrar deținãtorul trebuie sã ia mãsurile necesare
+pentru oprirea din funcțiune a ascensorului.
+8.1.2. Supravegherea ascensoarelor trebuie sã fie încredințatã unei persoane, denumitã în cele ce urmeazã responsabil cu ascensoarele, numitã de cãtre deținãtor.
+Aceastã persoanã va fi:
+a) la agenți economici, instituții, spitale, hoteluri și similare: o persoanã numitã prin ordin scris al conducerii respective; aceastã persoanã este RSVTI și va fi autorizatã
+de ISCIRÐINSPECT conform prevederilor anexei V;
+b) la asociații de locatari/proprietari sau persoane fizice:
+un reprezentant al deținãtorului (care poate fi și un reprezentant al întreținãtorului); numele responsabilului cu ascensoarele va fi menționat în registrul de supraveghere a
+ascensorului.
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+
+8.1.3. Responsabilul cu ascensoarele are urmãtoarele
+sarcini:
+Ñ sã supravegheze funcționarea ascensoarelor și sã
+urmãreascã folosirea acestora în conformitate cu prevederile
+prezentei prescripții tehnice și ale instrucțiunilor de exploatare;
+Ñ sã urmãreascã efectuarea la termenele stabilite a
+lucrãrilor de întreținere, revizie tehnicã curentã și revizie generalã;
+Ñ sã urmãreascã efectuarea lunarã a instructajului de
+protecție a muncii și a instructajului profesional periodic cu
+toți însoțitorii de ascensoare (liftierii) și sã participe în comisia
+de examinare a acestora, conform prevederilor anexei O;
+Ñ sã ținã evidența și sã urmãreascã efectuarea la termenul scadent a verificãrilor tehnice oficiale programate,
+fãrã de care ascensoarele nu pot funcționa;
+Ñ sã urmãreascã pregãtirea ascensoarelor și a sarcinilor (greutãților etalonate) pentru efectuarea verificãrilor tehnice și a încercãrilor la suprasarcinã;
+Ñ sã urmãreascã realizarea la termenele stabilite a dispozițiilor obligatorii date de cãtre organul de control prin
+procesul-verbal de verificare și sã scrie în registrul de
+supraveghere a ascensorului toate observațiile constatate;
+Ñ sã solicite întreținãtorului oprirea din funcțiune a
+ascensoarelor în toate cazurile în care acestea nu mai prezintã siguranțã în funcționare;
+Ñ sã comunice reprezentanților întreținãtorului toate
+opririle accidentale sau alte defecțiuni la ascensoare, dar
+fãrã sã intervinã la acestea.
+8.1.4. Deținãtorii ascensoarelor trebuie sã posede câte
+un registru de supraveghere pentru fiecare ascensor. Acest
+registru se întocmește conform modelului prezentat în
+anexa A și se pãstreazã în camera mașinii. Responsabilul
+cu ascensoarele, liftierii, precum și reprezentantul
+întreținãtorului vor consemna în registrul de supraveghere
+toate deranjamentele și defecțiunile constatate în timpul
+exploatãrii ascensorului, efectuarea reviziei tehnice curente,
+precum și înlocuirea de componente ale ascensorului.
+Dupã remedierea defecțiunilor reprezentantul întreținãtorului
+va face mențiunile necesare în registrul de supraveghere.
+Responsabilul cu ascensoarele va confirma efectuarea
+lucrãrilor respective în funcție de consemnãrile din registrul
+de supraveghere. De asemenea, acesta va informa
+deținãtorul despre necesitatea unor reparații la ascensoare.
+8.1.5. Deținãtorii ascensoarelor vor stabili locul în care se
+vor pãstra cheile de la camera mașinii, camera roților de
+conducere, precum și de la alte uși încuiate care aparțin
+instalației de ascensor, pentru asigurarea unei intervenții operative și numai de cãtre persoane instruite în acest scop.
+Obligatoriu, un rând de chei va fi deținut de cãtre întreținãtor.
+8.1.6. Cu avizul prealabil al responsabilului cu ascensoarele se permite transportul bagajelor de mânã sau al
+unor obiecte de uz casnic în cabina ascensorului pentru
+persoane, cu condiția sã nu se depãșeascã sarcina nominalã a acestuia, sã nu se aducã prejudicii ascensorului și
+sã nu se creeze situații periculoase.
+8.2. Manevrarea
+
+8.2.1. Ascensoarele pentru persoane sau pentru persoane și materiale pot fi folosite de orice persoanã, în afarã
+de copiii sub 14 ani neînsoțiți sau de persoane cu greutatea sub 30 kg, cu respectarea instrucțiunilor de exploatare
+afișate în cabinã. Ascensoarele prevãzute sã funcționeze cu
+însoțitor vor fi manevrate numai de liftieri autorizați de
+ISCIRÐINSPECT, conform prevederilor anexei O.
+Nu se admite transportul persoanelor cu ascensoarele
+de materiale.
+8.2.2. În exercitarea atribuțiilor sale liftierul are urmãtoarele obligații principale:
+Ñ sã cunoascã ascensorul pe care lucreazã și instrucțiunile
+de exploatare a ascensorului și sã le aplice întocmai;
+Ñ sã anunțe responsabilul cu supravegherea și verificarea tehnicã a instalațiilor despre apariția unor defecțiuni la
+ascensor;
+Ñ sã nu efectueze nici o comandã atât timp cât existã
+persoane pe cabinã, în puț, în camera mașinii sau în camera
+
+roților de conducere; în cazul în care se fac verificãri și
+reglaje comenzile se pot efectua numai sub stricta supraveghere a reprezentantului întreținãtorului sau a responsabilului
+cu supravegherea și verificarea tehnicã a instalațiilor;
+Ñ sã interzicã accesul persoanelor strãine în camera
+mașinii, în camera roților de conducere și în puțul ascensorului;
+8.2.3. Sarcinile principale ale liftierului înainte de începerea lucrului sunt:
+Ñ sã nu intre în camera mașinii sau în cabina ascensorului sub influența alcoolului ori dacã este obosit sau bolnav, pentru a nu crea situații periculoase;
+Ñ sã verifice existența și funcționarea corectã a dispozitivelor de închidere și zãvorâre a ușilor de acces la puț;
+Ñ sã verifice funcționarea corectã a sistemelor de semnalizare opticã și acusticã;
+Ñ în cazul în care constatã o defecțiune nu va pune în
+funcțiune ascensorul și-l va anunța imediat pe responsabilul
+cu ascensoarele.
+8.2.4. Sarcinile principale ale liftierului în timpul lucrului
+sunt:
+Ñ sã urmãreascã folosirea ascensorului numai în scopul
+pentru care a fost construit, pus în funcțiune și autorizat;
+Ñ sã interzicã încãrcarea cabinei ascensorului peste
+sarcina nominalã prescrisã;
+Ñ sã nu încarce cabina ascensorului cu obiecte voluminoase care depãșesc gabaritul cabinei și pot crea situații
+periculoase;
+Ñ sã însoțeascã permanent cabina ascensorului, fiind
+interzisã încredințarea comenzilor unei persoane neautorizate;
+Ñ sã încarce sarcina uniform pe toatã suprafața cabinei
+ascensorului pentru a evita crearea de situații periculoase;
+Ñ sã urmãreascã poziționarea corespunzãtoare a sarcinii în cabina ascensorului și fixarea acesteia astfel încât în
+timpul deplasãrii cabinei sarcina sã nu cadã și sã-l accidenteze;
+Ñ sã nu permitã transportul de persoane cu ascensorul
+pentru materiale;
+Ñ sã nu permitã transportul de persoane o datã cu
+materialele;
+Ñ sã dea alarma în cazul în care cabina s-a oprit între
+stații și sã linișteascã pasagerii;
+Ñ sã interzicã pasagerilor sã intervinã la deschiderea
+ușilor sau sã pãrãseascã cabina când aceasta nu se aflã
+în stație;
+Ñ sã opreascã ascensorul din funcțiune când aude zgomote anormale și suspecte în timpul deplasãrii cabinei, când
+una dintre componentele de securitate nu funcționeazã
+corespunzãtor sau când constatã alte defecțiuni care pot
+periclita securitatea în funcționare a ascensorului.
+8.2.5. Sarcinile principale ale liftierului dupã terminarea
+lucrului sunt:
+Ñ sã descarce cabina ascensorului de orice sarcinã;
+Ñ sã deplaseze cabina la palierul stabilit de deținãtorul
+ascensorului;
+Ñ sã curețe cabina ascensorului;
+Ñ sã întrerupã alimentarea cu energie electricã a
+ascensorului.
+Liftierul este obligat sã opreascã din funcțiune ascensorul ori de câte ori constatã deficiențe care afecteazã securitatea în funcționare a acestuia. Deficiențele constatate le
+va aduce la cunoștințã responsabilului cu acensoarele.
+8.2. Întreținerea și revizia tehnicã
+
+8.3.1. În timpul exploatãrii, ascensoarele vor fi supuse
+unor lucrãri de întreținere, revizie tehnicã curentã și revizie
+generalã care se vor executa numai de întreținãtori autorizați de ISCIRÐINSPECT, conform prevederilor anexei B.
+Condiția de bazã pe care trebuie sã o satisfacã
+întreținerea ascensoarelor și componentelor de securitate
+aferente acestora este asigurarea funcționãrii în condiții de
+securitate pe toatã perioada de utilizare prevãzutã în documentația tehnicã a ascensorului.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+Condițiile privind autorizarea întreținãtorilor, precum și
+obligațiile și responsabilitãțile ce revin acestora sunt
+prevãzute în anexa B.
+8.3.2. Agentul economic care efectueazã întreținerea și
+reviziile tehnice curente rãspunde de buna funcționare a
+ascensorului și de calitatea lucrãrilor executate, de reglarea
+corespunzãtoare a ascensorului, conform indicațiilor producãtorului sau montatorului. Reglarea componentelor de
+securitate se poate face numai în limitele și în modul precizate de producãtor în instrucțiunile de exploatare. În registrul de supraveghere a ascensorului reprezentantul sãu
+va consemna tipul lucrãrilor executate (întreținere, revizie
+tehnicã curentã etc.) și principalele operații efectuate.
+Periodicitatea efectuãrii lucrãrilor de întreținere, revizii tehnice curente și revizii generale se stabilește de agentul
+economic care executã aceste lucrãri în acord cu
+deținãtorul, ținând seama, printre altele, de:
+Ñ destinația ascensorului;
+Ñ starea sa tehnicã;
+Ñ condițiile de mediu;
+Ñ vechimea ascensorului;
+Ñ regimul de funcționare (frecvența de conectare și
+durata de acționare).
+Periodicitatea lucrãrilor menționate mai sus și numele
+șefului echipei care executã aceste lucrãri se vor consemna în registrul de supraveghere a ascensorului.
+Reviziile tehnice curente se vor efectua de minimum
+douã ori pe lunã, în funcție de condițiile de lucru
+menționate mai sus.
+8.3.3. În cadrul lucrãrilor periodice de întreținere și revizii tehnice curente trebuie sã se execute cel puțin urmãtoarele operații, care trebuie sã fie menționate în contractul de
+întreținere a ascensorului:
+a) curãțarea troliului, camerei mașinii, camerei roților de
+conducere, cabinei și puțului;
+b) completarea cu ulei a bãii troliului și a tuturor lagãrelor;
+c) verificarea stãrii de uzurã a lagãrelor și a bunei
+funcționãri a sistemelor de ungere;
+d) umplerea cu unsoare consistentã a ungãtoarelor și
+verificarea gresãrii;
+e) verificarea îmbinãrilor cu șuruburi de la troliu;
+f) stabilirea gradului de uzurã al saboților frânei, verificarea funcționãrii frânei și reglarea acesteia;
+g) curãțarea și reglarea inelelor colectoare și a periilor
+electromotorului, precum și verificarea bunei stãri a elementelor din cauciuc de la cuplajul elastic al troliului;
+h) verificarea și reglarea strângerii rulmentului axial al
+reductorului melcat;
+i) stabilirea gradului de uzurã al cablurilor de tracțiune a
+cabinei și contragreutãții, al cablului limitatorului de vitezã,
+al cablului și lanțului de la selector, în conformitate cu prevederile prescripției tehnice PT R 14Ð2002;
+j) ungerea pieselor supuse frecãrii (balamale, dispozitive
+de închidere a ușilor cabinei etc.);
+k) verificarea funcționãrii normale a sistemului electric
+de forțã, comandã și semnalizare;
+l) verificarea siguranțelor fuzibile;
+m) verificarea funcționãrii componentelor de securitate în
+condițiile stabilite de producãtor;
+n) verificarea și reglarea sistemului de demaraj;
+o) verificarea și reglarea opririi cabinei în stații;
+p) verificarea uniformitãții întinderii cablurilor de tracțiune
+și egalizarea acestora;
+q) verificarea uzurii ghidajelor (patine, role etc.) cabinei
+și contragreutãții;
+r) ungerea glisierelor cabinei și contragreutãții; spãlarea
+glisierelor se va face cel puțin o datã la 3 luni;
+s) verificarea sistemului de semnalizare opticã și acusticã;
+t) verificarea funcționãrii normale a ascensorului dupã
+efectuarea întreținerii;
+
+13
+
+u) verificarea existenței instrucțiunilor de exploatare și a
+plãcuțelor indicatoare ale sarcinii nominale în cabinã și pe
+ușile de acces la puț;
+v) consemnarea tuturor defecțiunilor constatate, a celor
+remediate și, dacã este cazul, a pieselor de uzurã înlocuite
+în registrul de supraveghere a ascensorului.
+8.3.4. Constatãrile și remedierile efectuate cu ocazia
+lucrãrilor de întreținere se vor consemna în registrul de
+supraveghere a ascensorului. De asemenea, în cazul constatãrii unor defecțiuni importante, care necesitã oprirea din
+funcțiune a ascensorului pe o perioadã mai mare în vederea efectuãrii reparațiilor necesare, va fi informat deținãtorul
+ascensorului. În registrul de supraveghere a ascensorului
+se vor consemna data și ora începerii și, respectiv, terminãrii lucrãrilor de întreținere planificate sau accidentale.
+8.3.5. În cazul în care, cu ocazia efectuãrii lucrãrilor de
+întreținere, sunt constatate deficiențe care afecteazã securitatea în funcționare a ascensorului, întreținãtorul, prin personalul
+sãu tehnic de specialitate, este obligat sã opreascã ascensorul din funcțiune, fãcând mențiunea respectivã în registrul de
+supraveghere a ascensorului. De asemenea, va anunța imediat ISCIRÑINSPECT IT la care este înregistrat ascensorul.
+8.3.6. Dacã un ascensor a fost oprit din funcțiune mai
+mult de 15 zile, repunerea acestuia în funcțiune se va face
+numai dupã o revizie tehnicã generalã efectuatã de un
+întreținãtor autorizat de ISCIRÑINSPECT.
+8.3.7. În timpul efectuãrii lucrãrilor de întreținere sau de
+revizii tehnice curente, echipa de întreținere trebuie sã
+afișeze pe toate ușile de acces la puț tãblițe cu mențiunea
+”Ascensor în revizie,,, care interzic utilizarea ascensorului
+pe toatã durata lucrãrilor respective:
+8.3.8. Revizia generalã se va efectua obligatoriu la un
+interval de timp cuprins între 6 luni și cel mult 2 ani, în
+funcție de:
+Ñ destinația ascensorului;
+Ñ starea sa tehnicã;
+Ñ condițiile de mediu;
+Ñ vechimea ascensorului;
+Ñ regimul de funcționare (frecvența de conectare și
+durata de acționare).
+Neefectuarea reviziei generale pânã la termenul stabilit
+conduce la oprirea din funcțiune a ascensorului de cãtre
+întreținãtor, cu anunțarea ISCIRÑINSPECT. Data efectuãrii
+reviziei generale se va consemna în cartea ascensorului.
+Revizia generalã are drept scop asigurarea continuitãții în
+funcționarea ascensorului și remedierea deficiențelor
+rãmase nerezolvate și semnalate în cadrul lucrãrilor de
+întreținere. Se recomandã ca lucrãrile de revizie generalã a
+ascensorului sã se execute de alt personal tehnic de specialitate decât cel care efectueazã întreținerea sau reviziile
+tehnice curente.
+8.3.9. Revizia generalã constã în examinarea generalã
+a ascensorului și în remedierea deficiențelor constatate și
+rãmase nerezolvate. Cu aceastã ocazie se vor efectua cel
+puțin urmãtoarele:
+Ñ demontarea pãrții superioare a carcasei reductorului
+și verificarea stãrii de uzurã a angrenajului arbore melcatÑ
+roatã melcatã, a lagãrelor și a rulmentului axial al reductorului;
+Ñ spãlarea lagãrelor motorului electric și schimbarea
+uleiului;
+Ñ spãlarea și montarea la loc a carcasei troliului și
+completarea cu ulei proaspãt;
+Ñ verificarea instalației electrice din camera mașinii, din
+puț și din cabina ascensorului;
+Ñ demontarea paracãzãtoarelor, spãlarea, ungerea și
+verificarea funcționãrii acestora;
+Ñ demontarea roții de conducere, spãlarea și ungerea
+axelor și lagãrelor.
+8.3.10. Calitatea reviziilor generale va fi confirmatã
+printr-un certificat de calitate (raport de verificare) și printr-un
+certificat de garanție, eliberate de agentul economic care a
+efectuat lucrãrile respective, care se va anexa de cãtre
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+
+deținãtor dupã recepția lucrãrilor respective la cartea
+ascensorului Ñ partea de exploatare.
+8.3.11. Ñ Personalul tehnic de întreținere a ascensoarelor desemnat de agentul economic de întreținere trebuie
+sã fie examinat de ISCIRÑINSPECT, în ceea ce privește
+cunoștințele teoretice și practice, o datã cu reactualizarea
+autorizației agentului economic de întreținere. Metodologia
+de examinare a personalului tehnic de întreținere este
+cuprinsã în anexa B.
+8.3.12. Agenții economici de întreținere trebuie sã comunice trimestrial la ISCIRÑINSPECT situația ascensoarelor
+aflate în întreținere (pe suport hârtie și pe suport magnetic).
+9. Avarii și accidente
+9.1. În cazul accidentelor de persoane sau al avariilor,
+care determinã oprirea din funcțiune a ascensoarelor, atât
+deținãtorii acestora, cât și întreținãtorii sunt obligați sã
+anunțe, telefonic sau prin fax, în cel mult 12 ore de la
+constatare, ISCIRÑINSPECT IT la care sunt înregistrate
+ascensoarele respective, în vederea efectuãrii cercetãrilor
+tehnice necesare și obligatorii.
+9.2. Deținãtorul ascensorului și întreținãtorul sunt obligați
+sã ia toate mãsurile necesare astfel ca situația produsã de
+avarie sau în timpul accidentului sã rãmânã nemodificatã
+pânã la sosirea inspectorului de specialitate al ISCIRÑINSPECT IT la care este înregistrat ascensorul, cu excepția
+cazului când situația respectivã ar pune în pericol viața
+persoanelor sau ar crea alte situații periculoase. Atunci
+când este necesar sã se modifice starea de fapt din
+momentul avariei sau al accidentului, deținãtorul ascensorului
+va face, în prealabil, fotografii sau schițe ale locului unde
+s-a produs avaria ori accidentul.
+9.3. În vederea stabilirii cauzelor care au produs avarii
+sau accidente, deținãtorul ascensorului va trimite la laboratoare de specialitate, pentru cercetare, piese sau dispozitive, precum și probe de materiale, conform dispozițiilor
+consemnate în procesul-verbal de constatare.
+10. Dispoziții finale
+10.1. Prevederile prezentei prescripții tehnice se aplicã
+ascensoarelor în condițiile precizate la pct. 1.2.
+10.2. În cazul unor abateri de la prevederile prezentei
+prescripții tehnice, referitoare la montarea și repararea
+
+ascensoarelor, montatorii și reparatorii vor putea stabili, pe
+proprie rãspundere, soluții compensatoare, motivate corespunzãtor din punct de vedere tehnic, care sã nu afecteze
+securitatea în funcționare a ascensoarelor și sã excludã
+pericolul de avarii sau accidente. Montatorii și reparatorii
+care au stabilit astfel de soluții le vor supune avizãrii principalilor factori interesați: proiectant, producãtor, montator,
+deținãtor și ISCIRÑINSPECT.
+10.3. Nerespectarea prevederilor prezentei prescripții
+tehnice se sancționeazã conform legislației în vigoare,
+mergând pânã la retragerea autorizațiilor acordate.
+Nerespectarea prevederilor prezentei prescripții tehnice referitoare la componentele de securitate conduce inclusiv la
+retragerea autorizației acordate.
+10.4. Trimiterile fãcute în text la alte reglementãri tehnice sau documente normative se referã la edițiile în
+vigoare pe perioada aplicãrii prezentei prescripții tehnice.
+10.5. În cazul în care cartea ascensorului se deterioreazã sau se pierde, aceasta trebuie sã fie eliberatã în
+duplicat, la cererea deținãtorului, de cãtre ISCIRÑINSPECT
+IT la care este înregistrat ascensorul. Documentația tehnicã
+însoțitoare se va elabora conform modelului prezentat la
+pct. 6.3 de cãtre un proiectant de specialitate și va fi asiguratã de cãtre deținãtor.
+10.6. La orice reparație sau revizie tehnicã vor fi folosite doar componente de securitate cu marcaj de conformitate CE/CS.
+10.7. Înregistrarea în evidența tehnicã a ascensoarelor
+care intrã sub incidența domeniului de aplicare a Hotãrârii
+Guvernului nr. 225/2002 se va efectua separat fațã de
+celelalte ascensoare.
+10.8. Prezenta prescripție tehnicã intrã în vigoare la
+data de 1 ianuarie 2003, datã la care prescripțiile tehnice
+R2Ð88 ”Prescripții tehnice pentru proiectarea, construirea,
+montarea, exploatarea și verificarea ascensoarelor,, își înceteazã valabilitatea în condițiile precizate la art. 22 și 23 din
+Hotãrârea Guvernului nr. 225/2002.
+10.9. Orice alte dispoziții contrare prevederilor prezentei
+prescripții tehnice își înceteazã valabilitatea.
+ANEXA A
+la prescripția tehnicã
+
+REGISTRU
+
+de supraveghere pentru ascensoare
+Registrul de supraveghere se întocmește pentru fiecare
+ascensor și va cuprinde urmãtoarele:
+A.1. Pe copertã se vor menționa urmãtoarele:
+1. registru de supraveghere;
+2. denumirea și adresa deținãtorului;
+3. numãrul și anul fabricației ascensorului;
+4. numãrul de înregistrare în evidența ISCIR;
+5. caracteristicile tehnice principale ale instalației;
+6. periodicitatea stabilitã pentru lucrãrile de revizie
+tehnicã curentã și revizie generalã;
+7. prescripția tehnicã ce a stat la baza stabilirii
+celor de la pct. 6.
+În partea de jos se vor menționa urmãtoarele:
+ATENÞIE:
+
+Ñ Acest registru se va pãstra numai în camera mașinii.
+Ñ Cheile camerei mașinii se vor pãstra de cãtre
+deținãtorul și întreținãtorul ascensorului într-un loc potrivit,
+spre a fi la îndemânã pentru intervenții și întreținere.
+Ñ O datã cu predarea ascensorului de la o administrație
+la alta se va preda și registrul de supraveghere.
+Ñ Registrul de supraveghere este valabil numai dacã
+poartã semnãtura și viza inspectorului de specialitate
+ISCIRÑINSPECT pe ultima paginã.
+
+Ñ De ținerea în perfectã stare a registrului de supraveghere rãspund deținãtorul și întreținãtorul ascensorului.
+A.2. În interior, pe copertã, se vor scrie urmãtoarele:
+”Tabel cu numele echipei de întreținere,,, care se completeazã de șeful echipei care face întreținerea, cu
+urmãtoarele coloane:
+1. Nr. crt.
+2. Numele șefului de echipã
+3. și 4. Durata întreținerii fãcute de aceeași echipã,
+împãrțitã în douã coloane: data începerii și data terminãrii
+5. Observații.
+A.3. Pe prima și urmãtoarele file se vor scrie urmãtoarele:
+”Deranjamente și defecțiuni,,. Sub titlu se va scrie în
+parantezã: ”Se vor menționa, în ordinea constatãrii lor în
+timpul exploatãrii, de cãtre personalul de manevrare, personalul de întreținere, deținãtorul, respectiv responsabilul cu
+ascensoarele, precum și de cãtre inspectorul de specialitate
+al ISCIRÑINSPECT,,.
+Tabelul va avea urmãtoarele coloane:
+1. Numãrul curent
+2, 3 și 4. Data, împãrțitã în trei coloane (ziua, luna,
+anul).
+5. Deranjamente sau defecțiuni constatate în timpul
+exploatãrii
+
+15
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+6. Mãsuri de remediere
+7. Data și ora începerii și terminãrii lucrãrilor de reparații
+8. Numele și semnãtura celui care a fãcut constatarea
+sau remedierea
+9. Numele și semnãtura deținãtorului, respectiv ale responsabilului cu ascensoarele.
+
+A.4. Pe copertã, în interior, la sfârșitul registrului de
+supraveghere, se va scrie:
+Se certificã de noi cã prezentul registru, șnuruit,
+conține...... pagini numerotate (în cifre și în litere).
+(Numele, semnãtura și ștampila deținãtorului)
+ANEXA B
+la prescripția tehnicã
+
+AUTORIZAREA
+
+agenților economici pentru executarea lucrãrilor de reparații, revizii tehnice și întreținere a ascensoarelor
+B.1. În vederea acordãrii/reactualizãrii autorizației, agentul economic va înainta la ISCIRÑINSPECT în raza cãreia
+are sediul o documentație întocmitã conform anexei C.
+B.2. Prin agent economic se înțelege toate societãțile
+comerciale cu sediul în România, având personalitate juridicã, constituite în una dintre formele de organizare definite
+la art. 2 din Legea nr. 31/1990 și a cãror activitate,
+înscrisã la Oficiul registrului comerțului, cuprinde cel puțin
+unul dintre domeniile reglementate de prezenta prescripție
+tehnicã, precum și asociații sau organizații nonprofit având
+personalitate juridicã și sediul în România.
+B.3. Autorizația pentru executarea lucrãrilor de reparații,
+revizii tehnice și întreținere a ascensoarelor are o valabilitate de maximum 2 ani.
+B.4. Agenții economici autorizați sã execute lucrãri de
+reparații, revizii tehnice și întreținere a ascensoarelor au
+urmãtoarele obligații și rãspunderi:
+B.4.1. sã execute lucrãri în conformitate cu proiectul, cu
+prevederile procesului tehnologic de execuție, cu cele
+cuprinse în Sistemul de management al calitãții, cu cele
+din documentația de omologare/certificare, precum și cu
+cele din prezenta prescripție tehnicã și sã rãspundã de
+aplicarea corespunzãtoare a acestora în timpul utilizãrii
+instalației;
+B.4.2. sã pregãteascã și sã prezinte ascensoarele și
+toate documentațiile tehnice necesare, în timpul și la
+sfârșitul reparãrii, la verificãrile care se efectueazã de organele ISCIRÑINSPECT sau de RVTA;
+B.4.3. sã foloseascã la lucrãrile de reparare, revizii tehnice și întreținere a ascensoarelor numai personal calificat;
+personalul de specialitate pentru efectuarea lucrãrilor de
+reparare a ascensoarelor, desemnat de agentul economic,
+trebuie sã fie examinat anual de ISCIRÑINSPECT în ceea
+ce privește cunoștințele teoretice și practice; personalul de
+specialitate pentru efectuarea lucrãrilor de revizie tehnicã și
+întreținere a ascensoarelor, desemnat de agentul economic,
+trebuie sã fie examinat o datã cu verificarea în vederea
+acordãrii/reactualizãrii autorizației agentului economic; personalul de specialitate pentru efectuarea lucrãrilor de reparare
+a ascensoarelor trebuie sã facã dovada cã îndeplinește
+condițiile de sãnãtate pentru a putea practica activitatea
+respectivã și va prezenta o adeverințã medicalã cu
+mențiunea ”Apt din punct de vedere medical,,; rezultatele
+examinãrii/reexaminãrii vor fi consemnate într-un proces-verbal
+de verificare, conform modelului din anexa D; personalului
+tehnic declarat admis i se va elibera un carnet pentru
+activitatea de reparare/întreținere, conform modelului din
+anexa E, care va fi vizat de cãtre inspectorul de specialitate al ISCIRÑINSPECT la maximum 2 ani; carnetul eliberat este valabil numai pentru agentul economic care a
+obținut autorizația; autorizația de a efectua lucrãri de reparare, revizii tehnice și întreținere a ascensoarelor se elibereazã dacã tot personalul a fost declarat admis;
+B.4.4. sã întocmeascã și sã prezinte o datã cu ascensoarele documentația tehnicã pentru lucrãrile efectuate;
+B.4.5. sã numeascã personal tehnic propriu pentru
+supravegherea lucrãrilor care fac obiectul autorizãrii, ingineri
+și tehnicieni de specialitate, în raport cu numãrul și complexitatea instalațiilor, care sã fie autorizat în acest scop de
+
+ISCIRÑINSPECT IT în a cãrei razã are sediul agentul
+economic;
+B.4.6. sã numeascã personal tehnic propriu responsabil
+cu verificarea tehnicã a ascensoarelor (RVTA), ingineri cu o
+vechime în specialitate de minimum 5 ani, în raport cu
+numãrul și complexitatea instalațiilor, care sã fie autorizat
+în acest scop de ISCIRÑINSPECT IT în a cãrei razã are
+sediul agentul economic;
+B.4.7. sã posede prescripțiile tehnice specifice domeniului de lucrãri pentru care solicitã autorizarea;
+B.4.8. sã întocmeascã și sã ținã la zi un registru de
+evidențã pentru fiecare categorie de lucrãri pentru care au
+fost autorizate; registrele vor fi numerotate și vizate de
+ISCIRÑINSPECT IT în raza cãreia are sediul agentul economic și vor cuprinde datele prevãzute în anexa F; pentru
+agenții economici care au subunitãți în teritoriu va exista
+pentru fiecare subunitate un registru de evidențã a lucrãrilor
+executate;
+B.4.9. sã ia mãsuri corespunzãtoare astfel ca personalul
+tehnic propriu, autorizat de ISCIRÑINSPECT, sã-și poatã
+îndeplini în bune condiții sarcinile prevãzute la pct. B.6 și
+B.7 și sã comunice în scris la ISCIRÑINSPECT IT în a
+cãrei razã are sediul agentul economic orice schimbare a
+personalului tehnic respectiv, menționat la pct. B.4.5. și
+B.4.6, și sã o definitiveze numai dupã confirmarea acestuia
+de cãtre ISCIRÑINSPECT; pânã la definitivarea schimbãrii
+personalului tehnic respectiv nu se vor putea efectua lucrãri
+care fac obiectul autorizației;
+B.4.10. sã fie dotați cu mijloace tehnice corespunzãtoare
+în vederea înlãturãrii operative a deranjamentelor care se
+pot ivi în exploatare și sã ținã evidența deranjamentelor
+respective;
+B.4.11. sã prezinte ascensoarele la verificarea tehnicã
+oficialã la scadențã sau ori de câte ori se solicitã de cãtre
+ISCIRÑINSPECT;
+B.4.12. sã opreascã ascensoarele din funcțiune dacã în
+timpul exploatãrii apar deficiențe care pot avea ca urmare
+avarii sau accidente.
+B.5. Reparațiile executate la ascensoarele de categoria
+celor care nu trebuie sã fie verificate de organele ISCIRÑ
+INSPECT vor fi efectuate numai de agenți economici autorizați sã execute astfel de reparații.
+B.6. Personalului tehnic propriu autorizat de ISCIRÑ
+INSPECT pentru supravegherea lucrãrilor de reparare,
+întreținere și revizie tehnicã a ascensoarelor îi revin, conform specificului sãu de activitate, urmãtoarele obligații și
+rãspunderi:
+B.6.1. sã cunoascã legislația, prescripțiile tehnice specifice privind repararea, revizia tehnicã, întreținerea, exploatarea și verificarea ascensoarelor și standardele în
+domeniu;
+B.6.2. sã verifice documentația tehnicã întocmitã pentru
+lucrãrile efectuate (documentația de reparație), conform
+anexei I, precum și concordanța ascensorului cu documentația respectivã;
+B.6.3. sã verifice registrele de evidențã a lucrãrilor executate și sã urmãreascã ținerea la zi a acestora;
+B.6.4. sã participe la întrunirile și testãrile periodice
+organizate de ISCIRÑINSPECT;
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+
+B.6.5. sã ia mãsuri pentru oprirea din funcțiune a
+ascensoarelor care nu mai prezintã siguranțã în exploatare,
+anunțând aceste opriri la ISCIRÑINSPECT IT în a cãrei
+razã se aflã montat ascensorul;
+B.6.6. sã verifice periodic, cel puțin o datã pe an,
+pregãtirea tehnicã a personalului de reparare, revizie tehnicã și întreținere a ascensoarelor, consemnând rezultatele
+într-un proces-verbal;
+B.6.7. sã verifice, prin sondaj, ținerea la zi a registrelor
+de supraveghere a ascensoarelor, completarea corectã și
+consemnarea sub semnãturã.
+B.7. Personalului tehnic propriu autorizat de ISCIRÑ
+INSPECT pentru verificarea tehnicã a ascensoarelor
+(RVTA) îi revin, conform specificului sãu de activitate,
+urmãtoarele obligații și rãspunderi:
+B.7.1. sã cunoascã legislația, prescripțiile tehnice specifice privind repararea, revizia tehnicã, întreținerea, exploatarea și verificarea ascensoarelor și standardele în domeniu;
+B.7.2. sã ținã evidența ascensoarelor și sã urmãreascã
+efectuarea la termen a verificãrii tehnice oficiale și sã participe la efectuarea acesteia;
+B.7.3. sã urmãreascã pregãtirea ascensoarelor, echipamentelor și sarcinilor de încercare necesare pentru verificarea tehnicã oficialã și sã participe la efectuarea acesteia;
+B.7.4. sã supravegheze ca ascensoarele sã fie folosite
+în conformitate cu prevederile prezentei prescripții tehnice,
+cu instrucțiunile de exploatare și cu normele de protecția
+muncii;
+B.7.5. sã urmãreascã realizarea la termen a dispozițiilor
+date prin procesele-verbale cu ocazia verificãrilor tehnice
+oficiale, sã examineze în mod regulat registrul de evidența
+supravegherii și sã ia mãsuri pentru remedierea imediatã a
+defectelor semnalate;
+B.7.6. sã efectueze verificãri tehnice oficiale periodice și
+dupã reparații numai în condițiile prevãzute în prezenta
+prescripție tehnicã;
+B.7.7. sã verifice documentația tehnicã întocmitã pentru
+lucrãrile efectuate (documentația de reparație), conform
+anexei I, precum și concordanța ascensorului cu documentația respectivã;
+B.7.8. sã participe la întrunirile și testãrile periodice
+organizate de ISCIRÑINSPECT;
+
+B.7.9. sã ia mãsuri pentru oprirea din funcțiune a
+ascensoarelor care nu mai prezintã siguranțã în exploatare,
+anunțând aceste opriri la ISCIRÑINSPECT IT în a cãrei
+razã se aflã montat ascensorul.
+B.8. În vederea autorizãrii agenților economici de reparare, revizie tehnicã și întreținere a ascensoarelor, ISCIRÑ
+INSPECT prin inspectorii de specialitate are urmãtoarele
+obligații și rãspunderi;
+B.8.1. sã verifice concordanța dintre datele din documentația prezentatã de agenții economici care solicitã autorizarea și situația existentã la agentul economic;
+B.8.2. sã verifice personalul tehnic propus, în ceea ce
+privește pregãtirea în domeniu și cunoașterea prevederilor
+prescripțiilor tehnice specifice;
+B.8.3. sã verifice personalul tehnic de specialitate în
+conformitate cu prevederile pct. B.4.3, B.6 și B.7;
+B.8.4. sã verifice existența la agentul economic a prescripțiilor tehnice specifice în domeniu;
+B.8.5. sã întocmeascã un proces-verbal asupra constatãrilor fãcute privind verificãrile prevãzute la pct. B.8.1Ñ
+B.8.4.
+B.9. În cazul îndeplinirii condițiilor de autorizare
+prevãzute de prezenta prescripție tehnicã și pe baza constatãrilor fãcute în conformitate cu prevederile pct. B.8,
+ISCIRÑINSPECT IT în a cãrei razã are sediul agentul
+economic va elibera autorizația conform modelului din
+anexa G.
+B.10. În vederea efectuãrii în bune condiții a verificãrii
+tehnice a ascensoarelor, agenții economici de reparare și
+întreținere a ascensoarelor vor asigura condițiile de lucru
+corespunzãtoare, cu respectarea normelor de protecția
+muncii, și vor pune la dispoziția personalului ISCIRÑ
+INSPECT precum și a organelor proprii de verificare autorizate urmãtoarele:
+B.10.1. datele, informațiile sau documentele în legãturã
+cu verificarea tehnicã a ascensoarelor;
+B.10.2. utilajul, personalul și echipamentul de lucru și de
+protecție necesar;
+B.10.3. mijloacele de transport, acolo unde nu sunt mijloace publice de transport.
+
+ANEXA C
+la prescripția tehnicã
+CONÞINUTUL DOCUMENTAÞIEI
+
+pentru obținerea/reactualizarea autorizației de a efectua lucrãri de reparare, revizii tehnice și întreținere la ascensoare
+Documentația se întocmește de cãtre agenții economici
+care efectueazã lucrãri de reparare, revizii tehnice și
+întreținere a ascensoarelor și se înainteazã la ISCIRÑ
+INSPECT în raza cãreia are sediul agentul economic.
+Documentația este constituitã dintr-un memoriu din care sã
+rezulte cã agentul economic poate efectua lucrãri de reparare, revizii tehnice și întreținere în condiții optime și de
+siguranțã, în conformitate cu normele legale în vigoare, cu
+prevederile proiectului și cu indicațiile montatorului.
+Memoriul trebuie sã cuprindã și urmãtoarele:
+a) felul lucrãrilor (reparare, revizie tehnicã și întreținere);
+b) dotarea minimã cu piese de schimb (relee contactori,
+inclusiv miezuri și bobine, blocuri de relee termice, componente electronice, siguranțe fuzibile, patine și cãptușeli pentru patine, dispozitive de semnalizare, ferodouri etc.);
+c) numele, pregãtirea și vechimea în specialitate ale
+responsabilului tehnic pentru supravegherea lucrãrilor de
+reparare, revizie tehnicã și întreținere a ascensoarelor;
+d) numele, pregãtirea și vechimea în specialitate ale
+responsabilului cu verificarea tehnicã a ascensoarelor
+(RVTA);
+e) decizia de numire a personalului de la lit. c) și d),
+conform anexei H.
+
+Memoriul va fi însoțit de documente din care sã rezulte
+urmãtoarele:
+a) dotarea cu utilaje de execuție, conform datelor din
+tabelul 1;
+b) metodele folosite pentru verificarea calitãții lucrãrilor
+executate, precum și dotarea cu laborator de efectuare a
+examinãrilor nedistructive (autorizat de ISCIRÑINSPECT) și
+cu laborator de efectuare a încercãrilor mecanice, tehnologice, metalografice și analize chimice, autorizat de ISCIRÑ
+INSPECT; în cazul în care agentul economic nu dispune
+de laboratoare proprii, se va anexa contractul de colaborare (copie) încheiat cu altã unitate economicã autorizatã
+de ISCIRÑINSPECT pentru execuția examinãrilor; de asemenea, se va preciza dotarea cu standuri pentru încercãri
+și verificãri, conform datelor din tabelul 2;
+c) natura și volumul lucrãrilor efectuate în colaborare cu
+alți agenți economici, conform datelor din tabelul 3;
+d) pregãtirea și activitatea practicã în domeniu a personalului de specialitate, ca electricieni, electromecanici,
+mecanici;
+e) tabel cu ascensoarele aflate în întreținere, numai în
+cazul reactualizãrii autorizației.
+
+17
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+
+Tabelul 1
+Nr.
+crt.
+
+1.
+
+2.
+
+Tipul (marca)
+și caracteristicile principale
+
+Utilajul pentru execuție
+
+Observații
+
+Tãiere:
+a) foarfece;
+b) ghilotine;
+c) aparate oxiacetilenice;
+d) aparate cu plasmã;
+e) alte mașini și aparate.
+Formare:
+a) îndoire (valțuri);
+b) ambutisare;
+c) mașini de îndoit;
+d) mașini-unelte (strunguri, mașini de frezat, raboteze,
+mașini de alezat, mașini de rectificat, mașini de gãurit etc.).
+Tabelul 2
+
+Nr.
+crt.
+
+1.
+
+2.
+3.
+
+Tipul (marca)
+și caracteristicile principale
+
+Utilajul pentru verificare și control
+
+Observații
+
+Pentru mãsurarea și verificarea dimensiunilor:
+a) dispozitive pentru mãsurarea diametrelor;
+b) șabloane pentru verificarea abaterilor de la forma geometricã;
+c) aparate și dispozitive pentru verificarea paralelismului,
+denivelãrilor și verticalitãții;
+d) aparate și dispozitive pentru mãsurarea deformațiilor.
+Standuri pentru verificarea subansamblurilor la ascensoare
+Standuri pentru încercãri, echipamente cu aparaturã de mãsurare
+și control, în conformitate cu prevederile prescripțiilor tehnice Ñ
+Colecția ISCIR și normele de fabricație:
+a) sub sarcinã;
+b) a componentelor de securitate.
+Tabelul 3
+
+Nr.
+crt.
+
+Natura colaborãrii
+
+Lucrãrile cuprinse în contractul
+de colaborare și felul în care
+se realizeazã
+
+Denumirea agentului economic
+cu care se efectueazã colaborarea
+
+Observații
+
+ANEXA D
+la prescripția tehnicã
+
+ROMÂNIA
+Inspecția pentru Controlul
+Cazanelor, Recipientelor
+sub Presiune și Instalațiilor
+de Ridicat Ñ ISCIR Ñ
+
+Proces-verbal
+de verificare tehnicã
+nr. ..........................
+
+Inspecția
+teritorialã .....................................
+Adresa .........................................
+Telefon .........................................
+Fax ..............................................
+
+Încheiat astãzi,............................................, cu ocazia....................................................efectuat în baza hotãrârilor
+Guvernului nr. 1.340/2001 și nr. 19/2001 și a Decretului nr. 587/1973, modificat și completat prin Decretul nr. 417/1985,
+aplicabile, și a Prescripțiilor tehnice, Colecția ISCIR, la..............................................................................., tip......................,
+cu numãrul de fabricație/inventar........ și cartea instalației nr. ...................., având parametrii ultimei verificãri..........................
+Denumirea agentului economic: ....................................... din localitatea .................................., str. ..........................
+nr. ........., județul/sectorul............, codul fiscal.................... .
+Verificarea s-a efectuat la .......................................................................... din localitatea ................................................,
+str. ................................................... nr. ......, județul/sectorul ............................... .
+Subsemnatul1) ........................................................................................................................... am constatat urmãtoarele:
+...........................................................................................................................................................................................
+...........................................................................................................................................................................................
+...........................................................................................................................................................................................
+...........................................................................................................................................................................................
+...........................................................................................................................................................................................
+...........................................................................................................................................................................................
+Am dat urmãtoarele dispoziții: ..........................................................................................................................................
+...........................................................................................................................................................................................
+...........................................................................................................................................................................................
+...........................................................................................................................................................................................
+...........................................................................................................................................................................................
+...........................................................................................................................................................................................
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+
+Dupã aceastã verificare s-a admis2) .................................................................................................................................
+............................................................................................................................................................................................................
+Scadența urmãtoarei verificãri se fixeazã la data de ................................................................................................... .
+Pentru aceastã verificare se va plãti suma de ................................................ lei de cãtre ........................................
+din localitatea ...................................., str. .............................. nr. ........, județul/sectorul ....................., în contul
+....................... deschis la Banca ............................................................, filiala ....................................... .
+Am luat cunoștințã
+Organul de
+verificare
+
+Directorul agentului economic,
+sau delegatul sãu,
+
+................
+................
+
+...............................
+...............................
+
+1)
+2)
+
+Responsabil
+cu supravegherea
+și verificarea tehnicã
+...................................
+...................................
+
+Delegatul
+agentului economic
+montator, reparator
+.................................
+.................................
+
+Funcția, numele și prenumele.
+Se vor înscrie parametrii de funcționare ai instalației, în funcție de felul (tipul) acesteia.
+ANEXA E
+la prescripția tehnicã
+
+INSPECÞIA DE STAT
+PENTRU CONTROLUL CAZANELOR, RECIPIENTELOR SUB
+PRESIUNE, INSTALAÞIILOR DE RIDICAT ȘI APARATELOR
+CONSUMATOARE DE COMBUSTIBILI GAZOȘI
+
+VIZE4)
+
+ISCIRÑINSPECT IT...............................
+CARNET
+pentru reparare/întreținere1)
+Nr. ......... din ................
+Agent economic ........................... RC/CUI2).....................
+Nume .......................... Prenume ......................................
+Specialitatea ..................... CNP3) ....................................
+Nr. procesului-verbal/data ..................................................
+Inspector-șef,
+Prezentul carnet este valabil numai pentru agentul economic sus-menționat.
+
+1)
+
+Titularul are dreptul sã efectueze reparații conform PT R6 Ñ 2002, pct. 7.2.3.
+Titularul are dreptul sã efectueze întreținerea conform PT R6 Ñ 2002, pct. 8.3.3 și 8.3.9.
+2) RC/CUI Ñ Numãr de înregistrare la registrul comerțului sau codul unic de înregistrare.
+3) CNP Ñ cod numeric personal.
+4) Se vor înscrie: numãrul procesului-verbal/data, semnãtura și ștampila inspectorului de specialitate.
+
+ANEXA F
+la prescripția tehnicã
+REGISTRU
+
+pentru evidența lucrãrilor de reparare a ascensoarelor
+Nr.
+crt.x)
+
+Felul și tipul
+ascensorului
+
+x)
+xx)
+
+Proiect de execuție
+(unitatea proiectantã,
+nr. și datã)
+
+Nr. și data
+actului de
+omologare/
+certificare
+
+Parametrii
+ascensoruluixx)
+
+Beneficiarul
+(denumire
+și sediu)
+
+Proces-verbal
+de recepție
+(nr. și data)
+
+Observații
+
+Este același cu numãrul de fabricație menționat în cartea ascensorului.
+Pentru ascensoare: sarcina nominalã (kg); viteza (m/s); numãrul de stații.
+
+N O T Ã:
+
+Pentru agenții economici autorizați sã efectueze lucrãri de reparare la ascensoare se va folosi modelul de registru
+completat cu trei coloane în plus, în care se va scrie:
+Ñ agentul economic constructor-montator (denumirea și sediul);
+Ñ numãrul și anul fabricației, numãrul autorizației de funcționare (cartea instalației);
+Ñ elementele reparate sau înlocuite, caracteristicile lor constructive.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+
+19
+ANEXA G
+la prescripția tehnicã
+
+INSPECÞIA DE STAT PENTRU CONTROLUL
+CAZANELOR, RECIPIENTELOR SUB PRESIUNE
+ȘI INSTALAÞIILOR DE RIDICAT Ñ ISCIR
+ISCIRÑINSPECT IT .................................................
+Str. ......................... nr. ..........., telefon ................
+AUTORIZAÞIE
+nr. ......... din ..................
+În baza prevederilor legale în vigoare și a prescripției tehnice PT R6Ñ2002 și în urma verificãrilor efectuate și
+consemnate în Procesul-verbal nr. ......................... din ................................ .
+I. Se autorizeazã pentru ....................................1)........................... agentul economic ...............................................
+din ........................................., str..................................... nr. ......., ca urmare a cererii nr. ............. din ........................... .
+II. Se autorizeazã pentru supravegherea lucrãrilor de mai sus urmãtorul personal tehnic de specialitate:
+................................................................................................................................................................................................................
+................................................................................................................................................................................................................
+...........................................................................................................................................................................................................
+În cazul schimbãrii denumirii, întreruperii activitãții sau desființãrii .........................................2)......................................
+................................................................................................................................. are obligația sã anunțe în termen de 15 zile
+ISCIRÑINSPECT IT emitentã a autorizației.
+Autorizația poate fi retrasã de ISCIRÑINSPECT IT în baza documentului de constatare a comiterii unor abateri
+de la prevederile legale.
+Prezenta autorizație este valabilã pânã la data de .............3)............... .
+Se considerã reînnoire a autorizației numai cazul în care cererea scrisã de reînnoire va fi depusã la ISCIRÑINSPECT IT
+cu cel puțin 30 de zile calendaristice înainte de expirarea termenului de valabilitate a autorizației. În caz contrar se considerã
+autorizare nouã.
+Inspector-șef,
+...........................................................
+(numele, prenumele și semnãtura)
+1)
+2)
+3)
+
+Se va indica succint domeniul autorizației.
+Se va indica agentul economic.
+Se va indica data efectivã (ziua, luna, anul).
+ANEXA H
+la prescripția tehnicã
+
+Model de decizie pentru numirea personalului tehnic de specialitate responsabil cu supravegherea lucrãrilor
+de reparare, revizii tehnice și întreținere a ascensoarelor sau a responsabilului cu verificarea tehnicã
+a ascensoarelor (RVTA)
+Antetul agentului economic
+DECIZIE
+
+nr. ............ din ....................
+Agentul economic ........................................................, reprezentat prin ......................................., manager (director),
+având în vedere legislația cu privire la funcționarea în condiții de securitate a ascensoarelor prin care agenții
+economici pentru reparare și întreținere sunt obligați sã numeascã personal tehnic de specialitate1), în raport cu numãrul
+și complexitatea ascensoarelor, care sã fie autorizat de ISCIRÑINSPECT, în vederea aplicãrii prevederilor prescripției
+tehnice PT R6Ñ2002,
+D E C I D E:
+
+1. Domnul/Doamna ...................................................., de specialitate ..............................................., având funcția de
+..................................., începând cu data de .............................. se numește responsabil2) .........................................................
+................................................... din cadrul ........................................................, urmând a fi autorizat de ISCIRÑINSPECT.
+2. Responsabilul2) ........................................................................................ este obligat sã cunoascã și sã aplice
+întocmai prevederile legislației în vigoare și ale prescripțiilor tehnice specifice, sarcinile lui fiind cele care rezultã din prescripția tehnicã PT R6Ñ2002.
+3. Activitatea responsabilului2) .................................................................................. va fi coordonatã și îndrumatã din
+partea conducerii de ......................................................, care rãspunde împreunã cu acesta de luarea mãsurilor pentru aplicarea legislației în vigoare și a prevederilor prescripțiilor tehnice specifice.
+4. Încãlcarea obligațiilor prevãzute în prescripțiile tehnice specifice atrage, dupã caz, rãspunderea disciplinarã,
+materialã, civilã sau penalã a celor vinovați.
+
+20
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+
+5. Prezenta decizie anuleazã decizia anterioarã nr. ..................................... din .................................... și devine
+definitivã dupã autorizarea responsabilului de cãtre ISCIRÑINSPECT.
+Manager,
+
+Oficiul juridic
+
+Numele și prenumele
+(Semnãtura și ștampila)
+
+Numele și prenumele
+(Semnãtura)
+
+........................................
+
+.......................................
+
+Data ................................
+1) Personalul tehnic de specialitate responsabil cu supravegherea lucrãrilor de reparare, revizii tehnice și întreținere a ascensoarelor poate fi
+format din ingineri, subingineri, maiștri sau tehnicieni de specialitate.
+Responsabilul cu verificarea tehnicã a ascensoarelor (RVTA) trebuie sã fie inginer cu o vechime minimã de 5 ani în specialitate.
+2) Se va completa astfel:
+Ñ ”cu verificarea tehnicã a ascensoarelor,,; sau
+Ñ ”cu supravegherea lucrãrilor de reparare, revizii tehnice și întreținere a ascensoarelor,,.
+ANEXA I
+la prescripția tehnicã
+
+VERIFICAREA REPARAÞIILOR ASCENSOARELOR
+
+I.1. Generalitãți
+Prezenta anexã conține prevederi tehnice minime obligatorii care se referã la verificarea tehnicã efectuatã de inspectorii de specialitate ai ISCIRÑINSPECT sau, cu acordul
+scris al ISCIRÑINSPECT, de personalul tehnic de specialitate al agenților economici reparatori, autorizat de ISCIRÑ
+INSPECT, a reparațiilor efectuate la ascensoarele care fac
+obiectul prezentei prescripții tehnice.
+I.2. Specificarea reparațiilor care se verificã de inspectorii de specialitate ai ISCIRÑINSPECT sau de responsabilul cu verificarea tehnicã a ascensoarelor (RVTA)
+I.2.1. Pentru ascensoarele care nu intrã sub incidența
+Hotãrârii Guvernului nr. 225/2002:
+a) transformarea de principiu a modului de acționare a
+ascensoarelor (trecerea de la acționare electricã la
+acționare hidraulicã sau invers, de la tambur la roata de
+fricțiune);
+b) modificarea de principiu a schemei electrice de
+acționare (forțã, comandã, semnalizare);
+c) înlocuirea componentelor de securitate ale ascensorului cu alte tipodimensiuni;
+d) înlocuirea troliului și înlocuirea sau recondiționarea
+elementelor cinematice ale sale;
+e) înlocuirea completã a frânei cu alte tipodimensiuni;
+f) înlocuirea cilindrului hidraulic cu alte tipodimensiuni la
+ascensoarele hidraulice;
+g) înlocuirea grupului de pompare cu alte tipodimensiuni
+la ascensoarele hidraulice.
+I.2.2. Pentru ascensoarele care intrã sub incidența
+Hotãrârii Guvernului nr. 225/2002, modificãrile importante
+sau dupã avarii și accidente sunt urmãtoarele:
+a) Schimbarea:
+Ñ vitezei nominale;
+Ñ sarcinii nominale;
+Ñ masei cabinei;
+Ñ cursei.
+b) Schimbarea sau înlocuirea:
+Ñ tipului de dispozitiv de zãvorâre (înlocuirea unui dispozitiv de zãvorâre cu unul similar nu se considerã modificare importantã);
+Ñ sistemului de comandã;
+Ñ glisierelor sau a tipurilor de glisiere;
+Ñ tipului de uși (sau adãugarea uneia sau mai multor
+uși de palier ori de cabinã);
+Ñ troliului sau a roții de fricțiune;
+Ñ limitatorului de vitezã;
+Ñ dispozitivului de protecție pentru limitarea vitezei cabinei în urcare;
+Ñ tampoanelor;
+Ñ paracãzãtoarelor;
+
+Ñ înlocuirea frânei cu alte tipodimensiuni care diferã de
+cele prevãzute în documentația tehnicã.
+I.2.3. Dacã în cadrul reparațiilor (planificate sau neplanificate) s-au executat alte lucrãri de reparații decât cele definite la pct. I.2.1 și I.2.2, acestea trebuie sã fie menționate
+în registrul de supraveghere a ascensorului de cãtre personalul tehnic a reparatorului.
+I.2.4. Lucrãrile de reparații indicate la pct. I.2.1 și I.2.2
+se vor executa numai de agenți economici autorizați, conform prevederilor din anexa B.
+I.2.5. Lucrãrile de reparații ale ascensoarelor se vor
+executa cu respectarea prevederilor prezentei prescripții
+tehnice și ale documentației tehnice de reparație.
+I.3. Verificarea tehnicã a reparațiilor
+I.3.1. În cazul reparațiilor prevãzute la pct. I.2.1 lit. a), f)
+și g) și la pct. I.2.2 se întocmește un proiect de reparație
+care se atașeazã la documentația de reparație. Proiectele
+de reparații trebuie sã fie avizate de constructorul ascensorului pentru reparațiile prevãzute la pct. I.2.1 lit. a), f) și
+g), respectiv de montatorul ascensorului pentru reparațiile
+prevãzute la pct. I.2.2.
+I.3.2. În vederea efectuãrii verificãrii tehnice a reparației
+reparatorul va întocmi o documentație minimã, care va
+cuprinde:
+a) lista lucrãrilor efectuate sau, dupã caz, proiectul ori
+tehnologia de reparație;
+b) certificatele de calitate ale subansamblurilor sau pieselor importante (motoare, reductoare, componente de
+securitate), în cazul în care cele vechi au fost înlocuite;
+c) schema cinematicã, schema electricã și desenul de
+ansamblu al instalației, dacã cu ocazia reparației s-au efectuat modificãri ale acestora;
+d) procesul-verbal în care sunt consemnate rezultatele
+încercãrilor de casã, în care sã se specifice cã instalația
+se poate supune verificãrilor tehnice oficiale în scopul autorizãrii funcționãrii;
+e) certificat de calitate (inspecție) a reparației;
+f) certificat de garanție a reparației.
+I.3.3. Verificarea tehnicã a ascensoarelor în vederea
+autorizãrii de funcționare dupã reparație se va efectua de
+cãtre inspectorii de specialitate ai ISCIRÑINSPECT sau de
+responsabilul cu verificarea tehnicã a ascensoarelor
+(RVTA), cu împuternicire scrisã din partea ISCIRÑINSPECT.
+I.3.4. Pentru ascensoarele mici de materiale, care au
+sarcina nominalã pânã la 100 kg inclusiv, verificarea
+reparației se efectueazã de cãtre personalul tehnic de specialitate al reparatorului.
+I.3.5. Se va înainta la ISCIRÑINSPECT IT documentația
+tehnicã de reparație și în cazul în care aceasta este completã se va trece la verificarea tehnicã a reparației și se
+vor efectua, în principal, urmãtoarele:
+
+21
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+Ñ verificarea documentației tehnice de reparație;
+Ñ verificarea execuției reparației (verificarea elementelor
+instalației, încercãri în gol și sub sarcinã etc.), conform prevederilor prezentei prescripții tehnice.
+I.3.6. Rezultatele verificãrilor se consemneazã de cãtre
+cel care a efectuat verificarea într-un proces-verbal, conform modelului din anexa D.
+În procesul-verbal încheiat cu ocazia verificãrii în vederea
+autorizãrii de funcționare se stabilește și termenul scadent
+pentru urmãtoarea verificare, care nu va fi mai mare de 3 ani.
+Documentația tehnicã de reparație se va anexa la cartea ascensorului.
+
+Efectuarea lucrãrilor de reparații se va înscrie în registrul de supraveghere sau de evidențã a funcționãrii ascensorului, iar pentru ascensoarele care se înregistreazã la
+ISCIRÑINSPECT, și în cartea ascensorului Ñ partea de
+exploatare, la rubrica evidența exploatãrii.
+I.3.7. Reparatorii autorizați de ISCIRÑINSPECT sã efectueze reparații la ascensoare vor ține la zi evidența
+lucrãrilor executate, care se verificã de ISCIRÑINSPECT,
+într-un registru numerotat și întocmit conform modelului din
+anexa F.
+ANEXA J
+la prescripția tehnicã
+
+Model de decizie pentru numirea responsabilului cu supravegherea și verificarea tehnicã
+a instalațiilor (RSVTI)
+Antetul agentului economic
+DECIZIE
+
+nr. ......... din .......................
+Agentul economic ......................................................., reprezentat prin ...................................., manager (director),
+având în vedere legislația cu privire la funcționarea în condiții de securitate a ascensoarelor, prin care agenții
+economici care dețin și exploateazã aceste instalații sunt obligați sã numeascã personal tehnic de specialitate (ingineri,
+subingineri, maiștri sau tehnicieni de specialitate) în raport cu numãrul și complexitatea ascensoarelor, care sã fie autorizat de ISCIRÑINSPECT, în vederea aplicãrii prevederilor prescripției tehnice PT R6Ñ2002,
+D E C I D E:
+
+1. Domnul/Doamna .............................................................., de specialitate ....................................., având funcția de
+..................................., începând cu data de ............................. se numește responsabil cu supravegherea și verificarea
+tehnicã a ascensoarelor ................................... din cadrul ................................, urmând a fi autorizat de ISCIRÑINSPECT.
+2. Responsabilul cu supravegherea și verificarea tehnicã a ascensoarelor este obligat sã cunoascã și sã aplice
+întocmai prevederile legislației în vigoare și ale prescripției tehnice PT R6Ñ2002, sarcinile lui fiind cele care rezultã din
+prescripția tehnicã PT R6Ñ2002.
+3. Activitatea responsabilului cu supravegherea și verificarea tehnicã a ascensoarelor va fi coordonatã și îndrumatã
+din partea conducerii de ......................................... care rãspunde împreunã cu acesta de luarea mãsurilor pentru aplicarea
+prevederilor legislației în vigoare și ale prescripției tehnice PT R6Ñ2002.
+4. Încãlcarea obligațiilor prevãzute în prescripția tehnicã PT R6Ñ2002 atrage, dupã caz, rãspunderea disciplinarã,
+materialã, civilã sau penalã a celor vinovați.
+5. Prezenta decizie anuleazã decizia anterioarã nr. ......................... din ................................... și devine definitivã
+dupã autorizarea responsabilului de cãtre ISCIRÑINSPECT.
+Manager,
+
+Oficiul juridic
+
+Numele și prenumele
+(Semnãtura și ștampila)
+
+Numele și prenumele
+(Semnãtura)
+
+........................................
+
+.......................................
+
+Data ................................
+ANEXA K
+la prescripția tehnicã
+
+Model de autorizație pentru responsabilul cu supravegherea și verificarea tehnicã a instalațiilor (RSVTI)
+INSPECÞIA DE STAT PENTRU CONTROLUL
+CAZANELOR, RECIPIENTELOR SUB PRESIUNE
+ȘI INSTALAÞIILOR DE RIDICAT
+ISCIRÑINSPECT IT ..................................................
+AUTORIZAÞIE PENTRU SUPRAVEGHEREA ȘI VERIFICAREA TEHNICÃ
+A INSTALAÞIILOR
+A U T O R I Z A Þ I A Nr.*) ..................................
+
+Numele și prenumele ......................................................, data și locul nașterii .....................................................
+codul numeric personal .......................................................................
+În baza prevederilor legale în vigoare și ca urmare a adresei nr. ....................................... din ..................................
+a agentului economic ........................................................................................, se autorizeazã sã execute în cadrul unitãții:
+a) supravegherea**) ............................................................................... din dotarea sau folosința agentului economic.
+Data .............................
+Inspector-șef,
+.........................................
+(Semnãtura, ștampila)
+
+22
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+
+Posesorul autorizației are obligația și rãspunderile prevãzute de legislația în vigoare și prevederile prescripțiilor
+tehnice specifice; rãspunde, împreunã cu conducerea agentului economic, de luarea mãsurilor pentru aplicarea prevederilor prescripțiilor tehnice specifice.
+Autorizația este valabilã numai în cadrul agentului economic pentru care a fost autorizat personalul.
+Autorizația poate fi retrasã de ISCIRÑINSPECT în baza documentului de constatare a comiterii unor abateri de
+la prevederile legale.
+Prezenta autorizație este valabilã pânã la data de***) ....................................................
+*) Se va trece numãrul de înregistrare al agentului economic în evidența ISCIRÑINSPECT, supra numãrul de ordine al autorizației.
+Exemple: B 175/1; B 275/2; G 1.305/1.
+**) Se va trece, dupã caz: instalații sub presiune, instalații de ridicat, instalații sub presiune și de ridicat, recipiente transportabile etc.
+***) Se va indica data efectivã (ziua, luna, anul).
+Autorizația se va acorda pentru maximum 2 ani.
+ANEXA L
+la prescripția tehnicã
+
+Model de autorizație pentru responsabilul cu verificarea tehnicã a ascensoarelor (RVTA)
+INSPECÞIA DE STAT PENTRU CONTROLUL
+CAZANELOR, RECIPIENTELOR SUB PRESIUNE
+ȘI INSTALAÞIILOR DE RIDICAT
+ISCIRÑINSPECT IT .................................................
+AUTORIZAÞIE PENTRU VERIFICAREA TEHNICÃ
+A ASCENSOARELOR
+A U T O R I Z A Þ I A Nr.*) ..................................
+
+Numele și prenumele ..................................................................., data și locul nașterii ................................................,
+codul numeric personal ..................................................................... .
+În baza prevederilor legale în vigoare și ca urmare a adresei nr. ............................................. din
+................................ a agentului economic ...................................................., se autorizeazã sã execute verificarea tehnicã
+pentru autorizarea funcționãrii ascensoarelor aflate în exploatare, la scadențã și dupã reparații, în conformitate cu prevederile prescripției tehnice PT R6Ñ2002.
+Autorizația este valabilã numai pentru ascensoarele aflate în întreținere proprie.
+Data .............................
+Inspector-șef,
+.........................................
+(Semnãtura, ștampila)
+
+Posesorul autorizației are obligația și rãspunderile prevãzute de legislația în vigoare și de prescripția tehnicã PT
+R6Ñ2002. Acesta efectueazã verificãrile conform prevederilor prescripției tehnice amintite, încheind documente în
+care consemneazã rezultatele obținute, precum și dispozițiile obligatorii stabilite. Rãspunde împreunã cu conducerea
+agentului economic de luarea mãsurilor pentru aplicarea prevederilor prescripției tehnice PT R6Ñ2002.
+Autorizația este valabilã numai în cadrul agentului economic pentru care a fost autorizat personalul.
+Autorizația poate fi retrasã de ISCIRÑINSPECT în baza documentului de constatare a comiterii unor abateri de
+la prevederile legale.
+Prezenta autorizație este valabilã pânã la data de **) ......................................................................... .
+*) Se va trece numãrul de înregistrare al agentului economic în evidența ISCIRÑINSPECT, supra numãrul de ordine al autorizației.
+Exemple: BA 1/1; BA 2/2; GA 5/1.
+**) Se va indica data efectivã (ziua, luna, anul).
+Autorizația se va acorda pentru maximum 2 ani.
+ANEXA M
+la prescripția tehnicã
+VERIFICAREA ȘI AUTORIZAREA ASCENSOARELOR
+
+M.1. Autorizarea funcționãrii ascensoarelor
+M.1.1. La prima punere în funcțiune
+
+M.1.1.1. Ascensoarele pot fi date în exploatare numai
+dupã verificarea tehnicã oficialã și eliberarea autorizației de
+funcționare de cãtre ISCIRÑINSPECT, prin inspectorii de
+specialitate, pentru ascensoarele care sunt supuse prevederilor prescripției tehnice PT R6Ñ2002.
+În evidența tehnicã a ISCIRÑINSPECT se vor înregistra
+toate ascensoarele, cu excepția ascensoarelor mici de
+materiale cu sarcina maximã de 100 kg inclusiv.
+M.1.1.2. Pentru obținerea autorizației de funcționare a
+ascensoarelor se vor respecta prevederile cap. 6 din prescripția tehnicã PT R6Ñ2002.
+
+M.1.1.3. La data stabilitã pentru verificare montatorul trebuie sã pregãteascã ascensorul și sã punã la dispoziție
+echipamentul și sarcinile etalonate metrologic pentru
+încercãri. De asemenea, va asigura personalul necesar. La
+verificare nu trebuie sã lipseascã responsabilul cu supravegherea și verificarea tehnicã a instalațiilor, autorizat de
+ISCIRÑINSPECT, sau, dupã caz, reprezentantul deținãtorului ascensorului.
+M.1.1.4. Autorizarea funcționãrii se acordã numai dacã
+la verificarea tehnicã oficialã se constatã îndeplinirea
+condițiilor prevãzute în prescripția tehnicã PT R6Ñ2002.
+Autorizarea funcționãrii și parametrii de funcționare aprobați,
+precum și data (luna și anul) stabilitã pentru urmãtoarea
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+verificare tehnicã periodicã se înscriu într-un proces-verbal
+conform modelului din anexa D.
+M.1.1.5. Evidența ascensoarelor va fi ținutã de cãtre
+deținãtori într-un registru, conform modelului din anexa N.
+M.1.1.6. Deținãtorul este obligat sã pãstreze în bune
+condiții cartea ascensorului și sã o transmitã o datã cu
+ascensorul în cazul transferãrii acestuia.
+M.1.2. Ascensoare aflate în exploatare
+M.1.2.1. Ascensoarele sunt supuse în timpul exploatãrii
+unor verificãri tehnice oficiale periodice care se efectueazã
+de cãtre ISCIRÑINSPECT, prin inspectorii de specialitate,
+sau de cãtre responsabilul cu verificarea tehnicã a ascensoarelor (RVTA), cu acordul scris al ISCIRÑINSPECT IT.
+Cu aceastã ocazie se verificã starea tehnicã a ascensorului
+în conformitate cu prevederile prescripției tehnice PT R6 Ñ
+2002, iar în cazul în care rezultatele verificãrii sunt corespunzãtoare, se acordã autorizația de funcționare în continuare și se stabilește data (luna și anul) urmãtoarei
+verificãri periodice (scadența), întocmindu-se proces-verbal
+în cartea ascensorului, conform modelului din anexa D. În
+cazul în care verificarea tehnicã se va efectua de cãtre
+responsabilul cu verificarea tehnicã a ascensoarelor
+(RVTA), acesta va înainta un exemplar al procesului-verbal
+de verificare la ISCIRÑINSPECT IT.
+M.1.2.2. Agenții economici care dețin ascensoare vor
+comunica în termen de 15 zile la ISCIRÑINSPECT IT în a
+cãrei razã își desfãșoarã activitatea datele despre ascensoarele vândute altor deținãtori, inclusiv adresa acestora, și
+despre cele scoase definitiv din funcțiune.
+M.1.2.3. Data efectuãrii verificãrilor se stabilește de
+comun acord de cãtre ISCIRÑINSPECT IT, întreținãtor și
+deținãtor.
+M.1.2.4. Datele stabilite pentru verificarea ascensoarelor
+de cãtre ISCIRÑINSPECT, prin inspectorii de specialitate,
+sau de cãtre RVTA nu trebuie sã depãșeascã scadența
+operației de verificare oficialã înscrisã în cartea ascensorului. În caz contrar ascensorul se oprește din funcțiune de
+cãtre întreținãtor.
+M.1.2.5. Deținãtorul este singurul rãspunzãtor pentru
+respectarea termenelor scadente de efectuare a verificãrilor,
+chiar dacã termenele respective îi sunt sau nu comunicate
+de cãtre ISCIRÑINSPECT IT.
+M.1.2.6. Ascensoarele la care s-au efectuat reparații
+supuse verificãrii ISCIRÑINSPECT, conform prevederilor
+anexei I, pot fi date în exploatare numai dupã verificarea
+lor de cãtre ISCIRÑINSPECT, prin inspectorii de specialitate, sau de cãtre RVTA, cu acordul scris al ISCIRÑ
+INSPECT IT, în conformitate cu prevederile prescripției
+tehnice PT R6Ñ2002.
+M.1.2.7. În vederea autorizãrii funcționãrii dupã reparație
+a ascensoarelor deținãtorul trebuie sã solicite în scris la
+ISCIRÑINSPECT IT efectuarea verificãrii, propunând și
+data în acest scop (de acord cu reparatorul). Totodatã va
+prezenta documentația prevãzutã în anexa I.
+M.1.2.8. Documentația tehnicã de reparație va fi depusã
+și înregistratã la ISCIRÑINSPECT IT cu cel puțin 7 zile
+înainte de data propusã pentru verificare.
+ISCIRÑINSPECT IT va stabili cu beneficiarul sau reparatorul:
+a) fie data la care urmeazã sã se efectueze verificarea
+de cãtre ISCIRÑINSPECT (care nu va depãși 30 de zile
+de la data solicitãrii);
+b) fie încredințarea efectuãrii verificãrii și eliberãrii autorizației de funcționare dupã reparație responsabilului cu
+verificarea tehnicã a ascensoarelor (RVTA).
+În acest caz ISCIRÑINSPECT va face cunoscut reparatorului, cu cel puțin 48 de ore înainte de data propusã
+pentru verificare, obligația de a efectua verificarea și de a
+elibera autorizația de funcționare dupã reparație, restituind
+documentația primitã.
+
+23
+
+În cazul în care verificarea tehnicã dupã reparație se va
+efectua de cãtre responsabilul cu verificarea tehnicã a
+ascensoarelor (RVTA), acesta va înainta un exemplar al
+procesului-verbal de verificare la ISCIRÑINSPECT IT.
+M.1.2.9. Documentația tehnicã de reparație incompletã
+va fi înapoiatã deținãtorului sau reparatorului, dupã caz,
+pentru a fi completatã, iar data verificãrii va fi stabilitã în
+condițiile arãtate anterior, dupã completarea acesteia.
+Documentația tehnicã de reparație completatã va fi înaintatã la ISCIRÑINSPECT cu o nouã adresã de însoțire. Din
+documentație poate lipsi procesul-verbal al încercãrilor de
+casã, care va fi predat organului de verificare la fața locului înainte de începerea verificãrii. Nepredarea procesuluiverbal sau constatarea în acesta a unor lipsuri ori
+deficiențe atrage neefectuarea verificãrii, ascensorul considerându-se nepregãtit.
+M.1.2.10. La data stabilitã pentru verificare deținãtorul și
+reparatorul trebuie sã pregãteascã ascensorul, având echipamentul și sarcinile etalonate metrologic pentru încercãri
+pregãtite.
+De asemenea, se va asigura personalul necesar. La
+verificare vor participa reprezentanții deținãtorului, dintre
+care nu trebuie sã lipseascã RSVTI și reprezentanții reparatorului.
+M.1.2.11. În cazul în care inspectorul de specialitate de
+la ISCIRÑINSPECT nu s-a putut prezenta la data stabilitã
+sau cel mult dupã 48 de ore de la data stabilitã, verificarea tehnicã periodicã sau dupã reparație se va efectua de
+RVTA fãrã altã comunicare. Dacã dupã aceastã perioadã
+de timp (48 de ore) nu s-a efectuat verificarea tehnicã
+periodicã sau dupã reparație, întreținãtorul este obligat sã
+opreascã ascensorul din funcțiune.
+M.1.2.12. Autorizarea funcționãrii în continuare a ascensoarelor cu ocazia verificãrii tehnice periodice sau dupã
+reparații, prin RVTA, trebuie sã se facã în aceleași condiții
+ca și autorizarea de funcționare efectuatã prin inspectorii
+de specialitate ai ISCIRÑINSPECT.
+M.1.2.13. Autorizarea funcționãrii în continuare a ascensorului se acordã numai dacã la verificarea tehnicã periodicã sau dupã reparație se constatã îndeplinirea condițiilor
+de securitate menționate în prescripția tehnicã PT R6Ñ2002.
+Rezultatele verificãrii se vor consemna într-un proces-verbal, conform modelului din anexa D, care va fi scris în
+cartea ascensorului.
+M.1.2.14. Efectuarea lucrãrilor de reparații se va înscrie
+de cãtre RSVTI în registrul de supraveghere și în cartea
+ascensorului, la rubrica evidența exploatãrii.
+M.1.2.15. Documentația tehnicã de reparație se va
+anexa la cartea ascensorului.
+M.2. Dispoziții finale
+M.2.1. Punerea în funcțiune a ascensoarelor neautorizate, în afara termenelor scadente sau fãrã o verificare
+tehnicã dupã reparații, este interzisã și se sancționeazã
+conform legislației în vigoare, mergându-se pânã la retragerea autorizațiilor acordate de ISCIRÑINSPECT.
+M.2.2. Procesul-verbal de verificare ce se încheie de
+cãtre inspectorii de specialitate ai ISCIRÑINSPECT sau de
+cãtre RVTA va cuprinde cel puțin verificãrile și încercãrile
+efectuate, constatãrile și rezultatele acestor verificãri și
+încercãrile și dispozițiile obligatorii stabilite.
+M.2.3. Dreptul de a elibera autorizația de funcționare
+pentru ascensoarele noi sau vechi montate din nou ori de
+a o prelungi dupã verificãrile oficiale periodice sau dupã
+reparații la ascensoarele aflate în exploatare revine numai
+inspectorilor de specialitate ai ISCIRÑINSPECT, respectiv
+RVTA, autorizat și împuternicit, în scris, de cãtre ISCIRÑ
+INSPECT în acest sens.
+Inspectorii de specialitate ai ISCIRÑINSPECT pot lua în
+considerare verificãrile și încercãrile efectuate de personalul
+tehnic propriu de specialitate, autorizat de ISCIRÑINSPECT,
+
+24
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+
+al montatorului sau reparatorului, în sensul de a nu mai
+repeta încercãrile și verificãrile respective.
+M.2.4. Inspectorii de specialitate ai ISCIRÑINSPECT și
+responsabilul cu verificarea tehnicã a ascensoarelor (RVTA)
+au obligația sã interzicã funcționarea ori de câte ori constatã cã nu sunt îndeplinite condițiile de siguranțã în
+funcționarea ascensoarelor în conformitate cu prevederile
+prescripției tehnice PT R6Ñ2002 și ale legislației în
+vigoare.
+M.2.5. Inspectorii de specialitate ai ISCIRÑINSPECT
+au dreptul de a efectua verificãri tehnice prin sondaj la
+toate ascensoarele, precum și de a efectua verificãri prin
+sondaj asupra modului în care montatorii, reparatorii,
+întreținãtorii și deținãtorii executã lucrãrile specifice
+prevãzute în prescripția tehnicã PT R6Ñ2002. De asemenea,
+responsabilul cu verificarea tehnicã a ascensoarelor (RVTA)
+al reparatorului are dreptul de a efectua verificãri inopinate
+la ascensoarele aflate în exploatare, luând, dupã caz,
+mãsuri pentru respectarea prevederilor prescripției tehnice
+PT R6Ñ2002.
+M.2.6. Verificarea îndeplinirii tuturor condițiilor și normelor de protecție a muncii pe durata efectuãrii verificãrilor și
+încercãrilor ascensoarelor, precum și asigurarea echipamentului de protecție necesar sunt exclusiv în sarcina
+deținãtorului cãruia i se efectueazã verificãrile și încercãrile
+la ascensoare.
+
+De efectuarea instructajului de protecție a muncii pentru
+persoanele care participã la verificãri și încercãri rãspund
+agenții economici din care fac parte persoanele respective,
+în cazurile în care activitatea se desfãșoarã în mediu normal. În cazul în care verificãrile și încercãrile se
+desfãșoarã în alte medii decât normal (exploziv, toxic etc.),
+agentul economic în incinta cãruia are loc activitatea respectivã va efectua un instructaj suplimentar specific mediului,
+înainte de începerea lucrãrilor, tuturor celor care participã
+la aceste lucrãri.
+M.2.7. În cazul nepregãtirii ascensoarelor în vederea
+efectuãrii verificãrii, vinovații vor fi sancționați în baza procesului-verbal încheiat de organul de verificare, iar
+instalația nu va putea funcționa decât dupã efectuarea
+verificãrii.
+M.2.8. În vederea efectuãrii în bune condiții a verificãrii
+tehnice a ascensoarelor, montatorii, reparatorii și deținãtorii
+de ascensoare, dupã caz, sunt obligați sã punã la dispoziția inspectorilor de specialitate ai ISCIRÑINSPECT
+sau RVTA:
+a) datele, informațiile sau documentele în legãturã cu
+verificarea tehnicã a ascensoarelor;
+b) personalul și echipamentul de lucru și de protecție
+necesare;
+c) mijloacele de transport, dacã nu existã mijloace
+publice de transport la și de la locul respectiv.
+ANEXA N
+la prescripția tehnicã
+
+EVIDENÞA ASCENSOARELOR
+Nr. de
+înregistrare
+intern
+
+Locul
+funcționãrii
+Denumirea
+Nr. de
+ascensoarelor
+ascensorului,
+înregistrare
+(secția, localitatea,
+parametrii
+la ISCIR
+strada, nr.,
+principali
+sectorul, județul)
+
+Nr. de fabricație/
+an de fabricație
+
+Producãtor/
+Montator
+
+Procesul-verbal/
+autorizație
+de funcționare/
+data autorizãrii
+
+Scadența
+urmãtoarei
+verificãri
+
+Observații
+
+ANEXA O
+la prescripția tehnicã
+AUTORIZAREA LIFTIERILOR
+
+O.1. Generalitãți
+Autorizația din partea ISCIRÑINSPECT este obligatorie
+pentru personalul de deservire a ascensoarelor. Autorizația se
+elibereazã individual persoanelor care, prin promovarea examenelor de autorizare, fac dovada îndeplinirii condițiilor specificate în prezenta anexã privind capabilitatea teoreticã și
+practicã de a exercita activitatea de deservire a ascensoarelor.
+O.2. Definiții:
+O.2.1. liftier Ñ persoanã instruitã și autorizatã care
+manevreazã și/sau deservește ascensoare prevãzute cu
+însoțitor, indiferent de tipul și destinația acestora; prin
+ascensor prevãzut cu însoțitor se înțelege ascensorul care
+are specificat acest lucru în documentația tehnicã însoțitoare;
+O.2.2. autorizația ISCIR Ñ act (document) legal care
+confirmã competența profesionalã, însușirea cunoștințelor
+teoretice și a deprinderilor practice adecvate, necesare
+
+deservirii ascensoarelor în condiții de securitate, și care
+dovedește acceptul (permisiunea) ISCIRÑINSPECT ca
+posesorul sã presteze activitãțile de manevrare și/sau
+deservire la tipurile de ascensoare specificate în autorizație;
+O.2.3. capabilitate teoreticã și practicã de a exercita activitatea de manevrare și/sau deservire Ñ capacitatea de a
+înțelege modul de funcționare a ascensoarelor deservite,
+precum și aptitudinile confirmate ale persoanelor instruite și
+autorizate de a efectua activitãțile de manevrare și/sau
+deservire a ascensoarelor aflate în exploatare la deținãtori,
+în regim de garantare a securitãții în funcționare;
+O.2.4. cursuri de specializare organizate în vederea autorizãrii personalului de cãtre ISCIRÑINSPECT Ñ modalitatea
+practicã de realizare, de cãtre o unitate de specialitate
+organizatoare, a cursurilor de specializare în vederea autorizãrii de cãtre ISCIRÑINSPECT a absolvenților;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+O.2.5. deservirea/manevrarea ascensoarelor Ñ activitãți
+specifice utilizãrii (exploatãrii ascensoarelor în condiții de
+securitate;
+O.2.6. deținãtorul ascensorului Ñ persoanã fizicã sau
+juridicã ce are în proprietate directã sau în altã formã de
+posesie ascensoare;
+O.2.7. mijloace tehnico-didactice specializate, adecvate
+scopului Ñ ansamblu de dotãri, disponibilitãți și structurã
+organizatoricã adecvate activitãții de instruire/specializare
+tehnicã, pe care trebuie sã le deținã unitatea de specialitate organizatoare de cursuri de specializare; aceste mijloace trebuie sã demonstreze capacitatea unitãții de
+specialitate, organizatoare a cursurilor, de a derula aceste
+cursuri în regim de îndeplinire a prevederilor prezentei
+anexe și de a garanta absolvenților un nivel de pregãtire
+(instruire) tehnicã specializatã corespunzãtoare;
+O.2.8. proceduri de testare și evaluare Ñ metode de verificare și comparare a nivelului de îndeplinire de cãtre candidați a criteriilor și condițiilor specificate în prezenta anexã,
+în vederea autorizãrii acestora de cãtre ISCIRÑINSPECT;
+O.2.9. specializare în vederea autorizãrii de cãtre ISCIRÑ
+INSPECT Ñ instruire didacticã, teoreticã și practicã, într-un
+cadru organizat, a personalului de deservire a ascensoarelor supuse prevederilor prezentei anexe, efectuatã în scopul
+dobândirii unor cunoștințe teoretice și deprinderi practice
+specifice pentru asigurarea manevrãrii și/sau deservirii
+ascensoarelor în condiții de securitate;
+O.2.10. unitate de specialitate Ñ persoanã juridicã (agent
+economic, instituție, organizație profesionalã, asociație etc.)
+care poate face dovada cã are cuprinsã în statutul legal
+de funcționare activitatea de instruire/specializare tehnicã a
+liftierilor și cã posedã personal de instruire calificat, competent și cu experiențã în domeniu și mijloacele tehnicodidactice adecvate scopului.
+O.3. Condiții de autorizare
+O.3.1. Autorizarea liftierilor se face pe baza unui examen
+susținut în fața comisiei tehnice menționate la pct. O.3.2.
+O.3.2. Examinarea candidaților se face de cãtre o comisie tehnicã formatã din:
+a) delegatul ISCIRÑINSPECT Ñ președintele comisiei;
+b) responsabilul cursului de specializare;
+c) responsabilul cu supravegherea și verificarea tehnicã a
+ascensoarelor, autorizat de ISCIRÑINSPECT, al agentului
+economic deținãtor unde au loc examinãrile practice;
+d) unul sau mai mulți lectori ai cursului de specializare.
+O.3.3. Pentru a fi admiși la examen, în vederea autorizãrii de cãtre ISCIRÑINSPECT, candidații trebuie sã
+îndeplineascã urmãtoarele condiții:
+a) au vârsta de cel puțin 18 ani împliniți;
+b) fac dovada unei minime pregãtiri profesionale în activitatea operativã pentru care solicitã autorizarea din partea
+ISCIRÑINSPECT sau într-o activitate operativã înruditã din
+domeniu;
+c) îndeplinesc condițiile de sãnãtate pentru deservirea
+și/sau manevrarea ascensorului și prezintã o adeverințã medicalã cu mențiunea ”Apt pentru prestarea activitãții de liftier,,;
+d) fac dovada cã au absolvit cursurile de specializare,
+în vederea autorizãrii de cãtre ISCIRÑINSPECT, organizate conform prevederilor pct. O.4;
+e) îndeplinesc condițiile de practicã stabilite în prescripția
+tehnicã PT R6Ñ2002.
+O.4. Organizarea cursurilor în vederea autorizãrii de
+cãtre ISCIRÑINSPECT
+O.4.1. În vederea autorizãrii de cãtre ISCIRÑINSPECT
+a personalului de deservire și/sau manevrare a ascensoarelor trebuie sã se organizeze și sã se deruleze cursuri de
+cãtre o unitate de specialitate (agent economic, institut,
+asociație profesionalã etc.), care îndeplinește condițiile
+legale privind derularea activitãților de perfecționare și/sau
+specializare a personalului, care face dovada cã dispune
+
+25
+
+de instructori de specialitate (lectori calificați și specializați) și
+de mijloacele tehnico-didactice specializate adecvate scopului.
+O.4.2. Cursurile se vor preda pe baza programei analitice specificate în anexa P, care prevede minimum de
+cunoștințe necesare și de duratã a cursurilor, în vederea
+autorizãrii personalului de deservire și/sau manevrare.
+De la caz la caz, în funcție de complexitatea ascensoarelor și a lucrãrilor practice ce trebuie efectuate, în vederea
+autorizãrii absolvenților de cãtre ISCIRÑINSPECT, programa analiticã menționatã va fi dezvoltatã corespunzãtor.
+Cursurile vor fi predate de ingineri, tehnicieni sau
+instructori de specialitate ori de specialitãți înrudite
+domeniului pentru care se va face autorizarea de cãtre
+ISCIRÑINSPECT, care au competența tehnicã necesarã și
+experiențã profesionalã în domeniul exploatãrii ascensoarelor
+și care cunosc prevederile prescripției tehnice PT R6Ñ2002.
+O.5. Avizarea cursurilor de specializare
+O.5.1. Cursurile vor fi avizate de cãtre ISCIRÑINSPECT.
+În acest scop unitatea de specialitate care organizeazã
+aceste cursuri va depune la ISCIRÑINSPECT, cu cel puțin
+10 zile înainte de începerea (deschiderea) cursurilor, în
+douã exemplare, cu excepția dosarelor menționate la lit. f),
+urmãtoarele:
+a) programa analiticã întocmitã conform pct. O.4.2, dezvoltatã pe lecții și desfãșuratã sub formã de orar, care va
+cuprinde:
+Ñ obiectul (tema) lecției Ñ teorie și practicã;
+Ñ numãrul de ore Ñ teorie și practicã;
+Ñ data, ora și locul desfãșurãrii lecțiilor;
+Ñ numele și prenumele lectorului;
+b) suportul de curs (materialele-cursurile scrise care se
+vor pune la dispoziția cursanților ca documente de referințã
+pentru ședințele teoretice cel puțin), incluzând și bibliografia
+care a stat la baza întocmirii acestuia;
+c) tabelul care cuprinde numele și prenumele lectorilor,
+pregãtirea profesionalã a acestora, conform pct. O.4.2,
+funcția și locul de muncã actual, dupã caz;
+d) tabelul care cuprinde numele și prenumele, data și
+locul nașterii, codul numeric personal, pregãtirea școlarã și
+calificarea profesionalã ale cursanților și, eventual, locul de
+muncã actual;
+e) tabelul cuprinzând numele și prenumele cursanților și
+supraveghetorului de practicã, tipul ascensorului pe care se
+efectueazã practica și orarul de efectuare a stagiului de
+practicã;
+f) dosarele personale ale cursanților (într-un singur
+exemplar) întocmite de unitatea de specialitate organizatoare a cursului, care trebuie sã conținã urmãtoarele acte:
+Ñ copie de pe certificatul de naștere;
+Ñ copie de pe actul de absolvire a învãțãmântului
+obligatoriu;
+Ñ adeverințã medicalã, prevãzutã la pct. O.3.3 lit. c).
+Deschiderea cursurilor nu se va face decât dupã obținerea avizului din partea ISCIRÑINSPECT.
+O.5.2. Pentru avizarea cursurilor ISCIRÑINSPECT va
+efectua urmãtoarele:
+a) va verifica toate documentele prezentate, conform
+pct. O.5.1, și va confirma cã s-au acceptat, prin avizarea
+acestora cu semnãtura și ștampila inspectorului de specialitate desemnat;
+b) va verifica și va confirma, dupã caz, respectarea prevederilor pct. O.4.2 și O.5.1;
+c) verificãrile efectuate conform celor precizate la lit. a)
+și b), constatãrile și propunerile privind avizarea cursurilor
+vor fi consemnate, de cãtre inspectorul de specialitate
+desemnat, într-un proces-verbal încheiat în douã exemplare; procesul-verbal va fi conform modelului din
+anexa D, adaptat corespunzãtor;
+d) procesul-verbal menționat la lit. c) va fi prezentat
+conducerii ISCIRÑINSPECT, care va analiza și va lua decizia
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+
+corespunzãtoare privind avizarea cursului; decizia va fi
+comunicatã unitãții de specialitate organizatoare a cursului;
+comunicarea oficialã va fi însoțitã de un exemplar al procesului-verbal menționat anterior și de un exemplar al
+documentelor menționate la pct. O.5.1 lit. a)Ñf) și acceptate conform prevederilor pct. O.5.2 lit. a); acest exemplar
+din documentele care au stat la baza avizãrii cursului,
+împreunã cu dosarele personale ale candidaților, se
+pãstreazã de cãtre unitatea de specialitate organizatoare a
+cursului care rãspunde de corectitudinea completãrii și
+pãstrãrii acestora, conform legislației în vigoare;
+e) un exemplar al documentelor menționate la
+pct. O.5.1 lit. a)Ñe), împreunã cu un exemplar al procesului-verbal menționat la pct. O.5.2 lit. c), se pãstreazã la
+ISCIRÑINSPECT, ca anexã la copia comunicãrii.
+O.5.3. Se pot efectua modificãri ulterioare în documentele care au stat la baza avizãrii cursului, numai în intervalul de 10 zile menționat la pct. O.5.1 alin. 1, numai la
+solicitarea scrisã și motivatã a unitãții de specialitate organizatoare a cursului și numai cu avizul ISCIRÑINSPECT.
+O.5.4. Verificãrile care stau la baza avizãrii cursurilor
+reprezintã raportul de evaluare a capabilitãții profesionale și
+a legalitãții unitãții de specialitate organizatoare a cursurilor.
+Avizarea cursurilor se efectueazã de cãtre ISCIRÑ
+INSPECT pentru fiecare curs (sesiune de cursuri).
+O.5.5. Inspectorii de specialitate ai ISCIRÑINSPECT vor
+efectua pe parcurs verificãri privind modul în care se
+desfãșoarã cursurile, luând mãsurile care se impun,
+mergând pânã la anularea avizului de curs.
+O.6. Examinarea cursanților și eliberarea carnetului de
+autorizare
+O.6.1. Unitatea de specialitate organizatoare a cursurilor
+va asigura urmãrirea frecvenței participãrii cursanților la
+lecțiile teoretice și practice ținute și verificarea nivelului de
+însușire a cunoștințelor teoretice și practice predate. Pe
+aceastã bazã unitatea de specialitate va elibera cursanților,
+la încheierea stagiului de pregãtire, adeverințe de absolvire.
+Adeverința de absolvire a cursurilor (formular conform
+modelului din anexa Q) constituie act doveditor pentru
+îndeplinirea uneia dintre condițiile de participare la examenul de autorizare de cãtre ISCIRÑINSPECT, conform
+pct. O.3.3 lit. d).
+O.6.2. Data și locul examinãrii, în vederea autorizãrii de
+cãtre ISCIRÑINSPECT, propuse de unitatea organizatoare
+a cursurilor, precum și numãrul candidaților care vor participa la examen vor fi comunicate, în scris, la ISCIRÑ
+INSPECT, cu cel puțin 10 zile înainte, de cãtre
+conducerea unitãții de specialitate care a organizat cursurile.
+ISCIRÑINSPECT va confirma unitãții de specialitate data
+exactã la care se va face examinarea candidaților.
+O.6.3. Examinarea candidaților se face de cãtre o comisie tehnicã compusã din:
+a) delegatul ISCIRÑINSPECT Ñ președintele comisiei;
+b) responsabilul cursului;
+c) responsabilul cu supravegherea și verificarea tehnicã
+a ascensoarelor, autorizat de ISCIRÑINSPECT, al agentului economic deținãtor unde au loc examinãrile practice;
+d) unul sau mai mulți lectori ai cursului.
+O.6.4. Înainte de începerea examenului comisia de
+examinare va verifica:
+a) dacã au fost respectate prevederile pct. O.3.3 și O.5;
+b) catalogul cursului de specializare;
+c) adeverințele de absolvire a cursului, prevãzute la
+pct. O.6.1 și întocmite conform modelului din anexa Q;
+d) adeverințele de practicã pe ascensoare de tipul celor
+pentru care se solicitã autorizarea, întocmite conform
+modelului din anexa R;
+e) existența unei fotografii mãrimea 3/4 cm pentru fiecare candidat.
+
+Candidații care au dosare incomplete nu vor fi primiți la
+examen.
+O.6.5. Examenul de autorizare constã dintr-o probã teoreticã și o probã practicã, având ca scop verificarea
+însușirii cunoștințelor prevãzute în programa analiticã a
+cursului de specializare și a dobândirii deprinderilor practice necesare pentru deservirea unui ascensor de tipul
+celui pentru care se solicitã autorizarea. Lucrarea scrisã se
+anexeazã la dosarul candidatului menționat la pct. O.5.1 lit. f).
+O.6.6. Pentru a fi autorizat de cãtre ISCIRÑINSPECT
+candidatul trebuie sã fie declarat admis atât la proba teoreticã, cât și la proba practicã. În cazul în care la una dintre probe a obținut rezultate nesatisfãcãtoare, candidatul va
+fi declarat respins la examen.
+O.6.7. Candidatul respins se poate prezenta la o nouã
+examinare în termen de maximum un an de la terminarea
+cursului. În aceastã perioadã candidatul își va îmbunãtãți
+pregãtirea teoreticã și va efectua un nou stagiu de practicã, confirmat prin eliberarea unei noi adeverințe de practicã, conform modelului din anexa R.
+O.6.8. Rezultatele examenelor vor fi consemnate de
+comisie într-un proces-verbal tip, conform modelului din
+anexa S, care va purta un numãr dat de inspectorul de
+specialitate al ISCIRÑINSPECT. Un exemplar al procesului-verbal va fi luat de inspectorul de specialitate al
+ISCIRÑINSPECT care a participat la examene.
+O.6.9. Pe baza datelor din procesul-verbal, ISCIRÑ
+INSPECT va elibera candidaților care au reușit la examen
+un carnet de autorizare tip, conform modelului din anexa T,
+în care se va înscrie tipul ascensorului pentru a cãrui
+deservire este autorizat absolventul.
+Carnetul de autorizare se înmâneazã de cãtre ISCIRÑ
+INSPECT absolvenților care au reușit la examen, sub
+semnãturã de primire.
+Înmânarea carnetelor de autorizare se poate face și de
+cãtre unitatea de specialitate care a organizat cursul de
+specializare, în cazuri excepționale, când ISCIRÑINSPECT
+a transmis acesteia carnetele de autorizare printr-un delegat al sãu sau cu adresã de însoțire. Evidența carnetelor
+de autorizare eliberate se va ține la unitatea ISCIRÑ
+INSPECT emitentã.
+O.6.10. În cazul pierderii carnetului de autorizare, în
+baza unei cereri scrise din partea posesorului, la care se
+va anexa dovada publicãrii pierderii carnetului în Monitorul
+Oficial al României, Partea a III-a, conform prevederilor
+legale aplicabile în astfel de cazuri, unitatea ISCIRÑ
+INSPECT emitentã va elibera un nou carnet de autorizare
+(duplicat).
+O.7. Verificãri periodice
+O.7.1. Persoanele autorizate în conformitate cu prevederile prezentei anexe au obligația sã se prezinte din 2 în 2
+ani la examinarea medicalã, prezentând rezultatul comisiei
+menționate la pct. O.7.3.
+O.7.2. Pentru împrospãtarea cunoștințelor profesionale
+persoanele autorizate conform prezentei anexe vor fi instruite
+periodic, o datã cu instructajul de protecția muncii, de cãtre
+personalul tehnic de specialitate desemnat pentru acest
+scop de cãtre conducerea agentului economic deținãtor
+de ascensoare, iar rezultatele instruirii periodice vor fi
+consemnate într-un proces-verbal.
+O.7.3. Persoanele autorizate în conformitate cu prevederile prezentei anexe vor fi examinate anual pentru verificarea cunoștințelor profesionale și a deprinderilor practice de
+cãtre o comisie numitã de conducerea agentului economic
+deținãtor la care acestea își desfãșoarã activitatea.
+Din comisie va face parte obligatoriu și responsabilul cu
+supravegherea și verificarea tehnicã a instalațiilor (RSVTI),
+autorizat de ISCIR, sau delegatul ISCIRÑINSPECT, în calitate de președinte al comisiei.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+În cazul agenților economici care nu au RSVTI autorizat
+de cãtre ISCIRÑINSPECT, în comisie va fi cooptat un
+delegat de la ISCIRÑINSPECT în calitate de președinte al
+comisiei.
+Rezultatele examinãrilor vor fi consemnate într-un
+proces-verbal de verificare.
+O.7.4. Persoanelor autorizate în conformitate cu prevederile prezentei anexe, care practicã activitatea de liftier
+pentru care dețin carnet de autorizare și nu se prezintã la
+examinãrile menționate la pct. O.7.1 și O.7.3, sau persoanelor autorizate care în urma examinãrilor respective obțin
+rezultate necorespunzãtoare li se vor retrage carnetele de
+autorizare de cãtre agentul economic deținãtor de ascensoare unde lucreazã posesorii carnetelor, pe timp limitat
+sau definitiv, dupã caz.
+În cazul inițierii procedurii de retragere definitivã a carnetelor de autorizare eliberate de ISCIRÑINSPECT, agenții
+economici deținãtori care intenționeazã sã aplice o astfel
+de mãsurã vor depune carnetele retrase la unitatea
+ISCIRÑINSPECT emitentã, comunicând în scris și motivele
+retragerii acestora.
+Retragerea carnetului de autorizare rãmâne definitivã
+numai dupã confirmarea scrisã a acesteia de cãtre unitatea
+ISCIRÑINSPECT în cauzã.
+O.7.5. Persoanele care au întrerupt mai mult de un an
+practicarea efectivã a activitãții de liftier pentru care sunt
+autorizate pot sã reia practicarea activitãții respective numai
+cu condiția respectãrii prevederilor pct. O.7.1 și O.7.3.
+O.7.6. Persoanelor autorizate transferate de la alți
+agenți economici deținãtori li se poate încredința deservirea
+ascensoarelor de tipul celor pentru care sunt autorizate
+numai dupã efectuarea unui instructaj de specialitate și a
+unei practici de acomodare de minimum 16 ore, în raport
+cu complexitatea ascensorului, și numai dupã examinarea
+acestora conform prevederilor pct. O.7.3.
+Pregãtirea teoreticã și practicã se va face pe baza unei
+programe analitice întocmite de agentul economic deținãtor
+și avizate de RSVTI autorizat de ISCIRÑINSPECT.
+O.8. Sancționarea personalului autorizat
+O.8.1. Personalul autorizat în conformitate cu prevederile
+prezentei anexe poate fi verificat de cãtre inspectorii de
+specialitate ai ISCIRÑINSPECT, precum și de cãtre organele în drept ale agentului economic deținãtor, la locul de
+muncã, în timpul efectuãrii activitãților de deservire și/sau
+manevrare a ascensoarelor, cu privire la modul cum își
+îndeplinește sarcinile de serviciu și cum aplicã cunoștințele
+teoretice și practice.
+Verificarea se va efectua în prezența RSVTI sau a altor
+persoane competente desemnate de conducerea agentului
+economic. În cazul în care în urma verificãrilor efectuate se
+constatã deficiențe tehnice la ascensoare, datorate personalului
+de deservire și/sau manevrare autorizat, ori alte abateri care
+pericliteazã securitatea în funcționare a ascensoarelor, în
+funcție de gravitatea lor, se vor lua urmãtoarele mãsuri:
+a) sesizarea conducerii agentului economic deținãtor
+pentru aplicarea de sancțiuni prevãzute în regulamentul de
+ordine interioarã;
+b) consemnarea în carnetul de autorizare a abaterii
+constatate;
+c) aplicarea unei amenzi, în cazul în care abaterea se
+încadreazã în prevederile legislației în vigoare privind stabilirea și sancționarea contravențiilor;
+d) retragerea carnetului de autorizare pe timp limitat sau
+definitiv, în funcție de gravitatea abaterii comise;
+e) retragerea definitivã a carnetului dupã comiterea a
+5 abateri consemnate în carnetul de autorizare.
+Abaterile consemnate în carnetul de autorizare vor fi
+aduse la cunoștința unitãții ISCIRÑINSPECT emitente pentru a fi înregistrate în evidența tehnicã a acesteia.
+
+27
+
+Mãsurile prevãzute la lit. a) și b) se vor lua pe baza
+procesului-verbal de verificare întocmit de cei care constatã
+abaterile.
+Mãsurile prevãzute la lit. c), d) și e) se vor aplica
+numai de cãtre ISCIRÑINSPECT, pe baza procesuluiverbal de verificare întocmit de inspectorul de specialitate
+al ISCIRÑINSPECT.
+Mãsurile precizate la lit. d) și e) vor fi aduse la
+cunoștința persoanelor sancționate, în scris, și vor fi, în
+prealabil, aprobate de conducerea ISCIRÑINSPECT.
+Deciziile de aplicare a mãsurilor precizate la lit. d) și e)
+pot fi contestate de persoanele sancționate, în termen de
+15 zile de la comunicarea scrisã a acestora, la conducerea ISCIRÑINSPECT.
+O.8.2. În cazul în care personalul autorizat se prezintã
+la locul de muncã sub influența alcoolului sau deservește
+ascensorul necorespunzãtor, astfel încât pericliteazã securitatea în funcționare a acestuia, conducerea agentului economic deținãtor, pe lângã sancțiunile prevãzute în
+regulamentul de ordine interioarã, poate retrage carnetul de
+autorizare pe termen limitat sau definitiv.
+Retragerea definitivã a carnetului de autorizare devine
+definitivã numai dupã confirmarea scrisã transmisã de
+ISCIRÑINSPECT agentului economic deținãtor care a
+inițiat aceastã mãsurã de sancționare.
+O.8.3. Carnetele de autorizare retrase definitiv se depun
+la unitatea ISCIRÑINSPECT emitentã.
+O.9. Dispoziții finale
+O.9.1. Carnetele de autorizare eliberate de agenții economici deținãtori de ascensoare nu mai sunt valabile.
+Carnetul de autorizare eliberat de agentul economic
+deținãtor de ascensoare ține loc de adeverințã de practicã și
+de adeverințã de absolvire a cursului de specializare, pe tipul
+de ascensor respectiv, urmând ca posesorul carnetului sã
+se prezinte la examen, în vederea autorizãrii de cãtre
+ISCIRÑINSPECT, în fața comisiei menționate la pct. O.3.2.
+Condiția de mai sus este aplicabilã numai carnetelor de
+autorizare eliberate de agenții economici deținãtori pânã la
+data de 1 septembrie 2001.
+O.9.2. Personalul autorizat conform prevederilor prezentei anexe este obligat sã poarte permanent, la locul de
+muncã, carnetul de autorizare asupra sa. Lipsa carnetului
+de autorizare, la verificarea efectuatã de cãtre persoanele
+îndreptãțite, este echivalentã cu exploatarea ascensoarelor
+de cãtre personal neinstruit și neautorizat de ISCIRÑ
+INSPECT pentru deservire și/sau manevrare și se
+sancționeazã conform prevederilor legale.
+O.9.3. În cazul uzurii avansate sau deteriorãrii accidentale a carnetului de autorizare eliberat de ISCIRÑINSPECT,
+în baza unei cereri scrise și motivate ISCIRÑINSPECT va
+elibera alt carnet de autorizare, pentru înlocuirea celui uzat,
+cu condiția depunerii carnetului de autorizare uzat la
+ISCIRÑINSPECT.
+O.9.4. Orice modificare, adãugare sau ștersãturã efectuatã în carnetul de autorizare, neînregistratã în evidența
+tehnicã a unitãții ISCIRÑINSPECT emitente și fãrã
+semnãtura și ștampila inspectorului de specialitate al
+ISCIRÑINSPECT, care a efectuat cele de mai sus, atrage
+anularea carnetului de autorizare și sancționarea celui
+vinovat conform legii.
+O.9.5. Nerespectarea prevederilor prezentei anexe de
+cãtre persoanele autorizate sau folosirea, de cãtre agenții
+economici deținãtori, de personal fãrã instruire și neautorizat la exploatarea ascensoarelor care, conform prevederilor
+prescripției tehnice PT R6Ñ2002, necesitã personal de deservire instruit și autorizat va fi sancționatã conform
+legislației în vigoare, pe baza proceselor-verbale de constatare
+întocmite de inspectorii de specialitate ai ISCIRÑINSPECT.
+O.9.6. Nerespectarea prevederilor prezentei anexe se
+sancționeazã conform legislației în vigoare.
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+ANEXA P
+la prescripția tehnicã
+PROGRAMA ANALITICÃ
+
+pentru cursul de pregãtire în vederea autorizãrii liftierilor
+Generalitãți
+P.1. ISCIRÑINSPECT examineazã candidații și elibereazã autorizația de liftier deservenților și/sau manevranților
+de ascensoare prevãzute sã funcționeze cu însoțitor.
+P.2. Stagiul minim necesar de practicã pentru obținerea
+autorizației de liftier este de 20 de ore. Aceastã practicã
+constã în deservirea efectivã a ascensorului sub supravegherea liftierului autorizat (supraveghetor), fiecare candidat
+fiind repartizat la un anumit ascensor. Este interzisã efectuarea
+
+practicii, în același timp, de cãtre mai mulți candidați la un
+singur ascensor.
+P.3. În cadrul programului de efectuare a practicii stabilite prin cursul de pregãtire candidații vor trebui sã efectueze în mod obligatoriu cel puțin urmãtoarele manevre și
+lucrãri practice:
+a) manevre de punere în funcțiune și de oprire a
+ascensorului;
+b) aducerea persoanelor la palier în cazul opririi cabinei
+între stații ca urmare a întreruperii alimentãrii cu energie electricã.
+
+Programa analiticã pentru cursul de pregãtire în vederea autorizãrii liftierilor
+I Partea teoreticã și practicã
+
+a) Noțiuni generale
+Ñ Felurile curentului electric; surse de curent folosite la instalația unui ascensor
+Ñ Protecția prin legare electricã la pãmânt
+Ñ Siguranțe, contacte, electromagneți, relee, automate de protecție etc.
+b) Clasificarea ascensoarelor; descrierea tipurilor uzuale
+Ñ Clasificarea dupã destinație, modul de deservire, acționare, amplasare; construcție
+puț, viteze etc.
+Ñ Descrierea ansamblurilor pãrții mecanice (puț, cabinã, cabluri, glisiere, uși, camerã
+troliu, troliu etc.)
+Ñ Descrierea ansamblurilor pãrții electrice (instalația electricã, sistemele de comandã
+și acționare, panoul de comandã și iluminat etc.)
+c) Dispozitive de siguranțã
+Ñ Dispozitive de prindere pe glisiere (paracãzãtoare)
+Ñ Limitatorul de vitezã
+Ñ Limitatoare de capãt de cursã
+Ñ Contacte electrice de siguranțã
+Ñ Broaște cu blocaje electromecanice
+Ñ Frâne cu electromagneți sau servomotor
+Ñ Tampoane
+d) Responsabilitãțile liftierilor
+e) Manevrarea și exploatarea ascensoarelor
+Ñ Verificarea tehnicã a ascensoarelor (autorizare periodicã și dupã reparație) și încercãri
+în sarcinã
+Ñ Autorizația de funcționare (cartea ascensorului)
+Ñ Registrul de supraveghere și instrucțiuni de exploatare
+Ñ Regim de lucru
+Ñ Întreținerea, revizia tehnicã și repararea ascensoarelor
+Ñ Analiza cauzelor care determinã deranjamente mai frecvente la ascensoare și mãsuri
+ce trebuie luate
+Ñ Modul de executare a comenzilor, comenzi nepermise
+f) Avarii și accidente la ascensoare
+Ñ Cauzele avariilor și accidentelor
+Ñ Mãsuri pentru evitarea și eliminarea avariilor și accidentelor
+g) Tehnica securitãții muncii
+Ñ Legislația în vigoare privind protecția muncii
+Ñ Echipamentul de protecție
+Ñ Mãsuri de prim ajutor în caz de avarii, de incendiu și în caz de accidente la
+ascensoare etc.
+h) Legislație, regulamente, instrucțiuni
+Ñ Decretele nr. 587/1973 și nr. 417/1985
+Ñ PT Ñ Colecția ISCIR în vigoare pentru ascensoare și pentru autorizarea
+personalului de deservire
+Ñ Instrucțiuni tehnice interne întocmite de deținãtor
+
+Numãrul orelor de predare
+Teoreticã
+Practicã
+
+4
+
+Ð
+
+25
+
+5
+
+15
+
+5
+
+3
+14
+
+3
+10
+
+2
+
+Ð
+
+5
+
+2
+
+4
+
+Ð
+
+29
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+
+Numãrul orelor de predare
+
+I Partea teoreticã și practicã
+
+Teoreticã
+
+Practicã
+
+3
+
+Ñ
+
+i) Educație
+Ñ Disciplina în muncã; respectarea legislației, PT Ñ Colecția ISCIR, a normelor
+de tehnica securitãții și protecției muncii etc.
+Recapitulație:
+I Ñ Partea teoreticã É...............................É 75 de ore
+Partea practicã É..................................É 25 de ore
+II Ñ Verificarea însușirii cunoștințelor Ñ 1 orã/candidat.
+
+ANEXA Q
+la prescripția tehnicã
+
+Model pentru adeverințã de absolvire a cursurilor pentru autorizarea liftierilor
+UNITATEA
+
+É.......................................É
+Localitatea É....................É
+ADEVERINÞÃ DE ABSOLVIRE
+
+nr. .................É din É.................É
+Prin prezenta se adeverește cã domnul/doamna É..............................É, angajat(ã) la É...............................É 1),
+É............................É, nãscut(ã) la data de É..................É în localitatea É.................É, sectorul/județul É............É,
+având ca studii de bazã É.....................É și calificarea É................É, a urmat și a absolvit cursul de specializare ținut
+la É.......................É2) É..........................É de la É........................É pânã la ÉÉ .
+Prezenta adeverințã s-a eliberat pentru a-i servi absolventului la examenul de autorizare de cãtre ISCIRÑINSPECT
+ca ....................................................ÉÉ3) É..........................................É .
+Director,
+É...........................É
+(Numele, prenumele, semnãtura și ștampila)
+1)
+2)
+3)
+
+Responsabil de curs,
+É......................................É
+(Numele, prenumele și semnãtura)
+
+Se vor scrie denumirea agentului economic și localitatea de reședințã.
+Locul de desfãșurare a cursului de specializare.
+Se va preciza ”activitatea operativã,, pentru care a fost instruit absolventul.
+ANEXA R
+la prescripția tehnicã
+
+Model pentru adeverința de efectuare a practicii obligatorii pentru autorizarea liftierilor
+UNITATEA
+
+É.......................................É
+Localitatea É....................É
+ADEVERINÞÃ DE PRACTICÃ
+
+nr. .................É din É.................É
+Prin prezenta se adeverește cã domnul/doamna É...............................É, nãscut(ã) la data de É.....................É în
+localitatea É....................É, județul É.....................É, angajat(ã) la É...................................É1) É............................., a
+efectuat practica la ascensor sub supravegherea domnului/doamnei É....................................É 2), de la ....................ÉÉ
+pânã la ..........................ÉÉ, totalizând É......É ore.
+În acest timp domnul/doamna É.............................................É a depus interes în însușirea deprinderilor practice,
+a corespuns cerințelor și se poate prezenta la examenul de autorizare.
+Prezenta adeverințã s-a eliberat pentru a-i servi la examenul de autorizare.
+Director,
+É.....................É
+(Numele, prenumele,
+semnãtura și ștampila)
+
+1)
+2)
+
+Responsabil cu supravegherea
+și verificarea tehnicã a instalațiilor,
+É................................................É
+
+Supraveghetor
+de practicã,
+É.......................................É
+
+(Numele, prenumele și semnãtura)
+
+(Numele, prenumele și semnãtura)
+
+Se vor scrie denumirea agentului economic și localitatea de reședințã.
+Se vor scrie numele și prenumele supraveghetorului de practicã sub supravegherea cãruia s-a efectuat practica.
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+ANEXA S
+la prescripția tehnicã
+
+UNITATEA
+
+(care a organizat cursul de specializare)
+..........................................................ÉÉ
+Localitatea É.......................................É
+P R O C E S-V E R B A L
+
+Nr. É............ din É..............É
+cu rezultatele obținute la examenul de autorizare ca liftier a urmãtorilor candidați:
+Nr.
+crt.
+
+Numele și
+prenumele
+
+Data
+nașterii
+
+Locul
+nașterii
+(localitatea,
+județul)
+
+CNP1)
+
+Pregãtirea
+școlarã
+anterioarã
+
+Unitatea
+la care
+lucreazã
+și
+localitatea
+
+Rezultatul obținut
+la examen
+Admis (A)
+Respins (R)
+teoretic
+practic
+
+Numãrul
+carnetului
+de
+autorizare
+
+Semnãtura
+de primire
+
+Observații
+
+Dosarele candidaților de mai sus au fost verificate de cãtre comisie și gãsite complete, iar cele ale candidaților
+reușiți, împreunã cu lucrarea scrisã și un exemplar al procesului-verbal, au rãmas la unitatea de specialitate organizatoare
+a cursului.
+Președintele comisiei,
+
+Directorul unitãții organizatoare,
+
+Responsabil curs,
+
+(Numele, prenumele semnãtura și ștampila)
+
+(Numele, prenumele, semnãtura și ștampila)
+
+(Numele, prenumele și semnãtura)
+
+É.............................................É
+
+É....................................................É
+
+É.......................................É
+Alți membri ai comisiei:
+É.......................................É
+(Numele, prenumele și semnãtura)
+
+1) CNP Ñ Cod numeric personal.
+ANEXA T
+la prescripția tehnicã
+
+(Coperta carnetului de autorizare)
+(Sigla ISCIR)
+AUTORIZAÞIE
+
+Inspecția de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune și Instalațiilor de Ridicat Ñ ISCIR
+(Pe prima copertã, în interior)
+Posesorul autorizației are obligația sã cunoascã și sã aplice întocmai prevederile Prescripțiilor tehnice Ñ Colecția
+ISCIR și ale instrucțiunilor specifice referitoare la exploatarea instalațiilor respective. Acesta trebuie sã se prezinte din
+2 în 2 ani la examenul medical și anual la verificarea cunoștințelor în fața comisiei din unitatea unde lucreazã.
+Autorizația este personalã, se va pãstra permanent asupra posesorului în bunã stare și se va prezenta la cererea delegatului ISCIR și a organelor împuternicite ale deținãtorului.
+Posesorul autorizației nu poate deservi decât instalații de tipul celor înscrise în autorizație.
+Este interzisã deservirea instalațiilor dacã acestea nu sunt autorizate sã funcționeze, exceptând cazurile în care
+se executã verificãri și încercãri în vederea punerii în funcțiune sau omologãrii prototipurilor. Autorizația poate fi retrasã
+de cãtre organele oficiale de verificare ale deținãtorului când posesorul este gãsit sub influența alcoolului în timpul serviciului sau când se constatã cã a sãvârșit abateri grave care pericliteazã securitatea instalației și a persoanelor.
+Autorizația poate fi retrasã de ISCIR, pe baza cererii deținãtorului, atunci când:
+Ñ se constatã abateri de la instrucțiunile de deservire a instalațiilor;
+Ñ personalul are o slabã pregãtire în meseria respectivã și dã dovadã de lipsã de interes în împrospãtarea
+cunoștințelor profesionale;
+Ñ se constatã modificãri, adãugãri sau ștersãturi în carnetul de autorizare, fãrã viza unitãții ISCIR. modificarea
+carnetului de autorizare se considerã falsificare de acte publice și se urmãrește conform legii;
+Ñ dupã notarea a 5 abateri în carnet, când se retrage definitiv autorizația.
+În cazul pierderii carnetului de autorizare persoana în cauzã poate obține un nou carnet de la ISCIR în baza
+unei cereri scrise vizate de unitatea unde lucreazã, cu condiția publicãrii pierderii conform normelor legale privind pierderea actelor oficiale1).
+1)
+
+În cazul în care este necesar, textul va continua și în interiorul ultimei coperte.
+
+(Pagina 1)
+
+ROMÂNIA
+
+INSPECÞIA DE STAT PENTRU CONTROLUL CAZANELOR, RECIPIENTELOR SUB PRESIUNE ȘI INSTALAÞIILOR DE RIDICAT Ñ ISCIR
+AUTORIZAÞIE
+
+nr. ÉÉ
+
+1)
+
+ÉÉ
+ÉÉ2)
+
+2)
+3)
+
+Numãrul autorizației se va scrie pe fiecare paginã, în partea de jos.
+În partea de jos, dreapta sau stânga, se va scrie numãrul paginii respective (pe toate paginile carnetului).
+
+31
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+
+(Pagina 2)
+
+de É................................................É1) É.................................................É
+Numele É.........................................................................................................................É
+Prenumele É....................................................................................................................É
+Data și locul nașterii É...................................................................................................É
+CNPÉ..................................................2) ..........................................................................É
+Se autorizeazã sã deserveascã É.................................................................................É
+din grupa É........................................É (É..............É) tipul É.................................... .
+Eliberatã de ......................................................É3) É....................................................É
+...............................................................................................................................................
+în baza Procesului-verbal nr. É..........................É din É.........................................ÉÉ
+Delegat ISCIR É..............................................................................................................É
+AUTORIZAÞIE
+
+(Semnãtura și ștampila)
+1)
+2)
+3)
+
+Nr. É..................É
+Completarea carnetului se va face cu tuș negru.
+CNP Ñ Cod numeric personal.
+Denumirea unitãții ISCIR emitente.
+
+(Pagina 3)
+Loc pentru fotografie
+Semnãtura posesorului
+Data eliberãrii É.........................É
+Completat de É..........................É
+INSPECTOR-ȘEF ISCIRÑINSPECT IT É.................É1) ................ÉÉ
+(numele, prenumele, semnãtura, ștampila)
+
+Nr. ÉÉ
+1)
+
+Localitatea de reședințã.
+
+(Paginile 4, 5 și 6)
+EXTINDEREA VALABILITÃÞII AUTORIZAÞIEI
+
+1. Unitatea ISCIR É..............................................................................................................É
+Nr. proces-verbal și data É..................................................................................................É
+Se autorizeazã sã deserveascã É..............................É din grupa É............É (É........É)
+tipul .................................................
+Președintele comisiei,
+É................................................É
+(numele, prenumele, semnãtura, ștampila)
+
+2.
+Nr. ...............ÉÉ
+N O T Ã:
+
+Ñ Textul de la pct. 1 se va repeta de douã ori pe paginã.
+(Paginile 7, 8, 9 și 10)
+EXAMINÃRI ANUALE
+Nr. proces-verbal
+Data
+
+Denumirea deținãtorului
+
+Președintele comisiei
+(numele, prenumele,
+semnãtura, ștampila)
+
+1)
+
+Nr. É.............É
+1)
+
+Pe fiecare paginã se vor tipãri 5 rânduri.
+
+(Paginile 11 și 12)
+ABATERI
+
+de la normele legale în vigoare
+Nr. proces-verbal
+Data
+
+Natura abaterii
+Sancțiunea
+
+1)
+
+Nr. É....................É
+1)
+
+Pe fiecare paginã se vor tipãri 3Ñ5 rânduri.
+
+Organul care a constatat abaterea
+(numele, prenumele,
+semnãtura, ștampila)
+
+32
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 910/14.XII.2002
+ANEXA U
+la prescripția tehnicã
+A F I Ș E, M A R C A J E Ș I I N S T R U C Þ I U N I D E E X P L O A T A R E
+
+U.1. Condiții generale
+Toate afișele, marcajele și instrucțiunile de utilizare nu
+trebuie sã poatã fi șterse, trebuie sã fie lizibile și ușor de
+înțeles (la nevoie, cu ajutorul unor semne sau simboluri).
+Acestea trebuie sã fie indestructibile, realizate din materiale
+durabile, așezate în locuri vizibile și redactate în limba
+românã (sau în mai multe limbi, dacã este necesar).
+U.2. Afișe și marcaje în cabinã
+U.2.1. În cabinã trebuie afișate sarcina nominalã a
+ascensorului în kilograme, precum și numãrul de persoane.
+Afișul trebuie redactat în felul urmãtor: ”ÉkgÉPERS,,.
+Înãlțimea minimã a caracterelor utilizate pentru afiș
+trebuie sã fie:
+
+a) 10 mm pentru majuscule și cifre;
+b) 7 mm pentru literele de rând.
+U.2.2. În cabinã trebuie afișate numele montatorului și numãrul de identificare a ascensorului (seria și anul de fabricație).
+U.3. Instrucțiuni de exploatare (utilizare) a ascensorului, afișate în cabinã
+Instrucțiunile de exploatare (utilizare) a ascensorului trebuie sã ofere informațiile necesare despre:
+Ñ exploatarea (utilizarea) normalã a ascensorului;
+Ñ operațiunile de salvare a pasagerilor în caz de avarie;
+Ñ interzicerea intervențiilor la ascensor din partea persoanelor neautorizate;
+Ñ numãrul de telefon al întreținãtorului.
+ANEXA V
+la prescripția tehnicã
+
+RESPONSABILUL CU SUPRAVEGHEREA ȘI VERIFICAREA TEHNICÃ A INSTALAÞIILOR (RSVTI)
+
+V.1. Agenții economici care dețin (exploateazã) ascensoare au urmãtoarele obligații și rãspunderi:
+V.1.1. sã posede prescripțiile tehnice specifice;
+V.1.2. sã pregãteascã și sã prezinte ascensoarele, precum și documentația tehnicã la verificãrile care se efectueazã de inspectorii de specialitate ai ISCIRÑINSPECT
+sau de RVTA al întreținãtorului, în vederea autorizãrii
+funcționãrii ascensoarelor;
+V.1.3. sã numeascã personal tehnic pentru supravegherea
+și verificarea tehnicã a ascensoarelor (RSVTI), ingineri și tehnicieni de specialitate, în raport cu numãrul și complexitatea
+ascensoarelor, care sã fie autorizat de ISCIRÑINSPECT IT în
+a cãrei razã are sediul agentul economic; modelul pentru decizia de numire a personalului propus pentru autorizare este
+prezentat în anexa J; modelul autorizației emise de ISCIRÑ
+INSPECT este prezentat în anexa K;
+V.1.4. sã ia mãsuri corespunzãtoare, astfel încât personalul tehnic de specialitate propriu autorizat de ISCIRÑINSPECT
+sã-și poatã îndeplini în bune condiții sarcinile prevãzute la
+pct. V.2 și sã comunice în scris la ISCIRÑINPECT IT în a
+cãrei razã are sediul agentul economic orice schimbare a
+
+personalului tehnic respectiv și sã o definitiveze numai dupã
+confirmarea acesteia de cãtre ISCIRÑINSPECT.
+V.2. Personalul tehnic autorizat de ISCIRÑINSPECT
+pentru supravegherea și verificarea tehnicã a ascensoarelor (RSVTI) are urmãtoarele obligații și rãspunderi:
+a) sã cunoascã legislația în vigoare, prescripțiile tehnice
+specifice și standardele în domeniu;
+b) sã participe la testãrile și întrunirile periodice organizate de ISCIRÑINSPECT;
+c) sã întocmeascã și sã ținã la zi un registru de evidențã a ascensoarelor, conform modelului din anexa N;
+d) sã urmãreascã pregãtirea ascensoarelor, echipamentelor și sarcinilor de încercare necesare pentru verificarea
+tehnicã oficialã și sã participe la efectuarea acesteia;
+e) sã supravegheze ca ascensoarele sã fie folosite în
+conformitate cu prevederile prescripției tehnice PT R6Ñ2002,
+instrucțiunile de exploatare și normele de protecția muncii;
+f) sã urmãreascã realizarea la termen a dispozițiilor date
+prin procesele-verbale cu ocazia verificãrilor tehnice oficiale,
+sã examineze în mod regulat registrul de evidențã a supravegherii și sã ia mãsuri pentru remedierea imediatã a
+defectelor semnalate.
+ANEXA X
+la prescripția tehnicã
+
+INSTALAÞII
+
+care nu fac obiectul prescripției tehnice PT R6Ñ2002
+i) ascensoarele multicelulare cu mișcare continuã (pater
+Nu fac obiectul prevederilor prescripției tehnice PT R6-2002
+urmãtoarele instalații care sunt reglementate prin alte prescripții noster);
+tehnice:
+j) ascensoarele montate în construcții speciale;
+a) ascensoarele cu schip;
+k) ascensoarele din puțurile minelor;
+b) ascensoarele pentru șantierele de construcții;
+l) ascensoarele de pe construcții plutitoare sau de pe nave;
+c) ascensoarele de construcție specialã pentru materiale;
+m) ascensoarele special proiectate și construite cu
+d) trapele de scenã, trapele de decoruri și instalațiile de
+cortine pentru incendiu din sãlile de spectacole;
+destinație militarã și pentru poliție și ordine publicã;
+e) instalațiile de transport pe cablu, inclusiv instalațiile
+n) ascensoarele pentru intervenții în caz de incendiu;
+de transport pe plan înclinat, pentru transport public sau
+o) ascensoarele instalate în mijloace de transport;
+privat de persoane;
+p) trenuri cu cremalierã.
+f) scãrile rulante;
+Instalațiile menționate la lit. i)Ñp) vor fi supuse preveg) elevatoarele;
+h) ascensoarele instalate pe mașini industriale și utilizate derilor prescripțiilor tehnice elaborate de ministerele sau
+agenții economici în administrarea cãrora se aflã instalațiile.
+exclusiv pentru accesul la punctul de lucru;
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 5069427282 Trezoreria sector 5, București (alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 411.97.54, tel./fax 410.77.36.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 910/14.XII.2002 conține 32 de pagini.
+
+Prețul de vânzare 20.500 lei
+
+ISSN 1453Ñ4495
+
+

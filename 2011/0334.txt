@@ -1,0 +1,1308 @@
+PARTEA I
+
+Anul 179 (XXIII) — Nr. 334
+
+Vineri, 13 mai 2011
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+SUMAR
+
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+
+1.278. — Ordin al ministrului mediului și pădurilor pentru
+aprobarea Instrucțiunilor privind delimitarea zonelor de
+protecție sanitară și a perimetrului de protecție
+hidrogeologică ............................................................
+
+2–15
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 334/13.V.2011
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+MINISTERUL MEDIULUI ȘI PĂDURILOR
+
+ORDIN
+pentru aprobarea Instrucțiunilor privind delimitarea zonelor
+de protecție sanitară și a perimetrului
+de protecție hidrogeologică
+Având în vedere Referatul de aprobare nr. 40.020 din 19 aprilie 2011 al
+Direcției managementul resurselor de apă,
+în temeiul prevederilor art. 12 alin. (1) din Normele speciale privind caracterul
+și mărimea zonelor de protecție sanitară și hidrogeologică, aprobate prin Hotărârea
+Guvernului nr. 930/2005, și ale art. 15 alin. (4) din Hotărârea Guvernului
+nr. 1.635/2009 privind organizarea și funcționarea Ministerului Mediului și Pădurilor,
+cu modificările și completările ulterioare,
+ministrul mediului și pădurilor emite prezentul ordin.
+Art. 1. — Se aprobă Instrucțiunile privind delimitarea zonelor de protecție
+sanitară și a perimetrului de protecție hidrogeologică, prevăzute în anexa care face
+parte integrantă din prezentul ordin.
+Art. 2. — Prezentul ordin se publică în Monitorul Oficial al României, Partea I.
+Ministrul mediului și pădurilor,
+László Borbély
+București, 20 aprilie 2011.
+Nr. 1.278.
+ANEXĂ
+
+INSTRUCȚIUNI
+
+privind delimitarea zonelor de protecție sanitară și a perimetrului de protecție hidrogeologică
+CAPITOLUL I
+Prevederi generale
+Domeniul de aplicare. Definiții și criterii de bază
+Art. 1. — (1) Domeniul de aplicare al prezentelor instrucțiuni cuprinde sursele de ape subterane
+utilizate pentru alimentarea cu apă potabilă a localităților și a operatorilor economici. Pentru sursele de ape
+minerale utilizate pentru cură internă sau pentru îmbuteliere aceste instrucțiuni sunt valabile, însă au
+caracter de recomandare. Nu fac obiectul prezentelor instrucțiuni sursele de ape geotermale, sursele de
+ape minerale și termominerale folosite în cura externă, sursele de ape subterane potabile din gospodăriile
+individuale cu debite de până la 0,2 l/s și sursele de ape industriale (nepotabile) ale operatorilor economici.
+(2) Instrucțiunile pentru dimensionarea zonelor de protecție sanitară se referă numai la poluanții
+biodegradabili, în condițiile absenței poluanților chimici inhibitori. În cazul în care se constată prezența
+unei poluări cu substanțe nedegradabile biologic sau cu substanțe chimice inhibitoare ale proceselor de
+degradare biologică din sol și subsol, se vor lua măsuri urgente și stricte de înlăturare a sursei de poluare,
+mergând până la oprirea activității operatorului economic poluator.
+Art. 2. — (1) Semnificația termenilor tehnici folosiți în prezentele instrucțiuni este cea din STAS
+4621—91: Hidrogeologie — Terminologie.
+(2) Sursele de ape subterane considerate în instrucțiunile de față sunt cele definite prin SR 1628/1 —
+1995 Alimentări cu apă — Surse de apă subterană. Investigaţii, studii de teren şi cercetări de laborator,
+respectiv captările prin puțuri (forate sau săpate), captările prin drenuri și captările de izvoare.
+(3) Expresiile ăzona de protecție sanitară cu regim sever”, ăzona de protecție sanitară cu regim de
+restricție” și ăperimetru de protecție hidrogeologică” au semnificațiile din Hotărârea Guvernului nr. 930/2005
+pentru aprobarea Normelor speciale privind caracterul și mărimea zonelor de protecție sanitară şi
+hidrogeologică.
+(4) În înțelesul prezentelor instrucțiuni, următorii termeni se definesc astfel:
+a) aluviuni — depozite sedimentare neconsolidate formate în perioada cuaternară, ca urmare a
+acțiunii unor cursuri de apă, constituite din bolovănișuri, pietrișuri, nisipuri, prafuri și argile;
+b) atenuarea poluării — procesul de diminuare a concentrației poluanților în apa subterană, ca
+urmare a dispersiei, filtrării, biodegradării, adsorbției etc.;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 334/13.V.2011
+c) izotropia acviferului — situația în care caracteristicile hidraulice ale acviferului sunt invariabile
+indiferent de direcție;
+d) modelarea matematică a sistemului acvifer — metoda care, având la bază ecuațiile utilizate în
+descrierea mișcării apei și a poluanților în sistemul acvifer, constă în realizarea unui model analitic al
+mișcării, care, în cazuri idealizate de mediu omogen și izotrop, permite obținerea unor soluții exacte ale
+ecuațiilor respective, sau a unui model numeric, care, fără a folosi ipoteze simplificatoare, furnizează
+soluții aproximative acceptabile în practică;
+e) testarea acviferului — metodă prin care se urmărește determinarea parametrilor hidrogeologici
+și a debitului exploatabil al unui acvifer, constând din extragerea sau adăugarea unor cantități determinate
+de apă din sau în acvifer, de obicei prin intermediul unui foraj, cu măsurarea simultană și ulterioară a
+variației nivelului apei în acvifer, respectiv în forajul testat și eventual în unul sau mai multe foraje satelit
+(piezometre);
+f) vulnerabilitatea la poluare — riscul potențial de contaminare a apelor subterane, depinzând de
+caracteristicile și grosimea solului, absența sau prezența în acoperișul acviferului a unor strate cu rol
+protector, caracteristicile zonei nesaturate și ale celei saturate, legate de capacitatea de atenuare a
+poluării, precum și de natura și caracteristicile poluanților.
+Art. 3. — Dimensionarea zonelor de protecție trebuie să se facă astfel încât în cadrul acestor zone
+să fie îndeplinite următoarele condiții:
+a) să se asigure protecția față de contaminările microbiologică și chimică, ținând seama de
+capacitatea epuratoare a solului și rocilor;
+b) în cazul poluării cu substanțe greu degradabile sau nedegradabile, extinderea zonei trebuie să
+asigure suficient timp de intervenție prin măsuri de depoluare.
+Art. 4. — (1) Pentru îndeplinirea condițiilor prevăzute la art. 3, la dimensionarea zonelor de protecție
+se vor lua în considerare următoarele criterii:
+a) caracteristicile morfologice, litostratigrafice și structural-tectonice ale zonei;
+b) caracteristicile hidrogeologice și tipul acviferului;
+c) condițiile la limită ale acviferului;
+d) vulnerabilitatea la poluare a acviferului;
+e) timpul de tranzit al unei particule de apă potențial poluată de la pătrunderea sa în sol până la
+captare, incluzând zonele nesaturată și saturată, astfel încât prin efectul purificator al solului și rocilor
+traversate această particulă să își piardă potențialul poluant;
+f) regimul de exploatare a captărilor prin puțuri sau drenuri, care prin denivelările create influențează
+timpul de tranzit.
+(2) Situația fiecărei captări va fi analizată în funcție de toate aceste criterii, evaluându-se toate datele
+disponibile, chiar dacă la alegerea metodei de dimensionare unul dintre criterii va fi determinant.
+CAPITOLUL II
+Metode de dimensionare a zonelor de protecție
+II.1. Principii de dimensionare
+Art. 5. — Principiul fundamental al dimensionării și instituirii zonelor de protecție este acela de a
+preveni și combate poluarea surselor de ape subterane. Plecând de la acest principiu, se iau în
+considerare criteriile menționate la art. 4, alegându-se metoda de dimensionare în funcție de tipul
+acviferului (freatic sau de adâncime, cu sau fără dinamică inițială), de tipul rocii magazin (cu porozitate
+interstițială sau cu fisuri și/sau goluri carstice), de dimensiunile și tipul captării.
+Art. 6. — Pentru zonele de protecție sanitară, în cazul majorității metodelor de dimensionare, distanța
+de protecție se determină pe baza ecuațiilor ce caracterizează mișcarea apei subterane, prin folosirea în
+calcul a caracteristicilor acviferului și captării respective, precum și a timpului de tranzit normat pentru
+protecția sanitară, 20 de zile (timp care asigură protecția împotriva efectelor imediate ale activității umane),
+în cazul zonei de protecție sanitară cu regim sever, și 50 de zile (timp care asigură reducerea naturală a
+unor eventuale contaminări microbiologice sau impurificării chimice cu substanțe ușor degradabile), în
+cazul zonei de protecție sanitară cu regim de restricție, având în vedere parcursul particulei de apă posibil
+contaminată prin zona nesaturată și prin zona saturată.
+Art. 7. — Perimetrul de protecție hidrogeologică cuprinde arealul dintre domeniile de alimentare si
+de descărcare la suprafață și/sau în subteran a apelor subterane prin emergențe naturale (izvoare), drenuri
+și foraje și are rolul de a asigura protecția față de substanțe poluante greu degradabile sau nedegradabile
+și regenerarea debitului prelevat prin lucrările de captare.
+II.2. Determinarea capacității de purificare a apei a formațiunilor din zona nesaturată
+Art. 8. — (1) În cazul acviferelor cu porozitate interstițială, prin metoda empirică Rehse poate fi
+determinată capacitatea de autoepurare a apei în zona nesaturată, cu următoarele precizări:
+a) există un strat protector cu grosimea minimă de 4 m în toată aria corespunzătoare zonei de
+protecție sanitară cu regim de restricție; în cazul stratelor cu nivel liber, nivelul apei este situat sub
+adâncimea de 4 m;
+b) calculul capacității de autoepurare a apei se face numai pentru stratele acoperitoare situate sub
+adâncimea de 4 m.
+(2) În funcție de granulația stratului acoperitor se definesc grosimile, H (m), necesare pentru
+autoepurarea apei în zona nesaturată, fiecare tip litologic fiind caracterizat printr-un indice, I = 1/H, după
+cum urmează:
+
+3
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 334/13.V.2011
+Tabelul nr. 1
+Nr.
+crt.
+
+Tipul litologic
+
+H (m)
+
+I = 1/H
+
+2
+
+0,5
+
+2,5
+
+0,4
+
+3,0—4,5
+
+0,33—0,22
+
+1.
+
+Argile, nisipuri foarte argiloase
+
+2.
+
+Prafuri argiloase
+
+3.
+
+Prafuri, nisip prăfos, nisip fin prăfos și argilos
+
+4.
+
+Nisip fin până la mediu
+
+6
+
+0,17
+
+5.
+
+Nisip mediu până la mare
+
+10
+
+0,1
+
+6.
+
+Nisip mare
+
+15
+
+0,07
+
+7.
+
+Pietriș bogat în nisip și argile
+
+8
+
+0,13
+
+8.
+
+Pietriș cu nisip
+
+12
+
+0,08
+
+9.
+
+Pietriș fin până la mediu nisipos
+
+25
+
+0,04
+
+10.
+
+Pietriș mediu până la mare, puțin nisipos
+
+35
+
+0,03
+
+11.
+
+Bolovăniș
+
+50
+
+0,02
+
+(3) Capacitatea de autoepurare a apei în zona nesaturată, Ca, este dată de relația:
+
+unde:
+— h1, h2, h3 — grosimile diferitelor categorii de formațiuni (tipuri litologice) întâlnite;
+— I1, I2, I3 — indicii corespunzători tipurilor litologice întâlnite în tabelul nr. 1.
+Dacă Ca ≥ 1, se estimează că autoepurarea apei în zona nesaturată este completă, fiind posibilă
+renunțarea la instituirea zonei de protecție sanitară cu regim de restricție.
+Dacă Ca < 1, se estimează că autoepurarea apei în zona nesaturată este parțială, fiind necesară
+asigurarea condițiilor de continuare a autoepurării în zona saturată.
+În acest din urmă caz, timpul de tranzit rămas de parcurs prin zona saturată, ts (zile), pentru
+realizarea unei autoepurări complete a apei este dat de relația următoare:
+
+În cazul în care ts ≤ 20 de zile se va institui o singură zonă de protecție sanitară, cu regim sever,
+care va fi calculată folosind una dintre metodele aplicabile acviferelor prezentate în subcapitolul II.3,
+considerând t = 20 de zile.
+În cazul în care 20 de zile < ts ≤ 25 de zile, se va institui de asemenea o singură zonă de protecție,
+cu regim sever, care va fi calculată folosind aceeași metodologie ca și în cazul precedent, cu deosebirea
+că t = ts (pentru a se elimina o suprafață prea mică corespunzătoare zonei de protecție cu regim de
+restricție).
+Daca ts> 25 de zile, se vor institui ambele zone de protecție sanitară, zona cu regim sever pentru
+t = 20 de zile și zona cu regim de restricție pentru t = ts.
+Art. 9. — (1) În cazul acviferelor fisurale și carstice, la care capacitatea de autoepurare a apelor
+în zona formațiunilor acoperitoare este mai mică decât în cazul rocilor cu porozitate interstițială, se va
+utiliza metoda Bolsenkotter. Această metodă completează metoda Rehse, admițând un indice de
+autoepurare I = 0,5/H a formațiunilor care constituie mediile fisurale, eventual carstice, conform celor
+prezentate în tabelul 2:
+Tabelul nr. 2
+Nr.
+crt.
+
+Descrierea materialului
+
+H (m)
+
+I = 0,5/H
+
+1.
+
+Marne
+
+10
+
+0,05
+
+2.
+
+Gresii cu intercalații argiloase
+Argile, micașisturi, filite
+
+20
+
+0,025
+
+3.
+4.
+5.
+6.
+7.
+
+Bazalte și roci vulcanice
+Gresii de tip gravwacke, argiloase, prăfoase
+Granite, granodiorite, diorite, sienite
+Cuarțite, gresii cu intercalații de silex
+Calcare
+
+30
+50
+70
+100
+200
+
+0,017
+0,01
+0,007
+0,005
+0,0025
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 334/13.V.2011
+(2) Capacitatea de autoepurare maximă a apei în zona nesaturată este considerată pentru siguranță:
+
+astfel încât calculând valoarea lui Ca, conform relației (1), cu utilizarea tabelului nr. 2, în cazul în care
+rezultă o valoare mai mare decât 0,5, atunci Ca va fi considerat egal cu 0,5.
+Dacă Ca = 0,5 pentru autoepurarea completă a apei este necesar de parcurs în cadrul acviferului
+fisural și/sau carstic o distanță corespunzătoare unui timp de tranziție, ts = 25 de zile, instituindu-se o
+singură zonă de protecție cu regim sever, calculată prin relația:
+
+unde:
+Q — debitul sursei (m3/zi);
+t — timpul de tranziție a apei prin acvifer (25 de zile);
+b — grosimea acviferului (m);
+ne — porozitatea eficace a formațiunii acvifere (adimensional).
+— valori orientative pentru acest parametru, în funcție de granulometria stratului acvifer captat, sunt
+prezentate în anexa nr. 2
+Dacă Ca < 0,5, timpul de tranzit ts, calculat conform relației (2), este mai mare de 25 de zile și se
+vor institui ambele zone de protecție: cu regim sever (t = 20 de zile) și cu regim de restricție (t = ts).
+(3) Dacă stratul acoperitor al acviferului fisural și/sau carstic este alcătuit din roci neconsolidate,
+atunci capacitatea de autoepurare a acestuia va fi determinată conform metodei Rehse, condiționat de
+existența în întreaga zonă de protecție sanitară cu regim de restricție a unui strat acoperitor neconsolidat
+cu o grosime de minimum 4 m, deasupra suprafeței piezometrice corespunzătoare nivelelor maxime.
+II.3. Metode de dimensionare a zonelor de protecție sanitară și a perimetrului de protecție
+hidrogeologică pentru cazul acviferelor cu porozitate interstițială
+II.3.1. Zone de protecție sanitară
+
+Art. 10. — În cazul captărilor care exploatează acvifere cu porozitate interstițială (acvifere cantonate
+în depozite granulare), principalele metode matematice utilizate pentru dimensionarea zonelor de protecție
+sanitară pot fi grupate în trei clase: metode analitice, metode grafice și metode numerice. În cadrul fiecărei
+clase se găsesc metode cu grade diferite de complexitate. Alegerea metodei se face în funcție de
+complexitatea structurii geologice, de caracteristicile mișcării apei în acvifer (cu sau fără dinamică inițială)
+și de dimensiunile captării.
+Art. 11. — Pentru captările prin puțuri se poate alege una dintre metodele analitice descrise mai jos:
+1. Metoda Trofin, care se aplică în cazul acviferelor uniforme, omogene și izotrope, fără dinamică
+inițială (gradientul hidraulic i < 0,003).
+Pentru un foraj (puț) singular, situat într-un acvifer sub presiune, formula de calcul al distanței, D (m),
+dintre punctul reprezentat de captare și limita zonei de protecție este următoarea:
+
+în care:
+— Q — debitul exploatat prin puț (m3/zi);
+— t — timpul de tranzit normat pentru protecția calității apei furnizate de puț (20 sau 50 de zile);
+— ne — porozitatea eficace a acviferului (adimensional);
+— valori orientative pentru acest parametru, în funcție de granulometria stratului acvifer captat, sunt
+prezentate în anexa nr. 2;
+— M — grosimea stratului acvifer captat (m).
+Pentru un acvifer cu nivel liber, în formula (4), M poate fi asimilat astfel:
+
+unde:
+— H — grosimea acviferului cu nivel liber (m);
+— s0 — denivelarea în foraj (m).
+Zonele de protecție obținute prin această metodă sunt de formă circulară, având centrul în punctul
+în care se află puțul și raza egală cu distanța calculată D.
+2. Metoda Hoffmann-Lillich, care este aplicabilă pentru puțuri perfecte după modul de deschidere în
+acvifere omogene și izotrope, fără dinamica inițială (i < 0,003).
+
+5
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 334/13.V.2011
+Metoda se bazează pe calculul unui anumit gradient hidraulic mediu, (im), din zona conului de
+depresiune al unui foraj de exploatare, pe baza căruia să poată fi determinată distanța D (m)
+corespunzătoare unui anumit timp de tranzit, t (20 sau 50 de zile), astfel:
+
+,
+în care:
+— K — coeficientul de filtrație (m/s);
+— se determină prin pompări experimentale;
+— valori orientative pentru acest parametru, în funcție de litologia și granulometria stratului
+acvifer captat, sunt prezentate în anexa nr. 2;
+— ne — porozitatea eficace (adimensional);
+— valori orientative pentru acest parametru, în funcție de granulometria stratului acvifer captat,
+sunt prezentate în anexa nr. 2.
+Gradientul hidraulic, i, este variabil în zona de influență a forajului de exploatare, putând fi calculat
+cu relația (figura 1 din anexa nr. 3 ):
+
+în care:
+— h — înălțimea nivelului apei într-un punct de pe suprafața conului de depresiune față de un anumit
+plan de referință, în general culcușul acviferului (m);
+— h0 — înălțimea coloanei de apă în forajul exploatat față de planul de referință (m);
+— l — distanța orizontală dintre foraj și punctul de pe suprafața conului de depresiune corespunzător
+înălțimii h a nivelului apei (m).
+Variația adâncimii nivelului (h—h0) în cadrul conului de depresiune ce se formează în jurul forajului
+aflat în exploatare este dată de următoarele relații:
+— pentru acvifere sub presiune:
+
+— pentru acvifere cu nivel liber:
+
+,
+
+în care:
+— H — înălțimea apei față de planul de referință, corespunzătoare nivelului piezometric (m);
+— l — distanța orizontală dintre foraj și punctul de pe suprafața conului de depresiune corespunzător
+înălțimii h a nivelului apei (m);
+— r0 — raza forajului (m);
+— R — raza de influență a forajului (m).
+Ecuațiile (8) și (9) permit calculul gradientului hidraulic, i, într-un punct situat la distanța l față de
+foraj. Problema este de a determina distanța l pentru care gradientul hidraulic are o asemenea valoare,
+i = im, încât, dacă se calculează distanța D corespunzătoare izocronelor de 20 sau 50 de zile, distanțele
+l și D să fie egale, pentru fiecare din cele două cazuri.
+Metoda este iterativă, iar procedeul este următorul (figura 1 din anexa nr. 3):
+— se alege o valoare a distanței l = l1 mai mică decât R (raza de influență a forajului); se calculează
+gradientul hidraulic i1 și distanța D1, considerând în relația (6) im = i1;
+— dacă D1 este diferit de l1, se reface calculul pornind de la o valoare l2, cuprinsă între l1 și D1;
+— prin iterații succesive se ajunge la o valoare ln care coincide cu Dn și aceasta este distanța D
+corespunzătoare timpului de tranzit normat pentru protecție, de 20 sau 50 de zile, și gradientului hidraulic
+mediu (im), diferit pentru cele două cazuri, din zona conului de depresiune a forajului aflat în exploatare.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 334/13.V.2011
+Limita zonei de protecție este, și în acest caz, un cerc cu centrul în punctul în care se află forajul și
+cu raza egală cu distanța de protecție calculată prin metoda iterativă.
+3. Metoda Wyssling, care consideră acviferul omogen și izotrop, cu dinamică inițială
+Prima etapă în aplicarea acestei metode se referă la determinarea elementelor specifice zonei de
+apel a captării (figura 2 din anexa nr. 3).
+Lățimea zonei de apel, B (m), se determină din formula:
+
+unde:
+— Q — debitul exploatat (m3/zi);
+— K — coeficientul de filtrație (m/zi);
+— se determină prin pompări experimentale;
+— valori orientative pentru acest parametru, în funcție de litologia și granulometria stratului
+acvifer captat, sunt prezentate în anexa nr. 2;
+— i — gradientul hidraulic, în condiții naturale de curgere (Q = O);
+— M — grosimea acviferului captat (m).
+Lățimea zonei de apel în dreptul forajului, b (m), este:
+
+Raza de alimentare aval de foraj, x0 (m), este dată de formula:
+
+Viteza efectivă a curentului subteran, ve (m3/zi), este:
+
+,
+în care ne este porozitatea eficace (adimensional);
+— valori orientative pentru acest parametru, în funcție de granulometria stratului acvifer captat, sunt
+prezentate în anexa nr. 2.
+Pentru acviferele cu nivel liber se înlocuiește M cu următoarea expresie:
+
+,
+
+în care:
+— H — grosimea acviferului cu nivel liber (m);
+— s0 — denivelarea în foraj (m).
+Următoarea etapă constă în determinarea distanței corespunzătoare timpului de tranzit, t, de 20
+sau 50 de zile, cu relația:
+
+în care:
+— d — ve t;
+— semnul (+) corespunde calculului distanței Da (m), amonte de captare, iar semnul (–), calculului
+distanței Dv (m), aval de captare.
+Această metodă permite calculul aproximativ al distanțelor, obținându-se valori utilizabile mai ales
+pe direcția amonte, spre deosebire de direcția aval, unde, în special la viteze efective mari, pot apărea
+valori ale lui Dv mai mari decât x0 (ceea ce este imposibil în realitate). În acest caz, distanța de protecție
+în aval va fi considerată x0.
+
+7
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 334/13.V.2011
+Distanța laterală de protecție, Dl, în punctul situat la distanța Da (figura 2 din anexa nr. 3) este identică
+cu distanța de protecție a unui puț care exploatează un acvifer fără dinamică inițială (metoda Trofin), dar
+nu poate fi mai mare decât b, respectiv B/2. În cazul în care această distanță calculată este mai mare decât b,
+se va considera Dl = b.
+Art. 12. — Pentru captările prin drenuri, considerând poziționarea acestora în stratul acvifer cu nivel
+liber, mărimea zonelor de protecție sanitară se calculează pornind de la același criteriu al timpului de
+tranzit t al unei particule de apă, prin utilizarea ecuațiilor de mișcare ale apei către dren. În funcție de
+valoarea gradientului hidraulic (i) se deosebesc 3 situații:
+1. i ≤ 0,003. Se admite intrarea simetrică a apei pe ambele părți ale drenului (figura 3 din anexa nr. 3).
+Rezolvarea ecuațiilor de mișcare a apei conduce la următoarea expresie pentru distanța de protecție,
+D (m):
+
+,
+unde:
+— K — coeficientul de filtrație (m/zi);
+— se determină prin pompări experimentale;
+— valori orientative pentru acest parametru, în funcție de litologia și granulometria stratului
+acvifer captat, sunt prezentate în anexa nr. 2;
+— q — debitul specific al drenului (m3/zi/m);
+— t — timpul de tranzit impus (20 sau 50 de zile);
+— ne — porozitatea eficace (adimensional);
+— valori orientative pentru acest parametru, în funcție de granulometria stratului acvifer captat,
+sunt prezentate în anexa nr. 2;
+— h0 — înălțimea apei la intrarea în dren (m).
+2. 0,003 < i ≤ 0,01. Se admite că apa curge spre dren numai dinspre amonte (figura 4 din anexa
+nr. 3).
+Expresia distanței de protecție, D (m), în acest caz este următoarea:
+
+în care:
+— η0 = h0/H;
+— η1 = h1/H;
+— H — grosimea stratului de apă neinfluențat de dren (m);
+— i — gradientul hidraulic (adimensional);
+— h0 — înălțimea stratului de apă la intrarea în dren (m);
+— h1 — înălțimea stratului de apă la limita distanței de protecție (m).
+Prin integrarea expresiei timpului de parcurgere a distanței, D, se obține relația:
+
+,
+în care:
+t — timpul normat pentru protecția acviferului (20 sau 50 de zile);
+K — coeficientul de filtrație (m/zi);
+— se determină prin pompări experimentale;
+— valori orientative pentru acest parametru, în funcție de litologia și granulometria stratului acvifer
+captat, sunt prezentate în anexa nr. 2;
+ne — porozitatea eficace (adimensional);
+— valori orientative pentru acest parametru, în funcție de granulometria stratului acvifer captat,
+sunt prezentate în anexa nr. 2
+H — grosimea stratului de apă neinfluențată de dren;
+η0, η1 — cu semnificația de la relația (17).
+Din reprezentarea grafică a relației (18) în diagrama din figura 5 — anexa nr. 3, cunoscând η0 și
+tki2
+
+, se obține valoarea η1.
+neH
+Având toate elementele din expresia (17) cunoscute, se calculează D.
+3. i > 0,01. În acest caz acviferul se consideră cu grosime mică și pantă mare și se admite că viteza
+de intrare a apei în dren este egală cu viteza apei în strat.
+Expresia distanței de protecție, D (m), este:
+valoarea expresiei
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 334/13.V.2011
+
+în care:
+— K — coeficientul de filtrație (m/zi);
+— se determină prin pompări experimentale;
+— valori orientative pentru acest parametru, în funcție de litologia și granulometria stratului
+acvifer captat, sunt prezentate în anexa nr. 2;
+— i — gradientul hidraulic în condiții naturale de curgere (adimensional);
+— t — timpul de tranzit (zile);
+— ne — porozitate eficace (adimensional);
+— valori orientative pentru acest parametru, în funcție de granulometria stratului acvifer captat, sunt
+prezentate în anexa nr. 2.
+Art. 13. — Metodele grafice, având la bază modele matematice, au fost dezvoltate pentru o
+dimensionare mai rapidă a zonelor de protecție de diverși specialiști (Sauty și Thiery, Van Waegeningh și
+Van Duijvenboden, Pettyjohn, Zamfirescu etc.). Acestea au în vedere determinarea distanțelor de protecție
+prin interpolare, utilizându-se reprezentări grafice (nomograme) realizate pentru diferite condiții
+hidrogeologice, tipuri și dimensiuni de captări.
+Art. 14. — Atât în cazul puțurilor, cât și al drenurilor și izvoarelor, dimensionarea zonelor de protecție
+poate fi efectuată utilizând metode numerice. Este necesar un volum mare de date experimentale: sarcini
+piezometrice, coeficienți de filtrație, transmisivități, coeficienți de înmagazinare, coeficienți de drenanță,
+debite exploatate, variația spațio-temporală a indicatorilor fizici, chimici și microbiologici ai apei, relațiile
+cu apele de suprafață și cu acviferele adiacente, valorile de realimentare a acviferului, factorii care
+influențează transportul de poluanți — coeficienții de dispersie și difuzie, factorii de retardare etc.
+Principiul acestor metode constă în determinarea spectrului hidrodinamic și calcularea izocronelor
+pentru timpii de tranzit impuși, astfel:
+a) în etapa I se generează un câmp al distribuției sarcinilor piezometrice, cu ajutorul unui model de
+curgere, pe baza unui set de parametri hidrogeologici și a unui set de condiții de margine;
+b) în etapa a II-a, acest câmp de sarcini piezometrice este utilizat pentru simularea transportului de
+poluanți; sunt determinate direcțiile principale de curgere, vitezele de transport și, în funcție de timpul de
+tranzit impus, sunt desenate izocronele în jurul captării.
+Art. 15. — (1) Pentru acviferele cu nivel liber, ale căror niveluri hidrostatice se situează la adâncimi
+de până la 4,0 m, la dimensionarea zonelor de protecție sanitară nu se va lua în calcul timpul de tranzit
+de la suprafața solului până la zona saturată a acviferului. În cazul acviferelor cu nivel liber, ale căror
+niveluri hidrostatice depășesc adâncimea de 4,0 m, la dimensionarea zonelor de protecție sanitară se va
+ține seama de grosimea și caracteristicile stratelor acoperitoare cu rol protector din zona nesaturată,
+conform celor specificate la art. 8.
+(2) Pentru acviferele sub presiune protejate la partea superioară prin depozite suficient de groase,
+astfel încât parcursul pe verticală prin zona nesaturată a unei particule de apă presupusă contaminată
+până la acestea este mai mare sau egal cu 50 de zile și având zonele de alimentare situate pe orizontală
+la distanțe mai mari decât cea corespunzătoare izocronei de 50 de zile calculate conform art. 8 alin. (3),
+protecția sanitară se va realiza numai prin instituirea zonei de protecție sanitară cu regim sever, care va
+avea dimensiunile de 10 m amonte, aval și lateral față de sursă. Realizarea acestor condiții va fi
+demonstrată prin studiul hidrogeologic menționat în anexa nr. 1, expertizat în mod obligatoriu în cadrul
+Institutului Național de Hidrologie și Gospodărire a Apelor — Laboratorul de studii și cercetări
+hidrogeologice. Prin expertiză se va verifica și proiectul de foraj, pentru a se exclude posibilitatea poluării
+acviferului de adâncime ca urmare a unor greșeli de proiectare. Astfel, nu se va accepta captarea de
+strate acvifere aparținând unor complexe acvifere diferite în cazul aceluiași foraj, iar în exteriorul coloanei
+filtrante a forajului, stratele aparținând unor acvifere diferite vor fi izolate prin cimentare. Se va avea în
+vedere izolarea completă a freaticului prin încastrarea coloanei de protecție în stratul impermeabil din
+culcușul freaticului și cimentarea ei la exterior.
+Art. 16. — În cazul captărilor cu infiltrație prin mal (constituite din puțuri sau drenuri) se va determina
+relația râu—acvifer, se vor calcula distanțele de protecție sanitară față de râul presupus poluat cu care
+acviferul se află în legătură, amplasându-se captarea la o distanță minimă față de râu corespunzătoare
+izocronei de 20 de zile. În cazul când acest lucru nu este posibil (la râurile cu albiile majore înguste sau
+la captările deja în funcțiune), fie se va proceda la tratarea apei ca și în cazul surselor de suprafață, fie
+întregul bazin hidrografic al râului, în amonte de captare, va fi supus unui regim special de restricție pentru
+prevenirea poluării acestuia.
+Art. 17. — (1) Pentru o captare de izvor, dimensionarea zonelor de protecție se va face prin analiza
+complexă a situației hidrogeologice, punându-se accentul pe cartarea hidrogeologică de detaliu, care
+trebuie să stabilească tipul emergenței și vulnerabilitatea la poluare a acviferului care o generează, precum
+și posibilitatea utilizării criteriului timpului de tranzit.
+(2) Astfel, pentru captările de izvoare cu debite medii sub 2 l/s se vor institui zone de protecție
+sanitară cu regim sever având dimensiunile de 50 m în amonte pe direcția fluxului subteran care
+alimentează izvorul și de 20 m lateral, de o parte și de alta față de captare. Perimetrul de protecție sanitară
+
+9
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 334/13.V.2011
+cu regim de restricție se va poziționa în funcție de vulnerabilitatea și de condițiile la limită ale acviferului
+respectiv, în general pe cea mai apropiată linie de cumpănă a apelor de suprafață.
+(3) Pentru izvoare cu debitul mai mare de 2 l/s se poate utiliza, în cazul zonei saturate, metodologia
+de dimensionare pentru drenuri (caz în care pentru emergențele punctuale lungimea drenurilor se va
+considera unitară, iar pentru o linie de izvoare lungimea drenului va fi egală cu lungimea liniei respective)
+sau metoda marcării cu trasori.
+Art. 18. — Întrucât aplicarea criteriului timpului de tranzit pentru dimensionarea zonelor de protecție
+sanitară presupune cunoașterea vitezei efective de mișcare a apei subterane, este foarte important ca
+aceasta să fie determinată experimental, și nu prin calcul, utilizându-se metoda marcărilor cu trasori, cel
+puțin la captări importante, pentru care sunt asigurate punctele de introducere a trasorilor în acvifer —
+puțuri preexistente.
+II.3.2. Perimetrul de protecție hidrogeologică
+
+Art. 19. — Perimetrul de protecție hidrogeologică se poate delimita utilizându-se metoda analizei
+complexe hidrostructurale, metoda hidrodinamică sau modelarea matematică a curgerii apei subterane.
+1. Metoda analizei complexe hidrostructurale se poate aplica pentru tipurile de captări de ape
+subterane (foraje, izvoare, drenuri).
+Această metodă se bazează pe o analiză complexă a condițiilor geologice (litologia, vârsta și
+extinderea depozitelor care cantonează acviferul captat), hidrogeologice (parametrii hidrogeologici, direcția
+de curgere a apei subterane, relația cu apele de suprafață sau cu hidrostructurile adiacente),
+geomorfologice și hidrografice. Se vor avea în vedere și alte aspecte locale sau regionale care pot asigura
+o mai bună protecție a resurselor de apă.
+Pentru delimitarea perimetrului de protecție hidrogeologică se analizează, în principal, următoarele
+materiale grafice:
+a) harta topografică la o scară convenabilă, 1:25.000 sau 1:50.000, pe care sunt amplasate lucrările
+de captare;
+b) harta geologică a zonei de studiu, la scara 1:200.000 sau 1:50.000, care să prezinte vârsta și
+extinderea formațiunilor care cantonează acviferul captat;
+c) harta hidrogeologică a zonei de studiu care să prezinte direcția de curgere a apei subterane, pe
+baza hidroizohipselor;
+d) secțiunile hidrogeologice care să prezinte legăturile hidraulice cu alte hidrostructuri, după caz;
+e) harta cu localizarea surselor de poluare existente și potențiale din zona de studiu.
+Pe baza analizei acestor materiale grafice se poate determina zona de alimentare a formațiunilor ce
+cantonează acviferul captat și localizarea acesteia în raport cu zona de descărcare (naturală sau prin
+lucrări de captare).
+Delimitarea perimetrului de protecție hidrogeologică se determină astfel:
+a) în amonte de captare, pe direcția de curgere a apei subterane, limita perimetrului de protecție
+hidrogeologică poate fi limita (stratigrafică) de dezvoltare a depozitelor ce cantonează acviferul exploatat
+(zona de alimentare);
+b) aval de captare, în dreptul captării, limita perimetrului de protecție hidrogeologică o constituie
+raza de influență (conul de depresiune) a captării, determinată în funcție de parametrii hidrogeologici ai
+acviferului și de parametrii de exploatare;
+c) lateral, în amonte de captare, limitele perimetrului de protecție hidrogeologică sunt constituite de
+linii de curent (perpendiculare pe hidroizohipse), care nu sunt influențate de conul de exploatare a captării;
+d) rețeaua hidrografică, aflată în legătură hidraulică cu acviferul exploatat poate constitui, în funcție
+de poziționarea captării, una dintre limitele perimetrului de protecție hidrogeologică;
+e) albia minoră a râurilor, așa cum este definită de Legea apelor nr. 107/1996, cu modificările și
+completările ulterioare, nu face parte din perimetrul de protecție hidrogeologică;
+f) în funcție de extinderea zonei de alimentare și de morfologia zonei, cumpăna de ape poate
+constitui o limită a perimetrului de protecție hidrogeologică.
+2. Metoda hidrodinamică se aplică în cazul acviferelor freatice și de adâncime exploatate prin foraje.
+Perimetrul de protecție hidrogeologică se va determina folosindu-se metoda analitică Wyssling,
+conform art. 11 alin. (3), astfel încât să fie asigurat un timp de tranzit în subteran de mimimum 3.650 de
+zile pentru orice substanță nedegradabilă sau greu degradabilă, care s-ar infiltra la limita acestei zone și
+ar ajunge în captare.
+3. Modelarea matematică a curgerii apei subterane și transportului de poluanți se poate utiliza în
+cazul exploatărilor prin foraje, drenuri și izvoare și implică cunoașterea întregului sistem al curgerii, de la
+constituția geologică și distribuția spațială a corpurilor geologice permeabile până la parametrii
+hidrogeologici ai acviferului (conductivitate hidraulică, transmisivitate, coeficient de înmagazinare) sau
+hidrodispersivi ai acviferului (coeficienți de dispersie și difuzie, factorul de retardare).
+În mod sintetic, etapele de modelare constau în elaborarea modelului conceptual, fundamentarea
+matematică a modelării numerice și realizarea modelului de curgere și a modelului de transport de masă
+prin mediul poros saturat, prin rezolvarea numerică a ecuațiilor utilizate pentru descrierea mișcării apei și
+a poluanților în sistemul acvifer.
+În etapa de realizare a modelului conceptual se urmărește schematizarea hidrostructurii studiate,
+ținându-se cont de toate aspectele referitoare la regimul de curgere: cu nivel liber sau sub presiune,
+extinderea spațială a domeniului modelat, geometria frontierelor, condițiile la limită pentru curgere,
+condițiile inițiale din interiorul domeniului acvifer, caracteristicile litostratigrafice, neomogenitatea,
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 334/13.V.2011
+anizotropia, compușii chimici implicați în transfer, mecanismele de transfer în interiorul domeniului,
+posibilitatea de schimb chimic între faze, variabilele de stare, prezența sau absența surselor poluante și
+repartiția lor temporală și spațială, procesele chimice și biologice.
+În mod concret, modelul conceptual va fi elaborat pe baza întregului ansamblu de date disponibile,
+în urma unei analize corespunzătoare.
+Pentru determinarea perimetrului de protecție hidrogeologică se consideră un timp de tranzit de
+3.650 de zile.
+II.4. Metode de dimensionare a zonelor de protecție sanitară aplicabile în cazul acviferelor
+fisurale și/sau carstice
+Art. 20. — În cazul acviferelor cantonate în fisurile rocilor vulcanice și metamorfice (acvifere fisurale),
+precum și în cazul acviferelor dezvoltate în fisurile și golurile rocilor carbonatice (acvifere carstice), criteriul
+timpului de tranzit este mai puțin relevant decât în cazul acviferelor cu porozitate interstițială, deoarece nu
+au loc aceleași procese de filtrare, adsorbție și biodegradare care să conducă la epurarea naturală a
+apelor subterane. De aceea se va acorda atenție sporită celorlalte criterii: caracteristicile morfologice,
+litostratigrafice, structural-tectonice ale zonei, caracteristicile hidrogeologice, condițiile la limită și
+vulnerabilitatea la poluare ale acviferului, regimul de exploatare al captării.
+Art. 21. — Determinarea zonelor de protecție pentru captările de ape subterane din acviferele fisurale
+și/sau carstice necesită ca în studiul hidrogeologic menționat în anexa nr. 1 accentul să fie pus pe cercetări
+minuțioase de teren, constând în: cartare geologică și hidrogeologică de detaliu, teste hidrodinamice,
+studii microtectonice, estimarea timpului de tranzit prin marcări cu trasori, electrometrie pentru
+determinarea extinderii structurilor acvifere, studii geochimice pentru determinarea ariilor poluate ale
+solului, zonei de aerație și acviferului etc.
+Art. 22. — (1) Acviferele uniform fisurate, cu o rețea deasă de fisuri de mici dimensiuni, cum sunt
+cele cantonate în zona de alterare a masivelor de roci magmatice și metamorfice, pot fi asimilate cu
+acviferele cu porozitate interstițială, zonele de protecție fiind dimensionate prin aceleași metode, pe baza
+datelor rezultate din testele de pompare sau din marcare cu trasori.
+(2) Acviferele fisurale din masivele eruptive vor fi analizate preponderent după criteriul vulnerabilității
+la poluare, încercând să se determine contribuția apelor vadoase la realimentarea acviferului prin metoda
+trasorilor și metoda datării cu izotopi. Zonele de protecție se vor dimensiona luându-se în considerare
+posibilitatea antrenării substanțelor poluante de către apele vadoase, deci se vor include în cadrul zonelor
+de protecție toate suprafețele de pe care apa din precipitații se infiltrează în acvifer.
+Art. 23. — (1) Pentru captările de ape subterane din acvifere carstice, având în vedere gradul mare
+de neomogenitate al acestui tip de structură hidrogeologică, metoda cea mai indicată pentru
+dimensionarea zonelor de protecție este modelarea matematică (în măsura în care este cunoscut suficient
+de bine câmpul sarcinilor piezometrice). Se vor face, pe cât posibil, marcări cu trasori pentru determinarea
+direcțiilor predominante de curgere și a vitezelor efective maxime, se va delimita domeniul de alimentare
+al acviferului și se vor inventaria potențialele surse de poluare. În domeniul de alimentare al acviferului se
+vor include și suprafețele de alimentare intermitentă, cum sunt văile seci, poliile și dolinele etc. Se va ține
+seama, de asemenea, de cele specificate la art. 9 privind zona nesaturată.
+(2) Zona de protecție sanitară cu regim sever se va determina pe baza timpului de tranzit de 20 de
+zile, luându-se în considerare vitezele maxime determinate și direcțiile preferențiale de curgere. Astfel,
+această zonă va avea contururi neregulate, fiind mai extinsă pe direcțiile preferențiale de curgere și mai
+redusă pe direcția pe care curgerea este mai lentă.
+(3) Zona de protecție sanitară cu regim de restricție va include toate ariile care pot periclita direct
+apele subterane carstice prelevate de captare, în special suprafețele neprotejate de strate acoperitoare
+impermeabile (ariile cu goluri carstice, poliile, dolinele, zonele de drenaj temporar sau permanent inundate,
+văile seci din apropierea captării). În cazuri excepționale, când acviferul carstic este bine protejat prin
+depozite acoperitoare neconsolidate cu grosime mare, care acoperă întreaga arie ce ar trebui protejată,
+se poate renunța la zona de protecție sanitară cu regim de restricție, în condițiile art. 9 alin. (3).
+(4) Perimetrul de protecție hidrogeologică va cuprinde în totalitate bazinul carstic amonte de captare,
+precum și unele zone adiacente care au legătură cu acviferul.
+II.5. Recomandări privind alegerea metodei de dimensionare în funcție de tipul și dimensiunile
+captării
+Art. 24. — (1) Pentru captările importante și cu grad mare de complexitate a condițiilor hidrogeologice
+se va folosi modelarea matematică. Pentru captările mai mici se vor folosi metodele precizate la art. 11
+și 12.
+(2) Captarea formată dintr-un grup de puțuri în interferență, amplasate pe o suprafață restrânsă (în
+raport cu numărul lor), poate fi tratată ca un puț singular, cu diametru mare, amplasat în centrul virtual al
+grupului de puțuri și având debit de exploatare egal cu suma debitelor fiecărui puț. Se pot folosi atât
+metodele analitice, cât și cele grafice.
+(3) În cazul în care puțurile captării sunt răspândite pe o arie mai extinsă, dar se află în situația limită
+de a interfera, este recomandată modelarea matematică. Această metodă, având și caracter predicțional,
+poate lua în considerare schimbările ce pot surveni în exploatarea captării.
+(4) Dacă puțurile care alcătuiesc captarea sunt situate la distanțe suficient de mari între ele, astfel
+încât să nu existe riscul de a funcționa în interferență, ele vor fi tratate separat și se vor calcula pentru
+fiecare dintre ele zonele de protecție sanitară cu regim sever și cu regim de restricție și, eventual,
+
+11
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 334/13.V.2011
+perimetrul de protecție hidrogeologică; în cazul în care apar suprapuneri, se va lua în considerare limita
+exterioară a zonelor delimitate.
+CAPITOLUL III
+Dispoziții finale
+Art. 25. — (1) Pentru captările de ape potabile, cu debite exploatate mai mari sau egale cu 5 l/s,
+studiile hidrogeologice care fundamentează instituirea zonelor de protecție vor fi elaborate în cadrul
+Administrației Naționale ăApele Române” — Institutul Național de Hidrologie și Gospodărire a Apelor —
+Laboratorul de studii și cercetări hidrogeologice.
+(2) Studiile hidrogeologice care fundamentează instituirea zonelor de protecție pentru captările de
+ape potabile, cu debite exploatate mai mici de 5 l/s, vor fi expertizate în cadrul Administrației Naționale
+ăApele Române” — Institutul Național de Hidrologie și Gospodărire a Apelor — Laboratorul de studii și
+cercetări hidrogeologice.
+(3) Costurile pentru elaborarea sau expertizarea studiilor hidrogeologice care fundamentează
+instituirea zonelor de protecție vor fi suportate de către deținătorul captării.
+(4) Anexele nr. 1—3 fac parte integrantă din prezentele instrucțiuni.
+ANEXA Nr. 1
+la instrucțiuni
+
+CONȚINUTUL STUDIILOR HIDROGEOLOGICE
+
+pentru dimensionarea zonelor de protecție sanitară și delimitarea perimetrului
+de protecție hidrogeologică
+Art. 1. — Având în vedere că este necesară cunoașterea detaliată a acviferului captat, precum și
+corelarea dimensiunilor zonelor de protecție cu caracteristicile și regimul de exploatare a captării, instituirea
+zonelor de protecție se va face numai pe baza unui studiu hidrogeologic complex, elaborat pe baza
+cercetărilor de teren și laborator de către unități abilitate de Ministerul Mediului și Pădurilor, conform art. 52
+din Legea apelor nr. 107/1996, cu modificările și completările ulterioare, și Ordinului ministrului mediului
+și dezvoltării durabile nr. 1.671/2007 pentru aprobarea Regulamentului privind organizarea activității de
+atestare a instituțiilor publice sau private specializate în elaborarea documentațiilor pentru fundamentarea
+solicitării avizului de gospodărire a apelor și a autorizației de gospodărire a apelor, cu modificările
+ulterioare.
+Art. 2. — Studiul hidrogeologic va cuprinde, în prima parte, analiza condițiilor hidrogeologice ale
+zonei respective, descrierea captării și a regimului de exploatare a acesteia, ținându-se seama de criteriile
+menționate la art. 4 din instrucțiuni. În a doua parte vor fi redate metodele de dimensionare utilizate,
+amplasamentul și dimensiunile zonelor de protecție propuse. Cea de a treia parte a documentației va
+indica măsurile specifice de întreprins în cadrul zonelor de protecție, reclamate de impactul activităților
+antropice.
+Art. 3. — La baza studiilor hidrogeologice pentru fundamentarea și delimitarea zonelor de protecție
+vor sta următoarele:
+A. Caracteristicile stratelor acoperitoare:
+a) în cazul acviferelor freatice:
+— coeficientul de scurgere de suprafață și infiltrația eficace;
+— textura, structura, grosimea și permeabilitatea solului (în condiții naturale sau afectat de lucrări
+agricole);
+— grosimea, litologia și coeficientul de filtrație verticală a zonei nesaturate;
+b) în cazul acviferelor sub presiune:
+— numărul, grosimea, litologia și extinderea spațială a stratelor impermeabile (semipermeabile) și
+permeabile acoperitoare;
+B. Caracteristicile sistemului acvifer analizat:
+— tipul acviferului (cu porozitate interstițială sau cu fisuri și/sau goluri carstice, monostrat sau
+multistrat);
+— extinderea și limitele naturale ale acviferului;
+— zonele de alimentare și de descărcare;
+— zonele cu nivel liber și sub presiune;
+— grosimea și litologia stratelor purtătoare de apă și a stratelor semipermeabile componente și
+extinderea acestora;
+— suprafețele piezometrice ale stratelor purtătoare de apă componente, pentru aceeași dată de
+referință;
+— condițiile la limită ale acviferului, în special fenomenele de drenanță ce caracterizează relațiile cu
+acviferele limitrofe și relațiile cu apele de suprafață (râuri, lacuri), inclusiv calitatea apei acestora;
+— parametrii hidrogeologici (coeficientul de filtrație, transmisivitatea, porozitatea eficace,
+înmagazinarea, coeficienții de drenanță din interiorul sistemului acvifer, coeficienții de difuzie și de
+dispersie hidrodinamică);
+— viteza efectivă (reală) de curgere a apei;
+— resursele exploatabile de apă și debitul de realimentare;
+
+13
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 334/13.V.2011
+— caracteristicile fizico-chimice (cu referire specială la indicatorii toxici) și microbiologice ale apei;
+— regimul de variație a nivelurilor piezometrice, a debitelor și calității apei;
+C. Caracteristicile captării analizate:
+a) la captările prin puțuri:
+— amplasamentul, tipul (forate sau săpate, perfecte sau imperfecte), numărul, adâncimea, cotele
+puțurilor captării și distanțele dintre acestea;
+— intervalele captate;
+— diametrul coloanei filtrante, lungimea și tipul filtrelor;
+— grosimea și compoziția granulometrică a filtrelor de pietriș din jurul coloanei filtrante;
+— rezultatele pompărilor experimentale realizate la execuția captării;
+— evoluția debitelor exploatate, de preferință pe fiecare puț, a nivelurilor piezometrice și
+hidrodinamice și a calității apei, cel puțin pentru ultimul an (hidrologic în cazul acviferelor freatice);
+— regimul de funcționare a captării;
+b) la captările prin drenuri:
+— amplasamentul, numărul, tipul (perfecte sau imperfecte), adâncimea, lungimea, panta
+longitudinală și secțiunea de scurgere a drenurilor;
+— diametrul și tipul tuburilor de drenaj;
+— numărul, grosimea și compoziția granulometrică a straturilor din componența filtrului invers;
+— evoluția debitelor exploatate și a calității apei (analize lunare incluzând indicatorii toxici specifici
+zonei respective și indicatorii microbiologici), cel puțin pentru ultimul an hidrologic;
+— regimul de funcționare a captării;
+c) la captările de izvoare:
+— amplasamentul și caracteristicile constructive ale captării;
+— evoluția debitelor și a calității apei, cel puțin pentru ultimul an hidrologic.
+D. Caracteristicile activității antropice din zona analizată:
+— densitatea populației;
+— modul de utilizare a terenurilor (regimul irigațiilor, fertilizărilor și ierbicidărilor etc.);
+— localizarea obiectivelor poluante și potențial poluante, contaminanți specifici, zone poluate;
+— rețelele locale de urmărire a poluării și datele furnizate de acestea;
+— rezultatele studiilor efectuate în legătură cu fenomenele de poluare din zonă.
+ANEXA Nr. 2
+la instrucțiuni
+
+1. Tabel cu valori orientative ale coeficientului de filtrație (K)
+
+0,01 — 0,05
+
+0,5 — 1,0
+1,5 — 10,0
+10,0 — 25,0
+20,0 — 50,0
+35,0 — 75,0
+
+1,0 — 2,0
+Pietriș
+
+< 0,5
+
+0,5 — 1,0
+
+Nisip
+
+< 0,01
+
+0,25 — 0,5
+
+Silt, loess, sol, nisip argilos, nisip siltic
+
+Coeficient de filtrație
+(m/zi)
+
+0,1 — 0,25
+
+Argilă, cretă, caolin
+
+Fracțiune granulometrică
+predominantă
+(mm)
+
+0,05 — 0,1
+
+Tip litologic
+
+60,0 — 125,0
+
+2,0 — 70,0
+
+Bolovăniș
+
+70,0 — 200,0
+
+> 100,0
+
+2. Tabel cu valori orientative ale porozității eficace ne (%)
+Tip litologic
+
+Porozitate eficace ne (%)
+
+Argilă
+
+1,0 — 10,0
+
+Silt
+
+15,0 — 25,0
+
+Nisip
+
+10,0 — 30,0
+
+Pietriș
+
+15,0 — 30,0
+
+Gresii, psamite
+
+3,0 — 35,0
+
+Cretă
+
+2,0 — 12,1
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 334/13.V.2011
+ANEXA Nr. 3*)
+la instrucțiuni
+
+*) Anexa nr. 3 este reprodusă în facsimil.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 334/13.V.2011
+
+15
+
+ABONAMENTE LA PUBLICAȚIILE OFICIALE PE SUPORT FIZIC
+— Prețuri pentru anul 2011 —
+Nr.
+crt.
+
+Valoare
+(TVA 9% inclus) — lei
+
+Număr
+de apariții
+anuale
+
+Denumirea publicației
+
+12 luni
+
+3 luni
+
+1 lună
+
+330
+
+120
+
+1.
+
+Monitorul Oficial, Partea I
+
+900
+
+1.200
+
+2.
+
+Monitorul Oficial, Partea I, limba maghiară
+
+144
+
+1.500
+
+140
+
+3.
+
+Monitorul Oficial, Partea a II-a
+
+245
+
+2.250
+
+200
+
+4.
+
+Monitorul Oficial, Partea a III-a
+
+370
+
+430
+
+40
+
+5.
+
+Monitorul Oficial, Partea a IV-a
+
+5.270
+
+1.720
+
+160
+
+6.
+
+Monitorul Oficial, Partea a VI-a
+
+300
+
+1.600
+
+150
+
+7.
+
+Monitorul Oficial, Partea a VII-a
+
+35
+
+540
+
+8.
+
+Colecția Legislația României
+
+4
+
+450
+
+9.
+
+Colecția Hotărâri ale Guvernului României
+
+12
+
+750
+
+50
+120
+70
+
+NOTĂ:
+
+Monitorul Oficial, Partea I bis, se multiplică și se achiziționează pe bază de comandă.
+
+A B O N A M E N T E L A P R O D U S E L E Î N F O R M AT E L E C T R O N I C
+— Prețuri pentru anul 2011 —
+Abonamentul FLEXIBIL
+(Monitorul Oficial, Partea I + alte 3 părți ale Monitorului Oficial, la alegere)
+Lunar
+
+Produs
+
+Anual
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+AutenticMO
+
+50
+
+130
+
+330
+
+790
+
+1.740
+
+500
+
+1.250
+
+3.130
+
+7.510
+
+16.520
+
+ExpertMO
+
+100
+
+250
+
+630
+
+1.510
+
+3.320
+
+1.000
+
+2.500
+
+6.250
+
+15.000
+
+33.000
+
+Autentic+ExpertMO
+
+130
+
+330
+
+830
+
+1.990
+
+4.380
+
+1.300
+
+3.250
+
+8.130
+
+19.510
+
+42.920
+
+Abonamentul COMPLET
+(Monitorul Oficial, Partea I + toate celelalte părți ale Monitorului Oficial)
+Lunar
+
+Produs
+
+Anual
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+AutenticMO
+
+60
+
+150
+
+380
+
+910
+
+2.000
+
+600
+
+1.500
+
+3.750
+
+9.000
+
+19.800
+
+ExpertMO
+
+120
+
+300
+
+750
+
+1.800
+
+3.960
+
+1.200
+
+3.000
+
+7.500
+
+18.000
+
+39.600
+
+Autentic+ExpertMO
+
+150
+
+380
+
+950
+
+2.280
+
+5.020
+
+1.500
+
+3.750
+
+9.380
+
+22.510
+
+49.520
+
+Colecția Monitorul Oficial în format electronic PDF, oricare dintre părțile acestuia
+
+50 lei/an
+
+Prețurile sunt exprimate în lei și conțin TVA.
+Mai multe informații puteți găsi pe site-ul www.expert-monitor.ro, unde puteți aplica online comanda.
+Georgeta N. Stoica
+
+Motivul: Format electronic AUTENTIC, conform Legii nr. 202/1998, republicata.
+Locatia:Bucuresti
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+ăMonitorul Oficial” R.A., Str. Parcului nr. 65, sectorul 1, București; C.I.F. RO427282,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala ăUnirea” București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 021.318.51.29/150, fax 021.318.51.15, e-mail: marketing@ramo.ro, internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 021.401.00.70, fax 021.401.00.71 și 021.401.00.72
+Tiparul: ăMonitorul Oficial” R.A.
+Monitorul Oficial al României, Partea I, nr. 334/13.V.2011 conține 16 pagini.
+
+Prețul: 3,20 lei
+
+&JUYDGY|522954]
+ISSN 1453—4495
+
+

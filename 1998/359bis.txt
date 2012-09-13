@@ -1,0 +1,1138 @@
+PARTEA
+
+Anul X Ñ Nr. 359 bis
+
+I
+
+Marți, 22 septembrie 1998
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+
+SUMAR
+Pagina
+REPUBLICÃRI
+Regulamentul Bãncii Naționale a României nr. 3/1996 privind organizarea și funcționarea la Banca Naționalã
+a României a Centralei Incidentelor de Plãți.......
+
+1Ñ40
+
+REPUBLICÃRI
+R E G U L A M E N T U L B Ã N C I I N A Þ I O N A L E A R O M Â N I E I Nr. 3/1996*)
+privind organizarea și funcționarea la Banca Naționalã a României
+a Centralei Incidentelor de Plãți
+PARTEA I
+Dispoziții generale
+În temeiul art. 2 din Legea nr. 33/1991**) privind activitatea bancarã, Banca Naționalã a României emite prezentul
+regulament privind organizarea și funcționarea la Banca
+Naționalã a României a Centralei Incidentelor de Plãți.
+ARTICOLUL 1
+Obiectul
+
+Centrala Incidentelor de Plãți (C.I.P.) este un centru de
+intermediere care gestioneazã, în numele Bãncii Naționale
+a României, informația specificã incidentelor de plãți, pentru
+interesul public, inclusiv pentru scopurile utilizatorilor.
+
+Datele specifice incidentelor de plãți sunt definite, transmise, difuzate și valorificate pe baza informațiilor, chiar
+anterioare plãții, conținute în evidențe și care sunt ocazionate de acte și fapte având potențial fraudulos, litigios
+și/sau producând riscuri de neplatã, inclusiv dintre cele care
+pot afecta finalitatea decontãrii.
+ARTICOLUL 2
+Definiții
+
+Pentru scopurile prezentului regulament:
+1. Banca este orice societate bancarã autorizatã de
+Banca Naționalã a României.
+2. Instrumentul este instrucțiunea de platã care circulã
+de la banca beneficiarului la banca plãtitorului, având ca
+
+**) Republicat în temeiul pct. 3 din Circulara Bãncii Naționale a României nr. 6 din 17 februarie 1997, publicatã în Monitorul Oficial al
+României, Partea I, nr. 29 din 21 februarie 1997.
+Regulamentul nr. 3 din 13 mai 1996 a fost publicat în Monitorul Oficial al României, Partea I, nr. 190 din 15 august 1996 și a mai fost
+modificat prin Circulara Bãncii Naționale a României nr. 24 din 15 octombrie 1996, publicatã în Monitorul Oficial al României, Partea I, nr. 304 din
+25 noiembrie 1996, și prin Circulara Bãncii Naționale a României nr. 6 din 17 februarie 1997, publicatã în Monitorul Oficial al României, Partea I,
+nr. 29 din 21 februarie 1997.
+**) Ca urmare a abrogãrii Legii nr. 33/1991 prin Legea bancarã nr. 58/1998, publicatã în Monitorul Oficial al României, Partea I, nr. 121 din
+23 martie 1998, în prezent temeiul legal al Regulamentului B.N.R. nr. 3/1996 privind organizarea și funcționarea la Banca Naționalã a României a
+Centralei Incidentelor de Plãți îl constituie art. 2 alin. (2), art. 23, art. 25, art. 50 și art. 51 alin. (3) și (4) din Legea nr. 101/1998 privind Statutul Bãncii
+Naționale a României, publicatã în Monitorul Oficial al României, Partea I, nr. 203 din 1 iunie 1998, și art. 38 alin. 1 din Legea bancarã nr. 58/1998.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+efect debitarea contului plãtitorului și, ulterior, creditarea
+8. Evidențe sunt orice informații referitoare, doveditoare
+contului beneficiarului.
+sau care certificã plãți, alcãtuite potrivit legii, reglementãrilor
+3. Persoane declarante la C.I.P. sunt urmãtoarele:
+Bãncii Naționale a României, angajamentelor reciproce sau
+a) centralele bãncilor, pentru toate informațiile adresabile altor reglementãri aplicabile.
+direct C.I.P., colectate de la titularii lor de cont și de la
+9. Riscurile de neplatã sunt acei parametri negativi sau
+alte persoane fizice sau juridice;
+perturbatori pe considerarea, evaluarea și clasificarea
+b) unitãțile teritoriale ale bãncilor, prin intermediul sucursa- cãrora sunt fundamentate actele și faptele pãrților în plãți.
+lelor Bãncii Naționale a României Ñ ”Birourile incidente de
+10. Valorificarea informației este un atribut al utilizatorilor
+plãți,, sau al propriilor centrale, pentru toate informațiile
+și constã în exploatarea în interes privat sau public a dateadresabile C.I.P., colectate de la titularii lor de cont și de
+lor puse la dispoziție de C.I.P. din proprie inițiativã sau la
+la alte persoane fizice sau juridice, pe baza raporturilor dincerere.
+tre bancã și client sau ca urmare a angajamentelor, înțele11. Interdicția bancarã este regimul impus de cãtre
+gerilor sau convențiilor bilaterale intervenite între bãnci în
+apãrarea interesului public și a încrederii clienților în comer- bancã unui titular de cont de interzicere a emiterii de
+cecuri pe o perioadã de 1 an, conform unor angajamente
+țul fãcut de bãnci cu instrumente;
+c) sucursalele Bãncii Naționale a României Ñ ”Birourile reciproce aplicabile plãții cu cecuri, ca urmare a unor inciincidente de plãți,,, pentru toate informațiile adresabile dente de plãți majore, și anume:
+Ñ emiterea unui cec fãrã autorizarea trasului;
+C.I.P., colectate de la ”Birourile viramente interbancare,,,
+Ñ refuzul cecului ca urmare a constatãrii de cãtre
+”Birourile decontãri cu bugetul statului,,, camerele de comerț
+banca trasã a lipsei parțiale sau totale de disponibil în conși industrie județene;
+d) Direcția urmãririi riscurilor bancare (D.U.R.B.), pentru tul trãgãtorului, în cazul în care acesta dispune altfel, în
+toate informațiile adresabile C.I.P., colectate de la ”Serviciul total sau în parte, de disponibilul avut înainte de trecerea
+viramente interbancare și decontãri cu Banca Naționalã a termenului fixat pentru prezentare;
+României,,, ”Serviciul decontare finalã,, și de la instituții simiÑ emiterea unui cec cu o datã falsã sau cãruia îi liplare C.I.P. din strãinãtate.
+sește una dintre mențiunile obligatorii;
+C.I.P. nu este abilitatã sã primeascã declarații de inciÑ emiterea unui cec circular sau a unui cec de cãlãtodente de plãți decât de la persoane declarante și nici sã rie ”la purtãtor,,;
+cerceteze veridicitatea informației transmise de acestea.
+Ñ emiterea unui cec de cãtre un trãgãtor aflat în interPersoanele declarante au obligația completãrii unei FIȘE
+dicție bancarã.
+DE ACREDITARE A PERSOANELOR AUTORIZATE SÃ
+12. Persoane cu risc sunt acele persoane fizice sau juriNOTIFICE LA C.I.P. CERERILE, DECLARAÞIILE ȘI ANUdice, inclusiv bãnci și alte societãți de credit, care au fost
+LÃRILE DE INCIDENTE DE PLÃÞI ȘI DE INTERDICÞII
+incluse în Fișierul național al persoanelor cu risc, ca
+BANCARE, prin care sunt desemnate maximum 3 persoane
+urmare a unor incidente de plãți majore înregistrate pe
+acreditate, conform modelului din anexa nr. 2. Aceastã fișã
+va fi întocmitã în minimum 2 exemplare, având același numele lor.
+conținut, cu urmãtoarele destinații:
+ARTICOLUL 3
+Ñ exemplarul 1 Ñ transmis în regim confidențial la
+Domeniul de aplicabilitate
+C.I.P.;
+Ñ exemplarul 2 Ñ pãstrat pentru evidențele proprii.
+Incidentele de plãți sunt generate de instrumente necon4. Persoana acreditatã este angajatul autorizat de condu- forme legilor și reglementãrilor Bãncii Naționale a României
+cerea persoanei declarante sã furnizeze, sã solicite și sã în vigoare, respectiv:
+primeascã informații la și de la C.I.P.
+Ñ pentru CEC: Legea nr. 59/1934, modificatã prin
+5. Autoritãți publice sunt: Ministerul Justiției, Parchetul de Ordonanța Guvernului nr. 11/1993, aprobatã și modificatã
+pe lângã Curtea Supremã de Justiție, Ministerul de Interne, prin Legea nr. 83/1994, Normele-cadru ale Bãncii Naționale
+Ministerul Finanțelor, Camera de Comerț și Industrie a
+a României nr. 7/1994 privind comerțul fãcut de societãțile
+României, cu unitãțile lor teritoriale.
+bancare și de celelalte societãți de credit cu cecuri și
+6. Utilizatori sunt persoanele declarante, autoritãțile
+Normele tehnice ale Bãncii Naționale a României
+publice, persoane fizice și juridice și instituții similare C.I.P.
+nr. 9/1994 privind cecul;
+din strãinãtate, cãrora C.I.P. le-a confirmat o cerere de
+Ñ pentru CAMBIE
+și BILET LA ORDIN: Legea
+consultare a informațiilor deținute.
+7. Incidentul de platã este o informație transmisã cãtre nr. 58/1934, modificatã prin Ordonanța Guvernului
+C.I.P., referitoare la neîndeplinirea întocmai și la timp a nr. 11/1993, aprobatã și modificatã prin Legea nr. 83/1994,
+obligațiilor participanților, înaintea sau în timpul procesului Normele-cadru ale Bãncii Naționale a României nr. 6/1994
+de decontare a instrumentului, obligații rezultate prin efectul privind comerțul fãcut de societãțile bancare și de celelalte
+legii și/sau al contractului care le reglementeazã, a cãror societãți de credit cu cambii și bilete la ordin și Normele
+neîndeplinire este adusã la cunoștințã C.I.P. de cãtre per- tehnice ale Bãncii Naționale a României nr. 10/1994 privind
+Compression by CVISION Technologies’ PdfCompressor.la For Evaluation Purposes Only
+soanele declarante, pentru apãrarea interesului public.
+cambia și biletul
+ordin.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+Ca urmare, C.I.P. va organiza și va gestiona un fișier
+de interes general, numit Fișierul național de incidente de
+plãți (F.N.I.P.), care va fi structurat astfel:
+Ñ Fișierul național de cecuri (F.N.C.);
+Ñ Fișierul național de cambii (F.N.Cb.);
+Ñ Fișierul național de bilete la ordin (F.N.B.O.).
+Fișierul național al persoanelor cu risc (F.N.P.R.) este
+un fișier alimentat automat de F.N.I.P. cu incidentele de
+plãți majore înregistrate pe numele unei persoane fizice sau
+juridice.
+
+3
+
+3. Orice persoanã fizicã sau juridicã, care a pierdut,
+cãreia i-a fost furat sau care a distrus unul sau mai multe formulare de cec, completate sau în alb, pentru apãrarea propriilor interese, va semnala imediat incidentul de platã unei
+persoane declarante-bancã. Solicitantul și persoana declarantã-bancã vor completa formularul intitulat DECLARAÞIE DE
+PIERDERE/FURT/DISTRUGERE/ANULARE A CECURILOR,
+conform modelului din anexa nr. 4A, transmis de cãtre persoana declarantã-bancã la C.I.P. în aceeași zi bancarã.
+În cazul în care banca trasã a avut inițiativa retragerii
+din circulație a unor formulare de cec și nu le-a recuperat
+în totalitate, aceasta va întocmi Declarația de
+PARTEA a II-a
+pierdere/furt/distrugere/anulare care va conține cecurile
+Fișierul național de cecuri (F.N.C.)
+nerecuperate de la clienți și anulate.
+Declarația se va întocmi în minimum 4 exemplare,
+ARTICOLUL 4
+având același conținut, cu urmãtoarele destinații:
+Transmiterea și înscrierea informației în F.N.C.
+Ñ exemplarul 1 Ñ transmis la C.I.P. pentru confirmare
+1. Fluxul transmiterii și înscrierii informației în F.N.C., și arhivare;
+direct sau prin intermediul sucursalelor Bãncii Naționale a
+Ñ exemplarul 2 Ñ transmis împreunã cu exemplarul 1
+României/centralelor propriilor bãnci, este prezentat în la C.I.P. pentru confirmare, fiind ulterior returnat persoanei
+anexa nr. 1.
+declarante, pentru evidențele proprii;
+Înscrierea informației referitoare la un cec în F.N.C.
+Ñ exemplarul 3 Ñ transmis împreunã cu exemplarul 1
+poate fi efectuatã dacã sunt îndeplinite cumulativ urmãtoa- la C.I.P. pentru confirmare, fiind ulterior returnat persoanei
+rele condiții:
+fizice sau juridice de cãtre persoana declarantã-bancã;
+Ñ înscrierea a fost cerutã de cãtre o persoanã declaÑ exemplarul 4 Ñ remis persoanei fizice sau juridice în
+rantã;
+momentul întocmirii declarației.
+Ñ cererea sau declarația a fost confirmatã de cãtre
+În cazul în care aceastã declarație este incompletã, perC.I.P.
+soana acreditatã de la C.I.P. nu o va confirma, returnând
+2. CEREREA DE ÎNSCRIERE A REFUZULUI BANCAR persoanei declarante toate cele 3 exemplare.
+ÎN F.N.C. se va întocmi pe un formular pe suport hârtie de
+La eliberarea carnetelor de cecuri, bãncile și, respectiv,
+cãtre persoana declarantã care a decis refuzul, conform ”Serviciul centrala incidentelor de plãți,, din centrala Bãncii
+modelului din anexa nr. 3A, în minimum 3 exemplare, Naționale a României sau ”Birourile incidente de plãți,, din
+având același conținut, cu urmãtoarele destinații:
+sucursalele Bãncii Naționale a României își vor atenționa
+Ñ exemplarul 1 Ñ transmis la C.I.P. pentru confirmare clienții asupra consecințelor ce pot apãrea în cazul
+și arhivare;
+nedeclarãrii imediate a instrumentelor pierdute/furate/disÑ exemplarul 2 Ñ transmis împreunã cu exemplarul 1 truse/anulate, putând încheia cu aceștia o convenție de
+la C.I.P. pentru confirmare, fiind ulterior returnat persoanei declarare a acestui tip de incident.
+declarante, pentru evidențele proprii;
+În momentul în care o persoanã fizicã sau juridicã soliÑ exemplarul 3 Ñ transmis împreunã cu exemplarul 1 citã unei persoane declarante-bancã anularea propriilor
+pentru confirmare la C.I.P., fiind ulterior returnat clientului cecuri completate sau în alb, aceasta este obligatã sã
+de cãtre banca sa.
+reținã respectivele instrumente și, ulterior, sã le remitã bãnAceastã cerere este transmisã la C.I.P. de cãtre banca cii trase pe baza unui proces-verbal.
+trasã (persoana declarantã) în ziua efectuãrii refuzului la
+4. În momentul producerii unui incident de platã la
+platã al cecului.
+cecurile Bãncii Naționale a României, ”Serviciul viramente
+În cazul în care aceastã cerere este incompletã, per- interbancare și decontãri cu B.N.R.,, din cadrul centralei
+soana acreditatã de la C.I.P. nu o va confirma, returnând Bãncii Naționale a României sau ”Biroul viramente interpersoanei declarante toate cele 3 exemplare.
+bancare,, din cadrul sucursalelor Bãncii Naționale a României
+În cazul formulãrii unor astfel de cereri pe alte suporturi are obligația semnalãrii acestuia, în aceeași zi bancarã,
+decât hârtia, persoana declarantã va încheia cu C.I.P. o persoanei acreditate din centrala sau sucursala Bãncii
+convenție de transmitere și arhivare a acestora.
+Naționale a României pentru a fi înscrise, respectiv
+Transmiterea Cererii de înscriere a refuzului bancar în transmise la F.N.C.
+F.N.C. de la persoana declarantã la C.I.P. va fi adaptatã,
+5. ”Serviciul decontare finalã,, din cadrul centralei Bãncii
+din punct de vedere al volumului, conținutului și secretului Naționale a României sau ”Biroul decontãri cu bugetul stainformațiilor pe care le conține, la caracteristicile fiecãrui tului,, din cadrul sucursalelor Bãncii Naționale a României are
+canal tehnic de transmisie, pentru evitarea riscului ca infor- obligația semnalãrii incidentelor de plãți ce apar înaintea sau
+mația respectivã sã nu parvinã întocmai și la timp la chiar în procesul decontãrii cecurilor trezoreriei statului perCompression by CVISION Technologies’ PdfCompressor.din centrala sau sucursala Bãncii Naționale
+F.N.C.
+soanei acreditate For Evaluation Purposes Only
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+a României, pentru a fi înscrise, respectiv transmise la
+F.N.C.
+6. În baza unei convenții, sucursalele Bãncii Naționale a
+României vor primi din partea camerelor de comerț și
+industrie județene, în prima zi bancarã a fiecãrei sãptãmâni, TABELELE CU PROTESTELE DE NEPLATÃ A
+CECURILOR pentru a fi completatã informația deținutã în
+F.N.C.
+7. Pe baza principiului reciprocitãții și a unor convenții,
+D.U.R.B., ca persoanã declarantã, va colecta în numele
+C.I.P. informații furnizate de instituții similare C.I.P. din strãinãtate privind incidente de plãți survenite în afara granițelor
+țãrii, în care sunt implicate persoane fizice sau juridice
+române.
+ARTICOLUL 5
+Interdicția bancarã
+
+Centralele bãncilor au obligația distribuirii acestei informații în propriul sistem intrabancar, în scopul evitãrii producerii riscului ca respectivul client sã genereze un nou
+incident de platã asupra unui alt cont al sãu.
+Centrala bãncii sau unitatea teritorialã a bãncii, unde respectiva persoanã fizicã sau juridicã are cont deschis, are
+urmãtoarele obligații:
+Ñ sã recupereze formularele de cec în alb eliberate
+acesteia, în cel mai scurt timp;
+Ñ sã completeze o Declarație de pierdere/furt/distrugere/anulare a cecurilor, conform modelului din anexa
+nr. 4A, prin care se declarã nule formularele de cecuri
+nerecuperate de la respectivul titular de cont, dacã este
+cazul;
+Ñ sã transmitã aceastã declarație direct la C.I.P., în
+cazul centralelor bãncilor sau prin intermediul sucursalei
+Bãncii Naționale a României/centralelor propriilor bãnci, în
+cazul unitãților teritoriale ale bãncilor, într-un interval de
+maximum 10 zile bancare de la data emiterii Declarației
+C.I.P. privind interdicția bancarã.
+Circuitul notificãrii interdicției bancare este prezentat în
+anexa nr. 7.
+3. Incidentele de plãți care apar la cecurile de numerar
+vor fi declarate la C.I.P. conform aceleiași proceduri descrise la art. 4, însã persoanele fizice sau juridice nu vor fi
+declarate în interdicție bancarã în cazul producerii unui incident de platã major prin acest tip de cec.
+
+1. Interdicția bancarã, notificatã de persoanele declarante
+la C.I.P., asigurã prevenirea producerii unor noi incidente
+de plãți și sancționarea titularilor de cont care le genereazã
+în circuitul bancar.
+2. Banca ce a refuzat plata unui cec ca urmare a producerii unui incident de platã major asupra contului unui
+client, în mod automat, în aceeași zi bancarã, are urmãtoarele obligații:
+Ñ sã notifice incidentul de platã la C.I.P. printr-o Cerere
+de înscriere a refuzului bancar în F.N.C., care reprezintã,
+totodatã, și o declarație de interdicție bancarã, completatã
+ARTICOLUL 6
+conform modelului din anexa nr. 3A;
+Ñ sã adreseze titularului de cont o SOMAÞIE, conform
+Organizarea și gestionarea informației din F.N.C.
+modelului din anexa nr. 5A, prin care sã-i notifice interzice1. Înregistrarea în F.N.C. a informațiilor privind incidenrea emiterii de cecuri, pe timp de 1 an, începând cu data
+tele de plãți se asigurã de cãtre C.I.P. Toate datele recepemiterii cecului, obligându-l, totodatã, sã restituie bãncii
+ționate la nivelul sucursalelor Bãncii Naționale a
+(bãncilor), al cãrei (cãror) client este, formularele de cecuri
+României/centralelor bãncilor vor fi transmise în aceeași zi
+aflate în posesia sa sau a mandatarilor sãi. Dacã la data
+emiterii cecului care a generat incidentul de platã major titu- bancarã la C.I.P., pentru înscrierea informațiilor în F.N.C.,
+larul de cont se aflã deja în interdicție bancarã, banca res- conform schemei din anexa nr. 1.
+2. F.N.C. va fi creat, gestionat, actualizat și modificat
+pectivã va adresa titularului o SOMAÞIE, conform modelului
+conform necesitãților proprii ale C.I.P., astfel încât acesta
+din anexa nr. 5B, prin care sã-i notifice prelungirea interdicției bancare cu 1 an, începând cu data emiterii acestui sã poatã evidenția și valorifica operativ informațiile privind:
+Ñ refuzul la platã al cecurilor;
+cec.
+Ñ declararea cecurilor ca pierdute, furate, distruse sau
+C.I.P. are obligația sã transmitã în aceeași zi bancarã,
+anulate;
+tuturor centralelor bãncilor, pentru difuzarea în propriul sisÑ persoanele fizice sau juridice, aflate în interdicție bantem intrabancar, o DECLARAÞIE A C.I.P. PRIVIND INTERcarã de a emite cecuri.
+DICÞIA BANCARÃ, conform modelului din anexa nr. 6A,
+Informațiile privind incidentele de plãți vor fi menținute în
+prin care li se comunicã fie declararea respectivului titular
+de cont în interdicție bancarã, fie anularea acestei interdicții F.N.C. o perioadã de 2 ani, dupã care vor fi arhivate.
+Structura bazei de date, precum și restricțiile în utilizaca urmare a corectãrii informației din baza de date a C.I.P.
+de cãtre persoana declarantã printr-o Cerere de anulare a rea acesteia vor fi stabilite prin reglementãri ale C.I.P., care
+incidentului de platã și/sau a interdicției bancare de a emite vor cuprinde și dispoziții privitoare la nomenclatoare și
+arhive proprii în interesul operativitãții și eficienței în coleccecuri (vezi art. 6 pct. 4).
+Aceastã declarație se va întocmi în minimum 2 exem- tarea și valorificarea informației deținute în F.N.C.
+3. C.I.P. organizeazã și gireazã F.N.C., care poate fi inteplare, având același conținut, cu urmãtoarele destinații:
+rogat, pe baze comerciale, în scris, prin telex sau prin alte
+Ñ exemplarul 1 Ñ arhivat la C.I.P.;
+Compression 2 Ñ CVISION Technologies’ PdfCompressor. Forpersoanele declarante.
+Ñ exemplarul by transmis centralelor bãncilor.
+modalitãți convenite cu Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+5
+
+ARTICOLUL 7
+Toate informațiile sunt pãstrate într-o bazã de date, gestionatã de un ansamblu informatic, și sunt accesibile prin
+Difuzarea și valorificarea informației din F.N.C.
+utilizarea cheilor de cãutare bazate, în principal, pe:
+1. Fluxul difuzãrii informației deținute în F.N.C. cãtre utiÑ seria și numãrul cecului, respectiv tipul cecului la orilizatori este prezentat în anexa nr. 1.
+gine (la tipãrire) și tipul cecului în momentul declarãrii inciPersoanele declarante și ceilalți utilizatori ai informațiilor
+dentului de platã;
+înscrise în F.N.C. pot recurge la una dintre cele 3 proceÑ codul fiscal al persoanelor juridice;
+duri de interogare a bazei de date:
+Ñ codul numeric personal din buletinul de identitate al
+Ñ depunerea de formulare Ñ aceste cereri fac obiectul
+persoanelor fizice;
+unui rãspuns din partea C.I.P. în termen de maximum
+Ñ numãrul de cod al bãncilor;
+48 de ore;
+Ñ prin telex Ñ sub rezerva unei acreditãri speciale în
+Ñ numãrul de cod al centralei și al sucursalelor Bãncii
+acest scop; rãspunsul C.I.P. va fi furnizat pe aceeași cale,
+Naționale a României.
+4. C.I.P. nu are calitatea de a aprecia veridicitatea infor- în aceeași zi bancarã;
+Ñ prin programe specializate Ñ folosind infrastructura
+mațiilor privind incidentele de plãți, pe care nu le poate nici
+comunicațiilor de date a Bãncii Naționale a României sau a
+anula, nici modifica.
+Radierea incidentelor de plãți din F.N.C. și anularea bãncilor.; rãspunsul C.I.P. va fi furnizat pe aceeași cale, în
+aceeași zi bancarã.
+interdicției bancare care poate decurge din acestea nu pot
+Prin decizia conducerii D.U.R.B. se poate sista în orice
+interveni decât la solicitarea persoanelor declarante sau a
+moment o procedurã de acces la informația conținutã în
+instanțelor judecãtorești, în una dintre situațiile urmãtoare:
+F.N.C., în interesul respectãrii prevederilor legii și al
+a) atunci când refuzul la platã al cecului rezultã dintr-o încrederii publicului în comerțul fãcut de bãnci cu cecuri.
+eroare sau o omisiune a persoanei declarante;
+2. Difuzarea informației conținute în F.N.C. se poate face
+b) alte motive prevãzute de reglementãri ale Bãncii cãtre persoane declarante, pe bazã de cerere sau din iniNaționale a României.
+țiativa C.I.P.
+Persoana declarantã va întocmi și va transmite C.I.P., în
+În cazul interogãrii F.N.C. de cãtre o persoanã declaaceeași zi bancarã, CEREREA DE ANULARE A INCIDEN- rantã, aceasta va completa formularul CERERE DE CONTULUI DE PLATÃ ȘI/SAU A INTERDICÞIEI BANCARE DE SULTARE, având dreptul la maximum 3 întrebãri privind o
+A EMITE CECURI, conform modelului din anexa nr. 8A, în persoanã fizicã sau juridicã, conform modelului din anexa
+minimum 3 exemplare, având același conținut, cu urmãtoa- nr. 9.
+Cererea de consultare va fi întocmitã în 2 sau 3 exemrele destinații:
+plare, dupã caz, având același conținut, cu urmãtoarele
+Ñ exemplarul 1 Ñ transmis la C.I.P. pentru confirmare
+destinații:
+și arhivare;
+Ñ exemplarul 1 Ñ transmis la C.I.P. pentru confirmare
+Ñ exemplarul 2 Ñ transmis împreunã cu exemplarul 1
+și arhivare;
+la C.I.P. pentru confirmare, fiind ulterior returnat persoanei
+Ñ exemplarul 2 Ñ transmis împreunã cu exemplarul 1
+declarante pentru evidențele proprii;
+la C.I.P. pentru confirmare și completare, fiind ulterior returÑ exemplarul 3 Ñ transmis împreunã cu exemplarul 1 nat persoanei declarante pentru evidențele proprii;
+la C.I.P. pentru confirmare, fiind ulterior returnat clientului
+Ñ exemplarul 3 (dacã este cazul) Ñ transmis împreunã
+de cãtre persoana declarantã.
+cu exemplarul 1 la C.I.P. pentru confirmare și completare,
+În cazul în care aceastã cerere este incompletã, per- fiind ulterior returnat clientului de cãtre persoana declarantã.
+În cazul în care aceastã cerere este incompletã, persoana acreditatã de la C.I.P. nu o va confirma, returnând
+soana acreditatã de la C.I.P. nu o va confirma, returnând
+persoanei declarante toate cele 3 exemplare.
+În cazul în care refuzul la platã al cecului a rezultat persoanei declarante cele 2 sau 3 exemplare, dupã caz.
+În cazul în care C.I.P. primește o Declarație de pierdintr-o eroare sau omisiune a persoanei declarante-bancã,
+dere/furt/distrugere/anulare a cecurilor (anexa nr. 4A) de la
+aceasta va suporta o taxã de 1.000.000 lei, perceputã de
+C.I.P. în ziua bancarã în care se transmite Cererea de o persoanã declarantã, persoana acreditatã de la C.I.P. va
+înștiința în aceeași zi bancarã centrala bãncii trase, în baza
+anulare a incidentului de platã și/sau a interdicției bancare
+formularului DECLARAÞIE A C.I.P. DE PIERDERE/FURT/
+de a emite cecuri.
+DISTRUGERE/ANULARE A INSTRUMENTELOR, conform
+În cazul în care banca trasã (persoana declarantã) care
+modelului din anexa nr. 6B.
+a remis la C.I.P. o Cerere de înscriere a refuzului bancar
+Aceastã declarație se va întocmi în minimum 2 exemîn F.N.C. are inițiativa anulãrii refuzului la platã respectiv, plare, având același conținut, cu urmãtoarele destinații:
+aceasta este singura în mãsurã sã întocmeascã și sã
+Ñ exemplarul 1 Ñ arhivat la C.I.P.;
+remitã la C.I.P. Cererea corespunzãtoare de anulare a inciÑ exemplarul 2 Ñ transmis centralei bãncii trase.
+dentului de platã și/sau a interdicției bancare de a emite
+În cazul în care banca trasã este o unitate teritorialã din
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+cecuri.
+propriul sistem intrabancar, centrala bãncii are obligația sã-i
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+transmitã imediat aceastã informație, pentru a nu proceda
+la decontarea cecului/cecurilor în eventualitatea prezentãrii
+la platã.
+Fluxul colectãrii și difuzãrii informației privind un cec
+declarat pierdut/furat/distrus/anulat este prezentat în anexa
+nr. 10.
+O altã situație în care C.I.P. are inițiativa transmiterii de
+informații cãtre persoanele declarante este cea descrisã la
+art. 5 pct. 2 alin. 2 din cuprinsul prezentului regulament, în
+baza formularului Declarație a C.I.P. privind interdicția bancarã (anexa nr. 6A).
+3. Difuzarea informației conținute în F.N.C. se poate face
+și cãtre alți utilizatori, dupã cum decide, de la caz la caz,
+conducerea D.U.R.B. C.I.P. va permite autoritãților publice,
+persoanelor fizice sau juridice și instituțiilor similare C.I.P.
+din strãinãtate accesul la informațiile deținute, în baza formularului Cerere de consultare (anexa nr. 9).
+4. Valorificarea informației conținute în F.N.C. se va face
+astfel:
+a) de cãtre bãnci și ”Serviciul centrala incidentelor de
+plãți,, din centrala Bãncii Naționale a României sau ”Biroul
+incidente de plãți,, din sucursalele Bãncii Naționale a
+României, în mod obligatoriu, la eliberarea de formulare de
+cecuri titularilor de cont despre care F.N.C. poate conține
+date referitoare la incidente înregistrate de client la plata
+cu cecuri sau ori de câte ori acestea considerã necesar;
+b) de cãtre C.I.P., din proprie inițiativã, în apãrarea interesului public, prin transmiterea cãtre autoritãți publice sau
+publicarea, dupã caz, a unor informații din F.N.C.;
+c) de cãtre autoritãțile publice, pe baza datelor solicitate
+C.I.P.;
+d) de cãtre persoanele fizice sau juridice, prin intermediul bãncilor.;
+e) de cãtre instituții similare C.I.P. din strãinãtate, pe
+baza datelor privind incidentele de plãți pe care C.I.P. le
+furnizeazã din proprie inițiativã sau la cererea acestora.
+ARTICOLUL 8
+Sancțiuni
+
+Sancțiunile prevãzute pentru incidentele de plãți vor fi
+aplicate titularilor de cont, pe de o parte, și/sau bãncilor,
+pe de altã parte, astfel:
+1. Conform Legii nr. 59/1934, modificatã prin Ordonanța
+Guvernului nr. 11/1993, aprobatã și modificatã prin Legea
+nr. 83/1994, se va pedepsi cu amendã de la 5.000 lei la
+100.000 lei și cu închisoare de la 6 luni la 1 an, în afarã
+de cazul când fapta constituie un delict sancționat cu o
+pedeapsã mai mare, orice persoanã fizicã sau juridicã care:
+Ñ emite un cec fãrã autorizarea bãncii trase;
+Ñ emite un cec fãrã a avea la tras disponibil suficient
+sau, dupã ce a tras cecul și mai înainte de trecerea termenelor fixate pentru prezentare, dispune altfel, în total sau
+în parte, de disponibilul avut;
+
+Ñ emite un cec cu datã falsã sau cãruia îi lipsește una
+dintre mențiunile obligatorii;
+Ñ emite un cec circular sau un cec de cãlãtorie ”la
+purtãtor,,.
+2. Interdicția bancarã, notificatã de cãtre banca trasã asupra unui titular de cont, dureazã 1 an de la data tragerii
+cecului (cu excepția cecului de numerar) care a generat
+incidentul de platã major.
+3. Interdicția bancarã, notificatã de cãtre banca trasã
+asupra unui titular, va fi prelungitã cu 1 an de la data tragerii unui nou cec asupra aceluiași cont sau asupra unui
+cont deschis la o altã bancã pe numele sãu.
+4. Conform Legii nr. 59/1934, modificatã prin Ordonanța
+Guvernului nr. 11/1993, aprobatã și modificatã prin Legea
+nr. 83/1994, bãncile care emit cecuri circulare fãrã a avea
+autorizare sau cãrora li s-a revocat autorizarea se sancționeazã cu amendã*) de la 100.000 lei la 1.000.000 lei, în
+afarã de cazul când legea prevede sancțiuni mai mari, în
+care caz se vor aplica acele sancțiuni.
+5. Bãncile care nu au declarat, în condițiile prevãzute
+de prezentul regulament, incidentele de plãți și/sau interdicțiile bancare cãtre C.I.P. și/sau nu le-au notificat cãtre client
+vor fi sancționate cu amendã*) de la 500.000 lei la
+1.000.000 lei pentru fiecare omisiune.
+6. Bãncile care au eliberat formulare de cecuri titularilor
+de cont aflați în interdicție bancarã vor fi sancționate cu
+amendã*) de la 500.000 lei la 1.000.000 lei.
+7. În cazul în care bãncile nu au notificat C.I.P. anularea unui incident de platã și/sau a unei interdicții bancare
+declarate anterior la Banca Naționalã a României din vina
+lor exclusivã, sustrãgându-se astfel de la plata taxei prevãzute la art. 6 pct. 4 alin. 5, vor fi sancționate cu amendã*)
+de la 1.500.000 lei la 2.000.000 lei.
+8. Se aplicã bãncilor o amendã*) de 500.000 lei pentru
+fiecare zi bancarã de întârziere peste termenele stabilite de
+prezentul regulament (art. 4 pct. 2 alin. 2; art. 4 pct. 3 alin. 1;
+art. 5 pct. 2 alin. 1; art. 5 pct. 2 alin. 5; art. 6 pct. 4 alin. 3 și
+art. 7 pct. 2 alin. 7).
+9. Amenzile contravenționale prevãzute la pct. 4, 5, 6, 7
+și 8 din cuprinsul prezentului articol se constatã de cãtre
+persoanele anume împuternicite de Consiliul de administrație al Bãncii Naționale a României din cadrul Direcției
+generale autorizare, reglementare și supraveghere prudențialã a societãților bancare și al Direcției generale de control și se vireazã la bugetul de stat. Direcțiile generale mai
+sus menționate din cadrul Bãncii Naționale a României vor
+remite C.I.P., în primele 3 zile bancare ale fiecãrei luni, o
+situație centralizatoare a amenzilor percepute în cursul lunii
+anterioare.
+Dispozițiile art. 25Ñ27 din Legea nr. 32/1968 privind
+stabilirea și sancționarea contravențiilor nu se aplicã acestor amenzi.
+
+*) Potrivit art. 4 din Ordinul guvernatorului Bãncii Naționale a României nr. 37 din 24 ianuarie 1997, publicat în Monitorul Oficial al României,
+
+Compression by CVISION Technologies’ PdfCompressor.1997. Evaluation Purposes Only
+For
+Partea I, nr. 11 din 29 ianuarie 1997, sancțiunea se aplicã bãncilor începând cu data de 1 aprilie
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+PARTEA a III-a
+Fișierul național de cambii (F.N.Cb.)
+și Fișierul național de bilete la ordin (F.N.B.O.)
+ARTICOLUL 9
+Transmiterea și înscrierea informației în F.N.Cb. și F.N.B.O.
+
+7
+
+PROTESTELE DE NEPLATÃ A BILETELOR LA ORDIN,
+pentru a fi completatã informația deținutã în F.N.Cb. și, respectiv, în F.N.B.O.
+5. Prevederile art. 5 referitoare la interdicția bancarã nu
+se aplicã fișierelor privind titlurile de credit.
+ARTICOLUL 10
+
+1. Pentru scopurile prezentului regulament, prevederile
+Organizarea și gestionarea informației din F.N.Cb. și F.N.B.O.
+art. 4 privind transmiterea și înscrierea informației în F.N.C.
+1. Pentru scopurile prezentului regulament, dispozițiile
+se adapteazã la necesitãțile F.N.Cb. și F.N.B.O.
+2. Standardele de conținut ale CERERII DE ÎNSCRIERE art. 6 privind organizarea și gestionarea informației în
+A REFUZULUI BANCAR ÎN F.N.Cb. și ale CERERII DE F.N.C. se adapteazã la necesitãțile F.N.Cb. și F.N.B.O.
+2. F.N.Cb. și F.N.B.O. vor fi create, gestionate, actualiÎNSCRIERE A REFUZULUI BANCAR ÎN F.N.B.O. sunt
+prezentate în anexa nr. 3B și, respectiv, în anexa nr. 3C. zate și modificate conform necesitãților proprii ale C.I.P.,
+Aceste cereri se vor întocmi de cãtre persoanele declarante astfel încât acestea sã poatã evidenția și valorifica informaîn minimum 3 exemplare, având același conținut, cu urmã- țiile privind:
+toarele destinații:
+Ñ refuzul la platã al cambiilor;
+Ñ exemplarul 1 Ñ transmis la C.I.P. pentru confirmare
+Ñ refuzul la platã al biletelor la ordin;
+și arhivare;
+Ñ declararea cambiilor și biletelor la ordin ca pierdute,
+Ñ exemplarul 2 Ñ transmis împreunã cu exemplarul 1
+furate sau distruse.
+la C.I.P. pentru confirmare, fiind ulterior returnat persoanei
+Structura bazei de date, precum și restricțiile în utilizadeclarante, pentru evidențele proprii;
+rea acesteia vor fi stabilite prin reglementãri proprii ale
+Ñ exemplarul 3 Ñ transmis împreunã cu exemplarul 1
+la C.I.P. pentru confirmare, fiind ulterior returnat clientului C.I.P., care vor cuprinde și dispoziții privitoare la nomenclatoare și arhive proprii în interesul operativitãții și al eficiende cãtre banca sa.
+Aceastã cerere este transmisã la C.I.P. de cãtre banca ței în colectarea și valorificarea informației deținute în
+trasului sau banca subscriitorului (persoane declarante) în F.N.Cb. și F.N.B.O.
+ziua efectuãrii refuzului la platã al cambiei sau, respectiv,
+3. Standardele de conținut ale CERERII DE ANULARE
+al biletului la ordin.
+A INCIDENTULUI DE PLATÃ PRIVIND CAMBIA și ale
+În cazul în care aceastã cerere este incompletã, per- CERERII DE ANULARE A INCIDENTULUI DE PLATÃ PRIsoana acreditatã de la C.I.P. nu o va confirma, returnând VIND BILETUL LA ORDIN sunt prezentate în anexa nr. 8B
+persoanei declarante toate cele 3 exemplare.
+și, respectiv, în anexa nr. 8C. Aceste cereri sunt întocmite
+3. Standardele de conținut ale DECLARAÞIEI DE PIER- și transmise C.I.P. de cãtre banca trasului sau, respectiv,
+DERE/FURT/DISTRUGERE A CAMBIILOR și ale DECLAbanca subscriitorului (persoane declarante) în aceeași zi
+RAÞIEI DE PIERDERE/FURT/DISTRUGERE A BILETELOR
+bancarã. Persoanele declarante care au transmis inițial la
+LA ORDIN sunt prezentate în anexa nr. 4B și, respectiv,
+C.I.P. Cererea de înscriere a refuzului bancar în F.N.Cb.
+în anexa nr. 4C. Aceste declarații se vor întocmi de cãtre
+solicitant și de persoana declarantã în minimum 4 exem- și, respectiv, în F.N.B.O. sunt singurele în mãsurã sã întocmeascã și sã remitã la C.I.P. Cererea de anulare a inciplare, având același conținut, cu urmãtoarele destinații:
+Ñ exemplarul 1 Ñ transmis la C.I.P. pentru confirmare dentului de platã privind cambia și, respectiv, Cererea de
+anulare a incidentului de platã privind biletul la ordin.
+și arhivare;
+Radierea incidentelor de plãți din F.N.Cb. sau din
+Ñ exemplarul 2 Ñ transmis împreunã cu exemplarul 1
+la C.I.P. pentru confirmare, fiind ulterior returnat persoanei F.N.B.O. poate interveni la solicitarea persoanelor decladeclarante, pentru evidențele proprii;
+rante sau a instanțelor judecãtorești, în una dintre situațiile
+Ñ exemplarul 3 Ñ transmis împreunã cu exemplarul 1 urmãtoare:
+la C.I.P. pentru confirmare, fiind ulterior returnat persoanei
+a) atunci când refuzul la platã sau la acceptare al camfizice sau juridice de cãtre bancã;
+biei sau refuzul la platã al biletului la ordin rezultã dintr-o
+Ñ exemplarul 4 Ñ remis persoanei fizice sau juridice în
+eroare sau o omisiune a persoanei declarante;
+momentul întocmirii declarației.
+b) alte motive prevãzute de reglementãri ale Bãncii
+Aceastã declarație este transmisã la C.I.P. de cãtre perNaționale a României.
+soana declarantã în aceeași zi bancarã cu aceea a întocÎn cazul în care refuzul la platã al cambiei sau al bilemirii declarației.
+tului la ordin a rezultat dintr-o eroare sau omisiune a per4. În baza unei convenții, sucursalele Bãncii Naționale a
+României vor primi din partea camerelor de comerț și indus- soanei declarante-bancã, aceasta va suporta o taxã de
+trie județene, în prima zi bancarã a fiecãrei sãptãmâni, 1.000.000 lei, perceputã de C.I.P. în ziua bancarã în care
+TABELELE CU PROTESTELE DE NEACCEPTARE SAU se transmite Cererea de anulare a incidentului de platã priCompression by CVISION Technologies’ CU vind aceste instrumente. Evaluation Purposes Only
+DE NEPLATÃ A CAMBIILOR și TABELELE PdfCompressor. For
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+ARTICOLUL 11
+
+Difuzarea și valorificarea informației din F.N.Cb. și F.N.B.O.
+
+1. În aplicarea prezentului regulament, dispozițiile art. 7
+privind difuzarea și valorificarea informației în F.N.C. se
+adapteazã la necesitãțile F.N.Cb. și F.N.B.O.
+2. În cazul în care C.I.P. primește o Declarație de pierdere/furt/distrugere a cambiilor sau a biletelor la ordin
+(anexa nr. 4B sau anexa nr. 4C) de la o persoanã declarantã, va înștiința în aceeași zi bancarã centrala bãncii trasului sau centrala bãncii subscriitorului printr-o Declarație a
+C.I.P. de pierdere/furt/distrugere/anulare a instrumentelor
+(anexa nr. 6B). Centrala bãncii respective are obligația de a
+transmite imediat aceastã informație, dacã este cazul, unitãții teritoriale din propriul sistem intrabancar, pentru a nu
+proceda la decontarea respectivului instrument.
+3. Fluxul colectãrii și difuzãrii informației privind un bilet
+la ordin sau o cambie declarat(ã) pierdut(ã)/furat(ã)/distrus(ã)/anulat(ã) este prezentat în anexa nr. 10.
+4. Prevederile art. 7 pct. 2 alin. 9 nu se aplicã în cazul
+titlurilor de credit.
+ARTICOLUL 12
+Sancțiuni
+
+Sancțiunile prevãzute pentru incidentele de plãți în cazul
+cambiilor și/sau al biletelor la ordin sunt:
+1. Conform Legii nr. 58/1934, modificatã prin Ordonanța
+Guvernului nr. 11/1993, aprobatã și modificatã prin Legea
+nr. 83/1994, se va pedepsi cu amendã de la 5.000 lei la
+100.000 lei și închisoare pânã la 6 luni, în afarã de cazul
+în care fapta constituie un delict sancționat cu o pedeapsã
+mai mare, orice persoanã fizicã sau juridicã care cesioneazã
+o creanțã în favoarea unei bãnci, știind cã în momentul
+cesiunii nu existã, în total sau în parte, creanța cedatã.
+2. Bãncile care nu au declarat, în condițiile prevãzute
+de prezentul regulament, incidentele de plãți cãtre C.I.P. vor
+fi sancționate cu amendã*) de la 500.000 lei la 1.000.000 lei
+pentru fiecare omisiune.
+3. În cazul în care bãncile nu au notificat C.I.P. anularea unui incident de platã declarat anterior la Banca
+Naționalã a României din vina lor exclusivã, sustrãgându-se
+astfel de la plata taxei prevãzute la art. 10 pct. 3 alin. 3,
+vor fi sancționate cu amendã*) de la 1.500.000 lei la
+2.000.000 lei.
+4. Se aplicã bãncilor o amendã*) de 500.000 lei pentru
+fiecare zi bancarã de întârziere peste termenele stabilite de
+prezentul regulament (art. 9 pct. 2 alin. 2; art. 9 pct. 3 alin. 2;
+art. 10 pct. 3 alin. 1 și art. 11 pct. 2).
+5. Amenzile contravenționale prevãzute la pct. 2, 3 și 4
+din cuprinsul prezentului articol se constatã de cãtre persoanele anume împuternicite de Consiliul de administrație
+al Bãncii Naționale a României din cadrul Direcției generale
+autorizare, reglementare și supraveghere prudențialã a
+societãților bancare și al Direcției generale de control și se
+vireazã la bugetul de stat. Direcțiile generale mai sus men-
+
+ționate din cadrul Bãncii Naționale a României vor remite
+C.I.P., în primele 3 zile bancare ale fiecãrei luni, o situație
+centralizatoare a amenzilor percepute în cursul lunii
+anterioare.
+Dispozițiile art. 25Ñ27 din Legea nr. 32/1968 privind
+stabilirea și sancționarea contravențiilor nu se aplicã acestor amenzi.
+
+Partea a IV-a
+Fișierul național al persoanelor cu risc (F.N.P.R.)
+ARTICOLUL 13
+Înscrierea informației în F.N.P.R.
+
+1. Direcția urmãririi riscurilor bancare va organiza o
+bazã de date permanentã, denumitã Fișierul național al persoanelor cu risc (F.N.P.R.), alimentatã automat de F.N.I.P.
+cu incidentele de plãți majore înregistrate pe numele unei
+persoane fizice sau juridice.
+2. În cuprinsul prezentului regulament, termenul incidente
+de plãți majore acoperã situațiile:
+a) pentru CEC:
+Ñ cec emis fãrã autorizarea trasului;
+Ñ cec refuzat la platã din lipsã parțialã de disponibil;
+Ñ cec refuzat la platã din lipsã totalã de disponibil;
+Ñ cec emis cu o datã falsã sau cãruia îi lipsește o
+mențiune obligatorie;
+Ñ cec circular sau cec de cãlãtorie emis ”la purtãtor,,;
+Ñ cec emis de cãtre un trãgãtor aflat în interdicție bancarã;
+b) pentru CAMBIE:
+Ñ scontarea cambiei fãrã existența în total/în parte a
+creanței cedate în momentul cesiunii acesteia;
+Ñ cambie refuzatã la platã din lipsã parțialã de disponibil;
+Ñ cambie refuzatã la platã din lipsã totalã de disponibil;
+Ñ cambie falsã;
+c) pentru BILET LA ORDIN:
+Ñ scontarea biletului la ordin fãrã existența în total/în
+parte a creanței cedate în momentul cesiunii acestuia;
+Ñ bilet la ordin refuzat la platã din lipsã parțialã de disponibil;
+Ñ bilet la ordin refuzat la platã din lipsã totalã de disponibil;
+Ñ bilet la ordin fals.
+În cazul incidentelor de plãți majore intervenite la plata cu
+cecuri, informația înscrisã în F.N.P.R. va fi completatã cu
+perioada în care persoana fizicã sau juridicã se aflã în interdicție bancarã.
+ARTICOLUL 14
+Organizarea și gestionarea informației în F.N.P.R.
+
+Prevederile de la art. 6 pct. 2 alin. 3 și art. 6 pct. 3, referitoare la modalitãțile de organizare și gestionare a infor-
+
+*) Potrivit art. 4 din Ordinul guvernatorului Bãncii Naționale a României nr. 37 din 24 ianuarie 1997, publicat în Monitorul Oficial al României,
+
+Partea I, nr. 11 din 29 ianuarie 1997, sancțiunea se aplicã bãncilor începând cu data de 1 aprilie
+Compression by CVISION Technologies’ PdfCompressor.1997. Evaluation Purposes Only
+For
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+mației din F.N.C., își pãstreazã valabilitatea și pentru
+F.N.P.R.
+În momentul radierii unui incident de platã major din
+F.N.I.P., în mod automat va fi actualizatã și înregistrarea
+din F.N.P.R. de pe numele respectivului titular de cont.
+ARTICOLUL 15
+Difuzarea și valorificarea informației din F.N.P.R.
+
+Prevederile de la art. 7 pct. 1; art. 7 pct. 2 alin. 1, 2, 3, 4
+și art. 7 pct. 3, referitoare la difuzarea și valorificarea informației din F.N.C., își pãstreazã valabilitatea și pentru
+F.N.P.R.
+Valorificarea informației conținute în F.N.P.R. se poate
+face de cãtre utilizatori, pe baza datelor solicitate C.I.P.
+
+PARTEA a V-a
+Dispoziții finale
+ARTICOLUL 16
+Comisioane și speze
+
+1. Serviciile oferite persoanelor declarante-bãnci și celorlalți utilizatori de cãtre C.I.P. se fac pe baze comerciale,
+prin perceperea de comisioane, speze și abonamente de
+consultare a F.N.I.P. și a F.N.P.R.
+2. Cuantumurile comisioanelor, spezelor și ale abonamentelor se stabilesc prin ordin al guvernatorului Bãncii
+Naționale a României.
+3. Comisioanele, spezele și abonamentele sunt folosite
+de cãtre Banca Naționalã a României pentru acoperirea
+cheltuielilor cu funcționarea și gestionarea F.N.I.P. și
+F.N.P.R.
+
+9
+
+Ñ cererile de înscriere a refuzului bancar în
+F.N.C./F.N.Cb./F.N.B.O.;
+Ñ declarațiile de pierdere/furt/distrugere/anulare a
+cecurilor;
+Ñ declarațiile de pierdere/furt/distrugere a cambiilor, biletelor la ordin;
+Ñ declarațiile C.I.P. privind interdicția bancarã și, respectiv, de pierdere/furt/distrugere/anulare a instrumentelor;
+Ñ cererile de anulare a incidentului de platã și/sau a
+interdicției bancare de a emite cecuri;
+Ñ cererile de anulare a incidentului de platã privind
+cambia, biletul la ordin;
+Ñ cererile de consultare;
+b) la C.I.P.:
+Ñ fișele de acreditare a persoanelor autorizate sã notifice la C.I.P. cererile, declarațiile și anulãrile de incidente
+de plãți și de interdicții bancare;
+Ñ cererile de înscriere a refuzului bancar în
+F.N.C./F.N.Cb./F.N.B.O.;
+Ñ declarațiile de pierdere/furt/distrugere/anulare a cecurilor;
+Ñ declarațiile de pierdere/furt/distrugere a cambiilor, biletelor la ordin;
+Ñ declarațiile C.I.P. privind interdicția bancarã și, respectiv, de pierdere/furt/distrugere/anulare a instrumentelor;
+Ñ cererile de anulare a incidentului de platã și/sau a
+interdicției bancare de a emite cecuri;
+Ñ cererile de anulare a incidentului de platã privind
+cambia, biletul la ordin;
+Ñ cererile de consultare.
+ARTICOLUL 18
+
+ARTICOLUL 17
+
+Alte precizãri
+
+Arhivarea
+
+1. Din proprie inițiativã, precum și la solicitarea oricãrei
+bãnci, C.I.P. poate organiza și alte fișiere referitoare la
+incidentele de plãți, inclusiv pentru cartelele de platã, în
+cazul în care interesul public o impune.
+2. D.U.R.B. asigurã, totodatã, emiterea și modificarea de
+reglementãri ale Bãncii Naționale a României, în numele
+C.I.P., privind accesul, gestiunea și valorificarea informației
+deținute.
+Persoanele declarante au obligația sã furnizeze C.I.P.
+orice informație solicitatã de aceasta, în scopul desfãșurãrii
+propriei activitãți.
+3. Anexele fac parte integrantã din prezentul regulament
+și sunt obligatorii pentru bãnci și pentru Banca Naționalã a
+României din punct de vedere al formei și al conținutului.
+4. Prezentul regulament se publicã în Monitorul Oficial
+al României și intrã în vigoare la data de 3 februarie 1997.
+
+1. Orice informație privind incidentele de plãți din F.N.I.P.
+va fi arhivatã pe o perioadã de 5 ani în cadrul Direcției
+generale de plãți și urmãrire a riscurilor bancare din Banca
+Naționalã a României.
+2. Toatã documentația folositã pentru transmiterea și
+înscrierea, organizarea și gestionarea și, respectiv, difuzarea și valorificarea informațiilor deținute de C.I.P. se arhiveazã în mod obligatoriu de cãtre persoanele declarante, la
+sediile acestora, pe o perioadã de 5 ani, dupã cum
+urmeazã:
+a) la persoanele declarante:
+Ñ somațiile;
+Ñ fișele de acreditare a persoanelor autorizate sã notifice la C.I.P. cererile, declarațiile și anulãrile de incidente
+de plãți și de interdicții bancare;
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+ANEXA Nr. 1
+
+ANEXE
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+S igla persoanei declarante
+
+11
+
+ANEXA Nr. 2
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+ANEXA Nr. 2
+
+.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+S igla persoanei declarante
+
+13
+
+ANEXA Nr.3A
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+ANEXA Nr. 3A
+(verso)
+
+MOD DE COMPLETARE
+La rubrica ”Nr. É,, se înscrie numãrul de înregistrare din evidențele
+persoanei declarante.
+În paragraful ”CENTRALA BÃNCII/SUCURSALA BNR,, se înscriu
+denumirea în clar și codul centralei bãncii, în cazul în care informația transmisã la CIP provine direct de la aceasta sau de la o unitate teritorialã proprie, respectiv ale sucursalei BNR în cazul în care informația transmisã la
+CIP provine direct de la aceasta sau de la o unitate teritorialã bancarã din
+raza sa de activitate.
+În cazul în care persoana declarantã este DURB, acest paragraf nu se
+completeazã.
+În paragraful ”Loc rezervat confirmãrii CIP,,, persoana acreditatã de la
+CIP va înscrie pe toate cele 3 (trei) exemplare ale cererii data și ora înregistrãrii acesteia în FNC și va semna.
+În paragraful ”1,, se înscriu în clar denumirea, codul, adresa și telefonul persoanei declarante la CIP, care solicitã înscrierea refuzului bancar în
+FNC.
+În paragraful ”2,, se înscriu informații preluate de pe cecul care face
+obiectul refuzului la platã:
+Ñ denumirea și codul bãncii trase;
+Ñ tipul cecului; la rubrica ”Tip cec la origine,, se va bifa tipul cecului
+la momentul tipãririi, iar la rubrica ”Tip cec la momentul refuzului,, se va bifa
+corespunzãtor tipul cecului la momentul declarãrii acestuia ca refuz bancar;
+Ñ seria și numãrul cecului, data și locul emiterii, locul compensãrii,
+suma totalã de platã, respectiv suma refuzatã la platã (exprimate în cifre);
+Ñ numele sau denumirea, codul fiscal sau codul numeric personal și
+numãrul de cont al trãgãtorului;
+Ñ numele sau denumirea și codul fiscal sau codul numeric personal al
+beneficiarului/ultimului giratar, numãrul de cont, denumirea și codul bãncii la
+care acesta are cont deschis.
+În paragraful ”3,, se bifeazã una sau mai multe dintre cãsuțele care
+reprezintã motivul refuzului la platã al cecului descris anterior; motivul ”vicii
+de completare a mențiunilor de pe cec,, se va bifa în cazul în care se constatã modificarea unor elemente de pe cec, înscrierea greșitã sau lipsa unui
+numãr de cont, neconcordanța semnãturilor.
+Paragraful ”4,, se completeazã numai dacã unul dintre motivele refuzului la platã este: ”cec emis fãrã autorizarea trasului,,, ”cec refuzat din lipsã
+totalã de disponibil, în cazul prezentãrii la platã înainte de expirarea termenului de prezentare,,, ”cec refuzat din lipsã parțialã de disponibil, în cazul
+prezentãrii la platã înainte de expirarea termenului de prezentare,,, ”cec emis
+cu o datã falsã sau cãruia îi lipsește o mențiune obligatorie,,, ”cec
+circular/cec de cãlãtorie emis la purtãtor,, și ”cec emis de cãtre un trãgãtor
+aflat în interdicție bancarã,,; caz în care se va completa și perioada de interdicție bancarã începând cu data emiterii cecului.
+La rubrica ”S.S./L.S.,, se aplicã semnãtura și ștampila persoanei
+acreditate la CIP, care a întocmit respectiva cerere.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+S igla persoanei declarante
+
+15
+
+ANEXA Nr. 3B
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+ANEXA Nr. 3B
+(verso)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+S igla persoanei declarante
+
+17
+
+ANEXA Nr. 3C
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+ANEXA Nr. 3C
+(verso)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+S igla persoanei declarante
+
+19
+
+ANEXA Nr. 4A
+(recto)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+20
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+ANEXA Nr. 4A
+(verso)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+S igla persoanei declarante
+
+21
+
+ANEXA Nr. 4B
+(recto)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+22
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+ANEXA Nr.4B
+(verso)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+S igla persoanei declarante
+
+23
+
+ANEXA Nr. 4C
+(recto)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+24
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+ANEXA Nr.4C
+(verso)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+S igla persoanei declarante
+
+25
+
+ANEXA Nr.5A
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+S igla persoanei declarante
+
+ANEXA Nr.5B
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+27
+
+ANEXA Nr.6A
+(recto)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+ANEXA Nr.6A
+(verso)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+29
+
+ANEXA Nr. 6B
+(recto)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+ANEXA Nr.6B
+(verso)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+31
+
+ANEXA Nr. 7
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+32
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+S igla persoanei declarante
+
+ANEXA Nr. 8A
+(recto)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+33
+
+ANEXA Nr. 8A
+(verso)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+34
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+S igla persoanei declarante
+
+ANEXA Nr. 8B
+(recto)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+35
+
+ANEXA Nr. 8B
+(verso)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+36
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+S igla persoanei declarante
+
+ANEXA Nr. 8C
+(recto)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+37
+
+ANEXA Nr. 8C
+(verso)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+38
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+S igla persoanei declarante
+
+ANEXA Nr. 9
+(recto)
+
+Compression by CVISION va încercui rãspunsul corect sau va completa rubrica ”Alte observații,,, dupã caz. Purposes Only
+*) Persoana acreditatã de la CIP Technologies’ PdfCompressor. For Evaluation
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+39
+
+ANEXA Nr. 9
+(verso)
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 359 bis/22.IX.1998
+
+ANEXA Nr. 10
+
+40
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ,,Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 30.98.12.301 B.C.R. Ñ S.M.B.
+Adresa pentru publicitate : Serviciul relații cu publicul și agenții economici, București,
+Str. Blanduziei nr. 1, sectorul 2, telefon 211.57.30.
+Tiparul : Regia Autonomã ,,Monitorul Oficial,,, tel. 668.55.58 și 335.01.11/4028.
+Monitorul Oficial al României, Partea I, nr. 359 bis/22.IX.1998 conține
+Prețul 2.120 lei
+ISSN 1453Ñ4495
+Compression by CVISION Technologies’ 40 de pagini.
+PdfCompressor. For Evaluation Purposes Only
+
+

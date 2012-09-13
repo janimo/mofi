@@ -1,0 +1,1536 @@
+PARTEA
+
+Anul XIV Ñ Nr. 457
+
+I
+
+Joi, 27 iunie 2002
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+ORDONANÞE ALE GUVERNULUI ROMÂNIEI
+
+79.
+
+Ñ Ordonanțã de urgențã privind cadrul general de
+reglementare a comunicațiilor...................................
+
+ORDONANÞE
+
+ALE
+
+1Ð16
+
+GUVERNULUI
+
+ROMÂNIEI
+
+GUVERNUL ROMÂNIEI
+
+ORDONANÞÃ DE URGENÞÃ
+privind cadrul general de reglementare a comunicațiilor
+În temeiul prevederilor art. 114 alin. (4) din Constituția României,
+Guvernul României adoptã prezenta ordonanțã de urgențã.
+CAPITOLUL I
+Dispoziții generale
+Art. 1. Ñ Prezenta ordonanțã de urgențã are ca scop:
+a) stabilirea cadrului general de reglementare a activitãților privind serviciile și rețelele de comunicații electronice, prin definirea obiectivelor și atribuțiilor Autoritãții
+Naționale de Reglementare în Comunicații, denumitã în
+continuare ANRC, în domeniul comunicațiilor electronice, a
+regimului autorizãrii acestor activitãți, precum și a regulilor
+specifice care guverneazã concurența pe piața rețelelor și
+serviciilor de comunicații electronice;
+b) stabilirea obiectivelor și atribuțiilor ANRC în domeniul
+serviciilor poștale;
+c) înființarea ANRC ca organ al administrației publice
+centrale de specialitate în domeniul comunicațiilor electronice și al serviciilor poștale.
+
+Art. 2. Ñ (1) În înțelesul prezentei ordonanțe de
+urgențã, urmãtorii termeni se definesc astfel:
+a) furnizarea unei rețele de comunicații electronice Ñ
+instalarea, operarea, controlul sau punerea la dispoziție a
+unei rețele de comunicații electronice;
+b) furnizor de rețele de comunicații electronice Ñ o persoanã a cãrei activitate constã, în tot sau în parte, în furnizarea unei rețele de comunicații electronice;
+c) utilizator final Ñ orice utilizator, cu excepția celor care
+furnizeazã rețele publice de comunicații sau servicii de
+comunicații electronice destinate publicului;
+d) consumator Ñ orice persoanã fizicã, utilizator sau
+solicitant, în alte scopuri decât cele ale activitãții sale
+comerciale sau profesionale, al unui serviciu de comunicații
+electronice destinat publicului;
+e) interferențã perturbatoare Ñ o interferențã care pune
+în pericol funcționarea unui serviciu de radionavigație ori a
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 457/27.VI.2002
+
+altor servicii cu rol de siguranțã sau care în orice alt mod
+afecteazã grav, obstrucționeazã ori întrerupe repetat un
+serviciu de comunicații electronice care utilizeazã frecvențe
+radioelectrice și opereazã în conformitate cu dispozițiile
+legale în vigoare.
+(2) În cuprinsul prezentei ordonanțe de urgențã sunt, de
+asemenea, aplicabile definițiile prevãzute la art. 2 din
+Ordonanța Guvernului nr. 34/2002 privind accesul la
+rețelele de comunicații electronice și la infrastructura asociatã, precum și interconectarea acestora, denumitã în continuare Ordonanța privind accesul, și la art. 2 din Ordonanța
+Guvernului nr. 31/2002 privind serviciile poștale, denumitã
+în continuare Ordonanța privind serviciile poștale.
+Art. 3. Ñ (1) Dispozițiile prezentei ordonanțe de urgențã
+nu se aplicã în cazul furnizãrii exclusiv pentru nevoi proprii
+a rețelelor și serviciilor de comunicații electronice care nu
+utilizeazã frecvențe radioelectrice.
+(2) Dispozițiile prezentei ordonanțe de urgențã nu se
+aplicã în cazul furnizãrii pentru nevoi proprii a rețelelor și
+serviciilor de comunicații electronice de cãtre instituțiile din
+cadrul Sistemului național de apãrare, care se realizeazã
+pe baza reglementãrilor speciale aplicabile acestor instituții.
+(3) Interconectarea rețelelor de comunicații electronice
+aparținând instituțiilor din cadrul Sistemului național de
+apãrare cu rețelele publice de comunicații se realizeazã în
+conformitate cu prevederile Ordonanței privind accesul.
+CAPITOLUL II
+Autorizarea furnizãrii de rețele și servicii
+de comunicații electronice
+Art. 4. Ñ (1) Furnizarea rețelelor și serviciilor de comunicații electronice este liberã și se face în condițiile regimului de autorizare generalã, în conformitate cu prevederile
+prezentului capitol.
+(2) Cu cel puțin 7 zile înainte de începerea activitãții
+orice persoanã care intenționeazã sã furnizeze rețele sau
+servicii de comunicații electronice are obligația sã transmitã
+ANRC o notificare cu privire la aceastã intenție, în scopul
+realizãrii unei evidențe oficiale a furnizorilor. Notificarea se
+va realiza în mod obligatoriu în forma prevãzutã la
+alin. (3).
+(3) ANRC stabilește și actualizeazã formularul-tip al notificãrii, cuprinzând informațiile pe care orice persoanã care
+intenționeazã sã furnizeze rețele sau servicii de comunicații
+electronice are obligația sã le comunice pentru a beneficia
+de autorizația generalã. Aceste informații sunt grupate în
+urmãtoarele categorii:
+a) date necesare identificãrii furnizorului și comunicãrii
+eficiente cu acesta;
+b) descrierea tipurilor de rețele sau de servicii pe care
+persoana în cauzã intenționeazã sã le furnizeze;
+c) data estimativã a începerii activitãții.
+(4) Persoana care a realizat notificarea în termenul și
+în condițiile prevãzute la alin. (2) și (3) este autorizatã sã
+furnizeze tipurile de rețele sau de servicii pe care le-a indicat în notificare, având toate drepturile și obligațiile
+
+prevãzute în autorizația generalã care se elaboreazã, se
+actualizeazã, se modificã și se anuleazã în condițiile art. 5.
+(5) Orice modificare a datelor prevãzute la alin. (3) trebuie sã fie notificatã ANRC în termen de 10 zile.
+(6) Persoanele cãrora li s-a retras dreptul de a furniza
+rețele sau servicii de comunicații electronice nu mai pot
+beneficia de autorizația generalã pentru același tip de rețea
+sau de serviciu, pe o perioadã de 5 ani de la retragerea
+dreptului.
+Art. 5. Ñ (1) ANRC elaboreazã și actualizeazã autorizația generalã pentru tipurile de rețele și de servicii, prin
+care stabilește condițiile în care acestea pot fi furnizate,
+determinând astfel drepturile și obligațiile care revin furnizorilor fiecãrui tip de rețea sau de serviciu.
+(2) Condițiile stabilite potrivit alin. (1) vor fi obiectiv justificate în raport cu tipul de rețea sau de serviciu în cauzã,
+nediscriminatorii, proporționale și transparente. Ele pot viza:
+a) contribuții financiare pentru susținerea serviciului
+universal;
+b) plata tarifului de monitorizare anual;
+c) interoperabilitatea serviciilor și interconectarea
+rețelelor;
+d) disponibilitatea resurselor de numerotație pentru utilizatorii finali, inclusiv condiții impuse în temeiul legislației
+speciale privind serviciul universal;
+e) cerințe privind protecția mediului, planurile de urbanism și amenajare a teritoriului, precum și cerințe și condiții
+legate de acordarea dreptului de acces pe proprietãți, colocare și utilizarea partajatã a resurselor, inclusiv, dacã este
+cazul, garanțiile de ordin financiar sau tehnic necesare
+pentru a asigura executarea corespunzãtoare a lucrãrilor de
+infrastructurã;
+f) obligații privind retransmisia serviciilor de programe
+prin rețelele de comunicații electronice, în conformitate cu
+prevederile legislației privind audiovizualul;
+g) prelucrarea datelor cu caracter personal și protecția
+vieții private;
+h) protecția consumatorilor;
+i) restricții privind transmiterea conținutului ilegal și
+vãtãmãtor, în conformitate cu prevederile legale aplicabile
+în domeniul comerțului electronic și al audiovizualului;
+j) informații care trebuie furnizate în temeiul art. 4
+alin. (3) și al art. 51;
+k) interceptarea legalã a comunicațiilor, inclusiv suportarea de cãtre furnizorii de rețele sau de servicii de comunicații electronice a costurilor aferente, și asigurarea
+confidențialitãții prin sisteme proprii, acreditate în condițiile
+actelor normative în vigoare;
+l) furnizarea rețelelor și a serviciilor de comunicații electronice pe durata situațiilor generate de producerea unei
+calamitãți naturale ori a unui sinistru deosebit de grav;
+m) mãsuri privind limitarea expunerii populației la efectele câmpurilor electromagnetice generate de rețelele de
+comunicații electronice, în condițiile legii;
+n) obligații privind acordarea accesului, altele decât cele
+prevãzute la art. 5, 6 și 8 din Ordonanța privind accesul
+sau în legislația specialã privind serviciul universal;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 457/27.VI.2002
+o) menținerea integritãții rețelelor publice de comunicații,
+inclusiv prin condiții care sã împiedice producerea interferențelor perturbatoare între rețelele sau serviciile de comunicații electronice;
+p) asigurarea securitãții rețelelor publice de comunicații
+împotriva accesului neautorizat;
+q) condiții de utilizare a frecvențelor radioelectrice a
+cãror utilizare este supusã doar regimului de autorizare
+generalã, în conformitate cu prevederile art. 13 alin. (2);
+r) mãsuri destinate asigurãrii respectãrii standardelor sau
+specificațiilor tehnice;
+s) criteriile și procedurile pentru impunerea obligațiilor
+prevãzute la art. 5, 6 și 8 din Ordonanța privind accesul
+sau în legislația specialã privind serviciul universal.
+(3) ANRC modificã sau anuleazã autorizația generalã,
+cu respectarea principiilor obiectivitãții și proporționalitãții,
+numai dupã parcurgerea procedurii de consultare prevãzute
+la art. 50 și numai în urmãtoarele situații:
+a) aceastã decizie este necesarã pentru respectarea
+obligațiilor care decurg dintr-un acord internațional la care
+România este parte;
+b) circumstanțele în care autorizația generalã a fost
+emisã s-au modificat.
+Art. 6. Ñ (1) Persoanele autorizate în condițiile art. 4
+sã furnizeze rețele sau servicii de comunicații electronice
+beneficiazã de dreptul de acces pe proprietãți, în condițiile
+prevãzute în cap. IV.
+(2) Persoanele autorizate în condițiile art. 4 sã furnizeze
+rețele publice de comunicații sau servicii de comunicații
+electronice destinate publicului beneficiazã și de urmãtoarele drepturi:
+a) dreptul de a negocia și de a încheia acorduri de
+acces sau de interconectare cu orice alți furnizori autorizați
+de rețele publice de comunicații sau de servicii de comunicații electronice destinate publicului, în condițiile
+Ordonanței privind accesul;
+b) dreptul de a fi desemnat pentru furnizarea oricãror
+componente ale serviciului universal pe întregul teritoriu
+național sau în zone ale acestuia, în condițiile legii.
+(3) La cerere sau din oficiu ANRC va elibera în cel
+mult 7 zile un certificat-tip prin care se atestã cã persoana
+respectivã a trimis o notificare în condițiile art. 4 și în care
+se prezintã condițiile în care aceastã persoanã beneficiazã
+de dreptul de acces pe proprietãți și de dreptul de a negocia acorduri de acces sau de interconectare.
+CAPITOLUL III
+Regimul juridic al spectrului de frecvențe radioelectrice
+și al resurselor de numerotație
+Art. 7. Ñ (1) Frecvențele radioelectrice și resursele de
+numerotație sunt resurse limitate, aflate în proprietatea
+publicã a statului.
+(2) Administrarea și gestionarea frecvențelor radioelectrice și a resurselor de numerotație se realizeazã pe baza
+principiilor obiectivitãții, transparenței, nediscriminãrii și proporționalitãții.
+
+3
+
+Art. 8. Ñ (1) Ministerul Comunicațiilor și Tehnologiei
+Informației, denumit în continuare ministerul de specialitate,
+asigurã, în condițiile legii, administrarea și coordonarea la
+nivel național a gestionãrii frecvențelor radioelectrice.
+(2) Administrarea și gestionarea frecvențelor radioelectrice se efectueazã în conformitate cu tabelul național de
+alocare a benzilor de frecvențã și cu acordurile
+internaționale la care România este parte.
+(3) Ministerul de specialitate poate interzice pe o perioadã limitatã utilizarea parțialã sau totalã a unei benzi de
+frecvențã ori a unei anumite frecvențe de cãtre persoane
+fizice sau juridice, la cererea motivatã a autoritãților publice
+competente, în cazul în care siguranța naționalã, ordinea
+publicã sau apãrarea naționalã impune aceastã mãsurã.
+(4) Autoritãțile publice competente în domeniul siguranței
+naționale și ordinii publice au dreptul sã utilizeze benzile
+de frecvențã, în mãsura în care este necesar pentru îndeplinirea atribuțiilor speciale conferite de lege.
+(5) În urma schimbãrii destinației benzilor de frecvențã
+utilizate în scopul apãrãrii naționale se vor compensa costurile achiziționãrii de cãtre Ministerul Apãrãrii Naționale a
+echipamentelor necesare utilizãrii noilor frecvențe. Modul de
+compensare a acestor costuri se stabilește conform unui
+memorandum încheiat între Ministerul Apãrãrii Naționale și
+ministerul de specialitate în termen de 30 de zile de la
+data intrãrii în vigoare a prezentei ordonanțe de urgențã.
+Art. 9. Ñ Activitatea ministerului de specialitate privind
+administrarea și coordonarea gestionãrii spectrului de frecvențe radioelectrice este asistatã de Comisia interdepartamentalã de radiocomunicații, organism consultativ al
+ministerului de specialitate, care este înființatã, se organizeazã și funcționeazã prin hotãrâre a Guvernului.
+Art. 10. Ñ (1) Autoritãțile abilitate sã gestioneze benzile
+de frecvențe radioelectrice sunt urmãtoarele:
+a) Inspectoratul General pentru Comunicații și
+Tehnologia Informației, denumit în continuare IGCTI, pentru
+frecvențele din benzile alocate pentru utilizare neguvernamentalã;
+b) Ministerul Apãrãrii Naționale, pentru frecvențele din
+benzile cu alocare guvernamentalã, utilizate în scopul
+apãrãrii naționale;
+c) Serviciul de Telecomunicații Speciale, pentru frecvențele din benzile cu alocare guvernamentalã, utilizate în
+scopul îndeplinirii atribuțiilor legale proprii și ale instituțiilor
+competente în domeniul siguranței naționale și ordinii
+publice. Serviciul de Telecomunicații Speciale atribuie spre
+utilizare acestor instituții, în mod individual, prin convenție,
+frecvențele radioelectrice și ține permanent evidența utilizãrii
+acestora.
+(2) IGCTI atribuie spre utilizare, în mod individual, prin
+asignare, frecvențele radioelectrice din benzile prevãzute în
+tabelul național de alocare și ține permanent evidența utilizãrii acestora.
+(3) Autoritãțile prevãzute la alin. (1) au obligația de a
+asigura schimbul reciproc de informații referitoare la
+asignãrile de frecvențe efectuate, în conformitate cu prevederile Legii nr. 182/2002 privind protecția informațiilor
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 457/27.VI.2002
+
+clasificate, și colaboreazã în vederea identificãrii și localizãrii emisiilor neautorizate și a interferențelor perturbatoare, în scopul asigurãrii protecției radioelectrice a tuturor
+serviciilor de comunicații electronice care utilizeazã frecvențe radioelectrice.
+Art. 11. Ñ (1) ANRC asigurã, în condițiile legii, administrarea și gestionarea la nivel național a resurselor de
+numerotație.
+(2) Administrarea și gestionarea resurselor de numerotație se efectueazã în conformitate cu planul național de
+numerotație și cu acordurile internaționale la care România
+este parte.
+Art. 12. Ñ (1) ANRC asigurã punerea la dispoziție de
+resurse de numerotație adecvate pentru toți furnizorii de
+servicii de comunicații electronice destinate publicului.
+(2) Gestionarea resurselor de numerotație trebuie sã
+respecte principiul tratamentului egal acordat tuturor furnizorilor de servicii de comunicații electronice destinate
+publicului.
+(3) Furnizorii de servicii de comunicații electronice destinate publicului, cãrora li s-au alocat blocuri de numere,
+sunt obligați sã aplice principiul nediscriminãrii fațã de alți
+furnizori de servicii de comunicații electronice, în privința
+secvențelor de numere utilizate pentru accesul la serviciile
+lor.
+Art. 13. Ñ (1) Utilizarea frecvențelor radioelectrice și a
+resurselor de numerotație este permisã numai dupã obținerea unei licențe, acordatã în condiții care sã asigure
+exploatarea lor eficientã.
+(2) Ministerul de specialitate poate desemna anumite
+categorii de frecvențe a cãror utilizare este liberã, supusã
+regimului de autorizare generalã în ceea ce privește
+accesul și condițiile de utilizare, în cazurile în care acest
+lucru este posibil din punct de vedere tehnic și în special
+atunci când riscul producerii interferențelor perturbatoare
+este redus.
+(3) Acolo unde este cazul, acordarea dreptului de utilizare a frecvențelor radioelectrice trebuie sã respecte procedura și condițiile armonizate la nivel european, cu
+respectarea prevederilor acordurilor internaționale la care
+România este parte.
+(4) În cazul frecvențelor radioelectrice necesare pentru
+nevoile proprii ale instituțiilor din cadrul Sistemului național
+de apãrare, utilizarea acestora se realizeazã în mod gratuit, fãrã a fi necesarã obținerea unei licențe, pe baza
+alocãrii efectuate de ministerul de specialitate, prin tabelul
+național de alocare a benzilor de frecvențã.
+Art. 14. Ñ (1) Licența de utilizare a frecvențelor radioelectrice este actul administrativ prin care ministerul de
+specialitate acordã unui furnizor autorizat în condițiile art. 4
+dreptul de a utiliza una sau mai multe frecvențe radioelectrice în scopul furnizãrii de rețele sau de servicii de
+comunicații electronice, cu respectarea anumitor parametri
+tehnici și pentru o perioadã limitatã.
+(2) Licența de utilizare a frecvențelor radioelectrice stabilește condițiile în care titularul acesteia poate exercita
+dreptul prevãzut la alin. (1). Aceste condiții trebuie sã fie
+
+obiectiv justificate în raport cu tipul de rețea sau de serviciu în cauzã, nediscriminatorii, proporționale și transparente.
+Ele pot viza:
+a) desemnarea tipului de rețea sau de serviciu ori a
+tehnologiei pentru care a fost acordat dreptul de utilizare a
+frecvențelor, inclusiv, dacã este cazul, utilizarea exclusivã a
+unei frecvențe pentru transmiterea unui anumit conținut sau
+pentru retransmiterea anumitor servicii de programe;
+b) utilizarea efectivã, raționalã și eficientã a frecvențelor,
+inclusiv, dacã este cazul, cerințe de acoperire a teritoriului;
+c) cerințe tehnice și operaționale necesare pentru evitarea interferențelor perturbatoare și pentru limitarea expunerii populației la efectele câmpurilor electromagnetice, acolo
+unde aceste cerințe sunt diferite fațã de cele incluse în
+autorizația generalã;
+d) durata pentru care se acordã dreptul de utilizare, sub
+rezerva modificãrii tabelului național de alocare a benzilor
+de frecvențã;
+e) cedarea licenței;
+f) tariful de utilizare a spectrului, stabilit în conformitate
+cu prevederile art. 19;
+g) orice obligații asumate de furnizorul în cauzã în
+cursul unei proceduri de selecție competitivã sau
+comparativã;
+h) obligații care decurg din acorduri internaționale privind
+utilizarea frecvențelor.
+Art. 15. Ñ (1) Acordarea licențelor de utilizare a frecvențelor radioelectrice se face prin intermediul unei proceduri deschise, transparente și nediscriminatorii, în cel mult
+6 sãptãmâni de la primirea unei cereri în acest sens, cu
+excepția acelor licențe care se acordã printr-o procedurã
+de selecție competitivã sau comparativã, pentru care termenul este de cel mult 8 luni.
+(2) Termenele prevãzute la alin. (1) pot fi modificate de
+ministerul de specialitate, dacã acest lucru este necesar
+pentru respectarea unui acord internațional referitor la utilizarea spectrului de frecvențe radioelectrice sau a pozițiilor
+orbitale, la care România este parte.
+Art. 16. Ñ (1) Numãrul de licențe de utilizare a frecvențelor radioelectrice ce urmeazã sã fie acordate nu poate
+fi limitat decât atunci când acest lucru este necesar pentru
+a se asigura utilizarea eficientã a spectrului de frecvențe
+radioelectrice.
+(2) Limitarea numãrului de licențe de utilizare a frecvențelor radioelectrice ce urmeazã sã fie acordate se poate
+face numai cu respectarea urmãtoarelor condiții:
+a) ministerul de specialitate va lua în considerare necesitatea ca mãsura sã aducã utilizatorilor maximum de
+beneficii și sã faciliteze dezvoltarea concurenței;
+b) ministerul de specialitate va acorda tuturor pãrților
+interesate, inclusiv utilizatorilor și consumatorilor, oportunitatea de a-și exprima opiniile referitoare la decizia de
+limitare;
+c) ministerul de specialitate va publica decizia de limitare a numãrului de licențe, însoțitã de motivația corespunzãtoare;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 457/27.VI.2002
+d) dupã stabilirea procedurii de acordare a licențelor
+respective, ministerul de specialitate va lansa invitația de
+depunere a cererilor, în conformitate cu procedura stabilitã.
+(3) Ministerul de specialitate va analiza decizia de limitare a numãrului de licențe anual sau în urma primirii unei
+cereri motivate din partea unei persoane interesate, pentru
+a determina dacã aceastã limitare mai este justificatã.
+(4) În cazul în care noi frecvențe radioelectrice devin
+disponibile în vederea acordãrii, ministerul de specialitate
+are obligația sã aducã la cunoștințã publicului acest lucru
+și sã lanseze invitația de depunere a cererilor.
+(5) Acordarea licențelor al cãror numãr a fost limitat se
+face numai pe baza unor criterii obiective, transparente,
+nediscriminatorii și proporționale.
+Art. 17. Ñ (1) Licența de utilizare a resurselor de numetotație este actul administrativ prin care ANRC acordã unui
+furnizor autorizat în condițiile art. 4 dreptul de a utiliza anumite numere în scopul furnizãrii de servicii de comunicații
+electronice, pentru o perioadã limitatã.
+(2) Licența de utilizare a resurselor de numerotație stabilește condițiile în care titularul acesteia poate exercita
+dreptul prevãzut la alin. (1). Aceste condiții trebuie sã fie
+obiectiv justificate în raport cu serviciul în cauzã, nediscriminatorii, proporționale și transparente. Ele pot viza:
+a) desemnarea serviciului pentru care a fost acordat
+dreptul de utilizare a resurselor de numerotație, inclusiv
+orice cerințe legate de furnizarea acelui serviciu;
+b) utilizarea efectivã, raționalã și eficientã a resurselor
+de numerotație;
+c) cerințe privind portabilitatea numerelor;
+d) obligații referitoare la serviciile privind registrele
+publice de abonați;
+e) durata pentru care se acordã dreptul de utilizare, sub
+rezerva modificãrii planului național de numerotație;
+f) cedarea licenței;
+g) tariful de utilizare a resurselor de numerotație, stabilit
+în conformitate cu prevederile art. 19;
+h) orice obligații asumate de furnizorul în cauzã în
+cursul unei proceduri de selecție competitive sau comparative;
+i) obligații care decurg din acorduri internaționale privind
+utilizarea resurselor de numerotație.
+Art. 18. Ñ (1) Acordarea licențelor de utilizare a resurselor de numerotație se face prin intermediul unei proceduri deschise, transparente și nediscriminatorii, în cel mult
+3 sãptãmâni de la primirea unei cereri în acest sens, cu
+excepția acelor licențe care se acordã printr-o procedurã
+de selecție competitivã sau comparativã, pentru care termenul este de cel mult 6 sãptãmâni.
+(2) ANRC va acorda licențe de utilizare a resurselor de
+numerotație ori de câte ori primește o cerere justificatã în
+acest sens, luând în considerare natura serviciului în
+cauzã, necesitatea obținerii resurselor de numerotație respective, poziția pe piațã a solicitantului și asigurarea unei
+utilizãri eficiente a resurselor naționale de numerotație.
+(3) Dupã consultarea pãrților interesate, în condițiile
+legii, ANRC poate decide acordarea anumitor categorii de
+numere, a cãror valoare economicã este deosebitã, prin
+
+5
+
+intermediul unor proceduri de selecție competitivã sau comparativã.
+Art. 19. Ñ (1) Titularul licenței de utilizare a frecvențelor
+radioelectrice are obligația sã achite anual cãtre IGCTI un
+tarif de utilizare a spectrului, stabilit de ministerul de specialitate.
+(2) ANRC poate impune titularilor licențelor de utilizare
+a resurselor de numerotație plata unui tarif de utilizare a
+acestor resurse.
+(3) Tarifele prevãzute la alin. (1) și (2) trebuie sã asigure utilizarea optimã a frecvențelor radioelectrice și a
+resurselor de numerotație și sã fie obiectiv justificate, transparente, nediscriminatorii și proporționale cu scopul pentru
+care sunt destinate.
+Art. 20. Ñ (1) Licența de utilizare a frecvențelor radioelectrice și licența de utilizare a resurselor de numerotație
+pot fi cedate cãtre un terț, autorizat în condițiile art. 4,
+numai cu acordul prealabil al ministerului de specialitate,
+respectiv al ANRC, și numai cu asumarea tuturor
+obligațiilor decurgând din acestea, precum și cu respectarea condițiilor prevãzute în licențe cu privire la cedarea
+acestora.
+(2) Orice acord având ca obiect cedarea licenței,
+încheiat cu nerespectarea prevederilor alin. (1), este nul de
+drept.
+(3) Cedarea licenței nu trebuie sã aibã ca efect
+restrângerea, împiedicarea sau denaturarea concurenței și,
+în cazurile în care utilizarea frecvențelor este armonizatã la
+nivelul Uniunii Europene, nu trebuie sã conducã la schimbarea destinației de folosințã a frecvențelor care fac obiectul licenței într-un mod care sã contravinã acestei utilizãri
+armonizate.
+(4) Cedarea licenței se aduce la cunoștințã publicului
+prin grija ministerului de specialitate, respectiv a ANRC.
+Art. 21. Ñ Procedura de solicitare și de emitere a
+licențelor de utilizare a frecvențelor radioelectrice și a
+licențelor de utilizare a resurselor de numerotație se stabilește prin regulament, aprobat prin ordin al conducãtorului
+ministerului de specialitate, respectiv prin decizie a
+președintelui ANRC.
+CAPITOLUL IV
+Dreptul de acces pe proprietãți
+Art. 22. Ñ Furnizorii de rețele de comunicații electronice
+autorizați potrivit art. 4 pot, în condițiile prezentei ordonanțe
+de urgențã, sã instaleze, sã întreținã, sã înlocuiascã sau
+sã mute orice elemente ale rețelelor de comunicații electronice, inclusiv suporturile și celelalte facilitãți necesare
+pentru susținerea acestora, precum și punctele terminale
+utilizate pentru furnizarea de servicii de comunicații electronice, pe, deasupra, în sau sub imobile aflate în proprietate
+publicã sau privatã, dupã caz.
+Art. 23. Ñ (1) Furnizorii de rețele de comunicații electronice autorizați potrivit art. 4 beneficiazã de dreptul de a
+instala, de a întreține, de a înlocui și de a muta orice elemente ale rețelelor de comunicații electronice pe, deasupra,
+în sau sub imobilele proprietate publicã a statului sau a
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 457/27.VI.2002
+
+unitãților administrativ-teritoriale, numai în mãsura în care
+sunt îndeplinite cumulativ urmãtoarele condiții:
+a) exercițiul acestui drept este compatibil cu uzul sau
+interesul public cãruia îi sunt destinate imobilele în cauzã;
+b) efectuarea lucrãrilor în cauzã nu este de naturã sã
+contravinã cerințelor specifice de urbanism sau de amenajare a teritoriului ori celor privind protecția mediului, a
+sãnãtãții sau a ordinii publice, pe care trebuie sã le respecte activitãțile ce se desfãșoarã pe, deasupra, în sau
+sub imobilele în cauzã;
+c) condițiile de exercitare a acestui drept s-au stabilit
+prin acordul pãrților sau, în lipsa acestuia, prin hotãrâre
+judecãtoreascã.
+(2) Furnizorii de rețele publice de comunicații electronice
+autorizați potrivit art. 4 beneficiazã de dreptul de a efectua
+lucrãrile prevãzute la art. 22 pe, deasupra, în sau sub imobilele proprietate privatã, numai în mãsura în care sunt
+îndeplinite cumulativ urmãtoarele condiții:
+a) imobilele în cauzã nu ar fi afectate sau ar fi afectate
+într-o mãsurã nesemnificativã prin efectuarea acestor lucrãri
+sau, dacã un alt furnizor de rețele de comunicații electronice autorizat potrivit art. 4 a efectuat deja lucrãri de
+natura celor prevãzute la art. 22 pe, deasupra, în sau sub
+imobilele în cauzã, exercițiul dreptului de folosințã asupra
+imobilelor nu ar fi afectat în mod permanent de o
+restrângere suplimentarã prin efectuarea unor noi asemenea lucrãri;
+b) efectuarea lucrãrilor prevãzute la art. 22 nu este de
+naturã sã contravinã cerințelor specifice de urbanism sau
+de amenajare a teritoriului ori celor privind protecția mediului, a sãnãtãții sau a ordinii publice, pe care trebuie sã le
+respecte activitãțile ce se desfãșoarã pe, deasupra, în sau
+sub imobilele în cauzã;
+c) condițiile de exercitare a acestui drept s-au stabilit
+prin acordul pãrților sau, în lipsa acestuia, prin hotãrâre
+judecãtoreascã.
+Art. 24. Ñ Lucrãrile prevãzute la art. 22 se pot efectua
+numai cu respectarea prevederilor legale referitoare la:
+a) amplasarea și autorizarea executãrii construcțiilor;
+b) proiectarea și amplasarea construcțiilor și instalațiilor
+în zona drumurilor, pe poduri, pasaje, viaducte și tuneluri
+rutiere, precum și în zonele de protecție aeroportuarã și de
+protecție a navigației;
+c) condițiile de amplasare a lucrãrilor tehnico-edilitare și
+a stâlpilor pentru instalații în zona drumurilor;
+d) calitatea în construcții;
+e) protecția igienei și a sãnãtãții publice;
+f) protecția mediului;
+g) protecția muncii.
+Art. 25. Ñ (1) ANRC poate impune unui furnizor de
+rețele de comunicații electronice, care efectueazã lucrãri
+din categoria celor prevãzute la art. 22 asupra unui imobil
+aflat în proprietate publicã sau privatã, obligația de a permite unui alt furnizor de rețele de comunicații electronice
+autorizat potrivit art. 4 sã utilizeze suporturile și celelalte
+facilitãți destinate susținerii elementelor rețelelor, instalate,
+construite sau amenajate de primul furnizor, în vederea
+
+efectuãrii lucrãrilor prevãzute la art. 22, dacã sunt îndeplinite în mod cumulativ urmãtoarele condiții:
+a) nu sunt întrunite cerințele necesare pentru ca al doilea furnizor sã poatã beneficia de dreptul prevãzut la
+art. 23 sau utilizarea unor facilitãți similare instalate, construite sau amenajate de al doilea furnizor în exercitarea
+în mod individual a dreptului prevãzut la art. 23 ar presupune cheltuieli disproporționate fațã de utilizarea partajatã
+a facilitãților în condițiile prezentului articol;
+b) lucrãrile prevãzute la art. 22 pot fi efectuate de cãtre
+cel de-al doilea furnizor prin utilizarea acestor facilitãți în
+condiții cel puțin la fel de avantajoase ca și cele care pot
+fi asigurate prin utilizarea altor facilitãți similare instalate,
+construite sau amenajate de acest al doilea furnizor;
+c) utilizarea partajatã a facilitãților nu afecteazã din
+punct de vedere tehnic și nu face mai oneroasã efectuarea
+lucrãrilor prevãzute la art. 22 de cãtre primul furnizor sau
+desfãșurarea activitãților acestuia legate de furnizarea
+rețelelor de comunicații electronice;
+d) utilizarea partajatã a facilitãților nu necesitã executarea unor lucrãri suplimentare majore de instalare, construire
+sau amenajare.
+(2) În cazul în care impune unui furnizor de rețele de
+comunicații electronice obligația prevãzutã la alin. (1),
+ANRC stabilește și condițiile în care se realizeazã utilizarea
+partajatã a facilitãților.
+Art. 26. Ñ (1) Titularii dreptului instituit în condițiile
+art. 23 își pot exercita dreptul numai dupã încheierea unui
+contract în formã autenticã cu titularul dreptului de proprietate asupra imobilului respectiv, prin care se stabilesc
+condițiile de exercitare a acestui drept. În cazul imobilelor
+proprietate publicã aflate în administrare, contractul se
+încheie cu titularul dreptului de administrare.
+(2) Condițiile stabilite prin contractul încheiat cu titularul
+dreptului de proprietate sau de administrare asupra imobilelor proprietate publicã trebuie sã fie nediscriminatorii fațã
+de toți furnizorii de rețele publice de comunicații. Contractul
+astfel încheiat se publicã prin grija titularului dreptului de
+proprietate sau de administrare. O copie de pe contract va
+fi remisã ANRC, care are obligația de a o pune la dispoziție oricãrei persoane interesate.
+(3) Contractul încheiat în condițiile prezentului articol trebuie sã prevadã cel puțin:
+a) zonele în care este permis accesul, metodele de
+lucru ce urmeazã sã fie folosite și condițiile efective, inclusiv termenul, în care titularul are acces la imobil, în vederea instalãrii sau întreținerii facilitãților respective; și
+b) condițiile în care proprietarul sau deținãtorul imobilului
+poate efectua lucrãri ce ar afecta accesul la elementele
+rețelelor de comunicații electronice ori buna lor întreținere
+sau care ar necesita mutarea acestora.
+(4) Contractul încheiat în condițiile prezentului articol trebuie sã prevadã obligația titularului dreptului instituit în
+condițiile art. 23 de a plãti titularului dreptului de proprietate sau de administrare asupra imobilului respectiv un preț
+reprezentând contravaloarea folosinței și despãgubirea pentru prejudiciile cauzate prin efectuarea lucrãrilor. În cazul
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 457/27.VI.2002
+imobilelor proprietate publicã, prețul se stabilește cu respectarea urmãtoarelor principii:
+a) sã fie nediscriminatoriu între furnizorii de rețele
+publice de comunicații, sã fie justificat și proporțional cu
+afectarea imobilului respectiv;
+b) sã acopere doar prejudiciile directe și certe cauzate
+prin efectuarea lucrãrilor prevãzute la art. 22, precum și
+prin existența și funcționarea elementelor rețelelor de
+comunicații electronice care fac obiectul acestor lucrãri.
+(5) În cazul în care Guvernul stabilește obligația de
+platã a unor sume, cu titlu de tarife sau de taxe de utilizare ori cu orice alt titlu, pentru ocuparea și folosința anumitor imobile aflate în proprietate publicã, precum
+drumurile, podurile, pasajele, viaductele, tunelurile și altele
+asemenea, titularul dreptului instituit în condițiile art. 23
+datoreazã numai aceste sume ca preț al contractului.
+(6) Orice clauzã contrarã prevederilor alin. (5) este nulã
+de drept.
+(7) Contractul încheiat în condițiile prezentului articol
+este opozabil oricãrui titular al unui drept real asupra imobilului respectiv, precum și titularului dreptului de concesiune, de închiriere și deținãtorului cu orice alt titlu.
+Art. 27. Ñ (1) În situația în care contractul prevãzut la
+art. 26 nu se poate încheia în termen de 4 luni de la data
+la care solicitantul a înaintat titularului dreptului de proprietate sau de administrare asupra imobilului cererea privind
+începerea negocierilor, solicitantul se poate adresa instanței
+competente.
+(2) În cazul în care cererea este gãsitã întemeiatã,
+instanța poate pronunța o hotãrâre care ține loc de contract între pãrți.
+(3) În cazul în care dreptul instituit în condițiile art. 23
+se exercitã asupra unui imobil proprietate publicã,
+hotãrârea se face publicã prin grija titularului dreptului de
+proprietate sau de administrare asupra imobilului. O copie
+de pe hotãrâre va fi remisã ANRC, care are obligația de a
+o pune la dispoziție oricãrei persoane interesate.
+(4) Hotãrârii judecãtorești care ține loc de contract între
+pãrți, în conformitate cu prevederile alin. (2), îi sunt aplicabile în mod corespunzãtor prevederile art. 26 alin. (7).
+Art. 28. Ñ (1) Persoanele împuternicite de furnizorii de
+rețele de comunicații electronice, autorizați potrivit art. 4, sã
+efectueze lucrãrile prevãzute la art. 22 sau sã desfãșoare
+activitãți de studiu ori de proiectare în vederea efectuãrii
+acestor lucrãri au dreptul de acces pe, deasupra, în sau
+sub imobilele proprietate publicã sau privatã, dupã caz,
+numai în mãsura în care accesul este necesar pentru
+îndeplinirea atribuțiilor de serviciu, pe baza unei împuterniciri scrise din partea furnizorilor în cauzã, cu acordul titularului dreptului de folosințã sau, în lipsa acordului acestuia,
+cu acordul titularului dreptului de proprietate sau de
+administrare.
+(2) Titularul dreptului de folosințã și titularul dreptului de
+proprietate sau de administrare nu au dreptul de a refuza
+accesul persoanelor prevãzute la alin. (1) în cazul în care
+acesta se realizeazã în condițiile stabilite printr-un contract
+
+7
+
+încheiat potrivit prevederilor art. 26 sau prin hotãrârea
+judecãtoreascã pronunțatã în condițiile art. 27.
+(3) În lipsa acordului accesul poate fi autorizat prin
+hotãrâre judecãtoreascã. În caz de urgențã instanța poate
+dispune accesul pe cale de ordonanțã președințialã.
+(4) În cazul în care se impune efectuarea unor lucrãri
+de întreținere sau de reparații cu caracter de urgențã pentru prevenirea sau înlãturarea consecințelor generate de
+producerea unei calamitãți naturale ori a unui sinistru deosebit de grav sau a unor lucrãri de întreținere sau de
+reparații impuse de asigurarea siguranței naționale ori a
+ordinii publice, persoanele împuternicite potrivit alin. (1) au
+drept de acces fãrã acordul titularului dreptului de folosințã
+sau al titularului dreptului de proprietate sau de administrare, pe bazã de ordonanțã președințialã. Cererea de
+ordonanțã președințialã se judecã de urgențã în camera de
+consiliu, citarea pãrților nefiind obligatorie.
+Art. 29. Ñ (1) Dreptul instituit în condițiile art. 23 nu
+afecteazã existența dreptului de proprietate sau a altor
+drepturi reale asupra imobilului respectiv ori asupra facilitãților utilizate partajat sau asupra elementelor rețelelor de
+comunicații electronice.
+(2) Exercitarea dreptului instituit în condițiile art. 23 nu
+va cauza schimbarea destinației imobilului respectiv, va
+afecta cât mai puțin utilizarea acestuia de cãtre titularul
+dreptului de folosințã, va schimba cât mai puțin posibil
+aspectul exterior al proprietãții și nu va periclita sãnãtatea
+sau integritatea fizicã a persoanelor.
+Art. 30. Ñ Titularul dreptului instituit în condițiile art. 23
+poate solicita proprietarilor tãierea, în condițiile legii, a
+arborilor sau arbuștilor, precum și a ramurilor ori rãdãcinilor
+care îngreuneazã sau ar îngreuna efectuarea lucrãrilor
+prevãzute la art. 22. Aceste operațiuni se vor realiza pe
+cheltuiala solicitantului și cu acordarea unei despãgubiri în
+condițiile art. 26 alin. (4) lit. b).
+Art. 31. Ñ (1) Titularul dreptului instituit în condițiile
+art. 23 are obligația sã reașeze elementele rețelelor de
+comunicații electronice, în cadrul aceleiași proprietãți, pe
+cheltuialã proprie, când aceastã reașezare este necesarã
+pentru construcția de clãdiri sau pentru efectuarea de
+lucrãri de cãtre proprietar, în condițiile convenite prin contractul încheiat potrivit prevederilor art. 26 sau prin
+hotãrârea judecãtoreascã pronunțatã în condițiile art. 27.
+(2) Când reașezarea elementelor rețelelor de comunicații
+electronice este necesarã pentru efectuarea unor lucrãri de
+cãtre alte persoane decât proprietarul, cheltuielile vor fi
+suportate de acestea, dacã prin contractul prevãzut la
+art. 26 nu s-a convenit altfel.
+CAPITOLUL V
+Reguli aplicabile furnizorilor de rețele și servicii
+de comunicații electronice cu putere semnificativã
+pe piațã
+Art. 32. Ñ (1) ANRC în colaborare cu Consiliul
+Concurenței elaboreazã și actualizeazã:
+a) Regulamentul privind identificarea piețelor relevante
+din sectorul comunicațiilor electronice;
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 457/27.VI.2002
+
+b) Regulamentul privind efectuarea analizelor de piațã și
+determinarea puterii semnificative pe piațã.
+(2) Regulamentul privind identificarea piețelor relevante
+din sectorul comunicațiilor electronice identificã acele piețe
+de produse și servicii ale cãror caracteristici pot justifica
+impunerea de cãtre ANRC a unor obligații specifice furnizorilor de rețele sau de servicii de comunicații electronice
+cu putere semnificativã pe piațã.
+(3) Regulamentul privind efectuarea analizelor de piațã
+și determinarea puterii semnificative pe piațã conține regulile pe baza cãrora ANRC efectueazã analiza piețelor identificate potrivit Regulamentului privind identificarea piețelor
+relevante din sectorul comunicațiilor electronice și determinã
+dacã un furnizor de rețele sau de servicii de comunicații
+electronice are putere semnificativã pe o anumitã piațã.
+Regulamentul privind efectuarea analizelor de piațã și
+determinarea puterii semnificative pe piațã conține și criteriile pe baza cãrora ANRC determinã dacã doi sau mai
+mulți furnizori de rețele ori de servicii de comunicații electronice se bucurã în comun de putere semnificativã pe o
+anumitã piațã.
+(4) Prevederile regulamentelor prevãzute la alin. (1) vor
+respecta principiile instituite prin Legea concurenței
+nr. 21/1996 și prin regulamentele emise în aplicarea
+acesteia.
+Art. 33. Ñ (1) Un furnizor de rețele sau de servicii de
+comunicații electronice este considerat ca având putere
+semnificativã pe o anumitã piațã dacã, individual sau
+împreunã cu alți asemenea furnizori, se bucurã pe piața
+respectivã de o poziție echivalentã unei poziții dominante.
+(2) Prin poziție dominantã pe o anumitã piațã se
+înțelege situația în care un furnizor de rețele sau de servicii de comunicații electronice este capabil, într-o mãsurã
+apreciabilã, sã se comporte independent fațã de concurenți,
+clienți și consumatori.
+(3) Între concurenți se includ și concurenții potențiali,
+adicã acele persoane care, în circumstanțele economice
+date, au capacitatea de a intra pe piața în cauzã cu servicii pe care le furnizeazã pe alte arii geografice sau prin
+adaptarea rapidã a tehnologiei de care dispun, în condiții
+acceptabile de eficiențã.
+(4) Dacã pe o piațã existã un singur furnizor de rețele
+sau de servicii de comunicații electronice, se prezumã cã
+acesta are putere semnificativã pe piața respectivã.
+(5) Dacã un furnizor de rețele sau de servicii de comunicații electronice are putere semnificativã pe o anumitã
+piațã, el poate fi considerat a avea putere semnificativã și
+pe o piațã aflatã în strânsã legãturã cu cea dintâi, cu
+condiția ca legãturile dintre cele douã piețe sã permitã ca
+puterea de piațã deținutã pe una dintre piețe sã fie utilizatã pe cealaltã piațã, determinând astfel o creștere a
+puterii de piațã a furnizorului.
+Art. 34. Ñ (1) Acolo unde legea cere ca impunerea,
+menținerea, modificarea sau retragerea unor obligații sã se
+efectueze în urma unei analize de piațã realizate în
+condițiile legii, ANRC va stabili dacã pe piața relevantã
+
+existã concurențã efectivã, pe baza analizei de piațã realizate în conformitate cu prevederile Regulamentului privind
+efectuarea analizelor de piațã și determinarea puterii semnificative pe piațã. În efectuarea acestei analize de piațã
+ANRC va colabora, atunci când este cazul, cu Consiliul
+Concurenței.
+(2) Dacã pe baza analizei de piațã astfel realizate
+ANRC stabilește cã pe piața relevantã respectivã existã
+concurențã efectivã, ea nu va impune nici una dintre
+obligațiile din categoria celor menționate la alin. (1) sau le
+va retrage în cazul în care acestea existã. Cu cel puțin
+30 de zile înainte de retragerea oricãror obligații impuse
+unui furnizor de rețele sau de servicii de comunicații electronice ANRC trebuie sã aducã aceastã intenție la
+cunoștințã persoanelor care sunt afectate prin luarea acestei mãsuri, pentru a le permite sã se adapteze la noile
+condiții.
+(3) Dacã pe baza analizei de piațã astfel realizate
+ANRC stabilește cã pe piața relevantã respectivã nu existã
+concurențã efectivã, ea va identifica, aplicând prevederile
+Regulamentului privind efectuarea analizelor de piațã și
+determinarea puterii semnificative pe piațã, furnizorii de
+rețele sau de servicii de comunicații electronice care au,
+potrivit art. 33, putere semnificativã pe piațã și va putea
+impune acestora, în mod corespunzãtor, una sau mai
+multe dintre obligațiile din categoria celor menționate la
+alin. (1) sau va menține ori va modifica aceste obligații,
+acolo unde acestea existã deja.
+(4) Mãsurile prevãzute la alin. (2) și (3) pot fi luate
+numai în urma parcurgerii procedurii prevãzute la art. 50.
+CAPITOLUL VI
+Promovarea concurenței și soluționarea
+litigiilor dintre furnizori
+Art. 35. Ñ (1) Furnizorii de rețele publice de comunicații
+și furnizorii de servicii de comunicații electronice destinate
+publicului, care beneficiazã de drepturi speciale sau exclusive pentru prestarea serviciilor în alte sectoare ale economiei, în România sau într-un stat membru al Uniunii
+Europene, au urmãtoarele obligații:
+a) de a ține contabilitatea în mod distinct pentru activitãțile asociate cu furnizarea de rețele sau de servicii de
+comunicații electronice, în același mod în care acest lucru
+s-ar realiza dacã aceste activitãți ar fi desfãșurate de
+entitãți cu personalitate juridicã distinctã, astfel încât sã fie
+identificate, cu baza de calcul și metodologiile de atribuire
+aplicate, toate elementele care contribuie la formarea costurilor și a veniturilor legate de activitãțile asociate cu furnizarea de rețele sau de servicii de comunicații electronice,
+inclusiv o prezentare detaliatã a activelor imobilizate și a
+cheltuielilor structurale;
+b) de a realiza o separare structuralã pentru activitãțile
+asociate cu furnizarea de rețele sau de servicii de comunicații electronice.
+(2) Prevederile alin. (1) lit. a) nu se aplicã furnizorilor a
+cãror cifrã de afaceri anualã, rezultatã din activitãțile legate
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 457/27.VI.2002
+de furnizarea de rețele sau de servicii de comunicații electronice în România sau în statele membre ale Uniunii
+Europene, este mai micã de 50 milioane euro.
+(3) Furnizorii de rețele publice de comunicații sau furnizorii de servicii de comunicații electronice destinate publicului, care nu sunt supuși cerințelor dreptului societãților
+comerciale și care nu îndeplinesc criteriile aplicabile întreprinderilor mici și mijlocii stabilite prin regulile contabile
+armonizate cu cerințele legislației Uniunii Europene, au
+obligația sã își elaboreze situațiile financiare, sã le supunã
+spre aprobare unui auditor financiar independent, în
+condițiile legii, și sã le publice. Aceastã cerințã se aplicã și
+contabilitãții distincte realizate în condițiile alin. (1) lit. a).
+Art. 36. Ñ (1) În situația apariției unui litigiu între furnizorii de rețele sau de servicii de comunicații electronice ori
+între furnizorii de servicii poștale, în legãturã cu obligațiile
+impuse acestora în temeiul prezentei ordonanțe de urgențã
+sau al legislației speciale, președintele ANRC, la cererea
+oricãreia dintre pãrți, va emite o decizie obligatorie în
+vederea soluționãrii litigiului, în termen de 4 luni de la data
+la care a fost sesizatã, în afara situațiilor excepționale, în
+care un termen mai lung este necesar pentru buna
+soluționare a cazului.
+(2) Decizia se comunicã pãrților o datã cu expunerea
+motivelor pe care se întemeiazã și se publicã pe pagina
+de Internet a ANRC, cu respectarea prevederilor legale
+referitoare la pãstrarea confidențialitãții.
+(3) În situația în care pãrțile provin din România și
+dintr-un alt stat, ANRC va colabora cu autoritãțile similare
+din celãlalt stat în vederea soluționãrii litigiului.
+(4) Pãrțile pot introduce cerere de chemare în judecatã
+la instanța competentã, indiferent dacã ANRC a fost sesizatã cu o cerere având același obiect.
+CAPITOLUL VII
+Autoritatea Naționalã de Reglementare în Comunicații
+Art. 37. Ñ Se înființeazã Autoritatea Naționalã de
+Reglementare în Comunicații, instituție publicã cu personalitate juridicã în subordinea Guvernului, finanțatã integral din
+venituri extrabugetare, care are rolul de a pune în aplicare
+politica naționalã în domeniul comunicațiilor electronice și al
+serviciilor poștale.
+Art. 38. Ñ (1) Conducerea ANRC este asiguratã de un
+președinte și de un vicepreședinte, numiți de primul-ministru pentru o perioadã de 5 ani.
+(2) Președintele și vicepreședintele pot fi revocați de
+cãtre primul-ministru pentru încãlcarea prevederilor prezentei ordonanțe de urgențã sau pentru condamnare penalã
+prin hotãrâre judecãtoreascã definitivã.
+(3) Președintele reprezintã ANRC în raporturile cu
+Parlamentul, Guvernul, ministerele, cu alte autoritãți publice
+și organizații, precum și cu persoane juridice și fizice, din
+țarã și din strãinãtate.
+(4) Președintele ANRC este ordonator de credite.
+(5) În exercitarea atribuțiilor sale președintele emite
+decizii.
+
+9
+
+(6) Deciziile cu caracter normativ se publicã în Monitorul
+Oficial al României, Partea I.
+(7) Deciziile, inclusiv cele adoptate în conformitate cu
+prevederile art. 20 alin. (3) din Ordonanța privind accesul,
+pot fi atacate în contencios administrativ la Curtea de Apel
+București, în termen de 30 de zile de la publicare sau de
+la comunicare, dupã caz, fãrã parcurgerea procedurii
+prealabile prevãzute la art. 5 din Legea contenciosului
+administrativ nr. 29/1990, cu modificãrile ulterioare.
+Art. 39. Ñ (1) În activitatea sa ANRC are obligația de
+a-și exercita atribuțiile în mod transparent și imparțial și de
+a-și menține independența operaționalã și financiarã fațã
+de:
+a) furnizorii de rețele și de servicii de comunicații electronice;
+b) producãtorii ori reprezentanții autorizați ai producãtorilor de echipamente destinate furnizãrii de rețele sau de
+servicii de comunicații electronice, importatorii ori
+distribuitorii de asemenea echipamente;
+c) furnizorii de servicii poștale.
+(2) Salariații ANRC, inclusiv președintele și vicepreședintele acesteia, nu pot deține acțiuni sau pãrți sociale la
+societãțile comerciale cu obiect de activitate în domeniul
+comunicațiilor electronice, al serviciilor poștale, al audiovizualului sau în orice alte domenii care se aflã în competența ANRC și nu pot avea calitatea de membru în
+organele de conducere ale unor asemenea societãți.
+Art. 40. Ñ (1) ANRC are sediul central în municipiul
+București și oficii teritoriale în fiecare municipiu reședințã
+de județ și în fiecare sector al municipiului București.
+(2) Structura organizatoricã a ANRC se aprobã de cãtre
+președinte.
+Art. 41. Ñ (1) Finanțarea cheltuielilor curente și de
+capital ale ANRC se asigurã integral din urmãtoarele surse:
+a) tariful de monitorizare datorat, în conformitate cu prevederile art. 47 și 48, pentru activitatea de supraveghere
+și control al pieței comunicațiilor electronice, desfãșuratã de
+ANRC;
+b) tariful de monitorizare anual, datorat în conformitate
+cu prevederile art. 51 din Ordonanța privind serviciile
+poștale;
+c) tariful de utilizare a resurselor de numerotație, datorat
+în condițiile prevederilor art. 19 alin. (2);
+d) alte venituri ce se pot realiza de ANRC conform
+prevederilor actelor normative în vigoare.
+(2) ANRC poate accepta donații, legate și sponsorizãri,
+în condițiile legii.
+(3) Sumele încasate din sursele prevãzute la alin. (1)
+se rețin integral ca venituri proprii extrabugetare, cu titlu
+permanent, la dispoziția ANRC și vor fi folosite în conformitate cu prevederile bugetului de venituri și cheltuieli,
+aprobat potrivit legii.
+Art. 42. Ñ (1) Bugetul anual de venituri și cheltuieli al
+ANRC se elaboreazã de cãtre aceasta și se aprobã prin
+hotãrâre a Guvernului.
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 457/27.VI.2002
+
+(2) Sumele rãmase neutilizate, stabilite la sfârșitul
+exercițiului bugetar ca diferențã între veniturile încasate și
+cheltuielile efectuate, se reporteazã în anul urmãtor și vor
+fi folosite în conformitate cu prevederile bugetului de venituri și cheltuieli, aprobat potrivit legii.
+Art. 43. Ñ (1) Personalul ANRC este angajat pe bazã
+de concurs organizat în condițiile legii, în conformitate cu
+structura organizatoricã.
+(2) Atribuțiile, sarcinile și rãspunderile individuale ale
+personalului ANRC se stabilesc prin fișa postului, semnatã
+de șeful ierarhic și de titular, pe baza Regulamentului de
+organizare și funcționare a ANRC.
+(3) Angajarea, avansarea, precum și modificarea sau
+încetarea raporturilor de muncã ale personalului din aparatul propriu al ANRC se aprobã prin decizie a președintelui,
+în condițiile legii.
+(4) Salarizarea personalului ANRC, inclusiv a președintelui și a vicepreședintelui acesteia, se realizeazã în conformitate cu dispozițiile legale în vigoare aplicabile
+instituțiilor publice finanțate integral din venituri
+extrabugetare.
+CAPITOLUL VIII
+Obiectivele și atribuțiile ANRC
+Art. 44. Ñ În vederea îndeplinirii rolului sãu, astfel cum
+este definit la art. 37, ANRC îndeplinește urmãtoarele
+funcții:
+a) de punere în aplicare a politicii și strategiei sectoriale
+în domeniul comunicațiilor electronice și al serviciilor
+poștale;
+b) de administrare și de gestionare a resurselor, prin
+care planificã, alocã, urmãrește și evalueazã utilizarea
+acestora pentru punerea în aplicare a politicilor în domeniu;
+c) de alocare a resurselor de numerotație pentru servicii
+de comunicații electronice, prin elaborarea planului național
+de numerotație și a planurilor de perspectivã în acest sens;
+d) de gestionare a resurselor de numerotație la nivel
+național, în vederea utilizãrii raționale și eficiente a
+acestora;
+e) de elaborare și adoptare de norme tehnice, de
+inițiere de standarde naționale, de propunere spre adoptare
+a standardelor internaționale ca standarde naționale și de
+adoptare de reglementãri tehnice care sã declare obligatorie aplicarea standardelor, în domeniul comunicațiilor electronice și al serviciilor poștale, precum și pentru utilizarea
+resurselor de numerotație;
+f) de reglementare a activitãților în domeniul
+comunicațiilor electronice, al serviciilor poștale și al resurselor de numerotație, prin adoptarea și implementarea de
+decizii cu caracter normativ și individual, precum și de proceduri funcționale, operaționale și financiare prin care se
+pun în aplicare politicile în domeniu, de urmãrire și control
+al respectãrii acestora;
+g) de reprezentare în organismele și organizațiile
+naționale, regionale și internaționale, ca autoritate de stat
+
+pentru domeniul comunicațiilor electronice și al serviciilor
+poștale, precum și de comunicare cu acestea;
+h) de comunicare cu celelalte structuri ale administrației
+publice, cu societatea civilã și cu cetãțenii, precum și cu
+furnizorii de rețele și de servicii în domeniul comunicațiilor
+electronice și al serviciilor poștale;
+i) de arbitru și organ de decizie în soluționarea litigiilor
+dintre furnizorii de rețele și de servicii în domeniul comunicațiilor electronice și al serviciilor poștale, în scopul asigurãrii liberei concurențe și al protecției intereselor
+utilizatorilor pe piețele acestor servicii.
+Art. 45. Ñ Obiectivele activitãții ANRC sunt urmãtoarele:
+a) punerea în aplicare a politicii și strategiei sectoriale
+în domeniul comunicațiilor electronice și al serviciilor
+poștale, astfel cum sunt definite de ministerul de
+specialitate;
+b) promovarea concurenței în toate sectoarele piețelor
+de comunicații electronice și servicii poștale;
+c) promovarea transparenței fațã de utilizatori, prin informarea corespunzãtoare a acestora de cãtre furnizorii de
+rețele și de servicii de pe piețele de comunicații electronice
+și servicii poștale, inclusiv cu privire la tarife și la celelalte
+condiții de utilizare a serviciilor;
+d) asigurarea condițiilor de exercitare a dreptului
+cetãțenilor României de a avea acces la serviciul universal, astfel cum acesta este prevãzut de legislația specialã
+în domeniul comunicațiilor electronice și al serviciilor
+poștale;
+e) protecția drepturilor și a intereselor utilizatorilor cu
+privire la serviciile și rețelele de comunicații electronice,
+precum și cu privire la serviciile poștale, inclusiv prin luarea tuturor mãsurilor necesare pentru ca utilizatorii sã
+obținã un maxim de beneficii în condițiile unei piețe concurențiale, în ceea ce privește diversitatea ofertei, tarifele și
+calitatea serviciilor;
+f) promovarea intereselor specifice ale utilizatorilor cu
+handicap și ale celor cu nevoi sociale speciale;
+g) protecția drepturilor persoanelor, în special a dreptului
+la viațã privatã, cu privire la prelucrarea datelor cu caracter
+personal în sectoarele de comunicații electronice și servicii
+poștale;
+h) încurajarea investițiilor eficiente în infrastructurã și
+promovarea inovației în sectoarele de comunicații electronice și servicii poștale;
+i) promovarea integritãții și securitãții rețelelor publice de
+comunicații;
+j) promovarea convergenței media și a neutralitãții
+tehnologice;
+k) promovarea diversitãții lingvistice și culturale, precum
+și a pluralismului media.
+Art. 46. Ñ (1) Pentru atingerea obiectivelor definite la
+art. 45 ANRC are urmãtoarele atribuții:
+1. elaborarea și actualizarea autorizațiilor generale;
+2. supravegherea și controlul respectãrii obligațiilor
+impuse furnizorilor de rețele și de servicii de comunicații
+electronice prin autorizațiile generale;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 457/27.VI.2002
+3. promovarea și sprijinirea armonizãrii la nivel european
+a utilizãrii resurselor de numerotație, în conformitate cu
+instrumentele juridice în vigoare în cadrul Uniunii Europene;
+4. publicarea planului național de numerotație și a
+oricãror modificãri ale acestuia, sub rezerva restricțiilor
+impuse din motive de siguranțã naționalã;
+5. gestionarea la nivel național a resurselor de numerotație;
+6. acordarea licențelor de utilizare a resurselor de
+numerotație, stabilirea și încasarea tarifelor pentru emiterea
+licențelor, în conformitate cu legislația în vigoare și în concordanțã cu costurile administrative aferente emiterii
+acestora;
+7. emiterea reglementãrilor privind modul de utilizare a
+resurselor de numerotație;
+8. identificarea piețelor relevante în sectorul
+comunicațiilor electronice și elaborarea metodologiei pentru
+efectuarea analizelor de piațã, prin elaborarea și actualizarea regulamentelor prevãzute la art. 32;
+9. efectuarea analizelor de piațã în situațiile în care
+acestea sunt obligatorii, potrivit legii;
+10. desemnarea furnizorilor de rețele și de servicii de
+comunicații electronice cu putere semnificativã pe piațã;
+11. impunerea în sarcina furnizorilor de rețele sau de
+servicii de comunicații electronice cu putere semnificativã
+pe piațã a obligațiilor prevãzute la art. 9Ñ14 din
+Ordonanța privind accesul;
+12. gestionarea mecanismelor de finanțare a obligațiilor
+legate de asigurarea serviciului universal, prevãzute de
+legislația specialã;
+13. controlul îndeplinirii obligațiilor impuse furnizorilor de
+serviciu universal în temeiul prevederilor legislației speciale;
+14. atribuțiile care revin autoritãții de reglementare în
+temeiul prevederilor Legii nr. 676/2001 privind prelucrarea
+datelor cu caracter personal și protecția vieții private în
+sectorul telecomunicațiilor;
+15. atribuțiile care revin autoritãții de reglementare în
+temeiul prevederilor Ordonanței privind serviciile poștale, cu
+excepția prevederilor art. 5, 6, 7 și 12 din aceeași ordonanțã;
+16. elaborarea reglementãrilor necesare în vederea asigurãrii protecției mediului în domeniul comunicațiilor electronice și al serviciilor poștale;
+17. elaborarea și adoptarea de norme tehnice, inițierea
+de standarde naționale în acord cu cerințele naționale și cu
+standardele internaționale în domeniu, propunerea spre
+adoptare a standardelor internaționale ca standarde
+naționale și adoptarea de reglementãri tehnice care sã
+declare obligatorie aplicarea standardelor pe întregul teritoriu național, pe plan zonal sau pe plan local, în domeniul
+comunicațiilor electronice și al serviciilor poștale, precum și
+pentru utilizarea resurselor de numerotație;
+18. asigurarea reprezentãrii în instituții și în organizații
+internaționale din domeniul comunicațiilor electronice și al
+serviciilor poștale, susținând în cadrul acestora politica și
+strategia naționalã în domeniu;
+
+11
+
+19. colaborarea cu instituții și organizații naționale și
+internaționale din domeniul comunicațiilor electronice și al
+serviciilor poștale, dezvoltarea și stimularea relațiilor cu
+acestea; cooperarea cu autoritãți de reglementare în domeniul comunicațiilor electronice și al serviciilor poștale din
+strãinãtate, inclusiv prin încheierea de acorduri de colaborare și schimb de informații;
+20. aplicarea acordurilor internaționale în domeniul
+comunicațiilor electronice și al serviciilor poștale;
+21. colaborarea cu ministerul de specialitate în toate
+domeniile în care expertiza ANRC este necesarã sau utilã;
+22. înaintarea cãtre ministerul de specialitate de propuneri privind cadrul legislativ pentru stimularea dezvoltãrii
+sectoarelor de comunicații electronice și servicii poștale;
+23. prognozarea, planificarea și programarea în proiectul
+de buget propriu a resurselor financiare necesare în vederea realizãrii politicilor în domeniul sãu de competențã;
+24. coordonarea derulãrii programelor de asistențã financiarã de la Uniunea Europeanã în domeniul comunicațiilor
+electronice și al serviciilor poștale, care vizeazã capacitatea instituționalã a ANRC;
+25. elaborarea și publicarea de rapoarte, studii, analize
+și altele asemenea în domeniul comunicațiilor electronice și
+al serviciilor poștale, în special pentru evaluarea necesitãții
+și oportunitãții emiterii de noi reglementãri, pentru evaluarea și controlul implementãrii politicilor și reglementãrilor,
+precum și al conducerii programelor și proiectelor, organizarea de seminarii și mese rotunde, acțiuni promoționale
+de imagine, informare și de conștientizare a publicului,
+putând contracta în aceste scopuri servicii de consultanțã,
+expertizã, asistențã tehnicã și altele asemenea, în conformitate cu reglementãrile legale în vigoare;
+26. urmãrirea și controlul aplicãrii prevederilor cuprinse
+în actele normative în vigoare, în acordurile internaționale
+în domeniul comunicațiilor electronice și al serviciilor
+poștale, luând mãsuri pentru prevenirea, înlãturarea și
+sancționarea nerespectãrii acestor prevederi, potrivit competenței recunoscute de acestea;
+27. alte atribuții acordate prin dispoziții legale speciale.
+(2) ANRC poate încheia contracte cu persoane juridice
+de drept public sau de drept privat, având ca obiect efectuarea unor activitãți specifice, necesare îndeplinirii
+atribuțiilor prevãzute la alin. (1).
+Art. 47. Ñ (1) Furnizorii de rețele și de servicii de
+comunicații electronice autorizați în condițiile prezentei ordonanțe de urgențã datoreazã ANRC un tarif de monitorizare
+anual, calculat ca un procent din cifra de afaceri a fiecãrui
+furnizor.
+(2) Procentul prevãzut la alin. (1) este egal pentru toți
+furnizorii de rețele și de servicii de comunicații electronice
+și se determinã anual, fãrã a depãși 0,5%, ca raport între:
+a) cheltuielile estimate pe anul în curs, prevãzute în
+bugetul aprobat potrivit art. 42, din care se scad veniturile
+estimate a se realiza din alte surse, prevãzute în bugetul
+aprobat; și
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 457/27.VI.2002
+
+b) cifra de afaceri cumulatã, corespunzãtoare anului
+anterior, a tuturor furnizorilor de rețele și de servicii de
+comunicații electronice autorizați în condițiile art. 4.
+(3) Tariful de monitorizare datorat de fiecare furnizor de
+rețele sau de servicii de comunicații electronice se stabilește prin decizie a președintelui ANRC, ca produs între:
+a) procentul determinat potrivit prevederilor alin. (2); și
+b) cifra de afaceri a
+corespunzãtoare anului anterior.
+
+furnizorului
+
+respectiv,
+
+(4) Decizia prin care se stabilește tariful de monitorizare
+datorat pentru un an se comunicã în scris fiecãrui furnizor,
+pânã la data de 15 mai a anului respectiv, prin serviciul
+de trimitere recomandatã cu confirmare de primire.
+(5) Tariful de monitorizare datorat trebuie achitat în
+douã tranșe egale, prima în cel mult 45 de zile de la data
+comunicãrii deciziei prevãzute la alin. (4), iar cea de-a
+doua pânã la data de 31 decembrie a anului respectiv.
+(6) În scopul aplicãrii prevederilor prezentului capitol
+cifra de afaceri este suma veniturilor realizate din vânzãrile
+de produse sau din prestãrile de servicii efectuate de
+agentul economic în cursul unui exercițiu financiar.
+(7) În vederea determinãrii cifrei de afaceri furnizorii de
+rețele și de servicii de comunicații electronice au obligația
+de a transmite ANRC un exemplar al situațiilor financiare
+anuale, o datã cu depunerea acestora la direcția generalã
+a finanțelor publice județene, respectiv a municipiului
+București, în termenul prevãzut de lege.
+(8) Sunt exceptate de la plata tarifului de monitorizare
+anual persoanele autorizate în condițiile art. 4, care furnizeazã exclusiv pentru nevoi proprii rețele și servicii de
+comunicații electronice ce utilizeazã frecvențe radioelectrice.
+Art. 48. Ñ (1) La încetarea activitãții în domeniul comunicațiilor electronice, indiferent de forma acestei încetãri,
+orice furnizor de rețele sau de servicii de comunicații
+electronice autorizat potrivit art. 4, cu excepția celor
+prevãzuți la art. 47 alin. (8), are obligația de a achita un
+tarif de monitorizare corespunzãtor, stabilit astfel:
+a) în cazul în care încetarea activitãții se produce
+înainte de stabilirea tarifului de monitorizare anual, în
+condițiile art. 47, furnizorul datoreazã un tarif de monitorizare ce reprezintã produsul dintre procentul stabilit de
+ANRC în condițiile art. 47 alin. (2) pentru anul anterior și
+cifra de afaceri cumulatã a anului anterior și a anului în
+curs a furnizorului respectiv;
+b) în cazul în care încetarea activitãții se produce dupã
+stabilirea tarifului de monitorizare anual, în condițiile art. 47,
+pe lângã acest tarif furnizorul datoreazã și un tarif suplimentar, calculat ca produs între procentul stabilit de ANRC
+în condițiile art. 47 alin. (2) pentru anul în curs și cifra de
+afaceri a furnizorului pe anul în curs.
+(2) Tariful de monitorizare prevãzut la alin. (1) trebuie
+achitat la data determinãrii, în condițiile legii, a cifrei de
+afaceri.
+
+CAPITOLUL IX
+Consultare, transparențã și informare
+Art. 49. Ñ (1) ANRC are obligația de a crea, de a
+menține, de a dezvolta și de a actualiza permanent o
+paginã de Internet proprie, prin intermediul cãreia sã se
+asigure informarea publicului cu privire la:
+a) organizarea, funcționarea, obiectivele și atribuțiile
+ANRC, precum și atribuțiile fiecãrei structuri interne a
+ANRC;
+b) datele necesare pentru a asigura comunicarea eficientã cu structurile interne ale ANRC;
+c) legislația naționalã și internaționalã aplicabilã în
+domeniul comunicațiilor electronice și al serviciilor poștale;
+d) deciziile emise de președintele ANRC care privesc
+furnizorii de rețele și de servicii de comunicații electronice,
+precum și furnizorii de servicii poștale;
+e) cãile legale de atac împotriva deciziilor președintelui
+ANRC;
+f) documentele a cãror publicare este obligatorie în
+cadrul consultãrilor lansate în condițiile art. 50;
+g) bugetul de venituri și cheltuieli al ANRC;
+h) autoritãțile cu atribuții similare din alte state;
+i) orice alte informații utile informãrii publicului, care au
+legãturã cu activitatea ANRC.
+(2) ANRC va depune toate diligențele necesare pentru
+a asigura cã informațiile publicate pe pagina de Internet
+proprie sunt disponibile și în cel puțin o limbã de circulație
+internaționalã.
+Art. 50. Ñ (1) ANRC are obligația de a respecta procedura de consultare stabilitã prin prezentul articol ori de
+câte ori intenționeazã sã adopte mãsuri de naturã sã producã un impact semnificativ pe piața relevantã, în aplicarea
+prevederilor prezentei ordonanțe de urgențã ori a legislației
+speciale în domeniul comunicațiilor electronice sau al serviciilor poștale.
+(2) ANRC are obligația de a publica textul supus consultãrii pe pagina de Internet proprie, precizând totodatã și:
+data publicãrii documentului, data la care expirã termenul
+de depunere a observațiilor și data estimativã la care
+intenționeazã sã adopte mãsura care face obiectul consultãrii. Toate persoanele interesate care au solicitat înscrierea adresei lor de poștã electronicã pe lista de
+corespondențã special constituitã a ANRC vor fi informate
+cu privire la lansarea consultãrii cel mai târziu la data
+publicãrii documentului.
+(3) Din momentul în care textul supus consultãrii este
+publicat pe pagina de Internet, ANRC va acorda un termen
+de cel puțin 30 de zile pentru depunerea de observații, în
+scris, de cãtre orice persoanã interesatã. În situațiile în
+care mãsurile trebuie adoptate în regim de urgențã, acest
+termen poate fi mai scurt de 30 de zile, însã nu mai scurt
+de 10 zile.
+(4) Mãsura supusã consultãrii nu poate fi adoptatã
+înainte de expirarea unui termen de 10 zile de la data
+expirãrii termenului de depunere a observațiilor. Cel mai
+târziu la data publicãrii pe pagina de Internet a deciziei
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 457/27.VI.2002
+prin care se adoptã mãsura ANRC are obligația de a
+publica și un material de sintezã a observațiilor primite,
+care va preciza și poziția sa fațã de aceste observații.
+CAPITOLUL X
+Supraveghere și control
+Art. 51. Ñ (1) ANRC sau IGCTI, dupã caz, are dreptul
+sã solicite, motivat, oricãrui furnizor de servicii sau de
+rețele de comunicații electronice ori de servicii poștale
+toate informațiile necesare pentru verificarea respectãrii
+obligațiilor prevãzute în autorizațiile generale, în celelalte
+decizii ale președintelui ANRC, în licențe sau în legislația
+specialã în domeniul comunicațiilor electronice sau al serviciilor poștale.
+(2) Cantitatea și natura informațiilor trebuie sã fie proporționale cu scopul pentru care au fost solicitate.
+(3) Furnizorul are obligația de a pune la dispoziție
+informațiile în termenul și în condițiile indicate de
+autoritãțile prevãzute la alin. (1).
+Art. 52. Ñ ANRC coopereazã cu autoritãți de reglementare în domeniul comunicațiilor electronice și al serviciilor
+poștale din strãinãtate, inclusiv pe baza unor acorduri de
+colaborare și schimb de informații, în vederea îndeplinirii
+atribuțiilor care îi revin în temeiul prezentei ordonanțe de
+urgențã și al legislației speciale în domeniul comunicațiilor
+electronice și al serviciilor poștale, precum și pentru a facilita exercitarea de cãtre aceste autoritãți a atribuțiilor ce le
+revin în temeiul legislației naționale aplicabile.
+Art. 53. Ñ (1) Controlul respectãrii prevederilor prezentei ordonanțe de urgențã și ale legislației speciale în domeniul comunicațiilor electronice și al serviciilor poștale,
+precum și al respectãrii obligațiilor impuse prin autorizația
+generalã și prin licențe, cu excepția controlului îndeplinirii
+obligațiilor privind utilizarea frecvențelor radioelectrice,
+revine ANRC, care acționeazã prin personalul de control
+de specialitate împuternicit în acest scop.
+(2) Controlul îndeplinirii obligațiilor privind utilizarea frecvențelor radioelectrice revine IGCTI, care acționeazã prin
+personalul de control de specialitate împuternicit în acest
+scop și potrivit procedurii stabilite prin prevederile legale
+care reglementeazã activitatea acestei instituții, acolo unde
+prezenta ordonanțã de urgențã nu prevede altfel.
+Art. 54. Ñ (1) În exercitarea atribuțiilor de control personalul împuternicit în acest scop al ANRC și al IGCTI are
+dreptul sã solicite furnizorilor de rețele sau de servicii de
+comunicații electronice, precum și furnizorilor de servicii
+poștale orice informații care îi sunt necesare, menționând
+temeiul legal și scopul solicitãrii, și poate stabili termene
+pânã la care aceste informații sã îi fie furnizate, sub
+sancțiunea prevãzutã la art. 56 alin. (1) lit. a) din prezenta
+ordonanțã de urgențã sau la art. 60 alin. (1) lit. a) din
+Ordonanța privind serviciile poștale.
+(2) Personalul de control împuternicit în acest scop al
+ANRC și al IGCTI are dreptul sã solicite declarații sau
+orice documente necesare pentru efectuarea controlului, sã
+ridice copii de pe orice registre, acte financiar-contabile și
+
+13
+
+comerciale ori alte acte; de asemenea, poate sã facã
+inspecții, inclusiv inopinate, la orice instalații, incinte,
+terenuri sau infrastructuri utilizate de furnizor în activitatea
+sa, al cãror rezultat va fi consemnat într-un proces-verbal
+de constatare, și sã primeascã, la convocare sau la fața
+locului, informații și justificãri.
+(3) De asemenea, personalul de control împuternicit în
+acest scop al ANRC și al IGCTI are dreptul sã efectueze
+percheziții, pe baza autorizãrii judiciare acordate prin ordonanțã președințialã de cãtre președintele tribunalului
+județean sau, dupã caz, al municipiului București, în a
+cãrui circumscripție sunt situate locurile de controlat, ori de
+cãtre un judecãtor delegat de acesta. Cererea de ordonanțã președințialã trebuie sã cuprindã toate informațiile de
+naturã sã justifice percheziția și se judecã fãrã citarea
+pãrților, în termen de cel mult 3 zile.
+(4) Percheziția și actele pe care le cuprinde se efectueazã sub autoritatea și sub controlul judecãtorului care
+le-a autorizat, el desemnând unul sau mai mulți ofițeri de
+poliție judiciarã însãrcinați sã asiste la aceste operațiuni și
+sã îl informeze asupra derulãrii lor. Dacã unele acte trebuie efectuate în afara circumscripției tribunalului, președintele emitent al ordonanței dispune comisie rogatorie pentru
+exercitarea controlului de cãtre președintele tribunalului în
+a cãrui circumscripție trebuie efectuate respectivele acte.
+Judecãtorul poate inspecta locurile supuse intervenției,
+putând decide în orice moment suspendarea sau încetarea
+percheziției.
+(5) Oricare ar fi împrejurãrile, percheziția nu poate
+începe înainte de ora 6,00 sau dupã ora 20,00 și trebuie
+efectuatã în prezența ocupantului locului, iar în lipsa acestuia, în prezența unui reprezentant, a unui membru al familiei sau a unui vecin, având capacitate deplinã de exercițiu;
+numai personalul de control împuternicit în acest scop al
+ANRC și al IGCTI, ocupantul locului sau reprezentantul sãu
+și ofițerii de poliție judiciarã pot lua cunoștințã de piese și
+documente înaintea ridicãrii acestora.
+(6) Inventarele și aplicarea sigiliilor se fac conform dispozițiilor Codului de procedurã penalã; originalele procesului-verbal și ale inventarului sunt transmise judecãtorului
+care a ordonat percheziția, iar piesele și documentele care
+nu mai sunt utile stabilirii adevãrului vor fi restituite ocupantului locului.
+(7) Ordonanța poate fi atacatã cu recurs la Curtea de
+Apel București. Recursul nu este suspensiv de executare.
+(8) Președintele ANRC sau, dupã caz, directorul general
+al IGCTI este informat fãrã întârziere despre începerea
+percheziției și despre operațiunile efectuate.
+CAPITOLUL XI
+Regim sancționator
+Art. 55. Ñ (1) Urmãtoarele fapte constituie contravenții:
+a) furnizarea rețelelor sau a serviciilor de comunicații
+electronice de cãtre o persoanã care nu este autorizatã în
+condițiile art. 4 pentru acel tip de activitate ori pe perioada
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 457/27.VI.2002
+
+în care dreptul de furnizare a rețelelor sau a serviciilor de
+comunicații electronice a fost suspendat sau retras;
+b) nerespectarea condițiilor prevãzute în autorizația
+generalã, în condițiile art. 5;
+c) utilizarea frecvențelor radioelectrice fãrã obținerea
+licenței de utilizare necesare, potrivit prevederilor cap. III;
+d) utilizarea resurselor de numerotație fãrã obținerea
+licenței de utilizare necesare, potrivit prevederilor cap. III;
+e) nerespectarea condițiilor prevãzute în licențele de utilizare a frecvențelor radioelectrice, acordate în condițiile
+cap. III;
+f) nerespectarea condițiilor prevãzute în licențele de utilizare a resurselor de numerotație, acordate în condițiile
+cap. III;
+g) nerespectarea obligației impuse de ANRC în temeiul
+art. 25 alin. (1) sau a condițiilor stabilite de aceasta în
+temeiul art. 25 alin. (2);
+h) nerespectarea obligațiilor prevãzute la art. 35;
+i) nerespectarea reglementãrilor sau a normelor tehnice
+adoptate pe baza prezentei ordonanțe de urgențã.
+(2) Contravențiile prevãzute la alin. (1) se sancționeazã
+cu amendã de la 50.000.000 lei la 1.000.000.000 lei, iar
+pentru societãțile comerciale cu o cifrã de afaceri de peste
+20.000.000.000 lei, prin derogare de la dispozițiile
+Ordonanței Guvernului nr. 2/2001 privind regimul juridic al
+contravențiilor, aprobatã cu modificãri și completãri prin
+Legea nr. 180/2002, cu amendã în cuantum de pânã la
+5% din cifra de afaceri.
+(3) Cuantumul amenzilor prevãzute la alin. (2) poate fi
+actualizat prin hotãrâre a Guvernului, în funcție de evoluția
+indicelui inflației.
+Art. 56. Ñ (1) ANRC sau IGCTI, dupã caz, poate
+obliga furnizorii de rețele sau de servicii de comunicații
+electronice la plata unor amenzi administrative în cuantum
+de pânã la 300.000.000 lei pentru fiecare zi de întârziere,
+stabilind totodatã și data de la care acestea se calculeazã,
+pentru a-i determina:
+a) sã furnizeze în mod complet și corect informațiile
+care le-au fost cerute conform prevederilor art. 51 ori ale
+art. 54 alin. (1) sau orice alte informații cerute de ANRC
+ori de IGCTI în aplicarea prevederilor prezentei ordonanțe
+de urgențã;
+b) sã se supunã controlului prevãzut la art. 53 și 54;
+c) sã se conformeze mãsurilor dispuse de ANRC în
+aplicarea prevederilor prezentei ordonanțe de urgențã.
+(2) Valoarea maximã a amenzii administrative prevãzute
+la alin. (1) poate fi actualizatã prin hotãrâre a Guvernului,
+în funcție de evoluția indicelui inflației.
+(3) Prin derogare de la prevederile art. 2 din Ordonanța
+de urgențã a Guvernului nr. 30/2002 pentru modificarea
+unor anexe la Legea bugetului de stat pe anul 2002
+nr. 743/2001, precum și ale unor alte acte normative,
+sumele rezultate din încasarea amenzilor prevãzute la
+alin. (1) se rețin integral ca venituri proprii extrabugetare,
+cu titlu permanent, la dispoziția ANRC sau a IGCTI, dupã
+caz, și vor fi folosite în conformitate cu prevederile bugetului de venituri și cheltuieli, aprobat potrivit legii.
+
+Art. 57. Ñ (1) Pentru neplata la termen a tarifului de
+monitorizare stabilit de ANRC potrivit art. 47 și 48 sau a
+tarifului de utilizare a spectrului ori a tarifului de utilizare a
+resurselor de numerotație, stabilite potrivit art. 19, se aplicã
+penalitãți pentru fiecare zi de întârziere, calculate în conformitate cu dispozițiile legale aplicabile majorãrilor de
+întârziere pentru creanțele bugetare.
+(2) Dacã în termen de 90 de zile de la data scadenței
+furnizorul nu achitã tariful și penalitãțile datorate, ANRC
+sau ministerul de specialitate, dupã caz, îi poate suspenda
+sau retrage dreptul de a mai furniza rețele ori servicii de
+comunicații electronice pe baza autorizației generale sau
+licența de utilizare a frecvențelor radioelectrice ori a resurselor de numerotație.
+Art. 58. Ñ (1) Constatarea contravențiilor prevãzute la
+art. 55 alin. (1) lit. a), b), d), f), g) și h) se face de cãtre
+personalul de control prevãzut la art. 53 alin. (1).
+(2) Constatarea contravențiilor prevãzute la art. 55
+alin. (1) lit. c) și e) se face de cãtre personalul de control
+prevãzut la art. 53 alin. (2).
+(3) Constatarea contravenției prevãzute la art. 55
+alin. (1) lit. i) se face de cãtre personalul de control
+prevãzut la art. 53 alin. (1) sau (2), dupã caz.
+(4) Sancțiunile pentru faptele prevãzute la art. 55
+alin. (1) lit. a), b), d), f), g) și h) se aplicã, prin rezoluție
+scrisã, de cãtre președintele ANRC.
+(5) Sancțiunile pentru faptele prevãzute la art. 55
+alin. (1) lit. c) și e) se aplicã, prin rezoluție scrisã, de cãtre
+directorul general al IGCTI.
+(6) Sancțiunea pentru fapta prevãzutã la art. 55 alin. (1)
+lit. i) se aplicã, prin rezoluție scrisã, de cãtre președintele
+ANRC sau de cãtre directorul general al IGCTI, dupã caz.
+(7) Amenzile administrative prevãzute la art. 56 se
+aplicã de cãtre președintele ANRC sau de cãtre directorul
+general al IGCTI, dupã caz.
+(8) Sancțiunile prevãzute la art. 57 se aplicã de cãtre
+președintele ANRC sau de cãtre conducãtorul ministerului
+de specialitate.
+(9) Actul prin care se aplicã sancțiunile prevãzute la
+art. 56 și 57 constituie titlu executoriu, fãrã vreo altã
+formalitate.
+(10) În mãsura în care prin prezenta ordonanțã de
+urgențã nu se prevede altfel, contravențiilor prevãzute la
+art. 55 li se aplicã prevederile Ordonanței Guvernului
+nr. 2/2001, aprobatã cu modificãri și completãri prin Legea
+nr. 180/2002, cu excepția prevederilor art. 28.
+Art. 59. Ñ (1) În cazul descoperirii nerespectãrii de
+cãtre un furnizor de rețele sau de servicii de comunicații
+electronice a unei obligații prevãzute în autorizații sau în
+licențe, în prezenta ordonanțã de urgențã sau în legislația
+specialã în domeniul comunicațiilor electronice, ANRC sau
+IGCTI, dupã caz, va transmite furnizorului în cauzã o notificare prin care îi va aduce la cunoștințã intenția aplicãrii
+sancțiunii prevãzute de lege și îi va acorda un termen de
+cel puțin 30 de zile pentru a justifica sau pentru a remedia
+încãlcarea sãvârșitã.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 457/27.VI.2002
+(2) Termenul de 30 de zile poate fi redus în urmãtoarele cazuri:
+a) cu acordul furnizorului;
+b) în cazul în care furnizorul a mai încãlcat una sau
+mai multe dintre obligațiile prevãzute la alin. (1);
+c) în cazul în care nerespectarea obligațiilor prevãzute
+la alin. (1) aduce grave prejudicii interesului public.
+(3) În cazul în care furnizorul nu remediazã încãlcarea
+în termenul prevãzut la alin. (1) sau (2), iar justificarea
+prezentatã nu este satisfãcãtoare, ANRC sau IGCTI, dupã
+caz, va aplica sancțiunea corespunzãtoare și va dispune
+toate mãsurile necesare în vederea asigurãrii respectãrii
+obligației încãlcate. Mãsurile trebuie sã fie proporționale cu
+scopul urmãrit și vor prevedea o perioadã rezonabilã în
+care furnizorul trebuie sã se conformeze acestora.
+(4) În cazul unor încãlcãri grave și repetate, dacã furnizorul în cauzã nu s-a conformat mãsurilor dispuse în conformitate cu prevederile alin. (3):
+a) ANRC poate suspenda sau retrage furnizorului în
+cauzã dreptul de a mai furniza rețele sau servicii de comunicații electronice pe baza autorizației generale sau licența
+de utilizare a resurselor de numerotație, dupã caz;
+b) ministerul de specialitate poate suspenda ori retrage
+furnizorului în cauzã licența de utilizare a frecvențelor
+radioelectrice.
+(5) La propunerea motivatã a autoritãților competente,
+prin care se aratã cã încãlcarea obligațiilor prevãzute la
+alin. (1) de cãtre un furnizor prezintã un pericol grav și
+iminent pentru siguranța naționalã, ordinea publicã,
+sãnãtatea publicã sau pentru drepturile și libertãțile
+cetãțenilor ori amenințã sã creeze probleme grave de
+naturã economicã sau operaționalã altor furnizori de rețele
+sau de servicii de comunicații electronice ori utilizatorilor,
+ANRC sau IGCTI, dupã caz, poate lua mãsuri urgente cu
+caracter provizoriu de înlãturare a pericolului, care pot fi
+ulterior confirmate. Furnizorului în cauzã trebuie sã i se
+acorde posibilitatea de a-și prezenta punctul de vedere, în
+condiții rezonabile, și de a propune soluții pentru remedierea situației create.
+Art. 60. Ñ Orice persoanã care utilizeazã sau divulgã,
+în alte scopuri decât cele prevãzute de prezenta ordonanțã
+de urgențã, documente sau informații cu caracter de secret
+profesional, primite ori de care a luat cunoștințã în îndeplinirea atribuțiilor de serviciu sau în legãturã cu serviciul,
+rãspunde potrivit legii penale, putând fi obligatã și la repararea prejudiciului cauzat.
+CAPITOLUL XII
+Dispoziții tranzitorii și finale
+Art. 61. Ñ (1) Pânã la data de 31 decembrie 2002
+Societatea Naționalã de Telecomunicații ”Romtelecom,, Ñ
+S.A. beneficiazã de:
+a) dreptul exclusiv de a furniza, contra cost, servicii de
+telefonie vocalã fixã destinate publicului, servicii de telegrafie și telex, locale, interurbane și internaționale;
+
+15
+
+b) dreptul exclusiv de a furniza linii de cablu închiriate,
+în vederea asigurãrii capacitãții de transmisie între punctele
+terminale ale rețelei fixe operate de Societatea Naționalã
+de Telecomunicații ”Romtelecom,, Ñ S.A. pe baza licenței
+acordate în temeiul prevederilor Legii telecomunicațiilor
+nr. 74/1996, cu modificãrile ulterioare.
+(2) Pânã la aceeași datã Societatea Naționalã de
+Radiocomunicații Ñ S.A. beneficiazã de dreptul exclusiv de
+a furniza linii de radio închiriate cu capacitate mai mare
+de 2 MBits/s.
+Art. 62. Ñ (1) Licențele și autorizațiile eliberate în temeiul prevederilor Legii telecomunicațiilor nr. 74/1996, cu
+modificãrile ulterioare, își pãstreazã valabilitatea pânã la
+data de 31 decembrie 2002, cu excepția cazurilor în care
+actele respective prevãd un termen mai scurt.
+(2) Pânã la expirarea duratei de valabilitate, stabilitã
+conform prevederilor alin. (1), titularii de licențe și de autorizații sunt obligați sã transmitã ANRC notificarea prevãzutã
+la art. 4, în vederea continuãrii activitãții pe baza autorizației generale. La data efectuãrii notificãrii licența sau
+autorizația își înceteazã valabilitatea, cu excepția prevederilor referitoare la drepturile de utilizare a frecvențelor radioelectrice și a resurselor de numerotație.
+(3) Pânã la expirarea duratei de valabilitate, stabilitã
+conform prevederilor alin. (1), ministerul de specialitate va
+revizui toate licențele prin care s-au acordat drepturi de utilizare a frecvențelor radioelectrice, pentru a asigura respectarea prevederilor cap. III.
+(4) Pânã la expirarea duratei de valabilitate, stabilitã
+conform prevederilor alin. (1), ANRC va emite licențele de
+utilizare a resurselor de numerotație, în condițiile cap. III,
+furnizorilor de rețele și de servicii care au beneficiat de
+drepturi de utilizare a acestor resurse în temeiul prevederilor Legii telecomunicațiilor nr. 74/1996, cu modificãrile ulterioare.
+Art. 63. Ñ În scopul finanțãrii activitãții pe primele
+12 luni de funcționare, ANRC va beneficia de un credit din
+partea IGCTI, în valoare de 4.000.000 euro, pe termen de
+5 ani, cu perioadã de grație de 1 an de la data încheierii
+contractului, fãrã dobândã, plãtibil în lei la cursul Bãncii
+Naționale a României din ziua plãții. Celelalte condiții se
+vor stabili prin contract, care se va încheia în termen de
+15 zile de la data publicãrii prezentei ordonanțe de urgențã
+în Monitorul Oficial al României, Partea I.
+Art. 64. Ñ Consiliile județene și consiliile locale ale sectoarelor municipiului București pot asigura, contra cost,
+spațiile necesare pentru desfãșurarea activitãții oficiilor teritoriale ale ANRC.
+Art. 65. Ñ Pe data intrãrii în vigoare a prezentei ordonanțe de urgențã se abrogã Legea telecomunicațiilor
+nr. 74/1996, publicatã în Monitorul Oficial al României,
+Partea I, nr. 156 din 22 iulie 1996, cu modificãrile ulterioare, precum și orice alte dispoziții contrare.
+Art. 66. Ñ Pe data intrãrii în vigoare a prezentei ordonanțe de urgențã:
+a) articolul 22 din Ordonanța Guvernului nr. 34/2002 privind accesul la rețelele de comunicații electronice și la
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 457/27.VI.2002
+
+infrastructura asociatã, precum și interconectarea acestora,
+publicatã în Monitorul Oficial al României, Partea I, nr. 88
+din 2 februarie 2002, se modificã și va avea urmãtorul
+cuprins:
+”Art. 22. Ñ Autoritatea de reglementare în sensul prezentei ordonanțe este Autoritatea Naționalã de
+Reglementare în Comunicații.,,;
+b) punctul 10 al articolului 2 din Legea nr. 676/2001 privind prelucrarea datelor cu caracter personal și protecția
+vieții private în sectorul telecomunicațiilor, publicatã în
+Monitorul Oficial al României, Partea I, nr. 800 din
+14 decembrie 2001, se modificã și va avea urmãtorul
+cuprins:
+”10. autoritatea de reglementare Ñ Autoritatea Naționalã
+de Reglementare în Comunicații,,;
+c) alineatul (2) al articolului 49 din Ordonanța
+Guvernului nr. 31/2002 privind serviciile poștale, publicatã
+în Monitorul Oficial al României, Partea I, nr. 87 din
+1 februarie 2002, se modificã și va avea urmãtorul cuprins:
+”(2) Pentru scopurile aplicãrii prezentei ordonanțe
+atribuțiile autoritãții de reglementare sunt îndeplinite de
+Autoritatea Naționalã de Reglementare în Comunicații, cu
+excepția atribuțiilor prevãzute la art. 5, 6, 7 și 12, care
+
+sunt îndeplinite de Ministerul Comunicațiilor și Tehnologiei
+Informației.,,;
+d) Hotãrârea Guvernului nr. 20/2001 privind organizarea și funcționarea Ministerului Comunicațiilor și Tehnologiei
+Informației, publicatã în Monitorul Oficial al României,
+Partea I, nr. 16 din 10 ianuarie 2001, cu modificãrile ulterioare, se modificã în mod corespunzãtor.
+Art. 67. Ñ (1) Prezenta ordonanțã de urgențã intrã în
+vigoare la 90 de zile de la data publicãrii ei în Monitorul
+Oficial al României, Partea I, cu excepția prevederilor
+art. 37Ñ40, art. 42, 43, 63 și 64, care intrã în vigoare la
+data publicãrii în Monitorul Oficial al României, Partea I.
+(2) În termenul prevãzut la alin. (1) Guvernul va adopta
+o hotãrâre privind aprobarea Regulamentului de organizare
+și funcționare a ANRC.
+(3) Pânã la expirarea termenului prevãzut la alin. (1)
+ANRC va angaja personalul necesar în scopul exercitãrii
+efective și depline a atribuțiilor prevãzute în prezenta ordonanțã de urgențã.
+(4) Pânã la expirarea termenului prevãzut la alin. (1)
+atribuțiile prevãzute în sarcina ANRC prin prezenta ordonanțã de urgențã vor fi îndeplinite în continuare de autoritãțile competente, potrivit reglementãrilor în vigoare.
+
+PRIM-MINISTRU
+
+ADRIAN NÃSTASE
+Contrasemneazã:
+p. Ministrul comunicațiilor și tehnologiei informației,
+Ion Smeeianu,
+secretar de stat
+Ministrul integrãrii europene,
+Hildegard Carola Puwak
+p. Ministrul apãrãrii naționale,
+George Cristian Maior
+Ministrul finanțelor publice,
+Mihai Nicolae Tãnãsescu
+București, 13 iunie 2002.
+Nr. 79.
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 5069427282 Trezoreria sector 5, București (alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 411.97.54, tel./fax 410.77.36.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: ramomrk@bx.logicnet.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 457/27.VI.2002 conține 16 pagini.
+
+Prețul de vânzare 9.500 lei
+
+ISSN 1453Ñ4495
+
+

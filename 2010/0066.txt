@@ -1,0 +1,1793 @@
+PARTEA I
+
+Anul 178 (XXII) — Nr. 66
+
+Vineri, 29 ianuarie 2010
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+SUMAR
+
+Nr.
+
+Pagina
+ORDONANȚE ALE GUVERNULUI ROMÂNIEI
+
+4.
+
+— Ordonanță privind instituirea Infrastructurii naționale
+pentru informații spațiale în România ........................
+
+2–12
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+33.
+
+— Ordin al ministrului afacerilor externe privind
+intrarea în vigoare a unor tratate internaționale ........
+
+13
+
+ACTE ALE CURȚII EUROPENE
+A DREPTURILOR OMULUI
+Hotărârea din 28 iulie 2009 în Cauza Colceru împotriva
+României ....................................................................
+
+14–16
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 66/29.I.2010
+
+ORDONANȚE ALE GUVERNULUI ROMÂNIEI
+GUVERNUL ROMÂNIEI
+
+ORDONANȚĂ
+privind instituirea Infrastructurii naționale pentru informații spațiale în România
+În temeiul art. 108 din Constituția României, republicată, și al art. 1 pct. V din Legea nr. 9/2010 privind abilitarea Guvernului
+de a emite ordonanțe,
+Guvernul României adoptă prezenta ordonanță.
+CAPITOLUL I
+Dispoziții generale
+Art. 1. — (1) Prezenta ordonanță stabilește cadrul general
+pentru instituirea Infrastructurii naționale pentru informații
+spațiale în România, denumită în continuare INIS, prin care
+România contribuie la realizarea Infrastructurii pentru informații
+spațiale în Comunitatea Europeană — INSPIRE, prevăzută de
+Directiva 2007/2/CE a Parlamentului European și a Consiliului
+din 14 martie 2007 de instituire a unei infrastructuri pentru
+informații spațiale în Comunitatea Europeană (INSPIRE),
+denumită în continuare Directiva INSPIRE, inclusiv în scopul
+realizării politicilor comunitare din domeniul protecției mediului și
+al politicilor sau activităților care pot avea un impact asupra
+mediului.
+(2) Pentru realizarea și actualizarea INIS se constituie
+Consiliul Infrastructurii naționale pentru informații spațiale în
+România (Consiliul INIS), structură de coordonare, fără
+personalitate juridică, alcătuită din reprezentanți ai:
+a) Ministerului Administrației și Internelor;
+b) Ministerului Mediului și Pădurilor;
+c) Ministerului Apărării Naționale;
+d) Ministerului Finanțelor Publice;
+e) Ministerului Agriculturii și Dezvoltării Rurale;
+f) Ministerului Dezvoltării Regionale și Turismului;
+g) Ministerului Transporturilor și Infrastructurii;
+h) Ministerului Economiei, Comerțului și Mediului de Afaceri;
+i) Ministerului Educației, Cercetării, Tineretului și Sportului;
+j) Ministerului Sănătății;
+k) Ministerului Culturii și Patrimoniului Național;
+l) Ministerului Comunicațiilor și Societății Informaționale;
+m) Academiei Române;
+n) Institutului Național de Statistică;
+o) Agenției Naționale pentru Resurse Minerale;
+p) Serviciului de Telecomunicații Speciale;
+q) Asociației Comunelor din România;
+r) Asociației Municipiilor din România;
+s) Asociației Orașelor din România.
+(3) Membrii Consiliului INIS își desemnează reprezentanții
+în Consiliul INIS în termen de 15 zile de la data intrării în vigoare
+a prezentei ordonanțe.
+(4) Președinția Consiliului INIS este asigurată de Ministerul
+Administrației și Internelor, prin Agenția de Cadastru și
+Publicitate Imobiliară, și vicepreședinția de Ministerul Mediului și
+Pădurilor.
+(5) Secretariatul Consiliului INIS este asigurat de Ministerul
+Administrației și Internelor, prin Agenția Națională de Cadastru
+și Publicitate Imobiliară.
+Art. 2. — (1) Prezenta ordonanță nu aduce atingere
+prevederilor Legii nr. 109/2007 privind reutilizarea informațiilor
+din instituțiile publice, cu modificările ulterioare, care transpune
+în legislația națională Directiva 2003/98/CE a Parlamentului
+European și a Consiliului din 17 noiembrie 2003 privind
+reutilizarea informațiilor din sectorul public, publicată în Jurnalul
+Oficial al Uniunii Europene nr. L 345 din 31 decembrie 2003, sau
+
+ale Hotărârii Guvernului nr. 878/2005 privind accesul publicului
+la informația privind mediul, cu modificările ulterioare, care
+transpune în legislația națională Directiva 2003/4/CE a
+Parlamentului European și a Consiliului din 28 ianuarie 2003
+privind accesul publicului la informațiile despre mediu și de
+abrogare a Directivei 90/313/CEE a Consiliului, publicată în
+Jurnalul Oficial al Uniunii Europene nr. L 41 din 14 februarie
+2003.
+(2) Prevederile prezentei ordonanțe nu afectează existența
+drepturilor de proprietate intelectuală privind elementele
+constitutive ale infrastructurii pentru informații spațiale sau
+dreptul de deținere a acestora de către autoritățile publice, în
+domeniul specific de activitate.
+Art. 3. — În sensul prezentei ordonanțe, termenii și expresiile
+de mai jos au următoarele semnificații:
+a) infrastructură pentru informații spațiale — metadate, seturi
+de date spațiale și servicii de date spațiale, servicii și tehnologii
+de rețea, acorduri de punere în comun, accesare și utilizare,
+precum și mecanisme, procese și proceduri de coordonare și
+monitorizare stabilite, utilizate sau puse la dispoziție în
+conformitate cu prevederile prezentei ordonanțe;
+b) date spațiale — orice date având o legătură directă sau
+indirectă cu un amplasament ori cu un areal geografic specific;
+c) set de date spațiale — o colecție identificabilă de date
+spațiale;
+d) servicii de date spațiale — operațiunile care pot fi
+executate, prin utilizarea unei aplicații informatice, asupra
+datelor spațiale incluse în seturile de date spațiale sau asupra
+metadatelor corespunzătoare;
+e) obiect spațial — o reprezentare abstractă a unui fenomen
+real, care corespunde unui amplasament sau unui areal
+geografic specific;
+f) metadate — informații care descriu seturile de date
+spațiale și serviciile aferente care permit descoperirea,
+inventarierea și utilizarea acestora;
+g) interoperabilitate — posibilitatea de combinare a seturilor
+de date spațiale și de interacționare a serviciilor, fără intervenție
+manuală repetitivă, astfel încât rezultatul să fie coerent, iar
+valoarea adăugată a seturilor și serviciilor de date spațiale să
+crească;
+h) autoritate publică, în sensul prezentei ordonanțe:
+(i) orice autoritate publică centrală sau orice altă
+autoritate a administrației publice, inclusiv
+organismele publice cu rol consultativ la nivel național,
+regional ori local;
+(ii) orice persoană fizică sau juridică care îndeplinește
+funcții administrative publice prevăzute de lege,
+inclusiv sarcini, activități ori servicii specifice legate de
+mediu sau de informații spațiale;
+(iii) orice persoană fizică sau juridică care deține
+responsabilități sau funcții publice ori care prestează
+servicii publice legate de mediu sau de informații
+spațiale sub controlul unui organism ori al unei entități
+prevăzute la pct. (i) sau (ii).
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 66/29.I.2010
+(iv) Atunci când organismele sau instituțiile exercită o
+competență judiciară sau legislativă, acestea nu sunt
+considerate autorități publice, în sensul prezentei
+ordonanțe;
+i) geo-portal INSPIRE — un site internet sau un echivalent
+care permite accesul la serviciile prevăzute la art. 9 alin. (1);
+j) terț — orice persoană fizică sau juridică, alta decât cele
+definite la lit. h);
+k) geo-portal INSPIRE al României — un site internet sau un
+echivalent care permite accesul la serviciile prevăzute la art. 9
+alin. (1), denumit în continuare geo-portal, care reprezintă
+punctul de acces național.
+Art. 4. — (1) Prezenta ordonanță se aplică seturilor de date
+spațiale care îndeplinesc următoarele condiții:
+a) se referă la o zonă în care România deține și/sau își
+exercită competența teritorială;
+b) sunt în format electronic;
+c) sunt deținute de sau în numele uneia dintre entitățile
+enumerate la art. 3 lit. h);
+d) sunt deținute de un terț la dispoziția căruia a fost pusă
+rețeaua de servicii în conformitate cu prevederile art. 10 alin. (2);
+e) se referă la unul sau mai multe dintre seturile de date
+spațiale prevăzute în anexele nr. 1—3 ori la cele stabilite de
+Consiliul INIS conform art. 18 alin. (1) lit. b).
+(2) Temele de date spațiale care determină seturile de date
+spațiale sunt prevăzute în anexele nr. 1—3.
+(3) În cazul în care sunt deținute mai multe copii identice ale
+aceluiași set de date spațiale de către sau în numele autorităților
+publice, prezenta ordonanță se aplică numai versiunii de
+referință din care provin diferitele copii.
+(4) Prezenta ordonanță se aplică și serviciilor de date
+spațiale asociate datelor incluse în seturile de date spațiale
+prevăzute la alin. (1) și (3).
+(5) Prezenta ordonanță presupune atât colectarea de date
+spațiale existente și actualizarea acestora, cât și colectarea de
+date spațiale noi.
+(6) În cazul seturilor de date spațiale care respectă condiția
+prevăzută la alin. (1) lit. c), dar față de care un terț deține drepturi
+de proprietate intelectuală, autoritățile publice pot acționa în
+temeiul prezentei ordonanțe numai cu consimțământul terțului
+respectiv.
+(7) Prin excepție de la prevederile alin. (1), prezenta
+ordonanță se aplică seturilor de date spațiale deținute de sau în
+numele unei autorități publice locale numai în cazul în care
+există acte normative ori reglementări care impun colectarea
+sau difuzarea acestora.
+(8) Alte teme decât cele prevăzute în anexele nr. 1—3,
+precum și autoritățile publice coordonatoare și colaboratoare
+responsabile pentru acestea se stabilesc de către Consiliul INIS.
+(9) Autoritățile publice coordonatoare și colaboratoare
+responsabile pentru seturile de date spațiale prezentate în
+anexele nr. 1—3 sunt prevăzute în anexa nr. 4.
+(10) Prin autoritățile publice coordonatoare și colaboratoare,
+prevăzute la alin. (9), se înțelege inclusiv instituțiile aflate în
+subordinea, coordonarea sau în aria de reglementare, după caz,
+a acestora.
+CAPITOLUL II
+Metadate
+Art. 5. — (1) În vederea realizării INIS, autoritățile publice
+sunt obligate să creeze și să actualizeze metadatele pentru
+seturile de date spațiale și serviciile aferente temelor prezentate
+în anexele nr. 1—3, precum și pentru cele stabilite de către
+Consiliul INIS.
+
+3
+
+(2) Metadatele includ informații cu privire la:
+a) conformitatea seturilor de date spațiale cu normele de
+aplicare prevăzute la art. 7 alin. (1);
+b) condițiile aplicabile accesării și utilizării seturilor și
+serviciilor de date spațiale, precum și tarifele corespunzătoare,
+după caz;
+c) calitatea și validitatea seturilor de date spațiale;
+d) autoritățile publice responsabile cu stabilirea,
+administrarea, întreținerea și distribuirea seturilor și serviciilor
+de date spațiale;
+e) limitarea accesului publicului și motivele acestor limitări în
+conformitate cu prevederile art. 12.
+(3) Autoritățile publice iau măsurile necesare pentru ca
+metadatele să fie complete și de o calitate corespunzătoare
+îndeplinirii scopului stabilit la art. 3 lit. f).
+(4) Crearea și actualizarea metadatelor se realizează potrivit
+prevederilor Regulamentului (CE) nr. 1.205/2008 al Comisiei din
+3 decembrie 2008 de punere în aplicare a Directivei 2007/2/CE
+a Parlamentului European și a Consiliului în ceea ce privește
+metadatele, publicat în Jurnalul Oficial al Uniunii Europene
+nr. L 326 din 4 decembrie 2008.
+(5) Alte informații pe care pot să le conțină metadatele sunt
+stabilite de către Consiliul INIS.
+Art. 6. — Autoritățile publice creează metadatele în
+conformitate cu următorul calendar:
+a) până la data de 3 decembrie 2010, în cazul seturilor de
+date spațiale care corespund categoriilor enumerate în anexele
+nr. 1 și 2;
+b) până la data de 3 decembrie 2013, în cazul seturilor
+de date spațiale care corespund categoriilor enumerate în
+anexa nr. 3.
+CAPITOLUL III
+Interoperabilitatea seturilor de date spațiale
+și a serviciilor aferente
+Art. 7. — (1) Interoperabilitatea și armonizarea seturilor de
+date spațiale și a serviciilor aferente acestora se realizează
+potrivit normelor de aplicare a Directivei INSPIRE, elaborate de
+Comisia Europeană.
+(2) Ministerul Administrației și Internelor, prin Agenția
+Națională de Cadastru și Publicitate Imobiliară, furnizează, la
+cerere, Comisiei Europene informațiile necesare analizelor
+privind fezabilitatea și proporționalitatea în ceea ce privește
+eventualele costuri și beneficii pe care le-ar putea genera
+normele care stabilesc modalitățile tehnice de interoperabilitate
+și de armonizare a seturilor și serviciilor de date spațiale, pe
+baza informațiilor transmise de către autoritățile publice
+prevăzute la art. 1 alin. (2).
+(3) Autoritățile publice iau măsuri pentru ca toate seturile de
+date spațiale nou-colectate și restructurate masiv, precum și
+serviciile de date spațiale corespunzătoare acestora să fie
+disponibile în conformitate cu normele elaborate de Comisia
+Europeană, prevăzute la alin. (1), în termen de 2 ani de la
+adoptarea acestora, iar celelalte seturi și servicii de date
+spațiale, aflate încă în uz, în termen de 7 ani de la adoptarea
+acestora. Seturile de date se furnizează în conformitate cu
+prevederile normelor de aplicare prevăzute la alin. (1), fie prin
+adaptarea seturilor de date spațiale existente, fie prin serviciile
+de transformare prevăzute la art. 9 alin. (1) lit. d).
+Art. 8. — (1) Autoritățile publice menționate la art. 1 alin. (2)
+iau măsuri pentru a pune la dispoziția tuturor autorităților publice,
+precum și a terților orice informații, inclusiv date, coduri și
+clasificări tehnice, necesare pentru respectarea normelor de
+aplicare prevăzute la art. 7 alin. (1), care nu restricționează
+utilizarea lor în acest scop, în condițiile legii.
+(2) Pentru a asigura coerența datelor spațiale aferente unui
+element geografic a cărui localizare depășește frontiera
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 66/29.I.2010
+
+României cu unul sau mai multe state membre ale Uniunii
+Europene, autoritatea publică centrală care deține aceste date
+spațiale decide, de comun acord, atunci când este cazul, cu
+instituția omoloagă din statul membru respectiv, cu privire la
+descrierea și poziția acestor elemente comune.
+CAPITOLUL IV
+Rețea de servicii
+Art. 9. — (1) Ministerul Administrației și Internelor, prin
+Agenția Națională de Cadastru și Publicitate Imobiliară,
+realizează, operează și întreține, prin intermediul geo-portalului,
+următoarele servicii:
+a) servicii de căutare, care permit identificarea seturilor de
+date spațiale și a serviciilor aferente pe baza conținutului
+metadatelor corespunzătoare și afișarea conținutului
+metadatelor;
+b) servicii de vizualizare, care permit cel puțin afișarea,
+navigarea,
+mărirea/micșorarea,
+rotirea
+panoramică,
+suprapunerea vizuală a seturilor de date spațiale, precum și
+afișarea legendei și a oricărui conținut relevant al metadatelor;
+c) servicii de descărcare, care permit descărcarea de copii
+ale seturilor de date spațiale sau ale unor părți ale acestora,
+precum și accesarea directă a acestora, atunci când este
+posibil;
+d) servicii de transformare, care permit transformarea
+seturilor de date spațiale în vederea realizării interoperabilității;
+e) servicii care permit apelarea la serviciile de date spațiale;
+f) alte asemenea servicii.
+(2) Serviciile prevăzute la alin. (1) trebuie să țină seama de
+cerințele utilizatorilor din domeniu, să fie ușor de utilizat, să fie
+disponibile publicului și să poată fi accesate prin intermediul
+internetului sau prin orice alt mijloc de telecomunicație adecvat.
+(3) Pentru utilizarea serviciilor prevăzute la alin. (1) lit. a) se
+aplică cel puțin următoarea combinație de criterii de căutare:
+a) cuvinte-cheie;
+b) clasificarea seturilor de date spațiale și a serviciilor
+aferente;
+c) calitatea și validitatea seturilor de date spațiale;
+d) gradul de conformitate cu normele prevăzute la art. 7
+alin. (1);
+e) localizarea geografică;
+f) condițiile de accesare și de utilizare a seturilor de date
+spațiale și a serviciilor aferente;
+g) autoritățile publice responsabile cu stabilirea,
+administrarea, întreținerea și distribuirea seturilor de date
+spațiale și a serviciilor aferente.
+(4) Serviciile de transformare prevăzute la alin. (1) lit. d) sunt
+combinate cu celelalte servicii prevăzute la alin. (1), astfel încât
+să se permită utilizarea tuturor acestor servicii în conformitate cu
+normele prevăzute la art. 7 alin. (1).
+Art. 10. — (1) Ministerul Administrației și Internelor, prin
+Agenția Națională de Cadastru și Publicitate Imobiliară, asigură
+condițiile tehnice autorităților publice pentru a-și conecta seturile
+de date spațiale și serviciile aferente la rețeaua de servicii
+prevăzută la art. 9 alin. (1).
+(2) Aceste condiții tehnice sunt puse și la dispoziția terților
+care solicită acest lucru și ale căror seturi de date spațiale și
+servicii aferente respectă normele de aplicare care stabilesc
+obligațiile privind în special metadatele, rețeaua de servicii și
+interoperabilitatea.
+(3) Serviciul de Telecomunicații Speciale asigură serviciile de
+conectare fizică a autorităților publice la geo-portal.
+Art. 11. — (1) Autoritățile publice sunt obligate să asigure
+identificarea, vizualizarea și accesul, după caz, la seturile de
+date spațiale și serviciile aferente geo-portalului.
+
+(2) Furnizarea datelor spațiale și a serviciilor aferente de
+către autoritățile publice se face cu respectarea legislației
+naționale cu privire la protecția informațiilor clasificate.
+Art. 12. — (1) Prin excepție de la prevederile art. 9 alin. (1)
+și (2), autoritățile publice pot limita accesul public la propriile
+seturi de date spațiale și servicii aferente prin intermediul
+serviciilor prevăzute la art. 9 alin. (1) lit. a), în cazul în care un
+astfel de acces afectează în mod negativ relațiile internaționale,
+siguranța publică sau apărarea națională.
+(2) Prin excepție de la prevederile art. 9 alin. (1) și (2),
+autoritățile publice pot limita accesul public la propriile seturi de
+date spațiale și servicii aferente prin intermediul serviciilor
+prevăzute la art. 9 alin. (1) lit. b)—e) sau la serviciile de comerț
+electronic prevăzute la art. 13 alin. (4), în cazul în care un astfel
+de acces afectează în mod negativ oricare dintre următoarele:
+a) confidențialitatea lucrărilor autorităților publice, în cazul în
+care legislația prevede o astfel de confidențialitate;
+b) relațiile internaționale, siguranța publică sau apărarea
+națională;
+c) desfășurarea procedurilor judiciare, posibilitatea oricărei
+persoane de a avea parte de un proces echitabil sau
+capacitatea unei autorități publice de a efectua o anchetă de
+natură penală sau disciplinară;
+d) confidențialitatea informațiilor comerciale sau industriale,
+în cazul în care legislația națională ori comunitară prevede o
+astfel de confidențialitate în vederea protejării intereselor
+economice legitime, inclusiv a interesului public privind
+păstrarea confidențialității informațiilor statistice și a secretului
+fiscal;
+e) drepturile de proprietate intelectuală;
+f) confidențialitatea datelor cu caracter personal și/sau a
+fișierelor privind o persoană fizică, în situația în care persoana
+respectivă nu a consimțit la dezvăluirea publică a informațiilor, în
+cazul în care legislația națională sau comunitară prevede o
+astfel de confidențialitate;
+g) interesele sau protecția oricărei persoane care a furnizat
+în mod voluntar informațiile solicitate, fără a avea sau fără a i
+se putea impune o obligație legală în acest sens, cu excepția
+cazului în care persoana respectivă a consimțit la dezvăluirea
+informațiilor în cauză;
+h) protecția mediului la care se referă aceste informații, cum
+ar fi localizarea unor specii rare.
+(3) Motivele care justifică limitarea accesului, așa cum sunt
+prevăzute la alin. (1) și (2), se interpretează în mod restrictiv,
+ținându-se seama, în fiecare caz, de interesul pe care accesul
+la aceste informații îl prezintă pentru public.
+(4) În fiecare caz se apreciază interesul publicului pentru
+dezvăluirea acestor informații, comparativ cu cel pe care îl
+prezintă limitarea sau condiționarea accesului la acestea.
+(5) Accesul la informațiile privind emisiile în mediu nu se
+poate limita în temeiul alin. (2) lit. a), d), f), g) și h).
+(6) Pentru aplicarea prevederilor alin. (2) lit. f), autoritățile
+publice prevăzute la art. 1 alin. (2) respectă prevederile Legii
+nr. 677/2001 pentru protecția persoanelor cu privire la
+prelucrarea datelor cu caracter personal și libera circulație a
+acestor date, cu modificările și completările ulterioare, care
+transpune Directiva 95/46/CE a Parlamentului European și a
+Consiliului din 24 octombrie 1995 privind protecția persoanelor
+fizice în ceea ce privește prelucrarea datelor cu caracter
+personal și libera circulație a acestor date, publicată în Jurnalul
+Oficial al Comunităților Europene nr. L 281 din 23 noiembrie
+1995, așa cum a fost amendată de Regulamentul (CE)
+nr. 1.882/2003 al Parlamentului European și al Consiliului din
+29 septembrie 2003 de adaptare la Decizia 1999/468/CE a
+Consiliului a dispozițiilor privind comitetele care asistă Comisia
+în exercitarea competențelor de executare prevăzute de actele
+care fac obiectul procedurii menționate la articolul 251 din
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 66/29.I.2010
+Tratatul CE, publicat în Jurnalul Oficial al Uniunii Europene
+nr. L 284 din 31 octombrie 2003.
+(7) Autoritățile publice cu atribuții în domeniul securității
+naționale interzic publicarea informațiilor care ar putea pune în
+pericol securitatea națională sau care ar putea fi folosite pentru
+desfășurarea unor acțiuni de terorism, sabotaj ori crimă
+organizată.
+Art. 13. — (1) Serviciile prevăzute la art. 9 alin. (1) lit. a) și b)
+sunt disponibile publicului cu titlu gratuit.
+(2) Prin excepție de la prevederile alin. (1), autoritățile publice
+care asigură serviciile de vizualizare prevăzute la art. 9 alin. (1)
+lit. b) pot percepe tarife cu unică destinație, în cazul în care
+acestea asigură întreținerea seturilor de date spațiale și a
+serviciilor de date corespunzătoare, în special în situații în care
+sunt implicate volume mari de date actualizate frecvent.
+(3) Datele puse la dispoziție prin intermediul serviciilor de
+vizualizare prevăzute la art. 9 alin. (1) lit. b) pot fi într-o formă
+care să împiedice reutilizarea acestora în scopuri comerciale.
+(4) În cazul în care autoritățile publice percep taxe sau tarife
+pentru serviciile prevăzute la art. 9 alin. (1) lit. b), c) sau e),
+Ministerul Administrației și Internelor, prin Agenția Națională de
+Cadastru și Publicitate Imobiliară, asigură disponibilitatea
+serviciilor de comerț electronic în cadrul geo-portalului. Aceste
+servicii pot fi supuse, după caz, unor clauze de exonerare de
+răspundere, licențe obținute electronic/licențe.
+Art. 14. — Ministerul Administrației și Internelor, prin Agenția
+Națională de Cadastru și Publicitate Imobiliară, asigură accesul
+la serviciile prevăzute la art. 9 alin. (1) prin intermediul geoportalului INSPIRE al Comunității Europene și prin geo-portal.
+CAPITOLUL V
+Punerea în comun a datelor
+Art. 15. — (1) Ministerul Administrației și Internelor, prin
+Agenția Națională de Cadastru și Publicitate Imobiliară, creează
+cadrul tehnic necesar punerii în comun a seturilor de date
+spațiale și a serviciilor aferente de către autoritățile publice
+prevăzute la art. 3 lit. h) pct. (i) și (ii).
+(2) Datele spațiale rămân și se actualizează la autoritățile
+publice.
+(3) Aceste măsuri permit autorităților publice să aibă acces la
+seturile de date spațiale și serviciile aferente, să facă schimb și
+să utilizeze seturile și serviciile respective, în scopul îndeplinirii
+sarcinilor publice care pot avea un impact asupra mediului,
+precum și al realizării INIS.
+(4) Măsurile prevăzute la alin. (1) exclud orice restricție
+susceptibilă de a crea, în momentul utilizării, obstacole practice
+pentru punerea în comun a seturilor și serviciilor de date
+spațiale.
+(5) Autoritățile publice care furnizează seturi de date spațiale
+și servicii aferente pot să acorde licențe și/sau să solicite plata
+unor tarife de la autoritățile, instituțiile și organismele publice
+comunitare care folosesc aceste seturi și servicii de date
+spațiale.
+(6) Licențele și tarifele prevăzute la alin. (5) trebuie să fie pe
+deplin compatibile cu obiectivul general de facilitare a punerii în
+comun a seturilor de date spațiale și a serviciilor aferente de
+către autoritățile publice.
+(7) În cazurile în care se percep tarife, acestea trebuie să se
+mențină la nivelul minim care să asigure calitatea necesară și
+furnizarea de seturi de date spațiale și servicii aferente, precum
+și recuperarea rezonabilă a investiției, respectându-se în același
+timp, după caz, cerințele de autofinanțare a autorităților publice
+care furnizează seturi și servicii de date spațiale.
+(8) Seturile de date spațiale și serviciile aferente referitoare
+la mediu, furnizate de autoritățile publice către instituțiile și
+organismele comunitare, în vederea îndeplinirii obligațiilor de
+
+5
+
+raportare de către acestea în conformitate cu prevederile
+legislației comunitare privind mediul, sunt scutite de plată.
+(9) Procedurile referitoare la punerea în comun a seturilor de
+date spațiale și a serviciilor aferente prevăzute la alin. (1)—(8)
+sunt deschise autorităților publice prevăzute la art. 3 lit. h) pct. (i)
+și (ii) din alte state membre ale Uniunii Europene, instituțiilor și
+organismelor comunitare, pentru îndeplinirea sarcinilor publice
+care pot avea impact asupra mediului.
+(10) Procedurile privind punerea în comun a seturilor și
+serviciilor de date spațiale prevăzute la alin. (1)—(8) sunt
+deschise, conform principiului reciprocității și al egalității de
+tratament, organismelor instituite prin acorduri internaționale la
+care Comunitatea Europeană și statele membre sunt parte, în
+scopul îndeplinirii sarcinilor care pot avea un impact asupra
+mediului.
+(11) În cazul în care procedurile privind punerea în comun a
+seturilor și serviciilor de date spațiale, prevăzute la alin. (1)—(8),
+sunt puse la dispoziție în conformitate cu prevederile alin. (9) și
+(10), acestea pot fi însoțite de cerințele prevăzute de legislația
+națională privind utilizarea lor.
+(12) Prin excepție de la prevederile alin. (1)—(11), autoritățile
+publice pot limita punerea în comun a seturilor de date spațiale
+și a serviciilor aferente în cazul în care aceasta aduce atingere
+desfășurării procedurilor judiciare, siguranței publice, apărării
+naționale sau relațiilor internaționale.
+(13) Ministerul Administrației și Internelor, prin Agenția
+Națională de Cadastru și Publicitate Imobiliară, asigură accesul
+instituțiilor și organismelor comunitare la seturile și serviciile de
+date spațiale, în condiții armonizate cu celelalte state membre,
+în conformitate cu regulile de implementare care guvernează
+aceste condiții, elaborate de Comisia Europeană.
+(14) Tarifele percepute de către autoritățile publice finanțate
+de la bugetul de stat, conform alin. (7), constituie venituri ale
+bugetului de stat.
+CAPITOLUL VI
+Coordonare și măsuri complementare
+Art. 16. — (1) Autoritățile publice centrale asigură, prin
+structurile proprii, coordonarea, după caz, la nivel național,
+regional și local, a contribuțiilor tuturor celor pentru care
+infrastructurile de informații spațiale prezintă un interes.
+(2) Aceste structuri coordonează contribuțiile utilizatorilor,
+producătorilor, furnizorilor de servicii cu valoare adăugată și ale
+organismelor de coordonare în ceea ce privește identificarea
+seturilor de date corespunzătoare, nevoile utilizatorilor,
+furnizarea de informații privind practicile existente și asigurarea
+feedbackului la informație privind punerea în aplicare a prezentei
+ordonanțe.
+Art. 17. — (1) Agenția Națională de Cadastru și Publicitate
+Imobiliară reprezintă punctul de contact cu Comisia Europeană
+privitor la Directiva INSPIRE.
+(2) În activitatea sa, Agenția Națională de Cadastru și
+Publicitate Imobiliară este susținută de Consiliul INIS.
+(3) În vederea realizării INIS, Agenția Națională de Cadastru
+și Publicitate Imobiliară îndeplinește următoarele atribuții
+principale:
+a) realizează și întreține geo-portalul;
+b) asigură compatibilitatea geo-portalului cu geo-portalul
+INSPIRE al Comunității Europene;
+c) asigură funcționalitatea serviciului de comerț electronic;
+d) asigură resursele materiale și umane necesare pentru
+dezvoltarea și actualizarea INIS, potrivit competențelor specifice
+domeniului de activitate;
+e) monitorizează punerea în aplicare și utilizarea INIS,
+asigură raportarea către Comisia Europeană și face publice
+rezultatele monitorizării;
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 66/29.I.2010
+
+f) pune la dispoziția autorităților publice sau a terților orice
+informații, inclusiv date, coduri și clasificări tehnice, necesare
+respectării normelor de aplicare a Directivei INSPIRE, fără a
+restricționa utilizarea lor exclusiv în acest scop.
+Art. 18. — (1) Consiliul INIS are următoarele atribuții
+principale:
+a) stabilește și supune aprobării Guvernului planul de
+activități pentru realizarea și actualizarea INIS;
+b) stabilește și aprobă temele de date spațiale, altele decât
+cele prevăzute în anexele nr. 1—3;
+c) stabilește responsabilități autorităților publice și terților,
+după caz, pentru crearea și actualizarea seturilor de date
+spațiale, a serviciilor aferente acestora și a metadatelor pentru
+temele INIS;
+d) decide cu privire la disponibilitatea seturilor de date
+spațiale și a serviciilor aferente în vederea accesului public;
+e) decide cu privire la seturile de date spațiale și serviciile
+aferente pentru care se solicită tarife;
+f) decide cu privire la seturile de date spațiale și serviciile
+aferente pentru care se pot acorda licențe;
+g) raportează Guvernului României, semestrial sau ori de
+câte ori este necesar, stadiul implementării activităților prevăzute
+în planul de activități pentru realizarea și actualizarea INIS;
+h) adoptă decizii în vederea realizării INIS;
+i) aprobă rapoartele punctului de contact pentru Directiva
+INSPIRE înainte de transmiterea lor Comisiei Europene.
+(2) Consiliului INIS se organizează și funcționează potrivit
+propriului regulament, care se aprobă prin hotărâre a
+Guvernului.
+Art. 19. — (1) Agenția Națională de Cadastru și Publicitate
+Imobiliară organizează grupuri de experți, care vor avea
+următoarele atribuții:
+a) să recomande o infrastructură hardware și de comunicații
+care să asigure gestionarea, controlul datelor spațiale, serviciile
+de date spațiale și să faciliteze accesul publicului la aceste date;
+b) să inițieze servicii și tehnologii de rețea, acorduri de
+punere în comun, accesare și utilizare, precum și mecanisme,
+procese și proceduri de coordonare și monitorizare;
+c) să coordoneze revizuirea periodică a datelor spațiale
+componente, în vederea asigurării acurateței și actualității
+acestora;
+d) să elaboreze specificații și să propună standarde
+naționale, care să definească conținutul, structura, forma,
+calitatea datelor spațiale componente, care sunt necesare
+pentru a obține un format comun și interoperabil al datelor.
+(2) Grupurile de experți pot fi alcătuite din reprezentanți ai:
+a) autorităților publice centrale membre ale Consiliului INIS;
+b) altor autorități publice;
+c) unor persoane fizice sau juridice pentru care datele
+spațiale respective prezintă interes datorită rolului acestora în
+infrastructura pentru informații spațiale;
+d) mediului privat;
+e) mediului academic;
+f) organizațiilor neguvernamentale.
+CAPITOLUL VII
+Dispoziții finale
+Art. 20. — (1) Agenția Națională de Cadastru și Publicitate
+Imobiliară monitorizează implementarea și utilizarea INIS și face
+permanent accesibile rezultatele acestei monitorizări Comisiei
+Europene și publicului.
+
+(2) Până la data de 15 mai 2010, Agenția Națională de
+Cadastru și Publicitate Imobiliară transmite Comisiei Europene
+un raport care cuprinde descrierea sumară a:
+a) modului în care se asigură coordonarea între furnizorii și
+utilizatorii de seturi de date spațiale și servicii aferente din
+sectorul public și organismele intermediare, legătura cu terții,
+precum și organizarea asigurării calității;
+b) contribuției aduse de autoritățile publice sau de terți la
+funcționarea și coordonarea infrastructurii pentru informații
+spațiale;
+c) informațiilor privind utilizarea infrastructurii pentru
+informații spațiale;
+d) acordurilor dintre autoritățile publice privind punerea în
+comun a datelor;
+e) costurilor și beneficiilor punerii în aplicare a prezentei
+ordonanțe.
+(3) La intervale de 3 ani, începând cu data de 15 mai 2013,
+Agenția Națională de Cadastru și Publicitate Imobiliară transmite
+Comisiei Europene un raport care să conțină informații
+actualizate privind aspectele prevăzute la alin. (2).
+Art. 21. — Ministerul Administrației și Internelor transmite
+Comisiei Europene actele normative naționale adoptate pentru
+conformarea cu prevederile Directivei INSPIRE.
+Art. 22. — (1) Autoritățile publice coordonatoare și
+colaboratoare responsabile pentru seturile de date spațiale
+prevăzute în anexele nr. 1—3 prevăd în bugetul propriu sumele
+necesare pentru realizarea obiectivelor care le revin conform
+prezentei ordonanțe.
+(2) Pentru anul 2010 finanțarea obiectivelor ce decurg din
+aplicarea prezentei ordonanțe este asigurată de la bugetul de
+stat, prin bugetele aprobate pe anul 2010 autorităților publice
+coordonatoare responsabile pentru seturile de date spațiale
+prevăzute în anexele nr. 1—3.
+(3) Pentru asigurarea resurselor financiare necesare
+autorităților publice în vederea realizării atribuțiilor care le revin
+conform prezentei ordonanțe, Guvernul României poate aproba
+programe de finanțare. Programele sunt finanțate prin bugetul
+Ministerului Administrației și Internelor.
+Art. 23. — (1) Autoritățile publice coordonatoare și
+colaboratoare responsabile pentru seturile de date spațiale
+prevăzute în anexele nr. 1—3 emit reglementări interne pentru
+punerea în aplicare a prezentei ordonanțe în domeniile lor de
+responsabilitate.
+(2) Pentru realizarea fiecăruia dintre seturile de date spațiale
+prevăzute în anexele nr. 1—3, autoritățile publice coordonatoare
+și colaboratoare responsabile prevăzute în anexa nr. 4 încheie
+între ele, după caz, protocoale de colaborare.
+Art. 24. — În termen de 30 de zile de la data intrării în vigoare
+a prezentei ordonanțe, Ministerul Administrației și Internelor
+elaborează și propune spre aprobare Guvernului proiectul de
+hotărâre privind regulamentul de organizare și funcționare a
+Consiliului INIS.
+Art. 25. — (1) Anexele nr. 1—4 fac parte integrantă din
+prezenta ordonanță.
+(2) Anexele se reactualizează prin hotărâre a Guvernului.
+*
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 66/29.I.2010
+Prezenta ordonanță transpune prevederile Directivei
+2007/2/CE a Parlamentului European și a Consiliului din
+14 martie 2007 de instituire a unei infrastructuri pentru
+
+7
+
+informații spațiale în Comunitatea Europeană (INSPIRE),
+publicată în Jurnalul Oficial al Uniunii Europene nr. L 108 din
+25 aprilie 2007.
+
+PRIM-MINISTRU
+
+EMIL BOC
+Contrasemnează:
+p. Ministrul administrației și internelor,
+Mihai Capră,
+secretar de stat
+Ministrul mediului și pădurilor,
+Borbély László
+Ministrul economiei, comerțului și mediului de afaceri,
+Adriean Videanu
+Ministrul afacerilor externe,
+Teodor Baconschi
+Ministrul transporturilor și infrastructurii,
+Radu Mircea Berceanu
+Ministrul apărării naționale,
+Gabriel Oprea
+Ministrul culturii și patrimoniului național,
+Kelemen Hunor
+Ministrul dezvoltării regionale și turismului,
+Elena Gabriela Udrea
+Ministrul educației, cercetării, tineretului și sportului,
+Daniel Petru Funeriu
+Ministrul sănătății,
+Cseke Attila
+Ministrul agriculturii și dezvoltării rurale,
+Mihail Dumitru
+Ministrul muncii, familiei și protecției sociale,
+Mihai Constantin Șeitan
+Directorul Serviciului de Telecomunicații Speciale,
+Marcel Opriș
+Președintele Institutului Național de Statistică,
+Vergil Voineagu
+Președintele Academiei Române,
+Ionel Haiduc
+Președintele Agenției Naționale pentru Resurse Minerale,
+Alexandru Pătruți
+Șeful Departamentului pentru Afaceri Europene,
+Bogdan Mănoiu
+p. Ministrul finanțelor publice,
+Gheorghe Gherghina,
+secretar de stat
+București, 20 ianuarie 2010.
+Nr. 4.
+ANEXA Nr. 1
+
+S E T U R I D E D AT E S PA Ț I A L E I
+
+I.1. Sisteme de coordonate de referință
+Sisteme de referință unică în spațiu a informațiilor spațiale,
+alcătuite dintr-un set de coordonate rectangulare (x, y, z) și/sau
+latitudine și longitudine și altitudine, bazate pe un datum
+geodezic orizontal și un datum geodezic vertical
+I.2. Sisteme de caroiaj geografic
+Caroiaj multirezoluție armonizat, având punct de origine
+comun, cu localizarea și mărimea standard a celulelor
+I.3. Denumiri geografice
+Nume de zone, regiuni, localități, orașe mari, suburbii, orașe
+mici ori așezări sau orice alt element geografic ori topografic de
+interes public sau istoric
+
+I.4. Unități administrativ-teritoriale
+Unități administrative delimitând zonele în care România
+deține și/sau își exercită competența, la nivel local, regional și
+național, separate prin limite administrative
+I.5. Adrese
+Localizarea proprietăților, bazată pe identificatori de adresă,
+de obicei numele străzii, numărul imobilului și codul poștal
+I.6. Parcele cadastrale
+Suprafețele stabilite în registre cadastrale
+I.7. Rețele de transport
+Rețele de transport rutier, feroviar, aerian și pe apă și
+infrastructura asociată. Cuprinde, de asemenea, legături între
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 66/29.I.2010
+
+diferite rețele. Mai cuprinde și rețeaua transeuropeană de
+transport, astfel cum este definită în Decizia nr. 1.692/96/CE a
+Parlamentului European și a Consiliului din 23 iulie 1996 privind
+orientările comunitare pentru dezvoltarea rețelei transeuropene
+de transport și modificările ulterioare.
+I.8. Hidrografie
+Elementele hidrografice, inclusiv zonele marine, precum și
+toate celelalte corpuri de apă și elementele legate de acestea,
+inclusiv bazinele și sub-bazinele hidrografice. După caz, în
+
+conformitate cu definițiile din Directiva 2000/60/CE a
+Parlamentului European și a Consiliului din 23 octombrie 2000
+de stabilire a unui cadru de politică comunitară în domeniul apei,
+publicată în Jurnalul Oficial al Uniunii Europene nr. L 327 din
+22 decembrie 2000, și sub formă de rețele
+I.9. Arii protejate
+Zone desemnate sau administrate în cadrul legislativ
+internațional, comunitar sau intern, în vederea îndeplinirii unor
+obiective specifice de conservare
+ANEXA Nr. 2
+
+S E T U R I D E D AT E S PA Ț I A L E I I
+
+II.1. Altitudine
+Modele digitale altimetrice ale suprafețelor: terestre, de
+gheață sau oceanice. Include altimetria terestră, batimetria și
+linia de coastă.
+
+II.3. Imagini ortorectificate
+Imagini georeferențiate ale suprafeței terestre, obținute cu
+senzori plasați pe sateliți sau aeroportați
+
+II.2. Acoperirea terenurilor
+Acoperirea fizică și biologică a suprafeței terestre, inclusiv
+suprafețele artificiale, zonele agricole, pădurile, zonele (semi)
+naturale, zonele umede și corpurile de apă
+
+Caracterizarea geologică în funcție de structură și
+compoziție. Include roca de bază, straturile acvifere și
+geomorfologia
+
+II.4. Geologie
+
+ANEXA Nr. 3
+
+S E T U R I D E D AT E S PA Ț I A L E S P E C I F I C E I I I
+
+III.1. Unități statistice
+Unități de diseminare sau de utilizare a informațiilor statistice
+III.2. Clădiri
+Localizarea geografică a clădirilor
+III.3. Soluri
+Soluri și subsoluri, caracterizate în funcție de adâncime,
+textură, structură și conținut al particulelor și materialului
+organic, aspect pietros, eroziune, înclinație medie și capacitate
+anticipată de stocare a apei
+III.4. Utilizarea terenului
+Teritoriul caracterizat de funcționalitatea, actuală sau viitoare,
+planificată ori în scop socioeconomic (de exemplu, rezidențial,
+industrial, comercial, agricol, forestier, de recreație)
+III.5. Sănătate și siguranță umană
+Distribuția geografică a predominanței patologiilor (alergii,
+cancere, boli respiratorii etc.), precum și informații care indică
+efectul asupra sănătății (markeri biologici, scăderea fertilității,
+epidemii) sau asupra bunăstării oamenilor (oboseală, stres etc.),
+legată direct (poluarea aerului, substanțe chimice, deprecierea
+stratului de ozon, zgomot etc.) sau indirect (alimente, organisme
+modificate genetic etc.) de calitatea mediului
+III.6. Servicii de utilități publice și alte servicii publice
+Includ servicii de utilitate publică, precum sistemele de
+canalizare, de gestionare a deșeurilor, de aprovizionare cu
+energie electrică și apă, precum și servicii administrative și
+sociale publice, cum ar fi: adăposturi de protecție civilă, școlile
+și spitalele.
+III.7. Instalații de monitorizare a mediului
+Amplasarea și exploatarea instalațiilor de monitorizare a
+mediului, inclusiv observarea și măsurarea emisiilor, a stării
+mediului înconjurător și a altor parametri ai ecosistemului
+(biodiversitate, starea ecologică a vegetației etc.), de către sau
+în numele autorităților publice
+
+III.8. Instalații de producție și industriale
+Parcuri de producție industrială, inclusiv instalațiile
+reglementate de Directiva 2008/1/CE a Parlamentului European
+și a Consiliului din 15 ianuarie 2008 privind prevenirea și
+controlul integrat al poluării și instalațiile de captare a apei,
+extracție minieră și locurile de depozitare
+IIII.9. Instalații agricole și pentru acvacultură
+Echipament și instalații de producție agricolă (inclusiv
+sisteme de irigație, sere și grajduri)
+III.10. Repartizarea populației — demografie
+Repartizare geografică a populației, inclusiv caracteristicile
+populației și nivelurile de activitate, cumulate pe unități de caroiaj
+cartografic, regiune, unitate administrativă sau altă unitate
+analitică.
+III.11. Zone de administrare/restricție/reglementare și unități
+de raportare
+Zone administrate, reglementate sau folosite pentru
+raportarea la nivel internațional, european, național, regional și
+local. Includ gropile de gunoi, zonele de protecție a surselor de
+apă potabilă, zonele vulnerabile la nitrați, șenalele navigabile
+reglementate de pe mare sau din apele interne importante,
+zonele destinate descărcării deșeurilor, zonele în care există
+limitări cu privire la nivelurile de zgomot, zonele aprobate pentru
+prospectare și exploatare minieră, districtele bazinelor
+hidrografice, unitățile relevante de raportare și zonele de
+administrare a litoralului.
+III.12. Zone de risc natural
+Zone vulnerabile caracterizate în funcție de riscurile naturale
+(orice fenomen atmosferic, hidrologic, seismic, vulcanic, precum
+și incendiile, care, din cauza localizării, gravității și frecvenței,
+pot afecta grav societatea), de exemplu inundațiile, alunecările
+și surpările de teren, avalanșele, incendiile forestiere,
+cutremurele de pământ, erupțiile vulcanice
+
+9
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 66/29.I.2010
+III.13. Condiții atmosferice
+Parametrii fizici din atmosferă. Includ datele spațiale bazate
+pe măsurători, pe modele sau pe o combinație între acestea,
+precum și locațiile de măsurare.
+III.14. Caracteristici geografice meteorologice
+Condițiile meteorologice și măsurătorile acestora: precipitații,
+temperatură, evapotranspirație, viteza și direcția vântului
+III.15. Caracteristici geografice oceanografice
+Parametrii fizici ai oceanelor (curenți, salinitate, înălțimea
+valurilor etc.)
+III.16. Regiuni maritime
+Parametrii fizici ai mărilor și corpurilor de apă sărată divizate
+în regiuni și subregiuni cu caracteristici comune
+III.17. Regiuni biogeografice
+Zone relativ omogene pe baza condițiilor ecologice, având
+caracteristici comune
+III.18. Habitate și biotopuri
+Zone geografice caracterizate prin condiții ecologice
+specifice, procese, structură și funcții (de menținere a vieții) care
+
+sprijină fizic organismele care trăiesc acolo. Includ zonele
+terestre și acvatice care se disting prin caracteristicile lor
+geografice, abiotice și biotice, indiferent că acestea sunt
+naturale sau seminaturale
+III.19. Repartizarea speciilor
+Distribuția geografică a speciilor de animale și plante,
+cumulate pe unități de caroiaj cartografic, regiune, unitate
+administrativă sau altă unitate analitică
+III.20. Resurse energetice
+Resurse energetice, incluzând hidrocarburi, energia hidro,
+bioenergia, energia solară, energia eoliană etc., însoțite de
+informații relevante privind extinderea resursei, inclusiv prin
+adâncimea/înălțimea la care se află, după caz, în condițiile legii
+III.21. Resurse minerale
+Resurse minerale, incluzând minereurile metalifere,
+mineralele industriale etc., însoțite de informații relevante privind
+extinderea resursei, inclusiv prin adâncimea/înălțimea la care
+se află, după caz, în condițiile legii
+
+ANEXA Nr. 4
+
+A U T O R I T Ă Ț I L E P U B L I C E C O O R D O N AT O A R E Ș I C O L A B O R AT O A R E R E S P O N S A B I L E
+P E N T R U S E T U R I L E D E D AT E S PA Ț I A L E P R E V Ă Z U T E Î N A N E X E L E N R . 1 — 3
+Seturi de date spațiale
+
+Autorități responsabile
+
+I.1. Sisteme de coordonate de referință
+Sisteme de referință unică în spațiu a informațiilor spațiale,
+alcătuite dintr-un set de coordonate rectangulare (x, y, z) și/sau
+latitudine și longitudine și altitudine, bazate pe un datum
+geodezic orizontal și un datum geodezic vertical
+
+Coordonator: Ministerul Administrației și Internelor
+Colaborator: Ministerul Apărării Naționale
+
+I.2. Sisteme de caroiaj geografic
+Caroiaj multirezoluție armonizat, având punct de origine
+comun, cu localizarea și mărimea standard a celulelor
+
+Coordonator: Ministerul Administrației și Internelor
+Colaborator: Ministerul Apărării Naționale
+
+I.3. Denumiri geografice
+Nume de zone, regiuni, localități, orașe mari, suburbii, orașe
+mici ori așezări sau orice alt element geografic ori topografic de
+interes public sau istoric
+
+Coordonator: Ministerul Apărării Naționale
+Colaboratori: Ministerul Administrației și Internelor
+Academia Română
+Institutul Național de Statistică
+Ministerul Culturii și Patrimoniului Național
+
+I.4. Unități administrativ-teritoriale
+Unități administrative delimitând zonele în care România
+deține și/sau își exercită competența, la nivel local, regional și
+național, separate prin limite administrative
+
+Coordonator: Ministerul Administrației și Internelor
+Colaboratori: Ministerul Apărării Naționale
+Ministerul Dezvoltării Regionale și Turismului
+Ministerul Afacerilor Externe
+Autoritățile executive ale administrației publice
+locale
+
+I.5. Adrese
+Localizarea proprietăților, bazată pe identificatori de adresă,
+de obicei numele străzii, numărul imobilului și codul poștal
+
+Coordonator: Ministerul Administrației și Internelor
+Colaboratori: Autoritățile executive ale administrației publice
+locale
+
+I.6. Parcele cadastrale
+Suprafețele stabilite în registre cadastrale
+
+Coordonator: Ministerul Administrației și Internelor
+Colaboratori: Autoritățile executive ale administrației publice
+locale
+
+I.7. Rețele de transport
+Rețele de transport rutier, feroviar, aerian și pe apă și
+infrastructura asociată. Cuprinde, de asemenea, legături între
+diferite rețele. Mai cuprinde și rețeaua transeuropeană de
+transport, astfel cum este definită în Decizia nr. 1.692/96/CE a
+Parlamentului European și a Consiliului din 23 iulie 1996
+privind orientările comunitare pentru dezvoltarea rețelei
+transeuropene de transport și modificările ulterioare.
+
+Coordonator: Ministerul Transporturilor și Infrastructurii
+Colaboratori: Ministerul Apărării Naționale
+Ministerul Administrației și Internelor
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 66/29.I.2010
+Seturi de date spațiale
+
+Autorități responsabile
+
+I.8. Hidrografie
+Elementele hidrografice, inclusiv zonele marine, precum și
+toate celelalte corpuri de apă și elementele legate de acestea,
+inclusiv bazinele și sub-bazinele hidrografice. După caz, în
+conformitate cu definițiile din Directiva 2000/60/CE a
+Parlamentului European și a Consiliului din 23 octombrie 2000
+de stabilire a unui cadru de politică comunitară în domeniul
+apei, publicată în Jurnalul Oficial al Uniunii Europene nr. L 327
+din 22 decembrie 2000, și sub formă de rețele
+
+Coordonator: Ministerul Mediului și Pădurilor
+Colaboratori: Ministerul Apărării Naționale
+Ministerul Administrației și Internelor
+
+I.9. Arii protejate
+Zone desemnate sau administrate în cadrul legislativ
+internațional, comunitar sau intern, în vederea îndeplinirii unor
+obiective specifice de conservare
+
+Coordonator: Ministerul Mediului și Pădurilor
+Colaboratori: Ministerul Administrației și Internelor
+Ministerul Agriculturii și Dezvoltării Rurale
+Ministerul Culturii și Patrimoniului Național
+Academia Română
+Ministerul Dezvoltării Regionale și Turismului
+
+II.1. Altitudine
+Modele digitale altimetrice ale suprafețelor: terestre, de gheață
+sau oceanice. Include altimetria terestră, batimetria și linia de
+coastă.
+
+Coordonator: Ministerul Apărării Naționale
+Colaboratori: Ministerul Mediului și Pădurilor
+Ministerul Administrației și Internelor
+
+II.2. Acoperirea terenurilor
+Acoperirea fizică și biologică a suprafeței terestre, inclusiv
+suprafețele artificiale, zonele agricole, pădurile, zonele (semi)
+naturale, zonele umede și corpurile de apă
+
+Coordonator: Ministerul Mediului și Pădurilor
+Colaboratori: Ministerul Administrației și Internelor
+Ministerul Agriculturii și Dezvoltării Rurale
+Ministerul Apărării Naționale
+
+II.3. Imagini ortorectificate
+Imagini georeferențiate ale suprafeței terestre, obținute cu
+senzori plasați pe sateliți sau aeroportați
+
+Coordonator: Ministerul Administrației și Internelor
+Colaboratori: Ministerul Apărării Naționale
+Ministerul Agriculturii și Dezvoltării Rurale
+Ministerul Mediului și Pădurilor
+Ministerul Educației, Cercetării, Tineretului și
+Sportului
+
+II.4. Geologie
+Caracterizarea geologică în funcție de structură și compoziție.
+Include roca de bază, straturile acvifere și geomorfologia.
+
+Coordonator: Ministerul Educației, Cercetării, Tineretului și
+Sportului
+Colaboratori: Ministerul Mediului și Pădurilor
+Academia Română
+Agenția Națională pentru Resurse Minerale
+
+III.1. Unități statistice
+Unități de diseminare sau de utilizare a informațiilor statistice
+
+Coordonator: Institutul Național de Statistică
+Colaboratori: Ministerul Mediului și Pădurilor
+Ministerul Administrației și Internelor
+Ministerul Agriculturii și Dezvoltării Rurale
+Ministerul Transporturilor și Infrastructurii
+
+III.2. Clădiri
+Localizarea geografică a clădirilor
+
+Coordonator: Ministerul Administrației și Internelor
+Colaboratori: Ministerul Dezvoltării Regionale și Turismului
+Autoritățile executive ale administrației publice
+locale
+
+III.3. Soluri
+Soluri și subsoluri, caracterizate în funcție de adâncime,
+textură, structură și conținut al particulelor și materialului
+organic, aspect pietros, eroziune, înclinație medie și capacitate
+anticipată de stocare a apei
+
+Coordonator: Ministerul Agriculturii și Dezvoltării Rurale
+Colaboratori: Ministerul Mediului și Pădurilor
+Ministerul Educației, Cercetării, Tineretului și
+Sportului
+
+III.4. Utilizarea terenului
+Teritoriul caracterizat de funcționalitatea, actuală sau viitoare,
+planificată ori în scop socioeconomic (de exemplu, rezidențial,
+industrial, comercial, agricol, forestier, de recreație)
+
+Coordonator: Ministerul Dezvoltării Regionale și Turismului
+Colaboratori: Ministerul Agriculturii și Dezvoltării Rurale
+Ministerul Administrației și Internelor
+Ministerul Mediului și Pădurilor
+Ministerul Apărării Naționale
+Autoritățile executive ale administrației publice
+locale
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 66/29.I.2010
+Seturi de date spațiale
+
+11
+
+Autorități responsabile
+
+III.5. Sănătate și siguranță umană
+Distribuția geografică a predominanței patologiilor (alergii,
+cancere, boli respiratorii etc.), precum și informații care indică
+efectul asupra sănătății (markeri biologici, scăderea fertilității,
+epidemii) sau asupra bunăstării oamenilor (oboseală, stres
+etc.), legată direct (poluarea aerului, substanțe chimice,
+deprecierea stratului de ozon, zgomot etc.) sau indirect
+(alimente, organisme modificate genetic etc.) de calitatea
+mediului
+
+Coordonator: Ministerul Sănătății
+Colaboratori: Institutul Național de Statistică
+Ministerul Mediului și Pădurilor
+Ministerul Agriculturii și Dezvoltării Rurale
+Ministerul Administrației și Internelor
+
+III.6. Servicii de utilități publice și alte servicii publice
+Includ servicii de utilitate publică, precum sistemele de
+canalizare, de gestionare a deșeurilor, de aprovizionare cu
+energie electrică și apă, precum și servicii administrative și
+sociale publice, cum ar fi: adăposturi de protecție civilă, școlile
+și spitalele.
+
+Coordonator: Ministerul Administrației și Internelor
+Colaboratori: Ministerul Mediului și Pădurilor
+Ministerul Economiei, Comerțului și Mediului de
+Afaceri
+Ministerul Sănătății
+Ministerul Muncii, Familiei și Protecției Sociale
+Autoritățile executive ale administrației publice
+locale
+
+III.7. Instalații de monitorizare a mediului
+Amplasarea și exploatarea instalațiilor de monitorizare a
+mediului, inclusiv observarea și măsurarea emisiilor, a stării
+mediului înconjurător și a altor parametri ai ecosistemului
+(biodiversitate, starea ecologică a vegetației etc.), de către sau
+în numele autorităților publice
+
+Coordonator: Ministerul Mediului și Pădurilor
+Colaboratori: Ministerul Agriculturii și Dezvoltării Rurale
+
+III.8. Instalații de producție și industriale
+Parcuri de producție industrială, inclusiv instalațiile
+reglementate de Directiva 2008/1/CE a Parlamentului
+European și a Consiliului din 15 ianuarie 2008 privind
+prevenirea și controlul integrat al poluării și instalațiile de
+captare a apei, extracție minieră și locurile de depozitare
+
+Coordonator: Ministerul Mediului și Pădurilor
+Colaboratori: Ministerul Economiei, Comerțului și Mediului de
+Afaceri
+Ministerul Administrației și Internelor
+Agenția Națională pentru Resurse Minerale
+Ministerul Sănătății
+
+III.9. Instalații agricole și pentru acvacultură
+Echipament și instalații de producție agricolă (inclusiv sisteme
+de irigație, sere și grajduri)
+
+Coordonator: Ministerul Agriculturii și Dezvoltării Rurale
+
+III.10. Repartizarea populației — demografie
+Repartizare geografică a populației, inclusiv caracteristicile
+populației și nivelurile de activitate, cumulate pe unități de
+caroiaj cartografic, regiune, unitate administrativă sau altă
+unitate analitică.
+
+Coordonator: Institutul Național de Statistică
+Colaboratori: Academia Română
+
+III.11. Zone de administrare/restricție/reglementare și unități
+de raportare
+Zone administrate, reglementate sau folosite pentru raportarea
+la nivel internațional, european, național, regional și local.
+Includ gropile de gunoi, zonele de protecție a surselor de apă
+potabilă, zonele vulnerabile la nitrați, șenalele navigabile
+reglementate de pe mare sau din apele interne importante,
+zonele destinate descărcării deșeurilor, zonele în care există
+limitări cu privire la nivelurile de zgomot, zonele aprobate
+pentru prospectare și exploatare minieră, districtele bazinelor
+hidrografice, unitățile relevante de raportare și zonele de
+administrare a litoralului.
+
+Coordonator: Ministerul Mediului și Pădurilor
+Colaboratori: Ministerul Sănătății
+Ministerul Apărării Naționale
+Agenția Națională pentru Resurse Minerale
+Ministerul Economiei, Comerțului și Mediului de
+Afaceri
+
+III.12. Zone de risc natural
+Zone vulnerabile caracterizate în funcție de riscurile naturale
+(orice fenomen atmosferic, hidrologic, seismic, vulcanic,
+precum și incendiile, care, din cauza localizării, gravității și
+frecvenței, pot afecta grav societatea), de exemplu: inundațiile,
+alunecările și surpările de teren, avalanșele, incendiile
+forestiere, cutremurele de pământ, erupțiile vulcanice
+
+Coordonator: Ministerul Dezvoltării Regionale și Turismului
+Colaboratori: Ministerul Administrației și Internelor
+Ministerul Mediului și Pădurilor
+Ministerul Educației, Cercetării, Tineretului și
+Sportului
+Ministerul Agriculturii și Dezvoltării Rurale
+Institutul Național de Statistică
+Academia Română
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 66/29.I.2010
+Seturi de date spațiale
+
+Autorități responsabile
+
+III.13. Condiții atmosferice
+Parametrii fizici din atmosferă. Includ datele spațiale bazate
+pe măsurători, pe modele sau pe o combinație între acestea,
+precum și locațiile de măsurare.
+
+Coordonator: Ministerul Mediului și Pădurilor
+Colaboratori: Ministerul Educației, Cercetării, Tineretului și
+Sportului
+Academia Română
+
+III.14. Caracteristici geografice meteorologice
+Condițiile meteorologice și măsurătorile acestora: precipitații,
+temperatură, evapotranspirație, viteza și direcția vântului
+
+Coordonator: Ministerul Mediului și Pădurilor
+Colaboratori: Ministerul Educației, Cercetării, Tineretului și
+Sportului
+Academia Română
+
+III.15. Caracteristici geografice oceanografice
+Parametrii fizici ai oceanelor (curenți, salinitate, înălțimea
+valurilor etc.)
+III.16. Regiuni maritime
+Parametrii fizici ai mărilor și corpurilor de apă sărată divizate în
+regiuni și subregiuni cu caracteristici comune
+
+Coordonator: Ministerul Mediului și Pădurilor
+Colaboratori: Academia Română
+Ministerul Educației, Cercetării, Tineretului și
+Sportului
+Ministerul Apărării Naționale
+
+III.17. Regiuni biogeografice
+Zone relativ omogene pe baza condițiilor ecologice, având
+caracteristici comune
+
+Coordonator: Ministerul Mediului și Pădurilor
+Colaboratori: Academia Română
+
+III.18. Habitate și biotopuri
+Zone geografice caracterizate prin condiții ecologice specifice,
+procese, structură și funcții (de menținere a vieții) care sprijină
+fizic organismele care trăiesc acolo. Includ zonele terestre și
+acvatice care se disting prin caracteristicile lor geografice,
+abiotice și biotice, indiferent că acestea sunt naturale sau
+seminaturale.
+
+Coordonator: Ministerul Mediului și Pădurilor
+Colaboratori: Ministerul Educației, Cercetării, Tineretului și
+Sportului
+Ministerul Agriculturii și Dezvoltării Rurale
+Academia Română
+
+III.19. Repartizarea speciilor
+Distribuția geografică a speciilor de animale și plante,
+cumulate pe unități de caroiaj cartografic, regiune, unitate
+administrativă sau altă unitate analitică
+
+Coordonator: Ministerul Mediului și Pădurilor
+Colaboratori: Ministerul Educației, Cercetării, Tineretului și
+Sportului
+Ministerul Agriculturii și Dezvoltării Rurale
+Academia Română
+
+III.20. Resurse energetice
+Resurse energetice, incluzând hidrocarburi, energia hidro,
+bioenergia, energia solară, energia eoliană etc., însoțite de
+informații relevante privind extinderea resursei, inclusiv prin
+adâncimea/înălțimea la care se află, după caz, în condițiile legii
+
+Coordonator: Ministerul Economiei, Comerțului și Mediului de
+Afaceri
+Colaboratori: Agenția Națională pentru Resurse Minerale
+
+III.21. Resurse minerale
+Resurse minerale, incluzând minereurile metalifere, mineralele
+industriale etc., însoțite de informații relevante privind
+extinderea resursei, inclusiv prin adâncimea/înălțimea la care
+se află, după caz, în condițiile legii
+
+Coordonator: Agenția Națională pentru Resurse Minerale
+Colaboratori: Ministerul Economiei, Comerțului și Mediului de
+Afaceri
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 66/29.I.2010
+
+13
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+MINISTERUL AFACERILOR EXTERNE
+
+ORDIN
+privind intrarea în vigoare a unor tratate internaționale
+Constatând că părțile au îndeplinit procedurile legale necesare pentru intrarea în vigoare a tratatelor internaționale
+enumerate mai jos,
+în temeiul art. 25 alin. (9) din Legea nr. 590/2003 privind tratatele, potrivit căruia prin ordin al ministrului afacerilor externe
+se face cunoscută intrarea în vigoare a tratatelor internaționale încheiate de România cu alte state, care se publică, fără plată, în
+Monitorul Oficial al României, Partea I,
+ministrul afacerilor externe emite prezentul ordin.
+Art. 1. — La data de 19 octombrie 2009 a intrat în vigoare
+Acordul dintre Guvernul României și Guvernul Republicii
+Bulgaria privind legislația aplicabilă relațiilor de muncă,
+securitate socială și securitate și sănătate în muncă legate de
+construirea unui nou pod mixt (rutier și feroviar) de frontieră între
+cele două țări, peste fluviul Dunărea, la Calafat—Vidin, semnat
+la București la 25 iulie 2008 și la Sofia la 26 august 2008,
+ratificat prin Legea nr. 318/2009, publicată în Monitorul Oficial
+al României, Partea I, nr. 693 din 15 octombrie 2009.
+Art. 2. — La data de 18 decembrie 2009 a intrat în vigoare
+Acordul de cooperare economică dintre Guvernul României și
+Guvernul Republicii Populare Chineze, semnat la București la
+19 octombrie 2006, aprobat prin Hotărârea Guvernului
+nr. 784/2007, publicată în Monitorul Oficial al României, Partea I,
+nr. 558 din 15 august 2007.
+Art. 3. — La data de 22 februarie 2009 a intrat în vigoare
+Înțelegerea privind cooperarea dintre Ministerul Justiției din
+România și Ministerul Justiției din Republica Coreea, semnată
+la Seul la 11 septembrie 2008, aprobată prin Hotărârea
+Guvernului nr. 1.400/2008, publicată în Monitorul Oficial al
+României, Partea I, nr. 761 din 11 noiembrie 2008.
+Art. 4. — La data de 3 august 2009 a intrat în vigoare
+Protocolul adițional dintre Guvernul României și Guvernul
+Republicii Populare Democrate Coreene, semnat la București
+la 21 octombrie 2008, la Acordul dintre Guvernul României și
+Guvernul Republicii Populare Democrate Coreene privind
+promovarea și protejarea reciprocă a investițiilor, semnat la
+București la 23 ianuarie 1998, ratificat prin Legea nr. 280/2009,
+publicată în Monitorul Oficial al României, Partea I, nr. 494 din
+16 iulie 2009.
+Art. 5. — La data de 28 septembrie 2009 a intrat în vigoare
+Acordul privind cooperarea în domeniul militar dintre Ministerul
+Apărării Naționale din România și Ministerul Apărării Naționale
+din Republica Elenă, semnat la Atena la 24 mai 2002, aprobat
+prin Hotărârea Guvernului nr. 914/2002, publicată în Monitorul
+Oficial al României, Partea I, nr. 669 din 9 septembrie 2002.
+Art. 6. — La data de 7 ianuarie 2010 a intrat în vigoare
+Acordul de coproducție în domeniul cinematografiei între
+Guvernul României și Guvernul Republicii Franceze, semnat la
+Cannes la 18 mai 2009, aprobat prin Hotărârea Guvernului
+nr. 1.525/2009, publicată în Monitorul Oficial al României,
+Partea I, nr. 906 din 23 decembrie 2009.
+Art. 7. — La data de 10 decembrie 2008 a intrat în vigoare
+Acordul dintre Guvernul României și Guvernul Republicii
+Federale Germania privind colaborarea financiară pentru anul
+2006, semnat la București la 24 iulie 2008, ratificat prin
+Ordonanța de urgență a Guvernului nr. 171/2008, publicată în
+Monitorul Oficial al României, Partea I, nr. 802 din 28 noiembrie
+2008, aprobată prin Legea nr. 103/2009, publicată în Monitorul
+Oficial al României, Partea I, nr. 265 din 23 aprilie 2009.
+
+Art. 8. — La data de 21 octombrie 2009 a intrat în vigoare
+Protocolul dintre Guvernul României și Guvernul Republicii
+India, semnat la București la 16 februarie 2009, privind
+amendarea Acordului dintre Guvernul României și Guvernul
+Republicii India pentru promovarea și protejarea reciprocă a
+investițiilor, semnat la New Delhi la 17 noiembrie 1997, ratificat
+prin Legea nr. 306/2009, publicată în Monitorul Oficial al
+României, Partea I, nr. 684 din 12 octombrie 2009.
+Art. 9. — La data de 6 noiembrie 2009 a intrat în vigoare
+Memorandumul de înțelegere dintre Oficiul Național de
+Prevenire și Combatere a Spălării Banilor (România) și Unitatea
+de Analiză a Informațiilor Financiare (Republica Malta) privind
+cooperarea în domeniul schimbului de informații financiare
+având legătură cu spălarea banilor și finanțarea actelor de
+terorism, semnat la Doha la 28 mai 2009, aprobat prin Hotărârea
+Guvernului nr. 1.059/2009, publicată în Monitorul Oficial al
+României, Partea I, nr. 667 din 6 octombrie 2009.
+Art. 10. — La data de 15 octombrie 2009 a intrat în vigoare
+Protocolul privind colaborarea dintre Ministerul Afacerilor
+Externe al României și Ministerul Afacerilor Externe și Integrării
+Europene al Republicii Moldova, semnat la București la
+20 octombrie 2006, aprobat prin Hotărârea Guvernului
+nr. 266/2007, publicată în Monitorul Oficial al României, Partea I,
+nr. 204 din 26 martie 2007.
+Art. 11. — La data de 24 decembrie 2009 a intrat în vigoare
+Protocolul dintre Ministerul Apărării din România și Ministerul
+Apărării al Republicii Moldova privind cooperarea în domeniul
+topogeodeziei militare, semnat la Chișinău la 25 decembrie
+2006 și la București la 9 martie 2007, aprobat prin Hotărârea
+Guvernului nr. 706/2007, publicată în Monitorul Oficial al
+României, Partea I, nr. 512 din 31 iulie 2007.
+Art. 12. — La data de 27 noiembrie 2009 a intrat în vigoare
+Memorandumul de înțelegere dintre Ministerul Mediului și
+Dezvoltării Durabile din România și Ministerul Protecției Mediului
+din Republica Serbia privind cooperarea în domeniul protecției
+mediului, semnat la București la 21 mai 2008, aprobat prin
+Hotărârea Guvernului nr. 911/2008, publicată în Monitorul Oficial
+al României, Partea I, nr. 626 din 28 august 2008.
+Art. 13. — La data de 30 decembrie 2009 a intrat în vigoare
+Acordul dintre Guvernul României și Guvernul Republicii
+Slovace de cooperare științifică și tehnologică, semnat la
+Bratislava la 31 martie 2009, aprobat prin Hotărârea Guvernului
+nr. 974/2009, publicată în Monitorul Oficial al României, Partea I,
+nr. 621 din 16 septembrie 2009.
+Art. 14. — La data de 14 noiembrie 2009 a intrat în vigoare
+Convenția dintre România și Republica Sudan pentru evitarea
+dublei impuneri și prevenirea evaziunii fiscale cu privire la
+impozitele pe venit și pe capital, semnată la București la 31 mai
+2007, ratificată prin Legea nr. 386/2007, publicată în Monitorul
+Oficial al României, Partea I, nr. 13 din 8 ianuarie 2008.
+
+Ministrul afacerilor externe,
+Teodor Baconschi
+București, 12 ianuarie 2010.
+Nr. 33.
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 66/29.I.2010
+
+ACTE ALE CURȚII EUROPENE A
+DREPTURILOR OMULUI
+CURTEA EUROPEANĂ A DREPTURILOR OMULUI
+
+HOTĂRÂREA
+din 28 iulie 2009
+
+în Cauza Colceru împotriva României
+(Cererea nr. 4.321/03)
+În Cauza Colceru împotriva României,
+Curtea Europeană a Drepturilor Omului (Secția a treia), statuând în cadrul unei camere formate din: Josep Casadevall,
+președinte, Elisabet Fura-Sandström, Corneliu Bîrsan, Boštjan M. Zupančič, Alvina Gyulumyan, Ineta Ziemele, Ann Power,
+judecători, și din Santiago Quesada, grefier de secție,
+după ce a deliberat în Camera de consiliu la data de 7 iulie 2009,
+pronunță următoarea hotărâre, adoptată la această dată:
+PROCEDURA
+
+1. La originea cauzei se află o cerere (nr. 4.321/03)
+îndreptată împotriva României, prin care un cetățean al acestui
+stat, doamna Lili Colceru (reclamanta), a sesizat Curtea la data
+de 11 decembrie 2002, în temeiul art. 34 din Convenția pentru
+apărarea drepturilor omului și a libertăților fundamentale
+(Convenția).
+2. Guvernul român (Guvernul) este reprezentat de agentul
+său, domnul Răzvan-Horațiu Radu, din cadrul Ministerului
+Afacerilor Externe.
+3. La data de 12 februarie 2008, președintele Secției a treia
+a hotărât să îi comunice Guvernului cererea. Astfel cum prevede
+art. 29 § 3 din Convenție, acesta a hotărât să se analizeze în
+același timp admisibilitatea și fondul cauzei.
+ÎN FAPT
+
+I. Circumstanțele cauzei
+4. Reclamanta s-a născut în anul 1955 și locuiește în
+municipiul București.
+5. Prin Ordonanța de urgență a Guvernului nr. 2/2001,
+Agenția Națională pentru Comunicații și Informatică a fost
+dizolvată și înlocuită cu Ministerul Comunicațiilor și Tehnologiei
+Informației (ministerul).
+Prin Ordinul din data de 3 ianuarie 2001, reclamanta, juristă
+în cadrul acestei agenții, a fost concediată.
+6. Prin Sentința din data de 25 aprilie 2001, confirmată în
+ultimă instanță prin Decizia definitivă din 9 octombrie 2001 a
+Curții Supreme de Justiție, Curtea de Apel București a admis
+contestația reclamantei și a obligat ministerul să o reîncadreze
+pe vechiul său post, să facă mențiunile aferente în cartea sa de
+muncă și să îi plătească 14.800.000 lei vechi românești (ROL)
+pentru salariile nepercepute pentru perioada ianuarie—aprilie
+2001.
+7. La data de 10 ianuarie 2002, ministerul i-a achitat
+reclamantei suma de 16.546.400 ROL.
+8. La data de 7 martie 2002, în urma plângerilor reclamantei
+îndreptate împotriva ministrului comunicațiilor și tehnologiei
+informației (ministrul), Parchetul de pe lângă Curtea Supremă
+de Justiție a informat-o că numai Camera Deputaților, Senatul și
+Președintele României au dreptul să ceară începerea urmăririi
+penale împotriva membrilor Guvernului pentru fapte comise în
+exercitarea funcțiilor lor. Ulterior, Administrația Prezidențială a
+informat-o despre inexistența oricăror indicii ale unei eventuale
+comiteri a unei infracțiuni și, în plus, după admiterea recursului
+în anulare (vezi mai jos), plângerea sa a fost clasată.
+Conform afirmațiilor reclamantei, Camera Deputaților și
+Senatul nu au răspuns la plângerile sale.
+
+La data de 4 aprilie 2003, Parchetul de pe lângă Curtea
+Supremă de Justiție a informat-o despre refuzul de a începe
+urmărirea penală împotriva conducerii ministerului din cauza
+lipsei caracterului penal al faptelor sesizate.
+9. Prin Sentința din data de 17 aprilie 2002, Curtea de Apel
+București l-a obligat pe ministru să îi plătească daune
+cominatorii până la executarea Sentinței din 25 aprilie 2001. Cu
+toate acestea, la data de 27 iunie 2002, Curtea Supremă de
+Justiție a casat această sentință, trimițând-o spre rejudecare.
+Reclamanta nu a informat Curtea despre modul în care s-a
+finalizat această procedură.
+10. Prin Ordinul din data de 29 aprilie 2002, ministerul a
+dispus reîncadrarea reclamantei într-o altă direcție, cea a
+arhivelor.
+11. Prin Decizia definitivă din 18 octombrie 2002, Curtea
+Supremă de Justiție a anulat Ordinul din 29 aprilie 2002,
+statuând că direcția juridică nu fusese desființată.
+12. În urma recursului în anulare formulat de procurorul
+general al României, prin Decizia din 4 noiembrie 2002, Curtea
+Supremă de Justiție a casat sentințele din 25 aprilie și
+9 octombrie 2001 și a respins plângerea reclamantei împotriva
+Ordinului din data de 3 ianuarie 2001. Aceasta a statuat că
+încetarea activității agenției a determinat încetarea raporturilor
+de muncă, conform Legii nr. 188/1999 privind Statutul
+funcționarilor publici.
+13. Prin Sentința din 18 decembrie 2003, rămasă definitivă,
+Judecătoria Sectorului 2 București a admis acțiunea
+ministerului, prin care se urmărea recuperarea sumelor
+actualizate, plătite ca despăgubiri. Instanța a obligat-o pe
+reclamantă la plata sumei de 20.385.164 ROL, plus cheltuieli de
+judecată.
+14. La data de 14 iunie 2005, reclamanta a plătit suma de
+22.067.377 ROL.
+II. Dreptul intern pertinent
+15. Prevederile legale relevante, aflate în vigoare la data
+evenimentelor, sunt descrise în Hotărârea SC Mașinexportimport
+Industrial Group SA împotriva României (nr. 22.687/03, § 22,
+1 decembrie 2005).
+ÎN DREPT
+
+I. Asupra obiectului cererii
+16. În observațiile sale din data de 18 iulie 2008 reclamanta
+se plânge cu privire la calomnierea sa publică prin intermediul
+unui comunicat de presă al ministerului din data de 2 iulie 2002,
+postat pe pagina de internet a acestuia și legat de situația
+litigioasă dintre minister și reclamantă.
+17. Curtea reamintește că cererea de față a fost comunicată
+Guvernului conform art. 29 § 3 din Convenție potrivit căruia se
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 66/29.I.2010
+procedează la analiza concomitentă a admisibilității și fondului.
+De asemenea, aceasta reamintește că a stabilit deja că nu este
+cazul să se pronunțe cu privire la capete de cerere ce nu au fost
+formulate decât după comunicarea cauzei către guvernul pârât
+(vezi Vigovskyy împotriva Ucrainei, nr. 42.318/02, § 14,
+20 decembrie 2005).
+18. Având în vedere că acest capăt de cerere nu a fost
+precizat înainte de comunicarea cauzei de față, el nu va face
+parte din analiza Curții. Cu toate acestea, reclamanta are
+posibilitatea să sesizeze Curtea cu o nouă cerere (vezi, mutatis
+mutandis, Dimitriu și Dumitrache împotriva României,
+nr. 35.823/03, § 24, 20 ianuarie 2009).
+II. Asupra pretinselor încălcări ale art. 6 § 1 din Convenție
+și art. 1 din Protocolul nr. 1
+19. Reclamanta susține că anularea deciziei definitive a
+Curții Supreme de Justiție din data de 9 octombrie 2001 prin
+admiterea recursului în anulare introdus de procurorul general a
+încălcat principiul securității raporturilor juridice și dreptul său la
+respectarea bunurilor. Ea invocă art. 6 § 1 din Convenție și, în
+esență, art. 1 din Protocolul nr. 1, care prevăd următoarele în
+părțile lor relevante:
+ARTICOLUL 6 § 1
+
+ăOrice persoană are dreptul la judecarea în mod echitabil (...)
+a cauzei sale de către o instanță independentă și imparțială (...),
+care va hotărî (...) asupra încălcării drepturilor și obligațiilor sale
+cu caracter civil (...).”
+ARTICOLUL 1
+
+din Protocolul nr. 1
+ăOrice persoană fizică sau juridică are dreptul la respectarea
+bunurilor sale. Nimeni nu poate fi lipsit de proprietatea sa decât
+pentru cauză de utilitate publică și în condițiile prevăzute de lege
+și de principiile generale ale dreptului internațional.
+Dispozițiile precedente nu aduc atingere dreptului statelor de
+a adopta legile pe care le consideră necesare pentru a
+reglementa folosința bunurilor conform interesului general sau
+pentru a asigura plata impozitelor ori a altor contribuții, sau a
+amenzilor.”
+A. Asupra admisibilității
+
+20. Curtea constată că aceste capete de cerere nu sunt vădit
+neîntemeiate în sensul art. 35 § 3 din Convenție. De asemenea,
+aceasta constată că ele nu sunt afectate de niciun alt motiv de
+inadmisibilitate. Prin urmare, acestea trebuie declarate
+admisibile.
+B. Asupra fondului
+
+21. Guvernul reiterează argumentele sale invocate în cauze
+similare referitoare la recursuri în anulare. În mod special, el
+subliniază că instanța supremă a făcut o interpretare a dreptului,
+și nu a faptelor în cauză. Guvernul lasă la aprecierea Curții
+analiza temeiniciei capetelor de cerere formulate în cauză.
+22. Reclamanta contestă poziția Guvernului.
+23. Curtea a analizat în mai multe rânduri cauze ce ridicau
+probleme similare cu cele ale cauzei de față, în care a constatat
+încălcarea art. 6 § 1 din Convenție și a art. 1 din Protocolul nr. 1,
+având în vedere readucerea în discuție a soluției date în mod
+definitiv unui litigiu și lipsirea reclamanților de bunurile de care
+beneficiau la finalul procedurii, în urma unui recurs în anulare
+(vezi, printre altele, Brumărescu, menționată mai sus, §§ 61, 77
+și 80, SC Mașinexportimport Industrial Group SA, menționată
+mai sus, §§ 32 și 46—47, și Piața Bazar Dorobanți SRL
+împotriva României, nr. 37.513/03, §§ 23 și 33, 4 octombrie
+2007).
+24. Analizând cauza de față, Curtea consideră că Guvernul
+nu a oferit niciun argument convingător care să poată conduce
+la o altă concluzie. În mod special, Curtea constată că Curtea
+Supremă de Justiție, sesizată de procurorul general, a reanalizat
+
+15
+
+cauza și că, printr-o interpretare diferită a probelor depuse la
+dosar, a anulat, la data de 4 noiembrie 2002, decizia pronunțată
+în ultimă instanță la data de 9 octombrie 2001 de Curtea
+Supremă de Justiție, care confirmase reîncadrarea reclamantei
+pe postul său și plata salariilor neîncasate.
+25. Având în vedere cele de mai sus și elementele aflate în
+dosar, Curtea constată că anularea de către Curtea Supremă
+de Justiție a hotărârii definitive menționate mai sus a încălcat
+principiul securității raporturilor juridice, încălcând dreptul
+reclamantei la un proces echitabil și dreptul său la respectarea
+bunurilor.
+26. Prin urmare, a avut loc încălcarea art. 6 § 1 din Convenție
+și art. 1 din Protocolul nr. 1.
+III. Asupra celorlalte pretinse încălcări
+27. Din perspectiva art. 6 § 1 din Convenție, reclamanta se
+plânge că autoritățile au refuzat să înceapă urmărirea penală
+împotriva ministrului pentru refuzul acestuia de a pune în
+executare o hotărâre (paragraful 8 de mai sus).
+28. Curtea reamintește că art. 6 § 1 nu presupune dreptul de
+a obține urmărirea sau condamnarea unui terț în dreptul penal,
+nici obligația de rezultat care să presupună că orice urmărire
+trebuie să se soldeze cu o condamnare sau chiar cu stabilirea
+unei pedepse determinate (vezi, mutatis mutandis, Perez
+împotriva Franței [MC], nr. 47.287/99, § 70, CEDO 2004-I).
+29. Rezultă că acest capăt de cerere este incompatibil
+ratione materiae cu prevederile Convenției în sensul art. 35 § 3
+și trebuie respins în aplicarea art. 35 § 4.
+30. De asemenea, reclamanta se plânge de neexecutarea
+Sentinței din data de 25 aprilie 2001, confirmată în ultimă
+instanță prin Decizia definitivă din 9 octombrie 2001.
+31. Ținând cont de concluziile sale de la paragraful 26 de
+mai sus, Curtea nu consideră necesar să analizeze acest capăt
+de cerere separat.
+32. Reclamanta mai invocă încălcarea art. 13 din Convenție
+din aceleași motive ca și pentru încălcarea art. 6.
+33. Deoarece capătul de cerere întemeiat pe art. 13 se
+referă, în esență, la aceleași aspecte vizate de capătul de cerere
+analizat deja din perspectiva art. 6 § 1 din Convenție de mai sus,
+Curtea nu consideră necesar să procedeze și la o analiză din
+perspectiva art. 13; cerințele acestui articol sunt, într-adevăr, mai
+puțin stricte decât cele ale art. 6 § 1 și sunt absorbite de ele în
+speță (vezi, printre altele, Sporrong și Lönnroth împotriva
+Suediei, 23 septembrie 1982, § 88, seria A nr. 52).
+IV. Asupra aplicării art. 41 din Convenție
+34. Conform art. 41 din Convenție:
+ăDacă Curtea declară că a avut loc o încălcare a Convenției
+sau a protocoalelor sale și dacă dreptul intern al înaltei părți
+contractante nu permite decât o înlăturare incompletă a
+consecințelor acestei încălcări, Curtea acordă părții lezate, dacă
+este cazul, o reparație echitabilă.”
+A. Prejudiciu
+
+35. Reclamanta solicită suma de 162.680 euro (EUR) pentru
+prejudiciul material pe care l-a suferit din cauza neexecutării
+Deciziei definitive din data de 9 octombrie 2001 și a Sentinței
+din data de 17 aprilie 2002 (damnum emergens) și pentru
+câștigul nerealizat (lucrum cessans). De asemenea, ea solicită
+suma de 100.000 EUR pentru prejudiciul moral suferit.
+36. Guvernul contestă aceste pretenții. Acesta admite că
+reclamanta are o creanță în ceea ce privește suma de
+22.067.377 ROL pe care a plătit-o în urma admiterii recursului în
+anulare. Această sumă, actualizată în funcție de inflație, conform
+Institutului Național de Statistică, se ridică la 2.680,73 lei noi
+românești (RON), adică circa 740,53 EUR. Guvernul observă
+că reclamanta nu a solicitat drepturile salariale până la
+reîncadrarea sa, ci numai pentru o perioadă determinată, și că
+nu a precizat niciun temei legal pentru calcularea salariilor
+pretinse.
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 66/29.I.2010
+
+În ceea ce privește prejudiciul moral, Guvernul consideră că
+nu există nicio legătură de cauzalitate între prejudiciul moral
+invocat și pretinsa încălcare a Convenției. În plus, constată că
+suma solicitată în acest sens este excesivă și că, în orice caz,
+o eventuală hotărâre de condamnare ar putea constitui o
+reparație satisfăcătoare pentru prejudiciul moral pe care
+reclamanta pretinde că l-a suferit.
+37. Curtea constată că prin Sentința din 25 aprilie 2001 a
+Curții de Apel București, reclamantei i s-a recunoscut o creanță
+de 14.800.000 ROL, adică circa 600 EUR, la cursul de schimb
+mediu practicat în anul 2001 de Banca Națională a României.
+Având în vedere informațiile trimise de părți cu privire la
+valoarea creanței reclamantei, corectată în funcție de rata
+inflației, precum și cererile de reparație echitabilă ale acesteia și
+
+comentariile Guvernului, Curtea consideră că este cazul să îi
+aloce reclamantei, în echitate, suma de 800 EUR, ca daune
+materiale.
+38. În ceea ce privește reparația prejudiciului moral, ținând
+cont de circumstanțele speței și statuând în echitate, astfel cum
+prevede art. 41, Curtea hotărăște să îi acorde reclamantei suma
+de 2.000 EUR, cu titlu de daune morale.
+B. Cheltuieli de judecată
+
+39. Reclamanta nu solicită nicio sumă în acest sens.
+C. Dobânzi moratorii
+
+40. Curtea consideră potrivit ca rata dobânzii moratorii să se
+bazeze pe rata dobânzii facilității de împrumut marginal a Băncii
+Centrale Europene, majorată cu 3 puncte procentuale.
+
+P E N T R U A C E S T E M O T I V E,
+
+În unanimitate,
+CURTEA
+
+1. declară cererea admisibilă în ceea ce privește capetele de cerere întemeiate pe art. 6 § 1 din Convenție referitor la
+securitatea raporturilor juridice și pe art. 1 din Protocolul nr. 1 și inadmisibilă în ceea ce privește capătul de cerere referitor la
+pretinsul refuz al autorităților de a începe urmărirea penală;
+2. hotărăște că a avut loc încălcarea art. 6 § 1 din Convenție și a art. 1 din Protocolul nr. 1 la Convenție;
+3. hotărăște că nu este cazul să se pronunțe cu privire la celelalte capete de cerere;
+4. hotărăște
+a) ca statul pârât să îi plătească reclamantei, în cel mult 3 luni de la data rămânerii definitive a prezentei hotărâri conform
+art. 44 § 2 din Convenție, următoarele sume, ce vor fi convertite în moneda statului pârât la cursul de schimb valabil la data plății:
+(i) 800 EUR (opt sute euro) drept daune materiale;
+(ii) 2.000 EUR (două mii euro) drept daune morale;
+(iii) orice sumă ce ar putea fi datorată cu titlu de impozit la sumele de mai sus;
+b) ca, începând de la expirarea termenului menționat mai sus și până la efectuarea plății, aceste sume să se majoreze cu
+o dobândă simplă având o rată egală cu cea a facilității de împrumut marginal a Băncii Centrale Europene valabilă în această
+perioadă, majorată cu 3 puncte procentuale;
+5. respinge cererea de reparație echitabilă în rest.
+Întocmită în limba franceză, apoi comunicată în scris la data de 28 iulie 2009, în conformitate cu art. 77 §§ 2 și 3 din
+Regulament.
+Josep Casadevall,
+președinte
+
+Santiago Quesada,
+grefier
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+ăMonitorul Oficial” R.A., Str. Parcului nr. 65, sectorul 1, București; C.I.F. RO427282,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala ăUnirea” București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 021.318.51.29/150, fax 021.318.51.15, e-mail: marketing@ramo.ro, internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 021.411.58.33 și 021.410.47.30, fax 021.410.77.36 și 021.410.47.23
+Tiparul: ăMonitorul Oficial” R.A.
+Monitorul Oficial al României, Partea I, nr. 66/29.I.2010 conține 16 pagini.
+
+Prețul: 3,20 lei
+
+&JUYDGY|437159]
+ISSN 1453—4495
+
+

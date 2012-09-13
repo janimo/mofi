@@ -1,0 +1,1973 @@
+PARTEA
+
+Anul XIV — Nr. 172
+
+I
+
+Marți, 12 martie 2002
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+ALTE ALE COMISIEI NAÞIONALE
+A VALORILOR MOBILIARE
+
+13/2001. — Ordin pentru aprobarea Regulamentului
+nr. 6/2001 privind autorizarea și exercitarea serviciilor de intermediere la bursele de mărfuri ...........
+
+1–16
+
+ACTE ALE COMISIEI NAÞIONALE A VALORILOR MOBILIARE
+COMISIA NAÞIONALĂ A VALORILOR MOBILIARE
+
+ORDIN
+pentru aprobarea Regulamentului nr. 6/2001 privind autorizarea și exercitarea
+serviciilor de intermediere la bursele de mărfuri
+Președintele Comisiei Naționale a Valorilor Mobiliare,
+în conformitate cu prevederile art. 4 și 6 din Legea nr. 129/2000 pentru aprobarea
+Ordonanței Guvernului nr. 69/1997 privind piețele reglementate de mărfuri, servicii și instrumente
+derivate,
+în temeiul Hotărârii Parlamentului României nr. 19 din 27 iunie 2001,
+în baza Hotărârii Comisiei Naționale a Valorilor Mobiliare din ședința din data de 2 octombrie
+2001,
+emite următorul ordin:
+Art. 1. — La data prezentului ordin se aprobă Regulamentul nr. 6/2001 privind autorizarea și
+exercitarea serviciilor de intermediere la bursele de mărfuri.
+Art. 2. — Regulamentul menționat la art. 1 intră în vigoare la data publicării în Monitorul
+Oficial al României.
+Art. 3. — Departamentul autorizare reglementare și Secretariatul general vor asigura aducerea la îndeplinire a prevederilor prezentului ordin.
+p. Președintele Comisiei Naționale a Valorilor Mobiliare,
+Irina Mihaela Popovici,
+vicepreședinte
+București, 12 octombrie 2001.
+Nr. 13.
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 172/12.III.2002
+REGULAMENTUL Nr. 6/2001
+privind autorizarea și exercitarea serviciilor de intermediere la bursele de mărfuri
+CAPITOLUL 1
+Dispoziții generale
+
+Art. 1. — Prezentul regulament stabilește, în conformitate cu Legea nr. 129/2000 de aprobare a Ordonanței
+Guvernului nr. 69/1997 privind bursele de mărfuri, norme
+cu privire la autorizarea intermedierii și a operării pe piețele
+burselor de mărfuri reglementate, autorizate, supravegheate
+și controlate de Comisia Națională a Valorilor Mobiliare,
+denumită în continuare C.N.V.M.
+Art. 2. — În sensul prezentului regulament, expresiile de
+mai jos au următoarele semnificații:
+1. broker este persoana fizică autorizată de C.N.V.M. și
+atestată de asociația bursei de mărfuri unde își desfășoară
+activitatea, care are ca atribuție exclusivă executarea, negocierea ofertelor de vânzare și de cumpărare, a ordinelor
+clienților unei societăți de intermediere membre a asociației
+bursei și autorizate de C.N.V.M.; brokerii negociază ofertele
+de vânzare și cumpărare și încheie tranzacții în contul
+societății de intermediere;
+2. client este persoana fizică sau juridică în contul
+căreia societatea de intermediere realizează operațiuni specifice burselor de mărfuri în baza unui contract de intermediere;
+3. bursa de mărfuri este piața organizată de o societate
+de bursă de interes general, reglementată, autorizată,
+supravegheată și controlată de C.N.V.M., care asigură
+membrilor și clienților condiții centralizate de negociere, precum și de gestionare a riscurilor prin sisteme de
+tranzacționare, pentru operațiuni de:
+a) vânzări și achiziții la vedere ori la termen, prin contracte spot sau forward, având ca obiect mărfuri cum sunt
+produsele agricole sau materiile prime destinate procesării,
+din categoria celor care, prin natura lor, sunt bunuri fungibile sau bunuri mobile prin anticipație;
+b) vânzări și achiziții la vedere ori la termen, prin contracte spot sau forward, având ca obiect titluri reprezentative pe mărfuri, de tipul recipisei de depozit și al
+warantului, al conosamentului, al poliței de asigurare și al
+altora asemenea, agreate și clasificate de C.N.V.M., precum și achiziții sau vânzări la termen prin contracte futures
+ori cu opțiuni;
+c) vânzări și achiziții la termen de active monetare și
+financiare sau titluri pe active monetare ori financiare, precum și alte active agreate și clasificate de C.N.V.M.;
+d) navlosiri, asigurări maritime și fluviale de nave și
+încărcătură;
+e) vânzări și achiziții utilizând și alte instrumente financiare calificate de C.N.V.M.;
+4. contract de compensare este acel contract încheiat
+între o societate de intermediere care nu are calitatea de
+membru compensator și o societate de intermediere care
+deține calitatea de membru compensator, care dă posibilitatea celei dintâi ca prin intermediul celei de-a doua să
+efectueze înregistrarea, garantarea și compensarea/decontarea pentru contractele futures și cu opțiuni la o casă de
+compensație;
+5. societate de brokeraj este societatea comercială constituită în baza Legii nr. 31/1990 privind societățile comerciale, republicată, cu modificările ulterioare, autorizată de
+C.N.V.M. ca intermediar în bursa de mărfuri, având calitatea de membru al unei societăți de bursă, de membru afiliat la o societate de bursă sau de membru compensator;
+obiectul exclusiv de activitate al societății de brokeraj
+constă în negocierea și perfectarea contractelor pe bursele
+de mărfuri, în cont propriu sau în contul clienților ei;
+6. societate de intermediere reprezintă societatea de
+brokeraj sau societatea de valori mobiliare autorizată să
+presteze servicii de brokeraj pe bursele de mărfuri;
+
+7. oferta de vânzare/cumpărare reprezintă manifestarea
+de voință a unui client în vederea executării unui ordin de
+bursă de către societatea de intermediere, în conformitate
+cu Regulamentul de funcționare al bursei de mărfuri, reglementările C.N.V.M. aplicabile în materie și cu prevederile
+Legii nr. 129/2000;
+8. piață lichidă se referă la o piață autorizată de
+C.N.V.M., în care prețul de cotare (de referință) al unor
+mărfuri, servicii sau instrumente financiare derivate poate fi
+determinat, iar plata pentru mărfurile, serviciile sau instrumentele derivate vândute poate fi încasată prompt și în
+condiții de siguranță;
+9. valoarea de piață a activelor pieței de mărfuri, servicii
+și instrumente financiare derivate, tranzacționate pe o piață
+recunoscută de C.N.V.M., se calculează de către casa de
+compensație conform unor proceduri autorizate/avizate de
+C.N.V.M.;
+10. trader este persoana fizică autorizată în această
+calitate de C.N.V.M. și atestată de o societate de bursă,
+care are dreptul de a negocia în bursa de mărfuri ofertele
+de vânzare-cumpărare, numai în numele și în contul său,
+în baza unei permis eliberat de societatea de bursă și a
+unui contract încheiat cu casa de compensație;
+11. bunuri fungibile sunt bunuri determinate generic, care
+pot fi înlocuite unele cu altele în executarea unei obligații
+contractuale;
+12. bunuri mobile prin anticipație sunt bunuri care prin
+natura lor sunt imobile, dar părțile contractante le consideră
+ca fiind mobile, cum sunt de exemplu recoltele viitoare;
+13. activele de bază ce fac obiectul tranzacțiilor la termen pot fi bunuri fungibile sau bunuri imobile prin anticipație, servicii, active monetare sau financiare, titluri pe
+active monetare sau financiare ori contracte futures pe
+aceste produse;
+14. contract de intermediere este acordul de voință ce
+reprezintă ansamblul drepturilor și obligațiilor ce revin
+societății de intermediere și unui client al acesteia pentru
+realizarea de operațiuni bursiere;
+15. contract de bursă este contractul de vânzarecumpărare cu clauze standardizate în ceea ce privește
+cantitatea și calitatea activului de bază, metoda de
+tranzacționare și clauzele de tranzacționare stipulate în
+regulamentele bursei;
+16. contract spot este un contract de vânzare-cumpărare,
+cu executare imediată sau cu executare în cel mult 10 zile
+de la data la care a fost înscris în registrul-jurnal al bursei;
+17. contract forward este un contract de vânzarecumpărare, cu termen suspensiv, cu clauze negociabile,
+care se execută la o scandență convenită de părți.
+Termenul unui contract forward poate fi stabilit până la
+18 luni, dar nu mai puțin de 10 zile;
+18. contract futures este un contract de vânzarecumpărare, cu termen suspensiv, cu clauze uniforme, a
+cărui scadență nu poate depăși 18 luni, dar nu mai puțin
+de 10 zile de la data lansării spre tranzacționare de către
+societatea de bursă; contractul conferă fiecărei părți:
+a) posibilitatea de a-l compensa oricând până la scadență;
+b) posibilitatea de a-și executa obligațiile contractuale la
+scadență, în baza unei notificări; o dată cu transmiterea
+notificării obligațiile contractuale se execută într-un interval
+ce nu poate fi mai mare de 10 zile.
+Contractul futures este evidențiat în cont la casa de
+compensație, în registrele bursei și ale societății de intermediere în contul căreia s-a făcut negocierea, în sistemul
+lor electronic, precum și în carnetul cu note de închidere al
+brokerului în situația tranzacționării prin strigare;
+19. contract cu opțiuni este convenția ce conferă
+cumpărătorului din contractul cu opțiuni, denumit și
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 172/12.III.2002
+beneficiar/deținător al opțiunii, dreptul, dar nu și obligația,
+de a vinde ori de a cumpăra o cantitate determinată dintr-o
+marfă, un activ monetar, financiar sau un contract futures
+la un preț convenit, denumit preț de exercițiu, într-un termen
+definit (oricând până la scadență) sau la expirarea acestuia, în schimbul plății unei prime către vânzător, denumit
+și garant al opțiunii; cumpărătorul într-un contract cu opțiuni
+poate să își exercite dreptul până la scadența contractului,
+să abandoneze opțiunea până la scadența acestuia sau să
+își compenseze contractul; scadența nu poate depăși
+18 luni, dar nu mai puțin de 10 zile de la data lansării
+spre tranzacționare de către societatea de bursă.
+Scadența contractului cu opțiuni este dată de momentul
+expirării dreptului de a opta, respectiv data la care încetează posibilitatea exercitării dreptului de a opta;
+20. ordin de bursă este o instrucțiune fermă, standardizată, transmisă în scris sau în orice altă formă admisă ca
+probă în justiție, de un client către societatea sa de intermediere ori de o societate de intermediere către brokerul
+său, care consemnează modalitatea și condițiile de negociere a unei oferte de vânzare ori de cumpărare pe piața la
+disponibil, futures sau cu opțiuni;
+21. tranzacție bursieră reprezintă confirmarea acceptării
+termenilor din ordinul de bursă și din contractul de bursă
+încheiat de către societatea de intermediere, lucrând pe
+cont propriu sau în comision;
+22. negocierea reprezintă introducerea unei oferte de
+vânzare-cumpărare și ansamblul tehnicilor care au ca scop
+perfectarea contractului de bursă în conformitate cu ordinul
+de bursă;
+23. perfectare reprezintă încheierea unei tranzacții bursiere ca urmare a întâlnirii cererii cu oferta, formulate de
+două părți care se obligă să respecte și să execute clauzele contractului bursier;
+24. operațiuni de bursă sunt tehnici bursiere privind
+negocierea ofertelor, perfectarea și conexarea contractelor
+cu opțiuni, futures, forward și spot, în scopul acoperirii
+riscurilor financiare determinate de volatilitatea prețurilor sau
+al obținerii unui profit;
+25. poziții deschise reprezintă totalitatea contractelor
+încheiate pe piața instrumentelor financiare derivate, care
+nu au ajuns încă la scadență sau ale căror drepturi aferente nu au fost încă exercitate ori ale căror obligații nu
+au fost stinse printr-o tranzacție de sens contrar în bursă;
+26. marjă este depozitul constituit de client în bani
+și/sau în titluri la societatea de intermediere sau de către
+aceasta la casa de compensație, pentru garantarea
+tranzacțiilor executate în piața futures și/sau cu opțiuni;
+27. cont de marjă este un cont deschis de client la
+societatea de intermediere sau deschis de către aceasta la
+casa de compensație, cont în/din care se debitează/creditează următoarele sume: marje, comisioane, profit sau pierdere din tranzacții, prime încasate/plătite pentru contractele
+cu opțiuni;
+28. apel în marjă este o cerere cu titlu de obligativitate
+pentru suplimentarea de fonduri, astfel încât depozitul din
+contul de marjă să se ridice la nivelul sumei necesare
+pentru acoperirea (garantarea) tranzacțiilor executate pe
+piețele futures și/sau cu opțiuni, conform regulamentelor
+bursei de mărfuri unde au fost negociate și perfectate contractele;
+29. fond de garantare este acel fond la care orice depozite se vor constitui în conformitate cu obligațiile contractuale ale membrului compensator/societății de intermediere și
+acestea vor constitui baza valorică pentru acoperirea de
+către membrul compensator/societatea de intermediere, în
+orice moment, a obligațiilor sale; debitarea fondului de
+garantare va fi limitată la recuperarea pierderilor și/sau a
+prejudiciilor aduse casei de compensație și/sau
+participanților la piață;
+30. clasa de opțiuni cuprinde toate contractele cu opțiuni
+ce conferă același drept (vânzare sau cumpărare), au
+același activ de bază și aceeași scadență;
+31. seria de opțiuni cuprinde toate contractele cu opțiuni
+care conferă același drept (vânzare sau cumpărare), care
+
+3
+
+au același activ de bază, preț de exercitare și aceeași scadență;
+32. preț de cotare este prețul la care se calculează zilnic/în timp real profitul sau pierderea în conturile de marjă,
+conform procedurilor casei de compensație, aprobate de
+C.N.V.M.
+CAPITOLUL 2
+Condițiile și procedurile de autorizare a societăților
+de intermediere
+Art. 3. — Prestarea serviciilor de brokeraj se realizează
+numai la bursele de mărfuri care au fost înființate de
+societățile de bursă și funcționează în baza autorizării
+C.N.V.M. Prestarea serviciilor de brokeraj se va efectua
+numai de către societățile de intermediere care au calitatea
+de membru, membru afiliat sau de membru compensator al
+unei burse de mărfuri.
+Art. 4. — Serviciile de brokeraj pentru care C.N.V.M.
+poate acorda autorizație unei societăți de intermediere
+includ, fără a se limita la acestea:
+a) negocierea ofertelor și perfectarea contractelor pe
+piața la disponibil, futures sau cu opțiuni în contul unor
+terți sau în cont propriu;
+b) navlosiri, asigurări maritime și fluviale în contul unor
+terți;
+c) gestiune pe bază de mandat pentru constituirea
+garanțiilor la contractele futures și cu opțiuni, precum și
+pentru plata primei la contractele cu opțiuni perfectate în
+contul unor terți;
+d) negocierea, în baza unui mandat, în scopul obținerii
+de credite de la bănci pentru acoperirea parțială a
+tranzacțiilor futures;
+e) servicii subsidiare, adiacente sau complementare
+operațiunilor prevăzute la lit. a)—d), cum ar fi:
+— desfășurarea activității de formator de piață;
+— vânzări și achiziții având ca obiect mărfuri, cum sunt
+produsele agricole sau materiile prime destinate procesării,
+din categoria celor care, prin natura lor, sunt bunuri fungibile sau bunuri mobile prin anticipație;
+— vânzări și achiziții la vedere, având ca obiect titluri
+reprezentantive pe mărfuri, de tipul recipisei de depozit și
+al warantului, al conosamentului, al poliței de asigurare și
+al altora asemenea, agreate și clasificate de C.N.V.M.,
+precum și achiziții ori vânzări la termen prin contracte futures sau cu opțiuni;
+— activități conexe prestării serviciilor de brokeraj, printre care asistența și evaluarea condițiilor de piață în vederea stabilirii politicii de preț.
+Art. 5. — În vederea obținerii autorizației de la C.N.V.M.
+societățile de intermediere trebuie să îndeplinească
+următoarele condiții:
+1. să fie persoană juridică română, legal înființată ca
+societate comercială pe acțiuni, în comandită pe acțiuni, în
+comandită simplă sau cu răspundere limitată, în conformitate cu prevederile Legii nr. 31/1990 privind societățile
+comerciale, republicată, cu modificările ulterioare;
+2. capitalul social să fie constituit din acțiuni nominative/părți sociale cu drept de vot, fiecare acțiune/parte
+socială conferind deținătorilor drepturi egale; pot fi emise și
+categorii de acțiuni/părți sociale care conferă titularilor lor
+drepturi diferite, numai în condițiile actului constitutiv;
+3. în momentul înregistrării cererii de autorizare să facă
+dovada unui minim de capital subscris și integral vărsat,
+care trebuie să fie în proporție de cel puțin 75% în numerar; restul de 25% poate fi aport în natură, constând în
+active corporale destinate exclusiv activității societății;
+4. obiectul de activitate al societății să fie exclusiv prestarea serviciilor de brokeraj, în cazul societăților de brokeraj;
+5. să dispună de un spațiu amenajat corespunzător
+prestării serviciilor de brokeraj, în suprafață de minimum 70 m2;
+6. societatea, acționarii ei semnificativi sau asociații să
+nu dețină nici o participare, de orice fel ar fi aceasta, într-o
+altă societate de intermediere. Membrii consiliului de
+administrație sau ai comitetului de direcție, administratorii,
+precum și brokerii societății pot deține acțiuni într-o altă
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 172/12.III.2002
+
+societate de intermediere numai dacă aceasta este deschisă și are acțiunile înscrise la cotă într-o bursă de valori
+și numai cu condiția ca deținerile lor individuale și cumulate să nu depășească 5% din capitalul subscris al unei
+astfel de societăți de intermediere, precum și cu condiția
+să nu fie aleși în conducerea altei societăți de intermediere. Soțul, rudele până la gradul al doilea inclusiv, precum
+și afinii de gradul întâi ai acționarilor cu poziție de control,
+ai membrilor consiliului de administrație sau ai comitetului
+de direcție, precum și ai brokerilor societății nu pot deține
+funcții de conducere și nu pot fi acționari semnificativi
+într-o altă societate de intermediere. De asemenea, societatea, membrii consiliului de administrație și ai conducerii
+executive, precum și brokerii nu pot deține mai mult de 5%
+din capitalul unei societăți de administrare a unui fond de
+investiții;
+7. consiliul de administrație să fie format din cel puțin 3
+membri, cu o vechime de minimum 3 ani în unul dintre
+domeniile: financiar, juridic, bancar, economic sau al afacerilor.
+Art. 6. — (1) Capitalul minim subscris și integral vărsat
+va fi de:
+a) 300 milioane lei pentru societățile de intermediere
+care desfășoară activitățile prevăzute la art. 4 lit. a), c) și
+e) și care nu dețin calitatea de membru compensator;
+b) 500 milioane lei pentru societățile de intermediere
+care desfășoară activitățile prevăzute la art. 4 lit. a), c), d)
+și e) și care nu dețin calitatea de membru compensator;
+c) 1 miliard lei pentru societățile de intermediere care
+desfășoară activitățile prevăzute la art. 4 lit. a), b), c), d) și
+e) și care nu dețin calitatea de membru compensator.
+(2) Societățile de intermediere care dețin calitatea de
+membru compensator sunt obligate să dețină un capital
+social minim majorat cu 250 milioane lei, pe lângă sumele
+menționate la alin. (1).
+(3) În situația în care C.N.V.M. va autoriza prestarea
+altor servicii de brokeraj decât cele prevăzute la art. 4
+lit. a)—e), va stabili nivelul minim necesar al capitalului
+social.
+Art. 7. — Autorizarea unei societăți comerciale ca societate de intermediere se va face parcurgându-se următoarele etape:
+1. Autorizarea prealabilă, eliberată în scopul înmatriculării la oficiul registrului comerțului (O.R.C.). Pentru
+obținerea acesteia se va înainta la C.N.V.M. o cerere de
+autorizare conform anexei nr. 1 la prezentul regulament,
+care va fi însoțită de următoarele documente:
+a) actul constitutiv autentificat, în copie legalizată;
+b) copia de pe extrasul de cont care dovedește vărsarea capitalului în numerar;
+c) raportul de evaluare pentru aportul în natură, în
+copie legalizată, dacă este cazul;
+2. Autorizarea definitivă, eliberată în scopul prestării serviciilor de brokeraj. Pentru obținerea autorizației societatea
+de intermediere va depune la C.N.V.M. o cerere care va fi
+însoțită de următoarele documente:
+a) copie de pe avizul prealabil eliberat de C.N.V.M.;
+b) încheierea judecătorului delegat pe lângă oficiul registrului comerțului de autorizare a constituirii societății de
+intermediere și de înscriere în registru;
+c) copie de pe certificatul de înmatriculare la oficiul registrului comerțului;
+d) documente care să probeze că sediul societății de
+intermediere se află în folosința exclusivă a acesteia;
+e) dovada că dispune de o dotare tehnică minimă
+necesară prestării serviciilor de brokeraj: minimum 4 PC cu
+sistem de operare adecvat, evidență contabilă pe PC, software de îfront office“, software de îback office“, conectare
+la Internet — minimum dial-up, fax sau echivalent, minimum două linii telefonice;
+f) dovada că cel puțin două persoane angajate au atestat de brokeri și sunt autorizate de C.N.V.M. conform prevederilor prezentului regulament;
+g) pentru fiecare dintre membrii consiliului de administrație, ai comitetului de direcție și pentru fiecare cenzor,
+următoarele documente:
+— curriculum vitae;
+
+— certificat de cazier judiciar eliberat cu cel mult 3 luni
+anterioare depunerii cererii de autorizare provizorie;
+— declarație pe propria răspundere, autentificată, în
+care să specifice că nu încalcă prevederile Legii
+nr. 31/1990, republicată, cu modificările ulterioare, prevederile Legii nr. 129/2000 și ale reglementărilor legale în
+vigoare în legătură cu piețele reglementate de mărfuri, servicii și instrumente derivate;
+h) structura organizatorică și regulamentul de organizare
+și funcționare a societății de intermediere;
+i) declarație din partea reprezentantului legal al societății
+de intermediere că aceasta îndeplinește condițiile prevăzute
+la art. 5, conform modelului prezentat în anexa nr. 3 la
+prezentul regulament;
+j) avizul societății de bursă pentru cel puțin o bursă de
+mărfuri unde dorește să presteze servicii de brokeraj, prin
+care să se arate că îndeplinește condițiile tehnice pentru a
+opera pe piețele respective;
+k) decizia privind obținerea calității de membru compensator sau copie autentică de pe contractul de compensare
+încheiat cu o altă societate de intermediere care deține
+calitatea de membru compensator la acea bursă de
+mărfuri, dacă cere autorizare și pentru derulare de
+operațiuni pe piețele futures și/sau cu opțiuni;
+l) dovada depunerii fondului de risc, astfel:
+— dacă este depus la casa de compensație sau la o
+societate de intermediere care are calitatea de membru
+compensator — prin adresă care certifică existența —, precum și cuantumul fondului de risc depus;
+— dacă este depus la o bancă agreată de casa de
+compensație — prin extras de cont pentru un depozit pe o
+perioadă de minimum 6 luni;
+m) organigrama societății, din care să rezulte existența
+cel puțin a următoarelor compartimente sau echivalentele
+lor: Conducere, îFront Office“, îBack Office“, FinanciarContabilitate, Decontări, Tranzacții, Oficiul pentru Încadrarea
+în Prevederile Legale (OPL) ;
+n) dovada achitării în contul C.N.V.M. a taxelor de autorizare.
+Art. 8. — (1) C.N.V.M. va emite autorizarea prealabilă
+în termen de 30 de zile de la data depunerii documentelor prevăzute la art. 7 pct. 1.
+(2) C.N.V.M. va decide cu privire la autorizarea
+societății de intermediere, în termen de cel mult 30 de zile
+de la data depunerii documentelor prevăzute la art. 7 pct. 2.
+(3) Eliberarea autorizației definitive a societății de intermediere se va face sub condiția achitării în contul
+C.N.V.M. a taxei de autorizare, ce va putea fi actualizată
+anual; taxa de autorizare este de:
+a) 3 milioane lei pentru societățile de intermediere
+prevăzute la art. 6 alin. (1) lit. a);
+b) 5 milioane lei pentru societățile de intermediere
+prevăzute la art. 6 alin. (1) lit. b);
+c) 10 milioane lei pentru societățile de intermediere
+prevăzute la art. 6 alin. (1) lit. c).
+(4) Orice modificări ale documentelor și condițiilor ce au
+dus la autorizarea societății vor fi aduse la cunoștință
+C.N.V.M. în termen de 48 de ore, împreună cu înaintarea
+documentelor justificative, după caz.
+Art. 9. — (1) În vederea retragerii autorizației de a
+presta servicii de brokeraj, la cererea societății de intermediere, aceasta va depune o cerere standard de renunțare
+la autorizație (conform anexei nr. 2 la prezentul regulament).
+(2) Cererea va trebui să fie însoțită de avizul asociației
+bursei (la care societatea de intermediere este membră și
+din care dorește să se retragă), al casei de compensație,
+precum și al celorlalte instituții din care societatea de intermediere face parte, din care să rezulte faptul că aceasta
+nu mai are obligații contractuale nelichidate.
+(3) C.N.V.M. va decide cu privire la retragerea autorizației, în cel mult 30 de zile de la data înregistrării cererii. Dacă înainte de a emite decizia de retragere a
+autorizației C.N.V.M. a impus sancțiuni ca urmare a
+încălcării unor prevederi ale Legii nr. 129/2000 sau ale
+regulamentelor C.N.V.M., termenul de 30 de zile se
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 172/12.III.2002
+prelungește până când C.N.V.M. consideră că este necesar, fără a se încălca cerințele de protecție a clienților.
+(4) C.N.V.M. va trimite asociației bursei respective un
+exemplar al deciziei de retragere a autorizației societății de
+intermediere.
+Art. 10. — Documentele menționate la art. 7 și 9 vor fi
+prezentate la registratura C.N.V.M. în două exemplare, în
+formă dactilografiată. În situația în care documentele sunt
+incomplete, ilizibile sau incorecte, termenele specificate la
+art. 8 și 9 vor curge de la data depunerii ultimului document în forma solicitată.
+Art. 11. — Dacă, după autorizarea definitivă de către
+C.N.V.M., societatea de intermediere nu mai îndeplinește
+vreuna dintre condițiile prevăzute la art. 5 și 12, reprezentantul legal al societății de intermediere trebuie să raporteze despre această situație C.N.V.M. în termen de 48 de ore.
+Art. 12. — În cursul desfășurării activității societățile de
+intermediere trebuie să îndeplinească următoarele condiții:
+1. să mențină un nivel minim al capitalului net, conform
+anexei nr. 4.3 la prezentul regulament, după cum urmează:
+a) pentru societățile de intermediere prevăzute la art. 6
+alin. (1) lit. a) — 75.000.000 lei;
+b) pentru societățile de intermediere prevăzute la art. 6
+alin. (1) lit. b) — 125.000.000 lei;
+c) pentru societățile de intermediere prevăzute la art. 6
+alin. (1) alin. c) — 250.000.000 lei;
+2. să mențină un grad de îndatorare de maximum 15
+la 1, conform anexei nr. 4.3 la prezentul regulament.
+Art. 13. — Societățile de valori mobiliare trebuie să
+îndeplinească cumulativ condițiile nivelului minim al capitalului net, impuse de Regulamentul C.N.V.M. nr. 3/1998 privind autorizarea și exercitarea intermedierii de valori
+mobiliare, cu modificările ulterioare, precum și cele
+enunțate în prezentul regulament.
+CAPITOLUL 3
+Condițiile și procedurile de autorizare a brokerilor
+Art. 14. — Nici o persoană fizică nu se va putea
+angaja în negocierea ofertelor de vânzare sau de
+cumpărare la o bursă de mărfuri fără a deține o autorizație
+din partea C.N.V.M.
+Art. 15. — Brokerului nu îi este permis să negocieze
+oferte și să perfecteze contracte bursiere în numele și în
+contul său, direct sau prin prepuși, fiindu-i interzisă
+tranzacționarea pentru sine.
+Art. 16. — Pentru a fi autorizat brokerul trebuie să
+îndeplinească următoarele condiții:
+a) să fie angajat exclusiv al unei societăți de intermediere;
+b) să aibă cel puțin 21 de ani și exercițiul drepturilor
+civile;
+c) să fie atestat de asociația bursei de mărfuri unde
+urmează să negocieze oferte și să perfecteze contracte
+bursiere;
+d) să nu dețină acțiuni într-o altă societate de intermediere, cu excepția situației prevăzute la art. 5 pct. 6;
+e) să nu fi fost sancționat de C.N.V.M. cu interzicerea
+exercitării oricărei activități profesionale reglementate de
+Legea nr. 129/2000;
+f) să nu aibă antecedente penale.
+Art. 17. — În vederea autorizării unei persoane fizice ca
+broker societatea de intermediere, prin reprezentantul său
+legal, va depune o cerere la C.N.V.M., care va cuprinde:
+numele, prenumele și calitatea de angajat ale solicitantului,
+denumirea societății de intermediere unde solicitantul este
+sau urmează să fie angajat, denumirea societății de bursă
+și a bursei de mărfuri unde dorește să negocieze oferte.
+Art. 18. — Cererea, în forma prezentată la art. 17, va fi
+însoțită de următoarele documente:
+a) acte de studii;
+b) copie de pe actul de identitate;
+c) declarație pe propria răspundere privind îndeplinirea
+condițiilor prevăzute la art. 5 pct. 6 și la art. 16;
+d) certificat de cazier judiciar eliberat cu cel mult 3 luni
+anterioare depunerii cererii;
+
+5
+
+e) atestatul eliberat de asociația bursei de mărfuri unde
+va fi abilitat să negocieze și să contracteze.
+Art. 19. — (1) C.N.V.M. va decide cu privire la autorizarea solicitantului, în termen de cel mult 15 zile de la
+data primirii cererii, însoțită de documentele menționate la
+art. 17 și 18.
+(2) Eliberarea autorizației de broker se va face cu
+condiția prezentării dovezii achitării în contul C.N.V.M. a
+taxei de autorizare.
+(3) Taxa de autorizare este de 500 mii lei.
+(4) Autorizația unui broker este valabilă pe toată perioada în care este angajat la societatea de intermediere
+care a solicitat autorizarea.
+Art. 20. — (1) După autorizarea de către C.N.V.M. brokerii vor participa la pregătirea continuă, în forma și structurile de pregătire și testare recunoscute și avizate de
+C.N.V.M., asociația bursei și societatea de bursă având
+obligația reevaluării anuale a acestora.
+(2) Dacă, după autorizarea de către C.N.V.M., brokerul
+a încălcat vreuna dintre prevederile art. 16, asociația bursei, președintele consiliului bursei și societatea de intermediere trebuie să raporteze despre această situație C.N.V.M.
+în termen de 48 de ore.
+CAPITOLUL 4
+Obligațiile societăților de intermediere față de clienți
+Art. 21. — Clientul va avea acces la informațiile generale despre societatea de intermediere, referitoare la: activitățile pe care societatea de intermediere este autorizată
+să le desfășoare, comisioanele și alte cheltuieli legate de
+serviciile pe care aceasta le pune la dispoziție clientului,
+sediul central și toate filialele, precum și persoana de
+legătură din cadrul societății de intermediere, de la care
+clientul poate obține informații în legătură cu conturile sale
+sau cu societatea de intermediere. Societatea de intermediere are obligația de a pune la dispoziție aceste informații
+la sediul său. Modificările intervenite în legătură cu comisioanele și cu celelalte cheltuieli trebuie să fie aduse la
+cunoștință clientului în cel mult 5 zile înaintea aplicării lor.
+Art. 22. — (1) Societatea de intermediere are datoria de
+a executa ordinele clienților la cel mai bun preț în condițiile
+date ale pieței.
+(2) Înainte de a negocia o ofertă în cont propriu sau în
+contul unui acționar semnificativ al societății de intermediere, al unui membru al consiliului de administrație sau al
+unui angajat al său, societatea de intermediere trebuie să
+execute ordinele primite de la clienți, la prețul indicat sau
+la un preț mai bun, în cazul unui ordin limită.
+(3) În situația în care clientul nu depune marjele necesare înaintea efectuării tranzacției, societatea de intermediere are dreptul să refuze executarea ordinului.
+(4) În situația în care clientul/societatea de intermediere
+nu răspunde la apelul în marjă în termen de 24 de ore de
+la data tranzacției, societatea de intermediere/casa de compensație poate lichida contractele înregistrate în contul
+clientului/societății de intermediere până la acoperirea valorii apelului în marjă, prin perfectarea, la bursa de mărfuri
+corespunzătoare, de contracte de sens opus celor înregistrate.
+Art. 23. — (1) Societatea de intermediere, prin brokerul
+său, poate face recomandări legate de tranzacționare
+clienților actuali sau potențiali numai dacă dispune de
+informații financiare și de alte documente accesibile publicului cu privire la marfa, serviciul sau instrumentul derivat
+care face obiectul recomandării.
+(2) Societățile de intermediere nu pot dobândi autoritate
+discreționară asupra contului unui client fără acordul expres
+în scris al acestuia.
+Art. 24. — (1) După efectuarea unei tranzacții societatea de intermediere va confirma în scris clientului executarea ordinului, nu mai târziu de 24 de ore după ce a avut
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 172/12.III.2002
+
+loc înregistrarea tranzacției la casa de compensație.
+Confirmarea trebuie să indice cel puțin:
+a) dacă acționează în calitate de membru compensator
+sau de societate de intermediere care nu deține calitatea
+de membru compensator;
+b) comisionul aferent tranzacțiilor executate, sumele pe
+care societatea de intermediere le-a primit cu titlu de marjă
+și cele pe care urmează, în mod obligatoriu, să le primească de la respectivul client pentru tranzacțiile efectuate,
+precum și sumele disponibile în contul de marjă;
+c) data, ora și minutul la care s-a efectuat tranzacția,
+denumirea, prețul și cantitatea de mărfuri sau de instrumente derivate cumpărate ori vândute de client;
+d) pozițiile deschise pentru fiecare marfă sau tip de
+instrument derivat și scadență, calculate ca diferența dintre
+numărul de contracte vândute și cele cumpărate;
+e) profitul/pierderea rezultată din tranzacțiile efectuate și
+din evaluarea la piață a pozițiilor deschise.
+(2) Înregistrarea tranzacțiilor în contul de marjă al clientului se va realiza în ziua primirii situației cumulate de la
+casa de compensație.
+(3) Fiecare tranzacție se înregistrează în mod cronologic, separat, și se adaugă în contul clientului la contractele
+executate anterior.
+Art. 25. — (1) O societate de intermediere va depozita
+și va evidenția contabil fondurile primite de la clienți, separat de fondurile proprii și segregate între ele.
+(2) Datele privind orice tranzacție sunt accesibile numai
+brokerului, superiorului său, serviciului de evidență și serviciului de contabilitate din societatea de intermediere, precum și funcționarilor C.N.V.M.
+CAPITOLUL 5
+Reguli minimale de conduită pentru societățile
+de intermediere și brokeri
+Art. 26. — Societatea de intermediere, precum și brokerii săi sunt ținuți la respectarea prevederilor Legii
+nr. 129/2000 și ale reglementărilor emise și/sau avizate de
+C.N.V.M., aplicabile în materie.
+Art. 27. — (1) Societății de intermediere îi este interzis:
+a) să facă declarații care să inducă în eroare, în circumstanțele în care au fost făcute, prin comisiune sau
+omisiune, în legătură cu fapte importante;
+b) să facă înregistrări false sau incorecte în legătură cu
+acceptarea sau cu folosirea fondurilor clienților ori în
+legătură cu procedurile casei de compensație;
+c) să efectueze tranzacții în scopul de a influența în
+mod artificial prețul mărfurilor, serviciilor sau al instrumentelor derivate ori de a crea impresia unui volum ridicat;
+d) să afișeze cotații sau să introducă oferte de natură
+să creeze o impresie falsă asupra prețului real de piață al
+unor mărfuri, servicii sau instrumente derivate;
+e) să efectueze tranzacții cu mărfuri, servicii sau instrumente derivate, care ar avea ca scop ascunderea identității
+proprietarului acesteia.
+(2) Societății de intermediere sau angajaților acesteia le
+este interzis să efectueze tranzacții cu o anumită marfă,
+serviciu sau instrument derivat, bazate pe informații confidențiale sau privilegiate în legătură cu acea marfă, serviciu
+sau instrument derivat, ori să dezvăluie asemenea
+informații unei persoane care ar putea obține beneficii prin
+tranzacționarea pe baza acestor informații.
+Art. 28. — Brokerilor le este interzis:
+a) să fie acționari, asociați ori administratori sau cenzori
+la o societate de bursă de mărfuri, casă de compensație,
+societate de intermediere concurentă sau la o societate de
+consultanță ori de expertiză contabilă, autorizată de
+C.N.V.M.;
+b) să negocieze și/sau să perfecteze contracte la bursă
+sau în afara bursei, în numele și contul lor, în mod direct
+sau prin persoane interpuse;
+c) să negocieze ofertele și/sau să perfecteze contracte
+futures ori cu opțiuni în afara bursei;
+d) să execute un ordin și să negocieze ofertele în baza
+unei informații privilegiate sau confidențiale;
+
+e) să execute ordine pentru cei aflați în procedura de
+redresare sau lichidare judiciară;
+f) să execute ordine în mod discreționar, dacă nu s-a
+obținut acordul expres al clientului conform art. 23 alin. (2).
+Art. 29. — Angajații și brokerii societății de intermediere
+sunt obligați să informeze conducerea acesteia cu privire la
+orice reclamații ale clienților săi în legătură cu activitatea
+sa. Societatea de intermediere trebuie să țină evidența
+tuturor acestor reclamații, care să poată fi pusă la dispoziție C.N.V.M. în orice moment, la cerere.
+Art. 30. — Publicitatea făcută de societatea de intermediere va conține: denumirea completă a acesteia, adresa
+sediului social, numerele de telefon și de fax, precum și
+calitățile pe care le deține (membru, membru afiliat, membru compensator).
+Art. 31. — Publicitatea societății de intermediere nu va
+conține informații false sau care pot induce în eroare și
+nici nu va oferi garanții clienților cu privire la performanțele
+unei tranzacții.
+Art. 32. — Publicitatea societății de intermediere trebuie
+să fie avizată de către OPL. C.N.V.M. și societatea de
+bursă pot sista difuzarea unui material publicitar, dacă
+acesta contravine legii, regulilor C.N.V.M. sau ale societății
+de bursă.
+Art. 33. — Societatea de intermediere trebuie să
+păstreze la sediul său copii de pe toate materialele publicitare pentru o perioadă de 2 ani de la apariție și să le pună
+la dispoziție C.N.V.M. sau societății de bursă, la cerere.
+CAPITOLUL 6
+Documentele specifice prestării serviciilor de intermediere.
+Raportările financiare și notificările către C.N.V.M.
+Art. 34. — (1) Societățile de intermediere sunt obligate
+să țină evidența strictă a operațiunilor pe care le execută
+și să își organizeze evidența contabilă în conformitate cu
+prevederile Legii contabilității nr. 82/1991, republicată, cu
+modificările ulterioare, ale normelor și instrucțiunilor elaborate în scopul aplicării acesteia, precum și cu
+reglementările specifice ale C.N.V.M.
+(2) Societățile de intermediere sunt obligate să dețină
+fișele angajaților și colaboratorilor societății de intermediere,
+cu menționarea sancțiunilor și a situațiilor de punere sub
+acuzare în legătură cu prestarea serviciilor de brokeraj, pentru perioada în care există relații contractuale între părți.
+Art. 35. — Societatea de intermediere trebuie să întocmească și să țină la zi cel puțin următoarele:
+a) evidențe ale operațiunilor referitoare la tranzacțiile cu
+mărfuri, servicii sau instrumente derivate, ale intrărilor/ieșirilor de numerar și ale altor avansuri sau debite ale
+clienților, precum și documentele primare care au stat la
+baza lor. Evidențele vor reflecta contul în care tranzacția a
+fost efectuată, denumirea, cantitatea, prețul unitar și cel
+total de vânzare sau de cumpărare și data tranzacției pentru marfa, serviciul sau instrumentul derivat tranzacționat;
+b) evidențe pe clienți, care să reflecte zilnic, în contul
+de marjă al fiecărui client, toate vânzările/cumpărările, primirile/livrările de marfă, servicii sau instrumente derivate,
+precum și evaluările zilnice ale acestora, efectuate conform
+procedurilor casei de compensație;
+c) situații privind activele și pasivele, conturile de venituri, de cheltuieli și de capital, actualizate cel puțin lunar;
+d) documente care să reflecte, separat pentru fiecare
+marfă, serviciu sau instrument derivat, toate pozițiile pe
+care societatea de intermediere le deține în contul propriu
+și în conturile clienților săi;
+e) un formular pentru fiecare ordin de tranzacționare,
+care va cuprinde cel puțin:
+ii(i) numărul contului clientului;
+i(ii) tipul ordinului;
+(iii) momentul intrării ordinului;
+(iv) momentul executării ordinului;
+i(v) momentul anulării ordinului, dacă este cazul;
+(vi) calitatea în care societatea de intermediere acționează
+(dacă este sau nu membru compensator);
+(vii) prețul la care a fost executat ordinul;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 172/12.III.2002
+f) copii de pe confirmările tuturor cumpărărilor sau
+vânzărilor de mărfuri, servicii ori instrumente derivate, conform art. 24, precum și de pe apelurile de marjă și notele
+privind alte debite și credite ale clienților societății de intermediere;
+g) fișele conturilor, pe clienți.
+Art. 36. — Societatea de intermediere trebuie să întocmească și să păstreze la zi toate documentele prevăzute
+la art. 35, în scopul reflectării cu exactitate a situației financiare și de a permite verificarea și copierea acestor evidențe în orice moment de către funcționarii sau alți
+reprezentanți ai C.N.V.M. De asemenea, funcționarii sau
+alți reprezentanți ai C.N.V.M. au dreptul de a solicita, verifica, ridica și/sau de a copia în orice moment și orice evidențe pe care societatea de intermediere le întocmește în
+baza regulamentelor burselor de mărfuri la care
+tranzacționează.
+Art. 37. — Toate documentele prevăzute la art. 35 trebuie să fie păstrate o perioadă de minimum 5 ani, într-un
+loc accesibil, și să poată fi puse la dispoziție C.N.V.M., la
+cerere, în cel mult 4 zile lucrătoare.
+Art. 38. — În scopul supravegherii de către C.N.V.M. a
+activității desfășurate de societățile de intermediere, acestea vor depune la C.N.V.M. următoarele situații și documente (anexa nr. 4 la prezentul regulament):
+1. lunar, îSituația privind capitalul net și gradul de îndatorare“. Această situație va fi depusă la C.N.V.M. în termen de 10 zile lucrătoare de la sfârșitul lunii, în formularul
+anexat, împreună cu balanța analitică de verificare aferentă
+lunii respective;
+2. raportul semestrial: îBilanțul contabil semestrial“ în termen
+de 5 zile lucrătoare de la data declarată de direcția generală
+a finanțelor publice îdata ultimă de depunere a bilanțului“,
+îContul de profit și pierdere“ și îSituația privind capitalul net
+și gradul de îndatorare“, în termen de 6 zile lucrătoare de la
+sfârșitul semestrului;
+3. raportul anual certificat de către un cenzor extern
+independent sau de către o societate de expertiză contabilă, care trebuie să cuprindă: îBilanțul contabil anual“, cu
+toate anexele corespunzătoare, îRaportul de gestiune al
+administratorilor“ și îSituația modificărilor în Registrul
+acționarilor“. Termenul de raportare — 5 zile lucrătoare de
+la data declarată de direcția generală a finanțelor publice
+îdata ultimă de depunere a bilanțului“;
+4. raportul privind situația capitalului minim net și gradul
+de îndatorare a societății de intermediere poate fi solicitat
+oricând de C.N.V.M. Documentul trebuie depus în termen
+de 24 de ore de la notificarea C.N.V.M.;
+5. alte raportări pe care C.N.V.M. le poate solicita.
+Art. 39. — Societatea de intermediere trebuie să expedieze zilnic clienților situația conturilor acestora, atâta timp
+cât în contul clienților sunt înregistrate poziții deschise în
+contractele futures sau cu opțiuni. Clientului care deține un
+cont activ i se va transmite, de asemenea, un raport anual.
+Art. 40. — (1) Societatea de audit care descoperă o
+neregulă în documentele financiar-contabile ale societății de
+intermediere trebuie să raporteze C.N.V.M. în cel mult
+două zile lucrătoare de la data constatării acesteia.
+(2) Societatea de intermediere trebuie să raporteze
+C.N.V.M., asociației bursei sau, după caz, consiliului bursei
+măsurile luate pentru a corecta situația.
+(3) Dacă o societate de intermediere a încălcat vreuna
+dintre prevederile art. 15, 24, 25, 27, 28, 32, 33 și 35,
+atunci C.N.V.M. și/sau societatea de bursă pot lua măsuri
+disciplinare împotriva acestei societăți, inclusiv suspendarea
+temporară a societății de intermediere, în scopul protejării
+clienților.
+CAPITOLUL 7
+Sancțiuni
+Art. 41. — (1) Pentru încălcarea prevederilor prezentului
+regulament C.N.V.M. stabilește răspunderi și sancțiuni în
+conformitate cu prevederile Legii nr. 129/2000.
+
+7
+
+(2) C.N.V.M., pentru încălcarea cu intenție sau din
+culpă, prin comisiune sau omisiune, a dispozițiilor prezentului regulament, poate aplica următoarele sancțiuni:
+a) avertisment public;
+b) amenzi cuprinse între 10.000.000 lei și 200.000.000 lei
+sau calculate ca procent cuprins între 0,1 și 3, aplicat la
+valoarea capitalului social al societății de bursă;
+c) interzicerea temporară, între 30 și 90 de zile, sau
+definitivă, pentru persoanele fizice ori juridice, de a
+desfășura operațiuni prevăzute în prezentul regulament, în
+conformitate cu Legea nr. 129/2000;
+d) suspendarea autorizației de funcționare pentru o perioadă cuprinsă între o lună și 6 luni, cu posibilitatea prelungirii până la 9 luni;
+e) retragerea autorizației pe o perioadă cuprinsă între
+1 și 3 ani;
+f) anularea autorizației.
+(3) Oricare dintre sancțiunile prevăzute la alin. (2)
+lit. c)—f) poate fi aplicată cumulativ cu sancțiunea
+prevăzută la lit. b).
+(4) Sancțiunea retragerii autorizației implică aplicarea
+cumulativă a sancțiunii privind interzicerea temporară sau
+definitivă a desfășurării operațiunilor prevăzute în prezentul
+regulament.
+(5) Anularea autorizației implică și interzicerea
+desfășurării oricărei operațiuni prevăzute în prezentul regulament pentru o perioadă cuprinsă între 2 și 5 ani.
+(6) C.N.V.M. poate, în cazuri justificate, la cerere, să
+reducă cu cel mult jumătate durata sancțiunii stabilite în
+baza art. 41 alin. (2) lit. c), d) și e).
+Art. 42. — C.N.V.M. va anula orice autorizație obținută
+pe baza unor informații false sau voit eronate și poate
+aplica persoanelor, fizice sau juridice, răspunzătoare,
+sancțiunea prevăzută la art. 41 alin. (2) lit. c).
+Art. 43. — Pentru nerespectarea prevederilor art. 11 și ale
+art. 20 alin. (2) C.N.V.M. poate aplica sancțiuni în conformitate cu prevederile art. 41 alin. (2) lit. d)—f), după caz.
+Art. 44. — (1) Societatea de intermediere care efectuează tranzacții pe baza unor informații confidențiale sau
+privilegiate și transmite informații confidențiale sau privilegiate unei persoane care folosește asemenea informații pentru tranzacționarea de mărfuri, servicii și instrumente
+derivate poate fi sancționată de C.N.V.M. conform art. 41
+alin. (2) lit. b) și e).
+(2) Brokerii care utilizează sau furnizează informații confidențiale ori privilegiate pot fi sancționați în conformitate cu
+art. 41 alin. (2) lit. c) și e).
+(3) C.N.V.M. va înștiința organele de urmărire penală și
+va confisca profitul obținut în condițiile prevăzute la alin. (1).
+Art. 45. — Societățile de intermediere și/sau brokerii
+care nu își îndeplinesc îndatoririle față de clienți prevăzute
+în prezentul regulament sunt sancționați potrivit art. 41
+alin. (2) lit. a), d) sau e), după caz. În plus, societatea de
+intermediere va despăgubi clienții la nivelul pierderilor cauzate, constatate de C.N.V.M.
+Art. 46. — Societățile de intermediere care nu respectă
+prevederile prezentului regulament referitoare la publicitate
+pot fi sancționate de C.N.V.M. potrivit art. 41 alin. (2) lit. b).
+Art. 47. — Pentru încălcarea prevederilor art. 22
+C.N.V.M. poate sancționa societățile de intermediere și/sau
+brokerii responsabili, în conformitate cu art. 41 alin. (2)
+lit. a), d) sau e).
+Art. 48. — Societățile de intermediere care nu se conformează cerințelor referitoare la evidența contabilă,
+cuprinse în prezentul regulament, pot fi sancționate de
+C.N.V.M. conform art. 41 alin. (2) lit. b) sau d). Totodată
+societățile de intermediere sunt obligate să corecteze abaterile respective în termen de două zile lucrătoare de la
+data constatării. În caz contrar C.N.V.M. poate:
+1. să sancționeze societatea de intermediere conform
+art. 41 alin. (2) lit. a), în cazul în care aceasta se află la
+prima abatere în ultimii 2 ani;
+2. să aplice sancțiunea prevăzută la art. 41 alin. (2) lit. d)
+și e), în cazul în care societatea de intermediere nu se află la
+prima abatere sau dacă abaterea nu poate fi corectată.
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 172/12.III.2002
+
+Art. 49. — (1) Societății de intermediere care
+întocmește și prezintă la C.N.V.M. documente financiar-contabile sau alte rapoarte incomplete ori inexacte i se va
+aplica, după caz, una dintre sancțiunile prevăzute la art. 41
+alin. (2) lit. a), b), d) sau e).
+(2) Societății de intermediere care întocmește și prezintă
+la C.N.V.M. documente financiar-contabile sau alte rapoarte
+false i se va aplica una dintre sancțiunile prevăzute la
+art. 41 alin. (2) lit. e) sau f), iar cazul va fi sesizat organelor de urmărire penală.
+Art. 50. — Pentru nerespectarea termenelor prevăzute
+la art. 38 C.N.V.M. va aplica societății de intermediere,
+după caz, una dintre sancțiunile prevăzute la art. 41
+alin. (2) lit. a), d), e) sau b) pentru fiecare zi de întârziere.
+Art. 51. — Dacă raportările prevăzute la art. 38 pct. 2
+nu sunt însoțite de raportul cenzorului extern independent
+sau al societății de expertiză contabilă, societății de intermediere i se va aplica sancțiunea prevăzută la art. 41
+alin. (2) lit. b), iar cenzorul extern independent va fi radiat din
+Registrul cenzorilor externi independenți, aflat la C.N.V.M.,
+iar societății de expertiză contabilă i se va retrage autorizația de funcționare pe piețele reglementate de C.N.V.M.
+Art. 52. — (1) Persoana juridică sau fizică ce prestează
+servicii de brokeraj fără autorizație definitivă obținută conform prevederilor prezentului regulament poate fi
+sancționată conform art. 41 alin. (2) lit. b).
+(2) Cazurile constatate de C.N.V.M. privind prestarea
+serviciilor de brokeraj fără autorizație vor fi înaintate spre
+soluționare organelor de urmărire penală.
+Art. 53. — Societățile de intermediere care încalcă prevederile art. 27 alin. (1) lit. b)—e) pot fi sancționate, după
+caz, cu una dintre sancțiunile prevăzute la art. 41 alin. (2)
+lit. a), b), d) sau e).
+Art. 54. — Brokerii care încalcă prevederile art. 28 pot
+fi sancționați, după caz, cu una dintre sancțiunile prevăzute
+la art. 41 alin. (2) lit. a), b), c), d) sau e).
+Art. 55. — Societatea de intermediere și/sau brokerii
+care se implică în activități prin care încalcă reglementările
+C.N.V.M. sau Legea nr. 129/2000 și pentru care nu au fost
+prevăzute în mod expres sancțiuni în prezentul regulament
+sau în Legea nr. 129/2000 vor fi obligați să
+despăgubească clienții pentru pierderile cauzate și pot fi
+sancționați de C.N.V.M. cu una dintre sancțiunile prevăzute
+la art. 41 alin. (2) lit. a), b), d) sau e).
+Art. 56. — Nivelurile minime și maxime ale amenzilor
+din prezentul capitol se actualizează anual în funcție de
+rata inflației.
+Art. 57. — Sancțiunile aplicate de C.N.V.M. vor fi făcute
+publice.
+CAPITOLUL 8
+Dispoziții finale și tranzitorii
+Art. 58. — (1) Societatea de intermediere va supune
+autorizării prealabile a C.N.V.M. orice modificare în modul
+de organizare și funcționare, orice reducere sau majorare a
+capitalului social, precum și emisiunea de valori mobiliare,
+notificând C.N.V.M. schimbările în conducerea societății de
+intermediere și în deținerea capitalului social (conform
+anexei nr. 5 la prezentul regulament).
+(2) Pentru orice notificare către C.N.V.M. a modificărilor,
+menționată la alin. (1), societatea de intermediere va achita
+o taxă de 50.000 lei, actualizată anual în funcție de rata
+inflației.
+Art. 59. — (1) Societățile comerciale care au organizate
+agenții bursiere, precum și alte societăți comerciale care
+derulează activități de brokeraj la bursele de mărfuri au
+termen până la data de 3 august 2002 pentru a se încadra în prevederile prezentului regulament.
+(2) Pentru a putea funcționa legal societățile comerciale
+care au organizate agenții bursiere, societățile comerciale
+care derulează activități de brokeraj la bursele de mărfuri
+și societățile de valori mobiliare care doresc derularea unor
+activități specifice societăților de brokeraj care sunt
+înființate până la data intrării în vigoare a prezentului regulament vor solicita C.N.V.M. în termen de 60 de zile de la
+intrarea în vigoare a prezentului regulament emiterea unei
+
+autorizații provizorii de funcționare, pe baza unei cereri
+(anexa nr. 1 la prezentul regulament) ce va fi însoțită de
+următoarele documente:
+a) copie de pe actul constitutiv al societății comerciale;
+b) încheierea judecătorului delegat pe lângă oficiul registrului comerțului de autorizare a constituirii societății
+comerciale și de înscriere în registru;
+c) copie de pe certificatul de înmatriculare la oficiul
+registrului comerțului;
+d) pentru fiecare dintre membrii consiliului de administrație, ai comitetului de direcție și ai comisiei de cenzori,
+dacă este cazul, următoarele documente:
+— curriculum vitae;
+— certificat de cazier judiciar, eliberat cu cel mult 3 luni
+anterioare depunerii cererii de autorizare provizorie;
+— declarație pe propria răspundere autentificată, în care
+să specifice că va respecta prevederile Legii nr. 129/2000
+și ale reglementărilor C.N.V.M. aplicabile în materie;
+e) structura organizatorică și regulamentul de organizare
+și funcționare a societății comerciale;
+f) dovada că dispune de o dotare tehnică minimă necesară prestării serviciilor de brokeraj: minimum 4 PC cu sistem de evidență, compensare și evaluare a riscului agreat
+de casa de compensație și/sau de societatea de bursă unde
+își desfășoară activitatea, evidență contabilă pe PC, software
+de îfront office“, software de îback office“, conectare la
+Internet, fax sau echivalent, minimum două linii telefonice;
+g) dovada că cel puțin două persoane angajate au
+atestat de broker și sunt autorizate de C.N.V.M. conform
+prevederilor prezentului regulament;
+h) avizul societății de bursă pentru bursa de mărfuri unde
+dorește să presteze servicii de brokeraj, prin care să se
+arate că este înscris în asociația bursei și că îndeplinește
+condițiile tehnice pentru a opera pe piețele respective;
+i) decizia privind obținerea calității de membru compensator sau copie autentică de pe contractul de compensare
+încheiat cu o altă societate de intermediere care deține
+calitatea de membru compensator la acea bursă de
+mărfuri, dacă cere autorizare și pentru derulare de
+operațiuni pe piețele futures sau cu opțiuni;
+j) dovada depunerii fondului de risc, astfel:
+— dacă este depus la casa de compensație sau la o
+societate de intermediere care are calitatea de membru
+compensator — prin adresă care certifică existența —, precum și cuantumul fondului de risc;
+— dacă este depus la o bancă agreată de casa de
+compensație — prin extras de cont pentru un depozit pe o
+perioadă de minimum 6 luni;
+k) dovada achitării în contul C.N.V.M. a taxelor de autorizare conform art. 8 alin. (3).
+(3) C.N.V.M. va decide cu privire la autorizarea în termen de 30 de zile, în condițiile art. 7—11.
+(4) Cu cel puțin 30 de zile înainte de expirarea autorizării provizorii (a cărei valabilitate este limitată la data de
+3 august 2002), societățile prevăzute la alin. (1) și (2) sunt
+obligate să solicite C.N.V.M. autorizarea în această calitate
+în condițiile prevăzute la art. 7—11.
+(5) Desfășurarea activităților de brokeraj fără autorizație
+constituie contravenție, dacă nu au fost săvârșite astfel
+încât să întrunească condițiile unei infracțiuni, și se
+pedepsește conform legii.
+Art. 60. — Activitățile traderului vor fi reglementate de
+societatea de bursă și de casa de compensație, cu avizul
+C.N.V.M.
+Art. 61. — Utilizarea în legătură cu activitățile de tipul
+celor reglementate prin Legea nr. 129/2000 și prin regulamentele C.N.V.M. aplicabile în materie a sintagmelor: îsocietate de bursă“, îsocietate de brokeraj“, îbroker“ sau a
+oricăreia similare ori a combinațiilor dintre acestea, fără
+autorizarea C.N.V.M., reprezintă încălcări ale legii și atrage
+răspunderea penală și/sau civilă, după caz.
+Art. 62. — Prezentul regulament intră în vigoare la data
+publicării lui în Monitorul Oficial al României, Partea I.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 172/12.III.2002
+
+9
+ANEXA Nr. 1
+la regulament
+
+FORMULAR
+
+Societate de intermediere
+Formular nou ..........................
+
+Modificări ........................
+
+CERERE
+pentru autorizarea serviciilor de intermediere la bursele de mărfuri
+Opis
+1. Cererea de autorizare prealabilă sau cererea de autorizare definitivă a societății de intermediere
+2. Copie de pe autorizația prealabilă/provizorie eliberată de C.N.V.M.
+3. Actul constitutiv autentificat, în copie legalizată
+4. Încheierea judecătorului delegat pe lângă oficiul registrului comerțului de autorizare a constituirii societății de
+intermediere și de înscriere în registru
+5. Copie de pe certificatul de înmatriculare la oficiul registrului comerțului
+6. Copie de pe extrasul de cont, care dovedește vărsarea capitalului în numerar
+7. Raportul de evaluare pentru aportul în natură (dacă este cazul), în copie legalizată
+8. Documente care să probeze că sediul societății de intermediere se află în folosința exclusivă a acesteia.
+9. Pentru membrii consiliului de administrație, ai comitetului de direcție și pentru cenzorii numiți, următoarele
+documente:
+• curriculum vitae;
+• certificat de cazier judiciar, eliberat cu cel mult 3 luni anterioare depunerii cererii;
+• declarație sub semnătură olografă în care să specifice că nu încalcă prevederile Legii nr. 31/1990, republicată,
+cu modificările ulterioare, ale Legii nr. 129/2000 și ale reglementărilor legale în vigoare în legătură cu intermedierea de
+valori mobiliare
+10. Structura organizatorică și regulamentul de organizare și funcționare, regulamentul de ordine interioară ale societății
+de intermediere
+11. Dovada că cel puțin două persoane angajate au atestat de broker și sunt autorizate de C.N.V.M.
+12. Avizul de agreare al societății de bursă
+13. Decizie de obținere a calității de membru compensator sau copie autentică de pe contractul de compensare
+14. Dovada depunerii fondului de risc
+15. Dovada achitării în contul C.N.V.M. a taxelor de autorizare
+16. Declarație din partea reprezentantului legal al societății de intermediere că aceasta îndeplinește condițiile
+prevăzute la art. 5 și 7 din regulament.
+Pagina de identificare a prezentului formular trebuie să poarte semnătura reprezentantului legal și ștampila societății comerciale care
+solicită autorizarea.
+Cererile vor fi completate cu informațiile necesare etapei de autorizare corespunzătoare, respectiv:
+— avizul prealabil, eliberat în scopul înmatriculării la oficiul registrului comerțului;
+— autorizarea provizorie ca societate de intermediere;
+— autorizarea definitivă, eliberată în scopul desfășurării activității de intermediere.
+
+ANGAJAMENT
+SOCIETATEA DE INTERMEDIERE
+
+.........................................................................................................................................................................................
+(denumirea societății)
+
+certifică prin prezenta că informațiile furnizate de către societate cu ocazia autorizării sau în cursul desfășurării activității
+sunt reale, corecte și complete și se obligă să comunice în scris C.N.V.M. orice modificări intervenite în informațiile furnizate, la termenele prevăzute în Regulamentul nr. 6/2001 privind autorizarea și exercitarea serviciilor de intermediere la
+bursele de mărfuri.
+SOCIETATEA DE INTERMEDIERE
+
+.........................................................................................................................................................................................
+(denumirea societății)
+
+se angajează să cunoască și să respecte Legea nr. 31/1991 privind societățile comerciale, republicată, cu modificările
+ulterioare, Legea nr. 129/2000 pentru aprobarea Ordonanței Guvernului nr. 69/1997 privind piețele reglementate de
+mărfuri, servicii și instrumente derivate, reglementările C.N.V.M. și ale Organismului de autoreglementare (OAR) la care
+este membră.
+Nerespectarea obligațiilor menționate mai sus atrage răspunderea societății de intermediere, conform Legii
+nr. 129/2000 și reglementărilor C.N.V.M. și ale OAR.
+Data: ...................
+Președintele consiliului de administrație,
+……..................................………………
+(numele, prenumele și semnătura)
+
+Ștampila societății de intermediere
+
+Director general,
+………….................................…………
+(numele, prenumele și semnătura)
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 172/12.III.2002
+FORMULAR
+Pagina 1
+
+(Pagina de identificare)
+
+CERERE PENTRU AUTORIZAREA
+CA SOCIETATE DE INTERMEDIERE
+
+Pentru uz
+oficial
+
+Numai pentru
+uz oficial
+
+Data: ……………..................
+
+False declarații sau omisiuni intenționate ale unor fapte pot constitui încălcări ale legii penale.
+1. Denumirea completă a solicitantului:
+……………………………………….....................................................................................................................
+2. Numărul de înmatriculare în registrul comerțului:
+……………………..................................................................
+3. Cod fiscal nr.:
+………………………...............................................................
+4. Dacă actuala înregistrare determină schimbarea numelului solicitantului, menționați numele anterior:
+…………………….........................................................................................................................………………
+5. Adresa sediului principal:
+……......…………
+................................
+(strada și nr.)
+
+………....…………
+(județul)
+
+(localitatea)
+
+……….........………
+(codul poștal)
+
+6. Adresa poștală, dacă este diferită: ……………….....................................................................................
+7. Numărul de telefon al solicitantului:
+…………………
+………...…………
+8. Numărul de fax al solicitantului:
+9. Persoana de contact:
+…………...............................……………
+(numele, prenumele și funcția)
+
+(prefix)
+
+(numărul de telefon)
+
+…………………
+
+………......………
+
+……….……………
+
+………....…………
+
+(prefix)
+
+(prefix)
+
+(numărul de fax)
+
+(numărul de telefon)
+
+10. Reprezentantul legal: ……………..............................................................................................................
+Semnătura: ……......................…………
+Ștampila societății de intermediere:
+Nu completați sub această linie. Numai pentru uz oficial.
+
+FORMULAR
+Pagina 2
+
+CERERE PENTRU AUTORIZAREA
+SOCIETĂÞII DE INTERMEDIERE
+
+Pentru uz
+oficial
+
+Denumirea solicitantului:
+..............................................
+Data: ....................................
+
+• În ultimii 10 ani unul dintre acționarii semnificativi sau membrii consiliului de administrație
+ori directorii solicitantului au fost sancționați de C.N.V.M., de către un organism de
+autoreglementare sau de către o instanță străină?
+
+! !
+DA NU
+
+• Societatea comercială se află în una dintre fazele procedurii de faliment sau în una
+dintre cele premergătoare acesteia, potrivit legii?
+
+! !
+DA NU
+
+• Bifați tipurile de activități pentru care solicitantul dorește să obțină autorizație:
+a) negocierea ofertelor și perfectarea contractelor pe piață la disponibil, futures sau
+cu opțiuni în contul unor terți sau în cont propriu;
+b) navlosiri, asigurări maritime și fluviale în contul unor terți;
+c) gestiune pe bază de mandat pentru constituirea garanțiilor la contractele futures
+și cu opțiuni, precum și pentru plata primei la contractele cu opțiuni perfectate în contul
+unor terți;
+d) negocierea, în baza unui mandat, în scopul obținerii de credite de la bănci pentru
+acoperirea parțială a tranzacțiilor futures;
+e) servicii subsidiare, adiacente sau complementare operațiunilor prevăzute la lit. a)—d),
+cum ar fi:
+— desfășurarea activității de formator de piață;
+— vânzări și achiziții având ca obiect mărfuri cum sunt produsele agricole sau
+materiile prime destinate procesării, din categoria celor care, prin natura lor, sunt
+bunuri fungibile sau bunuri mobile prin anticipație;
+— vânzări și achiziții la vedere, având ca obiect titluri reprezentative pe mărfuri, de
+tipul recipisei de depozit și al warantului, al conosamentului, al poliței de asigurare
+și al altora asemenea, agreate și clasificate de C.N.V.M., precum și achiziții sau
+vânzări la termen prin contracte futures sau cu opțiuni;
+— activități conexe prestării serviciilor de brokeraj, printre care asistența și evaluarea
+condițiilor de piață în vederea stabilirii politicii de preț.
+
+!
+!
+!
+!
+!
+!
+
+!
+!
+
+Numai pentru
+uz oficial
+
+11
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 172/12.III.2002
+FORMULAR
+Pagina 3
+
+CERERE PENTRU AUTORIZAREA
+SOCIETĂÞII DE INTERMEDIERE
+
+Pentru uz
+oficial
+
+Numai pentru
+uz oficial
+
+Denumirea solicitantului:
+..............................................
+Data: ...................................
+
+1. Menționați organismul de autoreglementare în care solicitantul dorește să devină membru.
+Specificați:
+2. Solicitantul a obținut avizul organismului de autoreglementare la care dorește să devină
+membru (dacă este cazul):
+DA !
+NU !
+(Pentru explicații suplimentare folosiți pagina de completare.)
+Ștampila Organismului de autoreglementare (OAR)
+FORMULAR
+ANEXA A
+
+CERERE PENTRU AUTORIZAREA
+SOCIETĂÞII DE INTERMEDIERE
+Denumirea solicitantului: ……........................
+Data: ……............................................……….
+
+Acționari și
+personal de conducere
+
+Pentru
+uz oficial
+
+• Menționați mai jos:
+• numele membrilor consiliului de administrație și al personalului de conducere;
+• numele persoanei/persoanelor din Oficiul pentru încadrarea în prevederile legale;
+• numele fiecărui acționar care deține 5% sau mai mult dintr-o clasă de valori mobiliare cu drept de vot ale solicitantului,
+mai puțin în cazul în care solicitantul este o societate deschisă.
+• Completați coloana îStatut“ prin menționarea calității de acționar, membru în consiliul de administrație, comitetul de
+direcție sau în Oficiul pentru încadrarea în prevederile legale. Dacă este vorba de acționar, menționați clasa de valori
+mobiliare deținute (dacă au fost emise mai multe clase de valori mobiliare).
+• Codurile pentru proprietate sunt:
+
+Numele/denumirea
+completă
+
+NA -- până la 5%
+A -- între 5% și 10%
+Funcția
+sau statutul
+
+FORMULAR
+ANEXA B
+
+B -- între 10% și 33%
+C -- între 33% și 50%
+Codul pentru
+proprietate
+
+D -- între 50% și 75%
+E -- peste 75%
+Codul fiscal
+(pentru persoane
+juridice)
+
+CERERE PENTRU AUTORIZAREA
+SOCIETĂÞII DE INTERMEDIERE
+Denumirea solicitantului: ……........................
+Data: ……............................................……….
+
+Acționari
+persoane juridice
+
+Pentru
+uz oficial
+
+Pentru
+uz oficial
+
+• Pentru fiecare dintre acționarii persoane juridice menționați în anexa A, specificați mai jos: acționarii săi care au
+în proprietate, au drept de vot sau au puterea de a vinde ori de a influența vânzarea a 33% sau mai mult dintr-o
+clasă de valori mobiliare cu drept de vot ale acelei societăți. Dacă este vorba despre o societate deschisă, nu
+mai este necesară nici o informație suplimentară.
+• Completați coloana îStatut“ prin menționarea calității de asociat, acționar etc., iar dacă este vorba de acționar,
+menționați clasa de valori mobiliare deținute (dacă au fost emise mai multe clase de valori mobiliare).
+• Codurile pentru proprietate sunt:
+Societatea
+în care sunt
+deținute acțiuni
+
+C -- între 33% și 50%
+D -- între 50% și 75%
+
+Numele/denumirea
+completă
+
+E -- peste 75%
+Statut
+
+Codul pentru
+proprietate
+
+Codul fiscal
+(pentru persoane
+juridice)
+
+Pentru
+uz oficial
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 172/12.III.2002
+FORMULAR
+ANEXA C
+
+Detalii
+persoane fizice
+
+CERERE PENTRU AUTORIZAREA
+SOCIETĂÞII DE INTERMEDIERE
+Denumirea solicitantului: ……........................
+Data: ……............................................……….
+
+Pentru
+uz oficial
+
+• Pentru fiecare dintre acționarii cu poziție de control, membrii consiliului de administrație, ai comitetului de direcție,
+precum și pentru brokerii societății completați mai jos: numele soțului, al rudelor până la gradul al II-lea inclusiv,
+precum și al afinilor de gradul I.
+• Completați coloana îCalitatea“ prin următoarele coduri:
+AT: acționar cu poziție de control; CD: membru în comitetul de direcție;
+CA: membru în consiliul de administrație; BK: broker al societății de intermediere
+• Completați coloana îStatut“ prin menționarea calității de rudă, afin etc. și a gradului de rudenie ori de afinitate.
+Numele și
+prenumele
+
+Calitatea
+
+FORMULAR
+ANEXA D
+
+Sedii secundare ale
+societății de intermediere
+
+Numele și prenumele
+rudei, afinului
+
+Statut
+
+Codul numeric
+personal
+
+CERERE PENTRU AUTORIZAREA
+SOCIETĂÞII DE INTERMEDIERE
+Denumirea solicitantului: ……........................
+Data: ……............................................……….
+
+Pentru
+uz oficial
+
+Pentru
+uz oficial
+
+• Pentru fiecare dintre filialele, sucursalele, agențiile societății menționați mai jos: adresa completă, numărul de telefon/fax, numele persoanelor din conducerea respectivului sediu secundar, precum și numele brokerilor autorizați
+care își desfășoară activitatea la sediul respectiv.
+Sediul secundar
+
+Adresa
+
+Telefon
+
+Fax
+
+Conducere
+
+Brokeri
+
+Filiale
+Sucursale
+Agenții
+
+FORMULAR
+ANEXA E
+
+Foaie de completare
+
+CERERE PENTRU AUTORIZAREA
+SOCIETĂÞII DE INTERMEDIERE
+Denumirea solicitantului: ……........................
+Data: ……............................................……….
+
+• Folosiți această anexă pentru a detalia sau a explica răspunsurile la întrebările formularului îSocietate
+de intermediere“, dacă este necesar.
+• Menționați pagina, punctul și litera la care se referă explicațiile.
+• Furnizați informații complete și concise.
+Puncte din
+formular
+
+Completare
+
+Pentru
+uz oficial
+
+13
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 172/12.III.2002
+
+ANEXA Nr. 2
+la regulament
+FORMULAR SI-R
+
+CERERE
+de retragere a autorizației unei societăți de intermediere
+FORMULAR SI-R
+Pagina 1
+
+CERERE DE RETRAGERE A
+AUTORIZAÞIEI DE SOCIETATE DE INTERMEDIERE
+Data: ........................
+Autorizație C.N.V.M. nr.: ……………...............
+
+Pentru uz
+oficial
+
+Numai pentru
+uz oficial
+
+False declarații sau omisiuni intenționate ale unor fapte pot constitui încălcări ale legii penale.
+1. Denumirea completă a solicitantului:
+……………………..................................................................................................................................................
+2. Codul fiscal nr. .........................................................................................................................................
+3. Adresa sediului principal:
+……......…………
+................................
+(strada și nr.)
+
+………....…………
+(județul)
+
+(localitatea)
+
+……….........………
+(codul poștal)
+
+4. Adresa poștală, dacă este diferită: ……………….....................................................................................
+5. Numărul de telefon al solicitantului:
+…………………
+………...…………
+6. Numărul de fax al solicitantului:
+7. Persoana de contact:
+…………...............................……………
+(numele, prenumele și funcția)
+
+(prefix)
+
+(numărul de telefon)
+
+…………………
+
+………......………
+
+……….……………
+
+………....…………
+
+(prefix)
+
+(prefix)
+
+(numărul de fax)
+
+(numărul de telefon)
+
+8. Menționați organismul de autoreglementare în care solicitantul este membru și din care dorește să se retragă.
+Specificați:
+…………………….................................................................................................................................................................
+9. Solicitantul a obținut avizul organismului de autoreglementare:
+!
+!
+DA
+NU
+Ștampila Organismului de autoreglementare (OAR)
+Nu completați sub această linie. Numai pentru uz oficial.
+FORMULAR SI-R
+Pagina 2
+
+CERERE DE RETRAGERE A AUTORIZAÞIEI
+SOCIETĂÞII DE INTERMEDIERE
+
+Pentru
+uz oficial
+
+Denumirea solicitantului: ......................
+Data: .....................................................
+Autorizație C.N.V.M. nr.: ...................
+
+1. Data la care societatea de valori mobiliare a încetat operațiunile: .....................................................
+2. Societatea de intermediere datorează bani unui client, unei alte societăți de intermediere sau case
+de compensație?
+.........................................................................................................................................................................
+Dacă DA:
+a) Numărul clienților cărora le sunt datorați bani: ......................................................................................
+b) Sumele de bani datorate (lei):
+— clienților ................................................................................................................................................
+— societăților de intermediere ................................................................................................................
+— caselor de compensație ......................................................................................................................
+c) Numărul de poziții deschise aferente:
+— clienților .....................................................................................................................................................
+— societăților de intermediere .....................................................................................................................
+d) Convenții privind plățile.
+Atașați o copie de pe ultimele raportări financiare, care să cuprindă balanța de verificare lunară
+și calculul capitalului net.
+
+! !
+DA NU
+
+3. Există împotriva societății de intermediere proceduri, plângeri sau anchete în curs?
+.........................................................................................................................................................................
+4. Există împotriva societății de intermediere hotărâri judecătorești sau garanții reale care nu au fost
+puse în executare?
+.........................................................................................................................................................................
+Menționați toate detaliile în cazul răspunsurilor DA în pagina de continuare a acestui formular.
+
+! !
+DA NU
+! !
+DA NU
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 172/12.III.2002
+FORMULAR SI-R
+Pagina
+de completare
+
+"
+"
+"
+
+CERERE DE RETRAGERE A AUTORIZAÞIEI
+SOCIETĂÞII DE INTERMEDIERE
+
+Pentru
+uz oficial
+
+Denumirea solicitantului: ......................
+Data: .....................................................
+Autorizație C.N.V.M. nr.: ...................
+
+Folosiți această anexă pentru a detalia sau a explica răspunsurile la întrebările formularului SI-R, dacă este necesar.
+Menționați pagina, punctul și litera la care se referă explicațiile.
+Furnizați explicații complete și concise.
+
+Puncte din
+formular
+
+Pentru uz
+oficial
+
+Completare
+
+NOTĂ:
+Cererile completate trebuie înaintate spre avizare organismului de autoreglementare la care societatea de intermediere este membră și din care
+dorește să se retragă. În vederea retragerii autorizației de funcționare ca societate de valori mobiliare, organismul de autoreglementare va înainta la
+C.N.V.M. toate cererile avizate.
+ANEXA Nr. 3
+la regulament
+DECLARAÞIE
+
+Subsemnatul ..............................., născut la data de ........................, cu domiciliul în ......................., posesor al
+actulului de identitate seria ............. nr. ..............., eliberat de circa de poliție ........... la data de ....................., în calitate
+de angajat (reprezentant) exclusiv al Societății de intermediere ........................, declar prin prezenta că îndeplinesc
+condițiile prevăzute la art. 5 pct. 6 și la art. 16 din Regulamentul nr. 6/2001 privind autorizarea și exercitarea serviciilor
+de intermediere la bursele de mărfuri și mă angajez să respect prevederile Legii nr. 129/2000, ale regulamentelor
+C.N.V.M. și ale Organismului de autoreglementare (OAR) corespunzătoare.
+Dată și semnată astăzi pe propria răspundere, cunoscând că falsul în declarații se pedepsește conform legii.
+Data ..................................
+
+Semnătura ...................................
+Semnătura OPL ...............................
+ANEXA Nr. 4
+la regulament
+
+.....................................
+Nr. de înmatriculare la registrul comerțului ............
+Codul fiscal ....................................
+
+SOCIETATEA DE INTERMEDIERE
+
+SITUAÞIE FINANCIARĂ LUNARĂ
+
+la data de ..........................
+
+Prin prezenta certific că raportările financiare reflectă corect situația activelor și a datoriilor societății.
+Președinte,
+
+Director economic,
+ANEXA Nr. 4.1
+la regulament
+
+Denumirea societății ........................
+SITUAÞIE FINANCIARĂ LUNARĂ
+
+Activele ponderate și actualizate ale pieței de valori mobiliare
+Nr.
+rd.
+0
+
+Descrierea activului
+
+Simbol
+cont
+
+Valoarea
+de intrare
+(solduri)
+
+1
+
+2
+
+3
+
+01 Disponibilul aflat în contul curent și în casă
+02 Certificate de depozit
+03 Depozite la termen constituite la băncile comerciale, alte
+instrumente care evidențiază depuneri la bănci comerciale
+Depozite constituite la băncile comerciale aflate sub
+supravegherea B.N.R.
+04 Titluri de stat
+Titluri emise de autorități ale administrației publice locale
+05 a) Valori mobiliare emise de societăți comerciale care au
+făcut obiectul unei oferte publice, tranzacționate pe piețe,
+recunoscute de C.N.V.M. și pentru care exsită o piață lichidă
+b) Acțiuni și obligațiuni ale societăților comerciale în care
+societatea de valori mobiliare este formator de piață—pentru
+acele valori mobiliare pentru care desfășoară activitatea
+de formator de piață
+
+511+512–419***)
++531+532+541+461.01
+267–296*)
+508–590
+
+Valoarea
+de
+piață
+4
+
+Valoarea
+actualizată
+
+Valoarea
+ponderată
+și actualizată
+
+5
+
+6
+
+7=5–(5x6)
+
+X
+
+0%
+
+X
+
+2%
+
+267–296*)
+508–590
+506–590
+267–296*)
+
+— mii lei —
+Coeficientul
+de risc
+
+5%
+X
+
+95%
+2%
+10%
+
+503+506+508–590
+
+30%
+
+503+506+508–590
+
+20%
+
+15
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 172/12.III.2002
+0
+
+06
+07
+08
+
+09
+
+10
+11
+12
+13
+
+1
+
+2
+
+c) Acțiuni și obligațiuni ale unei singure societăți comerciale,
+reprezentând mai mult de 20% din totalul activelor pieței
+de valori mobiliare ale societății de intermediere
+Valori mobiliare pentru care oferta publică este în derulare
+(prețul de ofertă — marja de intermediere în cazul
+plasamentului garantat)
+Acțiuni la SNCDD și la registre independente ale acționarilor,
+case de compensație, societăți de bursă (la prețul de achiziție)
+a) Titluri de participare la fondurile mutuale
+b) Titluri de participare, în cazul în care valoarea totală
+a titlurilor de participare la un singur fond mutual reprezintă
+mai mult de 20% din totalul activelor pieței de valori
+mobiliare ale societății de intermediere
+Sume datorate de clienți pentru valorile mobiliare
+cumpărate în numele lor:
+— în termen de 3 zile lucrătoare de la data tranzacționării;
+— după cele 3 zile valorile mobiliare cumpărate în numele
+clientului pot trece în contul societății, aplicându-li-se
+coeficientul de risc corespunzător
+Depozite la o societate depozitară înregistrată la C.N.V.M.
+Fonduri de garantare constituite conform reglementărilor
+specifice fiecărei piețe
+Depozite la o altă societate de intermediere, în baza
+unui contract de compensare aprobat de C.N.V.M.
+Acțiuni și obligațiuni ale societăților comerciale care nu
+sunt tranzacționate pe nici una dintre piețele organizate
+sau ale societăților tranzacționate, dar care au fost
+suspendate de la tranzacționare pe o perioadă mai mare
+de două săptămâni
+
+3
+
+4
+
+5
+
+6
+
+503+506+508–590
+
+50%
+
+503+506+508–590
+261–296*)
+261–296*)
+
+X
+X
+
+261–296*)
+
+40%
+30%
+25%
+
+50%
+
+419**)
+
+0%
+
+267–296*)
+
+30%
+20%
+50%
+8%
+
+267–296*)
+
+8%
+
+267–296
+
+2%
+
+503+506+508–590
+
+X
+
+100%
+
+X
+
+14 TOTAL ACTIVE:
+
+7=5–(5x6)
+
+X
+
+X
+
+***) Conturi de repartizat după natura elementelor respective.
+***) Solduri debitoare ale conturilor respective.
+***) Solduri creditoare ale conturilor respective.
+ANEXA Nr. 4.2
+la regulament
+
+Denumirea societății ..................................
+SITUAÞIE FIANCIARĂ LUNARĂ
+
+Situația pasivului societății de intermediere
+Pasivul
+
+I. Capitaluri proprii — total
+[101+108***)–108**)+104+105+106+107***)–107**)+121***)–121**)–129+111+112+118–119+131+141]
+II. Provizioane pentru riscuri și cheltuieli
+Provizioane pentru riscuri [ct. 1511+1512+1518*)]
+Provizioane pentru cheltuieli [ct. 1513+1514+1518*)]
+TOTAL (rd. 02+03):
+III. Datorii
+Împrumuturi și datorii asimilate
+[ct. 161+162+166+167+168+512***)+5186+519]
+Furnizori și conturi asimilate (ct. 401+403+404+405+408)
+Clienți creditori (ct. 419)
+Creditori diverși — sume datorate băncii de decontare (ct. 462):
+— în nume propriu (462.01.01)
+— în contul clienților (462.01.02)
+Alți creditori (ct. 462)
+Alte datorii [ct. 421+423+424+426+427+4281+431+437+4381+441***)–441**)+444***)–444**)+446***)–446**)+447***)–447**)+
+4483+451***)+446+455***)–455**)+457+4582–4581+481***)+482***)+509]
+TOTAL DATORII (rd. 05 la 11):
+IV. Conturi de regularizări și asimilate
+Venituri înregistrate în avans (ct. 472)
+Decontări din operațiuni în curs de calificare [ct. 473***)]
+Diferențe de conversie (ct. 477)
+TOTAL (rd. 13 la 15):
+TOTAL PASIV (rd. 01+04+12+16):
+
+— mii lei —
+Nr.
+rd.
+
+Sold la
+sfârșitul lunii
+
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+
+X
+
+***) Conturi de rapartizat după natura elementelor respective.
+***) Solduri debitoare ale conturilor respective.
+***) Solduri creditoare ale conturilor respective.
+
+NOTĂ:
+
+Menționați orice fel de obligații (datorii) care pot apărea în viitorul apropiat sau de care managementul are
+cunoștință, care nu sunt incluse în conturile din situația de mai sus și care pot afecta situația pasivelor societății de
+intermediere în perioada imediat următoare.
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 172/12.III.2002
+ANEXA Nr.4.3
+la regulament
+
+Denumirea societății .........................
+SITUAÞIE FINANCIARĂ LUNARĂ
+
+Calculul capitalului net și al gradului de îndatorare
+
+— mii lei —
+Nr.
+rd.
+
+Descrierea indicatorilor
+
+Active ponderate și actualizate ale pieței de valori mobiliare — anexa nr. 4.1 la regulament
+Total datorii (anexa nr. 4.2: rd. 12–rd. 07–rd. 09)
+I. CAPITAL NET (rd. 01—rd. 02)
+CERINÞA DE CAPITAL MINIM NET
+EXCEDENT/DEFICIT (rd. 3—4/rd. 4—3)
+II. GRADUL DE ÎNDATORARE (rd. 02/rd. 03)
+
+Valoarea
+
+01
+02
+03
+04
+05
+06
+ANEXA Nr. 5
+la regulament
+
+PROCEDURI
+
+privind autorizarea, atestarea și notificarea modificărilor în modul de organizare și funcționare a societăților de intermediere
+Sunt supuse autorizării următoarele modificări în organizarea și
+funcționarea societăților de intermediere:
+a) schimbarea sediului social al societății de intermediere;
+b) deschiderea de sedii secundare de către societatea de intermediere
+(sucursale sau agenții);
+c) majorarea sau reducerea capitalului social;
+d) alte servicii prevăzute în prezentul regulament.
+Se supune atestării schimbarea denumirii societății de intermediere.
+Se notifică C.N.V.M. următoarele:
+a) înlocuirea membrilor consiliului de administrație, ai comitetului de
+direcție și ai comisiei de cenzori;
+b) schimbarea structurii acționariatului;
+c) intermedierea la o altă bursă de mărfuri și/sau la altă societate de
+bursă;
+d) schimbarea membrului compensator, a casei de compensație.
+În vederea obținerii autorizării prealabile a schimbării sediului social
+societatea de intermediere va prezenta următoarele documente:
+" hotărârea adunării generale a acționarilor;
+" actul adițional la actele constitutive ale societății de intermediere;
+" actul de spațiu. Nu se acceptă contract de asociere.
+Societatea de intermediere va trebui să dispună de un spațiu și o
+dotare tehnică corespunzătoare desfășurării activității de intermediere.
+În vederea obținerii autorizării prealabile pentru deschiderea de sedii
+secundare, societatea de intermediere va prezenta următoarele documente:
+" hotărârea adunării generale a acționarilor;
+" actul adițional la actele constitutive ale societății de intermediere;
+" actul de spațiu, care să cuprindă următoarele prevederi:
+— precizarea cu claritate a obiectului asocierii — asocierea îpe
+spațiu“;
+— delimitarea cu claritate a obligațiilor părților: una dintre părți vine
+în asociere cu spațiul în care cealaltă parte (societatea de intermediere)
+își va desfășura obiectul specific de activitate;
+— existența clauzei de confidențialitate;
+— neîmpărțirea profitului;
+" declarație pe propria răspundere a reprezentantului legal al
+societății de intermediere în ceea ce privește îndeplinirea condițiilor de
+mai jos:
+a) societatea de intermediere deține în folosință exclusivă minimum o
+cameră cu un telefon și un fax;
+b) este conectată printr-un computer la sediul central al societății de
+intermediere;
+
+c) este dotată cu sistem de evidență și prelucrare a ordinelor de
+tranzacționare;
+d) are cel puțin doi brokeri autorizați în sediile în care se desfășoară
+efectiv activitate de tranzacționare.
+În vederea obținerii autorizării prealabile a majorării capitalului social,
+societatea de intermediere va prezenta următoarele documente:
+" hotărârea adunării generale a acționarilor;
+" actul adițional la actele constitutive ale societății de intermediere;
+" dovada vărsării capitalului în numerar (foaie de vărsământ, ordin
+de plată, adeverință emisă de banca la care societatea de intermediere
+are cont deschis sau extras de cont);
+" raportul de evaluare efectuat conform legii pentru aportul în natură.
+Eliberarea autorizației prealabile de majorare a capitalului social se va
+face cu condiția prezentării dovezii achitării în contul C.N.V.M. a unei
+sume echivalente cu un procent din aportul suplimentar la capitalul
+social.
+În vederea obținerii autorizării prealabile a schimbării denumirii
+societății de intermediere, aceasta va prezenta următoarele documente:
+" hotărârea adunării generale a acționarilor;
+" actul adițional la actele constitutive ale societății de intermediere.
+În vederea obținerii autorizării/atestării definitive a modificărilor mai
+sus menționate, societatea de intermediere va prezenta C.N.V.M. cererea
+de înscriere de mențiuni la oficiul registrului comerțului, respectiv noul
+certificat de înmatriculare.
+Notificarea schimbărilor intervenite în consiliul de administrație, comitetul de direcție și în comisia de cenzori va fi însoțită de următoarele
+documente:
+a) hotărârea adunării generale a acționarilor;
+b) actul adițional la actele constitutive ale societății de intermediere;
+c) cererea de înscriere de mențiuni la oficiul registrului comerțului;
+d) curriculum vitae, certificat de cazier judiciar eliberat cu 3 luni anterioare notificării și declarație sub semnătură olografă de încadrare în prevederile Legii nr. 31/1990, republicată, cu modificările ulterioare, ale Legii
+nr. 129/2000 și ale reglementărilor în vigoare în legătură cu intermedierea
+la bursele de mărfuri.
+În plus pentru modificările intervenite în structura acționariatului va fi
+depusă și noua structură a acestuia.
+Pentru oricare dintre modificările menționate în această anexă societatea de intermediere va prezenta C.N.V.M. anexa nr. 1 la regulament
+reactualizată, cu respectarea prevederilor art. 11 din regulament.
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAÞILOR
+Regia Autonomă îMonitorul Oficial“, str. Izvor nr. 2–4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1—12.1/ROL Banca Comercială Română — S.A. — Sucursala îUnirea“ București
+și nr. 5069427282 Trezoreria sector 5, București (alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 411.97.54, tel./fax 410.77.36.
+Tiparul : Regia Autonomă îMonitorul Oficial“, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: ramomrk@bx.logicnet.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 172/12.III.2002 conține 16 pagini.
+
+Prețul de vânzare 8.500 lei
+
+ISSN 1453—4495
+
+

@@ -1,0 +1,3656 @@
+PARTEA
+
+Anul 174 (XVIII) — Nr. 706
+
+I
+
+Joi, 17 august 2006
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+SUMAR
+
+Nr.
+
+Pagina
+
+Nr.
+
+Pagina
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+906.
+
+— Ordin al ministrului sănătății publice pentru
+aprobarea Normelor și protocoalelor analitice,
+farmacotoxicologice și clinice referitoare la testarea
+medicamentelor..........................................................
+
+ACTE
+ALE
+
+ALE
+
+ACTE ALE CASEI NAȚIONALE
+DE ASIGURĂRI DE SĂNĂTATE
+315.
+1–24
+
+ORGANELOR
+
+ADMINISTRAȚIEI
+
+— Ordin pentru aprobarea utilizării formularelor
+unice pe țară, fără regim special, necesare
+raportării activității furnizorilor de servicii
+medicale .....................................................................
+
+DE
+
+25–80
+
+SPECIALITATE
+
+PUBLICE
+
+CENTRALE
+
+MINISTERUL SĂNĂTĂȚII PUBLICE
+
+ORDIN
+pentru aprobarea Normelor și protocoalelor analitice, farmacotoxicologice și clinice
+referitoare la testarea medicamentelor
+Având în vedere prevederile Legii nr. 95/2006 privind reforma în domeniul sănătății, titlul XVII îMedicamentul“, ale
+Ordonanței Guvernului nr. 125/1998 privind înființarea, organizarea și funcționarea Agenției Naționale a Medicamentului,
+aprobată cu modificări și completări prin Legea nr. 594/2002, cu modificările și completările ulterioare,
+văzând Referatul de aprobare al Direcției farmaceutice nr. E.N. 2.397 din 25 iulie 2006,
+în temeiul Hotărârii Guvernului nr. 862/2006 privind organizarea și funcționarea Ministerului Sănătății Publice,
+ministrul sănătății publice emite următorul ordin:
+Art. 1. — Se aprobă Normele și protocoalele analitice,
+farmacotoxicologice și clinice referitoare la testarea
+medicamentelor, potrivit anexei care face parte integrantă
+din prezentul ordin.
+Art. 2. — Prezentul ordin intră în vigoare la data de
+28 iulie 2006, dată la care se abrogă orice dispoziție
+contrară.
+Art. 3. — Prezentul ordin se publică în Monitorul Oficial
+al României, Partea I.
+
+Prezentul
+
+transpune
+
+prevederile
+
+Directivei
+
+2003/63/CE din 25 iunie 2003, care modifică Directiva
+2001/83/CE a Parlamentului European și a Consiliului din
+6 noiembrie 2001, referitoare la codul comunitar privind
+medicamentele de uz uman, publicată în Jurnalul Oficial al
+Comunităților Europene nr. L 159 din 27 iunie 2003.
+
+Ministrul sănătății publice,
+Gheorghe Eugen Nicolăescu
+București, 25 iulie 2006.
+Nr. 906.
+
+ordin
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+ANEXĂ
+
+NORME ȘI PROTOCOALE
+analitice, farmacotoxicologice și clinice referitoare la testarea medicamentelor
+Introducere și principii generale
+(1) Informațiile și documentele care însoțesc o cerere
+de autorizare de punere pe piață în conformitate cu
+art. 702 alin. (4), art. 703 și 706 din Legea nr. 95/2006
+privind reforma în domeniul sănătății trebuie să fie
+prezentate în acord cu cerințele stabilite în prezentele
+norme și protocoale și trebuie să urmeze ghidul publicat de
+Comisia Europeană în Regulile care guvernează
+medicamentele în Comunitatea Europeană, vol. 2B,
+Informații pentru solicitanți (Notice to Applicants),
+medicamentele de uz uman, prezentarea și conținutul
+dosarului, Documentul tehnic comun (DTC).
+(2) Informațiile și documentele trebuie să fie prezentate
+sub forma a 5 module:
+— modulul 1 prezintă datele administrative specifice
+României și Comunității Europene;
+— modulul 2 prezintă rezumatele de calitate, nonclinice
+și clinice;
+— modulul 3 prezintă informațiile chimice, farmaceutice
+și biologice;
+— modulul 4 prezintă rapoartele nonclinice; și
+— modulul 5 prezintă rapoartele studiilor clinice.
+(3) Această prezentare implementează un format comun
+pentru toate regiunile Conferinței Internaționale pentru
+Armonizare [International Conference on Harmonization
+(ICH)]: Comunitatea Europeană, Statele Unite ale Americii
+și Japonia.
+(4) Aceste 5 module trebuie să fie prezentate în strictă
+concordanță cu formatul, conținutul și sistemul de
+numerotare descrise în detaliu în vol. 2B, Informații pentru
+solicitanți (Notice to Applicants), mai sus menționate.
+(5) Prezentarea DTC al Comunității Europene este
+aplicabilă pentru toate tipurile de cereri de autorizare de
+punere pe piață, indiferent de procedura care urmează să
+fie aplicată (centralizată, de recunoaștere mutuală sau
+națională) și indiferent dacă se bazează pe o cerere
+completă sau o cerere cu documentație simplificată; de
+asemenea, este aplicabilă pentru toate tipurile de produse
+care includ entitățile chimice noi, medicamentele
+radiofarmaceutice, derivații de plasmă, vaccinurile,
+produsele din plante medicinale etc.
+(6) La pregătirea dosarului pentru cererea de autorizare
+de punere pe piață, solicitantul trebuie să ia în considerare
+ghidurile științifice privind calitatea, siguranța și eficacitatea
+medicamentelor de uz uman adoptate de Comitetul pentru
+medicamente de uz uman și publicate de Agenția
+Europeană a Medicamentului [European Medicines Agency —
+(EMEA)], precum și alte ghiduri farmaceutice din
+Comunitatea Europeană, publicate de Comisie în diferite
+volume ale Regulilor care guvernează medicamentele în
+Comunitatea Europeană.
+(7) În ceea ce privește partea de calitate a dosarului
+(chimică, farmaceutică și biologică), sunt aplicabile toate
+monografiile din Farmacopeea Europeană, inclusiv
+monografiile generale și capitolele generale.
+(8) Procesul de fabricație trebuie să fie conform cu
+cerințele Directivei Comisiei 91/356/CEE, care stabilește
+Principiile și ghidurile de bună practică de fabricație (BPF)
+pentru medicamente de uz uman1), transpusă în România
+1)
+2)
+3)
+4)
+5)
+
+JO
+JO
+JO
+JO
+JO
+
+nr.
+nr.
+nr.
+nr.
+nr.
+
+L
+L
+L
+L
+L
+
+193 din 17 iulie 1991, p. 30.
+121 din 1 mai 2001, p. 34.
+15 din 17 ianuarie 1987, p. 29.
+145 din 11 iunie 1988, p. 35.
+358 din 18 decembrie 1986, p. 1
+
+prin ordin al ministrului sănătății publice, și cu Principiile și
+ghidurile referitoare la BPF, publicate de Comisie în
+Regulile care guvernează medicamentele în Comunitatea
+Europeană.
+(9) Toate informațiile care sunt relevante pentru
+evaluarea medicamentului în cauză trebuie incluse în
+cerere, indiferent dacă sunt sau nu sunt favorabile
+produsului. În special trebuie prezentate toate informațiile
+relevante despre orice teste sau experimentări farmacotoxicologice sau clinice incomplete ori abandonate privind
+medicamentul și/sau studiile clinice realizate privind
+indicațiile terapeutice neacoperite de cerere.
+(10) Toate studiile clinice efectuate în România și în
+Comunitatea Europeană trebuie să corespundă cerințelor
+Directivei 2001/20/CE a Parlamentului European și a
+Consiliului privind armonizarea legilor, regulamentelor și
+măsurilor administrative ale statelor membre referitoare la
+implementarea regulilor de bună practică în desfășurarea
+studiilor clinice efectuate cu medicamente de uz uman2),
+transpuse în România prin ordin al ministrului sănătății
+publice. Pentru a putea fi luate în considerare în cursul
+evaluării unei cereri, studiile clinice efectuate în afara
+României sau Comunității Europene, referitoare la
+medicamentele destinate a fi utilizate în România sau
+Comunitatea Europeană, trebuie să fie proiectate,
+implementate și raportate conform unor reguli de bună
+practică în studiul clinic și unor principii etice aplicabile,
+echivalente celor prevăzute de Directiva 2001/20/CE,
+transpusă în România prin ordin al ministrului sănătății
+publice. Ele trebuie realizate în acord cu principiile etice
+care sunt reflectate, de exemplu, în Declarația de la
+Helsinki.
+(11) Studiile nonclinice (farmacotoxicologice) trebuie
+realizate în conformitate cu prevederile referitoare la buna
+practică de laborator, formulate în Directiva Consiliului
+87/18/CEE privind armonizarea Normelor, protocoalelor și
+măsurilor administrative privind aplicarea bunei practici de
+laborator și verificarea aplicării lor în testarea substanțelor
+chimice3), transpuse în România prin Hotărârea Guvernului
+nr. 63/2002 privind aprobarea Principiilor de bună practică
+de laborator, precum și inspecția și verificarea respectării
+acestora în cazul testărilor efectuate asupra substanțelor
+chimice, cu modificările și completările ulterioare, și în
+Directiva 88/320/CEE privind inspecția și verificarea bunei
+practici de laborator4), transpuse în România prin ordin
+comun al ministrului economiei și comerțului, ministrului
+sănătății publice și ministrului agriculturii, pădurilor și
+dezvoltării rurale.
+(12) Agenția Națională a Medicamentului trebuie să se
+asigure, de asemenea, că toate testele pe animale sunt
+efectuate în acord cu Directiva Consiliului 86/609/CEE din
+24 noiembrie 1986 pentru armonizarea legislației, normelor,
+protocoalelor și măsurilor administrative ale statelor membre
+ale Uniunii Europene privind protecția animalelor utilizate
+pentru experiență și pentru alte scopuri științifice 5) ,
+transpusă în România prin Ordonanța Guvernului
+nr. 37/2002 pentru protecția animalelor folosite în scopuri
+științifice sau în alte scopuri experimentale, aprobată cu
+modificări și completări prin Legea nr. 471/2002.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+(13) Pentru monitorizarea evaluării raportului riscbeneficiu, trebuie depuse la Agenția Națională a
+Medicamentului orice informații noi care nu au fost
+conținute în cererea originală, precum și toate informațiile
+de farmacovigilență. După acordarea autorizației de punere
+pe piață, orice modificare a datelor din dosar trebuie
+depusă la Agenția Națională a Medicamentului, în acord cu
+cerințele regulamentelor Comisiei nr. 1.084/2003/CE6) și
+nr. 1.085/2003/CE 7) , Reglementărilor pentru aprobarea
+modului de rezolvare a cererilor privind modificările
+designului și inscripționării ambalajului, precum și
+modificările prospectului, altele decât cele datorate unor
+variații de tip IA, IB și II, aprobate prin ordin al ministrului
+sănătății publice, Reglementărilor privind procedura
+administrativă a Agenției Naționale a Medicamentului de
+gestionare a variațiilor, aprobate prin ordin al ministrului
+sănătății publice, cât și în acord cu cerințele din vol. 9 al
+publicației Comisiei Europene îRegulile care guvernează
+medicamentele în Comunitatea Europeană“.
+Prezentele norme și protocoale conțin 4 părți diferite:
+— partea I descrie formatul cererii, rezumatul
+caracteristicilor produsului, etichetarea, prospectul și
+exigențele de prezentare pentru cererile standard
+(modulele 1—5);
+— partea a II-a prevede derogarea pentru îCereri
+specifice“, de exemplu cereri pentru medicamente cu
+utilizare bine stabilită, produse generice (esențial similare),
+combinații fixe, produse biologice similare, cereri în
+circumstanțe excepționale și cereri mixte (documentație
+formată în parte din date bibliografice și în parte din studii
+proprii);
+— partea a III-a se referă la îexigențele cererilor
+speciale“ pentru medicamente biologice (Dosarul standard
+al plasmei; Dosarul standard al antigenului vaccinal),
+medicamente radiofarmaceutice, medicamente homeopate,
+medicamente din plante medicinale și medicamente orfane;
+— partea a IV-a se referă la îmedicamente pentru
+terapie avansată“ și conține exigențele specifice pentru
+terapia genică a medicamentelor (folosindu-se sisteme
+umane autoloage ori alogenice sau sisteme xenogenice) și
+medicamente pentru terapie celulară, atât de origine
+umană, cât și de origine animală, și medicamente de
+transplant xenogenic.
+PARTEA I
+Cerințele dosarului standardizat de autorizare
+de punere pe piață
+1. MODULUL 1: INFORMAȚII ADMINISTRATIVE
+
+1.1. Cuprins
+
+Trebuie să fie prezentat un cuprins detaliat al modulelor
+1—5 pentru dosarul depus în vederea autorizării de punere
+pe piață.
+1.2. Formularul de cerere
+
+Medicamentul care este obiectul cererii trebuie identificat
+prin denumire și denumirea substanței/substanțelor active,
+împreună cu forma farmaceutică, calea de administrare,
+concentrația și forma de prezentare finală, inclusiv prin
+ambalaj.
+Trebuie menționate numele și adresa solicitantului,
+împreună cu numele și adresa fabricanților și locurile
+implicate în diferite etape de fabricație (inclusiv fabricantul
+produsului finit și fabricantul/fabricanții substanței/
+6)
+7)
+
+JO nr. L 159 din 27 iunie 2003, p. 1.
+JO nr. L 159 din 27 iunie 2003, p. 24.
+
+3
+
+substanțelor active) și, unde este cazul, numele și adresa
+importatorului.
+Solicitantul trebuie să identifice tipul de cerere și să
+precizeze, de asemenea, ce mostre sunt prezentate, dacă
+este cazul.
+La datele administrative trebuie anexate copii ale
+autorizațiilor de fabricație, astfel cum sunt definite în
+art. 748 alin. (1) din Legea nr. 95/2006, împreună cu o
+listă a țărilor în care s-a acordat autorizația respectivă,
+copii ale tuturor rezumatelor caracteristicilor produsului, în
+conformitate cu art. 702 alin. (4) lit. o) din Legea
+nr. 95/2006, aprobate de statele membre ale Uniunii
+Europene, și o listă a țărilor în care s-au depus cereri.
+Așa cum reiese din formularul de cerere, solicitantul va
+furniza, mai ales, informații despre medicamentul care este
+obiectul cererii, baza legală a cererii, deținătorul autorizației
+de punere pe piață propus și fabricantul/fabricanții,
+informații despre statutul de medicament orfan,
+recomandările științifice și programul de dezvoltare
+pediatrică de care, eventual, a beneficiat.
+1.3. Rezumatul caracteristicilor produsului, etichetare și
+prospect
+
+1.3.1. Rezumatul caracteristicilor produsului
+Solicitantul trebuie să depună un rezumat al caracteristicilor
+produsului, în acord cu art. 702 alin. (4) lit. o) și cu
+art. 708 din Legea nr. 95/2006.
+1.3.2. Etichetare și prospect
+Trebuie prezentat un text de etichetare propus pentru
+ambalajul primar și secundar, precum și pentru prospect.
+Acestea trebuie să fie în acord cu prevederile obligatorii
+privind etichetarea prevăzute în art. 763 și cu cele privind
+prospectul medicamentelor de uz uman prevăzute în
+art. 769 din Legea nr. 95/2006.
+1.3.3. Machete și specimene
+Solicitantul trebuie să depună specimene și/sau machete
+ale ambalajului primar și secundar, ale etichetelor și
+prospectelor pentru medicamentul implicat.
+1.3.4. Rezumatele caracteristicilor produsului deja aprobate
+în statele membre ale Uniunii Europene
+Unde este cazul, la datele administrative ale formularului
+de cerere trebuie să fie anexate copii ale tuturor
+rezumatelor caracteristicilor produsului, aprobate de statele
+membre ale Uniunii Europene, la care se face referire în
+acord cu art. 702 alin. (4) lit. m) și o) și cu art. 708 din
+Legea nr. 95/2006, precum și o listă a țărilor în care s-a
+depus o cerere.
+1.4. Informații despre experți
+
+În acord cu prevederile art. 709 alin. (2) din Legea
+nr. 95/2006, experții trebuie să furnizeze rapoarte detaliate
+ale observațiilor lor asupra documentelor și informațiilor
+care constituie dosarul de autorizare de punere pe piață și,
+în special, privind modulele 3—5 (documentația chimică,
+farmaceutică și biologică, documentația nonclinică și,
+respectiv, documentația clinică). Acestor experți li se cere
+să se refere la aspectele critice legate de calitatea
+medicamentului și de investigațiile efectuate pe animale și
+ființe umane și să scoată în evidență toate datele relevante
+pentru evaluare.
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+Aceste cerințe trebuie satisfăcute prin furnizarea
+rezumatului global de calitate, a unei prezentări generale
+nonclinice (datele din studiile efectuate pe animale) și a
+unei prezentări generale clinice, care trebuie să fie
+localizate în modulul 2 al dosarului cererii de autorizare de
+punere pe piață. O declarație semnată de experți,
+împreună cu informațiile pe scurt despre nivelul lor
+educațional, de instruire și experiență profesională, trebuie
+să fie prezentate în modulul 1. Experții trebuie să aibă
+calificare profesională sau tehnică corespunzătoare. Trebuie
+să fie declarată relația profesională a expertului cu
+solicitantul.
+1.5. Exigențe specifice pentru diferite tipuri de cereri
+
+Partea a II-a a prezentei anexe prezintă exigențele
+specifice pentru diferite tipuri de cereri.
+1.6. Evaluarea riscului pentru mediu
+
+Unde este cazul, cererile de autorizare de punere pe
+piață trebuie să includă o prezentare a evaluării riscului
+pentru mediu datorită folosirii și/sau distrugerii
+medicamentului și să se facă propuneri privind
+recomandările corespunzătoare de etichetare. Trebuie avut
+în vedere riscul pentru mediu legat de eliberarea
+medicamentelor care conțin sau constau din organisme
+modificate genetic (OMG), în conformitate cu prevederile
+legislației naționale care transpun Directiva 2001/18/CE a
+Parlamentului și a Consiliului European din 12 martie 2001
+privind eliberarea deliberată în mediu a organismelor
+modificate genetic și care abrogă Directiva Consiliului
+90/220/CEE8).
+Informațiile privind riscul pentru mediu trebuie să fie
+prezentate în anexa la modulul 1.
+Informațiile trebuie să fie prezentate în conformitate cu
+prevederile Directivei 2001/18/CE, ținându-se cont de orice
+ghiduri publicate de Comisia Europeană în legătură cu
+implementarea directivei menționate.
+Informațiile constau în:
+— introducere;
+— o copie a oricărei autorizații pentru eliberarea
+deliberată în mediu a OMG-urilor în scopul unor lucrări de
+cercetare și dezvoltare, în acord cu partea B a Directivei
+2001/18/CE;
+— informațiile cerute în anexele II—IV la Directiva
+2001/18/CE, inclusiv metodele de detectare și de
+identificare, precum și codul unic al OMG, plus orice
+informații suplimentare privind OMG sau produsul cu
+relevanță pentru evaluarea riscului pentru mediu;
+— un raport al evaluării riscului pentru mediu (ERM)
+pregătit pe baza informațiilor specificate în anexele III și IV
+la Directiva 2001/18/CE și în acord cu anexa II la Directiva
+2001/18/CE;
+— ținându-se cont de informațiile de mai sus și de
+ERM, o concluzie care propune o strategie
+corespunzătoare de management al riscului care include, în
+măsura în care este relevant pentru OMG și pentru
+produsul în discuție, un plan de monitorizare postautorizare
+și identificarea oricăror informații speciale care trebuie să
+apară în rezumatul caracteristicilor produsului, pe etichetă
+și în prospect;
+— măsuri adecvate în scopul informării publicului.
+Trebuie să fie incluse în dosar semnătura autorului și
+data, informații privind datele academice, instruirea și
+experiența profesională ale autorului, precum și o declarație
+privind relația autorului cu solicitantul.
+8)
+
+JO nr. L 106 din 17 aprilie 2001, p. 1.
+
+2. MODULUL 2: REZUMATE
+
+Acest modul are ca scop rezumarea datelor chimice,
+farmaceutice și biologice, a datelor nonclinice și a datelor
+clinice prezentate în modulele 3—5 ale dosarului de
+autorizare de punere pe piață și furnizarea
+rapoartelor/prezentărilor descrise privind testele și studiile
+prevăzute la art. 702 alin. (4) lit. j) din Legea nr. 95/2006.
+Trebuie să fie prezentate și analizate aspectele critice.
+Trebuie să fie prezentate rezumatele faptice și să fie
+incluse formatele tabelare. Aceste rapoarte trebuie să
+prezinte referințe încrucișate la formatele tabelare sau la
+informațiile conținute în documentația principală prezentată
+în modulul 3 (documentație chimică, farmaceutică și
+biologică), modulul 4 (documentație nonclinică) și modulul 5
+(documentație clinică).
+Informațiile conținute în modulul 2 trebuie prezentate în
+acord cu formatul, conținutul și cu sistemul de numerotare
+descris în vol. 2 din Informații pentru solicitanți (Notice to
+Applicants — NtA). Prezentările și rezumatele trebuie să
+corespundă principiilor de bază și cerințelor formulate în
+prezentele norme și protocoale.
+2.1. Cuprinsul global
+
+Modulul 2 trebuie să conțină un cuprins al documentației
+științifice prezentate în modulele 2—5.
+2.2. Introducere
+
+Trebuie să fie prezentate informații privind clasa
+farmacologică, modul de acțiune și utilizarea clinică
+propusă pentru medicamentul pentru care se solicită
+autorizația de punere pe piață.
+2.3. Rezumatul global de calitate
+
+Într-un rezumat global de calitate trebuie prezentată o
+recenzie a informațiilor legate de datele chimice,
+farmaceutice și biologice.
+Trebuie evidențiați parametrii și punctele critice esențiale
+privind aspectele de calitate, iar cazurile în care nu sunt
+urmate ghidurile relevante fac obiectul unei justificări. Acest
+document trebuie să urmărească domeniul de aplicare și
+planul datelor detaliate corespunzătoare, prezentate în
+modulul 3.
+2.4. Prezentarea generală nonclinică
+
+Este necesară o examinare integrată și critică a
+evaluării nonclinice a medicamentului pe animale/in vitro.
+Trebuie să fie incluse discutarea și justificarea strategiei de
+testare și a devierii de la ghidurile relevante.
+Cu excepția medicamentelor biologice, trebuie să fie
+inclusă o evaluare a impurităților și produșilor de
+degradare, împreună cu efectele lor potențiale
+farmacologice și toxicologice. Trebuie să fie discutate
+implicațiile oricăror diferențe în chiralitatea, forma chimică și
+profilul impurităților dintre compusul folosit în studiile
+nonclinice și medicamentul care urmează să fie pus
+pe piață.
+Pentru medicamentele biologice trebuie să fie examinată
+comparabilitatea materialului folosit în studiile nonclinice,
+studiile clinice și medicamentul care urmează să fie pus
+pe piață.
+Orice excipient nou trebuie să fie subiectul unei
+examinări de siguranță specifice.
+Caracteristicile medicamentului, astfel cum au fost
+demonstrate de studiile nonclinice, trebuie să fie definite și
+trebuie să fie discutate implicațiile concluziilor privind
+siguranța produsului destinat utilizării clinice la om.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+2.5. Prezentarea generală clinică
+
+Prezentarea generală clinică este menită să furnizeze o
+analiză critică a datelor clinice incluse în rezumatul clinic
+și în modulul 5. Trebuie să fie prezentate abordarea
+dezvoltării clinice a medicamentului, inclusiv concepția
+studiului critic, și deciziile legate de acestea și de
+realizarea studiului.
+Trebuie să fie furnizată o scurtă prezentare a
+concluziilor clinice, incluzând limitările importante, precum și
+o evaluare a beneficiilor și riscurilor bazată pe concluziile
+studiilor clinice. Se cere o interpretare a modului în care
+concluziile privind eficacitatea și siguranța susțin doza
+propusă și indicațiile-țintă, precum și o evaluare a felului în
+care rezumatul caracteristicilor produsului și alte abordări
+vor optimiza beneficiile și vor asigura managementul
+riscului.
+Trebuie să fie explicate problemele de eficacitate și
+siguranță întâmpinate în dezvoltare și problemele
+nerezolvate.
+2.6. Rezumatul nonclinic
+
+Rezultatele studiilor farmacologice, farmacocinetice și
+toxicologice realizate pe animale/in vitro trebuie să fie
+prezentate ca rezumate scrise faptice și tabelare, care
+trebuie să fie prezentate în următoarea ordine:
+— introducere;
+— rezumat farmacologic descriptiv;
+— rezumat farmacologic tabelar;
+— rezumat farmacocinetic descriptiv;
+— rezumat farmacocinetic tabelar;
+— rezumat toxicologic descriptiv;
+— rezumat toxicologic tabelar.
+2.7. Rezumatul clinic
+
+Trebuie să fie prezentat rezumatul faptic, detaliat, al
+informațiilor clinice privind medicamentul care au fost
+incluse în modulul 5. Acesta trebuie să includă rezultatele
+tuturor studiilor biofarmaceutice, ale studiilor de
+farmacologie clinică și ale studiilor clinice de eficacitate și
+siguranță. Se cere un sinopsis al studiilor individuale.
+Informațiile clinice în rezumat vor fi prezentate în
+următoarea ordine:
+— rezumat al metodelor biofarmaceutice și analitice
+asociate;
+— rezumat al studiilor de farmacologie clinică;
+— rezumat al eficacității clinice;
+— rezumat al siguranței clinice;
+— sinopsis al studiilor individuale.
+3. MODULUL 3: INFORMAȚII CHIMICE, FARMACEUTICE ȘI
+BIOLOGICE ALE MEDICAMENTELOR CARE CONȚIN SUBSTANȚE
+ACTIVE CHIMICE ȘI/SAU BIOLOGICE
+
+3.1. Format și prezentare
+
+Planul general al modulului 3 este următorul:
+— Cuprins
+— Corp de date:
+— Substanța activă
+Informații generale:
+— nomenclatură
+— structură
+— proprietăți generale
+Fabricația:
+— fabricantul/fabricanții
+— descrierea procesului de fabricație
+controalele procesului
+— controlul materialelor
+— controlul etapelor critice și intermediare
+— validarea și/sau evaluarea procesului
+
+și
+
+5
+
+— dezvoltarea procesului de fabricație
+Caracterizare:
+— elucidarea structurii și alte caracteristici
+— impurități
+Controlul substanței active:
+— specificație
+— proceduri analitice
+— validarea procedurilor analitice
+— analiza seriei
+— justificarea specificației
+Standarde de referință sau materiale
+Sistemul de închidere a recipientului
+Stabilitate:
+— rezumat și concluzii privind stabilitatea
+— protocolul de stabilitate postaprobare și
+angajamentul privind stabilitatea
+— date de stabilitate
+— Medicamentul finit
+Descrierea și compoziția medicamentului
+Dezvoltare farmaceutică:
+— Componentele medicamentului:
+— substanța activă
+— excipienți
+— Medicamentul:
+— dezvoltarea formulării
+— supradozări
+— proprietățile fizico-chimice și biologice
+— Dezvoltarea procesului de fabricație
+— Sistemul de închidere a recipientului
+— Atribute microbiologice
+— Compatibilitate
+Fabricație:
+— fabricantul/fabricanții
+— formula seriei
+— descrierea procesului de fabricație și
+controalele în timpul procesului
+— controalele etapelor critice și intermediare
+— validarea și/sau evaluarea procesului
+Controlul excipienților:
+— specificații
+— proceduri analitice
+— validarea procedurilor analitice
+— justificarea specificațiilor
+— excipienți de origine umană sau animală
+— excipienți noi
+Controlul medicamentului finit:
+— specificație/specificații
+— proceduri analitice
+— validarea procedurilor analitice
+— analiza seriei
+— caracterizarea impurităților
+— justificarea specificației/specificațiilor
+Standarde sau materiale de referință
+Sistemul de închidere a recipientului
+Stabilitate:
+— rezumatul și concluzia privind stabilitatea
+— protocolul de stabilitate postaprobare și
+angajamentul referitor la stabilitate
+— date de stabilitate
+— Anexe
+— Instalații și echipamente (numai pentru
+medicamente biologice)
+— Evaluarea siguranței agenților adventițiali
+— Excipienți
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+— Informații comunitar-europene suplimentare
+— Schema de validare a procesului pentru
+medicament
+— Dispozitivul medical
+— Certificatul/certificatele de conformitate (cu
+Farmacopeea Europeană)
+— Medicamentele care conțin sau folosesc în
+procesul de fabricație materiale de origine
+animală și/sau umană (procedura EST:
+encefalopatii spongiforme transmisibile)
+— Referințe din literatură.
+3.2. Cuprins: principii și cerințe de bază
+
+(1) Datele chimice, farmaceutice și biologice care sunt
+prezentate trebuie să includă, pentru substanța activă și
+pentru medicamentul finit, toate informațiile relevante privind
+dezvoltarea, procesul de fabricație, caracterizarea și
+proprietățile, cerințele și operațiile controlului de calitate,
+stabilitatea, precum și o descriere a prezentării și
+compoziției medicamentului finit.
+(2) Trebuie să fie prezentate două seturi de informații
+referitoare la substanța/substanțele activă/active și,
+respectiv, la medicamentul finit.
+(3) Prezentul modul va furniza în plus informații
+detaliate privind materiile prime și de start folosite în timpul
+operațiilor de fabricație a substanței/substanțelor active și
+privind excipienții încorporați în formularea medicamentului
+finit.
+(4) Toate procedurile folosite pentru fabricația și
+controlul substanței/substanțelor active și medicamentului
+finit trebuie să fie descrise cu suficiente detalii pentru a da
+posibilitatea repetării lor în testele de control, realizate la
+cererea Agenției Naționale a Medicamentului. Toate
+procedurile de testare trebuie să corespundă nivelului
+progresului științific al momentului și trebuie să fie validate.
+Trebuie prezentate rezultatele studiilor de validare. În cazul
+procedurilor de testare incluse în Farmacopeea Europeană,
+această descriere trebuie să fie înlocuită de referințe
+detaliate adecvate pentru monografia/monografiile și
+capitolul/capitolele general/generale.
+(5) Monografiile Farmacopeii Europene trebuie să fie
+aplicabile tuturor substanțelor, formelor și preparatelor
+farmaceutice care rezultă din acestea. În privința altor
+substanțe, Agenția Națională a Medicamentului poate cere
+respectarea farmacopeii naționale.
+Totuși, când un material din Farmacopeea Europeană
+sau din Farmacopeea Română ori a unui stat membru al
+Uniunii Europene a fost preparat printr-o metodă
+susceptibilă să determine producerea de impurități care nu
+sunt controlate din monografia farmacopeii, aceste impurități
+și limitele lor maxime de admisibilitate trebuie să fie
+declarate și trebuie să fie descrisă o procedură de testare
+corespunzătoare. În cazurile în care o specificație conținută
+într-o monografie a Farmacopeii Române sau a
+Farmacopeii Europene sau într-o monografie a unei
+farmacopei naționale a unui stat membru al Uniunii
+Europene ar putea fi insuficientă pentru a asigura calitatea
+substanței, Agenția Națională a Medicamentului poate
+cere deținătorului autorizației de punere pe piață să
+prezinte specificații mai adecvate. Agenția Națională a
+Medicamentului informează autoritățile responsabile de
+farmacopeea în discuție. Deținătorul autorizației de punere
+pe piață trebuie să prezinte autorităților acelei farmacopei
+detalii ale pretinsei insuficiențe și specificația suplimentară
+aplicată.
+În cazul procedurilor analitice incluse în Farmacopeea
+Europeană, această descriere trebuie să fie înlocuită în
+
+fiecare secțiune relevantă printr-o referință corespunzătoare
+detaliată la monografia/monografiile și capitolul/capitolele
+general/generale.
+(6) În cazul în care materiile prime și de start,
+substanța/substanțele activă/active sau excipientul/excipienții
+nu este/nu sunt descrisă/descriși nici în Farmacopeea
+Europeană, nici în Farmacopeea Română și nici în
+farmacopeea unui stat membru al Uniunii Europene, poate
+fi acceptată conformitatea cu monografia unei țări terțe. În
+astfel de cazuri, solicitantul trebuie să prezinte o copie a
+monografiei, însoțită de validarea procedurilor analitice
+conținute în monografie și de o traducere, atunci când este
+cazul.
+(7) Când substanța activă și/sau materia/materiile
+primă/prime și de start sau excipientul/excipienții este/sunt
+subiectul unei monografii a Farmacopeii Europene,
+solicitantul poate să depună o cerere pentru un certificat
+de conformitate care, atunci când este acordat de către
+Directoratul European pentru Calitatea Medicamentelor
+[European Directorate for the Quality of Medicines (EDQM)],
+trebuie să fie prezentat în secțiunea relevantă a prezentului
+modul. Certificatele de conformitate cu o monografie a
+Farmacopeii Europene pot înlocui datele relevante ale
+secțiunilor corespunzătoare descrise în prezentul modul.
+Fabricantul trebuie să îi dea solicitantului asigurarea scrisă
+că procesul de fabricație nu a fost modificat de la
+acordarea certificatului de conformitate de către EDQM.
+(8) Pentru o substanță activă bine definită, fabricantul
+unei substanțe active sau solicitantul poate prezenta:
+(i) descrierea detaliată a procesului de fabricație;
+(ii) controlul calității în timpul fabricației; și
+(iii) validarea procesului,
+într-un document separat, transmis direct Agenției Naționale
+a Medicamentului de către fabricantul substanței active, sub
+forma Dosarului standard al substanței active [Active
+Substance Master File (ASMF)].
+Totuși, în acest caz, fabricantul trebuie să furnizeze
+solicitantului toate datele care pot fi necesare mai târziu
+pentru a-și asuma responsabilitatea în legătură cu
+medicamentul respectiv.
+Fabricantul trebuie să confirme în scris solicitantului
+faptul că el se angajează să asigure reproductibilitatea de
+la serie la serie și să nu modifice procesul de fabricație
+sau specificațiile fără să îl informeze pe solicitant.
+Documentele și informațiile pentru susținerea cererii în
+cazul unei astfel de schimbări trebuie să fie furnizate
+autorităților competente; aceste documente și informații vor
+fi furnizate, de asemenea, și solicitantului, atunci când ele
+privesc partea deschisă a Dosarului standard al substanței
+active.
+(9) Măsuri specifice privind prevenirea transmiterii
+encefalopatiilor spongiforme animale (materiale provenite de
+la rumegătoare): la fiecare etapă a procesului de fabricație
+solicitantul trebuie să demonstreze conformitatea
+materialelor folosite cu Ghidul privind reducerea riscului de
+transmitere a agenților encefalopatiei spongiforme animale
+prin medicamente și actualizările acestuia, publicat de
+Comisia Europeană în Jurnalul Oficial al Uniunii Europene
+și aprobat în România prin hotărâre a Consiliului științific
+al Agenției Naționale a Medicamentului. Demonstrarea
+conformității cu ghidul menționat poate fi făcută fie, de
+preferință, prin prezentarea unui certificat de conformitate
+cu monografia relevantă a Farmacopeii Europene, care a
+fost acordat de către EDQM, fie prin prezentarea de date
+științifice care să demonstreze această conformitate.
+(10) Pentru agenții adventițiali trebuie prezentate
+informații care să evalueze riscul cu privire la potențiala
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+contaminare cu agenți adventițiali, fie că ei sunt nonvirali
+sau virali, astfel cum este prevăzut în ghidurile relevante,
+precum și în monografiile și capitolele generale relevante
+ale Farmacopeei Europene.
+(11) Orice aparat special și orice echipament care poate
+fi folosit în oricare etapă a procesului de fabricație și în
+operațiunile de control al medicamentului trebuie să fie
+descrise cu detaliile adecvate.
+(12) Când este cazul și dacă este necesar, trebuie să
+fie prezentat un marcaj al Comunității Europene (CE), care
+este cerut de legislația Uniunii Europene privind
+dispozitivele medicale, transpusă în România prin Legea
+nr. 176/2000 privind dispozitivele medicale, republicată.
+O atenție specială trebuie acordată următoarelor
+elemente:
+3.2.1. Substanța activă/Substanțele active
+3.2.1.1. Informații generale și informații privind materiile
+prime și de start
+a) Trebuie prezentate informații privind nomenclatura
+substanței active, inclusiv denumirea comună internațională
+(DCI), denumirea din Farmacopeea Europeană, dacă este
+relevantă, și denumirea chimică.
+Trebuie să fie prezentate formula structurală, inclusiv
+stereochimia relativă și absolută, formula moleculară și
+masa moleculară relativă. Pentru medicamentele obținute
+prin biotehnologie, dacă este cazul, trebuie prezentată
+schematic secvența aminoacizilor și masa moleculară
+relativă.
+Pentru medicamentele biologice trebuie prezentată o
+listă cu proprietățile fizico-chimice și alte proprietăți
+relevante ale substanței active, inclusiv activitatea biologică.
+b) În înțelesul prezentelor norme și protocoale, prin
+materii de start se înțelege toate materiile din care este
+fabricată sau extrasă substanța activă.
+Pentru medicamente biologice, prin materii de start se
+înțelege orice substanță de origine biologică, cum sunt
+microorganismele, organele și țesuturile de origine animală
+sau vegetală, celule sau fluide (inclusiv sânge sau plasmă)
+de origine umană ori animală, construcții celulare de
+biotehnologie (substraturi celulare, fie că sunt recombinante
+sau nu, inclusiv celule primare).
+Un medicament biologic este un produs a cărui
+substanță activă este o substanță biologică. O substanță
+biologică este o substanță care este produsă sau extrasă
+dintr-o sursă biologică și care necesită pentru
+caracterizarea ei și pentru determinarea calității ei o
+combinație de teste fizico-chimice și biologice, împreună cu
+procesul de fabricație și controlul acestuia. Sunt
+considerate
+medicamente
+biologice
+următoarele:
+medicamentele imunologice și medicamentele derivate din
+sânge uman și plasmă umană, așa cum sunt definite la
+pct. 3 și, respectiv, pct. 9 ale art. 695 din Legea
+nr. 95/2006; medicamentele care se încadrează în
+domeniul de aplicare al părții A din anexa la Regulamentul
+(CEE) nr. 2.309/93 9) ; medicamentele pentru terapie
+avansată, astfel cum sunt definite în partea a IV-a din
+prezentele norme și protocoale.
+Orice alte substanțe folosite pentru fabricația sau
+extracția substanței/substanțelor active, dar de la care
+substanța activă nu derivă direct, cum sunt reactivii,
+mediile de cultură, serul fetal de vițel, aditivii și tampoanele
+implicate în cromatografie etc., sunt cunoscute ca materii
+prime.
+9)
+
+JO nr. L 214 din 24 august 1993, p. 1.
+
+7
+
+3.2.1.2. Procesul de fabricație a substanței/substanțelor
+active
+a) Descrierea procesului de fabricație a substanței/
+substanțelor active reprezintă angajamentul solicitantului
+pentru fabricarea substanței/substanțelor active. Pentru a
+descrie în mod adecvat procesul de fabricație și controalele
+asupra
+acestuia,
+trebuie
+prezentate
+informații
+corespunzătoare, după cum prevăd ghidurile publicate de
+EMEA.
+b) Trebuie enumerate toate materialele necesare pentru
+fabricarea substanței/substanțelor active, identificându-se
+unde se folosește fiecare material în proces. Trebuie
+prezentate informații privind calitatea și controlul acestor
+materiale. Trebuie prezentate informații care să
+demonstreze că materialele satisfac standardele
+corespunzătoare pentru utilizarea cărora le este destinată.
+Materiile prime trebuie să fie enumerate, iar calitatea și
+controlul acestora trebuie să fie susținute prin documente.
+Trebuie să fie furnizate numele, adresa și
+responsabilitatea fiecărui fabricant, inclusiv ale contractorilor,
+și adresa fiecărui loc de fabricație propus sau spațiu
+implicat în fabricare și testare.
+c) Pentru medicamentele biologice trebuie să se aplice
+următoarele standarde suplimentare:
+Trebuie descrise și documentate originea și istoria
+materiilor de start.
+Referitor la măsurile specifice de prevenire a transmiterii
+encefalopatiilor spongiforme animale, solicitantul trebuie să
+demonstreze că substanța activă este conformă cu Ghidul
+privind reducerea riscului de transmitere a agenților
+encefalopatiei spongiforme animale prin medicamente și cu
+actualizările lui, publicat de Comisie în Jurnalul Oficial al
+Uniunii Europene și aprobat în România prin hotărâre a
+Consiliului științific al Agenției Naționale a Medicamentului.
+Când se folosesc bănci de celule, trebuie să se
+demonstreze că la nivelul de pasaj pentru fabricație
+și după aceasta caracteristicile celulelor au rămas
+neschimbate.
+Materialele de sămânță, băncile de celule, amestecurile
+de ser sau de plasmă și alte materiale de origine biologică
+și, oricând este posibil, materialele din care ele sunt
+derivate trebuie să fie testate pentru agenți adventițiali.
+Dacă prezența agenților adventițiali potențial patogeni
+este inevitabilă, materialul respectiv trebuie să fie folosit
+numai când procesarea ulterioară asigură eliminarea și/sau
+inactivarea lor și aceasta trebuie să fie validată.
+Oricând este posibil, producția vaccinului trebuie să se
+bazeze pe un sistem lot de sămânță și pe bănci de celule
+stabilizate. Pentru vaccinuri virale și bacteriene,
+caracteristicile agentului infecțios trebuie să fie demonstrate
+pe sămânță. În plus, pentru vaccinurile vii, stabilitatea
+caracteristicilor de atenuare trebuie să fie demonstrată pe
+sămânță; dacă această dovadă nu este suficientă,
+caracteristicile de atenuare trebuie să fie demonstrate și în
+etapa de fabricație.
+Pentru medicamentele derivate din sânge sau plasmă
+umană, originea, criteriile și procedurile pentru colectarea,
+transportul și păstrarea materialului de start trebuie să fie
+descrise și documentate în acord cu prevederile formulate
+în partea a III-a din prezentele norme și protocoale.
+Trebuie să fie descrise instalațiile și echipamentul de
+fabricație.
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+d) Testele și criteriile de acceptabilitate folosite la
+fiecare etapă critică, informațiile privind calitatea și controlul
+produșilor intermediari și studiile de validare și/sau de
+evaluare a procesului trebuie să fie prezentate în mod
+adecvat.
+e) Dacă prezența agenților adventițiali potențial patogeni
+este inevitabilă, materialul respectiv trebuie să fie folosit
+numai când procesarea ulterioară asigură eliminarea și/sau
+inactivarea lor și aceasta trebuie să fie validată în
+secțiunea care tratează evaluarea siguranței virale.
+f) Trebuie prezentate o descriere și un comentariu
+asupra schimbărilor semnificative aduse procesului de
+fabricație în timpul dezvoltării și/sau asupra locului de
+fabricație a substanței active.
+3.2.1.3. Caracterizarea substanței/substanțelor active
+Trebuie să fie prezentate datele care evidențiază
+structura și alte caracteristici ale substanței/substanțelor
+active.
+Trebuie să fie prezentate confirmări ale structurii
+substanței/substanțelor active bazate pe orice metode
+fizico-chimice și/sau imuno-chimice și/sau biologice, precum
+și informații privind impuritățile.
+3.2.1.4. Controlul substanței/substanțelor active
+Trebuie să fie prezentate informații detaliate privind
+specificațiile folosite în controlul de rutină al
+substanței/substanțelor active, justificarea alegerii acestor
+specificații, metodele de analiză și validarea lor.
+Trebuie să fie prezentate rezultatele controlului efectuat
+pe serii individuale fabricate în timpul dezvoltării.
+3.2.1.5. Standarde sau materiale de referință
+Trebuie să fie descrise în detaliu standardele și
+preparatele de referință. Unde este relevant, trebuie să se
+folosească materialul chimic și biologic de referință al
+Farmacopeei Europene.
+3.2.1.6. Recipientul și sistemul de închidere ale
+substanței active
+Trebuie să fie prezentată o descriere a recipientului și a
+sistemului/sistemelor de închidere, precum și specificațiile
+acestora.
+3.2.1.7. Stabilitatea substanței/substanțelor active
+a) Trebuie să fie prezentate în rezumat tipurile de studii
+efectuate, protocoalele folosite și rezultatele acestor studii.
+b) Trebuie să fie prezentate într-un format adecvat
+rezultatele detaliate ale studiilor de stabilitate, incluzând
+informații privind procedurile analitice folosite pentru
+generarea datelor și validarea acestor proceduri.
+c) După autorizare, trebuie să fie prezentate protocolul
+privind stabilitatea postautorizare și angajamentul privind
+stabilitatea.
+3.2.2. Medicamentul finit
+3.2.2.1. Descrierea și compoziția medicamentului finit
+Trebuie să fie prezentată o descriere a medicamentului
+finit și a compoziției acestuia. Informațiile trebuie să includă
+descrierea formei farmaceutice și compoziția cu toți
+constituenții medicamentului finit, cantitatea acestora pe
+unitatea dozată, funcția constituenților:
+— substanța sau substanțele active;
+— constituenții excipientului/excipienților, indiferent de
+natura lor sau de cantitatea folosită, inclusiv coloranții,
+conservanții, adjuvanții, stabilizanții, agenții de îngroșare,
+emulgatorii, aromatizanții și corectorii de gust etc.;
+10)
+11)
+
+JO nr. L 11 din 14 ianuarie 1978, p. 18.
+JO nr. L 237 din 10 septembrie 1994, p. 13.
+
+— constituenții destinați a fi ingerați sau administrați
+pacientului pe altă cale, care acoperă medicamentul la
+exterior (capsule tari, capsule moi, capsule rectale,
+comprimate acoperite, comprimate filmate etc.);
+— aceste informații trebuie să fie suplimentate cu orice
+date relevante privind tipul de recipient și, unde este cazul,
+modul de închidere, împreună cu detalii ale dispozitivelor
+cu care va fi folosit sau administrat medicamentul și care
+vor fi furnizate împreună cu medicamentul.
+În descrierea constituenților medicamentului trebuie să
+fie folosită îterminologia uzuală“, fără a aduce atingere
+aplicării celorlalte prevederi ale art. 702 alin. (4) lit. c) din
+Legea nr. 95/2006:
+— în privința substanțelor care figurează în
+Farmacopeea Europeană sau, dacă nu, în Farmacopeea
+Română ori în farmacopeile naționale ale unui stat membru
+al Uniunii Europene, titlul principal de la începutul
+monografiei în discuție, cu referire la farmacopeea indicată;
+— în privința altor substanțe, denumirea comună
+internațională (DCI) recomandată de Organizația Mondială
+a Sănătății (OMS) sau, dacă aceasta nu există,
+desemnarea științifică exactă; substanțele care nu au DCI
+sau o desemnare științifică exactă trebuie să fie descrise
+printr-o declarație despre modul în care și din ce au fost
+preparate, suplimentată, unde este cazul, cu orice detalii
+relevante;
+— în privința coloranților, desemnarea lor prin codul îE“
+stabilit pentru aceștia în Directiva Consiliului 78/25/CEE din
+12 decembrie 1977 privind armonizarea legislației statelor
+membre ale Uniunii Europene în ceea ce privește coloranții
+autorizați pentru utilizare la medicamente10) și/sau Directiva
+94/36/CE a Parlamentului European și a Consiliului din 30
+iunie 1994 privind coloranții destinați a fi utilizați în
+alimente 11) , transpuse în România prin ordine ale
+ministrului sănătății publice sau prin ordine comune ale
+ministrului sănătății publice și ministrului agriculturii, pădurilor
+și dezvoltării rurale.
+În scopul redării îcompoziției cantitative“ a
+substanței/substanțelor active din medicamentul finit, este
+necesar, în funcție de forma farmaceutică respectivă, să se
+specifice masa sau numărul de unități de activitate
+biologică, fie pe unitatea de doză, fie pe unitatea de masă
+ori de volum a fiecărei substanțe active.
+Substanțele active prezente sub formă de compuși sau
+derivați trebuie să fie desemnate cantitativ prin masa lor
+totală și, dacă este necesar sau relevant, prin masa
+entității ori entităților active ale moleculei.
+Pentru medicamentele conținând o substanță activă care
+face pentru prima dată obiectul unei cereri de autorizare
+de punere pe piață în România sau în oricare stat membru
+al Uniunii Europene, declararea cantitativă a unei substanțe
+active, care este o sare sau un hidrat, trebuie să fie
+exprimată sistematic în termenii masei entității sau
+entităților active din moleculă. Toate medicamentele
+autorizate ulterior de punere pe piață în România sau în
+statele membre ale Uniunii Europene trebuie să aibă
+compoziția lor declarată în același fel pentru aceeași
+substanță activă.
+Pentru substanțele care nu pot fi definite molecular
+trebuie folosite unitățile de activitate biologică. Când o
+unitate internațională de activitate biologică a fost definită
+de OMS, aceasta este cea care trebuie folosită. Când nu
+a fost definită nicio unitate internațională, unitățile de
+activitate biologică trebuie exprimate în așa fel încât să
+furnizeze informații lipsite de ambiguitate asupra activității
+substanțelor prin folosirea, unde este cazul, a unităților
+Farmacopeei Europene.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+3.2.2.2. Dezvoltare farmaceutică
+Acest capitol trebuie dedicat informațiilor privind studiile
+de dezvoltare conduse pentru a stabili că o anumită formă
+farmaceutică, formulare, un anumit proces de fabricație,
+recipient și sistem de închidere, anumite atribute
+microbiologice și instrucțiuni de folosire sunt adecvate
+scopului pentru care sunt destinate, care este specificat în
+dosarul de autorizare de punere piață.
+Studiile descrise în prezentul capitol sunt distincte de
+testele de control de rutină efectuate conform specificațiilor.
+Parametrii critici ai formulării și atributele procesului care
+pot influența reproductibilitatea seriei, performanțele
+medicamentului și calitatea medicamentului trebuie să fie
+identificați și descriși. Datele suplimentare de susținere,
+când este cazul, trebuie să se refere la capitolele relevante
+din modulul 4 (rapoartele studiului nonclinic) și din modulul 5
+(rapoartele studiului clinic) ale dosarului de autorizare de
+punere pe piață.
+a) Compatibilitatea substanței active cu excipienții,
+precum și caracteristicile fizico-chimice-cheie ale substanței
+active, care pot influența realizarea produsului finit sau
+compatibilitatea diferitelor substanțe active una cu alta, în
+cazul produselor în combinație, trebuie susținute cu
+documente.
+b) Alegerea excipienților, în special în legătură cu
+funcțiile respective ale acestora, și concentrația lor trebuie
+susținute cu documente.
+c) Trebuie să fie furnizată o descriere a dezvoltării
+produsului finit, luându-se în considerare calea de
+administrare și utilizarea propuse.
+d) Orice supradozare în formulare/formulări trebuie să
+fie justificată.
+e) În ceea ce privește proprietățile fizico-chimice și
+biologice, orice parametru relevant pentru performanța
+produsului finit trebuie să fie prezentat și susținut cu
+documente.
+f) Selectarea și optimizarea procesului de fabricație,
+precum și diferențele dintre procesul/procesele de fabricație
+folosit/folosite pentru a produce seriile clinice esențiale și
+procesul folosit pentru fabricația medicamentului finit trebuie
+să fie prezentate.
+g) Caracterul adecvat al recipientului și sistemului de
+închidere folosit pentru păstrare, transport și utilizare a
+produsului finit trebuie să fie susținut cu documente.
+Trebuie luată în considerare o posibilă interacțiune între
+medicament și recipient.
+h) Atributele microbiologice ale formei farmaceutice
+referitoare la produsele nesterile și sterile trebuie să fie în
+acord și trebuie să fie susținute cu documente conform
+prevederilor Farmacopeei Europene.
+i) Pentru a furniza informații adecvate și de susținere în
+vederea etichetării, compatibilitatea produsului finit cu
+solventul/solvenții de reconstituire sau cu dispozitivele de
+dozare trebuie să fie susținută cu documente.
+3.2.2.3. Procesul de fabricație a produsului finit
+a) Descrierea metodei de fabricație care însoțește
+cererea pentru autorizarea de punere pe piață în
+conformitate cu art. 702 alin. (4) lit. e) din Legea
+nr. 95/2006 trebuie să fie prezentată în așa fel încât să
+prezinte un sinopsis adecvat al naturii operațiilor folosite.
+În acest scop, descrierea metodei de fabricație trebuie
+să includă cel puțin:
+— menționarea diferitelor etape de fabricație, incluzând
+controalele de proces și criteriile corespunzătoare de
+acceptabilitate, astfel încât să se poată face o evaluare
+dacă procesele folosite în fabricarea formei farmaceutice ar
+putea produce o schimbare nefavorabilă a constituenților;
+
+9
+
+— în cazul fabricației continue, detalii complete privind
+precauțiile luate pentru a asigura omogenitatea produsului
+finit;
+— studii experimentale pentru validarea procesului de
+fabricație, unde se folosește o metodă nonstandard de
+fabricație sau unde acesta este esențial pentru produs;
+— pentru medicamentele sterile, detalii ale proceselor
+de sterilizare și/sau procedurile aseptice folosite;
+— o formulă detaliată a seriei.
+Trebuie să fie prezentate numele, adresa și
+responsabilitatea fiecărui fabricant, incluzând contractorii, și
+fiecare loc de fabricație propus sau instalație folosită la
+fabricație și testare.
+b) Trebuie să fie incluse informații referitoare la testele
+de control al produsului, care pot fi efectuate într-o etapă
+intermediară a procesului de fabricație, în vederea
+asigurării consistenței procesului de fabricație.
+Aceste teste sunt esențiale pentru verificarea
+conformității medicamentului cu formula, atunci când, în
+mod excepțional, un solicitant propune o metodă analitică
+pentru testarea produsului finit, care nu include dozarea
+tuturor substanțelor active (sau a tuturor excipienților supuși
+acelorași exigențe ca și substanțele active).
+La fel se procedează atunci când controlul de calitate
+al produsului finit depinde de testele de control din timpul
+procesului, în special dacă medicamentul este în esență
+definit de metoda lui de preparare.
+c) Trebuie să fie prezentate descrierea, documentația și
+rezultatele studiilor de validare pentru etapele critice sau
+pentru dozările critice folosite în procesul de fabricație.
+3.2.2.4. Controlul excipienților
+a) Toate materialele necesare în scopul fabricației
+excipientului/excipienților trebuie să fie listate, identificându-se
+unde se folosește fiecare material în proces. Trebuie să fie
+prezentate informații privind calitatea și controlul acestor
+materiale, precum și informații care să demonstreze că
+materialele întrunesc standardele adecvate scopului pentru
+care sunt destinate.
+Coloranții trebuie, în toate cazurile, să satisfacă cerințele
+Directivei 78/25/CEE și/sau ale Directivei 94/36/CE,
+transpuse în România prin ordine ale ministrului sănătății
+publice sau prin ordine comune ale ministrului sănătății
+publice și ministrului agriculturii, pădurilor și dezvoltării
+rurale. În plus, coloranții trebuie să întrunească criteriile de
+puritate formulate în Directiva 95/45/CE, modificată,
+transpusă în România prin ordin al ministrului sănătății
+publice și al ministrului agriculturii, pădurilor și dezvoltării
+rurale.
+b) Pentru fiecare excipient, specificațiile și justificările lor
+trebuie să fie detaliate. Procedurile analitice trebuie să fie
+descrise și validate corespunzător.
+c) Trebuie să fie acordată o atenție specială
+excipienților de origine animală sau umană.
+Referitor la măsurile specifice pentru prevenirea
+transmiterii encefalopatiilor spongiforme animale, solicitantul
+trebuie să demonstreze, de asemenea, pentru excipienți că
+medicamentul este fabricat în acord cu Ghidul privind
+reducerea riscului de transmitere a agenților encefalopatiei
+spongiforme animale prin medicamente, actualizat, publicat
+de Comisie în Jurnalul Oficial al Uniunii Europene, aprobat
+în România prin hotărâre a Consiliului științific al Agenției
+Naționale a Medicamentului.
+Demonstrarea conformității cu ghidul menționat mai sus
+poate fi făcută prin depunerea fie, preferabil, a unui
+certificat de conformitate cu monografia relevantă pentru
+encefalopatiile spongiforme animale transmisibile din
+Farmacopeea Europeană, fie prin prezentarea de date
+științifice care să demonstreze această conformitate.
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+d) Excipienți noi:
+Pentru excipientul sau excipienții folosiți prima dată într-un
+medicament sau pentru o cale nouă de administrare, detalii
+complete ale fabricației, caracterizării și controalelor cu
+referire la susținerea datelor de siguranță, atât nonclinică,
+cât și clinică, trebuie să fie prezentate în acord cu formatul
+descris anterior pentru substanța activă.
+Trebuie să fie prezentat un document conținând
+informații chimice, farmaceutice și biologice detaliate.
+Aceste informații trebuie să fie prezentate într-un format
+care să respecte aceeași ordine ca în capitolul dedicat
+substanței/substanțelor active din modulul 3.
+Informațiile privind excipientul sau excipienții noi trebuie
+să fie prezentate într-un document de sine stătător,
+urmărindu-se formatul descris în paragrafele anterioare. În
+cazul în care solicitantul diferă de fabricantul noului
+excipient, respectivul document de sine stătător trebuie să
+fie pus la dispoziție solicitantului pentru a fi depus la
+Agenția Națională a Medicamentului.
+Informații suplimentare privind studiile de toxicitate cu
+noul excipient trebuie să fie prezentate în modulul 4 al
+dosarului.
+Studiile clinice trebuie să fie prezentate în modulul 5.
+3.2.2.5. Controlul medicamentului finit
+Pentru controlul medicamentului finit, o serie a
+medicamentului este o entitate care cuprinde toate unitățile
+unei forme farmaceutice, care sunt fabricate din aceeași
+cantitate inițială de material și care au suferit aceleași serii
+de operații de fabricație și/sau sterilizare, sau, în cazul
+unui proces de fabricație continuu, toate unitățile fabricate
+într-o perioadă de timp dată.
+Dacă nu există o justificare adecvată, deviația maximă
+acceptabilă în conținutul substanței active din produsul finit
+nu trebuie să depășească ± 5% la data fabricației.
+Trebuie să fie prezentate informații detaliate privind
+specificațiile (la eliberare și pe perioada de valabilitate),
+justificarea alegerii lor, metodele de analiză și validarea lor.
+3.2.2.6. Standarde sau materiale de referință
+Preparatele și standardele de referință folosite pentru
+testarea medicamentului finit trebuie să fie identificate și
+descrise în detaliu, dacă nu au fost furnizate anterior în
+secțiunea referitoare la substanța activă.
+3.2.2.7. Recipientul și sistemul de închidere ale
+medicamentului finit
+Trebuie
+să
+fie
+prezentată
+o
+descriere
+a
+recipientului/recipientelor și sistemului/sistemelor de
+închidere, incluzând identitatea fiecărui material de ambalaj
+primar și specificațiile sale. Specificațiile trebuie să includă
+descrierea și identificarea. După caz, trebuie incluse
+metodele care nu corespund unei farmacopei (cu
+validarea).
+Pentru materialele nefuncționale de ambalare exterioară
+trebuie furnizată doar o scurtă descriere. Pentru materialele
+funcționale de ambalare exterioară trebuie furnizate
+informații suplimentare.
+3.2.2.8. Stabilitatea medicamentului finit
+a) Trebuie să fie prezentate în rezumat tipurile de studii
+efectuate, protocoalele folosite și rezultatele studiilor.
+b) Trebuie să fie prezentate într-un format
+corespunzător rezultatele detaliate ale studiilor de
+stabilitate, incluzând informații privind procedurile analitice
+folosite pentru generarea datelor și validarea acestor
+proceduri; în cazul vaccinurilor, trebuie să fie prezentate
+(unde este cazul) informații privind stabilitatea cumulativă.
+
+c) Trebuie să fie furnizate protocolul de stabilitate
+postautorizare și angajamentul privind stabilitatea.
+4. MODULUL 4: RAPOARTE NONCLINICE
+
+4.1. Format și prezentare
+
+Schema generală a modulului 4 este următoarea:
+— cuprins
+— rapoarte de studiu
+— Farmacologie:
+— farmacodinamie primară
+— farmacodinamie secundară
+— farmacologia siguranței
+— interacțiuni farmacodinamice
+— Farmacocinetică:
+— metode analitice și rapoarte de validare
+— absorbție
+— distribuție
+— metabolism
+— excreție
+— interacțiuni farmacocinetice (nonclinice)
+— alte studii farmacocinetice
+— Toxicologie:
+— toxicitate după doză unică
+— toxicitate după doze repetate
+— genotoxicitate:
+— in vitro
+— in vivo (incluzând evaluări de susținere
+toxico-cinetice)
+— Carcinogenitate (potențial carcinogen):
+— studii pe termen lung
+— studii pe termen scurt sau mediu
+— alte studii
+— Toxicitate asupra dezvoltării și asupra
+procesului de reproducere:
+— fertilitate și dezvoltare embrionară precoce
+— dezvoltare embrio-fetală
+— dezvoltare prenatală și postnatală
+— studii în care descendenții (animale tinere)
+sunt tratați și/sau sunt evaluați ulterior
+— Toleranță locală
+— Alte studii de toxicitate
+— antigenitate
+— imunotoxicitate
+— studii privind mecanismele
+— dependența
+— metaboliți
+— impurități
+— altele
+— Referințe din literatură
+4.2. Cuprins: Principii de bază și cerințe
+
+O atenție specială trebuie acordată următoarelor
+elemente selectate:
+(1) Testele farmacologice și toxicologice trebuie să
+prezinte:
+a) toxicitatea potențială a produsului și orice efecte
+toxice periculoase sau nedorite, care pot apărea în
+condițiile propuse de utilizare la om; acestea trebuie să fie
+evaluate în relație cu condiția patologică implicată;
+b) proprietățile farmacologice ale produsului atât în
+relație calitativă, cât și cantitativă cu utilizarea propusă la
+om. Toate rezultatele trebuie să fie credibile și de
+aplicabilitate generală. Oricând este cazul, trebuie să fie
+folosite proceduri matematice și statistice în proiectarea
+metodelor experimentale și în evaluarea rezultatelor.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+În plus, este necesar ca specialiștilor clinicieni să li se
+dea informații despre potențialul terapeutic și toxicologic al
+produsului.
+(2) Pentru medicamentele biologice, cum sunt
+medicamentele imunologice și medicamentele derivate din
+plasmă sau sânge uman, cerințele prezentului modul pot
+să fie adaptate pentru produse individuale; de aceea,
+programul de testare realizat trebuie să fie justificat de
+solicitant.
+În stabilirea programului de testare, trebuie să fie luate
+în considerare următoarele:
+— toate testele care necesită administrarea repetată a
+produsului trebuie să fie concepute pentru a lua în
+considerare posibila inducție de anticorpi și posibila
+interferență cu aceștia;
+— trebuie să fie luată în considerare examinarea
+funcției de reproducere, a toxicității embriofetale și
+perinatale, a potențialului mutagenic și carcinogenic. Când
+sunt incriminați alți constituenți decât substanțele active,
+validarea eliminării lor poate înlocui studiul.
+(3) În cazul unui excipient folosit pentru prima dată în
+domeniul farmaceutic trebuie să fie investigate toxicologia
+și farmacocinetica acestuia.
+(4) Unde există o posibilitate de degradare semnificativă
+în timpul păstrării unui medicament, trebuie să fie luată în
+considerare toxicologia produșilor de degradare.
+4.2.1. Farmacologie
+Studiul de farmacologie trebuie să urmeze două direcții
+de abordare:
+— în primul rând, acțiunile privind utilizarea terapeutică
+propusă trebuie să fie investigate și descrise în mod
+adecvat. Unde este posibil, trebuie să fie folosite dozările
+recunoscute și validate, atât in vivo cât și in vitro. Tehnicile
+experimentale noi trebuie să fie descrise cu astfel de
+detalii încât să permită reproducerea lor. Rezultatele trebuie
+să fie exprimate în termeni cantitativi, utilizându-se de
+exemplu curbe doză-efect, curbe timp-efect etc. Oricând
+este posibil, trebuie să fie efectuate comparații cu datele
+referitoare la substanța sau substanțele cu acțiune
+terapeutică similară;
+— în al doilea rând, solicitantul trebuie să investigheze
+potențialele efecte farmacodinamice nedorite ale substanței
+asupra funcțiilor fiziologice. Aceste investigații trebuie să fie
+realizate la expuneri în domeniul terapeutic și peste acesta.
+Tehnicile experimentale, dacă nu sunt proceduri standard,
+trebuie să fie descrise cu astfel de detalii încât să permită
+reproducerea lor și investigatorul trebuie să le stabilească
+validitatea. Orice modificare suspectată a răspunsurilor
+rezultate din administrarea repetată a substanței trebuie să
+fie investigată.
+Pentru interacțiunea farmacodinamică a medicamentului
+pot fi sugerate teste privind asocierea substanțelor active,
+avându-se în vedere fie premisele farmacologice, fie
+indicațiile efectului terapeutic. În primul caz, studiul
+farmacodinamic trebuie să demonstreze acele interacțiuni
+care ar putea face asocierea valoroasă în utilizarea
+terapeutică. În al doilea caz, când justificarea științifică
+pentru asociere este căutată prin experiment terapeutic,
+investigarea trebuie să determine dacă efectele așteptate
+de la asociere pot fi demonstrate la animale și trebuie să
+fie investigată cel puțin importanța oricăror efecte
+colaterale.
+4.2.2. Farmacocinetică
+Farmacocinetica reprezintă studiul evoluției substanței
+active și a metaboliților ei în organism și acoperă studiul
+
+11
+
+absorbției, distribuției, metabolismului (biotransformării) și al
+excreției acestor substanțe.
+Studiul acestor faze diferite poate fi efectuat, în
+principal, prin metode fizice, chimice sau biologice, precum
+și prin observarea activității farmacodinamice reale a
+substanței înseși.
+Informații cu privire la distribuție și eliminare sunt
+necesare în toate cazurile în care astfel de date sunt
+indispensabile pentru a determina dozajul la om și în cazul
+substanțelor chimioterapice (antibiotice etc.) și al
+substanțelor a căror utilizare depinde de efectele lor
+nonfarmacodinamice (de exemplu, numeroși agenți de
+diagnostic etc.).
+Pot fi, de asemenea, realizate studii in vitro, cu
+avantajul folosirii materialului uman pentru comparație cu
+materialul animal (de exemplu, legare de proteine,
+metabolism, interacțiune medicament—medicament).
+Este necesară investigația farmacocinetică a tuturor
+substanțelor active. În cazul combinațiilor noi de substanțe
+cunoscute, care au fost investigate în acord cu prevederile
+prezentelor norme și protocoale, studiile farmacocinetice pot
+să nu fie cerute, dacă testele de toxicitate și
+experimentările terapeutice justifică omiterea acestora.
+Programul farmacocinetic trebuie să fie conceput astfel
+încât să permită compararea și extrapolarea dintre animal
+și om.
+4.2.3. Toxicologie
+a) Toxicitatea după doză unică
+Testul de toxicitate după doză unică se referă la studiul
+calitativ și cantitativ al reacțiilor toxice care pot rezulta
+dintr-o singură administrare a substanței sau substanțelor
+active conținute în medicament, în proporțiile și în starea
+fizico-chimică în care este/sunt efectiv prezentă/prezente în
+produsul respectiv.
+Testul de toxicitate după doză unică trebuie să fie
+realizat în acord cu ghidurile relevante publicate de EMEA.
+b) Toxicitatea după doze repetate
+Testele de toxicitate după doze repetate sunt concepute
+pentru a pune în evidență orice modificări fiziologice și/sau
+anatomopatologice induse de administrarea repetată a unei
+substanțe active sau a unei combinații de substanțe active
+care se examinează și pentru a determina modul în care
+aceste modificări sunt legate de dozaj.
+În general este recomandabil să se efectueze două
+teste: unul pe termen scurt, cu o durată de două până la
+patru săptămâni și celălalt pe termen lung. Durata celui din
+urmă depinde de condițiile administrării clinice. Scopul său
+este descrierea potențialelor efecte adverse cărora trebuie
+să li se acorde atenție în studiile clinice. Durata este
+definită în ghidurile relevante publicate de EMEA.
+c) Genotoxicitatea
+Obiectivele studiului privind potențialul mutagenic și
+clastogenic sunt punerea în evidență a modificărilor pe
+care le poate cauza o substanță în materialul genetic al
+indivizilor sau al celulelor. Substanțele mutagene pot
+prezenta un risc pentru sănătate, întrucât expunerea la o
+substanță mutagenă prezintă riscul inducerii mutației în
+celulele de reproducere, cu posibilitatea de dereglări
+ereditare și cu riscul mutațiilor somatice, incluzându-le pe
+cele care conduc la cancer. Aceste studii sunt obligatorii
+pentru orice substanță nouă.
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+d) Potențialul carcinogenic
+În mod normal trebuie să fie solicitate teste care să
+evidențieze efectele carcinogenice:
+1. aceste studii trebuie să fie efectuate pentru orice
+medicament a cărui utilizare clinică așteptată este pentru o
+perioadă prelungită din viața unui pacient fie într-o manieră
+continuă, fie într-o manieră repetată intermitent;
+2. aceste studii sunt recomandate pentru acele
+medicamente pentru care există îngrijorare cu privire la
+potențialul lor carcinogenic, de exemplu pentru produse din
+aceeași clasă sau cu structură similară ori pentru dovezile
+din studiile de toxicitate după doză repetată;
+3. nu sunt necesare studii pentru compușii care sunt
+neechivoc genotoxici, întrucât se presupune că ei sunt
+carcinogeni transspecii, implicând un risc la om. Dacă un
+astfel de medicament este destinat să fie administrat ca
+tratament de lungă durată la om, poate fi necesar un
+studiu pe termen lung pentru detectarea efectelor
+tumorigene precoce.
+e) Toxicitatea asupra funcției de reproducere și
+dezvoltării
+Investigarea unei posibile deteriorări a funcției de
+reproducere la masculi sau la femele, precum și a
+efectelor nocive asupra urmașilor trebuie să fie efectuată
+prin teste adecvate.
+Aceste teste cuprind studii ale efectului asupra funcției
+de reproducere la masculi sau la femele la vârsta adultă,
+studii ale efectelor toxice și teratogene în toate etapele de
+dezvoltare de la concepție la maturitatea sexuală, precum
+și efectele latente, când medicamentul supus investigării
+este administrat la femei în timpul sarcinii.
+Omiterea acestor studii trebuie să fie justificată în mod
+adecvat.
+În funcție de utilizarea indicată pentru medicament, pot
+fi justificate studii suplimentare care să se adreseze
+dezvoltării, atunci când medicamentul se administrează
+copiilor.
+Studiile de toxicitate embriofetală trebuie să fie efectuate
+în mod normal pe două specii de mamifere, dintre care
+una trebuie să fie alta decât o specie de rozătoare.
+Studiile peri - și postnatale trebuie să fie conduse pe cel
+puțin una dintre specii. Dacă se cunoaște că metabolismul
+unui medicament pe anumite specii este similar cu cel al
+omului, se recomandă să se includă acele specii. Se
+recomandă, de asemenea, ca una dintre specii să fie
+aceeași cu una dintre speciile utilizate în studiile de
+toxicitate după doze repetate.
+Atunci când se stabilește proiectul studiului trebuie să
+fie luat în considerare nivelul de cunoaștere științifică din
+momentul în care a fost depusă cererea.
+f) Toleranța locală
+Scopul studiilor de toleranță locală este de a stabili
+dacă medicamentele (atât substanțele active, cât și
+excipienții) sunt tolerate la locurile din organism care pot
+veni în contact cu medicamentul, ca rezultat al administrării
+lui pentru utilizare clinică. Strategia de testare trebuie să
+fie stabilită astfel încât orice efecte mecanice ale acțiunii
+de administrare sau ale acțiunilor pur fizico-chimice ale
+produsului să poată fi diferențiate de cele toxicologice sau
+farmacodinamice.
+Testarea toleranței locale trebuie să fie condusă cu
+preparatul în curs de dezvoltare pentru utilizare la om,
+folosindu-se vehiculul și/sau excipienții în tratarea
+grupului/grupurilor de control. Când este necesar trebuie să
+fie incluse substanțe de control/referință pozitive.
+Proiectul testelor de toleranță locală (alegerea speciilor,
+durata, frecvența și calea de administrare a dozelor)
+
+depinde de problema de investigat și de condițiile propuse
+pentru administrarea în studiile clinice. Reversibilitatea
+leziunilor locale trebuie efectuată acolo unde are relevanță.
+Studiile pe animale pot fi substituite de teste in vitro
+validate, cu condiția ca rezultatele testelor să fie de calitate
+și utilitate comparabile în vederea evaluării siguranței.
+Potențialul de sensibilizare al substanțelor chimice care
+se aplică pe piele (de exemplu, cutanat, rectal, vaginal)
+trebuie să fie evaluat pe cel puțin unul dintre sistemele de
+testare disponibile în mod curent (determinarea pe cobai
+sau testul ganglionului limfatic local).
+5. MODULUL 5: RAPOARTE DE STUDIU CLINIC
+
+5.1. Format și prezentare
+
+Schema generală a modulului 5 este următoarea:
+— cuprinsul rapoartelor studiilor clinice
+— lista tuturor studiilor clinice în formă tabelară
+— rapoartele studiilor clinice
+— Rapoartele studiilor biofarmaceutice:
+— rapoartele studiilor de biodisponibilitate
+— rapoartele
+studiilor
+comparative
+de
+biodisponibilitate și de bioechivalență
+— rapoartele studiilor corelației in vitro — in vivo
+— rapoartele metodelor bioanalitice și analitice
+— Rapoartele studiilor din domeniul farmacocineticii,
+care folosesc biomateriale umane:
+— rapoartele studiilor privind legarea de proteinele
+plasmatice
+— rapoartele studiilor de metabolism hepatic și
+interacțiune
+— rapoartele studiilor care utilizează alte
+biomateriale umane
+— Rapoartele studiilor de farmacocinetică pe om:
+— rapoartele studiilor de farmacocinetică pe
+subiecți sănătoși și de tolerabilitate inițială
+— rapoartele studiilor de farmacocinetică pe
+pacienți și de tolerabilitate inițială
+— rapoartele studiilor referitoare la farmacocinetica
+factorului intrinsec
+— rapoartele studiilor referitoare la farmacocinetica
+factorului extrinsec
+— rapoartele studiilor de farmacocinetica populației
+— Rapoartele studiilor de farmacodinamie pe om:
+— rapoartele studiilor de farmacodinamie și
+farmacocinetică/farmacodinamie pe subiecți
+sănătoși
+— rapoartele studiilor de farmacodinamie și
+farmacocinetică/farmacodinamie pe pacienți
+— Rapoartele studiilor de eficacitate și siguranță:
+— rapoartele privind studiile clinice controlate
+pertinente pentru indicația revendicată
+— rapoartele privind studiile clinice necontrolate
+— rapoartele privind analizele datelor rezultate din
+mai mult de un studiu, incluzând orice analize
+formale integrate, metaanalize și analize de
+legătură
+— alte rapoarte de studiu
+— Rapoarte ale experienței postautorizare
+— Referințe din literatură
+5.2. Cuprins: principii de bază și cerințe
+
+O atenție specială trebuie acordată următoarelor
+elemente selectate:
+a) informațiile clinice care trebuie prezentate potrivit
+art. 702 alin. (4) lit. j) și l) din Legea nr. 95/2006, trebuie
+să asigure formarea unei opinii suficient de bine fondate și
+valide din punct de vedere științific care să susțină dacă
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+medicamentul satisface criteriile care reglementează
+acordarea autorizației de punere pe piață. În consecință, o
+cerință esențială este ca rezultatele tuturor studiilor clinice
+să fie comunicate, atât cele favorabile, cât și cele
+nefavorabile;
+b) studiile clinice trebuie să fie precedate întotdeauna
+de teste farmacologice și toxicologice adecvate, efectuate
+pe animale în acord cu cerințele modulului 4 din prezentele
+norme și protocoale. Investigatorul trebuie să se
+familiarizeze cu concluziile studiilor farmacologice și
+toxicologice și de aceea solicitantul trebuie să îi furnizeze
+acestuia cel puțin broșura investigatorului, constând din
+toate informațiile relevante cunoscute înainte de lansarea
+unui studiu clinic, incluzând date chimice, farmaceutice și
+biologice,
+date
+toxicologice,
+farmacocinetice
+și
+farmacodinamice pe animale și rezultatele studiilor clinice
+precoce, cu date adecvate care să justifice natura,
+mărimea și durata studiului propus; la cerere, trebuie
+prezentate rapoarte farmacologice și toxicologice complete.
+Pentru materialele de origine umană sau animală trebuie
+să fie angajate toate mijloacele necesare asigurării
+siguranței privind transmiterea agenților infecțioși înainte de
+începerea unui studiu;
+c) deținătorii autorizației de punere pe piață trebuie să
+ia măsurile necesare ca documentele esențiale ale studiului
+clinic (inclusiv formularele raportului de caz), altele decât
+dosarele medicale ale subiecților, să fie păstrate de
+proprietarii datelor:
+— pentru cel puțin 15 ani de la terminarea sau
+întreruperea studiului; sau
+— pentru cel puțin 2 ani de la acordarea ultimei
+autorizații de punere pe piață în România sau în
+Comunitatea Europeană și atunci când nu există cereri de
+autorizare depuse sau proiectate a fi depuse în
+Comunitatea Europeană; sau
+— pentru cel puțin 2 ani de la întreruperea oficială a
+dezvoltării clinice a produsului pentru investigație clinică.
+Dosarele medicale ale subiecților trebuie să fie păstrate
+în acord cu legislația aplicabilă și cu perioada maximă
+permisă de spital, instituție sau de practica privată.
+Documentele pot fi păstrate pentru o perioadă mai
+lungă, dacă acest lucru este impus de normele legale
+aplicabile sau prin acord cu sponsorul. Este
+responsabilitatea sponsorului să informeze spitalul, instituția
+sau practica privată despre momentul când nu mai este
+necesar să fie păstrate aceste documente.
+Sponsorul sau proprietarul datelor trebuie să păstreze
+toată documentația aparținând studiului atât timp cât
+produsul este autorizat. Această documentație trebuie să
+conțină: protocolul incluzând argumentele, obiectivele și
+proiectarea statistică și metodologia studiului, cu condițiile
+în care este realizat și condus și detaliile produsului pentru
+investigație clinică, produsului de referință și/sau placebo
+utilizat; procedurile standard de operare; toate opiniile
+scrise privind protocolul și procedurile; broșura
+investigatorului; formularele raportului de caz privind fiecare
+subiect al studiului; raportul final; certificatul sau certificatele
+de audit, dacă sunt disponibile. Raportul final trebuie să fie
+păstrat de sponsor sau de proprietarul subsecvent o
+perioadă de 5 ani după ce medicamentul nu mai este
+autorizat.
+În plus, pentru studiile conduse în România sau în
+Comunitatea Europeană, deținătorul autorizației de punere
+pe piață trebuie să facă toate aranjamentele necesare
+pentru arhivarea documentației în acord cu prevederile
+Directivei 2001/20/EC transpuse în România prin ordine ale
+ministrului sănătății publice și ale ghidurilor detaliate privind
+implementarea ei.
+
+13
+
+Orice schimbare a proprietarului datelor trebuie să fie
+susținută cu documente.
+Toate datele și documentele trebuie să fie disponibile
+dacă sunt cerute de autoritățile relevante;
+d) informațiile fiecărui studiu clinic trebuie să conțină
+suficiente detalii pentru a permite să se facă o judecată
+obiectivă:
+— protocolul incluzând argumentele, obiectivele și
+proiectarea statistică, precum și metodologia studiului, cu
+precizarea condițiilor în care este realizat și condus, și
+detalii ale produsului pentru investigație clinică folosit;
+— certificatul sau certificatele de audit dacă sunt
+disponibile;
+— lista investigatorului/investigatorilor și pentru fiecare
+investigator trebuie să se prezinte numele, adresa, funcțiile,
+calificările și activitățile clinice, statul unde a fost realizat
+studiul clinic, ansamblul informațiilor cu privire la fiecare
+pacient, incluzând formularele raportului de caz pentru
+fiecare subiect al studiului;
+— raportul final semnat de investigator și, pentru studiile
+multicentrice, de toți investigatorii sau de investigatorul
+coordonator (principal);
+e) informațiile studiilor clinice la care s-a făcut referire
+anterior trebuie să fie prezentate Agenției Naționale a
+Medicamentului. Totuși, în acord cu Agenția Națională a
+Medicamentului, solicitantul poate omite o parte din aceste
+informații. Documentația completă trebuie să fie furnizată
+imediat Agenției Naționale a Medicamentului, la cerere.
+În concluziile lui privind dovezile experimentale,
+investigatorul trebuie să exprime o opinie privind siguranța
+produsului în condiții normale de utilizare, toleranța,
+eficacitatea lui și orice informații utile legate de indicații și
+contraindicații, dozaj și durata medie a tratamentului,
+precum și orice precauții speciale care trebuie luate în
+timpul tratamentului și simptomele clinice ale
+supradozajului. La raportarea rezultatelor unui studiu
+multicentric, investigatorul principal va exprima în concluziile
+lui, în numele tuturor centrelor, o opinie privind siguranța și
+eficacitatea medicamentului investigat;
+f) observațiile clinice trebuie să fie rezumate pentru
+fiecare studiu, indicându-se:
+1. numărul și sexul subiecților tratați;
+2. selecția și distribuția după vârstă a grupului de
+pacienți de investigat și testele comparative;
+3. numărul de pacienți retrași prematur din studii și
+motivele acestei retrageri;
+4. dacă au fost realizate studii controlate în condițiile de
+mai sus, situațiile când grupul de control:
+— nu a primit niciun tratament;
+— a primit placebo;
+— a primit alt medicament cu efect cunoscut;
+— a primit alt tratament decât terapia cu medicamente;
+5. frecvența reacțiilor adverse observate;
+6. detalii privind pacienții care pot prezenta risc crescut,
+de exemplu vârstnici, copii, femei în timpul sarcinii ori
+menstruației, sau a căror condiție fiziologică ori patologică
+solicită o atenție specială;
+7. parametrii sau criteriile de evaluare a eficacității și
+rezultatele în termenii acestor parametri;
+8. o evaluare statistică a rezultatelor când aceasta este
+cerută de proiectarea studiilor și de factorii variabili implicați;
+g) în plus, investigatorul trebuie să prezinte întotdeauna
+observațiile lui cu privire la:
+1. orice semne de obișnuință, dependență sau dificultate
+în dezobișnuirea pacienților de medicament;
+2. orice interacțiuni care au fost observate cu alte
+medicamente administrate concomitent;
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+3. criteriile care au determinat excluderea unor pacienți
+din studiu;
+4. orice deces care a apărut în studiu sau în perioada
+următoare;
+h) informațiile referitoare la o nouă combinație de
+substanțe medicamentoase trebuie să fie identice cu cele
+cerute pentru medicamentele noi și trebuie să demonstreze
+siguranța și eficacitatea combinației;
+i) omisiunea totală sau parțială a datelor trebuie să fie
+explicată. Dacă apar rezultate neașteptate în timpul
+studiului, ulterior trebuie să fie întreprinse noi teste
+preclinice toxicologice și farmacologice și revizuite în
+consecință;
+j) dacă medicamentul este destinat administrării pe
+termen lung, trebuie să fie prezentate informații cu privire
+la orice modificare a acțiunii farmacologice ca urmare a
+administrării în doze repetate, precum și a stabilirii
+dozajului pe termen lung.
+5.2.1. Rapoartele studiilor biofarmaceutice
+Trebuie să fie prezentate rapoartele studiilor de
+biodisponibilitate, biodisponibilitate comparată, de
+bioechivalență, rapoartele privind studiul corelației in vitro și
+in vivo și metodele bioanalitice și analitice.
+În plus, trebuie să se întreprindă o evaluare a
+biodisponibilității atunci când este necesar să se
+demonstreze bioechivalența pentru medicamentele la care
+face referire art. 704 alin. (1) și (2) din Legea nr. 95/2006.
+5.2.2. Rapoartele studiilor aparținând farmacocineticii, care
+folosesc biomateriale umane
+În prezentele norme și protocoale, biomateriale umane
+înseamnă orice proteine, celule, țesuturi și materiale
+înrudite, derivate din surse umane, care sunt folosite in
+vitro sau ex vivo pentru determinarea proprietăților
+farmacocinetice ale substanțelor medicamentoase.
+În această privință, trebuie să fie prezentate rapoartele
+studiului de legare de proteine plasamatice, studiile de
+metabolism hepatic și de interacțiune a substanței active și
+studiile care folosesc alte biomateriale umane.
+5.2.3. Rapoartele studiilor de farmacocinetică la om
+a) Trebuie să fie descrise următoarele caracteristici
+farmacocinetice:
+— absorbție (viteză și intensitate);
+— distribuție;
+— metabolism;
+— excreție.
+Trebuie să fie descrise caracteristicile semnificative
+clinic, incluzând implicarea datelor cinetice pentru regimul
+de dozaj, în special pentru pacienții cu risc, și diferențele
+dintre speciile umane și animale folosite în studiile clinice.
+În plus față de studiile farmacocinetice standard
+multiprobă, analizele farmacocinetice populaționale bazate
+pe prelevare disperată în timpul studiilor clinice pot, de
+asemenea, să trateze chestiuni referitoare la contribuțiile
+factorilor intrinseci și extrinseci la variabilitatea relației dozărăspuns farmacocinetic. Trebuie să fie prezentate rapoartele
+studiilor farmacocinetice și de tolerabilitate inițială pe
+subiecți sănătoși și pe pacienți, rapoartele studiilor
+farmacocinetice pentru evaluarea efectelor factorilor
+intrinseci și extrinseci și rapoartele studiilor farmacocinetice
+populaționale.
+b) Dacă medicamentul este în mod normal administrat
+concomitent cu alte medicamente, trebuie să fie prezentate
+informații despre testele de administrare comună efectuate
+pentru a demonstra modificarea posibilă a acțiunii
+farmacologice.
+
+Trebuie să fie investigate interacțiunile farmacocinetice
+dintre substanța activă și alte medicamente sau substanțe.
+5.2.4. Rapoartele studiilor de farmacodinamie la om
+a) Acțiunea farmacodinamică corelată cu eficacitatea va
+fi demonstrată incluzând:
+— relația doză-răspuns și durata ei în timp;
+— justificarea dozajului și a condițiilor de administrare;
+— modul de acțiune, dacă este posibil.
+Acțiunea farmacodinamică nelegată de eficacitate trebuie
+să fie descrisă.
+Demonstrarea efectelor farmacodinamice la om nu poate
+fi suficientă în sine pentru a justifica concluziile privind
+orice potențial efect terapeutic specific.
+b) Dacă medicamentul este în mod normal administrat
+concomitent cu alte medicamente, trebuie să fie prezentate
+informații despre testele de administrare comună efectuate
+pentru a demonstra modificarea posibilă a acțiunii
+farmacologice.
+Trebuie să fie investigate interacțiunile farmacocinetice
+dintre substanța activă și alte medicamente sau substanțe.
+5.2.5. Rapoartele studiilor de eficacitate și siguranță
+5.2.5.1. Rapoartele studiilor clinice controlate, aferente
+indicației revendicate
+În general, studiile clinice trebuie să fie efectuate ca
+îstudii clinice controlate“, dacă este posibil randomizate, și,
+după cum este cazul, versus placebo și versus un
+medicament stabilit cu valoare terapeutică dovedită; orice
+altă metodologie de lucru trebuie să fie justificată.
+Tratamentul grupurilor de control poate varia de la caz la
+caz și poate depinde, de asemenea, de considerațiile etice
+și de aria terapeutică; astfel, se poate ca în anumite
+cazuri, să fie mai pertinent să se compare eficacitatea unui
+nou medicament cu aceea a unui medicament stabilit cu
+valoare terapeutică dovedită decât cu efectul placebo.
+(1) În măsura în care este posibil, în special în studiile
+în care efectul unui medicament nu poate fi măsurat
+obiectiv, vor fi luate măsuri pentru a se evita
+subiectivismul, incluzându-se metode de randomizare și de
+aplicare a procedeului îorb“.
+(2) Protocolul studiului trebuie să includă o descriere
+completă a metodelor statistice de utilizat, numărul și
+motivele pentru includerea de pacienți (incluzând calcularea
+puterii studiului), nivelul de semnificație care trebuie folosit
+și o descriere a unității statistice. Măsurile luate pentru
+evitarea subiectivismului, în special metodele de
+randomizare, trebuie să fie susținute cu documente.
+Includerea unui număr mare de subiecți într-un studiu nu
+trebuie să fie considerat ca un substituient adecvat pentru
+un studiu controlat corespunzător.
+Datele de siguranță trebuie să fie revizuite luându-se în
+considerare ghidurile publicate de Comisia Europeană și
+acordându-se atenție specială evenimentelor care conduc la
+modificarea dozei sau la necesitatea unui tratament
+concomitent, reacțiilor adverse grave, reacțiilor care conduc
+la retragere și deceselor. Trebuie să fie identificați orice
+pacienți sau grupuri de pacienți cu risc crescut și trebuie
+să li se acorde o atenție specială pacienților potențial
+vulnerabili care pot să fie prezenți în număr mic, de
+exemplu copii, femei însărcinate, vârstnici vulnerabili,
+oameni cu anomalii marcante ale metabolismului sau
+excreției etc. Trebuie să fie descrisă implicația evaluării
+siguranței pentru posibilele utilizări ale medicamentului.
+5.2.5.2. Rapoartele studiilor clinice necontrolate de
+analiză a datelor din mai mult de un studiu și alte rapoarte
+de studii clinice
+Aceste rapoarte trebuie să fie prezentate.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+5.2.6. Rapoarte ale experienței postautorizare
+Dacă medicamentul este deja autorizat în țări terțe,
+trebuie să fie prezentate informații referitoare la reacțiile
+adverse ale medicamentului implicat și ale medicamentelor
+care conțin aceeași sau aceleași substanțe active, în
+relație cu ratele de utilizare, dacă este posibil.
+5.2.7. Formularele rapoartelor de caz și listele individuale
+de pacienți
+În acord cu ghidul relevant publicat de EMEA, când se
+prezintă formularele raportului de caz și listările datelor
+individuale ale pacienților, acestea trebuie să fie furnizate
+și prezentate în aceeași ordine ca în rapoartele studiului
+clinic și să fie indexat studiul.
+PARTEA a II-a
+Dosare specifice de autorizare de punere pe piață
+și cerințe specifice
+Unele medicamente prezintă caracteristici specifice,
+astfel încât toate cerințele dosarului de autorizare de
+punere pe piață, astfel cum sunt formulate în partea I a
+prezentelor norme și protocoale, trebuie să fie adaptate.
+Pentru a lua în considerare aceste situații particulare,
+solicitantul trebuie să facă o prezentare adecvată și
+adaptată a dosarului.
+1. Medicamente cu utilizare medicală bine stabilită
+Pentru medicamente a/ale căror substanță/substanțe
+activă/active are/au utilizare medicală bine stabilită, la care
+se face referire în art. 705 din Legea nr. 95/2006, cu
+eficacitate recunoscută și un nivel de siguranță acceptabil,
+se aplică următoarele reguli specifice:
+Solicitantul trebuie să depună modulele 1—3, astfel cum
+sunt descrise în partea I din prezentele norme și
+protocoale.
+Pentru modulele 4 și 5 se prezintă o bibliografie
+științifică detaliată, referitoare la caracteristicile nonclinice și
+clinice.
+Trebuie să se aplice următoarele norme și protocoale
+specifice pentru a demonstra utilizarea medicală bine
+stabilită:
+a) Factorii care trebuie să fie luați în considerare pentru
+a stabili o utilizare medicală bine stabilită a componentelor
+unui medicament sunt:
+— perioada de timp în care o substanță a fost folosită;
+— aspectele cantitative ale folosirii substanței;
+— gradul de interes științific în folosirea substanței
+(reflectată în literatura științifică publicată); și
+— coerența evaluărilor științifice.
+De aceea pot fi necesare perioade diferite pentru
+stabilirea utilizării medicale bine stabilite a diferitelor
+substanțe. Totuși, perioada cerută pentru determinarea unei
+utilizări medicale bine stabilite a unui component al unui
+medicament nu trebuie să fie inferioară unui deceniu de la
+prima utilizare sistematică și documentată a acelei
+substanțe ca medicament în România și în Comunitatea
+Europeană.
+b) Documentația depusă de solicitant trebuie să acopere
+toate aspectele evaluării siguranței și/sau eficacității și
+trebuie să includă sau să se refere la o recenzie a
+literaturii relevante, luând în considerare studiile pre- și
+postautorizare și literatura științifică publicată privind
+experiența sub forma studiilor epidemiologice și, în special,
+a studiilor epidemiologice comparative. Trebuie să fie
+comunicată toată documentația, atât cea favorabilă, cât și
+cea nefavorabilă. Referitor la prevederile pentru utilizarea
+medicală bine stabilită, este necesar în mod special să se
+precizeze faptul că referirea bibliografică la alte surse de
+
+15
+
+dovezi (studii postautorizare, studii epidemiologice etc.), și
+nu doar datele referitoare la teste și studii, pot servi drept
+o dovadă validă a siguranței și eficacității unui produs,
+dacă în cerere se explică și se justifică satisfăcător
+folosirea acestor surse de informații.
+c) O atenție specială trebuie acordată oricăror informații
+care lipsesc și trebuie să se justifice de ce poate fi
+susținută demonstrarea unui nivel acceptabil de siguranță
+și/sau eficacitate, deși anumite studii lipsesc.
+d) Prezentările nonclinice și/sau clinice trebuie să
+explice relevanța oricăror date utilizate care privesc un
+produs diferit de produsul care se intenționează a fi
+autorizat în vederea punerii pe piață. Trebuie să se judece
+dacă produsul studiat poate fi considerat similar cu
+produsul pentru care s-a făcut cerere de autorizare de
+punere pe piață, în ciuda diferențelor existente.
+e) Experiența postautorizare cu alte produse care conțin
+aceleași componente are o importanță specială și
+solicitantul trebuie să pună un accent deosebit pe acest
+aspect.
+2. Medicamente generice
+a) Cererile bazate pe prevederile art. 707 din Legea
+nr. 95/2006 trebuie să conțină datele descrise în modulele
+1—3 ale părții I a prezentelor norme și protocoale, cu
+condiția ca deținătorul autorizației originale de punere pe
+piață să îi fi acordat consimțământul solicitantului pentru
+referire la conținutul modulelor 4 și 5.
+b) Cererile bazate pe prevederile art. 704 alin. (1) și (2)
+din Legea nr. 95/2006 (medicamente generice) trebuie să
+conțină datele descrise în modulele 1—3 ale părții I a
+prezentelor norme și protocoale, precum și datele care
+arată biodisponibilitatea și bioechivalența cu medicamentul
+de referință, cu condiția ca ultimul să nu fie un produs
+biologic.
+Pentru aceste produse prezentările nonclinice/clinice
+trebuie să se concentreze în mod deosebit pe următoarele
+elemente:
+— bazele pentru revendicarea similarității esențiale;
+— un rezumat al impurităților prezente în seriile
+substanței/substanțelor active, precum și în medicamentul
+finit (și, unde sunt relevanți, produșii de degradare care
+apar în timpul păstrării), cum s-a propus pentru utilizare la
+produsul care se autorizează în vederea punerii pe piață,
+împreună cu evaluarea acelor impurități;
+— o evaluare a studiilor de bioechivalență sau o
+justificare pentru faptul că nu au fost efectuate studii în
+acord cu Ghidul privind investigarea biodisponibilității și
+bioechivalenței;
+— o actualizare a literaturii publicate, relevantă pentru
+substanță și pentru cererea prezentată. Se poate considera
+acceptabilă pentru acest scop adnotarea articolelor cu
+recenzii din jurnale științifice;
+— fiecare revendicare din rezumatul caracteristicilor
+produsului, necunoscută sau dedusă din proprietățile
+medicamentului și/sau ale grupului său terapeutic, trebuie
+discutată în prezentările nonclinice/clinice și demonstrată
+din literatura publicată și/sau studiile adiționale;
+— dacă este cazul, atunci când revendică similaritatea
+esențială, solicitanții trebuie să prezinte date adiționale
+pentru a demonstra echivalența proprietăților de siguranță
+și eficacitate ale diferitelor săruri, esteri sau derivați ai unei
+substanțe active autorizate.
+3. Date suplimentare cerute în situații specifice
+Când substanța activă a unui medicament generic
+conține aceeași entitate terapeutică ca și produsul de
+referință asociat cu un complex/derivat de săruri/esteri
+diferite/diferiți, trebuie să se prezinte dovada care să
+demonstreze că nu există nicio modificare în
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+farmacocinetica entității, farmacodinamica și/sau în
+toxicitatea acesteia, care ar putea schimba profilul de
+siguranță/eficacitate.
+Când un medicament este destinat unei utilizări
+terapeutice diferite sau este prezentat într-o formă
+farmaceutică diferită ori pentru a fi administrat pe căi
+diferite sau în doze diferite ori cu o posologie diferită,
+trebuie prezentate rezultatele testelor toxicologice și
+farmacologice adecvate și/sau ale studiilor clinice, conform
+prevederilor art. 704 alin. (3) din Legea nr. 95/2006.
+4. Medicamente biologice similare
+Prevederile art. 704 alin. (1) și (2) din Legea
+nr. 95/2006 pot să fie insuficiente în cazul medicamentelor
+biologice. Dacă informațiile cerute în cazul medicamentelor
+generice nu permit demonstrarea naturii similare a două
+medicamente biologice, trebuie să fie prezentate date
+suplimentare, în special profilul toxicologic și clinic, conform
+prevederilor art. 704 alin. (4) din Legea nr. 95/2006.
+Când un medicament biologic, astfel cum este definit în
+partea I paragraful 3.2 din prezentele norme și protocoale,
+care se referă la un medicament original căruia i s-a
+acordat o autorizație de punere pe piață în România sau
+în Comunitatea Europeană, este depus pentru autorizare
+de punere pe piață de către un solicitant independent după
+expirarea perioadei de protecție a datelor, se aplică
+următoarea abordare, conform prevederilor art. 704 alin. (4)
+din Legea nr. 95/2006:
+— informațiile care trebuie furnizate nu se limitează la
+modulele 1—3 (date farmaceutice, chimice și biologice),
+suplimentate cu date de biodisponibilitate și bioechivalență.
+Tipul și cantitatea de date suplimentare (adică date
+toxicologice și alte date nonclinice și date clinice relevante)
+trebuie hotărâte de la caz la caz, în acord cu ghidurile
+științifice relevante;
+— datorită diversității medicamentelor biologice,
+necesitatea prezentării unor studii identificate, prevăzute în
+modulele 4 și 5, va fi susținută de Agenția Națională a
+Medicamentului, luându-se în considerare caracteristica
+specifică a fiecărui medicament.
+Principiile generale care trebuie aplicate sunt tratate
+într-un ghid publicat de EMEA, care ia în considerare
+caracteristicile medicamentului biologic implicat. În cazul în
+care un medicament de referință autorizat are mai mult de
+o indicație, eficacitatea și siguranța medicamentului
+revendicat a fi similar trebuie să fie justificate sau, dacă
+este necesar, demonstrate separat pentru fiecare dintre
+indicațiile revendicate.
+5. Medicamente în combinație fixă
+Cererile bazate pe art. 706 din Legea nr. 95/2006 se
+referă la medicamente noi, care conțin cel puțin două
+substanțe active ce nu au fost autorizate anterior ca un
+medicament în combinație fixă.
+Pentru acest tip de cereri trebuie prezentat un dosar
+complet (cu modulele 1—5). Unde este cazul trebuie
+furnizate informații privind locurile de fabricație și evaluarea
+de siguranță a agenților adventițiali.
+6. Documentație pentru cereri de autorizare în situații
+excepționale
+Atunci când, așa cum se prevede în art. 727 din Legea
+nr. 95/2006, solicitantul poate demonstra că nu este posibil
+să prezinte date complete privind eficacitatea și siguranța
+în condiții normale de utilizare, deoarece:
+— indicațiile pentru care produsul în discuție este
+destinat sunt întâlnite atât de rar încât în mod rezonabil nu
+12)
+
+JO L 313 din 13 decembrie 2000, p. 22.
+
+este de așteptat ca solicitantul să prezinte dovezi
+complete; sau
+— la nivelul actual de cunoaștere științifică nu pot fi
+prezentate informații complete; sau
+— poate fi contra principiilor general acceptate ale
+eticii medicale să se colecteze asemenea informații,
+autorizația de punere pe piață poate fi acordată, sub
+rezerva asumării de către deținătorul autorizației de punere
+pe piață a anumitor obligații specifice.
+Aceste obligații pot include următoarele:
+— solicitantul trebuie să finalizeze un program identificat
+de studii într-o perioadă specificată de Agenția Națională a
+Medicamentului, ale cărui rezultate trebuie să formeze baza
+pentru o reevaluare a profilului risc-beneficiu;
+— medicamentul în discuție poate fi eliberat numai pe
+bază de prescripție medicală și poate, în anumite cazuri,
+să fie administrat numai sub strictă supraveghere medicală,
+posibil într-un spital, și, în cazul unui produs
+radiofarmaceutic, numai de o persoană autorizată;
+— prospectul și orice informație medicală vor atrage
+medicului atenția despre faptul că informațiile disponibile
+privind medicamentul în discuție sunt încă inadecvate în
+anumite privințe specificate.
+7. Cereri mixte pentru autorizarea de punere pe piață
+Cererile mixte pentru autorizarea de punere pe piață
+sunt cererile bazate pe dosarele de autorizare de punere
+pe piață în care modulul 4 și/sau 5 constau într-o
+combinație de rapoarte ale studiilor nonclinice și/sau clinice
+limitate, efectuate de solicitant, și în referințe bibliografice.
+Toate celelalte module sunt în acord cu structura descrisă
+în partea I a prezentelor norme și protocoale. Agenția
+Națională a Medicamentului acceptă formatul prezentat de
+solicitant, de la caz la caz.
+PARTEA a III-a
+Medicamente speciale
+Prezenta parte formulează cerințele specifice corelate cu
+natura medicamentelor identificate.
+1. Medicamente biologice
+1.1. Medicamente derivate din plasmă
+
+Pentru medicamentele derivate din sângele uman sau
+din plasmă și prin derogare de la prevederile modulului 3,
+cerințele dosarului, menționate în Informațiile privind
+materiile de start și materiile prime pentru materiile de start
+pe bază de sânge uman/plasmă, pot fi înlocuite de către
+un dosar standard al plasmei (DSP), certificat în acord cu
+prezenta parte.
+a) Principii
+În înțelesul prezentelor norme și protocoale, termenii
+enumerați în continuare au următoarele semnificații:
+— Dosarul standard al plasmei (DSP) este o
+documentație de sine stătătoare, separată de dosarul de
+autorizare de punere pe piață, care furnizează toate
+informațiile relevante detaliate privind caracteristicile întregii
+plasme umane folosite ca material de start și/sau materie
+primă pentru fabricația fracțiilor intermediare sau
+subfracțiilor, constituienții excipienților și substanța sau
+substanțele active, care sunt parte a medicamentelor sau
+a dispozitivelor medicale la care se referă Directiva
+2000/70/CE a Parlamentului European și a Consiliului din
+16 noiembrie 2000, care amendează Directiva Consiliului
+93/42/CE cu privire la dispozitivele medicale12), transpusă
+în România prin Legea nr. 176/2000, în ceea ce privește
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+dispozitivele medicale care încorporează derivați stabili din
+sânge uman sau plasmă umană;
+— orice centru sau stabiliment pentru fracționarea/
+procesarea plasmei umane trebuie să pregătească și să
+păstreze actualizat setul de informații relevante detaliate la
+care se face referire în DSP;
+— DSP trebuie depus la EMEA de către solicitantul
+unei autorizații de punere pe piață sau la Agenția
+Națională a Medicamentului de către deținătorul autorizației
+de punere pe piață. Când solicitantul sau deținătorul
+autorizației de punere pe piață diferă de deținătorul DSP,
+DSP trebuie să fie pus la dispoziție solicitantului sau
+deținătorului autorizației de punere pe piață pentru
+depunerea la EMEA sau la Agenția Națională a
+Medicamentului. În orice caz, solicitantul sau deținătorul
+autorizației de punere pe piață trebuie să aibă
+responsabilitatea medicamentului;
+— Agenția Națională a Medicamentului, când evaluează
+cererea de autorizare de punere pe piață, trebuie să
+aștepte ca EMEA să emită certificatul înainte să decidă în
+privința cererii;
+— orice dosar de autorizare de punere pe piață, care
+conține un component derivat din plasmă umană, trebuie
+să se refere la DSP corespunzător plasmei folosite ca
+material de start/materie primă.
+b) Cuprins
+În acord cu prevederile art. 821 și 822 din Legea
+nr. 95/2006, care se referă la cerințele pentru donatori și
+pentru testarea donării, DSP trebuie să includă informații
+privind plasma folosită ca material de start/materie primă,
+în special referitoare la:
+1. Originea plasmei:
+(i) informații cu privire la centrele sau la
+stabilimentele în care se efectuează colectarea
+sângelui/plasmei, incluzând inspecția și
+aprobarea, precum și datele epidemiologice cu
+privire la infecțiile transmisibile prin sânge;
+(ii) informații cu privire la centrele sau la
+stabilimentele în care se testează donările și
+amestecurile de plasmă, incluzând situația
+referitoare la inspecție și autorizare;
+(iii) criteriile de selecție/excludere pentru donatorii
+de sânge/plasmă;
+(iv) sistemul existent care asigură trasabilitatea căii
+fiecărei donări de la stabilimentul de colectare
+a sângelui/plasmei până la produsul finit și
+viceversa.
+2. Calitatea și siguranța plasmei:
+(i) conformitatea cu monografiile Farmacopeii
+Europene;
+(ii) testarea donărilor de sânge/plasmă și a
+amestecurilor pentru agenți infecțioși, incluzând
+informații cu privire la metodele de testare și,
+în cazul amestecurilor de plasmă, datele de
+validare cu privire la testele folosite;
+(iii) caracteristicile tehnice ale pungilor pentru
+sânge și pentru colectarea plasmei, incluzând
+informații cu privire la soluțiile anticoagulante
+folosite;
+(iv) condițiile de păstrare și transport al plasmei;
+(v) procedurile pentru orice păstrare în inventar
+și/sau perioadă de carantină;
+(vi) caracterizarea amestecului de plasmă.
+3. Sistemul existent între fabricantul medicamentului
+derivat din plasmă și/sau fracționatorul/procesatorul de
+13)
+
+JO L 55 din 11 martie 1995, p. 15.
+
+17
+
+plasmă, pe de o parte, și centrele ori stabilimentele de
+colectare de sânge/plasmă și/sau testare, pe de altă parte,
+care definește condițiile interacțiunii lor și specificațiile
+agreate de aceștia.
+În plus, DSP va furniza o listă a medicamentelor pentru
+care DSP este valid, dacă medicamentelor li s-a acordat o
+autorizație de punere pe piață sau sunt în proces de a li
+se acorda o asemenea autorizație, incluzând
+medicamentele la care face referire art. 2 din Directiva
+2001/20/CE a Parlamentului European și a Comisiei privind
+implementarea bunei practici în desfășurarea studiilor
+clinice pentru medicamente de uz uman, transpusă în
+România prin ordin al ministrului sănătății publice.
+c) Evaluare și certificare:
+— pentru medicamentele care nu sunt încă autorizate,
+solicitantul autorizației de punere pe piață trebuie să
+depună un dosar complet la Agenția Națională a
+Medicamentului, care trebuie să fie însoțit de un DSP
+separat, când nu există deja unul;
+— DSP este supus unei evaluări științifice și tehnice
+efectuate de EMEA. O evaluare pozitivă conduce la un
+certificat de conformitate cu legislația Comunității Europene
+a DSP, care este însoțit de raportul de evaluare.
+Certificatul emis are aplicabilitate în România și în
+Comunitatea Europeană;
+— DSP trebuie actualizat și recertificat anual;
+— modificările subsecvente introduse la termenii DSP
+trebuie să urmeaze procedura de evaluare formulată în
+Regulamentul Comisiei nr. 542/95/CE referitor la
+examinarea variațiilor la termenii unei autorizații de punere
+pe piață 13), intrând în sfera Regulamentului Consiliului
+nr. 2.309/93/CEE din 22 iulie 1993, care instituie
+procedurile comunitare pentru autorizarea și supravegherea
+medicamentelor de uz uman și veterinar și înființează
+EMEA. Condițiile pentru evaluarea acestor modificări sunt
+formulate în Regulamentul nr. 1.085/2003/CE;
+— ca o a doua etapă față de formulările din
+paragrafele 1—4 ale prezentei litere, Agenția Națională a
+Medicamentului trebuie să ia în considerare certificarea,
+recertificarea sau variația DSP privind medicamentul/
+medicamentele de uz uman;
+— prin derogare de la prevederile paragrafului 2 al
+prezentei litere (Evaluare și certificare), când un DSP
+corespunde numai medicamentelor derivate din
+sânge/plasmă, a căror autorizație de punere pe piață este
+limitată la România, evaluarea științifică și tehnică a
+menționatului DSP trebuie să fie efectuată de Agenția
+Națională a Medicamentului.
+1.2. Vaccinuri
+
+Pentru vaccinurile de uz uman și prin derogare de la
+prevederile modulului 3 privind substanța/substanțele
+activă/active, se aplică următoarele cerințe când se
+utilizează Dosarul standard al antigenului vaccinal.
+În documentația care însoțește cererea de autorizare de
+punere pe piață a unui alt fel de vaccin decât vaccinul
+gripal uman, trebuie să fie inclus un dosar standard al
+antigenului vaccinal pentru fiecare antigen de vaccin care
+constituie substanța activă pentru acel vaccin.
+a) Principii
+În prezentele norme și protocoale termenii enumerați în
+continuare au următoarele semnificații:
+— Dosarul standard al antigenului vaccinal constituie o
+parte de sine stătătoare a cererii de autorizare de punere
+pe piață pentru un vaccin, care conține toate informațiile
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+relevante de natură biologică, farmaceutică și chimică cu
+privire la fiecare dintre substanțele active care fac parte din
+acest medicament. Partea de sine stătătoare poate fi
+comună unuia sau mai multor vaccinuri monovalente și/sau
+vaccinuri combinate prezentate de același solicitant sau
+deținător al autorizației de punere pe piață;
+— un vaccin poate conține unul sau mai mulți antigeni
+vaccinali distincți. Există atâtea substanțe active câți
+antigeni sunt prezenți într-un vaccin;
+— un vaccin combinat conține cel puțin 2 antigeni
+distincți de vaccin, în vederea prevenirii uneia sau mai
+multor boli infecțioase;
+— un vaccin monovalent este un vaccin care conține
+un singur antigen vaccinal în vederea prevenirii unei
+singure boli infecțioase.
+b) Cuprins
+Dosarul standard al antigenului vaccinal trebuie să
+conțină următoarele informații extrase din partea relevantă
+(substanța activă) din modulul 3 privind datele de calitate,
+astfel cum au fost descrise în partea I a prezentelor norme
+și protocoale:
+Substanța activă:
+1. informații generale, incluzând conformitatea cu
+monografia/monografiile relevante ale Farmacopeii
+Europene;
+2. informații privind fabricația substanței active: acest
+capitol trebuie să acopere procesul de fabricație, informații
+cu privire la materiile de start și materiile prime, măsuri
+specifice privind evaluarea siguranței referitoare la agenții
+de transmitere ai encefalopatiei spongiforme (EST) și
+agenții adventițiali, facilități și echipamente;
+3. caracterizarea substanței active;
+4. controlul calității substanței active;
+5. materiale și standard de referință;
+6. recipient și sistem de închidere pentru substanța
+activă;
+7. stabilitatea substanței active.
+c) Evaluare și certificare:
+— pentru vaccinurile noi, care conțin un antigen
+vaccinal nou, solicitantul trebuie să depună la Agenția
+Națională a Medicamentului o cerere de autorizare de
+punere pe piață cu documentație completă, incluzând toate
+dosarele standard ale antigenului vaccinal, corespunzătoare
+fiecărui antigen vaccinal individual, care este parte a noului
+vaccin, când nu există încă dosar standard pentru
+antigenul separat al vaccinului. O evaluare științifică și
+tehnică trebuie să fie realizată de către EMEA pentru
+fiecare Dosar standard al antigenului vaccinal. O evaluare
+pozitivă conduce la un certificat de conformitate cu
+legislația europeană pentru fiecare Dosar standard al
+antigenului vaccinal, care este însoțit de un raport de
+evaluare. Certificatul are aplicabilitate în România și în
+întreaga Comunitate Europeană;
+— prevederile paragrafului 1 al prezentei litere trebuie
+să se aplice pentru fiecare vaccin, care constă într-o nouă
+combinație de antigeni vaccinali, indiferent de faptul că
+unul sau mai mulți dintre acești antigeni vaccinali sunt
+parte din vaccinurile deja autorizate în România sau în
+Comunitatea Europeană;
+— modificările în conținutul Dosarului standard al
+antigenului vaccinal pentru un vaccin autorizat în
+Comunitatea Europeană trebuie să facă obiectul unei
+evaluări științifice și tehnice efectuate de EMEA, în acord
+
+cu procedura formulată în Regulamentul Comisiei
+nr. 1.085/2003/CE. În cazul unei evaluări pozitive, se emite
+un certificat de conformitate cu legislația Comunității
+Europene pentru Dosarul standard al antigenului vaccinal.
+Certificatul emis are aplicabilitate în România și în întreaga
+Comunitate Europeană;
+— prin derogare de la prevederile paragrafelor 1—3 ale
+prezentei litere (Evaluare și certificare), când un Dosar
+standard al antigenului vaccinal corespunde numai unui
+singur vaccin care face obiectul unei autorizații de punere
+pe piață care nu a fost/nu va fi emisă în acord cu o
+procedură a Comunității Europene și cu condiția ca
+vaccinul autorizat să includă antigeni vaccinali care nu au
+fost evaluați prin procedura din Comunitate, trebuie
+efectuată de Agenția Națională a Medicamentului evaluarea
+științifică și tehnică a acelui Dosar standard al antigenului
+vaccinal și a modificărilor lui subsecvente, când aceasta
+acordă autorizația de punere pe piață;
+— ca o a doua etapă la prevederile paragrafelor 1—4
+ale prezentei litere, Agenția Națională a Medicamentului
+care va acorda sau a acordat autorizația de punere pe
+piață trebuie să ia în considerare certificarea, recertificarea
+sau variația Dosarului standard al antigenului vaccinal al
+medicamentului respectiv.
+2. Produse radiofarmaceutice și precursori
+2.1. Produse radiofarmaceutice
+
+Pentru scopurile prezentului punct, cererile bazate pe
+art. 700 alin. (5) și art. 704 din Legea nr. 95/2006 trebuie
+să fie însoțite de un dosar complet, în care trebuie să fie
+incluse următoarele detalii specifice:
+Modulul 3
+a) În contextul unui kit radiofarmaceutic, care urmează
+să fie marcat după furnizarea de către fabricant, substanța
+activă este considerată a fi parte a formulării care este
+destinată să transporte sau să lege un radionuclid.
+Descrierea metodelor de fabricație a kiturilor
+radiofarmaceutice trebuie să includă detalii ale fabricației
+kitului și detalii ale procesării lui finale recomandate pentru
+a fabrica medicamentul radioactiv. Specificațiile necesare
+ale radionuclidului trebuie să fie descrise în acord, acolo
+unde este relevant, cu monografia generală sau cu
+monografiile specifice din Farmacopeea Europeană. În plus
+trebuie să fie descriși oricare dintre compușii care sunt
+esențiali pentru radiomarcare. Trebuie să fie descrisă, de
+asemenea, structura compusului radiomarcat.
+Pentru radionuclizi trebuie să fie discutate reacțiile
+nucleare implicate.
+Într-un generator trebuie să fie considerate substanțe
+active atât radionuclidul-mamă, cât și radionuclidul-fiică.
+b) Trebuie să fie furnizate detalii privind natura
+radionuclidului, identitatea izotopului, impuritățile probabile,
+purtătorul, utilizarea și activitatea specifică.
+c) Materiile de start includ materiile-țintă de iradiere.
+d) Trebuie să fie prezentate considerații privind puritatea
+chimică/radiochimică și relația ei cu biodistribuția.
+e) Trebuie să fie descrise puritatea radionuclidului,
+puritatea radiochimică și activitatea specifică.
+f) Pentru generatori sunt cerute detalii privind testarea
+radionuclizilor-mamă și radionuclizilor-fiică. Pentru eluați ai
+generatorului trebuie să fie prezentate teste privind
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+radionuclizii-mamă și fiică și pentru alte componente ale
+sistemului generator.
+g) Cerințele pentru a exprima conținutul substanțelor
+active în termenii de masă a entităților active trebuie să se
+aplice numai pentru kituri radiofarmaceutice. Pentru
+radionuclizi radioactivitatea trebuie să fie exprimată în
+Becqureli la o anumită dată și, dacă este necesar, la un
+anumit timp cu referire la fusul orar. Trebuie să fie indicat
+tipul de radiație.
+h) Pentru kituri specificațiile produsului finit trebuie să
+includă teste privind performanța produsului după
+radiomarcare. Trebuie să fie incluse controale relevante
+privind puritatea radiochimică și radionuclidică a compusului
+marcat. Orice material esențial pentru radiomarcare trebuie
+să fie identificat și dozat.
+i) Trebuie să fie prezentate informații privind stabilitatea
+pentru generatorii de radionuclizi, pentru kiturile de
+radionuclizi și pentru produșii radiomarcați. Stabilitatea în
+timpul folosirii produselor radiofarmaceutice în flacoane
+multidoză trebuie să fie susținută cu documente.
+Modulul 4
+Se consideră că toxicitatea se asociază cu doza de
+radiații. Pentru diagnostic aceasta este o consecință a
+folosirii produselor radiofarmaceutice; pentru terapie aceasta
+este proprietatea dorită. De aceea, evaluarea siguranței și
+eficacității produselor radiofarmaceutice trebuie să țină cont
+de cerințele pentru medicamente și de aspectele legate de
+dozimetria radiației. Expunerea organului/țesutului la radiații
+trebuie să fie susținută cu documente. Estimările dozei de
+radiații absorbite trebuie să fie calculate în acord cu un
+sistem specific, recunoscut pe plan internațional pentru o
+cale specifică de administrare.
+Modulul 5
+Unde este cazul, trebuie să fie furnizate rezultatele
+studiilor clinice și justificate în prezentările clinice.
+2.2. Precursori radiofarmaceutici pentru radiomarcare
+
+În cazul specific al unui precursor radiofarmaceutic
+destinat numai pentru scopuri de radiomarcare, obiectivul
+primar trebuie să fie prezentarea de informații care să
+abordeze posibilele consecințe ale unei eficiențe slabe de
+radiomarcare sau ale disocierii in vivo a conjugatului
+radiomarcat, adică problemelor legate de efectele produse
+pacientului de radionuclidul liber (nelegat). În plus, este, de
+asemenea, necesar să se prezinte informații relevante
+privind riscurile ocupaționale, adică expunerea la radiații a
+personalului spitalului și a mediului înconjurător.
+În special, unde este cazul, trebuie să fie prezentate
+următoarele informații:
+Modulul 3
+Prevederile modulului 3 trebuie să se aplice la
+înregistrarea precursorilor de produse radiofarmaceutice
+cum au fost definiți mai sus [paragrafele a) — i)], acolo
+unde este cazul.
+Modulul 4
+Referitor la toxicitatea după doză unică și după doze
+repetate, trebuie prezentate, dacă nu se justifică altfel,
+rezultatele studiilor efectuate în conformitate cu prevederile
+privind buna practică de laborator formulate în Directiva
+Consiliului 87/18/CEE și în Directiva 88/320/CEE, transpuse
+în România prin Hotărârea Guvernului nr. 63/2002.
+
+19
+
+Studiile de mutagenicitate pe radionuclid nu sunt
+considerate utile în acest caz particular.
+Trebuie să fie prezentate informații privind toxicitatea
+chimică și dispunerea nuclidului relevant îrece“.
+Modulul 5
+Informațiile clinice generate de studiile clinice care
+folosesc precursorul însuși nu sunt relevante în cazul
+specific al unui precursor radiofarmaceutic destinat numai
+scopurilor de radiomarcare.
+Totuși, trebuie să fie prezentate informații care
+demonstrează
+utilitatea
+clinică
+a
+precursorului
+radiofarmaceutic când este atașat moleculelor purtătoare
+relevante.
+3. Medicamente homeopate
+Această secțiune stabilește prevederile specifice privind
+aplicarea modulelor 3 și 4 la preparatele homeopate
+definite în art. 695 pct. 4 din Legea nr. 95/2006.
+Modulul 3
+Prevederile modulului 3 trebuie să se aplice
+documentelor depuse în acord cu art. 712 din Legea
+nr. 95/2006 pentru înregistrarea simplificată a
+medicamentelor homeopate, la care face referire art. 710
+alin. (2) și art. 711, precum și documentele pentru
+autorizarea altor medicamente homeopate la care se referă
+art. 713 din Legea nr. 95/2006, cu următoarele modificări:
+a) Terminologie
+Numele latin al sușei homeopate descrise în dosarul de
+autorizare de punere pe piață trebuie să fie în acord cu
+titlul latin din Farmacopeea Europeană sau, în absența
+acestuia, cu titlul din Farmacopeea Română ori dintr-o
+farmacopee oficială a unui stat membru al Uniunii
+Europene. Unde are relevanță, trebuie să fie
+prezentat/prezentate
+numele
+tradițional/tradiționale
+folosit/folosite în fiecare stat membru al Uniunii Europene.
+b) Controlul materiilor de start
+Informațiile și documentele privind materiile de start,
+adică toate materiile folosite, incluzând materiile prime și
+intermediare, până la diluția finală care trebuie încorporată
+în medicamentul finit, care însoțesc cererea, trebuie să fie
+suplimentate prin date adiționale privind sușa homeopată.
+Cerințele generale de calitate trebuie să se aplice
+tuturor materiilor de start și materiilor prime, precum și
+etapelor intermediare ale procesului de fabricație, până la
+diluția finală care trebuie încorporată în medicamentul finit.
+Dacă este posibil, se cere o dozare dacă sunt prezente
+componente toxice și dacă nu poate să fie controlată
+calitatea pe diluția finală de încorporat din cauza gradului
+înalt de diluție. Fiecare etapă a procesului de fabricație de
+la materiile de start până la diluția finală care se
+încorporează în medicamentul finit trebuie să fie complet
+descrisă.
+În cazul folosirii diluțiilor, aceste etape de diluare trebuie
+să fie făcute în acord cu metodele de fabricație homeopate
+formulate în monografia relevantă a Farmacopeii Europene
+sau, în absența acesteia, în Farmacopeea Română ori
+într-o farmacopee oficială a unui stat membru al Uniunii
+Europene.
+c) Testele de control al produsului finit
+Cerințele generale de calitate trebuie să se aplice
+medicamentelor homeopate finite, orice excepție având
+nevoie să fie justificată corespunzător de solicitant.
+
+20
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+Trebuie să fie efectuate identificarea și dozarea tuturor
+constituienților relevanți din punct de vedere toxicologic.
+Dacă se poate justifica faptul că o identificare și/sau o
+dozare a tuturor constituenților relevanți din punct de
+vedere toxicologic nu sunt posibile, de exemplu din cauza
+diluției lor în medicamentul finit, calitatea trebuie să fie
+demonstrată prin validarea completă a procesului de
+fabricație și diluare.
+d) Testele de stabilitate
+Stabilitatea medicamentului finit trebuie să fie
+demonstrată. Datele de stabilitate din sușele homeopate
+sunt în general transferabile la diluțiile/triturațiile obținute din
+acestea. Dacă nu este posibilă nici o identificare sau
+dozare a substanței active, datorită gradului de diluare,
+trebuie luate în considerare datele de stabilitate a formei
+farmaceutice.
+Modulul 4
+Prevederile modulului 4 trebuie să se aplice la
+autorizarea simplificată a medicamentelor homeopate la
+care face referire art. 710 alin. (2) și art. 711 din Legea
+nr. 95/2006, cu următoarele specificații:
+Orice informații care lipsesc trebuie să fie justificate. De
+exemplu, trebuie să se justifice de ce demonstrarea unui
+nivel acceptabil de siguranță se poate susține, deși unele
+studii lipsesc.
+4. Medicamente din plante
+Cererile pentru medicamentele din plante trebuie să
+aibă un dosar complet, în care trebuie incluse următoarele
+detalii specifice:
+Modulul 3
+Prevederile modulului 3, inclusiv conformitatea cu
+monografia/monografiile Farmacopeii Europene, trebuie să
+se aplice la autorizarea medicamentelor din plante. Nivelul
+de cunoaștere științifică la momentul în care se depune
+cererea trebuie să fie luat în considerare.
+Următoarele aspecte specifice medicamentelor din plante
+trebuie să fie luate în considerare:
+1. Substanțe vegetale și preparate din plante
+Pentru scopurile prezentelor norme și protocoale,
+termenii substanțe vegetale și preparate din plante trebuie
+să fie considerați echivalenți termenilor produse vegetale și
+preparate din produse vegetale, astfel cum sunt definiți de
+Farmacopeea Europeană.
+În ceea ce privește nomenclatura substanțelor vegetale,
+trebuie să fie prezentate denumirea științifică binomială a
+plantei (gen, specie, varietate și autor) și chemotipul, unde
+este cazul, părțile plantei, definiția substanței vegetale, alte
+nume (sinonimele menționate în alte farmacopei) și codul
+de laborator.
+În ceea ce privește nomenclatura preparatului din
+plante, trebuie să fie prezentate numele științific binomial al
+plantei (gen, specie, varietate și autor) și chemotipul, unde
+este cazul, părțile plantei, definiția preparatului din plante,
+raportul substanță vegetală/preparat din plante,
+solventul/solvenții de extracție, alte nume (sinonimele
+menționate în alte farmacopei) și codul de laborator.
+Pentru a susține cu documente secțiunea structurii
+pentru substanța/substanțele vegetală/vegetale și
+preparatele din plante, unde este cazul, trebuie să fie
+prezentate forma fizică, descrierea constituenților cu
+activitate terapeutică cunoscută sau a markerilor (formula
+
+moleculară, masa moleculară relativă, formula structurală,
+inclusiv stereochimia relativă și absolută, formula
+moleculară și masa moleculară relativă), precum și a altor
+constituenți.
+Pentru a susține cu documente secțiunea fabricantului
+substanței vegetale trebuie să fie prezentate, când este
+cazul, denumirea, adresa și responsabilitatea fiecărui
+furnizor, incluzând contractorii și fiecare loc propus sau
+instalație implicată în producția/colectarea și testarea
+substanței vegetale.
+Pentru a susține cu documente secțiunea fabricantului
+preparatului din plante, trebuie să fie prezentate, când este
+cazul, numele, adresa și responsabilitatea fiecărui furnizor,
+incluzând contractorii și fiecare loc propus sau instalație
+implicată în fabricația și testarea preparatului din plante.
+În ceea ce privește descrierea procesului de fabricație
+și controalele procesului pentru substanțe vegetale, trebuie
+să fie prezentate informații care să descrie adecvat
+producția și colectarea plantei, incluzând sursa geografică
+a plantei medicinale și condițiile de cultivare, recoltare,
+uscare și păstrare.
+În ceea ce privește descrierea procesului de fabricație
+și controalele procesului pentru preparatul din plante,
+trebuie să fie prezentate informații care să descrie adecvat
+procesul de fabricație al preparatului din plante, incluzând
+descrierea procesării, solvenților și reactivilor, a etapelor de
+purificare și standardizare.
+În ceea ce privește dezvoltarea procesului de
+fabricație, unde este cazul, trebuie să fie prezentat un
+rezumat scurt al descrierii dezvoltării substanței/substanțelor
+vegetale și preparatului/preparatelor din plante, luându-se în
+considerare calea de administrare și utilizarea propuse.
+Trebuie să fie discutate rezultatele care compară
+compoziția fitochimică a substanței/substanțelor vegetale și
+preparatului/preparatelor din plante, unde este cazul,
+folosite în susținerea datelor bibliografice și substanța/
+substanțele vegetală/vegetale și preparatul/preparatele din
+plante, unde este cazul, conținute ca substanțe active în
+medicamentul din plante pentru care s-a depus cererea.
+În ceea ce privește elucidarea structurii și a altor
+caracteristici ale substanței vegetale, trebuie să fie
+prezentate informații privind caracterizarea botanică,
+macroscopică, microscopică, fitochimică și, dacă este
+necesar, activitatea biologică.
+În ceea ce privește elucidarea structurii și a altor
+caracteristici ale preparatului din plante, trebuie să fie
+prezentate informații privind caracterizarea fito- și fizicochimică și, dacă este necesar, activitatea biologică.
+Trebuie să fie prezentate specificațiile pentru
+substanța/substanțele vegetală/vegetale și preparatul/
+preparatele din plante, unde este cazul.
+Trebuie să fie prezentate procedurile analitice folosite
+pentru testarea substanței/substanțelor vegetale și
+preparatului/preparatelor din plante, unde este cazul.
+În ceea ce privește validarea procedurilor analitice,
+trebuie să fie prezentate (unde este cazul) informații privind
+validarea analitică, incluzând date experimentale despre
+procedurile
+analitice
+folosite
+pentru
+testarea
+substanței/substanțelor vegetale și preparatului/preparatelor
+din plante.
+În ceea ce privește analiza seriilor, trebuie să fie
+prezentate, unde este cazul, descrierea seriilor și
+rezultatele analizelor seriilor pentru substanța/substanțele
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+vegetală/vegetale și preparatul/preparatele din plante,
+incluzându-le pe cele pentru substanțe din farmacopei.
+Unde este cazul, trebuie să fie prezentată justificarea
+specificațiilor pentru substanța/substanțele vegetală/vegetale
+și preparatul/preparatele din plante.
+Trebuie să fie prezentate, unde este cazul, informații
+privind standardele de referință sau materialele de referință
+folosite pentru testarea substanței/substanțelor vegetale și
+preparatului/preparatelor din plante.
+Când substanța vegetală sau preparatul din plante
+constituie subiectul unei monografii, solicitantul poate
+depune cerere pentru un certificat de conformitate, care să
+fie acordat de către EDQM.
+2. Medicamente din plante
+În ceea ce privește dezvoltarea formulării, trebuie să fie
+prezentat un rezumat scurt al descrierii dezvoltării
+medicamentului din plante, luându-se în considerare calea
+de administrare și utilizarea propuse. Trebuie să fie
+discutate rezultatele care compară compoziția fitochimică a
+produselor folosite în susținerea datelor bibliografice și
+produsul din plante, unde este cazul, pentru care s-a
+depus cererea.
+5. Medicamente orfane
+În cazul unui medicament orfan, în înțelesul
+Regulamentului nr. 141/2000/CE14) se pot aplica prevederile
+generale din partea a II-a pct. 6 (situații excepționale) din
+prezentele norme și protocoale. Solicitantul trebuie să
+justifice atunci, în rezumatele nonclinice și clinice, motivele
+pentru care nu este posibil să prezinte informații complete
+și trebuie să prezinte o justificare a balanței risc-beneficiu
+pentru medicamentul orfan respectiv.
+Când un solicitant pentru o autorizație de punere pe
+piață pentru un medicament orfan invocă prevederile
+art. 704 alin. (1) din Legea nr. 95/2006 și partea a II-a din
+prezentele norme și protocoale (utilizare medicală bine
+stabilită), pentru folosirea sistematică și documentată a
+substanței implicate, se poate face referire, pe cale de
+excepție, la folosirea acelei substanțe în acord cu
+prevederile prezentului punct.
+PARTEA A IV-A
+Medicamente pentru terapie avansată
+Medicamentele pentru terapie avansată se bazează pe
+procese de fabricație focalizate pe variate biomolecule,
+produse prin transfer de gene și/sau de celule, ale căror
+proprietăți biologice au fost modificate în scopuri
+terapeutice avansate, ca substanțe active sau parte a
+substanțelor active.
+Prezentarea documentației pentru autorizarea de punere
+pe piață pentru aceste produse trebuie să îndeplinească
+formatul cerințelor descrise în partea I a prezentelor norme
+și protocoale și trebuie să se aplice modulele 1—5.
+Pentru OMG-urile eliberate deliberat în mediu trebuie să
+se acorde atenție persistenței acestora în primitor și
+posibilei replicări și/sau modificări a OMG-urilor atunci când
+sunt eliberate în mediu. Informațiile privind riscul pentru
+mediu trebuie să apară în prezentele norme și protocoale,
+la modulul 1.
+14)
+
+JO nr. L. 18 din 22 ianuarie 2000, p. 1.
+
+21
+
+1. Medicamente pentru terapie genică (umane sau
+xenogenice)
+În cadrul prezentelor norme și protocoale, termenul
+medicament pentru terapie genică desemnează un produs
+obținut printr-un set de procese de fabricație folosite la
+transferul realizat in vivo sau ex vivo al unei gene (adică o
+parte de acid nucleic) profilactice, de diagnostic sau
+terapeutice, la celule umane/animale și expresia ei
+subsecventă in vivo. Transferul de gene implică un sistem
+de expresie conținut într-un sistem de cedare, cunoscut
+sub numele de vector, care poate fi de origine virală sau
+de origine nonvirală. Vectorul poate să fie, de asemenea,
+inclus într-o celulă umană sau animală.
+1.1. Diversitatea medicamentelor pentru terapie genică
+
+a) Medicamente pentru terapie genică, bazate pe celule
+alogenice sau xenogenice
+Vectorul este gata preparat și păstrat înaintea
+transferului lui în celule gazdă.
+Celulele au fost obținute anterior și pot fi procesate ca
+o bancă de celule (bancă de colecție sau bancă stabilizată
+obținută din celule primare) cu o viabilitate limitată.
+Celulele modificate genetic de către vector reprezintă o
+substanță activă.
+În scopul obținerii produsului finit pot fi efectuate etape
+suplimentare. În esență, un asemenea medicament este
+destinat administrării la un anumit număr de pacienți.
+b) Medicamente pentru terapie genică, care folosesc
+celule umane autoloage
+Substanța activă este o serie de vector gata preparat și
+păstrat înainte de transferul lui în celule autoloage.
+În scopul obținerii produsului finit pot fi efectuate etape
+suplimentare.
+Aceste produse sunt preparate din celule obținute de la
+un anumit pacient. Celulele sunt apoi modificate genetic
+folosindu-se un vector gata preparat, care conține gena
+corespunzătoare care a fost preparată în avans și care
+constituie substanța activă. Preparatul este reinjectat la
+pacient și este, prin definiție, destinat unui singur pacient.
+Întregul proces de fabricație, de la colectarea celulelor de
+la pacient până la reinjectarea pacientului, trebuie să fie
+considerat ca o singură intervenție.
+c) Administrarea de vectori gata preparați cu inserții de
+material genetic (profilactic, de diagnostic sau terapeutic)
+Substanța activă este o serie de vector gata preparat.
+În scopul obținerii produsului finit pot fi efectuate etape
+suplimentare. Acest tip de medicament este destinat a fi
+administrat la mai mulți pacienți.
+Transferul materialului genetic poate fi efectuat prin
+injectarea directă la primitori a vectorului gata preparat.
+1.2. Cerințe specifice privind modulul 3
+
+Medicamentele pentru terapie genică includ:
+— acid nucleic nud;
+— acid nucleic complex sau vectori nonvirali;
+— vectori virali;
+— celule modificate genetic.
+Ca și pentru alte medicamente, se pot identifica cele
+3 elemente principale ale procesului de fabricație, adică:
+— materiile de start: materiile din care este fabricată
+substanța activă, cum sunt: gene de interes, plasmide de
+
+22
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+expresie, bănci de celule și stocuri de virus sau de vector
+nonviral;
+— substanța activă: vector recombinant, virus, plasmide
+nude sau complexe, celule producătoare de virus, celule
+modificate genetic in vitro;
+— medicament finit: substanța activă formulată în
+ambalajul ei primar final pentru utilizarea medicală dorită.
+Dependent de tipul de medicament pentru terapie genică,
+calea de administrare și condițiile de utilizare pot necesita
+un tratament ex vivo al celulelor pacientului (pct. 1.1 lit. b).
+O atenție specială trebuie acordată următoarelor
+aspecte:
+a) Trebuie furnizate informații privind caracteristicile
+medicamentului pentru terapie genică, incluzând expresia
+lui în populația celulară-țintă. Trebuie furnizate informații
+privind sursa, construcția, caracterizarea și verificarea
+secvenței de codare a genei, incluzând integritatea și
+stabilitatea ei. Separat de gena terapeutică, trebuie
+prezentată secvența completă a altor gene, elemente de
+reglare și construcția principală a vectorului.
+b) Trebuie furnizate informații privind caracterizarea
+vectorului folosit la transferul și administrarea genei.
+Acestea trebuie să includă caracterizarea lui fizico-chimică
+și/sau caracterizarea biologică/imunologică.
+Pentru medicamentele care utilizează un microorganism,
+cum sunt bacteriile sau virusurile, pentru a facilita transferul
+genei (transferul genei biologice), trebuie să fie furnizate
+date privind patogeneza tulpinii parentale și tropismul ei
+pentru țesuturi și tipuri de celule specifice, precum și
+dependența interacțiunii de ciclul celular.
+Pentru medicamentele care utilizează mijloace
+nonbiologice pentru a facilita transferul genei, trebuie să fie
+prezentate proprietățile fizico-chimice ale constituenților,
+individual și în combinație.
+c) Principiile pentru stabilirea și caracterizarea băncii de
+celule sau a lotului de sămânță trebuie să se aplice și
+medicamentelor prin transfer de gene, acolo unde este
+relevant.
+d) Trebuie furnizată sursa celulelor care găzduiesc
+vectorul recombinant.
+Caracteristicile sursei umane, cum sunt vârsta, sexul,
+rezultatele testării microbiologice și virale, criteriile de
+excludere și țara de origine, trebuie să fie susținute cu
+documente.
+Pentru celulele de origine animală trebuie furnizate
+informații detaliate legate de următoarele subiecte:
+— originea animalelor;
+— creșterea și îngrijirea animalelor;
+— animalele transgenice (metode de creație,
+caracterizarea celulelor transgenice, natura genelor de
+inserție);
+— măsurile pentru prevenirea și monitorizarea infecțiilor
+la animalele sursă/donator;
+— testarea agenților infecțioși;
+— facilitățile;
+— controlul materiilor de start și al materiilor prime.
+Descrierea metodologiei colectării celulelor, incluzând
+locația, tipul de țesut, procesul de operare, transport,
+păstrare și trasabilitate, precum și controalele efectuate în
+timpul procesului de colectare trebuie să fie susținute cu
+documente.
+e) Evaluarea siguranței virale, precum și a trasabilității
+produselor de la donator la medicamentul finit sunt o parte
+
+esențială a documentației care trebuie să fie depusă. De
+exemplu, prezența unui virus apt de replicare în stocurile
+de vectori virali competenți inapți de replicare trebuie să fie
+exclusă.
+2. Medicamente pentru terapie celulară somatică
+(umane sau xenogenice)
+În cadrul prezentelor norme și protocoale, prin termenul
+medicamente pentru terapie celulară somatică se înțelege
+folosirea la om a celulelor vii somatice autoloage
+(provenind de la pacientul însuși), alogenice (provenind de
+la altă ființă umană) sau xenogenice (provenind de la
+animale), ale căror caracteristici biologice au fost modificate
+substanțial ca un rezultat al manipulării lor pentru obținerea
+unui efect terapeutic, de diagnostic sau de prevenție prin
+mijloace metabolice, farmacologice și imunologice. Această
+manipulare include expansiunea sau activarea ex vivo a
+populațiilor celulare autoloage (de exemplu, imunoterapia
+adoptivă), folosirea de celule alogenice sau xenogenice
+asociate cu dispozitive medicale folosite ex vivo sau in vivo
+(de exemplu, microcapsule, schele de matrici intrinseci,
+biodegradabile sau nu).
+Cerințe specifice pentru medicamentele pentru terapie
+celulară privitor la modulul 3
+Medicamentele pentru terapie celulară somatică includ:
+— celule manipulate pentru modificarea proprietăților lor
+imunologice, metabolice sau a altor proprietăți funcționale
+ale aspectelor calitative sau cantitative;
+— celule sortate, selectate și manipulate și care suferă
+ulterior un proces de fabricație pentru obținerea
+medicamentului finit;
+— celule manipulate și combinate cu componente
+noncelulare (de exemplu, matrici biologice sau inerte ori
+dispozitive medicale) și care exercită principiul acțiunii
+căreia îi este destinat în medicamentul finit;
+— derivații celulari autologi, exprimați in vitro în condiții
+de cultură specifice;
+— celulele modificate genetic sau manipulate astfel
+pentru a exprima proprietățile funcționale omoloage sau
+nonomoloage, neexprimate anterior.
+Întregul proces de fabricație de la colectarea celulelor
+de la pacient (situația celulelor autoloage) până la
+reinjectarea la pacient trebuie să fie considerat ca o
+singură intervenție.
+Ca și la alte medicamente, sunt identificate cele
+3 elemente ale procesului de fabricație:
+— materii de start: materiile din care este fabricată
+substanța activă, adică organe, țesuturi, secreții sau celule;
+— substanțe active: celule manipulate, lizate celulare,
+celule proliferante și celule folosite în conjuncție cu matrici
+inerte și cu dispozitive medicale;
+— medicamente finite: substanța activă formulată în
+ambalajul ei primar final pentru utilizarea medicală pentru
+care este destinată.
+a) Informații generale privind substanța/substanțele
+active
+Substanțele active din medicamentele pentru terapie
+celulară constau în celule care, ca o consecință a
+procesării in vitro, prezintă proprietăți profilactice, de
+diagnostic sau terapeutice diferite de cele fiziologice sau
+biologice originale.
+Prezenta secțiune trebuie să descrie tipul de celule și
+cultura implicată. Țesuturile, organele sau secrețiile
+biologice din care sunt derivate celulele, precum și natura
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+autologă, alogenică sau xenogenică a donatorului și
+originea lui geografică trebuie să fie prezentate cu
+documente. Trebuie să fie prezentate detaliat colecția de
+celule, prelevarea și păstrarea înainte de procesarea
+ulterioară. Pentru celulele alogenice trebuie să se acorde o
+atenție specială chiar de la prima etapă a procesului, care
+acoperă selecția donatorilor. Trebuie să fie prezentate tipul
+de manipulare efectuat și funcția fiziologică a celulelor care
+sunt folosite ca substanță activă.
+b) Informații referitoare la materiile de start ale
+substanței/substanțelor active.
+1. Celule somatice umane
+Medicamentele pentru terapie celulară somatică umană
+sunt făcute dintr-un număr definit de celule viabile, care
+sunt derivate dintr-un proces de fabricație care pornește fie
+de la nivelul organelor sau țesuturilor prelevate de la o
+ființă umană, fie de la nivelul unui sistem bancă de celule
+bine definit, în care fondul de celule se bazează pe linii
+celulare continue. În cadrul acestui capitol, prin substanță
+activă se înțelege fondul de sămânță al celulelor umane,
+iar prin medicament finit se înțelege fondul de sămânță al
+celulelor umane formulate pentru utilizarea medicală pentru
+care este destinat.
+Materiile de start pentru fiecare etapă a procesului de
+fabricație trebuie să fie susținute în totalitate de
+documente, incluzând aspectele de siguranță virală.
+(1) Organe, țesuturi, lichide biologice și celule de origine
+umană
+Caracteristicile sursei umane, cum ar fi vârsta, sexul,
+starea microbiologică, criteriile de excludere și țara de
+origine trebuie să fie susținute de documente.
+Descrierea prelevării, incluzând locul, tipul, procesul de
+operare, constituirea amestecului, transportul, păstrarea și
+trasabilitatea, precum și controalele efectuate privind
+prelevarea trebuie să fie susținute de documente.
+(2) Sisteme de bănci de celule
+Cerințele relevante descrise în partea I trebuie să se
+aplice pentru prepararea și controlul calității sistemelor
+bănci de celule. În esență, acesta poate fi cazul celulelor
+alogenice sau xenogenice.
+(3) Materiale auxiliare sau dispozitive medicale auxiliare
+Trebuie prezentate informații privind folosirea oricăror
+materii prime (de exemplu, citokine, factori de creștere,
+medii de cultură) sau a unor produse și dispozitive
+medicale auxiliare, de exemplu, dispozitive de sortare
+celulară, polimeri biocompatibili, matrice, fibre, bile în
+termeni de biocompatibilitate, funcționalitate, precum și
+riscul de agenți infecțioși.
+2. Celule somatice animale (xenogenice)
+Trebuie să fie furnizate informații detaliate, legate de
+următoarele elemente:
+— originea animalelor;
+— creșterea și îngrijirea animalelor;
+— animale modificate genetic (metode de creație,
+caracterizarea celulelor transgenice, natura genei inserate
+sau excizate (eliminate);
+— măsuri pentru prevenirea și monitorizarea infecțiilor
+de la animalele sursă/donatoare;
+— testarea pentru agenți infecțioși incluzând
+microorganisme transmise vertical (inclusiv retrovirușii
+endogeni);
+— instalații;
+
+23
+
+— sisteme bănci de celule;
+— controlul materiilor de start și al materiilor prime.
+a) Informații privind procesul de fabricație a
+substanței/substanțelor active și a produsului finit
+Diferitele etape ale procesului de fabricație, cum ar fi
+disocierea organului/țesutului, selecția populației de celule
+de interes, cultura celulară in vitro, transformarea celulară
+fie prin agenți fizico-chimici, fie prin transfer de gene
+trebuie să fie susținute prin documente.
+b) Caracterizarea substanței/substanțelor active
+Trebuie să fie prezentate toate informațiile relevante
+privind caracterizarea populației de celule de interes în
+termenii identității (speciile de origine, profil citogenetic,
+analiza morfologică), puritatea (agenți microbieni adventițiali
+și agenți de contaminare celulari), potența (activitatea
+biologică definită) și conformitatea (teste de cariologie și
+tumorigenicitate) pentru medicamentele cărora le sunt
+destinate.
+c) Dezvoltarea farmaceutică a medicamentului finit
+Separat de metoda specifică de administrare folosită
+(perfuzie intravenoasă, injecție locală, chirurgie de
+transplant), trebuie, de asemenea, furnizate informații
+privind folosirea dispozitivelor medicale auxiliare posibile
+(polimeri biocompatibili, matrice, fibre, bile) în termeni de
+biocompatibilitate și durabilitate.
+d) Trasabilitate
+Trebuie să fie furnizată o schemă detaliată a fluxului,
+care să asigure trasabilitatea produselor de la donator la
+medicamentul finit.
+3. Cerințe specifice pentru medicamente pentru terapie
+genică și terapie celulară somatică (umane sau
+xenogenice) privind modulele 4 și 5
+3.1. Modulul 4
+
+În cazul medicamentelor pentru terapie celulară
+somatică și genică, este recunoscut că cerințele
+convenționale formulate în modulul 4 pentru testarea
+nonclinică a medicamentelor pot să nu fie totdeauna
+corespunzătoare datorită proprietăților biologice și
+structurale unice și diverse ale produselor în discuție,
+incluzând un grad înalt de specificitate a speciilor, a
+subiectului, a barierelor imunologice și diferențelor în
+răspunsurile pleiotropice.
+Rațiunile care spijină dezvoltarea nonclinică și criteriile
+folosite pentru alegerea speciilor și modelelor relevante
+trebuie să fie cuprinse corespunzător în textul din modulul 2.
+Poate fi necesar să se identifice sau să se dezvolte noi
+modele animale în scopul de a ajuta la extrapolarea
+descoperirilor specifice privind criteriile indicative ale
+funcționalității și toxicității la activitatea in vivo a produselor
+la ființele umane. Trebuie să fie prezentată justificarea
+științifică a utilizării acestor modele animale ale bolii în
+vederea susținerii siguranței și a dovedirii conceptului de
+eficacitate.
+3.2. Modulul 5
+
+Eficacitatea medicamentelor pentru terapie avansată
+trebuie să fie demonstrată astfel cum este descris în
+modulul 5. Pentru unele produse și pentru unele indicații
+terapeutice, totuși, s-ar putea să nu fie posibilă realizarea
+studiilor clinice convenționale. Orice deviere de la ghidurile
+existente trebuie justificată în modulul 2.
+
+24
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+Dezvoltarea clinică va avea câteva caracteristici speciale
+datorită naturii complexe și labile a substanțelor active.
+Aceasta necesită considerente suplimentare datorită
+problemelor legate de viabilitatea, proliferarea, migrarea și
+diferențierea celulelor (terapie celulară somatică), din cauza
+circumstanțelor clinice speciale în care sunt utilizate
+produsele sau din cauza modului special de acțiune prin
+expresia genelor (terapie genică somatică).
+Cererea de autorizare de punere pe piață a
+medicamentelor pentru terapie avansată trebuie să
+abordeze riscurile speciale asociate unor astfel de produse,
+care apar din contaminarea potențială cu agenți infecțioși.
+Un accent special trebuie pus atât în etapele inițiale ale
+dezvoltării, pe de o parte, incluzând alegerea donatorilor în
+cazul medicamentelor pentru terapie celulară, cât și pe
+intervenția terapeutică în ansamblul ei, incluzând mânuirea
+corectă și administrarea produsului, pe de altă parte.
+În plus, modulul 5 al cererii trebuie să conțină, unde
+este relevant, date privind măsurile de supraveghere și
+control al funcțiilor și dezvoltării celulelor vii la primitor, de
+prevenire a transmiterii agenților infecțioși la primitor și de
+minimizare a oricăror riscuri potențiale pentru sănătatea
+publică.
+3.2.1. Studii de farmacologie umană și de eficacitate
+Studiile de farmacologie umană trebuie să furnizeze
+informații despre modul de acțiune așteptat, eficacitatea
+așteptată, bazată pe criterii de evaluare justificate,
+biodistribuție, doza adecvată, schema și metodele de
+administrare sau modalitatea de utilizare dorită pentru
+studiile de eficacitate.
+Studiile farmacocinetice convenționale pot să nu fie
+relevante pentru unele medicamente pentru terapie
+avansată. Uneori studiile pe voluntari sănătoși nu sunt
+fezabile și stabilirea dozei și cineticii va fi dificil de
+determinat prin studii clinice. Este necesar, totuși, să se
+studieze distribuția și comportarea in vivo ale produsului,
+incluzând proliferarea și funcția pe termen lung a celulei,
+precum și mărimea, distribuția produsului genic și durata
+expresiei genice dorite. Trebuie să fie folosite teste
+corespunzătoare și, dacă este necesar, dezvoltate pentru
+urmărirea produsului celular sau a celulei care exprimă
+gena dorită în organismul uman și pentru monitorizarea
+funcției celulelor care au fost administrate sau transfectate.
+Evaluarea eficacității și siguranței unui medicament
+pentru terapie avansată trebuie să includă descrierea și
+evaluarea atentă a procedurii terapeutice în ansamblul ei,
+incluzând căile speciale de administrare (cum ar fi
+transfecția celulelor ex vivo, manipularea in vitro sau
+folosirea tehnicilor intervenționale) și testarea posibilelor
+regimuri asociate (incluzând tratament imunosupresiv,
+antiviral, citotoxic).
+Întreaga procedură trebuie să fie testată în studii clinice
+și descrisă în informațiile despre produs.
+3.2.2. Siguranța
+Trebuie să fie luate în considerare problemele de
+siguranță care apar din răspunsul imun la medicamente
+sau la proteine exprimate, din rejecția imună, din
+imunosupresie și din defectarea dispozitivelor de
+imunoizolare.
+Anumite medicamente pentru terapie genică avansată și
+pentru terapie celulară somatică (de exemplu, produse de
+
+terapie celulară xenogenică și anumite produse de transfer
+genic) pot conține particule apte de replicare și/sau agenți
+infecțioși. Poate fi necesar ca pacientul să fie monitorizat
+pentru dezvoltarea unor posibile infecții și/sau sechele
+patologice în timpul fazelor de pre și/sau postautorizare;
+poate fi necesar ca această supraveghere să fie extinsă la
+persoanele care sunt în contact strâns cu pacientul,
+incluzând personalul de îngrijire a sănătății.
+Riscul de contaminare cu potențiali agenți transmisibili
+nu poate fi eliminat în totalitate la utilizarea anumitor
+medicamente pentru terapie celulară somatică și a anumitor
+medicamente de transfer genic. Riscul poate fi minimizat,
+totuși, prin măsuri corespunzătoare care au fost descrise în
+modulul 3.
+Măsurile incluse în procesul de fabricație trebuie să fie
+completate cu metode de testare, procese de control al
+calității și prin metode de supraveghere adecvate care
+trebuie să fie descrise în modulul 5.
+Utilizarea anumitor medicamente pentru terapie celulară
+somatică avansată poate fi limitată, temporar sau
+permanent, la sedii care au expertiză probată prin
+documente și facilități pentru asigurarea unei urmăriri
+specifice a siguranței pacienților. O abordare similară poate
+fi relevantă pentru anumite medicamente pentru terapie
+genică, care sunt asociate cu un risc potențial de agenți
+infecțioși apți de replicare.
+Unde este relevant, trebuie, de asemenea, luate în
+considerare și abordate la depunere aspectele de
+monitorizare pe termen îndelungat pentru dezvoltarea
+complicațiilor tardive.
+Atunci când este cazul, solicitantul trebuie să depună
+un plan detaliat de management al riscului, care să
+acopere datele clinice și de laborator ale pacientului, datele
+epidemiologice care apar și, dacă este relevant, datele de
+arhivă ale mostrelor de țesut de la donator și de la
+primitor. Un astfel de sistem este necesar pentru a asigura
+trasabilitatea medicamentului și răspunsul rapid la
+caracterul suspect al reacțiilor adverse.
+4. Declarație specifică privind medicamentele pentru
+xenotransplant
+Pentru scopurile prezentelor norme și protocoale,
+xenotransplant are înțelesul oricărei proceduri care implică
+transplantarea, implantarea sau perfuzia într-un primitor
+uman a oricăror țesuturi vii ori organe recuperate de la
+animale sau lichide biologice umane, celule, țesuturi ori
+organe care au suferit un contact ex vivo cu celule, țesuturi
+sau cu organe animale nonumane vii.
+O atenție specifică trebuie acordată materiilor de start.
+În această privință, trebuie să fie furnizate informații
+detaliate legate de următoarele elemente, în acord cu
+ghidurile specifice:
+— originea animalelor;
+— creșterea și îngrijirea animalelor;
+— animalele modificate genetic (metode de creație,
+caracterizarea celulelor transgenice, natura genei inserate
+sau excizate (eliminate);
+— măsurile pentru prevenirea și monitorizarea infecțiilor
+la animalele sursă/donator;
+— testarea agenților infecțioși;
+— instalațiile;
+— controlul materiilor de start și al materiilor prime;
+— trasabilitatea.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+25
+
+ACTE ALE CASEI NAȚIONALE DE ASIGURĂRI DE SĂNĂTATE
+CASA NAȚIONALĂ DE ASIGURĂRI DE SĂNĂTATE
+
+ORDIN
+pentru aprobarea utilizării formularelor unice pe țară, fără regim special,
+necesare raportării activității furnizorilor de servicii medicale
+Având în vedere:
+— art. 15 lit. d) din Contractul-cadru privind condițiile acordării asistenței medicale în cadrul sistemului de
+asigurări sociale de sănătate, aprobat prin Hotărârea Guvernului nr. 706/2006;
+— Ordinul ministrului sănătății publice și al președintelui Casei Naționale de Asigurări de Sănătate
+nr. 681/243/2006 pentru aprobarea Normelor metodologice de aplicare a Contractului-cadru privind condițiile acordării
+asistenței medicale în cadrul sistemului de asigurări sociale de sănătate;
+— Referatul Direcției generale planificare și relații cu furnizorii nr. DGA/III/989 din 10 iulie 2006, avizat de
+directorul general al Casei Naționale de Asigurări de Sănătate și aprobat de președintele Casei Naționale de Asigurări de
+Sănătate,
+în temeiul prevederilor art. 281 alin. (2) din titlul VIII îAsigurările sociale de sănătate“ al Legii nr. 95/2006 privind
+reforma în domeniul sănătății,
+președintele Casei Naționale de Asigurări de Sănătate emite următorul ordin:
+Art. 1. — (1) Se aprobă utilizarea formularelor unice pe
+țară, fără regim special, care includ și desfășurătoarele
+necesare raportării activității medicilor din asistența
+medicală primară, în vederea decontării de către casele de
+asigurări de sănătate a activității realizate potrivit
+contractului de furnizare de servicii medicale, conform
+anexelor nr. 1a)—1i).
+(2) Se aprobă utilizarea formularelor unice pe țară, fără
+regim special, care includ și desfășurătoarele necesare
+raportării activității medicilor din asistența medicală
+ambulatorie de specialitate, în vederea decontării de către
+casele de asigurări de sănătate a activității realizate potrivit
+contractului de furnizare de servicii medicale, conform
+anexelor nr. 2a)—2l) și anexei nr. 7 (Scrisoare medicală).
+(3) Se aprobă utilizarea formularelor unice pe țară, fără
+regim special, care includ și desfășurătoarele necesare
+raportării activității medicilor din unitățile sanitare cu paturi,
+în vederea decontării de către casele de asigurări de
+sănătate a activității realizate potrivit contractului de
+furnizare de servicii medicale, conform anexelor nr. 3a)—3h)
+și anexei nr. 7 (Scrisoare medicală).
+(4) Se aprobă utilizarea formularelor unice pe țară, fără
+regim special, care includ și desfășurătoarele necesare
+raportării activității furnizorilor de servicii medicale de
+urgență și transport sanitar, în vederea decontării lunare și
+trimestriale de către casele de asigurări de sănătate a
+activității realizate potrivit contractului de furnizare de
+servicii medicale, conform anexelor nr. 4a)—4d) și anexei
+nr. 7 (Scrisoare medicală).
+(5) Se aprobă utilizarea formularelor unice pe țară, fără
+regim special, care includ și desfășurătoarele necesare
+raportării activității furnizorilor de servicii medicale de îngrijiri
+la domiciliu, în vederea decontării de către casele de
+asigurări de sănătate a activității realizate potrivit
+contractului de furnizare de servicii medicale, conform
+anexelor nr. 5a) și 5b) și anexei nr. 7 (Scrisoare medicală).
+(6) Se aprobă utilizarea formularelor unice pe țară, fără
+regim special, care includ și desfășurătoarele necesare
+
+raportării activității medicilor din asistența medicală de
+recuperare, în vederea decontării de către casele de
+asigurări de sănătate a activității realizate potrivit
+contractului de furnizare de servicii medicale, conform
+anexelor nr. 6a) și 6b) și anexei nr. 7 (Scrisoare medicală).
+(7) Se utilizează formularele tipizate îFactură fiscală“
+fără TVA în vederea decontării de către casele de asigurări
+de sănătate.
+Art. 2. — (1) Anexele nr. 1a)—1i), 2a)—2l), 3a)—3h),
+4a)—4d), 5a), 5b), 6a), 6b) și 7*) fac parte integrantă din
+prezentul ordin.
+(2) Formularele cuprinse în prezentul ordin constituie
+modele-tip.
+Art. 3. — Furnizorii de servicii medicale vor raporta
+serviciile medicale prestate, în vederea decontării acestora
+de către casele de asigurări de sănătate județene și a
+municipiului București, Casa Asigurărilor de Sănătate a
+Apărării, Ordinii Publice, Siguranței Naționale și Autorității
+Judecătorești și de către Casa Asigurărilor de Sănătate a
+Ministerului Transporturilor, Construcțiilor și Turismului,
+potrivit formularelor aprobate prin prezentul ordin.
+Art. 4. — Ordinul președintelui Casei Naționale de
+Asigurări de Sănătate nr. 246/2005 pentru aprobarea
+utilizării formularelor unice pe țară, fără regim special,
+necesare raportării activității furnizorilor de servicii medicale,
+publicat în Monitorul Oficial al României, Partea I, nr. 1.171
+și 1.171 bis din 23 decembrie 2005, cu modificările și
+completările ulterioare, își încetează valabilitatea.
+Art. 5. — Casele de asigurări de sănătate județene și a
+municipiului București, Casa Asigurărilor de Sănătate a
+Apărării, Ordinii Publice, Siguranței Naționale și Autorității
+Judecătorești și Casa Asigurărilor de Sănătate a
+Ministerului Transporturilor, Construcțiilor și Turismului vor
+duce la îndeplinire prevederile prezentului ordin.
+Art. 6. — Prezentul ordin va fi publicat în Monitorul
+Oficial al României, Partea I.
+
+Președintele Casei Naționale de Asigurări de Sănătate,
+Cristian Vlădescu
+București, 17 iulie 2006.
+Nr. 315.
+*) Anexele nr. 1a)—1i), 2a)—2l), 3a)—3h), 4a)—4d), 5a), 5b), 6a), 6b) și 7 sunt reproduse în facsimil.
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+ANEXA Nr. 1a)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+27
+ANEXA Nr. 1b)
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+ANEXA Nr. 1c)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+29
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+ANEXA Nr. 1d)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+31
+ANEXA Nr. 1e)
+
+32
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+33
+
+34
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+ANEXA Nr. 1f)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+35
+
+ANEXA Nr. 1f) bis
+
+36
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+37
+
+38
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+ANEXA Nr. 1g)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+39
+ANEXA Nr. 1h)
+
+40
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+ANEXA Nr. 1i)
+
+ANEXA Nr. 2a)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+41
+
+ANEXA Nr. 2a) bis
+
+42
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+ANEXA Nr. 2b)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+43
+
+ANEXA Nr. 2b) bis
+
+44
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+45
+ANEXA Nr. 2c)
+
+46
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+ANEXA Nr. 2d)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+47
+ANEXA Nr. 2e)
+
+48
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+ANEXA Nr. 2f)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+49
+ANEXA Nr. 2g)
+
+50
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+ANEXA Nr. 2h)
+
+ANEXA Nr. 2i)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+51
+
+ANEXA Nr. 2j)
+
+52
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+ANEXA Nr. 2k)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+53
+
+ANEXA Nr. 2l)
+
+54
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+ANEXA Nr.3a)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+55
+
+56
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+ANEXA Nr. 3a) bis
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+57
+
+58
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+ANEXA Nr. 3b)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+59
+
+ANEXA Nr. 3b) bis
+
+60
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+61
+
+62
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+ANEXA Nr. 3c)
+
+ANEXA Nr. 3d)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+63
+
+64
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+ANEXA Nr. 3e)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+65
+ANEXA Nr. 3f)
+
+ANEXA Nr. 3g)
+
+66
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+67
+
+68
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+ANEXA Nr. 3h)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+69
+
+ANEXA Nr. 4a)
+
+70
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+ANEXA Nr. 4b)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+71
+
+ANEXA Nr. 4c)
+
+72
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+ANEXA Nr. 4d)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+73
+
+ANEXA Nr. 5a)
+
+74
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+ANEXA Nr. 5b)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+75
+
+76
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+ANEXA Nr. 6a)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+77
+
+78
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+ANEXA Nr. 6b)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+79
+ANEXA Nr. 7
+
+80
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 706/17.VIII.2006
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+îMonitorul Oficial“ R.A., Str. Parcului nr. 65, sectorul 1, București; C.U.I. 427282; Atribut fiscal R,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala îUnirea“ București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 318.51.29/150, fax 318.51.15, E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 410.47.30, fax 410.77.36 și 410.47.23
+Tiparul: îMonitorul Oficial“ R.A.
+Monitorul Oficial al României, Partea I, nr. 706/17.VIII.2006 conține 80 de pagini.
+
+Prețul: 5,65 lei
+
+&JUYDGY|118829]
+ISSN 1453—4495
+
+

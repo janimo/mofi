@@ -1,0 +1,1305 @@
+PARTEA
+
+Anul 172 (XVI) — Nr. 739
+
+I
+
+Luni, 16 august 2004
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE BĂNCII NAȚIONALE A ROMÂNIEI
+
+4.
+
+ACTE
+
+ALE
+
+— Regulament privind organizarea și funcționarea
+la Banca Națională a României a Centralei
+Riscurilor Bancare ...................................................
+
+BĂNCII
+
+NAȚIONALE
+
+1–47
+
+A
+
+ROMÂNIEI
+
+BANCA NAȚIONALĂ A ROMÂNIEI
+
+REGULAMENT
+privind organizarea și funcționarea la Banca Națională a României
+a Centralei Riscurilor Bancare
+În temeiul prevederilor art. 2 alin. (2) lit. b), ale art. 24, ale art. 25 alin. (2), ale art. 48 și 49 din Legea
+nr. 312/2004 privind Statutul Băncii Naționale a României,
+Banca Națională a României emite prezentul regulament.
+CAPITOLUL I
+
+României informația de risc bancar și informația despre
+
+Dispoziții generale
+
+fraudele cu carduri pentru scopurile utilizatorilor, în condițiile
+
+SECȚIUNEA 1
+Domeniul de aplicare și definiții
+
+Art. 1. — (1) Obiectul prezentului regulament îl
+constituie organizarea și funcționarea la Banca Națională a
+României a Centralei Riscurilor Bancare (CRB).
+(2) Centrala Riscurilor Bancare este un centru de
+intermediere care gestionează în numele Băncii Naționale a
+
+păstrării secretului bancar.
+Art. 2. — Pentru scopurile prezentului regulament:
+1. Informația de risc bancar este informația care se
+raportează de către instituțiile de credit, se prelucrează și
+se difuzează de Centrala Riscurilor Bancare; informația de
+risc bancar cuprinde datele de identificare a unui debitor,
+persoană fizică sau persoană juridică nonbancară, și
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+operațiunile în lei și în valută prin care instituțiile de credit
+se expun la risc față de acel debitor.
+Aceste operațiuni sunt:
+a) acordarea de credite;
+b) asumarea de angajamente de către instituția de
+credit, în numele debitorului, față de o persoană fizică, o
+persoană juridică nonbancară sau față de o instituție de
+credit din străinătate;
+c) asumarea de angajamente de către instituția de
+credit, în numele debitorului, față de altă instituție de credit
+care funcționează pe teritoriul României.
+2. Informația despre fraudele cu carduri este informația
+raportată de către instituția de credit referitoare la
+încălcarea prevederilor contractuale de către posesorii de
+card de debit și/sau de credit și suma corespunzătoare nu
+este înregistrată la restanțe în propriile evidențe.
+3. Riscul individual este suma valorilor operațiunilor
+prevăzute la pct. 1, raportată la Centrala Riscurilor Bancare
+de o persoană declarantă pentru un debitor, persoană
+fizică sau persoană juridică nonbancară, cu condiția să fie
+egală sau mai mare decât limita de raportare. Riscul
+individual reprezintă expunerea unei instituții de credit față
+de un debitor și se determină de către persoana
+declarantă. Pentru calculul riscului individual se iau în
+considerare atât operațiunile desfășurate de debitor în
+nume propriu, cât și cele în care debitorul este parte
+componentă a unui grup de persoane fizice și/sau juridice,
+care reprezintă un singur debitor.
+Componența grupului de persoane fizice și/sau juridice
+care reprezintă un singur debitor, denumit în continuare
+grup de debitori, se raportează la Centrala Riscurilor
+Bancare. La stabilirea sferei de cuprindere a grupului de
+debitori, instituțiile de credit vor avea în vedere
+următoarele:
+a) criteriile prevăzute în norma privind supravegherea
+solvabilității și expunerilor mari ale instituților de credit,
+pentru includerea persoanelor fizice și/sau juridice în
+categoria un singur debitor;
+b) instituția de credit să înregistreze expunere față de
+cel puțin una dintre persoanele din grup.
+Persoanele fizice care nu îndeplinesc condiția de limită
+de raportare și înregistrează restanțe mai mari de 30 de
+zile se raportează la Centrala Riscurilor Bancare.
+4. Persoana recenzată este debitorul, persoană fizică
+sau persoană juridică nonbancară, înscris în baza de date
+a Centralei Riscurilor Bancare ca urmare a raportării
+acestuia de către persoana declarantă.
+5. Riscul global este suma riscurilor individuale raportate
+de toate persoanele declarante pentru aceeași persoană
+recenzată, mai puțin valoarea angajamentelor asumate de
+instituțiile de credit, în numele persoanei recenzate, față de
+alte instituții de credit care funcționează pe teritoriul
+României [pct. 1 lit. c)]. Riscul global reprezintă expunerea
+întregului sistem bancar din România față de o singură
+
+persoană recenzată și se determină de Centrala Riscurilor
+Bancare.
+6. Persoanele declarante la Centrala Riscurilor Bancare
+sunt:
+— centralele instituțiilor de credit — persoane juridice
+române — pentru toate informațiile de risc bancar și
+informațiile despre fraudele cu carduri colectate din propriile
+evidențe și din cele ale unităților lor teritoriale din România;
+— sucursalele din România ale instituțiilor de credit
+străine — pentru toate informațiile de risc bancar și
+informațiile despre fraudele cu carduri colectate din propriile
+evidențe. Aceste instituții vor comunica în scris direcției
+care coordonează activitatea Centralei Riscurilor Bancare
+opțiunea de raportare a informației referitoare la încadrarea
+debitorilor.
+Persoanele declarante au obligația să completeze
+formularul îFișă de acreditare la CRB a persoanelor
+autorizate să transmită și să recepționeze informații de risc
+bancar și informații despre fraudele cu carduri“ (F1), prin
+care sunt desemnate maximum 3 persoane acreditate la
+Centrala Riscurilor Bancare, conform anexei nr. 1. Această
+fișă va fi întocmită în două exemplare având același
+conținut, cu următoarele destinații:
+— exemplarul 1 va fi transmis în regim confidențial la
+Centrala Riscurilor Bancare;
+— exemplarul 2 va fi păstrat pentru evidențele proprii.
+7. Persoana acreditată este angajatul autorizat de
+conducerea persoanei declarante să transmită la și să
+recepționeze de la Centrala Riscurilor Bancare informații de
+risc bancar și informații despre fraudele cu carduri.
+Accesarea sistemului informatic al Centralei Riscurilor
+Bancare de către persoanele acreditate la Centrala
+Riscurilor Bancare se va face pe bază de nume și parole
+de acces unice, atribuite de Banca Națională a României.
+Fiecare sucursală a persoanelor declarante are drept de
+consultare a bazei de date a Centralei Riscurilor Bancare
+numai dacă conectarea acestora se realizează prin
+intermediul propriei centrale, pe bază de nume și parolă de
+acces unică, atribuite de Banca Națională a României.
+8. Perioada de raportare este intervalul cuprins între
+datele de 1 și 17 ale lunii în care se raportează informația
+de risc bancar aferentă lunii anterioare. Perioada de
+raportare se încheie la data de 17 la ora 18,00.
+În cazul în care data de 17 nu este o zi bancară,
+perioada de raportare se încheie în următoarea zi bancară
+la ora 18,00.
+9. Utilizatorii sunt instituțiile de credit și Banca Națională
+a României.
+SECȚIUNEA a 2-a
+Obligativitatea raportării și structura bazei de date
+a Centralei Riscurilor Bancare
+
+Art. 3. — Fiecare persoană declarantă este obligată să
+raporteze la Centrala Riscurilor Bancare, la termenele și în
+condițiile prevăzute în prezentul regulament, informația de
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+risc bancar pentru fiecare debitor care îndeplinește condiția
+de a fi raportat, respectiv ca instituția de credit să fi
+înregistrat față de acesta un risc individual, precum și
+informația despre fraudele cu carduri constatate.
+Art. 4. — Centrala Riscurilor Bancare organizează și
+gestionează o bază de date care cuprinde:
+a) Registrul central al creditelor (RCC), care conține
+informațiile de risc bancar raportate de persoanele
+declarante, prelucrate și difuzate de către Centrala
+Riscurilor Bancare în vederea valorificării de către utilizatori
+în condițiile păstrării secretului bancar;
+b) Registrul creditelor restante (RCR), care este
+alimentat lunar de Registrul central al creditelor cu
+informații de risc bancar referitoare la persoanele recenzate
+și la creditele restante ale acestora față de întregul sistem
+bancar din România; acesta include și informații despre
+persoanele fizice care nu îndeplinesc condiția de limită de
+raportare și înregistrează restanțe mai mari de 30 de zile;
+c) Registrul grupurilor de debitori (RGD), care este
+alimentat lunar de Registrul central al creditelor cu
+informații despre grupurile de debitori;
+d) Registrul fraudelor cu carduri (RFC), care conține
+informații despre fraudele cu carduri comise de posesorii
+de carduri de debit și/sau de credit.
+
+CAPITOLUL II
+Transmiterea, înscrierea, prelucrarea și difuzarea
+informației de risc bancar și a informației
+despre fraudele cu carduri
+SECȚIUNEA 1
+Transmiterea și înscrierea informației de risc bancar
+și a informației despre fraudele cu carduri în baza de date
+a Centralei Riscurilor Bancare
+
+Art. 5. — Fluxul informațional privind transmiterea și
+înscrierea informației de risc bancar și a informației despre
+fraudele cu carduri în baza de date a Centralei Riscurilor
+Bancare este prezentat în anexa A.
+Art. 6. — În scopul îndeplinirii obligației prevăzute la
+art. 3, persoana declarantă trebuie să transmită la Centrala
+Riscurilor Bancare, lunar, în perioada de raportare,
+informația de risc bancar, folosind în mod obligatoriu
+următoarele proceduri:
+1. Procedura de raportare a debitorilor trebuie folosită în
+cazul raportării pentru prima dată la Centrala Riscurilor
+Bancare a unui debitor de către respectiva persoană
+declarantă sau în cazul în care datele de identificare a
+unor debitori raportați anterior de către aceeași persoană
+declarantă au suferit modificări. Transmiterea informației de
+risc bancar prin această procedură se realizează prin
+utilizarea Formularului de raportare a debitorilor (F2 A).
+Conținutul acestui formular și modul de completare sunt
+prezentate în anexa nr. 2.
+
+3
+
+2. Procedura de raportare a grupurilor de debitori
+trebuie folosită în cazul raportării pentru prima dată la
+Centrala Riscurilor Bancare a unui grup de debitori de
+către persoana declarantă sau în cazul în care datele
+despre grupul raportat anterior de către aceeași persoană
+declarantă au suferit modificări. Transmiterea informației de
+risc bancar prin această procedură se realizează prin
+utilizarea Formularului de raportare a grupurilor de debitori
+(F2 B).
+Conținutul acestui formular și modul de completare sunt
+prezentate în anexa nr. 2.
+3. Procedura de raportare a riscurilor individuale trebuie
+folosită în cazul în care debitorul îndeplinește condiția de a
+fi raportat. Transmiterea informației de risc bancar prin
+această procedură se face utilizându-se Formularul de
+raportare a riscurilor individuale (F3 A).
+Conținutul acestui formular și modul de completare sunt
+prezentate în anexa nr. 3.
+4. Procedura de ștergere a riscurilor trebuie folosită în
+cazul în care un risc raportat anterior nu mai este
+înregistrat în evidențele instituției de credit și debitorul
+respectiv îndeplinește condiția de a fi raportat la Centrala
+Riscurilor Bancare. Raportarea informației de risc bancar
+prin această procedură se face utilizându-se formularul
+F3 A.
+5. Procedura de ștergere a unui debitor trebuie folosită
+în cazul în care un debitor nu mai îndeplinește condiția de
+a fi raportat de către persoana declarantă. Transmiterea
+informației de risc bancar prin această procedură se face
+utilizându-se formularul F2 A.
+6. Procedura de ștergere a unui grup de debitori trebuie
+folosită în cazul în care grupul nu mai există în evidențele
+persoanei declarante. Transmiterea informației de risc
+bancar prin această procedură se face utilizându-se
+formularul F2 B.
+Art. 7. — Informația de risc bancar raportată la Centrala
+Riscurilor Bancare este cea înscrisă în evidențele instituției
+de credit în ultima zi a lunii pentru care se face
+raportarea.
+Art. 8. — Fraudele cu carduri se raportează de către
+persoana declarantă în momentul constatării acestora,
+astfel:
+1. Raportarea fraudelor cu carduri se efectuează de
+către instituția de credit care constată producerea unei
+fraude cu un card de debit sau de credit, de către
+posesorul acestuia. Transmiterea informației se realizează
+prin utilizarea Formularului de raportare a fraudelor cu
+carduri (F3 B).
+Conținutul acestui formular și modul de completare sunt
+prezentate în anexa nr. 3.
+2. Ștergerea unei fraude cu card se efectuează de
+către instituția de credit care constată că informația
+transmisă este eronată; transmiterea acestei informații
+se realizează prin utilizarea formularului Sesizare de
+corecție (F8).
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+Conținutul acestui formular și modul de completare sunt
+prezentate în anexa nr. 8.
+Art. 9. — Banca Națională a României va asigura la
+sediul său central condițiile tehnice care să permită
+înregistrarea, gestionarea și difuzarea cu operativitate, fără
+alterări, pe suport electronic sau pe suport hârtie, după
+caz, a informațiilor de risc bancar și/sau a informației
+privind fraudele cu carduri.
+Art. 10. — (1) Înscrierea în Registrul central al
+creditelor poate fi efectuată dacă informația de risc bancar
+transmisă de către o persoană declarantă îndeplinește
+cumulativ următoarele condiții de validare:
+a) respectă standardele de conținut și modul de
+completare a formularelor prevăzute în prezentul
+regulament;
+b) este în concordanță, conform criteriilor stabilite de
+Centrala Riscurilor Bancare în acest sens, cu informația de
+risc bancar cuprinsă în raportările anterioare.
+(2) Înscrierea în Registrul fraudelor cu carduri poate fi
+efectuată dacă informația privind fraudele cu carduri
+transmisă de către o persoană declarantă respectă
+standardele de conținut și modul de completare a
+formularului prevăzut în prezentul regulament.
+Art. 11. — Centrala Riscurilor Bancare nu poate
+modifica din proprie inițiativă informația de risc bancar
+și/sau informația despre fraudele cu carduri transmisă de
+către persoanele declarante.
+SECȚIUNEA a 2-a
+Organizarea și gestionarea informației de risc bancar
+și a informației despre fraudele cu carduri
+
+Art. 12. — (1) Centrala Riscurilor Bancare asigură
+înregistrarea informațiilor raportate de persoanele declarante
+și prelucrarea acestor informații în scopul obținerii de date
+agregate necesare utilizatorilor.
+(2) Registrul central al creditelor va fi creat, gestionat și
+actualizat conform necesităților proprii ale Centralei
+Riscurilor Bancare, astfel încât să poată evidenția operativ
+informațiile privind:
+— identificarea persoanelor recenzate și evidențierea,
+după caz, a situațiilor speciale, conform Legii nr. 64/1995
+privind procedura reorganizării judiciare și a falimentului,
+republicată, cu modificările și completările ulterioare;
+— riscurile individuale și caracteristicile acestora;
+— riscurile globale și caracteristicile acestora.
+Informațiile de risc bancar înscrise în Registrul central
+al creditelor vor fi actualizate lunar.
+(3) Registrul creditelor restante va fi creat, gestionat și
+actualizat conform necesităților proprii ale Centralei
+Riscurilor Bancare, astfel încât să poată evidenția operativ
+informațiile privind abaterile de la graficele de rambursare a
+creditelor, înregistrate de persoanele recenzate față de
+întregul sistem bancar din România.
+(4) Registrul grupurilor de debitori va fi creat, gestionat
+și actualizat conform necesităților proprii ale Centralei
+
+Riscurilor Bancare, astfel încât să poată evidenția
+informațiile despre grupurile de persoane fizice și/sau
+juridice.
+(5) Registrul fraudelor cu carduri va fi creat, gestionat
+și actualizat conform necesităților proprii ale Centralei
+Riscurilor Bancare, astfel încât să poată evidenția
+informațiile despre fraudele cu carduri comise de către
+posesorii acestora.
+Art. 13. — Informațiile de risc bancar și informațiile
+despre fraudele cu carduri vor fi menținute în Registrul
+creditelor restante și Registrul fraudelor cu carduri pe o
+perioadă de 7 ani de la data înscrierii.
+SECȚIUNEA a 3-a
+Difuzarea informației de risc bancar și a informației
+despre fraudele cu carduri
+
+Art. 14. — Fluxul difuzării informației de risc bancar și
+a informației despre fraudele cu carduri deținute de
+Centrala Riscurilor Bancare către utilizatori este prezentat
+în anexa A.
+Art. 15. — (1) Centrala Riscurilor Bancare transmite
+lunar fiecărei persoane declarante, din proprie inițiativă,
+informația referitoare la riscul global pentru debitorii
+raportați de aceasta în luna respectivă, la restanțele mai
+mari de 30 de zile înregistrate de persoanele fizice, la
+fraudele cu carduri, precum și informații despre incidentele
+de plată ale persoanelor recenzate, utilizând formularul
+îSituația riscului global privind persoanele recenzate“ (F4 A)
+și informația referitoare la grupurile de debitori raportate de
+persoana declarantă în luna respectivă, utilizând formularul
+îSituația grupurilor de debitori“ (F4 C).
+Conținutul acestor formulare și modul de completare
+sunt prezentate în anexa nr. 4.
+(2) Informația despre incidentele de plată este preluată
+din baza de date a Centralei Incidentelor de Plăți care
+funcționează în baza Regulamentului Băncii Naționale a
+României nr. 1/2001 privind organizarea și funcționarea la
+Banca Națională a României a Centralei Incidentelor de
+Plăți, cu modificările și completările ulterioare.
+Art. 16. — (1) Centrala Riscurilor Bancare transmite, la
+cerere, oricărei persoane declarante, informații referitoare la
+creditele restante pe ultimii 7 ani, evidențiate în Registrul
+creditelor restante, pentru oricare debitor raportat de către
+aceasta în luna respectivă, utilizând formularul îSituația
+creditelor restante“ (F4 B).
+Conținutul acestui formular și modul de completare sunt
+prezentate în anexa nr. 4.
+(2) Situația creditelor restante include și informații
+referitoare la riscul global, la fraudele cu carduri, precum și
+informații despre incidentele de plată ale persoanelor
+recenzate.
+Art. 17. — Centrala Riscurilor Bancare transmite, la
+cerere, oricărei persoane declarante informații referitoare la
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+fraudele cu carduri, evidențiate în Registrul fraudelor cu
+carduri, utilizând formularul îSituația fraudelor cu carduri“
+(F4 D).
+Conținutul acestui formular și modul de completare sunt
+prezentate în anexa nr. 4.
+Art. 18. — (1) Orice instituție de credit poate solicita
+Centralei Riscurilor Bancare, prin intermediul propriei
+persoane declarante, informația de risc bancar referitoare
+la orice persoană fizică sau juridică nonbancară,
+respectând prevederile art. 37 din Legea nr. 58/1998, cu
+modificările și completările ulterioare, cu condiția să aibă
+acordul scris al persoanei respective. Nerespectarea acestei
+condiții de către instituția de credit constituie abatere de la
+prevederile prezentului regulament.
+(2) În cazul în care informația de risc bancar solicitată
+de instituția de credit se referă la un debitor raportat de
+aceasta în ultima perioadă de raportare încheiată și/sau în
+cazul în care informația solicitată se referă la fraude cu
+carduri, nu este necesar acordul persoanei recenzate.
+(3) Datele ce pot fi solicitate de instituția de credit sunt:
+— datele referitoare la riscul global înregistrat în
+Registrul central al creditelor în ultima lună, pe numele
+persoanei recenzate;
+— datele referitoare la riscul global și creditele restante
+înregistrate față de întregul sistem bancar în cel mult ultimii
+7 ani, de aceeași persoană recenzată;
+— datele referitoare la fraudele cu carduri în cel mult
+ultimii 7 ani; și/sau
+— datele referitoare la situația grupurilor de debitori
+raportate de fiecare instituție de credit, respectiv riscul
+global și suma restantă aferente grupurilor de debitori
+pentru ultima lună încheiată.
+(4) Datele referitoare la riscul global înregistrat pe
+numele persoanei recenzate, precum și cele referitoare la
+creditele restante includ și informații despre fraudele cu
+carduri, precum și despre incidentele de plată ale
+persoanelor recenzate.
+(5) Formularele folosite pentru solicitarea de informații
+de risc bancar sunt următoarele:
+a) îAcord de consultare a bazei de date a Centralei
+Riscurilor Bancare“ (F5).
+Formularul F5 se va întocmi în trei exemplare, având
+același conținut, cu următoarele destinații:
+— exemplarul 1: rămâne în posesia persoanei care a
+dat acordul;
+— exemplarul 2: se depune la unitatea teritorială a
+instituției de credit care a primit acordul și se arhivează de
+către aceasta;
+— exemplarul 3: se transmite persoanei declarante (sau
+sucursalei instituției de credit — în cazul în care aceasta
+face consultarea bazei de date) în ziua emiterii acordului.
+Conținutul acestui formular și modul de completare sunt
+prezentate în anexa nr. 5.
+b) îCerere de consultare a bazei de date a Centralei
+Riscurilor Bancare“ (F6).
+
+5
+
+Conținutul acestui formular și modul de completare sunt
+prezentate în anexa nr. 6.
+(6) Difuzarea de către Centrala Riscurilor Bancare a
+informației de risc bancar și a informației despre fraudele
+cu carduri se face în termen de cel mult o zi bancară de
+la data primirii cererii de consultare a bazei de date a
+Centralei Riscurilor Bancare.
+Art. 19. — Persoana declarantă este obligată să remită,
+la cerere, oricărei persoane pe care a raportat-o la sau
+despre care a primit informații de la Centrala Riscurilor
+Bancare, ultimele informații de risc bancar și cele despre
+fraudele cu carduri referitoare la persoana respectivă.
+Art. 20. — Directorul coordonator al activității Centralei
+Riscurilor Bancare poate dispune sistarea difuzării
+informației de risc bancar și a informației despre fraudele
+cu carduri deținute de Centrala Riscurilor Bancare, în cazul
+în care accesul la aceasta s-a făcut de către persoane
+neautorizate.
+
+CAPITOLUL III
+Corectarea informației înregistrate în baza de date
+a Centralei Riscurilor Bancare
+SECȚIUNEA 1
+Corectarea erorilor
+
+Art. 21. — (1) Înlocuirea informației de risc bancar
+transmise, care nu a îndeplinit cel puțin una dintre
+condițiile prevăzute la art. 10 alin. (1), și completarea
+informației de risc bancar transmise se pot face în
+perioada de raportare (prin retransmisie) prin utilizarea
+formularelor F2 A, F2 B și F3 A:
+a) ca urmare a sesizării de către Centrala Riscurilor
+Bancare a erorilor, aceasta va transmite persoanei
+declarante, în cel mult o zi bancară de la data primirii
+oricărei raportări, formularul îLista erorilor privind informația
+de risc bancar“ (F7).
+Conținutul acestui formular și modul de completare sunt
+prezentate în anexa nr. 7;
+b) ca urmare a sesizării de către persoana declarantă a
+erorilor și omisiunilor proprii.
+(2) În cazul în care persoana declarantă sesizează erori
+în informația de risc bancar transmisă în cadrul perioadei
+de raportare, aceasta este obligată să transmită la Centrala
+Riscurilor Bancare, în această perioadă, informația de risc
+bancar corectată. Corectarea acestor erori se poate efectua
+și prin utilizarea formularului îSesizare de corecție“.
+(3) În cazul în care persoana declarantă nu efectuează
+corecțiile în perioada de raportare, Centrala Riscurilor
+Bancare va înscrie în Registrul central al creditelor numai
+informația de risc bancar care îndeplinește condițiile
+prevăzute la art. 10 alin. (1) și va completa pe baza
+datelor anterioare informația de risc bancar omisă.
+Art. 22. — Corectarea erorilor din formularele F2 A și
+F3 A care constituie o raportare anterioară se poate face
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+de către persoana declarantă prin utilizarea formularului
+îSesizare de corecție“, astfel:
+a) din inițiativa unei persoane recenzate, atunci când
+aceasta constată existența unor date eronate care au fost
+înregistrate pe numele său ca urmare a raportării lor de
+către instituția de credit pe care persoana recenzată a
+identificat-o ca fiind sursa erorii;
+b) din inițiativa instituției de credit, atunci când aceasta
+constată existența unor date eronate înregistrate în baza
+de date a Centralei Riscurilor Bancare, ca urmare a
+raportării lor de către instituția de credit.
+Art. 23. — (1) Următoarele informații de risc bancar
+existente în baza de date a Centralei Riscurilor Bancare
+pot fi corectate o singură dată prin formularul îSesizare de
+corecție“:
+— informația referitoare la încadrarea debitorului;
+— datele aferente unui credit (credit reeșalonat, suma
+datorată utilizată și neutilizată, suma restantă și serviciul
+datoriei).
+(2) A doua corectură este permisă numai dacă:
+— aceasta se face ca urmare a unei solicitări de
+conciliere; și
+— prima corectură nu s-a făcut ca urmare a unei
+solicitări de conciliere.
+Art. 24. — (1) Informația de risc bancar care a fost
+transmisă eronat sau care și-a schimbat conținutul și care
+nu poate fi corectată de către instituția de credit
+(denumirea și codul de identificare a debitorului) poate fi
+modificată în urma transmiterii pe suport hârtie, la Centrala
+Riscurilor Bancare, a formularului îSesizare de corecție“,
+însoțit de documentele justificative.
+(2) Celelalte informații de risc bancar pot fi corectate ori
+de câte ori este nevoie sau ca urmare a unei solicitări de
+conciliere.
+(3) O informație conciliată nu mai poate fi nici
+modificată, nici conciliată.
+Art. 25. — (1) În cazul în care informația de risc
+bancar conținută în formularul îSesizare de corecție“
+îndeplinește condițiile prevăzute la art. 10 alin. (1), Centrala
+Riscurilor Bancare efectuează înscrierea acesteia în cel
+mult o zi bancară de la data primirii sesizării.
+(2) În cazul în care informația de risc bancar conținută
+în formularul îSesizare de corecție“ nu îndeplinește cel
+puțin una dintre condițiile prevăzute la art. 10 alin. (1),
+Centrala Riscurilor Bancare nu efectuează înscrierea
+acesteia.
+Art. 26. — Informația de risc bancar corectă, transmisă
+la Centrala Riscurilor Bancare prin formularul îSesizare de
+corecție“, este cea înscrisă în evidențele instituției de credit
+în ultima zi a lunii la care se referă.
+Art. 27. — (1) Corectarea informației despre fraudele cu
+carduri transmise prin utilizarea formularului F3 B se poate
+face o singură dată, utilizându-se formularul îSesizare de
+corecție“ (cu excepția județului, care poate fi corectat de
+câte ori este nevoie).
+
+(2) A doua corectură este permisă numai dacă:
+— aceasta se face ca urmare a unei solicitări de
+conciliere; și
+— prima corectură nu s-a făcut ca urmare a unei
+solicitări de conciliere.
+(3) O informație conciliată nu mai poate fi nici
+modificată prin formularul îSesizare de corecție“, nici
+conciliată.
+SECȚIUNEA a 2-a
+Procedura de conciliere
+
+Art. 28. — Orice persoană recenzată care contestă
+corectitudinea unor date înregistrate în baza de date a
+Centralei Riscurilor Bancare pe numele său, fără a
+cunoaște instituția de credit — sursă a erorii, poate solicita
+instituției de credit care i-a remis informația de risc bancar
+și/sau informația despre fraudele cu carduri declanșarea
+procedurii de conciliere în cel mult o zi bancară de la
+consultarea bazei de date a Centralei Riscurilor Bancare.
+Art. 29. — Etapele procedurii de conciliere sunt
+următoarele:
+— etapa 1: emiterea formularului îCerere de conciliere“
+(F9) de către persoana recenzată și acceptarea cererii de
+către instituția de credit.
+Conținutul acestui formular și modul de completare sunt
+prezentate în anexa nr. 9.
+Formularul F9 se va întocmi în trei exemplare, având
+același conținut, cu următoarele destinații:
+— exemplarul 1 rămâne în posesia persoanei care a
+emis cererea;
+— exemplarul 2 se depune la unitatea teritorială a
+instituției de credit care inițiază procedura de conciliere și
+se arhivează de către aceasta;
+— exemplarul 3 se transmite persoanei declarante;
+— etapa a 2-a: transmiterea la Centrala Riscurilor
+Bancare, de către unitatea teritorială a instituției de credit,
+prin persoana declarantă, a conținutului formularului îCerere
+de conciliere“ în cel mult o zi bancară de la data
+acceptării acesteia;
+— etapa a 3-a: transmiterea de către Centrala Riscurilor
+Bancare a informației de risc bancar și/sau a informației
+despre fraudele cu carduri, conținută în formularul îCerere
+de conciliere“, către persoana declarantă care a raportat-o;
+— etapa a 4-a: verificarea de către persoana declarantă
+a informației de risc bancar și/sau a informației despre
+fraudele cu carduri supuse concilierii;
+— etapa a 5-a: transmiterea rezultatului verificării de
+către persoana declarantă în termen de maximum două
+zile bancare de la primirea de la Centrala Riscurilor
+Bancare a informației de risc bancar și/sau a informației
+despre fraudele cu carduri supuse concilierii.
+În cazul în care verificarea a evidențiat existența unei
+informații eronate de risc bancar și/sau a unei informații
+eronate despre fraudele cu carduri raportate anterior,
+persoana declarantă transmite rezultatul verificării și
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+corectează erorile prin emiterea formularului îSesizare de
+corecție“, în condițiile respectării prevederilor art. 23 și 27.
+Persoana declarantă este obligată să transmită la
+Centrala Riscurilor Bancare, în maximum 5 zile bancare de
+la primirea de la aceasta a datelor supuse concilierii,
+documentul care să certifice rezultatul verificării;
+— etapa a 6-a: transmiterea de către Centrala Riscurilor
+Bancare, persoanei declarante a instituției de credit care a
+inițiat concilierea, a rezultatului verificării informației de risc
+bancar. Instituția de credit este obligată să pună la
+dispoziție persoanei recenzate rezultatul în maximum o zi
+bancară de la data primirii acestuia de la Centrala
+Riscurilor Bancare.
+
+CAPITOLUL IV
+Dispoziții finale
+SECȚIUNEA 1
+Limita de raportare
+
+Art. 30. — (1) Limita de raportare, în funcție de care
+instituțiile de credit transmit la Centrala Riscurilor Bancare
+riscul individual al unui debitor, este de 200.000.000 (două
+sute milioane) lei.
+(2) Suma reprezentând limita de raportare se modifică
+prin ordin al guvernatorului Băncii Naționale a României.
+
+7
+
+baza de date a Centralei Riscurilor Bancare în luna
+curentă și pentru care aceasta pune la dispoziție îSituația
+riscului global privind persoanele recenzate“;
+b) comision calculat în funcție de numărul de interogări
+efectuate cu acordul debitorilor potențiali:
+— 1.000.000 (un milion) lei pentru instituțiile de credit
+care au efectuat interogări pentru toți debitorii noi cărora li
+s-au acordat credite în luna curentă;
+— 2.000.000 (două milioane) lei pentru instituțiile de
+credit care au efectuat interogări pentru cel puțin 50% din
+debitorii noi cărora li s-au acordat credite în luna curentă;
+— 3.000.000 (trei milioane) lei pentru instituțiile de credit
+care au efectuat interogări pentru mai puțin de 50% din
+debitorii noi cărora li s-au acordat credite în luna curentă.
+Art. 33. — În situația în care unei instituții de credit i
+se retrage autorizația de funcționare de către Banca
+Națională a României, comisionul reținut va fi proporțional
+cu numărul de zile lucrătoare cât a funcționat ca instituție
+de credit în luna pentru care se percepe comisionul.
+Art. 34. — Cuantumul comisioanelor se va actualiza
+prin ordin al guvernatorului Băncii Naționale a României.
+Art. 35. — Sumele provenite din comisioane sunt
+folosite de Banca Națională a României pentru acoperirea
+cheltuielilor de funcționare și dezvoltare a Centralei
+Riscurilor Bancare.
+SECȚIUNEA a 4-a
+
+SECȚIUNEA a 2-a
+Arhivarea
+
+Art. 31. — Orice document conținând informația de risc
+bancar și informația despre fraudele cu carduri raportată la
+și primită de la Centrala Riscurilor Bancare se arhivează
+pe o perioadă de 5 ani la instituțiile de credit.
+SECȚIUNEA a 3-a
+Comisioane
+
+Art. 32. — Pentru serviciile de informare prestate de
+Centrala Riscurilor Bancare se percepe fiecărei instituții de
+credit conectate la Rețeaua de Comunicații Interbancare un
+comision lunar compus după cum urmează:
+a) comision calculat în funcție de numărul de debitori
+din baza de date a Centralei Riscurilor Bancare în luna
+curentă:
+— 18.000.000 (optsprezece milioane) lei pentru
+instituțiile de credit care au mai puțin de 500 debitori intrați
+în baza de date a Centralei Riscurilor Bancare în luna
+curentă și pentru care aceasta pune la dispoziție îSituația
+riscului global privind persoanele recenzate“;
+— 23.000.000 (douăzeci și trei milioane) lei pentru
+instituțiile de credit care au între 500 și 1.000 debitori
+intrați în baza de date a Centralei Riscurilor Bancare în
+luna curentă și pentru care aceasta pune la dispoziție
+îSituația riscului global privind persoanele recenzate“;
+— 25.000.000 (douăzeci și cinci milioane) lei pentru
+instituțiile de credit care au peste 1.000 debitori intrați în
+
+Răspunderi și sancțiuni
+
+Art. 36. — Persoanele declarante răspund pentru
+veridicitatea și integritatea informației de risc bancar și a
+informației despre fraudele cu carduri transmise la Centrala
+Riscurilor Bancare.
+Art. 37. — (1) Nerespectarea prevederilor prezentului
+regulament se sancționează cu amendă astfel:
+a) neraportarea lunară de către instituțiile de credit la
+Centrala Riscurilor Bancare se sancționează cu amendă de
+50.000.000 lei;
+b) netransmiterea de către instituțiile de credit a
+rezultatului verificării informației de risc bancar și/sau a
+informației despre fraudele cu carduri conținute în
+formularul îCerere de conciliere“, în cadrul termenului
+prevăzut la art. 29 etapa a 5-a primul alineat, se
+sancționează cu amendă de 5.000.000 lei/zi de întârziere,
+dar nu mai mult de 20.000.000 lei;
+c) netransmiterea de către instituțiile de credit a
+documentului care să certifice rezultatul verificării informației
+de risc bancar și/sau a informației despre fraudele cu
+carduri conținute în formularul îCerere de conciliere“, în
+termenul prevăzut la art. 29 etapa a 5-a ultimul alineat, se
+sancționează cu amendă de 5.000.000 lei/zi de întârziere,
+dar nu mai mult de 20.000.000 lei;
+d) netransmiterea de către instituțiile de credit la
+Centrala Riscurilor Bancare a informației de risc bancar
+referitoare la debitorii care îndeplinesc condiția de a fi
+raportați și netransmiterea informațiilor referitoare la
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+grupurile de debitori, precum și transmiterea informației de
+risc bancar eronate, existentă în baza de date a Centralei
+Riscurilor Bancare, se sancționează cu amendă de
+5.000.000 lei dacă se identifică 20 debitori/grupuri
+neraportați/neraportate, respectiv raportați/raportate eronat;
+pentru fiecare debitor sau grup neraportat, precum și
+pentru cei raportați eronat identificați peste numărul de 20
+se adaugă la suma menționată câte 250.000 lei; informația
+de risc bancar eronată se referă la codul de identificare a
+debitorului, codul situației speciale, credit reeșalonat, suma
+datorată utilizată și neutilizată, suma restantă, codul
+serviciului datoriei, data scadenței, încadrarea debitorului și
+componența grupurilor de debitori;
+e) solicitarea de către instituțiile de credit a informațiilor
+de risc bancar fără acordul persoanei la care se referă
+informațiile respective se sancționează cu amendă de la
+5.000.000 lei la 10.000.000 lei.
+(2) Încălcările disciplinei bancare prevăzute la alin. (1)
+lit. a)—c) se constată de către direcția din Banca Națională
+a României care coordonează activitatea Centralei
+Riscurilor Bancare.
+(3) Încălcările disciplinei bancare prevăzute la alin. (1)
+lit. d)—e) se constată de către persoanele din cadrul
+Direcției supraveghere, anume împuternicite de Consiliul de
+administrație al Băncii Naționale a României.
+Art. 38. — Sancțiunile se aplică de conducerea
+executivă a Băncii Naționale a României, iar sumele
+aferente se virează la bugetul de stat.
+Art. 39. — Cuantumul amenzilor suportate de instituțiile
+de credit pentru nerespectarea prevederilor prezentului
+regulament se va actualiza prin ordin al guvernatorului
+Băncii Naționale a României.
+SECȚIUNEA a 5-a
+Alte dispoziții
+
+Art. 40. — Anexa A și anexele nr. 1—9*) fac parte
+integrantă din prezentul regulament.
+Art. 41. — Din proprie inițiativă, precum și la solicitarea
+instituțiilor de credit, Centrala Riscurilor Bancare poate să
+
+presteze și alte servicii referitoare la difuzarea de informații
+de risc bancar.
+Art. 42. — Informațiile de risc bancar transmise la și
+primite de la Centrala Riscurilor Bancare au caracter
+confidențial.
+Art. 43. — Centrala Riscurilor Bancare nu își asumă
+nici o responsabilitate în cazul valorificării, cu încălcarea
+prevederilor legale, a informației de risc bancar și a
+informației despre fraudele cu carduri de către instituțiile de
+credit.
+Art. 44. — Persoanele declarante au obligația să
+furnizeze Centralei Riscurilor Bancare orice informație
+solicitată de aceasta în scopul desfășurării propriei
+activități.
+Art. 45. — (1) Lichidatorul desemnat de tribunal pentru
+gestionarea instituției de credit aflate în proces de lichidare
+judiciară este obligat să transmită lunar la Centrala
+Riscurilor Bancare informațiile de risc bancar referitoare la
+debitorii care îndeplinesc condiția de raportare, cu
+respectarea prevederilor prezentului regulament. Lichidatorul
+transmite informațiile de risc bancar în format electronic
+sau pe suport hârtie.
+(2) Centrala Riscurilor Bancare nu are obligația de a
+transmite lichidatorului desemnat informațiile din formularul
+îSituația riscului global privind persoanele recenzate“.
+Art. 46. — (1) Prezentul regulament se publică în
+Monitorul Oficial al României, Partea I, și intră în vigoare
+la data de 1 septembrie 2004.
+(2) La data intrării în vigoare a prezentului regulament
+se abrogă Regulamentul Băncii Naționale a României
+nr. 1/1999 privind organizarea și funcționarea la Banca
+Națională a României a Centralei Riscurilor Bancare,
+publicat în Monitorul Oficial al României, Partea I, nr. 614
+din 16 decembrie 1999, cu modificările și completările
+ulterioare, Ordinul guvernatorului Băncii Naționale a
+României nr. 27/2000, publicat în Monitorul Oficial al
+României, Partea I, nr. 19 din 20 ianuarie 2000, precum și
+orice alte dispoziții contrare.
+
+GUVERNATORUL BĂNCII NAȚIONALE A ROMÂNIEI,
+
+MUGUR ISĂRESCU
+
+București, 7 aprilie 2004.
+Nr. 4.
+
+*) Anexa A și anexele nr. 1—9 sunt reproduse în facsimil.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+9
+
+ANEXA A
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+ANEXA Nr. 1
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+11
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+ANEXA Nr. 2
+
+12
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+13
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+15
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+17
+
+ANEXA Nr. 3
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+19
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+20
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+21
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+22
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+23
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+ANEXA Nr. 4
+
+24
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+25
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+27
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+29
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+31
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+32
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+33
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+34
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+35
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+36
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+37
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+ANEXA Nr. 5
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+38
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+39
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+ANEXA Nr. 6
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+40
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+41
+
+ANEXA Nr. 7
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+42
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+43
+
+ANEXA Nr. 8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+44
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+45
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+ANEXA Nr. 9
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+46
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 739/16.VIII.2004
+
+47
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+P R E Ț U R I L E
+
+publicațiilor legislative pentru anul 2004
+— pe suport tradițional —
+Nr.
+crt.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+
+Valoarea
+abonamentului
+anual
+— lei —
+
+Trim. I
+
+Trim. II
+
+Trim. III
+
+română
+română,
+
+9.875.000
+1.780.000
+
+2.468.750
+—
+
+2.715.750
+—
+
+2.987.500
+—
+
+3.286.000
+—
+
+maghiară
+
+7.900.000
+12.500.000
+2.530.000
+10.680.000
+9.850.000
+2.500.000
+4.150.000
+
+1.975.000
+3.125.000
+632.500
+2.670.000
+2.462.500
+625.000
+1.038.000
+
+1.975.000
+3.125.000
+632.500
+2.670.000
+2.462.500
+687.500
+1.141.500
+
+1.975.000
+3.125.000
+632.500
+2.670.000
+2.462.500
+756.500
+1.255.500
+
+1.975.000
+3.125.000
+632.500
+2.670.000
+2.462.500
+832.500
+1.381.500
+
+625.000
+470.000
+2.500.000
+
+—
+—
+—
+
+—
+—
+—
+
+—
+—
+—
+
+—
+—
+—
+
+Denumirea publicației
+
+Monitorul Oficial, Partea I, în limba
+Monitorul Oficial, Partea I, în limba
+numere bis*)
+Monitorul Oficial, Partea I, în limba
+Monitorul Oficial, Partea a II-a
+Monitorul Oficial, Partea a III-a
+Monitorul Oficial, Partea a IV-a
+Monitorul Oficial, Partea a VI-a
+Colecția Legislația României
+Colecția de hotărâri ale Guvernului
+acte normative
+Repertoriul actelor normative
+Decizii ale Curții Constituționale
+Ediții trilingve
+
+și alte
+
+Valoarea
+abonamentului trimestrial
+— lei —
+Trim. IV
+
+**) Cu excepția numerelor bis în care se publică acte cu un volum extins și care interesează doar un număr restrâns de utilizatori.
+
+Toate publicațiile Regiei Autonome îMonitorul Oficial“ sunt purtătoare de T.V.A. în cotă de 9%, aceasta fiind
+inclusă în prețul de abonament.
+Pentru siguranța clienților, abonamentele la publicațiile Regiei Autonome îMonitorul Oficial“ se pot efectua prin
+următorii difuzori:
+u COMPANIA NAȚIONALĂ îPOȘTA ROMÂNĂ“ — S.A. — prin oficiile sale poștale
+u RODIPET — S.A.
+— prin toate filialele
+u INTERPRESS SPORT — S.R.L.
+— București, str. Hristo Botev nr. 6
+(telefon/fax: 313.85.07; 313.85.08; 313.85.09)
+u PRESS EXPRES — S.R.L.
+— Otopeni, str. Flori de Câmp nr. 9
+(telefon/fax: 221.05.37; 0745.133.712)
+u M.T. PRESS IMPEX — S.R.L.
+— București, bd. Basarabia nr. 256
+(telefon/fax: 255.48.15; 255.48.16)
+u INFO EUROTRADING — S.A.
+— București, Splaiul Independenței nr.202A
+(telefon/fax: 212.73.54)
+u ACTA LEGIS — S.R.L.
+— București, str. Banul Udrea nr. 10,
+(telefon/fax: 411.91.79)
+u CURIER PRESS — S.A.
+— Brașov, str. Traian Grozăvescu nr. 7
+(telefon/fax: 0268/47.05.96)
+u MIMPEX — S.R.L.
+— Hunedoara, str. Ion Creangă nr. 2, bl. 2, ap. 1
+(telefon/fax: 0254/71.92.43)
+u CALLIOPE — S.R.L.
+— Ploiești, str. Candiano Popescu nr. 36
+(telefon/fax: 0244/51.40.52, 0244/51.48.01)
+u ASTOR-MED — S.R.L.
+— Iași, str. Sucidava nr. 2, bl. U2, sc. C, ap. 2
+(telefon/fax: 0232/27.91.76, 0232/25.84.27)
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+Regia Autonomă îMonitorul Oficial“, Str. Parcului nr. 65, sectorul 1, București,
+cont nr. 2511.1—12.1/ROL Banca Comercială Română — S.A. — Sucursala îUnirea“ București
+și nr. 5069427282 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 224.09.71/150, fax 225.00.43, E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 410.47.30, tel./fax 410.77.36 și 410.47.23
+Tiparul: Regia Autonomă îMonitorul Oficial“
+Monitorul Oficial al României, Partea I, nr. 739/16.VIII.2004 conține 48 de pagini.
+
+Prețul de vânzare 50.500 lei
+
+ISSN 1453—4495
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+

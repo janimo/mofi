@@ -1,0 +1,831 @@
+Anul 172 (XVI) — Nr. 1.101
+
+PARTEA
+
+I
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+Joi, 25 noiembrie 2004
+
+SUMAR
+
+Nr.
+
+Pagina
+LEGI ȘI DECRETE
+
+506.
+
+946.
+
+834.
+
+Pagina
+
+835. — Decret privind conferirea Semnului onorific
+În Serviciul Patriei pentru maiștri militari și subofițeri
+din Serviciul de Protecție și Pază ...........................
+
+— Lege privind prelucrarea datelor cu caracter
+personal și protecția vieții private în sectorul
+comunicațiilor electronice ..........................................
+
+7
+
+1–5
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+
+— Decret pentru promulgarea Legii privind
+prelucrarea datelor cu caracter personal și
+protecția vieții private în sectorul comunicațiilor
+electronice...................................................................
+
+6
+
+— Decret privind conferirea Semnului onorific
+În Serviciul Patriei pentru ofițeri din Serviciul de
+Protecție și Pază.......................................................
+
+6
+
+LEGI
+
+Nr.
+
+ȘI
+
+1.538. — Ordin al ministrului sănătății privind modificarea
+Metodologiei pentru desfășurarea concursului de
+rezidențiat în medicină, medicină dentară și
+farmacie, sesiunea 19 decembrie 2004, aprobată
+prin Ordinul ministrului sănătății nr. 758/2004, cu
+modificările ulterioare ................................................
+
+7–8
+
+DECRETE
+
+PARLAMENTUL ROMÂNIEI
+CAMERA DEPUTAȚILOR
+
+SENATUL
+
+LEGE
+privind prelucrarea datelor cu caracter personal și protecția vieții private
+în sectorul comunicațiilor electronice
+Parlamentul României adoptă prezenta lege.
+ARTICOLUL 1
+Dispoziții generale
+
+(1) Prezenta lege stabilește condițiile specifice de
+garantare a dreptului la protecția vieții private în privința
+prelucrării datelor cu caracter personal în sectorul
+comunicațiilor electronice.
+
+(2) Prevederile prezentei legi se aplică furnizorilor de
+rețele publice de comunicații electronice și furnizorilor de
+servicii de comunicații electronice destinate publicului,
+precum și furnizorilor de servicii cu valoare adăugată și
+furnizorilor de registre ale abonaților care, în cadrul
+activității lor comerciale, prelucrează date cu caracter
+personal.
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 1.101/25.XI.2004
+
+(3) Prevederile prezentei legi se completează cu
+prevederile Legii nr. 677/2001 pentru protecția persoanelor
+cu privire la prelucrarea datelor cu caracter personal și
+libera circulație a acestor date.
+(4) Prezenta lege nu se aplică prelucrărilor de date cu
+caracter personal efectuate:
+a) în cadrul activităților în domeniul apărării naționale și
+securității naționale, desfășurate în limitele și cu restricțiile
+stabilite de lege;
+b) în cadrul activităților de combatere a infracțiunilor și
+de menținere a ordinii publice, precum și în cadrul altor
+activități în domeniul dreptului penal, desfășurate în limitele
+și cu restricțiile stabilite de lege.
+ARTICOLUL 2
+Definiții
+
+(1) În înțelesul prezentei legi, următorii termeni se
+definesc după cum urmează:
+a) utilizator — orice persoană fizică ce beneficiază de
+un serviciu de comunicații electronice destinat publicului,
+fără a avea în mod necesar calitatea de abonat al acestui
+serviciu;
+b) date de trafic — orice date prelucrate în scopul
+transmiterii unei comunicări printr-o rețea de comunicații
+electronice sau în scopul facturării contravalorii acestei
+operațiuni;
+c) date de localizare — orice date prelucrate într-o rețea
+de comunicații electronice, care indică poziția geografică a
+echipamentului terminal al utilizatorului unui serviciu de
+comunicații electronice destinat publicului;
+d) comunicare — orice informație schimbată sau
+transmisă între un număr determinat de participanți prin
+intermediul unui serviciu de comunicații electronice destinat
+publicului; aceasta nu include informația transmisă
+publicului printr-o rețea de comunicații electronice ca parte
+a unui serviciu de programe audiovizuale, în măsura în
+care nu poate fi stabilită o legătură între informația în
+cauză și abonatul sau utilizatorul identificabil care o
+primește;
+e) apel — conexiunea stabilită prin intermediul unui
+serviciu de telefonie destinat publicului, care permite
+comunicarea bidirecțională în timp real;
+f) serviciu cu valoare adăugată — orice serviciu care
+necesită prelucrarea datelor de trafic sau a datelor de
+localizare, în alte scopuri decât transmiterea comunicării ori
+facturarea contravalorii acestei operațiuni;
+g) poștă electronică — serviciul care constă în
+transmiterea printr-o rețea publică de comunicații
+electronice a unor mesaje în format text, voce, sunet sau
+imagine, care pot fi stocate în rețea sau în echipamentul
+terminal al destinatarului până la recepționarea de către
+destinatar.
+(2) În cuprinsul prezentei legi sunt, de asemenea,
+aplicabile definițiile prevăzute la art. 3 lit. a), b), c) și i) din
+Legea nr. 677/2001, art. 2 lit. a), b), c) și h) din
+Ordonanța Guvernului nr. 34/2002 privind accesul la
+rețelele publice de comunicații electronice și la
+infrastructura asociată, precum și interconectarea acestora,
+aprobată cu modificări și completări prin Legea
+nr. 527/2002, art. 2 alin. (1) lit. b) din Ordonanța de
+urgență a Guvernului nr. 79/2002 privind cadrul general de
+reglementare a comunicațiilor, aprobată cu modificări și
+completări prin Legea nr. 591/2002, art. 1 pct. 1 și 8 din
+Legea nr. 365/2002 privind comerțul electronic, cu
+modificările ulterioare, și la art. 2 alin. (1) lit. c) din Legea
+nr. 304/2003 pentru serviciul universal și drepturile
+utilizatorilor cu privire la rețelele și serviciile de comunicații
+electronice.
+
+ARTICOLUL 3
+Măsuri de securitate
+
+(1) Furnizorul unui serviciu de comunicații electronice
+destinat publicului are obligația de a lua toate măsurile
+tehnice și organizatorice adecvate în vederea garantării
+securității serviciului. În ceea ce privește securitatea rețelei,
+dacă este necesar, furnizorul serviciului de comunicații
+electronice va lua măsurile de securitate respective
+împreună cu furnizorul rețelei publice de comunicații
+electronice. Măsurile adoptate trebuie să garanteze un nivel
+de securitate proporțional cu riscul existent, având în
+vedere posibilitățile tehnice de ultimă oră și costurile
+implementării acestor măsuri.
+(2) Autoritatea Națională de Reglementare în
+Comunicații, denumită în continuare ANRC, stabilește
+condițiile în care furnizorii trebuie să își îndeplinească
+obligația prevăzută la alin. (1).
+(3) În cazul existenței unui risc determinat de încălcare
+a securității rețelei, furnizorul unui serviciu de comunicații
+electronice destinat publicului este obligat:
+a) să informeze abonații asupra existenței acestui risc,
+precum și asupra posibilelor consecințe ce decurg;
+b) să informeze abonații asupra posibilităților de
+remediere;
+c) să informeze abonații asupra costurilor probabile
+privind înlăturarea riscului.
+ARTICOLUL 4
+Confidențialitatea comunicărilor
+
+(1) Confidențialitatea comunicărilor transmise prin
+intermediul rețelelor publice de comunicații electronice și a
+serviciilor de comunicații electronice destinate publicului,
+precum și confidențialitatea datelor de trafic aferente sunt
+garantate.
+(2) Ascultarea, înregistrarea, stocarea și orice altă formă
+de interceptare ori supraveghere a comunicărilor și a
+datelor de trafic aferente sunt interzise, cu excepția
+cazurilor următoare:
+a) se realizează de utilizatorii care participă la
+comunicarea respectivă;
+b) utilizatorii care participă la comunicarea respectivă
+și-au dat, în prealabil, consimțământul scris cu privire la
+efectuarea acestor operațiuni;
+c) se realizează de autoritățile competente, în condițiile
+legii.
+(3) Prevederile alin. (1) și (2) nu aduc atingere
+posibilității de a efectua stocarea tehnică necesară, în
+scopul transmiterii comunicării, în condițiile respectării
+confidențialității.
+(4) Prevederile alin. (1) și (2) nu aduc atingere
+posibilității de a efectua înregistrări autorizate, în condițiile
+legii, ale comunicărilor și datelor de trafic aferente, atunci
+când acestea se realizează în cadrul unor practici
+profesionale licite, în scopul de a furniza proba unui act
+comercial sau a unei comunicări realizate în scopuri
+comerciale.
+(5) Utilizarea unei rețele de comunicații electronice în
+scopul stocării de informații în echipamentul terminal al
+unui abonat sau utilizator ori al obținerii accesului la
+informația stocată în acest mod este permisă numai cu
+îndeplinirea, în mod cumulativ, a următoarelor condiții:
+a) abonatului sau utilizatorului în cauză i s-au furnizat
+informații clare și complete, în conformitate cu prevederile
+art. 12 din Legea nr. 677/2001, între altele cu privire la
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 1.101/25.XI.2004
+scopul în care se efectuează stocarea sau accesul la
+informația stocată;
+b) abonatului sau utilizatorului în cauză i s-a oferit
+posibilitatea de a refuza stocarea sau accesul la informația
+stocată.
+(6) Prevederile alin. (5) nu aduc atingere posibilității de
+a efectua stocarea sau accesul tehnic în următoarele
+cazuri:
+a) atunci când aceste operațiuni sunt realizate în scopul
+exclusiv al efectuării sau facilitării transmiterii unei
+comunicări printr-o rețea de comunicații electronice;
+b) atunci când aceste operațiuni sunt strict necesare
+pentru furnizarea unui serviciu al societății informaționale,
+solicitat expres de abonat sau utilizator.
+ARTICOLUL 5
+Datele de trafic
+
+(1) Datele de trafic referitoare la abonați și utilizatori,
+prelucrate și stocate de către furnizorul unei rețele publice
+de comunicații electronice sau de către furnizorul unui
+serviciu de comunicații electronice destinat publicului,
+trebuie să fie șterse sau transformate în date anonime
+atunci când nu mai sunt necesare la transmiterea unei
+comunicări, cu excepția situațiilor prevăzute la alin. (2), (3)
+și (5).
+(2) Prelucrarea datelor de trafic efectuată în scopul
+facturării abonaților sau al stabilirii obligațiilor de plată
+pentru interconectare este permisă doar până la împlinirea
+unui termen de 3 ani de la data scadenței obligației de
+plată corespunzătoare.
+(3) Furnizorul unui serviciu de comunicații electronice
+destinat publicului poate prelucra datele prevăzute la
+alin. (1), în vederea comercializării serviciilor sale sau a
+furnizării de servicii cu valoare adăugată, numai în măsura
+și pe durata necesară comercializării, respectiv furnizării
+acestor servicii, și numai cu consimțământul expres
+prealabil al abonatului sau utilizatorului la care se referă
+datele respective. Abonatul sau, după caz, utilizatorul își
+poate retrage oricând consimțământul exprimat cu privire la
+prelucrarea datelor de trafic.
+(4) În cazurile prevăzute la alin. (2) și (3), furnizorul
+serviciului de comunicații electronice destinat publicului este
+obligat să informeze abonatul sau utilizatorul cu privire la
+categoriile de date de trafic care sunt prelucrate și la
+durata prelucrării acestora. În cazul prevăzut la alin. (3),
+această informare trebuie să aibă loc anterior obținerii
+consimțământului abonatului sau utilizatorului.
+(5) Prelucrarea datelor de trafic în condițiile alin. (1)—(4)
+poate fi efectuată numai de către persoanele care
+acționează sub autoritatea furnizorilor de rețele publice de
+comunicații electronice sau de servicii de comunicații
+electronice destinate publicului, având ca atribuții facturarea
+ori gestionarea traficului, relațiile cu clienții, detectarea
+fraudelor, comercializarea serviciilor de comunicații
+electronice sau furnizarea serviciilor cu valoare adăugată,
+și este permisă numai în măsura în care este necesară
+pentru îndeplinirea acestor atribuții.
+(6) Prevederile alin. (1)—(3) și (5) nu aduc atingere
+posibilității autorităților competente de a avea acces la
+datele de trafic, în condițiile legii, în scopul soluționării
+litigiilor, în special a celor referitoare la interconectare sau
+la facturare.
+
+3
+
+ARTICOLUL 6
+Facturarea detaliată
+
+(1) Abonații primesc facturi nedetaliate.
+(2) Emiterea facturilor detaliate se face la cererea
+abonaților, cu respectarea dreptului la viață privată al
+utilizatorilor apelanți și al abonaților apelați.
+(3) Informațiile minime prezentate în cadrul facturilor
+detaliate sunt stabilite de ANRC.
+ARTICOLUL 7
+Prezentarea și restricționarea identității liniei apelante
+și a liniei conectate
+
+(1) În cazul în care este oferită prezentarea identității
+liniei apelante, furnizorul serviciului de comunicații
+electronice destinat publicului are obligația de a pune la
+dispoziție utilizatorului apelant pentru fiecare apel, precum
+și abonatului apelant pentru fiecare linie, printr-un mijloc
+simplu și gratuit, posibilitatea de a ascunde identitatea liniei
+apelante, indiferent de țara de destinație a apelului.
+(2) În cazul în care este oferită prezentarea identității
+liniei apelante, furnizorul serviciului de comunicații
+electronice destinat publicului are obligația de a pune la
+dispoziție abonatului apelat, printr-un mijloc simplu și, în
+limitele unei utilizări rezonabile, gratuit, posibilitatea de a
+ascunde identitatea liniei apelante pentru apelurile primite,
+indiferent de țara de origine a acestora.
+(3) În cazul în care este oferită prezentarea identității
+liniei apelante, când prezentarea identității liniei apelante se
+face înainte de începerea convorbirii, furnizorul serviciului
+de comunicații electronice destinat publicului are obligația
+de a pune la dispoziție abonatului apelat, printr-un mijloc
+simplu, posibilitatea de a respinge apelurile primite pentru
+care identitatea liniei apelante a fost ascunsă de utilizatorul
+sau abonatul apelant, indiferent de țara de origine a
+apelurilor.
+(4) În cazul în care este oferită prezentarea identității
+liniei conectate, furnizorul serviciului de comunicații
+electronice destinat publicului are obligația de a pune la
+dispoziție abonatului apelat, printr-un mijloc simplu și
+gratuit, posibilitatea de a ascunde identitatea liniei
+conectate față de utilizatorul apelant, indiferent de țara de
+origine a apelurilor.
+(5) În cazul în care este oferită prezentarea identității
+liniei apelante sau a liniei conectate, furnizorii de servicii
+de comunicații electronice destinate publicului au obligația
+de a informa publicul în acest sens, inclusiv cu privire la
+disponibilitatea mijloacelor de ascundere a identității sau de
+respingere a apelurilor prevăzute la alin. (1)—(4).
+(6) Prevederile prezentului articol se aplică în cazul
+abonaților conectați la comutatoare digitale și, acolo unde
+este tehnic posibil și nu se presupune un efort economic
+disproporționat, în cazul abonaților conectați la comutatoare
+analogice.
+ARTICOLUL 8
+Datele de localizare, altele decât datele de trafic
+
+(1) Prelucrarea datelor de localizare, altele decât datele
+de trafic, referitoare la utilizatorii sau abonații rețelelor
+publice de comunicații electronice sau ai serviciilor de
+comunicații electronice destinate publicului, atunci când este
+posibilă, este permisă numai în unul dintre următoarele
+cazuri:
+a) datele în cauză sunt transformate în date anonime;
+b) cu consimțământul expres prealabil al utilizatorului
+sau abonatului la care se referă datele respective, în
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 1.101/25.XI.2004
+
+măsura și pentru durata necesare furnizării unui serviciu cu
+valoare adăugată;
+c) atunci când serviciul cu valoare adăugată cu funcție
+de localizare are ca scop transmiterea unidirecțională și
+nediferențiată a unor informații către utilizatori.
+(2) Furnizorul serviciului de comunicații electronice
+destinat publicului are obligația de a pune la dispoziție
+utilizatorului sau abonatului, anterior obținerii consimțământului acestuia, în conformitate cu prevederile alin. (1)
+lit. b), informații referitoare la:
+a) tipul de date de localizare, altele decât datele de
+trafic, care vor fi prelucrate;
+b) scopurile și durata prelucrării acestor date;
+c) eventuala transmitere a datelor către un terț, în
+scopul furnizării serviciului cu valoare adăugată.
+(3) Utilizatorii sau abonații care își dau consimțământul
+în vederea prelucrării datelor în conformitate cu prevederile
+alin. (1) lit. b) au dreptul de a-și retrage oricând
+consimțământul exprimat cu privire la prelucrarea datelor
+sau de a refuza temporar prelucrarea datelor în cauză
+pentru fiecare conectare la rețea sau pentru fiecare
+transmitere a unei comunicări. Furnizorul serviciului de
+comunicații electronice destinat publicului are obligația de a
+pune la dispoziție utilizatorilor sau abonaților un procedeu
+simplu și gratuit pentru exercitarea acestor drepturi.
+(4) Prelucrarea datelor de localizare, altele decât datele
+de trafic, în condițiile alin. (1)—(3), poate fi efectuată
+numai de către persoanele care acționează sub autoritatea
+furnizorului rețelei publice de comunicații electronice sau al
+serviciului de comunicații electronice destinat publicului ori
+a terțului furnizor de servicii cu valoare adăugată și trebuie
+să se limiteze numai la ceea ce este necesar pentru
+furnizarea serviciului cu valoare adăugată.
+ARTICOLUL 9
+Excepții
+
+(1) Furnizorul unei rețele publice de comunicații
+electronice sau al unui serviciu de comunicații electronice
+destinat publicului poate deroga de la prevederile art. 7
+referitoare la oferirea posibilității de ascundere a identității
+liniei apelante, astfel:
+a) temporar, în urma cererii unui abonat privind
+depistarea sursei unor apeluri abuzive; în acest caz datele
+care permit identificarea abonatului apelant vor fi păstrate
+și puse la dispoziție de către furnizorul rețelei publice de
+comunicații electronice sau al serviciului de comunicații
+electronice destinat publicului, în condițiile legii;
+b) pentru fiecare linie, în vederea soluționării de către
+serviciile specializate de intervenție recunoscute în condițiile
+legii, precum poliție, pompieri sau ambulanță, a situațiilor
+ce le sunt semnalate prin apeluri de urgență.
+(2) În cazul prevăzut la alin. (1) lit. b), furnizorul unei
+rețele publice de comunicații electronice sau al unui
+serviciu de comunicații electronice destinat publicului poate
+deroga și de la prevederile art. 8, referitoare la obținerea
+consimțământului abonatului sau utilizatorului cu privire la
+prelucrarea datelor de localizare.
+(3) Derogările prevăzute la alin. (1) și (2) sunt permise
+în condițiile stabilite de Avocatul Poporului, cu consultarea
+ANRC.
+(4) Prevederile prezentului articol se aplică în cazul
+abonaților conectați la comutatoare digitale și, acolo unde
+este tehnic posibil și nu se presupune un efort economic
+
+disproporționat, în cazul abonaților conectați la comutatoare
+analogice.
+ARTICOLUL 10
+Redirecționarea automată a apelului
+
+(1) Furnizorul rețelei publice de comunicații electronice
+sau, după caz, al serviciului de comunicații electronice
+destinat publicului are obligația de a pune la dispoziție
+fiecărui abonat un mijloc simplu și gratuit de a bloca
+redirecționarea automată de către un terț a apelurilor către
+echipamentul terminal al abonatului respectiv.
+(2) Prevederile prezentului articol se aplică în cazul
+abonaților conectați la comutatoare digitale și, acolo unde
+este tehnic posibil și nu se presupune un efort economic
+disproporționat, în cazul abonaților conectați la comutatoare
+analogice.
+ARTICOLUL 11
+Registrele abonaților
+
+(1) Persoanele care pun la dispoziția publicului registre
+ale abonaților în formă scrisă sau electronică sau care
+furnizează servicii de informații privind abonații au obligația
+de a informa abonații asupra scopului întocmirii acestor
+registre în care pot fi incluse datele lor cu caracter
+personal, precum și asupra oricăror alte posibilități de
+utilizare, bazate pe funcții de căutare integrate registrelor
+în formă electronică. Informarea este gratuită și se
+realizează înainte ca abonații să fie incluși în registrele
+respective.
+(2) Persoanele prevăzute la alin. (1) au obligația de a
+oferi în mod gratuit abonaților următoarele posibilități:
+a) de a decide dacă datele lor cu caracter personal,
+precum și care dintre acestea vor fi sau nu incluse într-un
+registru public al abonaților;
+b) de a verifica, rectifica sau elimina datele lor cu
+caracter personal incluse într-un registru al abonaților.
+(3) Persoanele prevăzute la alin. (1) pot utiliza
+registrele publice ale abonaților în alt scop decât pentru
+simpla căutare a datelor de contact, pe baza numelui și,
+dacă este necesar, a unui număr limitat de alți parametri,
+numai cu consimțământul expres prealabil al tuturor
+abonaților ce figurează în aceste registre.
+(4) Prevederile alin. (1) și (2) se aplică în mod
+corespunzător și abonaților persoane juridice în privința
+includerii datelor care permit identificarea acestora în
+registrele publice ale abonaților.
+ARTICOLUL 12
+Comunicările nesolicitate
+
+(1) Este interzisă efectuarea de comunicări comerciale
+prin utilizarea unor sisteme automate de apelare care nu
+necesită intervenția unui operator uman, prin fax ori prin
+poșta electronică sau prin orice altă metodă care folosește
+serviciile de comunicații electronice destinate publicului, cu
+excepția cazului în care abonatul vizat și-a exprimat în
+prealabil consimțământul expres pentru a primi asemenea
+comunicări.
+(2) Fără a aduce atingere prevederilor alin. (1), dacă o
+persoană fizică sau juridică obține în mod direct adresa de
+poștă electronică a unui client, cu ocazia vânzării către
+acesta a unui produs sau serviciu, în conformitate cu
+prevederile Legii nr. 677/2001, persoana fizică sau juridică
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 1.101/25.XI.2004
+în cauză poate utiliza adresa respectivă, în scopul
+efectuării de comunicări comerciale referitoare la produse
+sau servicii similare pe care acea persoană le
+comercializează, cu condiția de a oferi în mod clar și
+expres clienților posibilitatea de a se opune printr-un mijloc
+simplu și gratuit unei asemenea utilizări, atât la obținerea
+adresei de poștă electronică, cât și cu ocazia fiecărui
+mesaj, în cazul în care clientul nu s-a opus inițial.
+(3) În toate cazurile este interzisă efectuarea prin poștă
+electronică de comunicări comerciale în care identitatea
+reală a persoanei în numele și pe seama căreia sunt
+făcute este ascunsă sau în care nu se specifică o adresă
+valabilă la care destinatarul să poată transmite solicitarea
+sa referitoare la încetarea efectuării unor asemenea
+comunicări.
+(4) Prevederile alin. (1) și (3) se aplică în mod
+corespunzător și abonaților persoane juridice.
+ARTICOLUL 13
+Regim sancționator
+
+(1) Constituie contravenții următoarele fapte:
+a) neîndeplinirea obligației prevăzute la art. 3 alin. (1),
+în condițiile stabilite potrivit art. 3 alin. (2);
+b) neîndeplinirea obligației de informare prevăzute la
+art. 3 alin. (3);
+c) nerespectarea prevederilor art. 4 alin. (2) referitoare
+la interdicția interceptării și supravegherii comunicărilor și
+datelor de trafic aferente;
+d) nerespectarea condițiilor prevăzute la art. 4 alin. (5);
+e) nerespectarea prevederilor art. 5 referitoare la
+prelucrarea datelor de trafic;
+f) nerespectarea condițiilor de emitere a facturilor
+stabilite potrivit art. 6;
+g) încălcarea obligațiilor referitoare la disponibilitatea
+mijloacelor de ascundere a identității sau de respingere a
+apelurilor, precum și la informarea publicului, prevăzute la
+art. 7;
+h) nerespectarea prevederilor art. 8, referitoare la
+prelucrarea datelor de localizare, altele decât datele de
+trafic;
+i) nerespectarea prevederilor art. 9, referitoare la
+condițiile în care se poate deroga de la prevederile art. 7
+sau 8;
+j) încălcarea obligațiilor referitoare la posibilitatea de a
+bloca redirecționarea automată a apelurilor, prevăzute la
+art. 10;
+k) neîndeplinirea obligațiilor referitoare la întocmirea
+registrelor abonaților, prevăzute la art. 11;
+l) nerespectarea prevederilor art. 12, referitoare la
+comunicările nesolicitate.
+(2) Contravențiile prevăzute la alin. (1) lit. a)—j) și l) se
+sancționează cu amendă de la 50.000.000 lei la
+1.000.000.000 lei, iar pentru societățile comerciale cu o
+
+5
+
+cifră de afaceri de peste 50.000.000.000 lei, prin derogare
+de la dispozițiile Ordonanței Guvernului nr. 2/2001 privind
+regimul juridic al contravențiilor, aprobată cu modificări și
+completări prin Legea nr. 180/2002, cu modificările
+ulterioare, cu amendă în cuantum de până la 2% din cifra
+de afaceri.
+(3) Contravenția prevăzută la alin. (1) lit k), precum și
+contravenția prevăzută la alin. (1) lit. h), săvârșite prin
+nerespectarea obligației prevăzute la art. 8 alin. (1) lit. b),
+se sancționează cu amendă de la 300.000.000 lei la
+1.000.000.000 lei, iar pentru societățile comerciale cu o
+cifră de afaceri de peste 50.000.000.000 lei, prin derogare
+de la dispozițiile Ordonanței Guvernului nr. 2/2001,
+aprobată cu modificări și completări prin Legea
+nr. 180/2002, cu modificările ulterioare, cu amendă în
+cuantum de până la 2% din cifra de afaceri.
+(4) Contravențiile prevăzute la alin. (1) lit. a), b), f), g)
+și j) se constată de personalul de control împuternicit în
+acest scop al ANRC, iar sancțiunile se aplică, prin rezoluție
+scrisă, de către președintele ANRC.
+(5) Constatarea contravențiilor prevăzute la alin. (1)
+lit. c), d), e), h), i), k) și l) și aplicarea sancțiunilor se
+efectuează de personalul de control împuternicit în acest
+scop al Avocatului Poporului, în condițiile Legii
+nr. 677/2001.
+(6) În măsura în care prin prezenta lege nu se prevede
+altfel, contravențiilor prevăzute la alin. (1) li se aplică
+prevederile Ordonanței Guvernului nr. 2/2001, aprobată cu
+modificări și completări prin Legea nr. 180/2002, cu
+modificările ulterioare.
+ARTICOLUL 14
+Dispoziții tranzitorii și finale
+
+(1) Prevederile art. 11 nu se aplică în cazul registrelor
+abonaților întocmite sau comercializate în formă scrisă ori
+în formă electronică accesibilă off-line înaintea intrării în
+vigoare a prezentei legi.
+(2) Pe data intrării în vigoare a prezentei legi se abrogă
+Legea nr. 676/2001 privind prelucrarea datelor cu caracter
+personal și protecția vieții private în sectorul
+telecomunicațiilor, publicată în Monitorul Oficial al României,
+Partea I, nr. 800 din 14 decembrie 2001, cu modificările
+ulterioare.
+ARTICOLUL 15
+Transpunerea unor acte normative comunitare
+
+Prezenta lege transpune Directiva 2002/58/CE a
+Parlamentului European și a Consiliului privind prelucrarea
+datelor cu caracter personal și protecția vieții private în
+sectorul comunicațiilor electronice, publicată în Jurnalul
+Oficial al Comunităților Europene nr. L 201 din 31 iulie
+2002.
+
+Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 și ale art. 76 alin. (2) din
+Constituția României, republicată.
+PREȘEDINTELE CAMEREI DEPUTAȚILOR
+
+PREȘEDINTELE SENATULUI
+
+VALER DORNEANU
+
+NICOLAE VĂCĂROIU
+
+București, 17 noiembrie 2004.
+Nr. 506.
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 1.101/25.XI.2004
+PREȘEDINTELE ROMÂNIEI
+
+DECRET
+pentru promulgarea Legii privind prelucrarea datelor
+cu caracter personal și protecția vieții private
+în sectorul comunicațiilor electronice
+În temeiul prevederilor art. 77 alin. (1) și ale art. 100 alin. (1) din
+Constituția României, republicată,
+Președintele României
+
+d e c r e t e a z ă:
+
+Articol unic. — Se promulgă Legea privind prelucrarea datelor cu
+caracter personal și protecția vieții private în sectorul comunicațiilor
+electronice și se dispune publicarea acestei legi în Monitorul Oficial al
+României, Partea I.
+PREȘEDINTELE ROMÂNIEI
+
+ION ILIESCU
+București, 15 noiembrie 2004.
+Nr. 946.
+
+PREȘEDINTELE ROMÂNIEI
+
+DECRET
+privind conferirea Semnului onorific În Serviciul Patriei
+pentru ofițeri din Serviciul de Protecție și Pază
+În temeiul prevederilor art. 94 lit. a) și ale art. 100 din Constituția României, republicată, precum și ale art. 4
+alin. (1), ale art. 10 pct. 3 și ale art. 11 pct. IX.3 din Legea nr. 29/2000 privind sistemul național de decorații al
+României, cu modificările ulterioare,
+la propunerea directorului Serviciului de Protecție și Pază,
+Președintele României
+
+d e c r e t e a z ă:
+
+Art. 1 — Pe data de 1 decembrie 2004 se conferă
+Semnul onorific În Serviciul Patriei, pentru 15 ani de
+activitate în domeniile apărării, ordinii publice și siguranței
+naționale, pentru rezultate meritorii în îndeplinirea atribuțiilor
+și în pregătirea profesională, ofițerilor prevăzuți în anexa
+nr. 1*) la prezentul decret.
+Art. 2. — Pe data de 1 decembrie 2004 se conferă
+Semnul onorific În Serviciul Patriei, pentru 20 de ani de
+activitate în domeniile apărării, ordinii publice și siguranței
+
+naționale, pentru rezultate meritorii în îndeplinirea atribuțiilor
+și în pregătirea profesională, ofițerilor prevăzuți în anexa
+nr. 2*) la prezentul decret.
+Art. 3. — Pe data de 1 decembrie 2004 se conferă
+Semnul onorific În Serviciul Patriei, pentru 25 de ani de
+activitate în domeniile apărării, ordinii publice și siguranței
+naționale, pentru rezultate meritorii în îndeplinirea atribuțiilor
+și în pregătirea profesională, ofițerilor prevăzuți în anexa
+nr. 3*) la prezentul decret.
+
+PREȘEDINTELE ROMÂNIEI
+
+ION ILIESCU
+În temeiul art. 100 alin. (2) din
+Constituția României, republicată,
+contrasemnăm acest decret.
+PRIM-MINISTRU
+
+ADRIAN NĂSTASE
+București, 25 octombrie 2004.
+Nr. 834.
+*) Anexele nr. 1—3 se comunică instituțiilor interesate.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 1.101/25.XI.2004
+
+7
+
+PREȘEDINTELE ROMÂNIEI
+
+DECRET
+privind conferirea Semnului onorific În Serviciul Patriei
+pentru maiștri militari și subofițeri din Serviciul de Protecție și Pază
+În temeiul prevederilor art. 94 lit. a) și ale art. 100 din Constituția României, republicată, precum și ale art. 4
+alin. (1), ale art. 10 pct. 4 și ale art. 11 pct. IX.4 din Legea nr. 29/2000 privind sistemul național de decorații al
+României, cu modificările ulterioare,
+la propunerea directorului Serviciului de Protecție și Pază,
+Președintele României
+
+d e c r e t e a z ă:
+
+Art. 1. — Pe data de 1 decembrie 2004 se conferă
+Semnul onorific În Serviciul Patriei, pentru 15 ani de
+activitate în domeniile apărării, ordinii publice și siguranței
+naționale, pentru rezultate meritorii în îndeplinirea atribuțiilor
+și în pregătirea profesională, subofițerilor prevăzuți în anexa
+nr. 1*) la prezentul decret.
+Art. 2. — Pe data de 1 decembrie 2004 se conferă
+Semnul onorific În Serviciul Patriei, pentru 20 de ani de
+activitate în domeniile apărării, ordinii publice și siguranței
+
+naționale, pentru rezultate meritorii în îndeplinirea atribuțiilor
+și în pregătirea profesională, maiștrilor militari și subofițerilor
+prevăzuți în anexa nr. 2*) la prezentul decret.
+Art. 3. — Pe data de 1 decembrie 2004 se conferă
+Semnul onorific În Serviciul Patriei, pentru 25 de ani de
+activitate în domeniile apărării, ordinii publice și siguranței
+naționale, pentru rezultate meritorii în îndeplinirea atribuțiilor
+și în pregătirea profesională, maistrului militar și subofițerilor
+prevăzuți în anexa nr. 3*) la prezentul decret.
+
+PREȘEDINTELE ROMÂNIEI
+
+ION ILIESCU
+În temeiul art. 100 alin. (2) din
+Constituția României, republicată,
+contrasemnăm acest decret.
+PRIM-MINISTRU
+
+ADRIAN NĂSTASE
+București, 25 octombrie 2004.
+Nr. 835.
+*) Anexele nr. 1—3 se comunică instituțiilor interesate.
+
+ACTE
+ALE
+
+ALE
+
+ORGANELOR
+
+ADMINISTRAȚIEI
+
+DE
+
+SPECIALITATE
+
+PUBLICE
+
+CENTRALE
+
+MINISTERUL SĂNĂTĂȚII
+
+ORDIN
+privind modificarea Metodologiei pentru desfășurarea concursului de rezidențiat în medicină,
+medicină dentară și farmacie, sesiunea 19 decembrie 2004,
+aprobată prin Ordinul ministrului sănătății nr. 758/2004, cu modificările ulterioare
+Văzând Referatul Direcției resurse umane, formare profesională, concursuri și examene nr. O.B./13.499/2004,
+în temeiul dispozițiilor înscrise în Hotărârea Guvernului nr. 743/2003 privind organizarea și funcționarea Ministerului
+Sănătății, cu modificările și completările ulterioare,
+ministrul sănătății emite următorul ordin:
+Art. 1. — Metodologia pentru desfășurarea concursului
+de rezidențiat în medicină, medicină dentară și farmacie,
+sesiunea 19 decembrie 2004, aprobată prin Ordinul
+ministrului sănătății nr. 758 din 14 iunie 2004, publicat în
+
+Monitorul Oficial al României, Partea I, nr. 719 din
+10 august 2004, modificat prin Ordinul ministrului sănătății
+nr. 1.210/2004, publicat în Monitorul Oficial al României,
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 1.101/25.XI.2004
+
+Partea I, nr. 901 din 4 octombrie 2004, se modifică conform
+anexei care face parte integrantă din prezentul ordin.
+Art. 2. — Direcția resurse umane, formare profesională,
+concursuri și examene va duce la îndeplinire prevederile
+
+prezentului ordin.
+Art. 3. — Prezentul ordin se publică în Monitorul Oficial
+al României, Partea I.
+
+Ministrul sănătății,
+Ovidiu Brînzan
+București, 23 noiembrie 2004.
+Nr. 1.538.
+
+ANEXĂ
+
+1. La capitolul I îDispoziții generale“, punctul 1 va avea următorul cuprins:
+îMinisterul Sănătății organizează concurs național de intrare în rezidențiat de medicină,
+medicină dentară și farmacie la data de 19 decembrie 2004. Concursul se va desfășura în
+următoarele centre universitare:
+— Centrul Universitar București
+— grupa specialităților chirurgicale și grupa
+medicină dentară
+— Centrul Universitar Cluj-Napoca
+— grupa specialităților medicale
+— Centrul Universitar Craiova
+— grupa medicină de familie
+— Centrul Universitar Târgu Mureș
+— grupa farmacie
+— Centrul Universitar Timișoara
+— grupa medicină de laborator“
+2. În tot cuprinsul textului Metodologiei pentru desfășurarea concursului de rezidențiat în
+medicină, medicină dentară și farmacie, sesiunea 19 decembrie 2004, referirile la Centrul
+Universitar Iași se anulează.
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+Regia Autonomă îMonitorul Oficial“, Str. Parcului nr. 65, sectorul 1, București,
+IBAN: RO75RNCB5101000000120001 Banca Comercială Română — S.A. — Sucursala îUnirea“ București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 224.09.71/150, fax 225.00.43, E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 410.47.30, tel./fax 410.77.36 și 410.47.23
+Tiparul: Regia Autonomă îMonitorul Oficial“
+Monitorul Oficial al României, Partea I, nr. 1.101/25.XI.2004 conține 8 pagini.
+
+Prețul de vânzare 9.500 lei
+
+ISSN 1453—4495
+
+

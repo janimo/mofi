@@ -1,0 +1,955 @@
+Anul XIV Ñ Nr. 360
+
+PARTEA
+
+I
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+
+Miercuri, 29 mai 2002
+
+SUMAR
+
+Nr.
+
+Pagina
+
+Ñ Ordin al ministrului industriei și resurselor privind aprobarea Normei de metrologie legalã CEE
+”NML CEE-71/349 Ñ Calibrarea rezervoarelor
+navelor fluviale și de coastã,,...................................
+
+ACTE
+ALE
+
+ALE
+
+Pagina
+
+110. Ñ Ordin al ministrului industriei și resurselor privind desemnarea ISCIRÑCERT pentru a realiza
+evaluarea conformitãții în domeniul recipientelor
+simple sub presiune..................................................
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+92.
+
+Nr.
+
+1Ð4
+
+4Ð5
+
+2.043. Ñ Ordin al ministrului culturii și cultelor privind
+aprobarea Regulamentului de organizare și
+funcționare a Comisiei Naționale a Monumentelor
+Istorice........................................................................
+
+5Ð8
+
+ORGANELOR
+
+ADMINISTRAÞIEI
+
+DE
+
+SPECIALITATE
+
+PUBLICE
+
+CENTRALE
+
+MINISTERUL INDUSTRIEI ȘI RESURSELOR
+
+ORDIN
+privind aprobarea Normei de metrologie legalã CEE ”NML CEE-71/349,,
+Calibrarea rezervoarelor navelor fluviale și de coastã
+Ministrul industriei și resurselor,
+având în vedere prevederile art. 26 din Hotãrârea Guvernului nr. 1.055/2001 privind condițiile de introducere pe
+piațã a mijloacelor de mãsurare,
+în baza art. 3 lit. c) din Hotãrârea Guvernului nr. 193/2002 privind organizarea și funcționarea Biroului Român de
+Metrologie Legalã,
+în temeiul Hotãrârii Guvernului nr. 19/2001 privind organizarea și funcționarea Ministerului Industriei și Resurselor,
+cu modificãrile ulterioare,
+emite urmãtorul ordin:
+Art. 1. Ñ Se aprobã Norma de metrologie legalã CEE
+”NML CEE-71/349 Ñ Calibrarea rezervoarelor navelor
+fluviale și de coastã,,, prevãzutã în anexa care face parte
+integrantã din prezentul ordin.
+
+Art. 2. Ñ Prezentul ordin va fi publicat în Monitorul
+Oficial al României, Partea I, și va intra în vigoare la data
+de 5 noiembrie 2002.
+
+Ministrul industriei și resurselor,
+Dan Ioan Popescu
+București, 1 aprilie 2002.
+Nr. 92.
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 360/29.V.2002
+ANEXÃ
+
+NORMA DE METROLOGIE LEGALÃ CEE ”NML CEE-71/349,,
+Calibrarea rezervoarelor navelor fluviale și de coastã
+Art. 1. Ñ Prezenta normã de metrologie legalã CEE se
+aplicã în scopul calibrãrii rezervoarelor navelor fluviale și de
+coastã.
+Calibrarea CEE reprezintã o calibrare efectuatã de cãtre
+Biroul Român de Metrologie Legalã în conformitate cu prevederile prezentei norme de metrologie legalã CEE.
+Art. 2. Ñ Rezultatele operațiunilor de calibrare se consemneazã într-un certificat de calibrare CEE, conform
+modelului prezentat în anexa nr. 3 la prezenta normã de
+metrologie legalã CEE.
+
+Art. 3. Ñ Mijloacele de mãsurare utilizate pentru a
+determina nivelul lichidului din rezervoarele calibrate conform prevederilor prezentei norme de metrologie legalã
+CEE trebuie sã fie adaptate special acestui scop.
+Aceste mijloace de mãsurare trebuie sã corespundã
+cerințelor prevãzute în Norma de metrologie legalã CEE
+NML CEE-73/362, aprobatã prin Ordinul ministrului industriei
+și resurselor nr. 428/2001.
+Art. 4. Ñ Anexele nr. 1Ñ4 fac parte integrantã din prezenta normã de metrologie legalã CEE.
+ANEXA Nr. 1
+la norma de metrologie legalã CEE
+
+CERINÞE GENERALE
+
+privind calibrarea rezervoarelor navelor fluviale și de coastã
+1. Capacitatea rezervoarelor navelor, denumite în continuare rezervoare, se determinã prin:
+Ñ transferarea apei sau a altui lichid, al cãrui volum se
+determinã cu mãsuri de capacitate sau sisteme de
+mãsurare dotate cu contoare special etalonate în acest
+scop; sau
+Ñ calcule bazate pe dimensiunile rezervorului, aceastã
+operațiune putând fi completatã, dacã este posibil, cu o
+verificare mixtã, utilizându-se volume mãsurate de lichid.
+2. Operațiunile de calibrare se executã în așa fel și cu
+mijloace de mãsurare de o asemenea exactitate, încât erorile relative în ceea ce privește capacitãțile declarate în
+documente sã nu depãșeascã:
+a) ca regulã generalã: ± 3/1.000 din capacitatea indicatã;
+b) în mod excepțional, în cazul rezervoarelor cu forme
+foarte complicate, care nu pot fi calibrate prin transferarea
+conținutului lor: ± 5/1.000 din capacitatea indicatã.
+3. Rezultatele operațiunilor de calibrare se consemneazã
+într-un certificat de calibrare însoțit de diagrame și tabele
+de calibrare care indicã volumul de lichid, exprimat în litri,
+decimetri cubi sau metri cubi, existent în rezervor atunci
+când suprafața liberã a lichidului este situatã la o înãlțime
+datã, exprimatã în centimetri sau decimetri, pe suprafața
+verticalã a mãsurii de lungime.
+Tabelele de calibrare centimetrice sau decimetrice pot fi
+completate cu un tabel de interpolare milimetric.
+Documentele prevãzute la alin. 1 și 2 sunt conforme cu
+prevederile anexelor nr. 2Ñ4 la norma de metrologie legalã
+CEE.
+4. Pe fiecare rezervor lângã orificiul prevãzut pentru
+mãsura de lungime trebuie sã se monteze o plãcuțã de
+identificare.
+Plãcuța de identificare trebuie sã poarte urmãtoarele
+inscripții:
+Ñ numãrul rezervorului;
+Ñ înãlțimea totalã de referințã H;
+Ñ numãrul certificatului de calibrare.
+Plãcuța de identificare trebuie confecționatã dintr-un
+material rezistent, inalterabil în condiții normale de utilizare,
+și sigilatã prin aplicarea marcajului CEE pe barele de
+plumb prevãzute în acest scop în vederea sigilãrii, astfel
+încât plãcuța sã nu poatã fi îndepãrtatã fãrã a distruge
+sigiliul.
+Caracteristicile și modelul marcajului CEE aplicat în
+vederea sigilãrii sunt cele stabilite pentru marcajul CEE de
+verificare parțialã la pct. 3.2 din anexa nr. 2 la Hotãrârea
+Guvernului nr. 1.055/2001 privind condițiile de introducere
+pe piațã a mijloacelor de mãsurare.
+5. Certificatul de calibrare nu se emite decât dacã
+rezervoarele și țevile de conectare sunt construite și dispuse astfel încât, în condiții normale de utilizare a navei,
+sã poatã fi ușor golite sau umplute complet și fãrã perne
+de aer rãmase captive deasupra sau în lichidul al cãrui
+nivel se mãsoarã, sub nivelul la care rezervorul este considerat plin.
+
+Eventualele excepții admise sau eventualele mãsuri de
+precauție luate în scopul de a asigura corectitudinea
+mãsurãrilor se consemneazã în certificatul de calibrare.
+6. Suprafața verticalã a mãsurii de lungime, pe care se
+mãsoarã înãlțimea lichidului, trebuie sã treacã aproximativ
+prin centrul de greutate al secțiunilor orizontale ale rezervorului în fiecare punct în care este posibil sã aparã o
+suprafațã liberã de lichid atunci când mãsurãrile se efectueazã în condiții normale de utilizare.
+Dacã aceastã condiție nu este îndeplinitã din cauza
+caracteristicilor de construcție ale rezervorului, trebuie sã se
+menționeze în certificatul de calibrare faptul cã nivelul lichidului din rezervor se poate determina numai atunci când
+nava are atât înclinarea longitudinalã, cât și cea transversalã zero.
+Poziția verticalã a mãsurii de lungime este determinatã
+de axa unui dispozitiv de ghidare. Acest dispozitiv trebuie
+sã asigure o poziționare corectã a mãsurii de lungime,
+nefiind admise erori sistematice cauzate de modul în care
+este construit dispozitivul.
+Intersecția dintre planul orizontal tangent la marginea
+superioarã a dispozitivului de ghidare și axa acestui dispozitiv reprezintã punctul de referințã. Distanța între acest
+punct și placa de contact orizontalã fixatã în mod permanent sub punctul de referințã, pe aceeași verticalã cu
+acesta, se numește ”înãlțimea totalã de referințã H,, și se
+înscrie în partea de sus a fiecãrei tabele de calibrare.
+Constructorul ia toate mãsurile de precauție necesare
+astfel încât poziția punctului de referințã fațã de rezervor și
+înãlțimea totalã de referințã H sã fie invariabile.
+7. Certificatul de calibrare indicã eroarea relativã în utilizare a rezervoarelor, la determinarea volumului de lichid
+conținut de acestea, având în vedere exactitatea cu care
+au fost determinate volumele specificate în tabela de calibrare și exactitatea cu care se poate determina nivelul
+suprafeței libere a lichidului în rezervoare.
+În cazul menționat la pct. 2 lit. a) eroarea relativã nu
+trebuie sã depãșeascã ± 5/1.000 din volumul specificat în
+tabela de calibrare, iar în cazul menționat la pct. 2 lit. b)
+aceasta nu trebuie sã depãșeascã ± 8/1.000 din volumul
+specificat în tabela de calibrare.
+Volumul minim mãsurabil cu ajutorul rezervorului nu trebuie sã fie mai mic decât volumul corespunzãtor unei
+înãlțimi de 500 mm.
+8. Valabilitatea marcajelor CEE aplicate în vederea
+sigilãrii, a certificatelor de calibrare și a tabelelor de calibrare înceteazã dupã 12 ani de la data emiterii certificatelor de calibrare sau imediat dupã ce rezervorul s-a
+deformat, a fost reparat sau reconstruit în așa fel încât
+caracteristicile metrologice ale acestuia sã se modifice.
+Data (anul, luna) la care expirã termenul de valabilitate
+de 12 ani se menționeazã în partea de sus a certificatului
+și a fiecãrei tabele de calibrare.
+Certificatele și tabelele de calibrare trebuie sã fie reactualizate numai dupã efectuarea unei recalibrãri.
+
+3
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 360/29.V.2002
+
+ANEXA Nr. 2
+la norma de metrologie legalã CEE
+RAPORT DE CALIBRARE
+
+Raportul de calibrare este emis de Biroul Român de
+Metrologie Legalã în douã exemplare, dintre care unul
+rãmâne la Biroul Român de Metrologie Legalã, iar celãlalt
+la beneficiar, și trebuie sã conținã urmãtoarele documente:
+1. certificatul de calibrare, care include urmãtoarele
+informații:
+a) denumirea și sediul Biroului Român de Metrologie
+Legalã;
+b) numele și funcția celui care a efectuat calibrarea;
+c) seria certificatului de calibrare, care se va reproduce
+pe toate celelalte documente și pe tabelele de calibrare;
+d) data emiterii certificatului de calibrare și adresa laboratorului din structura Biroului Român de Metrologie Legalã
+responsabil cu calibrarea;
+e) data expirãrii certificatului de calibrare;
+f) datele de identificare a navei, respectiv numele,
+numãrul de înmatriculare, numele și adresa proprietarului,
+anul construcției;
+g) lista și tipul documentelor anexate;
+h) grupele de rezervoare pentru care se poate folosi
+aceeași tabelã de calibrare;
+i) indicarea rezervoarelor care au bazine de drenaj sau
+instalații de încãlzire;
+j) capacitatea totalã;
+k) eroarea toleratã, exprimatã ca eroare relativã, la calibrare;
+
+l) eroarea toleratã, exprimatã ca eroare relativã, în utilizarea rezervoarelor, la mãsurarea volumelor de lichid conținute
+de acestea, pe baza utilizãrii raportului de calibrare;
+m) volumul minim mãsurabil cu ajutorul rezervorului,
+care nu trebuie sã fie mai mic decât volumul corespunzãtor
+unei înãlțimi de 500 mm;
+2. diagrama nr. 1, care indicã poziția rezervoarelor pe
+navã și, pentru fiecare rezervor, înãlțimea totalã de referințã H, poziționarea mãsurii de lungime și poziția acesteia
+fațã de peretele despãrțitor frontal etanș al rezervorului și
+fațã de peretele despãrțitor etanș sau planul median longitudinal;
+3. diagrama nr. 2, care prezintã o secțiune transversalã
+prin rezervoare și ilustreazã raza santinei, convexitatea
+punții, înãlțimea puțului de navã și modul de confecționare
+a dispozitivului de ghidare;
+4. în cazul navelor prevãzute cu instalații de încãlzire
+sau cu bazine de drenaj în rezervoare, diagrama nr. 3,
+care indicã volumul dezlocuit de aceste încãlzitoare sau
+bazine de drenaj și, în cazul bazinelor de drenaj, volumul
+de lichid conținut de acestea, de la robinet la robinet;
+5. pentru fiecare rezervor sau grup de rezervoare similare, o tabelã de calibrare centimetricã sau decimetricã, cu
+menționarea înãlțimii totale de referințã H și a datei de
+expirare a acesteia și, dacã este disponibil, un tabel de
+interpolare milimetric.
+ANEXA Nr. 3
+la norma de metrologie legalã CEE
+
+MODEL DE CERTIFICAT DE CALIBRARE
+
+Autoritatea emitentã .........................................................................................................
+Þara .......................................................
+
+Expirã la data:
+
+C E R T I F I C A T D E C A L I B R A R E Nr. É...................
+
+”............................................................,,*)
+.............................................................................................................................................................................................
+(laboratorul din structura BRML care efectueazã calibrarea)
+
+atestã cã la data de .......................... a efectuat, la solicitarea ......................................, calibrarea rezervoarelor de pe
+...................................... ”......................................,,, nr. de înmatriculare ...................................... deținut de
+......................................, data construcției ...................................... .
+Diagrama nr. 1 indicã poziția rezervoarelor, numerotarea acestora, poziționarea mijloacelor de mãsurare și, pentru
+fiecare rezervor, înãlțimea totalã de referințã H a punctului de referințã, respectiv înãlțimea la care se situeazã marginea
+superioarã a dispozitivului de ghidare fațã de partea superioarã a plãcii de contact de la baza rezervorului.
+Diagrama nr. 2 prezintã rezervoarele în secțiune transversalã realizatã prin suprafața verticalã a mãsurii de lungime.
+Diagrama nr. 3 prezintã dispunerea și capacitatea bazinelor de drenaj și a instalațiilor de încãlzire din rezervoare.
+În cazul utilizãrii tabelelor centimetrice anexate, înãlțimile lichidului trebuie sã fie determinate fațã de suprafețele
+verticale ale mãsurii de lungime, conform indicațiilor din diagrama nr. 1.
+Aceeași tabelã de calibrare este valabilã pentru urmãtoarele rezervoare: ...................................................................
+Eroarea toleratã, exprimatã ca eroare relativã, la calibrarea rezervoarelor este:
+Ñ ± 3/1.000 (± 3ä) din capacitatea indicatã, în cazul rezervoarelor cu nr. ..........................................................;
+Ñ ± 5/1.000 (± 5ä) din capacitatea indicatã, în cazul rezervoarelor cu nr. .......................................................... .
+Eroarea toleratã, exprimatã ca eroare relativã, în utilizarea rezervoarelor la mãsurarea volumelor de lichid
+conținute de acestea este:
+Ñ ± 5/1.000 (± 5ä) din volumul indicat, în cazul rezervoarelor cu nr. .................................................................;
+Ñ ± 8/1.000 (± 8ä) din volumul indicat, în cazul rezervoarelor cu nr. ....................................................................,
+cu condiția ca nava sã aibã chila perfect orizontalã, iar nivelurile lichidului sã fie corect determinate cu mijloace de
+mãsurare legale.
+Capacitatea totalã .......................................................
+Volumul minim mãsurabil cu ajutorul rezervorului nu trebuie sã fie mai mic decât volumul corespunzãtor unei
+înãlțimi de 500 mm
+.............................................................................................................................................................................................
+(numele și prenumele celui care a efectuat calibrarea, semnãtura și ștampila)
+
+Întocmit la ...................................
+*) Tipul navei (de exemplu: șlep, vapor, barjã) și numele navei.
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 360/29.V.2002
+ANEXA Nr. 4
+la norma de metrologie legalã CEE
+MODEL DE TABELÃ DE CALIBRARE
+
+Autoritatea emitentã ...................................
+Laboratorul .................................................
+
+Expirã la data de:
+
+ANEXÃ LA CERTIFICATUL DE CALIBRARE Nr. .............................
+”........................................................,,*)
+
+Rezervor nr. .............................
+Tabela de calibrare indicã volumele de lichid conținut de rezervor, exprimate în decimetri cubi (litri, metri cubi),
+raportate la înãlțimea lichidului în rezervor, exprimatã în centimetri, fațã de baza mãsurii de lungime ilustratã în diagramele nr. ...................................................................... .
+Capacitatea totalã ............................................. Înãlțimea totalã de referințã H .............................................
+m
+
+cm
+
+0
+
+Volume
+
+00
+01
+02
+03
+04
+
+m
+
+cm
+
+0
+
+50
+51
+52
+53
+54
+
+05
+06
+07
+08
+09
+
+Înãlțimea
+m
+dm
+0
+1
+2
+3
+4
+
+Volume
+
+55
+56
+57
+58
+59
+
+0
+
+m
+
+cm
+
+1
+
+00
+01
+02
+03
+04
+
+m
+
+cm
+
+1
+
+Volume
+
+50
+51
+52
+53
+54
+
+05
+(Model de tabelã cu volumele înscrise în coloane)
+
+Volumul pe centimetru de înãlțime
+2
+3
+4
+5
+
+1
+
+Volume
+
+5
+
+6
+
+7
+
+8
+
+9
+
+(Model de tabelã cu dublã citire)
+
+*) Tipul și numele navei.
+
+MINISTERUL INDUSTRIEI ȘI RESURSELOR
+
+ORDIN
+privind desemnarea ISCIRÑCERT pentru a realiza evaluarea conformitãții
+în domeniul recipientelor simple sub presiune
+Ministrul industriei și resurselor,
+în conformitate cu prevederile art. 19 din Hotãrârea Guvernului nr. 571/2001 privind stabilirea condițiilor de introducere pe piațã a recipientelor simple sub presiune,
+în temeiul Hotãrârii Guvernului nr. 19/2001 privind organizarea și funcționarea Ministerului Industriei și Resurselor,
+cu modificãrile ulterioare,
+emite urmãtorul ordin:
+Art. 1. Ñ Se desemneazã unitatea ISCIRÑCERT din cadrul
+Inspecției de Stat pentru Controlul Cazanelor, Recipientelor sub
+Presiune și Instalațiilor de Ridicat ca organism de evaluare a
+conformitãții în domeniul recipientelor simple sub presiune, conform anexei care face parte integrantã din prezentul ordin.
+
+Art. 2. Ñ Desemnarea ISCIRÑCERT conform prevederilor art. 1 este valabilã pânã la data de 31 decembrie 2002,
+datã la care aceastã unitate va fi reevaluatã.
+Art. 3. Ñ Prezentul ordin va fi publicat în Monitorul
+Oficial al României, Partea I.
+
+Ministrul industriei și resurselor,
+Dan Ioan Popescu
+București, 12 aprilie 2002.
+Nr. 110.
+
+5
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 360/29.V.2002
+
+ANEXÃ
+Denumirea și adresa organismului
+de evaluare a conformitãții desemnat
+
+Cod
+CAEN
+
+Unitatea ISCIRÑCERT din cadrul Inspecției de Stat pentru
+Controlul Cazanelor, Recipientelor sub Presiune
+și Instalațiilor de Ridicat (ISCIR), municipiul București,
+Str. Fluviului nr. 16, sectorul 1
+
+EK2821.12
+
+Domeniu
+
+Vase simple
+sub presiune
+
+Atribuții
+
+Ñ
+de
+Ñ
+Ñ
+
+examinarea CS
+tip
+verificarea CS
+supravegherea CS
+
+MINISTERUL CULTURII ȘI CULTELOR
+
+ORDIN
+privind aprobarea Regulamentului de organizare și funcționare a Comisiei Naționale
+a Monumentelor Istorice
+În temeiul prevederilor art. 32 alin. (6) și ale art. 36 alin. (2) din Legea nr. 422/2001 privind protejarea monumentelor istorice, precum și ale art. 11 alin. (5) din Hotãrârea Guvernului nr. 28/2001 privind organizarea și funcționarea
+Ministerului Culturii și Cultelor, cu modificãrile și completãrile ulterioare,
+ministrul culturii și cultelor emite urmãtorul ordin:
+Art. 1. Ñ Se aprobã Regulamentul de organizare și
+funcționare a Comisiei Naționale a Monumentelor Istorice,
+prevãzut în anexa care face parte integrantã din prezentul
+ordin.
+Art. 2. Ñ (1) Prezentul ordin se publicã în Monitorul
+Oficial al României, Partea I.
+(2) La data intrãrii în vigoare a prezentului ordin se
+abrogã Ordinul ministrului culturii nr. 2.092/2000 privind
+
+aprobarea Regulamentului de organizare și funcționare a
+Comisiei Naționale a Monumentelor Istorice.
+Art. 3. Ñ Direcția monumentelor istorice și Direcția
+buget finanțe din cadrul Ministerului Culturii și Cultelor, precum și direcțiile județene pentru culturã, culte și patrimoniul
+cultural național și a municipiului București vor aduce la
+îndeplinire prevederile prezentului ordin.
+
+Ministrul culturii și cultelor,
+Rãzvan Theodorescu
+București, 11 aprilie 2002.
+Nr. 2.043.
+ANEXÃ
+
+REGULAMENT
+de organizare și funcționare a Comisiei Naționale a Monumentelor Istorice
+CAPITOLUL I
+Dispoziții generale
+Art. 1. Ñ Comisia Naționalã a Monumentelor Istorice, denumitã în continuare Comisia, este organismul științific, consultativ și
+de avizare în domeniul protejãrii monumentelor istorice, care
+funcționeazã pe lângã Ministerul Culturii și Cultelor.
+Art. 2. Ñ Comisia propune strategiile și avizeazã, dupã caz,
+metodologiile, normativele și mãsurile tehnico-științifice în domeniul
+protejãrii monumentelor istorice.
+Art. 3. Ñ (1) Comisia este condusã de un președinte numit
+prin ordin al ministrului culturii și cultelor.
+(2) Comisia este formatã din personalitãți și specialiști atestați
+în domeniul protejãrii și punerii în valoare a monumentelor istorice, numiți prin ordin al ministrului culturii și cultelor.
+(3) Președintele reprezintã Comisia pe plan național și
+internațional.
+Art. 4. Ñ Funcția de secretar al Comisiei este îndeplinitã de
+cãtre directorul Direcției monumentelor istorice din cadrul
+Ministerului Culturii și Cultelor.
+Art. 5. Ñ (1) Comisia se constituie din 4 secțiuni, pe domenii
+de specialitate, conduse de cãtre un președinte ales dintre membrii Comisiei; președinții secțiunilor devin vicepreședinții Comisiei.
+(2) Secretarii secțiunilor sunt numiți de cãtre președintele
+Comisiei dintre specialiștii Direcției monumentelor istorice din
+cadrul Ministerului Culturii și Cultelor.
+Art. 6. Ñ Secțiunile de specialitate ale Comisiei sunt:
+Ñ Secțiunea de evidențã;
+Ñ Secțiunea tehnicã (arhitecturã, inginerie, arheologie);
+Ñ Secțiunea de componente artistice;
+Ñ Secțiunea de urbanism și zone protejate.
+
+Art. 7. Ñ Comisiile regionale sunt în numãr de 8, sunt conduse de cãtre un președinte și un vicepreședinte numiți de
+președintele Comisiei.
+Art. 8. Ñ Comisiile regionale ale monumentelor istorice au
+sediile și arondãrile urmãtoare:
+1. Ñ Sediul:
+D.C.C.P.C.N. Iași
+Ñ Cuprinde județele: Bacãu, Botoșani, Iași, Neamț,
+Suceava, Vaslui;
+2. Ñ Sediul:
+D.C.C.P.C.N. Tulcea
+Ñ Cuprinde județele: Brãila, Buzãu, Constanța, Galați,
+Tulcea, Vrancea;
+3. Ñ Sediul:
+D.C.C.P.C.N. Prahova
+Ñ Cuprinde județele: Argeș, Cãlãrași, Dâmbovița,
+Giurgiu,
+Ialomița,
+Prahova,
+Teleorman;
+4. Ñ Sediul:
+D.C.C.P.C.N. Dolj
+Ñ Cuprinde județele: Dolj, Gorj, Mehedinți, Olt, Vâlcea;
+5. Ñ Sediul:
+D.C.C.P.C.N. Timiș
+Ñ Cuprinde județele: Arad, Caraș-Severin, Hunedoara,
+Timiș;
+6. Ñ Sediul:
+D.C.C.P.C.N. Cluj
+Ñ Cuprinde județele: Bihor, Bistrița-Nãsãud, Cluj,
+Maramureș, Satu Mare, Sãlaj;
+7. Ñ Sediul:
+D.C.C.P.C.N. Brașov
+Ñ Cuprinde județele: Alba, Brașov, Covasna, Harghita,
+Mureș, Sibiu;
+8. Ñ Sediul:
+D.C.C.P.C.N. București
+Ñ Cuprinde:
+municipiul București și județul
+Ilfov.
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 360/29.V.2002
+
+Art. 9. Ñ (1) Președintele, vicepreședinții și secretarul
+Comisiei formeazã Biroul Comisiei.
+(2) Membrii Biroului Comisiei fac parte din Consiliul științific al
+Institutului Național al Monumentelor Istorice.
+Art. 10. Ñ Comisia coordoneazã activitatea celor 8 comisii
+regionale.
+Art. 11. Ñ Autoritatea deciziilor Comisiei este garantatã prin
+lege.
+Art. 12. Ñ (1) În alcãtuirea Comisiei se va urmãri reprezentarea echilibratã a tuturor domeniilor și specializãrilor care contribuie
+la protejarea monumentelor istorice.
+(2) Nu pot face parte din Comisie persoane care au contribuit
+direct la distrugerea unuia sau mai multor monumente istorice.
+CAPITOLUL II
+Atribuțiile Comisiei și ale comisiilor regionale
+Art. 13. Ñ Comisia are urmãtoarele atribuții principale:
+a) fundamenteazã din punct de vedere științific și propune
+Ministerului Culturii și Cultelor strategia naționalã de protejare a
+monumentelor istorice;
+b) avizeazã, pe baza propunerilor secțiunilor de specialitate,
+metodologiile, normele, normativele și reglementãrile tehnicoștiințifice din domeniul protejãrii monumentelor istorice, care se
+aprobã prin ordin al ministrului culturii și cultelor;
+c) hotãrãște, pe baza propunerilor comisiilor regionale și a
+Secțiunii de evidențã, clasarea, neclasarea, declasarea și schimbarea grupei monumentelor istorice;
+d) stabilește, la propunerea secțiunilor, criteriile de atestare a
+specialiștilor și experților în domeniul protejãrii monumentelor istorice, precum și criteriile de avizare a agenților economici care au
+ca obiect de activitate efectuarea de cercetãri, proiectarea și executarea de lucrãri asupra monumentelor istorice;
+e) avizeazã secțiunile de specialitate prevãzute în Planul de
+amenajare a teritoriului național;
+f) avizeazã planurile de amenajare a teritoriului județean și
+planurile de amenajare a teritoriilor interjudețene;
+g) avizeazã, la propunerea Secțiunii de urbanism și zone protejate, planurile urbanistice generale ale localitãților în care se aflã
+monumente istorice din grupa A, precum și pe cele cu monumente istorice din grupa B, care cuprind o mare concentrare,
+diversitate și suprapuneri de ansambluri și situri, afectate de propunerile de dezvoltare a localitãții, precum și regulamentele de
+construire aferente acestor zone;
+h) avizeazã planurile urbanistice generale ale localitãților declarate oraș sau sat istoric;
+i) avizeazã, prin Secțiunea de urbanism și zone protejate, planurile urbanistice zonale ale zonelor protejate care cuprind monumente istorice din grupa A, precum și regulamentele de construire
+aferente acestora; în funcție de importanța propunerilor, secțiunea
+poate propune validarea avizului în plenul Comisiei;
+j) în absența documentațiilor de urbanism și amenajare a teritoriului avizate și aprobate, avizeazã, prin Secțiunea tehnicã, planurile urbanistice de detaliu care au drept obiect monumente
+istorice din grupa A și prin Secțiunea de urbanism și zone protejate, imobile din zona de protecție a acestora; în funcție de
+importanța impactului pentru monument sau pentru zonã,
+secțiunile propun validarea avizului de cãtre Comisie;
+k) avizeazã, potrivit competenței sale, în ședințele reunite ale
+Secțiunii de urbanism și zone protejate și ale Secțiunii de evidențã, studiile de fundamentare istorico-științificã pentru instituirea
+și delimitarea zonelor protejate de patrimoniu construit și, pe baza
+propunerilor Comisiei Naționale de Arheologie, ale ariilor siturilor
+arheologice protejate prin lege, precum și reglementãrile generale
+de amenajare a teritoriului acestora, conform normelor legale în
+vigoare, pentru zonele cu monumente istorice înscrise în grupa A;
+l) avizeazã, prin Secțiunea tehnicã, documentațiile tehnice privind intervențiile asupra monumentelor istorice din grupa A; fazele
+importante care presupun abordãri conceptuale deosebite pot fi
+prezentate pentru avizare plenului Comisiei;
+m) avizeazã, prin Secțiunea de componente artistice, documentațiile de restaurare a componentelor artistice, indiferent de
+grupa monumentelor istorice; documentațiile pentru monumentele
+istorice din grupa A și cele care presupun abordãri conceptuale
+
+deosebite, diferite de principiile cunoscute, se prezintã pentru avizare în plenul Comisiei;
+n) avizeazã din punct de vedere plastic, arhitectural și tehnic,
+prin Secțiunea tehnicã, inscripționarea și marcarea monumentelor
+istorice din grupa A, având la bazã texte avizate de organisme
+sau instituții științifice de specialitate;
+o) avizeazã, prin Secțiunea de urbanism și zone protejate,
+documentațiile tehnice privind intervențiile asupra imobilelor din
+zonele de protecție a monumentelor istorice din grupa A;
+p) formuleazã prioritãțile lucrãrilor de protejare a monumentelor
+istorice, în vederea fundamentãrii sumelor necesare ce urmeazã
+sã fie alocate în acest scop de la bugetul de stat;
+q) examineazã și avizeazã prioritãțile de finanțare din fondurile
+aprobate de la bugetul de stat, precum și modificãrile survenite
+pe parcursul anului bugetar;
+r) avizeazã propunerile de achiziții de monumente istorice ce
+se realizeazã prin Ministerul Culturii și Cultelor;
+s) controleazã aplicarea deciziilor sale de cãtre proprietarii sau
+deținãtorii de monumente istorice cu orice titlu;
+ș) avizeazã, prin secretarul Comisiei, contractele Oficiului
+Național al Monumentelor Istorice privind intervențiile asupra
+monumentelor istorice;
+t) propune monumente istorice pentru a fi incluse în Lista
+patrimoniului cultural și natural mondial în pericol, elaboratã de
+UNESCO;
+ț) sesizeazã organele de stat competente pentru aplicarea și
+luarea de mãsuri privind protejarea monumentelor istorice, ca
+urmare a constatãrii încãlcãrii prevederilor legale referitoare la
+protejarea monumentelor istorice, în urma controalelor efectuate
+de cãtre membrii Comisiei, conform dispozițiilor legale în vigoare;
+u) susține elaborarea de programe de pregãtire a specialiștilor,
+precum și de planuri de învãțãmânt și specializare în domeniul
+protejãrii monumentelor istorice;
+v) reprezintã România în cadrul organismelor internaționale de
+specialitate similare;
+x) orice alte atribuții date în competența sa prin lege.
+Art. 14. Ñ Biroul Comisiei se întrunește la convocarea
+președintelui Comisiei și are urmãtoarele atribuții principale:
+a) analizeazã, împreunã cu secretarul Comisiei și cu secretarii
+secțiunilor, activitatea secțiunilor de specialitate;
+b) analizeazã, împreunã cu președinții comisiilor regionale, cu
+secretarul Comisiei și cu inspectorii Direcției monumentelor istorice din cadrul Ministerului Culturii și Cultelor, activitatea comisiilor
+regionale;
+c) identificã disfuncțiile din activitatea secțiunilor și a comisiilor
+regionale și propune mãsurile de corectare și de corelare a activitãții acestora;
+d) identificã subiecte sau teme majore pe care le propune
+spre analizã și decizie plenului Comisiei;
+e) aduce la cunoștințã comisiilor regionale, prin Direcția monumentelor istorice din cadrul Ministerului Culturii și Cultelor, deciziile și hotãrârile cu caracter metodologic, urmãrind totodatã și
+aplicarea acestora în teritoriu;
+f) analizeazã trimestrial activitatea Institutului Național al
+Monumentelor Istorice, propunând mãsuri de îmbunãtãțire a activitãților;
+g) analizeazã trimestrial respectarea de cãtre Oficiul Național
+al Monumentelor Istorice a prioritãților și aplicarea programelor de
+restaurare a monumentelor istorice, avizate și aprobate, propunând mãsurile corespunzãtoare;
+h) analizeazã contestațiile primite cu privire la avizele
+Comisiei, secțiunilor sau comisiilor regionale și, dupã caz, ia
+direct mãsuri de soluționare sau propune soluții spre adoptare
+plenului Comisiei; în rezolvarea contestațiilor beneficiazã de asistențã juridicã de specialitate asiguratã de Ministerul Culturii și
+Cultelor;
+i) prezintã Comisiei un raport cu privire la activitatea
+desfãșuratã în perioada dintre ședințele Comisiei.
+Art. 15. Ñ Comisiile regionale au urmãtoarele atribuții principale:
+1. urmãresc aplicarea strategiei naționale de protejare a monumentelor istorice în regiunea lor de competențã;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 360/29.V.2002
+2. analizeazã și propun Comisiei clasarea monumentelor istorice din regiunea lor de competențã în grupa A sau B, dupã caz;
+3. a) avizeazã planurile urbanistice generale, planurile urbanistice zonale și planurile urbanistice de detaliu ale localitãților ce
+cuprind monumente istorice clasate în grupa B;
+b) avizeazã proiectele pentru autorizarea executãrii lucrãrilor
+de construcții sau de desființare în zonele de protecție a monumentelor istorice cuprinse în grupa B;
+4. avizeazã studiile de fundamentare istorico-științificã pentru
+instituirea și delimitarea zonelor protejate de patrimoniu construit,
+a ariilor siturilor arheologice protejate prin lege, precum și reglementãrile generale de amenajare a teritoriului acestora, pentru
+zonele cu monumente istorice înscrise în grupa B;
+5. avizeazã planurile urbanistice de detaliu și proiectele de
+execuție în zonele cu monumente istorice clasate în grupa A,
+pentru care existã reglementãri avizate de Comisie;
+6. avizeazã documentațiile tehnice care propun lucrãri de cercetare, investigații și expertize tehnice, proiectele tehnice și detaliile de execuție pentru monumente istorice clasate în grupa B;
+7. propun Comisiei și autoritãților administrației publice locale
+prioritãțile de finanțare și/sau de cofinanțare, dupã caz, a lucrãrilor
+de protejare a monumentelor istorice clasate în grupa B;
+8. controleazã respectarea prevederilor legale referitoare la
+protejarea monumentelor istorice de cãtre deținãtorii cu orice titlu,
+precum și de cãtre cei care executã lucrãri la monumente istorice
+sau în zonele de protecție a acestora, indiferent de grupa monumentelor istorice;
+9. avizeazã documentațiile pentru lucrãri de întreținere și
+reparații curente la monumente istorice clasate în grupa A, care
+nu aduc modificãri de arhitecturã ori ale componentelor artistice,
+în condițiile în care lucrãrile se executã cu respectarea materialelor, tehnicilor și a formelor constructive inițiale;
+10. îndeplinesc orice alte atribuții date în competențã, potrivit
+dispozițiilor legale.
+CAPITOLUL III
+Organizarea Comisiei și a comisiilor regionale
+Art. 16. Ñ Comisia este compusã din 21 de membri, al cãror
+mandat este de 5 ani.
+Art. 17. Ñ Membrii Comisiei sunt numiți prin ordin al ministrului culturii și cultelor, la propunerea:
+a) Academiei Române Ñ 2 membri;
+b) Ministerului Lucrãrilor Publice, Transporturilor și Locuinței Ñ
+un membru;
+c) Ministerului Educației și Cercetãrii Ñ 2 membri;
+d) organizațiilor neguvernamentale cu activitate în domeniul
+protejãrii monumentelor istorice Ñ un membru;
+e) Ministerului Culturii și Cultelor Ñ 15 membri, dintre care 8
+sunt propuși de comisiile regionale ale monumentelor istorice.
+Art. 18. Ñ Comisia poate alege ca membri de onoare specialiști din țarã sau din strãinãtate, personalitãți științifice de recunoaștere internaționalã din domeniul cercetãrii și protejãrii
+monumentelor istorice; membrii de onoare sunt propuși de cãtre
+președintele Comisiei și sunt aleși cu votul majoritãții simple a
+membrilor Comisiei.
+Art. 19. Ñ Secțiunile sunt formate din câte 9 membri, inclusiv
+președintele, cu excepția Secțiunii tehnice care are 11 membri, și
+cuprind: membri de drept care sunt și membri ai Comisiei, membri cooptați din rândul experților și specialiștilor atestați și maximum 3 membri invitați, care sunt nominalizați și convocați la
+ședințe în funcție de complexitatea subiectelor prezentate.
+Art. 20. Ñ Comisiile regionale au câte 9 membri numiți de
+cãtre președintele Comisiei, la propunerea direcțiilor județene pentru culturã, culte și patrimoniul cultural național, respectiv a municipiului București, pentru un mandat de 5 ani.
+Art. 21. Ñ Secretarul fiecãrei comisii regionale este numit de
+cãtre directorul direcției județene pentru culturã, culte și patrimoniul cultural național, respectiv a municipiului București, în a cãrei
+razã teritorialã are sediul comisia regionalã, dintre specialiștii
+direcției, la propunerea președintelui Comisiei.
+Art. 22. Ñ (1) Calitatea de membru al Comisiei și, dupã caz,
+al comisiei regionale înceteazã în urmãtoarele situații:
+
+7
+
+a) revocare, în cazul încãlcãrii prevederilor legale și a prezentului regulament;
+b) demisie;
+c) absențe nejustificate la 3 ședințe consecutive sau
+6 absențe pe an;
+d) imposibilitatea de a-și exercita atribuțiile o perioadã de cel
+puțin 3 luni;
+e) deces;
+f) alte situații prevãzute de lege.
+(2) Constatarea situațiilor prevãzute la alin. (1) este de competența președintelui Comisiei, care le va aduce la cunoștințã
+ministrului culturii și cultelor.
+(3) Eliberarea din funcția de membru, în situațiile prevãzute la
+alin. (1) lit. a), c) și d), se realizeazã prin ordin al ministrului culturii și cultelor.
+Art. 23. Ñ (1) În cazul în care unul dintre membrii Comisiei
+sau, dupã caz, ai comisiilor regionale pierde aceastã calitate, va
+fi numit un nou membru prin ordin al ministrului culturii și cultelor.
+(2) Numirea unui nou membru al Comisiei se realizeazã la
+propunerea aceleiași instituții care a propus numirea membrului al
+cãrui loc a devenit vacant.
+CAPITOLUL IV
+Funcționarea Comisiei și a structurilor sale
+Art. 24. Ñ (1) Comisia funcționeazã în ședințe în plen, în
+ședințe ale Biroului Comisiei, în ședințe ale secțiunilor și în
+ședințe reunite ale secțiunilor.
+(2) Comisiile regionale funcționeazã în ședințe în plen și în
+ședințe reunite.
+(3) Comisiile regionale se reunesc în ședințe comune în mod
+excepțional, atunci când subiectele puse în discuție privesc amenajarea teritoriului interjudețean sau intercomunal ori când se discutã probleme majore prioritare la un monument istoric.
+Art. 25. Ñ Ședințele sunt conduse de președintele structurii
+respective sau de un vicepreședinte, în baza deciziei de delegare
+a președintelui.
+Art. 26. Ñ (1) Ședințele Comisiei și ale structurilor sale, precum și ale comisiilor regionale sunt legal constituite în prezența a
+douã treimi din numãrul total de membri.
+(2) Deciziile sunt legal adoptate cu votul a cel puțin jumãtate
+plus unul din numãrul total al membrilor prezenți; în caz de balotaj, votul președintelui este decisiv.
+(3) Membrii invitați, secretarii și specialiștii direcțiilor județene
+pentru culturã, culte și patrimoniul cultural național, respectiv a
+municipiului București, nu au drept de vot.
+Art. 27. Ñ Ședințele Comisiei și ale comisiilor regionale au
+loc lunar, iar ședințele extraordinare au loc la convocarea ministrului culturii și cultelor, a președintelui Comisiei, respectiv a
+președintelui comisiei regionale respective.
+Art. 28. Ñ Biroul Comisiei poate avea ședințe comune cu
+Biroul Comisiei Naționale a Muzeelor și Colecțiilor, al Comisiei
+Naționale de Arheologie, al Comisiei de Experți pentru
+Monumente de For Public sau al Comisiei pentru Lãcașuri de
+Cult, dupã caz.
+Art. 29. Ñ (1) Ordinea de zi și data ședințelor Comisiei,
+Biroului Comisiei și ale secțiunilor Comisiei se stabilesc de cãtre
+președinții acestora.
+(2) Convocarea membrilor se face de cãtre secretarii structurilor menționate la alin. (1), dupã caz.
+Art. 30. Ñ (1) Ordinea de zi a ședințelor comisiilor regionale
+se stabilește de cãtre președinții acestora, la propunerea șefilor
+serviciilor monumente istorice din direcțiile județene pentru culturã,
+culte și patrimoniul cultural național, respectiv a municipiului
+București, iar convocarea membrilor se face de cãtre secretarii
+comisiilor regionale.
+(2) Ordinea de zi a comisiilor regionale se aduce la cunoștințã
+președintelui și secretarului Comisiei.
+Art. 31. Ñ Când în ședințe se analizeazã subiecte la elaborarea cãrora unul sau mai mulți membri ai Comisiei sau ai secțiunilor au contribuit în calitate de autor, coautor sau colaborator,
+deciziile se adoptã fãrã participarea la vot a respectivilor membri,
+iar votul este secret.
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 360/29.V.2002
+
+Art. 32. Ñ Subiectele la care membrii comisiilor regionale sunt
+autori, coautori sau colaboratori se analizeazã în secțiunile de
+specialitate ale Comisiei, pe baza referatului inspectorului din
+cadrul direcției județene pentru culturã, culte și patrimoniul cultural
+național, respectiv a municipiului București, în a cãrei razã teritorialã este amplasat obiectivul, și al inspectorului Direcției monumentelor istorice din cadrul Ministerului Culturii și Cultelor.
+Art. 33. Ñ Documentațiile se prezintã în ședințe de cãtre
+autorul acestora, iar dacã acesta nu este prezent, subiectul se
+amânã.
+Art. 34. Ñ Inspectorul direcției județene pentru culturã, culte și
+patrimoniul cultural național, respectiv a municipiului București, și
+al Direcției monumentelor istorice din cadrul Ministerului Culturii și
+Cultelor, dupã caz, prezintã referatul sãu cuprinzând concluziile
+specialiștilor din direcție și propunerile de avizare, cu condiții și
+recomandãri, sau, dupã caz, de respingere, motivând propunerea.
+Art. 35. Ñ Referatele inspectorilor direcțiilor județene pentru
+culturã, culte și patrimoniul cultural național, respectiv a municipiului București, și ai Direcției monumentelor istorice din cadrul
+Ministerului Culturii și Cultelor se arhiveazã la documentație în
+original.
+Art. 36. Ñ Decizia privind acordarea avizelor, prin vot deschis
+sau, dupã caz, secret, se ia în absența elaboratorului documentației și a beneficiarului acesteia.
+Art. 37. Ñ Președintele de ședințã formuleazã decizia privind
+avizarea, condițiile, recomandãrile sau motivația respingerii, având
+în vedere ca aceasta sã fie în concordanțã cu faza de elaborare
+a documentației, cu condițiile impuse de avizele acordate la
+fazele anterioare și în conformitate cu reglementãrile legale în
+vigoare.
+Art. 38. Ñ Procesele-verbale ale ședințelor Comisiei, Biroului
+Comisiei, secțiunilor și ale comisiilor regionale se semneazã de
+cãtre toți membrii Comisiei.
+Art. 39. Ñ (1) La ședințele comisiilor regionale participã inspectorii și șefii serviciilor monumente istorice din cadrul direcțiilor
+județene pentru culturã, culte și patrimoniul cultural național, respectiv a municipiului București, precum și inspectorii Direcției
+monumentelor istorice din cadrul Ministerului Culturii și Cultelor.
+(2) Șefii serviciilor monumente istorice și inspectorii direcțiilor
+județene pentru culturã, culte și patrimoniul cultural național, respectiv a municipiului București, și ai Direcției monumentelor istorice din cadrul Ministerului Culturii și Cultelor, care participã la
+ședințele comisiilor regionale, nu au drept de vot.
+(3) La ședințele comisiilor regionale pot fi invitați și arhitecțiișefi ai județelor, care pot participa la discuții, dar care nu au
+drept de vot.
+(4) În funcție de documentațiile primite pentru avizare, la
+ședințele comisiilor regionale vor fi invitați și maximum 3 specialiști din domeniul în discuție.
+Art. 40. Ñ (1) Procesele-verbale sunt confidențiale; acestea
+pot fi puse numai la dispoziția membrilor comisiilor respective,
+funcționarilor Direcției monumentelor istorice, Direcției generale a
+patrimoniului cultural din cadrul Ministerului Culturii și Cultelor,
+demnitarilor, organelor și instituțiilor abilitate prin lege.
+(2) Procesele-verbale ale ședințelor Comisiei, secțiunilor,
+Biroului Comisiei și ale comisiilor regionale se arhiveazã în original la Direcția monumentelor istorice din cadrul Ministerului
+Culturii și Cultelor.
+Art. 41. Ñ (1) Avizele acordate de Comisie și de secțiuni se
+semneazã de inspectorii și referenții Direcției monumentelor
+
+istorice din cadrul Ministerului Culturii și Cultelor, de președintele
+Comisiei și se aprobã de cãtre ministrul culturii și cultelor.
+(2) Avizele acordate de comisiile regionale se redacteazã de
+cãtre inspectorii direcțiilor județene pentru culturã, culte și patrimoniul cultural național, respectiv a municipiului București, în a
+cãrei razã teritorialã se aflã obiectivul, și se semneazã de inspector, de șeful serviciului monumente istorice și se aprobã de
+cãtre directorul direcției județene pentru culturã, culte și patrimoniul cultural național, respectiv a municipiului București.
+Art. 42. Ñ Avizele se emit sub antetul Ministerului Culturii și
+Cultelor Ñ Direcția monumentelor istorice sau, dupã caz, al
+Ministerului Culturii și Cultelor Ñ direcția județeanã pentru culturã,
+culte și patrimoniul cultural național, respectiv a municipiului
+București, în funcție de competențã.
+Art. 43. Ñ (1) Împotriva deciziilor Comisiei, secțiunilor și comisiilor regionale se pot face contestații în termen de 15 zile de la
+comunicare.
+(2) a) Contestațiile la deciziile Comisiei și ale secțiunilor se
+depun la Direcția monumentelor istorice din cadrul Ministerului
+Culturii și Cultelor.
+b) Contestațiile la deciziile comisiilor regionale se depun la
+direcțiile județene pentru culturã, culte și patrimoniul cultural
+național, respectiv a municipiului București, în a cãrei razã teritorialã se aflã obiectivul care formeazã obiectul contestației.
+(3) Contestațiile, documentațiile și referatele direcțiilor județene
+pentru culturã, culte și patrimoniul cultural național, respectiv a
+municipiului București, și ale Direcției monumentelor istorice din
+cadrul Ministerului Culturii și Cultelor se prezintã Biroului Comisiei,
+împreunã cu propunerile de soluționare.
+(4) Contestațiile se rezolvã în termen de 30 de zile de la data
+depunerii, pentru avizele emise de Comisie, și în termen de
+45 de zile de la data depunerii, pentru avizele emise de comisiile
+regionale.
+(5) În cazul în care contestatarul nu este mulțumit de rãspunsul primit, se poate adresa instanței de contencios administrativ,
+în condițiile legii.
+Art. 44. Ñ În cazul în care ședințele secțiunilor sau ale comisiilor regionale nu pot avea loc din lipsã repetatã de cvorum, vor
+fi numiți noi membri, la propunerea președinților structurilor respective, conform procedurii prevãzute în prezentul regulament.
+CAPITOLUL V
+Dispoziții finale
+Art. 45. Ñ (1) Pentru activitatea desfãșuratã în cadrul
+Comisiei membrii acesteia încheie convenții civile cu Ministerul
+Culturii și Cultelor.
+(2) Pentru activitatea desfãșuratã în cadrul comisiilor regionale
+membrii acestora încheie convenții civile cu direcția județeanã
+pentru culturã, culte și patrimoniul cultural național, respectiv a
+municipiului București, pe care o reprezintã în cadrul comisiei
+regionale.
+Art. 46. Ñ Prezentul regulament se completeazã de drept cu
+actele normative în vigoare.
+Art. 47. Ñ Prezentul regulament intrã în vigoare la data
+aprobãrii lui prin ordin al ministrului culturii și cultelor.
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 5069427282 Trezoreria sector 5, București (alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 411.97.54, tel./fax 410.77.36.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: ramomrk@bx.logicnet.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 360/29.V.2002 conține 8 pagini.
+
+Prețul de vânzare 4.500 lei
+
+ISSN 1453Ñ4495
+
+

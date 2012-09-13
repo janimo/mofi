@@ -1,0 +1,3339 @@
+Anul 175 (XIX) — Nr. 126 bis
+
+PARTEA
+
+I
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+Miercuri, 21 februarie 2007
+
+SUMAR
+Pagina
+Anexele nr. 1—3 la Ordinul ministrului transporturilor,
+construcțiilor și turismului nr. 157/2007 pentru
+aprobarea reglementării tehnice îMetodologie de
+calcul al performanței energetice a clădirilor“.........
+
+3–499
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+MINISTERUL TRANSPORTURILOR, CONSTRUCȚIILOR ȘI TURISMULUI
+
+ORDIN
+pentru aprobarea reglementării tehnice
+îMetodologie de calcul al performanței energetice a clădirilor“*)
+În conformitate cu art. 38 alin. 2 din Legea nr. 10/1995 privind calitatea în construcții, cu modificările
+ulterioare,
+în temeiul art. 4 alin. (1) din Legea nr. 372/2005 privind performanța energetică a clădirilor, precum
+și al art. 2 pct. 45 și al art. 5 alin. (4) din Hotărârea Guvernului nr. 412/2004 privind organizarea și
+funcționarea Ministerului Transporturilor, Construcțiilor și Turismului, cu modificările și completările ulterioare,
+având în vedere Procesul-verbal de avizare nr. 16 din 20 decembrie 2006 al Comitetului Tehnic de
+Coordonare Generală, Avizul nr. 20.463 din 12 decembrie 2006 al Asociației de Standardizare din România,
+precum și avizele nr. 8.837 din 8 decembrie 2006 și nr. 9.318 din 21 decembrie 2006 ale Inspectoratului de
+Stat în Construcții,
+ministrul transporturilor, construcțiilor și turismului emite următorul ordin:
+Art. 1. — (1) Se aprobă reglementarea tehnică
+îMetodologie de calcul al performanței energetice a
+clădirilor“, denumită în continuare metodologie,
+elaborată de Universitatea Tehnică de Construcții
+București, în parteneriat cu Universitatea de
+Arhitectură și Urbanism îIon Mincu“ București —
+UAUIM, Universitatea Tehnică Cluj-Napoca,
+Universitatea Tehnică Gh. Asachi Iași, Universitatea
+Politehnică Timișoara, Universitatea îTransilvania“
+Brașov și Institutul Național de Cercetare-Dezvoltare
+în Construcții și Economia Construcțiilor — INCERC
+București, cu participarea Asociației Inginerilor de
+Instalații din România la coordonarea elaborării
+metodologiei.
+(2) Metodologia este structurată pe 3 părți, astfel:
+a) Partea I îAnvelopa clădirii“, indicativ Mc 001/1—
+2006, prevăzută în anexa nr. 1 la prezentul ordin;
+b) Partea a II-a îPerformanța energetică a
+instalațiilor din clădiri“, indicativ Mc 001/2—2006,
+prevăzută în anexa nr. 2 la prezentul ordin;
+c) Partea a III-a îAuditul și certificatul de
+performanță a clădirii“, indicativ Mc 001/3—2006,
+prevăzută în anexa nr. 3 la prezentul ordin.
+Art. 2. — Institutul Național de CercetareDezvoltare în Construcții și Economia Construcțiilor —
+INCERC București, unitate aflată în coordonarea
+Ministerului Transporturilor, Construcțiilor și
+Turismului, va monitoriza implementarea metodologiei
+și va propune, ori de câte ori va fi necesar,
+revizuirea acesteia, pentru a reflecta progresul tehnic
+în domeniul eficienței energetice a clădirilor.
+
+Art. 3. — Anexele nr. 1—3**) fac parte integrantă
+din prezentul ordin.
+Art. 4. — Prezentul ordin se publică în Monitorul
+Oficial al României, Partea I.
+Art. 5. — La data intrării în vigoare a prezentului
+ordin, Ordinul ministrului lucrărilor publice,
+transporturilor și locuinței nr. 1.435/2002 pentru
+aprobarea reglementării tehnice îMetodologie privind
+auditul energetic al clădirilor de locuit existente și al
+instalațiilor de încălzire și preparare a apei calde
+menajere“, indicativ MP 024-2002, publicat în
+Buletinul Construcțiilor 10-11/2002 și în Monitorul
+Oficial al României, Partea I, nr. 732 din 7 octombrie
+2002, se abrogă, iar Ordinul ministrului lucrărilor
+publice, transporturilor și locuinței pentru aprobarea
+reglementării tehnice îNormativ pentru elaborarea și
+acordarea certificatului energetic al clădirilor
+existente“, indicativ NP 049-2000, Ordinul ministrului
+lucrărilor publice, transporturilor și locuinței pentru
+aprobarea reglementării tehnice îNormativ pentru
+realizarea auditului energetic al clădirilor existente și
+al instalațiilor de încălzire și preparare a apei calde
+de consum aferente acestora“, indicativ NP 0472000, și Ordinul ministrului lucrărilor publice,
+transporturilor și locuinței pentru aprobarea
+reglementării tehnice îGhid pentru elaborarea și
+acordarea certificatului energetic al clădirilor
+existente“, indicativ GT 037-2002, își încetează
+aplicabilitatea.
+
+p. Ministrul transporturilor, construcțiilor și turismului,
+Constantin Dascălu,
+secretar de stat
+
+București, 1 februarie 2007.
+Nr. 157.
+
+*) Ordinul nr. 157/2007 a fost publicat în Monitorul Oficial al României, Partea I, nr. 126 din 21 februarie 2007 și
+este reprodus și în acest număr bis.
+**) Anexele nr. 1—3 sunt reproduse în facsimil.
+
+3
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+ANEXA Nr. 1
+
+METODOLOGIE DE CALCUL AL PERFORMANȚEI ENERGETICE A CLĂDIRILOR
+PARTEA I — ANVELOPA CLĂDIRII
+Indicativ Mc 001/1—2006
+I. ANVELOPA CLĂDIRII
+CUPRINS
+I.1. Obiect
+I.2. Domeniu de aplicare
+I.3. Bibliografie
+I.4. Terminologie și notații
+I.5. Definirea și ierarhizarea elementelor componente ale anvelopei clădirilor și a parametrilor
+de performanță termohigroenergetică asociate acestora
+I.6. Parametri de climat exterior specifici pentru aplicarea metodologiei
+I.7. Elemente privind concepția constructiv-arhitecturală, generală și de detaliu, care influențează
+performanțele clădirii sub aspect termic, al ventilării naturale, al însoririi și al iluminatului natural
+I.8. Regimuri de utilizare a clădirilor și influența acestora asupra performanței energetice
+I.9. Stabilirea prin calcul a valorilor parametrilor de performanță termică, energetică și de
+permeabilitate la aer a anvelopei clădirilor
+I.10. Stabilirea prin calcul a parametrilor de performanță termică a elementelor de anvelopă
+aflate în contact cu solul
+I.11. Cerințe de performanță și niveluri de performanță termică, energetică și de permeabilitate
+la aer, pentru elementele anvelopei clădirilor și pentru ansamblul acesteia
+I.12. Evaluarea influenței sistemelor solare pasive și a sistemelor de protecție solară asupra
+performanței energetice a clădirii
+I.13. Condiții de climat interior și de iluminat natural pentru asigurarea confortului higrotermic și
+vizual
+I.14. Particularități de aplicare a metodologiei pentru clădirile existente care urmează a fi
+modernizate termic și energetic
+ANEXE:
+Anexa A5 (cap. 5) — Caracteristicile termotehnice ale materialelor de construcție
+Anexa A7 (cap. 7) — Elemente privind concepția constructiv-arhitecturală care influențează
+performanțele clădirii sub aspect termic, al ventilării naturale, al însoririi și al iluminatului natural
+Anexa A7.1 Elemente de conducere, trecere și de control al luminii
+Anexa A7.2 Variația luminii naturale
+Anexa A7.3 Raportul dintre aria ferestrelor și aria pardoselii încăperilor în funcție de
+destinația acestora/funcțiuni
+Anexa A7.4 Valori informative ale coeficientului de reflexie pentru diverse materiale sau
+suprafețe
+Anexa A7.5 Rezolvări volumetrice particulare
+Anexa A7.6 Performanța termică a anvelopei
+Anexa A7.7 Optimizarea luminării naturale a spațiilor interioare
+Anexa A7.8 Tipuri de spații interioare
+Anexa A7.9 Clasificarea clădirilor în raport cu poziția în mediul construit
+Anexa A9.3 (cap. 9) Calculul numeric automat — metoda de calcul pentru determinarea
+rezistențelor termice corectate — validarea programelor de calcul
+Anexa A9.4 (cap. 9) Performanța termică a ferestrelor, ușilor și obloanelor
+Anexa A9.6 (cap. 9) Tabele cu valori ale intensității radiației solare
+Anexa A10 (cap. 10) Parametri de performanță termică a elementelor de anvelopă în contact
+cu solul și temperaturi ale spațiilor subzonelor secundare ale clădirilor
+Anexa A11 (cap. 11) Temperatura punctului de rouă pentru diferite temperaturi și umidități
+relative ale aerului interior
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+Anexa A12 (cap. 12)
+
+Metodă de calcul pentru evaluarea influenței sistemelor de protecție
+solară asupra performanței energetice a clădirii
+Anexa A13.1 (cap. 13) Valoarea iluminării pentru cerințe specifice ale funcțiunilor spațiului
+interior
+Anexa A13.2 (cap. 13) Înălțimea planului util pentru funcțiuni uzuale
+Anexa A14 (cap. 14)
+Metodă de calcul simplificată pentru determinarea rezistențelor termice
+corectate la clădirile existente — Tabele cu valori precalculate pentru
+coeficienții de corecție r.
+I. ANVELOPA CLĂDIRII
+I.1. Obiect
+Reglementarea tehnică are ca obiectiv stabilirea unei metode coerente de evaluare și certificare
+a performanței energetice atât pentru clădirile noi, cât și pentru cele existente, având diverse
+funcțiuni, transpunând în România prevederile Directivei Parlamentului European și a Consiliului
+European 2002/91/CE privind performanța energetică a clădirilor prin Legea nr. 372/2005 privind
+performanța energetică a clădirilor.
+Partea I stabilește metodolologia de determinare a caracteristicilor higrotermoenergetice ale
+elementelor care alcătuiesc anvelopa clădirii — subsistem al produsului clădire (elemente de
+construcție exterioare, în contact direct cu aerul exterior și cu solul, sau elemente de construcție
+interioare care delimitează spațiul încălzit față de spații mai puțin încălzite), în vederea utilizării lor
+în partea a II-a, care vizează caracterizarea celorlalte subsisteme ale produsului clădire care sunt
+instalațiile și echipamentele clădirii și în partea a III-a, care tratează metoda de întocmire a
+auditului energetic al clădirii și a certificatului de performanță energetică a clădirii.
+Prezenta reglementare este elaborată în conformitate cu cap. III art. 4 din Legea nr. 372/2005
+și se referă atât la clădirile nou-construite, cât și la cele existente care urmează a fi modernizate
+din punct de vedere termic și energetic sau pentru care urmează să se elaboreze un certificat de
+performanță energetică în condițiile legii.
+În prezenta parte I a reglementării, la stabilirea performanței energetice a unei clădiri se au în
+vedere următoarele aspecte:
+— alcătuirea elementelor de construcție ale anvelopei clădirii;
+— vechimea clădirii (la clădiri noi, la clădiri existente etc.);
+— volumetria clădirii (de exemplu: raportul dintre aria anvelopei clădirii și volumul de aer
+încălzit, raportul dintre perimetrul construit și aria construită, gradul de vitrare etc.);
+— amplasarea clădirii pe teritoritoriul țării și în cadrul unei localități: influența poziției și
+orientării clădirilor, inclusiv a parametrilor climatici exteriori;
+— sistemele solare pasive și dispozitivele de protecție solară;
+— condițiile de climat interior;
+— condițiile de iluminat natural;
+— destinația, funcțiunea și regimul de utilizare a clădirii.
+Reglementarea tehnică stabilește, de asemenea, cerințele de performanță și valorile
+normate/valori de referință ale nivelurilor de performanță termică ale clădirii și elementelor de
+construcție care alcătuiesc anvelopa clădirii, diferențiate pentru diversele categorii și tipuri de
+clădiri, zone climatice etc.
+Reglementarea oferă, de asemenea, și un instrument pentru:
+— verificarea realizării unui nivel de confort higrotermic și a unor condiții igienico-sanitare
+corespunzătoare pentru utilizatori, precum și a unor condiții corespunzătoare desfășurării activității
+și proceselor tehnologice la clădirile industriale;
+— evaluarea gradului de izolare termică a clădirii în raport cu valorile de referință stabilite în
+scopul reducerii consumului de energie termică în exploatare și a protecției mediului prin
+reducerea emisiilor poluante în atmosferă.
+I.2. Domeniu de aplicare
+Prevederile prezentei reglementări se aplică la următoarele categorii de clădiri (noi și existente):
+— clădiri de locuit individuale (case unifamiliale, cuplate sau înșiruite, tip duplex etc.);
+— clădiri de locuit cu mai multe apartamente (blocuri);
+— birouri;
+— creșe, grădinițe, cămine, internate;
+— clădiri de învățământ;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+— spitale, policlinici;
+— hoteluri și restaurante;
+— clădiri pentru sport;
+— clădiri pentru servicii de comerț;
+— alte tipuri de clădiri consumatoare de energie (de exemplu: clădiri industriale cu regim
+normal de exploatare).
+Prevederile prezentei reglementări nu se aplică la următoarele categorii de clădiri:
+— clădiri și monumente protejate care fie fac parte din zone construite protejate conform legii,
+fie au valoare arhitecturală sau istorică deosebită, cărora dacă li se aplică cerințele, li s-ar
+modifica în mod inacceptabil caracterul ori aspectul exterior;
+— clădiri utilizate ca lăcașuri de cult sau pentru alte activități cu caracter religios;
+— clădiri provizorii prevăzute a fi utilizate pe perioade de până la 2 ani, din zone industriale,
+ateliere și clădiri nerezidențiale din domeniul agricol care necesită un consum redus de energie;
+— clădiri nerezidențiale care sunt destinate a fi utilizate mai puțin de 4 luni pe an;
+— clădiri independente, cu o suprafață utilă mai mică de 50 m2;
+— clădiri cu regim special de exploatare.
+Prevederile prezentei reglementări nu se aplică clădirilor și încăperilor la care se impun cerințe
+speciale ale regimului de temperaturi și de umiditate, cum sunt: spațiile frigorifice, cele cu mediu
+agresiv etc.
+Prevederile prezentei reglementări se utilizează la determinarea parametrilor de calcul stabiliți în
+partea a II-a și în partea a III-a.
+Între modelele de calcul folosite în cele 3 părți trebuie să existe o riguroasă corespondență.
+Metodologia prevăzută în prezenta reglementare tehnică se va utiliza la stabilirea/verificarea
+performanței energetice a clădirilor (PEC) noi și existente în vederea elaborării certificatului de
+performanță energetică a clădirii, precum și la analiza termică și energetică, respectiv întocmirea
+auditului energetic al clădirilor care urmează a fi modernizate din punct de vedere termic și
+energetic.
+I.3. Bibliografie
+[1] Metodologie de calcul a performanței energetice a clădirilor. Partea a II-a. Instalațiile de
+încălzire și apă caldă de consum, inclusiv izolarea acestora, instalația de climatizare, ventilația și
+ventilația naturală, instalația de iluminat integrată a clădirii, condițiile de climat interior, sisteme
+solare active și alte sisteme de încălzire, inclusiv electrice, bazate pe surse de energie
+regenerabilă, electricitate produsă prin cogenerare, centrale de încălzire și de răcire de cartier sau
+de bloc;
+[2] Auditul și certificatul de performanță energetică ale clădirii;
+[3] NP 008-97 — Normativ privind igiena compoziției aerului în spații cu diverse destinații, în
+funcție de activitățile desfășurate, în regim de iarnă-vară;
+[4] SR EN 410:2003 — Sticlă pentru construcții. Determinarea caracteristicilor luminoase și
+solare ale vitrajelor;
+[5] SR EN 673:2000 — Sticlă pentru construcții. Determinarea transmitanței termice U. Metodă
+de calcul;
+[6] SR EN 673:2000/A1:2002 — Sticlă pentru construcții. Determinarea transmitanței termice U.
+Metodă de calcul;
+[7] SR EN 673:2000/A1:2002/A2:2004 — Sticlă pentru construcții. Determinarea transmitanței
+termice U. Metodă de calcul;
+[8] SR EN ISO 832:2002 — Performanța termică a clădirilor. Calculul necesarului de energie
+pentru încălzire. Clădiri de locuit;
+[9] SR EN ISO 832:2002/AC:2002 — Performanța termică a clădirilor. Calculul necesarului de
+energie pentru încălzire. Clădiri de locuit;
+[10] SR EN ISO 832:2002/AC:2002/AC:2003 — Performanța termică a clădirilor. Calculul
+necesarului de energie pentru încălzire. Clădiri de locuit;
+[11] SR ISO 6240:1998 — Standarde de performanță în clădiri. Conținut și prezentare;
+[12] SR ISO 6241:1998 — Standarde de performanță în clădiri. Principii de elaborare și factori
+de luat în considerare;
+[13] SR EN ISO 6946:1998 — Părți și elemente de construcție. Rezistență termică și
+transmitanță termică. Metodă de calcul;
+[14] SR EN ISO 6946:1998/A1:2004 — Părți și elemente de construcție. Rezistență termică și
+transmitanță termică. Metodă de calcul;
+
+5
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+[15] SR EN ISO 7345:2002 — Izolație termică. Mărimi fizice și definiții;
+[16] SR ISO 7730:1007 — Ambianțe termice moderate. Determinarea indicilor PMV și PPD și
+specificarea condițiilor de confort termic;
+[17] SR EN ISO 9251:2002 — Izolație termică. Condiții de transfer de căldură și proprietăți ale
+materialelor. Vocabular;
+[18] SR EN ISO 9288:2002 — Izolație termică. Transfer de căldură prin radiație. Mărimi fizice
+și definiții;
+[19] SR EN ISO 9346:1998 — Izolație termică. Transfer de masă. Mărimi fizice și definiții;
+[20] SR EN ISO 10077-1:2002 — Performanța termică a ferestrelor, ușilor și obloanelor.
+Calculul transmitanței termice. Partea 1: Metodă simplificată;
+[21] SR EN ISO 10077-2:2004 — Performanța termică a ferestrelor, ușilor și obloanelor.
+Calculul transmitanței termice — Partea 2: Metodă generală;
+[22] SR EN ISO 10211-1:1998 — Punți termice în construcții. Fluxuri termice și temperaturi
+superficiale. Partea 1: Metode generale de calcul;
+[23] SR EN ISO 10211-1:1998/AC:2003 — Punți termice în construcții. Fluxuri termice și
+temperaturi superficiale. Partea 1: Metode generale de calcul;
+[24] SR EN ISO 10211-2:2002 — Punți termice în construcții. Calculul fluxurilor termice și
+temperaturilor superficiale. Partea 2: Punți termice liniare;
+[25] SR EN ISO 10456 — Materiale și produse pentru construcții. Proceduri pentru
+determinarea valorilor termice declarate și de proiectare;
+[26] SR EN ISO 12524 — Materiale și produse pentru construcții. Proprietăți higrotermice.
+Valori de proiectare tabelate;
+[27] SR EN 13363-1:2003 — Dispozitive de protecție solară aplicată vitrajelor. Calculul
+factorului de transmisie solară și luminoasă. Partea 1: Metodă simplificată;
+[28] SR EN 13363-2:2006 — Dispozitive de protecție solară aplicate vitrajelor. Calculul
+factorului de transmisie solară și luminoasă, Partea 2: Metodă detaliată de calcul;
+[29] SR EN ISO 13370:2003 — Performanța termică a clădirilor. Transferul termic prin sol.
+Metode de calcul;
+[30] SR EN 13788:2002 — Performanța higrotermică a componentelor și elementelor de
+construcție. Temperatură superficială interioară pentru evitarea umidității superficiale critice și
+condensului interior. Metodă de calcul;
+[31] SR EN 13789: — Performanța termică a clădirilor. Coeficient de pierderi de căldură prin
+transfer. Metodă de calcul;
+[32] SR EN ISO 13790:2004 — Performanța termică a clădirilor. Calculul necesarului de
+energie pentru încălzirea spațiilor;
+[33] SR EN ISO 13791:2006 — Performanța termică a clădirilor. Calculul temperaturii interioare
+a unei încăperi în timpul verii, fără climatizare. Criterii generale și proceduri de validare;
+[34] SR EN ISO 13792:2006 — Performanța termică a clădirilor. Calculul temperaturii interioare
+a unei încăperi în timpul verii, fără climatizare. Metode de calcul simplificate;
+[35] SR EN ISO 14683:2004 — Punți termice în clădiri. Transmitanță termică liniară. Metode
+simplificate și valori aproximate.
+[36] SR EN ISO 15927-1:2004 — Performanța higrotermică a clădirilor. Calculul și prezentarea
+datelor climatice. Partea 1: Mediile lunare și anuale ale elementelor meteorologice simple;
+[37] SR EN ISO 15927-4:2004 — Performanța higrotermică a clădirilor. Calculul și prezentarea
+datelor climatice. Partea 4: Date orare pentru evaluarea necesarului energetic anual pentru
+încălzire și răcire;
+[38] SR EN ISO 15927-5:2006 — Performanța higrotermică a clădirilor. Calculul și prezentarea
+datelor climatice. Partea 5: Date pentru sarcina termică de proiectare pentru încălzirea spațiilor;
+[39] SR EN 27726:1996 — Ambianțe termice. Aparate și metode de măsurare a mărimilor
+fizice;
+[40] SR 1907-1/1997 — Instalații de încălzire. Necesarul de căldură de calcul. Prescripții de
+calcul;
+[41] SR 1907-2/1997 — Instalații de încălzire. Necesarul de căldură de calcul. Temperaturi
+interioare de calcul;
+[42] SR 1907-3/1997 — Instalații de încălzire. Necesarul de căldură de calcul. Determinarea
+necesarului de căldură de calcul al serelor simplu vitrate;
+[43] SR 4839/1997 — Instalații de încălzire. Numărul anual de grade-zile;
+[44] STAS 6648/2-82 Instalații de ventilare și climatizare. Parametri climatici exteriori.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+[45] STAS 6221-1989 — Clădiri civile, industriale și agrozootehnice. Iluminatul natural al
+încăperilor — Prescripții de calcul
+[46] STAS 4908-1985 — Clădiri civile, industriale și agrozootehnice. Arii și volume
+convenționale.
+La elaborarea metodologiei s-a avut în vedere respectarea prevederilor din următoarele acte
+legislative:
+— Legea nr. 10/1995 privind calitatea în construcții
+— Legea privind performanța energetică a clădirilor nr. 372/2005
+I.4. Terminologie și notații
+Reglementarea tehnică utilizează terminologie, simboluri și concepte armonizate cu cele utilizate
+în standardele europene de referință.
+I.4.1 Terminologie
+Termenii utilizați în prezenta reglementare tehnică sunt:
+Clădire: ansamblu de spații cu funcțiuni precizate, delimitat de elementele de construcție care
+alcătuiesc anvelopa clădirii, inclusiv instalațiile aferente, în care energia este utilizată pentru
+asigurarea confortului higrotermic interior. Termenul clădire definește atât clădirea în ansamblu, cât
+și părți ale acesteia, care au fost proiectate sau modificate pentru a fi utilizate separat.
+Anvelopa clădirii: totalitatea suprafețelor elementelor de construcție perimetrale, care
+delimitează volumul interior (încălzit) al unei clădiri, de mediul exterior sau de spații neîncălzite din
+exteriorul clădirii.
+Performanța energetică a clădirii (PEC) — energia efectiv consumată sau estimată pentru a
+răspunde necesităților legate de utilizarea normală a clădirii, necesități care includ în principal:
+încălzirea, prepararea apei calde de consum, răcirea, ventilarea și iluminatul. Performanța
+energetică a clădirii se determină conform unei metodologii de calcul și se exprimă prin unul sau
+mai mulți indicatori numerici care se calculează luându-se în considerare izolația termică,
+caracteristicile tehnice ale clădirii și instalațiilor, proiectarea și amplasarea clădirii în raport cu
+factorii climatici exteriori, expunerea la soare și influența clădirilor învecinate, sursele proprii de
+producere a energiei și alți factori, inclusiv climatul interior al clădirii, care influențează necesarul
+de energie.
+Flux termic (Φ) : cantitatea de căldură transmisă la sau de la un sistem, raportată la timp.
+Densitatea fluxului termic (q): fluxul termic raportat la suprafața prin care se face transferul
+căldurii.
+Conductivitate termică de calcul ( λ): valoare a conductivității termice a unui material sau
+produs de construcție, în condiții interioare și exterioare specifice, care poate fi considerată ca
+fiind caracteristică pentru performanța acelui material sau produs când este încorporat într-o parte
+de construcție.
+Strat termic omogen: strat de material izotrop, de grosime constantă, având caracteristici
+termice care sunt uniforme sau care pot fi considerate ca fiind uniforme.
+Punte termică: porțiune din anvelopa unei clădiri, în care valoarea fluxului termic este sensibil
+modificată ca urmare a faptului că izotermele nu sunt paralele cu suprafețele elementelor de
+construcție. Parte a elementelor de construcție care alcătuiesc anvelopa clădirii în care fluxul
+termic este mai intens decât în rest, fiind modificat printr-o:
+a) penetrare totală sau parțială a anvelopei clădirii de către materiale cu o conductivitate
+termică diferită și/sau
+b) schimbare în grosimea structurii și/sau
+c) diferență între suprafețele interioare și exterioare, cum există la intersecțiile între
+perete/pardoseală/tavan.
+Punte termică liniară: punte termică având o secțiune uniformă în lungul uneia din cele trei
+axe ortogonale.
+Coeficient de cuplaj termic (L): fluxul termic în regim staționar, raportat la diferența de
+temperatură între două medii care sunt legate între ele din punct de vedere termic, printr-un
+element de construcție.
+Rezistență termică (R): valoare a rezistenței termice a unui produs de construcție, în condiții
+exterioare și interioare specifice, care pot fi considerate ca fiind caracteristice pentru performanța
+acelui produs când este încorporat într-o parte de construcție. Diferența de temperatură raportată
+la densitatea fluxului termic, în regim staționar.
+
+7
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+Coeficient de transfer termic (U): Transmitanță termică: fluxul termic în regim staționar,
+raportat la suprafața și la diferența de temperatură dintre temperaturile mediilor situate de o parte
+și de alta a unui sistem. Inversul rezistenței termice.
+Transmitanță termică liniară (Ψ): termen de corecție care introduce influența liniară a unei punți
+termice, în calcule 1-D ale coeficientului de cuplaj termic L.
+Transmitanță termică punctuală (χ): termen de corecție care introduce influența punctuală a
+unei punți termice, în calcule 1-D ale coeficientului de cuplaj termic L.
+Calcul unidirecțional (1D): model de calcul termotehnic simplificat, în care se consideră că
+liniile de flux sunt perpendiculare pe elementul de construcție.
+Calcul bidimensional (2D): model de calcul termotehnic, în care se ține seama de influența
+punților termice liniare și care se bazează pe un calcul plan, bidimensional, al câmpului de
+temperaturi.
+Calcul tridimensional (3D): model de calcul termotehnic, în care se ține seama de influența
+tuturor punților termice — liniare și punctuale — și care se bazează pe un calcul spațial,
+tridimensional, al câmpului de temperaturi.
+Lucrări de renovare: lucrări de modernizare efectuate asupra anvelopei clădirii și/sau a
+instalațiilor de încălzire, apă caldă de consum, electrice și iluminat, gaze naturale, ventilație și
+climatizare, ale căror costuri depășesc 25% din valoarea de impozitare a clădirii, sau lucrări de
+modernizare efectuate la mai mult de 25% din anvelopa clădirii.
+Regim (termic) staționar: ipoteză convențională de calcul termotehnic, în cadrul căreia se
+consideră că temperaturile nu variază în timp.
+Strat omogen: strat de grosime constantă, având caracteristici termotehnice uniforme sau care
+pot fi considerate uniforme.
+Strat cvasiomogen: strat alcătuit din două sau mai multe materiale, având conductivități
+termice diferite, dar care poate fi considerat ca un strat omogen, cu o conductivitate termică
+echivalentă.
+Suprafață adiabatică: suprafață prin care nu se produce niciun transfer termic.
+Izoterme: curbe care unesc punctele având aceleași temperaturi, determinate pe baza unui
+calcul al câmpului plan, bidimensional de temperaturi.
+Coeficient de emisie (ε): fluxul radiant al unui corp în raport cu fluxul radiant al corpului negru
+în aceleași condiții de temperatură.
+Temperatura suprafeței interioare: temperatura suprafeței interioare a unui element al
+anvelopei.
+Temperatură medie radiantă: temperatură superficială uniformă a închiderii unei incinte cu care
+un ocupant ar schimba aceeași cantitate de căldură prin radiație ca și în cazul unei incinte reale,
+caracterizată de temperaturi uniforme diferite ale închiderii.
+Temperatură operativă: temperatură uniformă a închiderii unei incinte cu care un ocupant ar
+schimba aceeași cantitate de căldură prin radiație și convecție ca și în cazul unei incinte reale
+neuniforme.
+Componenta cerului: raportul dintre acea parte a iluminării într-un punct al unui plan dat care
+este receptată direct de la cer (sau printr-o sticlă limpede), a cărui repartiție a luminanțelor este
+presupusă sau cunoscută, și iluminarea pe un plan orizontal, provenind fără obstrucții, de la
+semisfera cerului.
+Componenta reflectată externă: raportul dintre acea parte a iluminării într-un punct al unui
+plan dat din interior determinată de primirea directă a luminii de la suprafețele exterioare iluminate
+direct sau indirect de către cer, a cărui repartiție a luminanțelor este presupusă sau cunoscută, și
+iluminarea pe un plan orizontal, provenind fără obstrucții, de la semisfera cerului.
+Componenta reflectată internă: raportul dintre acea parte a iluminării într-un punct al unui plan
+dat din interior determinată de fluxul reflectat de către suprafețele interioare iluminate direct sau
+indirect de către cer, a cărui repartiție a luminanțelor este presupusă sau cunoscută, și iluminarea
+pe un plan orizontal, provenind fără obstrucții, de la semisfera cerului.
+Factorul de lumină naturală: raportul dintre iluminarea într-un punct al unui plan dat, datorită
+luminii incidente directe sau indirecte a cerului, pentru care repartiția luminanțelor este presupusă
+sau cunoscută, și iluminarea pe un plan orizontal când lumina provine de la semisfera cerului
+fără obturări. La această mărime este exclusă contribuția solară directă la cele două valori ale
+iluminărilor considerate. Influențele geamurilor, petelor etc. sunt incluse. În calculele iluminatului
+interior, contribuția luminii solare directe trebuie să fie luată în considerare separat.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+9
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+11
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+13
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+15
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+17
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+19
+
+20
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+21
+
+22
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+23
+
+24
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+25
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+27
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+29
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+31
+
+32
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+33
+
+34
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+35
+
+36
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+37
+
+38
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+39
+
+40
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+41
+
+42
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+43
+
+44
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+45
+
+46
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+47
+
+48
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+49
+
+50
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+51
+
+52
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+53
+
+54
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+55
+
+56
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+57
+
+58
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+59
+
+60
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+61
+
+62
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+63
+
+64
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+65
+
+66
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+67
+
+68
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+69
+
+70
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+71
+
+72
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+73
+
+74
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+75
+
+76
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+77
+
+78
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+79
+
+80
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+81
+
+82
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+83
+
+84
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+85
+
+86
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+87
+
+88
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+89
+
+90
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+91
+
+92
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+93
+
+94
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+95
+
+96
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+97
+
+98
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+99
+
+100
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+101
+
+102
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+103
+
+104
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+105
+
+106
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+107
+
+108
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+109
+
+110
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+111
+
+112
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+113
+
+114
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+115
+
+116
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+117
+
+118
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+119
+
+120
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+121
+
+122
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+123
+
+124
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+125
+
+126
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+127
+
+128
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+129
+
+130
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+131
+
+132
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+133
+
+134
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+135
+
+136
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+137
+
+138
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+139
+
+140
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+141
+
+142
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+143
+
+144
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+145
+
+146
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+147
+
+148
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+149
+
+150
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+151
+
+152
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+153
+
+154
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+155
+
+156
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+157
+
+158
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+159
+
+160
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+161
+
+162
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+ANEXA Nr. 2
+
+METODOLOGIE DE CALCUL AL PERFORMANȚEI ENERGETICE A CLĂDIRILOR
+PARTEA a II-a — PERFORMANȚA ENERGETICĂ A INSTALAȚIILOR DIN CLĂDIRI
+Indicativ Mc 001 / 2—2006
+II.1 CALCULUL CONSUMULUI DE ENERGIE ȘI AL EFICIENȚEI ENERGETICE A INSTALAȚIILOR
+DE ÎNCĂLZIRE
+II.2 CALCULUL CONSUMULUI DE ENERGIE ȘI AL EFICIENȚEI ENERGETICE A INSTALAȚIILOR
+DE VENTILARE ȘI CLIMATIZARE
+II.3 CALCULUL CONSUMULUI DE ENERGIE ȘI AL EFICIENȚEI ENERGETICE A INSTALAȚIILOR
+DE APĂ CALDĂ DE CONSUM
+II.4 CALCULUL CONSUMULUI DE ENERGIE ȘI AL EFICIENȚEI ENERGETICE A INSTALAȚIILOR
+DE ILUMINAT
+II.5 METODE SIMPLIFICATE DE CALCUL AL PERFORMANȚEI ENERGETICE A INSTALAȚIILOR
+DIN CLĂDIRI
+II.1 CALCULUL CONSUMULUI DE ENERGIE ȘI AL EFICIENȚEI ENERGETICE A
+INSTALAȚIILOR DE ÎNCĂLZIRE
+CUPRINS
+II.1.1 Introducere
+II.1.2 Normative și standarde conexe
+II.1.3 Simboluri și definiții
+II.1.4 Principiul metodei de calcul
+II.1.5 Calculul necesarului de energie pentru încălzirea clădirilor
+II.1.6 Calculul pierderilor de căldură ale instalației de încălzire
+II.1.7 Calculul pierderilor de căldură la nivelul subsistemului de distribuție, Qd
+II.1.8 Calculul pierderilor de căldură și performanța cazanelor
+II.1.9 Necesarul de energie electrică pentru distribuția agentului termic de încălzire și energia
+auxiliară recuperată
+II.1.10 Calculul energiei primare și a emisiilor de CO2
+II.1.1 Anexe
+Anexa II.1.A.
+Anexa II.1.B.
+Anexa II.1.C.
+Anexa II.1.D.
+Anexa II.1.E.
+Anexa II.1.F.
+Anexa II.1.G.
+
+Clasificarea instalațiilor de încălzire
+Eficiența emisiei de căldură
+Factori de performanță energetică
+Pierderi de căldură ale sistemului de distribuție
+Factori de corecție pentru sarcina hidrodinamică
+Consumul anual de energie electrică auxiliară
+Exemplu de calcul pentru un subsistem
+
+II.1 CALCULUL CONSUMULUI DE ENERGIE ȘI AL EFICIENȚEI ENERGETICE A INSTALAȚIILOR
+DE ÎNCĂLZIRE
+II.1.1. Obiective și domenii de aplicare
+Metodologia de calcul are la bază pachetul de standarde europene privind performanța
+energetică a clădirilor, elaborat ca suport pentru aplicarea Directivei 2002/91/CE privind
+performanța energetică a clădirilor, și răspunde cerințelor din Legea nr. 372/2005 privind
+performanța energetică a clădirilor.
+Partea II.1 descrie structura metodei de calcul a consumului de energie termică pentru
+încălzirea unei clădiri și a eficienței energetice a sistemului de încălzire până la branșamentul
+clădirii. Se va lua în calcul performanța energetică a sursei de căldură numai în cazul clădirilor cu
+sursă termică individuală.
+Aplicarea metodei de calcul depinde de tipul instalațiilor de încălzire. O clasificare a instalațiilor
+de încălzire este prezentată în anexa II.1.A.
+Metoda de calcul poate fi utilizată pentru următoarele aplicații:
+— evaluarea conformității cu normele care prevăd limite de consum energetic;
+— optimizarea performanței energetice a unei clădiri în proiectare prin aplicarea metodei pentru
+mai multe variante posibile de realizare;
+— stabilirea unui nivel convențional de performanță energetică pentru clădirile existente;
+— certificarea performanței energetice a clădirilor;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+— evaluarea efectului asupra unei clădiri existente al măsurilor posibile de conservare a
+energiei, prin calcularea necesarului energetic cu sau fără implementarea măsurilor de reabilitare;
+— predicția resurselor energetice necesare în viitor la scară națională sau internațională, prin
+calcularea necesarului energetic al unor clădiri reprezentative pentru întregul segment de clădiri.
+II.1. 2. Normative și standarde conexe
+Sunt cuprinse referințe datate sau nedatate, prevederi din alte publicații citate în text și
+enumerate mai jos. Pentru referințele datate, modificările sau revizuirile ulterioare ale acestora nu
+se aplică decât dacă sunt incluse prin modificare sau revizuire. Pentru referințele nedatate se
+aplică ultima ediție a publicației la care se face referință.
+SR EN ISO 13790 — Performanța termică a clădirilor. Calculul necesarului de energie pentru
+încălzire
+SR 4839 — Instalații de încălzire. Număr anual de grade-zile
+Metodologie de calcul al performanței energetice a clădirilor — Partea I.
+II.1. 3. Simboluri și definiții
+II.1.3.1. Definiții
+Pentru utilizarea acestei norme sunt valabile definițiile cuprinse în SR EN ISO 7345, precum și
+următoarele definiții:
+II.1.3.1.1. Perioada de calcul
+Perioada de timp considerată la calcularea pierderilor de căldură și aporturilor (lună, zi,
+perioadă etc.).
+II.1.3.1.2. Spațiu încălzit
+Cameră/încăpere încălzită având temperatura interioară constantă, prestabilită (set-point).
+II.1.3.1.3. Zonă termică
+Acea parte a spațiului încălzit/clădirii care are următoarele caracteristici:
+— aceeași temperatură interioară de referință (set-point);
+— variație spațială neglijabilă a temperaturii interioare.
+II.1.3.1.4. Necesarul de căldură pentru încălzirea clădirii
+Căldura care trebuie furnizată spațiului încălzit pentru a menține temperatura interioară la o
+valoare constantă prestabilită (set-point, referință).
+II.1.3.1.5. Consumul de energie pentru încălzire
+Energia livrată sistemului de încălzire pentru a satisface necesarul de căldură pentru încălzirea
+clădirii.
+II.1.3.1.6. Eficiența energetică a rețelei de distribuție
+Raportul dintre energia consumată pentru încălzire și/sau pentru furnizarea a.c.c. utilizând un
+sistem adiabatic de distribuție și energia consumată în același scop utilizând o rețea reală de
+distribuție.
+II.1.3.1.7. Eficiența energetică a consumatorului
+Raportul dintre energia consumată pentru încălzirea unui spațiu cu un sistem ideal de emisie a
+căldurii care conduce la o distribuție uniformă a temperaturii interioare și energia consumată în
+același scop utilizând un consumator real cu un sistem real de reglare, care conduce la o
+distribuție neuniformă a temperaturii interioare.
+II.1.3.1.8. Eficiența energetică a instalației de încălzire
+Raportul dintre necesarul de căldură pentru încălzirea clădirii și consumul de energie pentru
+încălzire.
+II.1.3.1.9. Pierderi de căldură ale clădirii
+Suma dintre pierderile de căldură prin transmisie și ventilare.
+II.1.3.1.10. Pierderi de căldură ale rețelei de distribuție
+Pierderile de căldură ale sistemului de distribuție spre spații încălzite sau neîncălzite. Aceste
+pierderi includ pierderile recuperabile de căldură.
+II.1.3.1.11. Pierderi de căldură ale sistemului de emisie
+Pierderile de căldură la nivelul corpurilor de încălzire cauzate de distribuția neuniformă a
+temperaturii interioare și de sistemul real de reglare.
+II.1.3.1.12. Pierderi de căldură ale sursei de căldură
+Pierderile de căldură ale generatorului de căldură care apar atât în timpul funcționării, cât și pe
+durata nefuncționării, precum și pierderile de căldură generate de reglarea reală a funcționării
+sursei; aceste pierderi conțin pierderi recuperabile de căldură.
+
+163
+
+164
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+II.1.3.1.13. Pierderile totale de căldură ale sistemului de încălzire
+Suma pierderilor de căldură ale emisiei, rețelei de distribuție și sursei. Aceste pierderi conțin și
+pierderile recuperabile de căldură.
+II.1.3.1.14. Coeficientul de (funcționare în) sarcină redusă
+Raportul dintre căldura furnizată pe durata perioadei de calcul și valoarea maximă a căldurii pe
+care ar putea să o furnizeze sursa în aceeași perioadă.
+II.1.3.1.15. Energia primară
+Energia care nu a constituit încă subiectul vreunui proces de conversie sau transformare
+(exemplu: energia conținută în petrolul existent, dar neexploatat încă).
+II.1.3.1.16. Pierderi recuperabile (utilizabile) de căldură ale sistemului de încălzire
+Acea parte a pierderilor de căldură ale unui sistem de încălzire și furnizare a a.c.c. care se
+poate recupera în scopul reducerii necesarului de căldură pentru încălzire.
+II.1.3.1.17. Pierderi recuperate (utilizate) de căldură ale sistemului de încălzire
+Acea parte a pierderilor recuperabile de căldură care reduc necesarul de căldură pentru
+încălzire și care nu sunt luate direct în calcul prin reducerea pierderilor de căldură ale sistemului
+de încălzire.
+II.1.3.1.18. Perioada de încălzire (perioada de funcționare a sistemului de încălzire)
+Perioada de timp în care sistemul de încălzire furnizează energie termică pentru satisfacerea
+necesarului de căldură pentru încălzire și preparare a a.c.c.
+II.1.3.2. Simboluri și unități de măsură
+În acest document sunt utilizate următoarele simboluri, unități și indici:
+Simboluri și unități de măsură
+Simbol
+
+Denumirea mărimii
+
+UM
+
+c
+
+Căldură specifică
+
+J/(kg·K)
+
+e
+
+Coeficient de performanță a sistemului (factor de extrapolare)
+
+—
+
+E
+
+Energie primară
+
+J
+
+f
+
+Factor de conversie
+
+—
+
+m
+.
+M
+
+Masă
+
+kg
+
+Debit masic
+
+Kg/s
+
+t
+
+Timp, perioada de timp
+
+s
+
+T
+
+Temperatură termodinamică
+
+K
+
+Q
+
+Cantitate de căldură; energie
+
+J
+
+Φ
+
+Putere termică
+
+W
+
+V
+
+Volum
+
+m3
+
+V
+
+Debit volumic
+
+m3/s
+
+W
+
+Energie electrică auxiliară
+
+J
+
+η
+
+Eficiență, randament
+
+—
+
+θ
+
+Temperatură
+
+°C
+
+ρ
+
+Densitatea apei
+
+kg/m3
+
+.
+
+Indici
+a
+
+aer
+
+gs
+
+Aporturi
+
+r
+
+Recuperat
+
+c
+
+Control
+
+h
+
+Căldură
+
+s
+
+Stocat
+
+d
+
+Distribuție
+
+i
+
+Interior
+
+t
+
+Total
+
+in
+
+Intrare în sistem
+
+l
+
+pierderi
+
+out
+
+Ieșire din sistem
+
+em
+
+Emisie
+
+nr
+
+Pierderi nerecuperate
+
+w
+
+A.c.c.
+
+e
+
+Exterior
+
+off
+
+Off/oprit
+
+x
+
+indice
+
+f
+
+Final
+
+on
+
+On/pornit
+
+0
+
+Moment inițial
+
+g
+
+Generare
+
+p
+
+primar
+
+gl
+
+Pierderi la generare
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+II.1.4. Principiul metodei de calcul
+II.1.4.1. Consumul de energie pentru încălzirea clădirilor
+Pentru o perioadă determinată (an, lună, săptămână) consumul de energie pentru încălzirea
+clădirilor, Qf,h, se calculează cu relația următoare:
+Qf,h = (Qh — Qrhh — Qrwh) + Qth
+
+[J]
+
+(1.1)
+
+în care:
+Qh
+= necesarul de energie pentru încălzirea clădirii, calculat conform capitolului 1.5, în
+Joule (J);
+Qrhh = căldura recuperată de la subsistemul de încălzire (componente termice sau electrice),
+în Joule (J)†; această componentă reprezintă o parte a lui Qth;
+Qrwh = căldura recuperată de la subsistemul de preparare a a.c.c. (componente termice sau
+electrice) și utilizată pentru încălzirea clădirii, în Joule (J);
+Qth = pierderile totale de căldură ale subsistemului de încălzire, în Joule (J); aceste pierderi
+includ componenta Qrhh (figura 1.1).
+
+Figura II.1.1 — Consumul de energie pentru încălzirea clădirilor
+II.1.4.2. Consumuri auxiliare de energie
+Energia auxiliară, de obicei sub forma energiei electrice, este utilizată pentru acționarea
+pompelor de circulație, ventilatoarelor, vanelor și dispozitivelor automate de reglare, măsurare și
+control. Consumul auxiliar de energie poate fi disponibil ca valoare pentru fiecare subsistem
+(încălzire Wh, respectiv a.c.c. Ww) sau ca valoare globală (W). O parte din energia auxiliară poate
+fi recuperată sub formă de căldură, Qrx.
+II.1.4.3. Pierderi de căldură recuperabile și recuperate
+În cazul unei clădiri sau al unei părți dintr-o clădire nu toate pierderile de căldură ale sistemului
+de încălzire obținute prin calcul sunt în mod obligatoriu pierdute. O parte din valoarea calculată
+este recuperabilă.
+Exemplu: pierderile termice ale unei conducte sunt nerecuperabile doar dacă aceasta nu se
+află în interiorul clădirii. Altfel, emisia termică a conductei poate contribui la încălzirea spațiului,
+pierderile termice devenind recuperabile.
+Valoarea pierderilor recuperate depinde de factorul de utilizare (raportul degajare/pierdere),
+deoarece dacă degajările termice dintr-un spațiu încălzit sunt foarte mari comparativ cu pierderile
+de căldură ale spațiului, atunci doar o mică parte din degajările termice vor fi recuperate.
+
+165
+
+166
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+Se face distincție între două tipuri de pierderi de căldură recuperate:
+1. — pierderi de căldură recuperate care sunt luate în mod direct în calcul prin reducerea
+pierderilor de căldură.
+Spre exemplu, o parte substanțială a energiei auxiliare consumate de subsistemul de distribuție
+se transformă în căldură și se transmite direct apei calde. Această parte a pierderilor de căldură
+recuperate se ia ulterior în considerare la calcularea performanței energetice a subsistemului de
+distribuție.
+2. — pierderi de căldură recuperate care sunt luate în calcul prin reducerea necesarului de
+căldură pentru încălzirea clădirii.
+Spre exemplu, pierderile de căldură ale unui vas de stocare a a.c.c. pot contribui la încălzirea
+încăperii.
+Această parte a pierderilor de căldură recuperate nu este luată în calcul la determinarea
+performanței energetice a subsistemului de preparare a a.c.c., ci este considerată prin reducerea
+necesarului de căldură pentru încălzire deoarece valoarea pierderilor de căldură recuperate
+depinde de interacțiunea dintre anvelopa clădirii și vasul de stocare.
+II.1.4.4. Necesarul de căldură pentru încălzirea clădirilor
+Necesarul de căldură pentru încălzirea unei clădiri, Qh se calculează conform capitolului 1.5.
+Documentul recomandat pentru calculul necesarului de căldură al clădirilor este SR EN ISO 13790.
+Metoda prezentată în acest standard nu ia în considerare pierderile sistemelor de încălzire
+cauzate de neuniformitatea distribuției temperaturii interioare, de ineficiența sistemelor de reglare,
+de pierderile recuperabile și de energia auxiliară care vor fi calculate separat la nivelul
+subsistemelor de emisie a căldurii și de distribuție.
+Efectele încălzirii intermitente a unei clădiri utilizând un dispozitiv ideal de programare pot fi
+calculate cu o metodă detaliată în SR EN ISO 13790 și sunt luate în considerare la determinarea
+necesarului de căldură, Qh.
+II.1.4.5. Pierderile de căldură ale instalației de încălzire, Qth
+Pentru calcularea acestor pierderi de căldură sunt considerate următoarele subsisteme ale
+sistemului de încălzire:
+— sistemul de transmisie a căldurii la consumator, inclusiv dispozitivele de reglare și control;
+— sistemul de distribuție a căldurii către consumator, inclusiv dispozitivele de reglare și control;
+— sistemul de stocare, inclusiv dispozitivele de reglare și control (acolo unde este cazul);
+— sistemul de generare a căldurii (pentru clădiri dotate cu surse termice individuale), inclusiv
+dispozitivele de reglare și control.
+II.1.4.6. Perioade de calcul
+Scopul metodei de calcul este determinarea necesarului de energie pentru încălzirea clădirii, a
+consumului final și a consumului primar de energie pe durata unui an, în cazul sistemului de
+încălzire. Acest obiectiv poate fi realizat în două moduri:
+— utilizând datele înregistrate pe toată durata anului și valori medii;
+— prin divizarea anului într-un număr de perioade de calcul (luni, săptămâni), efectuând
+calculele pentru fiecare subperioadă și însumând apoi energia consumată în fiecare subperioadă.
+II.1.4.7. Pierderile de căldură ale instalației de încălzire a clădirii
+Sensul de calcul al pierderilor de căldură este opus sensului de consum al energiei (sens
+energetic). Calculul începe cu determinarea necesarului de energie și se termină cu calculul
+energiei primare consumate. Necesarul de energie este dat de suma dintre energia termică
+transmisă clădirii de corpurile de încălzire (sistemul de emisie termică) și pierderile de căldură
+recuperate.
+Pentru fiecare subsistem se calculează pierderile de căldură Qh,x care se adaugă energiei
+termice transferate, determinându-se astfel energia consumată.
+Pierderile de căldură ale unui subsistem includ pierderile recuperabile, dar nu și energia
+auxiliară consumată. Dacă există, necesarul de energie electrică, Wx, se calculează separat. Se
+ține cont și de faptul că pierderile de energie electrică se adaugă pierderilor de energie ale
+subsistemelor sistemului de încălzire.
+Pentru fiecare subsistem al sistemului de încălzire, o parte a pierderilor de căldură și o parte
+a pierderilor de energie auxiliară sunt recuperabile (și utilizate la încălzirea clădirii), formând
+împreună pierderi de căldură recuperabile ale fiecărui subsistem, așa cum se arată în figura 1.2.
+Calculele se realizează pentru fiecare subsistem în parte până când se obține consumul
+energetic al subsistemului de generare a căldurii (sursa).
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+Figura II.1.2. Direcția de calcul și structura sistemului de alimentare cu căldură
+Calculele se realizează pentru fiecare subsistem în parte până când se obține consumul
+energetic al subsistemului de generare a căldurii (sursă).
+Pierderile recuperate de căldură ale diferitelor subsisteme sunt calculate și scăzute din
+necesarul de căldură prin micșorarea pierderilor totale de căldură ale subsistemului în cauză.
+Această abordare nu este din punct de vedere fizic corectă deoarece pierderile de căldură
+recuperate ar trebui scăzute direct din consumul energetic al fiecărui subsistem. Totuși,
+metodologia prezentată permite o simplificare semnificativă prin care se evită calcularea iterativă a
+pierderilor de căldură recuperate. Astfel, se calculează doar o singură dată aceste pierderi de
+căldură recuperate și se scad din valoarea finală a pierderilor totale de căldură.
+Orice metodă de calcul pentru un anumit subsistem de instalații trebuie să furnizeze
+următoarele mărimi:
+— consumul de energie termică Qin,x sau a pierderilor de căldură;
+— consumul de energie electrică, Wx;
+— pierderile de căldură recuperabile, Qr,x
+prin utilizarea următoarelor date privind subsistemul:
+— căldura care trebuie furnizată (necesarul energetic pentru încălzire), Qout,x;
+— indicatori de performanță energetică.
+Acești parametri utilizați de metodologia de calcul, valorile tabelare și o metodă mai detaliată
+de calcul vor fi descrise în secțiuni separate ale acestei norme relativ la fiecare subsistem
+(consumator-emisie, distribuție, stocare și generare-sursă) sau tip de tehnologie.
+II.1.4.8. Zonarea sistemului de încălzire
+Structura unui sistem de încălzire poate fi complexă, incluzând:
+— mai multe tipuri de corpuri de încălzire montate în mai multe zone ale clădirii;
+— o singură sursă de căldură utilizată atât pentru diferite sisteme de încălzire cât și pentru
+prepararea a.c.c.;
+
+167
+
+168
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+— mai multe surse de căldură;
+— mai multe sisteme de stocare a energiei (dacă este cazul);
+— diferite tipuri de energie utilizate în clădire.
+Utilizarea valorilor medii globale poate fi nepractică, necesitând ponderi adecvate, poate fi
+imposibilă sau poate conduce la erori de calcul mult prea mari. Aceste dificultăți pot fi soluționate
+urmărind structura sistemului de furnizare a căldurii.
+Exemplul 1: Consumul de energie și pierderile de căldură la consumator aferente diferitelor
+zone ale sistemului de căldură se pot calcula separat; ulterior se însumează valorile aferente
+fiecărei zone și se continuă cu calculele pentru subsistemul comun de distribuție a căldurii.
+Exemplul 2: Consumul de energie al diferitelor subsisteme de distribuție/stocare a căldurii
+pentru încălzire, respectiv pentru prepararea a.c.c., se poate calcula separat, iar după însumare
+se continuă cu calculele pentru subsistemul comun de generare a căldurii.
+Exemplul 3: Consumul de energie al unui subsistem de distribuție se poate calcula și repartiza
+mai multor subsisteme de generare (surse de energie termică).
+Acest tip de îmodularitate“ este întotdeauna posibil dacă principiul aditivității pierderilor de
+căldură este respectat.
+II.1.4.9. Metode simplificate și detaliate pentru calculul pierderilor totale de căldură
+Pentru determinarea pierderilor totale de căldură se pot aplica subsistemelor metode
+simplificate sau detaliate de calcul, în funcție de cunoștințele tehnice actuale sau standardele
+disponibile și de gradul de precizie solicitat.
+Nivelul de detaliere a metodologiei de calcul se poate clasifica după cum urmează.
+Nivelul A: Pierderile de căldură sau coeficienții de performanță sunt furnizați într-un tabel
+pentru întregul sistem de încălzire. Selectarea valorilor potrivite se face în concordanță cu tipul
+întregului sistem de instalații termice.
+Nivelul B: Pentru fiecare subsistem, pierderile de căldură, consumurile de energie electrică sau
+coeficienții de performanță sunt tabelate. Selectarea valorilor potrivite se face în concordanță cu
+tipul subsistemului.
+Nivelul C: Pentru fiecare subsistem, pierderile de căldură, consumurile de energie electrică sau
+coeficienții de performanță sunt calculați. Calculele sunt realizate pe baza dimensiunilor sistemului,
+sarcinilor termice și altor date considerate constante (sau mediate) pe durata de calcul. Metoda
+de calcul ține cont de fenomenul fizic (detaliat sau simplificat) sau corelații.
+Nivelul D: Pierderile și coeficienții de performanță sunt calculați în urma simulărilor dinamice,
+luând în considerare variația în timp a valorilor variabilelor (temperatura exterioară, temperatura
+apei etc.).
+II.1.5. Calculul necesarului de căldură pentru încălzirea clădirilor
+II.1.5.1. Principiul metodei de calcul și datele necesare
+Metoda de calcul pentru stabilirea necesarului de căldură anual al unei clădiri are la bază
+întocmirea unui bilanț termic așa cum indică figura 1.3.
+Bilanțul energetic include următorii termeni (se ia în considerare numai căldura sensibilă):
+— pierderile de căldură prin transmisie și ventilare de la spațiul încălzit către mediul exterior;
+— pierderile de căldură prin transmisie și ventilare între zonele învecinate;
+— degajările interne utile de căldură;
+— aporturile solare;
+— pierderile de căldură aferente producerii, distribuției, cedării de căldură și aferente reglajului
+instalației de încălzire;
+— energia introdusă în instalația de încălzire.
+În funcție de structura instalației de încălzire, în bilanț se va introduce aportul surselor
+alternative și va fi inclusă energia recuperată din diverse surse.
+— Ținând seama de faptul că aporturile de căldură pot conduce la creșterea
+temperaturii interioare peste valoarea convențională de calcul, pierderile termice suplimentare
+corespunzătoare se iau în considerare prin intermediul unui factor de utilizare care reduce
+aporturile de căldură.
+Termenii principali ai bilanțului energetic sunt prezentați schematic în figura 1.3.
+NOTĂ
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+Figura II.1.3. — Bilanțul energetic privind încălzirea unei clădiri
+Legenda
+Q — necesar de energie pentru încălzire și preparare apă
+Qh — necesar de energie pentru încălzire
+Qoa — degajări de căldură de la alte aparate
+QV — pierderi termice prin ventilare
+Qr — energie recuperată
+QVr — căldură recuperată din ventilare
+Qhs — pierderi din instalația de încălzire
+QT — pierderi termice prin transmisie
+Qm — căldura metabolică
+Qhw — căldura pentru preparare apă caldă
+Qs — aporturi solare pasive
+QL — pierderi termice totale
+Qi — degajări de căldură interne
+1 — conturul
+Qg — aporturi totale
+2 — conturul
+ηQg — aporturi utile
+3 — conturul
+4 — conturul
+
+caldă de consum
+
+zonei încălzite
+instalației de apă caldă
+centralei termice
+clădirii
+
+II.1.5.2. Procedura de calcul
+Procedura de calcul este sintetizată în cele ce urmează:
+1) se definesc limitele spațiului încălzit și, dacă este cazul ale zonelor diferite și ale spațiilor
+neîncălzite;
+2) în cazul încălzirii sau ventilării cu intermitență, se definesc, pentru perioada de calcul,
+perioadele care sunt caracterizate de program de încălzire sau ventilare diferit (de exemplu zi,
+noapte, sfârșit de săptămână);
+3) în cazul calculului pentru o singură zonă: se calculează coeficientul de pierderi al spațiului
+încălzit; pentru calcul multi-zonal documentul recomandat este SR EN ISO 13790 anexa B;
+4) pentru calculele pe sezonul de încălzire se definește sau se calculează durata și datele
+climatice ale sezonului de încălzire.
+Apoi, pentru fiecare perioadă de calcul (lună sau sezon de încălzire):
+5) se calculează temperatura interioară pentru fiecare perioadă;
+6) se calculează pierderile de căldură totale, QL;
+7) se calculează degajările interne de căldură, Qi;
+8) se calculează aporturile solare, Qs;
+9) se calculează factorul de utilizare al aporturilor de căldură, η;
+10) se calculează necesarul de căldură, Qh, pentru toate perioadele de calcul;
+11) se calculează necesarul anual de căldură, Qh;
+12) se calculează necesarul de energie pentru încălzire, Qth, ținând seama de pierderile sau
+de randamentul instalației de încălzire.
+II.1.5.3. Definirea conturului și a zonelor de calcul
+II.1.5.3.1. Contur al spațiului încălzit
+Conturul spațiului încălzit constă în toate elementele de construcție care separă spațiul încălzit
+considerat de mediul exterior sau de zone încălzite sau spatii neîncălzite adiacente, definite
+conform îMetodologiei de calcul al performanței energetice a clădirilor — Partea I“
+
+169
+
+170
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+171
+
+172
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+173
+
+174
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+175
+
+176
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+177
+
+178
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+179
+
+180
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+181
+
+182
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+183
+
+184
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+185
+
+186
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+187
+
+188
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+189
+
+190
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+191
+
+192
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+193
+
+194
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+195
+
+196
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+197
+
+198
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+199
+
+200
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+201
+
+202
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+203
+
+204
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+205
+
+206
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+207
+
+208
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+209
+
+210
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+211
+
+212
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+213
+
+214
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+215
+
+216
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+217
+
+218
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+219
+
+220
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+221
+
+222
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+223
+
+224
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+II.2 CALCULUL CONSUMULUI DE ENERGIE ȘI AL EFICIENȚEI ENERGETICE A INSTALAȚIILOR
+DE VENTILARE ȘI CLIMATIZARE
+CUPRINS
+II.2.1 Terminologie, clasificarea sistemelor de ventilare și climatizare și aer condiționat.
+II.2.2 Notații
+II.2.3 Calculul temperaturii interioare în perioada de vară; verificarea confortului interior;
+oportunitatea climatizării
+II.2.4 Calculul necesarului de energie pentru răcirea clădirilor — metodă de calcul lunară
+II.2.5 Calculul necesarului de energie pentru răcirea clădirilor — metodă de calcul orară
+II.2.6 Calculul debitelor de aer pentru ventilare naturală și mecanică
+II.2.7 Calculul consumului de energie pentru ventilarea clădirilor
+II.2.8 Calculul consumului anual de energie pentru sistemele centralizate și descentralizate de
+climatizare și aer condiționat
+ANEXE:
+Anexa II.2.A.
+Anexa II.2.B.
+Anexa II.2.C.
+Anexa II.2.D.
+Anexa II.2.E.
+Anexa II.2.F.
+Anexa II.2.G.
+Anexa II.2.H.
+Anexa II.2.I.
+Anexa II.2.J.
+Anexa II.2.K.
+Anexa II.2.L.
+
+Date climatice
+Calcul multizonă utilizând cuplajul termic între zone adiacente
+Date pentru calculul aporturilor solare
+Date de intrare convenționale
+Ipoteze și valori necesare proiectării instalațiilor de ventilare și climatizare
+Date privind coeficienții de presiune dinamica Cp datorați vântului
+Caracteristici de permeabilitate ale clădirii
+Calculul coeficientului de recirculare Crec
+Degajări medii de umiditate de la surse interne, g/h,m2
+Coeficient de consum specific de energie electrică pentru umidificare, Wh/g
+Număr de ore de funcționare pe an la sarcină nominală (echivalent energie)
+Valori recomandate pentru puterea specifică a ventilatorului, Psp (W/m3/h)
+
+Documente recomandate
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+225
+
+226
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+227
+
+228
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+229
+
+230
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+231
+
+232
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+233
+
+234
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+235
+
+236
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+237
+
+238
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+239
+
+240
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+241
+
+242
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+243
+
+244
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+245
+
+246
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+247
+
+248
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+249
+
+250
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+251
+
+252
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+253
+
+254
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+255
+
+256
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+257
+
+258
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+259
+
+260
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+261
+
+262
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+263
+
+264
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+265
+
+266
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+267
+
+268
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+269
+
+270
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+271
+
+272
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+273
+
+274
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+275
+
+276
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+277
+
+278
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+279
+
+280
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+281
+
+282
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+283
+
+284
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+285
+
+286
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+287
+
+288
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+289
+
+290
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+291
+
+292
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+293
+
+294
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+295
+
+296
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+297
+
+298
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+299
+
+300
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+301
+
+302
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+303
+
+304
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+305
+
+306
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+307
+
+308
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+309
+
+310
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+311
+
+312
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+313
+
+314
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+315
+
+316
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+317
+
+318
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+319
+
+320
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+321
+
+322
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+323
+
+324
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+II. 3. CALCULUL CONSUMULUI DE ENERGIE ȘI AL EFICIENȚEI ENERGETICE A
+INSTALAȚIILOR DE APĂ CALDĂ DE CONSUM
+CUPRINS
+II.3.1. Obiect, domeniul de aplicare, acte normative conexe, terminologii, notații
+II.3.2. Clasificarea instalațiilor de alimentare cu apă caldă de consum
+II.3.3. Energia utilă pentru instalațiile de alimentare cu apă caldă de consum
+II.3.4. Recuperarea pierderilor de căldură
+II.3.5. Energia auxiliară totală necesară pentru instalația de alimentare cu apă caldă de consum
+II.3.6. Necesarul de căldură pentru prepararea apei calde de consum (energia utilă netă)
+II.3.7. Pierderile de căldură aferente furnizării la consumator a apei calde de consum
+II.3.8. Metoda de calcul a necesarului de energie termică aferent sistemelor de distribuție a
+apei calde de consum
+II.3.9. Pierderile de căldură pe conductele de distribuție a apei calde de consum
+II.3.10. Pierderile de căldură aferente unei rețele de distribuție a apei calde de consum, în
+cazul prezenței rețelei de recirculare a apei calde de consum
+II.3.11. Pierderile de căldură aferente echipamentelor montate la punctele de consum
+II.3.12. Pierderile auxiliare de energie aferente sistemelor de distribuție a apei calde de consum
+II.3.13. Pierderi auxiliare de energie necesară pentru încălzirea electrică a traseelor
+II.3.14. Energia auxiliară necesară funcționării pompelor
+II.3.15. Pierderi de căldură recuperabile, recuperate și nerecuperabile
+II.3.16. Metoda de calcul a necesarului de energie termică aferent echipamentelor de preparare
+și acumulare a apei calde de consum
+II.3.17. Pierderile de căldură aferente echipamentelor de preparare a apei calde de consum
+II.3.18. Pierderile de căldură aferente conductelor de distribuție a agentului termic primar
+II.3.19. Pierderile de căldură aferente echipamentelor de preparare a apei calde de consum
+II.3.20. Proporțiile de calcul ale căldurii necesare preparării apei calde menajere în sistemele
+combinate
+II.3.21. Pierderile de căldură recuperabile, recuperate și nerecuperabile
+Anexe
+Anexa II.3.A. Utilizarea valorilor specifice de apă caldă pentru consum din STAS 1478
+Anexa II.3.B. Valori pentru îa“ și Nu pentru diferite tipuri de clădiri și activități, cu excepția
+clădirilor de locuit
+Anexa II.3.C. Indicele mediu de ocupare a locuințelor din România
+Anexa II.3.D. Necesarul/consumul zilnic de apă caldă de consum
+Anexa II.3.E. Volumul necesar de apă caldă de consum calculat pentru locuințe unifamiliale
+Anexa II.3.F. Pierderi de energie la consumator în raport cu temperatura de utilizare, numărul
+de utilizatori pe zi și volumul de apă estimat la o utilizare
+Anexa II.3.G. Calculul pierderilor de căldură aferente conductelor de distribuție
+Anexa II.3.H. Calculul pierderilor de căldură aferente conductelor de distribuție a apei calde de
+consum, în funcție de lungimea conductelor
+Anexa II.3.I. Calculul pierderilor de căldură aferente conductelor de distribuție a apei calde de
+consum, în funcție de lungimea conductelor, pentru clădiri de locuit
+Anexa II.3.J. Calculul pierderilor de căldură din sistemul de distribuție, în funcție de mărimea
+consumului anual de energie pentru producerea apei calde de consum
+Anexa II.3.K. Calculul pierderilor de căldură aferente conductelor de distribuție a apei calde de
+consum, utilizând o metodă detaliată de calcul
+Anexa II.3.L. Calculul consumului de energie electrică necesară pompelor de circulație
+Anexa II.3.M. Calculul pierderilor de căldură pe traseele conductelor de transport a agentului
+termic primar
+
+325
+
+326
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+327
+
+328
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+329
+
+330
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+331
+
+332
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+333
+
+334
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+335
+
+336
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+337
+
+338
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+339
+
+340
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+341
+
+342
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+343
+
+344
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+345
+
+346
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+347
+
+348
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+349
+
+350
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+351
+
+352
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+353
+
+354
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+355
+
+356
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+357
+
+358
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+359
+
+360
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+361
+
+362
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+363
+
+364
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+II.4. CALCULUL CONSUMULUI DE ENERGIE ȘI AL EFICIENȚEI ENERGETICE A
+INSTALAȚIILOR DE ILUMINAT
+CUPRINS
+II.4.1. Introducere
+II.4.2. Normative și standarde conexe
+II.4.3. Definiții, simboluri
+II.4.4. Calculul energiei electrice anuale utilizate pentru iluminat
+II.4.5. Recomandări privind reabilitarea sistemelor de iluminat din punct de vedere energetic cu
+respectarea condițiilor de confort vizual
+
+Anexe
+Anexa II.4.A.1. Metoda simplificată
+Anexa II.4.B.1. Puteri specifice consumate pentru iluminatul interior general recomandate în
+vederea reabilitării sistemelor de iluminat
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+365
+
+366
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+367
+
+368
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+369
+
+370
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+371
+
+372
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+373
+
+374
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+375
+
+376
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+377
+
+378
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+379
+
+380
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+381
+
+382
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+383
+
+384
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+II.5. METODE SIMPLIFICATE DE CALCUL AL PERFORMANȚEI ENERGETICE A
+INSTALAȚIILOR DIN CLĂDIRI
+CUPRINS
+II.5.1. Variația temperaturii interioare în spații locuite/ocupate nedotate cu sisteme de
+climatizare. Metodă orară analitică simplificată
+II.5.2. Necesarul de frig al unui spațiu ocupat (metoda orară simplificată)
+II.5.3. Necesarul de căldură anual normal pentru încălzire
+II.5.4. Metodologie de determinare a consumului anual normal de căldură pentru prepararea
+apei calde de consum
+
+Anexe
+Anexa II.5.A. Caracteristicile termofizice echivalente ale materialelor care intră în componența
+elementelor de construcție opace afectate de punți termice
+Anexa II.5.B. Transformarea unei structuri neomogene (multistrat) într-o structură echivalentă
+omogenă. Metodă aproximativă
+Anexa II.5.C. Temperatura exterioară de referință modificată a unui element de închidere opac
+adiacent mediului exterior
+Anexa II.5.D. Parametrii climatici exteriori utilizați în scopul verificării temperaturii în spațiile
+ocupate/locuite, în lipsa dotării acestora cu instalații și sisteme de condiționare a
+aerului
+Anexa II.5.E. Determinarea aporturilor interioare de căldură
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+385
+
+386
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+387
+
+388
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+389
+
+390
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+391
+
+392
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+393
+
+394
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+395
+
+396
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+397
+
+398
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+399
+
+400
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+401
+
+402
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+403
+
+404
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+405
+
+406
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+407
+
+408
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+409
+
+410
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+411
+
+412
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+413
+
+414
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+415
+
+416
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+417
+
+418
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+419
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+ANEXA Nr. 3
+
+METODOLOGIE DE CALCUL AL PERFORMANȚEI ENERGETICE A CLĂDIRILOR
+PARTEA a III-a — AUDITUL ȘI CERTIFICATUL DE PERFORMANȚĂ A CLĂDIRII
+Indicativ Mc 001/3 — 2006
+III. AUDITUL ȘI CERTIFICATUL DE PERFORMANȚĂ A CLĂDIRII
+CUPRINS
+III.1. Introducere
+III.2. Capitolul I: Auditul energetic al clădirii
+III.2.1.
+Obiect, domeniu de aplicare, referințe normative, terminologie, notații
+III.2.2.
+Evaluarea performanțelor energetice ale clădirilor
+III.2.3.
+Indicatori ai eficienței economice a soluțiilor tehnice de reabilitare/modernizare
+energetică a clădirilor existente
+III.2.4.
+Stabilirea soluțiilor tehnice de creștere a performanței energetice pentru construcție
+și instalații, aplicabile clădirilor
+III.3. Capitolul al II-lea: certificatul de performanță energetică al clădirii
+III.3.1.
+Obiect, domeniu de aplicare, referințe normative, terminologie, notații
+III.3.2.
+Elaborarea certificatului de performanță energetică al unei clădiri
+III.3.3.
+Conținutul certificatului de performanță energetică al unei clădiri
+III.3.4.
+Notarea clădirilor în vederea certificării energetice a acestora
+Anexe
+Anexa III.1.
+Anexa III.2.
+Anexa III.3.
+Anexa III.4.
+Anexa III.5.
+Anexa III.6.
+Anexa III.7.
+Anexa III.8.
+Anexa III.9.
+Anexa III.10.
+
+Fișa de analiză termică și energetică (model)
+Soluții tehnice de modernizare energetică a clădirilor
+Soluții de modernizare termotehnică a anvelopei construcției — elemente de
+construcție opace (Conf. dr. ing. Mihaela Georgescu — UAUIM)
+Soluții de îmbunătățire a tâmplăriei exterioare (Conf. dr. ing. Mihaela Georgescu —
+UAUIM)
+Lista soluțiilor tehnice propuse pentru modernizarea energetică a clădirilor de
+locuit alimentate de la sistem centralizat de alimentare cu căldură
+Lista soluțiilor tehnice propuse pentru modernizarea energetică a clădirilor de
+locuit individuale sau înșiruite dotate cu sursă proprie de căldură
+Date primare privind costul măsurilor de reabilitare și modernizare pentru analiza
+economică în cadrul auditului energetic al clădirilor
+Model de certificat de performanță energetică al clădirii
+Rezistențe termice corectate pentru clădirea de referință
+Consumuri specifice de căldură pentru prepararea apei calde de consum pentru
+clădirea de referință
+
+III. AUDITUL ȘI CERTIFICATUL DE PERFORMANȚĂ A CLĂDIRII
+III.1./ Introducere
+Această reglementare tehnică face parte dintr-o serie de trei documente care alcătuiesc
+împreună Metodologia de calcul a performanței energetice a clădirilor, denumită în cele ce
+urmează Metodologie.
+Auditul energetic al unei clădiri urmărește identificarea principalelor caracteristici termice și
+energetice ale construcției și ale instalațiilor aferente acesteia și stabilirea, din punct de vedere
+tehnic și economic, a soluțiilor de reabilitare sau modernizare termică și energetică a construcției
+și a instalațiilor aferente acesteia, pe baza rezultatelor obținute din activitatea de analiză termică și
+energetică a clădirii.
+Certificatul de performanță energetică al unei clădiri urmărește declararea și afișarea
+performanței energetice a clădirii, prezentată într-o formă sintetică unitară, cu detalierea
+principalelor caracteristici ale construcției și instalațiilor aferente acesteia, rezultate din analiza
+termică și energetică.
+Metodologia de calcul al performanței energetice a clădirilor se adresează inginerilor constructori
+și de instalații, arhitecților și, în general, specialiștilor care își desfășoară activitatea în domeniul
+energeticii construcțiilor și al cărei scop îl reprezintă evaluarea și creșterea performanței energetice
+a construcțiilor și instalațiilor aferente acestora.
+
+420
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+Metodologia de calcul al performanței energetice a clădirilor se referă la toate clădirile, în
+cadrul cărora se desfășoară activități care necesită asigurarea unui anumit grad de confort și
+regim termic, potrivit reglementărilor tehnice în domeniu, în condiții de consum redus de energie.
+III.2. Capitolul I: Auditul energetic al clădirii
+III.2.1. Obiect, domeniu de aplicare, referințe normative, terminologie, notații
+III.2.1.1. Domeniu de aplicare
+Clădirile sunt grupate în două mari categorii, în funcție de destinația principală a acestora,
+după cum urmează:
+A. Clădiri de locuit (din sectorul rezidențial):
+— clădiri de locuit individuale (case unifamiliale, cuplate sau înșiruite, tip duplex ș.a.);
+— clădiri de locuit cu mai multe apartamente (blocuri).
+B. Clădiri cu altă destinație decât locuințe (din sectorul terțiar):
+— birouri;
+— clădiri de învățământ (creșe, grădinițe, școli, licee, universități);
+— cămine, internate;
+— spitale, policlinici;
+— hoteluri și restaurante;
+— clădiri pentru sport;
+— clădiri pentru servicii de comerț (magazine, spații comerciale, sedii de firme, bănci);
+— clădiri social-culturale (teatre, cinematografe, muzee);
+— alte tipuri de clădiri consumatoare de energie (de exemplu: clădiri industriale cu regim
+normal de exploatare).
+Prevederile metodologiei nu se aplică la următoarele categorii de clădiri:
+— clădiri și monumente protejate care fie fac parte din zone construite protejate conform legii,
+fie au valoare arhitecturală sau istorică deosebită, cărora dacă li se aplică cerințele, li s-ar
+modifica în mod inacceptabil caracterul ori aspectul exterior;
+— clădiri utilizate ca lăcașuri de cult sau pentru alte activități cu caracter religios;
+— clădiri provizorii prevăzute a fi utilizate pe perioade de până la 2 ani, din zone industriale,
+ateliere și clădiri nerezidențiale din domeniul agricol care necesită un consum redus de
+energie:
+— clădiri nerezidențiale care sunt destinate a fi utilizate mai puțin de 4 luni pe an;
+— clădiri independente, cu o arie utilă mai mică de 50 m2;
+— clădiri cu regim special de exploatare.
+Realizarea auditului energetic al unei clădiri presupune parcurgerea a trei etape:
+1. Evaluarea performanței energetice a clădirii în condiții normale de utilizare, pe baza
+caracteristicilor reale ale sistemului construcție — instalații aferente (încălzire, apă caldă de
+consum, ventilare, climatizare, iluminat).
+2. Identificarea măsurilor de modernizare energetică și analiza eficienței economice a acestora.
+3. Întocmirea raportului de audit energetic.
+III.2.1.2. Documente de referință
+[1] * * *
+[2] * * *
+[3] * * *
+[4] SR 1907/1-97
+[5] SR 1907/2-97
+[6] SR 4839-97
+[7] * * *
+
+Legea nr. 372/2005 privind performanța energetică a clădirilor
+Metodologia de calcul al performanței energetice a clădirilor. Partea I —
+Anvelopa clădirii
+Metodologia de calcul al performanței energetice a clădirilor. Partea a II-a —
+Performanța energetică a instalațiilor din clădiri
+Instalații de încălzire. Necesarul de căldură de calcul. Prescripții de
+calcul.
+Instalații de încălzire. Necesarul de căldură de calcul. Temperaturi
+interioare convenționale de calcul.
+Instalații de încălzire. Numărul anual de grade-zile.
+Legea nr. 10/1995 privind calitatea în construcții.
+
+III.2.1.3. Termeni și definiții
+Pentru utilizarea prezentei reglementări tehnice se aplică termenii și definițiile din Legea
+nr. 372/2005 și definițiile următoare:
+III.2.1.3.1. Analiză termică și energetică a clădirii
+Operațiune prin care se identifică principalele caracteristici termice și energetice ale construcției
+și ale instalațiilor aferente acesteia și determinarea consumurilor anuale de energie pentru
+încălzirea spațiilor, ventilare/climatizare, apă caldă de consum și iluminat
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+III.2.1.3.2 Audit energetic al unei clădiri
+Procedură sistematică de obținere a unor date despre profilul consumului energetic existent al
+unei clădiri, de identificare și de cuantificare a măsurilor pentru realizarea unor economii de
+energie, precum și de raportare a rezultatelor
+III.2.1.3.3 Dosar de audit energetic
+Ansamblu de documente cu rol de trasabilitate pentru totalitatea operațiunilor legate de
+activitatea de audit energetic al unei clădiri
+III.2.1.3.4 Raport de audit energetic
+Document tehnic care conține descrierea modului în care a fost efectuat auditul, a principalelor
+caracteristici termice și energetice ale clădirii, a măsurilor propuse de modernizare energetică a
+clădirii și instalațiilor interioare aferente acesteia, precum și a principalelor concluzii referitoare la
+măsurile eficiente din punct de vedere economic
+III.2.1.3.5 Utilizarea eficientă a energiei
+Îndeplinirea condițiilor specifice pentru asigurarea condițiilor normale de locuire, cu un consum
+de energie termică și electrică cât mai redus
+III.2.1.3.6 Clădire de referință
+Clădire având în principiu aceleași caracteristici de alcătuire ca și clădirea reală și în care se
+asigură utilizarea eficientă a energiei
+III.2.1.3.7 Măsură de modernizare energetică
+Intervenție asupra construcției și instalațiilor aferente acesteia, cu scopul reducerii consumului
+de energie al clădirii
+III.2.1.3.8 Durată de viață a soluției de modernizare
+Durata de viață estimată pentru soluția de modernizare analizată, pentru care parametrii
+considerați se păstrează neschimbați față de stadiul inițial, la momentul aplicării soluției respective
+III.2.1.3.9 Durată de recuperare a investiției
+Durata de recuperare a investiției prin economia realizată în urma reducerii consumului de
+energie, datorată aplicării măsurilor de reabilitare/modernizare energetică
+III.2.1.3.10 Valoare netă actualizată
+Proiecția la momentul î0“ a tuturor costurilor implicate de aplicarea unei măsuri/soluții de
+modernizare energetică a clădirii, în funcție de rata de depreciere a monedei considerate — sub
+forma deprecierii medii anuale și de rata medie anuală a creșterii costului energiei
+III.2.1.3.11 Cost al unității de energie economisită
+Costul unității de energie obținută prin modernizare energetică a clădirii, determinat ca raport
+între valoarea investiției datorată aplicării unei măsuri sau pachet de măsuri de modernizare
+energetică și economia de energie realizată prin implementarea acesteia pe durata de viață a
+măsurii de modernizare energetică
+III.2.1.3.12 Consum normal de energie
+Consumul de energie termică/electrică în scopul realizării stării de confort termic
+
+421
+
+422
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+423
+
+424
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+425
+
+426
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+427
+
+428
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+429
+
+430
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+431
+
+432
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+433
+
+434
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+435
+
+436
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+437
+
+438
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+439
+
+440
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+441
+
+442
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+443
+
+444
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+445
+
+446
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+447
+
+448
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+449
+
+450
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+451
+
+452
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+453
+
+454
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+455
+
+456
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+457
+
+458
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+459
+
+460
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+461
+
+462
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+463
+
+464
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+465
+
+466
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+467
+
+468
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+469
+
+470
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+471
+
+472
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+473
+
+474
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+475
+
+476
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+477
+
+478
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+479
+
+480
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+481
+
+482
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+483
+
+484
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+485
+
+486
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+487
+
+488
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+489
+
+490
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+491
+
+492
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+493
+
+494
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+495
+
+496
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+497
+
+498
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 126 bis/21.II.2007
+
+499
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+îMonitorul Oficial“ R.A., Str. Parcului nr. 65, sectorul 1, București; C.I.F. RO427282,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala îUnirea“ București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 318.51.29/150, fax 318.51.15, E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 410.47.30, fax 410.77.36 și 410.47.23
+Tiparul: îMonitorul Oficial“ R.A.
+Monitorul Oficial al României, Partea I, nr. 126 bis/21.II.2007 conține 500 de pagini.
+
+Prețul: 100 lei
+
+Acest număr al Monitorului Oficial al României a fost tipărit în afara abonamentului.
+
+&JUYDGY|204003]
+ISSN 1453—4495
+
+

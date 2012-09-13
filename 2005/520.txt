@@ -1,0 +1,669 @@
+PARTEA
+
+Anul 173 (XVII) — Nr. 520
+
+I
+
+Luni, 20 iunie 2005
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+
+683.
+
+— Ordin al ministrului administrației și internelor
+privind aprobarea Procedurilor generice pentru
+colectarea datelor, validare și răspuns pe timpul
+unei urgențe radiologice ...........................................
+
+1–64
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+MINISTERUL ADMINISTRAȚIEI ȘI INTERNELOR
+
+ORDIN
+privind aprobarea Procedurilor generice pentru colectarea datelor, validare și răspuns
+pe timpul unei urgențe radiologice
+În conformitate cu prevederile art. 24 alin. (1) lit. f) din Legea nr. 481/2004 privind protecția civilă,
+în temeiul art. 9 alin. (4) din Ordonanța de urgență a Guvernului nr. 63/2003 privind organizarea și funcționarea
+Ministerului Administrației și Internelor, aprobată cu modificări și completări prin Legea nr. 604/2003, cu modificările
+ulterioare,
+ministrul administrației și internelor emite următorul ordin:
+Art. 1. — Se aprobă Procedurile generice pentru
+colectarea datelor, validare și răspuns pe timpul unei
+urgențe radiologice, prevăzute în anexa care face parte
+integrantă din prezentul ordin.
+Art. 2. — Inspectoratul General pentru Situații de
+Urgență din cadrul Ministerului Administrației și Internelor va
+
+lua măsuri pentru ducerea la îndeplinire a prevederilor
+prezentului ordin.
+Art. 3. — Prezentul ordin se publică în Monitorul Oficial
+al României, Partea I, și intră în vigoare după 30 de zile
+de la publicare.
+
+Ministrul administrației și internelor,
+Vasile Blaga
+București, 7 iunie 2005.
+Nr. 683.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+ANEXĂ
+
+PROCEDURI GENERICE
+pentru colectarea datelor, validare și răspuns pe timpul unei urgențe radiologice
+CAPITOLUL I
+Dispoziții generale
+Art. 1. — Prezentele proceduri generice pentru
+colectarea datelor, validare și răspuns pe timpul unei
+urgențe radiologice, denumite în continuare proceduri,
+reprezintă instrumentele, algoritmii și datele necesare pentru
+răspunsul inițial la urgență radiologică și sunt destinate
+persoanelor sau grupurilor care sunt responsabile pentru
+răspunsul la o urgență radiologică.
+Art. 2. — Procedurile sunt elaborate ca un ghid pentru
+autoritățile publice centrale și locale, precum și pentru
+utilizatorii cu responsabilități în astfel de situații și asigură o
+concepție unitară privind evaluarea de bază și capacitatea
+de răspuns, în scopul protejării populației și a angajaților în
+cazul
+
+urgențelor
+
+radiologice,
+
+în
+
+conformitate
+
+cu
+
+recomandările internaționale.
+Art. 3. — Obiectivele generale ale răspunsului la
+urgență sunt:
+a) reducerea riscului sau limitarea consecințelor
+accidentului;
+b) prevenirea efectelor deterministe asupra sănătății (de
+exemplu, decese și efecte imediate) prin luarea de măsuri
+înainte sau la scurt timp după expunere și menținerea
+dozelor individuale pentru populație și personalul de
+intervenție sub nivelurile admise;
+c) reducerea riscului efectelor stocastice asupra sănătății
+(de exemplu, cancer și efecte ereditare grave) prin
+implementarea acțiunilor de protecție în conformitate cu
+recomandările Agenției Internaționale pentru Energie
+Atomică (AIEA) și prin menținerea dozelor pentru personalul
+de intervenție sub nivelurile admise.
+Art. 4. — Prezentele proceduri desemnează persoanele
+fizice și juridice cu responsabilități în cazul unor urgențe
+nucleare sau radiologice. În cazul accidentelor sau
+incidentelor de mică amploare, unele dintre aceste
+responsabilități pot fi cumulate și asigurate de o singură
+persoană. Schema generică de răspuns este prezentată în
+anexa nr. 1.
+Art. 5. — Persoanele fizice și juridice cu responsabilități
+sunt:
+a) inițiatorul răspunsului — persoana fizică sau juridică
+notificată despre producerea unui accident, cu autoritate să
+inițieze aplicarea parțială ori totală a planului de protecție și
+intervenție și să informeze managerul urgenței despre
+producerea evenimentului;
+
+b) managerul urgenței — persoana care asigură
+activarea forțelor de intervenție, aplicarea primelor măsuri
+pentru protecția populației și a personalului din cadrul
+echipelor de intervenție, comunicațiile în cadrul echipelor de
+intervenție și reprezintă purtătorul de cuvânt atunci când nu
+este desemnată o altă persoană;
+c) coordonatorul la locul accidentului — persoana
+responsabilă pentru aplicarea măsurilor de limitare a
+efectelor unui accident sau incident radiologic, pentru
+coordonarea tuturor echipelor de intervenție, realizarea
+activităților de decontaminare și recuperare a surselor,
+aplicarea măsurilor preventive în scopul protecției
+personalului echipelor de intervenție și care este expertă în
+echipele de răspuns la locul accidentului;
+d) în funcție de natura și gravitatea accidentului,
+funcțiunile managerului urgenței și ale coordonatorului la
+locul accidentului pot fi realizate de o singură persoană, cel
+puțin în faza inițială a răspunsului;
+e) evaluatorul radiologic — persoana acreditată, trimisă la
+locul accidentului, având responsabilitatea evaluării inițiale a
+riscului radiologic, formulării de recomandări către
+coordonatorul intervenției, modului de implementare a
+măsurilor de protecție pentru echipele de intervenție,
+stabilirii limitelor de intervenție pentru personalul de
+intervenție, estimării și înregistrării dozelor primite de
+personalul echipelor de intervenție și/sau de către populație,
+controlului contaminării, și care poate iniția în unele cazuri
+operațiunile de recuperare a sursei.
+Art. 6. — Procedurile sunt organizate pe secțiuni care
+conțin algoritmii de bază.
+CAPITOLUL II
+Descrierea secțiunilor
+Art. 7. — Secțiunea A îInițierea răspunsului“ prezintă
+modul de punere în aplicare a planului de protecție și
+intervenție la primirea notificării unei urgențe radiologice de
+reprezentanții autorităților administrației publice centrale și
+locale implicate în răspunsul la urgență nucleară sau
+radiologică. Această secțiune cuprinde o singură procedură
+și este prezentată în anexa nr. 2.
+Art. 8. — Secțiunea B îManagementul răspunsului la
+accident“ prezintă modul de pregătire a acțiunilor de
+coordonare și conducere a urgenței radiologice, prin
+evaluarea rapidă a situației, în scopul limitării consecințelor
+accidentului, și cuprinde următoarele 3 proceduri de bază:
+a) procedura B0 îGeneralități asupra managementului la
+urgență“, care se referă la modul de evaluare rapidă a
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+3
+
+situației radiologice, se bazează pe informațiile primite de
+la inițiatorul răspunsului și de la coordonatorul intervenției
+pentru implementarea acțiunilor inițiale de răspuns în
+scopul limitării consecințelor accidentului;
+
+a) procedura D0 îConducerea răspunsului radiologic“, în
+care se prezintă algoritmul ce trebuie parcurs în scopul
+sprijinirii evaluatorului radiologic pentru analizarea situației
+și recomandări de protecție corespunzătoare;
+
+b) procedura B1 îAccident cu surse de radiații sau
+materiale radioactive“, care se referă la modul de aplicare
+a metodelor optime în scopul limitării consecințelor efectelor
+accidentului radiologic, reducerii expunerii populației și a
+personalului din cadrul echipelor de intervenție, recuperării
+sursei și/sau decontaminării zonei;
+
+b) procedura D1 îRecuperarea sursei/mutarea
+materialelor radioactive“, care se referă la etapele de bază
+necesare pentru recuperarea unei surse radioactive sau
+mutarea materialului radioactiv atunci când este posibil;
+
+c) procedura B2 îSursă pierdută“, care se referă la
+modul de identificare, localizare și recuperare a unei surse
+pierdute, asigurându-se în același timp securitatea
+populației și a echipelor de intervenție la urgență.
+Aceste proceduri sunt prezentate în anexa nr. 3.
+Art. 9. — Secțiunea C îRăspunsul la locul accidentului“
+se referă la condițiile și la capacitățile autorităților
+administrației publice locale și ale agentului economic de
+răspuns la urgență, pentru accidente convenționale și
+implementarea acțiunilor de răspuns la locul accidentului, și
+cuprinde următoarele 6 proceduri de bază:
+a) procedura C1 îCoordonatorul răspunsului la locul
+accidentului“, care se referă la persoana cu gradul cel mai
+mare care se află la locul accidentului și care își va
+asuma rolul de conducător până la sosirea autorităților
+competente;
+b) procedura C2 îRăspunsul poliției“, care se referă la
+coordonarea acțiunilor de către poliție în condiții de
+accident radiologic;
+c) procedura C3 îAcțiunile echipajelor de pompieri“, care
+se referă la coordonarea acțiunilor echipelor de pompieri în
+condiții de accident radiologic;
+d) procedura C4 îRăspunsul medical de urgență la locul
+accidentului“, care se referă la coordonarea echipelor
+medicale de urgență în condiții radiologice pentru a acorda
+primul ajutor persoanelor rănite;
+e) procedura C5 îRăspunsul
+instituției/operatorului economic“,
+răspunsului inițial în caz de
+cooperării cu responsabilii din
+
+inițial din partea personalului
+care se referă la asigurarea
+accident și la asigurarea
+exteriorul amplasamentului;
+
+f) procedura C6 îGhid pentru protecția personală“, care
+se referă la instrucțiunile de bază pentru protecția
+individuală a personalului de intervenție.
+Aceste proceduri sunt prezentate în anexa nr. 4.
+Art. 10. — Secțiunea D îRăspunsul radiologic“ se referă
+la activitățile evaluatorului pentru realizarea acțiunilor de
+protecție corespunzătoare și are următoarele 4 proceduri
+de bază:
+
+c) procedura D2 îDecontaminarea personalului și a
+echipamentelor“, care se referă la modul de realizare a
+decontaminării inițiale a personalului, a echipamentului și a
+vehiculelor;
+d) procedura D3 îMutarea deșeurilor radioactive“, care se
+referă la modul de mutare a deșeurilor radioactive rezultate
+în urma unei urgențe radiologice, atunci când este posibil.
+Aceste proceduri sunt prezentate în anexa nr. 5.
+Art. 11. — Secțiunea E îEvaluări de doze“ se referă la
+măsurători de doză, estimări ale dozei acumulate de
+lucrători și/sau de persoane din public și are următoarele
+4 proceduri de bază:
+a) procedura E0 îGeneralități asupra evaluării dozelor“,
+care se referă la modul de estimare a dozei acumulate de
+lucrători și/sau de persoane din public;
+b) procedura E1 îSursa punctiformă“, care se referă la
+modul de estimare a debitului de doză și a dozei efective
+date de o sursă punctiformă de activitate cunoscută;
+c) procedura E2 îSursă liniară sau pată“, care se referă
+la modul de estimare a dozei efective date de o sursă
+liniară sau de o pată radioactivă la o anumită distanță;
+d) procedura E3 îContaminare de suprafață“, care se
+referă la modul de estimare a dozei efective date de o
+suprafață contaminată.
+Aceste proceduri sunt prezentate în anexa nr. 6.
+CAPITOLUL III
+Dispoziții finale
+Art. 12. — Procedurile se pun în aplicare imediat atunci
+când situația o impune, de către autoritățile administrației
+publice centrale și locale, precum și de agenții economici
+în următoarele situații:
+a) când survine un accident major;
+b) când survine un eveniment necontrolat care, prin
+natura sa, poate provoca un accident major.
+Art. 13. — Modelele formularelor privind raportarea și
+evidența acțiunilor sunt prezentate în anexa nr. 7.
+Art. 14. — Anexele nr. 1—7*) fac parte integrantă din
+prezentele proceduri.
+
+*) Anexele nr. 1—7 sunt reproduse în facsimil.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+5
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+7
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+9
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+11
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+13
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+15
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+17
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+19
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+20
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+21
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+22
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+23
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+24
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+25
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+27
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+29
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+31
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+32
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+33
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+34
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+35
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+36
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+37
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+38
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+39
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+40
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+41
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+42
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+43
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+44
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+45
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+46
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+47
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+48
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+49
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+50
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+51
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+52
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+53
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+54
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+55
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+56
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+57
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+58
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+59
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+60
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+61
+
+:
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+62
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+63
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+64
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 520/20.VI.2005
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+Regia Autonomă îMonitorul Oficial“, Str. Parcului nr. 65, sectorul 1, București,
+IBAN: RO75RNCB5101000000120001 Banca Comercială Română — S.A. — Sucursala îUnirea“ București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 318.51.29/150, fax 318.51.15, E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 410.47.30, tel./fax 410.77.36 și 410.47.23
+Tiparul: Regia Autonomă îMonitorul Oficial“
+Monitorul Oficial al României, Partea I, nr. 520/20.VI.2005 conține 64 de pagini.
+
+Prețul: 43.000 lei vechi/4,30 lei noi
+
+&JUYDGY|032453]
+ISSN 1453—4495
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+

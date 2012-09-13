@@ -1,0 +1,624 @@
+Anul 174 (XVIII) — Nr. 130
+
+PARTEA
+
+I
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+Vineri, 10 februarie 2006
+
+SUMAR
+
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+
+89.
+
+159.
+
+— Ordin al ministrului muncii, solidarității sociale
+și familiei pentru stabilirea valorii nominale
+indexate a unui tichet de masă pentru semestrul I
+2006 ...........................................................................
+— Ordin al directorului general al Oficiului
+Registrului Național al Informațiilor Secrete de Stat
+pentru aprobarea Directivei INFOSEC tehnice și
+de implementare privind securitatea emisiei —
+INFOSEC 6 ..............................................................
+
+412/C. — Ordin al ministrului justiției pentru modificarea
+și completarea Regulamentului de ordine interioară
+a parchetelor, aprobat prin Ordinul ministrului
+justiției nr. 2.850/C/2004 ...........................................
+
+Nr.
+
+Pagina
+ACTE ALE COMISIEI DE SUPRAVEGHERE
+A ASIGURĂRILOR
+
+113.219. — Decizie privind retragerea, la cerere, a
+autorizației de desfășurare a activității de asigurări
+de viață a Societății Comerciale îNBG Asigurări“ —
+S.A. (fosta Societate Comercială îALPHA
+Insurance Romania“ — S.A.) ...................................
+
+4–5
+
+2
+
+113.220. — Decizie privind retragerea, la cerere,
+a autorizației de desfășurare a activității de
+asigurări de viață a Societății Comerciale îASITO
+Kapital“ — S.A. .........................................................
+
+5–6
+
+3–4
+
+113.221. — Decizie privind retragerea, la cerere, a
+autorizației de desfășurare a activității de asigurări
+de viață a Societății Comerciale îCARPATICA
+Asig“ — S.A. ...........................................................
+
+7–8
+
+2
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 130/10.II.2006
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+MINISTERUL MUNCII, SOLIDARITĂȚII SOCIALE ȘI FAMILIEI
+
+ORDIN
+pentru stabilirea valorii nominale indexate a unui tichet de masă pentru semestrul I 2006
+În temeiul art. 31 din Normele de aplicare a Legii nr. 142/1998 privind acordarea tichetelor de masă, aprobate
+prin Hotărârea Guvernului nr. 5/1999, al art. 1, 3 și 6 din Ordonanța de urgență a Guvernului nr. 47/2005 privind unele
+măsuri care trebuie luate pentru punerea în aplicare a Legii nr. 348/2004 privind denominarea monedei naționale,
+aprobată cu modificări prin Legea nr. 256/2005, și al art. 16 din Hotărârea Guvernului nr. 412/2005 privind organizarea
+și funcționarea Ministerului Muncii, Solidarității Sociale și Familiei, cu modificările ulterioare,
+ministrul muncii, solidarității sociale și familiei emite următorul ordin:
+Art. 1. — Pentru semestrul I 2006, începând cu luna
+martie, valoarea nominală indexată a unui tichet de masă,
+stabilită potrivit prevederilor art. 31 alin. (3) teza a II-a și
+alin. (4) din Normele de aplicare a Legii nr. 142/1998
+privind acordarea tichetelor de masă, aprobate prin
+Hotărârea Guvernului nr. 5/1999, și prevederilor art. 1, 3 și
+6 din Ordonanța de urgență a Guvernului nr. 47/2005
+
+privind unele măsuri care trebuie luate pentru punerea în
+aplicare a Legii nr. 348/2004 privind denominarea monedei
+naționale, aprobată cu modificări prin Legea nr. 256/2005,
+este de 7 lei (RON).
+Art. 2. — Prezentul ordin va fi publicat în Monitorul
+Oficial al României, Partea I.
+
+Ministrul muncii, solidarității sociale și familiei,
+Gheorghe Barbu
+București, 3 februarie 2006.
+Nr. 89.
+
+GUVERNUL ROMÂNIEI
+OFICIUL REGISTRULUI NAȚIONAL
+AL INFORMAȚIILOR SECRETE DE STAT
+
+ORDIN
+pentru aprobarea Directivei INFOSEC tehnice și de implementare
+privind securitatea emisiei — INFOSEC 6
+În temeiul art. 1 alin. (4) lit. b) și al art. 3 alin. (6) din Ordonanța de urgență a Guvernului nr. 153/2002 privind
+oganizarea și funcționarea Oficiului Registrului Național al Informațiilor Secrete de Stat, aprobată prin Legea nr. 101/2003,
+cu modificările și completările ulterioare,
+directorul general al Oficiului Registrului Național al Informațiilor Secrete de Stat emite prezentul ordin.
+Art. 1. — Se aprobă Directiva INFOSEC tehnică și de
+implementare privind securitatea emisiei — INFOSEC 6,
+prevăzută în anexa*) care face parte integrantă din
+prezentul ordin.
+Art. 2. — Directiva prevăzută la art. 1 este elaborată de
+Oficiul Registrului Național al Informațiilor Secrete de Stat
+(ORNISS) în conformitate cu cerințele politicii naționale care
+cuprinde și recomandările NATO și UE privind securitatea
+SIC, precum și cele mai bune practici din statele membre
+NATO și UE în domeniul protecției informațiilor clasificate.
+Art. 3. — Directiva prevăzută la art. 1 se aplică tuturor
+sistemelor informatice și de comunicații naționale, civile și
+militare, care stochează, procesează sau transmit informații
+
+clasificate naționale, NATO, UE și ale statelor sau
+organizațiilor internaționale cu care România a încheiat
+tratate, înțelegeri sau acorduri care prevăd protecția
+informațiilor clasificate.
+Art. 4. — Conținutul directivei prevăzute la art. 1 va fi
+revizuit periodic, în vederea armonizării normelor naționale
+cu reglementările NATO, UE și cu cele ale statelor cu care
+România are acorduri sau aranjamente de securitate
+referitoare la domeniul INFOSEC.
+Art. 5. — Oficiul Registrului Național al Informațiilor
+Secrete de Stat urmărește ducerea la îndeplinire a
+prevederilor prezentului ordin.
+
+Directorul general al Oficiului Registrului Național al Informațiilor Secrete de Stat,
+Marius Petrescu
+
+București, 6 februarie 2006.
+Nr. 159.
+*) Anexa se comunică persoanelor juridice de drept public și privat îndreptățite.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 130/10.II.2006
+
+3
+
+MINISTERUL JUSTIȚIEI
+
+ORDIN
+pentru modificarea și completarea Regulamentului de ordine interioară a parchetelor,
+aprobat prin Ordinul ministrului justiției nr. 2.850/C/2004
+În temeiul art. 140 din Legea nr. 304/2004 privind organizarea judiciară, republicată,
+în conformitate cu prevederile Hotărârii Guvernului nr. 83/2005 privind organizarea și funcționarea Ministerului
+Justiției, cu modificările și completările ulterioare,
+având în vedere dispozițiile art. I pct. 6 lit. a) din Hotărârea Guvernului nr. 1.174/2005 privind modificarea și
+completarea anexei la Hotărârea Guvernului nr. 1.424/2003 pentru aprobarea Strategiei naționale în domeniul proprietății
+intelectuale (2003—2007) și privind aprobarea Planului de acțiune pentru implementarea Strategiei naționale în domeniul
+proprietății intelectuale (2005—2007),
+văzând propunerea procurorului general al Parchetului de pe lângă Înalta Curte de Casație și Justiție nr. 4.409/C
+din 24 noiembrie 2005 privind aprobarea Regulamentului de ordine interioară a parchetelor,
+având în vedere avizul Consiliului Superior al Magistraturii, acordat prin Hotărârea nr. 50 din 25 ianuarie 2006,
+ministrul justiției emite prezentul ordin.
+Art. I. — Regulamentul de ordine interioară a
+parchetelor, aprobat prin Ordinul ministrului justiției
+nr. 2.850/C/2004, publicat în Monitorul Oficial al României,
+Partea I, nr. 1.087 din 23 noiembrie 2004, se modifică și
+se completează după cum urmează:
+1. La articolul 24, după litera D se introduce o nouă
+literă, litera E, cu următorul cuprins:
+îE. Serviciul pentru coordonarea activității Ministerului
+Public în domeniul drepturilor de proprietate intelectuală:
+a) Biroul de combatere a infracțiunilor în domeniul
+drepturilor de proprietate intelectuală;
+b) Biroul pentru coordonarea activității în domeniul
+drepturilor de proprietate intelectuală.“
+2. După secțiunea a 5-a îServiciul de criminalistică“ a
+capitolului III îSecția de urmărire penală și criminalistică“
+din titlul III îOrganizarea și funcționarea Parchetului de pe
+lângă Înalta Curte de Casație și Justiție“ se introduce o
+nouă secțiune, secțiunea 51, cu următorul cuprins:
+îSECȚIUNEA 51
+Serviciul pentru coordonarea activității Ministerului Public în
+domeniul drepturilor de proprietate intelectuală
+
+Art. 31 1 . — Biroul de combatere a infracțiunilor în
+domeniul drepturilor de proprietate intelectuală are
+următoarele atribuții:
+a) exercită supravegherea activității organelor de
+cercetare penală centrale în cauze având ca obiect
+infracțiuni vizând drepturile de proprietate intelectuală;
+b) monitorizează cauzele declanșate prin acțiuni comune
+cu celelalte instituții abilitate, pe baza informării periodice
+de către procurorii desemnați de la parchetele din țară, cu
+privire la stadiul soluționării dosarelor și la măsurile
+dispuse.
+Art. 31 2 . — Biroul pentru coordonarea activității în
+domeniul drepturilor de proprietate intelectuală are
+următoarele atribuții:
+
+a) asigură coordonarea instituțiilor implicate în protecția
+drepturilor de proprietate intelectuală pentru eficientizarea
+combaterii criminalității în domeniu;
+b) examinează soluțiile dispuse de parchete în cauzele
+privind încălcările drepturilor de proprietate intelectuală, în
+vederea uniformizării practicii judiciare;
+c) elaborează buletinul jurisprudenței în domeniu;
+d) coordonează activitatea de specializare în domeniul
+drepturilor de proprietate intelectuală a procurorilor
+desemnați pentru soluționarea cauzelor în acest domeniu;
+e) întocmește evaluarea semestrială și anuală a stării
+infracționale în domeniul drepturilor de proprietate
+intelectuală;
+f) asigură transmiterea și analizarea la nivelul
+parchetelor a materialelor elaborate privind evaluarea
+semestrială și anuală a stării infracționale în domeniul
+drepturilor de proprietate intelectuală;
+g) participă la întocmirea și dezbaterea proiectelor de
+modificare a legilor în domeniul drepturilor de proprietate
+intelectuală;
+h) elaborează metodologii privind tehnicile și metodele
+specifice de investigare a infracțiunilor în acest domeniu;
+i) formulează propuneri conducerii Ministerului Public în
+vederea eficientizării aplicării legislației în domeniu.“
+3. Articolul 59 alineatul (5) litera D punctul b), precum
+și articolul 69 se abrogă.
+Art. II. — Organizarea administrativă a Serviciului pentru
+coordonarea activității Ministerului Public în domeniul
+drepturilor de proprietate intelectuală este prevăzută în
+anexa care face parte integrantă din prezentul ordin.
+Art. III. — Secția de analiză, studii, probleme ale
+minorilor, evidență, perfecționare profesională și informatică
+și Secția de urmărire penală și criminalistică din cadrul
+Parchetului de pe lângă Înalta Curte de Casație și Justiție
+vor duce la îndeplinire dispozițiile prezentului ordin.
+Art. IV. — Prezentul ordin se publică în Monitorul Oficial
+al României, Partea I.
+
+Ministrul justiției,
+Monica Luisa Macovei
+
+București, 25 ianuarie 2006.
+Nr. 412/C.
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 130/10.II.2006
+ANEXĂ
+ORGANIZAREA
+
+administrativă a Serviciului pentru coordonarea activității Ministerului Public
+în domeniul drepturilor de proprietate intelectuală
+SERVICIUL PENTRU COORDONAREA ACTIVITĂȚII MINISTERULUI
+PUBLIC ÎN DOMENIUL DREPTURILOR DE PROPRIETATE
+INTELECTUALĂ
+
+1 procuror șef serviciu
+1 grefier șef serviciu
+
+Biroul de combatere a infracțiunilor în domeniul
+drepturilor de proprietate intelectuală
+1 procuror șef birou
+4 procurori
+2 grefieri
+
+Biroul pentru coordonarea activității
+în domeniul drepturilor de proprietate intelectuală
+1 procuror șef birou
+3 procurori
+1 consilier
+2 grefieri
+
+ACTE ALE COMISIEI DE SUPRAVEGHERE A ASIGURĂRILOR
+COMISIA DE SUPRAVEGHERE A ASIGURĂRILOR
+
+DECIZIE
+privind retragerea, la cerere, a autorizației de desfășurare a activității de asigurări de viață
+a Societății Comerciale îNBG Asigurări“ — S.A. (fosta Societate Comercială
+îALPHA Insurance Romania“ — S.A.)
+Comisia de Supraveghere a Asigurărilor, cu sediul social în municipiul București, str. Amiral Constantin Bălescu
+nr. 18, sectorul 1, cod de înregistrare fiscală nr. 14045240 din 1 iulie 2001, reprezentată legal de președinte, în temeiul
+art. 4 alin. (19), precum și al art. 39 alin. (5) din Legea nr. 32/2000 privind activitatea de asigurare și supravegherea
+asigurărilor, cu modificările și completările ulterioare,
+în baza Hotărârii Consiliului Comisiei de Supraveghere a Asigurărilor, adoptată în ședința din 18 ianuarie 2006,
+conform prevederilor art. 4 alin. (22)—(241) din Legea nr. 32/2000, cu modificările și completările ulterioare, în cadrul
+căreia a fost analizată documentația aferentă Notei nr. 124.082 din 9 ianuarie 2006, s-a hotărât retragerea, la cerere, a
+autorizației de desfășurare a activității de asigurări de viață a Societății Comerciale îNBG Asigurări“ — S.A. (fosta
+Societate Comercială îALPHA Insurance Romania“ — S.A.), cu sediul în municipiul București, bd. Ion Mihalache nr. 19—21,
+et. 3, sectorul 1, înregistrată la oficiul registrului comerțului cu nr. J40/26576/30.11.1993, cod unic de înregistrare
+5016563, reprezentată legal de domnul Gerasimos Gazis, în calitate de director general,
+avându-se în vedere următoarele motive de drept și de fapt:
+Conform art. 16 alin. (3) din Legea nr. 32/2000, cu modificările și completările ulterioare, îCapitalul social vărsat
+și fondul de rezervă liberă vărsat [...] se vor actualiza periodic prin norme de Comisia de Supraveghere a Asigurărilor“.
+Potrivit Ordinului președintelui Comisiei de Supraveghere a Asigurărilor nr. 3.109/2004 pentru punerea în aplicare
+a Normelor privind actualizarea limitei minime a capitalului social vărsat al asigurătorilor, astfel cum a fost modificat prin
+Ordinul președintelui Comisiei de Supraveghere a Asigurărilor nr. 3.105/2005, societățile de asigurare aveau obligația să
+își actualizeze capitalul social vărsat până la data de 31 decembrie 2005 la următoarele valori:
+a) 5.000.000 lei (RON) pentru activitatea de asigurări generale, exceptând asigurările obligatorii;
+b) 8.000.000 lei (RON) pentru activitatea de asigurări generale;
+c) 8.000.000 lei (RON) pentru activitatea de asigurări de viață;
+d) suma valorilor prevăzute la lit. a) și c) sau b) și c), după caz, în funcție de activitățile de asigurare
+desfășurate.
+Prin Adresa înregistrată la Comisia de Supraveghere a Asigurărilor sub nr. 43.757 din 23 decembrie 2005,
+Societatea Comercială îNBG Asigurări“ — S.A. (fosta Societate Comercială îALPHA Insurance Romania“ — S.A.) a adus
+la cunoștința autorității de supraveghere faptul că începând cu data de 1 ianuarie 2006 nu mai subscrie riscuri din
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 130/10.II.2006
+
+5
+
+categoria asigurărilor de viață și, prin urmare, societatea a solicitat retragerea autorizației de desfășurare a activității de
+asigurări de viață.
+Astfel, față de prevederile legale sus-menționate, deși Societatea Comercială îNBG Asigurări“ — S.A. (fosta
+Societate Comercială îALPHA Insurance România“ — S.A.) avea în obiectul de activitate practicarea activității de
+asigurări generale și asigurări de viață, capitalul social înregistrat la Oficiul Registrului Comerțului al Municipiului București,
+la data de 31 decembrie 2005, era în cuantum de 11.503.800 lei (RON), deci sub limita minimă de 13.000.000 lei (RON)
+[5.000.000 lei (RON) pentru activitatea de asigurări generale, exceptând asigurările obligatorii, și 8.000.000 lei (RON)
+pentru activitatea de asigurări generale], prevăzută de Ordinul președintelui Comisiei de Supraveghere a Asigurărilor
+nr. 3.109/2004, astfel cum a fost modificat prin Ordinul președintelui Comisiei de Supraveghere a Asigurărilor
+nr. 3.105/2005.
+Având în vedere faptul că, până la termenul stabilit de dispozițiile legale sus-menționate, și anume 31 decembrie
+2005, societatea de asigurare nu a depus dovada majorării capitalului social, în conformitate cu prevederile art. 16
+alin. (1) lit. a) din Legea nr. 32/2000, cu modificările și completările ulterioare, și ale art. 2 pct. 1 din Normele privind
+actualizarea limitei minime a capitalului social vărsat al asigurătorilor, aprobate prin Ordinul președintelui Comisiei de
+Supraveghere a Asigurărilor nr. 3.109/2004, astfel cum a fost modificat prin Ordinul președintelui Comisiei de
+Supraveghere a Asigurărilor nr. 3.105/2005, faptă ce constituie contravenție conform art. 39 alin. (2) lit. g) din Legea
+nr. 32/2000, cu modificările și completările ulterioare, și se sancționează în condițiile și potrivit art. 39 alin. (3) lit. e) din
+aceeași lege, Consiliul Comisiei de Supraveghere a Asigurărilor a hotărât, în ședința din data de 18 ianuarie 2006,
+retragerea, la cerere, a autorizației de desfășurare a activității de asigurări de viață a Societății Comerciale îNBG
+Asigurări“ — S.A. (fosta Societate Comercială îALPHA Insurance Romania“ — S.A.)
+Pentru aceste motive, în scopul apărării drepturilor asiguraților și al promovării stabilității activității de asigurare în
+România, în temeiul art. 4 alin. (1), art. 5 lit. g), art. 8 alin. (2) lit. a) și al art. 14 alin. (1) lit. b) din Legea nr. 32/2000,
+cu modificările și completările ulterioare,
+președintele Comisiei de Supraveghere a Asigurărilor emite următoarea decizie:
+Art. 1. — În conformitate cu prevederile art. 5 lit. g) și
+ale art. 14 alin. (1) lit. b) din Legea nr. 32/2000 privind
+activitatea de asigurare și supravegherea asigurărilor, cu
+modificările și completările ulterioare, se retrage, la cerere,
+autorizația de desfășurare a activității de asigurări de viață
+a Societății Comerciale îNBG Asigurări — S.A. (fosta
+Societate Comercială îALPHA Insurance Romania“ — S.A.),
+cu sediul în municipiul București, bd. Ion Mihalache
+nr. 19—21, et. 3, sectorul 1, înregistrată la oficiul registrului
+comerțului cu nr. J40/26576/30.11.1993, cod unic de
+înregistrare 5016563, reprezentată legal de domnul
+Gerasimos Gazis, în calitate de director general.
+Art. 2. — Societatea Comercială îNBG Asigurări“ —
+S.A. (fosta Societate Comercială îALPHA Insurance
+Romania“ — S.A.) are obligația aplicării prevederilor art. 44
+alin. (2) din Legea nr. 32/2000, cu modificările și
+completările ulterioare.
+Art. 3. — Societății Comerciale îNBG Asigurări“ — S.A.
+(fosta Societate Comercială îALPHA Insurance Romania“ —
+S.A.) i se interzice, de la data primirii prezentei decizii,
+desfășurarea activității de asigurare de viață în România,
+conform prevederilor Legii nr. 32/2000, cu modificările și
+completările ulterioare, și ale normelor date în aplicarea
+
+acesteia, societatea rămânând autorizată să desfășoare
+activitatea de asigurări generale.
+Art. 4. — Nerespectarea și/sau neîndeplinirea în mod
+corespunzător a dispozițiilor prezentei decizii atrag
+răspunderea civilă sau penală a persoanelor vinovate
+pentru prejudiciile cauzate intereselor legitime și drepturilor
+asiguraților, potrivit legii.
+Art. 5. — (1) Împotriva prezentei decizii Societatea
+Comercială îNBG Asigurări“ — S.A. (fosta Societate
+Comercială îALPHA Insurance Romania“ — S.A. poate
+face plângere la curtea de apel, în termen de 30 de zile
+de la comunicarea acesteia conform art. 40 din Legea
+nr. 32/2000, cu modificările și completările ulterioare.
+(2) În conformitate cu art. 40 alin. (2) din Legea
+nr. 32/2000, cu modificările și completările ulterioare,
+plângerea adresată curții de apel nu suspendă pe timpul
+soluționării acesteia executarea deciziei emise de Comisia
+de Supraveghere a Asigurărilor.
+Art. 6. — Prezenta decizie își produce efecte la data
+comunicării sale societății de asigurări, potrivit Legii
+nr. 32/2000, cu modificările și completările ulterioare.
+
+Președintele Comisiei de Supraveghere a Asigurărilor,
+Nicolae Eugen Crișan
+București, 30 ianuarie 2006.
+Nr. 113.219.
+COMISIA DE SUPRAVEGHERE A ASIGURĂRILOR
+
+DECIZIE
+privind retragerea, la cerere, a autorizației de desfășurare a activității de asigurări de viață
+a Societății Comerciale îASITO Kapital“ — S.A.
+Comisia de Supraveghere a Asigurărilor, cu sediul social în municipiul București, str. Amiral Constantin Bălescu
+nr. 18, sectorul 1, cod de înregistrare fiscală nr. 14045240 din 1 iulie 2001, reprezentată legal de președinte, în temeiul
+art. 4 alin. (19), precum și al art. 39 alin. (5) din Legea nr. 32/2000 privind activitatea de asigurare și supravegherea
+asigurărilor, cu modificările și completările ulterioare,
+în baza Hotărârii Consiliului Comisiei de Supraveghere a Asigurărilor, adoptată în ședința din data de 18 ianuarie 2006,
+conform prevederilor art. 4 alin. (22)—(241) din Legea nr. 32/2000, cu modificările și completările ulterioare, în cadrul
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 130/10.II.2006
+
+căreia a fost analizată documentația aferentă Notei nr. 124.082 din 9 ianuarie 2006, s-a hotărât retragerea, la cerere, a
+autorizației de desfășurare a activității de asigurări de viață a Societății Comerciale îASITO Kapital“ — S.A., cu sediul în
+București, str. Elena Văcărescu nr. 100A, sectorul 1, înregistrată la oficiul registrului comerțului cu
+nr. J40/6.818/10.07.1998, cod unic de înregistrare 10801286, reprezentată legal de dl Marcel Pîrciog, în calitate de
+director general,
+avându-se în vedere următoarele motive de drept și de fapt:
+Conform art. 16 alin. (3) din Legea nr. 32/2000, cu modificările și completările ulterioare, îCapitalul social vărsat
+și fondul de rezervă liberă vărsat [...] se vor actualiza periodic prin norme de Comisia de Supraveghere a Asigurărilor“.
+Potrivit Ordinului președintelui Comisiei de Supraveghere a Asigurărilor nr. 3.109/2004 pentru punerea în aplicare
+a Normelor privind actualizarea limitei minime a capitalului social vărsat al asigurătorilor, astfel cum a fost modificat prin
+Ordinul președintelui Comisiei de Supraveghere a Asigurărilor nr. 3.105/2005, societățile de asigurare aveau obligația să
+își actualizeze capitalul social vărsat, până la data de 31 decembrie 2005, la următoarele valori:
+a) 5.000.000 lei (RON) pentru activitatea de asigurări generale, exceptând asigurările obligatorii;
+b) 8.000.000 lei (RON) pentru activitatea de asigurări generale;
+c) 8.000.000 lei (RON) pentru activitatea de asigurări de viață;
+d) suma valorilor prevăzute la lit. a) și c) sau b) și c), după caz, în funcție de activitățile de asigurare
+desfășurate.
+Prin adresa înregistrată la Comisia de Supraveghere a Asigurărilor sub nr. 43.297 din 15 decembrie 2005,
+Societatea Comercială îASITO Kapital“ — S.A. a adus la cunoștință autorității de supraveghere faptul că începând cu
+data de 1 ianuarie 2006 societatea nu mai subscrie riscuri din categoria asigurărilor de viață.
+Astfel, față de prevederile legale sus-menționate, deși Societatea Comercială îASITO Kapital“ — S.A. avea în
+obiectul de activitate practicarea activității de asigurări generale și asigurări de viață, capitalul social înregistrat la Oficiul
+Registrului Comerțului al municipiului București, la data de 31 decembrie 2005, era în cuantum de 6.500.500 lei (RON),
+deci sub limita minimă de 13.000.000 lei (RON) [5.000.000 lei (RON) pentru activitatea de asigurări generale, exceptând
+asigurările obligatorii, și 8.000.000 lei (RON) pentru activitatea de asigurări generale], prevăzută de Ordinul președintelui
+Comisiei de Supraveghere a Asigurărilor nr. 3.109/2004.
+Având în vedere faptul că, până la termenul stabilit de dispozițiile legale sus-menționate, și anume 31 decembrie
+2005, societatea de asigurare nu a depus dovada majorării capitalului social, în conformitate cu prevederile art. 2 pct. 1 din
+Normele privind actualizarea limitei minime a capitalului social vărsat al asigurătorilor, aprobate prin Ordinul președintelui
+Comisiei de Supraveghere a Asigurărilor nr. 3.109/2004, astfel cum a fost modificat prin Ordinul președintelui Comisiei de
+Supraveghere a Asigurărilor nr. 3.105/2005, faptă ce costituie contravenție conform art. 39 alin. (2) lit. g) din Legea
+nr. 32/2000, cu modificările și completările ulterioare, și se sancționează în condițiile și potrivit art. 39 alin. (3) lit. e) din
+aceeași lege, Consiliul Comisiei de Supraveghere a Asigurărilor a hotărât, în ședința din data de 18 ianuarie 2006,
+retragerea, la cerere, a autorizației de desfășurare a activității de asigurări de viață a Societății Comerciale îASITO Kapital“ — S.A.
+Pentru aceste motive, în scopul apărării drepturilor asiguraților și al promovării stabilității activității de asigurare în
+România, în temeiul art. 4 alin. (1), art. 5 lit. g), art. 8 alin. (2) lit. a) și al art. 14 alin. (1) lit. b) din Legea nr. 32/2000,
+cu modificările și completările ulterioare,
+președintele Comisiei de Supraveghere a Asigurărilor emite următoarea decizie:
+Art. 1. — În conformitate cu prevederile art. 5 lit. g) și
+ale art. 14 alin. (1) lit. b) din Legea nr. 32/2000 privind
+activitatea de asigurare și supravegherea asigurărilor, cu
+modificările și completările ulterioare, se retrage, la cerere,
+autorizația de desfășurare a activității de asigurări de viață
+a Societății Comerciale îASITO Kapital“ — S.A., cu sediul
+în București, str. Elena Văcărescu nr. 100A, sectorul 1,
+înregistrată la oficiul registrului comerțului cu
+nr. J40/6.818/10.07.1998, cod unic de înregistrare
+10801286, reprezentată legal de domnul Marcel Pîrciog, în
+calitate de director general.
+Art. 2. — Societatea Comercială îASITO Kapital“ —
+S.A. are obligația aplicării prevederilor art. 44 alin. (2) din
+Legea nr. 32/2000, cu modificările și completările ulterioare.
+Art. 3. — Societății Comerciale îASITO Kapital“ — S.A.
+i se interzice, de la data primirii prezentei decizii,
+desfășurarea activității de asigurare de viață în România,
+conform prevederilor Legii nr. 32/2000, cu modificările și
+completările ulterioare, și ale normelor date în aplicarea
+
+acesteia, societatea rămânând autorizată să desfășoare
+activitatea de asigurări generale.
+Art. 4. — Nerespectarea și/sau neîndeplinirea în mod
+corespunzător a dispozițiilor prezentei decizii atrag
+răspunderea civilă sau penală a persoanelor vinovate
+pentru prejudiciile cauzate intereselor legitime și drepturilor
+asiguraților, potrivit legii.
+Art. 5. — (1) Împotriva prezentei decizii Societatea
+Comercială îASITO Kapital“ — S.A. poate face plângere la
+curtea de apel, în termen de 30 de zile de la comunicarea
+acesteia conform art. 40 din Legea nr. 32/2000, cu
+modificările și completările ulterioare.
+(2) În conformitate cu art. 40 alin. (2) din Legea
+nr. 32/2000, cu modificările și completările ulterioare,
+plângerea adresată curții de apel nu suspendă pe timpul
+soluționării acesteia executarea deciziei emise de Comisia
+de Supraveghere a Asigurărilor.
+Art. 6. — Prezenta decizie își produce efecte la data
+comunicării sale societății de asigurări, potrivit Legii
+nr. 32/2000, cu modificările și completările ulterioare.
+
+Președintele Comisiei de Supraveghere a Asigurărilor,
+Nicolae Eugen Crișan
+
+București, 30 ianuarie 2006.
+Nr. 113.220.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 130/10.II.2006
+
+7
+
+COMISIA DE SUPRAVEGHERE A ASIGURĂRILOR
+
+DECIZIE
+privind retragerea, la cerere, a autorizației de desfășurare a activității de asigurări de viață
+a Societății Comerciale îCARPATICA Asig“ — S.A.
+Comisia de Supraveghere a Asigurărilor, cu sediul social în municipiul București, str. Amiral Constantin Bălescu
+nr. 18, sectorul 1, cod de înregistrare fiscală nr. 14045240 din 1 iulie 2001, reprezentată legal de președinte, în temeiul
+art. 4 alin. (19), precum și al art. 39 alin. (5) din Legea nr. 32/2000 privind activitatea de asigurare și supravegherea
+asigurărilor, cu modificările și completările ulterioare,
+în baza hotărârii Consiliului Comisiei de Supraveghere a Asigurărilor, adoptată în ședința din 18 ianuarie 2006,
+conform prevederilor art. 4 alin. (22)—(241) din Legea nr. 32/2000, cu modificările și completările ulterioare, în cadrul
+căreia a fost analizată documentația aferentă Notei nr. 124.082 din 9 ianuarie 2006, s-a hotărât retragerea, la cerere, a
+autorizației de desfășurare a activității de asigurări de viață a Societății Comerciale îCARPATICA Asig“ — S.A., cu sediul
+în municipiul Sibiu, Str. Autogării nr. 1, județul Sibiu, înregistrată la oficiul registrului comerțului cu
+nr. J32/1.053/29.11.1996, cod unic de înregistrare R 8990884, reprezentată legal de doamna Maria Coșa, în calitate de
+director general,
+avându-se în vedere următoarele motive de drept și de fapt:
+Conform art. 16 alin. (3) din Legea nr. 32/2000, cu modificările și completările ulterioare, îCapitalul social vărsat
+și fondul de rezervă liberă vărsat [...] se vor actualiza periodic prin norme de Comisia de Supraveghere a Asigurărilor“.
+Potrivit Ordinului președintelui Comisiei de Supraveghere a Asigurărilor nr. 3.109/2004 pentru punerea în aplicare
+a Normelor privind actualizarea limitei minime a capitalului social vărsat al asigurătorilor, astfel cum a fost modificat prin
+Ordinul președintelui Comisiei de Supraveghere a Asigurărilor nr. 3.105/2005, societățile de asigurare aveau obligația să
+își actualizeze capitalul social vărsat, până la data de 31 decembrie 2005, la următoarele valori:
+a) 5.000.000 lei (RON) pentru activitatea de asigurări generale, exceptând asigurările obligatorii;
+b) 8.000.000 lei (RON) pentru activitatea de asigurări generale;
+c) 8.000.000 lei (RON) pentru activitatea de asigurări de viață;
+d) suma valorilor prevăzute la lit. a) și c) sau b) și c), după caz, în funcție de activitățile de asigurare
+desfășurate.
+Prin adresa înregistrată la Comisia de Supraveghere a Asigurărilor sub nr. 43.757 din 23 decembrie 2005,
+Societatea Comercială îCARPATICA Asig“ — S.A. a adus la cunoștință autorității de supraveghere faptul că începând cu
+data de 1 ianuarie 2006 societatea nu mai subscrie asigurări de viață, și prin urmare, a solicitat aprobarea cererii de
+renunțare la subscrierea acestui tip de asigurări.
+Astfel, față de prevederile legale sus-menționate, deși Societatea Comercială îCARPATICA Asig“ — S.A. are în
+obiectul de activitate practicarea activității de asigurări generale (inclusiv asigurări obligatorii) și asigurări de viață, capitalul
+social înregistrat la Oficiul Registrului Comerțului al Municipiului București, la data de 31 decembrie 2005, era în cuantum
+de 8.000.000 lei (RON), deci sub limita minimă de 16.000.000 lei (RON) [8.000.000 lei (RON) pentru activitatea de
+asigurări generale și 8.000.000 lei (RON) pentru activitatea de asigurări generale], prevăzută de Ordinul președintelui
+Comisiei de Supraveghere a Asigurărilor nr. 3.109/2004, astfel cum a fost modificat prin Ordinul președintelui Comisiei de
+Supraveghere a Asigurărilor nr. 3.105/2005.
+Având în vedere faptul că, până la termenul stabilit de dispozițiile legale sus-menționate, și anume 31 decembrie
+2005, societatea de asigurare nu a depus dovada majorării capitalului social, în conformitate cu prevederile art. 16
+alin. (1) lit. a) din Legea nr. 32/2000, cu modificările și completările ulterioare, și ale art. 2 pct. 1 din Normele privind
+actualizarea limitei minime a capitalului social vărsat al asigurătorilor, aprobate prin Ordinul președintelui Comisiei de
+Supraveghere a Asigurărilor nr. 3.109/2004, astfel cum a fost modificat prin Ordinul președintelui Comisiei de
+Supraveghere a Asigurărilor nr. 3.105/2005, faptă ce constituie contravenție conform art. 39 alin. (2) lit. g) din Legea
+nr. 32/2000, cu modificările și completările ulterioare, și se sancționează în condițiile și potrivit art. 39 alin. (3) lit. e) din
+aceeași lege, Consiliul Comisiei de Supraveghere a Asigurărilor a hotărât, în ședința din 18 ianuarie 2006, retragerea, la
+cerere, a autorizației de desfășurare a activității de asigurări de viață a Societății Comerciale îCARPATICA Asig“ — S.A.
+Pentru aceste motive, în scopul apărării drepturilor asiguraților și al promovării stabilității activității de asigurare în
+România, în temeiul art. 4 alin. (1), art. 5 lit. g), art. 8 alin. (2) lit. a) și al art. 14 alin. (1) lit. b) din Legea nr. 32/2000,
+cu modificările și completările ulterioare,
+președintele Comisiei de Supraveghere a Asigurărilor emite următoarea decizie:
+Art. 1. — În conformitate cu prevederile art. 5 lit. g) și
+ale art. 14 alin. (1) lit. b) din Legea nr. 32/2000 privind
+activitatea de asigurare și supravegherea asigurărilor, cu
+modificările și completările ulterioare, se retrage, la cerere,
+autorizația de desfășurare a activității de asigurări de viață
+a Societății Comerciale îCARPATICA Asig“ — S.A.,
+cu sediul în municipiul Sibiu, Str. Autogării nr. 1, județul
+Sibiu, înregistrată la oficiul registrului comerțului cu
+nr. J32/1.053/29.11.1996, cod unic de înregistrare R8990884,
+
+reprezentată legal de doamna Maria Coșa, în calitate de
+director general.
+Art. 2. — Societatea Comercială îCARPATICA Asig“ —
+S.A. are obligația aplicării prevederilor art. 44 alin. (2) din
+Legea nr. 32/2000, cu modificările și completările ulterioare.
+Art. 3. — Societății Comerciale îCARPATICA Asig“ —
+S.A. i se interzice, de la data primirii prezentei decizii,
+desfășurarea activității de asigurare de viață în România,
+conform prevederilor Legii nr. 32/2000, cu modificările și
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 130/10.II.2006
+
+completările ulterioare, și ale normelor date în aplicarea
+acesteia, societatea rămânând autorizată să desfășoare
+activitatea de asigurări generale.
+
+comunicarea acesteia conform art. 40 din Legea
+nr. 32/2000, cu modificările și completările ulterioare.
+
+Art. 4. — Nerespectarea și/sau neîndeplinirea în mod
+corespunzător a dispozițiilor prezentei decizii atrag
+răspunderea civilă sau penală a persoanelor vinovate
+pentru prejudiciile cauzate intereselor legitime și drepturilor
+asiguraților, potrivit legii.
+
+(2) În conformitate cu art. 40 alin. (2) din Legea
+nr. 32/2000, cu modificările și completările ulterioare,
+plângerea adresată curții de apel nu suspendă pe timpul
+soluționării acesteia executarea deciziei emise de Comisia
+de Supraveghere a Asigurărilor.
+
+Art. 5. — (1) Împotriva prezentei decizii Societatea
+Comercială îCARPATICA Asig“ — S.A. poate face
+plângere la curtea de apel, în termen de 30 de zile de la
+
+Art. 6. — Prezenta decizie își produce efecte la data
+comunicării sale societății de asigurări, potrivit Legii
+nr. 32/2000, cu modificările și completările ulterioare.
+
+Președintele Comisiei de Supraveghere a Asigurărilor,
+Nicolae Eugen Crișan
+
+București, 30 ianuarie 2006.
+Nr. 113.221.
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+Regia Autonomă îMonitorul Oficial“, Str. Parcului nr. 65, sectorul 1, București; C.U.I. 427282; Atribut fiscal R,
+IBAN: RO75RNCB5101000000120001 Banca Comercială Română — S.A. — Sucursala îUnirea“ București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 318.51.29/150, fax 318.51.15, E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 410.47.30, tel./fax 410.77.36 și 410.47.23
+Tiparul: Regia Autonomă îMonitorul Oficial“
+Monitorul Oficial al României, Partea I, nr. 130/10.II.2006 conține 8 pagini.
+
+Prețul: 0,60 lei noi/6.000 lei vechi
+
+&JUYDGY|113060]
+ISSN 1453—4495
+
+

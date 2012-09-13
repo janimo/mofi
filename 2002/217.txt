@@ -1,0 +1,3276 @@
+PARTEA
+
+Anul XIV — Nr. 217
+
+I
+
+Luni, 1 aprilie 2002
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+
+59.
+
+259.
+
+— Ordin al ministrului industriei și resurselor pentru modificarea Ordinului ministrului industriei și
+resurselor nr. 113/2001 privind aprobarea unor
+reglementări tehnice pentru recipiente-butelii ........
+
+1–8
+
+— Decizie a directorului general al Direcției
+Generale a Vămilor pentru aprobarea Normelor
+privind procedurile simplificate de vămuire ...........
+
+8–31
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAÞIEI PUBLICE CENTRALE
+MINISTERUL INDUSTRIEI ȘI RESURSELOR
+
+ORDIN
+pentru modificarea Ordinului ministrului industriei și resurselor nr. 113/2001
+privind aprobarea unor reglementări tehnice pentru recipiente-butelii
+Ministrul industriei și resurselor,
+în temeiul prevederilor Hotărârii Guvernului nr. 19/2001 privind organizarea și funcționarea Ministerului Industriei și
+Resurselor, cu completările ulterioare,
+emite următorul ordin:
+Art. 1. — Anexa nr. 1 la Ordinul ministrului industriei și
+resurselor nr. 113/2001 privind aprobarea unor reglementări
+tehnice pentru recipiente-butelii, publicat în Monitorul Oficial
+al României, Partea I, nr. 463 bis din 14 august 2001, se
+înlocuiește cu anexa la prezentul ordin.
+
+Art. 2. — Anexa face parte integrantă din prezentul
+ordin.
+Art. 3. — Prezentul ordin va fi publicat în Monitorul
+Oficial al României, Partea I.
+
+Ministrul industriei și resurselor,
+Dan Ioan Popescu
+București, 27 februarie 2002.
+Nr. 59.
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+ANEXĂ
+
+REGLEMENTĂRI TEHNICE
+cu privire la prevederi comune pentru recipiente-butelii și metode de verificare a acestora — RT 76/767
+Definiții și principii de bază
+Art. 1. — În sensul prezentelor reglementări tehnice,
+prin recipient sub presiune se înțelege orice recipient transportabil în care se poate obține sau dezvolta o presiune
+mai mare de 0,5 bar la un fluid (gaze comprimate, lichefiate sau dizolvate sub presiune).
+Prezentele reglementări tehnice se aplică următoarelor
+categorii de recipiente sub presiune:
+a) recipiente-butelii pentru gaz din oțel fără sudură;
+b) recipiente-butelii pentru gaz din oțel nealiat sudate;
+c) recipiente-butelii pentru gaz din aluminiu nealiat și
+aliaje cu aluminiu fără sudură.
+Art. 2. — Prezentele reglementări tehnice nu se aplică:
+a) recipientelor sub presiune special proiectate pentru
+întrebuințarea în domeniul nuclear, care prin avariere ar
+putea cauza emisii radioactive;
+b) recipientelor sub presiune destinate instalării în interiorul navelor maritime sau aeriene ori pentru propulsia
+acestora;
+c) conductelor și rețelelor de conducte.
+Art. 3. — Cerințele pentru proiectare și fabricație, pentru
+inspecție, testare și, unde este necesar, metodele de utilizare pentru categoriile de recipiente sub presiune prevăzute
+la art. 1, precum și pentru echipamentul auxiliar al categoriei de recipiente sub presiune, după caz, sunt cuprinse în
+reglementări tehnice specifice categoriilor.
+În reglementări tehnice specifice categoriilor trebuie indicat dacă recipientul se supune aprobării de model CS sau
+verificării CS, dacă se supune ambelor proceduri sau nu se
+supune nici uneia dintre acestea.
+Totodată aceste reglementări tehnice specifice categoriilor trebuie să indice:
+a) în ce condiții și intervalul de timp în care se acordă
+aprobarea de model CS, precum și marcajele care se
+fixează pe recipientele sub presiune în aceste cazuri;
+b) marcajul de identificare pentru fiecare recipient sub
+presiune;
+c) condițiile pe care trebuie să le îndeplinească diferitele
+modele ale unui recipient aprobat, pentru a primi aceeași
+aprobare de model.
+Art. 4. — În sensul prezentelor reglementări, următorii
+termeni se definesc astfel:
+a) recipient sub presiune tip CS — orice recipient-butelie
+proiectat și fabricat astfel încât să satisfacă cerințele
+cuprinse în reglementările tehnice specifice categoriei sale;
+b) recipient sub presiune tip CE — orice recipient-butelie
+proiectat și fabricat astfel încât să satisfacă cerințele
+cuprinse în reglementările europene specifice categoriei sale;
+c) reglementări specifice recipientului — reglementări tehnice specifice categoriilor de recipiente sub presiune
+prevăzute la art. 1;
+
+d) organism de inspecție — organismul desemnat de
+Ministerul Industriei și Resurselor, în calitate de autoritate
+de stat în domeniu, pentru evaluarea categoriilor de recipiente sub presiune prevăzute la art. 1 înaintea introducerii
+pe piață și/sau punerii în funcțiune;
+e) organism de control — Inspecția de Stat pentru
+Controlul Cazanelor, Recipientelor sub Presiune și
+Instalațiilor de Ridicat — ISCIR-SP, structura responsabilă
+pentru controlul respectării prevederilor prezentului ordin.
+Art. 5. — Se admit introducerea pe piață și punerea în
+funcțiune a recipientelor sub presiune care:
+a) satisfac cerințele prezentelor reglementări tehnice și
+cerințele reglementărilor specifice recipientelor; și
+b) poartă marcajele aplicabile categoriilor specifice de
+recipiente prevăzute în anexele nr. 1.A și 1.B și sunt
+însoțite de certificatul pentru aprobarea de model CS; sau
+c) poartă marcajele aplicabile categoriilor specifice de
+recipiente sub presiune tip CE și sunt însoțite de certificatul
+pentru aprobarea de model CE.
+Art. 6. — Procedurile pentru aprobarea de model CS și
+de verificare CS, descrise în prezentele reglementări tehnice, aplicabile în România, sunt echivalente cu procedurile
+de aprobare de model CE și verificare CE, conform reglementărilor europene.
+Aprobarea de model CS
+Art. 7. — Atunci când într-o reglementare specifică recipientului este prevăzută aprobarea de model CS, aceasta
+se va executa:
+a) înainte de verificarea CS, atunci când aceasta este
+cerută;
+b) înainte de introducerea pe piață și punerea în
+funcțiune, atunci când nu este cerută verificarea CS.
+Art. 8. — (1) La cererea oricărui producător sau a
+reprezentantului său autorizat, persoană juridică cu sediul
+în România, organismul de inspecție, în baza unui raport
+de inspecție, poate să emită un certificat pentru aprobarea
+de model CS pentru orice tip de recipient sub presiune
+care satisface cerințele prevăzute în reglementările specifice recipientului.
+(2) Cererea pentru obținerea certificatului pentru aprobarea de model CS va fi înaintată unui singur organism de
+inspecție, conform prevederilor pct. 1 din anexa nr. 1.A.
+(3) Într-un interval de maximum 15 zile de la data depunerii cererii pentru obținerea certificatului pentru aprobarea
+de model CS organismul de inspecție trebuie să răspundă
+solicitantului:
+a) dacă cererea este acceptată; sau
+b) dacă solicitantul trebuia să aducă completări în scopul
+acceptării cererii; sau
+c) dacă cererea este respinsă.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+(4) După acceptarea cererii pentru obținerea certificatului
+pentru aprobarea de model CS, într-un interval de maximum
+90 de zile, organismul de inspecție trebuie să efectueze
+verificările și să întocmească un raport de inspecție, în
+baza căruia emite, după caz, certificatul pentru aprobarea
+de model CS. Dacă în timpul verificărilor organismul de
+inspecție constată că sunt necesare modificări și/sau completări, intervalul stabilit pentru eliberarea certificatului se
+mărește în mod corespunzător.
+Art. 9. — Organismul de inspecție emite, refuză emiterea sau retrage certificatul pentru aprobarea de model CS
+conform prevederilor cuprinse în prezentul capitol și la
+pct. 1 și 2 din anexa nr. 1.A.
+Art. 10. — Dacă rezultatele examinării prevăzute la
+pct. 2 din anexa nr. 1.A sunt satisfăcătoare, organismul de
+inspecție emite un certificat pentru aprobarea de model CS,
+care va fi înaintat solicitantului. Dacă această aprobare se
+referă la un recipient care este supus verificării CS, producătorul trebuie să aplice pe recipient marcajul aprobării
+prevăzute la pct. 3.1 din anexa nr. 1.A înainte de a avea
+loc verificarea.
+Art. 11. — Cerințele referitoare la certificat și la marcajul aprobării de model CS sunt prevăzute în anexa nr. 1.A.
+Art. 12. — În cazul în care pentru o categorie de recipiente sub presiune care satisfac cerințele unor reglementări specifice recipientului nu este prevăzută aprobarea
+de model CS, a fost înaintată o solicitare pentru verificarea
+CS, producătorul, pe propria răspundere, înainte de a avea
+loc verificarea CS, va aplica pe recipientele sub presiune
+din categoria respectivă marcajul special prevăzut la
+pct. 3.2 din anexa nr. 1.A.
+Art. 13. — Atunci când condițiile din reglementările specifice recipientului, după cum este prevăzut la art. 3, încetează a mai fi respectate, organismul de inspecție retrage
+certificatul pentru aprobarea de model CS.
+Art. 14. — Atunci când organismul de control constată
+că tipul de recipient sub presiune căruia i s-a acordat certificatul pentru aprobarea de model CS nu este conform
+modelului, poate acționa după cum urmează:
+a) propune menținerea aprobării de model CS în cazul
+în care diferențele constatate sunt minime sau nu prezintă
+nici un pericol pentru siguranță; stabilește un termen pentru
+eliminarea diferențelor constatate;
+b) stabilește împreună cu producătorul măsurile necesare în procesul de fabricație și termenul convenit pentru
+realizarea acestora;
+c) solicită retragerea aprobării de model CS în cazul în
+care schimbările constatate constituie un pericol pentru
+securitatea persoanelor și/sau a proprietății ori în situația în
+care producătorul nu s-a conformat cerințelor prevăzute la
+lit. a) și b);
+d) solicită retragerea de pe piață și/sau interzice punerea pe piață a produselor neconforme cu modelul aprobat.
+Art. 15. — Dacă organismul de control constată că nu
+trebuia acordat certificatul pentru aprobarea de model CS,
+solicită organismului de inspecție retragerea acestuia.
+
+3
+
+Art. 16. — Atunci când apare o dispută cu privire la
+oportunitatea retragerii unui certificat pentru aprobare de
+model CS sunt necesare consultări între organismul de
+inspecție care a efectuat verificările și a eliberat certificatul
+și organismul de control. Soluționarea disputei se va face
+pe baza consultărilor între organisme, informând Ministerul
+Industriei și Resurselor cu privire la soluția adoptată.
+Verificarea CS
+Art. 17. — Verificarea CS servește la stabilirea faptului
+că un recipient sub presiune este conform cerințelor
+cuprinse în reglementările specifice recipientului; aceasta se
+atestă prin marcajul de verificare CS.
+Art. 18. — Atunci când un recipient sub presiune este
+supus verificării CS, organismul de inspecție verifică dacă:
+a) — recipientul sub presiune aparține unei categorii
+supuse aprobării de model CS și, în acest caz, dacă
+acesta corespunde modelului aprobat și poartă marcajul
+aprobării CS;
+— recipientul sub presiune aparține unei categorii
+exceptate de la aprobarea de model CS și, în acest caz,
+dacă acesta satisface cerințele din reglementările specifice
+recipientului;
+b) recipientul sub presiune satisface cerințele prevăzute
+în reglementările specifice cu privire la efectuarea
+încercărilor și aplicarea marcajelor și inscripțiilor specifice.
+Art. 19. — Producătorul nu poate refuza accesul reprezentanților organismului de inspecție și al reprezentanților
+organismului de control în locurile de producție, dacă acest
+acces este important pentru efectuarea sarcinilor atribuite
+organismelor respective.
+Art. 20. — După efectuarea verificării CS a unui recipient sub presiune în condițiile prevăzute la art. 18 și 19 și
+în anexa nr. 1.B, organismul de inspecție va aplica pe
+recipient marcajul de verificare CS parțială sau finală, conform pct. 3 din anexa nr. 1.B, care conține forma și caracteristicile marcajelor de verificare CS.
+Art. 21. — Dacă prevederile unor reglementări specifice
+recipientului se referă la emiterea unui certificat de verificare CS, în care să fie descrise verificările efectuate și
+rezultatele lor, organismul de inspecție va emite un astfel
+de certificat.
+Art. 22. — Când o reglementare specifică unei categorii
+de recipiente nu prevede verificarea CS, producătorul, după
+ce a verificat dacă fiecare recipient sub presiune satisface
+cerințele respectivei reglementări și, după caz, dacă este
+conform modelului aprobat, trebuie să aplice pe propria
+răspundere:
+a) marcajul prevăzut la pct. 5.3 din anexa nr. 1.A, acolo
+unde este necesară aprobarea de model CS; sau
+b) marcajul prevăzut la pct. 5.4 din anexa nr. 1A,
+atunci când nu este necesară aprobarea de model CS.
+Prevederi comune pentru aprobarea de model CS
+și verificarea CS
+Art. 23. — Marcajele prevăzute în prezentele reglementări tehnice sau în reglementările specifice recipientelor
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+
+și echipamentelor auxiliare ale acestora trebuie să fie aplicate în mod vizibil, ușor lizibil și durabil pe fiecare recipient
+și echipament auxiliar al acestuia.
+Art. 24. — Este interzisă aplicarea pe recipientele sub
+presiune și pe echipamentele auxiliare ale acestora a marcajelor asemănătoare cu marcajul aprobării de model CS,
+care pot fi confundate cu acest marcaj.
+Clauza derogatorie
+Art. 25. — În cazul în care proiectul și metodele de
+fabricație ale unui recipient sub presiune nu corespund
+tuturor prevederilor reglementărilor specifice, se consideră
+respectate prevederile art. 5 dacă recipientul sub presiune
+asigură un grad echivalent de securitate.
+Art. 26. — Fiecare reglementare specifică recipientului
+trebuie să conțină prevederile de la care se admit derogări
+și/sau prevederile de la care nu se admit derogări.
+Art. 27. — Pentru acordarea unei derogări se procedează astfel:
+1. a) producătorul sau reprezentantul autorizat, persoană juridică cu sediul în România, adresează solicitare
+pentru derogare organismului de inspecție desemnat;
+b) solicitarea se face pe propria răspundere și va
+conține soluții adecvate, motivate corespunzător din punct
+de vedere tehnic, care să nu afecteze siguranța în
+funcționare a recipientului și să excludă pericolul accidentelor;
+c) se constituie o comisie specială din care fac parte
+principalii factori interesați (proiectant, producător, montator
+sau reparator, proprietar sau utilizator și, după caz,
+Inspecția Muncii, unități de cercetare și proiectare, unități
+de învățământ superior de specialitate), care întocmește un
+raport ce se înaintează organismului de inspecție;
+2. organismul de inspecție desemnat, pe baza raportului
+întocmit de comisia specială, acordă derogarea solicitată;
+3. documentația necesară obținerii derogării, prevăzută
+la pct. 1 lit. b), se transmite organismelor de inspecție
+însoțită de o copie în limba română, după caz.
+Adaptarea la progresul tehnic
+Art. 28. — În scopul adaptării la progresul tehnic în
+vederea eliminării barierelor în calea comerțului cu recipiente sub presiune, Ministerul Industriei și Resurselor va
+actualiza prevederile prezentului ordin.
+Clauza de securitate
+Art. 29. — Când organismul de control constată că unul
+sau mai multe recipiente sub presiune constituie un pericol
+pentru securitatea persoanelor și/sau proprietății, chiar dacă
+satisfac prevederile prezentelor reglementări tehnice și ale
+reglementărilor specifice recipientului, acesta trebuie să ia
+măsurile necesare de interzicere temporară de la introducerea pe piață a recipientelor sau să impună condiții speciale recipientelor în cauză.
+
+Organismul de control va informa Ministerul Industriei și
+Resurselor cu privire la faptele constatate și despre decizia
+luată în legătură cu acestea.
+Art. 30. — În cazul în care se consideră că sunt necesare modificări de natură tehnică în textul reglementărilor,
+acestea vor face obiectul unor amendamente la respectivele reglementări.
+Art. 31. — În cazul în care s-a făcut uz de clauza de
+securitate prevăzută la art. 29, aceasta va fi menținută
+până când modificările reglementărilor intră în vigoare.
+Prevederi pentru recipientele-butelii sub presiune tip CE
+din import
+Art. 32. — Nu se pot interzice sau restrânge introducerea pe piață și punerea în funcțiune a recipientelor sub
+presiune tip CE provenite din import, dacă acestea respectă condițiile descrise la art. 5 și sunt fabricate într-un
+stat membru al Uniunii Europene.
+Art. 33. — Atunci când organismul de control are
+motive bine întemeiate să considere că unul sau mai multe
+recipiente sub presiune provenite din import constituie un
+pericol pentru populație sau mediu, cu toate că poartă
+marcajul CE specific și sunt însoțite de certificatul pentru
+aprobare de model CE, va interzice punerea pe piață
+și/sau în funcțiune în România. În această situație organismul de control va face uz de clauza de securitate.
+Dispoziții finale
+Art. 34. — În urma acțiunilor întreprinse de organismul
+de control, în conformitate cu prevederile prezentelor reglementări tehnice și ale reglementărilor specifice recipientului,
+din care rezultă refuzul aprobării de model CS sau refuzul
+de a aplica marcajul de verificare CS, retragerea aprobării
+ori interzicerea vânzării sau folosirii recipientelor sub presiune tip CS, în decizia sa organismul de control va indica
+motivele exacte care stau la baza unei astfel de decizii.
+Decizia va fi adusă la cunoștință părții în cauză, care, în
+același timp, va fi informată cu privire la posibilitățile de
+remediere, conform reglementărilor în vigoare.
+Art. 35. — Ministerul Industriei și Resurselor desemnează organismele de inspecție, având în vedere criteriile
+minime specificate în anexa nr. 1.C.
+Art. 36. — În condițiile nerespectării criteriilor minime
+prevăzute în anexa nr. 1.C Ministerul Industriei și
+Resurselor trebuie să retragă desemnarea organismului de
+inspecție sau, după caz, să suspende ori să limiteze
+desemnarea.
+Art. 37. — Anexele nr. 1.A îAprobarea de model CS“,
+nr. 1.B îVerificarea CS“ și nr. 1.C îCriteriile minime care
+trebuie avute în vedere la numirea organismului de
+inspecție“ fac parte integrantă din prezentele reglementări
+tehnice.
+
+5
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+
+ANEXA Nr. 1.A
+la reglementările tehnice
+APROBAREA DE MODEL CS
+
+1. Solicitarea aprobării de model CS
+1.1. Cererea și corespondența referitoare la aprobarea
+de model CS vor fi întocmite în limba română, în conformitate cu legislația în vigoare în România. Documentele
+care se anexează la cerere se redactează sau se traduc,
+după caz, în limba română.
+1.2. Cererea trebuie să conțină următoarele informații:
+— denumirea și sediul firmei producătoare, ale reprezentantului său autorizat, persoană juridică cu sediul în
+România, și locul sau locurile de fabricație a recipientelor;
+— categoria recipientului;
+— scopul utilizării sau utilizările nepermise;
+— caracteristicile tehnice;
+— denumirea comercială, dacă există, sau tipul.
+1.3. Cererea trebuie să fie însoțită de două copii de pe
+dosarul tehnic care va cuprinde în special următoarele:
+1.3.1. o descriere care include:
+— specificațiile materialelor, metodele de construcție și
+calculele de rezistență ale recipientului;
+— orice dispozitive de siguranță utilizate;
+— locurile unde se vor fixa marcajele pentru aprobare și
+pentru verificare specificate în prezentele reglementări tehnice, precum și celelalte marcaje prevăzute în reglementările specifice recipientului;
+1.3.2. desenele de ansamblu și, când este cazul, desenele de execuție ale elementelor/reperelor importante ale
+proiectului;
+1.3.3. orice alte informații indicate în reglementările specifice recipientului;
+1.3.4. o declarație prin care se certifică faptul că nu s-a
+mai făcut nici o altă solicitare pentru același model de
+recipient.
+2. Examinarea pentru aprobarea de model CS
+2.1. Examinarea pentru aprobarea de model CS va fi
+făcută pe baza planurilor și, când este cazul, pe recipiente
+mostră sau prototip.
+Examinarea va cuprinde:
+a) verificarea calculelor proiectului, metodelor de
+fabricație și de execuție, precum și a materialelor;
+b) când este cazul, verificarea dispozitivelor de securitate, a aparatelor de măsurat și a metodelor de instalare.
+3. Certificatul și marcajul pentru aprobarea de model CS
+3.1. Certificatul menționat la art. 11 din reglementările
+tehnice trebuie să conțină concluziile examinării modelului
+și va indica orice condiții, conform art. 3 din reglementările
+tehnice, la care poate fi supusă aprobarea. Certificatul
+trebuie să fie însoțit de descrierile și desenele necesare
+pentru a identifica modelul și, când este cazul, pentru a
+explica cum funcționează.
+Marcajul pentru aprobarea CS menționat la art. 11 din
+reglementările tehnice va fi o literă ε stilizată, care conține:
+
+— în partea superioară, numărul alocat reglementărilor
+tehnice specifice categoriei, în ordinea cronologică a
+adoptării, majusculele RO pentru România și anul acordării
+aprobării de model CS; numărul reglementărilor specifice
+recipientelor sunt atribuite de Ministerul Industriei și
+Resurselor în ordinea adoptării acestora;
+— în partea inferioară, numărul aprobării de model CS.
+Un exemplu al acestui marcaj este indicat la pct. 5.1.
+3.2. Marcajul descris la art. 12 din reglementările tehnice, reprezentat de litera ε inversată simetric față de axa
+verticală, conține în partea superioară aceleași informații
+cerute la pct. 3.1 primul alineat și în partea inferioară
+numărul de referință al categoriei care nu este supusă
+aprobării de model CS, dacă se specifică astfel în reglementările specifice recipientului.
+Un exemplu al acestui marcaj este indicat la pct. 5.2.
+3.3. Marcajul menționat la art. 4 lit. a) din reglementările
+tehnice este același cu marcajul pentru aprobarea de
+model CS, înconjurat de un hexagon.
+Un exemplu al acestui marcaj este indicat la pct. 5.3.
+3.4. Marcajul menționat la art. 4 lit. b) din reglementările
+tehnice este marcajul exceptării de la aprobarea de model
+CS, înconjurat de un hexagon.
+Un exemplu al acestui marcaj este indicat la pct. 5.4.
+4. Înregistrarea certificatului pentru aprobarea de
+model CS
+Evidența certificatelor pentru aprobarea de model CS se
+va ține într-un registru special constituit la Ministerul
+Industriei și Resurselor.
+5. Marcaje referitoare la aprobarea de model CS
+5.1. Marcajul
+(vezi pct. 3.1)
+Exemplu:
+
+pentru
+
+aprobarea
+
+de
+
+model
+
+CS
+
+Aprobare de model CS acordată
+de România în anul 2001, conform
+primelor reglementări specifice recipientului.
+Numărul aprobării de model CS.
+5.2. Marcajul exceptării de la aprobarea de model CS
+(vezi pct. 3.2)
+Exemplu:
+Recipient construit în România și
+care nu este supus aprobării de
+model CS, conform primelor reglementări specifice recipientului.
+Numărul de referință al categoriei
+exceptate de la aprobarea de
+model CS, dacă așa este indicat
+în reglementarea specifică recipientului.
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+
+5.3. Marcajul pentru aprobarea de model CS și exceptarea de la verificarea CS (vezi pct. 3.3)
+Exemplu:
+Aprobarea de model CS acordată
+de România în anul 2001, conform primelor reglementări specifice recipientului.
+Numărul aprobării de model CS.
+
+5.4. Marcajul exceptării de la aprobarea de model CS
+și de la verificarea CS (vezi pct. 3.4)
+
+Exemplu:
+Recipient construit în România și
+care nu este supus aprobării de
+model CS, conform primelor
+reglementări specifice recipientului.
+Numărul de referință al categoriei
+exceptate de la aprobarea de
+model CS, dacă așa este indicat
+în reglementarea specifică recipientului.
+5.5. Reglementările specifice recipientului trebuie să
+cuprindă indicații privind locul și dimensiunile marcajelor
+referitoare la aprobarea de model CS.
+Dacă nu se indică altfel în reglementările tehnice specifice, literele și numerele din fiecare marcaj trebuie să aibă
+cel puțin 5 mm înălțime.
+
+ANEXA Nr. 1.B
+la reglementările tehnice
+VERIFICAREA CS
+
+1. Date generale
+1.1. Verificarea CS poate fi efectuată în una sau mai
+multe etape.
+1.2. În funcție de prevederile cuprinse în reglementările
+specifice recipientului se procedează astfel:
+1.2.1. Verificarea CS se efectuează într-o singură etapă
+numai pe recipientele care constituie un întreg atunci când
+părăsesc fabrica, adică recipientele care, teoretic, pot fi
+transferate la locul de instalare a acestora fără a fi necesar
+ca mai întâi să fie demontate.
+1.2.2. Verificarea recipientelor care nu sunt livrate dintr-o
+bucată se efectuează în două sau mai multe etape.
+1.2.3. Verificarea trebuie să asigure în special faptul că
+recipientul este conform modelului aprobat sau, în cazul
+recipientelor exceptate de la aprobarea de model CS, că
+este conform cerințelor indicate în respectivele reglementări
+specifice recipientului.
+2. Conținutul verificării CS
+2.1. În funcție de prevederile cuprinse în reglementările
+specifice recipientului, verificarea CS va cuprinde:
+— examinarea caracteristicilor materialelor;
+— verificarea calculelor proiectului, a metodei de
+fabricație, a execuției și a materialelor folosite;
+— o examinare interioară, care constă într-o verificare a
+componentelor interioare și a sudurii;
+— o încercare la presiune;
+1)
+
+— verificarea tuturor dispozitivelor de siguranță și a
+aparatelor de măsurat montate pe recipient;
+— o examinare exterioară a diferitelor părți ale recipientului;
+— o încercare de performanță atunci când aceasta este
+prevăzută în reglementări specifice recipientului.
+3. Marcajele pentru verificarea CS
+3.1. Descrierea marcajelor pentru verificarea CS
+3.1.1. În funcție de prevederile cuprinse în
+reglementările specifice recipientului, marcajele pentru verificarea CS care sunt aplicate conform pct. 3.3 vor fi după
+cum urmează:
+3.1.1.1. marcajul pentru verificarea CS finală va fi compus din două ștampile:
+3.1.1.1.1. prima ștampilă constă din litera îe“, care conține:
+— în partea superioară, majusculele care identifică statul
+în care se efectuează verificarea, RO pentru România,
+împreună cu unul sau două numere care identifică o subdiviziune teritorială, când este cazul;
+— în partea inferioară, ștampila organismului de
+inspecție împreună cu ștampila inspectorului, dacă este
+cazul;
+3.1.1.1.2. a doua ștampilă constă din data verificării
+înscrisă într-un hexagon, descris cu precizia cerută de
+reglementările specifice recipientului;
+3.1.1.2. marcajul pentru verificarea CS parțială va consta
+numai din prima ștampilă1).
+
+Notă explicativă pentru marcajul CS al verificării finale și pentru marcajul CS al verificării parțiale.
+Dacă un recipient nu se poate asambla la locul de fabricație sau dacă prin transportare pot fi afectate caracteristicile acestuia, verificarea CS
+trebuie efectuată după cum urmează:
+— verificarea recipientului la locul de fabricație de către un organism de certificare care, dacă recipientul este conform cerințelor CS, va
+aplica ștampila îe“ descrisă la pct. 3.1.1.1.1, care este cunoscută ca marcajul pentru verificarea CS parțială;
+— verificarea finală a recipientului la locul instalării de către un organism de certificare care, dacă recipientul este conform cerințelor CS, va
+aplica ștampila descrisă la pct. 3.1.1.1.2 și care, împreună cu marcajul pentru verificarea CS parțială, formează marcajul pentru verificarea CS finală.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+3.2. Forma și dimensiunile marcajelor
+3.2.1. Un exemplu al ștampilelor descrise la pct. 3.1.1.1.1
+și 3.1.1.1.2 este ilustrat în figurile 1 și 2 de mai jos.
+Reglementările specifice recipientului trebuie să indice
+locul unde se amplasează și dimensiunile marcajelor pentru
+verificarea CS. Dacă nu se indică altfel în reglementările
+specifice, literele și numerele fiecărui marcaj trebuie să
+aibă cel puțin 5 mm înălțime.
+3.3. Aplicarea marcajelor
+3.3.1. Marcajul pentru verificarea CS finală va fi aplicat
+în poziția cerută pe recipient, când acesta a fost verificat
+final și s-a constatat că este conform cerințelor CS.
+3.3.2. Când verificarea se efectuează în mai mult de o
+fază, marcajul pentru verificarea CS parțială va fi aplicat la
+
+7
+
+locul de fabricație pe recipient sau pe o componentă a
+recipientului care este conform cerințelor CS în acea fază
+a procedurii de verificare și în locul special indicat pentru
+poansonare sau în orice alt loc indicat în reglementările
+specifice recipientului.
+3.4. Pentru recipientele tip CE provenite din import
+majusculele cuprinse în conținutul marcajelor care identifică
+statul membru al Uniunii Europene care a acordat aprobarea de model CE sau a efectuat verificarea CE sunt:
+B pentru Belgia, D pentru Germania, DK pentru
+Danemarca, EL pentru Grecia, F pentru Franța, I pentru
+Italia, IRL pentru Irlanda, L pentru Luxemburg, NL pentru
+Olanda, UK pentru Marea Britanie.
+
+Fig. 1
+
+Fig. 2
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+ANEXA Nr. 1.C
+la reglementările tehnice
+CRITERIILE MINIME
+
+care trebuie avute în vedere la numirea organismului de inspecție
+1. Organismul de inspecție, directorul său și personalul
+responsabil pentru executarea încercărilor de verificare trebuie să fie alții decât proiectantul, producătorul, furnizorul
+sau instalatorul de recipiente pe care aceștia le inspectează și alții decât reprezentanții autorizați ai acestora. Ei
+nu se vor implica direct în proiectarea, construcția, comercializarea sau întreținerea acestor recipiente și nici nu vor
+reprezenta părțile angajate în aceste activități. Aceasta nu
+exclude posibilitatea schimburilor de informații tehnice între
+producător și organismul de certificare.
+2. Organismul de inspecție și personalul acestuia trebuie
+să execute încercările de verificare cu cel mai înalt grad
+de integritate profesională și competență tehnică și trebuie
+să fie independenți de orice presiuni și stimulente, îndeosebi financiare, din partea unor persoane sau grupuri de
+persoane care au interes în rezultatul verificării și care ar
+putea influența decizia acestora sau rezultatele verificărilor.
+3. Organismul de inspecție trebuie să aibă la dispoziție
+personalul necesar și să dispună de dotările necesare care
+să îi permită îndeplinirea în bune condiții a sarcinilor sale
+administrative și tehnice legate de verificare; de asemenea,
+trebuie să aibă acces la echipamentul necesar pentru verificări speciale.
+
+4. Personalul organismului de inspecție trebuie să aibă:
+— o pregătire temeinică tehnică și profesională;
+— cunoștințe satisfăcătoare ale cerințelor încercărilor
+care trebuie executate și experiență adecvată pentru aceste
+încercări;
+— abilitatea de a emite certificate, înregistrări și
+rapoarte de autentificare a performanțelor încercărilor.
+5. Trebuie garantată imparțialitatea personalului de
+inspecție. Remunerarea personalului nu trebuie să fie
+dependentă de numărul de încercări executate și nici de
+rezultatul acestora.
+6. Organismul de inspecție trebuie să încheie o asigurare de răspundere civilă dacă răspunderea pentru încercări
+nu este asumată de către stat pe baza dreptului român
+sau pentru încercările care nu sunt efectuate direct de
+către stat.
+7. Personalul de inspecție este obligat să păstreze
+secretul profesional cu privire la informațiile dobândite în
+exercitarea sarcinilor acestuia care decurg din respectarea
+prevederilor prezentului ordin sau ale altor reglementări, cu
+excepția situației în care informațiile sunt solicitate de
+Ministerul Industriei și Resurselor în calitate de autoritate
+de stat în domeniu.
+
+MINISTERUL FINANÞELOR PUBLICE
+DIRECÞIA GENERALĂ A VĂMILOR
+
+DECIZIE
+pentru aprobarea Normelor privind procedurile simplificate de vămuire
+Directorul general al Direcției Generale a Vămilor,
+având în vedere prevederile art. 60 din Legea nr. 141/1997 privind Codul vamal al României, publicată în
+Monitorul Oficial al României, Partea I, nr. 180 din 1 august 1997, prevederile art. 73 alin. (4) și ale art. 399 și 400 din
+Regulamentul de aplicare a Codului vamal al României, aprobat prin Hotărârea Guvernului nr. 1.114/2001, publicată în
+Monitorul Oficial al României, Partea I, nr. 735 din 19 noiembrie 2001,
+emite următoarea decizie:
+Art. 1. — Se aprobă Normele privind procedurile simplificate de vămuire, prevăzute în anexa care face parte integrantă din prezenta decizie.
+Art. 2. — Prezenta decizie intră în vigoare la data
+publicării ei în Monitorul Oficial al României, Partea I. Pe
+aceeași dată se abrogă următoarele decizii emise de directorul general al Direcției Generale a Vămilor:
+
+Decizia nr. 374/2000, publicată în Monitorul Oficial al
+României, Partea I, nr. 107 din 10 martie 2000, Decizia
+nr. 636/2000, publicată în Monitorul Oficial al României,
+Partea I, nr. 216 din 17 mai 2000, Decizia nr. 637/2000,
+publicată în Monitorul Oficial al României, Partea I,
+nr. 216 din 17 mai 2000, și Decizia nr. 1.493/2001, publicată în Monitorul Oficial al României, Partea I, nr. 470 din
+16 august 2001.
+
+Directorul general al Direcției Generale a Vămilor,
+Dinu Mihail Gheorghe
+București, 7 martie 2002.
+Nr. 259.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+
+9
+ANEXĂ
+
+NORME
+privind procedurile simplificate de vămuire
+CAPITOLUL I
+
+B. Declarația incompletă
+
+Dispoziții generale
+
+5. Declarația incompletă are următoarele caracteristici:
+a) cuprinde datele și informațiile înscrise, potrivit
+Normelor tehnice de completare, utilizare și tipărire a
+declarației vamale în detaliu, la rubricile 1 (prima și a doua
+diviziune), 14, 21, 31, 37, 40, 44, 46 și 54 ale declarației
+vamale în detaliu; la rubrica 44 din declarația vamală se
+înscrie mențiunea îprocedură simplificată“;
+b) mărfurile sunt descrise în termeni suficient de preciși
+pentru a permite clasificarea lor imediată și sigură în Tariful
+vamal de import al României;
+c) sunt menționate valoarea mărfurilor potrivit reglementărilor legale în domeniu, precum și toate datele și
+informațiile necesare determinării cuantumului drepturilor de
+import, dacă acestea se datorează;
+d) sunt înscrise toate elementele necesare pentru identificarea mărfurilor și aplicarea dispozițiilor care reglementează importul.
+6. Declarația incompletă este însoțită de documentele
+menționate la art. 45 din Regulamentul de aplicare a
+Codului vamal al României, aprobat prin Hotărârea
+Guvernului nr. 1.114/2001.
+Declarația incompletă poate fi acceptată și în cazul în
+care unele dintre aceste documente nu pot fi anexate,
+dacă se îndeplinesc cumulativ următoarele condiții:
+— documentul în cauză nu poate fi anexat la declarație
+din motive justificate, independente de voința declarantului;
+— întârzierea în acceptarea declarației poate avea drept
+consecință plata unor drepturi de import mai ridicate.
+Elementele de identificare a documentelor care lipsesc
+sunt menționate în mod obligatoriu la rubrica 44 din
+declarația vamală.
+7. În momentul acceptării declarației incomplete biroul
+vamal acordă declarantului un termen de 30 de zile pentru
+comunicarea elementelor sau pentru depunerea documentelor lipsă. Acest termen poate fi prelungit cu cel mult 120
+de zile la solicitarea declarantului, în cazuri temeinic justificate, făcută în cadrul termenului inițial, numai dacă această
+prelungire nu are drept consecință plata unor drepturi de
+import mai reduse decât cele aplicabile la data depunerii
+declarației incomplete.
+Pentru mărfurile înscrise în declarația incompletă se
+acordă tratamentul tarifar favorabil în condițiile stabilite la
+art. 68 din Codul vamal al României, numai după prezentarea la biroul vamal a documentelor care justifică acordarea acestui tratament. Documentele se prezintă înainte de
+epuizarea contingentului ori înainte de anularea măsurii tarifare preferențiale necontingentate.
+8. Dacă producerea ulterioară a unei date din declarația
+incompletă sau a unui document lipsă la momentul
+acceptării sale nu influențează cuantumul drepturilor de
+import aplicabile mărfurilor, biroul vamal procedează imediat
+la încasarea acestor drepturi.
+În cazul în care în aplicarea prevederilor art. 109
+alin. (3) din Regulamentul de aplicare a Codului vamal al
+României declarația incompletă cuprinde o informație
+
+1. Declararea mărfurilor la autoritatea vamală în vederea acordării unui regim vamal se poate face prin derogare
+de la declararea mărfurilor în procedură normală, prin utilizarea unor proceduri simplificate, după cum urmează:
+a) procedura de declarare incompletă — care permite
+autorității vamale să accepte, în cazuri justificate, o
+declarație în care nu sunt înscrise toate datele și
+informațiile potrivit Normelor tehnice de completare, utilizare
+și tipărire a declarației vamale în detaliu sau la care nu
+sunt anexate toate documentele necesare acordării regimului vamal solicitat, potrivit reglementărilor în vigoare;
+b) procedura de declarare simplificată — care permite
+plasarea mărfurilor sub un regim vamal solicitat pe baza
+prezentării unei declarații simplificate, cu condiția depunerii
+ulterioare a unei declarații simplificate globale;
+c) procedura de vămuire la destinație — care permite
+plasarea mărfurilor sub regimul vamal solicitat în locurile
+desemnate de titularul operațiunii comerciale sau în alte
+locuri stabilite de autoritatea vamală.
+CAPITOLUL II
+Proceduri simplificate de vămuire la import
+SECÞIUNEA I
+Procedura de declarare incompletă
+
+2. Procedura de declarare incompletă se acordă numai
+în situațiile în care din motive justificate se impune ridicarea imediată a mărfurilor din vamă, iar titularul declarației
+vamale de import nu dispune de toate datele și documentele necesare completării declarației vamale în procedură
+normală sau nu este posibilă prelucrarea declarației vamale
+în sistemul informatic vamal.
+A. Mărfuri ce beneficiază de procedura de declarare incompletă
+
+3. Procedura de declarare incompletă poate fi aplicată
+tuturor mărfurilor, cu excepția:
+a) mărfurilor prohibite;
+b) bunurilor care potrivit reglementărilor legale se încadrează în categoria produselor și tehnologiilor cu dublă utilizare;
+c) mărfurilor care intră sub incidența prevederilor privind
+desfășurarea în siguranță a activităților nucleare;
+d) mărfurilor supuse accizelor;
+e) mărfurilor în cazul cărora verificarea îndeplinirii unor
+alte condiții stabilite prin reglementări speciale impune prelevarea de eșantioane în vederea analizelor tehnice sau de
+laborator pentru fiecare operațiune;
+f) mărfurilor ce fac obiectul operațiunilor de leasing.
+4. Pentru mărfurile restricționate, astfel cum acestea
+sunt definite la art. 86 din Legea nr. 141/1997 privind
+Codul vamal al României, declarantul este obligat să dețină
+toate documentele necesare anterior operațiunii de vămuire.
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+
+provizorie privind valoarea în vamă sau dacă producerea
+ulterioară a unei date din declarație sau a unui document
+lipsă în momentul acceptării sale poate avea influențe asupra cuantumului drepturilor de import, biroul vamal încasează drepturile de import înscrise în declarația incompletă
+și solicită constituirea unei garanții acoperitoare pentru
+drepturile care s-ar datora. Dacă la expirarea termenului
+prevăzut la pct. 7 declarantul nu a prezentat toate elementele necesare pentru stabilirea valorii în vamă a mărfurilor
+sau nu a putut furniza informațiile sau documentele lipsă,
+biroul vamal încasează garanția constituită.
+9. Titularul declarației incomplete acceptate în condițiile
+stabilite la pct. 2—6 este obligat să depună o declarație
+completă, corespunzătoare condițiilor menționate la
+art. 39—55 din Regulamentul de aplicare a Codulul vamal
+al României, în cadrul termenului stabilit la pct. 7, la
+același birou vamal unde a fost depusă declarația incompletă.
+10. Data determinantă pentru stabilirea drepturilor exigibile și pentru aplicarea altor dispoziții ce reglementează
+importul este data înregistrării declarației incomplete.
+SECÞIUNEA a II-a
+Procedura declarării simplificate
+A. Definiții
+
+11. În aplicarea dispozițiilor prezentei secțiuni, prin termenii de mai jos se înțelege:
+a) avizul biroului vamal — aprobarea emisă de biroul
+vamal pe lângă care se solicită utilizarea procedurii de
+declarare simplificată privind confirmarea îndeplinirii
+condițiilor de autorizare;
+b) declarație-angajament — documentul prin care declarantul se angajează să își îndeplinească obligațiile ce-i
+revin în desfășurarea activității ca urmare a raporturilor pe
+care le stabilește cu autoritatea vamală;
+c) termenul de depunere a declarației simplificate
+globale — termenul stabilit de biroul vamal pentru depunerea declarațiilor simplificate globale, menționat în avizul
+biroului vamal și care nu poate depăși 30 de zile de la
+data depunerii declarațiilor simplificate.
+B. Condiții de autorizare
+
+12. Procedura de declarare simplificată se realizează pe
+baza unei autorizații eliberate de Direcția Generală a
+Vămilor.
+Autorizația pentru utilizarea procedurii de declarare simplificată poate fi acordată agenților economici, persoane
+juridice române, care îndeplinesc cumulativ următoarele
+condiții:
+a) sunt în imposibilitate de a prelucra declarația vamală
+în sistemul informatic vamal;
+b) au angajat cu contract individual de muncă pe perioadă nedeterminată personal specializat în declararea
+mărfurilor;
+c) au valoarea estimată a mărfurilor contractate la
+extern de minimum 10 milioane dolari S.U.A., conform contractelor comerciale;
+d) nu înregistrează debite față de autoritatea vamală;
+e) au organizate evidențele proprii într-o formă agreată
+de autoritatea vamală, în așa fel încât acestea să permită
+
+controlul operațiunilor atât înainte, cât și ulterior emiterii
+autorizației;
+f) nu au comis infracțiuni sau încălcări ale legislației
+vamale.
+C. Dosarul de autorizare
+
+13. Autorizația de utilizare a procedurii de declarare
+simplificată se acordă pe baza unei cereri scrise, întocmită
+potrivit modelului prezentat în anexa nr. 1, care cuprinde:
+a) denumirea societății comerciale, sediul acesteia,
+numele, prenumele și funcțiile persoanelor care reprezintă
+legal societatea comercială;
+b) regimul vamal pentru care se solicită autorizația;
+c) birourile vamale pe lângă care se solicită autorizarea;
+d) pozițiile din Tariful vamal de import al României la
+care se clasifică mărfurile pentru care se solicită procedura
+de declarare simplificată;
+e) motivele temeinic justificate care fac imposibilă prelucrarea declarațiilor vamale în sistemul informativ vamal.
+Cererea pentru eliberarea autorizației de utilizare a procedurii de declarare simplificată se depune la Direcția
+Generală a Vămilor împreună cu următoarele documente:
+a) certificatul de înmatriculare la oficiul registrului
+comerțului, în copie;
+b) certificatul de înregistrare fiscală, în copie;
+c) statutul societății comerciale, contractul de societate
+sau actul constitutiv al societății comerciale și cererea de
+înscriere de mențiuni, după caz, cu rezoluția
+corespunzătoare emisă de oficiul registrului comerțului, în
+copie;
+d) cazierul judiciar al persoanelor fizice române care
+reprezintă legal societatea comercială, în original;
+e) documentele din care rezultă îndeplinirea condițiilor
+prevăzute la pct. 12 lit. a) și b);
+f) câte o declarație-angajament pentru fiecare dintre
+birourile vamale unde se solicită autorizarea de utilizare a
+procedurii simplificate de vămuire (anexa nr. 2);
+g) avizul birourilor vamale pe lângă care se solicită
+autorizarea (anexa nr. 3).
+Se întocmește și se depune un singur dosar de autorizare, indiferent de numărul birourilor vamale sau de
+numărul regimurilor vamale pentru care se solicită emiterea
+autorizației de utilizare a procedurii de declarare simplificată.
+14. Pe baza cererii scrise, care trebuie să cuprindă
+toate elementele necesare identificării mărfurilor, Direcția
+Generală a Vămilor poate autoriza declaranții să depună la
+biroul vamal o declarație simplificată, cu respectarea cumulativă a următoarelor condiții:
+a) mărfurile să fie prezentate la biroul vamal în momentul depunerii declarației simplificate;
+b) să existe posibilitatea efectuării unui control eficient
+al respectării interdicțiilor sau restricțiilor la import ori a
+altor dispoziții care reglementează importul.
+D. Emiterea autorizației
+
+15. Verificarea cererii, a documentelor anexate și a
+îndeplinirii condițiilor de autorizare se face de către Direcția
+Generală a Vămilor.
+Dacă condițiile de autorizare sunt îndeplinite, autorizația
+de utilizare a procedurii de declarare simplificată (anexa nr. 4)
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+se întocmește în două exemplare și se semnează de către
+directorul general al Direcției Generale a Vămilor.
+Un exemplar al autorizației se predă solicitantului, iar
+celălalt exemplar se păstrează în evidența Direcției
+Generale a Vămilor.
+Se emite o singură autorizație, indiferent de numărul
+regimurilor vamale și al birourilor vamale pentru care se
+solicită autorizarea.
+16. În situația în care persoana autorizată solicită ulterior obținerii autorizației extinderea pct. 3 din aceasta (respectiv suplimentarea pozițiilor tarifare din Tariful vamal de
+import al României pentru care s-a acordat procedura simplificată), aceasta se adresează în scris Direcției Generale
+a Vămilor. Până la obținerea aprobării operațiunile de
+vămuire pentru mărfurile în cauză se derulează în
+procedură normală, fără a intra sub incidența procedurii de
+declarare simplificată.
+Un mod de lucru similar intervine și în cazul în care se
+solicită autorizarea și pentru alte regimuri vamale pentru
+care s-a emis inițial autorizația.
+Completările menționate se fac pe formularul de autorizație emis inițial.
+17. Persoana juridică autorizată depune câte o copie de
+pe autorizație la fiecare birou vamal pe lângă care este
+autorizată și la direcțiile regionale vamale interjudețene în
+subordinea cărora se află aceste birouri.
+18. Autorizația de utilizare a procedurii de declarare
+simplificată nu poate fi eliberată societăților comerciale care
+efectuează ocazional operațiuni de vămuire.
+19. Prin autorizația de utilizare a procedurii de declarare
+simplificată eliberată se stabilesc:
+a) birourile vamale competente pentru acceptarea
+declarației simplificate;
+b) mărfurile pentru care se aplică procedura.
+E. Anularea autorizației
+
+20. Directorul general al Direcției Generale a Vămilor
+anulează autorizația dacă:
+a) emiterea ei s-a făcut pe baza unor informații și date
+incorecte sau incomplete, iar solicitantul avea cunoștință
+sau trebuia să aibă cunoștință de acest fapt;
+b) una sau mai multe dintre condițiile ce au stat la
+baza emiterii nu mai sunt îndeplinite;
+c) titularul autorizației nu și-a îndeplinit sau nu își îndeplinește obligațiile ce îi revin în aplicarea normelor vamale
+în vigoare;
+d) există unul sau mai multe acte de constatare încheiate în urma unui control efectuat de autoritățile competente, din care rezultă săvârșirea unei infracțiuni sau a unei
+încălcări a legislației vamale;
+e) s-a constatat că nu sunt respectate condițiile privind
+obligația organizării de către declarant a evidenței
+operațiunilor comerciale, astfel încât să permită autorității
+vamale să efectueze un control eficient.
+Direcțiile regionale vamale interjudețene și birourile
+vamale sunt obligate să informeze Direcția Generală a
+Vămilor imediat ce au luat cunoștință de existența uneia
+dintre situațiile menționate mai sus.
+Decizia de anulare a autorizației conține data de la care
+măsura intervine și este notificată de Direcția Generală a
+Vămilor persoanelor în cauză, direcțiilor regionale vamale
+
+11
+
+interjudețene și birourilor vamale la care se va aplica
+măsura respectivă.
+21. O nouă autorizație poate fi emisă după un an
+calendaristic de la data anulării autorizației precedente. Prin
+excepție, în situația în care una sau mai multe dintre
+condițiile ce au stat la baza emiterii autorizației nu mai
+sunt îndeplinite din cauze obiective ce nu puteau fi
+prevăzute sau nu puteau fi împiedicate de către declarant,
+termenul de un an pentru emiterea unei noi autorizații
+poate fi redus corespunzător.
+Pentru emiterea unei noi autorizații se reia procedura de
+autorizare cuprinsă în prezentele norme.
+F. Mărfuri ce beneficiază de procedura de declarare simplificată
+
+22. Procedura de declarare simplificată poate fi aplicată
+tuturor mărfurilor, cu excepția:
+a) mărfurilor prohibite;
+b) bunurilor care, potrivit reglementărilor legale, se încadrează în categoria produselor și tehnologiilor cu dublă utilizare;
+c) mărfurilor care intră sub incidența prevederilor privind
+desfășurarea în siguranță a activităților nucleare;
+d) mărfurilor supuse accizelor;
+e) mărfurilor în cazul cărora verificarea îndeplinirii unor
+alte condiții stabilite prin reglementări speciale impune prelevarea de eșantioane în vederea analizelor tehnice sau de
+laborator pentru fiecare operațiune;
+f) mărfurilor ce fac obiectul operațiunilor de leasing.
+23. Pentru mărfurile restricționate, astfel cum acestea
+sunt definite la art. 86 din Codul vamal al României, declarantul este obligat să dețină toate documentele necesare
+anterior operațiunii de vămuire.
+G. Etape ale procedurii de declarare simplificată
+
+24. Pentru derularea procedurii de declarare simplificată
+se parcurg următoarele etape:
+a) constituirea unui depozit bănesc anticipat în contul
+biroului vamal, care să asigure plata datoriei vamale pentru
+o perioadă care acoperă termenul de depunere a
+declarației simplificate globale; cuantumul acestui depozit
+trebuie să asigure, pe parcursul utilizării procedurii de
+declarare simplificată, pentru fiecare marfă, plata și încasarea drepturilor de import;
+b) declararea mărfurilor la biroul vamal;
+c) plata drepturilor vamale;
+d) depunerea declarației simplificate globale și regularizarea plății drepturilor vamale.
+25. Declarația simplificată se întocmește de declarant
+potrivit modelului prezentat în anexa nr. 5.
+Declaranții sunt obligați să depună câte o declarație
+simplificată pentru mărfurile înscrise în fiecare document de
+transport. În cazul mărfurilor care sunt prezentate simultan
+biroului vamal, se poate depune o singură declarație simplificată pentru mai multe documente de transport.
+La declarația simplificată se anexează toate documentele prevăzute la art. 45 din Regulamentul de aprobare a
+Codului vamal al României.
+Numărul, data și denumirea fiecăruia dintre aceste
+documente se menționează în mod expres în declarația
+simplificată globală.
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+
+26. Declarația simplificată se întocmește de declarant în
+două exemplare, dintre care unul este destinat biroului
+vamal, iar celălalt se păstrează de către declarant.
+27. Agentul vamal efectuează controlul fizic și documentar al mărfurilor declarate și, dacă condițiile legale sunt
+îndeplinite, inclusiv plata drepturilor de import, semnează și
+aplică ștampila individuală. Aplicarea ștampilei are semnificația acordării liberului de vamă provizoriu — declarantul
+obținând dreptul de a dispune de mărfurile în cauză până
+la depunerea declarației simplificate globale și regularizarea, dacă este cazul, cu această ocazie, a plății drepturilor
+vamale.
+28. Evidența declarațiilor simplificate se ține de către
+declarant prin intermediul Registrului de evidență a
+declarațiilor simplificate, conform modelului prezentat în
+anexa nr. 6.
+29. Dispozițiile cuprinse în Codul vamal al României și
+în Regulamentul de aplicare a Codului vamal al României
+privind rectificarea sau retragerea declarațiilor vamale se
+aplică în mod similar și declarațiilor simplificate și
+declarațiilor simplificate globale, numai cu înștiințarea prealabilă în scris a biroului vamal la care s-au depus.
+30. Plata drepturilor vamale menționată la pct. 24 lit. c)
+se face o dată cu depunerea declarației simplificate,
+ținându-se seama de elementele de taxare aplicabile în
+momentul depunerii declarațiilor simplificate.
+31. Declarația simplificată globală menționată la pct. 1
+lit. b) (anexa nr. 7) se întocmește în 3 exemplare, cu
+următoarele destinații:
+— un exemplar este destinat titularului;
+— un exemplar este destinat biroului vamal;
+— un exemplar este destinat colectării elementelor de
+informație statistică.
+Declarația simplificată globală se depune la biroul vamal
+desemnat, în termenul prevăzut în avizul biroului vamal.
+Acest termen nu poate fi mai mare de 30 de zile calendaristice și nu poate depăși primele 5 zile ale lunii următoare
+celei în care au fost declarate mărfurile în baza procedurii
+de declarare simplificată.
+În declarația simplificată globală se menționează toate
+declarațiile simplificate care fac obiectul globalizării.
+32. Biroul vamal efectuează controlul concordanței dintre
+datele cuprinse în declarația simplificată globală cu cele
+cuprinse în declarațiile simplificate; dacă condițiile legale
+sunt îndeplinite, agentul vamal semnează și aplică ștampila
+individuală.
+33. Declarantul poate apela, în aplicarea prevederilor
+art. 39 alin. (1) din Regulamentul de aplicare a Codului vamal
+al României, la serviciile unui comisionar în vamă pentru
+declararea mărfurilor în procedura de declarare simplificată.
+34. În exercitarea activității de declarare a mărfurilor
+comisionarul în vamă poate fi mandatat de declarant să
+efectueze total sau parțial următoarele operațiuni în numele
+său:
+— organizarea de evidențe, în forma agreată de autoritatea vamală, privind mărfurile ce fac obiectul procedurii de
+declarare simplificată;
+— constituirea depozitului bănesc anticipat la dispoziția
+biroului vamal, care să asigure plata datoriei vamale;
+— întocmirea și depunerea declarației simplificate și a
+declarației simplificate globale;
+
+— orice altă atribuție specifică legată de prezentarea și
+declararea mărfurilor, care revine comisionarului în exercitarea activității sale.
+SECÞIUNEA a III-a
+Procedura de vămuire la destinație
+A. Definiții
+
+35. În aplicarea dispozițiilor prezentei secțiuni, prin termenii de mai jos se înțelege:
+a) declarații vamale preautentificate — exemplarele
+declarației vamale în detaliu completate parțial, semnate și
+ștampilate de agentul vamal desemnat, puse la dispoziție
+declarantului periodic, înainte de efectuarea formalităților
+vamale de plasare sub regim;
+b) agent vamal desemnat — lucrătorul vamal desemnat
+prin ordin de serviciu de către șeful biroului vamal, însărcinat cu preautentificarea, eliberarea, evidența și verificarea
+utilizării declarațiilor vamale preautentificate;
+c) aviz de sosire — documentul prin care declarantul
+informează biroul vamal despre sosirea efectivă a mijlocului
+de transport încărcat cu mărfuri la sediul său sau în alte
+locuri desemnate ori agreate de autoritatea vamală;
+d) avizul biroului vamal — aprobarea, emisă de biroul
+vamal pe lângă care se solicită utilizarea procedurii de
+declarare la destinație, privind confirmarea îndeplinirii
+condițiilor de autorizare, stabilirea perioadei de justificare a
+declarațiilor vamale preautentificate și a termenului în care
+autoritatea vamală poate interveni pentru controlul vamal
+fizic și documentar al mărfurilor din momentul primirii avizului de sosire;
+e) perioadă de justificare — termenul stabilit de biroul
+vamal pentru justificarea utilizării declarațiilor vamale preautentificate, menționat în avizul biroului vamal și care nu
+poate depăși 30 de zile de la data punerii la dispoziție a
+declarațiilor vamale preautentificate; pentru toate
+operațiunile termenul de justificare trebuie corelat cu termenul de trimitere de către biroul vamal către Direcția
+Generală a Vămilor a exemplarelor pentru statistică ale
+declarațiilor vamale;
+f) declarație-angajament — documentul prin care
+declarantul se angajează să își îndeplinească obligațiile ce
+îi revin în desfășurarea activității ca urmare a raporturilor
+pe care le stabilește cu autoritatea vamală.
+B. Condiții de autorizare
+
+36. Procedura de vămuire la destinație se realizează pe
+baza unei autorizații eliberate de Direcția Generală a
+Vămilor.
+Autorizația pentru utilizarea procedurii de vămuire la
+destinație poate fi acordată agenților economici, persoane
+juridice române, care îndeplinesc cumulativ următoarele
+condiții:
+a) au angajat cu contract individual de muncă pe perioadă nedeterminată personal specializat în declararea
+mărfurilor și sunt conectați la rețeaua informatică a biroului
+vamal;
+b) au valoarea estimată a mărfurilor contractate la
+extern de minimum 10 milioane dolari S.U.A., conform
+contractelor comerciale;
+c) nu înregistrează debite față de autoritatea vamală;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+d) au organizate evidențele proprii într-o formă agreată
+de autoritatea vamală, în așa fel încât acestea să permită
+controlul operațiunilor atât înainte, cât și ulterior emiterii
+autorizației;
+e) nu au comis infracțiuni sau încălcări ale legislației
+vamale;
+f) dispun de amplasamente, echipamente și personal
+necesare manipulării mărfurilor, precum și de infrastructură
+informatică adecvată.
+C. Dosarul de autorizare
+
+37. Autorizația de utilizare a procedurii de vămuire la
+destinație se acordă pe baza unei cereri scrise, întocmită
+potrivit modelului prezentat în anexa nr. 1, care cuprinde:
+a) denumirea societății comerciale, sediul acesteia,
+numele, prenumele și funcțiile persoanelor care reprezintă
+legal societatea comercială;
+b) regimul vamal pentru care se solicită autorizația;
+c) birourile vamale pe lângă care se solicită autorizarea;
+d) pozițiile din Tariful vamal de import al României la
+care se clasifică mărfurile pentru care se solicită utilizarea
+procedurii de vămuire la destinație.
+Cererea pentru eliberarea autorizației se depune la
+Direcția Generală a Vămilor împreună cu următoarele documente:
+a) certificatul de înmatriculare la oficiul registrului
+comerțului, în copie;
+b) certificatul de înregistrare fiscală, în copie;
+c) statutul societății comerciale, contractul de societate
+sau actul constitutiv al societății comerciale și cererea de
+înscriere de mențiuni, după caz, cu rezoluția
+corespunzătoare emisă de oficiul registrului comerțului, în
+copie;
+d) cazierul judiciar al persoanelor fizice române care
+reprezintă legal societatea comercială, în original;
+e) câte o declarație-angajament pentru fiecare dintre
+birourile vamale unde se solicită autorizarea de utilizare a
+procedurilor simplificate de vămuire (anexa nr. 2);
+f) avizul birourilor vamale pe lângă care se solicită autorizarea (anexa nr. 3);
+g) documentele care atestă îndeplinirea condiției
+prevăzute la pct. 36 alin. 2 lit. b).
+Se întocmește și se depune un singur dosar de autorizare, indiferent de numărul birourilor vamale sau de
+numărul regimurilor vamale pentru care se solicită emiterea
+autorizației de utilizare a procedurii de vămuire la destinație.
+D. Emiterea autorizației
+
+38. Verificarea cererii, a documentelor anexate și a
+îndeplinirii condițiilor de autorizare se face de către Direcția
+Generală a Vămilor.
+Dacă sunt îndeplinite condițiile de autorizare, autorizația
+de utilizare a procedurii de vămuire la destinație (anexa
+nr. 4) se întocmește în două exemplare și se semnează
+de către directorul general al Direcției Generale a Vămilor.
+Un exemplar al acestei autorizații se predă solicitantului, iar
+celălalt exemplar se păstrează în evidența Direcției
+Generale a Vămilor.
+Se emite o singură autorizație, indiferent de numărul
+regimurilor vamale și al birourilor vamale.
+39. În situația în care persoana juridică autorizată solicită ulterior obținerii autorizației extinderea pct. 3 din
+
+13
+
+aceasta (respectiv suplimentarea pozițiilor tarifare din Tariful
+vamal de import al României pentru care s-a acordat procedura de vămuire), aceasta se adresează în scris Direcției
+Generale a Vămilor. Până la obținerea aprobării
+operațiunile de vămuire pentru mărfurile în cauză se derulează în procedură normală, fără a intra sub incidența procedurii de vămuire la destinație.
+Un mod de lucru similar intervine și în cazul în care se
+solicită autorizarea și pentru alte regimuri vamale pentru
+care s-a emis inițial autorizația.
+Completările menționate se fac pe formularul de autorizație emis inițial.
+40. Persoana juridică autorizată depune câte o copie de
+pe autorizația de utilizare a procedurii de vămuire la destinație la fiecare birou vamal pe lângă care este autorizată
+și la direcțiile regionale vamale interjudețene în subordinea
+cărora se află aceste birouri.
+41. Autorizația de utilizare a procedurii de vămuire la
+destinație nu poate fi eliberată societăților comerciale care
+au comis infracțiuni sau încălcări ale reglementărilor vamale
+și celor care efectuează ocazional operațiuni de vămuire.
+42. Prin autorizația de utilizare a procedurii de vămuire
+la destinație eliberată se stabilesc:
+a) birourile vamale competente pentru vămuirea la destinație;
+b) mărfurile pentru care se aplică procedura.
+E. Anularea autorizației
+
+43. Directorul general al Direcției Generale a Vămilor
+anulează autorizația de utilizare a procedurii de vămuire la
+destinație, dacă:
+a) emiterea ei s-a făcut pe baza unor informații și date
+incorecte sau incomplete, iar solicitantul avea cunoștință
+sau trebuia să aibă cunoștință de acest fapt;
+b) una sau mai multe dintre condițiile ce au stat la
+baza emiterii nu mai sunt îndeplinite;
+c) titularul autorizației nu și-a îndeplinit sau nu își îndeplinește obligațiile ce îi revin în aplicarea normelor vamale
+în vigoare;
+d) există unul sau mai multe acte de constatare încheiate în urma unui control efectuat de autoritățile competente, din care rezultă săvârșirea unei infracțiuni sau a unei
+încălcări a legislației vamale;
+e) s-a constatat că nu sunt respectate condițiile privind
+obligația organizării de către declarant a evidenței
+operațiunilor comerciale astfel încât să permită autorității
+vamale să efectueze un control eficient.
+Direcțiile regionale vamale interjudețene și birourile
+vamale sunt obligate să informeze Direcția Generală a
+Vămilor imediat ce au luat cunoștință de existența uneia
+dintre situațiile menționate mai sus.
+Decizia de anulare a autorizației conține data de la care
+măsura intervine și este notificată de Direcția Generală a
+Vămilor persoanelor în cauză, direcțiilor regionale vamale
+interjudețene și birourilor vamale la care se va aplica
+măsura respectivă.
+44. O nouă autorizație de utilizare a procedurii de
+vămuire la destinație poate fi emisă după un an calendaristic de la data anulării autorizației precedente. Prin
+excepție, în situația în care una sau mai multe dintre
+condițiile ce au stat la baza emiterii autorizației nu mai
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+
+sunt îndeplinite din cauze obiective ce nu puteau fi
+prevăzute sau nu puteau fi împiedicate de către declarant,
+termenul de un an pentru emiterea unei noi autorizații
+poate fi redus corespunzător.
+Pentru emiterea unei noi autorizații se reia procedura de
+autorizare cuprinsă în prezentele norme.
+F. Mărfuri ce beneficiază de procedura de vămuire la destinație
+
+45. Procedura de vămuire la destinație poate fi aplicată
+tuturor mărfurilor, cu excepția:
+a) mărfurilor prohibite;
+b) bunurilor care, potrivit reglementărilor legale, se încadrează în categoria produselor și tehnologiilor cu dublă utilizare;
+c) mărfurilor care intră sub incidența prevederilor privind
+desfășurarea în siguranță a activităților nucleare;
+d) mărfurilor supuse accizelor;
+e) mărfurilor în cazul cărora verificarea îndeplinirii unor
+alte condiții stabilite prin reglementări speciale impune prelevarea de eșantioane în vederea analizelor tehnice sau de
+laborator pentru fiecare operațiune;
+f) mărfurilor ce fac obiectul operațiunilor de leasing.
+46. Pentru mărfurile restricționate, astfel cum acestea
+sunt definite la art. 86 din Codul vamal al României, declarantul este obligat să dețină toate documentele necesare
+anterior operațiunii de vămuire.
+G. Etape ale procedurii de vămuire la destinație
+
+47. Pentru derularea procedurii de vămuire la destinație
+se parcurg următoarele etape:
+a) constituirea unui depozit bănesc anticipat în contul
+biroului vamal, care să asigure plata datoriei vamale, precum și plata tarifului de utilizare a sistemului automat de
+prelucrare a declarației vamale în detaliu, datorat potrivit
+Ordonanței Guvernului nr. 17/1998, astfel cum a fost modificată prin Ordonanța de urgență a Guvernului nr. 79/1999,
+corespunzător numărului de declarații vamale preautentificate solicitate pentru o perioadă de justificare; cuantumul
+acestui depozit trebuie să asigure, pe parcursul utilizării
+procedurii de vămuire la destinație, pentru fiecare marfă,
+plata și încasarea drepturilor de import și a tarifului de utilizare a sistemului automat de prelucrare a declarațiilor
+vamale;
+b) constituirea garanției necesare acoperirii drepturilor de
+import, în cazul în care până la stabilirea regimului vamal
+mărfurile intră în depozit necesar cu caracter temporar;
+îndeplinirea acestei condiții este obligatorie numai în cazul
+în care garanția nu este acoperită prin depozitul bănesc
+menționat la lit. a), rămas neutilizat;
+c) obținerea declarațiilor vamale preautentificate;
+d) evidența declarațiilor vamale preautentificate;
+e) dirijarea mărfurilor la sediul declarantului;
+f) avizarea biroului vamal privind sosirea mărfurilor;
+g) descărcarea și înregistrarea mărfurilor în evidențele
+declarantului;
+h) declararea mărfurilor la biroul vamal;
+i) justificarea utilizării declarațiilor vamale preautentificate
+la biroul vamal.
+48. Agentul economic poate apela, în aplicarea prevederilor art. 39 alin. (1) din Regulamentul de aplicare a
+Codului vamal al României, la serviciile unui comisionar în
+
+vamă pentru declararea mărfurilor în procedura de vămuire
+la destinație.
+49. În exercitarea activității de declarare a mărfurilor
+comisionarul în vamă poate fi mandatat de declarant să
+efectueze total sau parțial următoarele operațiuni în numele
+său:
+— transmiterea avizului de sosire;
+— organizarea de evidențe, în forma agreată de autoritatea vamală, privind mărfurile ce fac obiectul procedurii de
+vămuire la destinație;
+— constituirea depozitului bănesc anticipat la dispoziția
+biroului vamal, care să asigure plata datoriei vamale, precum și plata tarifului de utilizare a sistemului automat de
+prelucrare a declarației vamale în detaliu, datorată potrivit
+Ordonanței Guvernului nr. 17/1998, astfel cum a fost modificată prin Ordonanța de urgență a Guvernului nr. 79/1999;
+— întocmirea și depunerea declarației vamale;
+— orice altă atribuție specifică legată de prezentarea și
+declararea mărfurilor, care revine comisionarului în exercitarea activității sale.
+SECÞIUNEA a IV-a
+Obținerea și evidența declarațiilor vamale preautentificate
+
+50. Declarantul solicită în scris birourilor vamale, sub
+semnătura persoanei care angajează răspunderea juridică
+a societății comerciale, preautentificarea unui număr de
+declarații vamale corespunzător nevoilor estimate pentru o
+perioadă de justificare.
+Declarațiile vamale preautentificate se predau pe baza
+unui proces-verbal de predare-primire (anexa nr. 8).
+51. Declarațiile vamale preautentificate se înregistrează,
+în ordinea eliberării lor, în Registrul de evidență a
+declarațiilor vamale preautentificate (anexa nr. 9). Acest
+registru se înființează în mod separat pentru fiecare declarant și este ținut în formă identică atât de biroul vamal, cât
+și de declarant.
+SECÞIUNEA a V-a
+Introducerea mărfurilor în țară în vederea plasării
+sub regim vamal
+A. Dirijarea mărfurilor la destinație
+
+52. Mărfurile destinate plasării sub regimul vamal de
+import sunt dirijate direct la locurile desemnate ori agreate
+de biroul vamal, sub acoperirea unui titlu de tranzit.
+53. În cazul menționat la pct. 52 formalitățile aplicabile
+sunt cele prevăzute în prevederile specifice. Locurile desemnate sau agreate pot fi numai cele menționate în autorizația pentru utilizarea procedurii de vămuire la destinație.
+54. Responsabilitatea transportatorului sau a principalului
+obligat rămâne angajată până în momentul în care mărfurile sunt puse la dispoziție declarantului.
+Pentru operațiunile efectuate conform prevederilor tranzitului comun, la predarea mărfurilor și a declarației de
+tranzit declarantul eliberează, la cerere, o recipisă întocmită
+potrivit anexei la Normele metodologice privind tranzitul
+comun pe cale rutieră, completată astfel:
+— la rubrica îNr. de înregistrare“ se înscrie numărul
+avizului de sosire;
+— la rubrica îBiroul vamal“ se înscrie biroul vamal competent pentru vămuirea la destinație;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+— în partea din dreapta sus a formularului se înscrie
+mențiunea îvămuire la destinație“;
+— ștampila societății comerciale și semnătura vor fi aplicate în partea din dreapta jos a formularului.
+B. Avizarea biroului vamal privind sosirea mărfurilor
+
+55. Sosirea mijlocului de transport la sediul declarantului
+trebuie anunțată de către acesta biroului vamal prin intermediul unui aviz de sosire, cu scopul de a permite acestuia efectuarea, dacă se consideră necesar, a controlului
+sigiliilor și al mărfurilor.
+Avizul de sosire (anexa nr. 10) se transmite biroului
+vamal de destinație prin fax, imediat după sosirea efectivă
+a mijlocului de transport la sediul declarantului, atunci când
+aceasta are loc în timpul orelor de program al biroului
+vamal. Termenul menționat în avizul de sosire se calculează începând cu ora și minutul înscrise automat de fax
+pe mesajul de recepție.
+Declarantul este obligat să verifice transmiterea corectă
+a faxului conținând avizul de sosire (menționată în mod
+automat pe șușa confirmării de transmitere de către aparat
+prin mențiunea îOK“).
+În cazul în care din cauza unor defecțiuni tehnice sau
+din alte cauze declarantul nu poate transmite avizul de
+sosire prin fax, el este obligat să îl predea cât mai curând
+posibil, personal, agentului vamal desemnat. Acesta înscrie
+data, ora și minutul primirii și îl înștiințează pe șeful biroului vamal pentru luarea deciziei privind intervenția sau neintervenția în vederea efectuării controlului vamal fizic și
+documentar al mărfurilor. O dată cu aceasta se verifică și
+eventuala existență a unui consemn.
+Termenul menționat în avizul de sosire se calculează
+începând cu ora și minutul înscrise de agentul vamal
+desemnat pe avizul de sosire primit personal.
+Avizul de sosire implică un termen de maximum 3 ore
+în cursul căruia unul sau mai mulți agenți vamali se pot
+deplasa pentru efectuarea controlului vamal fizic și documentar al mărfurilor și/sau al sigiliilor vamale.
+56. În cazul în care sosirea mărfurilor are loc în afara
+orelor de program sau cu maximum 30 de minute înainte
+de ora de închidere a biroului vamal, termenul menționat
+în avizul biroului vamal curge începând cu prima oră de
+program a zilei următoare de lucru. Dacă biroul vamal nu
+intervine în termenul prevăzut în avizul biroului vamal,
+declarantul poate să rupă sigiliile și să descarce mărfurile.
+Este interzis agenților vamali să comunice declarantului
+decizia privind intervenția sau neintervenția pentru controlul
+vamal fizic și documentar al mărfurilor.
+57. Avizul de sosire poate fi transmis și în afara programului de lucru al biroului vamal atunci când acesta și
+declarantul convin asupra prelungirii programului de lucru.
+58. Avizul de sosire se întocmește în două exemplare,
+dintre care un exemplar original se predă sau se trimite
+prin poștă la biroul vamal ulterior transmiterii prin fax, iar
+celălalt se păstrează de declarant anexat la confirmarea de
+transmitere corectă prin fax.
+59. În cazul transportului de mărfuri având mai mulți
+destinatari (mărfuri de grupaj) în avizul de sosire se completează rubrica îmărfuri de grupaj“.
+60. În situația în care înainte de plasarea mărfurilor sub
+regimul vamal solicitat acestea fac obiectul depozitului
+
+15
+
+necesar cu caracter temporar, declarantul va completa
+rubrica corespunzătoare. Mărfurile intră în depozit necesar
+cu caracter temporar numai în situația în care sosesc la
+destinație în afara programului de lucru al biroului vamal
+sau în zile nelucrătoare. Declararea lor pentru vămuire se
+face în mod obligatoriu în prima zi lucrătoare care urmează
+celei în care acestea au sosit la destinație.
+61. Evidența avizelor de sosire se ține atât de declarant, cât și de biroul vamal prin intermediul Registrului de
+evidență a avizelor (anexa nr. 11).
+C. Descărcarea și înregistrarea mărfurilor
+în evidențele declarantului
+
+62. Efectuarea operațiunilor prealabile declarării mărfurilor revine declarantului în situația în care biroul vamal nu
+intervine în cadrul termenului menționat în avizul biroului
+vamal. Aceste operațiuni constau în ruperea sigiliilor și
+identificarea mărfurilor.
+63. În cazul transportului de mărfuri având mai mulți
+destinatari (mărfuri de grupaj) aflați în raza de competență
+teritorială a unor birouri vamale diferite, agentul vamal desemnat este obligat să se deplaseze la locul agreat în
+cadrul termenului menționat în avizul biroului vamal și să
+asiste la desigilarea și descărcarea din mijlocul de transport a mărfurilor.
+După încheierea operațiunii de descărcare agentul
+vamal desemnat reține exemplarele documentului de tranzit, resigilează mijlocul de transport și completează rubricile
+destinate uzului oficial al autorității vamale din titlul de tranzit care însoțește mijlocul de transport către biroul vamal
+corespunzător destinației următoare.
+64. În cazul transportului de mărfuri având mai mulți
+destinatari (mărfuri de grupaj) aflați în raza de competență
+teritorială a aceluiași birou vamal, agentul vamal desemnat
+al fiecărui birou vamal este obligat să se deplaseze la primul loc agreat în cadrul termenului menționat în avizul
+biroului vamal, să asiste la desigilarea și descărcarea din
+mijlocul de transport a mărfurilor destinate acestui loc și să
+însoțească mijlocul de transport, cu același titlu de tranzit,
+către următorul loc agreat, unde operațiunile se repetă.
+65. Diferențele constatate între datele înscrise în titlul
+de tranzit și mărfurile descărcate trebuie semnalate imediat
+biroului vamal prin fax, declarantul întrerupând imediat
+operațiunile aflate în derulare.
+În cazul în care biroul vamal este informat în timpul
+orelor de program al acestuia asupra diferențelor constatate, agentul vamal desemnat se deplasează imediat la
+locul de destinație al mărfurilor, efectuând controlul vamal
+fizic și documentar al acestora. Până în acest moment
+mărfurile se găsesc la dispoziția autorităților vamale.
+În cazul în care biroul vamal este informat în afara orelor de program asupra diferențelor constatate, agentul
+vamal desemnat se deplasează în ziua lucrătoare
+următoare la locul de destinație al mărfurilor.
+66. Pe baza constatărilor rezultate în urma controlului
+se întocmește un proces-verbal ce se anexează la titlul de
+tranzit și la declarația vamală preautentificată de plasare
+sub regim vamal.
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+
+Biroul vamal este informat potrivit procedurii prevăzute
+mai sus și în cazul în care se constată diferențe între
+datele conținute în avizul de sosire și cele cuprinse în titlul
+de tranzit și în documentele însoțitoare.
+67. O dată cu predarea-primirea mărfurilor între transportator și declarant se predă și titlul de tranzit. Declarantul
+este obligat ca cel mai târziu în ziua lucrătoare următoare
+să prezinte titlul de tranzit biroului vamal. Biroul vamal
+urmează prevederile specifice de completare a titlului de
+tranzit și de confirmare a încheierii regimului vamal.
+În cazul în care biroul vamal intervine în cadrul termenului înscris în avizul biroului vamal sau în situațiile
+menționate la pct. 65, titlul de tranzit se prezintă și se
+predă imediat agentului vamal desemnat, care urmează
+procedura de completare și de confirmare a încheierii
+operațiunii.
+Titlul de tranzit trebuie să conțină numărul și data avizului de sosire (la rubrica I a declarației de tranzit T1
+îCONTROLAT DE CĂTRE VAMA DE DESTINAÞIE“, respectiv la rubrica nr. 24 a carnetului TIR îCERTIFICAT DE
+SCOATEREA DIN EVIDENÞĂ“).
+În rubricile titlului de tranzit menționate declarantul
+înscrie denumirea în clar a societății comerciale, precedată
+de mențiunea îVĂMUIRE LA DESTINAÞIE“.
+68. În scopul urmăririi derulării operațiunilor de tranzit în
+trafic rutier declarantul are obligația introducerii datelor referitoare la tranzit în sistemul informatic.
+Validarea tranzitului se va face de agentul vamal responsabil cu această operațiune. În cazul în care se constată că tranzitul face obiectul unor consemne, agentul
+vamal menționat mai sus va comunica aceasta imediat
+șefului biroului vamal sau șefului de tură. În momentul
+luării la cunoștință șeful biroului vamal sau șeful de tură va
+lua măsura suspendării procedurii de vămuire la destinație
+pentru operațiunea în cauză, până la clarificarea situației.
+Biroul vamal informează imediat emitentul consemnului
+în vederea luării deciziei privind măsurile ce se impun.
+69. Intrarea mărfurilor în depozit necesar cu caracter
+temporar în condițiile prevăzute la pct. 60 se înregistrează
+de către declarant în evidențele proprii.
+70. Pentru mărfurile intrate în depozit necesar cu caracter temporar declarantul trebuie să țină un Registru de evidență (anexa nr. 12); rubrica referitoare la numărul
+declarației vamale de plasare sub regimul vamal corespunzător pozițiilor descărcate se completează în momentul
+în care mărfurile sunt plasate sub regimul vamal respectiv.
+D. Completarea declarației vamale în cazul procedurii
+de vămuire la destinație
+
+71. Plasarea mărfurilor sub regim vamal se realizează
+prin completarea declarației vamale în detaliu, conform
+Normelor tehnice de completare, utilizare și tipărire a
+declarației vamale în detaliu.
+72. Declarația vamală se preautentifică prin completare
+manuală, anterior operațiunii de vămuire de către agentul
+vamal desemnat, care înscrie la rubrica îJ — CONTROLAT
+LA VAMA DE DESTINAÞIE“ mențiunea îVĂMUIRE LA
+DESTINAÞIE“, numărul curent din Registrul de evidență a
+declarațiilor vamale preautentificate și numărul autorizației,
+însoțite de semnătura și de ștampila personală.
+
+73. După efectuarea operațiunilor prealabile vămuirii
+declarantul completează declarațiile vamale preautentificate,
+corespunzător regimului vamal, în procedura informatică:
+— la rubrica îA — VAMA DE DESTINAÞIE“ sistemul
+informatic înscrie automat codul și denumirea biroului
+vamal, precum și numărul și data înregistrării declarației
+vamale;
+— la rubrica îB — INFORMAÞII CONTABILE“ sistemul
+informatic înscrie automat numărul și data validării
+declarației vamale în detaliu, precum și numărul și data
+borderoului contabil;
+— la rubrica î14 — DECLARANT/REPREZENTANT“ sistemul informatic înscrie în mod automat numărul autorizației
+de vămuire la destinație, de forma îlxxx“ sau îlExxx“, precum și datele de identificare a declarantului (denumirea,
+adresa); în situația în care declarantul apelează la serviciile
+unui comisionar în vamă, în această rubrică se vor înscrie
+denumirea și adresa comisionarului în vamă, precum și
+numărul autorizației de comisionar în vamă, emisă de
+Direcția Generală a Vămilor, de forma îCVxxx“;
+— la rubrica î48 — REPORT DE PLATĂ“ declarantul
+înscrie numărul de referință al fișei depozitului bănesc constituit anticipat în contul biroului vamal;
+— la rubrica î49 — IDENTIFICAREA ANTREPOZITULUI“, a doua parte a casetei, declarantul înscrie termenul
+acordat de autoritatea vamală pentru încheierea operațiunilor suspensive, exprimat în zile.
+Rubrica î54 — LOCUL ȘI DATA“ se completează
+manual, după tipărirea declarației vamale, cu numele, prenumele și semnătura persoanei împuternicite de declarant
+sau de comisionarul în vamă, după caz, să întocmească
+respectiva declarație vamală.
+74. După completarea rubricilor declarației vamale se
+solicită validarea acesteia. Se obțin numărul și data de
+înregistrare ale declarației vamale în detaliu, de forma:
+îI xxxxxxxx — zz/ll/aaaa“, evidențiate la nivelul rubricii A,
+numărul și data de validare, de forma: îV xxxxxxxx —
+zz/ll/aaaa“, precum și numărul și data borderoului contabil,
+de forma îR xxxxxxxx — zz/ll/aaaa“, evidențiate la nivelul
+rubricii B.
+Tipărirea se face de către declarant pe formularele de
+declarații vamale preautentificate în setul corespunzător.
+Exemplarele pentru vamă cu documentele care au stat la
+baza emiterii declarației vamale, precum și exemplarele
+statistice vor fi depuse la biroul vamal la termenele stabilite
+în avizul biroului vamal.
+75. În cazuri justificate, la cererea declarantului de
+acces la serverul biroului vamal după terminarea programului de lucru, biroul vamal ia măsuri de asigurare a
+funcționării acestuia.
+E. Justificarea utilizării declarațiilor vamale preautentificate
+
+76. La sfârșitul perioadei de justificare menționate în
+avizul biroului vamal declarantul este obligat să justifice utilizarea declarațiilor vamale preautentificate prin prezentarea
+către agentul vamal desemnat a declarațiilor vamale,
+împreună cu setul de documente aferent acestora, pentru
+fiecare operațiune derulată în perioada respectivă. Setul de
+documente include în mod obligatoriu și documentele speciale cerute în conformitate cu prevederile art. 86 din
+Codul vamal al României.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+
+17
+
+tează importul, precum și pentru determinarea cuantumului
+garanției a cărei constituire poate precede acordarea liberului de vamă.
+81. Declarația incompletă este însoțită de documentele
+menționate la art. 50 alin. (1) din Regulamentul de aplicare
+a Codului vamal al României.
+Declarația incompletă poate fi acceptată și în cazul în
+care unele dintre aceste documente nu pot fi anexate,
+dacă se îndeplinesc cumulativ următoarele condiții:
+— documentul în cauză nu poate fi anexat la declarație
+din motive independente de voința declarantului și justificate;
+— întârzierea în acceptarea declarației poate avea drept
+consecință plata unor drepturi de import mai ridicate.
+Elementele de identificare a documentelor lipsă se
+indică în mod obligatoriu în declarație la rubrica 44.
+Dispozițiile pct. 7—10 se aplică în mod similar pentru
+regimul vamal de antrepozit.
+
+Declarantul este obligat să predea inclusiv declarațiile
+vamale preautentificate care au fost completate greșit sau
+care nu au putut fi utilizate în mod corespunzător, însoțite
+de o notă din care să rezulte cauzele ce au condus la
+imposibilitatea utilizării lor.
+Declarațiile vamale preautentificate sunt distruse în prezența agentului vamal desemnat și a declarantului și
+scăzute din evidență pe baza notei menționate mai sus,
+datată, semnată și ștampilată.
+77. Agentul vamal desemnat procedează la verificarea
+concordanței dintre datele cuprinse în declarația vamală și
+cele cuprinse în documentele anexate, precum și a legalității operațiunii. După această operațiune, dacă nu se
+constată nici o încălcare a legislației în vigoare, agentul
+vamal desemnat operează în registrele de evidență a
+declarațiilor vamale preautentificate ale declaranților justificarea utilizării acestora și stabilește soldul rămas neutilizat.
+Atunci când se constată încălcarea legislației în vigoare,
+operațiunile respective fac obiectul controlului ulterior.
+Justificarea utilizării declarațiilor vamale preautentificate,
+precum și operarea în registrul corespunzător se fac în
+funcție de rezultatele controlului ulterior menționat.
+78. Dispozițiile cuprinse în Codul vamal al României și
+în Regulamentul de aplicare a Codului vamal al României
+privind rectificarea sau retragerea declarațiilor vamale se
+aplică în mod similar și declarațiilor vamale preautentificate
+și numai cu înștiințarea prealabilă în scris a biroului vamal.
+
+82. Dispozițiile pct. 11—34 se aplică în mod similar
+pentru regimul vamal de antrepozit.
+83. La declarația simplificată se anexează toate documentele prevăzute la art. 50 din Regulamentul de aplicare
+a Codului vamal al României.
+84. Procedura de declarare simplificată nu se aplică la
+antrepozitul de tip D.
+
+CAPITOLUL III
+
+Procedura de vămuire la destinație
+
+Proceduri simplificate de vămuire pentru regimurile
+suspensive
+
+85. Prevederile pct. 35—44 se aplică în mod similar
+pentru regimul vamal de antrepozit.
+86. Autorizația se eliberează pentru toate categoriile de
+mărfuri, cu excepția:
+a) mărfurilor menționate la pct. 45 lit. a)—f);
+b) mărfurilor plasate în antrepozit de tip B și D;
+c) mărfurilor românești vămuite la export, care sunt
+depozitate în antrepozit până la expedierea lor în
+străinătate.
+Pentru mărfurile restricționate, astfel cum acestea sunt
+definite la art. 86 din Codul vamal al României, declarantul
+este obligat să dețină toate documentele necesare anterior
+operațiunii de vămuire.
+87. Prevederile pct. 47—70 se aplică în mod similar
+pentru regimul vamal de antrepozit.
+
+SECÞIUNEA I
+Antrepozitul vamal
+Procedura de declarare incompletă
+
+79. Procedura de declarare incompletă se acordă numai
+în situațiile în care din motive justificate se impune ridicarea imediată a mărfurilor din vamă, iar titularul declarației
+vamale nu dispune de toate datele și documentele necesare completării declarației vamale în procedură normală
+sau nu este posibilă prelucrarea declarației vamale în sistemul informatic vamal.
+Prevederile pct. 3 și 4 se aplică în mod similar pentru
+regimul vamal de antrepozit.
+80. Declarația incompletă are următoarele caracteristici:
+a) cuprinde datele și informațiile înscrise, potrivit
+Normelor tehnice de completare, utilizare și tipărire a
+declarației vamale în detaliu, la rubricile: 1 (prima diviziune), 3, 5, 14, 19, 26, 31, 32, 37, 38, 44, 46, 49 și 54; în
+rubrica 44 din declarația vamală se înscrie mențiunea îprocedură simplificată“;
+b) mărfurile sunt descrise în termeni suficient de preciși
+pentru a permite clasificarea lor imediată și sigură în
+Tariful vamal de import al României;
+c) sunt menționate valoarea mărfurilor potrivit reglementărilor legale în domeniu, precum și toate datele și
+informațiile necesare determinării cuantumului drepturilor de
+import, dacă acestea se datorează;
+d) sunt înscrise toate elementele necesare pentru identificarea mărfurilor și aplicarea dispozițiilor care reglemen-
+
+Procedura declarării simplificate
+
+Completarea declarației vamale
+88. După efectuarea operațiunilor prealabile vămuirii
+declarantul completează declarațiile vamale preautentificate,
+corespunzător regimului vamal, în procedura informatică:
+— la rubrica îA — VAMA DE DESTINAÞIE“ sistemul
+informatic înscrie automat codul și denumirea biroului
+vamal, precum și numărul și data înregistrării declarației
+vamale;
+— la rubrica îB — INFORMAÞII CONTABILE“ sistemul
+informatic înscrie automat numărul și data validării
+declarației vamale în detaliu, precum și numărul și data
+borderoului contabil;
+— la rubrica î14 — DECLARANT/REPREZENTANT“ sistemul informatic înscrie în mod automat numărul autorizației
+de vămuire la destinație, de forma îlxxx“ sau îlExxx“, precum și datele de identificare a declarantului (denumirea și
+adresa); în situația în care declarantul apelează la serviciile
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+
+unui comisionar în vamă, în această rubrică se vor înscrie
+denumirea și adresa comisionarului în vamă, precum și
+numărul autorizației de comisionar în vamă, emisă de
+Direcția Generală a Vămilor, de forma îCVxxx“;
+— la rubrica î48 — REPORT DE PLATĂ“ declarantul
+înscrie numărul de referință al fișei depozitului bănesc constituit anticipat în contul biroului vamal;
+— la rubrica î49 — IDENTIFICAREA ANTREPOZITULUI“, a doua parte a casetei, declarantul înscrie termenul acordat de autoritatea vamală pentru încheierea
+operațiunilor suspensive, exprimat în zile;
+Rubrica î54 — LOCUL ȘI DATA“ se completează
+manual, după tipărirea declarației vamale, cu numele, prenumele și semnătura persoanei împuternicite de declarant
+sau de comisionarul în vamă, după caz, să întocmească
+respectiva declarație vamală.
+89. După completarea rubricilor declarației vamale se
+solicită validarea acesteia. Se obțin numărul și data de
+înregistrare ale declarației vamale în detaliu, de forma:
+îI xxxxxxxx — zz/ll/aaaa“, evidențiate la nivelul rubricii A,
+numărul și data de validare, de forma: îV xxxxxxxx —
+zz/ll/aaaa“, precum și numărul și data borderoului contabil,
+de forma îR xxxxxxxx — zz/ll/aaaa“, evidențiate la nivelul
+rubricii B.
+Tipărirea se face de către declarant pe formularele de
+declarații vamale preautentificate în setul corespunzător.
+Exemplarele pentru vamă cu documentele care au stat la
+baza emiterii declarației vamale, precum și exemplarele
+statistice vor fi depuse la biroul vamal la termenele stabilite
+în avizul biroului vamal.
+90. În cazuri justificate, la cererea declarantului de
+acces la serverul biroului vamal după terminarea programului de lucru, biroul vamal ia măsuri de asigurare a
+funcționării acestuia.
+91. Dispozițiile pct. 76—78 se aplică în mod similar
+pentru regimul vamal de antrepozit.
+SECÞIUNEA a II-a
+Perfecționarea activă.
+Transformarea sub control vamal.
+Admiterea temporară
+Procedura de declarare incompletă
+
+92. Dispozițiile prevăzute la pct. 2—5 se aplică în mod
+similar pentru regimurile vamale de perfecționare activă,
+transformare sub control vamal și admitere temporară.
+Declarația incompletă este însoțită de documentele
+menționate la art. 50 alin. (1) din Regulamentul de aplicare
+a Codului vamal al României.
+Declarația incompletă poate fi acceptată și în cazul în
+care unele dintre aceste documente nu pot fi anexate,
+dacă se îndeplinesc cumulativ următoarele condiții:
+— documentul în cauză nu poate fi anexat la declarația
+vamală din motive independente de voința declarantului și
+justificate;
+— întârzierea în acceptarea declarației vamale poate
+avea drept consecință plata unor drepturi de import mai
+ridicate.
+Elementele de identificare a documentelor lipsă
+se indică, în mod obligatoriu, în declarația vamală la
+rubrica 44.
+
+Dispozițiile pct. 7—10 se aplică în mod similar pentru
+regimurile vamale de perfecționare activă, transformare sub
+control vamal și admitere temporară.
+Procedura de declarare simplificată și la destinație
+
+93. Prevederile pct. 11—34 se aplică în mod similar
+pentru regimurile vamale de perfecționare activă, transformare sub control vamal și admitere temporară.
+94. Prevederile pct. 35—70 se aplică în mod similar
+pentru regimurile vamale de perfecționare activă, transformare sub control vamal și admitere temporară.
+Completarea declarației vamale în cazul procedurii de
+vămuire la destinație
+95. Prevederile pct. 71 și 72 se aplică în mod similar
+pentru această secțiune.
+După efectuarea operațiunilor prealabile vămuirii declarantul completează declarațiile vamale preautentificate,
+corespunzător regimului vamal, în procedura informatică:
+— la rubrica îA — VAMA DE DESTINAÞIE“ sistemul
+informatic înscrie automat codul și denumirea biroului
+vamal, precum și numărul și data înregistrării declarației
+vamale;
+— la rubrica îB — INFORMAÞII CONTABILE“ sistemul
+informatic înscrie automat numărul și data validării
+declarației vamale în detaliu, precum și numărul și data
+borderoului contabil;
+— la rubrica î14 — DECLARANT/REPREZENTANT“ sistemul informatic înscrie în mod automat numărul autorizației
+de vămuire la destinație, de forma îlxxx“ sau îlExxx“, precum și datele de identificare a declarantului (denumirea și
+adresa); în situația în care declarantul apelează la serviciile
+unui comisionar în vamă, în această rubrică se vor înscrie
+denumirea și adresa comisionarului, precum și numărul
+autorizației de comisionar în vamă, emisă de Direcția
+Generală a Vămilor, de forma îCVxxx“;
+— la rubrica î48 — REPORT DE PLATĂ“ declarantul
+înscrie numărul de referință al fișei depozitului bănesc constituit anticipat în contul biroului vamal;
+— la rubrica î49 — IDENTIFICAREA ANTREPOZITULUI“, a doua parte a casetei, declarantul înscrie termenul acordat de autoritatea vamală pentru încheierea
+operațiunilor suspensive, exprimat în zile;
+Rubrica î54 — LOCUL ȘI DATA“ se completează
+manual, după tipărirea declarației vamale, cu numele, prenumele și semnătura persoanei împuternicite de declarant
+sau de comisionarul în vamă, după caz, să întocmească
+respectiva declarație vamală.
+96. După completarea rubricilor declarației vamale se
+solicită validarea declarației. Se obțin numărul și data de
+înregistrare ale declarației vamale în detaliu, de forma:
+îl xxxxxxxx — zz/ll/aaaa“, evidențiate la nivelul rubricii A,
+numărul și data de validare de forma: îV xxxxxxxx —
+zz/ll/aaaa“, precum și numărul și data borderoului contabil
+de forma îR xxxxxxxx — zz/ll/aaaa“, evidențiate la nivelul
+rubricii B.
+Tipărirea se face de către declarant pe formularele de
+declarații vamale preautentificate în setul corespunzător.
+Exemplarele pentru vamă cu documentele care au stat la
+baza emiterii declarației vamale, precum și exemplarele
+statistice vor fi depuse la biroul vamal la termenele stabilite
+în avizul biroului vamal.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+În cazuri justificate, la cererea declarantului de acces la
+serverul biroului vamal după terminarea programului de
+lucru, biroul vamal ia măsuri de asigurare a funcționării
+acestuia.
+97. Dispozițiile pct. 76—78 se aplică în mod similar
+pentru regimurile vamale de perfecționare activă, transformare sub control vamal și admitere temporară.
+SECÞIUNEA a III-a
+Perfecționarea pasivă
+
+98. Dispozițiile pct. 5—34 și 105—123, aplicabile mărfurilor declarate pentru export, se aplică în mod similar
+mărfurilor declarate pentru export temporar în cadrul regimului de perfecționare pasivă.
+CAPITOLUL IV
+Proceduri simplificate aplicabile la încheierea
+unui regim vamal suspensiv
+99. La încheierea regimurilor vamale de perfecționare
+activă, admitere temporară și transformare sub control
+vamal pot fi aplicate procedurile simplificate prevăzute pentru importul, exportul și reexportul mărfurilor.
+În cazul importului mărfurilor care au fost anterior plasate sub regimul de perfecționare pasivă pot fi aplicate
+procedurile simplificate referitoare la importul mărfurilor.
+În cazul încheierii regimului de antrepozit vamal pot fi
+aplicate procedurile simplificate pentru importul, exportul și
+reexportul mărfurilor.
+Prin excepție de la prevederile alineatului precedent:
+a) pentru mărfurile plasate sub regim de antrepozit de
+tip D nu poate fi autorizată nici o procedură simplificată;
+b) pentru mărfurile plasate sub regim de antrepozit de
+tip B este aplicabilă numai procedura de declarare
+incompletă.
+
+19
+
+informațiile necesare determinării cuantumului drepturilor de
+import, dacă acestea se datorează;
+d) sunt înscrise toate elementele necesare pentru identificarea mărfurilor și aplicarea dispozițiilor care reglementează exportul.
+Declarația incompletă poate fi acceptată și fără completarea rubricilor nr. 17 și 33 ale declarației vamale, cu
+următoarele condiții:
+a) declarantul precizează că exportul mărfurilor în speță
+nu este prohibit sau restricționat;
+b) autoritățile vamale nu au nici un dubiu privind
+condiția prevăzută la lit. a).
+102. Declarația incompletă este însoțită de documentele
+menționate la art. 47 din Regulamentul de aplicare a
+Codului vamal al României.
+Declarația incompletă poate fi acceptată și în cazul în
+care unele dintre aceste documente nu pot fi anexate la
+declarație din cauze independente de voința declarantului.
+Elementele de identificare a documentelor lipsă se
+indică, în mod obligatoriu, în declarație la rubrica 44.
+Dispozițiile pct. 7—9 se aplică în mod similar pentru
+regimul vamal de export; în aplicarea prevederilor pct. 9
+declarația completă poate fi depusă și acceptată numai la
+același birou vamal la care a fost depusă declarația incompletă.
+103. Data determinantă pentru aplicarea altor dispoziții
+ce reglementează exportul este data înregistrării declarației
+incomplete.
+SECÞIUNEA a II-a
+Procedura declarării simplificate
+
+104. Dispozițiile pct. 11—34 se aplică în mod similar
+pentru regimul vamal de export.
+SECÞIUNEA a III-a
+Procedura de vămuire la destinație
+
+CAPITOLUL V
+
+A. Definiții
+
+Proceduri smplificate de vămuire la export
+
+105. Dispozițiile pct. 35 se aplică în mod similar pentru
+regimul de export, cu completările următoare:
+a) agentul vamal desemnat este însărcinat, în plus față
+de operațiunile de plasare sub celelalte regimuri vamale, și
+cu eliberarea, evidența și verificarea utilizării sigiliilor
+vamale;
+b) avizul de sosire este înlocuit cu informarea de
+încărcare; informarea de încărcare reprezintă documentul
+transmis prin fax, prin care declarantul informează biroul
+vamal că este pregătit să înceapă operațiunea de
+încărcare a mărfurilor la sediul său sau în alte locuri
+desemnate ori agreate de autoritatea vamală;
+c) avizul biroului vamal stabilește, în plus față de
+operațiunile de plasare sub celelalte regimuri vamale, și
+perioada de justificare a sigiliilor vamale și termenul în
+care autoritatea vamală poate interveni pentru controlul
+vamal fizic și documentar al mărfurilor din momentul primirii informării de încărcare;
+d) perioada de justificare stabilește, în plus față de
+operațiunile de plasare sub celelalte regimuri vamale, și
+termenul stabilit de biroul vamal pentru justificarea sigiliilor
+vamale; termenul de justificare a utilizării declarațiilor
+vamale și a sigiliilor vamale trebuie corelat și cu termenul
+de depunere a declarațiilor de încasare valutară, stabilit
+prin normele Băncii Naționale a României.
+
+SECÞIUNEA I
+Procedura de declarare incompletă
+
+100. Procedura de declarare incompletă se acordă
+numai în situațiile în care din motive justificate se impune
+expedierea urgentă a mărfurilor, iar titularul declarației
+vamale de export nu dispune de toate datele și documentele necesare completării declarației vamale în procedură
+normală sau nu este posibilă prelucrarea declarației vamale
+în sistemul informatic vamal.
+101. Declarația incompletă are următoarele caracteristici:
+a) cuprinde datele și informațiile înscrise, potrivit
+Normelor tehnice de completare, utilizare și tipărire a
+declarației vamale în detaliu, la rubricile 1 (prima diviziune),
+2, 14, 17, 31, 33, 37, 38, 44, 46 și 54 ale declarației
+vamale în detaliu; declarația vamală trebuie să cuprindă la
+rubrica 44 mențiunea îprocedură simplificată“;
+b) mărfurile sunt descrise în termeni suficient de preciși
+pentru a permite clasificarea lor imediată și sigură în
+Tariful vamal de import al României;
+c) sunt menționate valoarea mărfurilor potrivit reglementărilor legale în domeniu, precum și toate datele și
+
+20
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+B. Condiții de autorizare
+
+106. Dispozițiile pct. 36 se aplică în mod similar și pentru regimul vamal de export, cu completările următoare:
+a) agenții economici sunt autorizați în calitate de principal obligat pe lângă biroul vamal pentru operațiunile de
+export — în conformitate cu prevederile Deciziei directorului
+general al Direcției Generale a Vămilor nr. 2.397/2000;
+această condiție nu trebuie îndeplinită în situațiile în care
+tranzitul se efectuează sub acoperirea Convenției TIR sau
+pe cale ferată;
+b) agenții economici sunt exportatori autorizați în baza
+protocoalelor de reguli de origine din acordurile încheiate
+de România cu Uniunea Europeană, țările AELS, țările
+CEFTA, Turcia și Israel — în conformitate cu prevederile
+Legii nr. 19/1993, Legii nr. 20/1993, Legii nr. 51/1997, Legii
+nr. 90/1997, Legii nr. 218/1997 și Legii nr. 271/2001;
+această condiție trebuie îndeplinită numai în situațiile în
+care declaranții au operațiuni de export având ca destinație
+una dintre țările menționate mai sus.
+107. Prevederile pct. 37—44 se aplică în mod similar
+pentru regimul vamal de export.
+C. Mărfuri ce beneficiază de procedura de vămuire la destinație
+
+108. Autorizația se eliberează pentru toate categoriile de
+mărfuri, cu excepția:
+a) mărfurilor menționate la pct. 45 lit. a)—c) și e);
+b) mărfurilor românești vămuite la export, care sunt
+depozitate în antrepozit până la expedierea lor în
+străinătate.
+Pentru mărfurile restricționate, astfel cum acestea sunt
+definite la art. 86 din Codul vamal al României, declarantul
+este obligat să dețină toate documentele necesare anterior
+operațiunii de vămuire.
+D. Etape ale procedurii de vămuire la destinație
+
+109. Pentru derularea procedurii de vămuire la
+destinație se parcurg următoarele etape:
+a) constituirea unui depozit bănesc în contul biroului
+vamal de plecare pentru asigurarea plății tarifului de utilizare a sistemului automat de prelucrare a declarației
+vamale în detaliu, datorată potrivit Ordonanței Guvernului
+nr. 17/1998, astfel cum a fost modificată prin Ordonanța de
+urgență a Guvernului nr. 79/1999, corespunzător numărului
+de declarații vamale preautentificate solicitate într-o perioadă de justificare;
+b) obținerea declarațiilor preautentificate și a sigiliilor vamale;
+c) evidența declarațiilor preautentificate și a sigiliilor vamale;
+d) completarea declarațiilor preautentificate;
+e) transmiterea la biroul vamal a informării de încărcare;
+f) încărcarea și sigilarea mijlocului de transport;
+g) justificarea utilizării declarațiilor vamale preautentificate și a sigiliilor vamale.
+Exportul temporar sau reexportul mărfurilor în procedură
+de vămuire la destinație se realizează cu respectarea etapelor prevăzute la alin. 1.
+110. Agentul economic care solicită autorizarea poate
+apela, în aplicarea prevederilor art. 39 alin. (1) din
+Regulamentul de aplicare a Codului vamal al României, la
+serviciile unui comisionar în vamă pentru declararea mărfurilor în procedura de vămuire la destinație.
+111. În exercitarea activității de declarare a mărfurilor
+comisionarul în vamă poate fi mandatat de declarant să
+
+efectueze total sau parțial următoarele operațiuni în numele
+său:
+— transmiterea informării de încărcare;
+— organizarea de evidențe, în forma agreată de autoritatea vamală, privind mărfurile ce fac obiectul procedurii de
+vămuire la destinație;
+— constituirea depozitului bănesc anticipat la dispoziția
+biroului vamal, care să asigure plata tarifului de utilizare a
+sistemului automat de prelucrare a declarației vamale în
+detaliu, datorată potrivit Ordonanței Guvernului nr. 17/1998,
+astfel cum a fost modificată prin Ordonanța de urgență a
+Guvernului nr. 79/1999;
+— întocmirea și depunerea declarației vamale;
+— orice altă atribuție specifică legată de prezentarea și
+declararea mărfurilor care revine comisionarului în vamă în
+exercitarea activității sale.
+SECÞIUNEA a IV-a
+Obținerea și evidența declarațiilor vamale preautentificate
+și a sigiliilor vamale
+
+112. Declarantul solicită în scris birourilor vamale, sub
+semnătura persoanei care angajează răspunderea juridică
+a societății comerciale, preautentificarea unui număr de
+declarații vamale corespunzător nevoilor estimate pentru o
+perioadă de justificare.
+Pentru operațiunile de export declarantul solicită punerea la dispoziție de către biroul vamal a unui număr de
+sigilii vamale estimat a fi necesar pentru o perioadă de
+justificare.
+Declarațiile vamale preautentificate și sigiliile vamale se predau
+pe baza procesului-verbal de predare-primire (anexa nr. 8).
+113. Declarațiile preautentificate se înregistrează, în
+ordinea eliberării lor, în Registrul de evidență a declarațiilor
+vamale preautentificate (anexa nr. 9). Acest registru se
+înființează în mod separat pentru fiecare declarant și este
+ținut în formă identică atât de biroul vamal, cât și de către
+declarant.
+114. Sigiliile vamale se înregistrează, în ordinea eliberării lor, în Registrul de evidență a sigiliilor vamale al
+biroului vamal, conform Deciziei directorului general al
+Direcției Generale a Vămilor nr. 47 G/1986. Declarantul
+este obligat să înregistreze sigiliile vamale primite într-un
+registru identic și să țină evidența utilizării acestora, cu
+mențiunea că la rubrica îNumele și prenumele lucrătorilor
+vamali care au primit sau utilizat sigiliile vamale“ se înscriu
+datele persoanei care a fost desemnată de declarant pentru această activitate.
+SECÞIUNEA a V-a
+Încărcarea și sigilarea mijlocului de transport
+
+115. După completarea declarației vamale preautentificate persoana desemnată de declarant în acest sens sigilează mijlocul de transport.
+Pentru exporturile de mărfuri de grupaj care implică formalități de export la mai multe birouri vamale (mărfuri de
+grupaj), efectuate pe baza documentului T1, agentul vamal
+desemnat este obligat să se deplaseze la locul agreat și
+să asiste la desigilarea, încărcarea și resigilarea mijlocului
+de transport.
+Sosirea mijlocului de transport pentru încărcare se
+anunță la biroul vamal prin fax, iar termenul în care
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+agentul vamal desemnat este obligat să se deplaseze la
+locul agreat nu poate fi mai mare de 3 ore din momentul
+confirmării primirii faxului. Declarantul este obligat să verifice transmiterea corectă a faxului (menționată în mod
+automat pe șușa confirmării de transmitere de către aparat
+prin mențiunea îOK“).
+În cazul în care din cauza unor defecțiuni tehnice sau
+din alte cauze declarantul nu poate informa prin fax biroul
+vamal despre operațiunea de încărcare, el este obligat să
+predea informarea personal agentului vamal desemnat.
+Acesta înscrie data, ora și minutul primirii și înștiințează
+șeful biroului vamal despre intervenția sa în vederea
+efectuării controlului vamal fizic și documentar al mărfurilor.
+Termenul de intervenție se calculează începând cu ora și
+cu minutul înscrise de agentul vamal desemnat pe informarea primită personal.
+În cazul în care încărcarea mărfurilor este programată
+în afara orelor de program sau cu maximum 30 de minute
+înainte de ora de închidere a biroului vamal termenul de
+intervenție curge începând cu prima oră de program a zilei
+următoare de lucru.
+Informarea de încărcare poate fi transmisă și în afara
+programului de lucru al biroului vamal atunci când acesta
+și declarantul convin asupra prelungirii programului de
+lucru.
+Informarea de încărcare se întocmește în două exemplare, dintre care un exemplar în original se predă sau se
+trimite prin poștă la biroul vamal ulterior transmiterii prin
+fax, iar celălalt se păstrează de declarant.
+Informarea de încărcare cuprinde următoarele date:
+— datele de identificare a titlului de tranzit;
+— identitatea mijlocului de transport;
+— denumirea comercială a mărfurilor;
+— numărul și natura coletelor;
+— greutatea brută;
+— numărul autorizației de plasare sub regimul de perfecționare pasivă, după caz;
+— originea și proveniența mărfurilor;
+— valoarea mărfurilor;
+— numărul și data documentului de garantare, după
+caz.
+După încheierea operațiunii de încărcare, în cazul în
+care biroul vamal ia decizia de intervenție în vederea
+efectuării controlului vamal fizic și documentar al mărfurilor,
+agentul vamal desemnat sigilează mijlocul de transport și
+completează în mod corespunzător rubricile destinate uzului
+oficial al autorității vamale din titlul de tranzit către destinația următoare.
+Dacă biroul vamal nu intervine în termenul prevăzut,
+declarantul procedează la încărcarea mărfurilor și la sigilarea mijloacelor de transport și completează corespunzător
+rubrica îD — CONTROLAT LA BIROUL DE PLECARE“ a
+declarației de tranzit T1.
+În cazul exporturilor realizate cu mijloace de transport
+care circulă sub acoperirea Convenției TIR, înainte de plecare către destinația externă, carnetul TIR, fără mijlocul de
+transport, va fi prezentat agentului vamal desemnat pentru
+luarea în evidență și emiterea tranzitului.
+Este interzis agenților vamali să comunice declarantului
+decizia privind intervenția sau neintervenția pentru controlul
+vamal fizic și documentar al mărfurilor.
+
+21
+
+SECÞIUNEA a VI-a
+Declararea mărfurilor
+Preautentificarea declarațiilor vamale de către biroul vamal
+
+116. Declarația vamală preautentificată se completează
+manual, anterior operațiunii de vămuire de către agentul
+vamal desemnat, astfel:
+— la rubrica îC—VAMA DE PLECARE“ se înscrie
+numărul de înregistrare din Registrul de evidență a
+declarațiilor vamale preautentificate;
+— la rubrica îD—CONTROLAT LA VAMA DE PLECARE“
+se înscrie mențiunea îVĂMUIRE LA DESTINAÞIE“, numărul
+curent din Registrul de evidență a declarațiilor vamale
+preautentificate și numărul autorizației, însoțite de
+semnătura și ștampila personală.
+Completarea declarațiilor vamale preautentificate de declarant
+
+117. Declarantul completează declarația vamală preautentificată, potrivit Normelor tehnice de completare, utilizare
+și tipărire a declarației vamale în detaliu, astfel:
+— la rubrica îA—VAMA DE EXPEDIERE/DE EXPORT“
+sistemul informatic înscrie automat codul și denumirea
+biroului vamal, precum și numărul și data înregistrării
+declarației vamale;
+— la rubrica îB—INFORMAÞII CONTABILE“ sistemul
+informatic înscrie automat numărul și data validării, precum
+și numărul și data borderoului contabil care atestă plata
+tarifului pentru utilizarea sistemului automat de prelucrare a
+declarației vamale în detaliu, datorată potrivit Ordonanței
+Guvernului nr. 17/1998, astfel cum a fost modificată prin
+Ordonanța de urgență a Guvernului nr. 79/1999;
+— rubrica îD—CONTROLAT LA VAMA DE PLECARE“
+se completează de persoana desemnată în acest sens de
+declarant cu datele referitoare la numărul și seria sigiliilor
+vamale aplicate, precum și termenul limită al operațiunii.
+Termenul limită al operațiunii este de maximum 45 de zile
+pentru exporturile cu tranzit efectuate sub acoperirea
+Convenției TIR și de maximum 8 zile în cazul exportului
+cu tranzit comun, de la data declarației vamale de export;
+— la rubrica î14—DECLARANT/REPREZENTANT“ sistemul informatic înscrie automat numărul autorizației de
+vămuire la destinație, de forma îExxx“ sau îIexxx“, precum
+și datele de identificare a acestuia (denumirea și adresa);
+în situația în care declarantul apelează la serviciile unui
+comisionar în vamă, în această rubrică se vor înscrie
+denumirea și adresa comisionarului în vamă, precum și
+numărul autorizației de comisionar în vamă, emisă de
+Direcția Generală a Vămilor, de forma îCVxxx“;
+Rubrica î54—LOCUL ȘI DATA“ se completează manual,
+după tipărirea declarației vamale, cu numele, prenumele și
+semnătura persoanei împuternicite de declarant sau de
+comisionarul în vamă, după caz.
+Procesarea informatică a declarației vamale
+
+118. Declarația vamală în detaliu se completează de
+către declarant în sistem informatic.
+După completarea rubricilor declarației vamale de export,
+în conformitate cu Normele tehnice de completare, utilizare
+și tipărire a declarației vamale în detaliu, se solicită validarea declarației. Se obțin numărul și data de înregistrare ale
+
+22
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+
+declarației vamale în detaliu, de forma: îIxxxxxxxx—
+zz/ll/aaaa“, evidențiate la nivelul rubricii A, numărul și data
+de validare, de forma: îV xxxxxxxx—zz/ll/aaaa“, precum și
+numărul și data borderoului contabil, de forma
+îR xxxxxxxx—zz/ll/aaaa“, evidențiate la nivelul rubricii B.
+Tipărirea se face de către declarant pe formularele de
+declarații vamale preautentificate în setul corespunzător.
+Exemplarele pentru vamă cu documentele care au stat la
+baza emiterii declarației vamale, precum și exemplarele
+statistice vor fi depuse la biroul vamal la termenele stabilite
+în avizul biroului vamal.
+119. În scopul urmăririi derulării operațiunilor de tranzit
+în trafic rutier declarantul are obligația introducerii datelor
+referitoare la tranzit în sistemul informatic.
+Validarea tranzitului se va face de agentul vamal responsabil cu această operațiune. În cazul în care se constată că operațiunea face obiectul unor consemne, agentul
+vamal menționat mai sus va comunica aceasta imediat
+șefului biroului vamal sau șefului de tură. În momentul
+luării la cunoștință șeful biroului vamal sau șeful de tură va
+lua măsura suspendării procedurii de vămuire la destinație
+până la clarificarea situației.
+120. În cazuri justificate, la cererea declarantului de
+acces la serverul biroului vamal după terminarea programului de lucru, biroul vamal ia măsuri de asigurare a
+funcționării acestuia.
+Justificarea utilizării declarațiilor vamale preautentificate
+și a sigiliilor vamale
+
+121. La sfârșitul perioadei de justificare menționate în
+avizul biroului vamal declarantul este obligat să justifice utilizarea declarațiilor vamale preautentificate, precum și a
+sigiliilor vamale, după caz, prin prezentarea către agentul
+vamal desemnat a declarațiilor vamale împreună cu setul
+de documente aferent acestora, pentru fiecare operațiune
+derulată într-o anumită perioadă. Setul de documente
+include în mod obligatoriu și documentele speciale cerute
+în conformitate cu prevederile art. 86 din Codul vamal al
+României.
+Declarantul este obligat să predea inclusiv declarațiile
+vamale preautentificate care au fost completate greșit sau
+care nu au putut fi utilizate în mod corespunzător, respectiv sigiliile vamale deteriorate, însoțite de o notă din care să
+rezulte cauzele ce au condus la imposibilitatea utilizării lor.
+Declarațiile vamale sunt distruse în prezența agentului
+vamal desemnat și a persoanei desemnate de declarant și
+sunt scăzute din evidență pe baza notei menționate mai
+sus, datată, semnată și ștampilată; sigiliile vamale sunt
+scăzute din evidențe.
+122. Agentul vamal desemnat procedează la verificarea
+concordanței dintre datele cuprinse în declarația vamală și
+cele cuprinse în documentele anexate, precum și a legalității operațiunii. După această operațiune, dacă nu se constată nici o încălcare a legislației în vigoare, agentul vamal
+desemnat operează în registrele de evidență a declarațiilor
+vamale preautentificate și a sigiliilor vamale ale declaranților
+
+justificarea utilizării acestora și stabilește soldul rămas neutilizat.
+Atunci când se constată încălcarea legislației în vigoare,
+operațiunile respective fac obiectul controlului ulterior.
+Justificarea utilizării declarațiilor vamale preautentificate și a
+sigiliilor vamale, precum și operarea în registrul corespunzător se fac în funcție de rezultatele controlului ulterior
+menționat.
+123. Dispozițiile cuprinse în Codul vamal al României și
+în Regulamentul de aplicare a Codului vamal al României
+privind rectificarea sau retragerea declarațiilor vamale se
+aplică în mod similar și declarațiilor vamale preautentificate
+și numai cu înștiințarea prealabilă în scris a biroului vamal
+la care s-au depus.
+CAPITOLUL VI
+Dispoziții finale și tranzitorii
+124. Direcțiile regionale vamale interjudețene vor exercita prin compartimentele de control ulterior proprii verificarea cel puțin o dată pe trimestru a operațiunilor derulate în
+procedură de vămuire simplificată.
+125. În toate cazurile în care biroul vamal are suspiciuni
+temeinice cu privire la nerespectarea reglementărilor legale
+în cazul operațiunilor de vămuire la destinație, acesta
+poate retrage toate declarațiile preautentificate rămase neutilizate până la clarificarea situației. O dată cu luarea acestei măsuri biroul vamal înaintează un raport scris către
+Direcția Generală a Vămilor, care cuprinde motivele ce au
+stat la baza luării deciziei de retragere a declarațiilor
+vamale preautentificate.
+În cazul procedurii de declarare simplificată aceasta se
+suspendă până la clarificarea situației.
+126. În cazul nerespectării termenelor de încheiere a
+regimurilor vamale suspensive înscrise de declarant la
+rubrica 49 din declarația vamală, biroul vamal încheie din
+oficiu operațiunea prin aplicarea prevederilor art. 155
+alin. (2) și (3) din Regulamentul de aplicare a Codului
+vamal al României.
+127. Persoanele juridice române autorizate să beneficieze de procedura de vămuire la domiciliu în temeiul
+Deciziei directorului general al Direcției Generale a Vămilor
+nr. 374/2000, publicată în Monitorul Oficial al României,
+Partea I, nr. 107 din 10 martie 2000, modificată prin
+Decizia directorului general al Direcției Generale a Vămilor
+nr. 636/2000, publicată în Monitorul Oficial al României,
+Partea I, nr. 216 din 17 mai 2000, și al Deciziei directorului
+general al Direcției Generale a Vămilor nr. 637/2000, publicată în Monitorul Oficial al României, Partea I, nr. 216 din
+17 mai 2000, modificată prin Decizia directorului general al
+Direcției Generale a Vămilor nr. 1.493/2001, publicată în
+Monitorul Oficial al României, Partea I, nr. 470 din
+16 august 2001, pot funcționa pe baza autorizațiilor
+obținute anterior, pe o perioadă de 90 de zile de la data
+intrării în vigoare a prezentelor norme, în procedură de
+vămuire la destinație.
+128. După expirarea termenului menționat la pct. 127
+persoanele juridice pot utiliza procedurile simplificate de
+vămuire numai dacă au solicitat și au obținut reautorizarea
+în condițiile stabilite prin prezentele norme.
+
+23
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+ANEXA Nr. 1
+la norme
+
+Nr. ............ din .....................
+
+CERERE DE AUTORIZARE
+
+pentru procedura simplificată de vămuire
+1. Societatea Comercială ................................................., cu sediul în ..................................,
+reprezentată legal de ................................................., având funcția de .........................................,
+2. solicităm autorizarea pentru procedura de*):
+Declarare
+Vămuire
+simplificată
+la destinație
+3. pentru regimurile*):
+— import
+— export
+— antrepozit vamal
+— perfecționare activă
+— admitere temporară
+— perfecționare pasivă
+— transformare sub control vamal
+în temeiul Deciziei directorului general al Direcției Generale a Vămilor nr. 259/2002.
+4. Solicităm ca pentru procedura de vămuire la destinație vămuirea să se efectueze la
+adresa/adresele ....................................................................................................................................
+....................................................................................................................................................................
+................................................................................................................................................................. .
+5. Procedura simplificată de vămuire pentru care solicităm autorizarea va fi aplicată mărfurilor clasificate la următoarele poziții tarifare din Tariful vamal de import al României**): ................
+....................................................................................................................................................................
+....................................................................................................................................................................
+6. Birouri vamale: ........................................................................................................................
+....................................................................................................................................................................
+....................................................................................................................................................................
+
+...................................................
+(numele, prenumele și funcția)
+
+...................................................
+(semnătura și ștampila)
+
+*) Se bifează căsuța corespunzătoare.
+**) Se menționează distinct mărfurile pentru care se solicită declararea simplificată și/sau vămuirea la destinație.
+
+24
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+ANEXA Nr. 2
+la norme
+
+DECLARAÞIE-ANGAJAMENT
+
+Nr. ............ / data ............
+Societatea Comercială ................................, reprezentată legal prin ................................,
+având funcția de ...................................., se angajează, în conformitate cu prevederile normelor
+aprobate prin Decizia directorului general al Direcției Generale a Vămilor nr. 259/2002:
+a) să respecte reglementările vamale și condițiile privind derularea procedurii de declarare
+simplificată/procedurii de vămuire la destinație*);
+b) să țină evidența operațiunilor de vămuire în forma agreată de autoritatea vamală în așa
+fel încât aceasta să permită controlul înainte sau ulterior efectuării acestora;
+c) să păstreze și să pună la dispoziție autorității vamale toate documentele vizând mărfurile
+vămuite prin procedura de vămuire simplificată, precum și evidența operațiunilor;
+d) să permită autorității vamale accesul necondiționat, în orice moment, la mărfurile ce fac
+obiectul procedurii de vămuire simplificată;
+e) să respecte perioada de justificare menționată în avizul emis de biroul vamal, în cazul
+procedurii de vămuire la destinație;
+f) să păstreze la dispoziția biroului vamal mărfurile până la expirarea termenului de intervenție menționat în avizul emis de biroul vamal, în cazul procedurii de vămuire la destinație;
+g) să respecte termenul de depunere a declarației simplificate globale, în cazul procedurii de
+declarare simplificată.
+...................................................
+(numele, prenumele și funcția)
+
+...................................................
+(semnătura și ștampila)
+
+*) Se anulează cu o linie continuă mențiunea care nu este necesară.
+
+ANEXA Nr. 3
+la norme
+DIRECÞIA REGIONALĂ VAMALĂ INTERJUDEÞEANĂ ............
+Biroul vamal ...............................................................
+
+AVIZ
+
+Prin prezentul aviz se confirmă că Societatea Comercială .................................... îndeplinește
+condițiile menționate la pct. ............, prevăzute în normele aprobate prin Decizia nr. 259/2002 a
+directorului general al Direcției Generale a Vămilor.
+Locurile agreate pentru vămuirea la destinație a mărfurilor au următoarele adrese: ............
+....................................................................................................................................................................
+....................................................................................................................................................................
+....................................................................................................................................................................
+....................................................................................................................................................................
+Perioada de justificare a declarațiilor vamale preautentificate, în cazul procedurii de vămuire
+la destinație, este de ............ zile.
+Termenul în care biroul vamal poate interveni, în cazul procedurii de vămuire la destinație,
+cu începere din momentul primirii avizului de sosire, este de ............ ore.
+Termenul de depunere a declarației simplificate globale, în cazul procedurii de declarare simplificată, este de ............ zile.
+...................................................
+(numele, prenumele și funcția)
+
+...................................................
+(semnătura și ștampila)
+
+Data .........................................
+
+25
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+ANEXA Nr. 4
+la norme
+ROMÂNIA
+DIRECÞIA GENERALĂ A VĂMILOR
+
+Exemplar nr. ......................
+AUTORIZAÞIE
+
+pentru utilizarea procedurii simplificate
+Nr. ............ din ............
+1. Denumirea și sediul solicitantului ................................................................................................
+2. Proceduri simplificate și regimuri vamale pentru care se emite autorizația*):
+Declarare
+Vămuire
+simplificată
+la destinație
+pentru regimurile*):
+— import
+— export
+— antrepozit vamal
+— perfecționare activă
+— admitere temporară
+— perfecționare pasivă
+— transformare sub control vamal
+3. Poziții tarifare din Tariful vamal de import al României ale mărfurilor pentru care se autorizează procedura simplificată**): ............................................................................................................
+4. Adresa locului/locurilor agreate pentru utilizarea procedurii de vămuire la destinație ............
+............................................................................................................................................................
+5. Birouri vamale ........................................................................................................................
+Directorul general al Direcției Generale a Vămilor,
+...................................................................................
+*) Se bifează căsuța corespunzătoare.
+**) Se menționează distinct mărfurile pentru care se solicită declararea simplificată și/sau vămuirea la destinație.
+ANEXA Nr. 5
+la norme
+DECLARAÞIE SIMPLIFICATĂ
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+
+Expeditorul/exportatorul mărfurilor*)
+Destinatarul/importatorul mărfurilor*)
+Numărul autorizației de declarare simplificată
+Numărul/data din Registrul de evidență a declarațiilor simplificate
+Regimul vamal
+Numărul și data documentului de garantare/plată
+Identitatea mijlocului de transport ......................................................................................
+Denumirea comercială a mărfurilor**) ...............................................................................
+Originea mărfurilor ..............................................................................................................
+Moneda și valoarea facturată ............................................................................................
+Cursul de schimb ...............................................................................................................
+Contingentul .........................................................................................................................
+Valoarea statistică ...............................................................................................................
+Cuantumul drepturilor vamale datorate .............................................................................
+Numărul autorizației de plasare sub regim vamal ...........................................................
+
+16. Numărul și natura coletelor ...............................................................................................
+17. Greutatea brută ...................................................................................................................
+18.
+19.
+20.
+21.
+22.
+
+Controlul documentar și fizic .............................................................................................
+Data/ora de începere/de încheiere ....................................................................................
+Rezultatele controlului .........................................................................................................
+Măsurile dispuse .................................................................................................................
+Biroul vamal ................................................................. Semnătura și ștampila
+
+NOTĂ:
+
+Această casetă se completează numai de agentul vamal.
+................................................
+Data ............
+
+(numele, prenumele și funcția)
+
+...............................................
+
+(semnătura și ștampila)
+menționează și codul fiscal, dacă expeditorul este persoană juridică română.
+completează pentru mărfurile situate la pozițiile tarifare din Tariful vamal de import al României sau pentru origini
+diferite; dacă spațiul este insuficient se face trimitere la anexă. Atunci când denumirea comercială este considerată insuficientă pentru determinarea sau verificarea ulterioară a încadrării tarifare, la această rubrică se înscrie și codul tarifar.
+*) Se
+**) Se
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+ANEXA Nr. 6
+la norme
+REGISTRUL DE EVIDENÞĂ A DECLARAÞIILOR SIMPLIFICATE
+Declarație
+simplificată
+
+Nr.
+crt.*)
+
+X
+
+Regimul Nr.
+vamal
+
+IEȘIRE
+Declarația simplificată globală
+
+INTRARE
+
+Anul
+20…
+
+Documentele în baza cărora
+s-a făcut înregistrarea
+
+Identitatea
+mijlocului
+de transport
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Luna
+7
+
+8
+
+Emitent
+
+X
+
+Felul
+
+bucată
+
+0
+
+Felul Nr.
+
+Ziua
+
+X
+
+Ziua
+
+X
+
+Luna
+
+Anul 20…
+X
+
+Greutatea
+
+Colete
+
+Mărci,
+numere
+
+9
+
+10
+
+11
+
+12
+
+13
+
+Felul
+mărfurilor
+și al bunurilor
+
+Regim
+
+Nr.
+
+X
+
+X
+
+X
+
+X
+
+Luna
+
+Ziua
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+Anul
+20…
+
+*) Se completează câte un rând pentru fiecare cod tarifar din Tariful vamal de import al României, corespunzător fiecărei declarații simplificate. Aceeași procedură se utilizează și în cazul în care mărfurile ce fac obiectul unei declarații simplificate au același cod tarifar, dar au origini diferite, dacă acest lucru este relevant pentru stabilirea și verificarea cuantumului drepturilor datorate.
+
+Instrucțiuni de utilizare a Registrului de evidență a declarațiilor simplificate
+Registrul de evidență a declarațiilor simplificate se
+folosește pentru înscrierea și evidența bunurilor introduse
+sau scoase din țară pe baza declarațiilor simplificate.
+Modul de completare:
+La coloana îNr. crt.“ se dă număr în ordine cronologică
+fiecărui document în baza căruia se face înregistrarea.
+La coloana îDeclarație simplificată“ se înscriu codul regimului vamal, numărul și data declarației simplificate.
+La coloana îDocumentele în baza cărora s-a făcut
+înregistrarea“:
+— subcoloana îfelul“ se înscrie documentul care
+poate fi:
+— documentul de transport;
+— titlul de tranzit;
+— subcoloana îNr.“ și î20…“ — îluna“ îziua“ — se înscriu
+numărul și data la care a fost emis documentul;
+— subcoloana îEmitent“ se înscriu denumirea și sediul
+emitentului acelui document.
+La coloana îIdentitatea mijlocului de transport“ se înscriu
+numărul vagonului în cazul transporturilor în vagoane complete, numărul scrisorii de trăsură în cazul coletelor care
+circulă cu documente de transport separate, numărul aeronavei sau numele navei.
+
+La coloana îColete“:
+— subcoloana îfelul“ se înscrie felul coletului (sac, ladă,
+balot, container etc.);
+— subcoloana îbucată“ se înscrie numărul coletelor
+prevăzut în documentul în baza căruia s-a făcut înregistrarea;
+— subcoloana îmărci, numere“ se înscriu mărcile și
+numerele înscrise de expeditor pe colete pentru identificare.
+La coloana îGreutatea“ se înscrie greutatea brută sau
+netă a mărfurilor sau a bunurilor, în baza datelor din
+documentul de transport.
+Atunci când bunurile se cântăresc se înscrie cantitatea
+efectiv constatată. În cazul rectificărilor ulterioare ale
+greutății înscrise în declarațiile vamale se rectifică în mod
+corespunzător și registrul.
+La coloana îFelul mărfurilor și al bunurilor“ se înscrie
+denumirea bunurilor conform descrierii din documentul în
+baza căruia se face înregistrarea.
+La coloana îDeclarația simplificată globală“ se înscriu
+codul regimului vamal, numărul și data declarației simplificate globale corespunzătoare declarației simplificate pe care
+o globalizează.
+
+27
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+ANEXA Nr. 7
+la norme
+DECLARAÞIE SIMPLIFICATĂ GLOBALĂ
+
+11. Codul procedurii .........................
+
+2. Exemplar destinat ...................................
+
+13. Declarant ......................
+
+4. Numărul de înregistrare și data ............
+
+Adresa .......................
+
+Ștampila biroului vamal
+
+15. Denumirea procedurii ....................
+
+6. Biroul vamal ...........................
+7. Numărul autorizației .........................
+
+8. Declarații depuse pentru perioada de globalizare:
+— de la nr. …/din data de ...........
+— la nr. …/din data de ............
+19. Numele persoanei care poate fi contactată în caz de necesitate și datele de contact .......
+10. Numărul de pagini atașate ................
+Informații contabile
+11. Documentul de garantare:
+Regularizarea datoriei vamale
+12. Tipul
+
+13. Denumirea 14. Cuantumul
+
+16. TOTAL:
+
+15. Modul de acoperire a datoriei vamale
+
+17. Documentul de plată: ......................
+..............................................
+(numele, prenumele, funcția)
+
+..........................................
+(semnătura și ștampila)
+
+Instrucțiuni de completare a declarației simplificate globale
+a) La rubrica nr. 1 se înscrie codul prin care se indică
+procedura vamală potrivit instrucțiunilor cuprinse în Normele
+de completare a declarației vamale în detaliu, la rubrica
+nr. 1, a doua casetă.
+b) La rubrica nr. 2 se înscrie mențiunea îExemplar destinat titularului“, îExemplar destinat biroului vamal“ sau
+îExemplar destinat colectării elementelor de informație statistică“, după caz.
+c) La rubrica nr. 3 se înscriu denumirea și adresa completă a declarantului operațiunii, precum și codul fiscal al
+acestuia.
+d) La rubrica nr. 6 se înscrie numele biroului vamal prin
+care se derulează operațiunea.
+e) La rubrica nr. 7 se înscriu numărul și data emiterii
+autorizației de declarare simplificată.
+f) La rubrica nr. 8 se înscriu numărul și data primei
+declarații simplificate cu care începe perioada de globalizare, precum și numărul și data ultimei declarații simplificate cu care se termină perioada de globalizare.
+g) La rubrica nr. 9 se înscriu numele, prenumele, seria
+și numărul actului de identitate și/sau codul personal al
+persoanei împuternicite de declarant să întocmească în
+numele lui formalitățile vamale.
+
+h) La rubrica nr. 10 se înscrie numărul de pagini
+cuprinzând centralizarea operațiunilor care se atașează la
+prezenta anexă [anexa nr. 7 a)].
+i) La rubrica nr. 11 se înscriu numărul și tipul documentului de garantare, după caz.
+j) La rubrica nr. 12 se înscrie tipul drepturilor vamale,
+folosind un cod, în conformitate cu anexa nr. 15 la
+Normele tehnice de completare, utilizare și tipărire a
+declarației vamale în detaliu.
+k) La rubrica nr. 13 se înscrie denumirea în clar a tipului dreptului vamal.
+l) La rubrica nr. 14 se indică cuantumul drepturilor
+vamale.
+m) La rubrica nr. 15 se înscrie modul de acoperire a
+datoriei vamale, folosind un cod format dintr-o cifră, conform anexei nr. 16 la Normele tehnice de completare, utilizare și tipărire a declarației vamale în detaliu.
+n) La rubrica nr. 16 se înscrie totalul drepturilor vamale.
+o) La rubrica nr. 17 se înscriu denumirea și numărul de
+identificare ale documentului cu care se face plata drepturilor vamale.
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+ANEXA Nr. 7a)
+
+Numele, prenumele, funcția ...................
+Semnătura și ștampila ...........................
+Data ........................................................
+CENTRALIZATORUL OPERAÞIUNILOR,
+
+anexă la declarația simplificată globală nr. ........
+Codul de procedură
+vamală
+
+Luna
+calendaristică
+
+Numărul declarației
+simplificate globale
+
+Numărul
+autorizației
+
+Codul
+fiscal
+
+Declarantul
+
+1. Exemplar destinat ..................
+2. Pagina nr. .................
+3.
+Codul
+de procedură
+vamală
+
+4.
+Nr.
+crt.
+
+5.
+Nr.
+declarației
+simplificate
+
+6.
+Ziua
+
+7.
+
+8.
+
+9.
+
+Codul
+tarifar
+
+Valoarea
+statistică
+
+Greutatea
+netă
+
+10.
+Unitarea
+de măsură
+suplimentară
+
+18.
+TOTAL:
+
+X
+
+11.
+Regimul
+vamal
+
+X
+
+12.
+Cursul
+de
+schimb
+
+13.
+Contingentul/
+preferințe
+
+X
+
+14.
+Total
+drepturi
+vamale
+
+15.
+Total
+taxe
+vamale
+
+16.
+
+X
+
+Total
+T.V.A.
+
+17.
+Total
+comision
+vamal
+
+Instrucțiuni de completare a Centralizatorului operațiunilor care se atașează la declarația simplificată globală
+a) La rubrica nr. 1 se înscrie mențiunea îExemplar
+destinat titularului“, îExemplar destinat biroului vamal“ sau
+îExemplar destinat colectării elementelor de informație statistică“, după caz.
+b) La rubrica nr. 2 se înscrie numărul paginii din centralizatorul operațiunilor care se atașează la declarația simplificată globală.
+c) La rubrica nr. 3 se înscrie una dintre siglele
+menționate în instrucțiunile cuprinse în Normele de completare a declarației vamale în detaliu, referitoare la completarea rubricii nr. 1, prima casetă.
+d) La rubrica nr. 4 se înscrie numărul curent al fiecărei
+înregistrări.
+e) La rubrica nr. 5 se înscrie numărul de înregistrare a
+declarației simplificate care face obiectul globalizării.
+f) La rubrica nr. 6 se înscrie ziua în care s-a făcut înregistrarea declarației simplificate.
+g) La rubrica nr. 7 se înscrie codul tarifar.
+h) La rubrica nr. 8 se înscrie valoarea statistică, similar
+modului de completare a rubricii nr. 46 a declarației vamale
+în detaliu.
+i) La rubrica nr. 9 se înscrie în kilograme greutatea netă
+a mărfurilor, exprimată în numere întregi, urmate de două
+zecimale. Greutatea netă corespunde greutății proprii a
+mărfurilor, fără ambalaj.
+
+j) La rubrica nr. 10 se înscrie cantitatea exprimată într-o
+unitate de măsură specifică (alta decât kilogram), conform
+anexei nr. 13 la Normele de completare a declarației
+vamale în detaliu.
+k) La rubrica nr. 11 se înscrie codul regimului vamal,
+potrivit instrucțiunilor cuprinse în Normele de completare a
+declarației vamale în detaliu, la rubrica nr. 37.
+l) La rubrica nr. 12 se înscrie cursul de schimb aplicabil
+pentru declarația simplificată în cauză.
+m) La rubrica nr. 13 se înscrie unul dintre codurile
+prevăzute în anexa nr. 12 la Normele tehnice de completare, utilizare și tipărire a declarației vamale în detaliu,
+numai în cazul importului de mărfuri pentru care sunt
+prevăzute contingente cantitative sau valorice.
+n) La rubrica nr. 14 se înscrie cuantumul drepturilor
+vamale.
+o) La rubrica nr. 15 se înscrie cuantumul taxelor
+vamale.
+p) La rubrica nr. 16 se înscrie cuantumul T.V.A.
+r) La rubrica nr. 17 se înscrie cuantumul comisionului
+vamal.
+s) La rubrica nr. 18 se înscrie totalul corespunzător
+col. 8, 9, 14—17 numai pe ultima pagină din centralizatorul
+operațiunilor care se atașează la declarația simplificată
+globală.
+
+29
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+ANEXA Nr. 8
+la norme
+
+DIRECÞIA REGIONALĂ VAMALĂ INTERJUDEÞEANĂ
+
+Birou vamal ...............
+
+........................
+
+Declarantul ..................
+
+P R O C E S - V E R B A L *)
+
+Nr. ............. / data
+
+...............
+
+În vederea utilizării procedurii de vămuire la destinație s-a procedat la predarea/primirea
+declarațiilor vamale primare preautentificate și a sigiliilor vamale**), în următoarele exemplare/cantități:
+— ........................................;
+— ........................................;
+— ........................................;
+
+Am predat (agent vamal).
+...................................
+
+Am primit.
+........................
+
+(numele și prenumele)
+
+(numele și prenumele)
+
+..................................
+
+..........................
+
+(semnătura)
+
+(semnătura)
+
+.......................
+
+.........................
+
+*) Se menționează la rubrica nr. 1 din Registrul de evidență a declarațiilor vamale preautentificate.
+**) Se completează numai în cazul operațiunilor de export.
+
+ANEXA Nr. 9
+la norme
+
+REGISTRUL DE EVIDENÞĂ
+
+a declarațiilor vamale preautentificate
+Declarantul .................... Numărul autorizației ............................
+Nr.
+crt.
+
+Nr. și data
+procesului-verbal
+de
+predare/report*)
+
+Nr. de
+declarații vamale
+primare
+preautentificate eliberate
+
+Data
+justificării
+
+0
+
+1
+
+2
+
+3
+
+Nr. de înregistrare și data
+declarațiilor vamale primare
+preautentificate justificate
+bucăți
+nr. și data
+4
+
+5
+
+Soldul declarațiilor
+vamale primare
+preautentificate
+nefolosite*)
+6
+
+*) Soldul declarațiilor vamale preautentificate nefolosite din col. 6 se reportează la col. 1 și 2. La acest sold se adaugă numărul declarațiilor
+vamale preautentificate care se eliberează la tranșa următoare.
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+ANEXA Nr. 10
+la norme
+
+AVIZ DE SOSIRE
+
+Procedura de vămuire la sediul Societății Comerciale .............................................................
+Numărul/data din Registrul de evidență a avizelor
+Destinația solicitată:
+Regimul vamal de
+Depozit necesar cu caracter temporar
+Documentul de garantare (nr./dată)
+Tipul transportului:
+— destinatar unic
+— mărfuri de grupaj
+
+Data și ora sosirii: .......................................................................................................................
+Felul titlului de tranzit și numărul acestuia: ..............................................................................
+Identitatea mijlocului de transport: .............................................................................................
+Denumirea comercială a mărfurilor: ...........................................................................................
+Originea mărfurilor: ......................................................................................................................
+Valoarea din factură (în valută): ................................................................................................
+Numărul autorizației de plasare sub regim vamal ....................................................................
+Nr. și natura coletelor .................................................................................................................
+Greutatea brută: ...........................................................................................................................
+Sigilii (marca și seria): ................................................................................................................
+Control documentar și fizic: ........................................................................................................
+Data/ora de începere/de încheiere: ............................................................................................
+Rezultatele controlului: ................................................................................................................
+Măsuri dispuse: ............................................................................................................................
+Organul de control: ............................................................... Semnătura și ștampila ..............
+NOTĂ:
+
+Această casetă se completează numai de agentul vamal, dacă acesta intervine în cadrul termenului prevăzut în avizul biroului vamal, cu durată maximă de 3 ore.
+
+...........................................
+(numele, prenumele și funcția)
+
+.............................................
+(semnătura și ștampila)
+
+Data ...........................
+
+31
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 217/1.IV.2002
+ANEXA Nr. 11
+la norme
+REGISTRUL DE EVIDENÞĂ A AVIZELOR
+Avize de sosire
+
+Depozit necesar cu caracter temporar
+
+Declarație vamală
+
+1
+
+2
+
+3
+
+Numărul
+
+Data
+
+Numărul
+
+Data
+
+Numărul
+
+Data
+
+ANEXA Nr. 12
+la norme
+REGISTRUL DE EVIDENÞĂ
+
+a mărfurilor intrate în depozit necesar cu caracter temporar
+Nr.
+crt.
+
+Numărul
+avizului
+de sosire
+
+Data și ora
+de intrare în
+depozit necesar
+
+Felul și numărul
+de identificare
+a titlului de tranzit
+
+Numărul
+și natura
+coletelor
+
+Greutatea
+brută
+
+Denumirea
+comercială
+a mărfurilor
+
+Semnătura și ștampila
+
+Numărul/data
+declarației
+vamale
+
+P R E Þ U R I L E
+
+publicațiilor legislative pentru anul 2002
+— pe suport tradițional —
+Nr.
+crt.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+
+Nr.
+anual
+de apariții
+
+Denumirea publicației
+
+Monitorul Oficial, Partea I, în limba română
+Monitorul Oficial, Partea I în limba română,
+numere bis
+Monitorul Oficial, Partea I, în limba maghiară
+Monitorul Oficial, Partea a II-a
+Monitorul Oficial, Partea a III-a
+Monitorul Oficial, Partea a IV-a
+Monitorul Oficial, Partea a VI-a
+Colecția Legislația României
+Colecția de hotărâri ale Guvernului și alte
+acte normative
+Repertoriul actelor normative
+Decizii ale Curții Constituționale
+Ediții trilingve
+Ediții tematice*)
+
+Valoarea
+abonamentului
+anual
+— lei —
+
+Valoarea
+abonamentului trimestrial
+— lei —
+Trim. II
+Trim. III
+
+Trim. I
+
+700
+50
+
+5.938.400
+1.114.880
+
+1.484.600
+—
+
+1.633.060
+—
+
+1.796.366
+—
+
+1.976.003
+—
+
+250
+300
+750
+2.100
+250
+4
+12
+
+4.950.400
+7.804.160
+1.584.128
+6.691.360
+6.162.000
+1.557.400
+2.595.840
+
+1.237.600
+1.951.040
+396.032
+1.672.840
+1.540.500
+389.350
+648.960
+
+1.237.600
+1.951.040
+396.032
+1.672.840
+1.540.500
+428.285
+713.856
+
+1.237.600
+1.951.040
+396.032
+1.672.840
+1.540.500
+471.114
+785.242
+
+1.237.600
+1.951.040
+396.032
+1.672.840
+1.540.500
+518.225
+863.766
+
+1
+1
+12
+
+390.000
+292.500
+1.560.000
+—
+
+—
+—
+—
+—
+
+—
+—
+—
+—
+
+—
+—
+—
+—
+
+—
+—
+—
+—
+
+Trim. IV
+
+*) Preț individual pe apariție ce se va comunica difuzorului cu 30 de zile înainte de tipărire.
+
+Publicațiile Regiei Autonome îMonitorul Oficial“ menționate la punctele 1–7 sunt purtătoare de T.V.A. în cotă de
+19%, iar cele menționate la punctele 8–13 sunt scutite de T.V.A.
+Pentru siguranța clienților, abonamentele la publicațiile Regiei Autonome îMonitorul Oficial“ se pot efectua prin
+următorii difuzori:
+N COMPANIA NAÞIONALĂ îPOȘTA ROMÂNĂ“ — S.A. — prin oficiile sale poștale
+N RODIPET — S.A.
+
+— prin toate filialele
+
+N INTERPRESS SPORT — S.R.L.
+
+— București, str. Hristo Botev nr. 6
+(telefon/fax: 313.85.07; 313.85.08; 313.85.09)
+
+N PRESS EXPRES — S.R.L.
+
+— Otopeni, str. Flori de Câmp nr. 9
+(telefon/fax: 772.66.87; 095.133.712)
+
+N M.T. PRESS IMPEX — S.R.L.
+
+— București, bd. Basarabia nr. 256
+(telefon/fax: 255.48.15; 255.48.16)
+
+N G & F PRESS DISTRIBUTION — S.R.L.
+
+— București, Șos. Alexandriei nr. 76, bl. PC 8, sc. 1, et. 5, ap. 22
+(telefon/fax: 420.99.71)
+
+N ZIRKON MEDIA — S.R.L.
+
+— București, bd. Nicolae Grigorescu nr. 29A, bl. N22, ap. 38
+(telefon/fax: 340.31.09)
+
+N CURIER PRESS — S.R.L.
+
+— Brașov, str. Traian Grozăvescu nr. 7
+(telefon/fax: 068/47.05.96)
+
+N MIMPEX — S.R.L.
+
+— Hunedoara, str. Ion Creangă nr. 2, bl. 2, ap. 1
+(telefon/fax: 054/71.92.43)
+
+N CALLIOPE — S.R.L.
+
+— Ploiești, str. Candiano Popescu nr. 36
+(telefon/fax: 044/11.40.52, 044/11.48.01)
+
+N INFO EUROTRADING — S.A.
+
+— București, Calea Griviței nr. 148
+(telefon/fax: 222.18.29)
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAÞILOR
+Regia Autonomă îMonitorul Oficial“, str. Izvor nr. 2–4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1—12.1/ROL Banca Comercială Română — S.A. — Sucursala îUnirea“ București
+și nr. 5069427282 Trezoreria sector 5, București (alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 411.97.54, tel./fax 410.77.36.
+Tiparul : Regia Autonomă îMonitorul Oficial“, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: ramomrk@bx.logicnet.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 217/1.IV.2002 conține 32 de pagini.
+
+Prețul de vânzare 17.000 lei
+
+ISSN 1453—4495
+
+

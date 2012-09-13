@@ -1,0 +1,1798 @@
+PARTEA I
+
+Anul 178 (XXII) — Nr. 529
+
+Joi, 29 iulie 2010
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+SUMAR
+
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+
+528. — Ordin al ministrului transporturilor și infrastructurii
+privind modificarea și completarea Reglementării
+Aeronautice Civile Române RACR — HA ăHărți
+aeronautice”, ediția 2/2008, aprobată prin Ordinul
+ministrului transporturilor nr. 673/2008 ......................
+
+2–5
+
+1.043. — Ordin al ministrului sănătății privind aprobarea
+Normelor metodologice pentru elaborarea bugetului de
+venituri și cheltuieli al spitalului public ........................
+
+5–29
+
+1.045. — Ordin al ministrului sănătății pentru modificarea și
+completarea
+Ordinului
+ministrului
+sănătății
+nr. 1.093/2004 privind abilitarea laboratoarelor de
+toxicologie pentru efectuarea determinărilor de noxe
+profesionale și pentru modificarea Normelor sanitare
+de bază pentru desfășurarea în siguranță a activităților
+nucleare, aprobate prin Ordinul ministrului sănătății
+nr. 381/2004 ..............................................................
+
+30–31
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII
+
+ORDIN
+privind modificarea și completarea Reglementării Aeronautice Civile Române RACR — HA
+ăHărți aeronautice”, ediția 2/2008, aprobată prin Ordinul ministrului transporturilor nr. 673/2008
+Pentru îndeplinirea atribuțiilor ce revin Ministerului Transporturilor și Infrastructurii, ca autoritate de stat în domeniul
+transporturilor,
+în temeiul prevederilor art. 4 lit. b) și f) din Ordonanța Guvernului nr. 29/1997 privind Codul aerian civil, republicată, cu
+modificările și completările ulterioare, ale art. 2 din Hotărârea Guvernului nr. 405/1993 privind înființarea Autorității Aeronautice Civile
+Române, cu modificările ulterioare, precum și ale art. 5 alin. (4) din Hotărârea Guvernului nr. 76/2009 privind organizarea și
+funcționarea Ministerului Transporturilor și Infrastructurii, cu modificările și completările ulterioare,
+ministrul transporturilor și infrastructurii emite următorul ordin:
+Art. I. — Reglementarea Aeronautică Civilă Română
+RACR — HA ăHărți aeronautice”, ediția 2/2008, aprobată prin
+Ordinul ministrului transporturilor nr. 673/2008, publicat în
+Monitorul Oficial al României, Partea I, nr. 471 și 471 bis din
+26 iunie 2008, se modifică și se completează după cum
+urmează:
+1. La capitolul 1 secțiunea 1.1, după nota de la definiția
+ăModel digital al cotelor (DEM)” se introduce o nouă
+definiție, cu următorul cuprins:
+ăNavigație bazată pe cerințele de performanță (PBN).
+Navigație RNAV bazată pe cerințele de performanță pentru
+aeronavele care operează pe o rută ATS, într-o procedură de
+apropiere instrumentală sau într-un spațiu desemnat.
+Notă. Cerințele de performanță sunt exprimate prin
+specificații de navigație (specificații RNAV, specificații RNP), în
+termeni de acuratețe, integritate, continuitate, disponibilitate și
+funcționalitate, necesare pentru operarea propusă în contextul
+unui concept particular de spațiu aerian.”
+2. La capitolul 1 secțiunea 1.1, definiția ăObstacol” se
+modifică și va avea următorul cuprins:
+ăObstacol. Orice obiect fix (temporar ori permanent) sau
+mobil ori părți ale acestuia care:
+a) sunt localizate pe o suprafață destinată pentru mișcarea la
+sol a aeronavelor; sau
+b) se înalță deasupra unei suprafețe definite destinate a
+proteja aeronavele în zbor; sau
+c) se găsesc în afara acestor suprafețe definite și au fost
+evaluate ca reprezentând un pericol pentru navigația aeriană.”
+3. La capitolul 1 secțiunea 1.1, după definiția ăPunct de
+apropiere întreruptă (MAPt)” se introduce o nouă definiție,
+cu următorul cuprins:
+ăPunct de navigație. Un loc geografic determinat utilizat
+pentru definirea unei rute RNAV sau a traiectului de zbor al unei
+aeronave angajate în zbor RNAV. Punctele de navigație sunt
+identificate după caz:
+a) punct de navigație la travers (fly-by) — punct de navigație
+care necesită anticiparea virajului pentru a permite interceptarea
+tangențială a următorului segment al rutei ori procedurii; sau
+b) punct de navigație de survol (flyover) — punct de navigație
+la care se inițiază un viraj pentru interceptarea următorului
+segment al rutei sau procedurii.”
+
+4. La capitolul 1 secțiunea 1.1, definiția ăPunct de raport”
+se modifică și va avea următorul cuprins:
+ăPunct de raport. Un loc geografic determinat față de care
+poate fi raportată poziția unei aeronave.
+Notă. Există 3 categorii de puncte de raport: mijloc de
+navigație aflat la sol, intersecție și punct de navigație. În
+contextul acestei definiții, intersecția este un punct semnificativ
+exprimat prin radiale, relevmente și/sau distanțe față de
+mijloacele de navigație aflate la sol. Un punct de raport poate fi
+indicat ca punct «la cerere» sau «obligat».”
+5. La capitolul 1 secțiunea 1.1, definiția ăPunct
+semnificativ” se modifică și va avea următorul cuprins:
+ăPunct semnificativ. Un loc geografic determinat utilizat în
+definirea unei rute ATS sau a traiectoriei de zbor a unei
+aeronave, precum și pentru alte scopuri pentru navigația aeriană
+și servicii de trafic aerian.
+Notă. Există 3 categorii de puncte semnificative: mijloc de
+navigație aflat la sol, intersecție și punct de navigație. În
+contextul acestei definiții, intersecția este un punct semnificativ
+exprimat prin radiale, relevmente și/sau distanțe față de
+mijloacele de navigație aflate la sol.”
+6. La capitolul 1 secțiunea 1.1, după definiția ăRezoluție”
+se introduce o nouă definiție, cu următorul cuprins:
+ăRNAV. O metodă de navigație care permite operarea
+aeronavelor pe orice traiect de zbor dorit în cadrul acoperirii
+mijloacelor de navigație aflate la sol ori în spațiu sau în limita
+capabilităților mijloacelor proprii de la bord ori a unei combinații
+a acestora (RNAV este definită și ca «navigație de suprafață»).
+Notă. RNAV include navigația bazată pe cerințele de
+performanță cât și alte metode de navigație care nu îndeplinesc
+condițiile specifice navigației bazate pe cerințele de
+performanță.”
+7. La capitolul 1 secțiunea 1.1, după nota de la definiția
+ăSistem de supraveghere ATS” se introduce o nouă
+definiție, cu următorul cuprins:
+ăSpecificație de navigație. Un set de cerințe privind
+aeronava și echipajul necesar pentru a sprijini desfășurarea
+operațiunilor de navigație aeriană bazată pe cerințele de
+performanță într-un spațiu aerian definit. Există două feluri de
+specificații de navigație:
+— Specificație privind performanța de navigație cerută
+(RNP). O specificație de navigație bazată pe conceptul RNAV
+care include cerințele de monitorizare și de alertare în ceea ce
+privește performanța și care este indicată de prefixul RNP, de
+exemplu RNP 4, RNP APCH.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+— Specificație RNAV. O specificație de navigație bazată
+pe conceptul RNAV care nu include cerințele de monitorizare și
+de alertare în ceea ce privește performanța și care este indicată
+de prefixul RNAV, de exemplu RNAV 5, RNAV 1.
+Nota 1. Documentul OACI 9613, Manualul de navigație
+bazată pe cerințele de performanță, volumul II, conține îndrumări
+detaliate referitoare la specificațiile de navigație.
+Nota 2. Termenul RNP, definit anterior ca fiind «o declarație
+a performanței de navigație care este necesară pentru operarea
+într-un spațiu aerian definit», a fost eliminat din cadrul acestei
+reglementări deoarece conceptul RNP a fost înlocuit de
+conceptul PBN (navigație bazată pe cerințele de performanță).
+În cuprinsul acestei reglementări termenul RNP este utilizat doar
+în contextul specificațiilor de navigație care prevăd cerințele de
+monitorizare și de alertare în ceea ce privește performanța. De
+exemplu, RNP 4 desemnează cerințele privind aeronava și
+operarea acesteia, incluzând o cerință de performanță laterală
+de 4 NM, cu monitorizarea și alertarea la bord în ceea ce
+privește performanța, cerințele fiind descrise detaliat în
+Documentul OACI 9613, Manualul de navigație bazată pe
+cerințele de performanță.”
+8. La capitolul 1 secțiunea 1.1 se elimină din text
+următoarele definiții:
+— Performanță de navigație cerută (RNP) — inclusiv nota;
+— Punct RNAV;
+— Tip RNP — inclusiv exemplul.
+9. La capitolul 2, secțiunea 2.4 se modifică și va avea
+următorul cuprins:
+ă2.4 Semne convenționale
+2.4.1 Semnele convenționale utilizate sunt conforme cu cele
+incluse în «Addenda 2. Semnele convenționale OACI» din
+anexa 4 la Convenția aviației civile internaționale — Hărți
+aeronautice, cu excepția cazurilor în care, pentru reprezentarea
+unor caracteristici speciale sau a unor elemente importante
+pentru aviația civilă pentru care nu sunt prevăzute semne
+convenționale, poate fi ales orice simbol convenabil,
+asigurându-se în același timp că nu va cauza confuzie prin
+comparație cu semnele convenționale OACI sau nu va afecta
+lizibilitatea hărții.
+Notă. Mărimea și evidențierea semnelor convenționale,
+precum și grosimea și spațierea liniilor pot varia în funcție de
+scala și destinația hărții, în raport cu importanța informațiilor
+exprimate prin intermediul acestora.
+2.4.2 Pentru reprezentarea mijloacelor de navigație aflate la
+sol, a intersecțiilor și a punctelor de navigație trebuie utilizat
+același semn convențional pe toate hărțile, indiferent de scopul
+hărții.
+2.4.3 Semnul convențional utilizat pentru punctele
+semnificative trebuie să se bazeze pe o ierarhie a semnelor
+convenționale selectate în următoarea ordine: mijloc de
+navigație aflat la sol, intersecție, punct de navigație. Un semn
+convențional pentru reprezentarea unui punct de navigație
+trebuie utilizat doar atunci când un punct semnificativ particular
+nu este deja reprezentat ca mijloc de navigație aflat la sol sau
+ca intersecție.
+2.4.4 Prevederile paragrafelor 2.4.2, 2.4.3 și utilizarea
+semnelor convenționale de la poziția 121 din anexa nr. 2 la
+RACR — HA se aplică începând cu 18 noiembrie 2010.”
+10. La capitolul 2 secțiunea 2.15 se introduc două noi
+paragrafe, paragrafele 2.15.3 și 2.15.4, cu următorul
+cuprins:
+ă2.15.3 În cazul hărților de proceduri instrumentale,
+publicarea unei modificări a declinației magnetice trebuie
+finalizată într-un interval de cel mult 6 cicluri AIRAC.
+
+3
+
+2.15.4 În cazul zonelor terminale de întindere foarte mare
+care cuprind mai multe aerodromuri se publică o singură valoare
+a declinației magnetice, rotunjită, astfel încât procedurile
+instrumentale aferente aerodromurilor să utilizeze aceeași
+valoare.”
+11. La capitolul 7, secțiunea 7.8 se modifică și va avea
+următorul cuprins:
+ă7.8 Relevmente, drumuri și radiale
+7.8.1 Relevmentele, drumurile și radialele trebuie să fie
+indicate în raport cu nordul magnetic, cu excepția situației
+prevăzute la paragraful 7.8.2. Acolo unde relevmentele și
+drumurile sunt furnizate suplimentar ca valori reale pentru
+segmentele de rută RNAV, ele vor fi scrise în paranteză, rotunjite
+la zeci de grade, de exemplu 290° (294,9° T).
+7.8.2 În zonele de latitudine mare în care autoritatea
+corespunzătoare stabilește că raportarea la nordul magnetic nu
+este utilă, se utilizează o altă referință, de exemplu nordul
+geografic sau nordul grilei.
+7.8.3 În situațiile în care relevmentele, drumurile sau
+radialele sunt date în raport cu nordul geografic ori nordul grilei,
+acest fapt trebuie indicat în mod clar. Atunci când este utilizat
+nordul grilei, trebuie indicat meridianul de referință al grilei.”
+12. La capitolul 7 secțiunea 7.9 paragraful 7.9.3
+subparagraful 7.9.3.1 punctul 7.9.3.1.1, subpunctul 4) se
+modifică și va avea următorul cuprins:
+ă4) toate rutele ATS destinate zborului pe rută, inclusiv
+indicativul de rută, valoarea drumului, rotunjită în grade, pentru
+ambele direcții de-a lungul fiecărui segment de rută și, acolo
+unde este stabilită, denumirea specificației/specificațiilor de
+navigație, incluzând orice limitări, precum și direcția fluxului de
+trafic aerian.”
+13. La capitolul 8, secțiunea 8.8 se modifică și va avea
+următorul cuprins:
+ă8.8 Relevmente, drumuri și radiale
+8.8.1 Relevmentele, drumurile și radialele trebuie să fie
+indicate în raport cu nordul magnetic, cu excepția situației
+prevăzute la paragraful 8.8.2. Acolo unde relevmentele și
+drumurile sunt furnizate suplimentar ca valori reale pentru
+segmentele de rută RNAV, ele vor fi scrise în paranteză, rotunjite
+la zeci de grade, de exemplu 290ș (294,9ș T).
+8.8.2 În zonele de latitudine mare în care autoritatea
+corespunzătoare stabilește că raportarea la nordul magnetic nu
+este utilă, se utilizează o altă referință, de exemplu nordul
+geografic sau nordul grilei.
+8.8.3 În situațiile în care relevmentele, drumurile sau
+radialele sunt date în raport cu nordul geografic ori nordul grilei,
+acest fapt trebuie indicat în mod clar. Atunci când este utilizat
+nordul grilei, trebuie indicat meridianul de referință al grilei.”
+14. La capitolul 8 secțiunea 8.9 paragraful 8.9.4
+subparagraful 8.9.4.1 punctul 8.9.4.1.1, după subpunctul 4)
+se introduce un nou subpunct, subpunctul 41), cu următorul
+cuprins:
+ă41) acolo unde este stabilită, denumirea specificației/
+specificațiilor de navigație și a oricăror limitări;”.
+15. La capitolul 8 secțiunea 8.9 paragraful 8.9.4
+subparagraful 8.9.4.1 punctul 8.9.4.1.1, după subpunctul 14)
+se introduce un nou subpunct, subpunctul 15), cu
+următorul cuprins:
+ă15) indicarea punctelor semnificative de survol (flyover).”
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+16. La capitolul 9, secțiunea 9.8 se modifică și va avea
+următorul cuprins:
+ă9.8 Relevmente, drumuri și radiale
+9.8.1 Relevmentele, drumurile și radialele trebuie să fie
+indicate în raport cu nordul magnetic, cu excepția situației
+prevăzute la paragraful 9.8.2. Acolo unde relevmentele și
+drumurile sunt furnizate suplimentar ca valori reale pentru
+segmentele de rută RNAV, ele vor fi scrise în paranteză, rotunjite
+la zeci de grade, de exemplu 290ș (294,9ș T).
+Notă. Se poate include pe hartă o notă privind acest aspect.
+9.8.2 În zonele de latitudine mare în care autoritatea
+corespunzătoare stabilește că raportarea la nordul magnetic nu
+este utilă, se utilizează o altă referință, ca de exemplu nordul
+geografic sau nordul grilei.
+9.8.3 În situațiile în care relevmentele, drumurile sau
+radialele sunt date în raport cu nordul geografic sau nordul grilei,
+acest fapt trebuie indicat în mod clar. Atunci când este utilizat
+nordul grilei, trebuie indicat meridianul de referință al grilei.”
+17. La capitolul 9 secțiunea 9.9 paragraful 9.9.4
+subparagraful 9.9.4.1 punctul 9.9.4.1.1, după subpunctul 7)
+se introduce un nou subpunct, subpunctul 71), cu următorul
+cuprins:
+acolo
+unde
+este
+stabilită,
+denumirea
+ă71)
+specificației/specificațiilor de navigație și a oricăror limitări;”.
+18. La capitolul 9 secțiunea 9.9 paragraful 9.9.4
+subparagraful 9.9.4.1 punctul 9.9.4.1.1, după subpunctul 9)
+se introduce un nou subpunct, subpunctul 10), cu
+următorul cuprins:
+ă10) indicarea punctelor semnificative de survol (flyover).”
+19. La capitolul 10, secțiunea 10.8 se modifică și va avea
+următorul cuprins:
+ă10.8 Relevmente, drumuri și radiale
+10.8.1 Relevmentele, drumurile și radialele trebuie să fie
+indicate în raport cu nordul magnetic, cu excepția situației
+prevăzute la paragraful 10.8.2. Acolo unde relevmentele și
+drumurile sunt furnizate suplimentar ca valori reale pentru
+segmentele de rută RNAV, ele vor fi scrise în paranteză, rotunjite
+la zeci de grade, de exemplu 290ș (294,9ș T).
+Notă. Se poate include pe hartă o notă privind acest aspect.
+10.8.2 În zonele de latitudine mare în care autoritatea
+corespunzătoare stabilește că raportarea la nordul magnetic nu
+este utilă, se utilizează o altă referință, ca de exemplu nordul
+geografic sau nordul grilei.
+10.8.3 În situațiile în care relevmentele, drumurile sau
+radialele sunt date în raport cu nordul geografic sau nordul grilei,
+acest fapt trebuie indicat în mod clar. Atunci când este utilizat
+nordul grilei, trebuie indicat meridianul de referință al grilei.”
+20. La capitolul 10 secțiunea 10.9 paragraful 10.9.4
+subparagraful
+10.9.4.1
+punctul
+10.9.4.1.1,
+după
+subpunctul 6) se introduce un nou subpunct,
+subpunctul 61), cu următorul cuprins:
+acolo
+unde
+este
+stabilită,
+denumirea
+ă61)
+specificației/specificațiilor de navigație și a oricăror limitări;”.
+21. La capitolul 10 secțiunea 10.9 paragraful 10.9.4
+subparagraful
+10.9.4.1
+punctul
+10.9.4.1.1,
+după
+subpunctul 8) se introduce un nou subpunct,
+subpunctul 9), cu următorul cuprins:
+ă9) indicarea punctelor semnificative de survol (flyover).”
+
+22. La capitolul 11, secțiunea 11.9 se modifică și va avea
+următorul cuprins:
+ă11.9 Relevmente, drumuri și radiale
+11.9.1 Relevmentele, drumurile și radialele trebuie să fie
+indicate în raport cu nordul magnetic, cu excepția situației
+prevăzute la paragraful 11.9.2. Acolo unde relevmentele și
+drumurile sunt furnizate suplimentar ca valori reale pentru
+segmentele de rută RNAV, ele vor fi scrise în paranteză, rotunjite
+la zeci de grade, de exemplu 290ș (294,9șT).
+Notă. Se poate include pe hartă o notă privind acest aspect.
+11.9.2 În zonele de latitudine mare în care autoritatea
+corespunzătoare stabilește că raportarea la nordul magnetic nu
+este utilă, se utilizează o altă referință, ca de exemplu nordul
+geografic sau nordul grilei.
+11.9.3 În situațiile în care relevmentele, drumurile sau
+radialele sunt date în raport cu nordul geografic sau nordul grilei,
+acest fapt trebuie indicat în mod clar. Atunci când este utilizat
+nordul grilei, trebuie indicat meridianul de referință al grilei.”
+23. La capitolul 11 secțiunea 11.10 paragraful 11.10.6
+subparagraful 11.10.6.1, după litera h) se introduce o nouă
+literă, litera i), care va avea următorul cuprins:
+ăi) indicarea punctelor semnificative de survol (flyover).”
+24. La capitolul 16 secțiunea 16.7, paragraful 16.7.4 se
+modifică și va avea următorul cuprins:
+ă16.7.4 Reperele naturale sau artificiale, precum poduri, linii
+electrice de înaltă tensiune, instalații de funicular și telecabină
+permanente, centrale eoliene, mine, forturi, ruine, baraje,
+conducte, stânci, versanți abrupți, faleze, dune de nisip, faruri
+izolate, faruri navale etc., trebuie reprezentate pe hartă atunci
+când se consideră că sunt importante pentru navigația aeriană
+la vedere.”
+25. La capitolul 16 secțiunea 16.9 paragraful 16.9.3,
+subparagraful 16.9.3.2 se modifică și va avea următorul
+cuprins:
+ă16.9.3.2 Liniile electrice de înaltă tensiune, instalațiile de
+funicular și telecabină permanente și centralele eoliene trebuie
+reprezentate pe hartă atunci când se consideră că sunt
+importante pentru navigația aeriană la vedere.”
+26. La anexa nr. 2 la RACR—HA, în tabelul ăMijloace de
+radionavigație”, pozițiile 100, 101, 103 și 107*) se modifică
+și vor avea următorul cuprins:
+
+*) Pozițiile 100, 101, 103 și 107 sunt reproduse în facsimil.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+5
+
+27. La anexa nr. 2 la RACR-HA, în tabelul ăServicii de trafic aerian”, pozițiile 121 și 124*) se modifică și vor avea
+următorul cuprins:
+
+28. La anexa nr. 2 la RACR-HA, în tabelul ăDiverse”, după poziția 140 se introduc două noi poziții, pozițiile 1401 și
+1402**), cu următorul cuprins:
+
+29. La anexa nr. 6 la RACR-HA ăCerințele de calitate a
+datelor aeronautice”, tabelul 1 ăLatitudini și longitudini”
+rândul 6, coloana 1 se modifică și va avea următorul cuprins:
+ăMijloace de navigație, puncte de navigație și intersecții pe
+rută, puncte SID/STAR, puncte ale procedurii de așteptare”.
+Art. II. — Regia Autonomă ăAutoritatea Aeronautică Civilă
+Română”, Regia Autonomă ăAdministrația Română a Serviciilor
+
+de Trafic Aerian — ROMATSA”, precum și orice alți agenți
+aeronautici certificați/autorizați să furnizeze servicii de navigație
+aeriană vor lua măsuri pentru ducerea la îndeplinire a
+prevederilor prezentului ordin.
+Art. III. –— Prezentul ordin se publică în Monitorul Oficial al
+României, Partea I.
+
+Ministrul transporturilor și infrastructurii,
+Radu Mircea Berceanu
+
+București, 8 iulie 2010.
+Nr. 528.
+
+*) Pozițiile 121 și 124 sunt reproduse în facsimil.
+**) Pozițiile 1401 și 1402 sunt reproduse în facsimil.
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+MINISTERUL SĂNĂTĂȚII
+
+ORDIN
+privind aprobarea Normelor metodologice pentru elaborarea bugetului de venituri și cheltuieli
+al spitalului public
+Văzând Referatul de aprobare al Direcției generale economice nr. Cs.A. 7.765/2010,
+având în vedere prevederile art. 191 din Legea nr. 95/2006 privind reforma în domeniul sănătății, cu modificările și
+completările ulterioare, ale art. 62 alin. (1) lit. c) din Legea nr. 500/2002 privind finanțele publice, cu modificările și completările
+ulterioare, ale Ordinului ministrului finanțelor publice nr. 1.954/2005 pentru aprobarea Clasificației indicatorilor privind finanțele
+publice și ale art. 7 alin. (4) din Hotărârea Guvernului nr. 144/2010 privind organizarea și funcționarea Ministerului Sănătății, cu
+completările ulterioare,
+ministrul sănătății emite următorul ordin:
+Art. 1. — (1) Se aprobă Normele metodologice pentru
+elaborarea bugetului de venituri și cheltuieli al spitalului public,
+prevăzute în anexa care face parte integrantă din prezentul
+ordin.
+(2) Normele metodologice prevăzute la alin. (1) se aplică
+spitalelor publice, finanțate integral din venituri proprii, din
+rețeaua Ministerului Sănătății și din rețeaua autorităților
+administrației publice locale.
+(3) Pentru ministerele și instituțiile cu rețea sanitară proprie,
+normele metodologice de elaborare a bugetului de venituri și
+cheltuieli se aprobă prin ordin sau decizie de conducătorul
+acestora, după caz, cu avizul Ministerului Sănătății.
+
+Art. 2. — Direcțiile din cadrul Ministerului Sănătății, direcțiile
+de sănătate publică și unitățile sanitare publice duc la îndeplinire
+prevederile prezentului ordin.
+Art. 3. — La data intrării în vigoare a prevederilor prezentului
+ordin, Normele metodologice pentru elaborarea bugetului de
+venituri și cheltuieli al spitalului public, aprobate prin Ordinul
+ministrului sănătății publice nr. 896/2006, publicat în Monitorul
+Oficial al României, Partea I, nr. 676 din 7 august 2006, cu
+modificările și completările ulterioare, se abrogă.
+Art. 4. — Prezentul ordin se publică în Monitorul Oficial al
+României, Partea I.
+
+Ministrul sănătății,
+Cseke Attila
+București, 16 iulie 2010.
+Nr. 1.043.
+ANEXĂ
+
+NORME METODOLOGICE
+
+pentru elaborarea bugetului de venituri și cheltuieli al spitalului public
+1. Norme cu caracter general
+(1) Spitalul public este unitatea sanitară cu paturi, de utilitate
+publică, cu personalitate juridică, care furnizează servicii
+medicale. Spitalul public este instituție publică finanțată integral
+din venituri proprii și funcționează pe principiul autonomiei
+financiare, care presupune următoarele:
+a) organizarea activității spitalului pe baza bugetului de
+venituri și cheltuieli, pe total unitate, precum și pe fiecare secție
+sau compartiment, astfel încât cheltuielile necesare pentru
+realizarea serviciilor medicale să fie acoperite din veniturile
+realizate;
+b) evaluarea corectă a veniturilor proprii, fundamentarea
+cheltuielilor pe baza propunerilor secțiilor și compartimentelor
+din structura spitalului, în raport cu obiectivele programate, și
+elaborarea bugetului de venituri și cheltuieli potrivit Clasificației
+indicatorilor privind finanțele publice, aprobată prin Ordinul
+ministrului finanțelor publice nr. 1.954/2005;
+c) aprobarea bugetului propriu de venituri și cheltuieli, la
+propunerea managerului spitalului, de către ordonatorul de
+credite ierarhic superior, respectiv conducătorul direcției de
+
+sănătate publică sau ministrul sănătății ori, după caz, consiliul
+local, județean sau primarul general al municipiului București;
+d) repartizarea bugetului de venituri și cheltuieli aprobat pe
+secțiile și compartimentele din structura spitalului;
+e) modificarea bugetului de venituri și cheltuieli de către
+structurile care l-au aprobat;
+f) executarea bugetului de venituri și cheltuieli printr-o bună
+gestiune economico-financiară, realizarea serviciilor medicale
+contractate, precum și a celorlalte prestații și activități ale
+spitalului, în condiții de echilibru financiar între venituri și
+cheltuieli.
+(2) Spitalul public este condus de un manager, persoană
+fizică sau juridică, care îndeplinește atribuțiile ordonatorului
+terțiar de credite, în condițiile legii. Managerul, persoană fizică
+sau juridică, încheie contract de management cu ministrul
+sănătății ori, după caz, cu primarul unității administrativteritoriale, primarul general al municipiului București sau
+președintele consiliului județean, pe o perioada de maximum
+3 ani, în care se cuprind și obligații legate de realizarea
+indicatorilor economico-financiari rezultați din modul de
+elaborare și execuție a bugetului de venituri și cheltuieli.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+(3) Responsabilitățile managerului, ca ordonator terțiar de
+credite, sunt:
+a) angajarea, lichidarea și ordonanțarea cheltuielilor în limita
+bugetului aprobat numai pentru realizarea sarcinilor instituției pe
+care o conduce și în condițiile stabilite prin Ordinul ministrului
+finanțelor publice nr. 1.792/2002 pentru aprobarea Normelor
+metodologice privind angajarea, lichidarea, ordonanțarea și
+plata cheltuielilor instituțiilor publice, precum și organizarea,
+evidența și raportarea angajamentelor bugetare și legale, cu
+modificările și completările ulterioare. Managerii au obligația de
+a stabili prin decizie internă:
+— persoanele cu atribuții și responsabilități în cadrul
+compartimentelor de specialitate pentru operațiunile de
+angajare, lichidare și ordonanțare;
+— persoanele autorizate care efectuează plățile, pe baza
+documentelor ordonanțate de către ordonatorul de credite;
+— persoanele desemnate pentru executarea controlului
+financiar preventiv;
+b) realizarea serviciilor medicale contractate cu casele de
+asigurări de sănătate, precum și a celor prevăzute în celelalte
+contracte;
+c) asigurarea, în condițiile legii, a drepturilor pacienților;
+d) realizarea veniturilor contractate cu casele de asigurări de
+sănătate, precum și cu terțe persoane fizice și juridice;
+e) angajarea și utilizarea creditelor bugetare în limita
+bugetului aprobat și pe baza bunei gestiuni financiare;
+f) asigurarea integrității bunurilor încredințate instituției pe
+care o conduce;
+g) organizarea și ținerea la zi a contabilității și prezentarea la
+termen a situațiilor financiare asupra situației patrimoniului aflat
+în administrare și a execuției bugetare;
+h) organizarea sistemului de monitorizare a programului de
+achiziții publice și a programului de investiții publice;
+i) organizarea evidenței programelor naționale de sănătate
+și realizarea indicatorilor aferenți acestora;
+j) organizarea și ținerea la zi a evidenței patrimoniului,
+conform reglementărilor legale;
+k) analizarea periodică, cel puțin lunar, a execuției bugetului
+de venituri și cheltuieli și stabilirea de măsuri operative pentru
+remedierea deficiențelor;
+l) asigură, prin măsurile stabilite, ca drepturile de personal
+să nu depășească 70% din sumele decontate de casele de
+asigurări de sănătate din Fondul național unic de asigurări
+sociale de sănătate pentru serviciile medicale furnizate, precum
+și din sumele asigurate din bugetul Ministerului Sănătății cu
+această destinație;
+m) asigurarea monitorizării cheltuielilor de personal și a
+execuției bugetare pe structura bugetului aprobat;
+n) asigurarea codificării corecte a DRG;
+o) asigură încheierea contractelor cu direcțiile de sănătate
+publică și răspunde pentru îndeplinirea obligațiilor cuprinse în
+acestea, pentru: desfășurarea activităților prevăzute în
+programele naționale de sănătate; asigurarea drepturilor
+salariale ale personalului care își desfășoară activitatea în cadrul
+cabinetelor medicale cuprinse în structura organizatorică
+aprobată în condițiile legii — cabinete de medicină sportivă,
+planning familial, HIV/SIDA, distrofici, TBC, LSM; asigurarea
+drepturilor salariale ale personalului care desfășoară activitate
+de cercetare științifică în condițiile legii; asigurarea cheltuielilor
+de natura bunurilor și serviciilor necesare cabinetelor medicale
+de medicină sportivă, cabinetelor TBC, cabinetelor LSM
+cuprinse în structura organizatorică a spitalului, aprobate în
+condițiile legii; asigurarea cheltuielilor prevăzute la art. 93
+
+7
+
+alin. (5) și, după caz, alin. (51) pentru UPU și CPU cuprinse în
+structura organizatorică a spitalelor de urgență, aprobate în
+condițiile legii, asigurarea drepturilor salariale pentru rezidenți
+în toată perioada rezidențiatului, anii I—VII;
+p) asigură încheierea contractelor cu institutele de medicină
+legală din centrele medicale universitare la care sunt arondate,
+pentru asigurarea drepturilor salariale ale personalului care își
+desfășoară activitatea în cabinetele de medicină legală din
+structura spitalului, precum și a cheltuielilor de natura bunurilor
+și serviciilor necesare pentru funcționarea acestor cabinete;
+răspunde de îndeplinirea obligațiilor cuprinse în acestea.
+2. Structura, elaborarea și fundamentarea bugetului de
+venituri și cheltuieli
+2.1. Structura bugetului de venituri și cheltuieli
+
+(1) Bugetul de venituri și cheltuieli cuprinde resursele
+financiare și cheltuielile din cadrul unui an bugetar, necesare în
+vederea asigurării condițiilor de desfășurare normală a activității
+spitalelor publice, de furnizare a serviciilor medicale contractate
+cu casele de asigurări de sănătate, precum și a altor servicii, în
+condițiile legii. Veniturile și cheltuielile se cuprind în macheta de
+buget din structura prevăzută în Clasificația indicatorilor privind
+finanțele publice, aprobată prin Ordinul ministrului finanțelor
+publice nr. 1.954/2005. Bugetul de venituri și cheltuieli al
+spitalului se compune din:
+a) bugetul de venituri și cheltuieli al spitalului, conform
+modelului prevăzut în anexa nr. 1;
+b) bugetele de venituri și cheltuieli ale secțiilor/
+compartimentelor, conform modelului prevăzut în anexa nr. 2;
+c) situația privind numărul de posturi și structura acestora,
+conform modelului prevăzut în anexa nr. 3;
+d) bugetul fondului de dezvoltare al spitalului, conform
+modelelor prevăzut în anexele nr. 4 a) și 4 b).
+(2) Veniturile proprii ale spitalelor se cuprind în macheta de
+buget pe capitole, subcapitole și paragrafe. În capitolul de
+venituri se evidențiază:
+a) valoarea contractelor de furnizare de servicii medicale
+încheiate de spitale cu casele de asigurări sociale de sănătate
+județene și a municipiului București, în calitate de furnizor de
+servicii medicale, în cadrul sistemului de asigurări sociale de
+sănătate, precum și din alte prestații și activități prevăzute de
+lege;
+b) valoarea contractelor de furnizare de servicii medicale cu
+case de asigurări de sănătate private sau cu operatori
+economici;
+c) valoarea contractelor privind furnizarea de servicii
+medicale solicitate de alte unități spitalicești, farmaceutice, de
+cabinete medicale sau de alte unități sanitare publice ori private
+acreditate, care nu au specialiști pentru unele activități sau
+manopere medicale;
+d) sume realizate din editarea și difuzarea unor publicații cu
+caracter medical;
+e) sume realizate din servicii medicale, hoteliere sau de altă
+natură, furnizate la cererea unor terți, atât în structurile cu paturi,
+cât și în cele ambulatorii;
+f) sume realizate din servicii de asistență medicală la
+domiciliu, furnizate la cererea pacienților;
+g) valoarea contractelor de cercetare și alte surse;
+h) valoarea contractelor reprezentând asocieri investiționale
+în domenii medicale ori de cercetare medicală și farmaceutică;
+i) sume din închirierea unor spații medicale către alți furnizori
+de servicii medicale, în condițiile legii;
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+j) sume din închirierea de echipamente, aparatură medicală
+și alte bunuri către alți furnizori de servicii medicale, în condițiile
+legii, care aparțin spitalului;
+k) sume din donații și sponsorizări;
+l) sume din legate;
+m) sume alocate de la bugetul de stat și din bugetul constituit
+din contribuțiile instituite pentru combaterea consumului excesiv
+de tutun și băuturi alcoolice, în condițiile și potrivit destinațiilor
+stabilite de lege;
+n) sume alocate de la bugetul local, în condițiile și potrivit
+destinațiilor stabilite de lege;
+o) valoarea contractelor încheiate de spitalele publice din
+rețeaua autorităților administrației publice locale cu direcțiile de
+sănătate publică județene și a municipiului București pentru:
+desfășurarea activităților prevăzute în programele naționale de
+sănătate; asigurarea drepturilor salariale ale personalului care
+își desfășoară activitatea în cadrul cabinetelor medicale
+cuprinse în structura organizatorică aprobată în condițiile legii;
+asigurarea drepturilor salariale ale personalului care desfășoară
+activități de cercetare științifică; cheltuieli de natura bunurilor și
+serviciilor necesare cabinetelor de medicină sportivă,
+cabinetelor TBC, cabinetelor LSM; cheltuieli prevăzute de lege
+pentru UPU/CPU; drepturile salariale ale rezidenților pe toată
+perioada anilor de studiu I—VII;
+p) valoarea contractelor încheiate de spitale cu institutele de
+medicină legală din centrele medicale universitare la care sunt
+arondate, pentru asigurarea drepturilor de personal și a
+cheltuielilor materiale necesare funcționării.
+(3) Veniturile proprii evidențiate și realizate de spital, altele
+decât sumele provenite din bugetul de stat, de la bugetul local,
+din veniturile proprii ale Ministerului Sănătății (accize), la
+capitolul cheltuieli și care nu au o anumită destinație și pot fi
+utilizate pentru cheltuieli curente și de capital.
+(4) Veniturile spitalelor provenite din fonduri din bugetul local,
+din bugetul de stat, precum și din bugetul constituit din
+contribuțiile instituite pentru combaterea consumului excesiv de
+tutun și băuturi alcoolice se utilizează numai pentru destinațiile
+pentru care au fost alocate, potrivit legii.
+(5) Spitalele publice din subordinea Ministrului Sănătății, a
+direcțiilor de sănătate publică și cele din subordinea autorităților
+administrației publice locale pot primi cu titlu gratuit, în condițiile
+actelor normative în vigoare, medicamente prin programele
+naționale de sănătate.
+(6) Unitățile sanitare publice cu paturi care derulează
+proiecte finanțate din fonduri externe nerambursabile (FEN)
+postaderare, în execuție, vor detalia subdiviziunile de la capitolul
+45.10 ăSume primite de la UE/alți donatori în contul plăților
+efectuate și prefinanțări” și de la titlul 56.10 ăProiecte cu
+finanțare din fonduri externe nerambursabile postaderare” pe
+subcapitole și paragrafe la venituri și, respectiv, pe articole și
+alineate la cheltuieli, potrivit Clasificației indicatorilor privind
+finanțele publice, aprobată prin Ordinul ministrului finanțelor
+publice nr. 1.954/2005.
+(7) Cheltuielile spitalului se evidențiază în macheta de buget
+pe structura clasificației economice și funcționale pe total
+cheltuieli și, separat, cheltuielile privind activitatea finanțată din
+venituri proprii (exclusiv subvențiile), cheltuielile privind
+activitățile finanțate din sume de la bugetul de stat, bugetul local,
+bugetul constituit din contribuțiile instituite pentru producerea,
+importul și publicitatea pentru produse din tutun și alcool,
+precum și, după caz, din alte surse de venituri a căror utilizare
+este stabilită prin lege.
+(8) Bugetul de venituri si cheltuieli se elaborează în condiții
+de echilibru financiar între venituri și cheltuieli.
+
+(9) Excedentul bugetului de venituri și cheltuieli se stabilește
+ca diferență între totalul veniturilor și totalul cheltuielilor. Bugetul
+spitalelor publice poate fi încheiat cu excedent sau cu excedent
+zero, când veniturile sunt egale cu cheltuielile. Excedentul anual
+rezultat din execuția bugetului de venituri și cheltuieli se
+reportează în anul următor și se utilizează pentru cheltuieli
+curente și de capital. În situația în care spitalul public a rămas cu
+excedent de casă la finele anului precedent, pentru utilizarea
+acestuia în noul exercițiu bugetar se procedează astfel:
+a) cheltuielile pentru exercițiul curent se măresc în limita
+excedentului înregistrat la finele anului precedent și care se află
+sub formă de disponibilități în contul curent deschis la Trezoreria
+Statului. În această situație cheltuielile activității curente vor fi
+mai mari decât veniturile curente și se echilibrează prin poziția
+ăExcedent din anul precedent pentru echilibrarea cheltuielilor în
+anul curent”. Ca urmare, în acest caz, se va completa la finele
+machetei rubrica ăDeficit”;
+b) este interzisă cuprinderea excedentului din anul precedent
+în capitolul ăVenituri”, deoarece acestea nu aparțin anului curent.
+2.2. Elaborarea și fundamentarea bugetului de venituri și
+cheltuieli
+
+(1) În etapa de elaborare a bugetului de venituri și cheltuieli
+comitetul director trebuie să analizeze resursele posibile și
+cheltuielile necesare, reflectate într-un proiect de buget
+fundamentat pe principalii indicatori fizici: volumul serviciilor
+medicale ce urmează a fi furnizate, alte resurse,
+dezvoltarea/restructurarea unor activități, după caz.
+(2) Proiectul bugetului de venituri și cheltuieli se elaborează
+de către comitetul director pe baza propunerilor prezentate de
+conducătorii secțiilor și compartimentelor din structura spitalului,
+având în vedere:
+a) estimarea veniturilor ce urmează a se realiza din
+activitatea de furnizare a serviciilor medicale, alte prestații și
+activități;
+b) cheltuielile necesare și prioritățile stabilite pentru
+activitatea de acordare a asistenței medicale și alte activități;
+c) realizarea echilibrului financiar între veniturile și cheltuielile
+cuprinse în proiectul de buget.
+Propunerile prezentate sunt centralizate de către
+compartimentul financiar-contabil al spitalului.
+(3) Fundamentarea bugetului de venituri și cheltuieli
+reprezintă un complex de analize și decizii prin care managerul
+evaluează nivelul surselor de venituri și perioada în care
+urmează să se încaseze, dimensionează categoriile de cheltuieli
+necesare, le prioritizează și le prevede în strânsă corelare cu
+perioada de încasare a veniturilor.
+(4) Proiectul bugetului de venituri și cheltuieli are la bază
+principiul specializării bugetare, potrivit căruia veniturile și
+cheltuielile se înscriu pe surse de proveniență și pe categorii de
+cheltuieli, grupate după natura lor economică și destinația
+acestora, potrivit clasificației bugetare.
+(5) Fundamentarea veniturilor spitalului se face pentru
+fiecare sursă de venit, prin indicatori care să conducă la
+stabilirea corectă a nivelului acestora. Analiza cuprinde situația
+veniturilor realizate în ultimii 3 ani.
+(6) La fundamentarea veniturilor se au în vedere aspectele
+care reglementează sursele de venituri și condițiile specifice
+fiecărei unități de furnizare a serviciilor medicale, după cum
+urmează:
+a) la estimarea veniturilor din contractele încheiate cu casele
+de asigurări de sănătate pentru furnizarea serviciilor medicale se
+iau în considerație:
+— condițiile de contractare prevăzute anual prin Contractulcadru privind condițiile acordării asistenței medicale în cadrul
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+sistemului de asigurări sociale de sănătate, normele de aplicare
+ale acestuia, precum și celelalte reglementări în domeniu;
+— numărul de servicii pe structură (spitalizare continuă, de
+zi etc.) estimat a se realiza și finanța;
+— modalitatea de plată (DRG, plata pe caz externat, plata
+pe serviciu, plata pe zi de spitalizare, cronici, UPU etc.);
+— inflația prognozată;
+— analiza valorii serviciilor în anul curent față de anul
+precedent și identificarea cauzelor plusurilor și minusurilor
+constatate;
+b) la estimarea veniturilor realizate din serviciile prestate
+persoanelor fizice și juridice se au în vedere:
+— numărul estimat al persoanelor solicitante;
+— volumul și natura serviciilor medicale solicitate la cerere;
+— veniturile medii pe persoană;
+— analiza comparativă a estimărilor din anul curent cu
+realizările din anul precedent;
+c) veniturile din asocieri investiționale se estimează pe baza
+contractelor în curs și care rămân valabile și în anul curent sau
+pe baza noilor contracte;
+d) alte venituri, în concordanță cu volumul prestărilor de
+servicii medicale, inclusiv actele adiționale, având ca nivel de
+referință realizările din anul anterior, creșterea sau reducerea
+capacității unității de a presta servicii medicale, indicele de
+inflație prognozat de către instituțiile abilitate, noi surse de
+venituri etc.;
+e) la estimarea veniturilor din contractele încheiate cu
+direcțiile de sănătate publică județene și a municipiului București
+se iau în considerație condițiile de contractare, modalitățile
+privind executarea și decontarea sumelor, destinația acestora;
+f) la estimarea veniturilor din contractele încheiate cu
+institutele de medicină legală din centrele medicale universitare
+la care sunt arondate se iau în considerație condițiile de
+contractare, modalitățile privind executarea și decontarea
+sumelor, destinația acestora.
+(7) Fundamentarea cheltuielilor se efectuează de comitetul
+director împreună cu șefii de secții și compartimente,
+urmărindu-se în principal:
+a) utilizarea resurselor materiale și bănești pentru cheltuieli
+oportune și strict necesare;
+b) reducerea cheltuielilor materiale, de funcționare și
+administrare prin stabilirea de norme proprii de consum;
+c) aprovizionarea cu materiale sanitare, medicamente pentru
+asigurarea tratamentului adecvat, în limita cerințelor actelor
+medicale, evitându-se formarea de stocuri;
+d) stabilirea la nivelul spitalului de proceduri pentru actele
+medicale furnizate la nivelul secțiilor, stabilirea listelor proprii de
+medicamente, materiale sanitare și reactivi, aprobate de
+comitetul director;
+e) stabilirea necesarului de lucrări de întreținere pe bază de
+studii și documentații tehnice în cadrul unor strategii de
+îmbunătățire a calității actului medical;
+f) evaluarea produselor din gestiuni și eliberarea acestora în
+funcție de cerințele actelor medicale și de respectarea scopului
+pentru care au fost achiziționate;
+g) întărirea controlului intern asupra consumurilor pe secții și
+compartimente;
+h) reducerea cheltuielilor ca urmare a externalizării unor
+servicii și activități, potrivit normelor legale.
+
+9
+
+(8) La fundamentarea cheltuielilor se mai au în vedere
+următoarele:
+a) indicatorii fizici cu ajutorul cărora se poate aprecia efortul
+financiar (număr de salariați, număr de cazuri externate, număr
+de paturi, număr de zile de spitalizare etc.);
+b) evoluția cheltuielilor pe ultimii 3 ani, pentru a constata
+tendința de creștere sau de reducere a cheltuielilor;
+c) evaluarea cheltuielilor pe fiecare secție sau compartiment
+și a responsabilităților stabilite conducătorilor acestor structuri;
+d) normele și reglementările privind efectuarea cheltuielilor
+(alocații de hrană, salarii etc.);
+e) eliminarea sau reducerea practicilor anterioare care au
+condus la cheltuieli neeconomicoase.
+(9) Estimarea cheltuielilor necesită efectuarea calculelor
+pentru stabilirea necesarului de resurse umane, materiale și de
+capital, stabilirea cheltuielilor directe, indirecte și generale
+necesare pentru realizarea serviciilor medicale. La stabilirea
+principalelor niveluri de cheltuieli se au în vedere prevederile
+legale ce reglementează fiecare natură de cheltuieli, precum și
+alte elemente de calcul, după cum urmează:
+a) cheltuieli de personal (titlul 10):
+— în domeniul politicii de personal și al structurii
+organizatorice managerul stabilește și aprobă numărul de
+personal pe categorii și locuri de muncă, propune structura
+organizatorică și reorganizarea unității. La stabilirea numărului
+de posturi se are în vedere realizarea furnizării serviciilor
+medicale contractate, cu îmbunătățirea calității la acordarea
+actului medical;
+— calculul numărului de personal și al necesarului de
+cheltuieli de personal se face pe baza statului de funcții aprobat,
+prin evaluarea drepturilor de personal, în detaliu, pe structura
+clasificației indicatorilor financiari, pentru întregul personal, pe
+baza organigramei unității, pe fiecare secție și compartiment ale
+spitalului;
+— numărul de posturi, structura acestora și cheltuielile cu
+salariile se aprobă ca anexă la bugetul de venituri și cheltuieli al
+fiecărei unități sanitare publice;
+— numărul de posturi aprobat prin bugetul fiecărei unități
+sanitare publice nu poate fi depășit;
+— începând cu data de 1 ianuarie 2011, cheltuielile aferente
+drepturilor de personal reprezintă maximum 70% din sumele
+decontate de casele de asigurări de sănătate din Fondul
+național unic al asigurărilor sociale de sănătate pentru serviciile
+medicale furnizate, precum și din sumele asigurate din bugetul
+Ministerului Sănătății cu această destinație;
+b) bunuri și servicii (titlul 20).
+Evaluarea cheltuielilor pentru bunuri și servicii se
+fundamentează pe fiecare alineat, avându-se în vedere:
+— necesarul calculat pe baza propunerilor primite de la
+fiecare secție și compartiment, stocul normat stabilit de unitate,
+stocul la finele anului precedent;
+— numărul de cazuri externate;
+— alocațiile legale de hrană pe tipuri de secții;
+— necesarul de materiale sanitare, medicamente, reactivi
+etc.;
+— necesarul fundamentat pentru cheltuieli de reparații
+curente;
+— alte activități și consumuri necesare;
+c) cheltuielile de capital se estimează ținându-se cont de
+propunerile justificate ale secțiilor și compartimentelor, pe bază
+de documentații tehnice, în condițiile legii. Cheltuielile de capital
+se înscriu în lista de investiții ce constituie anexă la bugetul de
+venituri și cheltuieli, conform Ordinului ministrului finanțelor
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+nr. 2.487/1996 pentru aprobarea Normelor metodologice privind
+finanțarea investițiilor instituțiilor publice prin trezoreria statului și
+a Normelor metodologice privind aplicarea de către trezoreriile
+statului a mecanismului de finanțare a investițiilor instituțiilor
+publice, cu modificările și completările ulterioare. În cadrul
+cheltuielilor de capital, cheltuielile din Fondul de dezvoltare al
+spitalului se evidențiază distinct în conformitate cu condițiile
+cuprinse în prezentele norme metodologice.
+(10) Spitalele publice din rețeaua autorităților administrației
+publice locale pot primi sume de la bugetul de stat și din
+veniturile proprii ale Ministerului Sănătății, alocate prin transfer
+autorităților administrației publice locale, pentru:
+— finanțarea obiectivelor noi de investiții, de investiții în
+continuare aflate în derulare, nominalizate în listele de investiții,
+anexă la bugetul Ministerului Sănătății din legea bugetului;
+— dotarea cu aparatură medicală;
+— reparații capitale;
+— obiective de modernizare, transformare și extindere a
+construcțiilor existente și expertizare, proiectare și consolidare
+a clădirilor.
+Sumele se alocă în conformitate cu criteriile și condițiile
+prevăzute de lege, aprobate anual prin ordin al ministrului
+sănătății.
+(11) În cazul în care spitalul derulează programe naționale
+de sănătate, calculul necesarului se face având în vedere
+prevederile cuprinse în normele de organizare și finanțare a
+programelor naționale de sănătate în vigoare la data
+fundamentării bugetului de venituri și cheltuieli.
+3. Negocierea contractului de furnizare de servicii
+medicale și aprobarea bugetului de venituri și cheltuieli
+(1) Contractul de furnizare de servicii medicale se negociază
+de către manager cu conducerea casei de asigurări de sănătate,
+în condițiile stabilite în contractul-cadru și în normele de aplicare
+a acestuia.
+(2) Reprezentanții direcțiilor de sănătate publică sau ai
+Ministerului Sănătății, după caz, în funcție de subordonare, au
+rol de supraveghere a procesului de negociere, urmărind ca
+aceasta să se realizeze pe baza prevederilor legale, colaborând
+în acest sens cu reprezentanții Casei Naționale de Asigurări de
+Sănătate și ai caselor de asigurări de sănătate, după caz.
+(3) În cazul refuzului uneia dintre părți de a semna contractul
+de furnizare de servicii medicale, se constituie o comisie de
+mediere formată din reprezentanți ai Ministerului Sănătății și ai
+Casei Naționale de Asigurări de Sănătate, care în termen de
+maximum 10 zile soluționează divergențele.
+(4) În cazul spitalelor publice aparținând autorităților
+administrației publice locale, comisia de mediere este formată
+din reprezentanți ai autorităților administrației publice locale și
+ai Casei Naționale de Asigurări de Sănătate.
+(5) Proiectul bugetului de venituri și cheltuieli se definitivează
+după semnarea contractului de furnizare de servicii medicale cu
+casa de asigurări de sănătate.
+(6) Proiectul bugetului spitalului public, precum și bugetele
+secțiilor și compartimentelor spitalului se prezintă, pentru
+avizare, consiliului de administrație al spitalului.
+(7) Bugetul de venituri și cheltuieli se aprobă de ordonatorul
+de credite ierarhic superior, la propunerea managerului. Bugetul
+de venituri și cheltuieli va fi însoțit de o notă de prezentare a
+bugetului spitalului care va cuprinde enumerarea surselor de
+venituri și a sumelor corespunzătoare fiecărei surse de venit,
+precum și măsurile preconizate de spital pentru încadrarea
+cheltuielilor în prevederile bugetare de cheltuieli și în nivelul
+veniturilor estimate a fi realizate. În cazul existenței unor obligații
+către furnizori la data întocmirii bugetului de venituri și cheltuieli,
+
+acestea vor fi evidențiate separat, stabilindu-se posibilitățile și
+intervalul în care vor fi achitate.
+(8) După aprobare, bugetul se repartizează pe secții și
+compartimente. Bugetele pe secții și compartimente se
+comunică șefilor de secție și intră în execuție odată cu
+încheierea contractului de administrare.
+(9) Un exemplar al bugetului de venituri și cheltuieli aprobat
+(în copie) se prezintă unității Trezoreriei Statului la care unitatea
+sanitară are conturile deschise.
+4. Execuția bugetului de venituri și cheltuieli
+(1) Veniturile unității sanitare publice se încasează, se
+administrează, se utilizează și se contabilizează potrivit
+dispozițiilor legale aplicabile unităților finanțate integral din
+venituri proprii. Veniturile se înregistrează în contabilitatea
+spitalului în conturile corespunzătoare de venituri la momentul
+creării lor.
+(2) Sumele aprobate la cheltuieli, în cadrul cărora se
+angajează, se ordonanțează și se efectuează plăți, reprezintă
+limite maxime, care nu pot fi depășite. Angajarea cheltuielilor se
+face numai în limita creditelor bugetare aprobate.
+(3) Cheltuielile înscrise în bugetul de venituri și cheltuieli au
+destinație precisă și limitată și nu pot fi efectuate dacă nu au
+temei legal.
+(4) Documentele privind angajarea, lichidarea și
+ordonanțarea pentru propunerile privind cheltuielile cu
+medicamentele, materialele sanitare se emit de către secțiile din
+spital, care reprezintă compartimentele de specialitate, și se
+semnează de șeful de secție sau de înlocuitorul acestuia, în
+calitate de conducător al compartimentului de specialitate.
+(5) Angajarea, lichidarea și ordonanțarea cheltuielilor se
+efectuează pe parcursul exercițiului financiar, în limita
+disponibilului de prevederi la cheltuieli, pe subdiviziunile
+(subcapitol, titlu, articol și alineat) la care se încadrează plata
+respectivă, și a disponibilului din cont.
+(6) Plățile se efectuează de către persoanele care
+îndeplinesc funcția de contabil, stabilite de către conducătorul
+instituției sanitare publice, în conformitate cu Ordinul ministrului
+finanțelor publice nr. 1.792/2002, cu modificările și completările
+ulterioare. Obligațiile de plată către furnizori se înregistrează în
+contabilitatea spitalului pe baza documentelor justificative care
+reflectă crearea obligației de plată, și nu când are loc plata.
+(7) Sumele rămase neutilizate la finele anului, cu excepția
+sumelor alocate de la bugetul de stat și din veniturile proprii ale
+Ministerului Sănătății, se reportează în anul următor și se
+utilizează pentru cheltuieli curente și de capital.
+(8) Sumele care se decontează în luna ianuarie, aferente
+serviciilor medicale acordate în luna decembrie în baza
+contractelor încheiate cu casa de asigurări de sănătate, inclusiv
+regularizările aferente anului precedent, se includ în bugetul de
+venituri și cheltuieli și reprezintă venituri ale anului curent.
+(9) Sumele reprezentând drepturile de personal aferente lunii
+decembrie a anului curent se înregistrează pe cheltuiala
+acestui an.
+(10) Execuția bugetului de venituri și cheltuieli se derulează
+prin conturile deschise la unitățile teritoriale ale Trezoreriei
+Statului pe seama spitalului public, iar operațiunile respective
+sunt înregistrate în contabilitatea proprie, potrivit normelor și
+procedurilor aprobate pentru instituțiile publice. Pentru veniturile
+încasate și plățile dispuse în limita bugetului de venituri și
+cheltuieli (pe subdiviziunile acestuia), instituția sanitară publică
+are deschise la Trezoreria Statului următoarele conturi:
+• contul 5041 ăDisponibil din activitatea sanitară conform
+Legii nr. 145/1997”, în care se înregistrează:
+— veniturile proprii încasate din activitatea de prestări de
+servicii medicale pe bază de contracte încheiate cu casa de
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+asigurări de sănătate, acte adiționale la contracte, venituri din
+servicii medicale la cerere;
+— venituri din închirieri, asociații investiționale în domeniul
+medical ori de cercetare științifică medicală și farmaceutică,
+editarea și difuzarea unor publicații cu caracter medical, donații
+și sponsorizări, alte surse;
+— plățile dispuse în limita prevederilor din bugetul de venituri
+și cheltuieli.
+(10.1) Operațiunile efectuate și evidențiate în contul de mai
+sus se înregistrează în mod corespunzător în contabilitatea
+proprie în conturile următoare:
+— 560 ăDisponibil al instituțiilor publice finanțate integral din
+venituri proprii”;
+— 706 ăVenituri din chirii”, cod 30.10;
+— 701 ăVenituri din vânzarea produselor finite”,
+cod 33.10.16;
+— 704 ăVenituri din lucrări executate și servicii prestate”,
+cod 33.10 (mai puțin 33.10.16);
+— 779 ăVenituri din bunuri și servicii primite cu titlu gratuit”,
+cod 37.10;
+— 791 ăVenituri din valorificarea unor bunuri ale statului”,
+cod 39.10;
+• în contul 50.47 ăDisponibil din alocații bugetare cu
+destinație specială”, deschis la unitățile teritoriale ale Trezoreriei
+Statului și a municipiului București, nu se mai încasează sume,
+acestea urmând să fie încasate în următoarele conturi analitice:
+a) 50.47.03 ăDisponibil din sume primite de la bugetul de
+stat” — pentru gestionarea sumelor primite de la bugetul de stat;
+b) 50.47.04 ăDisponibil din sume primite de la bugetul
+local” — pentru gestionarea sumelor primite de la bugetul local;
+c) 50.47.10 ăDisponibil din sume primite din bugetul constituit
+din contribuții asupra produselor din tutun și alcool” — pentru
+gestionarea sumelor primite din bugetul constituit din contribuții
+asupra producerii, comercializării și publicității asupra
+produselor din tutun și alcool.
+Sumele existente la data emiterii prezentului ordin în soldul
+contului 50.47 ăDisponibil din alocații bugetare cu destinație
+specială”, deschis pe numele unităților sanitare publice cu paturi
+al căror management se transferă către unitățile administrației
+publice locale, pot fi utilizate din acest cont sau pot fi transferate
+în conturile analitice, în funcție de opțiunea titularului contului,
+cel mai târziu până la finele anului 2010.
+(10.2) Operațiunile efectuate și evidențiate în contul de mai
+sus se înregistrează în mod corespunzător în contabilitatea
+proprie în conturile:
+a) pentru sumele primite de la bugetul de stat prin bugetul
+Ministerului Sănătății și al Ministerului Educației, Cercetării,
+Tineretului și Sportului se utilizează:
+— contul 551.1 ăDisponibil din alocații bugetare cu destinație
+specială — buget de stat”;
+— contul 773.1 ăVenituri din alocații bugetare cu destinație
+specială — buget de stat” (36.10.50.02);
+— conturile 551.1 și 773.1 se dezvoltă pe analitice, după caz;
+b) pentru sumele primite din bugetul constituit din contribuții
+instituite pentru combaterea consumului excesiv de tutun și
+alcool se utilizează:
+— contul 551.2 ăDisponibil din alocații bugetare cu destinație
+specială — contribuții instituite pentru combaterea consumului
+excesiv de tutun și alcool”;
+— contul 773.2 ăVenituri din alocații bugetare cu destinație
+specială — contribuții asupra producerii, comercializării și
+publicității pentru produse din tutun și alcool” (36.10.50.03);
+
+11
+
+c) pentru sumele primite de la bugetele locale se utilizează:
+— contul 551.3 ăDisponibil din alocații bugetare cu destinație
+specială — buget local”;
+— contul 773.3 ăVenituri din alocații bugetare cu destinație
+specială — buget local” (36.10.50.01).
+(11) În conformitate cu pct. 5 din normele metodologice
+aprobate prin Ordinul ministrului finanțelor publice
+nr. 1.792/2002, cu modificările și completările ulterioare,
+managerii spitalelor, în baza atribuțiilor pe care le îndeplinesc
+ca ordonatori terțiari de credite, au obligația organizării evidenței
+creditelor bugetare aprobate, a angajamentelor bugetare și
+legale, folosindu-se în acest scop conturile în afara bilanțului:
+— contul 8060 ăCredite bugetare aprobate”;
+— contul 8066 ăAngajamente bugetare”;
+— contul 8067 ăAngajamente legale”.
+Conturile menționate mai sus se desfășoară în evidența
+analitică conform reglementărilor în vigoare, pentru activitatea
+realizată din venituri proprii și pentru cheltuielile efectuate din
+sumele primite din alocații cu destinație specială, pe capitole și,
+în cadrul acestora, pe titluri, articole și alineate. Pentru
+cheltuielile din bugetul de stat conturile respective se desfășoară
+pe fiecare acțiune și program, pe titluri, articole și alineate.
+(12) Managerii spitalelor au obligația de a analiza și raporta
+lunar, trimestrial și anual execuția bugetului de venituri și
+cheltuieli ordonatorului de credite ierarhic superior. Analiza se
+efectuează atât la nivelul bugetelor secțiilor și compartimentelor,
+cât și pe total spital, pentru a se identifica aspectele care
+influențează negativ execuția bugetară și, implicit, realizarea
+contractului de administrare.
+5. Fondul de dezvoltare a spitalului
+(1) Fondul de dezvoltare a spitalului se utilizează pentru
+dotarea spitalului și se constituie din următoarele surse:
+a) sume rezultate din valorificarea bunurilor disponibile,
+precum și din cele casate cu respectarea dispozițiilor legale în
+vigoare;
+b) sponsorizări cu destinația ădezvoltare”;
+c) o cotă de 20% din excedentul bugetului de venituri și
+cheltuieli înregistrat la finele exercițiului financiar;
+d) sume rezultate din închirieri, în condițiile legii;
+e) cotă-parte de până la 5% din amortizarea calculată lunar
+pentru activele fixe, exclusiv clădirile, și preliminată pe an,
+potrivit anexei nr. 4a), cu condiția păstrării echilibrului financiar.
+Calculul sumei constituite din amortizare se efectuează în baza
+datelor din Nota de calcul privind modul de constituire a coteipărți din amortizarea activelor fixe, cuprinsă în Fondul de
+dezvoltare al spitalului, potrivit anexei nr. 4b). Suma calculată
+se reține din excedentul anului precedent.
+(2) Evidența cheltuielilor din Fondul de dezvoltare al spitalului
+se face pe subdiviziunile titlului 70 ăCheltuieli de capital” al
+Clasificației indicatorilor privind finanțele publice, aprobată prin
+Ordinul ministrului finanțelor publice nr. 1.954/2005.
+(3) Sumele neutilizate la finele anului din Fondul de
+dezvoltare al spitalului se reportează în anul următor cu aceeași
+destinație.
+(4) Soldul contului de disponibil pentru Fondul de dezvoltare
+al spitalului se virează în contul 5041, deschis la unitățile
+Trezoreriei Statului.
+6. Dispoziții finale
+(1) Serviciile medicale realizate de spitale peste valoarea
+contractată se facturează distinct. Contravaloarea acestor
+servicii se prevede în bugetul unității, atât la venituri, cât și la
+cheltuieli.
+(2) Anexele nr. 1—3, 4a) și 4b) fac parte integrantă din
+prezentele norme metodologice.
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+ANEXA Nr. 11)
+la normele metodologice
+
+— Model —
+
+1) Anexa
+
+nr. 1 este reprodusă în facsimil.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+13
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+15
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+17
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+19
+
+20
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+21
+
+22
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+23
+
+24
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+25
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+ANEXA Nr. 21)
+la normele metodologice
+
+— Model —
+
+1) Anexa
+
+nr. 2 este reprodusă în facsimil.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+27
+ANEXA Nr. 31)
+la normele metodologice
+
+— Model —
+
+1) Anexa
+
+nr. 3 este reprodusă în facsimil.
+
+1) Anexa
+
+nr. 4a) este reprodusă în facsimil.
+
+— Model —
+
+ANEXA Nr. 4a1)
+la normele metodologice
+
+28
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+29
+ANEXA Nr. 4b1)
+la normele metodologice
+
+— Model —
+
+1) Anexa
+
+nr. 4b) este reprodusă în facsimil.
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+
+MINISTERUL SĂNĂTĂȚII
+
+ORDIN
+pentru modificarea și completarea Ordinului ministrului sănătății nr. 1.093/2004
+privind abilitarea laboratoarelor de toxicologie pentru efectuarea determinărilor
+de noxe profesionale și pentru modificarea Normelor sanitare de bază pentru desfășurarea
+în siguranță a activităților nucleare, aprobate prin Ordinul ministrului sănătății nr. 381/2004
+Văzând Referatul de aprobare al Direcției sănătate publică și control în sănătate publică cu nr. Cs.A. 6.885 din 25 iunie 2010,
+având în vedere prevederile:
+— Ordonanței de urgență a Guvernului nr. 49/2009 privind libertatea de stabilire a prestatorilor de servicii și libertatea de
+a furniza servicii în România, aprobată cu modificări și completări prin Legea nr. 68/2010;
+— art. 41 din Legea nr. 95/2006 privind reforma în domeniul sănătății, cu modificările și completările ulterioare,
+în temeiul art. 7 alin. (4) din Hotărârea Guvernului nr. 144/2010 privind organizarea și funcționarea Ministerului Sănătății,
+cu completările ulterioare,
+ministrul sănătății emite următorul ordin:
+Art. I. — Ordinul ministrului sănătății nr. 1.093/2004 privind
+abilitarea laboratoarelor de toxicologie pentru efectuarea
+determinărilor de noxe profesionale, publicat în Monitorul Oficial
+al României, Partea I, nr. 840 din 14 septembrie 2004, se
+modifică și se completează, după cum urmează:
+1. Articolul 6 se modifică și va avea următorul cuprins:
+ăArt. 6. — (1) Abilitarea este acordată prestatorului pe durată
+nelimitată.
+(2) În situația în care au apărut schimbări în urma cărora
+prestatorul nu mai îndeplinește condițiile de abilitare, autoritatea
+competentă poate retrage abilitarea acordată prestatorului în
+cauză.
+(3) Abilitarea se supune condiției îndeplinirii continue a
+cerințelor.”
+2. După articolul 6 se introduce un nou articol, articolul 61,
+cu următorul cuprins:
+ăArt. 61. — (1) Procedurile și formalitățile de abilitare trebuie
+să fie clare și ușor accesibile, să fie făcute publice în avans și să
+ofere solicitanților garanția că cererea lor este procesată în mod
+obiectiv și imparțial.
+(2) Cererea solicitantului este procesată în cel mai scurt
+termen, dar nu mai mult de 30 de zile calendaristice de la data
+depunerii documentației complete. Termenul poate fi prelungit
+o singură dată de către autoritatea competentă, pentru o
+perioadă de maximum 15 zile calendaristice. Valabilitatea
+documentelor depuse inițial nu este afectată de prelungirea
+dispusă de autoritatea competentă. Prelungirea termenului de
+abilitare, precum și durata acestei prelungiri trebuie motivate în
+mod corespunzător și notificate solicitantului înainte de
+expirarea termenului inițial.
+(3) Abilitarea se consideră acordată în situația în care
+autoritățile competente nu au răspuns în termenul prevăzut la
+alin. (2). Cu toate acestea, se poate stabili un regim diferit în
+
+cazul în care acest lucru este justificat de motive imperative de
+interes general, inclusiv un interes legitim al unei terțe părți.
+(4) Autoritatea competentă transmite solicitantului o
+confirmare de primire a cererii în termen de 5 zile calendaristice
+de la data primirii cererii. Confirmarea de primire a cererii trebuie
+să precizeze următoarele:
+a) termenul de procesare a cererii;
+b) căile de atac disponibile;
+c) după caz, mențiunea că, în lipsa unui răspuns în termenul
+specificat, abilitarea se consideră acordată.
+(5) În cazul unei cereri sau al unei documentații incomplete,
+solicitantul este informat în cel mai scurt timp, dar nu în mai mult
+de 5 zile lucrătoare de la primirea cererii, cu privire la
+necesitatea transmiterii de documente suplimentare, precum și
+cu privire la consecințele asupra termenului de procesare a
+cererii, prevăzut la alin. (2).
+(6) În cazul în care o cerere este respinsă pentru motive de
+natură procedurală, solicitantul este informat în cel mai scurt
+termen, dar nu în mai mult de 5 zile lucrătoare de la depunerea
+cererii.”
+Art. II. — Normele sanitare de bază pentru desfășurarea în
+siguranță a activităților nucleare, aprobate prin Ordinul
+ministrului sănătății nr. 381/2004, publicat în Monitorul Oficial al
+României, Partea I, nr. 527 din 11 iunie 2004, se modifică după
+cum urmează:
+1. În anexa nr. 2, la litera C ăConținutul avizului sanitar”,
+punctul 11 va avea următorul cuprins:
+ă11. PRECIZAREA: «Prezentul aviz intră în vigoare la data
+de .......................».”
+2. În anexa nr. 2, la litera F ăConținutul autorizației
+sanitare”, punctul 11 va avea următorul cuprins:
+ă11. PRECIZAREA: «Prezenta autorizare intră în vigoare la
+data de .......................».”
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 529/29.VII.2010
+3. În anexa nr. 2, litera G ăCircuitul documentelor în
+vederea avizării/autorizării sanitare de către DSP” va avea
+următorul cuprins:
+ăG. CIRCUITUL DOCUMENTELOR ÎN VEDEREA
+AVIZĂRII/AUTORIZĂRII SANITARE DE CĂTRE DSP
+1.1.
+Solicitantul
+întocmește
+documentația
+de
+avizare/autorizare, conform procedurilor în vigoare (anexa nr. 2
+la norme).
+1.2. Procedurile și formalitățile de autorizare trebuie să fie
+clare și ușor accesibile, să fie făcute publice în avans și să ofere
+solicitanților garanția că cererea lor este procesată în mod
+obiectiv și imparțial.
+2. Documentația se depune de către solicitant la Biroul
+pentru avize și autorizații sanitare din cadrul direcției de sănătate
+publică a județului care are în structură laborator de igiena
+radiațiilor ionizante. Direcțiile de sănătate publică care au în
+structura lor laboratoare de igiena radiațiilor ionizante și
+arondarea teritorială a direcțiilor de sănătate publică care nu au
+în structura lor laboratoare de igiena radiațiilor ionizante sunt
+menționate în Ordinul ministrului sănătății nr. 431/2004 privind
+organizarea și funcționarea laboratoarelor și compartimentelor
+de igiena radiațiilor ionizante aflate în rețeaua ministerului
+sănătății, cu modificările ulterioare.
+3. Biroul pentru avize și autorizații înregistrează
+documentația și o repartizează laboratorului de igiena radiațiilor
+ionizante.
+4. Pentru o bună întocmire a documentației necesare și
+pentru operativitate, solicitantul poate consulta și direct
+laboratorul de igiena radiațiilor teritorial, înaintea înregistrării
+documentației la Biroul pentru avize și autorizații.
+5.1. Cererea solicitantului este procesată în cel mai scurt
+termen, dar nu mai mult de 30 de zile calendaristice de la data
+depunerii documentației complete. Termenul poate fi prelungit
+o singură dată de către autoritatea competentă pentru o
+perioadă de maximum 15 zile calendaristice. Valabilitatea
+documentelor depuse inițial nu este afectată de prelungirea
+dispusă de autoritatea competentă. Prelungirea termenului de
+autorizare, precum și durata acestei prelungiri trebuie motivate
+în mod corespunzător și notificate solicitantului, de regulă
+înainte de expirarea termenului inițial.
+5.2. În cazul unei cereri sau al unei documentații incomplete,
+solicitantul este informat în termen de 5 zile lucrătoare de la
+primirea cererii, cu privire la necesitatea completării
+documentației și transmiterii documentelor solicitate, precum și
+cu privire la consecințele termenului de procesare a cererii
+prevăzut la punctul 5.1.
+
+5.3. În cazul în care o cerere este respinsă pentru motive de
+natură procedurală, solicitantul este informat în cel mai scurt
+termen, dar nu mai mult de 5 zile lucrătoare de la depunerea
+cererii.
+6.1. Autorizația este acordată unui prestator pe durată
+nelimitată.
+6.2. Autorizația se supune condiției îndeplinirii continue a
+cerințelor. În acest sens autorizația sanitară de funcționare se
+vizează anual de către autoritatea emitentă, cu excepția
+autorizațiilor pentru laboratoarele de roentgendiagnostic dentar
+dotate cu instalații radiologice dentare având tensiunea
+radiogenă ≤ 80 kV, autorizații care se vizează la 2 ani.
+6.3. În perioada dintre două vize, în cazul în care au fost
+efectuate modificări față de documentația și situația pe baza
+cărora s-a emis autorizația, se solicită emiterea unei noi
+autorizații de funcționare.
+6.4. Viza menționată la punctul 6.2 se aplică pe același
+formular de autorizație, pe verso sau în rubrica special destinată,
+cuprinzând data, numărul referatului, numele persoanei care a
+întocmit referatul și ștampila conducerii direcției de sănătate
+publică.
+7. Anularea autorizației sanitare se poate face în următoarele
+situații:
+a) funcționarea în alte condiții decât cele existente la data
+autorizării;
+b) neremedierea deficiențelor care pot aduce atingere
+sănătății publice;
+c) funcționarea unității cu încălcarea repetată a normelor
+legale de igienă;
+d) retragerea autorizației Comisiei Naționale pentru Controlul
+Activităților Nucleare (CNCAN).
+8. Autorizația pentru obiectivele/activitățile cu surse și
+generatori de radiații care se autorizează pe faze de realizare
+este precedată de obținerea avizelor sanitare, după caz, de
+amplasare, construcție, reamenajare, conservare și dezafectare
+instalații nucleare și radiologice, conform tabelului prevăzut în
+anexa nr. 1 la norme.
+9.1. Documentațiile de avizare/autorizare, însoțite de
+referatele de evaluare și copii după avizele/autorizațiile
+eliberate, se arhivează, în condiții și spații adecvate de păstrare
+la laboratorul de igiena radiațiilor ionizante, precum și la direcțiile
+de sănătate publică teritoriale în care se află
+obiectivul/activitatea autorizate.
+9.2. Durata de păstrare a documentelor de la punctul 8:
+durata de viață a obiectivului/activității plus 30 de ani.”
+Art. III. — Prezentul ordin se publică în Monitorul Oficial al
+României, Partea I.
+
+p. Ministrul sănătății,
+Raed Arafat,
+subsecretar de stat
+București, 16 iulie 2010.
+Nr. 1.045.
+
+31
+
+ABONAMENTE LA PUBLICAȚIILE OFICIALE PE SUPORT FIZIC
+— Prețuri pentru anul 2010 —
+Nr.
+crt.
+
+Valoare
+(TVA 9% inclus) — lei
+
+Număr
+de apariții
+anuale
+
+Denumirea publicației
+
+12 luni
+
+3 luni
+
+1 lună
+
+900
+
+1.200
+
+330
+
+120
+
+100
+
+1.500
+
+140
+
+Monitorul Oficial, Partea a II-a
+
+200
+
+2.250
+
+200
+
+4.
+
+Monitorul Oficial, Partea a III-a
+
+500
+
+430
+
+40
+
+5.
+
+Monitorul Oficial, Partea a IV-a
+
+6.000
+
+1.720
+
+160
+
+6.
+
+Monitorul Oficial, Partea a VI-a
+
+240
+
+1.600
+
+150
+
+7.
+
+Monitorul Oficial, Partea a VII-a
+
+48
+
+540
+
+50
+
+8.
+
+Colecția Legislația României
+
+4
+
+450
+
+9.
+
+Colecția Hotărâri ale Guvernului României
+
+12
+
+750
+
+1.
+
+Monitorul Oficial, Partea I
+
+2.
+
+Monitorul Oficial, Partea I, limba maghiară
+
+3.
+
+120
+70
+
+NOTĂ:
+
+Monitorul Oficial, Partea I bis, se multiplică și se achiziționează pe bază de comandă.
+
+A B O N A M E N T E L A P R O D U S E L E Î N F O R M AT E L E C T R O N I C
+— Prețuri pentru anul 2010 —
+Abonamentul FLEXIBIL
+(Monitorul Oficial, Partea I + alte 3 părți ale Monitorului Oficial, la alegere)
+Lunar
+
+Produs
+
+Anual
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+AutenticMO
+
+40
+
+100
+
+250
+
+600
+
+1.320
+
+400
+
+1.000
+
+2.500
+
+6.000
+
+13.200
+
+ExpertMO
+
+90
+
+230
+
+580
+
+1.390
+
+3.060
+
+900
+
+2.250
+
+5.630
+
+13.510
+
+29.720
+
+Abonamentul COMPLET
+(Monitorul Oficial, Partea I + toate celelalte părți ale Monitorului Oficial)
+Lunar
+
+Produs
+
+Anual
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+AutenticMO
+
+50
+
+130
+
+330
+
+790
+
+1.740
+
+500
+
+1.250
+
+3.130
+
+7.510
+
+16.520
+
+ExpertMO
+
+110
+
+280
+
+700
+
+1.680
+
+3.700
+
+1.100
+
+2.750
+
+6.880
+
+16.510
+
+36.320
+
+Prețurile sunt exprimate în lei și conțin TVA.
+Mai multe informații puteți găsi pe site-ul www.expert-monitor.ro, unde puteți aplica on-line comanda.
+
+Cristina-Gabriela F. Popescu
+
+Motivul: Format electronic AUTENTIC, conform Legii nr. 202/1998, republicata.
+Locatia:Bucuresti
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+ăMonitorul Oficial” R.A., Str. Parcului nr. 65, sectorul 1, București; C.I.F. RO427282,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala ăUnirea” București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 021.318.51.29/150, fax 021.318.51.15, e-mail: marketing@ramo.ro, internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 021.401.00.70, fax 021.401.00.71 și 021.401.00.72
+Tiparul: ăMonitorul Oficial” R.A.
+Monitorul Oficial al României, Partea I, nr. 529/29.VII.2010 conține 32 de pagini.
+
+Prețul: 6,40 lei
+
+&JUYDGY|445154]
+ISSN 1453—4495
+
+

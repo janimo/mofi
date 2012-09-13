@@ -1,0 +1,1241 @@
+PARTEA
+
+Anul 171 (XV) Ñ Nr. 511
+
+I
+
+Miercuri, 16 iulie 2003
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+LEGI ȘI DECRETE
+
+318.
+
+Ñ Legea energiei electrice ......................................
+
+1Ð16
+
+453.
+
+Ñ Decret privind promulgarea Legii energiei
+electrice ......................................................................
+
+16
+
+LEGI
+
+ȘI
+
+DECRETE
+
+PARLAMENTUL ROMÂNIEI
+CAMERA DEPUTAÞILOR
+
+SENATUL
+
+LEGEA
+energiei electrice
+Parlamentul României
+
+adoptã prezenta lege.
+CAPITOLUL I
+Dispoziții generale
+
+Domeniul de reglementare
+
+Obiectivele legii
+
+Art. 1. Ñ (1) Prezenta lege creeazã cadrul de reglementare pentru desfãșurarea activitãților în
+sectorul energiei electrice și al energiei termice produse în cogenerare, în condiții de securitate și la
+standarde de calitate, în vederea utilizãrii optime a resurselor primare de energie și cu respectarea
+normelor de protecție a mediului.
+(2) Nu se supun dispozițiilor prezentei legi:
+a) acumulatorii electrici, grupurile electrogene mobile, instalațiile electrice amplasate pe vehicule
+de orice fel;
+b) sursele staționare de energie electricã în curent continuu;
+c) instalațiile energetice amplasate în marea teritorialã, care nu sunt racordate la rețeaua electricã;
+d) sursele electrice cu o putere activã instalatã sub 250 kW.
+Art. 2. Ñ Activitãțile în sectorul energiei electrice și al energiei termice produse în cogenerare
+trebuie sã se desfãșoare pentru realizarea urmãtoarelor obiective de bazã:
+a) asigurarea dezvoltãrii durabile a economiei naționale;
+b) diversificarea bazei de resurse energetice primare;
+c) crearea și asigurarea funcționãrii piețelor concurențiale de energie electricã;
+d) asigurarea accesului nediscriminatoriu și reglementat al tuturor participanților la piața de energie electricã, la rețelele electrice de interes public;
+
+2
+
+Înțelesul unor termeni și expresii
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 511/16.VII.2003
+e) transparența tarifelor, prețurilor și taxelor la energie electricã în cadrul unei politici de tarifare,
+urmãrind creșterea eficienței energetice pe ciclul de producere, transport, distribuție și utilizare a
+energiei electrice;
+f) constituirea stocurilor de siguranțã la combustibilii necesari pentru producerea energiei electrice
+și energiei termice produse în cogenerare;
+g) asigurarea funcționãrii interconectate a sistemului electroenergetic național cu sistemele
+electroenergetice ale țãrilor vecine și cu sistemele electroenergetice din Uniunea pentru Coordonarea
+Transportului Energiei Electrice (UCTE);
+h) promovarea utilizãrii surselor noi și regenerabile de energie;
+i) asigurarea protecției mediului la nivel local și global, în concordanțã cu tratatele la care
+România este parte;
+j) asigurarea mãsurilor de securitate împotriva actelor de terorism și sabotaj.
+Art. 3. Ñ În înțelesul prezentei legi, termenii folosiți se definesc dupã cum urmeazã:
+1. autoproducãtor de energie electricã Ñ persoana fizicã sau juridicã producãtoare, în afara activitãților de bazã, a energiei electrice, inclusiv a energiei termice în cogenerare necesare, în principal, consumului propriu.
+Autoproducãtorul poate participa la piața de energie ca titular de licențe de producere și
+furnizare sau consumator, în condițiile prezentei legi;
+2. acces la rețeaua electricã de interes public Ñ dreptul agenților economici care produc și/sau furnizeazã energie electricã, precum și al consumatorilor de energie electricã de a se racorda și de a
+folosi, în condițiile legii, rețelele electrice de transport și distribuție;
+3. agent economic din domeniul energiei electrice integrat pe verticalã Ñ persoana juridicã ce
+desfãșoarã douã sau mai multe dintre urmãtoarele activitãți: producere, transport, distribuție și furnizare a energiei electrice;
+4. agent economic din domeniul energiei electrice integrat pe orizontalã Ñ persoana juridicã ce
+desfãșoarã, pe lângã alte activitãți din afara sectorului energiei electrice, cel puțin una dintre
+urmãtoarele activitãți: producere, transport, distribuție și furnizare a energiei electrice;
+5. autoritate competentã Ñ Autoritatea Naționalã de Reglementare în Domeniul Energiei Ñ
+ANRE;
+6. avarie Ñ eveniment care se manifestã prin abateri periculoase de la parametrii funcționali
+prevãzuți de normele tehnice în vigoare;
+7. capacitate de interconexiune Ñ instalațiile și echipamentele prin care se realizeazã conectarea
+a douã sau mai multe sisteme electroenergetice;
+8. capacitate energeticã Ñ instalațiile de producere a energiei electrice sau energiei termice în
+cogenerare, rețele electrice și alte echipamente electroenergetice;
+9. centralã electricã Ñ ansamblu de instalații, construcții și echipamente necesare pentru producerea de energie electricã;
+10. centralã electricã de cogenerare (termoficare) Ñ ansamblu de instalații, construcții și echipamente necesare pentru producerea combinatã de energie electricã și termicã;
+11. client Ñ persoana fizicã sau juridicã cu care se tranzacționeazã energie electricã;
+12. consumator de energie electricã Ñ persoana fizicã sau juridicã ce cumpãrã energie electricã
+pentru consumul propriu și, eventual, pentru un subconsumator racordat la instalațiile sale;
+13. consumator eligibil de energie electricã Ñ consumatorul care poate sã aleagã furnizorul și sã
+contracteze direct cu acesta energia necesarã, având acces la rețelele de transport și/sau de
+distribuție;
+14. consumator captiv Ñ consumatorul care, din considerente tehnice, economice sau de reglementare, nu poate alege furnizorul;
+15. culoar de trecere (de funcționare) a liniei electrice Ñ suprafața terestrã situatã de-a lungul liniei
+electrice și spațiului aerian de deasupra sa în care se impun restricții din punct de vedere al
+coexistenței liniei cu elementele naturale, obiectele, construcțiile, instalațiile etc.; culoarul de trecere
+include zona de protecție și zona de siguranțã;
+16. distribuție Ñ transmiterea energiei electrice prin rețele de distribuție de la rețelele de transport sau de la producãtori cãtre instalațiile consumatorilor;
+17. exploatare comercialã a unei capacitãți energetice Ñ ansamblul activitãților desfãșurate de un
+agent economic în sectorul energiei pentru obținerea profitului;
+18. furnizor Ñ persoana juridicã, titularã a unei licențe de furnizare, care asigurã alimentarea cu
+energie electricã a unuia sau mai multor consumatori, în baza unui contract de furnizare;
+19. furnizare Ñ activitatea de comercializare a energiei electrice și/sau termice cãtre clienți;
+20. linie directã Ñ linia prin care se transmite energia electricã de la producãtor cãtre un singur
+utilizator; linia directã este complementarã sistemului electroenergetic;
+21. monopol natural în domeniul energiei electrice Ñ situația de piațã în care serviciile de transport
+și de distribuție a energiei electrice se asigurã de cãtre un singur agent economic pentru consumatorii de pe un teritoriu delimitat;
+22. operator al pieței de energie electricã Ñ persoana juridicã ce asigurã tranzacționarea
+cantitãților de energie pe piața de energie electricã și care determinã prețurile pe piața spot;
+23. operator de distribuție Ñ persoana juridicã, titularã a unei licențe de distribuție, care deține,
+exploateazã, întreține, modernizeazã și dezvoltã rețeaua electricã de distribuție;
+24. operator de transport și de sistem Ñ persoana juridicã, titularã de licențã pentru transportul
+energiei electrice și servicii de sistem;
+25. ordinea de merit Ñ ordinea în care un producãtor de energie electricã este luat în considerare pe baza prețului ofertat pentru acoperirea necesarului de energie electricã în SEN;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 511/16.VII.2003
+
+3
+
+26. piața de energie electricã Ñ cadrul de organizare înãuntrul cãruia se tranzacționeazã energia
+electricã și serviciile asociate;
+27. plan de perspectivã Ñ planificarea pe termen lung a necesarului de investiții în capacitãți de
+producere, transport și distribuție, în vederea acoperirii cererii de electricitate a sistemului și a
+asigurãrii livrãrilor cãtre clienți;
+28. plan de apãrare a sistemului electroenergetic național împotriva perturbațiilor majore Ñ documentul conținând mãsuri tehnice și organizatorice, cu rolul de a împiedica extinderea perturbațiilor în
+sistem și de a limita consecințele acestora;
+29. producãtor de energie electricã Ñ persoana fizicã sau juridicã, titularã de licențã, având ca
+specific activitatea de producere a energiei electrice, inclusiv în cogenerare;
+30. producãtor independent de energie electricã Ñ producãtorul de energie electricã ce nu îndeplinește funcții de transport sau de distribuție pe teritoriul în care se situeazã rețeaua electricã la
+care este racordat;
+31. reabilitare Ñ ansamblul operațiunilor efectuate asupra unor echipamente și/sau instalații energetice care, fãrã modificarea tehnologiei inițiale, restabilesc starea tehnicã și de eficiențã a acestora
+la un nivel apropiat de cel avut la începutul duratei de viațã;
+32. retehnologizare Ñ ansamblul operațiunilor de înlocuire a unor tehnologii existente, uzate
+moral și/sau fizic, cu tehnologii moderne, bazate pe concepții tehnice de datã recentã, de vârf, în
+scopul creșterii producției, reducerii consumurilor specifice de energie, reducerii emisiilor
+poluante etc.;
+33. rețea electricã Ñ ansamblul de linii, inclusiv elementele de susținere și de protecție a acestora, stațiile electrice și alte echipamente electroenergetice conectate între ele. Rețeaua electricã
+poate fi rețea de transport sau rețea de distribuție;
+34. rețea electricã de transport Ñ rețeaua electricã de interes național și strategic cu tensiunea
+de linie nominalã mai mare de 110 kV;
+35. rețea electricã de distribuție Ñ rețeaua electricã cu tensiunea de linie nominalã pânã la
+110 kV inclusiv;
+36. rețea electricã de interes public Ñ rețeaua electricã la care se pot racorda cel puțin doi utilizatori;
+37. sectorul energiei electrice Ñ ansamblul activitãților și instalațiilor de producere a energiei electrice și a energiei termice în cogenerare, transport, servicii de sistem, distribuție și furnizare a energiei electrice, inclusiv importul și exportul energiei electrice, precum și schimburile naturale și/sau de
+avarie cu sistemele electroenergetice ale țãrilor vecine;
+38. serviciu de transport Ñ serviciul asigurat de operatorul de transport și de sistem, care constã
+în asigurarea transmiterii unei cantitãți de energie electricã între douã sau mai multe puncte ale
+rețelei de transport, cu respectarea standardelor de calitate;
+39. serviciu de sistem Ñ serviciul asigurat, pentru menținerea nivelului de siguranțã în funcționare
+a sistemului electroenergetic, precum și a calitãții energiei electrice conform reglementãrilor în
+vigoare;
+40. serviciu tehnologic de sistem Ñ serviciul de sistem asigurat, de regulã, de cãtre producãtori,
+la cererea operatorului de transport și de sistem;
+41. sistem electroenergetic Ñ ansamblul instalațiilor electroenergetice interconectate prin care se
+realizeazã producerea, transportul, conducerea operativã, distribuția, furnizarea și utilizarea energiei
+electrice;
+42. Sistem Electroenergetic Național, denumit în continuare SEN Ñ sistemul electroenergetic
+situat pe teritoriul național. SEN constituie infrastructura de bazã utilizatã în comun de participanții la
+piața de energie electricã;
+43. sistem electroenergetic izolat Ñ sistemul local de producere, distribuție și furnizare a energiei
+electrice care nu este interconectat cu SEN;
+44. subconsumator Ñ persoana fizicã sau juridicã ale cãrei instalații electrice sunt racordate în
+aval de grupul de mãsurã al consumatorului.
+45. transportul energiei electrice Ñ transmiterea energiei electrice de la producãtori pânã la
+instalațiile de distribuție sau la instalațiile consumatorilor racordați direct la rețelele electrice de transport;
+46. utilizator de rețea electricã Ñ producãtor, operator de transport și de sistem, operator de
+distribuție, furnizor, consumator eligibil sau consumator captiv;
+47. UCTE Ñ Uniunea pentru Coordonarea Transportului Energiei Electrice;
+48. zona de protecție Ñ zona adiacentã capacitãții energetice, extinsã în spațiu, în care se introduc interdicții privind accesul persoanelor și regimul construcțiilor;
+49. zona de siguranțã Ñ zona adiacentã capacitãților energetice, extinsã în spațiu, în care se
+instituie restricții și interdicții în scopul asigurãrii funcționãrii normale și pentru evitarea punerii în
+pericol a persoanelor, bunurilor și mediului; zona de siguranțã cuprinde și zona de protecție.
+CAPITOLUL II
+Autoritãți și competențe
+Strategia și politica
+energeticã
+
+Art. 4. Ñ (1) Strategia energeticã naționalã definește obiectivele sectorului energiei electrice și
+modalitãțile optime de realizare a acestora, în condițiile asigurãrii unei dezvoltãri durabile a economiei naționale pe termen mediu și lung. Strategia energeticã se elaboreazã de cãtre Guvern, cu
+consultarea organizațiilor neguvernametale și se aprobã prin lege.
+(2) Politica energeticã, urmãrind direcțiile stabilite prin strategia energeticã, este elaboratã de
+ministerul de resort pe baza programului de guvernare, cu consultarea organizațiilor
+
+4
+
+Programul energetic
+
+Atribuțiile ministerului de resort
+
+Autoritatea competentã
+
+Finanțarea activitãții
+ANRE
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 511/16.VII.2003
+neguvernamentale, pentru un interval de timp mediu și cu considerarea evoluțiilor probabile pe termen lung, având în vedere, în principal:
+a) constituirea cadrului instituțional corespunzãtor, prin definirea organismelor și a autoritãților
+competente pentru realizarea acestei politici;
+b) asigurarea securitãții în aprovizionarea cu combustibili;
+c) asigurarea importurilor și exporturilor de combustibili și energie electricã;
+d) asigurarea protecției mediului, reconstrucția ecologicã a siturilor afectate de activitãți
+energetice;
+e) transparența prețurilor și tarifelor la combustibili și energie;
+f) creșterea eficienței în utilizarea combustibililor și energiei;
+g) dezvoltarea surselor regenerabile de energie, cu acordarea de prioritãți energiei electrice pentru așezãrile izolate;
+h) dezvoltarea cooperãrii energetice internaționale.
+(3) Sursele de finanțare utilizate pentru aplicarea strategiei și politicii Guvernului în sectorul energetic se asigurã din sursele proprii ale agenților economici în domeniu, bugetul de stat, bugetele
+locale, împrumuturi rambursabile și nerambursabile.
+Art. 5. Ñ (1) Politica energeticã se concretizeazã într-un program cuprinzând mãsuri de stimulare
+a activitãților de investiții, cercetare-dezvoltare etc., aprobat prin hotãrâre a Guvernului.
+(2) Guvernul, ministerul de resort, celelalte organe de specialitate ale administrației publice centrale și locale iau mãsuri pentru realizarea obiectivelor înscrise în programul prevãzut la alin. (1) și
+examineazã, anual sau ori de câte ori este necesar, stadiul îndeplinirii prevederilor acestuia.
+Art. 6. Ñ Ministerul de resort elaboreazã politica energeticã naționalã și asigurã ducerea la
+îndeplinire a acesteia, în condițiile prevederilor prezentei legi, având urmãtoarele atribuții principale:
+a) elaboreazã programe și planuri de mãsuri pentru aplicarea politicii Guvernului în sectorul energiei electrice, inclusiv a programelor de eficiențã energeticã și de promovare a surselor regenerabile
+de energie;
+b) elaboreazã proiecte de acte normative pentru sectorul energiei electrice;
+c) aprobã norme și prescripții tehnice cu caracter obligatoriu pentru sistemul electroenergetic;
+d) asigurã elaborarea de studii pe baza cãrora urmeazã a fi stabilite prioritãțile privind investițiile
+din sectorul energiei electrice;
+e) elaboreazã programul de constituire a stocurilor de siguranțã la combustibili și urmãrește realizarea prevederilor acestuia de cãtre agenții economici;
+f) urmãrește permanent performanța și calitatea tehnologiilor și instalațiilor din sistemul energetic
+și inițiazã mãsuri în vederea creșterii nivelului acestora;
+g) are calitatea de concedent în sectorul energiei electrice;
+h) ia mãsuri pentru realizarea instalațiilor de producere a energiei electrice, care permit utilizarea,
+în condițiile eficienței economice, a combustibililor inferiori din resurse interne, precum și valorificarea
+unor cantitãți prestabilite de resurse regenerabile și secundare de energie;
+i) supravegheazã aplicarea și respectarea mãsurilor stabilite pentru protecția mediului de cãtre
+toți participanții la activitãțile din sectorul energiei electrice;
+j) elaboreazã programe privind promovarea exporturilor de energie electricã, propunând
+Guvernului mãsuri pentru a micșora dependența țãrii fațã de importurile resurselor primare de
+energie;
+k) urmãrește și propune Guvernului mãsuri în legãturã cu situația stocurilor de siguranțã ale sistemului electroenergetic național la resursele primare de energie Ñ cãrbune, hidrocarburi și,
+împreunã cu Ministerul Agriculturii, Pãdurilor, Apelor și Mediului, volumul de apã în lacurile de acumulare;
+l) implementeazã politica energeticã a Guvernului, referitoare la continuarea promovãrii cogenerãrii, ca soluție eficientã de acoperire a consumului național de energie termicã și la utilizarea
+surselor regenerabile de energie Ñ solarã, eolianã, geotermalã, biomasã, biogaz;
+m) coordoneazã acțiunile de cooperare cu instituții similare din alte țãri, precum și cu organisme
+internaționale de profil;
+n) avizeazã, împreunã cu Ministerul Muncii, Solidaritãții Sociale și Familiei, normativele de protecția muncii în sectorul energetic;
+o) elaboreazã și fundamenteazã, împreunã cu Ministerul Muncii, Solidaritãții Sociale și Familiei și
+cu organizațiile patronale și sindicale, propunerile de politicã socialã specifice sectorului energetic,
+programele de asistențã socialã și medicalã, de asigurãri de risc și accidente, în vederea evitãrii
+riscurilor profesionale și a reabilitãrii celor care au suferit accidente de muncã și boli profesionale.
+Art. 7. Ñ Autoritatea competentã în sectorul energiei electrice este Autoritatea Naționalã de
+Reglementare în domeniul Energiei Ñ ANRE, instituție publicã autonomã de interes național, cu
+personalitate juridicã, ce funcționeazã în coordonarea ministerului de resort, în baza regulamentului
+propriu de organizare și funcționare, aprobat prin hotãrâre a Guvernului.
+Art. 8. Ñ (1) Finanțarea activitãții ANRE se asigurã integral din venituri extrabugetare obținute
+din tarife pentru acordarea de licențe și autorizații, precum și din contribuții ale organismelor
+internaționale sau ale agenților economici, potrivit prevederilor legale privind finanțele publice.
+(2) Nivelul tarifelor și cel al contribuțiilor prevãzute la alin. (1) se stabilesc de ANRE în fiecare
+an, în condițiile legii, și sunt date publicitãții.
+(3) ANRE întocmește anual bugetul propriu de venituri și cheltuieli în conformitate cu normele
+metodologice în vigoare.
+(4) Soldurile anuale rezultate din execuția bugetului de venituri și cheltuieli al ANRE rãmân la
+dispoziția acesteia și se folosesc în anul urmãtor cu aceeași destinație.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 511/16.VII.2003
+Conducerea ANRE
+
+Angajarea și salarizarea personalului
+ANRE
+
+Atribuțiile ANRE
+
+5
+
+Art. 9. Ñ (1) ANRE este condusã de un președinte și un vicepreședinte, numiți de primulministru la propunerea ministrului de resort, pe o perioadã de 5 ani. Președintele reprezintã ANRE
+în relațiile cu terții.
+(2) Pentru activitãțile de reglementare se constituie un comitet de reglementare, în vederea
+obținerii unui spor de obiectivitate, format din președinte, vicepreședinte și 3 reglementatori.
+(3) Cei 3 reglementatori din comitetul de reglementare, prevãzuți la alin. (2), sunt numiți de cãtre
+ministrul de resort pentru un mandat de 5 ani.
+(4) Mandatul membrilor comitetului de reglementare înceteazã în urmãtoarele situații:
+a) la expirarea duratei;
+b) prin demisie;
+c) prin deces;
+d) prin imposibilitate definitivã de exercitare a mandatului, constând într-o indisponibilitate mai
+lungã de 60 de zile consecutive;
+e) la survenirea unei incompatibilitãți dintre cele prevãzute la alin. (5);
+f) prin revocare pentru neîndeplinirea mandatului, pentru încãlcarea prevederilor prezentei legi
+sau pentru condamnare penalã, prin hotãrâre judecãtoreascã rãmasã definitivã. Președintele și vicepreședintele se revocã de cãtre autoritatea care i-a numit.
+(5) Calitatea de membru în comitetul de reglementare este incompatibilã cu exercitarea oricãrei
+alte activitãți cu caracter comercial, funcții sau demnitãți publice, cu excepția celei didactice din
+învãțãmântul superior, în condițiile legii.
+(6) Ordinele și deciziile ANRE cu privire la reglementare sunt adoptate cu votul majoritãții membrilor comitetului de reglementare.
+(7) Ordinele ANRE se publicã în Monitorul Oficial al României, Partea I.
+(8) Ordinele și deciziile emise de președinte în exercitarea atribuțiilor sale pot fi atacate în contencios administrativ la Curtea de Apel București, în termen de 30 de zile de la data publicãrii lor
+în Monitorul Oficial al României, Partea I, respectiv de la data la care au fost notificate pãrților
+interesate.
+(9) Comitetul de reglementare al ANRE este asistat de un consiliu consultativ format din 9 membri,
+numiți prin ordin al ministrului de resort, din care:
+a) 2 membri Ñ din partea asociațiilor patronale din domeniul energiei;
+b) 2 membri Ñ din partea organizațiilor sindicale ale salariaților din domeniul energiei;
+c) un membru Ñ din partea asociațiilor din administrația publicã localã;
+d) 2 membri Ñ din partea organizațiilor profesionale;
+e) 2 membri Ñ din partea asociațiilor consumatorilor de energie electricã și termicã.
+(10) Membrii consiliului consultativ au dreptul la o indemnizație de ședințã egalã cu 10% din
+salariul de bazã al președintelui, fãrã a depãși lunar 20% din acesta.
+(11) Membrii consiliului consultativ au dreptul la decontarea cheltuielilor de deplasare și cazare în
+cazul în care ședința se desfãșoarã într-o altã localitate decât în cea de domiciliu a acestora.
+(12) Consiliul consultativ sprijinã armonizarea intereselor agenților economici din sector cu cele
+ale consumatorilor de energie electricã, evalueazã impactul reglementãrilor ANRE și face propuneri
+de îmbunãtãțire a acestora potrivit regulamentului de organizare și funcționare a ANRE.
+Art. 10. Ñ (1) Personalul este angajat și eliberat din funcție în conformitate cu prevederile regulamentului de organizare și funcționare a ANRE, ale contractului colectiv de muncã și cu reglementãrile legale în vigoare. Condițiile de incompatibilitate stabilite la art. 9 alin. (5) sunt aplicabile și
+personalului.
+(2) Salarizarea personalului ANRE se stabilește prin negociere în cadrul contractului colectiv și al
+contractului individual de muncã, în conformitate cu reglementãrile în vigoare pentru instituțiile
+publice finanțate integral din venituri extrabugetare.
+Art. 11. Ñ (1) ANRE elaboreazã, stabilește și urmãrește aplicarea ansamblului de reglementãri
+obligatorii la nivel național, necesar funcționãrii sectorului și pieței energiei electrice, în condiții de
+eficiențã, concurențã, transparențã și protecție a consumatorilor.
+(2) ANRE este abilitatã cu urmãtoarele competențe și atribuții:
+a) stabilește reglementãri cu caracter obligatoriu pentru agenții economici din sectorul energiei
+electrice;
+b) acordã, modificã, suspendã sau retrage autorizațiile și licențele pentru agenții economici din
+sectorul energiei electrice, inclusiv pentru producãtorii de energie termicã produsã în cogenerare,
+precum și pentru cei care vor apãrea ca urmare a deschiderii pieței de energie electricã;
+c) elaboreazã și aprobã metodologiile de calcul necesare stabilirii prețurilor și tarifelor;
+d) stabilește tarifele aplicabile consumatorilor captivi;
+e) stabilește prețurile și tarifele practicate între agenții economici din cadrul sectorului energiei
+electrice, tarifele pentru serviciile de sistem, de transport și de distribuție a energiei electrice,
+prețurile și tarifele practicate pentru activitãțile și serviciile aferente producerii energiei termice în
+cogenerare;
+f) stabilește contractele-cadru de furnizare, precum și cele dintre agenții economici privind vânzarea, achiziția, transportul, serviciul de sistem și distribuția energiei electrice, precum și cele de
+vânzare a energiei termice produse în cogenerare;
+g) elaboreazã regulamentul de furnizare a energiei electrice la consumatori, care se aprobã prin
+hotãrâre a Guvernului;
+h) stabilește cerințe, criterii și proceduri pentru eligibilitatea consumatorilor de energie electricã și
+acrediteazã consumatorii eligibili;
+i) aprobã reglementãri tehnice și comerciale pentru agenții economici din sector;
+
+6
+
+Electrificarea
+localitãților
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 511/16.VII.2003
+j) exercitã controlul cu privire la respectarea de cãtre agenții economici din sectorul energiei electrice a reglementãrilor emise, a sistemului de prețuri și tarife în vigoare și aplicã sancțiuni în cazul
+nerespectãrii acestora;
+k) stabilește procedura de soluționare a neînțelegerilor precontractuale și soluționeazã neînțelegerile legate de încheierea contractelor între agenții economici din sectorul energiei electrice și a
+contractelor de furnizare a energiei electrice;
+l) stabilește metodologia proprie de urmãrire și control în vederea respectãrii de cãtre agenții
+economici a sistemului de prețuri și tarife;
+m) elaboreazã, în conformitate cu prevederile legale, regulamentul de constatare, notificare și
+sancționare a abaterilor de la reglementãrile emise în domeniu;
+n) elaboreazã regulamentul pentru autorizarea electricienilor și atestarea agenților economici care
+proiecteazã, executã, verificã și exploateazã capacitãți energetice, respectiv instalații de utilizare;
+o) urmãrește aplicarea reglementãrilor specifice în domeniul energiei electrice;
+p) sesizeazã ministerul de resort și Consiliul Concurenței cu privire la abuzul de poziție dominantã pe piațã și la încãlcarea prevederilor legale referitoare la concurențã, ori de câte ori constatã
+nerespectarea reglementãrilor cu privire la concurențã și transparențã;
+q) creeazã și gestioneazã o bazã de date la nivel național, necesarã desfãșurãrii activitãții sale
+și pentru furnizarea de informații altor autoritãți în elaborarea strategiei de dezvoltare a sectorului
+energiei electrice, precum și în legãturã cu activitatea comerțului internațional cu energie electricã și
+cu practicile internaționale în domeniu, pe baza datelor ce vor fi transmise de agenții economici
+implicați;
+r) elaboreazã regulamentul privind racordarea utilizatorilor la rețelele electrice de interes public,
+care se aprobã prin hotãrâre a Guvernului;
+s) informeazã ministerul de resort asupra activitãții proprii desfãșurate, prin rapoarte anuale care
+se dau publicitãții.
+(3) În îndeplinirea atribuțiilor sale, ANRE colaboreazã cu Consiliul Concurenței, cu Autoritatea
+Naționalã pentru Protecția Consumatorilor, cu ministerele și cu alte organe de specialitate ale administrației publice centrale sau locale interesate, cu asociațiile consumatorilor de energie electricã, cu
+agenții economici specializați care presteazã servicii pentru sector, cu asociațiile profesionale din
+domeniul energiei electrice și termice și cu asociațiile patronale și sindicale.
+Art. 12. Ñ (1) Electrificarea localitãților se realizeazã cu fonduri din bugetele locale, din bugetul
+de stat sau din alte fonduri legal constituite.
+(2) Autoritãțile administrației publice locale și ministerele implicate rãspund de implementarea proiectelor și a programelor de electrificare și extindere a acestora.
+CAPITOLUL III
+Autorizații, licențe și concesiuni
+SECÞIUNEA 1
+Autorizații și licențe
+
+Activitãțile supuse
+regimului autorizãrii
+
+Regimul autorizãrii
+
+Categoriile de
+autorizații și licențe
+
+Art. 13. Ñ (1) Realizarea de noi capacitãți energetice, precum și retehnologizarea celor existente se desfãșoarã pe bazã de autorizații de înființare, acordate cu respectarea prevederilor legale
+în vigoare.
+(2) Producerea, transportul, serviciul de sistem, distribuția și furnizarea energiei electrice, precum
+și activitãțile operatorului pieței de energie electricã și cele de furnizare de servicii tehnologice de
+sistem se desfãșoarã pe bazã de licențe acordate în condițiile prezentei legi.
+(3) Exercitarea oricãrei activitãți fãrã autorizație sau licențã se sancționeazã potrivit legii.
+Art. 14. Ñ (1) Pentru autorizare, solicitantul va înregistra cererea la autoritatea competentã.
+(2) Solicitantul va atașa la cerere actele și documentele care probeazã îndeplinirea de cãtre
+acesta a condițiilor economice, financiare, tehnice și profesionale stabilite pe categorii de capacitãți
+energetice și de activitãți în domeniu.
+(3) Solicitantul, persoanã juridicã, trebuie sã aibã sediul în România. Solicitantul, persoanã juridicã strãinã, trebuie sã stabileascã și sã menținã în România, în condițiile legii, un sediu secundar
+pe întreaga duratã a autorizãrii.
+(4) Nu pot fi autorizați solicitanții aflați în procedura reorganizãrii judiciare sau a falimentului și
+nici cei cãrora le-a fost retrasã o autorizație sau licențã într-o perioadã de 5 ani anteriori datei de
+înregistrare a cererii.
+(5) Procedura de acordare a autorizațiilor/licențelor, termenele, tarifele și condițiile de acordare,
+constând în: criterii, limite de putere, atestãri, avize, garanții și altele asemenea, diferențiate pe categorii de capacitãți și activitãți supuse autorizãrii, se stabilesc prin regulament elaborat de autoritatea
+competentã și aprobat prin hotãrâre a Guvernului.
+(6) Refuzul acordãrii unei autorizații sau licențe, lipsa de rãspuns înãuntrul termenului și orice
+altã soluție a autoritãții competente, considerate de solicitant ilegale și prejudiciabile, pot fi atacate la
+Curtea de Apel București, secția de contencios administrativ, în condițiile legii.
+Art. 15. Ñ Autoritatea competentã acordã:
+1. Autorizații de înființare pentru:
+a) realizarea de noi capacitãți energetice de producere a energiei electrice și a energiei termice
+în cogenerare sau retehnologizarea celor existente cu o putere mai mare de 10 MW;
+b) realizarea de linii și stații de transport al energiei electrice sau retehnologizarea celor
+existente;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 511/16.VII.2003
+
+Drepturile și
+obligațiile care
+decurg din
+autorizația de
+înființare și din
+licențe
+
+Obligațiile decurgând
+din autorizațiile de
+înființare și din
+licențe
+
+7
+
+c) realizarea sau retehnologizarea rețelelor electrice cu tensiune de linie nominalã mai mare sau
+egalã cu 110 kV.
+2. Licențe pentru:
+a) exploatare comercialã a capacitãților de producere a energiei electrice sau a energiei termice
+în cogenerare;
+b) exploatare comercialã a capacitãților de transport al energiei electrice;
+c) exploatare comercialã a capacitãților de distribuție a energiei electrice;
+d) activitatea operatorului pieței de energie electricã;
+e) activitatea de furnizare a serviciilor de sistem;
+f) activitatea de furnizare a energiei electrice;
+g) activitatea de furnizare a serviciilor tehnologice de sistem.
+Art. 16. Ñ (1) Lucrãrile de realizare și retehnologizare ale capacitãților energetice pentru care se
+acordã autorizații, precum și activitãțile și serviciile pentru care se acordã licențe sunt de interes
+public, cu excepția celor care sunt destinate exclusiv satisfacerii consumului propriu al titularului
+autorizației sau licenței.
+(2) Asupra terenurilor și bunurilor proprietate publicã sau privatã a altor persoane fizice sau juridice și asupra activitãților desfãșurate de persoane fizice sau juridice în vecinãtatea capacitãții energetice, titularii autorizațiilor de înființare și titularii licențelor beneficiazã, în condițiile legii, pe durata
+lucrãrilor de realizare și retehnologizare, respectiv de funcționare a capacitãții energetice, de
+urmãtoarele drepturi:
+a) dreptul de uz pentru executarea lucrãrilor necesare realizãrii sau retehnologizãrii capacitãții
+energetice, obiect al autorizației;
+b) dreptul de uz pentru asigurarea funcționãrii normale a capacitãții, obiect al autorizației de
+înființare, pentru reviziile, reparațiile și intervențiile necesare;
+c) servitutea de trecere subteranã, de suprafațã sau aerianã pentru instalarea de rețele electrice
+sau alte echipamente aferente capacitãții energetice și pentru acces la locul de amplasare a acestora, în condițiile legii;
+d) dreptul de a obține restrângerea sau încetarea unor activitãți care ar putea pune în pericol
+persoane și bunuri;
+e) dreptul de acces la utilitãțile publice.
+(3) Drepturile de uz și de servitute au ca obiect utilitatea publicã, au caracter legal, iar conținutul acestora este prevãzut la art. 18 și se exercitã pe toatã durata existenței capacitãții energetice
+sau, temporar, cu ocazia retehnologizãrii unei capacitãți în funcțiune, reparației, reviziei, lucrãrilor de
+intervenție în caz de avarie.
+(4) Exercitarea drepturilor de uz și servitute asupra proprietãților afectate de capacitãțile energetice se realizeazã cu titlu gratuit pe toatã durata existenței acestora. Dacã cu ocazia intervenției
+pentru retehnologizãri, reparații, revizii, avarii se produc pagube proprietarilor din vecinãtatea capacitãților energetice, titularii de licențã au obligația sã plãteascã despãgubiri în condițiile prezentei
+legi.
+(5) Proprietarii terenurilor și titularii activitãților afectați de exercitarea de cãtre titularii de licențã
+și autorizații a drepturilor prevãzute la alin. (2) vor fi despãgubiți pentru prejudiciile cauzate acestora.
+La calculul despãgubirilor vor fi avute în vedere urmãtoarele criterii:
+Ñ suprafața de teren afectatã cu ocazia efectuãrii lucrãrilor;
+Ñ tipurile de culturi și plantații, precum și amenajãrile afectate de lucrãri;
+Ñ activitãțile restrânse cu ocazia lucrãrilor.
+Cuantumul despãgubirii se stabilește prin acordul pãrților sau, în cazul în care pãrțile nu se
+înțeleg, cuantumul se stabilește prin hotãrâre judecãtoreascã.
+(6) Dreptul de uz și de servitute asupra terenurilor proprietate privatã, restrângerea sau încetarea
+unor activitãți prevãzute la alin. (2) se stabilesc și se exercitã cu respectarea principiului echitãții, a
+dreptului de proprietate și a legislației în vigoare.
+(7) Titularii de autorizații și licențe sunt în drept sã efectueze lucrãrile de defrișare a vegetației
+sau tãierile de modelare pentru crearea și menținerea distanței de apropiere fațã de rețelele electrice cu personal specializat, respectând prevederile legale în vigoare.
+(8) Titularii de autorizații și licențe, beneficiari ai drepturilor de uz și de servitute asupra proprietãții publice sau private a statului și a unitãților administrativ-teritoriale, sunt scutiți de plata de
+taxe, impozite și alte obligații de platã, instituite de cãtre autoritãțile publice centrale și locale.
+Art. 17. Ñ (1) Titularul autorizației de înființare are urmãtoarele obligații:
+a) sã stabileascã și sã aplice, pe întreaga duratã a executãrii lucrãrilor, mãsurile de protecție a
+persoanelor, bunurilor și mediului;
+b) sã obținã toate avizele, acordurile și atestatele prevãzute de lege pentru realizarea obiectivului autorizat.
+(2) Pe durata de valabilitate a licențelor, titularii de licențe sunt obligați:
+a) sã respecte condițiile care însoțesc licența;
+b) sã ținã situații contabile separate pentru fiecare activitate care face obiectul licenței acordate
+de autoritatea competentã, în cazul agentului economic în domeniul energiei electrice integrat, pe
+verticalã sau pe orizontalã, și sã se procedeze la fel ca în cazul în care activitatea respectivã ar fi
+efectuatã de agenți economici separați și sã întocmeascã rapoarte financiare în formatul solicitat de
+cãtre autoritatea competentã;
+c) sã constituie și sã menținã garanții financiare care sã le permitã desfãșurarea activitãții și asigurarea continuitãții serviciului;
+
+8
+
+Drepturile și
+obligațiile titularilor
+de autorizații de
+înființare și de licențã
+asupra proprietãții
+terților
+
+Zonele de protecție și
+zonele de siguranțã
+
+Exproprierea
+
+Modificarea
+autorizațiilor și
+licențelor
+Suspendarea și retragerea autorizațiilor și
+licențelor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 511/16.VII.2003
+d) sã punã la dispoziție autoritãții competente informațiile necesare pentru desfãșurarea în bune
+condiții a activitãții acesteia.
+Art. 18. Ñ (1) Dreptul de uz asupra terenului pentru executarea lucrãrilor necesare realizãrii sau
+retehnologizãrii de capacitãți energetice se întinde pe durata necesarã executãrii lucrãrilor. În exercitarea acestui drept de uz, titularul autorizației de înființare, cu respectarea prevederilor legale,
+poate:
+a) sã depoziteze pe terenurile proprietate privatã materiale, echipamente, utilaje, instalații;
+b) sã desființeze culturi sau plantații, construcții sau alte amenajãri existente ori numai sã le
+restrângã, în mãsura strict necesarã executãrii lucrãrilor pentru capacitatea autorizatã, în condițiile
+legii;
+c) sã îndepãrteze materiale, sã capteze apa, în condițiile prevãzute de legislația în vigoare;
+d) sã instaleze utilaje și sã lucreze cu acestea, sã amplaseze birouri și locuințe de șantier;
+e) sã opreascã ori sã restrângã activitãți ale proprietarului, în mãsura strict necesarã executãrii
+lucrãrilor pentru capacitatea autorizatã.
+(2) Dreptul de uz prevãzut la alin. (1) înceteazã înaintea expirãrii duratei stabilite pentru executarea lucrãrilor sau înaintea acestui termen, la data terminãrii anticipate a lucrãrilor sau la data
+sistãrii acestora și renunțãrii la autorizații. Oricare dintre aceste situații trebuie notificatã de îndatã
+proprietarului.
+(3) Dreptul de uz asupra terenului pentru asigurarea funcționãrii normale a capacitãții energetice
+se întinde pe toatã durata funcționãrii capacitãții, iar exercitarea lui se face ori de câte ori este
+necesar pentru asigurarea funcționãrii normale a capacitãții. În exercitarea acestui drept, titularul
+licenței poate:
+a) sã depoziteze materiale, echipamente, utilaje, instalații pentru întreținere, revizii, reparații și
+intervenții necesare pentru asigurarea funcționãrii normale a capacitãții;
+b) sã instaleze utilaje și sã lucreze cu acestea;
+c) sã desființeze sau sã reducã culturi, plantații sau alte amenajãri existente și sã restrângã activitãți ale proprietarului, în mãsura și pe durata strict necesare executãrii operațiilor de întreținere,
+reparații, revizii sau intervenții pentru asigurarea funcționãrii normale a capacitãții.
+(4) Titularul licenței este obligat sã înștiințeze în scris proprietarul bunurilor, terenurilor sau activitãților care vor fi afectate ca urmare a lucrãrilor la capacitãțile energetice, cu excepția cazurilor de
+avarii, situație în care proprietarii sunt înștiințați în termenul cel mai scurt.
+(5) Titularul licenței este obligat sã plãteascã proprietarilor despãgubirea cuvenitã pentru pagubele
+produse, sã degajeze terenul și sã-l repunã în situația anterioarã, în cel mai scurt timp posibil.
+(6) Servitutea de trecere subteranã, de suprafațã sau aerianã cuprinde dreptul de acces și de
+executare a lucrãrilor la locul de amplasare a capacitãților energetice cu ocazia intervenției pentru
+retehnologizãri, reparații, revizii și avarii.
+(7) Pentru a evita punerea în pericol a persoanelor, a bunurilor sau a unor activitãți desfãșurate
+în zona de executare a lucrãrilor de realizare sau retehnologizare de capacitãți energetice, precum
+și a operațiilor de revizie sau reparație la capacitatea în funcțiune, titularul autorizației sau al licenței
+are dreptul de a obține restrângerea sau sistarea, pe toatã durata lucrãrilor, a activitãților
+desfãșurate în vecinãtate de alte persoane. În acest caz persoanele afectate vor fi înștiințate, în
+scris, despre data începerii, respectiv finalizãrii lucrãrilor.
+(8) La încetarea exercitãrii drepturilor prevãzute la art. 16 alin. (2), titularul autorizației de
+înființare, respectiv titularul licenței, este obligat sã asigure degajarea terenului și repunerea lui în
+situația inițialã.
+(9) Dreptul de acces la utilitãțile publice, prevãzut la art. 16 alin. (2) lit. e), trebuie exercitat de
+titularul autorizației sau al licenței cu bunã-credințã și în mod rezonabil, fãrã a prejudicia accesul
+altor persoane la respectivele utilitãți publice.
+Art. 19. Ñ (1) Pentru protecția și funcționarea normalã a capacitãților energetice și a anexelor
+acestora, precum și pentru evitarea punerii în pericol a persoanelor, bunurilor și mediului, se instituie zone de protecție și de siguranțã.
+(2) Zonele de protecție și de siguranțã se determinã pentru fiecare capacitate, în conformitate cu
+normele tehnice elaborate de autoritatea competentã.
+(3) Asupra terenurilor aflate în proprietatea terților, cuprinse în zonele de protecție și de siguranțã, se stabilește drept de servitute legalã.
+Art. 20. Ñ (1) Terenul necesar pentru înființarea și funcționarea capacitãții energetice este fie
+proprietate privatã a unui terț, fie a titularului autorizației, fie proprietate publicã.
+(2) Dacã terenul necesar pentru înființarea și funcționarea capacitãții energetice este proprietate
+privatã a unui terț, solicitantul autorizației de înființare poate fie sã inițieze procedura legalã de
+expropriere a terenului, dacã se invocã o cauzã de utilitate publicã, și sã obținã concesiunea acestuia, în condițiile legii, pe durata existenței capacitãții energetice, fie sã îl cumpere.
+Art. 21. Ñ Autorizațiile și licențele se modificã în cazul schimbãrii circumstanțelor sau condițiilor
+existente la data acordãrii acestora.
+Art. 22. Ñ (1) În caz de neîndeplinire de cãtre titularul autorizației de înființare, respectiv al
+licenței, a obligațiilor sale legale, precum și în caz de nerespectare a condiționãrilor, limitãrilor,
+restricțiilor, interdicțiilor sau a sarcinilor stabilite prin autorizație, respectiv prin licențã, constatate de
+autoritatea competentã din oficiu ori la sesizarea unor terți sau la notificarea de cãtre titular, autoritatea competentã va proceda dupã cum urmeazã:
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 511/16.VII.2003
+
+9
+
+a) în cazul în care neîndeplinirea sau nerespectarea obligațiilor nu este imputabilã titularului, va
+dispune:
+Ñ dacã situația creatã este remediabilã, un termen de conformare;
+Ñ dacã situația creatã este iremediabilã, retragerea autorizației, respectiv a licenței;
+b) în cazul în care neîndeplinirea sau nerespectarea obligațiilor este imputabilã titularului, va dispune:
+Ñ dacã situația creatã este remediabilã, suspendarea autorizației, respectiv a licenței, pe o perioadã fixatã pentru remedierea situației create și pentru conformare cu autorizația, respectiv cu licența;
+Ñ dacã situația creatã este iremediabilã, retragerea autorizației, respectiv a licenței.
+(2) În toate cazurile prevãzute la alin. (1), persoanele prejudiciate pot acționa pe titular în justiție
+pentru recuperarea pagubei cauzate.
+(3) Autoritatea competentã va suspenda autorizația de înființare, respectiv licența titularului, în
+caz de începere a procedurii reorganizãrii judiciare sau a falimentului contra acestuia.
+(4) Autoritatea competentã va retrage autorizația de înființare, respectiv licența, în cazul
+decãderii, incapacitãții sau al falimentului titularului, precum și la încetarea concesiunii sau a
+locațiunii capacitãții energetice ori la vânzarea capacitãții de cãtre titular.
+SECÞIUNEA a 2-a
+Concesionarea
+Obiectul concesiunii
+și autoritatea
+concedentã
+
+Art. 23. Ñ (1) Pot face obiectul unei concesiuni energetice bunurile proprietate publicã sau privatã a statului, activitãțile și serviciile publice de interes național din domeniul energiei electrice.
+(2) Contractul de concesiune intrã în vigoare la data publicãrii acestuia în Monitorul Oficial al
+României, Partea I.
+(3) Condițiile de exploatare comercialã a bunurilor proprietate publicã sau privatã a statului și de
+realizare a activitãților sau a serviciilor publice se stabilesc prin contractul de concesiune încheiat de
+autoritatea concedentã și aprobat în conformitate cu prevederile prezentei legi.
+(4) Calitatea de autoritate concedentã o are ministerul de resort pentru bunurile proprietate
+publicã sau privatã a statului ori pentru activitãțile sau serviciile publice de interes național.
+(5) Cadrul general privind regimul juridic al contractelor de concesiune, procedurile pentru acordarea concesiunilor, precum și conținutul-cadru al caietului de sarcini sunt elaborate de autoritatea
+concedentã și se aprobã prin hotãrâre a Guvernului.
+CAPITOLUL IV
+Energia electricã
+
+Piața de energie
+electricã
+
+Participanții la piața
+de energie electricã
+
+Funcționarea pieței
+reglementate de
+energie electricã
+
+Funcționarea pieței
+concurențiale de
+energie electricã
+
+Transportul și
+distribuția
+
+Producerea de
+energie electricã
+
+Art. 24. Ñ (1) Piața de energie electricã este compusã din piața reglementatã și piața concurențialã, iar tranzacțiile cu energie se fac angro sau cu amãnuntul.
+(2) Deschiderea pieței de energie electricã se realizeazã prin creșterea progresivã a ponderii
+pieței concurențiale, în conformitate cu prevederile strategiei și politicii energetice, și se aprobã prin
+hotãrâre a Guvernului.
+Art. 25. Ñ (1) Participanții la piața de energie electricã și structurile operaționale asociate sunt:
+producãtorul, operatorul de transport și de sistem, autoproducãtorul, operatorul pieței, operatorul de
+distribuție, furnizorul, consumatorul eligibil și consumatorul captiv.
+(2) Activitãțile de producere, transport și distribuție se pot desfãșura de cãtre persoane fizice
+sau juridice distincte.
+(3) Diferendele pe piața energiei electrice se soluționeazã de Comitetul de arbitraj, care se organizeazã și funcționeazã în baza reglementãrilor emise de autoritatea competentã.
+(4) Membrii Comitetului de arbitraj beneficiazã de o indemnizație de ședințã egalã cu 5% din
+salariul de bazã al președintelui ANRE, fãrã a depãși lunar 10% din acesta.
+Art. 26. Ñ (1) Piața reglementatã de energie electricã și de servicii asociate funcționeazã prin
+contracte comerciale, cu prețuri reglementate, încheiate între participanții pe piața de energie electricã.
+(2) Pe piața reglementatã de energie electricã și servicii asociate, autoritatea competentã stabilește cantitãțile contractate în tranzacțiile angro dintre producãtori și furnizori.
+Art. 27. Ñ Piața concurențialã de energie electricã funcționeazã pe bazã de:
+a) contracte bilaterale negociate ale producãtorilor de energie electricã cu furnizorii;
+b) contracte bilaterale negociate ale furnizorilor de energie electricã cu consumatorii eligibili;
+c) contracte de import și de export al energiei electrice;
+d) tranzacții prin licitație pe piața spot;
+e) tranzacții de servicii specifice.
+Art. 28. Ñ (1) Deținãtorul de licențã și consumatorul au acces reglementat la rețelele electrice
+de interes public. Accesul la rețelele electrice de interes public reprezintã un serviciu obligatoriu, în
+condiții reglementate, pe care trebuie sã-l îndeplineascã operatorul de transport și de sistem, precum și operatorul de distribuție.
+(2) Se excepteazã de la prevederile alin. (1) situațiile în care operatorul de rețea nu dispune de
+condiții care sã permitã asigurarea acestui serviciu. În acest caz refuzul va fi justificat.
+(3) Tariful pentru accesul la rețeaua electricã de interes public este reglementat.
+(4) Realizarea de linii electrice directe și accesul la acestea se reglementeazã de autoritatea
+competentã.
+Art. 29. Ñ Producerea de energie electricã și de energie termicã în cogenerare se realizeazã de
+cãtre titularii de licențã, în condițiile prezentei legi.
+
+10
+Obligațiile
+producãtorilor
+
+Drepturile
+producãtorilor
+
+Transportul energiei
+electrice
+
+Planul de perspectivã
+
+Operatorul de transport și de sistem
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 511/16.VII.2003
+Art. 30. Ñ Producãtorii au, în principal, urmãtoarele obligații:
+a) sã asigure livrãrile de energie electricã, respectiv energia termicã produsã în cogenerare și
+serviciile tehnologice de sistem, cu respectarea condițiilor impuse prin licențe, clauze contractuale și
+reglementãri în vigoare;
+b) sã oferteze în condiții nediscriminatorii întreaga putere electricã disponibilã, precum și serviciile
+tehnologice de sistem;
+c) sã menținã o rezervã de combustibil la un nivel suficient sau, dupã caz, o rezervã suficientã
+de apã, pentru îndeplinirea obligațiilor de producție și furnizare continuã a energiei electrice
+prevãzute de reglementãrile în vigoare;
+d) sã se conformeze, din punct de vedere operativ, cerințelor operatorului de transport și de sistem și sã înființeze, dupã caz, trepte proprii de conducere operativã.
+Art. 31. Ñ Producãtorii de energie electricã au, în principal, urmãtoarele drepturi:
+a) sã aibã acces la rețelele electrice de interes public, în condițiile prezentei legi;
+b) sã obținã, în condițiile legii, culoar de trecere pentru liniile electrice proprii;
+c) sã tranzacționeze energia electricã și serviciile tehnologice de sistem pe piața reglementatã și
+concurențialã;
+d) sã înființeze și sã menținã un sistem propriu de telecomunicații pentru legãtura cu capacitãțile
+sale de producție, cu consumatorii sau cu treptele de conducere operativã.
+Art. 32. Ñ (1) Transportul energiei electrice se realizeazã de cãtre operatorul de transport și de
+sistem, persoanã juridicã titularã de licențã.
+(2) Rețeaua electricã de transport al energiei electrice este proprietatea publicã a statului, inclusiv terenurile pe care aceasta este amplasatã.
+Art. 33. Ñ (1) Operatorul de transport și de sistem are obligația de a elabora planuri de
+perspectivã privind transportul, în concordanțã cu stadiul actual și evoluția viitoare a consumului de
+energie și a surselor, inclusiv importurile și exporturile de energie. Planurile vor conține modalitãțile
+de finanțare și realizare a investițiilor privind instalațiile de transport, cu luarea în considerare și a
+planurilor de amenajare și sistematizare a teritoriului strãbãtut de acestea, în condițiile respectãrii
+normelor de protecție a mediului.
+(2) Planurile prevãzute la alin. (1) sunt supuse spre avizare autoritãții competente și se aprobã
+de ministerul de resort.
+Art. 34. Ñ (1) Operatorul de transport și de sistem presteazã serviciul public de transport pentru toți utilizatorii rețelelor electrice de transport, în condiții nediscriminatorii, asigurând accesul la
+acestea oricãrui solicitant care îndeplinește cerințele prezentei legi, cu respectarea normelor și performanțelor prevãzute în reglementãrile tehnice în vigoare.
+(2) Operatorului de transport și de sistem nu îi este permis sã participe la tranzacționarea energiei electrice decât în limita achiziției de energie electricã pentru acoperirea consumului propriu tehnologic.
+(3) Operatorul de transport și de sistem presteazã serviciul de sistem în condiții nediscriminatorii pentru toți utilizatorii SEN, asigurând conducerea operativã, în scopul realizãrii siguranței
+funcționãrii, stabilitãții frecvenței și tensiunii, continuitãții în alimentarea consumatorilor și coordonãrii
+schimburilor de energie electricã cu alte sisteme electroenergetice.
+(4) Operatorul de transport și de sistem desfãșoarã, în principal, urmãtoarele activitãți:
+a) exploateazã, retehnologizeazã, reabiliteazã și dezvoltã: instalațiile din rețelele electrice de
+transport, instalațiile de mãsurare și contorizare a transferului de energie electricã prin rețelele electrice de transport și la interfața cu utilizatorii rețelelor electrice de transport care îi aparțin, instalațiile
+de informaticã și telecomunicații din rețelele electrice de transport aferente SEN;
+b) asigurã serviciul public de transport și tranzitul de energie electricã pe teritoriul României, în
+conformitate cu contractele încheiate;
+c) analizeazã și avizeazã îndeplinirea condițiilor tehnice de racordare de cãtre utilizatorii rețelelor
+electrice de transport, în conformitate cu prevederile reglementãrilor tehnice în vigoare;
+d) asigurã transmiterea rezultatelor mãsurãrilor de energie electricã la operatorul pieței și accesul
+beneficiarilor serviciului de transport pentru verificarea grupurilor de mãsurare;
+e) realizeazã planificarea operaționalã și conducerea operativã a SEN la nivel central și teritorial
+pe baza prognozei proprii, conform reglementãrilor legale în vigoare pe piața de energie electricã;
+f) autorizeazã personalul care realizeazã conducerea operativã conform reglementãrilor în vigoare;
+g) culege, înregistreazã și arhiveazã datele statistice privind funcționarea SEN;
+h) realizeazã schimbul de informații cu partenerii de funcționare interconectați și cu alți colaboratori în domeniul energetic, cu respectarea reglementãrilor UCTE privind protocoalele de schimb de
+informații, rapoartele, structura și procedurile de acces la bazele de date;
+i) calificã unitãțile furnizoare de servicii de sistem, pe baza procedurii proprii, aprobatã de autoritatea competentã;
+j) elaboreazã și supune aprobãrii autoritãții competente normele tehnice și reglementãrile specifice necesare pentru realizarea activitãții de conducere operativã, cu consultarea participanților la
+piața de energie electricã;
+k) elaboreazã, în condițiile legii, planul de apãrare a SEN împotriva perturbațiilor majore;
+l) avizeazã studiile, programele și lucrãrile privind dezvoltarea SEN.
+(5) În caz de avarie majorã care pericliteazã siguranța funcționãrii SEN, operatorul de transport
+și de sistem poate dispune folosirea rezervei de apã în afara programelor de exploatare a acumulãrilor, cu obligația anunțãrii autoritãților competente în gospodãrirea apelor.
+(6) Operatorului de transport și de sistem nu îi este permisã divulgarea informațiilor comerciale
+obținute pe parcursul activitãții sale.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 511/16.VII.2003
+
+Interdicții
+
+Operatorul pieței de
+energie electricã
+
+Distribuția energiei
+electrice
+
+Operatorul de
+distribuție
+
+11
+
+(7) Cheltuielile pentru modificarea instalațiilor de transport al energiei electrice, ca urmare a
+racordãrii de noi utilizatori sau schimbãrii caracteristicilor energetice inițiale ale utilizatorilor existenți,
+inclusiv pentru eliberarea unor amplasamente, sunt suportate integral de cel care a generat modificarea.
+Art. 35. Ñ Pentru protecția instalațiilor de transport se interzice persoanelor fizice sau juridice:
+a) sã efectueze construcții de orice fel în zona de siguranțã a instalațiilor, fãrã avizul de amplasament al operatorului de transport și de sistem;
+b) sã efectueze sãpãturi de orice fel sau sã înființeze plantații în zona de siguranțã a rețelelor
+electrice de transport, fãrã acordul operatorului de transport și de sistem;
+c) sã depoziteze materiale pe culoarele de trecere și în zonele de protecție și de siguranțã a
+instalațiilor;
+d) sã arunce obiecte de orice fel pe rețelele electrice de transport sau sã intervinã, în orice alt
+mod, asupra acestora;
+e) sã deterioreze construcțiile, îngrãdirile sau inscripțiile de identificare și de avertizare aferente
+instalațiilor de transport.
+Art. 36. Ñ (1) Operatorul pieței de energie electricã este persoana juridicã, titularã de licențã,
+organizator și administrator al acesteia, care desfãșoarã urmãtoarele activitãți principale:
+a) asigurã preluarea și prelucrarea ofertelor de vânzare-cumpãrare de energie electricã și servicii de la participanții la piațã, în conformitate cu reglementãrile în vigoare;
+b) stabilește, zilnic, cantitãțile de energie electricã tranzacționate pentru fiecare interval de programare;
+c) stabilește drepturile de încasare și obligațiile de platã ale participanților la piațã și asigurã
+funcționarea mecanismelor specifice de regularizare privind plãțile;
+d) colecteazã și face publice, conform reglementãrilor autoritãții competente, date statistice despre piațã, inclusiv prognoze pe termen scurt privind acoperirea cererii de cãtre ofertã;
+e) determinã și face publice, conform reglementãrilor autoritãții competente, prețurile pieței pe
+intervale, baza de programare, precum și alte obligații bãnești relevante pentru piațã;
+f) suspendã piața din inițiativã proprie sau la solicitarea operatorului de transport și de sistem, în
+situațiile prevãzute de reglementãrile în vigoare;
+g) coordoneazã activitatea de prognozã a cererii de energie electricã pentru planificarea
+operaționalã și programarea operativã a SEN;
+h) stabilește intervalele orare necesare tarifãrii, pe baza metodologiei elaborate de autoritatea
+competentã.
+(2) Operatorului pieței de energie electricã nu îi este permisã divulgarea informațiilor legate de
+tranzacții obținute pe parcursul activitãții sale.
+(3) Participanții la piața de energie electricã au obligația sã furnizeze operatorului pieței de energie electricã informații privind stabilirea prognozei de consum.
+Art. 37. Ñ (1) Distribuția energiei electrice se realizeazã de cãtre operatorul de distribuție, persoanã juridicã, titularã de licențã.
+(2) Operatorul de distribuție presteazã serviciul public pentru toți utilizatorii rețelelor electrice de
+distribuție, în condiții nediscriminatorii, asigurând accesul la acestea oricãrui solicitant care îndeplinește cerințele prezentei legi, cu respectarea normelor și standardelor de performanțã prevãzute
+în reglementãrile tehnice în vigoare.
+(3) Rețelele electrice de distribuție se delimiteazã fațã de instalațiile de producere sau de rețelele
+electrice de transport și de cele ale consumatorilor în punctele de delimitare patrimonialã.
+(4) Terenurile pe care se situeazã rețelele electrice de distribuție existente la intrarea în vigoare
+a prezentei legi sunt și rãmân în proprietatea publicã a statului.
+(5) Fac excepție de la prevederile alin. (4) terenurile pentru care operatorul de distribuție, titular
+de licențã, a dobândit dreptul de proprietate, în condițiile legii.
+(6) Rețelele electrice de distribuție se dezvoltã cu respectarea planurilor de urbanism, a dreptului de proprietate, protecției mediului, sãnãtãții și vieții persoanelor și economisirea energiei, conform normelor tehnice și de siguranțã cuprinse în reglementãrile tehnice în vigoare.
+(7) Cheltuielile pentru modificarea instalațiilor de distribuție a energiei electrice, ca urmare a
+racordãrii de noi utilizatori sau a schimbãrii caracteristicilor energetice inițiale ale utilizatorilor existenți, inclusiv pentru eliberarea unor amplasamente, sunt suportate integral de cel care a generat
+modificarea.
+Art. 38. Ñ (1) Operatorul de distribuție are urmãtoarele atribuții principale:
+a) exploateazã, retehnologizeazã, reabiliteazã și dezvoltã rețelele electrice de distribuție, cu respectarea reglementãrilor tehnice în vigoare;
+b) asigurã tranzitarea energiei electrice prin rețelele electrice de distribuție, la cererea și cu informarea operatorului de transport și de sistem, pentru acele zone ale țãrii în care nu existã capacitate suficientã prin rețelele sale, pentru evacuarea puterii din centrale electrice, respectiv centrale
+electrice de cogenerare, pentru conectarea la sistemul electroenergetic al unei țãri vecine, în
+condițiile existenței unui acord bilateral în acest sens, în cazul incidentelor în SEN și al executãrii
+lucrãrilor de exploatare și mentenanțã sau al lucrãrilor noi în rețelele de transport, care pun în indisponibilitate temporarã rețelele de transport din zonã;
+c) realizeazã lucrãri de dezvoltare a rețelelor electrice de distribuție prin programe de dezvoltare
+optimã a acestora, pe baza studiilor de perspectivã, prin consultare, dupã caz, cu operatorul de
+transport și prin programe specifice de modernizare pentru instalații;
+d) asigurã conducerea operativã în conformitate cu licența de distribuție;
+
+12
+
+Interdicții
+
+Sistemele electroenergetice izolate
+
+Furnizarea energiei
+electrice
+
+Obligația de
+contractare
+
+Retransmiterea
+energiei
+
+Limitarea sau
+întreruperea
+alimentãrii
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 511/16.VII.2003
+e) asigurã accesul utilizatorilor, în condiții tehnice de racordare, și furnizeazã informații privind
+rețeaua electricã de distribuție, cu respectarea confidențialitãții acestora, conform reglementãrilor
+aprobate de autoritatea competentã;
+f) supune aprobãrii operatorului de transport și de sistem programul reparațiilor și lucrãrilor de
+întreținere planificate în instalațiile cu tensiunea nominalã de linie de 110 kV;
+g) monitorizeazã siguranța în funcționare a rețelelor electrice de distribuție, precum și indicatorii
+de performanțã a serviciului de distribuție.
+(2) În scopul îndeplinirii atribuțiilor prevãzute la alin. (1), operatorul de distribuție poate întrerupe
+funcționarea instalațiilor pentru timpul strict necesar lucrãrilor de întreținere și reparații planificate,
+cu anunțarea prealabilã a utilizatorilor rețelei electrice de distribuție.
+Art. 39. Ñ Pentru protejarea rețelelor electrice de distribuție se interzice persoanelor fizice și
+juridice:
+a) sã efectueze construcții de orice fel în zona de siguranțã a rețelelor electrice de distribuție
+fãrã avizul de amplasament al operatorului de distribuție;
+b) sã efectueze sãpãturi de orice fel sau sã înființeze plantații în zona de siguranțã a rețelelor
+electrice de distribuție fãrã acordul operatorului de distribuție;
+c) sã depoziteze materiale pe culoarul de trecere și în zonele de protecție și de siguranțã ale
+instalațiilor;
+d) sã arunce obiecte de orice fel pe rețelele electrice de distribuție sau sã intervinã, în oricare
+alt mod, asupra acestora;
+e) sã deterioreze construcțiile, îngrãdirile sau inscripțiile de identificare și avertizare aferente
+rețelelor electrice de distribuție.
+Art. 40. Ñ (1) Localitãțile care, din considerente tehnice sau economice, nu sunt conectate la
+rețelele SEN, pot fi alimentate cu energie electricã prin sisteme electroenergetice izolate.
+(2) Consumatorii alimentați din sistemele electroenergetice izolate vor plãti același preț pentru
+energia consumatã ca și consumatorii captivi alimentați din SEN.
+(3) Autoritatea competentã va stabili prețul local și condițiile minime privind continuitatea și calitatea serviciului de furnizare.
+(4) În situația în care prețul local nu acoperã costurile aferente alimentãrii dintr-o rețea electricã
+de interes public, diferența se suportã de la bugetul de stat.
+Art. 41. Ñ (1) Furnizarea energiei electrice este activitatea prin care persoana juridicã titularã de
+licențã comercializeazã energie clienților. Pentru furnizarea energiei electrice se încheie un contract
+în conformitate cu regulamentul de furnizare a energiei electrice.
+(2) Energia electricã furnizatã clientului se factureazã de cãtre furnizor pe baza valorilor
+înregistrate de echipamentele de contorizare.
+(3) Furnizorul care este și operator de distribuție este obligat sã încheie contracte de furnizare
+cu consumatorii captivi și cu cei acreditați ca eligibili, care nu își exercitã acest drept.
+(4) Este interzis consumul de energie electricã fãrã încheierea contractului de furnizare.
+Art. 42. Ñ (1) La cererea scrisã a consumatorului privind alimentarea cu energie electricã pentru consumatorii noi ori acordarea unui spor de putere pentru consumatorii existenți, furnizorul care
+este și operator de distribuție este obligat sã comunice în scris, într-un interval de cel mult 30 de
+zile, condițiile tehnico-economice, în vederea satisfacerii cererii, și sã colaboreze cu clienții la stabilirea celei mai avantajoase soluții de alimentare. Necomunicarea în termen a condițiilor prezumã
+acceptarea cererii.
+(2) Contractul de furnizare se încheie pentru o duratã nedeterminatã sau convenitã de pãrți.
+(3) Consumatorul poate rezilia oricând contractul de furnizare cu un preaviz de 7 zile pentru
+consumatorii captivi, respectiv de 30 de zile pentru consumatorii eligibili.
+(4) Furnizorul este îndreptãțit sã rezilieze contractul numai în caz de consum fraudulos, neplatã
+repetatã a facturilor sau în alte situații prevãzute de lege.
+Art. 43. Ñ (1) Consumatorul nu poate transmite sau revinde energie electricã altui consumator
+decât cu acordul furnizorului și operatorului de distribuție, în condițiile prezentei legi.
+(2) Consumatorul, persoanã juridicã ce deține o rețea electricã de distribuție proprie prin care se
+alimenteazã cel puțin doi subconsumatori, este obligat sã asigure accesul reglementat la rețea. În
+acest scop consumatorul poate încheia contract de servicii energetice cu subconsumatorii, conform
+contractului-cadru stabilit de autoritatea competentã. Subconsumatorul va plãti energia furnizatã de
+cãtre consumator conform metodologiei stabilite de autoritatea competentã.
+(3) Consumatorul poate întrerupe livrarea energiei electrice cãtre subconsumator numai dacã
+acesta își încalcã obligațiile asumate prin contract.
+Art. 44. Ñ (1) Operatorul de distribuție este îndreptãțit sã întrerupã alimentarea cu energie electricã în urmãtoarele situații:
+a) când se pericliteazã viața, sãnãtatea oamenilor ori integritatea bunurilor materiale;
+b) prevenirea sau limitarea extinderii avariilor în echipamentele energetice, în zone de rețea electricã sau la nivelul întregului SEN;
+c) executarea unor manevre sau lucrãri care nu se pot efectua fãrã întreruperi.
+(2) Operatorul de distribuție este obligat sã anunțe consumatorii afectați de întreruperile planificate, prin intermediul furnizorului, în modul stabilit prin contracte și sã comunice durata planificatã
+pentru întreruperile necesare executãrii unor lucrãri de întreținere și reparații.
+(3) Operatorul de distribuție rãspunde pentru daunele cauzate consumatorilor din culpa sa.
+(4) Prin regulamentul de furnizare se stabilesc condițiile în care, în situații excepționale, se poate
+limita sau întrerupe alimentarea cu energie electricã a consumatorilor.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 511/16.VII.2003
+Plata energiei
+furnizate
+Rãspunderile
+furnizorului
+
+Rãspunderile
+consumatorului
+
+Drepturile
+consumatorului
+
+Mãsurarea energiei
+electrice
+
+13
+
+Art. 45. Ñ În conformitate cu prevederile contractului, consumatorul este obligat sã plãteascã
+contravaloarea energiei electrice consumate.
+Art. 46. Ñ (1) Furnizorul rãspunde pentru toate daunele provocate consumatorului din culpa sa,
+în condițiile stabilite prin contractul de furnizare.
+(2) Furnizorul este îndreptãțit sã recupereze daunele produse consumatorilor, de la operatorul de
+distribuție, operatorul de transport și de sistem sau de la producãtor, dovedite a fi cauzate din culpa
+oricãruia dintre aceștia.
+Art. 47. Ñ (1) Consumatorul rãspunde pentru daunele cauzate furnizorului din culpa sa, în
+condițiile stabilite prin contractul de furnizare.
+(2) Nerespectarea de cãtre consumator a contractului de furnizare a energiei electrice atrage
+plata contravalorii energiei electrice consumate, respectiv evaluate, și, dupã caz, suportarea
+urmãtoarelor consecințe:
+a) penalizãri;
+b) sistarea temporarã a furnizãrii energiei electrice;
+c) deconectarea de la rețeaua electricã.
+(3) În cazul consumului fraudulos, consumatorul va fi deconectat de la rețeaua electricã, fiind
+obligat, totodatã, la plata contravalorii energiei electrice consumate și a costurilor aferente deconectãrii, evaluate conform normelor tehnice în vigoare.
+Art. 48. Ñ Consumatorii au urmãtoarele drepturi:
+a) sã aibã acces la rețelele electrice de interes public și sã consume energie electricã în conformitate cu prevederile contractului de furnizare;
+b) sã solicite furnizorului modificarea și completarea contractului de furnizare și a anexelor la
+acesta sau sã inițieze acte adiționale la contracte, atunci când apar elemente noi sau când considerã necesarã detalierea ori completarea unor clauze contractuale;
+c) sã aibã acces la grupurile de mãsurare pentru decontare;
+d) sã racordeze la instalațiile proprii subconsumatori, cu acordul scris al operatorului de rețea
+sau al furnizorului, în condițiile legii;
+e) sã solicite furnizorului sã ia mãsuri pentru remedierea defecțiunilor și a deranjamentelor survenite în rețelele electrice;
+f) sã solicite furnizorului despãgubiri, conform prevederilor contractuale, când i se produc daune
+din vina acestuia sau în cazul nerespectãrii indicatorilor de calitate a energiei.
+Art. 49. Ñ (1) Energia electricã tranzacționatã pe piața de energie electricã se mãsoarã prin
+grupuri de mãsurare conform codului de mãsurare elaborat de autoritatea competentã.
+(2) Grupurile de mãsurare a energiei electrice în vederea decontãrii se asigurã, dupã caz, de:
+Ñ operatorul de transport și de sistem, pentru asigurarea mãsurãrilor pe piața angro;
+Ñ producãtori, pentru asigurarea mãsurãrilor din grupuri nedispecerizabile pentru livrãrile în
+rețeaua de distribuție;
+Ñ operatorul de distribuție, pentru asigurarea mãsurãrilor pe piața cu amãnuntul.
+(3) Operatorul de rețea electricã este obligat sã permitã utilizatorilor sã instaleze, suplimentar,
+grupuri de mãsurare, la cererea acestora și pe cheltuialã proprie.
+CAPITOLUL V
+Sursele regenerabile de energie
+
+Definirea surselor
+
+Condițiile tehnice de
+utilizare și
+comercializare
+Facilitãți
+
+Art. 50. Ñ În condițiile prezentei legi, se definesc ca surse regenerabile de energie:
+a) energia eolianã;
+b) energia solarã;
+c) energia valurilor și a mareelor;
+d) energia geotermalã;
+e) energia hidroelectricã;
+f) energia conținutã în fracțiunea biodegradabilã a produselor, deșeurilor și reziduurilor din agriculturã (inclusiv substanțe vegetale și reziduuri de origine animalã), silviculturã și industrii conexe,
+precum și fracțiunea biodegradabilã a deșeurilor industriale și comunale, orãșenești și municipale,
+denumitã biomasã;
+g) energia conținutã în gazul de fermentare a deșeurilor, denumit și gaz de depozit;
+h) energia conținutã în gazul de fermentare a nãmolurilor din instalațiile de epurare a apelor
+uzate;
+i) energia conținutã în produse secundare gazoase, obținute prin fermentare din materii reziduale
+organice, formând categoria de combustibil gazos, denumitã biogaz;
+j) energia conținutã în produse lichide obținute prin distilarea materiei organice fermentate,
+formând categoria de combustibil lichid, denumitã alcool carburant;
+k) energia obținutã din alte surse regenerabile, neexploatate în prezent.
+Art. 51. Ñ Autoritatea competentã va reglementa condițiile tehnice de acces la rețeaua electricã
+și cele de comercializare a energiei electrice și a energiei termice produse în cogenerare, din surse
+regenerabile.
+Art. 52. Ñ Dezvoltarea și utilizarea surselor regenerabile de energie se stimuleazã pe baza unor
+studii economice aprofundate tehnico-economic, acordându-se facilitãți prin hotãrâre a Guvernului, la
+propunerea autoritãții competente.
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 511/16.VII.2003
+CAPITOLUL VI
+Prețuri și tarife
+
+Tipurile de prețuri și
+tarife.
+Fundamentarea
+acestora
+
+Reglementarea
+prețurilor
+
+Reglementarea
+tarifelor
+Metodologiile de
+reglementare a
+prețurilor și tarifelor
+
+Evidențierea
+costurilor și a
+veniturilor
+
+Principiile pentru
+fundamentarea
+propunerilor de
+prețuri și tarife
+reglementate
+
+Interdicția
+subvenționãrii în
+producerea
+combinatã a energiei
+electrice și termice
+Serviciile conexe
+
+Art. 53. Ñ În sectorul energiei electrice, a cãrui producție se comercializeazã pe piața internã,
+se aplicã urmãtoarele prețuri și tarife:
+a) prețuri rezultate din mecanismele concurențiale ale pieței;
+b) prețuri reglementate pentru energia termicã produsã în cogenerare;
+c) tarife reglementate pentru serviciile de transport și de distribuție a energiei electrice, considerate activitãți cu caracter de monopol natural;
+d) tarife reglementate pentru furnizarea de energie electricã la consumatorii captivi;
+e) tarife reglementate pentru asigurarea serviciilor tehnologice de sistem pânã la crearea unei
+piețe concurențiale;
+f) tarife reglementate pentru serviciile de transformare și interconexiune;
+g) tarife reglementate de racordare la rețea;
+h) tarife practicate de operatorul de transport și de sistem și de operatorul pieței de energie
+electricã pentru serviciile prestate participanților la piațã.
+Art. 54. Ñ (1) Autoritatea competentã poate propune ministerului de resort reglementarea unui
+preț utilizat de agentul economic din sectorul energiei electrice, dacã se considerã cã agentul economic folosește abuziv o poziție dominantã.
+(2) Declararea unui preț ca fiind reglementat se face prin hotãrâre a Guvernului, inițiatã de
+ministerul de resort, pentru perioade limitate, cu avizul Consiliului Concurenței.
+Art. 55. Ñ Tarifele pentru consumatorii captivi de energie electricã sunt reglementate de autoritatea competentã și sunt aceleași pe întreg teritoriul țãrii.
+Art. 56. Ñ (1) Prețurile și tarifele reglementate se stabilesc pe baza metodologiilor aprobate și
+publicate de cãtre autoritatea competentã. În calculul acestora vor fi luate în considerare costurile
+justificate ale activitãților de producere, transport, distribuție și furnizare a energiei electrice și termice, cheltuielile pentru dezvoltare și protecția mediului, precum și o cotã rezonabilã de profit.
+(2) Metodologia de reglementare a prețurilor și tarifelor și eventualele modificãri ulterioare se
+aprobã de cãtre autoritatea competentã, dupã informarea și consultarea ministerului de resort și a
+agenților economici din sector implicați.
+Art. 57. Ñ Agenții economici, titulari de licențã din sectorul energiei electrice și termice, care
+practicã prețuri și tarife reglementate, sunt obligați sã prezinte autoritãții competente:
+a) costurile și veniturile realizate separat din activitãțile care fac obiectul licențelor acordate în
+structura stabilitã de autoritatea competentã;
+b) modul de alocare a activelor, pasivelor, cheltuielilor și veniturilor avute în vedere atunci când
+se întocmesc situațiile contabile, conform art. 17 alin. (2) lit. b).
+Art. 58. Ñ (1) Propunerile de prețuri și tarife reglementate pentru energia electricã și termicã se
+elaboreazã de cãtre agenții economici din sectorul energiei electrice, cu respectarea metodologiilor
+emise de autoritatea competentã și se comunicã acesteia împreunã cu fundamentarea în formatul
+stabilit.
+(2) Agenții economici din sectorul energiei electrice vor transmite autoritãții competente toate
+datele necesare folosite în procesul de fundamentare a solicitãrii și vor asigura accesul reprezentanților desemnați de aceasta la ele.
+(3) Ordinul de aprobare a prețurilor și tarifelor reglementate pentru energia electricã, aplicabile
+consumatorilor captivi și activitãților cu caracter de monopol natural, se publicã în Monitorul Oficial
+al României, Partea I. Ordinul va conține și data intrãrii lor în vigoare.
+(4) Prețurile pe piața spot se fac publice zilnic, prin grija operatorului pieței de energie electricã.
+(5) Principiile care stau la baza stabilirii prețurilor și tarifelor reglementate pentru energia electricã
+și termicã au în vedere urmãtoarele:
+a) sã contribuie la utilizarea eficientã a energiei electrice;
+b) sã fie diferențiate pe categorii de consumatori, în funcție de comportamentul energetic și nu
+de natura activitãții, permițând acestora alegerea tipului de preț/tarif care le este mai favorabil, dintre
+cele practicate de furnizor;
+c) pentru consumatorii de energie electricã, alții decât cei casnici, având o putere mai mare sau
+egalã cu 30 kW, tariful atât pentru energia electricã, cât și pentru cea termicã sã aibã o structurã
+binomialã, respectiv un preț pentru putere și un preț pentru energie;
+d) sã stimuleze consumatorii de energie electricã în redistribuirea consumului din orele de vârf
+ale SEN;
+e) sã asigure protecția intereselor consumatorilor și calitatea serviciilor.
+(6) Este interzisã subvenționarea consumatorilor prin tarifele la energia electricã și termicã sau
+recuperarea costurilor corespunzãtoare serviciului asigurat pentru o anumitã categorie de consumatori, prin tarifele practicate altor categorii de consumatori.
+Art. 59. Ñ Agenții economici care produc combinat energie electricã și termicã și care
+comercializeazã cel puțin una dintre ele vor repartiza costurile între cele douã forme de energie,
+potrivit reglementãrilor aprobate de autoritatea competentã, fiind interzisã subvenționarea încrucișatã
+între cele douã forme de energie.
+Art. 60. Ñ Serviciile prestate terților de cãtre agenții economici care produc energie hidroelectricã
+și care au în administrare, concesiune sau închiriere baraje, diguri și lacuri de acumulare se realizeazã pe baza contractelor încheiate cu beneficiarii.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 511/16.VII.2003
+
+15
+
+CAPITOLUL VII
+Infracțiuni și contravenții
+Rãspunderi
+Infracțiuni
+
+Contravenții
+
+Art. 61. Ñ Încãlcarea prevederilor prezentei legi atrage, dupã caz, rãspunderea penalã, contravenționalã sau civilã.
+Art. 62. Ñ (1) Sustragerea de energie electricã constituie infracțiunea de furt și se pedepsește
+conform prevederilor Codului penal.
+(2) Deteriorarea, modificarea fãrã drept sau blocarea funcționãrii echipamentului de mãsurare a
+energiei electrice livrate constituie infracțiune și se pedepsește cu închisoare de la 6 luni la 4 ani.
+(3) Deteriorarea, modificarea fãrã drept sau sustragerea componentelor instalațiilor energetice
+constituie infracțiune și se pedepsește cu închisoare de la unu la 5 ani.
+(4) Executarea sau folosirea de instalații clandestine în scopul racordãrii directe la rețea sau
+pentru ocolirea echipamentelor de mãsurare constituie infracțiune și se pedepsește cu închisoare
+de la unu la 5 ani.
+(5) În cazul în care infracțiunile prevãzute la alin. (2)Ñ(4) sunt sãvârșite de un salariat al unui
+titular de licențã, limita minimã și maximã specialã a pedepsei se majoreazã cu câte un an.
+(6) Tentativa la infracțiunile prevãzute de alin. (2)Ñ(4) se pedepsește.
+Art. 63. Ñ (1) Constituie contravenții urmãtoarele fapte:
+a) încãlcarea reglementãrilor tehnice și comerciale stabilite de cãtre autoritatea competentã, precum și nerespectarea condițiilor asociate licențelor și autorizațiilor;
+b) influențarea formãrii libere a prețurilor pe piața energiei electrice;
+c) refuzul nejustificat al producãtorilor de a respecta obligațiile care le revin potrivit art. 30;
+d) nerespectarea dispozițiilor operative ale operatorului de transport și de sistem;
+e) exploatarea unor instalații care nu respectã condițiile tehnice de securitate și care pot dãuna
+persoanelor fizice, proprietãții și/sau mediului înconjurãtor;
+f) refuzul nejustificat al accesului oricãrui solicitant la rețelele electrice de transport și de
+distribuție;
+g) revânzarea de energie electricã de cãtre un consumator captiv fãrã acordul furnizorului și operatorului de distribuție;
+h) refuzul de a permite verificãrile și inspecțiile prevãzute prin reglementãri sau dispuse de autoritatea competentã, precum și obstrucționarea acesteia în îndeplinirea atribuțiilor sale;
+i) neprezentarea datelor și informațiilor solicitate de autoritatea competentã sau furnizarea
+incorectã și incompletã de date și informații necesare desfãșurãrii activitãții autoritãții competente,
+precum și nerealizarea mãsurilor dispuse de aceasta;
+j) refuzul consumatorilor de a permite accesul la grupurile de mãsurare;
+k) nerespectarea obligațiilor de producere și/sau de ofertare cãtre operatorul pieței de energie
+electricã conform prevederilor legale, fãrã confirmarea operatorului de transport și de sistem;
+l) orice acțiune a operatorului de transport și de sistem de alterare nejustificatã a ordinii de merit
+a capacitãților de producere;
+m) furnizarea unor informații incomplete sau eronate partenerilor externi ai SEN de cãtre operatorul de transport și de sistem;
+n) transmiterea de date cu caracter confidențial privind operațiunile comerciale;
+o) întârzierea nejustificatã în racordarea noilor consumatori sau în realimentarea acestora dupã
+întrerupere, precum și propunerea unor soluții de racordare, altele decât cele optime din punct de
+vedere tehnic și cu costuri minime, conform actelor normative în vigoare și reglementãrilor stabilite
+de autoritatea competentã;
+p) executarea de sãpãturi sau lucrãri de orice fel în zonele de protecție a instalațiilor, fãrã consimțãmântul prealabil al titularului acestora;
+q) nerespectarea standardelor de performanțã stabilite prin reglementãrile în vigoare;
+r) nerespectarea mãsurilor de utilizare eficientã a resurselor în sector;
+s) interzicerea de cãtre persoane fizice sau juridice a accesului operatorului de rețea pentru
+efectuarea lucrãrilor de retehnologizare, reparații, revizii, intervenții la avarii și pentru defrișare sau a
+tãierilor de modelare pentru crearea și menținerea distanței regulamentare fațã de rețelele electrice;
+ș) practicarea de prețuri sau tarife pentru activitãțile reglementate, fãrã aprobarea autoritãții competente.
+(2) Contravențiile prevãzute la alin. (1) lit. a)Ñi) se sancționeazã cu amendã de la 1.000.000 lei
+la 5.000.000 lei, în cazul persoanelor fizice, și cu amendã de la 100.000.000 lei la 500.000.000 lei,
+în cazul persoanelor juridice, iar contravențiile prevãzute la alin. (1) lit. j)Ñș), cu amendã de la
+1.000.000 lei la 2.000.000 lei, în cazul persoanelor fizice, și cu amendã de la 100.000.000 lei la
+200.000.000 lei, în cazul persoanelor juridice.
+(3) Constatarea contravențiilor și aplicarea sancțiunilor se fac de cãtre:
+a) reprezentanții împuterniciți ai autoritãții competente, în cazul contravențiilor prevãzute la
+alin. (1) lit. a), b), d), h), i), j), k), l), m), n), o), r) și ș);
+b) reprezentanții împuterniciți ai consiliilor locale, în cazul contravențiilor prevãzute la alin. (1)
+lit. c), e), f), g), p), q) și s).
+(4) Constatarea contravențiilor prevãzute la alin. (1) lit. e), g), p) și s) se poate face, în afara
+persoanelor prevãzute la alin. (3), și de cãtre reprezentanții împuterniciți ai titularilor de licențã,
+acestora revenindu-le obligația sesizãrii organelor în drept sã aplice sancțiunile, conform prevederilor
+prezentei legi.
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 511/16.VII.2003
+
+Regimul juridic al
+contravențiilor
+Constatarea
+contravențiilor
+
+Art. 64. Ñ Contravențiilor prevãzute la art. 63 le sunt aplicabile prevederile Ordonanței
+Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobatã cu modificãri și completãri
+prin Legea nr. 180/2002, cu modificãrile ulterioare.
+Art. 65. Ñ (1) În vederea constatãrii contravențiilor prevãzute la art. 63 alin. (1), agenții constatatori menționați la art. 63 alin. (3) și (4) au acces, în condițiile legii, în clãdiri, încãperi, la instalații
+și în orice alt loc, pânã la receptoarele de energie, și au dreptul sã verifice instalația, precum și sã
+execute mãsurãtori și determinãri. Proprietarii și cei care exploateazã aceste clãdiri, locuri sau
+instalații sunt obligați sã punã la dispoziție agenților constatatori documentele și actele specifice activitãții lor.
+(2) Organele de poliție sunt obligate sã acorde, la cerere, sprijin agenților constatatori.
+CAPITOLUL VIII
+Dispoziții tranzitorii și finale
+
+Intrarea în vigoare
+
+Art. 66. Ñ (1) Prezenta lege intrã în vigoare în termen de 30 de zile de la data publicãrii ei în
+Monitorul Oficial al României, Partea I.
+(2) La data intrãrii în vigoare a prezentei legi se abrogã:
+a) Ordonanța de urgențã a Guvernului nr. 63/1998 privind energia electricã și termicã, publicatã
+în Monitorul Oficial al României, Partea I, nr. 519 din 30 decembrie 1998, cu modificãrile ulterioare;
+b) Ordonanța de urgențã a Guvernului nr. 29/1998 privind înființarea, organizarea și funcționarea
+Autoritãții Naționale de Reglementare în Domeniul Energiei Ñ ANRE, aprobatã cu modificãri prin
+Legea nr. 99/2000, cu modificãrile și completãrile ulterioare.
+(3) În termen de 6 luni de la intrarea în vigoare a prezentei legi, ministerul de resort și
+autoritatea competentã vor elabora regulamentele care se aprobã prin hotãrâri ale Guvernului.
+
+Aceastã lege a fost adoptatã de Camera Deputaților în ședința din 17 iunie 2003, cu respectarea prevederilor art. 74
+alin. (1) din Constituția României.
+p. PREȘEDINTELE CAMEREI DEPUTAÞILOR,
+
+VIOREL HREBENCIUC
+Aceastã lege a fost adoptatã de Senat în ședința din 26 iunie 2003, cu respectarea prevederilor art. 74 alin. (1) din
+Constituția României.
+PREȘEDINTELE SENATULUI
+
+NICOLAE VÃCÃROIU
+București, 8 iulie 2003.
+Nr. 318.
+PREȘEDINTELE ROMÂNIEI
+
+DECRET
+privind promulgarea Legii energiei electrice
+În temeiul prevederilor art. 77 alin. (1) și ale art. 99 alin. (1) din
+Constituția României,
+Președintele României
+
+d e c r e t e a z ã:
+
+Articol unic. Ñ Se promulgã Legea energiei electrice și se dispune
+publicarea acestei legi în Monitorul Oficial al României, Partea I.
+PREȘEDINTELE ROMÂNIEI
+
+ION ILIESCU
+București, 7 iulie 2003.
+Nr. 453.
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 5069427282 Direcția de Trezorerie și Contabilitate Publicã a Municipiului București
+(alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 411.97.54, tel./fax 410.77.36.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 511/16.VII.2003 conține 16 pagini.
+
+Prețul de vânzare 13.500 lei
+
+ISSN 1453Ñ4495
+
+

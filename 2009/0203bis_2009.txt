@@ -1,0 +1,3887 @@
+Anul 177 (XXI) — Nr. 203 bis
+
+PARTEA I
+
+Marți, 31 martie 2009
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+SUMAR
+
+Pagina
+Anexa la Ordinul ministrului transporturilor și infrastructurii
+nr. 247/2009
+pentru
+aprobarea
+Reglementării
+aeronautice civile române privind proiectarea și
+exploatarea tehnică a heliporturilor — RACR-AD-PETH,
+ediția 1/2009 ..............................................................
+
+3–78
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII
+
+ORDIN
+pentru aprobarea Reglementării aeronautice civile române
+privind proiectarea și exploatarea tehnică a heliporturilor — RACR-AD-PETH, ediția 1/2009*)
+Pentru îndeplinirea atribuțiilor ce revin Ministerului Transporturilor și Infrastructurii, ca autoritate de stat în domeniul
+transporturilor,
+în temeiul prevederilor art. 4 lit. b) din Ordonanța Guvernului nr. 29/1997 privind Codul aerian civil, republicată, cu
+modificările și completările ulterioare, al art. 11 din Ordonanța de urgență a Guvernului nr. 221/2008 pentru stabilirea unor măsuri
+de reorganizare în cadrul administrației publice centrale, cu modificările ulterioare, precum și al art. 46 alin. (3) din Legea nr. 90/2001
+privind organizarea și funcționarea Guvernului României și a ministerelor, cu modificările și completările ulterioare,
+ministrul transporturilor și infrastructurii emite următorul ordin:
+Art. 1. — Se aprobă Reglementarea aeronautică civilă
+română
+
+privind
+
+proiectarea
+
+și
+
+exploatarea
+
+tehnică
+
+a
+
+heliporturilor — RACR-AD-PETH, ediția 1/2009, prevăzută în
+anexa care face parte integrantă din prezentul ordin.
+
+Art. 2. — Regia Autonomă ăAutoritatea Aeronautică Civilă
+Română” va lua măsuri pentru ducerea la îndeplinire a
+prevederilor prezentului ordin.
+Art. 3. — Prezentul ordin se publică în Monitorul Oficial al
+României, Partea I.
+
+Ministrul transporturilor și infrastructurii,
+Radu Mircea Berceanu
+
+București, 10 martie 2009.
+Nr. 247.
+
+*) Ordinul nr. 247/2009 a fost publicat în Monitorul Oficial al României, Partea I, nr. 203 din 31 martie 2009 și este reprodus și în acest număr bis.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+MINISTERUL TRANSPORTURILOR ŞI
+INFRASTRUCTURII
+
+Reglementări
+Aeronautice
+Civile
+Române
+RACR – AD – PETH
+Proiectarea şi exploatarea tehnică a
+heliporturilor
+
+Ediţia 01/2009
+
+3
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+4
+
+REGLEMENTARE AERONAUTICĂ CIVILĂ ROMÂNĂ
+privind proiectarea şi exploatarea tehnică a heliporturilor
+RACR – AD – PETH, ediţia 01/2009
+CONŢINUT
+PREAMBUL
+CAPITOLUL 1. Generalităţi
+1.1 Definiţii, abrevieri şi simboluri
+1.2 Aplicabilitate
+1.3 Sisteme de referinţă
+CAPITOLUL 2. Informaţii privind heliporturile
+2.1 Informaţii aeronautice
+2.2 Punctul de referinţă al heliportului
+2.3 Cota heliportului
+2.4 Dimensiunile heliportului şi informaţii conexe
+2.5 Distanţe declarate
+2.6 Coordonarea dintre serviciile de informare aeronautică şi administratorul heliportului
+CAPITOUL 3.
+Caracteristici fizice
+3.1 Heliporturi de suprafaţă
+- Aria de apropiere finală şi de decolare
+- Prelungirea degajată pentru elicoptere
+- Aria prizei de contact şi de zbor
+- Aria de siguranţă
+- Căi de rulare la sol pentru elicoptere
+- Căi de rulaj aerian
+- Traiect de tranzit în zbor
+- Platforme
+- Amplasarea unei arii de apropiere finală şi de decolare în raport cu o pistă sau
+o cale de rulare
+3.2 Heliporturi în terase
+- Aria de acoperire finală şi de decolare şi aria prizei de contact şi de zbor
+- Aria de siguranţă
+3.3 Heliplatforme
+- Aria de apropiere finală şi de decolare şi aria prizei de contact şi de zbor
+3.4 Heliporturi pe nave
+- Aria de apropiere finală şi de decolare şi aria prizei de contact şi de zbor
+CAPITOLUL 4. Limitarea şi eliminarea obstacolelor
+4.1 Suprafeţe şi sectoare de limitare a obstacolelor
+- Suprafaţă de apropiere
+- Suprafaţă de tranziţie
+- Suprafaţă orizontală interioară
+- Suprafaţă conică
+- Suprafaţă de decolare şi urcare
+- Suprafaţă sectorului degajat de obstacole la heliplatforme
+- Suprafaţă reglementată a înălţimii obstacolelor la heliplatforme
+4.2 Cerinţe de limitare a obstacolelor
+- Heliporturi de suprafaţă
+- Heliporturi în terase
+- Heliporturi – platforme
+- Heliporturi pe nave
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+CAPITOLUL 5. Mijloace vizuale
+5.1 indicatoare
+- Indicatoarele de direcţie a vântului
+5.2 Marcaje şi balize
+- Marcajul distinctiv al heliportului
+- Marcajul masei maxime admise
+- Marcajele sau balizele ariei de apropiere finală şi de decolare
+- Marcajul de identificare al ariei de apropiere finală şi de decolare
+- Marcajul punctului ţintă
+- Marcajul ariei prizei de contact şi de zbor
+- Marcajul prizei de contact
+- Marcajul nominal al heliportului
+- Marcajul sectorului degajat de obstacole pentru heliplatforme
+- Marcajul căilor de circulaţie
+- Marcajul ariei de troliu
+- Balizele căilor de rulaj aerian
+- Balizele traiectului de tranzit în zbor
+5.3 Marcaje luminoase
+- Far de heliport
+- Dispozitive luminoase de apropiere
+- Dispozitivul de dirijare vizuală pentru aliniere
+- Forma semnalelor
+- Repartiţia intensităţii luminoase
+- Reglajul în azimut al traiectoriei de apropiere
+- Caracteristicile dispozitivului de ghidare vizuală de apropiere
+- Indicatorul vizual de apropiere
+- Formatul semnalului pentru dispozitivul HAPI
+- Panta de apropiere şi calajul în poziţie
+- Caracteristicile ansamblului luminos
+- Suprafaţă de limitare a obstacolelor pentru indicatoare vizuale de pantă de
+apropiere
+- Luminile ariei de apropiere finală şi de decolare
+- Luminile punctului ţintă
+- Dispozitive luminoase ale ariei prizei de contact şi de zbor
+- Iluminarea de proiectare a ariei de troliu
+- Luminile căilor de rulare
+- Mijloace vizuale pentru semnalizarea obstacolelor
+- Iluminarea obstacolelor cu proiectoare
+CAPITOLUL 6. Servicii de heliport
+6.1 Salvarea şi lupta contra incendiilor:
+- Nivelul de protecţie asigurat
+- Agenţi de stingere
+- Materiale de salvare
+- Timpul de intervenţie
+Anexa. Cerinţe privind calitatea datelor aeronautice
+
+2
+
+5
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+PREAMBUL
+(1) Activitatea aeronautică civilă pe teritoriul şi în spaţiul aerian naţional este
+reglementată prin Codul aerian civil, şi prin actele normative interne din domeniu, în
+conformitate cu prevederile Convenţiei privind aviaţia civilă internaţională, semnată la
+Chicago la 7 decembrie 1944, ale altor convenţii şi acorduri internaţionale la care
+România este parte.
+(2) Reglementările aeronautice civile române sunt elaborate, emise sau adoptate în
+conformitate cu prevederile legislaţiei naţionale în vigoare, precum şi în conformitate
+cu prevederile Convenţiei privind aviaţia civilă internaţională, semnată la Chicago la 7
+decembrie 1944, cu standardele şi practicile recomandate în Anexele la aceasta,
+precum şi cu prevederile convenţiilor şi acordurilor internaţionale la care România este
+parte, astfel încât să se asigure un caracter unitar, coerent şi modern procesului de
+elaborare şi dezvoltare a sistemului naţional de reglementări aeronautice civile
+române.
+(3) În conformitate cu prevederile Codului Aerian şi în scopul reglementării domeniului
+aviaţiei civile, Ministerul Transporturilor şi Infrastructurii (MTI), în calitatea să de
+autoritate de stat, asigură direct sau prin delegare de competenţă unor organisme
+tehnice specializate, elaborarea şi punerea în aplicare a reglementărilor aeronautice
+corespunzătoare, care au caracter obligatoriu pentru toţi participanţii la activităţile
+aeronautice civile şi conexe, precum şi supravegherea siguranţei operaţionale.
+(4) În conformitate cu prevederile Hotărârii Guvernului României (HGR) nr. 405/
+12.09.1993 şi ale Ordinelor ministrului lucrărilor publice, transporturilor şi locuinţei
+(OMLPTL) nr. 1233/2001 şi nr. 79/2002, Autoritatea Aeronautică Civilă Română
+(AACR) asigură aplicarea reglementărilor aeronautice naţionale şi supravegherea
+respectării lor de către persoanele juridice şi fizice, române sau străine, care
+desfăşoară activităţi aeronautice civile ori proiectează sau execută produse şi servicii
+pentru aviaţia civilă pe teritoriul României, precum şi a prevederilor înţelegerilor şi
+acordurilor aeronautice internaţionale la care statul român este parte.
+(5) Prezenta reglementare aeronautică civilă română reprezintă transpunerea în cadrul
+reglementat naţional a standardelor şi practicilor recomandate prevăzute în Anexa 14
+la Convenţia privind aviaţia civilă internaţională ăAerodromes’’ - Aerodromuri, Vol.2
+’’Heliports’’ / ed. 2, iulie 1995, cu amendamentele ulterioare (denumită în continuare ca
+Anexa 14 ICAO – Vol.2).
+Volumul 1 al Anexei 14 ICAO este transpus în sistemul reglemntărilor aeronautice
+civile române prin RACR – AD – PETA: Proiectarea şi exploatarea tehnică a
+aerodromurilor (ediţia 1 / 2008, aprobată cu Ordinul ministrului transporturilor nr.
+1148/2008). Prin coroborarea preverilor RACR – AD – PETH cu prevederile RACR –
+AD – PETA se asigură o coroborare similară celei existente între prevederile volumelor
+2 şi 1 ale Anexei 14 ICAO.
+(6) Prezenta reglementare, potrivit prevederilor Anexei 14 ICAO – Vol.2, se aplică în
+vederea stabilirii în România a condiţiilor de heliport specifice şi conexe necesare,
+astfel încât traficul aerian să se desfăşoare în siguranţă, regularizat şi eficient. Scopul
+reglementării, împreună cu celelalte reglementări naţionale din domeniul
+aerodromurilor şi conexe, este de a asigura că operaţiunile aeronautice pe heliporturi
+
+3
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+se desfăşoară în condiţii uniforme, menite a asigura siguranţa, regularitatea şi eficienţa
+operaţiunilor respective.
+(7) Regulile şi celelalte prevederi cu caracter de recomandare sau îndrumare conţinute în
+prezenta reglementare aeronautică civilă română au fost elaborate în strânsă corelare
+cu înţelesul standardelor şi practicilor recomandate adoptate de Consiliul ICAO potrivit
+prevederilor Convenţiei de la Chicago şi care constituie conţinutul Anexelor la
+Convenţie. Astfel, potrivit prevederilor Convenţiei, statutul componentelor unei
+Anexe la Convenţia de la Chicago este după cum urmează:
+•
+
+Standardele constituie toate acele specificaţii privind caracteristici fizice, configuraţii,
+materiale, performanţe, personal sau proceduri a căror aplicare uniformă este
+recunoscută ca fiind necesară pentru siguranţa sau regularitatea navigaţiei aeriene
+internaţionale, specificaţii cărora statele contractante la Convenţia de la Chicago
+trebuie să li se conformeze potrivit prevederilor Convenţiei. În cazul împosibilităţii de
+conformare, statul contractant este obligat să notifice Consiliul ICAO, potrivit Art. 38 al
+Convenţiei;
+
+•
+
+Practicile recomandate constituie toate acele specificaţii privind caracteristici fizice,
+configuraţii, materiale, performanţe, personal sau proceduri a căror aplicare uniformă
+este recunoscută ca fiind oportună, de dorit, în înteresul siguranţei, regularităţii sau
+eficienţei navigaţiei aeriene internaţionale, specificaţii despre care se presupune că
+statele contractante întreprind eforturile necesare în vederea conformării cu ele, potrivit
+prevederilor Convenţiei.
+
+•
+
+Apendicii (ăAppendices’’) la Anexele ICAO conţin prevederi grupate separat, din
+considerente practice, dar care fac parte întegrantă din standardele şi practicile
+recomandate adoptate de Consiliul ICAO.
+
+•
+
+Definiţiile termenilor utilizaţi în standardele şi practicile recomandate nu au statut
+îndependent, dar constituie părţi esenţiale ale fiecărui standard şi fiecărei practici
+recomandate în care se utilizează termenul respectiv, având în vedere că orice
+schimbare a înţelesului termenului respectiv ar afecta specificaţia.
+
+•
+
+Tabelele şi figurile, care suplimentează sau ilustrează standardele şi practicile
+recomandate şi la care se face referire în cuprinsul textului fiecărei Anexe la Convenţie,
+constituie parte întegrantă a respectivelor standarde şi practici recomandate şi au
+acelaşi statut cu acestea.
+Totodată, se va avea în vedere că Anexele ICAO mai conţin anumite materiale
+aprobate de către Consiliul ICAO spre publicare în asociere cu standardele şi practicile
+recomandate, după cum urmează:
+
+•
+
+Preambuluri (ăForewords’’) - conţin prevederi explicative şi precizări în ceea ce
+priveşte istoricul acţiunilor Consiliului ICAO, înclusiv precizări privind obligaţiile statelor
+contractante referitor la aplicarea standardelor şi practicilor recomandate ce decurg din
+Convenţia de la Chicago şi din Rezoluţia de Adoptare a Convenţiei;
+
+•
+
+Introduceri (ăIntroductions’’) - cuprind prevederi explicative introduse la începutul
+părţilor, capitolelor sau secţiunilor Anexei, în scopul de a facilita înţelegerea modului
+cum trebuie aplicat textul;
+
+•
+
+Note (ă’Notes’’) - sunt încluse în text, acolo unde este cazul, fiind menite a furniza
+informaţii sau îndrumări privind anumite documentaţii de referinţă care trebuie avute în
+considerare în asociere cu standardul sau practica recomandată în cauză; notele nu
+constituie parte integrantă din standarde sau din practicile recomandate;
+4
+
+7
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+8
+
+(8) În sensul precizărilor de mai sus, se va ţine seama că prevederile RACR-AD-PETH au
+fost elaborate astfel încât:
+•
+
+Standardele prevăzute în Anexa 14 ICAO – Vol. 2 sunt transpuse întegral în RACRAD-PETH ca reguli, în conformitate cu prevederile ICAO, făcându-se totodată, acolo
+unde a fost cazul, particularizările necesare în scopul de a se facilita înţelegerea şi
+aplicarea corectă, de exemplu acolo unde standardul ICAO prevede o responsabilitate
+a statului, regula corespunzătoare din RACR-AD-PETH precizează, în contextul
+instituţional din aviaţia civilă română, cărei anume funcţii sau instituţii îi revine
+responsabilitatea respectivă: autorităţii de stat, autorităţii delegate/desemnate,
+administratorilor heliporturilor, sau altor organizaţii.
+
+•
+
+Practicile recomandate prevăzute în Anexa 14 ICAO – Vol.2 sunt transpuse fidel în
+RACR-AD-PETH, ca reguli, dar în special ca recomandari sau ca indicaţii orientative,
+acolo unde s-a considerat că este oportună menţinerea unei anumite flexibilităţi,
+permisă în contextul Convenţiei de la Chicago, în ceea ce priveşte aplicarea în
+România a recomandarilor respective. Aceeaşi observaţie este valabilă şi în ceea ce
+priveşte precizările suplimentare ce au fost întroduse în text, după caz.
+
+•
+
+Prezenta reglementare, ca transpunere a Anexei 14 ICAO – Vol.2, a preluat conţinutul
+documentului de referinţă, inclusiv practicile recomandate. S-au considerat utile
+includerea şi cunoaşterea, ca atare, a practicilor respective, atât pentru orientările şi
+soluţiile alternative pe care le oferă, cât şi pentru pregătirea cadrului/condiţiilor de
+aplicare în perspectiva transformării unor recomandări ICAO în standarde / cerinţe
+obligatorii.
+
+•
+
+Au fost transpuse în prezenta reglementare şi acele standarde şi practici recomandate
+ale Anexei 14 ICAO – Vol.2 pentru care, în România, la data aprobării prezentei ediţii,
+nu sunt întrunite întegral condiţiile tehnico-operaţionale specifice, considerând că
+implementarea acestor standarde şi practici ca cerinţe naţionale este necesară pentru
+dezvoltarea, în perspectivă, a domeniului heliporturilor şi conex.
+
+•
+
+Apendicele nr.1 la Anexa 14 ICAO – Vol.2 este transpus ca Anexa la RACR-AD-PETH.
+
+•
+
+Tabelele şi figurile din Anexa 14 ICAO – Vol.2, înclusiv din Apendicele Anexei 14
+ICAO– Vol.2 au fost, de asemenea, transpuse în RACR-AD-PETH, păstrându-se
+conformitatea textului şi a numerotării/identificării lor.
+
+•
+
+Notele din Anexa 14 ICAO – Vol.2 au fost transpuse, parţial sau total, după caz, ca text
+asociat prevederilor reglementării de faţă, acolo unde s-a apreciat că precizările aduse
+sunt necesare sau utile în aplicarea prevederilor respective.
+
+•
+
+Preambulul la prezenta reglementare preia, parţial, precizările din Preambulul
+Anexei14 ICAO – Vol.2.
+
+•
+
+Reguli şi recomandari suplimentare au fost încluse şi numerotate în continuarea
+prevederilor Anexei 14 ICAO – Vol.2, la capitolele şi secţiunile corespunzătoare.
+
+(10) Respectarea regulilor şi cerinţelor prevăzute în RACR-AD-PETH trebuie realizată şi
+supravegheată prin aplicarea de proceduri şi instrucţiuni de aeronautică civilă,
+elaborate şi emise atât de către autoritatea aeronautică de supraveghere a siguranţei
+zborului, la nivel naţional, cât şi, pe linie internă, de către administratorii heliporturilor.
+Agenţii aeronautici cărora le sunt aplicabile prevederile RACR-AD-PETH trebuie să
+asigure respectarea regulilor respective prin acele mijloace de conformare,
+recomandări sau îndrumări, prevăzute în manualele de profil, circularele, emise de
+5
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+ICAO în acest scop, dar şi utilizând materialele cu caracter orientativ şi indicaţiile altor
+organizaţii internaţionale, aplicabile zonei noastre geografice. Devierea de la
+standardele ICAO şi de la mijloacele acceptabile de conformare poate fi permisă numai
+în condiţiile în care administratorii heliporturilor sau agenţii aeronautici implicaţi justifică
+şi argumentează autorităţii aeronautice de supraveghere a siguranţei, fără echivoc,
+necesitatea diferenţei/devierii faţă de standardul şi/sau practicile recomandate în
+cauză, obţinând, cu avizul autorităţii de supraveghere, aprobarea din partea autorităţii
+de stat şi, după caz, propunând modificarea corespunzătoare a cadrului reglementat,
+cu respectarea, totodată, a prevederilor Art. 38 al Convenţiei de la Chicago, privind
+raportarea şi publicarea diferenţelor faţă de standardele şi practicile recoamndate ale
+ICAO.
+
+CAPITOLUL 1. GENERALITĂŢI
+Notă introductivă.– Prezenta reglementare conţine reguli şi recomandări (specificaţii)
+care prescriu caracteristicile fizice şi suprafeţele de limitare a obstacolelor pentru
+heliporturi, precum şi anumite facilităţi şi servicii tehnice asigurate în mod normal pe un
+heliport. Aceste specificaţii nu au scopul să limiteze sau să reglementeze operarea
+aeronavelor.
+Prevederile prezentei reglementări modifică şi completează prevederile reglementării
+RACR – AD – PETA care, după caz, se aplică şi heliporturilor.
+Specificaţiile reglementării de faţă se referă la heliporturi, în general, inclusiv la zonele
+utilizate numai de elicoptere pe aerodromurile operate în principal de avioane.
+1. 1 Definiţii, abrevieri şi simboluri
+În cuprinsul prezentei reglementări, termenii, abrevierile şi simbolurile utilizate au
+următoarele semnificaţii:
+Acurateţe
+
+Grad de conformitate între o valoare estimată sau măsurată şi
+valoarea reală.
+Notă.– În cazul datelor de poziţie măsurate, acurateţea se
+exprimă de regulă sub forma unei distanţe faţă de o poziţie
+specificată, în limita căreia se regăseşte poziţia reală, cu un
+anumit nivel de încredere precizat.
+
+Aria de apropiere
+
+Un plan înclinat sau o combinaţie a planurilor, cu o pantă
+începând de la sfârşitul suprafeţei de siguranţă, centrat pe o linie
+ce nu trece prin nici un obstacol.
+
+Aria de apropiere
+după instrumente
+
+Aria de apropiere de o platformă, după instrumente, sau de o
+platformă cu apropiere de precizie dotată cu aparatura necesară.
+
+Aria de apropiere Aria definită deasupra căreia se derulează faza finală a
+finală şi de decolare manevrelor de apropiere până la zborul staţionar şi aterizare şi
+partea de la care încep manevrele de decolare. Când FATO este
+(FATO)
+destinata elicopterelor din Clasa de performanţă 1, aria definită
+cuprinde aria de decolare întreruptă utilizabilă.
+Aria de decolare şi Partea din aria unui heliport pe care sau de pe care elicopterele
+aterizează / decolează şi care cuprinde şi aria de luare a
+aterizare
+contactului.
+
+6
+
+9
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+10
+
+Aria de luare
+contactului
+
+a Partea din aria de decolare şi aterizare pe care este preferabil ca
+elicopterul să aterizeze.
+
+Aria de manevră
+
+Partea din aria heliportului destinată manevrării elicopterelor la
+suprafaţă solului.
+
+Aria de siguranţă
+
+Pe un heliport, aria definită în jurul ariei de apropiere finală şi de
+decolare degajată de obstacole, destinată reducerii riscurilor
+deteriorării materiale în cazul
+când elicopterul se abate
+accidental de la aria de apropiere finală şi de decolare.
+
+Aria de staţionare
+
+Aria destinată îmbarcării, debarcării pasagerilor şi mărfurilor.
+
+Aria
+prizei
+de Aria portantă pe care un elicopter poate efectua o priza de
+contact şi de zbor contact sau decolarea.
+(TLOF)
+Aria heliportului pe care sunt dispuse semnalele la sol
+Aria semnalelor
+Balizaj de delimitare
+
+Balizaj utilizat pentru indicarea limitelor ariei de aterizare
+
+Cale de rulaj aerian
+
+Linia definită pe suprafaţă pentru circulaţia elicopterelor, în rulaj
+aerian
+
+Cale de rulare la sol Cale de rulare la sol destinată numai pentru elicoptere
+pentru elicoptere
+Sistem de referinţă temporală discret care furnizează baza
+Calendar
+pentru definirea poziţiei în timp cu o rezoluţie de o (una) zi (ISO
+19108).
+Calendar gregorian
+
+Calendar aflat în utilizare generală; introdus iniţial în 1582,
+pentru a defini un an care aproximează mai îndeaproape anul
+tropical decât calendarul iulian (ISO 19108).
+
+Calitatea datelor
+
+Un anumit grad sau nivel de încredere că datele furnizate
+îndeplinesc cerinţele utilizatorului acestora în ceea ce priveşte
+acurateţea, rezoluţia şi integritatea.
+
+Clasa 1 de
+performanţă
+
+Elicopterul care în eventualitatea cedării unui motor critic este
+capabil să aterizeze nedepăşind distanţa de decolare întreruptă
+disponibilă sau să continue în mod sigur zborul până la suprafaţă
+corespunzătoare de aterizare.
+
+Clasa 2 de
+performanţă
+
+Elicopterul care în eventualitatea cedării unui motor critic, are
+posibilitatea să continue zborul sigur cu excepţia cazului când
+cedarea apare devreme în timpul manevrei de decolare sau
+târziu în timpul manevrei de aterizare, în care cazuri se impune o
+aterizare forţată.
+
+Clasa 3 de
+performanţă
+
+Elicopterul care în eventualitatea cedării motorului oricând în
+timpul zborului, îi este necesară aterizarea forţată, cum ar fi cazul
+elicopterului cu un singur motor.
+
+Cota unui heliport
+
+Cota celui mai înalt punct de pe aria de aterizare. Se măsoară şi
+se comunică serviciilor de informare aeronautică în metri sau
+picioare.
+
+Data
+
+Orice cantitate sau set de cantităţi care pot servi ca referinţă ori
+bază de calcul pentru alte cantităţi (ISO 19104).
+
+Declinaţie
+
+Diferenţă unghiulară de aliniere între radialul zero al unei staţii
+7
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+magnetică a staţiei
+
+VOR şi direcţia Nord adevărat, determinată la momentul
+calibrării staţiei VOR.
+
+Date geodezice
+
+Un set minim de parametri necesar pentru a defini locaţia şi
+orientarea sistemului local de referinţă, în raport cu sistemul
+global de referinţă.
+
+Distante decalate –
+Heliporturi
+
+a) Distanţa disponibilă pentru decolare (TODAH).reprezeintă
+lungimea ariei de apropiere finală şi de decolare mărită cu
+lungimea prelungirilor degajate (dacă există) pentru
+elicoptere, care este declarată utilizabila şi permite ca
+elicopterele să fie manevrate în condiţii bune la decolare.
+b) Distanţa disponibilă pentru decolarea întreruptă (RTODAH)
+reprezintă lungimea ariei de apropiere finală şi de decolare
+utilizabila şi care permite elicopterelor din clasa de
+performanta 1 de a rezolva cu bine o decolare întrerupta.
+c) Distanţa disponibilă la aterizare (LDAH) reprezintă lungimea
+ariei de apropiere finală şi de decolare împreună cu lungimea
+tuturor ariilor suplimentare declarate utilizabile şi care permite
+tuturor elicopterelor să rezolve cu bine manevrele de
+aterizare plecând de la o înălţime definită.
+
+Geoid
+
+Suprafaţă echipotenţială în câmpul gravitaţional al Pământului,
+care coincide cu nivelul mediu al mării neperturbat (MSL) extins
+în mod continuu sub continente.
+Notă .- Forma geoidul este neregulată, din cauza perturbaţiilor
+gravitaţionale locale (valuri, salinitate, curenţi, etc.), iar direcţia
+forţei gravitaţionale este perpendiculară pe geoid în fiecare punct
+al său.
+
+Heliplatformă
+
+Heliport situat pe o structură marină flotantă sau fixă
+
+Heliport
+
+Aria de teren situată la nivelul solului sau în terase, utilizată în
+scopul aterizării şi decolării elicopterelor; această arie poate
+cuprinde amenajări utile exploatării elicopterelor, arii de
+staţionare, încărcare, descărcare, aşteptare, pregătirea decolării,
+alimentare cu carburanţi şi echipament de întreţinere
+
+Heliport de
+suprafaţă
+Heliport în terase
+
+Heliport situat pe sol sau pe apă
+Heliport situat pe o structură ridicată pe pământ
+
+Integritate (cu
+referire la date
+aeronautice)
+
+Grad de încredere că o dată aeronautică şi valoarea ei nu au fost
+pierdute sau alterate din momentul când data respectivă a fost
+determinată sau amendată în mod autorizat.
+
+Înălţime elipsoidică
+(Înălţime geodezică)
+
+Înălţime faţă de elipsoidul de referinţă, măsurată în exteriorul
+acestuia pe perpendiculara prin punctul considerat.
+
+Înălţimea
+ortometrică
+
+Înălţimea unui punct faţă de geoid, prezentată în general ca
+înălţime faţă de nivelul mediu al mării (MSL).
+
+Loc de operare
+HEMS
+
+Amplasament ales de către pilotul comandant în timpul zborului
+HEMS pentru aterizare / decolare
+
+Loc de staţionare
+pentru elicoptere
+
+Locul care permite staţionarea elicopterelor şi/sau priza de
+
+8
+
+11
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+12
+
+contact şi de zbor a elicopterelor
+Toate obiectele fixe (temporare sau permanente) şi mobile, sau
+părţi ale acestora, care sunt amplasate pe suprafaţă de mişcare
+a aeronavelor sau care se extind deasupra unei suprafeţe
+definite, destinată să protejeze aeronavele în zbor.
+
+Obstacol
+
+Distanţa geoidului deasupra (pozitivă) sau dedesubtul (negativă)
+elipsoidului de referinţă, definit matematic.
+Notă.- Referitor la elipsoidul definit în Sistemul Geodezic
+Global – 1984 (WGS – 84), ondulaţia geoidică WGS – 84 într-un
+punct dat reprezintă diferenţa dintre înălţimea elipsoidică WGS –
+84 şi înălţimea ortometrică în punctul respectiv.
+Prelungirea degajata Suprafaţă definita pe sol sau pe apa, aflata sub controlul
+autorităţii competente aleasa ori amenajata ca o Suprafaţă
+pentru elicoptere
+corespunzătoare deasupra căreia un elicopter din clasa de
+performanta 1 poate accelera şi ajunge la o înălţime dorita.
+
+Ondulaţia geoidului
+
+Traiect de tranzit în Traiectoria definită pe suprafaţă pentru tranzitul în zbor al
+elicopterelor
+zbor
+Verificare
+redundantă
+(CRC)
+
+Algoritm matematic care se aplică exprimării în format digital a
+ciclică unei date şi care furnizează un anumit nivel de încredere că data
+respectivă nu s-a pierdut sau nu a fost alterată.
+
+Abrevieri
+AACR
+AIP
+ASPSL
+cd
+cm
+CRC
+D
+FATO
+ft
+HAPI
+Hz
+HEMS
+IGE
+IMC
+kg
+km/h
+kt
+l
+LDAH
+LP
+l/min
+m
+
+Autoritatea Aeronautică Civilă Română
+Publicaţie de informare aeronautică (Aeronautical Information Publication)
+Iluminat prin panouri cu lumină punctuală (Arrays of Segmented Point
+Source Lighting)
+Candelă
+Centimetru
+Verificare redundantă ciclică (Cyclic Redundancy Check)
+Cea mai mare dimensiune a elicopterului când rotoarele sunt pornite
+Zona de apropiere finală şi de decolare (Final Approach and Take-Off Area)
+Picior (foot)
+Indicatorul de traiectorie de apropiere pentru elicoptere (Helicopter
+Approach Path Indicator)
+Hertz
+Serviciul medical de urgenţă cu elicopterul (Heliopcter Emergency Medical
+Service)
+În efect de sol (In Ground Effect)
+Conditii meteorologice de zbor instrumental (Instrumental Meteorological
+Conditions)
+Kilogram
+Kilometru pe oră
+Nod (knot), o milă marină (1860 m) pe oră
+litru
+Distanta disponibilă pentru decolare (Landing Distance Available)
+Panou luminescent (Luminescent Panel)
+litru pe minut
+metru
+
+9
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+MLS
+MSL
+OEI
+RD
+RTODAH
+s
+TLOF
+TODAH
+VMC
+
+Sistem de aterizare cu microunde
+Nivelul mediu al mării (Medium Sea Level)
+Un motor inoperant (One Engine Inoperative)
+Diametrul celui mai mare rotor
+Distanţa disponibilă pentru decolarea întreruptă (Rejected Take-Off
+Distance Available)
+secunda
+Zona prizei de contact şi de decolare ( Touchdown and Lift-Off Area)
+Distanţa disponibilă pentru decolare (Take-Off Distance Available)
+Conditii merteorologice de zbor la vedere (Visual Meteorological
+Conditions)
+
+Simboluri
+°
+=
+%
+±
+
+Grad
+Egal
+Procent
+Plus sau minus
+
+Notă. Alte abrevieri şi simboluri specifice doemniului aerodromurilor folosite în cuprinsul
+prezentei reglementări sunt meţionate în reglementarea RACR – AD – PETA privind
+proiectarea şi exploatarea tehnică a aerodromurilor.
+1.2 Aplicabilitate
+1.2.1. Interpretarea/aplicarea unor specificaţii prevăzute în reglementarea de faţă impun,
+explicit sau implicit, instituţiilor şi organizaţiilor competente (autoritatea delegată pentru
+supravegherea siguranţei operaţiunilor/activităţilor, administratori de heliporturi) obligaţia
+de a face o alegere, a adopta o decizie sau a exercita o funcţiune, potrivit atribuţiilor şi
+responsabilităţilor stabilite prin actele normative privind organizarea şi funcţionarea lor.
+1.2.2 Prevederile prezentei reglementări se aplică tuturor persoanelor fizice şi juridice,
+române sau străine, care deţin/administrează/operează heliporturi civile, desfăşoară
+activităţi în domeniul heliporturilor civile sau conex, deţin/administrează terenuri,
+echipamente, instalaţii în zonele cu servituţi aeronautice civile sau realizează construcţii şi
+amenajări în zonele respective pe teritoriul României, în scopul îndeplinirii cu precădere a
+cerinţelor de siguranţă şi regularitate a navigaţiei aeriene, precum şi a cerinţelor de
+uniformizare şi armonizare stabilite la nivel internaţional.
+Prevederile reglementării RACR-AD-PETA, privind proiectarea şi exploatarea tehnică a
+aerodromurilor, se aplică în mod adecvat şi heliporturilor.
+1.2.3 Ori de câte ori în prezenta reglementare se face referire la o culoare, trebuie să fie
+aplicate specificaţiile din Apendicele nr. 1 la RACR-AD-PETA, aferente culorii respective.
+1.2.4 Faţă de specificaţiile prezentei reglementări, autoritatea de stat şi autoritatea
+delegată pentru supravegherea siguranţei în aviaţia civilă pot impune cerinţe şi/sau
+restricţii locale suplimentare, determinate de caracteristici, condiţii şi/sau circumstanţe de
+heliport sau conexe particulare, cu respectarea prevederilor reglementărilor aeronautice
+naţionale şi/sau internaţionale aplicabile.
+1.2.5 Autoritatea delegată pentru supravegherea siguranţei poate accepta, la cerere,
+diferenţe locale faţă de specificaţiile prezentei reglementări, condiţionat de menţinerea
+10
+
+13
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+nivelului de siguranţă operaţională. Solicitarea, formulată în scris, trebuie susţinută de o
+analiză a efectelor asupra siguranţei operaţiunilor şi de un plan de măsuri/acţiuni
+adecvate pentru respectarea nivelului de siguranţă impus de reglementările aeronautice
+aplicabile. În astfel de situaţii trebuie obţinută, cu avizul prealabil al autorităţii de
+supraveghere, aprobarea din partea autorităţii de stat.
+1.2.6 Pentru detalii şi precizări privind modul de îndeplinire/aplicare a cerinţelor prezentei
+reglementări, pot fi utilizate prevederile şi recomandările specifice conţinute în:
+- Manualul ICAO pentru heliporturi (ICAO Doc. 9261), ediţia în vigoare;
+- Manualul ICAO pentru planificarea aeroporturilor (ICAO Doc. 9184), ediţia în vigoare;
+- Manualul ICAO pentru proiectarea aerodromurilor (ICAO Doc. 9157), ediţia în vigoare;
+- Manualul ICAO pentru servicii de aeroport (ICAO Doc. 9137), ediţia în vigoare,
+- Manualul ICAO pentru managementul siguranţei (ICAO Doc. 9859), ediţia în vigoare,
+precum şi în alte documente ICAO aplicabile.
+1.3 Sisteme de referinţă uzuale
+1.3.1. Sistemul de referinţă orizontal
+1.3.1.1. Sistemul geodezic internaţional – 1984 (WGS 84) trebuie utilizat ca referinţă
+(geodezică) orizontală. Coordonatele geografice aeronautice (precizând latitudinea şi
+longitudinea) trebuie exprimate prin date de referinţă geodezice WGS-84.
+1.3.2. Sistemul referinţă vertical
+1.3.2.1.Datele în raport cu nivelul mediu al mării (MSL) care indică relaţia dintre gravitaţie
+şi înălţime (elevaţie) a unei suprafeţe cunoscute ca geoid trebuie folosite ca sistem de
+referinţă verticală.
+Nota 1. Geoidul aproximează, pe ansamblu, cel mai bine MSL. Este definit ca suprafaţă
+echipotenţială a câmpului gravitaţional al Pământului care coincide cu nivelul mediu al
+mării neperturbat extins în mod continuu sub continente.
+Nota 2. Înălţimile legate de gravitaţie sunt denumite şi înălţimi ortometrice, în timp ce
+distanţele punctelor faţă de suprafaţă elipsoidului sunt denumite înălţimi elipsoidice.
+1.3.3. Sistemul de referinţă temporală
+1.3.3.1 Calendarul gregorian şi timpul universal coordonat (Coordinated Universal Time –
+UTC) trebuie folosite ca referinţe temporale.
+1.3.3.2 Atunci când se foloseşte un alt sistem de referinţă temporală, acesta trebuie
+precizat în secţiunea GEN 2.1.2 din Aeronautical Information Publication - AIP România.
+CAPITOLUL 2. INFORMATII PRIVIND HELIPORTURILE
+2.1 Informaţii aeronautice
+2.1.1 Determinarea şi raportarea datelor aeronautice legate de heliporturi trebuie să
+corespundă cerinţelor de acurateţe şi de integritate prevăzute în Tabelele de la 1 la 5 din
+Anexă şi să ţină cont de procedurile sistemului de calitate stabilit. Cerinţele de acurateţe a
+datelor aeronautice se bazează pe un nivel de încredere de 95%; corespunzător se vor
+identifica trei categorii de date de poziţie: puncte măsurate (de exemplu, pragul FATO),
+puncte calculate (obţinute prin calcul matematic pornind de la valori măsurate a punctelor
+
+11
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+în spaţiu, punctelor de reper, etc.) şi puncte declarate (de exemplu: limitele regiunilor de
+informare aeronautică).
+2.1.2 Administratorul heliportului trebuie să asigure integritatea informaţiilor aeronautice
+începând de la măsurarea sau obţinerea acestora şi până la transmiterea lor. Cerinţele de
+integritate a informaţiilor aeronautice trebuie să se bazeze pe riscul potenţial rezultat din
+alterarea informaţiilor, precum şi pe scopul pentru care sunt folosite informaţiile. Ca
+urmare, trebuie să fie aplicată următoarea clasificare şi nivel de integritate a informaţiilor :
+-8
+
+a. informaţii critice, nivel de integritate de 1 x 10 : în cazul în care se folosesc informaţii
+
+critice alterate, există o foarte mare probabilitate ca siguranţa zborului şi a aterizării
+să fie expusă serios la risc cu potenţial de catastrofă;
+-5
+
+b. informaţii esenţiale, nivel de integritate de 1 x 10 : în cazul în care se folosesc
+
+informaţii esenţiale alterate, există o probabilitate redusă ca siguranţa zborului şi a
+aterizării să fie expusă serios la risc cu potenţial de catastrofă; şi
+-3
+c. informaţii obişnuite, nivel de integritate de 1 x 10 : în cazul în care se folosesc
+informaţii obişnuite alterate, există o probabilitate foarte redusă ca siguranţa continuă
+a zborului şi a aterizării să fie expusă serios la risc cu potenţial de catastrofă
+2.1.3 Protejarea informaţiilor aeronautice computerizate pe timpul stocării sau al
+tranzitului trebuie să fie monitorizată în totalitate printr-un algoritm ciclic de verificare
+redundantă (CRC). Pentru a realiza protecţia nivelului de integritate al informaţiilor
+aeronautice critice şi esenţiale corespunzătoare clasificării din paragraful 2.1.2 de mai sus,
+acestora trebuie să li se aplice un algoritm CRC de 32 şi, respectiv, de 24 biţi.
+2.1.4 Pentru a realiza protejarea nivelului de integritate al informaţiilor aeronautice
+obişnuite, corespunzătoare clasificării din paragraful 2.1.2 este recomandabil să se aplice
+un algoritm CRC de 16 biţi.
+2.1.5 Coordonatele geografice care indică latitudinea şi longitudinea trebuie să fie
+determinate în WGS 84 şi comunicate serviciilor de informare aeronautică, menţionând
+acele coordonate geografice, care au fost obţinute în alt sistem geodezic şi transcalculate
+WGS-84, precum şi acele coordonate a căror acurateţe nu îndeplineşte cerinţele
+specificate în Anexă, Tabelul 1.
+2.1.6 Gradul de acurateţe a măsurătorilor efectuate în teren trebuie să fie astfel, încât
+datele operaţionale de navigaţie rezultate pentru diferite faze ale zborului să se încadreze
+în abaterile maxime faţă de un reper de referinţă corespunzător, aşa cum este indicat în
+tabelele cuprinse în Anexă.
+2.1.7 Suplimentar faţă de cotele poziţiilor specifice de pe sol măsurate la heliporturi (cota
+raportată la nivelul mediu al mării), pentru acele poziţii care sunt indicate în Anexă trebuie
+să fie determinată ondulaţia geoidului (raportată la elipsoidul WGS - 84) şi comunicată
+serviciilor de informare aeronautică.
+Notă. Un cadru de referinţă corespunzător este acela care permite ca WGS - 84 să fie
+realizat pe un heliport dat şi faţă de care sunt legate toate datele de coordonate.
+2.2 Punctul de referinţă al heliportului
+2.2.1 Un punct de referinţă va fi determinat pentru fiecare heliport care nu este situat pe
+acelaşi amplasament cu al unui aerodrom.
+12
+
+15
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+Notă. Atunci când locaţia unui heliport coincide cu cea a unui aerodrom, punctul de
+referinţă al aerodromului este acelaşi atât pentru aerodrom cat şi pentru heliport.
+2.2.2 Punctul de referinţă al heliportului va fi situat în apropierea centrului geometric iniţial.
+2.2.3 Poziţia punctului de referinţă al heliportului va fi măsurată şi comunicată serviciilor de
+informare aeronautică în grade, minute şi secunde.
+2.3 Cota heliportului
+2.3.1 Cota unui heliport şi ondulaţia geoidului vor fi măsurate şi comunicate serviciilor de
+informare aeronautica cu o precizie de 0.5 metri sau 0.5 picioare.
+2.3.2 In cazul unui heliport destinat aviaţiei civile internaţionale cota ariei prizei de contact
+şi de decolare şi/sau cota şi ondulaţia geoidului fiecărui prag al ariei de apropiere finală şi
+de decolare (acolo unde este cazul), vor fi măsurate şi comunicate serviciilor de informare
+aeronautică cu precizia de:
+- 0,5 metri sau picioare pentru apropierea fără precizie şi
+- 0,25 metri sau picioare pentru apropierea de precizie.
+2.4 Dimensiunile heliportului şi informaţii conexe
+2.4.1 Informaţiile de mai jos vor fi măsurate sau descrise pe rând pentru fiecare instalaţie
+prevăzută pe un heliport:
+a) Tipul heliportului:
+- de suprafaţă
+- în terase
+- heliplatformă.
+b) Aria prizei de contact şi de zbor:
+- dimensiuni
+- pante
+- tip de suprafaţă
+- forţa portantă în tone (1000kg).
+c) Aria de apropiere finală şi de decolare:
+- tipul FATO
+- direcţia reală (cu precizie de 0,01°)
+- numărul de identificare (dacă este cazul)
+- lungime (m sau ft)
+- lăţime (m sau ft)
+- panta
+- tip de suprafaţă.
+d) Aria de siguranţă:
+- lungime
+- lăţime
+- tip de suprafaţă.
+e) Calea de rulare la sol pentru elicoptere, calea de rulaj aerian şi traiectul de tranzit în
+zbor:
+- indicare
+- lăţime
+- tip de suprafaţă.
+
+13
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+f) Platforma:
+- tip de suprafaţă
+- puncte de staţionare elicoptere.
+g) Prelungirea degajată:
+- lungime
+- profil sol.
+h) Mijloace vizuale pentru procedurile de apropiere, marcaje şi balizaje luminoase la
+FATO, căile de rulare, platforme şi aria prizei de contact şi de zbor (TLOF).
+i) distantele (în metri sau picioare) faţă de cea mai apropiată antenă de direcţie şi
+elementele pantei de apropiere pentru un sistem de aterizare instrumentală (ILS) sau
+azimutul şi înălţimea antenei sistemelor de aterizare cu microunde (MLS) raportate la
+extremităţile TLOF sau FATO asociate.
+2.4.2 Coordonatele geografice ale centrului geometric al ariei prizei de contact şi zbor ca şi
+ale fiecărui punct al ariei de apropiere finală şi de decolare, vor fi măsurate şi comunicate
+serviciilor de informare aeronautică în grade, minute, secunde şi sutimi de secunde.
+2.4.3 Coordonatele geografice ale punctelor axiale apropiate căilor de rulare la sol şi ale
+căilor de rulaj aerian, ca şi traiectele de tranzit în zbor ale elicopterelor, vor fi măsurate şi
+comunicate serviciilor de informare aeronautică în grade, minute, secunde şi sutimi de
+secundă.
+2.4.4 Coordonatele geografice ale fiecărui punct de staţionare a elicopterelor vor fi
+măsurate şi comunicate serviciilor de informare aeronautică în grade, minute şi secunde.
+2.4.5 Coordonatele geografice ale obstacolelor importante situate pe heliporturi şi în
+vecinătatea acestora vor fi măsurate şi comunicate serviciilor de informare aeronautică în
+grade, minute, secunde şi zecimi de secunde. În plus, cota punctului celui mai înalt,
+rotunjit în metri sau picioare, tipul, marcajele şi balizajele luminoase ale obstacolelor
+importante vor fi comunicate serviciilor de informare aeronautică.
+2.5 Distante declarate
+Unde sunt relevante, distanţele următoare vor fi declarate pentru un heliport:
+a) Distanţa utilizabilă la decolare
+b) Distanţa utilizabilă pentru decolare întreruptă
+c) Distanţa utilizabilă la aterizare.
+2.6 Coordonarea dintre serviciile de informare aeronautică şi administratorul
+heliportului
+2.6.1 Pentru a asigura că unităţile serviciilor de informare aeronautică obţin informaţii
+actualizate înainte de zbor, corespunzător nevoilor de informare pe timpul zborului, între
+autorităţile serviciilor de informare aeronautică şi cele ale heliportului trebuie să fie stabilite
+înţelegeri pentru ca organele responsabile pentru serviciile de heliport să raporteze cu o
+întârziere minimă unităţilor responsabile ale serviciilor de informare aeronautică:
+a) informaţii cu privire la condiţiile heliportului
+b) starea operaţională a facilitaţilor asociate, a serviciilor şi mijloacelor de navigaţie din
+zona sa de responsabilitate;
+c) orice alte informaţii considerate ca având importanţă operaţională.
+
+14
+
+17
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+2.6.2 Înainte de a introduce schimbări în sistemul de navigaţie aeriană, serviciile
+responsabile cu aceste schimbări trebuie să ţină cont de timpul necesar serviciilor de
+informare aeronautică pentru pregătirea, elaborarea şi editarea materialelor aferente
+schimbărilor respective, în vederea publicării. Pentru a asigura la timp informaţiile către
+serviciul de informare aeronautică, este necesară o strânsă coordonare între serviciile
+implicate.
+2.6.3 Deosebit de importante sunt schimbările în domeniul informaţiilor aeronautice,
+privind hărţile şi/sau sistemele de navigaţie aeriană bazate pe calculator şi care trebuie
+comunicate corespunzător sistemului de reglementare şi de control al difuzării informaţiilor
+aeronautice (AIRAC). La transmiterea informaţiilor/datelor aeronautice neprelucrate către
+serviciile de informare aeronautică, serviciile de heliport responsabile trebuie să respecte
+datele de intrare în vigoare AIRAC prestabilite şi convenite internaţional, la care se adaugă
+până la 14 zile, durata transmiterii poştei.
+2.6.4 Serviciile de heliport responsabile pentru furnizarea informaţiilor şi a datelor
+aeronautice neprelucrate către serviciile de informare aeronautică trebuie să ţină cont, în
+îndeplinirea acestei sarcini, de cerinţele de acurateţe şi de integritate a datelor aeronautice
+specificate în Anexa la prezenta reglementare.
+Notă. Informaţiile de tip AIRAC sunt distribuite de către serviciile de informare aeronautică
+cu cel puţin 42 zile înaintea datei de intrare în vigoare a AIRAC, cu scopul de a ajunge la
+destinatari cu cel puţin 28 zile înaintea datei intrării în vigoare.
+
+CAPITOLUL 3. CARACTERISTICI FIZICE
+3.1 Heliporturi de suprafaţă
+Notă. Prevederile următoare sunt destinate heliporturilor de suprafaţă cu excepţia cazurilor
+unde există menţiuni explicite.
+Aria de apropiere finală şi de decolare (FATO)
+3.1.1. Heliporturile de suprafaţă trebuie prevăzute cu cel puţin o arie de apropiere finală şi
+de decolare (FATO)
+Notă. FATO se poate amplasa pe sau în vecinătatea benzii pistei sau a unei căi de rulare
+ale unui aerodrom destinat avioanelor.
+3.1.2 Dimensiunile FATO vor fi după cum urmează:
+a) Pentru heliporturile destinate a fi folosite de elicopterele din clasa de performanţă 1,
+aria va avea dimensiunile înscrise în manualul de zbor al elicopterului. Când lăţimea nu
+este specificată, aceasta va fi nu mai mică de 1,5 ori lungimea/lăţimea exterioară (cea mai
+mare dintre ele) a elicopterului cu rotorul în funcţiune, în funcţie de destinaţia heliportului.
+b) Pentru heliporturile situate la suprafaţă apei, destinate a fi utilizate de elicopterele din
+clasa de performanţă 1, aria va avea dimensiunile descrise la punctul a) mărite cu 10 %.
+c) Pentru heliporturile destinate a fi utilizate de elicopterele din clasele de performanţă 2 şi
+3, aria va avea dimensiunea şi forma suficientă pentru înscrierea unei arii interioare în
+care se poate trasa un cerc cu diametrul nu mai mic de 1,5 ori lungimea/ lăţimea (cea mai
+mare dintre ele) exterioară a elicopterului cu rotorul în funcţiune, funcţie de destinaţia
+heliportului.
+
+15
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+d) În cazul unui heliport pe apă, acesta va trebui să aibă dimensiuni suficient de mari
+astfel încât să poată include o suprafaţă care se poate înscrie într-un cerc nu mai mic de
+dublul lungimii sau lăţimii totale (cea mai mare dintre ele), a celui mai lat elicopter care se
+intenţionează a fi operat pe heliport.
+Notă. Condiţiile locale precum altitudinea şi temperatura trebuie luate în considerare la
+stabilirea dimensiunii FATO.
+3.1.3 Panta totală a ariei de apropiere finală şi de decolare nu trebuie să depăşească 3%
+în orice direcţie. În orice parte a unei arii de apropiere finală şi de decolare, panta locală
+nu va depăşi:
+a) 5%, dacă heliportul este destinat a fi utilizat de elicopterele din clasa de performanţă 1,
+si
+b) 7%, dacă heliportul este destinat a fi utilizat de elicopterele din clasele de performanţă
+2 şi 3.
+3.1.4 Suprafaţă FATO:
+a) va fi rezistenta la suflul rotoarelor
+b) nu va include elemente care pot afecta în mod negativ decolarea sau aterizarea
+elicopterelor, şi
+c) va avea o capacitate portantă suficientă pentru a face faţă efectelor unei decolări
+întrerupte a unui elicopter din clasa de performanţă 1.
+3.1.4.1 FATO trebuie să asigure efectul de sol.
+Prelungire degajată pentru elicoptere.
+3.1.5 În caz ca este necesară, se prevede o prelungire degajată pentru elicoptere. Aceasta
+va fi situată începând de la extremitatea din faţă a ariei utilizate pentru decolarea
+întreruptă. Se recomandă:
+3.1.5.1 Lăţimea prelungirii degajate nu va fi inferioară zonei de siguranţă asociate
+3.1.5.2 Suprafaţă solului pe o prelungire degajată nu va depăşi un plan cu panta
+ascendentă de 3%, limita inferioară a acestui plan fiind o linie orizontală pe conturul FATO.
+3.1.5.3 Un obiect situat pe o prelungire degajată pentru elicoptere, care ar putea pune în
+pericol un elicopter aflat în aer va trebui considerat obstacol şi trebuie îndepărtat.
+Aria prizei de contact şi de zbor (TLOF)
+3.1.6. Pe heliport va fi amenajată cel puţin o arie a prizei de contact şi de zbor;
+3.1.7 Aria prizei de contact şi de zbor (TLOF) trebuie să permită înscrierea unui cerc cu
+diametrul egal cu 1.5 ori lungimea / lăţimea (cea mai mare dintre ele) trenului de aterizare
+al elicopterului celui mai mare, pentru care aceasta arie este destinată.
+3.1.8 Pantele unei arii a prizei de contact şi de decolare, vor fi suficiente pentru a împiedica
+acumularea apei pe suprafaţă ariei, dar nu vor depăşi 2% în orice direcţie.
+3.1.9 TLOF trebuie să fie corespunzătoare pentru a deservi volumul operaţiunilor cu
+elicopterele preconizate.
+
+16
+
+19
+
+20
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+Aria de siguranţă
+3.1.10 Aria de apropiere finală şi de decolare va fi înconjurată de o arie de siguranţă.
+3.1.11 Aria de siguranţă care înconjoară un FATO, destinată a fi utilizată în condiţii
+meteorologice de zbor la vedere (VMC) se va extinde în jurul ariei de apropiere finală şi de
+decolare pe o distanţă de cel puţin 3m sau 0.25 ori lungimea/lăţimea totala (cea mai mare
+dintre ele) a elicopterului, mai lung/lat pentru care aria este destinată.
+3.1.12 Aria de siguranţă care înconjoară un FATO, destinat a fi utilizat pentru elicoptere în
+condiţii meteorologice de zbor instrumental (IMC) se va întinde:
+a) lateral până la o distanţă nu mai mică de 45m pe fiecare parte a axului central;
+b) longitudinal până la o distanţă nu mai mică de 60m dincolo de extremităţile FATO.
+Notă: vezi figura 3-1
+3.1.13 Nici un obiect fix nu va fi acceptat pe o arie de siguranţă, cu excepţia obiectelor
+frangibile, care prin funcţia lor pot fi situate pe aceasta arie. Nici un obiect mobil nu va fi
+acceptat pe o arie de siguranţă, în timpul evoluţiei elicopterelor.
+3.1.14 Obiectele a căror funcţie le impune a fi situate pe aria de siguranţă nu vor depăşi o
+înălţime de 25 cm, când sunt dispuse în lungul marginii FATO şi nici nu vor penetra un
+plan înclinat cu o panta crescătoare de 5% către exteriorul marginii FATO, care începe la
+înălţimea de 25 cm deasupra marginii FATO.
+3.1.15 Suprafaţă ariei de siguranţă nu va avea o pantă mai mare de 4% către exteriorul
+marginii FATO.
+3.1.16 Suprafaţă ariei de siguranţă va fi tratată în maniera de a evita dislocarea de
+particule cauzate de suflul rotorului.
+3.1.17 Suprafaţă ariei de siguranţă adiacentă FATO, trebuie să fie continuă cu FATO şi va
+avea capacitatea de a susţine elicopterele pentru care este destinat respectivul heliport,
+fără a produce deteriorări structurale.
+
+Căile de rulare la sol pentru elicoptere
+Notă. O cale de rulare la sol pentru elicoptere este destinată să permită mişcarea pe
+suprafaţă a elicopterelor echipate cu roţi prin mijloace proprii. Specificaţiile pentru căi de
+
+17
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+rulare, acostamentele căilor de rulare şi benzile căilor de rulare prevăzute în RACR-ADPETA sunt aplicabile heliporturilor cu modificările prezentate în continuare. Când o cale de
+rulare este utilizată atât de avioane, cât şi de elicoptere se vor aplica reglementările care
+sunt cele mai severe, dintre cele două categorii de reglementări specifice.
+3.1.18 Lăţimea unei căi de rulare la sol pentru elicoptere nu va fi mai mică decât:
+Ecartamentul trenului principal al elicopterului
+
+Lăţimea caii de rulare la sol
+
+Până la 4.5 m exclusiv
+De la 4.5m la 6m exclusiv
+De la 6m la 10 m exclusiv
+10 m şi mai mult
+
+7,5 m
+10,5 m
+15 m
+20 m
+
+3.1.19 Distanţa de separare între o cale de rulare la sol şi o altă cale de rulare la sol
+pentru elicoptere, o cale de rulaj aerian, un obiect sau un punct de staţionare pentru
+elicoptere, nu poate fi inferioară dimensiunilor indicate în Tabelul 3.1
+3.1.20 Panta longitudinală a unei cai de rulare la sol pentru elicoptere nu va depăşi 3%.
+3.1.20.1 O cale de rulare la sol pentru elicoptere trebuie să suporte traficul de elicoptere
+pentru care a fost prevăzută.
+3.1.20.2 O cale de rulare la sol pentru elicoptere ar trebui să fie prevăzută cu acostamente
+simetrice pe fiecare parte laterală, lăţimea acestor acostamente va fi cel puţin egală cu
+jumătate din lăţimea celui mai mare elicopter prevăzut a fi folosit pe această cale de
+rulare.
+3.1.21 Căile de rulare la sol pentru elicoptere şi acostamentele vor asigura evacuarea
+rapidă a apei iar panta transversală a caii de rulare nu va depăşi 2%.
+3.1.21.1. Suprafaţă acostamentului căii de rulare la sol pentru elicoptere trebuie să fie
+rezistentă la efectul suflului rotoarelor.
+Căile de rulaj aerian
+3.1.22 Lăţimea unei căi de rulaj aeriane va fi cel puţin egală cu de două ori lăţimea
+exterioară a elicopterelor pentru care a fost destinată calea.
+3.1.23 Suprafaţă unei căi de rulare aeriene trebuie să fie:
+a) rezistentă la efectele suflului rotorului;
+b) adecvată pentru aterizarea de urgenţă.
+3.1.23.1 Suprafaţă căii de rulaj aerian trebuie să producă efect de sol.
+3.1.23.2 Panta transversală a unei căi de rulaj aerian nu trebuie să depăşească 10% iar
+panta longitudinală nu trebuie să depăşească 7%. În orice situaţie, pantele nu trebuie să
+depăşească limitările pantei de aterizare a elicopterelor pentru care calea de rulaj aerian a
+fost destinată.
+
+18
+
+21
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+22
+
+3.1.24 Distantele de separare între căile de rulaj aerian, o cale de rulare la sol pentru
+elicoptere, un obiect sau un punct de staţionare pentru elicoptere, nu va fi inferioară
+dimensiunilor indicate în Tabelul 3-1.
+Tabelul 3-1
+Distante de separare între căile de rulare la sol pentru elicoptere şi căile de rulaj aerian
+(exprimate în multipli ai celei mai mari lăţimi totale a elicopterului cu rotorul în funcţiune)
+Cale de rulare
+la sol
+Cale de rulare la
+sol pentru
+elicoptere
+Cale de rulaj
+aerian
+
+Cale de rulaj
+aerian
+
+Obiect
+
+2
+(de la margine
+la margine)
+4
+(din ax în ax)
+
+4
+(din ax în ax)
+
+1
+(de la margine
+la obiect)
+11/2
+(din ax la
+obiect)
+
+4
+(din ax în ax)
+
+Loc de
+staţionare
+elicoptere
+2
+(de la margine
+la margine)
+4
+(din ax la
+margine)
+
+Traiect de tranzit în zbor
+3.1.25 Lăţimea unui traiect de tranzit în zbor nu va fi mai mică decât:
+a) de 7 ori RD dacă acest traiect este destinat a fi utilizat numai ziua, şi
+b) de 10 ori RD dacă traiectul este destinat utilizării nocturne;
+unde RD este diametrul rotorului principal pentru care traiectul de tranzit în zbor a fost
+destinat.
+3.1.26 Un traiect de tranzit în zbor este destinat a permite manevrarea elicopterului
+deasupra suprafeţei, la înălţimi ce nu vor depăşi 30m (100FT) faţă de nivelul solului şi la
+viteze faţă de sol de peste 37 km/h (20Kt).
+3.1.27 Orice schimbare de direcţie a axei unui traiect de tranzit în zbor nu va depăşi 120
+şi va fi proiectată astfel încât să nu necesite un viraj cu raza mai mică de 270 m.
+3.1.28 Se recomandă ca rutele de tranzit aerian să fie alese astfel încât să permită
+aterizarea în autorotaţie sau cu unul dintre motoare oprite în condiţiile asigurării minimului
+de afectare a persoanelor şi bunurilor pe sol sau pe apă.
+Platforme
+Notă. Prevederile pentru platforme incluse în capitolul 3 al RACR-AD-PETA se aplică şi
+heliporturilor cu următoarele modificări
+3.1.28
+
+Panta punctului de staţionare a elicopterului nu va depăşi 2% în orice direcţie.
+
+3.1.29 Distanţă minimă dintre un elicopter aflat pe un loc de staţionare şi un obiect sau
+orice aeronav aflata pe o altă poziţie de staţionare nu va fi mai mică de jumătate din
+lăţimea maximă a elicopterelor pentru care locul de staţionare a fost prevăzut.
+Notă. În cazul în care mai multe elicoptere execută zbor staţionar simultan, se convine a
+se respecta distantele de separare între 2 căi de rulaj aerian, care sunt indicate în Tabelul
+3-1.
+
+19
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+3.1.30 Un punct de staţionare al elicopterului va fi suficient pentru înscrierea unui cerc
+cu diametrul cel puţin egal cu cea mai mare dimensiune exterioară a elicopterului, pentru
+care a fost prevăzut.
+Amplasarea unei arii de apropiere finală şi de decolare în raport cu o pista sau o
+cale de rulare
+3.1.31 Când un FATO este situat în apropierea unei piste sau a unei căi de rulare şi când
+se execută simultan operaţiuni în condiţii meteorologice la vedere, sunt prevăzute distante
+de separare între marginea unei piste sau căi de rulare şi marginea unui FATO care nu pot
+fi inferioare dimensiunilor indicate în Tabelul 3-2.
+Tabelul 3-2
+Distante minime de separare în raport cu FATO
+Masa aeronavei si/sau masa elicopterului
+
+Distanţă între marginea FATO şi marginea
+pistei sau de la căile de rulare
+60m
+
+Până la 2720kg (exclusiv)
+De la 2720 Kg până la 5760 Kg (exclusiv)
+
+120m
+
+De la 5760 Kg până la 100 000Kg (exclusiv)
+
+180m
+
+Peste 100 000Kg ( inclusiv)
+
+250m
+
+3.1.32 FATO nu trebuie amplasată:
+a) în vecinătatea intersecţiilor căilor de rulare la sol sau a poziţiilor de aşteptare la pistă
+unde suflul motoarelor poate provoca turbulenţe puternice.
+b) în vecinătatea zonelor unde există posibilitatea generării de trubulenţe de siaj de către
+alte aeronave.
+3.2 Heliporturi în terase
+Aria de apropiere finală şi de decolare şi aria prizei de contact şi de zbor
+Notă. În cazul unui heliport în terase se admite ca FATO şi aria prizei de contact şi de zbor
+să coincidă.
+3.2.1 Heliporturile în terase vor fi prevăzute cu minim un FATO.
+3.2.2 Dimensiunile FATO vor fi următoarele:
+a)
+Pentru heliporturile destinate a fi utilizate de elicoptere de clasa de performanţă 1,
+aria va avea dimensiunile prescrise în Manualul de zbor al elicopterului. Când lăţimea nu
+este specificată, aceasta nu va fi mai mică de 1.5 ori cea mai mare lungime /lăţime (care
+este mai mare) ale celui mai lung/lat elicopter, căruia îi este destinat heliportul.
+b)
+Pentru heliporturile destinate a fi utilizate de către elicoptere din clasa de
+performanţă 2, aria va avea dimensiunea unei arii interioare în care se va putea trasa un
+cerc cu diametrul nu mai mic de 1.5 ori cea mai mare lungime /lăţime (care este mai mare)
+ale celui mai lung/lat elicopter, căruia îi este destinat heliportul.
+
+20
+
+23
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+24
+
+3.2.3 Este recomandat ca specificaţiile în materie de pantă pentru heliporturile în terase
+să fie conforme cu dispoziţiile specificate la punctul 3.1.3. pentru heliporturile de suprafaţî.
+3.2.4 La proiectarea FATO se va lua în calcul o încărcare suplimentară rezultată din
+prezenţa personalului, zăpezii, încărcăturii, realimentării, mijloacelor de luptă împotriva
+incendiilor, etc.
+Aria de siguranţă
+3.2.5 FATO va fi înconjurat de aria de siguranţă.
+3.2.6 Aria de siguranţă se va întinde la exterior, pentru tot FATO, pe o distanţă de cel
+puţin 3m, sau 0,25 ori din lungimea /lăţimea maximă (care este mai mare) ale celui mai
+lung/lat elicopter, pentru care este destinat heliportul în terase.
+3.2.7 Nici un obiect fix nu va fi admis pe o arie de siguranţă, excepţie făcând obiectele
+frangibile, care prin funcţia lor trebuie să fie situate pe aceasta arie. Nici un obiect mobil nu
+este permis în zona de siguranţă în timpul evoluţiei elicopterului.
+3.2.8 Obiectele a căror funcţie le impune a fi situate pe aria de siguranţă nu vor depăşi
+înălţimea de 25 cm, când sunt dispuse în lungul marginii FATO şi nici nu vor penetra un
+plan înclinat cu panta crescătoare de 5% către exteriorul marginii începând de la înălţimea
+de 25cm deasupra marginii FATO.
+3.2.9 Suprafaţă ariei de siguranţă nu va avea o pantă în urcare mai mare de 4% către
+exteriorul marginii.
+3.2.10 Suprafaţă ariei de siguranţă alăturată FATO, va fi continuă cu aceasta din urmă şi
+va fi capabilă să suporte, fără deteriorări de structură, elicopterele pentru cărora le-a fost
+destinat heliportul.
+3.3 Heliplatforme
+Notă. Prevederile următoare sunt destinate heliplatformelor amplasate pe structuri fixe
+instalate în largul marii.
+Aria de apropiere finală şi de decolare, aria prizei de contact şi de zbor
+Notă. În cazul heliplatformelor se admite că FATO şi TLOF coincid.
+3.3.1
+
+O heliplatformă va fi prevăzută cu cel puţin un FATO
+
+3.3.2 FATO poate avea orice formă dar, pentru elicopterele cu un sigur rotor principal şi
+elicopterele cu două rotoare principale alăturate, trebuie să aibă dimensiunea suficientă
+pentru a se putea înscrie un cerc cu diametrul cel puţin egal cu D, al celui mai mare
+elicopter, pentru care este destinată platforma (D reprezintă cea mai mare dimensiune a
+elicopterului cu rotorul pornit).
+3.3.3 Pentru aterizarea pe orice direcţie a elicopterelor cu rotoare principale în tandem,
+FATO va avea o arie suficientă pentru trasarea unui cerc cu diametrul nu mai mic de 0,9
+ori lungimea exterioara a elicopterului cu rotoarele în funcţiune. Dacă aceaste prevederi nu
+
+21
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+pot fir espectate, FATO poate avea o formă dreptunghiulară cu dimensiunile nu mai mici
+de 0.75 D respectiv 0,9 D.
+3.3.4 Nici un obiect fix nu va fi admis în jurul marginii FATO, excepţie făcând obiectele
+frangibile care prin funcţia lor sunt necesare a fi plasate pe FATO.
+3.3.5 Obiectele a căror funcţie necesită amplasarea acestora la marginea FATO nu vor
+depăşi înălţimea de 25cm.
+3.3.6 Suprafaţă FATO va fi antiderapantă pentru elicoptere şi pentru persoane şi va fi
+înclinată pentru a evita formarea bălţilor.
+Atunci când heli-platforma este construita sub forma unui grătar, proiectarea punţii se va
+face astfel încât efectul de sol să nu fie redus.
+3.4 Heliporturi pe nave
+3.4.1. Ariile de exploatare a elicopterelor care sunt amenajate la prova/pupa unei nave vor
+fi construite deasupra structurii navei şi vor fi considerate ca heliplatforme aplicându-se
+prevederile enunţate la secţiunea 3.3.
+Aria de apropiere finală şi de decolare şi aria prizei de contact şi de zbor
+Notă. În cazul heliporturilor situate într-o altă parte a navei decât cea menţionată la 3.4.1,
+se admite că FATO şi TLOF coincid.
+3.4.2
+
+Heliporturile pe nave vor fi prevăzute cu cel puţin un FATO.
+
+3.4.3. In cazul unui heliport pe navă, FATO va fi circular şi va avea un diametru cel puţin
+dimensiunea D, a celui mai mare elicopter pentru care heliportul a fost prevăzut, unde D
+este dimensiunea cea mai mare a elicopterului cu rotoarele în funcţiune.
+3.4.4
+
+Suprafaţă FATO va fi antiderapantă pentru elicoptere şi pentru persoane.
+CAPITOLUL 4. LIMITAREA ŞI ELIMINAREA OBSTACOLELOR
+
+4.1 Suprafeţele şi sectoarele de limitare a obstacolelor
+Suprafaţă de apropiere
+4.1.1. Definiţie: Suprafaţă de apropiere este un plan înclinat, sau o combinaţie de plane
+în panta ascendentă care încep de la extremitatea ariei de siguranţă simetrice faţă de o
+linie mediană care trece prin centrul ariei de apropiere finală şi de decolare.
+Notă. Vezi figura 4-1.
+4.1.2. Caracteristici. Suprafaţă de apropiere va fi delimitată:
+a) de o margine interioară orizontală şi egală în lungime cu lăţimea minimă specificată
+pentru FATO plus aria de siguranţă perpendiculară pe linia mediană a suprafeţei de
+apropiere, situată la marginea exterioară a ariei de siguranţă;
+b) de două margini laterale care pleacă de la extremităţile marginii interioare, astfel:
+
+22
+
+25
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+1) pentru FATO destinat apropierii fără precizie, acestea sunt uniform divergente faţă
+de planul vertical care include axa FATO;
+2) pentru un FATO destinat apropierii de precizie, acestea sunt uniform divergente
+faţă de planul vertical care include axa FATO, până la o înălţime determinată după
+care divergenta continuă cu o alta panta dată, până la o lăţime specifică finală după
+care îşi păstrează aceeaşi lăţime pentru porţiunea rămasă din porţiunea de apropiere.
+c) printr-o margine exterioară orizontală perpendiculară pe linia mediană a suprafeţei de
+apropiere şi a unei înălţimi specifice deasupra altitudinii FATO.
+4.1.3 Altitudinea marginii interioare va fi altitudinea ariei de siguranţă a punctului marginii
+interioare care trece prin linia mediană a suprafeţei de apropiere.
+4.1.4. Panta (pantele) suprafeţei de apropiere va(vor) fi măsurată(e) într-un plan vertical
+care conţine linia mediană a suprafeţei.
+Notă. În cazul heliporturilor utilizate de elicopterele din clasele de performanţă 2 şi 3 este
+necesar ca traiectoria de apropiere să fie aleasă de aşa manieră încât să se poată efectua
+în siguranţă o aterizare forţată, sau cu un singur motor în stare de funcţionare, şi a se
+reduce pe cât posibil riscul de accidentare a persoanelor sau deteriorării bunurilor de pe
+sol sau de pe apă.
+Suprafaţă de tranziţie
+4.1.5 Definiţie: Suprafaţă de tranziţie este suprafaţă complexă care se întinde pe partea
+laterală a ariei de siguranţă şi pe o porţiune laterală a suprafeţei de apropiere şi care se
+înclină crescător către exterior până la suprafaţă orizontală interioară sau pânâ la o
+înălţime predeterminată.
+Notă. Vezi figura 4-1.
+4.1.6 Caracteristici: Suprafaţă de tranziţie va fi delimitată:
+a) de o margine inferioară, care începe la intersecţia laturii suprafeţei de apropiere cu
+suprafaţă orizontală interioară sau de la o înălţime specifică deasupra marginii inferioare,
+atunci când nu se asigură o suprafaţă orizontală interioară şi se extinde lateral de-a lungul
+marginii suprafeţei de apropiere şi de acolo de-a lungul marginii suprafeţei de siguranţă
+paralelă cu axa FATO.
+b) de o margine superioară situată în planul suprafeţei orizontale interioare sau al unei
+înălţimi specifice deasupra marginii inferioare, când nu exista o suprafaţă orizontală
+interioară.
+4.1.7 Altitudinea unui punct situat pe marginea inferioară va fi:
+a) de-a lungul suprafeţei de apropiere egală cu altitudinea suprafeţei de apropiere, în
+acest punct;
+b) de-a lungul ariei de siguranţă – egală cu înălţimea liniei mediane a FATO
+corerspunzătoare acestui punct.
+4.1.8. Panta suprafeţei de tranziţie va fi măsurată în plan vertical perpendicular pe linia
+mediană a FATO.
+
+23
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+Suprafaţă orizontală interioară
+4.1.9 Definiţie: Suprafaţă orizontală interioară este suprafaţă circulară situată în plan
+orizontal deasupra FATO şi vecinătăţilor sale.
+Notă. Vezi figura 4-1.
+4.1.10 Caracteristici: Raza suprafeţei orizontale interioare va fi măsurată de la punctul
+central al FATO.
+4.1.11 Înălţimea suprafeţei orizontale interioare va fi măsurată deasupra nivelului de
+referinţă al altitudinii stabilit în acest scop.
+Suprafaţă conică
+4.1.12 Definiţie : Suprafaţă conică este suprafaţă înclinată în sus, către exteriorul
+conturului suprafeţei orizontale interioare, sau de la limita exterioară a suprafeţei de
+tranziţie, dacă nu exista o suprafaţă orizontală interioară.
+Notă. Vezi figura 4-1.
+4.1.13 Caracteristici. Limitele suprafeţei conice vor cuprinde:
+a) o limită inferioară care coincide cu conturul suprafeţei orizontale interioare sau cu limita
+exterioară a suprafeţei de tranziţie, dacă nu exista o suprafaţă orizontală interioară.
+b) o limita superioară situata la o înălţime specifică deasupra suprafeţei orizontale
+interioare sau deasupra altitudinii de la extremitatea inferioară a FATO, dacă nu există
+suprafaţă orizontală interioară.
+4.1.14 Panta suprafeţei conice va fi măsurată deasupra orizontalei.
+Suprafaţă de decolare şi urcare
+4.1.15 Definiţie. Suprafaţă de decolare şi urcare este un plan înclinat sau o combinaţie
+de planuri sau în caz că se află în viraj, Suprafaţă complexa care prezintă o panta de
+urcare. Aceasta panta pleacă de la extremitatea ariei de securitate pentru a ajunge la linia
+mediana care trece prin centrul FATO.
+Notă. Vezi figura 4-1
+4.1.16 Caracteristici. Suprafaţă de decolare şi urcare va fi delimitata prin:
+a) marginea interioară orizontală, egală în lungime cu lăţimea minimă specificată pentru
+FATO plus aria de siguranţă perpendiculară pe linia mediană a suprafeţei de urcare la
+decolare şi situată la marginea exterioară a ariei de siguranţă sau a prelungirii degajate.
+b) cele două margini laterale având originea la capătul marginii interioare, uniform
+divergente cu un procent constant faţă de planul vertical conţinând axa FATO .
+c) o margine exterioară orizontală şi perpendiculară pe linia mediană a ariei de urcare la
+decolare, la o înălţime specificată deasupra altitudinii FATO.
+4.1.17 Altitudinea marginii interioare va fi altitudinea ariei de siguranţă în punctul de pe
+marginea interioare care intersectează linia mediană a suprafeţei de urcare la decolare.
+Când se află o prelungire degajată, această altitudine va fi egală cu cea a punctului celui
+mai înalt de pe sol pe axa prelungirii degajate.
+
+24
+
+27
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+4.1.18 In cazul în care suprafaţă de urcare la decolare este dreaptă, panta va fi măsurată
+în planul vertical care conţine linia mediană a suprafeţei.
+4.1.19 In cazul în care suprafaţă de urcare la decolare implică un viraj, ea va fi o
+suprafaţă complexă cuprinzând normalele orizontale ale liniei mediane şi panta acestei linii
+mediane, similar ca în cazul unei suprafeţe de urcare la decolare în linie dreaptă.
+Porţiunea suprafeţei cuprinsă între marginea interioară şi o înălţime de 30 m deasupra
+marginii interioare va fi dreaptă.
+4.1.20 Orice schimbare de direcţie a liniei mediane a unei suprafeţe de urcare la
+decolare va fi proiectată încât să nu necesite un viraj cu raza mai mică de 270 m.
+Suprafaţă sau sectorul degajat de obstacole la heliplatforme
+4.1.21 Definiţie. Suprafaţă sau sectorul degajat de obstacole este suprafaţă complexă de
+plecare dintr-un punct de referinţă situat pe marginea FATO a heliplatformei şi se extinde
+pe o distanţă specificată.
+4.1.22 Caracteristici. O suprafaţă sau un sector degajat de obstacole va fi un sector
+circular cu un unghi specificat.
+4.1.23 Pentru heliplatforme, sectorul degajat de obstacole va acoperi un arc de 210° şi se
+va întinde către exterior până la o distanţă compatibilă cu posibilitatea elicopterului de a
+ateriza cu un motor scos din funcţiune. Suprafaţă va fi un plan orizontal la nivelul de
+altitudine al heliplatformei, exceptând un arc de 180° care trece prin centru ariei de
+apropiere finală şi de decolare, în care.suprafaţă va fi la nivelul apei iar spre exterior se va
+întinde pe o distanţă compatibilă cu spaţiul de decolare necesar elicopterului critic căruia ia fost destinată heliplatforma.
+Notă. Vezi figura 4-2.
+Suprafaţă de limitare a obstacolelor pentru heliplatforme
+4.1.24 Definiţie. Suprafaţă complexă pornind din punctul de referinţă al sectorului degajat
+de obstacole şi extinzându-se pe un arc neacoperit pe sectorul degajat de obstacole (aşa
+cum este ilustrat în figurile 4-3, 4-4, 4-5), în interiorul căruia înălţimea obstacolelor
+deasupra FATO este reglementată.
+4.1.25 Caracteristici. Suprafaţă de limitare a obstacolelor nu va depăşi cel mai mare
+unghi specific şi va fi suficientă pentru a cuprinde aria care neacoperită de sectorul degajat
+de obstacole.
+4.2 Cerinţe de limitare a obstacolelor
+Heliporturi de suprafaţă
+4.2.1 Suprafeţele de limitare a obstacolelor care vor fi stabilite pentru FATO cu apropiere
+de precizie:
+a) Suprafaţă de urcare la decolare
+b) Suprafaţă de apropiere
+c) Suprafaţă de tranziţie
+
+25
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+d) Suprafaţă conică
+4.2.2 Următoarele suprafeţe de limitare a obstacolelor vor fi stabilite pentru FATO cu fără
+precizie:
+a) Suprafaţă de urcare la decolare
+b) Suprafaţă de apropiere
+c) Suprafaţă de tranziţie
+d) Suprafaţă conică, dacă nu există o suprafaţă orizontală interioară.
+4.2.3 Următoarele suprafeţe de limitare ale obstacolelor se vor stabili pentru o arie de
+apropiere finală şi decoalre la vedere:
+a) Suprafaţă de urcare la decolare
+b) Suprafaţă de apropiere.
+4.2.3.1 Se recoamdă ca pentru FATO cu apropiere fără precizie să se stabilească
+următoarele suprafeţe de limitare a obstacolelor:
+a) Suprafaţă orizontale interioară şi
+b) Suprafaţă conică
+Notă: În cazul în care se asigură apropiere directa fără precizie la ambele capete, nu este
+necesară o suprafaţă orizontală interioară.
+4.2.4. Pantele acestor suprafeţe nu vor fi superioare celor specificate în tabelele de la 4-1
+până la 4-4; iar alte dimensiuni vor fi mai mari sau egale cu cele specificate în aceste
+tabele, aceste suprafeţe fiind amplsate ca în figurile 4-6 la 4-10.
+4.2.5 Prezenta unor noi obiecte sau supraînălţarea obiectelor existente nu va fi autorizată
+deasupra uneia dintre suprafeţele prevăzute la 4.2.1 până la 4.2.4., de mai sus, cu
+excepţia cazurilor acceptate de autoritatea competentă.
+4.2.5.1 Prevederile 4.2.5 nu se aplică atunci când obiectele menţionate sunt acoperite de
+un alt obiect, care nu poate fi deplasat, sau dacă studiile aeronautice stabilesc că obiectul
+nu afectează siguranţa operării elicopterelor.
+4.2.6 Heliporturile de suprafaţă vor avea cel puţin 2 suprafeţe de urcare la decolare şi de
+apropiere, separate între ele de un unghi de cel puţin 150°.
+4.2.6.1 Se recoamndă ca numărul şi orientarea suprafeţelor de decolare şi de apropiere să
+fie stabilite în aşa fel încât factorul de utilizare al heliportului să nu fie mai mic de 95%
+pentru elicopterele pe care heliportul este destinat a le deservi.
+
+26
+
+29
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+Figura 4-1 Suprafeţele de limitare a obstacolelor
+
+27
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+Figura 4-2 Sectorul degajat de obstacole pentru heliplatformă
+
+28
+
+31
+
+32
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+Figura 4-3 Sectoarele de limitare a obstacolelor pe heliplatforme
+Elicoptere cu un singur rotor principal şi elicoptere cu două rotoare alăturate
+
+29
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+Figura 4-4 Sectoarele de limitare a obstacolelor pe heliplatforme
+Elicoptere cu rotoare principale în tandem – Operaţiuni omnidirecţionale
+
+30
+
+33
+
+34
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+Elicoptere cu rotoare principale în tandem – Operaţiuni bidirecţionale
+
+31
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+32
+
+35
+
+36
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+33
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+Figura 4-8 Suprafaţă de apropiere pentru FATO cu apropiere de precizie
+
+34
+
+37
+
+38
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+35
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+36
+
+39
+
+40
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+37
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+38
+
+41
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+42
+
+Heliporturi în terase
+4.2.7 Suprafeţele de limitare a obstacolelor pentru heliporturile în terase vor fi similare cu
+cu prevederile paragrafelori 4.2.1 – 4.2.5, aplicabile heliporturilor de suprafaţă.
+4.2.8 Heliporturile în terase nu vor avea mai puţin de două suprafeţe de urcare la decolare
+şi de apropiere separate între ele un unghi de cle puţin 150°.
+Heliplatformele
+Notă. Prevederile următoare se aplică heliplatformelor instalate pe structuri înalte fixe în
+largul mării, excluzând heliporturile de pe nave.
+4.2.9 Heliplatformele vor avea un sector degajat de obstacole şi, dacă este necesar, vor
+avea şi un sector de limitare a înălţimii obstacolelor.
+4.2.10 Heliplatformele nu vor avea nici un obstacol fix în interiorul sectorului degajat de
+obstacole sau deasupra nivelului suprafeţei degajate de obstacole.
+4.2.11 Protecţia elicopterelor contra obstacolelor în vecinătatea heliplatformelor va fi
+asigurată deasupra nivelului heliportului. Aceasta protecţie se va întinde pe un arc nu mai
+mic de 180° având originea în centrul FATO cu o pantă descendentă de 20%, care începe
+din marginea FATO în sectorul de 180°.
+4.2.12 Nu se admite ca obstacolele mobile, ori combinaţiile acestora, aflate în interiorul
+sectorului degajat de obstacole, dar care sunt strict encesare funcţionării instalaţşiei acre
+include heliplatforma, să se extindă pe un unghi mai mare de 30° în raport cu centrul
+FATO.
+4.2.13 Pentru elicopterele cu un singur rotor portant şi elicopterele cu două rotoare
+portante alăturate, în interiorul suprafeţei sau sectorului de 150° înălţimea obstacolelor
+până la o distanţă de 0,62 D, măsurată din centrul FATO, nu va depăşi 0,05 D deasupra
+FATO. Dincolo de acest arc, până la 0,83 D suprafaţă de limitare a obstacolelor
+obstacolelor va vea o pantă ascendentă de 50%. (figura 4-3)
+4.2.14 Pentru operarea omnidirecţională cu elicoptere cu rotoare principale în tandem nu
+se admite nici un obstacol fix în interiorul suprafeţei de limitare a obstacolelor sau
+sectorului de 150° până la o distanţă de 0.62 D măsurată din centrul FATO. De la acest
+arc, până la o distanţă totala de 0.83 D, obiectele nu vor depăşi înălţime echivalenta cu
+0,05 D deasupra FATO (figura 4-4).
+4.2.15 Pentru exploatarea bidirecţională de către elicoptere cu rotoare principale în
+tandem, , suprafaţă de limitare a obstacoleor sau sectorul de 150°, până la o rază 0.62 D
+obiectele nu vor depăşi o înălţime de 1,1 m deasupra FATO (fig. 4-5).
+
+39
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+43
+
+Tabelul 4-1
+Dimensiunile şi pantele suprafeţelor de limitare a obstacolelor
+FATO CU APROPIERE LA VEDERE şi APROPIERE CLASICA
+SUPRAFETE şi DIMENSIUNI
+
+FATO cu apropiere la vedere
+1
+
+Clase de performanta elicoptere
+2
+3
+
+SUPRAFAŢĂ DE APROPIERE
+
+Lăţimea ariei de
+siguranţă
+Limita ariei de
+siguranţă
+
+Lăţimea ariei de siguranţă
+Limita ariei de siguranţă
+
+Lăţimea marginii interioare
+
+FATO
+cu apropiere fără
+precizie
+
+Amplasarea marginii interioare
+Prima parte
+Divergenta
+
+10%
+15%
+a
+245m
+245ma
+b
+49m
+73,5mb
+a
+8%
+
+10%
+15%
+245ma
+245ma
+49mb
+73,5mb
+8%a
+
+10%
+15%
+245ma
+245ma
+49mb
+73,5mb
+8%a
+
+10%
+15%
+c
+c
+d
+d
+12,5%
+
+10%
+15%
+c
+c
+d
+d
+12,5%
+
+10%
+15%
+c
+c
+d
+d
+12,5%
+
+------------------------------------------------------------------------------
+
+paralele
+e
+e
+d
+d
+15%
+
+paralele
+e
+e
+d
+d
+15%
+
+paralele
+e
+e
+d
+d
+15%
+
+-------------------------------------------------------------------
+
+SUPRAFAŢĂ ORIZONTALĂ
+INTERIOARĂ
+Înălţime
+Raza
+
+---------------
+
+---------------
+
+---------------
+
+45m
+2 000m
+
+SUPRAFAŢĂ
+Panta
+Înălţime
+
+---------------
+
+---------------
+
+---------------
+
+5%
+55m
+
+Lungimea
+Lăţimea exterioara
+
+-ziua
+-noaptea
+-ziua
+-noaptea
+-ziua
+-noaptea
+
+Panta maxima
+Partea a doua
+Divergenta
+Lungimea
+Lăţimea exterioara
+
+-ziua
+-noaptea
+-ziua
+-noaptea
+-ziua
+-noaptea
+
+Panta maxima
+Partea a treia
+Divergenta
+Lungimea
+Lăţimea exterioara
+
+-ziua
+-noaptea
+-ziua
+-noaptea
+
+Panta maxima
+
+16%
+2 500m
+890m
+3,33%
+
+CONICĂ
+
+SUPRAFAŢĂ DE TRANZIŢIE
+Panta
+---------------------20%
+Înălţime
+---------------------45m
+a) Panta şi lungimea care permite elicopterelor să reducă viteza pentru aterizare cu respectarea în totalitate a zonelor
+“de evitat”
+b) Lăţimea marginii interioare va ajuta aceasta mărime (dimensiune)
+c) Determinata de distanţă între marginea interioară şi punctul sau divergenta data unei lăţimi de 7 diametre de rotor
+(ziua) sau de 10 diametre de rotor (noaptea)
+d) Şapte diametre de rotor (toata lăţimea exterioara) pentru operare pe timp de zi sau de 10 diametre rotor (toata
+lăţimea exterioara) pentru operare pe timp de noapte.
+e) Determinata de distanţă între marginea interioară şi locul sau Suprafaţă de apropiere atinsa la o înălţime de 150 m
+deasupra altitudinii de la marginea interioară.
+
+40
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+44
+
+Tabelul 4-2
+Dimensiunile şi pantele suprafeţelor de limitare a obstacolelor
+FATO CU APROPIERE DE
+
+PRECIZIE
+
+Apropiere 3°
+Înălţimea deasupra FATO
+90m
+60m
+45m
+30m
+(300ft)
+(200ft)
+(150ft)
+(100ft)
+
+Suprafeţe şi dimensiuni
+SUPRAFAŢĂ DE
+APROPIERE
+Lungimea
+marginii
+interioare
+Distanţă de la extremitatea
+FATO
+Divergenta fiecărei laturi la
+înălţimea deasupra FATO
+Distanţă,
+la
+înălţime
+deasupra FATO
+Lăţimea,
+la
+înălţime
+deasupra FATO
+Divergenta la secţiune
+paralela
+Distanţă la
+secţiune
+paralela
+Lăţimea secţiunii paralele
+Distanţă la marginea
+exterioara
+Lăţimea marginii
+exterioare
+Panta primei secţiuni
+Lungimea primei secţiuni
+Panta celei de-a doua
+secţiuni
+Lungimea celei de-a doua
+secţiuni
+Lungimea
+suprafeţei
+
+totala
+
+SUPRAFAŢĂ CONICĂ
+Panta
+Înălţimea
+SUPRAFAŢĂ DE
+TRANZIŢIE
+Panta
+Înălţimea
+
+Apropiere 6°
+
+90m
+(300ft)
+
+Înălţimea deasupra FATO
+60m
+45m
+30m
+(200ft)
+(150ft)
+(100ft)
+
+90m
+
+90m
+
+90m
+
+90m
+
+90m
+
+90m
+
+90m
+
+90m
+
+60m
+
+60m
+
+60m
+
+60m
+
+60m
+
+60m
+
+60m
+
+60m
+
+25%
+
+25%
+
+25%
+
+25%
+
+25%
+
+25%
+
+25%
+
+25%
+
+1745m
+962m
+
+1163m
+671m
+
+872m
+526m
+
+581m
+380m
+
+870m
+521m
+
+580m
+380m
+
+435m
+307,5m
+
+290m
+235m
+
+15%
+
+15%
+
+15%
+
+15%
+
+15%
+
+15%
+
+15%
+
+15%
+
+2793m
+1800m
+
+3763m
+1800m
+
+4246m
+1800m
+
+4733m
+1800m
+
+4250m
+1800m
+
+4733m
+1800m
+
+4975m
+1800m
+
+5217m
+1800m
+
+5462m
+
+5074m
+
+4882m
+
+4686m
+
+3380m
+
+3187m
+
+3090m
+
+2993m
+
+1800m
+2,5%
+(1:40)
+3000m
+3%
+(1:33,3)
+
+1800m
+2,5%
+(1:40)
+3000m
+3%
+(1:33,3)
+
+1800m
+2,5%
+(1:40)
+3000m
+3%
+(1:33,3)
+
+1800m
+2,5%
+(1:40)
+3000m
+3%
+(1:33,3)
+
+1800m
+5%
+(1:20)
+1500m
+6%
+(1:16,66)
+
+1800m
+5%
+(1:20)
+1500m
+6%
+(1:16,66)
+
+1800m
+5%
+(1:20)
+1500m
+6%
+(1:16,66)
+
+1800m
+5%
+(1:20)
+1500m
+6%
+(1:16,66)
+
+2500m
+
+2500m
+
+2500m
+
+2500m
+
+1250m
+
+1250m
+
+1250m
+
+1250m
+
+10000m
+
+10000
+m
+
+10000
+m
+
+10000
+m
+
+8500m
+
+8500m
+
+8500m
+
+8500m
+
+5%
+55m
+
+5%
+55m
+
+5%
+55m
+
+5%
+55m
+
+5%
+55m
+
+5%
+55m
+
+5%
+55m
+
+5%
+55m
+
+14,3%
+45m
+
+14,3%
+45m
+
+14,3%
+45m
+
+14,3%
+45m
+
+14,3%
+45m
+
+14,3%
+45m
+
+14,3%
+45m
+
+14,3%
+45m
+
+a
+
+41
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+45
+
+Tabelul 4-3
+Dimensiunile şi pantele suprafeţelor de limitare a obstacolelor
+DECOLARE ÎN LINIE DREAPTĂ
+SUPRAFETE şi DIMENSIUNI
+
+La vedere
+1
+
+Clase de performanta elicoptere
+2
+3
+
+FATO
+cu apropiere fără
+precizie
+
+URCAREA LA DECOLARE
+Lăţimea marginii interioare
+Amplasarea marginii interioare
+
+Prima parte
+Divergenta
+Lungimea
+Lăţimea exterioara
+
+-ziua
+-noaptea
+-ziua
+-noaptea
+-ziua
+-noaptea
+
+Panta maxima
+Partea a doua
+Divergenta
+Lungimea
+Lăţimea exterioara
+
+-ziua
+-noaptea
+-ziua
+-noaptea
+-ziua
+-noaptea
+
+Panta maxima
+Partea a treia
+Divergenta
+Lungimea
+Lăţimea exterioara
+Panta maxima
+
+-ziua
+-noaptea
+-ziua
+-noaptea
+
+Lăţimea ariei de siguranţă
+Limita sau extremitatea prelungirii degajate
+
+90m
+Limita sau
+extremitatea
+prelungirii
+degajate
+
+10%
+15%
+a
+a
+c
+c
+4,5%*
+
+10%
+15%
+b
+245m
+245mb
+d
+49m
+73,5md
+8%b
+
+10%
+15%
+245mb
+245mb
+49md
+73,5md
+8%b
+
+30%
+
+paralele
+paralele
+e
+e
+c
+c
+4,5%*
+
+10%
+15%
+a
+a
+c
+c
+15%
+
+10%
+15%
+a
+a
+c
+c
+15%
+
+paralele
+
+-------------------------------------------------------------------
+
+paralele
+e
+e
+c
+c
+15%
+
+paralele
+e
+e
+c
+c
+15%
+
+paralele
+7640m
+
+2 850m
+1800m
+3,5%
+
+1510m
+1800m
+3,5%*
+
+1800m
+2%
+
+a) Determinata de distanţă între marginea interioară şi punctul sau divergenta data de o lăţime de 7 diametre de rotor
+pentru operarea pe timp de zi sau 10 diametre de rotor pentru operarea pe timp de noapte.
+b) Panta şi lungimea data elicopterelor pentru o arie de acceleraţie şi urcare cu respectarea tuturor zonelor ă”de a evia”
+c) Şapte diametre de rotor ( pe toata lungimea exterioara) pentru operarea pe timp de zi sau 10 diametre ( pe toate
+lăţimea exterioara) pentru operarea pe timp de noapte.
+d) Lăţimea marginii interioare va fi completata cu aceasta dimensiune
+e) Determinata de distanţă între marginea interioară şi locul sau Suprafaţă atinsa la o înălţime de 150 m deasupra
+altitudinii marginii interioare.
+• aceasta panta depăşeşte panta de urcare cu masa maximă cu un motor în funcţiune pentru numărul elicopterelor
+actuale.
+
+________________________________________________________________________
+
+42
+
+46
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+Tabelul 4-4
+Criterii pentru o arie de urcare la decolare/apropiere cu viraj
+APROPIEREA FINALĂ ŞI DECOLARE LA VEDERE
+CARACTERISTICI
+
+SPECIFICAŢIE
+
+Schimbare de direcţie
+
+Conform specificaţiilor ( 120° max.)
+
+Raza de viraj pe linia mediană
+Distanţa până la poarta interioră *
+
+Nu mai puţin de 270 m
+a) Elicopterele din clasa de performanta 1 - nu mai
+puţin de 305m la plecare din extremitatea ariei de
+securitate, sau din prelungirea degajată pentru
+elicoptere
+b) Elicopterele din clasa de performanţă 2 şi 3 – nu
+mai puţin de 307m la plecare din extremitatea
+FATO
+
+Lăţimea porţii interiore:
+
+Lăţimea marginii interioare mărită cu 20% din
+distanţa la poarta interioră
+
+- noaptea
+Lăţimea porţii exterioare:
+
+- ziua
+
+Lăţimea marginii interioare mărită cu 30% din
+distanţa la poarta interioră
+
+- ziua
+
+Lăţimea marginii interioare mărită cu 20% din
+distanţa la poarta interioră până la o lăţime minimă
+de 7 diametre de rotor
+
+- noaptea
+
+Altitudinea porţilor interioară şi
+exterioară
+
+Lăţimea marginii interioare mărită cu 30% din
+distanţa la poarta interioră până la o lăţime maximă
+de 10 diametre de rotor
+Determinată de distanţa calculată de la marginea
+interioară şi de pantele indicate
+
+Pante
+
+Conform Tabelelor 4-1 şi 4-3
+
+Divergenţă
+
+Conform Tabelelor 4-1 şi 4-3
+
+Lungimea totală a ariei
+
+Conform Tabelelor 4-1 şi 4-3
+
+* Distanţa minimă necesară înainte de începutul virajului după decolare sau la terminarea
+virajului în faza finală.
+Note. 1) Vezi figura 4-6.
+2) Pe lungimea totala a ariei de decolare, urcare sau apropiere pot fi necesare mai
+multe viraje. Aceleaşi criterii se vor aplica tututror virajelor subsecvente, în afara cazului
+când lăţimea normală a gabaritelor interioare şi exterioare va fi lăţimea maximă a ariei.
+Heliporturile pe nave
+Amplasare în zona centrală a navei
+4.2.16 Înainte şu după FATO vor exista două sectoare simetrice, fiecare acoperind un
+arc de 150°, având centrul pe cercul de referinţă ăD” al FATO. Nici un obiect nu se va
+
+43
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+ridica deasupra nivelului FATO, cu excepţia mijloacelor de siguranţă necesare operării
+elicopterelor, care nu vor avea înălţimea mai mare de 25cm.
+4.2.17 Pentru asigurarea unei protecţii suplimentare, înainte şi după limita FATO se vor
+stabili suprafeţe de limitare a obstacolelor în pantă ascendentă de 20% de-a lungul
+marginilor celor 2 sectoare de 150 °.
+Aceste suprafeţe se vor întinde pe o distanţă orizontală egala cu cel puţin diametrul ariei
+de apropiere finală şi de decolare şi nici un obstacol nu va fi deasupra acestora (figura 411)
+Amplasare în vecinătatea bordurilor navei
+4.2.18 Pentru punctele din faţa şi din spatele cercului de referinţă cu diametrul D, zona se
+va extinde până la axa longitudinală a navei, în faţă şi în spate, pe o lungime totală de 1,5
+diametrul FATO, amplasate simetric faţă de originea sectorului de referinţă din afara navei.
+În cadrul acestui sector nu vor exista obiecte care să se ridice deasupra nivelului FATO
+exceptând pe acelea care sunt esenţiale pentru operarea în siguranţă a elicopterelor şi
+care pot avea înălţime maximă de 25 cm ( fig. 4-12).
+4.2.19 Se va asigura o suprafaţă orizontală cu lăţimea de cel puţin 0,25 D care va
+înconjura FATO şi sectorul liber de obstacole la o înălţime egală cu 0,05 diametrul cercului
+de referinţă, care nu va fi penetrata de nici un obiect.
+CAPITOLUL 5. MIJLOACE VIZUALE
+5.1 indicatoare
+5.1.1. Indicatoarele direcţiei vântului
+5.1.1.1. Utilizare: Un heliport va fi dotat cu cel puţin un indicator al direcţiei vântului.
+5.1.1.2 Amplasare: Indicatorul direcţiei vântului va fi astfel amplasat încât să indice
+direcţia vântului deasupra ariei de apropiere finală şi de decolare fără a fi influenţat de
+obstacole terestre şi de asemenea va fi ferit de perturbaţiile generate de suflul rotorului. El
+va fi vizibil dintr-un elicopter în zbor, în zbor staţionar sau pe aria de manevră.
+5.1.1.2.1 Acolo unde TLOF poate fi afectată de un flux turbulent de aer, se vor instala
+indicatoare suplimentare ale direcţiei generale a vântului de suprafaţă.
+5.1.1.3 Indicatorul de direcţie a vântului va fi conceput astfel încât să indice clar direcţia
+vântului şi să dea o indicaţie generală a vitezei vântului.
+5.1.1.4 Se recomandă ca indicatorul să fie confecţionat din pânză fină de forma unui
+trunchi de con şi va avea următoarele dimensiuni minime:
+- pentru heliporturi de suprafaţă:
+- lungime 2,4 m
+- diametrul bazei 0,6 m
+- diametrul la extremitate 0,3 m
+- pentru heliporturi în terase şi heliplatforme:
+- lungime 1,2 m
+
+44
+
+47
+
+48
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+- diametrul bazei 0,3 m
+- diametrul la extremitate 0,15 m
+5.1.1.4.1 Culoarea indicatoarelor de direcţie a vântului va fi astfel aleasă încât acestea să
+fie clar vizibile de la o înălţime de cel puţin 200m (650ft) deasupra heliportului având în
+vedere culoarea fundalului. Dacă este posibil se va folosi o singur culoare de preferinţă alb
+sau oranj. Acolo unde este necesară o combinaţie de 2 culori pentru a se asigura un
+contrast corespunzător faţă de culoarea schimbătoare a fundalului, se va folosi de
+preferinţă oranj şi alb, dispuse în cinci benzi, prima şi ultima fiind culori închise.
+5.1.1.4.2. Pe un heliport destinat a fi folosit noaptea indicatorul direcţiei vântului va fi
+luminat.
+5.2 Marcaje şi balize
+5.2.1 Marcajul ariei de troliu
+5.2.1.1 Este recomandat de a utilizat un marcaj distinctiv al ariei de troliu.
+5.2.1.2 Amplasare: Un marcaj al ariei de troliu va fi plasat în aşa manieră încât centrul său
+să coincidă cu centrul zonei degajate a ariei de troliu
+5.2.1.3 Un marcaj al ariei de troliu va fi constituit printr-un cerc plin nu mai mic de 5 m în
+diametru, vopsit în galben.
+5.2.2. Marcajul de identificare al heliportului
+5.2.2.1 Utilizare: Se va utiliza un marcaj de identificare al heliportului.
+5.2.2.2 Amplasare: Marcajul de identificare al heliportului trebuie să fie amplasat în FATO
+sau pe axa centrala sau în vecinătatea acesteia când este folosit împreuna cu marcajele
+de identificare ale unei piste
+5.2.2.3 Caracteristici:
+Marcajul de identificare al heliportului va fi de culoare alba în forma literei H cu excepţia
+cazurilor heliporturilor de spitale. Dimensiunile marcajului nu vor fi inferioare celor indicate
+în figura 5-1. În cazul în care marcajul este utilizat concomitent cu marcajul de identificare
+al FATO, prevăzut la paragraful 5.2.5, aceste dimensiuni vor fi triple.
+5.2.2.4 Pentru un heliport pe spital, marcajul de identificare al heliportului va avea forma
+literei H de culoare roşie pe o cruce alba formata din careuri adiacente; fiecare careu va
+conţine litera H ca în figura 5.1
+5.2.2.5 Marcajul de identificare al heliportului va fi orientat de aşa manieră încât bara
+transversala a literei H să fie perpendiculara pe direcţia preferata de apropiere finală. În
+cazul unei heliplatforme, aceasta bară se va găsi pe bisectoarea sectorului degajat de
+obstacole sau va fi paralelă cu aceasta, ca în figura 5-1.
+
+45
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+5.2.3 Marcajul masei maxime admise
+5.2.3.1 Utilizare. Se recomandă folosiea unui asemenea marcaj pe un heliport în terase
+sau pe o heliplatformă.
+5.2.3.2 Amplasare : Este recomandat ca marcajul masei maxime admise să fie plasat în
+interiorul ariei prizei de contact şi de zbor. Acesta va fi amplsata pentru a fi vizibil unui pilot
+care urmează direcţia preferată de apropiere finală.
+5.2.3.3 Caracteristici: Un marcaj de masă maximă admisă va fi constituit dintr-un număr
+de doua cifre, urmat de litera ăt” pentru a indică masa maximă admisă în tone (1000kg)
+5.2.3.4 Se recomandă ca cifrele şi literele care constituie marcajul să aibă o culoare care
+să contrasteze cu fundalul (figura 5-2).
+
+46
+
+49
+
+50
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+5.2.4 Marcajele sau balizele ariei de apropiere finală şi de decolare
+5.2.4.1. Utilizare : Pentru un heliport de suprafaţă, unde dimensiunile FATO nu sunt uşor
+vizibile se vor asigura marcaje ale FATO.
+47
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+5.2.4.2 Amplasare: Marcajele FATO vor fi amplasate pe conturul acesteia.
+5.2.4.3. Caracteristici: Marcajele sau balizele ariei de apropiere finală şi de decolare sunt
+dispuse după cum urmează:
+a) pentru suprafeţele pătrate sau rectangulare, acestea se amplasează la intervale
+egale, care nu vor depăşi 50 m, pe fiecare latură fiind amplasate cel puţin 3 marcaje,
+fiecare colt fiind marcat.
+b) pentru ariile cu alte forme (circulare) la intervale egale nu mai mari de 10 m cu un
+minim de 5 marcaje sau balize.
+5.2.4.4 Marcarea FATO va fi formata din benzi dreptunghiulare cu o lungime de 9 m sau
+egală cu o cincime din latura FATO, având o lăţime de 1 m. Înălţimea balizei deasupra
+nivelului solului sau zăpezii nu va depăşi 25cm.
+5.2.4.5 Marcajele ariei de apropiere finală şi de decolare vor fi de culoare alba.
+5.2.5 Marcajul de identificare a ariei de apropiere finală şi de decolare
+5.2.5.1 Utilizare: Se recomandă dispunerea unui marcaj de identificare a ariei de
+apropiere finală şi de decolare, când este necesara identificarea acestei arii de către pilot.
+5.2.5.2 Amplasare: Marcajul de identificare va fi amplasat ca în figura 5-3.
+5.2.5.3 Caracteristici: Un marcaj de identificare a FATO va fi format din marcajul de
+idfentificare apistei conform prevederrilor RACR-AD-PETA, paragrafele 5.2.2.4 şi 5.2.2.5,
+şi va fi completat cu litera H, aşa cum este specificat în paragraful 5.2.2, de mai sus (figura
+5-3).
+5.2.6 Marcajul punctului ţintă
+5.2.6.1 Utilizare: Este recomandat a se utiliza un marcaj al punctului ţintă pe un heliport,
+pentru a permite pilotului să efectueze apropierea către un anumit punct, înainte de a se
+întrepta către TLOF.
+5.2.6.2 Amplasare: Marcajul punctului ţintă va fi plasat în interiorul ariei de apropiere
+finală şi de decolare.
+5.2.6.3 Caracteristici: Marcajul punctului ţintă va fi constituit dintr-un triunghi echilateral
+dispus astfel încât bisectoarea unuia dintre unghiurilor sale să coincidă cu direcţia
+preferată de apropiere. Acest marcaj va fi de forma unei linii albe continue, iar
+dimensiunile sale vor fi conforme cu dimensiunile indicate în figura 5-4.
+
+48
+
+51
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+52
+
+5.2.7
+
+Marcajul ariei prizei de contact şi de zbor
+
+5.2.6.1 Utilizare: Pe o heliplatformă se va marca aria prizei de contact şi de zbor.
+
+49
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+5.2.7.2 Pentru heliporturi, excluzând heliplatormele, se recomandă marcarea TLOF, dacă
+perimetrul TLOF nu este evident.
+5.2.7.3 Amplasare: Marcajul ariei prizei de contact şi de zbor va fi plasat pe tot perimetrul
+ariei.
+5.2.7.4 Caracteristici: Marcajul ariei prizei de contact şi de zbor va fi constituit dintr-o linie
+albă continuă cu o lăţime de cel puţin de 30 cm.
+5.2.8 Marcajul prizei de contact
+5.2.8.1 Utilizare: Se recomandă dispunerea unui marcaj al prizei de contact când este
+necesar ca elicopterele să ia contactul într-un punct determinat.
+5.2.8.2 Amplasare: Un marcaj al prizei de contact va fi amplasat astfel încât trenul de
+aterizare principal să fie în interiorul marcajului. Pilotul se va afla în acelaşi timp deasupra
+marcajului. Toate părţile elicopterului vor trece peste toate obstacolele, cu o marjă
+suficientă.
+5.2.8.3 Pe o heliplatformă sau pe un heliport în terase, centrul marcajului prizei de contact
+va fi situat în centrul ariei prizei de contact şi de zbor. Când un studiu aeronautic indică
+necesitatea, marcajul poate fi decalat la o distanţă ce nu va depăşi 0,1 D, în raport cu
+originea sectorului degajat de obstacole, cu rezerva ca decalajul marcajului să nu afecteze
+siguranţa zborului.
+5.2.8.4 Caracteristici: Marcajul prizei de contact va fi constituit dintr- un cerc galben cu o
+lăţime a liniei nu mai mică de 0,5 m. În cazul unei heliplatforme, lăţimea liniei nu va fi mai
+mică de 1m.
+5.2.8.5 Pe o heliplatformă, diametrul interior al cercului va fi egal cu jumătatea valorii D
+corespunzătoare platformei sau 6 m, oricare este mai mare.
+5.2.9 Marcarea numelui heliportului
+5.2.9.1 Utilizare: Se recomandă marcarea numelui heliportului când alte elemente de
+identificare vizuală sunt insuficiente.
+5.2.9.2 Amplasare: Se recomandă amplasarea marcajului nominativ al heliportului astfel
+încât să fie vizibil, pe cât posibil, sub toate unghiurile deasupra orizontului. Când există un
+sector de obstacole, marcajul trebuie să fie amplasat în partea dinspre obstacole în raport
+cu marcajul distinctiv H.
+5.2.9.3 Caracteristici: Marcajul nominativ al heliportului sau un indicativ alfanumeric
+utilizat în comunicaţiile radiotelefonice.
+5.2.9.4 Se recomandă ca înălţimea caracterelor ce constituie marcajul, să fie de cel puţin 3
+m pentru heliporturile de suprafaţă şi de cel puţin 1,2 m pentru heliporturile în terase şi
+heliplatforme. Culoarea marcajului va fi în contrast cu fondul.
+5.2.9.5 Pentru a putea fi utilizat noaptea sau când vizibilitatea este scăzută marcajul
+nominativ al heliportului va fi luminat la interior sau exterior.
+
+50
+
+53
+
+54
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+5.2.10 Marcajul sectorului degajat de obstacole pentru heliplatforme
+5.2.10.1 Utilizare: Se recoamndă marcarea al sectorului degajat de obstacole al
+heliplatformelor.
+5.2.10.2 Amplasare: Marcajul sectorului degajat de obstacole pentru heliplatforme va fi
+plasat pe marcajul ariei prizei de contact şi de zbor.
+5.2.10.3 Caracteristici: Marcajul sectorului degajat de obstacole pentru heliplatforme va
+indica originea sectorului degajat de obstacole, limitele direcţiilor sectorului pentru
+valoarea D a heliplatformei (vezi figura 5-5 pentru cazul unei heliplatforme hexagonale).
+5.2.10.4 Înălţimea marcajului sectorului degajat de obstacole va corespunde lăţimii
+marcajului ariei prizei de contact şi de zbor.
+5.2.10.5 Marcajul va fi de culoare neagră.
+5.2.11 Marcajul căilor de rulare
+Notă. Specificaţiile pentru marcajelor axiale ale căilor de rulajelor şi ale punctelor de
+aşteptare prevăzute de RACR-AD-PETA, paragrafele 5.2.8 şi 5.2.9 se aplică şi căilor de
+rulare lpe sol pentru elicopterere
+5.2.12 Balizele căilor de rulaj aerian
+5.2.12.1 Utilizare: Se recomandă balizarea căilor de rulaj aerian
+Notă. Aceste balize nu vor fi destinate a fi utilizate pe căile de rulare pentru elicoptere.
+5.2.12.2 Amplasare: Balizele căilor de ruaj aerian vor fi dispuse în lungul axei căilor de
+rulaj aerian, la intervale ce nu depăşesc 30 m pe secţiunile rectilinii şi 15m în curbe.
+5.2.12.3 Caracteristici: Balizele căilor de rulaj aerian vor fi frangibile şi nu vor depăşi 35
+cm deasupra nivelului solului sau zăpezii. Ele vor fi vizibile pilotului sub forma unui
+dreptunghi cu raportul de înălţime/lăţime de aproximativ 3/1 şi o suprafaţă minimă de 150
+cm2 , aşa cum este indicat în figura 5-6.
+
+51
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+5.2.12.4 Balizele căilor de rulaj aerian vor prezenta trei benzi orizontale egale ca lăţime
+de culori alternative, galben, verde şi galben. Când calea de rulaj va fi utilizat noaptea,
+balizele vor fi luminate la interior sau reflectorizante.
+5.2.13 Balizele traiectului de tranzit în zbor
+5.2.13.1
+
+În cazul stabilirii unui traiecte de tranzit în zbor, aceasta trebuie balizat.
+
+5.2.13.2 Amplasare: Balizele traiectului de tranzit vor fi dispuse în lungul axului
+tariectului, la intervale de cel mult 60 m pe secţiunile rectilinii şi de 15 m pe secţiunile
+curbe.
+5.2.13.3 Caracteristici: Balizele rutei de tranzit în zbor vor fi vizibile şi instalate de aşa
+manieră ca înălţimea lor deasupra nivelului solului sau zăpezii să nu depăşească 1m. Ele
+vor fi vizibile pilotului sub forma unui dreptunghi cu un raport înălţime/lăţime de 1/3, cu o
+suprafaţă minimă de 1500 cm2 , aşa cum este indicat în figura 5-7.
+5.2.13.4 Balizele traiectului de tranzit în zbor vor avea trei benzi verticale de lăţime egală
+şi culori alternative galben, verde, galben. Când traiectul de tranzit trebuie să fie utilizat
+noaptea, balizele vor fi luminate la interior sau reflectorizante.
+
+52
+
+55
+
+56
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+5.3 Marcaje luminoase
+5.3.1. Far de heliport
+5.3.1.1. Utilizare: Se recomandă utilizarea unui far de heliport când:
+a) se consideră necesară dirijarea vizuală la mare distanţă, nefiind disponibile alte
+mijloace vizuale
+b) identificarea heliportului este dificilă datorită luminilor din vecinătatea acestuia.
+5.3.1.2 Amplasare: Farul de heliport va fi amplasat pe heliport sau în vecinătatea
+heliportului, de preferinţă pe un punct ridicat şi astfel încât să nu orbească piloţii la distanţe
+mici.
+5.3.1.3 Caracteristici: Farul de heliport va emite serii succesive de lumini albe, de scurtă
+durată, separate de intervale regulate, conform schemei din figura 5-8.
+5.3.1.4 Lumina farului va fi vizibilă din orice direcţie.
+5.3.1.5 Distribuţia intensităţii luminilor intermitente va fi conformă figurii 5-9, ilustraţia 1.
+Notă. Acolo unde este considerată necesară reglarea intensităţii luminoase, se recomandă
+folosirea de trepte de 10% sau 3%. Suplimentar, este posibil să fie necesară folosirea unor
+ecranări pentru a se asigura că pilotul nu va fi orbit în timpul fazelor finale ale apropierii şi
+ale aterizării.
+5.3.2 Dispozitive luminoase de apropiere
+5.3.2.1 Utilizare :Se recomandă instalarea un dispozitiv luminos de apropiere pe un
+heliport, pentru a simplifica posibilitatea apropierii pe direcţia preferată.
+5.3.2.2. Amplasare: Dispozitivul luminos de apropiere va fi dispus în linie dreaptă, în
+lungul direcţiei preferate de apropiere.
+5.3.2.3. Caracteristici: Se recomandă ca un dispozitiv luminos de apropiere să fie
+compus din trei şiruri de lumini distanţate uniform la intervale de 30 m şi o bară
+transversală de 18 m lungime situată la distanţă de 90 m de marginea FATO, aşa cum se
+arată în figura 5-10. Luminile care compun bara transversală vor forma, pe cât posibil, o
+linie orizontală în unghi drept intersectată de balizajul axial, luminile fiind distanţate la
+intervale de 4,5 m. Acolo unde este necesar ca traiectul de apropiere finală să devină mai
+contrastant se pot adăuga la bara transversala lumini adiţionale amplasate la intervale
+egale de 30 m. Luminile incluse în bara transversală pot fi lumini cu lumină continuă sau
+cu lumină intermitentă, după cum este necesar în funcţie de mediu. Folosirea aprinderii
+intermitente secvenţiale poate fi utilă atunci când identificarea balizajului este dificilă
+datorită luminilor înconjurătoare.
+5.3.2.4 Când dispozitivul de iluminare de apropiere este instalat pentru deservirea unei
+arii de apropiere fără precizie, este recomandat ca lungimea dispozitivului să fie de cel
+puţin 210m.
+5.3.2.5 Luminile fixe vor fi din lumini albe, omnidirecţionale.
+
+53
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+5.3.2.6 Este recomandat ca repartiţia luminilor fixe să fie ca cea indicată în figura 5-9,
+ilustraţia 2. Totodată, intensitatea trebuie să fie multiplicata de 3 ori în cazul unei arii de
+apropiere finală şi de decolare, pentru apropierea fără precizie.
+5.3.2.7 Luminile cu sclipire secvenţială vor fi lumini albe, omnidirecţionale.
+5.3.2.8 Se recomandă ca pentru luminile cu intermitenţă, secvenţele aprinderii să fie cele
+din figura 3, ilustraţia 3. Secvenţa de aprindere trebuie să aibă o frecvenţă de un Hz, iar
+distribuţia lor trebuie să fie cea prezentată în figura 5-9, Ilustraţia 3. Secvenţa de aprindere
+trebuie să înceapă de la luminile din amonte şi să se propage în direcţia barei
+transversale.
+5.3.2.9 Se recomandă folosirea unui sistem de reglaj pentru a putea ajusta intensitatea
+luminoasă, în funcţie de condiţiile ambientale după cum urmează:
+a) lumini fixe 100%- 30% - 10%
+b) lumini cu intermitenţă 100% - 10% - 3 %
+
+54
+
+57
+
+58
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+55
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+5.3.3 Dispozitivul de dirijare vizuală pentru aliniere
+5.3.3.1
+Utilizare: Se recomandă instalarea unui dispozitiv de dirijare vizuală pentru
+aliniere pentru deservirea apropierii către un heliport în funcţie de condiţiile existente, în
+special noaptea, când:
+a) Asigurarea distanţei faţă de obstacole, reducerea zgomotului sau procedurile ATM
+impun utilizarea unei anumite direcţii de zbor;
+b) mediul înconjurător al heliportului nu asigura suficiente repere vizuale pe suprafaţă; şi
+c) fizic este imposibil să fie instalat un sistem de balizaj luminos de apropiere.
+5.3.3.2 Amplasare: Dispozitivul de dirijare vizuală pentru aliniere va fi plasat orizontal
+dinspre elicopterul care trebuie dirijat către aria de apropiere finală şi de decolare.
+5.3.3.3. Se recomandă ca dispozitivul să fie plasat în afara conturului FATO şi să fie
+coliniar cu direcţia de apropiere preferată.
+5.3.3.4.1
+
+Lămpile vor fi frangibile şi montate cât mai jos posibil.
+
+5.3.3.4.2 Acolo unde luminile sistemului trebuie să se vadă ca surse discretee, lămpile
+vor fi amplasate astfel încât la extremităţile zonei, pilotul să vadă luminile sub un unghi de
+cel puţin de 3 minute de arc.
+5.3.3.4.3 Unghiurile dintre luminile sistemului şi alte lumini comparabile sau de alte
+intensităţi vor fi, de asemenea, de cel puţin 3 minute de arc.
+
+56
+
+59
+
+60
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+Forma semnalelor
+5.3.3.5 Forma semnalului dispozitivului de dirijare vizuală pentru aliniere va cuprinde
+minim 3 sectoare distincte furnizate de indicatoare: ădecalat către dreapta”, ăpe aliniament”
+şi ă decalat către stânga”.
+5.3.3.6 Unghiul de divergenţă al sectorului ăpe aliniament” va fi cel indicat în figura 5-11.
+5.3.3.7 Forma semnalului va fi concepută astfel încât să se evite confuziile între dispozitiv
+şi indicatorul vizual de pantă de apropiere sau alte semnale vizuale, cu care sunt asociate.
+5.3.3.8. Se va evita folosirea aceleaişi codificări cu un indicatorul vizual de pantă de
+apropiere asociat.
+5.3.3.9.1 Forma semnalului va fi aleasă astfel încât dispozitivul să fie individaulizat şi bine
+vizibil în toate condiţiile de operare.
+5.3.3.9.2 Sistemul nu trebuie să mărească semnificativ solicitarea pilotului.
+Repartiţia intensităţii luminoase
+5.3.3.10 Intensitatea luminoasă a sistemului de dirijare vizualî pentru aliniere va fi egală
+sau superioară celei a indicatorului vizual de pantă de apropiere, cu care este asociat.
+5.3.3.11 Este necesară instalarea unui sistem de reglare a intensităţii luminoase, care
+permite modificarea în funcţie de condiţiile ambientale, pentru a evita orbirea momentană
+a piloţilor, în cursul manevrelor de apropiere finală şi aterizare.
+Traiectoria de apropiere şi reglajul azimutului
+5.3.3.12.1 Dispozitivul de dirijare vizuală pentru aliniere va fi reglabil în azimut cu o
+precizie de ± 5 minute de arc, în raport cu traiectoria de apropiere dorită.
+5.3.3.12.2 Unghiul de azimut al sistemului de ghidare va fi astfel reglat încât în timpul
+procedurii de apropiere pilotul elicopterului, la limita semnalului ăon track”, va depăşi
+toate obiectele din apropierea zonei, cu o marjă suficientă de siguranţă.
+5.3.3.13 Caracteristicile suprafeţei de limitare a obstacolelor specificate în paragraful
+5.3.4.22, tabelul 5-1 şi figura 5-13 se aplică şi dispozitivului de dirijare vizuală pentru
+aliniere.
+Caracteristicile dispozitivului de dirijare vizuală pentru aliniere
+5.3.3.14 În cazul defectării unei componente care afectează formatul semnalului,
+dispozitivul va fi decuplat automat.
+5.3.3.15 Lămpile vor fi astfel construite încât depozitele de condens, gheaţă, murdărie, etc.
+de pe suprafeţele optice sau de reflexie vor interfera cât mai puţin posibil cu semnalul
+luminos şi nu vor produce semnale false.
+
+57
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+5.3.4 Indicatorul vizual al pantei de apropiere
+5.3.4.1 Utilizare: Se recomandă instalarea unui indicator vizual al pantei de apropiere pe
+un heliport, care nu dispune de altă semnalizare vizuală de apropiere, când:
+a) Asigurarea distanţei faţă de obstacole, reducerea zgomotului sau procedurile ATM
+impun utilizarea unei anumite direcţii de zbor;
+b) Mediul înconjurător al heliportului nu asigură suficiente repere vizuale pe suprafaţă; şi
+c) caracteristicile elicopterului impun o apropiere stabilizată.
+5.3.4.2 Indicatoarele vizuale de pantă de apropiere normală pentru exploatare de către
+elicoptere, vor fi următoarele:
+a) Indicatoarele PAPI şi APAPI vor îndeplini cerinţele din RACR-AD-PETA paragrafele
+5.3.5.23 până la 5.3.5.40, cu excepţia că unghiul indicatorului ăon slope” (pe pantă) va fi
+mărit la 45 minute de arc;
+b) indicatorul de traiectorie de apropiere pentru elicoptere (HAPI) va respecta specificaţiile
+din paragrafele 5.3.4.6 până la 5.3.4.21 din prezenta reglementare.
+
+58
+
+61
+
+62
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+59
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+5.3.4.3 Amplasare: Indicatorul vizual de pantă de apropiere va fi amplasat în faţa unui
+elicopter care trebuie dirijat către punctul dorit în interiorul ariei de apropiere finală şi de
+decolare astfel încât să nu producă orbire temporară pilotului, în cursul apropierii finale şi
+aterizării.
+5.3.4.4 Se recomandă ca un indicator vizual de pantă de apropiere să fie amplasat la
+cota nominală a punctului ţintă şi aliniat, în azimut, pe direcţia preferată de apropiere.
+5.3.4.5 Lămpile vor fi frangibile şi instalate cât mai jos posibil.
+Formatul semnalului pentru dispozitivul HAPI
+5.3.4.6 Formatul semnalului pentru dispozitivului HAPI cuprinde 4 sectoare de indicare
+distincte. Acestea sunt: ăpeste pantă”, ăpe pantă”, ăuşor sub pantă” şi ăsub pantă”
+60
+
+63
+
+64
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+5.3.4.7 Formatul semnalului dispozitivului HAPI va fi conform cu figura 5-12, ilustraţiile A
+şi B.
+Notă: În procesul de proiectare se vor avea în vedere reducerea la minimum a interferenţei
+între diferitele sectoare de semnalizare şi limitele de acoperire în azimut.
+5.3.4.8 Frecvenţa de repetare a semnalului din sectorul cu lumionă intermitentă al HAPI va
+fi de minim 2 Hz.
+5.3.4.8.1 Rata de aprindere/ stingere a semnalelor HAPI ar trebui să fie 1 la 1 şi modulaţia
+ar trebui să fie de cel puţin 80%.
+5.3.4.9 Deschiderea unghiulară a sectorului ăpe pantă” la HAPI va fi de 45 minute de arc.
+5.3.4.10 Deschiderea unghiulară a sectorului ăuşor sub pantă” la HAPI va fi de 15 minute
+de arc.
+5.3.4.11 Se recomandă ca la repartiţia intensităţii luminoase la HAPI luminile roşii şi cele
+verzi să fie conforme cu figura 5-9, ilustraţia 4.
+Notă. Se poate extinde acoperirea în azimut a HAPI prin instalarea acestuia pe un suport
+rotativ.
+5.3.4.12 Tranziţia culorilor la HAPI în plan vertical va fi astfel încât, pentru un observator
+care se găseşte la o distanţă de minim 300 m ea va apărea limitata de un unghi care să nu
+depăşească trei minute de arc pentru o poziţie.
+5.3.4.13 Factorul de transmisie la un filtru roşu sau verde va fi cel puţin egal cu 15 % din
+reglajul de intensitate maximă.
+5.3.4.14 La intensitate maximă, lumina roşie a HAPI va avea o coordonată Y care nu va
+depăşi 0,320 şi lumina verde se va încadra în limitele prevăzute de Apendicele nr. 1 la
+RACR-AD-PETA, paragraful 2.1.3.
+5.3.4.15 Comanda intensităţii: Dispozitivului va fi prevăzut cu un reglaj în funcţie de
+condiţiile ambientale pentru a preveni orbirea temporară a pilotului în cursul manevrelor de
+apropiere şi aterizare.
+Panta de apropiere şi calajul în poziţie
+5.3.4.16 Un indicator HAPI va avea o poziţie reglabilă în toate unghiurile dorite între 1° şi
+12° deasupra orizontului, cu o precizie de ± 5 minute de arc.
+5.3.4.17 Calajul unghiular în poziţie al HAPI va fi făcut astfel încât pe durata apropierii
+pilotul unui elicopter care urmăreşte limita superioară a semnalului ăsub pantă” va depăşi
+toate obstacolele din zona de apropiere cu o marjă de siguranţă suficientă.
+Caracteristicile ansamblului luminos
+5.3.4.18 Indicatoarele vor fi concepute astfel încât:
+
+61
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+a) La un decalaj verticalîn poziţie a ansamblului luminos de peste ± 0,5° (± 30 minute de
+arc) indicatorul se va stinge automat.
+b) Când sistemul de iluminare intermitentă se defectează, sectorul defect nu va emite nici
+o lumină.
+5.3.4.19 Ansamblul luminos al HAPI va fi conceput în aşa fel încât depunerile de condens,
+gheaţă pe suprafeţele optice de transmisie sau reflexie să influenţeze cât mai puţin posibil
+semnalul luminos şi nu vor produce semnale parazite sau erori.
+5.3.4.20 Sistemul HAPI care se doreşte a fi instalat la o heliplatformă flotantă trebuie să
+permită o stabilizare a direcţiei de ±1/4 grade la o deviaţie de tangaj şi ruliu de ±3° a
+platformei.
+
+62
+
+65
+
+66
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+63
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+Suprafaţă de limitare a obstacolelor pentru indicatoare vizuale de pantă de
+apropiere (PAPI, APAPI şi HAPI)
+5.3.4.21 Când este prevăzută instalarea unui indicator vizual pe panta de apropiere, se va
+stabili o suprafaţă de limitare a obstacolelor.
+5.3.4.22 Caracteristicile suprafeţei de limitare a obstacolelo şi anume originea,
+deschiderea, lungimea şi panta vor corespunde cu cele specificate în coloana
+corespunzătoare din tabelul 5-1 şi în figura 5-13.
+5.3.4.23 Prezenţa a noi obiecte sau supraînălţarea obstacolelor existente nu va fi
+acceptata deasupra suprafeţei de limitare a obstacolelor cu excepţia cazurilor avizate de
+autoritatea competentă.
+5.3.4.24 Obiectele care se ridică deasupra suprafeţei de limitare a obstacolelor vor fi
+eliminate, cu excepţia cazurilor când autoritatea competentă consideră că obiectul este
+ecranat de un alt obiect existent, care nu poate fi îndepărtat, sau când printr-un studiu
+aeroanutic s-a stabilit că obiectul nu va afecta siguranţa operaţională.
+5.3.4.25 Când un studiu aeronautic indică existenţa unui obiect care depăşeşete suprafaţă
+de limitare a obstacolelor şi care riscă să compromită siguranţa operării elicopterelor se
+vor lua una sau mai multe dintre următoarele măsuri:
+a) creşterea pantei de apropiere a dispozitivului;
+b) reducerea deschiderii în azimut a dispozitivului care face ca obiectul să se găsească în
+afara limitelor fascicolului.
+c) decalarea cu 5° maxim a axei dispozitivului şi suprafeţei de limitare a obstacolelor cu
+care e asociat.
+d) decalarea ariei de apropiere finală şi de decolare;
+e) instalarea unui dispozitiv de dirijare vizuală pentru aliniere de timpul specificat la
+secţiunea 5.3.3.
+5.3.5 Luminile ariei de apropiere finală şi de decolare
+5.3.5.1
+Când o arie de apropiere finală şi de decolare este amenajată pe un heliport
+de suprafaţă pe sol destinat a fi utilizat noaptea se vor instala lumini ale ariei de apropiere
+finală şi de decolare. Aceste lumini pot fi omise atunci când această arie şi aria prizei de
+contact şi de zbor coincid sau limitele ariei de apropiere finală şi de decolare sunt vizibile
+clar.
+Amplasare: Luminile ariei de apropiere finală şi de decolare vor fi amplasate
+5.3.5.2
+pe conturul ariei. Ele vor fi dispuse la intervale uniforme după cum urmează:
+a) Pentru ariile care au forma pătrată sau dreptunghiulară, intervalele nu vor depăşi 50 m
+cu minim 4 lumini pe fiecare latură, iar la fiecare colţ câte o lumină.
+b) Pentru ariile de alte forme, incluzând şi ariile circulare, intervalele nu vor depăşi 5m cu
+nu mai puţin de 10 lumini.
+5.3.5.3
+Caracteristici: Luminile de apropiere finală şi de decolare vor fi lumini albe
+fixe, omnidirecţionale. Când este necesară variaţia intensităţii acestor lumini, acestea vor fi
+de culoare alba, variabilă.
+
+64
+
+67
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+68
+
+5.3.5.4 Se recoamndă ca repartiţia luminilor ariei de apropiere finală şi de decolare să fie
+conformă cu figura 5-9 , ilustraţia 5.
+5.3.5.5. Se recomandă ca înălţimea lămpilor să nu depăşească 25 cm, iar cele care sunt
+pe suprafaţă ariei să fie încastrate pentru a nu periclita siguranţa elicopterului. Când aria
+de apropiere finală şi de decolare nu este folosită pentru ridicare sau priză de contact,
+înălţimea lămpilor, deasupra nivelului solului sau zăpezii, nu va depăşi 25 cm.
+5.3.6 Luminile punctului ţintă
+5.3.6.1 Utilizare: Când heliportul prevăzut cu un marcaj al punctului ţintă este destinat a fi
+utilizat noaptea, se recomandă să se instaleze lumini ale punctului ţintă.
+5.3.6.2 Luminile punctului ţintă se vor suprapune cu marcajele ale punctului ţintă.
+5.3.6.3 Caracteristici: Configuraţia luminilor punctului ţintă va fi obţinută cu ajutorul a nu
+mai puţin de 6 lămpi albe, omnidirecţionale, precum cele din figura 5-4. Atunci când
+lămpile montate deasupra suprafeţei reprezintă un risc operaţional, acestea vor fi
+încastrate.
+5.3.6.4 Se recoamndăca repartiţia luminilor punctului ţintă să fie conform indicaţiilor figurii
+5-9 , ilustraţia 5.
+5.3.7
+
+Balizarea luminoasă a TLOF
+
+5.3.7.1 Utilizare: Pe un heliport destinat a fi utilizat noaptea va fi instalat un dispozitiv de
+balizaj luminos al TLOF.
+5.3.7.2 În cazul unui heliport de suprafaţă dispozitivul luminos al TLOF va aplica una sau
+mai multe dintre soluţiile următoare:
+a) lumini periferice
+b) lumină disipată (proiectoare) sau
+c) iluminat prin panouri cu lumină punctuală (ASPSL) sau panouri luminescente (LP)
+pentru a identifica TLOF atunci când nu se pot aplica soluţiile a) sau b), dar sunt
+disponibile lumini de apropiere fianlă şi decolare.
+5.3.7.3 În cazul unui heliport în terase sau unei heliplatforme dispozitivul luminos al ariei
+prizei de contact şi de zbor va fi constituit din:
+a) lumini periferice; şi din
+b) panouri ASPSL, LP pentru identificarea marcajului zonei prizei de contact, sau cu
+lumină disipată (proiectoare) ori o combinaţie a acestor mijloace pentru a ilumina TLOF.
+Notă. Pentru heliporturile în terase şi heliplatforme, indicaţiile privind textura suprafeţei
+TLOF sunt esenţiale pentru poziţionarea elicopterelor în cursul manevrelor de apropiere
+finală şi de aterizare. Aceste indicaţii se pot asigura folosind diverse forme de balizare
+luminoasă (ASPSL, LP, lumina disipată sau o combinaţie a acestor lumini, etc. ) împreuna
+cu balizajul perimetral. S-a demonstrat că cele mai bune rezultate le dau combinaţiile de
+balizaj perimetral şi ASPSL sub forma unor benzi capsulate de LED-uri în scopul
+identificării marcajelor prizei de contact şi heliportului.
+
+65
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+5.3.7.3.1 Pe un heliport de suprafaţă destinat a fi folosit noaptea pentru care sunt
+necesare informaţii precise privind textura suprafeţei se recomandă folosirea pentru TLOF
+a ASPSL şi/sau LP ori a luminii disipate pentru a identifica marcajul prizei de contact.
+5.3.7.4 Amplasare: Luminile periferice ale ariei prizei de contact şi de zbor vor fi
+amplasate la marginea ariei la maxim 1,5 m de margine. În cazul unei arii de forma
+circulară, aceste lumini vor fi amplasate astfel:
+a) pe liniile drepte conforme cu o configuraţie care va furniza piloţilor informaţii de derivă.
+b) când soluţia a) nu este posibilă, la periferia ariei de contact şi de zbor spatiile vor fi
+uniforme, cu intervale adecvate, exceptetând un sector de 45° pe care intervalele dintre
+lumini vor fi redus la jumătate.
+5.3.7.5 Luminile perimetrale ale TLOF vor fi amplasate uniform la intervale care nu
+depăşesc 3 m în cazul heliporturilor în terase şi heliplatformelor şi 5m în cazul
+heliporturilor de suprafaţă. Aceste lumini vor fi în număr de minim 4 pe fiecare latură, iar
+fiecare colţ va fi marcat cu o lampă. În cazul unei suprafeţe de formă circulară luminile vor
+fi instalate conform 5.3.7.4 subpunctul b). Aceste lumini vor fi în număr de minim 14.
+5.3.7.6 Luminile perimetrale ale TLOF ale unui heliport în terase sau de pe o heliplatformă fixă, vor fi dispuse astfel încât pilotul să nu poată identifica configuraţia luminilor
+de la o înălţime mai mică decât a TLOF.
+5.3.7.7.Luminile perimetrale ale TLOF instalate pe o heliplatformă flotantă, vor fi dispuse
+de astfel încât pilotul aflat deasupra înălţimii ariei prizei de contact şi de zbor să nu poată
+vedea configuraţialuminilor când heliplatforma e la orizontală.
+5.3.7.8 Pe un heliport de suprafaţă, panourile luminoase, destiante identificării TLOF, vor fi
+dispuse în lungul marcajului conturului ariei prizei de contact şi de zbor. Când aria prizei
+de contact şi de zbor are o formă circulară, panourile luminoase vor fi amplasate pe liniile
+drepte care circumscriu această arie.
+5.3.7.9 Pe heliporturile de suprafaţă se vor instala minim 9 LP pe TLOF. Lungimea totală a
+LP din dispozitiv, va fi cel puţin egală cu 50% din lungimea dispozitivului, având un număr
+impar de panouri pe fiecare latură a TLOF, incluzând un panou în fiecare colt, iar spatiile
+dintre LP nu vor depăşi 5 m, pe fiecare latură a TLOF.
+5.3.7.9.1 Acolo unde se folosesc LP pe un heliport în terase sau heliplatformă, în scopul
+evidenţierii texturii suprafeţei, panourile nu trebuie amplasate adiacent balizajului
+perimetral. Ele trebuie să fie orientate în jurul marcajului prizei de contact, dacă există, sau
+să coincidă cu marcajul de identificare a heliportului.
+5.3.7.10 Proiectoarele cu lumină disipată ale TLOF vor fi plasate astfel încât să nu
+orbească temporar piloţii elicopterelor în timpul zborului sau personalul care deserveşte
+zona. Ele vor fi dispuse şi orientate astfel încât să ser educă, pe cât posibil, zonele
+umbrite.
+Notă. S-a demonstrat că ASPSL şi LP utilizate pentru marcarea prizei de contact sau a
+identificării heliportului oferă informaţii privind textura suprafeţei superioare luminii disipate
+instalate la înălţime mică. Datorită riscului de aliniere eronată în cazul folosirii luminii
+disipate este necesară verificarea periodică a luminilor pentru a avea siguranţa că ele
+îndeplinesc specificaţiile din secţiunea 5.3.5.
+
+66
+
+69
+
+70
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+5.3.7.11 Caracteristici: Balizarea
+omnidirecţionale, de culoare verde.
+
+perimetrală
+
+a
+
+TLOF
+
+se
+
+asigură
+
+cu
+
+lumini,
+
+5.3.7.12 Pe un heliport de suprafaţă, luminile folosite pentru definirea TLOF vor emite
+lumină verde .
+5.3.7.13 Prevederile sub-paragrafelor 5.3.7.11 şi 5.3.7.12 nu impun înlocuirea instalaţiilor
+existente înainte de 1 ianuarie 2009.
+5.3.7.14 Crominanţa şi intensitatea luminoasă a culorilor luminilor se recomandă să
+îndeplinească cerinţele RACR-AD-PETA, Apendicele 1, secţiunea 3.4.
+5.3.7.15 Un panou luminescent va avea o lăţime minimă de 6 cm. Cutia panoului va avea
+aceeaşi culoare cu marcajul pe care îl defineşte.
+5.3.7.16 Se recomandă ca înălţimea luminilor periferice să nu depăşească 25 cm şi să fie
+încastrate pentru a evita eventualele pericole în operarea elicopterelor.
+5.3.7.17 Se recomandă ca proiectoarele cu lumină disipată ale ariei prizei de contact şi de
+zbor, amplsate în zona de siguranţă a helkiportului sau în sectorul degajat de obstacole al
+unei heliplatforme, să nu depăşească o înălţime de 25 cm.
+5.3.7.18 Panourile luminescente nu vor fi ridicate mai mult de 2,5 cm deasupra suprafeţei.
+5.3.7.19 Se recomandă ca repartiţia luminilor periferice să fie conformă cu figura 5-9,
+ilustraţia 6.
+5.3.7.20 Se recomandă ca repartiţia luminoasă a panourilor luminescente să fie conformă
+cu fig. 5-9 , ilustraţia 7.
+5.3.7.21 Repartiţia spectrală a proiectoarelor cu lumină disipată ale TLOF va fi stabilită
+astfel încât să permită identificarea corectă a marcajelor de suprafaţe şi obstacolare.
+5.3.7.22 Intensitatea luminoasă medie orizontală a luminii disipate va fi de cel puţin 10
+lux, cu rata (medie / minimum) de cel mult 8:1 măsurată pe suprafaţa TLOF.
+5.3.7.23 Balizarea luminoasă a marcajului prizei de contact va fi formată dintr-un cerc
+segmentat de benzi ASPSL omnidirecţionale cu lumină galbenă. Segmentele vor consta
+din benzi ASPSL, iar lungimea totală a acestora va fi de cel puţin 50% din circumferinţa
+cercului.
+5.3.7.24 Dacă se foloseşte balizarea luminoasă a marcajului de identificare aceasta va
+consta din lumini omnidirecţionale verzi.
+5.3.8 Iluminarea cu lumina disipată a zonei de operaţiuni cu troliul
+5.3.8.1 Pentru zonele de operaţiuni cu troliul destinate utilizării pe timp de noapte va fi
+asigurată iluminarea cu lumina disipată.
+
+67
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+5.3.8.2 Amplasare: Sistemul de iluminare va fi astfel amplasat pentru a evita orbirea
+temporară a piloţilor sau a personalului care lucrează în zonă. Distribuţia şi orientarea
+lămpilor va asigura reducerea la minimum a zonelor umbrite .
+5.3.8.3 Caracteristici: Distribuţia spectrală a luminii disipate pentru zona de operaţiuni cu
+troliul va asigura identificarea corectă a marcajelor de pe suprafaţă şi ale obstacolelor.
+5.3.8.4. Se recomandă ca intensitatea luminoasă medie orizontală să fie de cel puţin
+10lux, măsurată pe suprafaţa zonei de operaţiuni cu troliul.
+5.3.9 Luminile căilor de rulare
+Notă: Prevederile pentru balizarea axială şi laterală a căilor de rulare prevăzute de RACRAD-PETA secţiunile 5.3.16 şi 5.3.17 se aplică şi căilor de rulare la sol pentru elicoptere.
+5.3.10 Mijloace vizuale pentru semnalizarea obstacolelor
+Notă: Prevederile RACR-AD-PETA, capitolul 6 privind marcarea şi balizarea obstacolelor
+se aplică similar şi în cazul heliporturilor sau zonelor de operaţiuni cu troliul.
+5.3.11 Iluminarea cu proiectoare cu lumină disipată a obstacolelor
+5.3.11.1 Pentru un heliport destinat a fi utilizat pe timp de noapte şi pentru care nu este
+posibilă balizarea obstacolelor, acestea trebuie să fie iluminate prin proiectoare cu lumina
+disipată.
+5.3.11.2 Amplasare: Proiectoarele cu lumină disipată vor fi astfel dispuse pentru a ilumina
+întregul obstacol si, pe cât posibil, să se evite orbirea temporară a piloţilor elicopterelor.
+5.3.11.3 Caracteristici: Se recomandă ca iluminarea obstacolelor cu proiectoare cu
+lumină disipată să asigure o iluminare de cel puţin 10cd/m2.
+CAPITOLUL 6. SERVICII DE HELIPORT
+6.1 Salvarea şi stingerea incendiilor
+Prevederile următoare se aplică numai helipoturilor de suprafaţă şi în terase. Aceste
+prevederi completează prevederile RACR-AD-PETA, secţiunea 9.2 privind cerinţele de
+salvare şi stingere incendii aplicabile aerodromurilor.
+Obiectivul principal al serviciului de salvare şi stingere a incendiilor este de a salva vieţi
+omeneşti. Din această cauză, mijloacele de salvare în caz de accident sau incident de
+elicopter pe un heliport au o importanţă primordială deoarece, mai ales în această zonă,
+sunt şanse de a salva vieţi omeneşti.
+Factorii cei mai importanţi pentru salvarea efectivă în caz de accident de elicopter implică
+posibilitatea de supravieţuire pentru ocupanţi, antrenamentul necesar al personalului,
+eficacitatea materialului şi rapiditatea cu care intervine personalul cu materialele contra
+incendiilor şi de salvare.
+În cazul unui heliport în terase nu se iau considerare cerinţe privind protejarea clădirii sau
+structurii heliportului.
+
+68
+
+71
+
+72
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+6.1.1. Nivelul de protecţie asigurat
+6.1.1 Se recomandă ca nivelul de protecţie asigurat pentru salvare şi lupta contra
+incendiilor să fie stabilit luând în considerare lungimea exterioară a elicopterului celui mai
+lung care se utilizează în mod normal pe heliport conform categoriei atribuite heliportului
+(tabelul 6-1), cu excepţia heliporturilor de suprafaţă nesupravegheate şi cu număr redus
+de mişcări.
+Notă. Manualul heliportului va conţine indicaţii destinate a ajuta autoritatea competentă în
+punerea în valoare a acţiunii serviciilor şi materialului de salvare şi de lupta contra
+incendiilor pe un heliport de suprafaţă şi în terase.
+6.1.1.1 Pentru perioadele când este prevăzută operarea cu elicoptere mai mici, categoria
+serviciilor de salvare şi stingere a incendiilor ale unui heliport poate fi redusă la categoria
+necesară celui mai mare elicopter prevăzut să folosească heliportul în acea perioadă.
+Agenţi de stingere
+6.1.2 Se recoamndă ca agentul de stingere principal să fie spuma care să satisfacă
+minimum nivelul de performanţă B.
+6.1.3 Se recomandă ca toate cantităţile de apă specifice pentru producerea de spumă şi
+cantităţile de agenţi complementari prevăzuţi să corespunda cprevederilor paragrafului
+6.1.1 şi tabelelor 6-2 sau 6-3, după caz.
+Notă. Pentru heliporturile în terase nu este necesară stocarea pe heliport sau în
+vecinătatea heliportului (la cota acestuia) a cantităţilor de apă necesare, dacă există o
+sursă de apă sub presiune capabilă să asigure debitele de aplicare.
+6.1.4 La un heliport de suprafaţă se acceptă înlocuirea, completă sau parţială, a cantităţii
+de apă pentru producerea spumei prin agenţi de stingere complementari.
+6.1.5. Se recomandă ca debitul de spumă să fie cel puţin cel indicat în tabelele 6-2 sau 63, după caz.
+6.1.6 Se recomandă un heliport în terase să fie prevăzut cu cel puţin un hidrant pentru
+aplicarea spumei cu un debit de 250l/minut. Suplimentar, pentru heliporturile în terase care
+au servicii de categoria 2 şi 3, sunt necesare cel puţin 2 ajutaje având capacitatea de a
+asigura debitul cerut. Acestea vor fi amplasate pe locaţii diferite ale acestui heliport astfel
+încât să asigure aplicarea spumei în orice zona a heliportului, în orice condiţii meteo şi să
+reducă la minimum posibilitatea ca ambele ajutaje să fie ineficiente în cazul unui accident
+de elicopter.
+Echipamente de salvare
+6.1.7 În cazul unui heliport în terase echipamentele de salvare se recomandă ca
+echipamentul de salvare să fie păstrat în vecinătatea heliportului.
+
+69
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+73
+
+Timpul de intervenţie
+6.1.8 Se recomandă ca la un heliport de suprafaţă timpul de intervenţie pentru salvare şi
+stingerea incendiilor să nu depăşească 2 minute în condiţii optime de vizibilitate şi de stare
+a suprafeţei.
+6.1.9 Timpul de intervenţie este timpul care se scurge între alerta iniţială pentru salvare şi
+stingerea incendiilor şi momentul din care primele vehicule de intervenţie sunt în măsură
+să aplice spuma cu un debit de cel puţin de 50% din cel specificat în tabelul 6 -2.
+6.1.10 Se recomandă ca la un heliport în terase serviciul de salvare şi de stingere a
+incendiilor trebuie să imediat disponibil pe platforma de manevră sau în vecinătatea
+acesteia când manevrele sunt în curs.
+Tabelul 6-1
+Categorii de heliporturi pentru stingerea incendiilor
+Categoria
+H1
+
+Până la 15m exclusiv
+
+H2
+
+De la 15m la 24m (exclusiv)
+
+H3
+a.
+
+Lungimea toata a elicopterului (a.)
+
+De la 24m la 35m (exclusiv)
+
+Lungimea totală a elicopterului include grinda de coadă şi rotoarele
+
+Tabelul 6-2
+Cantităţile minime utilizabile de agenţi de stingere pentru heliporturi de suprafaţă
+
+Categoria
+(1)
+
+H1
+H2
+H3
+
+Spuma la nivel de
+performanta B
+Apa
+Debit de
+(litri)
+aplicare a
+spumei
+(litri/minut)
+(2)
+(3)
+500
+250
+1
+500
+000
+1
+800
+600
+
+Agenţi complementari
+Pulbere uscata (kg)
+
+Haloni
+sau
+
+sau
+
+CO2
+
+(4)
+23
+45
+
+(6)
+45
+90
+
+90
+
+70
+
+(5)
+23
+45
+90
+
+180
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+74
+
+Tabelul 6-3
+Cantităţile minime utilizabile de agenţi de stingere pentru heliporturi în terase
+
+Categoria
+(1)
+
+H1
+H2
+H3
+
+Spuma la nivel de
+performanta B
+Apa
+Debit de
+(litri)
+aplicare a
+spumei
+(litri/minut)
+(2)
+(3)
+2
+250
+500
+5
+500
+000
+8
+800
+000
+
+Agenţi complementari
+Pulbere uscata (kg)
+
+Haloni
+sau
+
+sau
+
+CO2
+
+(4)
+45
+
+(6)
+90
+
+45
+
+45
+
+90
+
+45
+
+71
+
+(5)
+45
+
+45
+
+90
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+75
+
+Anexa la RACR-AD-PETH
+
+CERINŢE PRIVIND CALITATEA DATELOR AERONAUTICE
+Tabelul 1. Latitudine şi longitudine
+
+Punctul de referinţă al heliportului . . . . . . . . . . . . . . . .
+
+Acurateţe
+Tipul datelor
+30 m
+măsurat / calculat
+
+Clasificare
+Integritate
+obişnuită
+1x10-3
+
+Mijloace de navigaţie localizate pe heliport. . . . . . . . .
+
+3m
+măsurat
+
+esenţială
+1x10-5
+
+Obstacole în Zona 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+0,5 m
+măsurat
+
+esenţială
+1x10-5
+
+Obstacole în Zona 2 (partea din interiorul limitelor
+heliportului) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5m
+măsurat
+
+esenţială
+1x10-5
+
+Centrul geometric al TLOF sau al pragurilor FATO. . . .
+
+1m
+măsurat
+
+esenţială
+1x10-8
+
+Punctele axiale ale căilor de rulare, căilor de rulaj aerian
+şi ale traiectelor de tranzit ………………………………….
+
+0,5m
+măsurat / calculat
+
+esenţială
+1x10-5
+
+Intersecţia căilor de rulare . . . . . . . . . . . . . . . . . . . . . . . .
+
+0,5m
+măsurat
+
+esenţială
+1x10-5
+
+Dirijare spre ieşire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+0,5m
+măsurat
+
+esenţială
+1x10-5
+
+Limitele platformei (poligon) . . . . . . . . . . . . . . . . . . . . . .
+
+1m
+măsurat
+
+obişnuită
+1x10-3
+
+Platforma pentru degivrare / antigivrare (poligon) ….. .
+
+1m
+măsurat
+
+obişnuită
+1x10-3
+
+Punctele de staţionare elicoptere / verificare INS ………
+
+0,5m
+măsurat
+
+obişnuită
+1x10-3
+
+Latitudine şi longitudine
+
+72
+
+76
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+Tabelul 2. Cotă / altitudine / înălţime
+
+Acurateţe
+Tipul datelor
+0,5 m
+măsurat
+
+Clasificare
+Integritate
+esenţială
+1x10-5
+
+Ondulaţia geoidului faţă de elipsoidul WGS-84 la punctul de
+cotă al heliportului . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+0,5 m
+măsurat
+
+esenţială
+1x10-5
+
+Pragul FATO, apropieri de neprecizie . . . . . . . . . . . . . . . . . .
+
+0,5 m
+măsurat
+
+esenţială
+1x10-5
+
+Ondulaţia geoidului faţă de elipsoidul WGS-84 la pragul
+FATO, centrul geometric al TLOF - apropieri de neprecizie .
+
+0,5 m
+măsurat
+
+esenţială
+1x10-5
+
+Pragul FATO, apropieri de precizie . . . . . . . . . . . . . . . . . . . .
+
+0,25 m
+măsurat
+
+critică
+1x10-8
+
+Ondulaţia geoidului faţă de elipsoidul WGS-84 la pragul
+FATO, centrul geometric al TLOF - apropieri de precizie ….
+
+0,25 m
+măsurat
+
+critică
+1x10-8
+
+Punctele axiale ale căilor de rulare, căilor de rulaj aerian şi
+ale traiectelor de tranzit ………………………………………..
+
+1m
+măsurat
+
+esenţială
+1x10-5
+
+Obstacole în Zona 2 (partea din interiorul limitelor
+aerodromului) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3m
+măsurat
+
+esenţială
+1x10-5
+
+Obstacole în Zona 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+0,5m
+măsurat
+
+esenţială
+1x10-5
+
+Echipament de măsurare a distanţei de precizie (DME/P) . .
+
+3 m
+măsurat
+
+esenţială
+1x10-5
+
+Cotă / altitudine / înălţime
+Cota heliportului . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+73
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+77
+
+Tabelul 3. Declinaţia magnetică
+
+Acurateţe
+Tipul datelor
+1 grad
+măsurat
+
+Clasificare
+Integritate
+esenţială
+1x10-5
+
+Declinaţia magnetică la antena ILS direcţie . . . . . . . . . . . . .
+
+1 grad
+măsurat
+
+esenţială
+1x10-5
+
+Declinaţia magnetică la antena MLS azimut . . . . . . . . . . . . .
+
+1 grad
+măsurat
+
+esenţială
+1x10-5
+
+Aliniere antenă ILS direcţie (LLZ) . . . . . . . . . . . . . . . . . . . ...
+
+Acurateţe
+Tipul datelor
+1/100 grad
+măsurat
+
+Clasificare
+Integritate
+esenţială
+1x10-5
+
+Aliniere antenă MLS raportată la azimut zero . . . . . . . . . . .
+
+1/100 grad
+măsurat
+
+esenţială
+1x10-5
+
+Direcţia FATO (adevărată) . . . . . . . . . . . . . . . . . . . . .. . . . ..
+
+1/100 grad
+măsurat
+
+obişnuită
+1x10 - 3
+
+Declinaţia
+Declinaţia magnetică în zona de heliport . . . . . . . . . . . . . .
+
+Tabelul 4. Relevment
+
+Relevment
+
+74
+
+78
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 203 bis/31.III.2009
+
+Tabel 5. Lungime / distanţă / alte dimensiuni
+Lungime / distanţă / alte dimensiuni
+Lungimea FATO, dimensiunile TLOF... . . . . . . . . . . . . . . . .
+
+Acurateţe
+Tipul datelor
+1 m
+măsurat
+
+Clasificare
+Integritate
+critică
+1x10-8
+
+Lungimea şi lăţimea prelungirii degajate . . . . . . . . . . . . . . . .
+
+1 m
+măsurat
+
+esenţială
+1x10-5
+
+Distanţa disponibilă pentru aterizare (LDAH) . . . . . . . . . . . .
+
+1 m
+măsurat
+
+critică
+1x10-8
+
+Distanţa disponibilă pentru decolare (TODAH) . . . . ............
+
+1 m
+măsurat
+
+critică
+1x10-8
+
+Distanţa disponibilă pentru decolarea întrerupta (RTODAH)
+
+1 m
+măsurat
+
+critică
+1x10-8
+
+Lăţimea căii de rulare . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1 m
+măsurat
+
+esenţială
+1x10-5
+
+Distanţa antenă ILS direcţie – extremitatea FATO. . . . . . . . .
+
+3m
+calculat
+
+obişnuită
+1x10-3
+
+Distanţa antenă ILS pantă – prag, în lungul axului …….........
+
+3m
+calculat
+
+obişnuită
+1x10-3
+
+Distanţa dintre markerele asociate ILS şi prag . . . . . . . . . . .
+
+3m
+calculat
+
+esenţială
+1x10-5
+
+Distanţa antenă ILS DME – prag, în lungul axului................
+
+3m
+calculat
+
+esenţială
+1x10-5
+
+Distanţa antenă MLS azimut – extremitate FATO . . . . . . . .
+
+3m
+calculat
+
+obişnuită
+1x10-3
+
+Distanţa antenă MLS elevaţie – prag, în lungul axului………
+
+3m
+calculat
+
+obişnuită
+1x10-3
+
+Distanţa antenă MLS DME/P – pragul, în lungul axului . . . .
+
+3m
+calculat
+
+esenţială
+1x10-5
+
+75
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+ăMonitorul Oficial” R.A., Str. Parcului nr. 65, sectorul 1, București; C.I.F. RO427282,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala ăUnirea” București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 021.318.51.29/150, fax 021.318.51.15, e-mail: marketing@ramo.ro, internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 021.411.58.33 și 021.410.47.30, fax 021.410.77.36 și 021.410.47.23
+Tiparul: ăMonitorul Oficial” R.A.
+Monitorul Oficial al României, Partea I, nr. 203 bis/31.III.2009 conține 80 de pagini.
+
+Prețul: 16 lei
+
+Acest număr al Monitorului Oficial al României a fost tipărit în afara abonamentului.
+
+&JUYDGY|324947|
+ISSN 1453—4495
+
+

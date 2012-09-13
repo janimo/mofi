@@ -1,0 +1,2969 @@
+PARTEA
+
+Anul XIV Ñ Nr. 315
+
+I
+
+Luni, 13 mai 2002
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+HOTÃRÂRI ALE GUVERNULUI ROMÂNIEI
+
+353.
+
+354.
+
+HOTÃRÂRI
+
+Ñ Hotãrâre pentru aprobarea Normelor privind
+protecția informațiilor clasificate ale Organizației
+Tratatului Atlanticului de Nord în România.............
+
+1Ð62
+
+Ñ Hotãrâre privind înființarea, organizarea și
+funcționarea Agenției de Acreditare de Securitate,
+Agenției de Securitate pentru Informaticã și
+Comunicații și Agenției pentru Distribuirea
+Materialului Criptografic.............................................
+
+63
+
+ALE
+
+GUVERNULUI
+
+ROMÂNIEI
+
+GUVERNUL ROMÂNIEI
+
+HOTÃRÂRE
+pentru aprobarea Normelor privind protecția informațiilor clasificate
+ale Organizației Tratatului Atlanticului de Nord în România
+În temeiul prevederilor art. 107 din Constituția României,
+Guvernul României adoptã prezenta hotãrâre.
+Art. 1. Ñ Se aprobã Normele privind protecția
+informațiilor clasificate ale Organizației Tratatului Atlanticului
+de Nord în România, prevãzute în anexa care face parte
+integrantã din prezenta hotãrâre.
+
+Art. 2. Ñ În termen de 60 de zile de la intrarea în
+vigoare a prezentei hotãrâri instituțiile care utilizeazã
+informații clasificate ale Organizației Tratatului Atlanticului
+de Nord au obligația de a elabora dispoziții interne pentru
+aplicarea normelor prevãzute la art. 1.
+
+PRIM-MINISTRU
+
+ADRIAN NÃSTASE
+
+București, 15 aprilie 2002.
+Nr. 353.
+
+Contrasemneazã:
+p. Ministrul afacerilor externe,
+Mihnea Motoc,
+secretar de stat
+p. Ministrul apãrãrii naționale,
+Sorin Encuțescu,
+secretar de stat
+Directorul Serviciului Român de Informații,
+Radu-Alexandru Timofte
+p. Directorul Serviciului de Informații Externe,
+Alexandru Marcel
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+ANEXÃ
+
+NORME
+privind protecția informațiilor clasificate ale Organizației Tratatului Atlanticului de Nord în România
+A. PRINCIPII GENERALE
+
+1. În calitate de candidatã la aderare și țarã partenerã
+la Consiliul de Cooperare Nord-Atlantic (Parteneriatul pentru
+
+B. DEFINIÞII
+
+7. Informație semnificã acea noțiune care poate fi comunicatã în orice formã.
+
+pace), România a semnat la data de 8 iulie 1994 Acordul
+
+8. Informație clasificatã semnificã acea informație sau
+
+de securitate cu Organizația Tratatului Atlanticului de Nord,
+
+material care necesitã protecție împotriva dezvãluirii neauto-
+
+denumitã în continuare NATO, iar la data de 10 septembrie
+
+rizate, atribuindu-i-se în acest scop o clasificare de
+
+1994 Codul de conduitã.
+
+securitate.
+
+2. Prin semnarea documentelor menționate mai sus
+
+9. Material include documente și orice elemente ale unui
+
+România și-a luat angajamente clare de a proteja și apãra
+
+echipament, mecanism sau armament prelucrat ori în curs
+
+informațiile și materialele clasificate ale Alianței Nord-
+
+de prelucrare.
+
+Atlantice și membrilor acesteia, în conformitate cu docu-
+
+10. Informații clasificate NATO se referã la toate
+
+mentul ”Securitatea în cadrul NATOÑC-M (55) 15 (Final),,
+
+informațiile clasificate de naturã politicã, militarã și econo-
+
+și cu actele normative naționale.
+
+micã, vehiculate în cadrul NATO, elaborate în cadrul struc-
+
+3. În baza obligațiilor bine definite ce revin României
+prin Hotãrârea Guvernului nr. 864 din 10 octombrie 2000 a
+
+turilor NATO sau primite de la statele membre ori de la
+alte organizații internaționale.
+
+fost înființatã Autoritatea Naționalã de Securitate, denumitã
+
+11. Document semnificã toate tipurile de medii de sto-
+
+în continuare ANS, instituție învestitã cu atribuții de regle-
+
+care a informațiilor, cum ar fi: documentele pe suport hârtie
+
+mentare, autorizare și control în conformitate cu standardele minime privind protecția informațiilor clasificate ale
+NATO.
+4. ANS reprezintã organismul național de legãturã cu
+Oficiul de Securitate NATO, denumit în continuare NOS, și
+cu celelalte structuri de securitate ale Alianței Nord-Atlantice
+și asigurã aplicarea și coordonarea unitarã a activitãții de
+protecție a informațiilor clasificate NATO pe teritoriul
+României.
+5. Domeniile principale în care ANS își exercitã
+atribuțiile sunt securitatea fizicã, securitatea personalului,
+securitatea documentelor, protecția informațiilor stocate în
+cadrul sistemelor de prelucrare automatã a datelor, denumitã în continuare INFOSEC, securitatea industrialã, precum și alte domenii care implicã protecția informațiilor
+clasificate ale NATO, pentru care elaboreazã instrucțiuni și
+proceduri interne, cu respectarea strictã a prevederilor
+legale din România și a standardelor NATO.
+6. Pentru îndeplinirea atribuțiilor în domeniul protecției
+informațiilor clasificate ale NATO au competențe urmãtoa-
+
+(documentele tipãrite, copii, traduceri, schițe, hãrți, planșe,
+fotografii, desene, note, hârtii de indigo, listinguri etc.),
+mediile de stocare ale calculatoarelor (suporturi optice,
+benzi magnetice, casete, dischete, hard-discuri, memorii
+PROM și EPROM etc.), microfilme, riboane de printare, dispozitivele de procesare portabile (agende electronice, laptop) la care hard-discul este folosit pentru stocarea
+informațiilor clasificate NATO.
+12. Document clasificat NATO semnificã acel document
+care conține informații clasificate NATO.
+13. Securitatea documentelor clasificate NATO reprezintã
+ansamblul procedurilor, instrucțiunilor și mãsurilor privind
+gestionarea și controlul documentelor clasificate NATO.
+14. Gestionarea informațiilor clasificate NATO reprezintã
+totalitatea activitãților de primire, de evidențã a elaborãrii și
+consultãrii, verificare, evidențã, distribuție, transmitere, transport, multiplicare, distrugere, inventariere și arhivare a
+informațiilor clasificate NATO.
+15. Controlul informațiilor clasificate NATO reprezintã totalitatea activitãților de verificare a modului în care sunt gestionate documentele clasificate NATO.
+
+rele instituții: Serviciul Român de Informații, Serviciul de
+Informații Externe, Ministerul Apãrãrii Naționale Ñ Direcția
+
+C. ACCESUL LA INFORMAÞIILE CLASIFICATE NATO
+
+generalã de informații a apãrãrii și Ministerul Afacerilor
+
+16. Accesul la informațiile clasificate NATO se acordã în
+
+Externe. De asemenea, îndeplinesc atribuții specifice, con-
+
+baza certificatului de securitate eliberat de ANS și a res-
+
+form competențelor legale, și Serviciul de Telecomunicații
+
+pectãrii principiului nevoii de a ști (need-to-know).
+
+Speciale, Ministerul de Interne și Serviciul de Protecție și
+Pazã.
+
+17. Conform Hotãrârii Guvernului nr. 864/2000, ANS elibereazã certificate de securitate, documente în baza cãrora
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+se acordã accesul la informații și la documente clasificate
+NATO.
+18. Acestea sunt de douã tipuri:
+Ñ certificat de securitate tip A, cu o valabilitate de
+3 ani, care permite accesul la informații și documente clasificate NATO;
+Ñ certificat de securitate tip B, care autorizeazã participarea persoanei la activitãți organizate de Alianța NordAtlanticã în cadrul cãrora se vehiculeazã informații
+clasificate NATO și pentru care Alianța Nord-Atlanticã solicitã astfel de documente. Acest tip de certificat este valabil
+doar pe durata desfãșurãrii activitãții respective. Certificatele
+de securitate tip B nu se elibereazã în absența certificatelor de securitate tip A.
+19. Nivelul de acces acordat prin certificatul de securitate eliberat trebuie sã fie similar cu nivelul de clasificare a
+informațiilor la care persoana necesitã acces în îndeplinirea
+sarcinilor sale de serviciu.
+20. Accesul la informații clasificate NATO pe baza certificatului de securitate trebuie sã respecte principiul nevoia
+de a ști (need-to-know), care are urmãtorul înțeles: nici o
+persoanã nu este îndreptãțitã doar prin rang, funcție sau
+certificat de securitate sã aibã acces la informații clasificate
+NATO. Numãrul persoanelor care au acces la informații și
+documente clasificate NATO trebuie restrâns la cele ale
+cãror activitate și îndatoriri profesionale impun lucrul cu astfel de informații.
+21. Persoanele cãrora le-au fost eliberate certificate de
+securitate și urmeazã sã li se acorde accesul la informații
+clasificate NATO vor fi instruite de cãtre funcționarul de
+securitate al instituției cu privire la reglementãrile și normele de protecție a acestora. Acestea se vor angaja, sub
+semnãturã, sã asigure securitatea informațiilor clasificate
+NATO și sã respecte prevederile reglementãrilor specifice
+pe linia protecției informațiilor clasificate/planurilor de securitate în îndeplinirea atribuțiilor de serviciu.
+D. SISTEMUL NAÞIONAL DE REGISTRE
+
+22. Structura instituționalã se referã la ministere, organisme centrale, instituții, autoritãți, agenții, agenți economici
+etc, în care sunt sau vor fi utilizate informații clasificate
+NATO.
+23. Componentã a sistemului național de registre (CSNR)
+se referã la acea componentã din cadrul unei structuri
+instituționale, responsabilã cu gestionarea și consultarea
+informațiilor clasificate NATO. Acestea sunt: Registrul Central, registrele externe, registrele interne, subregistrele și
+punctele de lucru.
+24. Sistemul național de registre reprezintã ansamblul
+tuturor CSNR.
+
+3
+
+25. În cadrul sistemului național de registre sunt aplicate
+unitar reglementãrile privind securitatea fizicã, securitatea
+personalului, securitatea documentelor, securitatea industrialã și INFOSEC pentru a se asigura cadrul adecvat gestionãrii informațiilor clasificate NATO în conformitate cu
+standardele NATO de securitate.
+26. Fiecare structurã instituționalã (militarã sau civilã)
+care utilizeazã informații clasificate NATO are obligația sã
+își înființeze propria CSNR, forma de organizare a acesteia
+depinzând de volumul și de nivelul de clasificare a
+informațiilor vehiculate, în concordanțã cu structura administrativã existentã.
+27. Registrul Central reprezintã CSNR care este constituitã și funcționeazã în cadrul ANS și rãspunde, la nivel
+național, de gestionarea și controlul tuturor informațiilor clasificate NATO.
+28. Registrul extern reprezintã CSNR aflatã în exteriorul
+țãrii, subordonatã Registrului Central, care gestioneazã
+informațiile clasificate NATO primite/transmise de la/la
+NATO și de la/la celelalte structuri de securitate ale
+Alianței Nord-Atlantice.
+29. Registrul intern reprezintã CSNR care gestioneazã și
+controleazã, la nivelul unei structuri instituționale,
+informațiile clasificate NATO.
+30. Subregistrul reprezintã CSNR subordonatã unui
+registru intern și care gestioneazã și controleazã, la nivel
+departamental, informațiile clasificate NATO.
+31. Punctul de lucru reprezintã CSNR care are doar
+atribuții de evidențã, consultare, distribuție, pãstrare și control al informațiilor clasificate NATO.
+32. Modul de organizare a unei CSNR este determinat
+în principal de volumul informațiilor clasificate NATO pe
+care le gestioneazã și de nivelul de clasificare a
+informațiilor vehiculate, precum și de atribuțiile funcționale
+pe care trebuie sã le îndeplineascã. O CSNR se compune
+din:
+A. Secțiunea de documente care, la rândul ei, se compune din:
+¥ componenta de evidențã;
+¥ componenta de distribuție.
+B. Secțiunea de curierat
+33. Secțiunea de documente are urmãtoarele atribuții
+principale:
+Ñ primirea, evidența elaborãrii și consultãrii, verificarea,
+evidența, transmiterea, transportul, multiplicarea, distrugerea, inventarierea, arhivarea și controlul informațiilor clasificate NATO;
+Ñ distribuția Ñ colectarea, verificarea, ambalarea, predarea/primirea la/de la secțiunea de curierat.
+34. Secțiunea de curierat are urmãtoarele atribuții principale:
+Ñ colectarea, verificarea și transportul documentelor clasificate NATO, în conformitate cu reglementãrile naționale
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+privitoare la transportul documentelor naționale cu nivel de
+clasificare echivalent și cu respectarea standardelor minime
+de securitate NATO.
+35. Fiecare CSNR trebuie sã își organizeze Secțiunea
+de documente. Secțiunea de curierat poate fi inclusã/asiguratã de structura instituționalã de care aparține.
+36. Atribuțiile Registrului Central se referã la:
+a) coordonarea activitãții tuturor structurilor CSNR din
+subordine;
+b) aplicarea metodologiilor specifice elaborate de cãtre
+ANS în cadrul structurii proprii, transmiterea acestora
+CSNR subordonate și urmãrirea modului în care sunt
+aplicate;
+c) gestionarea informațiilor clasificate NATO;
+d) asigurarea organizãrii și funcționãrii arhivei cu
+informații clasificate NATO, la nivel național;
+e) efectuarea inventarierii anuale a tuturor documentelor
+proprii și centralizarea rezultatelor inventarierii la toate
+CSNR din cadrul Sistemului național de registre;
+f) gestionarea originalelor tuturor certificatelor de securitate tip A eliberate de ANS;
+g) evidența tuturor CSNR aflate în subordine;
+h) controlul periodic privind gestionarea informațiilor clasificate NATO în cadrul CSNR din subordine;
+i) pregãtirea și instruirea personalului propriu.
+37. Atribuțiile registrelor externe se referã la:
+a) aplicarea metodologiilor specifice, elaborate de cãtre
+ANS în cadrul structurii proprii, transmiterea acestora
+CSNR subordonate și urmãrirea modului în care sunt aplicate;
+b) primirea/transmiterea documentelor clasificate de la/la
+NATO sau de la/la alte structuri de securitate ale Alianței
+Nord-Atlantice;
+c) gestionarea informațiilor clasificate NATO primite/
+transmise de la/la Registrul Central;
+d) asigurarea organizãrii și funcționãrii arhivei proprii cu
+informații clasificate NATO;
+e) efectuarea inventarierii anuale a tuturor documentelor
+proprii și centralizarea rezultatelor inventarierii la toate
+CSNR din subordine;
+f) gestionarea originalelor certificatelor de securitate
+tip B ale persoanelor care își desfãșoarã activitatea în
+cadrul propriei structuri;
+g) evidența tuturor CSNR din subordine;
+h) controlul periodic privind informațiile clasificate NATO
+în cadrul CSNR din subordine și centralizarea rezultatelor;
+i) pregãtirea și instruirea personalului propriu;
+j) sprijinirea activitãților organizate de NATO pe linia
+protecției informațiilor clasificate;
+
+k) transmiterea la NOS a materialelor specifice pe linia
+protecției informațiilor clasificate NATO, elaborate de ANS.
+38. Atribuțiile registrelor interne se referã la:
+a) coordonarea activitãții tuturor CSNR din subordine,
+subregistrelor sau punctelor de lucru;
+b) aplicarea metodologiilor specifice elaborate de cãtre
+ANS în cadrul structurii proprii, transmiterea acestora
+CSNR subordonate și urmãrirea modului în care sunt
+aplicate;
+c) gestionarea informațiilor clasificate NATO și asigurarea fluxului informațional de la/la CSNR subordonate, precum și transmiterea cãtre Registrul Central a documentelor
+naționale;
+d) asigurarea organizãrii și funcționãrii arhivei cu
+informații clasificate NATO la nivelul structurii instituționale
+din care face parte;
+e) efectuarea inventarierii anuale a tuturor documentelor
+proprii și centralizarea rezultatelor inventarierii la toate
+CSNR din subordine;
+f) gestionarea tuturor originalelor certificatelor de securitate (tip A și tip B) eliberate de ANS pentru personalul din
+structura sa proprie și pãstrarea listei actualizate
+cuprinzând toate persoanele din cadrul tuturor CSNR din
+subordine, care au acces la informații clasificate NATO;
+g) evidența tuturor CSNR aflate în subordine;
+h) controlul periodic privind gestionarea informațiilor clasificate NATO în cadrul CSNR din subordine;
+i) pregãtirea și instruirea personalului propriu și a subregistrelor/punctelor de lucru subordonate.
+39. Atribuțiile subregistrelor se referã la:
+a) coordonarea activitãții tuturor CSNR din subordine
+(puncte de lucru);
+b) aplicarea metodologiilor specifice elaborate de cãtre
+ANS în cadrul structurii proprii;
+c) gestionarea informațiilor clasificate NATO și asigurarea fluxului informațional de la/la CSNR subordonate, precum și transmiterea cãtre Registrul intern a documentelor
+naționale;
+d) asigurarea organizãrii și funcționãrii arhivei proprii cu
+informații clasificate NATO;
+e) efectuarea inventarierii anuale a tuturor documentelor
+proprii și centralizarea rezultatelor inventarierii la toate
+CSNR din subordine;
+f) gestionarea originalelor certificatelor de securitate (tip
+A și tip B) eliberate de ANS pentru personalul din competențã;
+g) evidența tuturor CSNR din subordine;
+h) controlul periodic privind gestionarea informațiilor clasificate NATO în cadrul CSNR din subordine;
+i) pregãtirea și instruirea personalului propriu și al punctelor de lucru subordonate.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+40. Atribuțiile punctelor de lucru se referã la:
+a) aplicarea metodologiilor specifice elaborate de cãtre
+ANS și transmise prin intermediul CSNR cãreia îi este subordonat;
+b) gestionarea tuturor originalelor certificatelor de securitate (tip A și tip B) eliberate de ANS;
+c) asigurarea organizãrii și funcționãrii arhivei proprii cu
+informații clasificate NATO;
+d) efectuarea inventarierii anuale a tuturor documentelor
+proprii;
+e) asigurarea evidenței, consultãrii, distribuției, controlului
+și pãstrãrii informațiilor clasificate NATO, precum și transmiterea cãtre CSNR imediat superioarã a documentelor
+naționale.
+41. Gestionarea informațiilor clasificate NATO se efectueazã exclusiv în cadrul Sistemului național de registre.
+42. Documentele primite de cãtre Registrul extern de la
+NATO, SHAPE sau de la alte structuri de securitate ale
+Alianței Nord-Atlantice sunt gestionate conform procedurilor
+elaborate de ANS și sunt transmise la Registrul Central
+care constituie unicul canal de transmitere a informațiilor
+clasificate NATO de la/la NATO.
+43. Registrul central va transmite/primi informațiile clasificate NATO la/de la CSNR direct subordonate, în conformitate cu procedurile existente, iar acestea la rândul lor le
+vor transmite/primi la/de la CSNR din subordinea lor
+directã, cu respectarea acelorași proceduri.
+44. Registrul Central, în conformitate cu procedurile
+existente, va transmite la NATO, prin intermediul Registrului
+extern, toate documentele primite.
+45. Fiecare structurã instituționalã care în desfãșurarea
+activitãții sale gestioneazã sau urmeazã sã gestioneze
+informații clasificate NATO trebuie sã își înființeze o CSNR
+proprie.
+46. Înființarea unei CSNR se realizeazã printr-o procedurã unicã ce se finalizeazã prin eliberarea unei autorizații
+de înființare și funcționare, document eliberat de cãtre
+ANS, care certificã faptul cã sunt îndeplinite standardele de
+securitate privind protecția informațiilor clasificate NATO.
+47. ANS, prin Registrul Central, pãstreazã evidența tuturor CSNR, precum și evidența tuturor documentelor referitoare la înființarea/transformarea/desființarea acestora și are
+obligația de a efectua controlul periodic asupra modului în
+care sunt îndeplinite condițiile de securitate.
+48. Fiecare structurã instituționalã va pãstra la rândul
+sãu evidența la zi asupra tuturor înființãrilor/
+transformãrilor/desființãrilor CSNR din sfera lor de
+competențã.
+49. ANS are obligația de a prezenta Oficiului de
+Securitate NATO, cu ocazia controalelor anuale efectuate,
+situația la zi a tuturor CSNR care existã la nivel național și
+
+5
+
+de a informa ori de câte ori este necesar instituțiile
+naționale cu atribuții în materie de protecție a informațiilor
+clasificate asupra modului în care se desfãșoarã activitatea
+în acest domeniu.
+50. În situațiile în care atribuțiile unei CSNR se modificã
+în sensul extinderii/diminuãrii activitãții sale se impune
+transformarea acesteia.
+51. Transformarea unei CSNR se efectueazã la solicitarea instituției, cu aprobarea ANS, și se materializeazã prin
+eliberarea unei noi autorizații de înființare și funcționare.
+52. Desființarea unei CSNR are loc atunci când nu se
+mai justificã funcționarea acesteia și se face la solicitarea
+în scris a respectivei instituții.
+53. ANS va analiza solicitarea și va aproba desființarea
+respectivei CSNR.
+54. O datã pe an și ori de câte ori este necesar ANS
+are obligația sã efectueze controlul la Registrul Central,
+care se desfãșoarã conform unei grile de control și se
+finalizeazã cu un raport de control.
+55. Echipa care efectueazã controlul va fi alcãtuitã din
+persoane desemnate de Consiliul de coordonare al ANS.
+56. Raportul de control va fi analizat de Consiliul de
+coordonare al ANS, iar concluziile desprinse vor fi consemnate în decizia acestuia. Consiliul de coordonare al ANS
+va stabili mãsurile necesare a fi întreprinse și termene precise pentru rezolvarea problemelor apãrute ca urmare a
+controlului.
+57. În cazul apariției unor evenimente deosebite conducerea ANS are obligația sã informeze operativ NOS, iar pe
+plan național, instituțiile abilitate pe linia protecției
+informațiilor clasificate și sã prezinte mãsurile întreprinse
+pentru reglementarea situației.
+58. O datã pe an și ori de câte ori este necesar ANS,
+prin intermediul Registrului Central, are obligația sã verifice
+registrele interne/externe și sã întocmeascã raportul de
+control care va fi prezentat conducerii ANS.
+59. Echipa care efectueazã controlul va fi alcãtuitã din
+persoane desemnate de Consiliul de coordonare al ANS.
+60. Raportul de control va fi elaborat în termen de
+7 zile de la data efectuãrii controlului.
+61. Concluziile și recomandãrile cuprinse în raportul de
+control vor fi prezentate spre analizã și aprobare Consiliului
+de coordonare al ANS, care va decide asupra celor constatate. Secretariatul tehnic al ANS va informa în termen
+de 7 zile conducerea instituției respective asupra rezultatelor controlului și va prezenta recomandãrile Consiliului de
+coordonare al ANS, împreunã cu mãsurile care se considerã cã trebuie întreprinse pentru reglementarea situației.
+62. Raportul de control împreunã cu mãsurile/recomandãrile consemnate vor fi pãstrate la Registrul Central,
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+constituind documente de evidențã, o copie de pe acestea
+fiind trimisã și la registrul respectiv.
+63. În cazul apariției unor evenimente deosebite conducerea ANS are obligația sã informeze operativ NOS, iar pe
+plan național, instituțiile abilitate pe linia protecției
+informațiilor clasificate și sã prezinte mãsurile întreprinse
+pentru reglementarea situației.
+64. O datã pe an și ori de câte ori este necesar structurile instituționale care dețin subregistre, prin intermediul
+registrelor interne, au obligația sã verifice toate subregistrele din subordine și sã întocmeascã raportul de control.
+65. Echipa care efectueazã controlul va fi alcãtuitã din
+persoane desemnate de conducerea instituției din cadrul
+Registrului intern în a cãrui subordine directã se aflã.
+66. Concluziile și recomandãrile cuprinse în raportul de
+control vor fi analizate și aprobate de conducerea
+Registrului intern. Rezultatul controlului împreunã cu
+mãsurile întreprinse vor fi transmise conducerii instituției, în
+termen de 7 zile de la data efectuãrii controlului.
+67. Raportul de control împreunã cu mãsurile/recomandãrile consemnate vor fi pãstrate la CSNR care are în
+subordine respectivul subregistru, constituind documente de
+evidențã, o copie de pe acestea fiind trimisã și la subregistrul care a fost controlat.
+68. În cazul apariției unor evenimente deosebite conducerea ANS are obligația sã informeze operativ NOS, iar pe
+plan național, instituțiile abilitate pe linia protecției
+informațiilor clasificate și sã prezinte mãsurile întreprinse
+pentru reglementarea situației.
+69. O datã pe an și ori de câte ori este necesar CSNR
+care are în subordine respectivul punct de lucru are
+obligația sã îl controleze și sã întocmeascã raportul de
+control.
+70. Echipa care efectueazã controlul va fi alcãtuitã din
+persoane desemnate de conducerea CSNR cãreia i se
+subordoneazã direct respectivul punct de lucru.
+71. Concluziile și recomandãrile cuprinse în raportul de
+control vor fi analizate și aprobate de conducerea CSNR.
+Rezultatul controlului împreunã cu mãsurile întreprinse vor
+fi transmise conducerii instituției în termen de 7 zile de la
+data efectuãrii controlului.
+72. Raportul de control împreunã cu mãsurile/recomandãrile consemnate vor fi pãstrate la CSNR cãreia i se
+subordoneazã respectivul punct de lucru, constituind documente de evidențã, o copie de pe acestea fiind trimisã și
+la punctul de lucru care a fost controlat.
+73. În cazul apariției unor evenimente deosebite conducerea ANS are obligația sã informeze operativ NOS, iar pe
+plan național, instituțiile abilitate pe linia protecției
+informațiilor clasificate și sã prezinte mãsurile întreprinse
+pentru reglementarea situației.
+
+E. SECURITATEA FIZICÃ
+
+74. Securitatea fizicã reprezintã ansamblul reglementãrilor, normelor și mãsurilor care au drept scop prevenirea accesului neautorizat la informații clasificate NATO,
+precum și a oricãror situații, împrejurãri sau fapte de
+naturã sã pericliteze ori sã compromitã securitatea și integritatea acestora.
+75. ANS rãspunde de stabilirea reglementãrilor specifice
+în domeniu, precum și de elaborarea mãsurilor de protecție
+a obiectivului propriu, asigurând aplicarea corectã a acestora.
+76. Conducãtorii instituțiilor asigurã punerea în aplicare
+și respectarea mãsurilor de protecție fizicã a informațiilor
+clasificate NATO prin desemnarea unei structuri/unui
+funcționar de securitate.
+77. Nivelurile de protecție fizicã se stabilesc în funcție
+de urmãtorii parametri:
+a) nivelul de clasificare a informațiilor;
+b) volumul și suportul fizic de prezentare a informațiilor
+clasificate NATO;
+c) nivelul de acces conferit de certificatul de securitate,
+cu aplicarea principiului nevoii de a ști (need-to-know);
+d) situația din zona de localizare a obiectivului.
+78. Termenul obiectiv definește totalitatea zonelor de
+securitate în care sunt gestionate informații clasificate
+NATO.
+79. Zonele de securitate sunt împãrțite în 3 clase definite, organizate și administrate conform urmãtoarelor criterii:
+a) Zona de securitate clasa I presupune cã orice persoanã aflatã în interiorul acesteia are acces la informații
+clasificate NATO. În aceastã zonã se pot gestiona
+informații clasificate NATO pânã la nivelul SECRET. O
+asemenea zonã necesitã:
+1. perimetru clar definit și protejat, în care toate intrãrile
+și ieșirile sunt supravegheate;
+2. controlul sistemului de intrare, care sã permitã numai
+accesul persoanelor verificate corespunzãtor și autorizate în
+mod special;
+3. indicarea clasei și a nivelului de securitate a
+informațiilor existente.
+b) Zona de securitate clasa II presupune gestionarea
+informațiilor clasificate NATO prin aplicarea unor mãsuri
+specifice de protecție a acestora împotriva accesului persoanelor neautorizate. În aceastã zonã se pot gestiona
+informații clasificate NATO pânã la nivelul CONFIDENTIAL.
+O asemenea zonã necesitã:
+1. perimetru clar definit și protejat, în care toate intrãrile
+și ieșirile sunt supravegheate;
+2. controlul sistemului de intrare, pentru a permite accesul numai persoanelor verificate și autorizate sã pãtrundã
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+în aceastã zonã. Pentru toate celelalte persoane trebuie sã
+existe reguli de însoțire, supraveghere și prevenire a accesului neautorizat în aceastã zonã.
+c) Zona administrativã. În jurul zonelor de securitate
+clasa I sau clasa II poate fi stabilitã o zonã administrativã
+cu perimetru vizibil definit, în interiorul cãreia sã existe
+posibilitatea de control al personalului și vehiculelor. În
+zona administrativã sunt gestionate numai informații
+NATO/RESTRICTED.
+80. Incintele în care nu se lucreazã zilnic 24 de ore vor
+fi inspectate imediat dupã orele de program pentru a verifica dacã informațiile clasificate NATO sunt protejate corespunzãtor.
+81. Intrãrile în zonele de securitate clasa I și clasa II
+vor fi controlate prin permis de intrare sau printr-un sistem
+de recunoaștere personalã aplicat personalului permanent.
+De asemenea, trebuie instituit un sistem de control al vizitatorilor în vederea interzicerii accesului neautorizat la
+informații clasificate NATO.
+82. Permisul de intrare nu va specifica în clar identitatea organizației emitente sau locul în care deținãtorul are
+acces. Controlul intrãrilor și ieșirilor poate fi completat de
+un sistem automatizat de identificare, care nu se substituie
+sistemului de pazã și apãrare.
+83. Inopinat sau la ordin, la intrarea sau la ieșirea din
+zonele de securitate clasa I sau clasa II, va fi efectuat
+controlul bagajelor (incluzând colete, genți și alte containere
+în care s-ar putea transporta informații și materiale clasificate NATO).
+84. Personalul care asigurã sistemul de pazã și apãrare
+pentru zonele de securitate și informațiile clasificate NATO,
+gestionate în interiorul obiectivului, trebuie sã deținã certificat de securitate și sã fie instruit permanent cu privire la
+modul de îndeplinire a atribuțiilor specifice.
+85. În afara orelor de program și în zilele nelucrãtoare
+se vor organiza patrulãri în perimetrul obiectivului, la intervale care vor fi stabilite prin instrucțiuni elaborate pe baza
+planului de securitate al obiectivului.
+86. Pentru eficientizarea sistemelor de pazã și apãrare
+trebuie asiguratã detectarea pãtrunderii neautorizate prin
+folosirea unor modalitãți adecvate (televiziune cu circuit
+închis, sisteme de alarmã sau pentru inspectare vizualã).
+Se va constitui în mod obligatoriu o forțã de intervenție
+pentru situații de urgențã. Timpul de reacție a personalului
+de pazã și apãrare în situații de urgențã va fi testat
+periodic.
+87. Atunci când se folosesc sisteme de alarmã, televiziune cu circuit închis sau alte dispozitive destinate supravegherii zonelor de securitate ori protecției informațiilor
+clasificate NATO trebuie sã existe o sursã de alimentare
+de rezervã (generator de avarie).
+
+7
+
+88. Informațiile clasificate NATO sunt pãstrate în containere speciale care se împart în 3 clase:
+Ñ clasa A: seifuri (containere cu cifru) aprobate de
+ANS pentru depozitarea informațiilor NATO/TOP SECRET;
+Ñ clasa B: fișete metalice prevãzute cu cifru pentru
+depozitarea informațiilor NATO/SECRET și NATO/
+CONFIDENTIAL;
+Ñ clasa C: mobilier de birou adecvat numai pentru
+pãstrarea informațiilor NATO/RESTRICTED.
+89. În situații de urgențã, dacã documentele clasificate
+NATO trebuie evacuate, se vor utiliza lãzi metalice.
+90. Încuietorile folosite la containerele în care sunt
+pãstrate informații clasificate NATO nu trebuie scoase din
+obiectiv. Ele se împart în 3 grupe, astfel:
+Ñ grupa A: aprobate de ANS pentru containerele din
+clasa A;
+Ñ grupa B: pentru containerele din clasa B;
+Ñ grupa C: indicate numai pentru mobilierul de birou
+pentru clasa C.
+91. Combinațiile încuietorilor containerelor vor fi cunoscute numai de persoanele abilitate.
+92. În afara orelor de program cheile de serviciu de la
+încãperile și containerele din cadrul obiectivului vor fi
+pãstrate în cutii sigilate la personalul care asigurã paza și
+apãrarea. Acestea vor fi utilizate pentru intervenție în
+situații de urgențã. Cutiile vor fi predate/primite, pe bazã de
+semnãturã, într-un registru special destinat.
+93. Cheile de rezervã și combinațiile încuietorilor vor fi
+pãstrate în plicuri mate, sigilate, la șeful structurii/funcționarul de securitate. Evidența fiecãrei combinații trebuie
+pãstratã în plic separat. Cheilor și plicurilor trebuie sã li se
+asigure un nivel de protecție corespunzãtor nivelului de clasificare a informațiilor clasificate NATO la care acestea permit accesul.
+94. Cunoașterea combinațiilor containerelor de securitate
+va fi restrânsã la un numãr minim de persoane. Cheile și
+combinațiile vor fi schimbate:
+a) ori de câte ori are loc o schimbare în rândul personalului care le manipuleazã;
+b) în cazul în care se constatã existența unui risc de
+securitate;
+c) la intervale regulate, de preferințã o datã la 6 luni
+(fãrã a se depãși 12 luni).
+95. Copiatoarele și dispozitivele telefax vor funcționa în
+încãperi special destinate, în care vor avea acces doar
+persoanele autorizate sã le utilizeze.
+96. Pe baza prezentelor reglementãri, a normelor și
+reglementãrilor proprii fiecãrei instituții structura/funcționarul
+de securitate va elabora planul de securitate al obiectivului,
+aprobat de conducãtorul instituției și avizat de instituțiile
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+abilitate prin lege. Elementele obligatorii care trebuie
+cuprinse în planul de securitate sunt urmãtoarele:
+a) delimitarea și marcarea zonelor de securitate;
+b) sistemul de control al accesului;
+c) sistemul de avertizare și alarmare;
+d) sistemul de pazã și apãrare;
+e) planul de evacuare a documentelor în caz de
+urgențã;
+
+103. Verificarea în vederea avizãrii pentru accesul la
+informații clasificate NATO se efectueazã cu respectarea
+legislației în vigoare privind responsabilitãțile în domeniul
+protecției informațiilor clasificate naționale, dupã cum
+urmeazã:
+A. Serviciul Român de Informații, pentru:
+Ñ personalul propriu;
+Ñ personalul autoritãților și instituțiilor publice;
+
+g) modul de raportare, investigare și evidențã a
+încãlcãrilor mãsurilor de securitate;
+
+Ñ personalul agenților economici cu capital integral sau
+parțial de stat și al persoanelor juridice de drept public,
+altele decât cele date în competența instituțiilor menționate
+la lit. B, C și D ale acestui punct.
+
+h) modalitãțile de realizare a pregãtirii și instruirii personalului;
+
+B. Ministerul Apãrãrii Naționale Ñ Direcția generalã de
+informații a apãrãrii, pentru:
+
+f) modul de acțiune în situații de urgențã (mãsuri de
+evacuare/distrugere a documentelor);
+
+i) responsabilitãțile privind verificarea sistemului de securitate al obiectivului;
+j) modalitãțile de realizare a inspecțiilor asupra mãsurilor
+de securitate aplicate în cadrul obiectivului.
+F. SECURITATEA PERSONALULUI
+
+97. Securitatea personalului reprezintã ansamblul procedurilor de securitate care se aplicã persoanelor care
+urmeazã sã aibã acces la informații clasificate NATO.
+98. Mãsurile de securitate a personalului sunt menite:
+a) sã previnã accesul persoanelor neautorizate la
+informații clasificate NATO;
+b) sã garanteze cã informațiile clasificate NATO sunt
+distribuite pe baza existenței certificatului de securitate,
+exclusiv pe baza principiului nevoii de a ști (need-to-know);
+c) sã permitã identificarea persoanelor care, prin
+acțiunile lor, pot pune în pericol securitatea informațiilor clasificate NATO și sã interzicã accesul acestor persoane la
+astfel de informații.
+99. Asigurarea securitãții personalului se realizeazã prin
+urmãtoarele elemente: selecționarea, verificarea, avizarea și
+autorizarea accesului la informațiile clasificate NATO, revalidarea, retragerea certificatului, controlul și instruirea personalului.
+100. Persoanele care fac obiectul verificãrilor de securitate sunt cele care prin natura funcției sau activitãții lor
+necesitã ori urmeazã sã aibã acces la informațiile clasificate, trebuie sã participe la activitãțile NATO sau sã
+lucreze în cadrul unui contract clasificat NATO.
+101. Accesul la informații clasificate NATO, obținut în
+baza certificatului de securitate emis ca rezultat al procedurii de verificare a personalului, este restricționat de principiul nevoia de a ști (need-to-know).
+102. Procesul de verificare are ca obiectiv reducerea
+riscurilor de securitate, sustragere sau divulgare neautorizatã a informațiilor și materialelor clasificate NATO.
+
+Ñ personalul militar și civil propriu;
+Ñ angajații din unitãțile productive și de afaceri, din
+unitãțile științifice, de cercetare sau dezvoltare, înființate
+de/în colaborare cu Ministerul Apãrãrii Naționale, precum și
+din alte unitãți organizatorice, în mãsura producției sau serviciilor angajate prin contracte de furnizare de tehnicã, aparaturã și utilitãți militare în cadrul unor contracte, colaborãri
+sau programe de asistențã cu NATO.
+C. Serviciul de Informații Externe, pentru:
+Ñ personalul militar sau civil propriu;
+Ñ personalul român al reprezentanțelor diplomatice,
+misiunilor permanente, consulare, centrelor culturale, organismelor internaționale etc., care își desfãșoarã activitatea
+în strãinãtate și care are acces la date clasificate NATO;
+Ñ cetãțenii români aflați în strãinãtate în cadrul unor
+contracte, stagii de perfecționare, programe de cercetare
+sau în calitate de angajați la firme, societãți de stat sau
+private care deruleazã contracte de producție, servicii ori
+cooperare cu NATO ori cu structuri ale Alianței NordAtlantice.
+D. Ministerul de Interne, Serviciul de Protecție și Pazã,
+Serviciul de Telecomunicații Speciale, pentru personalul
+propriu.
+104. Atunci când se impune, structurile competente în
+realizarea verificãrilor de securitate coopereazã, pe baza
+protocoalelor, în îndeplinirea sarcinilor și obiectivelor propuse.
+105. Principalele criterii de evaluare a compatibilitãții
+unei persoane în acordarea avizului de securitate, pe baza
+cãruia se elibereazã de cãtre ANS certificatul de securitate,
+vizeazã trãsãturile circumstanțiale și de caracter care pot
+genera riscuri de securitate. Deși aceste criterii se referã
+la persoana care trebuie avizatã, conduita, caracterul, concepțiile sau împrejurãrile de viațã ale soțului/soției ori concubinului/concubinei pot fi, de asemenea, relevante și
+trebuie luate în considerare.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+106. Factorii ce trebuie analizați pentru titular și
+soțul/soția sau coabitantul:
+a) dacã a comis sau a intenționat sã comitã, a fost
+complice, a ajutat ori a instigat pe altcineva sã comitã (sau
+sã intenționeze sã comitã) acte de spionaj, terorism,
+trãdare ori revoltã;
+b) dacã a încercat, susținut, participat, cooperat sau
+sprijinit acțiuni de spionaj, terorism ori persoane suspectate
+de a se încadra în aceastã categorie ori de a fi membre
+ale unor organizații sau puteri strãine inamice securitãții
+țãrilor membre ori partenere NATO sau complice ale reprezentanților acestora;
+c) dacã este sau a fost membru al unei organizații care
+susține ori încearcã sã rãstoarne guvernul dintr-o țarã
+membrã sau partenerã NATO ori sã schimbe forma de
+guvernãmânt dintr-o țarã membrã sau partenerã NATO prin
+mijloace violente, subversive ori prin alte forme ilegale;
+d) dacã este sau a fost un susținãtor al vreunei organizații descrise în subparagraful c) de mai sus, este sau a
+fost recent în relații apropiate cu membrii unor astfel de
+organizații, într-o formã care sã ridice suspiciuni temeinice
+cu privire la siguranța persoanei.
+107. Factorii suplimentari ce trebuie analizați numai pentru titular:
+a) dacã în mod deliberat a ascuns, a interpretat eronat
+sau a falsificat informații cu relevanțã în planul securitãții
+ori a mințit prin completarea formularelor-tip ori în cursul
+interviului de securitate;
+b) dacã a fost condamnat pentru infracțiuni de drept
+comun sau delicte care indicã tendințe infracționale de
+comportament; are serioase probleme financiare sau existã
+o diferențã frapantã între nivelul sãu de trai și veniturile
+legal realizate; este dependent de folosirea alcoolului în
+exces sau de uzul de droguri; are sau a avut comportamente promiscue ori alte forme de deviații sexuale, care
+pot genera riscul ca persoana sã fie vulnerabilã la șantaj
+sau presiuni; a demonstrat prin fapte sau vorbe nesiguranțã, necinste, incorectitudine ori indiscreție; a încãlcat
+regulile de securitate;
+c) dacã suferã sau a suferit de boli fizice ori mintale,
+care pot cauza deficiențe de discernãmânt sau pot transforma persoana, în mod neintenționat, într-un factor de
+risc. În toate aceste cazuri se va solicita, cu acordul persoanei, un aviz medical competent;
+d) dacã poate fi supus la presiuni din cauza rudelor
+sau a persoanelor apropiate, care ar putea genera o vulnerabilitate exploatabilã de cãtre serviciile de informații
+strãine, ale cãror interese sunt ostile pentru interesele de
+securitate ale NATO și/sau ale țãrilor membre și partenere.
+108. Accesul la informațiile clasificate NATO/RESTRICTED
+se va face la nivelul instituțiilor angajatoare, pe baza
+
+9
+
+avizului dat de structura/funcționarul de securitate, cu aprobarea șefului instituției.
+109. Pentru acces la informații clasificate NATO/
+RESTRICTED nu se solicitã certificat de securitate.
+110. Verificarea de nivel I Ñ pentru avizarea în vederea eliberãrii certificatului de securitate pentru nivelul
+NATO/CONFIDENTIAL (echivalent SECRET). Avizarea pentru acces la informațiile NATO/CONFIDENTIAL se va baza
+pe:
+a) verificarea corectitudinii datelor menționate în formularul de bazã;
+b) referințe minime de la locurile de muncã și din
+mediile frecventate (cel puțin de la 3 persoane).
+În situația în care este necesarã clarificarea anumitor
+aspecte sau la solicitarea persoanei verificate investigatorul
+poate avea o întrevedere cu aceasta.
+111. Verificarea de nivel II Ñ pentru avizarea în vederea eliberãrii certificatului de securitate pentru nivelul
+NATO/SECRET (echivalent STRICT SECRET). Avizarea
+pentru acces la informații clasificate de nivel NATO/STRICT
+SECRET se va baza pe :
+a) verificarea corectitudinii datelor personale menționate
+în formularul de bazã și în formularul suplimentar;
+b) referințe minime de la locurile de muncã și din
+mediile frecventate (cel puțin de la 3 persoane);
+c) verificãri asupra membrilor familiei în legãturã cu
+datele prezentate în formular;
+d) o discuție cu persoana verificatã.
+112. Verificarea de nivel III Ñ pentru avizarea în vederea eliberãrii certificatului de securitate pentru nivelul
+NATO/TOP SECRET (echivalent STRICT SECRET DE
+IMPORTANÞÃ DEOSEBITÃ). Avizarea accesului la
+informațiile clasificate NATO/TOP SECRET se va baza pe:
+a) verificarea corectitudinii datelor menționate în formularele de bazã, suplimentar și financiar;
+b) investigații de cunoaștere a antecedentelor la domiciliul actual și cele anterioare, la locul de muncã actual și
+cele anterioare, precum și la instituțiile de învãțãmânt
+urmate începând de la vârsta de 18 ani. Investigațiile nu
+se vor limita la audierea persoanelor indicate de solicitantul
+avizului;
+c) verificãri ale mediului relațional pentru a identifica
+existența unor riscuri de securitate în cadrul acestora;
+d) un interviu de securitate cu persoana solicitantã;
+e) în cazul în care din verificãrile întreprinse rezultã cã
+ar exista unele deficiențe psihice ori de comportament, cu
+acordul subiectului, acesta poate fi supus unui test psihologic specific, limitat la domeniul ce trebuie clarificat.
+113. Dacã în cursul verificãrilor, pentru orice nivel, apar
+informații ce evidențiazã riscuri de securitate, se va realiza
+o verificare suplimentarã de fond cu implicarea mijloacelor
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+specifice instituțiilor cu atribuții în domeniul siguranței
+naționale.
+114. În funcție de nivelul de securitate investigația de
+cunoaștere a antecedentelor va cuprinde gradual urmãtoarele:
+a) Evidențe naționale Ñ se va efectua o verificare în
+evidențele naționale de securitate și la cazierul judiciar, în
+evidențele centrale și locale ale poliției, precum și în baza
+de date a Oficiului registrului comerțului.
+b) Registre de stare civilã și verificarea identitãții Ñ se
+vor verifica datele personale și locul de naștere, iar identitatea va fi confirmatã fãrã posibilitate de dubiu.
+c) Statutul cetãțeniei Ñ se va stabili cu certitudine statutul cetãțeniei și al naționalitãții persoanei, în prezent și în
+trecut.
+d) Educația Ñ în mod normal investigația va indica
+școlile, universitãțile și alte instituții de învãțãmânt urmate
+de titular de la împlinirea vârstei de 18 ani.
+e) Angajãri Ñ investigațiile vor acoperi angajarea
+actualã și pe cele anterioare, cu referințe din surse ca:
+dosarele de angajare, aprecierile anuale asupra performanțelor și eficienței activitãții desfãșurate, date furnizate
+de șefii instituțiilor, șefi de departamente sau de colegi.
+f) Interviuri Ñ se vor purta discuții cu persoane care
+pot face evaluãri asupra trecutului persoanei, activitãții și
+corectitudinii sale.
+g) Evidențele organelor centrale și locale de poliție Ñ
+se vor verifica evidențele centrale și cele ale organelor
+locale de ordine din vecinãtatea locurilor unde persoana a
+locuit sau a lucrat perioade substanțiale.
+h) Serviciul militar Ñ se va verifica serviciul efectuat de
+persoanã în forțele armate și modalitatea în care a fost
+lãsatã la vatrã.
+i) Relații în strãinãtate Ñ se va verifica existența unor
+riscuri de securitate datorate unor presiuni exercitate de
+surse din strãinãtate.
+j) Antecedente financiare Ñ se vor verifica solvabilitatea
+și reputația financiarã ale persoanei.
+k) Organizații Ñ în cursul investigației, așa cum a fost
+prezentatã mai sus, se va stabili dacã persoana este sau
+a fost membru ori afiliat al vreunei organizații, asociații,
+mișcãri, grupãri de persoane strãine sau autohtone, care
+au adoptat ori au manifestat o politicã de sprijinire sau
+aprobare a comiterii de acte de forțã sau violențã, în scopul afectãrii drepturilor altor persoane, ori care cautã sã
+schimbe forma de guvernare din țãrile membre sau partenere NATO prin mijloace neconstituționale.
+115. Eliberarea certificatului de securitate tip A are loc
+în baza unei solicitãri scrise, semnatã de șeful instituției și
+adresatã ANS prin intermediul Registrului intern.
+
+116. Solicitarea va fi însoțitã de formularele-tip, care vor
+fi introduse într-un plic separat sigilat și vor fi completate
+de persoana selecționatã.
+117. Structura/funcționarul de securitate are obligația sã
+punã la dispoziție persoanei selecționate formularele-tip
+corespunzãtoare nivelului de acces pentru care se solicitã
+eliberarea certificatului, sã acorde asistențã în vederea
+completãrii acestora și sã respecte urmãtoarele termene
+pentru transmiterea solicitãrii în raport cu data la care se
+preconizeazã accesul persoanei selecționate la informații
+clasificate NATO:
+a) pentru acces la NATO/TOP SECRET Ñ cu trei luni
+în avans;
+b) pentru acces la NATO/SECRET Ñ cu douã luni în
+avans;
+c) pentru acces la NATO/CONFIDENTIAL Ñ cu o lunã
+în avans.
+118. În termen de 7 zile de la primirea solicitãrii ANS
+va transmite la instituția cu competențã pentru efectuarea
+verificãrilor cererea-tip de declanșare a procedurii de verificare pentru persoana selecționatã, la care va anexa plicul
+sigilat cu formularele-tip completate.
+119. Dupã primirea formularelor instituția abilitatã va
+efectua verificãrile și va transmite concluziile în scris la
+ANS în interiorul termenelor prevãzute mai sus. În concluzii
+se va preciza dacã rezultã sau nu rezultã riscuri de securitate în legãturã cu persoana pentru care s-a solicitat verificarea.
+120. Pentru cadrele proprii ale Serviciului Român de
+Informații, Ministerului Apãrãrii Naționale, Serviciului de
+Informații Externe, Ministerului de Interne, Serviciului de
+Telecomunicații Speciale și ale Serviciului de Protecție și
+Pazã, aceste instituții notificã ANS cu privire la declanșarea
+procedurii de verificare, iar eliberarea certificatului de securitate tip A are loc în baza unei solicitãri scrise, semnatã
+de șeful instituției și adresatã ANS. În solicitarea scrisã se
+va preciza faptul cã s-au efectuat verificãrile și se vor consemna concluziile cu privire la existența/inexistența riscurilor
+de securitate sau a altor elemente relevante din punct de
+vedere al securitãții.
+121. Certificatele de securitate tip B sunt eliberate
+numai persoanelor care dețin certificate de securitate tip A.
+122. Eliberarea certificatului de securitate tip B se realizeazã, în baza aprobãrii șefului instituției, de cãtre structura/funcționarul de securitate din instituția în care persoana
+respectivã își desfãșoarã activitatea. În lipsa
+structurii/funcționarului de securitate respectiva instituție
+adreseazã solicitarea la ANS, care va elibera respectivul
+certificat. În aceastã situație solicitarea va fi adresatã ANS
+cu cel puțin douã sãptãmâni înainte de data începerii
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+11
+
+activitãții pentru care este necesarã eliberarea certificatului
+de securitate.
+
+membre sau partenere NATO solicitã expres reverificarea
+persoanei.
+
+123. Eliberarea certificatului de securitate se face pe
+baza analizãrii concluziilor verificãrilor transmise de instituția
+abilitatã sã le efectueze. În cazul în care în concluziile
+verificãrilor este evidențiatã existența unor riscuri de securitate, ANS va decide dacã acestea pot fi un obstacol pentru eliberarea certificatului de securitate. Atunci când sunt
+semnalate elemente care nu constituie riscuri, dar sunt
+relevante din punct de vedere al securitãții, în luarea deciziei de eliberare a certificatului de securitate vor prima interesele de securitate.
+
+131. ANS este singura instituție autorizatã sã retragã
+certificatul de securitate. ANS va comunica instituțiilor decizia de retragere a certificatelor de securitate.
+
+124. ANS are la dispoziție un termen de 7 zile pentru
+emiterea certificatului de securitate sau pentru a comunica
+refuzul de eliberare a acestuia instituției solicitante.
+125. Un exemplar al adresei de comunicare a deciziei
+ANS privind acordarea/neacordarea certificatului de securitate se va transmite instituției care a efectuat verificãrile.
+126. Certificatul de securitate tip A se emite în douã
+exemplare originale. Unul rãmâne la Registrul Central, iar
+al doilea va fi pãstrat la locul de muncã al persoanei.
+127. Valabilitatea certificatului de securitate tip A eliberat
+unei persoane este de 3 ani.
+128. O copie de pe certificatul de securitate tip B se
+pãstreazã la structura/funcționarul de securitate din cadrul
+instituției respective.
+129. Reverificarea unei persoane se face dacã este
+necesarã eliberarea unui nou certificat de securitate, dacã
+sunt evidențiate riscuri de securitate sau la cererea NATO.
+Eliberarea unui nou certificat de securitate poate avea loc,
+la solicitarea instituției, în urmãtoarele situații:
+a) dacã în îndeplinirea sarcinilor de serviciu persoana
+necesitã acces la informații clasificate NATO de nivel
+superior;
+b) dacã a expirat perioada de valabilitate a certificatului
+de securitate deținut anterior;
+c) în cazul în care apar modificãri în datele de identificare a persoanei care sunt prevãzute în certificat, certificatul de securitate vechi se retrage, eliberându-se un nou
+certificat.
+130. Reverificarea se efectueazã fãrã eliberarea unui
+nou certificat de securitate în urmãtoarele situații:
+a) în cazul în care existã modificãri ale datelor declarate în formularele completate anterior, cu excepția celor
+prevãzute la pct. 129 lit. c);
+b) în cazul în care pe parcursul perioadei de valabilitate
+a certificatului de securitate se evidențiazã existența unor
+riscuri de securitate;
+c) în cazul în care structuri ale Alianței Nord-Atlantice
+sau ale unor autoritãți naționale de securitate din țãri
+
+132. Certificatele de securitate tip A și tip B se retrag
+în urmãtoarele cazuri:
+a) la inițiativa ANS;
+b) la cererea instituțiilor care au solicitat inițial eliberarea
+certificatului, inclusiv în situația expirãrii acestuia;
+c) la plecarea din instituție sau la schimbarea locului de
+muncã al deținãtorului, dacã noul loc de muncã nu presupune lucrul cu informații clasificate NATO;
+d) la schimbarea nivelului de acces.
+133. În cazul retragerii certificatului de securitate angajatului i se va interzice accesul la informații clasificate
+NATO.
+134. Dupã retragere certificatele de securitate tip A și
+tip B se distrug pe bazã de proces-verbal, comunicându-se
+instituției care a derulat verificãrile acest fapt.
+G. SECURITATEA DOCUMENTELOR
+
+135. Consiliul Nord-Atlantic (denumit în continuare NAC )
+este autoritatea supremã care distribuie informațiile clasificate NATO, cu caracter oficial, cãtre statele membre și
+partenere. Aceastã autoritate funcționeazã dupã principiul
+consensului titularului informației.
+136. Toate transferurile de documente de la NATO
+cãtre statele partenere se efectueazã prin Registrul NATO
+cãtre Registrul Central al statului partener respectiv.
+Documentele care sunt transmise se referã la acțiuni, activitãți etc., care au fost aprobate de cãtre NAC.
+137. Organismele NATO pãstreazã, în calitate de
+deținãtor originar, evidența tuturor informațiilor NATO clasificate pe care le transmit statelor partenere și transmit
+datele de identificare a acestor documente (numãrul, titlul
+și data transmiterii) cãtre Registrul Central NATO de la
+Bruxelles. La cerere, autoritãțile naționale pot obține detalii
+prin intermediul Registrului Central NATO de la Bruxelles.
+138. Informațiile NATO neclasificate, deși nu presupun
+o protecție specificã, pot fi transmise și cãtre state care nu
+fac parte din NATO, organizații, persoane doar atunci când
+se considerã cã nu sunt afectate interesele NATO.
+139. Informațiile clasificate NATO necesitã o protecție
+specificã și sunt vehiculate în conformitate cu principiul
+nevoii de a ști (need-to-know) fãrã a fi menționat
+deținãtorul originar, ci doar specificând ”NATO,,. Informația
+inițialã rãmâne proprietatea deținãtorului originar, care este
+singura autoritate care decide asupra nivelului de clasificare
+și diseminãrii acesteia, și nu poate fi transmisã unui alt
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+stat care nu este stat membru sau unei organizații
+internaționale decât cu acordul acestuia.
+140. Gestionarea documentelor clasificate NATO se face
+conform procedurilor NATO privind protecția informațiilor
+clasificate NATO, în cadrul Sistemului național de registre,
+de cãtre persoane care trebuie sã posede certificat de
+securitate cu nivel de clasificare corespunzãtor.
+
+150. În funcție de importanța și sensibilitatea
+informațiilor existã urmãtoarele niveluri NATO de clasificare
+a informațiilor și care au urmãtoarea echivalențã în legislația naționalã:
+ROMÂNIA
+
+NATO
+
+SECRET DE SERVICIU
+
+RESTRICTED
+
+141. Gestionarea documentelor clasificate NATO, precum și a documentelor naționale transmise de România
+Alianței Nord-Atlantice se face separat de gestionarea
+documentelor naționale.
+
+SECRET
+
+CONFIDENTIAL
+
+STRICT SECRET
+
+SECRET
+
+STRICT SECRET DE
+
+TOP SECRET
+
+142. Informațiile neclasificate NATO nu fac obiectul procedurilor de securitate prin care se protejeazã informațiile
+clasificate NATO. Aceste informații vor fi gestionate în conformitate cu normele interne existente pentru informațiile
+naționale cu nivel echivalent, astfel încât sã nu fie afectate
+interesele Alianței Nord-Atlantice.
+
+IMPORTANÞÃ DEOSEBITÃ
+
+143. Clasificarea informațiilor NATO este necesarã pentru a indica gradul de sensibilitate al informațiilor și, în consecințã, nivelul care trebuie atribuit pentru a determina
+complexitatea mãsurilor și procedurilor care se impun în
+vederea protecției respectivelor informații împotriva dezvãluirii neautorizate.
+144. Nivelurile de clasificare impun, pe de o parte, asigurarea mãsurilor de securitate în conformitate cu standardele NATO pentru protejarea informațiilor, iar pe de altã
+parte, controlul accesului la respectivele informații.
+145. Responsabilitatea încadrãrii informațiilor și a materialelor într-o categorie de clasificare revine deținãtorului originar al informațiilor/materialelor și se face în funcție de
+importanța și conținutul acestora. Subestimarea (subclasificarea) importanței documentului este la fel de periculoasã
+ca și supraestimarea (supraclasificarea) acestuia.
+146. Șeful ierarhic al deținãtorului originar al documentului are obligația sã verifice dacã acestea au fost clasificate corect și sã ia mãsurile care se impun pentru
+clasificarea corectã atunci când constatã cã au fost efectuate clasificãri necorespunzãtoare.
+147. Schimbarea nivelului de clasificare a documentelor
+primite de la alte structuri instituționale se poate efectua
+numai cu acordul deținãtorului originar al documentului.
+148. Adresele care însoțesc documentele, în funcție de
+informațiile pe care le conțin, primesc nivelul de clasificare
+corespunzãtor, indiferent de nivelul de clasificare a documentului.
+149. Extrasele din documentele care conțin informații
+clasificate NATO vor fi clasificate corespunzãtor conținutului
+informațiilor cuprinse, nivelul de clasificare fiind cel puțin
+egal cu cel al documentului de bazã (din care s-a efectuat
+extragerea).
+
+151. Potrivit riscurilor generate de divulgarea neautorizatã a informațiilor clasificate NATO, nivelurile de clasificare
+se atribuie în mod corespunzãtor importanței acestora și au
+urmãtoarea semnificație:
+Ñ NATO/RESTRICTED Ñ SECRET DE SERVICIU:
+nivel de clasificare care se aplicã acelor informații și materiale a cãror divulgare neautorizatã va fi în dezavantajul
+intereselor NATO și al celor naționale;
+Ñ NATO/CONFIDENTIAL Ñ SECRET: nivel de clasificare care se aplicã informațiilor și materialelor a cãror
+divulgare neautorizatã va provoca prejudicii intereselor
+NATO și celor naționale;
+Ñ NATO/SECRET Ñ STRICT SECRET: nivel de clasificare care se aplicã doar informațiilor și materialelor a
+cãror divulgare neautorizatã va genera prejudicii grave la
+adresa NATO și a intereselor naționale;
+Ñ NATO/TOP SECRET Ñ STRICT SECRET DE
+IMPORTANÞÃ DEOSEBITÃ: nivel de clasificare care se
+aplicã doar informațiilor și materialelor a cãror divulgare ar
+putea determina prejudicii extrem de grave la adresa
+NATO și a intereselor naționale.
+152. Conform acordurilor de securitate încheiate, NATO
+transmite țãrilor partenere informații clasificate marcate
+NATO pânã la nivelul SECRET inclusiv.
+153. Informațiile NATO clasificate pot fi supuse procesului de scãdere a nivelului de clasificare sau declasificãrii
+numai de cãtre sau cu acordul deținãtorului originar și
+numai dupã ce au fost consultate celelalte state membre
+și organizații.
+154. Scãderea nivelului de clasificare se face periodic,
+în urma unei analize speciale care va stabili dacã nivelul
+de clasificare acordat inițial documentului mai concordã sau
+nu cu valoarea lui informaționalã la momentul analizei.
+155. Schimbarea nivelului de clasificare a unui document va fi adusã imediat la cunoștințã tuturor deținãtorilor
+acelui document.
+156. Prin declasificare se înțelege anularea nivelului de
+clasificare a unei informații clasificate NATO și astfel
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+scoaterea ei de sub incidența tuturor reglementãrilor privind
+protecția informațiilor clasificate NATO.
+157. Informațiile clasificate NATO de nivel CONFIDENTIAL sau SECRET vor fi sistematic revizuite pentru declasificare (numai dupã o perioadã de cel puțin 30 de ani).
+158. Marca NATO aplicatã pe un document semnificã
+faptul cã documentul este proprietate NATO și cã
+informația conținutã rãmâne proprietatea deținãtorului originar. Astfel marca NATO se va aplica pe toate copiile
+pregãtite de Alianța Nord-Atlanticã spre a fi puse în circulație, inclusiv pe documentele neclasificate (de exemplu:
+NATO-UNCLASSIFIED).
+159. Toate documentele care conțin informații NATO
+clasificate, inclusiv dosarele, volumele și broșurile legate
+sau reproducerile din acestea, vor fi marcate, scris sau
+tipãrit, în partea de sus și de jos a primei pagini (coperta),
+a paginii cu titlul, pe prima paginã, pe ultima paginã și pe
+exteriorul copertei din spate. Fiecare dintre paginile documentului propriu-zis va avea marcat în partea de sus și în
+partea de jos nivelul de clasificare atribuit de deținãtorul
+originar.
+160. Documentele transmise de NATO își vor pãstra
+nivelul de clasificare acordat de Alianța Nord-Atlanticã pe
+toatã durata existenței lor. Pe prima paginã a documentului
+va fi înscris numele componentei din cadrul NATO care a
+autorizat comunicarea, data când s-a hotãrât comunicarea,
+precum și alte elemente care au legãtura cu aceasta.
+161. În situația în care un document clasificat este
+transmis de cãtre NATO ca urmare a derulãrii unor activitãți comune, aprobate de cãtre NAC, clasificarea este
+precedatã de marca NATO și de numele unei activitãți,
+numele unei țãri sau de numele unei organizații.
+Exemplu:
+
+NATO/EAPC/PfP CONFIDENTIAL sau
+NATO/ROMANIA CONFIDENTIAL sau
+NATO/OSCE CONFIDENTIAL.
+
+162. În situația în care titularul documentului considerã
+necesar sã limiteze distribuția informației clasificate, acest
+lucru se va marca indicându-se sub linia de demarcare
+numele țãrii/țãrilor cãreia/cãrora i/li se transmite documentul.
+Exemplu:
+
+NATO/PfP CONFIDENTIAL
+ROMANIA/BULGARIA only
+
+sau
+NATO/PfP CONFIDENTIAL
+EXERCISE COPPERPLATE only
+163. Documentele transmise Alianței Nord-Atlantice de
+cãtre România vor purta marca ROMANIA, urmatã de nivelul național de clasificare a documentului (echivalat cu nivelul de clasificare existent la NATO), și structura/activitatea
+din cadrul NATO cãtre/în cadrul cãreia se dorește transmiterea respectivului document.
+
+13
+
+Exemplu:
+ROMANIA-CONFIDENTIAL
+ROMANIA-SECRET
+NATO only
+PfP only
+164. Cerințele minime pentru gestionarea informațiilor
+NATO clasificate se aplicã în funcție de nivelul de clasificare.
+165. Informațiile NATO/RESTRICTED vor fi vehiculate și
+pãstrate în spații care nu vor fi accesibile persoanelor
+neautorizate.
+166. Documentele vor fi transmise prin canale de comunicație autorizate de ANS în conformitate cu procedurile
+existente. Sistemele criptografice aprobate de un stat membru NATO sau de NAMIL COM vor fi utilizate pentru criptarea informațiilor NATO RESTRICTED care vor fi
+transmise prin mijloace electronice.
+În situații deosebite, când viteza este elementul primordial și mijloacele de criptare nu sunt posibile, informațiile
+NATO RESTRICTED pot fi transmise electronic în text clar
+prin sistemele publice de comunicații.
+167. Copierea și traducerea documentelor NATO
+RESTRICTED pot fi realizate în cadrul CSNR, cu respectarea strictã a principiului nevoii de a ști (need-to-know).
+168. Informațiile NATO CONFIDENTIAL vor fi vehiculate
+și pãstrate în zone în care accesul este controlat strict.
+Accesul va fi permis doar persoanelor care sunt în posesia
+certificatului de securitate corespunzãtor și pentru care s-a
+aprobat accesul.
+169. Transmiterea documentelor se va face prin curier
+special sau sac diplomatic.
+170. Sistemele criptografice aprobate de un stat membru NATO sau de NAMIL COM vor fi utilizate pentru criptarea informațiilor NATO CONFIDENTIAL care vor fi
+transmise prin mijloace electronice.
+171. Copierea și traducerea documentelor NATO CONFIDENTIAL pot fi realizate de cãtre persoane autorizate, cu
+respectarea principiului nevoii de a ști (need-to-know).
+172. Informațiile NATO SECRET vor fi vehiculate și
+pãstrate în zone pentru care accesul este strict controlat.
+Accesul va fi permis doar persoanelor care au certificat de
+securitate corespunzãtor și pentru care s-a stabilit necesitatea de a accesa astfel de documente în îndeplinirea sarcinilor de serviciu.
+173. Transmiterea documentelor trebuie fãcutã prin
+curier special sau sac diplomatic. Pentru criptarea
+informațiilor vor fi utilizate numai sistemele criptografice
+autorizate de cãtre NAMIL COM.
+174. Copierea și traducerea documentelor NATO clasificate SECRET pot fi realizate de cãtre posesorul acestora
+în conformitate cu principiul nevoii de a ști (need-to-know),
+numai dupã obținerea aprobãrii scrise a deținãtorului originar. Copiile de pe documentele NATO clasificate SECRET
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+trebuie sã fie marcate prin imprimarea numãrului copiei.
+Numãrul atribuit copiilor/traducerilor unor astfel de documente trebuie sã existe în evidența respectivei componente
+a Sistemului național de registre (CSNR).
+175. Activitatea de gestionare a documentelor clasificate
+NATO presupune:
+Ñ primirea documentelor Ñ constã în activitatea de a
+desigila, dezambala documentele sosite;
+Ñ verificarea Ñ constã în:
+a) verificarea sigiliilor, a ambalajelor etc.;
+b) verificarea documentelor care însoțesc documentul
+propriu-zis (adrese, borderouri etc.);
+c) verificarea integritãții documentului;
+d) verificarea concordanței dintre numãrul de pagini
+înscris pe borderou și numãrul de pagini al documentului;
+la fel se va proceda și pentru anexe;
+e) verificarea inscripționãrilor obligatorii pe document;
+Ñ evidența Ñ constã în înscrierea documentului în
+registrul de evidențã din cadrul respectivei CSNR și
+inscripționarea pe document a numãrului de înregistrare
+atribuit în cadrul registrului;
+Ñ consultarea Ñ consultarea documentelor clasificate
+NATO de cãtre persoanele autorizate se face pe bazã de
+semnãturã, cu respectarea principiului nevoii de a ști
+(need-to-know);
+Ñ distribuirea Ñ constã în activitatea de repartizare a
+documentelor pentru rezolvarea acestora, în conformitate
+cu principiul nevoii de a ști (need-to-know);
+Ñ transmiterea Ñ se referã la activitatea de circulație a
+documentelor clasificate NATO în cadrul Sistemului național
+de registre și între acesta și NATO;
+Ñ transportul Ñ se referã la modul în care documentele clasificate NATO circulã între expeditor și destinatar;
+Ñ multiplicarea Ñ se referã la activitatea de copiere a
+documentelor clasificate NATO. Evidența copiilor se
+pãstreazã în registrul special destinat;
+Ñ distrugerea Ñ se referã la activitatea de tocare, incinerare, topire etc. a acelor documente care se considerã
+cã nu mai sunt necesare pentru a fi pãstrate; se efectueazã diferit în funcție de nivelul de clasificare a documentului și, de regulã, are loc dupã o inventariere prealabilã a
+documentelor care vor fi pãstrare în continuare;
+Ñ inventarierea Ñ constã în activitatea anualã de verificare a existenței documentelor și de reînregistrare a celor
+care se considerã cã mai sunt necesare în desfãșurarea
+activitãții;
+Ñ arhivarea Ñ constã în activitatea de pãstrare în
+spații special amenajate a acelor documente care nu au
+fost distruse și care se considerã cã sunt necesare în activitatea viitoare, dar pentru care nu se impune ca ele sã
+fie pãstrate în același loc cu documentele de uz curent.
+
+H. SECURITATEA INDUSTRIALÃ
+
+176. În îndeplinirea atribuțiilor ce îi revin pentru protecția
+informațiilor clasificate NATO în domeniul industrial, ANS
+desemneazã în calitate de autoritãți desemnate de securitate instituțiile care, potrivit legislației, au competențã
+naționalã în sfera civilã, respectiv militarã, a sectorului
+industrial. În acest sens aceste autoritãți au urmãtoarele
+competențe:
+a) implementarea politicii de securitate naționalã în
+domeniul industrial, îndrumarea și acordarea asistenței
+necesare în aplicarea acestei politici;
+b) impunerea respectãrii normelor de securitate industrialã la nivel național (au dreptul sã inspecteze și sã
+aprobe mãsurile pentru protecția informațiilor clasificate
+NATO);
+c) urmãrirea respectãrii componentelor unui contract sau
+subcontract clasificat NATO potrivit standardelor Alianței
+Nord-Atlantice. Înainte de transmiterea informațiilor clasificate NATO unui agent economic în cadrul derulãrii unui
+contract clasificat NATO, acesta trebuie sã îndeplineascã
+urmãtoarele condiții:
+Ñ sã asigure mãsuri de protecție a acestora corespunzãtoare prezentelor reglementãri;
+Ñ sã deținã certificat de securitate pentru obiectivul
+industrial implicat în contract;
+Ñ personalul implicat în derularea contractului clasificat
+NATO sã deținã certificat de securitate de nivel corespunzãtor nivelului de clasificare a informațiilor NATO la
+care au acces;
+Ñ accesul la informațiile clasificate vehiculate în cadrul
+contractului este permis doar persoanelor care lucreazã la
+acel contract, cu respectarea principiului nevoii de a ști
+(need-to-know);
+d) la cererea unei autoritãți naționale de securitate
+dintr-un stat membru NATO, elibereazã certificat de securitate unui agent economic implicat în negocierea sau executarea unui contract ori subcontract clasificat NATO;
+e) la cererea unei autoritãți naționale de securitate
+dintr-un stat membru NATO, elibereazã certificat de securitate pentru personalul implicat în negocierea sau executarea unui contract ori subcontract clasificat NATO;
+f) va fi desemnatã o structurã/un funcționar de securitate în obiectivele implicate în derularea contractelor și subcontractelor clasificate NATO, cu atribuții specifice tipului de
+contract derulat.
+177. În vederea eliberãrii certificatului de securitate pentru agenții economici implicați în derularea unui contract
+clasificat NATO se va verifica dacã sunt îndeplinite
+cerințele de securitate pentru protecția informațiilor clasificate NATO, potrivit nivelului de clasificare a informațiilor
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+vehiculate în cadrul contractului sau subcontractului, conform prezentelor reglementãri.
+178. Pentru persoanele implicate în derularea unui contract clasificat NATO se va elibera certificat de securitate
+conform prezentelor norme.
+I. INFOSEC
+
+179. Politica de securitate și cerințele acestei secțiuni
+se vor aplica tuturor sistemelor de prelucrare automatã a
+datelor, denumite în continuare SPAD, și rețelelor de transmisii de date, denumite în continuare RTD, precum și sistemelor informatice și de comunicații, denumite în
+continuare SIC, care stocheazã, proceseazã și/sau transmit
+informații clasificate NATO. Aceste sisteme necesitã mãsuri
+de securitate a informațiilor, îndeosebi de control al accesului, pe baza principiului nevoii de a ști și a nivelului de
+securitate atribuit.
+180. Protecția SPAD și/sau RTD (SIC) din compunerea
+sistemelor de armament și de detecție va fi definitã în contextul general al sistemelor din care acestea fac parte și
+va fi realizatã prin aplicarea prevederilor prezentei secțiuni.
+181. Protecția informațiilor clasificate NATO care sunt
+stocate, procesate sau transmise în SPAD și/sau RTD
+(SIC) este asiguratã de cãtre ANS prin intermediul
+urmãtoarelor autoritãți: Autoritatea de Acreditare de
+Securitate, denumitã în continuare AAS, Autoritatea de
+Securitate pentru Informaticã și Comunicații, denumitã în
+continuare ASIC, Autoritatea pentru Distribuirea Materialului
+Criptografic, denumitã în continuare ADMC.
+182. AAS este responsabilã la nivel național cu acreditarea de securitate și aplicarea politicii de securitate NATO
+conform acreditãrii date pentru SIC.
+183. AAS este responsabilã pentru aprobarea datã unui
+SPAD și/sau RTD (SIC) de a stoca, de a procesa sau de
+a transmite informații clasificate NATO pânã la nivelul de
+clasificare acordat (incluzând, unde este cazul, unele categorii cu destinație specialã) în mediul sãu operațional. AAS
+este responsabilã cu evaluarea și certificarea sistemelor
+SPAD și/sau RTD (SIC) sau a unor elemente componente
+ale acestora.
+184. AAS este o structurã de acreditare la nivel
+național, subordonatã ANS, cu reprezentanțe delegate/desemnate din cadrul departamentelor implicate, în funcție de
+SPAD și/sau RTD (SIC) care trebuie acreditate. AAS este
+responsabilã cu procesul periodic de reacreditare a SPAD
+și/sau RTD (SIC).
+185. AAS își exercitã responsabilitatea în domeniul
+securitãții în numele ANS, este responsabilã pentru securitate în toate cazurile, cu excepția unor situații speciale, și
+are autoritatea de a impune standarde de securitate.
+
+15
+
+186. AAS stabilește strategia de acreditare de securitate
+din cadrul politicii generale de securitate a ANS și formuleazã explicit condițiile în care poate fi solicitatã sã acrediteze SPAD și/sau RTD (SIC).
+187. ASIC este structura care activeazã la nivel
+național, subordonatã ANS, cu reprezentanțe delegate/desemnate de cãtre ANS în cadrul departamentelor implicate.
+ASIC își exercitã autoritatea pe plan local prin intermediul
+Autoritãții Operaționale a SIC, denumitã în continuare
+AOSIC. Este responsabilã cu conceperea și implementarea
+mijloacelor și metodelor de protecție a informațiilor clasificate NATO, care sunt stocate, procesate sau transmise
+prin intermediul SIC, și are în principal urmãtoarele responsabilitãți:
+a) coordonarea tuturor activitãților de protecție a
+informațiilor clasificate NATO, care sunt stocate, procesate
+sau transmise prin intermediul SIC;
+b) inițiativa elaborãrii și promovãrii de reglementãri și
+standarde specifice;
+c) analiza cauzelor provocatoare de incidente de securitate și gestionarea bazei de date privind vulnerabilitãțile din
+sistemele de comunicație și informatice, necesare pentru
+managementul riscurilor asupra securitãții SIC;
+d) semnalarea cãtre AAS a incidentelor de securitate;
+e) integrarea mãsurilor privind protecția fizicã de personal, de documente, administrativã, COMPUSEC, COMSEC,
+TEMPEST, criptologicã;
+f) executarea inspecțiilor periodice asupra SPAD și/sau
+RTD (SIC) în vederea reacreditãrii acordate de cãtre AAS;
+g) supunerea certificãrii și autorizãrii a sistemelor de
+securitate specifice SIC;
+h) cooperarea cu AAS, ADMC și cu alte structuri de
+securitate implicate.
+188. ADMC este o structurã naționalã subordonatã ANS
+și are urmãtoarele responsabilitãți:
+Ñ managementul materialelor și echipamentelor criptografice specifice NATO;
+Ñ distribuirea materialelor și echipamentelor criptografice
+specifice NATO;
+Ñ raportarea periodicã la ASIC a incidentelor de securitate cu care s-a confruntat;
+Ñ cooperarea cu AAS, ASIC și cu alte structuri de
+securitate implicate.
+189. Amenințarea poate fi definitã ca o posibilitate de
+compromitere accidentalã sau deliberatã a securitãții SPAD
+și/sau RTD (SIC) prin pierderea confidențialitãții, a integritãții sau disponibilitãții informațiilor în formã electronicã.
+Vulnerabilitatea poate fi definitã ca fiind o slãbiciune sau
+lipsã de control care ar permite sau ar facilita o manevrã
+de amenințare împotriva unei valori ori ținte specifice și ea
+poate fi de naturã tehnicã, proceduralã sau operaționalã.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+190. Mãsurile de securitate prevãzute în aceastã
+secțiune se aplicã SIC care stocheazã, proceseazã sau
+transmit informații clasificate NATO, începând cu nivelul
+CONFIDENTIAL.
+191. Crearea mediului de securitate în care trebuie sã
+opereze SPAD și/sau RTD (SIC) presupune definirea și
+implementarea unui set echilibrat de mãsuri de securitate
+(fizice, de personal, administrative, de tip TEMPEST, privind tehnica de calcul și comunicațiile).
+192. Mãsurile de securitate destinate protecției SIC trebuie sã asigure controlul accesului pentru prevenirea sau
+detectarea divulgãrii neautorizate a informațiilor. Procesul
+de certificare și acreditare va stabili dacã aceste mãsuri
+sunt corespunzãtoare.
+193. Cerințele de securitate specifice, denumite în continuare CSS, se constituie într-un document încheiat între
+AAS și AOSIC, fiind o listã completã de principii de securitate care trebuie respectate și de mãsuri de securitate
+detaliate ce trebuie implementate, care stau la baza procesului de certificare și acreditare a SPAD și/sau RTD (SIC).
+194. CSS se elaboreazã pentru toate SPAD și/sau RTD
+(SIC) care stocheazã, proceseazã sau transmit informații
+clasificate NATO. Aceste cerințe sunt stabilite de cãtre
+AOSIC și sunt aprobate de cãtre AAS.
+195. CSS vor fi formulate încã din faza de proiectare a
+SPAD și/sau RTD (SIC) și vor fi dezvoltate de-a lungul
+întregului ciclu de viațã al sistemului.
+196. CSS au la bazã principiile politicii NATO de securitate și de evaluare a riscurilor, promovate de cãtre ANS,
+ținând seama de parametrii esențiali ai mediului
+operațional, de nivelul minim de autorizare a personalului,
+de nivelul de clasificare a informațiilor și de modul de operare a sistemului care urmeazã sã fie acreditat.
+197. SPAD și/sau RTD (SIC) care stocheazã, proceseazã sau transmit informații clasificate NATO vor fi certificate și acreditate sã opereze pe anumite perioade și în
+diverse moduri de operare, astfel:
+a) dedicat;
+b) de nivel înalt;
+c) multinivel.
+198. În modul de operare ”dedicat,, toate persoanele cu
+drept de acces la SPAD și/sau RTD au certificat de securitate pentru cel mai înalt nivel de clasificare a informațiilor
+stocate, procesate sau transmise în cadrul SPAD și/sau
+RTD (SIC). Necesitatea de cunoaștere pentru aceste persoane se referã la toate informațiile stocate, procesate sau
+transmise în cadrul SPAD și/sau RTD (SIC).
+1. În acest mod de operare principiul nevoii de a ști
+(need-to-know) nu impune o cerințã expresã de separare a
+informațiilor, în cadrul SPAD și/sau RTD, ca mijloc de
+securitate a SIC.
+
+2. Celelalte elemente de securitate (de exemplu: securitatea fizicã, de naturã proceduralã sau la nivel de personal) vor satisface cerințele impuse de cel mai înalt nivel de
+clasificare și de toate categoriile de informații cu destinație
+specialã stocate, procesate sau transmise în cadrul SPAD
+și/sau RTD.
+199. În modul de operare ”de nivel înalt,, toate persoanele cu drept de acces la SPAD și/sau RTD (SIC) au certificat de securitate pentru cel mai înalt nivel de clasificare
+a informațiilor stocate, procesate sau transmise în cadrul
+SPAD și/sau RTD (SIC), dar accesul la informații se face
+diferențiat, conform principiului nevoii de a ști (need-toknow).
+1. Faptul cã în acest mod accesul la informații se face
+diferențiat, conform principiului nevoii de a ști (need-toknow), înseamnã cã trebuie sã existe în compensație facilitãți de securitate care sã asigure un mod de acces
+selectiv la informațiile din cadrul SPAD și/sau RTD (SIC).
+2. Celelalte facilitãți de securitate (de exemplu: securitatea fizicã, de naturã proceduralã sau de personal) vor
+satisface cerințele de protecție pentru cel mai înalt nivel de
+clasificare și pentru toate categoriile de informații cu destinație specialã stocate, procesate, transmise în cadrul
+SPAD și/sau RTD (SIC).
+3. Toate informațiile stocate, procesate sau vehiculate în
+cadrul unui SPAD și/sau RTD (SIC) sub acest mod de
+operare vor fi protejate ca informații cu destinație specialã
+și ca informații cu nivel maxim de clasificare.
+200. În modul de operare ”multinivel,, nu toate persoanele cu drept de acces SPAD și/sau RTD (SIC) au certificat de securitate pentru acces la informații de cel mai înalt
+nivel de clasificare, care sunt stocate, procesate sau transmise prin SPAD și/sau RTD (SIC). De asemenea, nu toate
+persoanele cu acces la SPAD și/sau RTD (SIC) au acces
+la toate informațiile stocate, procesate, transmise în cadrul
+SPAD și/sau RTD, accesul la informații fãcându-se diferențiat, conform principiului nevoii de a ști (need-to-know).
+1. Acest mod de operare protejat permite stocarea, procesarea sau transmiterea informațiilor cu diferite niveluri de
+clasificare și de diverse destinații.
+2. Faptul cã nu toate persoanele sunt autorizate pentru
+cel mai înalt nivel de clasificare, combinat cu faptul cã
+accesul la informații se face diferențiat, conform principiului
+nevoii de a ști (need-to-know), înseamnã cã trebuie sã
+existe în compensație facilitãți de securitate care sã asigure un mod selectiv de acces la informațiile din cadrul
+SPAD și/sau RTD.
+201. AOSIC este persoana sau compartimentul având
+responsabilitatea, delegatã de cãtre ASIC, asupra SPAD
+și/sau RTD (SIC) pentru implementarea metodelor și mijloacelor necesare protecției informațiilor, precum și pentru
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+exploatarea operaționalã a SPAD și/sau RTD (SIC) în
+condiții de securitate. Responsabilitatea AOSIC cuprinde
+întregul ciclu de viațã al SPAD și/sau RTD (SIC), începând
+cu proiectarea, continuând cu elaborarea specificațiilor, testarea instalãrii, acreditarea, testarea periodicã în vederea
+reacreditãrii, exploatarea operaționalã, modificarea și
+sfârșind cu scoaterea din uz. În anumite situații speciale
+rolul AOSIC poate fi preluat de cãtre diverse componente
+ale organizației, în decursul ciclului de viațã. Este important ca rolul AOSIC sã fie de la început identificat și exercitat fãrã întrerupere în decursul ciclului de viațã.
+202. AOSIC coordoneazã cooperarea dintre organismul
+care exercitã autoritatea asupra SIC al unei organizații și
+organismul care asigurã acreditarea de securitate, atunci
+când organizația:
+a) planificã dezvoltarea sau achiziția de SPAD și/sau
+RTD;
+b) propune schimbãri ale unei configurații de sistem
+existente;
+c) propune conectarea unui SPAD și/sau a unei RTD
+(SIC) cu un alt SPAD și/sau RTD (SIC);
+d) propune schimbãri ale modului de operare de securitate ale SPAD și/sau RTD (SIC);
+e) propune schimbãri în programele existente sau propune utilizarea de noi programe care au impact asupra
+securitãții SPAD și/sau RTD (SIC);
+f) propune modificarea nivelului de clasificare a securitãții pentru SPAD și/sau RTD (SIC) care au fost deja
+acreditate;
+g) planificã, propune sau intenționeazã sã întreprindã
+orice altã activitate care poate afecta securitatea SPAD
+și/sau RTD (SIC) deja acreditate (de exemplu, creșterea
+substanțialã a numãrului de utilizatori).
+203. AOSIC, îndrumat de cãtre AAS și în cooperare cu
+cel care exercitã autoritatea asupra SIC, stabilește standardele și procedurile de securitate care trebuie respectate de
+cãtre furnizorul de echipamente pe parcursul dezvoltãrii,
+instalãrii și testãrii SPAD și/sau RTD (SIC). AOSIC este
+responsabilã pentru justificarea, selecția, implementarea și
+controlul componentelor tehnice de asigurare a securitãții
+care constituie parte a SPAD și/sau RTD (SIC).
+204. AOSIC atribuie structurilor de securitate și management ale SPAD și/sau RTD (SIC), încã de la înființare,
+responsabilitãțile necesare pe care sã le exercite pe tot
+ciclul de viațã al SPAD și/sau RTD (SIC).
+205. AOSIC sau structura delegatã competentã desemneazã administratorul de securitate al obiectivului SIC, care
+rãspunde de asigurarea implementãrii și menținerii mãsurilor de securitate fizicã aplicabile obiectivului respectiv.
+206. Un obiectiv SIC reprezintã un amplasament specific sau un grup de amplasamente în care funcționeazã un
+
+17
+
+SPAD și/sau o RTD. Responsabilitãțile pentru fiecare zonã
+de amplasare a unui terminal/a unei stații de lucru care
+funcționeazã la distanțã trebuie explicit determinate.
+Responsabilitãțile unui administrator de securitate de obiectiv sunt îndeplinite de funcționarul de securitate din cadrul
+structurii de securitate a obiectivului, ca parte a îndatoririlor
+profesionale.
+207. AOSIC desemneazã un administrator de securitate
+al SPAD (SIC), care este responsabil cu supervizarea dezvoltãrii, implementãrii și administrãrii mãsurilor de securitate
+dintr-un SPAD (SIC), inclusiv cu participarea la elaborarea
+procedurilor operaționale de securitate. La recomandarea
+AAS, AOSIC desemneazã persoane suplimentare (de
+exemplu, pentru compartimente specifice unei organizații)
+care îndeplinesc atributele de securitate în conformitate cu
+mãsurile stabilite de administratorul de securitate al SPAD
+în cadrul procedurilor operaționale de securitate (PrOpSec).
+208. Pentru un SIC de mari dimensiuni sau în cazul
+interconectãrii SPAD, AOSIC nominalizeazã un administrator de securitate al rețelei, care are responsabilitãți în ceea
+ce privește managementul securitãții comunicațiilor.
+209. Toți utilizatorii de SPAD și/sau RTD (SIC) poartã
+responsabilitatea în ceea ce privește securitatea acestora
+(raportate, în principal, la drepturile acordate) și sunt
+îndrumați de cãtre administratorii de securitate. Informarea
+și conștientizarea utilizatorilor asupra îndatoririlor lor de
+securitate asigurã o eficacitate sporitã a sistemului de
+securitate.
+210. Pregãtirea și instruirea cu privire la securitatea SIC
+sunt asigurate adecvat la diferite niveluri și pentru clasele
+de personal diferite ale unei organizații, cum ar fi: nivelul
+superior de conducere, personalul autoritãții de securitate,
+administratorii de securitate, utilizatorii etc., și sunt în conformitate cu planul general de instruire elaborat de cãtre
+ANS.
+211. Utilizatorii SPAD și/sau RTD (SIC) sunt autorizați
+și li se permite accesul la informații clasificate, pe baza
+principiului nevoii de a ști (need-to-know) și în funcție de
+nivelul de clasificare a informațiilor stocate, procesate sau
+transmise în cadrul SPAD și/sau RTD.
+212. Datoritã vulnerabilitãții informațiilor fațã de accesarea neautorizatã, interzicerea accesului, divulgare, alterare,
+modificare sau ștergere, se prevãd mãsuri speciale pentru
+instruirea și supravegherea personalului, incluzând aici și
+personalul de proiectare a sistemului, care are acces la
+SPAD și/sau RTD.
+213. SPAD și/sau RTD (SIC) trebuie proiectate astfel
+încât sã permitã atribuirea sarcinilor și rãspunderilor personalului de o așa manierã încât sã nu existe o persoanã
+care sã aibã cunoștințã de sau acces la toate cheile de
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+18
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+securitate (parole, mijloace de identificare personalã etc.) și
+la toate programele.
+214. Procedurile de lucru ale personalului din SPAD
+și/sau RTD (SIC) trebuie sã asigure separarea dintre
+operațiunile de programare și cele de exploatare a sistemului sau a rețelei. Este interzis, cu excepția unor situații
+speciale, ca personalul sã facã atât programarea, cât și
+operarea sistemelor sau rețelelor și trebuie instituite proceduri speciale pentru detectarea acestor situații.
+215. Pentru orice fel de modificare aplicatã unui SPAD
+și/sau RTD (SIC) este obligatorie colaborarea a cel puțin
+douã persoane. Procedurile de securitate trebuie sã prevadã explicit situațiile în care regula de lucru cu douã persoane (two men rule) este implementatã.
+216. Pentru asigurarea și implementarea corectã a
+mãsurilor de securitate personalul SPAD și/sau RTD (SIC)
+și personalul care rãspunde de securitatea SPAD și/sau
+RTD (SIC) este instruit și informat în așa fel încât sã își
+cunoascã reciproc responsabilitãțile.
+217. Zonele în care sunt amplasate SPAD și/sau RTD
+(SIC) și cele cu terminale la distanțã, unde sunt prezentate, stocate, procesate sau transmise informații clasificate
+NATO ori în care este posibil accesul potențial la astfel de
+informații, se declarã zone de securitate ale obiectivului.
+218. În zonele în care sunt amplasate SPAD și terminale la distanțã (stații de lucru), unde se proceseazã și/sau
+pot fi accesate informații clasificate NATO, se aplicã
+urmãtoarele mãsuri generale de securitate:
+a) intrarea personalului și a materialelor, precum și plecarea în/din aceste zone sunt controlate prin mijloace bine
+stabilite;
+b) zonele și locurile în care securitatea SPAD și/sau
+RTD (SIC) ori a terminalelor la distanțã poate fi modificatã
+nu trebuie sã fie niciodatã ocupate de o singurã persoanã;
+c) persoanelor care solicitã acces temporar sau cu intermitențe în aceste zone trebuie sã li se autorizeze accesul
+ca vizitatori de cãtre responsabilul pe probleme de securitate al zonei, desemnat de cãtre administratorul de securitate al SPAD, conform atribuțiilor. Vizitatorii sunt însoțiți
+permanent pentru a avea garanția cã nu pot avea acces la
+informații clasificate NATO și nici la echipamentele utilizate.
+219. În funcție de riscul de securitate și de nivelul de
+clasificare a informațiilor stocate, procesate și transmise,
+poate sã se impunã cerința de aplicare a regulii de lucru
+cu douã persoane (two men rule) și în alte zone. Acestea
+se stabilesc în stadiul inițial al proiectului și sunt specificate în cadrul cerințelor de securitate specifice ale SIC.
+220. Când un SPAD este exploatat în mod autonom,
+deconectat în mod permanent de alte SPAD, atunci, ținând
+seama de condițiile specifice, de alte mãsuri de securitate
+
+tehnice sau procedurale și de rolul pe care îl joacã respectivul SPAD în funcționarea de ansamblu, AAS poate sã
+renunțe la cerințele pct. 218 lit. b). În asemenea cazuri
+AAS trebuie sã stabileascã reguli, adaptate la structura
+SPAD, conform nivelului de clasificare a informațiilor
+procesate, și sã identifice caracteristicile speciale.
+221. Toate informațiile și materialele care controleazã
+accesul la SPAD sau la RTD (SIC) sunt controlate și protejate de reglementãri corespunzãtoare nivelului de clasificare cel mai ridicat și specificului categoriei de informații la
+care respectivul SPAD și/sau RTD (SIC) permite accesul.
+222. Când nu mai sunt utilizate, informațiile și materialele de control trebuie sã fie distruse.
+223. Titularul informațiilor are obligația de a identifica și
+de a clasifica toate documentele purtãtoare de informații,
+indiferent de suportul pe care se aflã (copie pe hârtie sau
+medii de stocare specifice tehnologiei informației). Fiecare
+document, indiferent de suport, trebuie marcat cu nivelul
+sãu de clasificare. Suportul pe care se aflã documentele
+va cãpãta același nivel de clasificare ca și nivelul cel mai
+înalt de clasificare a informațiilor utilizate pentru elaborarea
+documentelor. De asemenea, acestea se pot clasifica și
+conform nivelului cel mai înalt de clasificare a unui SPAD
+și/sau RTD (SIC) funcționând în modul ”dedicat,, sau de
+”nivel înalt,,, cu excepția situației în care titularul sau autoritatea care rãspunde de punerea la dispoziție a respectivelor informații a stabilit, dupã verificare, o altã clasificare.
+224. Titularii de informații au obligația sã analizeze
+aspectele privind agregarea informațiilor și consecințele
+asupra nivelului de clasificare ce pot rezulta din aceasta,
+pentru a decide eventual acordarea unui nivel de clasificare mai ridicat pentru informația rezultatã în urma
+agregãrii.
+225. Modul în care este prezentatã informația în clar
+(chiar dacã se utilizeazã codul prescurtat sau de transmisie, reprezentarea binarã) nu asigurã nici un fel de protecție de securitate și nu trebuie, prin urmare, sã
+influențeze nivelul de clasificare acordat informațiilor
+respective.
+226. Documentele conținând informații clasificate NATO
+trebuie sã fie controlate, conform reglementãrilor de securitate în vigoare, înainte de a fi transmise din zonele SPAD
+și/sau RTD (SIC) ori din cele cu terminale la distanțã.
+227. Când informațiile sunt transferate de la un SPAD
+sau RTD (SIC) cãtre alt SPAD sau RTD (SIC), ele trebuie
+sã fie protejate atât în timpul transferului, cât și în SPAD
+sau RTD (SIC) care le primește, corespunzãtor clasificãrii
+originale a informațiilor.
+228. Toate mediile de stocare a informațiilor se
+pãstreazã într-o modalitate care sã fie în concordanțã cu
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+cel mai înalt nivel de clasificare a informațiilor stocate pe
+acestea, fiind protejate permanent.
+229. Mediile refolosibile de stocare a informațiilor, utilizate pentru înregistrarea informațiilor clasificate NATO, își
+mențin cea mai înaltã clasificare pentru care au fost vreodatã utilizate, pânã când respectivelor informații li se
+reduce nivelul de clasificare sau sunt declarate neclasificate, moment în care mediile menționate mai sus se reclasificã în mod corespunzãtor sau sunt distruse în
+conformitate cu prevederile PrOpSec.
+230. Evidența automatã sau manualã a accesului la
+informațiile clasificate NATO de la nivelul SECRET în sus
+se ține sub forma registrelor de acces. Aceste registre se
+pãstreazã pe o perioadã stabilitã de comun acord între
+AAS și AOSIC. În ceea ce privește registrele de acces la
+informațiile clasificate NATO nivel NATO TOP SECRET
+sau cele din categoria specialã, perioada minimã de
+pãstrare este de 10 ani; în cazul informațiilor clasificate
+NATO nivel SECRET perioada minimã de pãstrare pentru
+aceste registre nu va fi mai micã de 3 ani.
+231. Mediile de stocare care conțin informații clasificate
+NATO ce sunt utilizate în interiorul unei zone SPAD pot fi
+manipulate ca un unic material clasificat, nefiind nevoie sã
+fie înregistrate în Registrul Central sau în subregistre, cu
+condiția ca materialul sã fie identificat, marcat cu nivelul
+sãu de clasificare și controlat în interiorul zonei SPAD,
+pânã în momentul în care este distrus, redus la o copie
+de arhivã sau pus într-un dosar permanent. Evidențele și
+controlul materialelor clasificate vor fi menținute în cadrul
+zonei SPAD pânã când acestea sunt supuse controlului de
+evidențã sau sunt distruse.
+232. În cazul în care un material este generat într-un
+CIS, iar apoi este transmis într-o zonã cu terminal/stație de
+lucru îndepãrtat, se stabilesc proceduri adecvate de securitate, agreate de cãtre AAS. Procedurile trebuie sã cuprindã
+și instrucțiuni specifice privind evidența informațiilor.
+233. Toate mediile de stocare amovibile, clasificate de
+la nivelul NATO CONFIDENTIAL în sus, se identificã și se
+controleazã în mod corespunzãtor (pentru nivelurile NATO
+UNCLASSIFIED și NATO RESTRICTED se aplicã regulamentele de securitate locale, aprobate de cãtre ANS).
+Identificarea și controalele trebuie sã includã cel puțin
+urmãtoarele cerințe:
+a) pentru nivelul NATO CONFIDENTIAL și mai sus:
+Ñ un mijloc de identificare (numãr de serie și marcajul
+nivelului de clasificare) pentru fiecare astfel de mediu, în
+mod separat (cu precizarea cã marcarea nivelului de clasificare trebuie sã indice cel mai înalt nivel de clasificare
+stocat vreodatã pe acel mediu, în cazul în care nu a fost
+declasificat conform procedurilor aprobate);
+
+19
+
+Ñ proceduri complete pentru emiterea, primirea sau
+retragerea mediului de memorare, pentru a fi distrus sau
+pentru alte scopuri;
+Ñ înregistrãri manuale sau tipãrite la imprimantã,
+indicând conținutul general, clasificarea și precizarea categoriei informației;
+b) pentru nivelul NATO SECRET și mai sus informațiile
+detaliate asupra mediului de stocare amovibil, incluzând
+conținutul și nivelul de clasificare, se țin într-un registru
+adecvat.
+234. Controlul punctual (spot-checking) și de ansamblu
+al mediilor de stocare amovibile, pentru a asigura compatibilitatea cu procedurile de identificare și control în vigoare,
+astfel:
+a) pentru nivelul NATO CONFIDENTIAL controalele
+punctuale ale prezenței fizice și ale conținutului mediilor de
+stocare amovibile se efectueazã periodic, pentru a garanta
+cã acele medii de stocare nu conțin informații cu un nivel
+de clasificare superior;
+b) pentru nivelul NATO SECRET toate mediile amovibile
+se inventariazã periodic, controlând punctual prezența lor
+fizicã și conținutul (pentru a garanta cã pe acele medii nu
+sunt stocate informații cu un nivel de clasificare superior);
+c) pentru nivelul NATO COSMIC TOP SECRET și Categoria Specialã de informații toate mediile amovibile se verificã anual și se controleazã punctual (spot-checked),
+periodic, în legãturã cu prezența lor fizicã și cu conținuturile lor (pentru a garanta cã pe acele medii nu sunt stocate în mod necorespunzãtor informații din Categoria
+Specialã).
+235. Utilizatorii trebuie sã își asume responsabilitatea
+pentru a garanta cã informațiile clasificate NATO sunt stocate pe medii de stocare având marcarea și protecția
+corespunzãtoare. Procedurile trebuie stabilite pentru a se
+garanta cã, pentru toate nivelurile de clasificare a
+informațiilor NATO, stocarea acestora se realizeazã în conformitate cu reglementãrile de securitate.
+236. Informațiile clasificate NATO înregistrate pe medii
+de stocare refolosibile sunt șterse doar în conformitate cu
+procedurile PrOpSec.
+237. Când un mediu de stocare urmeazã sã iasã din
+uz, trebuie sã fie declasificat, dupã care poate fi eliberat și
+utilizat ca mediu de stocare neclasificat. Dacã acesta nu
+poate fi declasificat, trebuie distrus printr-o procedurã aprobatã. Mediile de stocare care conțin informații NATO
+COSMIC TOP SECRET sau Categorie Specialã pot fi
+distruse, dar nu pot fi declasificate și refolosite.
+238. Informațiile clasificate NATO, stocate pe un mediu
+nereutilizabil pentru procesul de scriere (cartele sau benzi
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+20
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+perforate, tipãrituri etc.), vor fi distruse conform prevederilor
+cap. G ”Securitatea documentelor,,.
+
+249. AOSIC stabilește controale care vor garanta cã
+toate produsele software originale (sisteme de operare
+
+239. Toate mijloacele folosite pentru transmiterea electromagneticã a informațiilor clasificate NATO se supun
+instrucțiunilor NATO de securitate a comunicațiilor,
+instrucțiuni promovate de cãtre ANS.
+
+generale, subsisteme și pachete soft), aflate în folosințã,
+
+240. Într-un SPAD (SIC) trebuie sã se asigure mijloace
+de interzicere categoricã a accesului la informațiile clasificate NATO de la toate terminalele/stațiile de lucru
+îndepãrtate, atunci când se solicitã acest lucru, prin deconectare fizicã sau prin proceduri software speciale, aprobate de cãtre AAS.
+
+în primul rând pe baza unei evaluãri a nivelului de clasifi-
+
+241. Instalarea inițialã a SIC și orice modificare majorã
+adusã acestuia sunt executate de persoane autorizate.
+Acestea sunt sub supravegherea permanentã a unui personal tehnic calificat, care are acces la informații clasificate
+NATO de cel mai înalt nivel de clasificare a informațiilor,
+pe care respectivul SIC le va stoca, le va procesa sau le
+va transmite.
+
+verificate la intervale regulate pentru a garanta integritatea
+
+242. Toate echipamentele vor fi instalate în conformitate
+cu reglementãrile NATO specifice în vigoare, promovate de
+cãtre ANS. Se vor folosi și directive naționale echivalente
+pe plan tehnic.
+
+creditãrii prezentate în cerințele de securitate specifice ale
+
+243. Sistemele SIC care stocheazã, proceseazã și/sau
+transmit informații clasificate NATO nivel CONFIDENTIAL și
+mai sus vor fi protejate corespunzãtor fațã de vulnerabilitãțile de securitate cauzate de radiațiile compromițãtoare
+(TEMPEST).
+
+poate fi folosit înainte de a fi verificat de cãtre AOSIC.
+
+244. Procesarea informațiilor se realizeazã în conformitate cu PrOpSec.
+
+de operare, subsisteme, pachete de software și software
+
+245. Transmiterea informațiilor NATO CONFIDENTIAL și
+mai sus cãtre instalații automate (a cãror funcționare nu
+necesitã prezența unui operator uman) este interzisã, cu
+excepția cazului în care se aplicã reglementãri speciale
+aprobate de cãtre AAS, iar acestea au fost specificate în
+PrOpSec.
+
+într-o instituție/structurã/organizație, trebuie verificate (obli-
+
+246. În SIC care au utilizatori existenți sau potențiali
+fãrã certificate de securitate nu se pot stoca, procesa și
+transmite informații clasificate NATO COSMIC TOP
+SECRET sau din Categoria Specialã.
+
+conectate la alt SPAD și/sau RTD (SIC) ori la o rețea
+
+247. PrOpSec reprezintã o descriere a implementãrii
+politicii de securitate ce urmeazã sã fie adoptatã, a procedurilor operaționale de urmat și a responsabilitãților personalului.
+248. PrOpSec sunt elaborate de cãtre ASIC în colaborare cu AOSIC și AAS, care coordoneazã și alte elemente de securitate implicate. AAS va aproba procedurile
+de operare înainte de a autoriza stocarea, procesarea sau
+transmiterea informațiilor de nivel NATO CONFIDENTIAL și
+mai sus.
+
+sunt protejate în condiții conforme cu nivelul de clasificare
+a informațiilor pe care acestea trebuie sã le proceseze.
+Protecția programelor (software) de aplicație se stabilește
+care de securitate a acestora și apoi se va ține seama de
+nivelul de clasificare a informațiilor pe care acestea
+urmeazã sã le proceseze.
+250. Versiunile software care sunt în uz trebuie sã fie
+și funcționarea lor corectã. Versiunile noi sau modificate ale
+software nu vor fi folosite pentru procesarea informațiilor de
+nivel NATO CONFIDENTIAL și mai sus, pânã când procedurile de securitate software nu sunt testate și aprobate de
+cãtre administratorul de securitate al SPAD. Versiunile noi
+sau modificate ale software mai depind și de condițiile reasistemelor, aprobate de cãtre AAS. Un software care modificã posibilitãțile sistemului sau care îi conferã posibilitãți
+noi și care nu conține nici o procedurã de securitate nu
+251. Verificarea prezenței virușilor și a software nociv
+se face în conformitate cu cerințele impuse de cãtre AAS.
+252. Versiunile de software noi sau modificate (sisteme
+de aplicație), stocate pe diferite medii, care se introduc
+gatoriu pe sisteme de calcul izolate) în vederea depistãrii
+software nociv sau a virușilor de calculator, înainte de a fi
+folosite în SPAD și/sau RTD (SIC). În plus, periodic se va
+proceda la verificarea software instalat; aceste verificãri trebuie fãcute mai frecvent dacã SPAD și/sau RTD (SIC) sunt
+publicã de comunicații de date sau la o rețea telefonicã
+publicã.
+253. În contractele de întreținere a SPAD și/sau RTD
+(SIC), care stocheazã/proceseazã/transmit informații clasificate de nivel NATO CONFIDENTIAL sau mai sus, se vor
+specifica cerințele care trebuie îndeplinite pentru ca personalul de întreținere și aparatura specificã a acestuia sã
+poatã fi introduse în zona de operare a unui SPAD și/sau
+RTD (SIC); personalul de întreținere trebuie sã deținã certificate de securitate, deoarece prin executarea operațiunilor
+de întreținere existã posibilitatea de a accesa informații clasificate NATO.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+254. Cerințele menționate la pct. 75 trebuie stipulate
+foarte clar în CSS, iar procedurile de desfãșurare a activitãții respective trebuie stabilite în PrOpSec. Nu se
+acceptã tipurile de întreținere care constau în aplicarea
+unor proceduri de diagnosticare ce implicã accesul de la
+distanțã la sistem, decât dacã activitatea respectivã se
+desfãșoarã sub control strict și numai cu aprobarea AAS.
+255. Achiziționarea de sisteme SIC este limitatã pe cât
+posibil la cele proiectate și realizate în țãri membre NATO.
+Hardware și/sau software proiectate și/sau realizate în țãri
+ce nu sunt membre NATO pot fi achiziționate numai dupã
+aprobarea AAS.
+
+21
+
+stabilite la nivel NATO, în ceea ce privește posibilitatea
+acestora de a proteja informațiile NATO de toate categoriile
+și nivelurile de clasificare și de a deține mecanisme de
+partajare/clasificare a utilizatorilor, bazate pe autorizarea
+accesului la sisteme.
+261. Cerințele de evaluare și certificare sunt incluse în
+planificarea sistemului SIC și sunt stipulate explicit în CSS
+imediat dupã ce modul de operare de securitate a fost
+stabilit.
+262. Existã urmãtoarele situații în care se impun evaluarea și certificarea de securitate într-un mod de operare de
+securitate multinivel:
+
+256. Pentru SIC care stocheazã, proceseazã și/sau
+transmit informații clasificate NATO, de la nivelul SECRET
+în sus, și/sau informații din Categoria Specialã respectivele
+sisteme SIC sau componentele lor de bazã (cum ar fi: sisteme de operare de scop general, produse de limitare a
+funcționãrii în scopul realizãrii securitãții și produse pentru
+comunicare în rețea) se pot achiziționa doar dacã sunt sau
+urmeazã sã fie evaluate și certificate de cãtre AAS, conform criteriilor NATO (AC/35 Ñ D/1012 revãzut) sau criteriilor naționale echivalente.
+
+a) pentru SPAD și/sau RTD (SIC) care stocheazã/proceseazã/transmit informații clasificate NATO COSMIC TOP
+SECRET și/sau cele din Categorie Specialã;
+
+257. Pentru SIC care stocheazã, proceseazã și/sau
+transmite informații clasificate NATO CONFIDENTIAL sistemele și componentele lor de bazã vor respecta pe cât
+posibil criteriile prevãzute la pct. 256.
+
+263. Procesul de evaluare și certificare trebuie sã se
+desfãșoare conform principiilor/instrucțiunilor aprobate, evaluarea și certificarea fãcându-se de cãtre echipe formate
+din experți cu pregãtire tehnicã adecvatã și autorizați
+corespunzãtor, iar aceste echipe vor acționa ca reprezentanți ai AAS. Aceasta va selecta echipele de experți care
+urmeazã sã realizeze evaluarea și certificarea.
+
+258. Decizia de a prefera închirierea în loc de
+cumpãrarea unui echipament, în special medii de stocare,
+trebuie luatã ținându-se seama de faptul cã astfel de echipamente, o datã utilizate pentru stocarea sau procesarea
+informațiilor clasificate NATO, nu mai pot fi scoase în medii
+neprotejate fãrã a fi în prealabil declasificate, conform
+aprobãrii AAS, și de faptul cã acest lucru nu este întotdeauna posibil.
+259. Toate SPAD și/sau RTD (SIC), înainte de a fi utilizate pentru stocarea, procesarea sau transmiterea
+informațiilor clasificate de la categoria NATO CONFIDENTIAL
+în sus, trebuie acreditate de cãtre AAS pe baza datelor
+furnizate de cãtre CSS, PrOpSec și de alte documentații
+relevante. Subsistemele SPAD și/sau RTD și stațiile de
+lucru cu acces la distanțã sau terminalele vor fi acreditate
+ca parte integrantã a sistemelor SIC la care sunt conectate. În cazul în care un sistem SPAD și/sau RTD (SIC)
+deservește atât NATO, cât și organizațiile, structurile
+interne ale țãrii, acreditarea se va face de cãtre ANS de
+comun acord cu autoritãțile NATO de securitate.
+260. Modul de operare de securitate multinivel impune
+în unele situații ca, înainte de acreditarea propriu-zisã a
+SPAD și/sau RTD (SIC), hardware, firmware și software sã
+fie evaluate și certificate de cãtre AAS, conform criteriilor
+
+b) pentru SPAD și/sau RTD (SIC) care stocheazã, proceseazã sau transmit informații clasificate NATO SECRET,
+în urmãtoarele cazuri:
+(i) SPAD și/sau RTD (SIC) este interconectat cu un
+alt SPAD și/sau RTD (SIC);
+(ii) SPAD și/sau RTD (SIC) are un numãr de utilizatori posibili care nu poate fi definit exact.
+
+264. Echipele pot fi formate din experți din cadrul AAS,
+din reprezentanți desemnați ai acestei autoritãți sau din
+experți din cadrul unor organisme specializate ale NATO.
+265. În procesul de evaluare și certificare se va stabili
+în ce mãsurã un anumit SPAD și/sau RTD (SIC) îndeplinește condițiile de securitate specificate prin CSS. Este
+posibil ca dupã încheierea procesului de evaluare și certificare anumite secțiuni (paragrafe/capitole) din CSS sã fie
+modificate sau actualizate. Procesul de evaluare și certificare trebuie sã înceapã din stadiul de definire a SPAD
+și/sau RTD (SIC) și continuã de-a lungul întregului ciclu de
+implementare.
+266. Gradul de evaluare și certificare poate fi redus în
+cazurile în care SPAD și/sau RDT (SIC) respective au la
+bazã produse de securitate evaluate și certificate deja pe
+plan național.
+267. Pentru toate SIC care stocheazã, proceseazã sau
+transmit informații clasificate NATO CONFIDENTIAL sau mai
+sus AOSIC stabilește proceduri de control care vor garanta
+cã toate schimbãrile ulterioare intervenite în SIC sunt verificate în ceea ce privește implicațiile lor de securitate.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+22
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+268. Tipurile de modificãri care implicã reacreditarea
+sau care solicitã aprobarea anterioarã a AAS
+
+275. Marcarea informațiilor cu destinație specialã se
+
+trebuie sã
+
+aplicã în mod obișnuit informațiilor clasificate care necesitã
+
+fie identificate cu claritate și expuse în CSS. Dupã orice
+
+o distribuție limitatã și o manipulare specialã, în plus fațã
+
+modificare, reparare sau eroare care ar fi putut afecta dis-
+
+de caracterul atribuit, prin clasificarea de securitate (de
+
+pozitivele de securitate ale SIC, AOSIC trebuie sã garan-
+
+exemplu: ATOMAL, US-SIOP-ESI, Crypto, EXCLUSIVE
+
+teze realizarea unei verificãri care sã asigure funcționarea
+
+FOR etc.).
+
+corectã a dispozitivelor de securitate. Menținerea acreditãrii
+
+276. Definițiile furnizate la punctele urmãtoare reprezintã
+
+SIC trebuie sã depindã de satisfacerea criteriilor de
+
+concepte importante în terminologia specificã NATO și pot
+
+verificare.
+
+în unele cazuri sã difere de definițiile vehiculate pe plan
+
+269. Toate SIC care stocheazã, proceseazã sau transmit informații clasificate NATO CONFIDENTIAL sau mai
+sus sunt inspectate și reexaminate periodic de cãtre AAS.
+Pentru SIC care stocheazã, proceseazã sau transmit
+informații clasificate NATO COSMIC TOP SECRET sau din
+categoria specialã inspecția se va face cel puțin o datã
+pe an.
+270. Microcalculatoarele sau calculatoarele personale
+având discuri fixe sau alte medii nevolatile de stocare a
+informației, operând autonom sau ca parte a unei rețele,
+precum și calculatoarele portabile cu discuri fixe sunt considerate medii de stocare a informațiilor în același sens ca
+și celelalte medii amovibile de stocare a informațiilor.
+271. Acestor echipamente trebuie sã li se acorde nivelul
+de protecție pentru acces, manipulare, stocare și transport,
+corespunzãtor cu cel mai înalt nivel de clasificare a
+informațiilor care au fost vreodatã stocate sau procesate pe
+ele, pânã la declasarea sau declasificarea acestora în conformitate cu procedurile aprobate.
+272. Este interzisã utilizarea mediilor de stocare amovibile, a software și hardware, aflate în proprietate privatã,
+pentru stocarea, procesarea și transmiterea informațiilor clasificate NATO CONFIDENTIAL și mai sus. Pentru
+informațiile NATO RESTRICTED sau NATO UNCLASSIFIED
+se aplicã reglementãrile naționale corespunzãtoare.
+273. Este interzisã introducerea mediilor de stocare
+amovibile, a software și hardware, aflate în proprietate
+privatã, în zonele în care se stocheazã, se proceseazã sau
+se transmit informații clasificate NATO, fãrã aprobarea
+șefului unitãții.
+274. Utilizarea echipamentelor și a software contractori-
+
+intern.
+277. Informație în formã electronicã reprezintã texte, date,
+imagini, sunete înregistrate pe suporturi magnetice, optice,
+electrice sau transmise, sub formã de curenți, tensiuni sau
+câmp electromagnetic, în eter sau în rețele de comunicații.
+278. Regula de lucru cu douã persoane (”Two men rule,,)
+presupune obligativitatea colaborãrii a douã persoane pentru îndeplinirea unei activitãți specifice.
+279. Securitatea SPAD și/sau RTD (SIC) reprezintã aplicarea mãsurilor de securitate la SPAD și/sau RTD (SIC)
+cu scopul de a preveni sau împiedica atât extragerea
+și/sau modificarea informațiilor clasificate NATO stocate,
+procesate, transmise prin intermediul SPAD și/sau RTD
+(SIC) Ñ prin interceptare, alterare, distrugere, accesare
+neautorizatã cu mijloace electroniceÑ, cât și invalidarea de
+servicii/funcții, prin mijloace specifice.
+280. Asigurarea securitãții SPAD și/sau RTD (SIC) presupune aplicarea unui cumul de mãsuri mixte: mãsuri de
+securitate specifice SPAD și/sau RTD (respectiv, la nivel
+de calculator), mãsuri de securitate din domeniul comunicațiilor, mãsuri de ordin procedural, fizice, la nivel de personal și de securitate a documentelor.
+281. Securitatea calculatoarelor (COMPUSEC) constã în
+aplicarea la nivel de calculator a facilitãților de securitate
+hardware, software și firmware, pentru a preveni divulgarea, manevrarea, modificarea/ștergerea neautorizatã a
+informațiilor sau invalidarea neautorizatã a unor funcții.
+282. Produs informatic de securitate reprezintã o componentã de securitate care se încorporeazã într-un SPAD
+și/sau RTD (SIC) și care servește la asigurarea, menține-
+
+lor în unitãți, în sprijinul activitãții oficiale NATO, este per-
+
+rea
+
+și
+
+sporirea
+
+confidențialitãții,
+
+misã cu aprobarea șefului unitãții. Utilizarea echipamentelor
+
+integritãții
+
+sau
+
+disponibilitãții/valabilitãții informațiilor.
+
+și software puse la dispoziție de alte instituții naționale
+
+283. Securitatea comunicațiilor (COMSEC) reprezintã apli-
+
+poate fi permisã; în acest caz echipamentele sunt
+
+carea mãsurilor de securitate în telecomunicații; scopul
+
+evidențiate în inventarul unitãții. În ambele situații, dacã
+
+mãsurilor este de a proteja mesajele dintr-un sistem de
+
+echipamentele sunt folosite pentru stocarea, procesarea și
+
+telecomunicații, care pot fi interceptate, studiate, analizate
+
+transmiterea informațiilor clasificate NATO, trebuie obținut
+
+și care, prin reconstituire, pot conduce la dezvãluiri de
+
+avizul de securitate al AAS locale.
+
+informații clasificate.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+COMSEC reprezintã un set complex de proceduri,
+incluzând:
+a) mãsuri de securitate a transmisiilor;
+b) mãsuri de securitate împotriva emisiilor (radiațiilor);
+c) mãsuri de acoperire criptologicã;
+d) mãsuri de securitate fizicã, proceduralã, de personal
+și a documentelor;
+e) mãsuri COMPUSEC.
+284. TEMPEST reprezintã mãsuri de testare și de realizare a securitãții împotriva scurgerii de informații prin intermediul emisiilor electromagnetice parazite.
+285. Evaluarea constã în examinarea detaliatã, din
+punct de vedere tehnic și funcțional, a aspectelor de
+securitate ale SPAD și/sau RTD (SIC) sau a produselor de
+securitate, de cãtre o autoritate abilitatã în acest sens.
+1. Prin procesul de evaluare se verificã prezența facilitãților (funcțiilor) de securitate cerute, absența efectelor
+secundare compromițãtoare care ar putea decurge din
+implementarea facilitãților de securitate și se estimeazã
+funcționalitatea globalã a sistemului de securitate.
+2. Prin evaluare se constatã în ce mãsurã cerințele de
+securitate specifice pentru un SPAD și/sau RTD (SIC) sunt
+satisfãcute. De asemenea, se evalueazã performanțele de
+securitate ale produsului de securitate destinat calculatorului
+și se stabilește nivelul de încredere al SPAD și/sau RTD
+(SIC) sau al produsului de securitate implementat.
+286. Certificarea constã în emiterea, în urma etapei de
+evaluare, a unui document de constatare, la care se
+atașeazã unul de analizã, în care sunt prezentate modul în
+care a decurs evaluarea și rezultatele acesteia; în documentul de constatare se menționeazã mãsura în care
+SPAD și/sau RTD (SIC) verificate satisfac cerințele de
+securitate și mãsura în care produsul de securitate destinat
+protecției acestora rãspunde exigențelor în materie de
+securitate.
+287. Acreditarea este etapa de acordare a autorizãrii și
+aprobãrii unui SPAD și/sau RTD (SIC) de a prelucra
+informații clasificate NATO, în spațiul/mediul operațional
+propriu. Etapa de acreditare trebuie sã se desfãșoare dupã
+ce s-au implementat toate procedurile de securitate și dupã
+ce s-a atins un nivel suficient de protecție a resurselor de
+sistem. Acreditarea se face în principal pe baza CSS și
+include urmãtoarele:
+a) o lucrare justificativã despre obiectivul acreditãrii sistemului; alte detalii cuprinse în lucrare: nivelul/nivelurile de
+clasificare a informațiilor care urmeazã sã fie procesate și
+vehiculate, modul/modurile de operare protejatã propuse;
+b) o lucrare despre managementul riscurilor (modul de
+tratare/gestionare/rezolvare a riscurilor), în care se specificã
+
+23
+
+pericolele și punctele vulnerabile, precum și mãsurile adecvate de contracarare a acestora;
+c) o descriere detaliatã a procedurilor propuse, a facilitãților de securitate destinate SPAD și/sau RTD (SIC).
+Aceastã descriere va reprezenta elementul esențial pentru
+finalizarea procesului de acreditare;
+d) planul de implementare și de întreținere a facilitãților
+de securitate;
+e) planul de desfãșurare a etapelor de testare, evaluare
+și certificare a securitãții SPAD și/sau RTD (SIC);
+f) certificatul și, acolo unde este necesar, elemente de
+acreditare suplimentare.
+288. Prin SPAD (sistem de prelucrare automatã a datelor)
+se înțelege un ansamblu de elemente interdependente, în
+care se includ: echipamentele de calcul, produsele software
+de bazã și aplicative, metodele, procedeele și, dacã este
+cazul, personalul, organizate astfel încât sã asigure îndeplinirea funcțiilor de stocare și prelucrare automatã a
+informațiilor în formã electronicã. Astfel de sisteme pot fi
+utilizate în aplicații specifice din domeniile: industrial, economic, militar, cercetare, proiectare, administrativ-organizatoric etc.
+1. Pentru stabilirea limitelor pânã la care se întinde un
+SPAD, acesta se definește ca fiind un ansamblu de elemente care se aflã sub coordonarea și controlul unei singure autoritãți AOSIC.
+2. Un SPAD poate sã cuprindã subsisteme, iar unele
+dintre acestea pot fi ele însele SPAD.
+289. Facilitãțile de securitate specifice unui SPAD se
+referã la:
+Ñ funcții și caracteristici hardware/firmware/software;
+Ñ proceduri/moduri de operare;
+Ñ proceduri și mijloace de evidențã;
+Ñ controlul accesului;
+Ñ definirea zonei de operare a SPAD;
+Ñ definirea zonei de operare a posturilor de lucru/a terminalelor la distanțã;
+Ñ restricții impuse de politica de management;
+Ñ mijloace și structuri fizice, personal;
+Ñ mijloace de control ale comunicațiilor.
+Toate acestea sunt necesare asigurãrii unui nivel acceptabil de protecție pentru informațiile clasificate care
+urmeazã sã fie stocate sau procesate într-un SPAD.
+290. RTD este un ansamblu de elemente interdependente, în care se includ: dispozitive și echipamente de
+comunicație, tehnicã de calcul hardware și software,
+metode și proceduri pentru transmisie-recepție date, precum
+și pentru controlul rețelei. Dacã este cazul, este inclus și
+personalul aferent. Toate acestea sunt organizate astfel
+încât sã asigure îndeplinirea funcțiilor de teletransmisie a
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+24
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+informațiilor în formã electronicã între douã sau mai multe
+SPAD (SIC) sau sã permitã interconectarea cu alte RTD.
+RTD poate utiliza serviciile unui singur sistem de comunicații sau ale mai multor sisteme de comunicații; mai
+multe RTD pot utiliza serviciile unuia și aceluiași sistem de
+comunicații.
+291. Facilitãțile de securitate specifice unei RTD sunt specifice și cuprind: rețeaua, împreunã cu toate componentele
+și facilitãțile auxiliare unei rețele (facilitãți de comunicații ale
+rețelei, mecanisme și proceduri de identificare și etichetare,
+controlul accesului, programe și proceduri de control și
+revizie), necesare pentru a asigura un nivel acceptabil de
+protejare pentru informațiile clasificate.
+292. Structural un sistem informatic și de comunicații (SIC)
+reprezintã o conexiune alcãtuitã din cel puțin un SPAD
+și/sau o RTD. Prin intermediul SIC se stocheazã, se proceseazã și/sau se transmit informații sub formã electronicã.
+293. Zona SPAD reprezintã o zonã de lucru în care se
+gãsesc și opereazã unul sau mai multe calculatoare, unitãți
+periferice locale și de stocare, mijloace de control și echipament specific de rețea și specific comunicațiilor. Zona
+SPAD nu include acea zonã separatã în care sunt amplasate terminale, echipamente periferice sau stații de lucru la
+distanțã, chiar dacã aceste echipamente sunt conectate la
+echipamentul central de calcul din zona SPAD.
+294. Zona terminal/stație de lucru reprezintã o zonã,
+separatã de zona SPAD, în care se gãsesc:
+Ñ echipamentele periferice locale sau terminalele asociate echipamentului de calcul central;
+Ñ stațiile de lucru la distanțã;
+Ñ echipamente de comunicații RTD.
+J. STRUCTURA/FUNCÞIONARUL DE SECURITATE
+
+295. Pentru implementarea mãsurilor de securitate și
+organizarea activitãții specifice protecției informațiilor clasificate NATO, la nivelul fiecãrui minister sau autoritãți administrative autonome și în structurile subordonate, care prin
+natura activitãții lor vehiculeazã informații clasificate NATO,
+se va desemna o structurã/funcționar de securitate.
+Personalul care încadreazã structura de securitate este
+desemnat în funcție de volumul activitãții specifice.
+296. Desemnarea structurii/funcționarului de securitate
+este obligatorie în toate instituțiile, societãțile, firmele, întreprinderile de stat sau private, care, prin natura activitãții lor
+sau prin contractele, acordurile, înțelegerile ce le încheie,
+vehiculeazã informații clasificate NATO.
+297. Structura/funcționarul de securitate reprezintã punctul de contact dintre instituție și ANS.
+298. Structura/funcționarul de securitate este
+numitã/numit de cãtre șeful instituției și se subordoneazã
+
+direct acestuia. Aceasta/acesta rãspunde de aplicarea procedurilor și normelor de securitate pentru protecția
+informațiilor clasificate NATO în cadrul instituției respective,
+precum și în cele subordonate, pentru toate domeniile de
+securitate reglementate de ANS: organizarea securitãții,
+securitatea fizicã, securitatea personalului, securitatea documentelor, securitatea industrialã și INFOSEC.
+299. Responsabilitatea pentru implementarea reglementãrilor privind protecția informațiilor clasificate NATO
+revine șefului instituției respective, iar structura/funcționarul
+de securitate este principalul colaborator al acestuia și
+componentã executivã.
+300. Conform reglementãrilor privind accesul la informații
+clasificate NATO personalul care încadreazã structura/
+funcționarul de securitate trebuie sã deținã, anterior desemnãrii, certificat de securitate de tip A, corespunzãtor
+celui mai înalt nivel de clasificare a informațiilor clasificate
+NATO gestionate.
+301. Responsabilitãțile structurii/funcționarului de securitate sunt:
+Responsabilitãți generale:
+a) coordoneazã activitatea CSNR din instituția respectivã
+și din cele subordonate;
+b) elaboreazã norme interne de aplicare a
+reglementãrilor privind protecția informațiilor clasificate
+NATO;
+c) monitorizeazã implementarea normelor interne de
+securitate a informațiilor clasificate NATO, precum și modul
+de respectare a acestora în cadrul instituției;
+d) elaboreazã planul de securitate pentru protecția
+informațiilor clasificate NATO la nivelul instituției;
+e) îl consiliazã pe șeful instituției pentru toate aspectele
+privind securitatea informațiilor clasificate NATO;
+f) îl informeazã pe șeful instituției cu privire la vulnerabilitãțile, riscurile și încãlcãrile reglementãrilor de securitate
+și ANS și propune mãsurile ce se impun pentru soluționarea acestora.
+Responsabilitãți privind securitatea personalului:
+a) asigurã implementarea normelor interne privind securitatea personalului;
+b) inițiazã procesul de solicitare a eliberãrii certificatelor
+de securitate, din dispoziția șefului instituției;
+c) are obligația sã punã la dispoziție persoanei pentru
+care se solicitã eliberarea certificatului de securitate formularul-tip corespunzãtor nivelului de acces solicitat;
+d) acordã asistențã în vederea completãrii formularelor
+de verificare, cu respectarea termenului de transmitere a
+solicitãrii;
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+e) acordã sprijinul necesar instituțiilor cu atribuții în efectuarea verificãrilor asupra personalului ce urmeazã sã aibã
+acces la informații clasificate NATO;
+f) ține evidența actualizatã a tuturor persoanelor din
+cadrul instituției, care au acces la informații clasificate
+NATO, o copie de pe certificatele de securitate tip A și ia
+mãsurile necesare pentru revalidarea sau retragerea certificatelor de securitate;
+g) reanalizeazã periodic și actualizeazã normele interne
+de implementare a reglementãrilor privind protecția
+informațiilor clasificate NATO.
+Responsabilitãți privind securitatea documentelor:
+a) coordoneazã și urmãrește punerea în aplicare a normelor interne privind securitatea documentelor clasificate
+NATO în cadrul instituției sale;
+b) inspecteazã activitatea CSNR din instituție privind
+modalitãțile de gestionare a informațiilor documentelor clasificate NATO;
+c) pregãtește și transmite cãtre ANS solicitarea și documentația necesarã înființãrii în cadrul instituției sale a unei
+CSNR.
+Responsabilitãți privind securitatea fizicã:
+a) stabilește mãsurile de securitate fizicã pentru controlul accesului în zonele de securitate, pentru a preveni
+accesul persoanelor neautorizate;
+b) verificã condițiile de securitate ale spațiilor, birourilor,
+încãperilor, containerelor, în care sunt manipulate sau
+pãstrate informații clasificate NATO;
+c) adoptã mãsurile necesare pentru a asigura un nivel
+de protecție fizicã corespunzãtor în toate încãperile în care
+se desfãșoarã activitãți în cadrul cãrora sunt vehiculate
+informații clasificate NATO;
+d) pregãtește și executã programele de inspecție a
+mãsurilor de securitate fizicã în cadrul CSNR, din competențã, și îl informeazã pe șeful instituției cu privire la vulnerabilitãțile constatate;
+e) realizeazã verificãri inopinate ale sistemelor de protecție fizicã;
+f) stabilește planul de cooperare cu alte formațiuni cu
+responsabilitãți în asigurarea protecției fizice.
+Responsabilitãțile pe linia INFOSEC sunt prevãzute în
+cap. I ”INFOSEC,,.
+Responsabilitãțile privind pregãtirea personalului sunt
+prevãzute în cap. L ”Pregãtirea personalului,,.
+K. ACTIVITATEA DE CONTROL
+
+302. Controlul reprezintã activitatea de verificare a
+modului în care fiecare CSNR asigurã protecția informațiilor
+clasificate NATO.
+
+25
+
+303. Activitatea de control se desfãșoarã în mod planificat, pe baza Planului unic de control.
+304. Toate structurile și persoanele care gestioneazã
+informații clasificate NATO vor fi incluse în programe de
+control, urmând sã fie notificate cu privire la obiectivele
+controlului.
+305. Fiecare acțiune de control se va încheia printr-un
+raport de control întocmit de echipa care a efectuat
+acțiunea.
+306. Activitatea de control are drept scop identificarea,
+eliminarea și contracararea oricãror riscuri de securitate
+care ar duce la compromiterea, divulgarea, distrugerea sau
+sustragerea informațiilor clasificate NATO.
+307. Activitatea de control vizeazã structura/funcționarul
+de securitate, CSNR și personalul care are acces la
+informații clasificate NATO.
+308. Finalitatea acțiunilor de control se constituie într-un
+ansamblu de mãsuri și recomandãri menit sã asigure
+operaționalizarea și perfecționarea cadrului organizatoric și
+funcțional la toate structurile și nivelurile de activitate, cu
+responsabilitãți în protecția informațiilor clasificate NATO.
+309. ANS organizeazã și coordoneazã acțiunile de control la nivel național.
+310. ANS verificã implementarea recomandãrilor și a
+mãsurilor necesare realizãrii obiectivelor asumate, la nivelul
+CSNR direct subordonate.
+311. Desemnarea experților care formeazã echipa de
+control și inspecție se face de cãtre Consiliul de coordonare al ANS și se aprobã de președintele ANS.
+312. Rolul coordonator al ANS se manifestã prin întocmirea Planului unic de control, precum și prin asumarea
+responsabilitãților la nivel național, fațã de solicitãrile și
+activitãțile de control ale Oficiului de Securitate NATO în
+România.
+313. ANS va integra propunerile înaintate de structurile
+de securitate din subordine și de cele ale Oficiului de
+Securitate NATO, în vederea stabilirii, planificãrii și
+desfãșurãrii tematicilor de control. Ca urmare a controalelor
+și ori de câte ori se constatã fapte și elemente de disfuncționalitate care ar putea sã reprezinte riscuri de securitate pentru protecția informațiilor clasificate NATO, ANS are
+obligația de a informa operativ Oficiul de Securitate NATO,
+concomitent cu întreprinderea, împreunã cu structurile de
+securitate responsabile, a mãsurilor necesare de contracarare/diminuare și evaluare a incidentelor de securitate constatate.
+314. ANS va efectua controale, în conformitate cu
+Planul unic de control, la CSNR direct subordonate și va
+superviza activitãțile desfãșurate pe aceastã linie de toate
+CSNR din Sistemul Național de Registre.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+26
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+315. Anual sau ori de câte ori este nevoie ANS va
+întocmi o evaluare cu privire la rezultatele controalelor
+desfãșurate, modul de implementare a mãsurilor concrete
+de remediere a deficiențelor care au fost constatate și la
+modalitãțile practice de eficientizare a activitãții de protecție
+a informațiilor clasificate NATO.
+
+326. Acțiunile de control sunt planificate și anunțate,
+planificate și neanunțate, neplanificate, precum și datorate
+unor situații de urgențã. Acestea pot lua forma unor:
+
+316. Pe baza Planului unic de control fiecare CSNR își
+va întocmi propriul Plan specific de control, care trebuie sã
+se adreseze, în mod diferențiat, CSNR din subordine.
+Elaborarea tematicii, planificarea și raportarea acțiunilor de
+control prevãzute în Planul specific de control se înscriu în
+Planul unic de control, fiind adaptate la condițiile specifice
+fiecãrei CSNR.
+
+2. controale tematice, care se realizeazã în baza unor
+tematici specifice și vizeazã unul sau mai multe domenii
+ale activitãții de securitate protectivã și/sau programe de
+pregãtire și educație de securitate;
+
+317. ANS va fi informatã cu privire la rezultatele, propunerile și mãsurile de eficientizare a activitãții de protecție
+a informațiilor clasificate NATO, stabilite la finalizarea
+acțiunilor de control.
+318. În situația în care se evidențiazã riscuri de securitate referitoare la compromiterea, divulgarea, distrugerea
+sau sustragerea unor informații clasificate NATO, se va
+efectua o investigație de securitate ale cãrei rezultate vor fi
+comunicate ANS. Membrii comisiei de investigare vor fi
+desemnați de șeful structurii instituționale.
+319. CSNR au obligația sã ținã evidența acțiunilor de
+control desfãșurate, a domeniilor care au fãcut obiectul
+controalelor, cât și a personalului care a fost verificat.
+320. Planul unic de control se întocmește anual de
+cãtre ANS, în conformitate cu atribuțiile în domeniu ale
+acesteia și în concordanțã cu propunerile Oficiului de
+Securitate NATO.
+321. Domeniile, tematica, etapele și formele de control
+sunt parte integrantã a acestui Plan unic de control și stau
+la baza întocmirii, la nivelul structurilor de securitate subordonate, a planurilor specifice de control.
+322. Planul unic de control va fi aprobat de cãtre
+președintele ANS în cadrul Consiliului de coordonare al
+ANS, iar responsabilitatea punerii în aplicare a mãsurilor și
+activitãților stabilite revine Secretariatului tehnic.
+323. Pe baza Planului unic de control structura/
+funcționarul de securitate își va întocmi propriul plan specific de control, care se adreseazã, în mod diferențiat,
+CSNR din subordine.
+324. Planul specific de control va fi aprobat de cãtre
+șeful structurii instituționale din care face parte respectiva
+CSNR.
+325. La finalizarea acțiunilor cuprinse în Planul specific
+de control structura/funcționarul de securitate va prezenta
+ANS în termen de douã sãptãmâni rapoartele cu privire la
+controlul efectuat.
+
+1. controale de fond, care au drept obiectiv verificarea
+în plan organizatoric, structural și funcțional a activitãților
+de protecție a informațiilor clasificate NATO;
+
+3. controale în situații de urgențã, care se adreseazã
+strict verificãrii și soluționãrii unor evenimente/solicitãri
+exprese transmise ANS sau structurii de securitate ca
+urmare a identificãrii unui risc de securitate.
+L. PREGÃTIREA PERSONALULUI
+
+327. Pregãtirea personalului constituie o formã a
+educației de securitate, obligatorie pentru toate persoanele
+care gestioneazã sau vor gestiona informații clasificate
+NATO, și reprezintã activitatea specificã de informare și
+instruire pe linia protecției informațiilor clasificate NATO.
+Persoanele angajate în locuri de muncã unde sunt gestionate informații clasificate NATO și pentru care s-au eliberat
+certificate de securitate vor fi instruite înaintea începerii
+activitãții.
+328. Activitatea de pregãtire se efectueazã planificat și
+are caracter permanent, în scopul prevenirii, contracarãrii și
+eliminãrii riscurilor de securitate, precum și a amenințãrilor
+la adresa securitãții informațiilor clasificate NATO.
+329. Pregãtirea personalului se va realiza diferențiat, în
+funcție de atribuțiile personalului și de nivelul certificatului
+de securitate deținut.
+330. Fiecare formã de pregãtire se va înscrie în fișa
+individualã de pregãtire a persoanei.
+331. Pregãtirea personalului urmãrește înțelegerea și
+însușirea corectã a standardelor de securitate, precum și a
+modului de implementare eficientã a mãsurilor de protecție
+a informațiilor clasificate NATO, în vederea eliminãrii disfuncțiilor.
+332. În cadrul Planului unic de pregãtire a personalului
+ANS stabilește tematici de pregãtire pe domenii, forme și
+metode de desfãșurare a activitãților, diferențiate în funcție
+de atribuțiile personalului și de nivelul certificatului de
+securitate deținut, în strânsã colaborare cu structurile de
+securitate din cadrul instituțiilor care gestioneazã informații
+clasificate NATO.
+333. Pentru stabilirea Planului unic de pregãtire a personalului ANS conlucreazã în permanențã cu Oficiul de
+Securitate NATO.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+27
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+334. ANS este responsabilã de realizarea informãrii
+publice și a educației de securitate, care se efectueazã
+diferențiat, pe grupuri-țintã, și are drept scop conștientizarea și informarea la nivelul întregii societãți a necesitãții
+protecției informațiilor clasificate NATO.
+335. Structura/funcționarul de securitate are rolul
+coordonator în întocmirea, implementarea și controlul
+modului de aplicare a propriilor programe de pregãtire a
+personalului.
+336. Structura/funcționarul de securitate va întocmi
+
+implementare a prezentelor norme, formele și metodele de
+armonizare a acestora cu cerințele NATO în domeniu.
+343. Pregãtirea specificã se realizeazã în baza principiului nevoii de a ști (need to know), a domeniului de activitate specific, în funcție de nivelul certificatului de
+securitate deținut și de atribuțiile personalului.
+344. Pregãtirea individualã se realizeazã în mod obligatoriu de întregul personal care gestioneazã informațiile clasificate NATO, conform atribuțiilor specifice.
+
+Planul specific de pregãtire a personalului, înscris în Planul
+
+345. Tematica generalã și cea specificã pot fi prezen-
+
+unic de pregãtire a personalului, în baza cãruia va orga-
+
+tate sub formã de lecții, informãri, prelegeri, simpozioane,
+
+niza și va desfãșura activitãți specifice de pregãtire la nive-
+
+mese rotunde, grupuri de lucru, seminarii, ședințe demon-
+
+lul structurii instituționale și al structurilor din subordinea
+
+strative cu caracter aplicativ, discuții libere, care se pot
+
+acesteia.
+
+finaliza
+
+337. Periodic structura/funcționarul de securitate va
+
+prin
+
+verificãri
+
+sau
+
+certificãri
+
+ale
+
+nivelului
+
+cunoștințelor.
+
+informa ANS asupra formelor de pregãtire desfãșurate și
+
+346. Activitãțile de pregãtire se desfãșoarã, pe baza
+
+va comunica lista persoanelor care au participat la acestea.
+
+Planului unic de pregãtire a personalului, de cãtre structu-
+
+338. Structura/funcționarul de securitate are obligația sã
+
+rile de securitate, precum și de alte autoritãți, instituții,
+
+ținã o evidențã a tuturor persoanelor din cadrul structurii
+
+organizații guvernamentale sau neguvernamentale și orga-
+
+instituționale, care au participat la forme de pregãtire orga-
+
+nisme, care sunt autorizate de ANS sã desfãșoare astfel
+
+nizate de NATO, de structuri de securitate ale Alianței
+
+de activitãți, în baza unor protocoale încheiate cu acestea.
+
+Nord-Atlantice sau la forme de pregãtire organizate la nivel
+național.
+339. Planul unic pe pregãtire a personalului este întocmit și aprobat de ANS pe baza propunerilor înaintate de
+structurile de securitate din cadrul instituțiilor care gestioneazã informații clasificate NATO, a proiectelor bilaterale
+de cooperare internã și internaționalã și a propunerilor for-
+
+347. Pe plan extern, în baza acordurilor existente între
+ANS și instituții internaționale similare, precum și alte autoritãți, organizații guvernamentale sau neguvernamentale,
+organisme, structuri, care au ca domeniu de activitate protecția informațiilor clasificate NATO, se vor derula programe
+comune de pregãtire.
+
+mulate de Oficiul de Securitate NATO. El se întocmește
+
+348. Desemnarea persoanelor care vor participa la ast-
+
+pentru o perioadã de un an și se transmite tuturor structu-
+
+fel de forme de pregãtire se va realiza de cãtre fiecare
+
+rilor instituționale.
+
+instituție, iar solicitarea va fi fãcutã prin intermediul structu-
+
+340. Planul specific de pregãtire a personalului este
+
+rii de securitate. Pentru formele de pregãtire organizate de
+
+elaborat la începutul fiecãrui an de cãtre fiecare structurã
+
+cãtre ANS solicitarea va fi transmisã acesteia tot prin inter-
+
+instituționalã, adaptat la condițiile proprii, pornind de la pre-
+
+mediul structurii instituționale.
+
+vederile Planului unic de pregãtire a personalului. Planul
+specific de pregãtire a personalului va fi aprobat de cãtre
+șeful structurii instituționale.
+341. Trimestrial structurile instituționale vor informa ANS
+asupra modului de îndeplinire a Planului specific de
+pregãtire a personalului și vor prezenta propuneri de
+acțiuni posibil sã fie incluse în Planul unic de pregãtire a
+personalului.
+
+349. Formele de pregãtire vor fi organizate și susținute
+de cãtre experții din cadrul Secretariatului tehnic al ANS,
+conform tematicilor cuprinse în Planul unic de pregãtire a
+personalului.
+350. ANS organizeazã, anual și ori de câte ori este
+nevoie, instruirea funcționarilor de securitate și a responsabililor CSNR.
+
+342. Pregãtirea generalã cuprinde obiectivele, sarcinile
+
+351. Formele de pregãtire vor fi organizate și susținute
+
+și responsabilitãțile care revin fiecãrei structuri, în vederea
+
+de cãtre structura/funcționarul de securitate, conform tema-
+
+aplicãrii mãsurilor de protecție a informațiilor clasificate
+
+ticilor cuprinse în propriul plan specific de pregãtire a
+
+NATO. La acest nivel sunt prezentate principiile generale
+
+personalului. La solicitarea structurilor/funcționarilor de secu-
+
+de protecție a informațiilor clasificate NATO, modalitãțile de
+
+ritate, experții ANS vor acorda consultațã de specialitate.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+28
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+A N E X E*)
+la protecția informațiilor clasificate NATO în România
+
+*) Anexele sunt reproduse în facsimil.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+29
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+30
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+31
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+32
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+33
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+34
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+35
+
+ANEXA I
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+36
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+ANEXA II
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+37
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+38
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+39
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+40
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+41
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+42
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+43
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+44
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+45
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+46
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+47
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+48
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+49
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+50
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+51
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+52
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+53
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+54
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+55
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+56
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+57
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+58
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+59
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+60
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+61
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+62
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 315/13.V.2002
+
+63
+
+GUVERNUL ROMÂNIEI
+
+HOTÃRÂRE
+privind înființarea, organizarea și funcționarea Agenției de Acreditare de Securitate,
+Agenției de Securitate pentru Informaticã și Comunicații și Agenției
+pentru Distribuirea Materialului Criptografic
+În temeiul prevederilor art. 107 din Constituția României,
+Guvernul României adoptã prezenta hotãrâre.
+Art. 1. Ñ (1) Se înființeazã Agenția de Acreditare de
+Securitate, denumitã în continuare AAS, Agenția de
+Securitate pentru Informaticã și
+Comunicații, denumitã în
+continuare ASIC, și Agenția pentru Distribuirea Materialului
+Criptografic, denumitã în continuare ADMC, ca structuri distincte în cadrul Autoritãții Naționale de Securitate, denumitã
+în continuare ANS.
+(2) Structurile înființate potrivit alin. (1) au competențe
+specifice pe linia stocãrii/procesãrii informațiilor clasificate
+NATO în cadrul sistemelor de prelucrare automatã a datelor,
+respectiv transmise prin rețele de comunicații ale datelor.
+Art. 2. Ñ (1) AAS, ASIC și ADMC sunt direct subordonate directorului executiv al ANS.
+(2) Schimbul de informații clasificate NATO cu celelalte
+structuri ale ANS și armonizarea reglementãrilor se fac prin
+intermediul Secretariatului tehnic al ANS.
+Art. 3. Ñ (1) AAS, ASIC și ADMC exercitã atribuții de
+reglementare, autorizare și control potrivit legii și standardelor NATO privind protecția informațiilor clasificate NATO
+în format electronic.
+(2) AAS, ASIC și ADMC își desfãșoarã activitatea pe
+baza regulamentelor proprii de organizare și funcționare,
+care se aprobã de cãtre președintele ANS, cu avizul
+Consiliului de coordonare al ANS.
+Art. 4. Ñ AAS are urmãtoarele atribuții principale:
+a) elaboreazã strategia de acreditare de securitate din
+cadrul politicii generale de securitate a ANS;
+b) rãspunde de evaluarea și certificarea sistemelor informatice și de comunicații sau a unor elemente componente
+ale acestora;
+c) acordã acreditarea de securitate pentru sistemele
+informatice și de comunicații care stocheazã, proceseazã
+sau transmit informații clasificate NATO.
+Art. 5. Ñ ASIC are urmãtoarele atribuții principale:
+a) elaboreazã metodologii și proceduri specifice privind
+protecția informațiilor clasificate NATO care sunt stocate,
+procesate sau transmise prin intermediul sistemelor informatice și de comunicații, coordoneazã și controleazã implementarea acestora;
+b) analizeazã cauzele provocatoare de incidente de
+securitate și vulnerabilitãțile din sistemele informatice și de
+
+comunicații, necesare pentru managementul riscurilor,
+asupra securitãții sistemelor respective, întreprinde mãsuri
+operative de prevenire sau înlãturare a vulnerabilitãților în
+domeniu.
+Art. 6. Ñ ADMC are urmãtoarele atribuții principale:
+a) asigurã managementul materialelor și echipamentelor
+criptografice;
+b) distribuie materiale și echipamente criptografice.
+Art. 7. Ñ (1) AAS, ASIC și ADMC sunt conduse de
+câte un director, care are în subordine un director adjunct
+pentru problematica de apãrare, numiți de cãtre președintele ANS la propunerea directorului executiv al ANS și cu
+avizul Consiliului de coordonare al acesteia.
+(2) Directorii AAS, ASIC și ADMC reprezintã ANS în
+domeniul lor de competențã.
+(3) În cadrul AAS, ASIC și ADMC își vor desfãșura activitatea experți din Ministerul Afacerilor Externe, Ministerul
+Apãrãrii Naționale, Serviciul Român de Informații, Serviciul
+de Informații Externe, Ministerul de Interne, Serviciul de
+Telecomunicații Speciale, Serviciul de Protecție și Pazã și
+Ministerul Comunicațiilor și Tehnologiei Informației.
+Art. 8. Ñ Directorii, directorii adjuncți și experții care își
+desfãșoarã activitatea în cadrul AAS, ASIC și ADMC sunt
+salarizați de cãtre instituțiile de la care provin.
+Art. 9. Ñ (1) AAS, ASIC și ADMC își desfãșoarã activitatea în spațiile asigurate de cãtre ANS.
+(2) ANS asigurã echipamentul de biroticã adecvat, precum și celelalte dotãri necesare desfãșurãrii eficiente a
+activitãții.
+(3) Cheltuielile aferente activitãții desfãșurate de AAS,
+ASIC și ADMC se suportã din bugetul Ministerului
+Afacerilor Externe.
+Art. 10. Ñ (1) Prezenta hotãrâre completeazã în mod
+corespunzãtor prevederile Hotãrârii Guvernului nr. 864/2000
+privind înființarea, organizarea și funcționarea Autoritãții
+Naționale de Securitate, publicatã în Monitorul Oficial al
+României, Partea I, nr. 495 din 10 octombrie 2000.
+(2) În termen de 60 de zile de la data intrãrii în vigoare
+a prezentei hotãrâri AAS, ASIC și ADMC vor elabora regulamentele proprii de organizare și funcționare.
+
+PRIM-MINISTRU
+
+ADRIAN NÃSTASE
+Contrasemneazã:
+p. Ministrul afacerilor externe,
+Mihnea Motoc,
+secretar de stat
+p. Ministrul apãrãrii naționale,
+George Maior
+secretar de stat
+Directorul Serviciului Român de Informații,
+Radu-Alexandru Timofte
+p. Directorul Serviciului de Informații Externe,
+Alexandru Marcel
+București, 15 aprilie 2002.
+Nr. 354.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 5069427282 Trezoreria sector 5, București (alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 411.97.54, tel./fax 410.77.36.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: ramomrk@bx.logicnet.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 315/13.V.2002 conține 64 de pagini.
+
+Prețul de vânzare 37.500 lei
+
+ISSN 1453Ñ4495
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+

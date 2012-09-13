@@ -1,0 +1,2462 @@
+PARTEA I
+
+Anul 178 (XXII) — Nr. 629
+
+Marți, 7 septembrie 2010
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+
+SUMAR
+
+Nr.
+
+Pagina
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+
+701.
+
+— Ordin al ministrului comunicațiilor și societății
+informaționale privind modificarea Tabelului național
+de atribuire a benzilor de frecvențe radio, aprobat
+prin Ordinul ministrului comunicațiilor și societății
+informaționale nr. 789/2009........................................
+
+2–14
+
+— Ordin al ministrului comunicațiilor și societății
+informaționale privind retragerea de pe piață,
+interzicerea comercializării și utilizării echipamentelor
+destinate pentru bruierea semnalului GSM/3G
+(jammere), introduse pe piața din România de către
+Societatea Comercială SPYSHOP — S.R.L. ............
+
+15
+
+1.545. — Ordin al ministrului economiei, comerțului și
+mediului de afaceri pentru recunoașterea Societății
+Comerciale ăEurotraining Solution” — S.R.L. ca
+entitate competentă în vederea organizării cursului
+privind managementul riscurilor tehnologice, securității
+și calității lucrărilor de montaj al dotărilor tehnologice
+industriale ..................................................................
+
+15
+
+886.
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 629/7.IX.2010
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+MINISTERUL COMUNICAȚIILOR ȘI SOCIETĂȚII INFORMAȚIONALE
+
+ORDIN
+privind modificarea Tabelului național de atribuire
+a benzilor de frecvențe radio, aprobat prin Ordinul ministrului
+comunicațiilor și societății informaționale nr. 789/2009
+Având în vedere prevederile art. 6 alin. (6) din Hotărârea Guvernului
+nr. 12/2009 privind organizarea și funcționarea Ministerului Comunicațiilor și
+Societății Informaționale, cu modificările și completările ulterioare,
+în temeiul dispozițiilor art. 8 alin. (1) din Ordonanța de urgență a Guvernului
+nr. 79/2002 privind cadrul general de reglementare a comunicațiilor, aprobată cu
+modificări și completări prin Legea nr. 591/2002, cu modificările și completările
+ulterioare,
+ministrul comunicațiilor și societății informaționale emite prezentul ordin.
+Art. I. — Tabelul național de atribuire a benzilor de frecvențe radio, aprobat
+prin Ordinul ministrului comunicațiilor și societății informaționale nr. 789/2009,
+publicat în Monitorul Oficial al României, Partea I, nr. 834 și 834 bis din
+3 decembrie 2009, se modifică după cum urmează:
+1. Tabelul cu spectrul de frecvențe radio cuprins între 68,0000 MHz și
+70,4500 MHz se modifică conform pct. 1 din anexa care face parte integrantă
+din prezentul ordin.
+2. Tabelul cu spectrul de frecvențe radio cuprins între 169,4000 MHz și
+169,8250 MHz se modifică conform pct. 2 din anexă.
+3. Tabelul cu spectrul de frecvențe radio cuprins între 790,0000 MHz și
+830,0000 MHz și 830,0000 MHz și 862,0000 MHz se modifică conform pct. 3
+din anexă.
+4. Tabelul cu spectrul de frecvențe radio cuprins între 880,0000 MHz și
+890,0000 MHz și 890,0000 MHz și 915,0000 MHz se modifică conform pct. 4
+din anexă.
+5. Tabelul cu spectrul de frecvențe radio cuprins între 925,0000 MHz și
+935,0000 MHz, 935,0000 MHz și 942,0000 MHz și 942,0000 MHz și 960,0000 MHz
+se modifică conform pct. 5 din anexă.
+6. Tabelul cu spectrul de frecvențe radio cuprins între 1710,00 MHz și
+1747,50 MHz și 1747,50 MHz și 1785,00 MHz se modifică conform pct. 6 din
+anexă.
+7. Tabelul cu spectrul de frecvențe radio cuprins între 1805,00 MHz și
+1842,50 MHz și 1842,50 MHz și 1880,00 MHz se modifică conform pct. 7 din
+anexă.
+8. Tabelul cu spectrul de frecvențe radio cuprins între 2500,00 MHz și
+2520,00 MHz, 2520,00 MHz și 2655,00 MHz, 2655,00 MHz și 2670,00 MHz și
+2670,00 MHz și 2690,00 MHz se modifică conform pct. 8 din anexă.
+9. Tabelul cu spectrul de frecvențe radio cuprins între 3400,00 MHz și
+3500,00 MHz, 3500,00 MHz și 3600,00 MHz și 3600,00 MHz și 3800,00 MHz se
+modifică conform pct. 9 din anexă.
+10. În cadrul capitolului intitulat ăNote EU incluse în TNABF”, nota EU9
+va avea următorul cuprins:
+ăEU9
+Din ce în ce mai multe țări membre CEPT au atribuit părți din
+banda de frecvențe 70,0—70,5 MHz pentru serviciul de amator, cu statut
+secundar.”
+Art. II. — Prezentul ordin se publică în Monitorul Oficial al României, Partea I.
+Ministrul comunicațiilor și societății informaționale,
+Gabriel Sandu
+București, 30 iulie 2010.
+Nr. 701.
+
+Fix
+Mobil, cu excepția
+mobil aeronautic
+5.175
+
+Atribuiri Regiunea 1 UIT și
+note subsol aplicabile CEPT
+
+Mobil
+EU2 EU4 EU9
+
+Atribuiri
+comune europene
+(țări membre CEPT)
+
+Sisteme militare EU1
+PMR/PAMR (ML pereche cu 77,80—
+80,25 MHz)
+ECC/DEC/(06)06
+T/R 25—08
+EN 300 086, EN 300 113
+EN 300 219, EN 300 296
+EN 300 341, EN 300 390
+EN 300 471, EN 301 166
+EN 302 561
+
+Utilizări principale și reglementări aplicabile
+în Europa (CEPT)
+
+Atribuiri Regiunea 1 UIT și
+note subsol aplicabile CEPT
+
+169,4000—169,6125 Fix
+Mobil, cu excepția
+mobil aeronautic
+5.229
+
+Banda de frecvențe
+(MHz)
+
+Mobil, cu
+excepția mobil
+aeronautic
+
+Atribuiri
+comune europene
+(țări membre CEPT)
+
+Alarme sociale (în benzile
+169,4750—169,4875 MHz și
+169,5875—169,6000 MHz)
+ECC/DEC/(05)02
+ERC/REC 70-03
+EN 300 220
+
+Dispozitive pentru localizarea și
+urmărirea obiectelor/Dispozitive
+pentru citirea la distanță a
+contoarelor
+ECC/DEC/(05)02
+ERC/REC 70-03
+
+Proteze pentru deficiențe auditive (în
+benzile 169,400—169,475 MHz și
+169,4875—169,5875 MHz; și în
+cadrul benzii 169,4—174,0 MHz cu
+acord de frecvență)
+ECC/DEC/(05)02
+ERC/REC 70-03
+EN 300 422
+
+Utilizări principale și reglementări aplicabile în
+Europa (CEPT)
+
+2. Tabelul național de atribuire a benzilor de frecvențe: 169,4000 MHz — 169,8250 MHz
+
+68,0000—70,4500
+
+Banda de frecvențe
+(MHz)
+
+1. Tabelul național de atribuire a benzilor de frecvențe: 68,0000 MHz — 70,4500 MHz
+
+Mobil,
+cu excepția
+mobil
+aeronautic
+
+Atribuiri
+în România
+
+5.175
+EU2
+
+Mobil
+Amator EU9
+
+Atribuiri
+în România
+
+EN 301 783
+
+ECC/DEC/(06)06
+T/R 25-08
+EN 300 086,
+EN 300 113
+EN 300 219,
+EN 300 296
+EN 300 341,
+EN 300 390
+EN 300 471,
+EN 301 166
+EN 302 561
+
+Reglementări aplicabile
+
+ECC/DEC/(05)02
+ERC/REC 70-03
+EN 300 422
+Decizia
+2005/928/CE,
+modificată prin
+Decizia 2008/673/CE
+
+Reglementări aplicabile
+
+ECC/DEC/(05)02
+ERC/REC 70-03
+Decizia
+2005/928/CE,
+modificată prin
+Decizia 2008/673/CE
+
+Dispozitive pentru citirea
+la distanță a contoarelor
+(neexclusiv în banda
+169,400—169,475 MHz)
+
+Dispozitive pentru
+localizarea și urmărirea
+obiectelor (neexclusiv în
+banda 169,400—
+169,475 MHz)
+
+ECC/DEC/(05)02
+ERC/REC 70-03
+Decizia
+2005/928/CE,
+modificată prin
+Decizia 2008/673/CE
+
+Proteze pentru
+deficiențe auditive
+(neexclusiv în banda
+169,400—169,475 MHz,
+exclusiv în banda
+169,4875—
+169,5875 MHz)
+
+Aplicații posibile
+
+Utilizări în România
+
+Aplicații pentru amatori
+(în banda 70,0—
+70,3 MHz, în baza
+obținerii acordului
+prealabil individual)
+
+Sisteme militare EU1
+PMR/PAMR
+
+Aplicații posibile
+
+Utilizări în România
+
+NG
+
+Statut
+utilizare
+
+G(A)/NG
+
+Statut
+utilizare
+
+ANEXĂ
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 629/7.IX.2010
+3
+
+Atribuiri Regiunea 1 UIT
+și note subsol aplicabile
+CEPT
+
+169,6125—169,8250 Fix
+Mobil, cu excepția
+mobil aeronautic
+5.229
+
+Banda de frecvențe
+(MHz)
+
+Mobil, cu
+excepția mobil
+aeronautic
+
+Atribuiri
+comune europene
+(țări membre CEPT)
+
+PMR/PAMR (aplicații simplex) EU7
+ECC/DEC/(05)02
+ECC/DEC/(06)06
+T/R 25-08
+EN 300 086, EN 300 113
+EN 300 219, EN 300 296
+EN 300 341, EN 300 390
+EN 300 471, EN 301 166
+EN 302 561
+
+Dispozitive pentru localizarea și
+urmărirea obiectelor
+ECC/DEC/(05)02
+ERC/REC 70-03
+
+Proteze pentru deficiențe auditive (în
+cadrul benzii 169,4—174,0 MHz cu
+acord de frecvență)
+ERC/REC 70-03
+EN 300 422
+
+Utilizări principale și reglementări aplicabile
+în Europa (CEPT)
+
+Mobil, cu
+excepția mobil
+aeronautic
+
+Atribuiri
+în România
+
+Decizia 2005/928/CE,
+Sisteme paging
+modificată prin
+(existente) (neexclusiv în Decizia 2008/673/CE
+benzile 169,6375—
+169,7125 MHz și
+169,7625—
+169,7875 MHz)
+ECC/DEC/(05)02
+PMR EU7 (neexclusiv în ECC/DEC/(06)06
+banda 169,6125—
+T/R 25-08
+169,8125 MHz)
+EN 300 086,
+EN 300 113
+EN 300 219,
+EN 300 296
+EN 300 341,
+EN 300 390
+EN 300 471,
+EN 301 166
+EN 302 561
+Decizia 2005/928/CE,
+modificată prin
+Decizia 2008/673/CE
+
+ECC/DEC/(05)02
+ERC/REC 70-03
+Decizia 2005/928/CE,
+modificată prin
+Decizia 2008/673/CE
+
+ECC/DEC/(05)02
+ERC/REC 70-03
+EN 300 220
+Decizia
+2005/928/CE,
+modificată prin
+Decizia 2008/673/CE
+
+Alarme sociale (exclusiv
+în benzile 169,4750—
+169,4875 MHz și
+169,5875—
+169,6000 MHz)
+
+Dispozitive pentru
+localizarea și urmărirea
+obiectelor (neexclusiv în
+benzile 169,6125—
+169,6375 MHz,
+169,7125—
+169,7625 MHz,
+169,7875—169,8125
+MHz)
+
+Reglementări aplicabile
+
+Aplicații posibile
+
+Utilizări în România
+
+G/NG
+
+Statut
+utilizare
+
+4
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 629/7.IX.2010
+
+Atribuiri Regiunea 1 UIT
+și note subsol aplicabile
+CEPT
+
+5.312 5.314 5.315
+5.316 5.316A
+5.319
+
+830,0000—862,0000 Radiodifuziune
+Fix
+Mobil, cu excepția
+mobil aeronautic
+5.316B 5.317A
+
+5.312 5.314 5.315
+5.316 5.316A 5.319
+
+790,0000—830,0000 Radiodifuziune
+Fix
+Mobil, cu excepția
+mobil aeronautic
+5.316B 5.317A
+
+Banda de frecvențe
+(MHz)
+
+5.312 5.316
+5.316A
+EU2 EU13
+
+Radiodifuziune
+Mobil, cu
+excepția mobil
+aeronautic
+5.316B 5.317A
+
+5.312 5.316
+5.316A
+EU2 EU13
+
+Radiodifuziune
+Mobil, cu
+excepția mobil
+aeronautic
+5.316B 5.317A
+
+Atribuiri
+comune europene
+(țări membre CEPT)
+
+Radiodifuziune
+
+Mobil, cu
+excepția mobil
+aeronautic
+5.316B 5.317A
+5.314 5.316
+5.319
+
+Radiodifuziune
+
+Atribuiri
+în România
+
+(Banda 790—862 MHz este
+planificată pentru viitoare aplicații
+mobile, în baza prevederilor RR)
+
+Rețele de comunicații mobile/fixe
+ECC/DEC/(09)03
+
+Televiziune (Acordul Geneva 2006)
+EN 300 744 (aplicații DVB-T)
+EN 302 297
+
+SAP/SAB (numai radiomicrofoane)
+
+Radiomicrofoane și dispozitive de
+audiție asistată (în banda 470—862
+MHz, cu acord de frecvență)
+ERC/REC 70—03
+EN 300 422
+
+5.312 5.314
+5.316 5.319
+EU2 EU13
+
+Mobil, cu
+excepția mobil
+aeronautic
+5.316B 5.317A
+
+Sisteme militare (radiorelee tactice)
+
+(Banda 790—862 MHz este
+planificată pentru viitoare aplicații
+mobile, în baza prevederilor RR)
+
+Rețele de comunicații mobile/fixe
+ECC/DEC/(09)03
+
+Televiziune (Acordul Geneva 2006)
+EN 300 744 (aplicații DVB-T)
+EN 302 297
+
+SAP/SAB (numai radiomicrofoane)
+
+Radiomicrofoane și dispozitive de
+audiție asistată (în banda 470—862
+MHz cu acord de frecvență)
+ERC/REC 70—03
+EN 300 422
+
+Sisteme militare (radiorelee tactice)
+
+Utilizări principale și reglementări aplicabile
+în Europa (CEPT)
+
+3. Tabelul național de atribuire a benzilor de frecvențe: 790,0000 MHz — 862,0000 MHz
+
+Decizia 2010/267/UE
+
+EN 300 744
+
+Reglementări aplicabile
+
+Decizia 2010/267/UE
+
+EN 300 744
+
+ECC/DEC/(09)03
+
+Rețele de comunicații
+mobile/fixe
+
+SAP/SAB (numai
+radiomicrofoane)
+ECC/DEC/(09)03
+
+ERC/REC 70—03
+Radiomicrofoane și
+EN 300 422
+dispozitive de audiție
+asistată (în banda 470—
+862 MHz, cu acord de
+frecvență)
+
+Aplicații terestre pe
+suport radio capabile să
+furnizeze servicii de
+comunicații electronice
+(TRA-ECS)
+
+Televiziune digitală
+terestră (Acordul
+Geneva 2006)
+
+Sisteme militare
+
+Rețele de comunicații
+mobile/fixe
+
+Radiomicrofoane și
+ERC/REC 70—03
+dispozitive de audiție
+EN 300 422
+asistată (în banda 470—
+862 MHz, cu acord de
+frecvență)
+SAP/SAB (numai
+radiomicrofoane)
+
+Aplicații terestre pe
+suport radio capabile să
+furnizeze servicii de
+comunicații electronice
+(TRA-ECS)
+
+Televiziune digitală
+terestră (Acordul
+Geneva 2006)
+
+Aplicații posibile
+
+Utilizări în România
+
+G(A)/NG
+
+NG
+
+Statut
+utilizare
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 629/7.IX.2010
+5
+
+Atribuiri Regiunea 1 UIT
+și note subsol aplicabile
+CEPT
+
+Atribuiri
+comune europene
+(țări membre CEPT)
+
+890,0000—915,0000 Radiodifuziune 5.322
+Fix
+Mobil, cu excepția
+mobil aeronautic
+5.317A
+Radiolocație
+5.323
+
+Mobil 5.317A
+Radiolocație
+5.323
+EU13 EU14
+EU29
+
+880,0000—890,0000 Radiodifuziune 5.322 Mobil 5.317A
+5.323
+Fix
+EU2 EU13 EU29
+Mobil, cu excepția
+mobil aeronautic
+5.317A
+5.319 5.323
+
+Banda de frecvențe
+(MHz)
+
+Atribuiri
+în România
+
+GSMOBV
+ECC/DEC/(08)08
+
+IMT
+ECC/DEC/(06)13
+ECC/REC/(08)02
+EN 301 908
+
+GSM-900 (ML pereche cu 935—960
+MHz) EU32
+ERC/DEC/(94)01
+ECC/REC/(05)08
+EN 301 502
+EN 301 511
+EN 301 419
+
+GSMOBV
+ECC/DEC/(08)08
+
+IMT
+ECC/DEC/(06)13
+ECC/REC/(08)02
+EN 301 908
+
+MOBIL 5.317A
+5.323
+
+Sisteme militare (partaj civil-militar pe Mobil 5.317A
+5.319 5.323
+criterii naționale) EU32
+GSM-900 (ML pereche cu 925—935
+MHz) EU32
+ERC/DEC/(97)02
+ECC/REC/(05)08
+EN 301 419
+EN 301 502
+EN 301 511
+
+Utilizări principale și reglementări aplicabile
+în Europa (CEPT)
+
+4. Tabelul național de atribuire a benzilor de frecvențe: 880,0000 MHz—915,0000 MHz
+
+ERC/DEC/(97)02
+ECC/REC/(05)08
+EN 301 419
+EN 301 502
+EN 301 511
+Directiva
+2009/114/CE
+
+Reglementări aplicabile
+
+Sisteme MCV la bordul
+navelor
+
+ERC/DEC/(94)01
+ECC/REC/(05)08
+EN 301 419
+EN 301 502
+EN 301 511
+Directiva
+87/372/CEE,
+modificată prin
+Directiva
+2009/114/CE
+
+ECC/DEC/(08)08
+Decizia 2010/166/UE
+Rec. 2010/167/UE
+
+IMT
+
+ECC/DEC/(06)13
+ECC/REC/(08)02
+EN 301 908
+Directiva
+87/372/CEE,
+modificată prin
+Directiva
+2009/114/CE
+Decizia 2009/766/CE
+ECC/DEC/(08)08
+Decizia 2010/166/UE
+Rec. 2010/167/UE
+
+GSM-900 (ML pereche
+cu 935—960 MHz)
+EU 32
+
+ECC/DEC/(06)13
+ECC/REC/(08)02
+EN 301 908
+Directiva 87/372/CEE,
+modificată prin
+Directiva
+2009/114/CE
+Decizia 2009/766/CE
+
+GSM-900 (ML pereche
+cu 925—935 MHz)
+EU32
+
+Aplicații posibile
+
+Utilizări în România
+
+IMT
+
+Sisteme MCV la bordul
+navelor
+
+NG
+
+NG
+
+Statut
+utilizare
+
+6
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 629/7.IX.2010
+
+Atribuiri Regiunea 1 UIT
+și note subsol aplicabile
+CEPT
+
+5.323
+
+935,0000—942,0000 Radiodifuziune 5.322
+Fix
+Mobil, cu excepția
+mobil aeronautic
+5.317A
+Radiolocație
+
+5.323
+
+925,0000—935,0000 Radiodifuziune 5.322
+Fix
+Mobil, cu excepția
+mobil aeronautic
+5.317A
+Radiolocație
+
+Banda de frecvențe
+(MHz)
+
+GSMOBV
+ECC/DEC/(08)08
+
+IMT
+ECC/DEC/(06)13
+ECC/REC/(08)02
+EN 301 908
+
+GSM-900 (FB pereche cu 890—897
+MHz) EU32
+ERC/DEC/(94)01
+ECC/REC/(05)08
+5.323
+EN 301 419
+EU13 EU14 EU29 EN 301 502
+EN 301 511
+
+Mobil 5.317A
+Radiolocație
+
+GSMOBV
+ECC/DEC/(08)08
+
+IMT
+ECC/DEC/(06)13
+ECC/REC/(08)02
+EN 301 908
+
+5.323
+
+Mobil 5.317A
+
+5.323
+
+GSM-900 (FB pereche cu 880—890
+MHz) EU30 EU32
+ERC/DEC/(97)02
+ECC/REC/(05)08
+EN 301 419
+EN 301 502
+EN 301 511
+
+5.323
+EU2 EU13 EU14
+EU29
+
+Atribuiri
+în România
+
+Sisteme militare (partaj civil-militar pe Mobil 5.317A
+criterii naționale) EU30
+
+Utilizări principale și reglementări aplicabile
+în Europa (CEPT)
+
+Mobil 5.317A
+Radiolocație
+
+Atribuiri
+comune europene
+(țări membre CEPT)
+
+5. Tabelul național de atribuire a benzilor de frecvențe: 925,0000 MHz—960,0000 MHz
+
+ERC/DEC/(97)02
+ECC/REC/(05)08
+EN 301 419
+EN 301 502
+EN 301 511
+Directiva 2009/114/CE
+
+Reglementări aplicabile
+
+Sisteme MCV la bordul
+navelor
+
+Sisteme MCV la bordul
+navelor
+
+IMT
+
+ECC/DEC/(08)08
+Decizia 2010/166/UE
+Rec. 2010/167/UE
+
+ECC/DEC/(06)13
+ECC/REC/(08)02
+EN 301 908
+Directiva
+87/372/CEE,
+modificată prin
+Directiva
+2009/114/CE
+Decizia 2009/766/CE
+
+ERC/DEC/(94)01
+ECC/REC/(05)08
+EN 301 419
+EN 301 502
+EN 301 511
+Directiva 87/372/CEE,
+modificată prin
+Directiva
+2009/114/CE
+
+ECC/DEC/(08)08
+Decizia 2010/166/UE
+Rec. 2010/167/UE
+
+IMT
+
+GSM-900 (FB pereche
+cu 890—897 MHz)
+EU 32
+
+ECC/DEC/(06)13
+ECC/REC/(08)02
+EN 301 908
+Directiva 87/372/CEE,
+modificată prin
+Directiva
+2009/114/CE
+Decizia 2009/766/CE
+
+GSM-900 (FB pereche
+cu 880—890 MHz)
+EU32
+
+Aplicații posibile
+
+Utilizări în România
+
+NG
+
+NG
+
+Statut
+utilizare
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 629/7.IX.2010
+7
+
+Atribuiri Regiunea 1 UIT
+și note subsol aplicabile
+CEPT
+
+Atribuiri
+comune europene
+(țări membre CEPT)
+
+GSMOBV
+ECC/DEC/(08)08
+
+IMT
+ECC/DEC/(06)13
+ECC/REC/(08)02
+EN 301 908
+
+GSM-900 (FB pereche cu 897—
+915 MHz) EU32
+ERC/DEC/(94)01
+ECC/REC/(05)08
+EN 301 419
+EN 301 502
+EN 301 511
+
+Utilizări principale și reglementări aplicabile
+în Europa (CEPT)
+
+1710,00—1747,50
+
+Banda de frecvențe
+(MHz)
+
+5.149 5.341 5.385
+
+Fix
+Mobil 5.384A
+
+Atribuiri Regiunea 1 UIT
+și note subsol aplicabile
+CEPT
+Utilizări principale și reglementări aplicabile
+în Europa (CEPT)
+
+Fix
+Mobil 5.384A
+
+GSMOBV
+ECC/DEC/(08)08
+
+IMT
+ECC/DEC/(06)13
+ECC/REC/(08)02
+EN 301 908
+
+GSM 1800 EU33
+ERC/DEC/(95)03
+ECC/DEC/(06)07
+5.149 5.341 5.385 ECC/REC/(05)08
+EN 301 419
+EU29
+EN 301 502
+EN 301 511
+
+Atribuiri
+comune europene
+(țări membre CEPT)
+
+6. Tabelul național de atribuire a benzilor de frecvențe: 1710,00 MHz—1785,00 MHz
+
+5.323
+
+942,0000—960,0000 Radiodifuziune 5.322 Mobil 5.317A
+Fix
+Mobil, cu excepția
+5.323
+mobil aeronautic
+5.317A
+EU13 EU29
+
+Banda de frecvențe
+(MHz)
+
+5.149 5.341
+5.385
+EU29
+
+Fix
+Mobil 5.384A
+
+Atribuiri
+în România
+
+5.323
+
+Mobil 5.317A
+
+Atribuiri
+în România
+
+ERC/DEC/(94)01
+ECC/REC/(05)08
+EN 301 419
+EN 301 502
+EN 301 511
+Directiva
+87/372/CEE,
+modificată prin
+Directiva
+2009/114/CE
+
+Reglementări aplicabile
+
+ECC/DEC/(08)08
+Decizia 2010/166/UE
+Rec. 2010/167/UE
+
+IMT
+
+Sisteme MCV la bordul
+navelor
+
+ERC/DEC/(95)03
+ECC/REC/(05)08
+EN 301 419
+EN 301 502
+EN 301 511
+Decizia 2009/766/CE
+
+Reglementări aplicabile
+
+IMT
+
+Aplicații de bandă
+Decizia
+ultralargă (UWB) (în
+2007/131/CE,
+banda 1600—10600 MHz) modificată prin
+Decizia 2009/343/CE
+
+ECC/DEC/(06)13
+ECC/REC/(08)02
+EN 301 908
+Decizia 2009/766/CE
+
+GSM 1800 EU33
+
+Aplicații posibile
+
+Utilizări în România
+
+ECC/DEC/(06)13
+ECC/REC/(08)02
+EN 301 908
+Directiva
+87/372/CEE,
+modificată prin
+Directiva
+2009/114/CE
+Decizia 2009/766/CE
+
+GSM-900 (FB pereche
+cu 897—915 MHz)
+EU 32
+
+Aplicații posibile
+
+Utilizări în România
+
+NG
+
+Statut
+utilizare
+
+NG
+
+Statut
+utilizare
+
+8
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 629/7.IX.2010
+
+Fix
+Mobil 5.384A
+
+EU29
+
+Fix
+Mobil 5.384A
+
+5.386 5.387
+
+GSMOBV
+ECC/DEC/(08)08
+
+IMT
+ECC/DEC/(06)13
+ECC/REC/(08)02
+EN 301 908
+
+GSM 1800 EU33
+ERC/DEC/(95)03
+ECC/DEC/(06)07
+ECC/REC/(05)08
+EN 301 419
+EN 301 502
+EN 301 511
+
+1805,00—1842,50
+
+Banda de frecvențe
+(MHz)
+
+Fix
+Mobil 5.384A
+
+EU29
+
+5.386
+
+Atribuiri
+comune europene
+(țări membre CEPT)
+
+Fix
+Mobil 5.384A
+
+Atribuiri Regiunea 1 UIT
+și note subsol aplicabile
+CEPT
+
+IMT
+ECC/DEC/(06)13
+ECC/REC/(08)02
+EN 301 908
+
+GSM 1800 EU33
+ERC/DEC/(95)03
+ECC/DEC/(06)07
+ECC/REC/(05)08
+EN 301 419
+EN 301 502
+EN 301 511
+
+Utilizări principale și reglementări aplicabile
+în Europa (CEPT)
+
+7. Tabelul național de atribuire a benzilor de frecvențe: 1805,00 MHz—1880,00 MHz
+
+1747,50—1785,00
+
+EU29
+
+Fix
+Mobil 5.384A
+
+Atribuiri
+în România
+
+5.387
+EU29
+
+Fix
+Mobil 5.384A
+
+ECC/DEC/(06)13
+ECC/REC/(08)02
+EN 301 908
+Decizia 2009/766/CE
+Decizia
+2007/131/CE,
+modificată prin
+Decizia 2009/343/CE
+ECC/DEC/(06)07
+Decizia 2008/294/CE
+Rec. 2008/295/CE
+ECC/DEC/(08)08
+Decizia 2010/166/UE
+Rec. 2010/167/UE
+
+IMT
+
+Aplicații de bandă
+ultralargă (UWB) (în
+banda 1600–10600
+MHz)
+Sisteme MCA la bordul
+aeronavelor
+Sisteme MCV la bordul
+navelor
+
+ERC/DEC/(95)03
+ECC/REC/(05)08
+EN 301 419
+EN 301 502
+EN 301 511
+Decizia 2009/766/CE
+
+Reglementări aplicabile
+
+ECC/DEC/(06)13
+ECC/REC/(08)02
+EN 301 908
+Decizia 2009/766/CE
+
+GSM 1800 EU33
+
+Aplicații posibile
+
+Utilizări în România
+
+ERC/DEC/(95)03
+ECC/REC/(05)08
+EN 301 419
+EN 301 502
+EN 301 511
+Decizia 2009/766/CE
+
+ECC/DEC/(08)08
+Decizia 2010/166/UE
+Rec. 2010/167/UE
+
+Sisteme MCV la bordul
+navelor
+GSM 1800 EU33
+
+ECC/DEC/(06)07
+Decizia 2008/294/CE
+Rec. 2008/295/CE
+
+Sisteme MCA la bordul
+aeronavelor
+
+IMT
+
+NG
+
+Statut
+utilizare
+
+NG
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 629/7.IX.2010
+9
+
+1842,50—1880,00
+
+Banda de frecvențe
+(MHz)
+
+Fix
+Mobil 5.384A
+
+Atribuiri
+comune europene
+(țări membre CEPT)
+
+EU29
+
+Fix
+Mobil 5.384A
+
+Atribuiri Regiunea 1 UIT
+și note subsol aplicabile
+CEPT
+
+5.386
+
+GSMOBV
+ECC/DEC/(08)08
+
+IMT
+ECC/DEC/(06)13
+ECC/REC/(08)02
+EN 301 908
+
+GSM 1800 EU33
+ERC/DEC/(95)03
+ECC/DEC/(06)07
+ECC/REC/(05)08
+EN 301 419
+EN 301 502
+EN 301 511
+
+GSMOBV
+ECC/DEC/(08)08
+
+Utilizări principale și reglementări aplicabile
+în Europa (CEPT)
+
+EU29
+
+Fix
+Mobil 5.384A
+
+Atribuiri
+în România
+Reglementări aplicabile
+
+ECC/DEC/(06)13
+ECC/REC/(08)02
+EN 301 908
+Decizia 2009/766/CE
+
+IMT
+
+ECC/DEC/(06)07
+Decizia 2008/294/CE
+Rec. 2008/295/CE
+ECC/DEC/(08)08
+Decizia 2010/166/UE
+Rec. 2010/167/UE
+
+Sisteme MCA la bordul
+aeronavelor
+
+Sisteme MCV la bordul
+navelor
+
+Aplicații de bandă
+Decizia 2007/131/CE,
+ultralargă (UWB) (în banda modificată prin
+1600—10600 MHz)
+Decizia 2009/343/CE
+
+ERC/DEC/(95)03
+ECC/REC/(05)08
+EN 301 419
+EN 301 502
+EN 301 511
+Decizia 2009/766/CE
+
+ECC/DEC/(08)08
+Decizia 2010/166/UE
+Rec. 2010/167/UE
+
+Sisteme MCV la bordul
+navelor
+
+GSM 1800 EU33
+
+ECC/DEC/(06)07
+Decizia 2008/294/CE
+Rec. 2008/295/CE
+
+Sisteme MCA la bordul
+aeronavelor
+
+Decizia
+Aplicații de bandă
+2007/131/CE,
+ultralargă (UWB) (în
+banda 1600—10600 MHz) modificată prin
+Decizia 2009/343/CE
+
+Aplicații posibile
+
+Utilizări în România
+
+NG
+
+Statut
+utilizare
+
+10
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 629/7.IX.2010
+
+2655,00—2670,00
+
+2520,00—2655,00
+
+2500,00—2520,00
+
+Banda de frecvențe
+(MHz)
+
+5.149 5.412 5.420
+
+Radiodifuziune prin
+satelit 5.208B 5.413
+5.416
+Fix 5.410
+Mobil, cu excepția
+mobil aeronautic
+5.384A
+Explorarea
+Pământului prin
+satelit (pasiv)
+Radioastronomie
+Cercetare spațială
+(pasiv)
+
+5.339 5.403 5.405
+5.412 5.417C
+5.417D 5.418B
+5.418C
+
+Radiodifuziune prin
+satelit 5.413 5.416
+Fix 5.410
+Mobil, cu excepția
+mobil aeronautic
+5.384A
+
+5.405 5.412
+
+Fix 5.410
+Mobil, cu excepția
+mobil aeronautic
+5.384A
+
+Atribuiri Regiunea 1 UIT
+și note subsol aplicabile
+CEPT
+
+Linii fixe
+T/R 13-01
+EN 302 217
+
+Sisteme militare (în cadrul benzii
+2520—2575 MHz)
+
+IMT
+ECC/DEC/(02)06
+ECC/DEC/(05)05
+EN 301 908
+
+Utilizări principale și reglementări aplicabile
+în Europa (CEPT)
+
+Decizia 2008/477/CE
+
+Aplicații terestre pe
+suport radio capabile să
+furnizeze servicii de
+comunicații electronice
+(TRA-ECS)
+
+Linii fixe
+T/R 13-01
+EN 302 217
+
+SAP/SAB (acordabile în bandă)
+ERC/REC 25-10
+EN 302 064
+
+Fix
+Mobil, cu
+excepția mobil
+aeronautic
+5.384A
+Explorarea
+Pământului prin
+satelit (pasiv)
+Radioastronomie
+Cercetare
+spațială (pasiv)
+
+5.149 5.208B
+EU2 EU15
+EU16
+
+5.149 5.208B
+EU16
+
+Aplicații de bandă
+Decizia 2007/131/CE,
+ultralargă (UWB) (în banda modificată prin
+1600—10600 MHz)
+Decizia 2009/343/CE
+
+Aplicații radioastronomie
+(măsurări în domeniul
+continuu)
+
+Aplicații terestre pe suport
+radio capabile să furnizeze
+servicii de comunicații
+electronice (TRA-ECS)
+
+ECC/DEC/(02)06
+ECC/DEC/(05)05
+EN 301 908
+Decizia 2008/477/CE
+
+IMT (în banda 2500—
+2690 MHz)
+
+Decizia 2008/477/CE
+
+ECC/DEC/(02)06
+ECC/DEC/(05)05
+EN 301 908
+
+Fix
+Mobil, cu
+excepția mobil
+aeronautic
+5.384A
+IMT
+Explorarea
+ECC/DEC/(02)06
+Pământului prin
+ECC/DEC/(05)05
+satelit (pasiv)
+EN 301 908
+Radioastronomie
+Aplicații radioastronomie (măsurări în Cercetare
+spațială (pasiv)
+domeniul continuu)
+
+Aplicații terestre pe
+suport radio capabile să
+furnizeze servicii de
+comunicații electronice
+(TRA-ECS)
+
+IMT (în banda 2500—
+2690 MHz)
+
+Aplicații de bandă
+Decizia
+ultralargă (UWB) (în
+2007/131/CE,
+banda 1600—10600 MHz) modificată prin
+Decizia 2009/343/CE
+Sisteme militare (în cadrul
+benzii 2520—2575 MHz)
+
+ECC/DEC/(02)06
+ECC/DEC/(05)05
+EN 301 908
+
+Reglementări aplicabile
+
+IMT (în banda 2500—
+2690 MHz)
+
+Aplicații posibile
+
+Utilizări în România
+
+Decizia 2007/131/CE,
+Aplicații de bandă
+modificată prin
+ultralargă (UWB) (în banda Decizia 2009/343/CE
+1600—10600 MHz)
+
+EU2 EU15
+EU16
+
+5.339 5.418B
+5.418C
+
+Fix
+Mobil, cu
+excepția mobil
+aeronautic
+5.384A
+
+Mobil, cu
+excepția mobil
+aeronautic
+5.384A
+Fix
+
+Atribuiri
+în România
+
+SAP/SAB (acordabile în bandă)
+ERC/REC 25-10
+EN 302 064
+
+IMT
+ECC/DEC/(02)06
+EU2 EU15 EU16 ECC/DEC/(05)05
+EN 301 908
+
+5.339 5.418B
+5.418C
+
+Fix
+Mobil, cu
+excepția mobil
+aeronautic
+5.384A
+
+Mobil, cu excepția
+mobil aeronautic
+5.384A
+Fix
+
+Atribuiri
+comune europene
+(țări membre CEPT)
+
+8. Tabelul național de atribuire a benzilor de frecvențe: 2500,00 MHz—2690,00 MHz
+
+NG
+
+G(A)/NG
+
+NG
+
+Statut
+utilizare
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 629/7.IX.2010
+11
+
+5.149 5.412 5.419
+
+Fix 5.410
+Mobil, cu excepția
+mobil aeronautic
+5.384A
+Explorarea
+Pământului prin
+satelit (pasiv)
+Radioastronomie
+Cercetare spațială
+(pasiv)
+
+Atribuiri Regiunea 1 UIT
+și note subsol aplicabile
+CEPT
+
+5.149
+
+Mobil, cu
+excepția mobil
+aeronautic
+5.384A
+Fix
+Radioastronomie
+
+Atribuiri
+comune europene
+(țări membre CEPT)
+
+3400,00—3500,00
+
+Banda de frecvențe
+(MHz)
+
+5.431
+
+Fix
+Fix prin satelit
+(spațiu—Pământ)
+Mobil 5.430A
+Radiolocație
+
+Atribuiri Regiunea 1 UIT
+și note subsol aplicabile
+CEPT
+
+Fix
+Fix prin satelit
+(spațiu—Pământ)
+Mobil 5.430A
+Amator
+Radiolocație
+
+Atribuiri
+comune europene
+(țări membre CEPT)
+
+Atribuiri
+în România
+
+Aplicații mobile (pentru aplicații
+SAP/SAB coordonate, cu utilizare
+ocazională). În unele țări serviciul
+mobil poate avea statut secundar.
+EN 302 064
+
+Fix
+Fix prin satelit
+(spațiu—
+Pământ)
+Sisteme de acces pe suport radio de Mobil 5.430A
+bandă largă (BWA) (în banda 3400— Amator
+Radiolocație
+3800 MHz)
+ECC/DEC/(07)02
+ECC/REC/(04)05
+ERC/REC 14-03
+EN 302 217
+EN 302 326
+Aplicații amator (în banda 3400—
+3410 MHz) EU17
+EN 301 783
+
+Utilizări principale și reglementări aplicabile
+în Europa (CEPT)
+
+Atribuiri
+în România
+
+Mobil, cu
+excepția mobil
+aeronautic
+5.384A
+Fix
+Aplicații radioastronomie (măsurări în Radioastronomie
+domeniul continuu)
+5.149
+
+IMT
+ECC/DEC/(02)06
+ECC/DEC/(05)05
+EN 301 908
+
+Utilizări principale și reglementări aplicabile
+în Europa (CEPT)
+
+9. Tabelul național de atribuire a benzilor de frecvențe: 3400,00 MHz—3800,00 MHz
+
+2670,00—2690,00
+
+Banda de frecvențe
+(MHz)
+
+Decizia 2008/411/CE
+
+Aplicații terestre pe
+suport radio capabile să
+furnizeze servicii de
+comunicații electronice
+(TRA-ECS)
+
+ERC/REC 14-03
+EN 302 217
+EN 302 326
+
+ECC/DEC/(07)02
+ECC/REC/(04)05
+ERC/REC 14-03
+EN 302 217
+EN 302 326
+
+Sisteme de acces pe
+suport radio de bandă
+largă (BWA) (în banda
+3400—3800 MHz)
+
+Rețele de acces fix pe
+suport radio (FWA)
+existente
+
+EN 301 783
+
+Reglementări aplicabile
+
+Aplicații amator (în
+banda 3400—3410
+MHz) EU17
+
+Aplicații posibile
+
+Utilizări în România
+
+Aplicații de bandă
+ultralargă (UWB) (în
+banda 1600—10600
+MHz)
+
+Decizia
+2007/131/CE,
+modificată prin
+Decizia 2009/343/CE
+
+Decizia 2008/477/CE
+
+Aplicații terestre pe
+suport radio capabile să
+furnizeze servicii de
+comunicații electronice
+(TRA-ECS)
+Aplicații radioastronomie
+(măsurări în domeniul
+continuu)
+
+ECC/DEC/(02)06
+ECC/DEC/(05)05
+EN 301 908
+
+Reglementări aplicabile
+
+IMT (în banda 2500—
+2690 MHz)
+
+Aplicații posibile
+
+Utilizări în România
+
+NG
+
+Statut
+utilizare
+
+NG
+
+Statut
+utilizare
+
+12
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 629/7.IX.2010
+
+3500,00—3600,00
+
+Fix
+Fix prin satelit
+(spațiu—Pământ)
+Mobil 5.430A
+Radiolocație
+
+Fix
+Fix prin satelit
+(spațiu—Pământ)
+Mobil 5.430A
+
+IMT (Această bandă este planificată
+pentru aplicații mobile viitoare IMT, în
+baza prevederilor din RR)
+
+Aplicații în serviciul fix prin satelit
+EN 301 443
+
+Aplicații mobile (pentru aplicații
+SAP/SAB coordonate, cu utilizare
+ocazională). În unele țări serviciul
+mobil poate avea statut secundar.
+EN 302 064
+
+Sisteme de acces pe suport radio de
+bandă largă (BWA) (în banda 3400—
+3800 MHz)
+ECC/DEC/(07)02
+ECC/REC/(04)05
+ERC/REC 14-03
+EN 302 217
+EN 302 326
+
+IMT (Această bandă este planificată
+pentru aplicații mobile viitoare IMT, în
+baza prevederilor din RR)
+
+Aplicații în serviciul fix prin satelit
+EN 301 443
+
+Radare (limita superioară pentru
+radare de aeronave este 3410 MHz)
+
+Fix
+Fix prin satelit
+(spațiu—
+Pământ)
+Mobil 5.430A
+
+EN 301 443
+
+Aplicații de bandă
+ultralargă (UWB) (în
+banda 1600—10600
+MHz)
+
+Aplicații în serviciul fix
+prin satelit
+
+Decizia
+2007/131/CE,
+modificată prin
+Decizia 2009/343/CE
+
+EN 301 443
+
+ERC/REC 14-03
+EN 302 217
+EN 302 326
+
+Decizia 2008/411/CE
+
+Aplicații terestre pe
+suport radio capabile să
+furnizeze servicii de
+comunicații electronice
+(TRA-ECS)
+Rețele de acces fix pe
+suport radio (FWA)
+existente
+
+ECC/DEC/(07)02
+ECC/REC/(04)05
+ERC/REC 14-03
+EN 302 217
+EN 302 326
+
+Sisteme de acces pe
+suport radio de bandă
+largă (BWA) (în banda
+3400—3800 MHz)
+
+Aplicații de bandă
+Decizia 2007/131/CE,
+ultralargă (UWB) (în banda modificată prin
+1600—10600 MHz)
+Decizia 2009/343/CE
+
+Aplicații în serviciul fix
+prin satelit
+
+Radare (limita
+superioară pentru radare
+de aeronave este 3410
+MHz)
+
+NG
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 629/7.IX.2010
+13
+
+3700,00—3800,00
+
+3685,00—3700,00
+
+3600,00—3685,00
+
+Banda de frecvențe
+(MHz)
+
+Fix
+Fix prin satelit
+(spațiu—Pământ)
+Mobil
+
+Atribuiri Regiunea 1 UIT
+și note subsol aplicabile
+CEPT
+
+Fix
+Fix prin satelit
+(spațiu—Pământ)
+Mobil
+
+Atribuiri
+comune europene
+(țări membre CEPT)
+
+(În unele țări serviciul mobil poate
+avea statut secundar.)
+
+Linii fixe capacitate medie/mare
+ERC/REC 12-08
+EN 302 217
+
+Aplicații în serviciul fix prin satelit
+(prioritate pentru rețele civile)
+ECC/DEC/(05)09
+EN 301 443
+EN 301 447
+
+Sisteme de acces pe suport radio de
+bandă largă (BWA) (în banda 3400—
+3800 MHz)
+ECC/DEC/(07)02
+ECC/REC/(04)05
+EN 302 217
+EN 302 326
+
+Utilizări principale și reglementări aplicabile
+în Europa (CEPT)
+
+Fix
+Fix prin satelit
+(spațiu—
+Pământ)
+Mobil
+
+Atribuiri
+în România
+
+Decizia 2008/411/CE
+
+Aplicații terestre pe
+suport radio capabile să
+furnizeze servicii de
+comunicații electronice
+(TRA-ECS)
+ECC/DEC/(05)09
+EN 301 443
+EN 301 447
+
+ECC/DEC/(07)02
+ECC/REC/(04)05
+ERC/REC 12-08
+EN 302 217
+EN 302 326
+
+Reglementări aplicabile
+
+Sisteme de acces pe
+suport radio de bandă
+largă (BWA) (în banda
+3400—3800 MHz)
+
+Aplicații posibile
+
+Utilizări în România
+
+Linii fixe de capacitate
+medie/mare
+
+Aplicații de bandă
+Decizia
+ultralargă (UWB) (în
+2007/131/CE,
+banda 1600—10600 MHz) modificată prin
+Decizia 2009/343/CE
+
+UIT-R F 635
+ERC/REC 12-08
+EN 302 217
+
+Aplicații în serviciul fix
+prin satelit
+
+NG
+
+G/NG
+
+NG
+
+Statut
+utilizare
+
+14
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 629/7.IX.2010
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 629/7.IX.2010
+
+15
+
+MINISTERUL COMUNICAȚIILOR ȘI SOCIETĂȚII INFORMAȚIONALE
+
+ORDIN
+privind retragerea de pe piață, interzicerea comercializării și utilizării echipamentelor destinate
+pentru bruierea semnalului GSM/3G (jammere), introduse pe piața din România
+de către Societatea Comercială SPYSHOP — S.R.L.
+Având în vedere încălcarea de către Societatea Comercială SPYSHOP — S.R.L. a prevederilor art. 6 alin. (1) lit. b) și
+alin. (2), respectiv ale art. 10 din Hotărârea Guvernului nr. 88/2003 privind echipamentele radio și echipamentele terminale de
+telecomunicații și recunoașterea mutuală a conformității acestora, republicată,
+în temeiul prevederilor art. 35 alin. (1), ale art. 38 alin. (1) și (3) lit. c), ale art. 39 lit. a) și ale art. 42 din Hotărârea Guvernului
+nr. 88/2003, republicată, precum și ale art. 6 alin. (6) din Hotărârea Guvernului nr. 12/2009 privind organizarea și funcționarea
+Ministerului Comunicațiilor și Societății Informaționale, cu modificările și completările ulterioare,
+ministrul comunicațiilor și societății informaționale emite prezentul ordin.
+Art. 1. — Se dispun retragerea de pe piață, interzicerea
+comercializării și utilizării echipamentelor destinate pentru
+bruierea semnalului GSM/3G (jammere), introduse pe piața din
+România de către Societatea Comercială SPYSHOP — S.R.L.,
+cu sediul social în municipiul Timișoara, str. Academician Remus
+Răduleț nr. 20, bl. 137, sc. B, et. 2, ap. 11, județul Timiș, cod
+unic de înregistrare RO 25051565, înregistrată la registrul
+comerțului cu nr. J35/229/03.02.2009.
+
+Art. 2. — În vederea aplicării dispozițiilor prezentului ordin,
+precum și ale art. 43 din Hotărârea Guvernului nr. 88/2003
+privind echipamentele radio și echipamentele terminale de
+telecomunicații și recunoașterea mutuală a conformității
+acestora, republicată, se notifică Societatea Comercială
+SPYSHOP — S.R.L.
+Art. 3. — Prezentul ordin se publică în Monitorul Oficial al
+României, Partea I.
+
+Ministrul comunicațiilor și societății informaționale,
+Gabriel Sandu
+București, 30 august 2010.
+Nr. 886.
+MINISTERUL ECONOMIEI, COMERȚULUI ȘI MEDIULUI DE AFACERI
+
+ORDIN
+pentru recunoașterea Societății Comerciale ăEurotraining Solution” — S.R.L.
+ca entitate competentă în vederea organizării cursului
+privind managementul riscurilor tehnologice, securității și calității lucrărilor de montaj
+al dotărilor tehnologice industriale
+În baza Ordonanței Guvernului nr. 95/1999 privind calitatea lucrărilor de montaj al dotărilor tehnologice industriale, aprobată
+cu modificări prin Legea nr. 440/2002,
+în conformitate cu prevederile art. 8 lit. f) din Regulamentul privind procedura de atestare tehnico-profesională a
+specialiștilor verificatori de proiecte, responsabililor tehnici cu execuția și experților tehnici de calitate și extrajudiciari pentru lucrările
+de montaj utilaje, echipamente și instalații tehnologice industriale, aprobat prin Ordinul ministrului economiei, comerțului și mediului
+de afaceri nr. 364/2010,
+în temeiul art. 9 alin. (4) din Hotărârea Guvernului nr. 1.634/2009 privind organizarea și funcționarea Ministerului Economiei,
+Comerțului și Mediului de Afaceri, cu modificările ulterioare,
+ministrul economiei, comerțului și mediului de afaceri emite următorul ordin:
+Art. 1. — Se atestă încadrarea Societății Comerciale
+ăEurotraining Solution” — S.R.L. ca entitate competentă în
+vederea organizării cursului privind managementul riscurilor
+tehnologice, securității și calității lucrărilor de montaj al dotărilor
+tehnologice industriale, în conformitate cu prevederile
+Ordonanței Guvernului nr. 129/2000 privind formarea
+
+profesională a adulților, republicată, cu modificările și
+completările ulterioare.
+Art. 2. — Direcția generală planificare și dezvoltare
+economică, împreună cu Centrul de Pregătire pentru Personalul
+din Industrie Bușteni vor duce la îndeplinire prevederile
+prezentului ordin.
+
+Ministrul economiei, comerțului și mediului de afaceri,
+Adriean Videanu
+București, 31 august 2010.
+Nr. 1.545.
+
+ABONAMENTE LA PUBLICAȚIILE OFICIALE PE SUPORT FIZIC
+— Prețuri pentru anul 2010 —
+Nr.
+crt.
+
+Valoare
+(TVA 9% inclus) — lei
+
+Număr
+de apariții
+anuale
+
+Denumirea publicației
+
+12 luni
+
+3 luni
+
+1 lună
+
+900
+
+1.200
+
+330
+
+120
+
+100
+
+1.500
+
+140
+
+Monitorul Oficial, Partea a II-a
+
+200
+
+2.250
+
+200
+
+4.
+
+Monitorul Oficial, Partea a III-a
+
+500
+
+430
+
+40
+
+5.
+
+Monitorul Oficial, Partea a IV-a
+
+6.000
+
+1.720
+
+160
+
+6.
+
+Monitorul Oficial, Partea a VI-a
+
+240
+
+1.600
+
+150
+
+7.
+
+Monitorul Oficial, Partea a VII-a
+
+48
+
+540
+
+50
+
+8.
+
+Colecția Legislația României
+
+4
+
+450
+
+9.
+
+Colecția Hotărâri ale Guvernului României
+
+12
+
+750
+
+1.
+
+Monitorul Oficial, Partea I
+
+2.
+
+Monitorul Oficial, Partea I, limba maghiară
+
+3.
+
+120
+70
+
+NOTĂ:
+
+Monitorul Oficial, Partea I bis, se multiplică și se achiziționează pe bază de comandă.
+
+A B O N A M E N T E L A P R O D U S E L E Î N F O R M AT E L E C T R O N I C
+— Prețuri pentru anul 2010 —
+Abonamentul FLEXIBIL
+(Monitorul Oficial, Partea I + alte 3 părți ale Monitorului Oficial, la alegere)
+Lunar
+
+Produs
+
+Anual
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+AutenticMO
+
+40
+
+100
+
+250
+
+600
+
+1.320
+
+400
+
+1.000
+
+2.500
+
+6.000
+
+13.200
+
+ExpertMO
+
+90
+
+230
+
+580
+
+1.390
+
+3.060
+
+900
+
+2.250
+
+5.630
+
+13.510
+
+29.720
+
+Abonamentul COMPLET
+(Monitorul Oficial, Partea I + toate celelalte părți ale Monitorului Oficial)
+Lunar
+
+Produs
+
+Anual
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+Online/
+Monopost
+
+Rețea
+5
+
+Rețea
+25
+
+Rețea
+100
+
+Rețea
+300
+
+AutenticMO
+
+50
+
+130
+
+330
+
+790
+
+1.740
+
+500
+
+1.250
+
+3.130
+
+7.510
+
+16.520
+
+ExpertMO
+
+110
+
+280
+
+700
+
+1.680
+
+3.700
+
+1.100
+
+2.750
+
+6.880
+
+16.510
+
+36.320
+
+Prețurile sunt exprimate în lei și conțin TVA.
+Mai multe informații puteți găsi pe site-ul www.expert-monitor.ro, unde puteți aplica on-line comanda.
+
+Georgeta N. Stoica
+
+Motivul: Format electronic AUTENTIC, conform Legii nr. 202/1998, republicata.
+Locatia:Bucuresti
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+ăMonitorul Oficial” R.A., Str. Parcului nr. 65, sectorul 1, București; C.I.F. RO427282,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala ăUnirea” București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 021.318.51.29/150, fax 021.318.51.15, e-mail: marketing@ramo.ro, internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 021.401.00.70, fax 021.401.00.71 și 021.401.00.72
+Tiparul: ăMonitorul Oficial” R.A.
+Monitorul Oficial al României, Partea I, nr. 629/7.IX.2010 conține 16 pagini.
+
+Prețul: 3,20 lei
+
+&JUYDGY|446151]
+ISSN 1453—4495
+
+

@@ -1,0 +1,1843 @@
+PARTEA I
+
+Anul 178 (XXII) — Nr. 498
+
+Luni, 19 iulie 2010
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+SUMAR
+
+Nr.
+
+Pagina
+LEGI ȘI DECRETE
+
+141.
+
+— Lege privind înființarea, organizarea și funcționarea
+Sistemului Informatic Național de Semnalări și
+participarea României la Sistemul de Informații
+Schengen ..................................................................
+
+2–13
+
+— Decret pentru promulgarea Legii privind înființarea,
+organizarea și funcționarea Sistemului Informatic
+Național de Semnalări și participarea României la
+Sistemul de Informații Schengen................................
+
+13
+
+163.
+
+— Lege pentru acceptarea de către Guvernul
+României a amendamentelor, adoptate la 30 iunie
+2007 la Bruxelles, la Convenția pentru înființarea unui
+consiliu de cooperare vamală, încheiată la
+15 decembrie 1950 la Bruxelles ................................
+
+14
+
+803.
+
+— Decret privind promulgarea Legii pentru acceptarea
+de către Guvernul României a amendamentelor,
+adoptate la 30 iunie 2007 la Bruxelles, la Convenția
+pentru înființarea unui consiliu de cooperare vamală,
+încheiată la 15 decembrie 1950 la Bruxelles..............
+
+15
+
+781.
+
+DECIZII
+13.
+
+— Decizie privind asigurarea conducerii Senatului în
+perioada 19 iulie—7 august 2010 ..............................
+
+15
+
+ACTE ALE CONSILIULUI SUPERIOR AL
+MAGISTRATURII
+596.
+
+— Hotărâre pentru completarea Regulamentului
+privind concediile judecătorilor și procurorilor, aprobat
+prin Hotărârea Plenului Consiliului Superior al
+Magistraturii nr. 325/2005 ..........................................
+
+15–16
+
+ACTE ALE BĂNCII NAȚIONALE A ROMÂNIEI
+23.
+
+— Circulară privind ratele dobânzilor plătite la
+rezervele minime obligatorii începând cu perioada de
+aplicare 24 iunie—23 iulie 2010 ................................
+
+16
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 498/19.VII.2010
+
+LEGI ȘI DECRETE
+PARLAMENTUL ROMÂNIEI
+C A M E R A D E P U TA Ț I L O R
+
+S E N AT U L
+
+LEGE
+privind înființarea, organizarea și funcționarea Sistemului Informatic Național de Semnalări
+și participarea României la Sistemul de Informații Schengen
+Pentru crearea cadrului juridic necesar aplicării Deciziei 2007/533/JAI a Consiliului din 12 iunie 2007 privind înființarea,
+funcționarea și utilizarea Sistemului de informații Schengen de a doua generație (SIS II), publicată în Jurnalul Oficial al Uniunii
+Europene (JOUE) nr. L. 205 din 7 august 2007, și pentru crearea cadrului juridic necesar aplicării directe a Regulamentului (CE)
+nr. 1.987/2006 al Parlamentului European și al Consiliului din 20 decembrie 2006 privind instituirea, funcționarea și utilizarea
+Sistemului de Informații Schengen din a doua generație (SIS II), publicat în Jurnalul Oficial al Uniunii Europene (JOUE) nr. L. 381
+din 28 decembrie 2006, și a Regulamentului (CE) nr. 1.986/2006 al Parlamentului European și al Consiliului din 20 decembrie
+2006 privind accesul la Sistemul de Informații Schengen din a doua generație (SIS II) al serviciilor competente, în statele membre,
+pentru eliberarea certificatelor de înmatriculare a vehiculelor, publicat în Jurnalul Oficial al Uniunii Europene (JOUE) nr. L. 381 din
+28 decembrie 2006,
+Parlamentul României adoptă prezenta lege.
+CAPITOLUL I
+Dispoziții generale
+Art. 1. — Prezenta lege reglementează înființarea,
+organizarea și funcționarea Sistemului Informatic Național de
+Semnalări și asigură cadrul juridic necesar utilizării de către
+autoritățile române a Sistemului de Informații Schengen.
+Art. 2. — În înțelesul prezentei legi, termenii și expresiile de
+mai jos au următoarea semnificație:
+a) Sistemul Informatic Național de Semnalări, denumit în
+continuare SINS, — sistemul informatic compatibil cu Sistemul
+de Informații Schengen de generația a doua, care conține
+semnalări de interes național și semnalări de interes Schengen
+introduse de către autoritățile naționale competente;
+b) Sistemul de Informații Schengen, denumit în continuare
+SIS, — sistemul informatic instituit la nivelul Uniunii Europene și
+utilizat de statele membre pentru cooperarea, prin schimb de
+informații, în vederea menținerii ordinii publice și securității
+naționale pe teritoriile acestora;
+c) copia națională a SIS — copia completă sau parțială a
+bazei de date a SIS, accesibilă pentru efectuarea de căutări de
+către autoritățile naționale competente;
+d) componenta națională a SIS, denumită în continuare
+N.SIS, — sistemul informatic constituit din SINS și copia
+națională a bazei de date centrale a SIS, care permite
+efectuarea de căutări de către autoritățile române;
+e) semnalare — setul de date introduse în SINS referitoare
+la persoane sau bunuri cu privire la care au fost dispuse unele
+măsuri, în condițiile legii, în vederea realizării unui interes public,
+a respectării regimului liberei circulații a persoanelor și bunurilor
+sau a asigurării ordinii și siguranței publice și a prevenirii unor
+amenințări la adresa securității naționale;
+f) semnalare de interes național — semnalarea introdusă de
+o autoritate națională competentă în SINS;
+g) semnalare de interes Schengen — semnalarea transmisă
+din SINS în SIS;
+h) autorități naționale competente — autoritățile publice
+române ale căror drepturi de acces la SINS sunt stabilite potrivit
+art. 5;
+i) stat membru — stat care utilizează SIS;
+j) stat asociat — statele cu care Uniunea Europeană a
+încheiat acorduri în vederea predării persoanelor pe baza unui
+mandat de arestare și care prevăd transmiterea unui astfel de
+mandat prin intermediul SIS;
+
+k) tranzacție — orice operație de introducere, modificare,
+ștergere sau consultare a datelor conținute în N.SIS;
+l) date adiționale — datele stocate în N.SIS în legătură cu
+semnalările din N.SIS și care sunt disponibile imediat după
+identificarea persoanelor ca urmare a căutărilor efectuate în
+acest sistem;
+m) informații suplimentare — informațiile care nu sunt stocate
+în SIS, dar care sunt în legătură cu semnalările din SIS și care
+urmează să fie transmise în cadrul schimbului de informații
+suplimentare;
+n) rezultat pozitiv — rezultatul obținut în urma efectuării unei
+căutări în N.SIS, concretizat în identificarea unei persoane sau
+a unui bun care face obiectul unei semnalări;
+o) Biroul SIRENE național — structura specializată din cadrul
+Ministerului Administrației și Internelor care asigură realizarea
+schimbului de informații suplimentare cu birourile SIRENE din
+celelalte state membre;
+p) reglementări aplicabile la nivelul SIS central — prevederile
+cuprinse în actele normative ale Uniunii Europene în baza
+cărora statele membre cooperează prin intermediul SIS;
+q) Manualul SIRENE — documentul adoptat la nivelul Uniunii
+Europene care cuprinde normele pentru schimbul de informații
+suplimentare între statele membre;
+r) control discret — obținerea unor date și informații
+referitoare la persoane sau bunuri cu privire la care a fost
+introdusă o semnalare în acest scop în SINS sau în SIS, cu
+ocazia desfășurării de către autoritățile române a controlului la
+trecerea frontierei de stat ori a altui tip de control polițienesc sau
+vamal, fără ca persoanele în cauză să fie informate despre
+existența respectivei semnalări, în scopul comunicării acestora
+către autoritatea care a introdus semnalarea;
+s) indicator de validitate — set de informații atașate unei
+semnalări din SIS care determină neexecutarea acțiunilor în
+baza semnalării respective sau executarea unor acțiuni
+alternative prevăzute de lege.
+CAPITOLUL II
+Sistemul Informatic Național de Semnalări
+SECȚIUNEA 1
+Înființarea și obiectivul general al SINS
+
+Art. 3. — (1) Se înființează SINS, cu respectarea
+protocoalelor și a procedurilor tehnice stabilite pentru SIS de
+generația a doua, potrivit art. 9 alin. (1) din Decizia 2007/533/JAI
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 498/19.VII.2010
+a Consiliului din 12 iunie 2007 privind înființarea, funcționarea și
+utilizarea Sistemului de informații Schengen de a doua generație
+(SIS II), publicată în Jurnalul Oficial al Uniunii Europene (JOUE)
+nr. L. 205 din 7 august 2007, astfel încât cele două sisteme
+informatice să fie compatibile.
+(2) SINS este destinat să asigure posibilitatea, pentru
+autoritățile naționale competente, ca prin intermediul unei
+proceduri automate să efectueze tranzacții cu privire la
+semnalările pe care le conține, în scopul îndeplinirii atribuțiilor
+legale.
+(3) SINS conține semnalări introduse de către autoritățile
+naționale competente cu privire la persoane sau bunuri
+corespunzător tipurilor prevăzute în prezenta lege.
+(4) De la data aplicării în totalitate de către România a
+dispozițiilor acquis-ului Schengen în temeiul deciziei Consiliului
+emise în acest sens, SINS asigură transmiterea semnalărilor de
+interes Schengen în SIS.
+SECȚIUNEA a 2-a
+Gestionarea și utilizarea SINS
+
+Art. 4. — (1) Ministerul Administrației și Internelor, prin
+Centrul Național SIS, este responsabil cu implementarea,
+funcționarea, întreținerea și securitatea SINS, precum și cu
+asigurarea accesului autorităților naționale competente la SINS.
+(2) Se înființează Comitetul tehnic, în coordonarea
+Ministerului Administrației și Internelor, ca organism cu atribuții
+de analiză și soluționare a problemelor de ordin tehnic ce pot
+apărea în funcționarea SINS, compus din reprezentanții la nivel
+de expert din partea autorităților naționale competente care au
+drept de acces la SINS.
+(3) Președintele Comitetului tehnic este șeful Centrului
+Național SIS.
+(4) Comitetul tehnic are următoarele atribuții principale:
+a) analizează activitatea de modernizare a sistemelor
+informatice și de comunicații participante la SINS, în vederea
+asigurării compatibilității între acestea și SINS;
+b) analizează problemele tehnice semnalate de autoritățile
+naționale competente, apărute în implementarea și funcționarea
+SINS, și propune modalități de soluționare;
+c) asigură informarea autorităților naționale competente cu
+privire la deciziile luate în cadrul grupurilor de lucru tehnice ale
+Uniunii Europene în domeniul SIS.
+(5) Comitetul tehnic se întrunește trimestrial sau ori de câte
+ori este nevoie, la convocarea președintelui comitetului.
+(6) Secretariatul Comitetului tehnic este asigurat de Centrul
+Național SIS.
+Art. 5. — (1) În termen de 60 de zile de la data intrării în
+vigoare a prezentei legi, prin hotărâre a Guvernului, la
+propunerea Ministerului Administrației și Internelor, se stabilesc
+drepturile de acces la SINS.
+(2) Drepturile de acces la SINS pentru introducere,
+modificare și ștergere se stabilesc, potrivit alin. (1), pentru
+autoritățile publice române care transmit datele specifice tipurilor
+de semnalări prevăzute la art. 6 din bazele de date proprii în
+SINS.
+(3) Instituțiile din sistemul judiciar vor avea obligația de a
+furniza datele specifice tipurilor de semnalări prevăzute la art. 6,
+atunci când sistemele informatice vor permite transmiterea
+automată a acestora.
+(4) Dreptul de acces la SINS pentru consultarea datelor se
+stabilește potrivit alin. (1), pentru:
+a) autoritățile publice române care au competențe de
+efectuare a controlului de frontieră, în conformitate cu
+Regulamentul (CE) nr. 562/2006 al Parlamentului European și al
+Consiliului din 15 martie 2006 de instituire a unui Cod comunitar
+privind regimul de trecere a frontierelor de către persoane
+
+3
+
+(Codul Frontierelor Schengen), publicat în Jurnalul Oficial al
+Uniunii Europene (JOUE) nr. L. 105 din 13 aprilie 2006;
+b) autoritățile publice române care au competențe de
+efectuare a controalelor polițienești ori vamale pe teritoriul
+României sau de coordonare a unor asemenea controale;
+c) autoritățile publice române care au competențe în
+aplicarea legislației privind regimul străinilor în România, inclusiv
+prin examinarea cererilor de viză și acordarea vizei;
+d) autoritățile publice române competente cu eliberarea
+certificatelor de înmatriculare a vehiculelor pentru semnalările
+prevăzute în Regulamentul (CE) nr. 1.986/2006 al Parlamentului
+European și al Consiliului din 20 decembrie 2006 privind accesul la
+Sistemul de Informații Schengen din a doua generație (SIS II) al
+serviciilor competente, în statele membre, pentru eliberarea
+certificatelor de înmatriculare a vehiculelor, publicat în Jurnalul Oficial
+al Uniunii Europene (JOUE) nr. L. 381 din 28 decembrie 2006;
+e) organele de urmărire penală și instanțele de judecată.
+(5) Autoritățile naționale competente utilizează datele
+cuprinse în semnalările la care au drept de acces, cu
+respectarea prevederilor art. 49.
+SECȚIUNEA a 3-a
+Semnalările introduse în SINS
+§ 1. Tipurile de semnalări și categoriile de date
+
+Art. 6. — În SINS se introduc următoarele tipuri de semnalări:
+a) cu privire la persoane căutate în vederea predării în baza
+unui mandat european de arestare sau în vederea extrădării;
+b) cu privire la persoane dispărute;
+c) cu privire la persoane căutate în vederea participării la o
+procedură judiciară;
+d) cu privire la persoane sau bunuri, în scopul efectuării de
+controale discrete;
+e) privind bunuri căutate pentru a fi confiscate sau folosite
+ca probe în cursul procedurilor penale;
+f) privind străinii, în scopul refuzului intrării pe teritoriul statului
+român sau în scopul executării unei măsuri prin care se interzice
+șederea pe teritoriul României.
+Art. 7. — (1) Semnalările din SINS cu privire la persoane
+cuprind cel mult următoarele elemente:
+a) numele și prenumele, numele dat la naștere și numele
+anterior, orice pseudonime ce pot fi introduse separat;
+b) semnele fizice particulare, obiective și inalterabile;
+c) data și locul nașterii;
+d) sexul;
+e) fotografiile;
+f) amprentele digitale;
+g) cetățenia;
+h) mențiunea că persoana vizată este înarmată, violentă sau
+evadată;
+i) motivul semnalării;
+j) autoritatea care emite semnalarea;
+k) mențiunile cu privire la decizia sau hotărârea care a stat la
+baza semnalării;
+l) măsurile ce trebuie luate;
+m) legătura cu alte semnalări;
+n) tipul infracțiunii.
+(2) Semnalările cu privire la persoane nu pot fi introduse în
+SINS fără datele prevăzute la alin. (1) lit. a), d), l) și, atunci când
+este cazul, lit. k).
+(3) Atunci când sunt disponibile, se introduc toate datele
+prevăzute la alin. (1).
+(4) Fotografiile și amprentele digitale se introduc numai după
+verificarea îndeplinirii unui standard minim de calitate în
+conformitate cu caracteristicile stabilite potrivit prevederilor
+Deciziei 2007/533/JAI a Consiliului, pentru semnalările
+prevăzute la art. 6 lit. a)—e), și potrivit prevederilor
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 498/19.VII.2010
+
+Regulamentului (CE) nr. 1.987/2006 al Parlamentului European
+și al Consiliului din 20 decembrie 2006 privind instituirea,
+funcționarea și utilizarea Sistemului de Informații Schengen din
+a doua generație (SIS II), publicat în Jurnalul Oficial al Uniunii
+Europene (JOUE) nr. L. 381 din 28 decembrie 2006, pentru
+semnalările prevăzute la art. 6 lit. f), și sunt folosite doar pentru
+confirmarea identității unei persoane ca urmare a realizării unui
+rezultat pozitiv la o semnalare din SINS.
+§ 2. Semnalări cu privire la persoane căutate în vederea predării în baza
+unui mandat european de arestare sau în vederea extrădării
+
+Art. 8. — (1) Semnalările cu privire la persoane căutate în
+vederea predării în baza unui mandat european de arestare se
+introduc în SINS, potrivit dispozițiilor referitoare la mandatul
+european de arestare, prevăzute în Legea nr. 302/2004 privind
+cooperarea judiciară internațională în materie penală, cu
+modificările și completările ulterioare.
+(2) Semnalările cu privire la persoane căutate în vederea
+extrădării se introduc în SINS, potrivit dispozițiilor referitoare la
+mandatul de urmărire internațională în vederea extrădării,
+prevăzute în Legea nr. 302/2004, cu modificările și completările
+ulterioare.
+Art. 9. — În cazul semnalărilor prevăzute la art. 8 alin. (1), în
+SINS se introduc și următoarele date adiționale:
+a) copia mandatului european de arestare;
+b) traducerea mandatului european de arestare în una sau
+mai multe dintre limbile oficiale ale instituțiilor Uniunii Europene,
+atunci când este disponibilă.
+§ 3. Semnalări cu privire la persoane dispărute
+
+Art. 10. — (1) Semnalările prevăzute la art. 6 lit. b) se
+introduc în SINS, pentru următoarele categorii de persoane:
+a) persoane dispărute care trebuie doar localizate;
+b) persoane dispărute care, după localizare, trebuie aduse în
+instituții sau unități sanitare;
+c) minori sau persoane puse sub interdicție care, după
+localizare, trebuie reîntoarse alături de reprezentanții lor legali.
+(2) Semnalările cu privire la persoanele dispărute care
+trebuie doar localizate se introduc în SINS de către autoritățile
+naționale competente la sesizarea oricărei persoane, dacă în
+urma verificărilor se constată că sesizarea privind dispariția
+persoanei respective este întemeiată.
+(3) Semnalările cu privire la persoanele dispărute care, după
+localizare, trebuie aduse în instituții sau unități sanitare se
+introduc în SINS de către autoritățile naționale competente, la
+sesizarea instituțiilor ori unităților sanitare, în baza documentelor
+emise de acestea, prin care se dispune internarea nevoluntară,
+în cazul persoanelor cu tulburări psihice, sau internarea
+obligatorie, în cazul persoanelor care suferă de boli
+transmisibile, ori în baza hotărârii instanței de judecată prin care
+s-a dispus internarea medicală sau internarea într-un institut
+medical-educativ, dacă, în urma verificărilor, se constată că
+sesizarea privind dispariția persoanei respective este
+întemeiată.
+(4) Semnalările cu privire la minori sau persoane puse sub
+interdicție care, după localizare, trebuie reîntoarse alături de
+reprezentanții lor legali se introduc de către autoritățile naționale
+competente la sesizarea oricărei persoane, dacă, în urma
+verificărilor, se constată că sesizarea privind dispariția persoanei
+respective este întemeiată.
+(5) În cuprinsul semnalărilor cu privire la persoane dispărute
+se menționează măsura ce trebuie luată în cazul identificării
+persoanei care face obiectul respectivei semnalări.
+Art. 11. — (1) În cazul identificării unei persoane majore cu
+privire la care a fost introdusă în SINS o semnalare din categoria
+celor prevăzute la art. 10 alin. (1) lit. a), aceasta este informată
+despre existența semnalării și i se solicită consimțământul cu
+
+privire la transmiterea informațiilor privind adresa la care
+locuiește către persoana care a sesizat dispariția.
+(2) Autoritatea națională competentă care a introdus
+semnalarea informează persoana care a sesizat dispariția cu
+privire la locul unde se află persoana în cauză numai dacă
+aceasta își dă consimțământul. În lipsa consimțământului,
+persoana care a sesizat dispariția este informată cu privire la
+faptul că semnalarea a fost ștearsă, deoarece persoana
+dispărută a fost localizată.
+Art. 12. — (1) În cazul identificării unei persoane cu privire la
+care a fost introdusă în SINS o semnalare din categoria celor
+prevăzute la art. 10 alin. (1) lit. b), se informează instituțiile sau
+unitățile sanitare ce au solicitat introducerea semnalării,
+solicitându-se și preluarea persoanei în cauză.
+(2) În cazul în care persoana nu poate fi preluată imediat,
+aceasta este internată, la recomandarea direcției de sănătate
+publică județene sau a municipiului București, în cea mai
+apropiată instituție sau unitate sanitară ce are capacitatea de a-i
+acorda un tratament adecvat, până la preluarea sa.
+Art. 13. — (1) În cazul identificării unei persoane cu privire la
+care a fost introdusă în SINS o semnalare din categoria celor
+prevăzute la art. 10 alin. (1) lit. c), se informează reprezentantul
+legal, solicitându-i-se și preluarea acesteia.
+(2) În cazul în care nu a fost identificat reprezentantul legal
+sau persoana nu poate fi preluată imediat de către
+reprezentantul legal, aceasta este plasată într-o instituție sau
+unitate sanitară ori într-un serviciu de protecție în condițiile legii,
+după caz, până la preluarea sa.
+§ 4. Semnalări cu privire la persoane căutate în vederea participării la o
+procedură judiciară
+
+Art. 14. — (1) Semnalările cu privire la persoanele căutate în
+vederea participării la o procedură judiciară se introduc în SINS
+de către autoritățile naționale competente, la solicitarea
+organelor de urmărire penală sau a instanței de judecată, pentru
+următoarele categorii:
+a) martorii;
+b) persoanele căutate pentru a fi citate în vederea prezentării
+în fața autorităților judiciare pentru a da declarații în legătură cu
+faptele pentru care sunt cercetate în cadrul unui proces penal;
+c) persoanele cărora urmează să li se comunice o hotărâre
+judecătorească sau alte documente privind activitățile din cadrul
+unui proces penal în care sunt cercetate;
+d) persoanele căutate în vederea executării unei măsuri
+educative care implică privarea de libertate.
+(2) În cazul identificării unei persoane cu privire la care a fost
+introdusă în SINS o semnalare din categoria celor prevăzute la
+alin. (1), se informează persoana în cauză cu privire la existența
+semnalării, se stabilește adresa la care aceasta locuiește și se
+comunică această informație organului de urmărire penală sau
+instanței de judecată care a solicitat introducerea semnalării.
+§ 5. Semnalări cu privire la persoane sau bunuri, în scopul efectuării de
+controale discrete
+
+Art. 15. — (1) Semnalările cu privire la persoane sau la
+vehicule, ambarcațiuni, aeronave și containere, în scopul
+efectuării de controale discrete, se introduc în SINS de către
+autoritățile naționale competente, la solicitarea organelor de
+urmărire penală.
+(2) Organele de urmărire penală pot solicita introducerea
+unei semnalări din categoria celor prevăzute la alin. (1), în
+scopul prevenirii și combaterii faptelor penale, în următoarele
+cazuri:
+a) atunci când există date și informații potrivit cărora o
+persoană intenționează să comită sau comite una dintre
+infracțiunile pentru care se poate emite mandat european de
+arestare potrivit Legii nr. 302/2004, cu modificările și
+completările ulterioare;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 498/19.VII.2010
+b) atunci când, în urma evaluării generale a unei persoane,
+se stabilesc indicii suficiente pentru a se presupune că acea
+persoană va mai comite una dintre infracțiunile pentru care se
+poate emite mandat european de arestare potrivit Legii
+nr. 302/2004, cu modificările și completările ulterioare;
+c) atunci când există date și informații că vehiculul,
+ambarcațiunea, aeronava sau containerul are legătură cu
+comiterea uneia dintre infracțiunile pentru care se poate emite
+mandat european de arestare potrivit Legii nr. 302/2004, cu
+modificările și completările ulterioare.
+(3) Evaluarea generală a unei persoane în cazul prevăzut la
+alin. (2) lit. b) are în vedere antecedentele penale pentru care nu
+a intervenit reabilitarea și care privesc săvârșirea unora dintre
+infracțiunile pentru care se poate emite mandat european de
+arestare potrivit Legii nr. 302/2004, cu modificările și
+completările ulterioare, precum și elementele ce influențează
+perspectivele reintegrării în societate a persoanei în cauză după
+executarea pedepsei, după grațiere sau prescrierea executării
+pedepsei.
+Art. 16. — (1) Semnalările cu privire la persoane sau la
+vehicule, ambarcațiuni, aeronave și containere, în scopul
+efectuării de controale discrete, se introduc în SINS de către
+autoritățile naționale competente, la solicitarea organelor de stat
+cu atribuții în domeniul securității naționale.
+(2) Organele de stat cu atribuții în domeniul securității
+naționale pot solicita introducerea unei semnalări din categoria
+celor prevăzute la alin. (1), în următoarele cazuri:
+a) atunci când există date sau indicii că informațiile prevăzute
+la art. 17 alin. (1) sunt necesare pentru a preveni o amenințare
+din partea persoanei vizate sau alte amenințări la adresa
+securității naționale;
+b) atunci când vehiculul, ambarcațiunea, aeronava sau
+containerul are legătură cu o amenințare la adresa securității
+naționale.
+Art. 17. — (1) Atunci când, cu ocazia desfășurării controlului
+la trecerea frontierei de stat ori a altui tip de control polițienesc
+sau vamal, autoritățile competente să efectueze astfel de
+controale identifică persoane, vehicule, ambarcațiuni, aeronave
+ori containere cu privire la care a fost introdusă în SINS o
+semnalare în scopul efectuării de controale discrete, culeg și
+transmit autorităților naționale competente care au introdus
+semnalarea cât mai multe dintre următoarele informații:
+a) faptul că a fost localizată persoana, vehiculul,
+ambarcațiunea, aeronava sau containerul;
+b) locul, data sau motivul verificării;
+c) ruta și destinația călătoriei;
+d) persoanele care însoțesc persoanele în cauză sau
+ocupanții vehiculului, ai ambarcațiunii ori aeronavei despre care
+se poate presupune, pe baza unui temei rațional, că sunt
+asociate cu persoanele în cauză;
+e) vehiculul, ambarcațiunea, aeronava sau containerul;
+f) bunurile transportate;
+g) împrejurările în care a fost localizată persoana, vehiculul,
+ambarcațiunea, aeronava sau containerul.
+(2) Procedura pentru culegerea informațiilor prevăzute la
+alin. (1) este cea stabilită pentru efectuarea controlului cu ocazia
+căruia sunt identificate persoanele, vehiculele, ambarcațiunile,
+aeronavele sau containerele cu privire la care a fost introdusă în
+SINS o semnalare în scopul efectuării de controale discrete.
+(3) Cu ocazia culegerii informațiilor prevăzute la alin. (1),
+persoanelor în cauză nu li se comunică faptul că în SINS există
+o semnalare în scopul efectuării de controale discrete.
+§ 6. Semnalări privind bunuri căutate pentru a fi confiscate sau folosite ca
+probe în cursul procedurilor penale
+
+Art. 18. — (1) Semnalările cu privire la bunuri căutate pentru
+a fi confiscate sau folosite ca probe în cursul procedurilor penale
+se introduc în SINS de către autoritățile naționale competente,
+
+5
+
+la solicitarea organelor de urmărire penală sau a instanței de
+judecată.
+(2) Semnalările prevăzute la alin. (1) se introduc cu privire la
+următoarele bunuri:
+a) autovehicule cu o capacitate cilindrică de peste 50 cm3,
+ambarcațiuni și aeronave;
+b) remorci cu o greutate care depășește 750 kg fără
+încărcătură, caravane, echipamente industriale, motoare
+exterioare și containere;
+c) arme de foc;
+d) documente oficiale în alb care au fost furate, utilizate în
+mod fraudulos sau pierdute;
+e) documente de identitate eliberate, de tipul pașapoartelor,
+cărților de identitate, permiselor de conducere, documentelor
+care atestă șederea, respectiv rezidența pe teritoriul României
+și documentelor de călătorie furate, însușite ilegal, pierdute sau
+anulate;
+f) certificate de înmatriculare ale vehiculelor care au fost
+furate, utilizate în mod fraudulos, pierdute sau anulate;
+g) bancnote;
+h) valori mobiliare și mijloace de plată, cum ar fi cecuri, cărți
+de credit, obligațiuni și acțiuni, care au fost furate, însușite ilegal,
+pierdute sau anulate.
+(3) Semnalările cu privire la bunurile prevăzute la alin. (2)
+lit. d) și e) se introduc în SINS de către autoritățile naționale
+competente și în baza sesizărilor privind pierderea acestora,
+primite de la orice persoană interesată, dacă se constată că
+sesizarea este întemeiată.
+(4) Tranzacțiile cu datele prevăzute la alin. (2) se realizează
+potrivit normelor tehnice stabilite în conformitate cu
+Decizia 2007/533/JAI a Consiliului.
+Art. 19. — În cazul identificării unui bun cu privire la care a
+fost introdusă în SINS o semnalare din categoria celor prevăzute
+la art. 18 alin. (1), se informează de îndată organul de urmărire
+penală sau instanța de judecată care a solicitat introducerea
+semnalării.
+§ 7. Semnalări privind străinii în scopul refuzului intrării pe teritoriul statului
+român sau în scopul executării unei măsuri prin care se interzice șederea pe
+teritoriul României
+
+Art. 20. — (1) Semnalările privind străinii se introduc de către
+autoritățile naționale competente în temeiul măsurilor care au
+ca efect interzicerea intrării pe teritoriul României sau
+interzicerea șederii pe teritoriul României, dispuse potrivit
+prevederilor Ordonanței de urgență a Guvernului nr. 194/2002
+privind regimul străinilor în România, republicată, cu
+completările ulterioare.
+(2) Efectuarea de tranzacții în SINS cu semnalările privind
+străinii în scopul refuzului intrării pe teritoriul statului român sau
+în scopul executării unei măsuri prin care se interzice șederea
+pe teritoriul României se realizează de către autoritățile
+naționale competente, potrivit prevederilor Regulamentului (CE)
+nr. 1.987/2006 al Parlamentului European și al Consiliului.
+CAPITOLUL III
+Participarea României la SIS
+SECȚIUNEA 1
+Înființarea și obiectivul general al N.SIS
+
+Art. 21. — (1) Se înființează N.SIS, cu respectarea
+protocoalelor și procedurilor tehnice stabilite pentru SIS de
+generația a doua, potrivit prevederilor Deciziei 2007/533/JAI a
+Consiliului, astfel încât cele două sisteme informatice să fie
+compatibile.
+(2) N.SIS este destinat să asigure posibilitatea pentru
+autoritățile naționale competente ca, prin intermediul unei
+proceduri automate, să efectueze tranzacții cu privire la
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 498/19.VII.2010
+
+semnalările pe care le conține, în scopul îndeplinirii atribuțiilor
+legale.
+(3) N.SIS conține semnalări introduse de către autoritățile
+naționale competente sau de către autoritățile competente din
+statele membre cu privire la persoane ori bunuri, corespunzător
+tipurilor prevăzute în reglementările aplicabile la nivelul SIS
+central.
+(4) N.SIS devine operațional de la data aplicării în totalitate
+de către România a dispozițiilor acquis-ului Schengen, în
+temeiul deciziei Consiliului emise în acest sens.
+SECȚIUNEA a 2-a
+Autorități cu competențe în gestionarea și exploatarea N.SIS
+
+Art. 22. — (1) Ministerul Administrației și Internelor, prin
+Centrul Național SIS, este responsabil cu implementarea,
+funcționarea, întreținerea și securitatea N.SIS, cu asigurarea
+conectării N.SIS la SIS central și managementul copiei naționale
+a bazei de date centrale a SIS, precum și cu asigurarea
+accesului autorităților române la N.SIS.
+(2) După data la care N.SIS devine operațional, Comitetul
+tehnic prevăzut la art. 4 alin. (2) are atribuții de analiză și
+soluționare a problemelor de ordin tehnic ce pot apărea în
+funcționarea acestuia.
+(3) Drepturile de acces la SINS ale autorităților naționale
+competente se extind și la copia națională a SIS, de la data la
+care N.SIS devine operațional.
+Art. 23. — Biroul SIRENE național are următoarele atribuții
+principale:
+a) asigură schimbul de informații suplimentare potrivit
+prevederilor cuprinse în Manualul SIRENE;
+b) realizează activitățile necesare în vederea adăugării sau
+ridicării unui indicator de validitate la semnalările din SIS;
+c) realizează activități pentru introducerea semnalărilor cu
+privire la persoane căutate în vederea predării în baza unui
+mandat european de arestare sau în vederea extrădării;
+d) desfășoară activitățile necesare în vederea implementării
+deciziilor luate la nivelul Uniunii Europene în domeniul de
+activitate al birourilor SIRENE;
+e) realizează statistici privind activitatea sa și le transmite
+periodic Secretariatului General al Consiliului;
+f) coordonează activitatea de verificare a calității informațiilor
+cuprinse în semnalările din N.SIS, în conformitate cu prevederile
+Manualului SIRENE;
+g) transmite autorității competente de la nivelul SIS central
+lista autorităților naționale competente, precum și orice
+modificare ulterioară a acesteia;
+h) asigură organizarea și desfășurarea misiunilor de
+predare/preluare sau extrădare a persoanelor arestate, în baza
+mandatului european de arestare ori a mandatului de urmărire
+internațională emis de autoritățile judiciare române, ulterior
+realizării unui rezultat pozitiv, în colaborare cu autoritățile
+naționale competente.
+Art. 24. — (1) Biroul SIRENE național asigură realizarea
+schimbului de informații suplimentare prin intermediul
+infrastructurii de comunicații aferente SIS sau, atunci când
+aceasta nu este accesibilă, prin alte mijloace tehnice, securizate
+în mod corespunzător pentru schimbul de informații
+suplimentare, în următoarele situații:
+a) atunci când este necesar ca autoritățile naționale
+competente și autoritățile din celelalte state membre să se
+consulte sau să se informeze reciproc la introducerea unei
+semnalări în SIS;
+b) ca urmare a realizării unui rezultat pozitiv pentru a permite
+luarea unei măsuri adecvate;
+c) în cazul în care măsura necesară corespunzătoare unei
+semnalări din SIS nu poate fi luată;
+
+d) atunci când se analizează calitatea datelor din conținutul
+semnalărilor din SIS;
+e) atunci când se analizează compatibilitatea și prioritatea
+unor semnalări;
+f) atunci când se analizează exercitarea dreptului de acces.
+(2) Autoritățile române utilizează informațiile suplimentare
+numai în scopul în care le-au fost transmise de către autoritățile
+celorlalte state membre.
+(3) Răspunsul la solicitările de informații suplimentare
+formulate de către autoritățile altor state membre se transmite de
+către autoritatea națională competentă care a introdus
+semnalarea în cauză, prin intermediul Biroului SIRENE național,
+cât mai repede posibil, dar nu mai târziu de 12 ore.
+(4) Autoritățile române care au solicitat autorităților naționale
+competente introducerea unor semnalări în SIS transmit
+informațiile suplimentare solicitate de către autoritățile altor state
+membre în legătură cu respectivele semnalări în cel mai scurt
+timp, astfel încât termenul prevăzut la alin. (3) să poată fi
+respectat.
+SECȚIUNEA a 3-a
+Semnalările introduse în SIS
+§ 1. Transmiterea semnalărilor în SIS
+
+Art. 25. — (1) Autoritatea națională competentă care a
+introdus o semnalare în SINS dispune transmiterea acelei
+semnalări în SIS în cazul în care, în urma verificărilor, se obțin
+date și informații din care rezultă necesitatea căutării
+persoanelor sau bunurilor în spațiul Schengen.
+(2) În cazul semnalărilor din SINS cu privire la persoane sau
+bunuri în scopul efectuării de controale discrete, transmiterea în
+SIS se face numai la solicitarea organelor de urmărire penală
+sau a organelor de stat cu atribuții în domeniul securității
+naționale.
+(3) Semnalările cu privire la minori sau persoane puse sub
+interdicție, introduse în SINS, se transmit direct în SIS de la data
+la care N.SIS devine operațional.
+(4) Semnalările privind străinii, introduse în SINS în scopul
+refuzului intrării pe teritoriul statului român sau în scopul
+executării unei măsuri prin care se interzice șederea pe teritoriul
+României, se transmit direct în SIS de la data la care N.SIS
+devine operațional.
+§ 2. Semnalări cu privire la persoane căutate în vederea predării în baza
+unui mandat european de arestare sau în vederea extrădării
+
+Art. 26. — După transmiterea în SIS a unei semnalări din
+categoria celor prevăzute la art. 8 alin. (1), Biroul SIRENE
+național informează, în cadrul schimbului de informații
+suplimentare, birourile SIRENE din celelalte state membre cu
+privire la introducerea semnalării și comunică acestora
+informațiile prevăzute la art. 79 alin. (1) din Legea nr. 302/2004,
+cu modificările și completările ulterioare, în cadrul schimbului de
+informații suplimentare.
+Art. 27. — (1) După transmiterea în SIS a unei semnalări din
+categoria celor prevăzute la art. 8 alin. (2), Biroul SIRENE
+național informează, în cadrul schimbului de informații
+suplimentare, birourile SIRENE din celelalte state membre cu
+privire la introducerea semnalării și comunică acestora
+informațiile prevăzute la art. 29 alin. (1) din Decizia 2007/533/JAI
+a Consiliului.
+(2) Biroul SIRENE național nu comunică birourilor SIRENE
+din celelalte state membre informațiile prevăzute la alin. (1) dacă
+a transmis anterior, cu privire la aceeași persoană, informațiile
+prevăzute la art. 9 sau cele prevăzute la art. 79 alin. (1) din
+Legea nr. 302/2004, cu modificările și completările ulterioare, iar
+acestea sunt suficiente pentru executarea acțiunilor în baza
+semnalării de către autoritățile celorlalte state membre.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 498/19.VII.2010
+Art. 28. — (1) După primirea la Biroul SIRENE național a
+comunicării referitoare la introducerea în SIS de către un alt stat
+membru a unei semnalări cu privire la persoane căutate în
+vederea predării în baza unui mandat european de arestare sau
+în vederea extrădării, procurorul sau judecătorul detașat în
+cadrul Biroului SIRENE național verifică dacă arestarea în baza
+acelei semnalări este compatibilă cu legislația națională, cu
+obligațiile asumate de România prin documente juridice de
+cooperare internațională sau cu interesele naționale vitale și
+solicită Biroului SIRENE național întreprinderea demersurilor
+necesare pentru adăugarea unui indicator de validitate, atunci
+când constată incompatibilitatea.
+(2) În vederea realizării atribuțiilor prevăzute la alin. (1),
+Ministerul Administrației și Internelor solicită Consiliului Superior
+al Magistraturii, în condițiile legii, detașarea procurorului sau
+judecătorului în cadrul Biroului SIRENE național.
+(3) Autoritatea judiciară română de executare a mandatului
+european de arestare solicită Biroului SIRENE național
+întreprinderea demersurilor necesare pentru adăugarea unui
+indicator de validitate la semnalarea din SIS introdusă de alt stat
+membru în baza unui mandat european de arestare pe care
+autoritatea judiciară respectivă refuză să îl execute în temeiul
+art. 88 din Legea nr. 302/2004, cu modificările și completările
+ulterioare.
+(4) Autoritatea judiciară română care ar fi competentă să
+dispună cu privire la executarea unui mandat european de
+arestare, la sesizarea procurorului, solicită Biroului SIRENE
+național întreprinderea demersurilor necesare pentru adăugarea
+unui indicator de validitate la semnalarea introdusă în SIS de
+către un alt stat membru în baza unui mandat european de
+arestare pe care ar refuza să îl execute, în temeiul art. 88 din
+Legea nr. 302/2004, cu modificările și completările ulterioare,
+dacă persoana în cauză ar fi găsită.
+(5) Biroul SIRENE național colaborează cu Biroul SIRENE
+din statul membru care a introdus semnalarea prevăzută la
+alin. (1), (3) sau (4), în vederea adăugării unui indicator de
+validitate pentru ca arestarea să nu se efectueze de către
+autoritățile române.
+(6) Semnalările introduse de celelalte state membre privind
+persoane căutate în vederea predării în baza unui mandat
+european de arestare sau în vederea extrădării, care au atașat
+indicatorul de validitate prevăzut la alin. (5), nu constituie temei
+pentru arestarea persoanei în cauză de către autoritățile
+române, ci doar pentru comunicarea locului unde se află
+aceasta.
+(7) Semnalările cu privire la persoane căutate în vederea
+extrădării, introduse de celelalte state membre, constituie temei
+doar pentru comunicarea locului unde se află persoana cu
+privire la care a fost introdusă semnalarea până în momentul în
+care se dispune arestarea provizorie în vederea extrădării
+potrivit prevederilor art. 45 din Legea nr. 302/2004, cu
+modificările și completările ulterioare.
+(8) La solicitarea întemeiată a autorităților competente ale
+statului membru care a introdus semnalarea ce are atașat
+indicatorul de validitate prevăzut la alin. (5), în cazuri urgente și
+grave, autoritatea judiciară română competentă să dispună cu
+privire la executarea mandatului european de arestare sau a
+cererii de extrădare dispune retragerea indicatorului de validitate
+și arestarea persoanei în cauză în vederea predării ori arestarea
+provizorie în vederea extrădării.
+Art. 29. — (1) La primirea unei solicitări din partea Biroului
+SIRENE al altui stat membru privind adăugarea unui indicator de
+validitate la o semnalare cu privire la persoane căutate în
+vederea predării în baza unui mandat european de arestare ori
+în vederea extrădării, Biroul SIRENE național adaugă indicatorul
+de validitate solicitat și informează de îndată autoritatea judiciară
+română care a emis mandatul european de arestare sau
+
+7
+
+mandatul de urmărire internațională în vederea extrădării ce stă
+la baza introducerii respectivei semnalări.
+(2) Autoritatea judiciară română care a emis mandatul
+european de arestare sau mandatul de urmărire internațională
+ce stă la baza introducerii semnalării transmite, prin intermediul
+Biroului SIRENE național, în cazuri urgente și grave, o solicitare
+motivată pentru ridicarea indicatorului de validitate adăugat
+potrivit alin. (1).
+Art. 30. — (1) Semnalările introduse în SIS în baza art. 26 din
+Decizia 2007/533/JAI a Consiliului de către statele asociate
+echivalează cu semnalările cu privire la persoane căutate în
+vederea predării în baza unui mandat european de arestare.
+(2) Mandatele de arestare emise de statele asociate,
+transmise prin intermediul SIS, echivalează cu mandatele
+europene de arestare.
+§ 3. Semnalări cu privire la persoane dispărute
+
+Art. 31. — (1) În cazul primirii unei comunicări referitoare la
+localizarea pe teritoriul altui stat membru a unei persoane
+majore cu privire la care a fost transmisă în SIS o semnalare din
+categoria celor prevăzute la art. 10 alin. (1) lit. a), autoritatea
+națională competentă care a introdus semnalarea informează
+persoana care a sesizat dispariția cu privire la locul unde se află
+persoana respectivă numai dacă aceasta își dă consimțământul.
+În lipsa consimțământului, persoana care a sesizat dispariția
+este informată cu privire la faptul că semnalarea a fost ștearsă,
+deoarece persoana dispărută a fost localizată.
+(2) În cazul primirii unei comunicări referitoare la localizarea
+pe teritoriul altui stat membru a unei persoane cu privire la care
+a fost transmisă în SIS o semnalare din categoria celor
+prevăzute la art. 10 alin. (1) lit. b), autoritatea națională
+competentă care a introdus semnalarea, în colaborare cu
+instituțiile sau unitățile sanitare care au sesizat dispariția,
+întreprind toate demersurile necesare pentru preluarea
+persoanei în cauză.
+(3) În cazul primirii unei comunicări referitoare la localizarea
+pe teritoriul altui stat membru a unei persoane cu privire la care
+a fost transmisă în SIS o semnalare din categoria celor
+prevăzute la art. 10 alin. (1) lit. c), autoritățile române întreprind
+toate demersurile necesare pentru reîntoarcerea acesteia alături
+de reprezentanții ei legali.
+Art. 32. — (1) În cazul identificării pe teritoriul României a
+unei persoane majore cu privire la care a fost introdusă în SIS
+de către un alt stat membru o semnalare cu privire la dispariția
+sa, aceasta este informată despre existența semnalării și i se
+solicită consimțământul cu privire la transmiterea informațiilor
+privind adresa la care locuiește către persoana care a sesizat
+dispariția.
+(2) Informațiile privind persoana localizată și cele privind
+consimțământul acesteia se transmit statului membru care a
+introdus semnalarea prin intermediul Biroului SIRENE național.
+Art. 33. — (1) În cazul identificării pe teritoriul României a
+unei persoane cu privire la care a fost introdusă în SIS de către
+un alt stat membru o semnalare cu privire la dispariția și
+necesitatea punerii sale sub protecție, aceasta este internată,
+la recomandarea direcției de sănătate publică județene sau a
+municipiului București, într-o instituție sau unitate sanitară ce
+are capacitatea de a-i acorda un tratament adecvat, până la
+preluarea sa de către autoritățile statului care a introdus
+semnalarea.
+(2) Informațiile privind locul unde este internată persoana în
+cauză se transmit statului membru care a introdus semnalarea
+prin intermediul Biroului SIRENE național de către autoritatea
+care a realizat rezultatul pozitiv.
+Art. 34. — (1) În cazul identificării pe teritoriul României a
+unui minor sau a unei persoane puse sub interdicție cu privire la
+care a fost introdusă în SIS de către un alt stat membru o
+semnalare cu privire la dispariția sa, aceasta este plasată, după
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 498/19.VII.2010
+
+caz, într-o instituție ori unitate sanitară sau într-un serviciu de
+protecție în condițiile legii, până la preluarea sa de către
+reprezentatul legal sau de către autoritățile statului care a
+introdus semnalarea.
+(2) Informațiile privind locul unde se găsește minorul sau cel
+pus sub interdicție se transmit statului membru care a introdus
+semnalarea prin intermediul Biroului SIRENE național.
+Art. 35. — (1) Instanța de judecată competentă teritorial, la
+cererea persoanei pe numele căreia a fost introdusă o
+semnalare cu privire la dispariția și necesitatea punerii sale sub
+protecție de un alt stat membru, dispune ca Biroul SIRENE
+național să întreprindă demersurile necesare pentru adăugarea
+unui indicator de validitate la semnalarea respectivă, dacă
+internarea persoanei în cauză în instituții sau unități sanitare în
+baza acelei semnalări nu este compatibilă cu legislația
+națională, cu obligațiile asumate de România prin documente
+juridice de cooperare internațională ori cu interesele naționale
+vitale.
+(2) La primirea cererii prevăzute la alin. (1), instanța de
+judecată dispune, prin ordonanță președințială, dacă persoana
+în cauză urmează a fi internată sau nu într-o instituție ori unitate
+sanitară, până la soluționarea cauzei.
+(3) În cazul identificării pe teritoriul României a unei persoane
+majore cu privire la care a fost introdusă în SIS de către un alt
+stat membru o semnalare cu privire la dispariția sa la momentul
+când aceasta era minoră, se solicită Biroului SIRENE național
+întreprinderea demersurilor necesare pentru adăugarea unui
+indicator de validitate la semnalarea respectivă.
+(4) Biroul SIRENE național colaborează cu Biroul SIRENE
+din statul membru care a introdus semnalarea prevăzută la
+alin. (1) sau (3) în vederea adăugării unui indicator de validitate
+la aceasta, astfel încât persoana în cauză să nu fie localizată
+de către autoritățile române.
+(5) La solicitarea întemeiată a autorităților competente ale
+statului membru care a introdus semnalarea ce are atașat
+indicatorul de validitate prevăzut la alin. (1), în cazuri urgente și
+grave, instanța de judecată care a dispus adăugarea
+indicatorului de validitate hotărăște, cu citarea persoanei în
+cauză, dacă acesta poate fi ridicat.
+(6) Hotărârea instanței se comunică de către Biroul SIRENE
+național Biroului SIRENE din statul membru care a introdus
+semnalarea.
+(7) La primirea unei solicitări privind adăugarea unui indicator
+de validitate la o semnalare cu privire la o persoană dispărută,
+Biroul SIRENE național adaugă indicatorul de validitate solicitat
+și informează de îndată autoritatea națională competentă care
+a transmis semnalarea în SIS.
+(8) Autoritatea națională competentă care a transmis în SIS
+o semnalare cu privire la persoane dispărute care trebuie
+plasate sub protecție, din oficiu sau la solicitarea instituțiilor ori
+unităților sanitare transmite, prin intermediul Biroului SIRENE
+național, în cazuri urgente și grave, o solicitare motivată privind
+ridicarea indicatorului de validitate adăugat potrivit alin. (7).
+§ 4. Semnalări cu privire la persoane căutate în vederea participării la o
+procedură judiciară
+
+Art. 36. — (1) În cazul primirii unei comunicări referitoare la
+localizarea pe teritoriul altui stat membru a unei persoane cu
+privire la care a fost transmisă în SIS o semnalare cu privire la
+persoane căutate în vederea participării la o procedură judiciară,
+Biroul SIRENE național transmite de îndată informațiile primite
+organului de urmărire penală sau instanței de judecată care a
+solicitat introducerea semnalării.
+(2) În cazul identificării pe teritoriul României a unei persoane
+cu privire la care a fost introdusă în SIS de către un alt stat
+membru o semnalare cu privire la persoane căutate în vederea
+participării la o procedură judiciară, autoritățile române
+informează persoana în cauză cu privire la existența semnalării,
+
+stabilesc adresa la care aceasta locuiește și comunică această
+informație statului membru care a introdus semnalarea, prin
+intermediul Biroului SIRENE național.
+§ 5. Semnalări cu privire la persoane sau bunuri în scopul efectuării de
+controale discrete
+
+Art. 37. — (1) După transmiterea în SIS a unei semnalări
+pentru efectuarea controlului discret la solicitarea organelor de
+stat cu atribuții în domeniul securității naționale, Biroul SIRENE
+național informează, în cadrul schimbului de informații
+suplimentare, birourile SIRENE din celelalte state membre cu
+privire la introducerea semnalării.
+(2) După primirea unei comunicări referitoare la introducerea
+în SIS de către un alt stat membru a unei semnalări pentru
+efectuarea de controale discrete, Biroul SIRENE național
+informează organele de stat cu atribuții în domeniul securității
+naționale.
+Art. 38. — (1) Autoritățile române care identifică, cu ocazia
+desfășurării controlului la trecerea frontierei de stat sau a altui tip
+de control polițienesc ori vamal, persoane, vehicule,
+ambarcațiuni, aeronave sau containere cu privire la care a fost
+introdusă în SIS de către un alt stat membru o semnalare în
+scopul efectuării de controale discrete, culeg și transmit Biroului
+SIRENE național cât mai multe dintre informațiile prevăzute la
+art. 17 alin. (1).
+(2) Biroul SIRENE național transmite Biroului SIRENE al
+statului membru care a introdus semnalarea informațiile primite
+potrivit alin. (1), în cadrul schimbului de informații suplimentare.
+(3) Prevederile art. 17 alin. (3) se aplică în mod
+corespunzător.
+Art. 39. — După primirea unei comunicări din partea Biroului
+SIRENE al altui stat membru referitoare la persoane, vehicule,
+ambarcațiuni, aeronave sau containere, cu privire la care a fost
+transmisă în SIS o semnalare în scopul efectuării de controale
+discrete, Biroul SIRENE național transmite informațiile primite
+autorității competente care a transmis semnalarea sau organului
+de stat cu atribuții în domeniul prevenirii și contracarării
+amenințărilor la adresa securității naționale care a solicitat
+transmiterea semnalării în SIS.
+Art. 40. — Semnalările cu privire la persoane sau bunuri în
+scopul efectuării de controale specifice, introduse de alte state
+membre, echivalează, pe teritoriul României, cu semnalări în
+scopul efectuării de controale discrete.
+Art. 41. — (1) Organele de urmărire penală sau organele de
+stat cu atribuții în domeniul securității naționale pot solicita
+Biroului SIRENE național întreprinderea demersurilor necesare
+pentru adăugarea unui indicator de validitate la semnalările, în
+scopul efectuării de controale discrete, introduse de alte state
+membre, dacă efectuarea controlului discret de către autoritățile
+române în baza acelei semnalări nu este compatibilă cu
+legislația națională, cu obligațiile asumate de România prin
+documente juridice de cooperare internațională sau cu
+interesele naționale vitale.
+(2) Biroul SIRENE național colaborează cu Biroul SIRENE
+din statul membru care a introdus semnalarea prevăzută la
+alin. (1) în vederea adăugării unui indicator de validitate la
+aceasta, astfel încât controlul discret să nu se efectueze de
+către autoritățile române.
+(3) La solicitarea întemeiată a autorităților competente ale
+statului membru care a introdus semnalarea ce are atașat
+indicatorul de validitate prevăzut la alin. (2), în cazuri urgente și
+grave, organele de urmărire penală sau organele de stat cu
+atribuții în domeniul securității naționale ce au solicitat
+adăugarea indicatorului de validitate comunică, în termen de
+5 zile lucrătoare, Biroului SIRENE național dacă sunt sau nu de
+acord cu ridicarea acestuia.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 498/19.VII.2010
+(4) După primirea acordului prevăzut la alin. (3), Biroul
+SIRENE național solicită Biroului SIRENE din statul membru
+care a introdus semnalarea ridicarea indicatorului de validitate.
+(5) La primirea unei solicitări din partea autorităților altui stat
+membru privind adăugarea unui indicator de validitate la o
+semnalare în scopul efectuării de controale discrete, Biroul
+SIRENE național adaugă indicatorul de validitate solicitat și
+informează de îndată organele de urmărire penală sau organele
+de stat cu atribuții în domeniul securității naționale care au
+introdus ori au solicitat introducerea semnalării.
+(6) Organele de urmărire penală sau organele de stat cu
+atribuții în domeniul securității naționale pot transmite, prin
+intermediul Biroului SIRENE național, în cazuri urgente și grave,
+o solicitare motivată privind ridicarea unui indicator de validitate
+adăugat potrivit alin. (5).
+§ 6. Semnalări privind bunuri căutate pentru a fi confiscate sau folosite ca
+probe în cursul procedurilor penale
+
+Art. 42. — (1) În cazul primirii unei comunicări referitoare la
+localizarea pe teritoriul altui stat membru a unui bun cu privire la
+care a fost transmisă în SIS o semnalare din categoria celor
+prevăzute la art. 18 alin. (1), Biroul SIRENE național transmite
+de îndată informațiile primite organului de urmărire penală sau
+instanței de judecată care a solicitat introducerea semnalării.
+(2) În cazul identificării pe teritoriul României a unui bun cu
+privire la care a fost introdusă în SIS de către un alt stat membru
+o semnalare cu privire la bunuri căutate pentru a fi confiscate
+sau folosite ca probe în cursul procedurilor penale, autoritățile
+române dispun măsurile necesare în vederea confiscării ori
+ridicării bunului potrivit legislației penale sau procesual penale,
+după caz, și comunică informațiile cu privire la măsurile luate
+statului membru care a introdus semnalarea, prin intermediul
+Biroului SIRENE național.
+§ 7. Semnalări privind străinii, în scopul refuzului intrării pe teritoriul statului
+român sau în scopul executării unei măsuri prin care se interzice șederea pe
+teritoriul României
+
+Art. 43. — Schimbul de informații suplimentare în legătură
+cu semnalările de interes Schengen din categoria celor
+prevăzute la art. 20 transmise în SIS se realizează de către
+autoritățile naționale competente, prin intermediul Biroului
+SIRENE național, potrivit prevederilor Regulamentului (CE)
+nr. 1.987/2006 al Parlamentului European și al Consiliului.
+§ 8. Informarea
+
+Art. 44. — (1) În toate cazurile când a fost obținut un rezultat
+pozitiv, autoritățile competente care au identificat bunuri sau
+persoane cu privire la care au fost introduse semnalări în SIS
+informează Biroul SIRENE național în scop statistic.
+(2) În situația în care măsurile solicitate printr-o semnalare
+din SIS nu pot fi realizate, autoritățile naționale competente
+informează despre aceasta statul membru care a introdus
+semnalarea, prin intermediul Biroului SIRENE național.
+(3) Biroul SIRENE național comunică autorității naționale
+competente care a transmis o semnalare în SIS informarea
+primită de la un alt stat membru privind imposibilitatea realizării
+măsurilor solicitate prin acea semnalare.
+SECȚIUNEA a 4-a
+Accesul EUROPOL și EUROJUST și cooperarea cu INTERPOL
+
+Art. 45. — Autoritățile naționale competente transmit acordul
+cu privire la utilizarea de către EUROPOL sau EUROJUST a
+informațiilor cuprinse în semnalările transmise în SIS, în termen
+de 10 zile de la primirea solicitării.
+Art. 46. — (1) Prin excepție de la prevederile art. 56,
+autoritățile române pot face schimb de informații cuprinse în
+semnalările din SIS cu autoritățile statelor membre INTERPOL,
+în condițiile stabilite prin acordul încheiat potrivit art. 55 din
+Decizia 2007/533/JAI a Consiliului.
+
+9
+
+(2) Informațiile ce pot fi schimbate sunt numărul, țara
+emitentă și tipul de document al pașapoartelor furate, însușite
+ilegal, pierdute sau anulate.
+CAPITOLUL IV
+Dispoziții comune pentru semnalările conținute în SINS
+și pentru cele transmise în SIS
+SECȚIUNEA 1
+Perioada de păstrare a semnalărilor
+
+Art. 47. — (1) Semnalările cu privire la persoane, introduse
+în SINS sau transmise în SIS, sunt păstrate în sistemul respectiv
+numai pentru perioada necesară atingerii scopului pentru care
+au fost introduse.
+(2) În termen de 3 ani de la introducerea unei semnalări cu
+privire la persoane, autoritatea națională competentă care a
+introdus-o analizează, împreună cu autoritățile române care au
+solicitat introducerea, atunci când este cazul, necesitatea
+menținerii acesteia pentru scopul în care a fost introdusă în
+SINS sau transmisă în SIS. În cazul semnalărilor de interes
+național sau de interes Schengen în scopul efectuării de
+controale discrete, care privesc persoanele, termenul în care se
+face analiza este de un an de la introducerea semnalării.
+(3) Dacă în urma analizei se decide că este necesară
+menținerea semnalării, autoritatea națională competentă
+introduce în SINS sau în SIS o solicitare privind prelungirea
+perioadei de valabilitate a semnalării. Prevederile alin. (2) se
+aplică în mod corespunzător de la prelungirea valabilității.
+(4) Semnalările pentru care nu a fost introdusă o solicitare
+privind prelungirea perioadei de valabilitate în termenele
+prevăzute la alin. (2) sunt șterse automat.
+(5) SINS și SIS generează automat notificări cu privire la
+ștergerea programată a semnalărilor ce privesc persoanele
+înainte de împlinirea termenelor prevăzute la alin. (2).
+(6) Centrul Național SIS, în colaborare cu autoritățile
+naționale competente, realizează statistici separate pentru
+semnalările conținute în SINS și pentru cele transmise în SIS
+privind numărul de semnalări cu privire la persoane pentru care
+s-a solicitat prelungirea perioadei de valabilitate.
+Art. 48. — (1) Semnalările cu privire la bunuri, introduse în
+SINS sau transmise în SIS, sunt păstrate în sistemul respectiv
+numai pentru perioada necesară atingerii scopului pentru care
+au fost introduse.
+(2) Perioada de păstrare în SINS sau în SIS a semnalărilor
+cu privire la bunuri este de:
+a) 5 ani pentru semnalările de interes național sau de interes
+Schengen din categoria celor prevăzute la art. 15 alin. (1) și la
+art. 16 alin. (1);
+b) 10 ani pentru semnalările de interes național sau de
+interes Schengen din categoria celor prevăzute la art. 18
+alin. (1).
+(3) Autoritatea națională competentă analizează, împreună
+cu autoritatea română care a solicitat introducerea, dacă
+menținerea unei semnalări peste termenele prevăzute la alin. (2)
+este necesară pentru scopul în care a fost introdusă în SINS
+sau transmisă în SIS. Prevederile alin. (2) se aplică în mod
+corespunzător de la prelungirea valabilității.
+SECȚIUNEA a 2-a
+Reguli privind efectuarea de tranzacții asupra semnalărilor
+din SINS și din SIS
+§ 1. Efectuarea de tranzacții asupra semnalărilor de interes național sau de
+interes Schengen care fac parte din categoriile prevăzute la art. 6 lit. a)—e)
+
+Art. 49. — (1) Autoritățile naționale competente efectuează
+tranzacții asupra semnalărilor existente în N.SIS numai în
+scopurile pentru care au fost introduse, în limita competențelor
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 498/19.VII.2010
+
+legale, și asigură accesul la acestea numai personalului
+autorizat în acest sens, potrivit atribuțiilor de serviciu. Datele
+cuprinse în semnalările existente în N.SIS nu pot fi utilizate în
+scopuri administrative.
+(2) Datele cuprinse în semnalările existente în N.SIS pot fi
+copiate în scopuri tehnice pentru asigurarea posibilității de
+consultare directă de către autoritățile naționale competente.
+(3) Dispozițiile prezentei legi se aplică și pentru copiile
+realizate potrivit alin. (2).
+(4) Este interzisă copierea în alte baze de date naționale a
+datelor cuprinse în semnalările introduse de autoritățile
+naționale competente în SINS sau transmise în SIS.
+(5) Copiile realizate potrivit alin. (2) pot fi păstrate pentru o
+perioadă de 48 de ore. Perioada poate fi prelungită, în caz de
+urgență, până la încetarea urgenței.
+(6) Centrul Național SIS ține evidența la zi a copiilor realizate
+potrivit alin. (2). Autoritatea Națională de Supraveghere a
+Prelucrării Datelor cu Caracter Personal, denumită în continuare
+A.N.S.P.D.C.P., are acces la aceste copii, în exercitarea
+atribuțiilor legale.
+(7) Datele cuprinse în semnalările existente în N.SIS pot fi
+utilizate în alte scopuri decât cele pentru care au fost introduse
+respectivele semnalări, atunci când acest lucru este necesar
+pentru a preveni o amenințare gravă și iminentă la adresa ordinii
+și siguranței publice, pentru motive întemeiate legate de
+securitatea națională sau pentru a preveni comiterea unei
+infracțiuni pentru care se poate emite mandat european de
+arestare potrivit Legii nr. 302/2004, cu modificările și
+completările ulterioare.
+(8) Datele cuprinse în semnalările introduse în SIS de
+celelalte state membre pot fi utilizate potrivit alin. (7) numai după
+obținerea acordului din partea autorității care a introdus
+semnalarea în cauză. Solicitarea se transmite prin intermediul
+schimbului de informații suplimentare.
+(9) Autoritățile naționale competente care primesc o cerere
+din partea autorităților altui stat membru pentru utilizarea datelor
+în alte scopuri decât cele pentru care au fost introduse în SIS
+analizează cererea, împreună cu autoritățile române care au
+solicitat introducerea semnalării, atunci când este cazul, și
+comunică, prin intermediul schimbului de informații
+suplimentare, răspunsul cu privire la utilizarea datelor
+respective.
+Art. 50. — (1) Prin excepție de la prevederile art. 49 alin. (4),
+pot fi stocate în bazele de date naționale datele cuprinse în
+semnalările existente în N.SIS în legătură cu care s-au luat
+măsuri de către autoritățile române. Aceste date sunt stocate
+pentru o perioadă de cel mult 3 ani sau pentru perioada
+prevăzută în dispozițiile legale ce stabilesc o perioadă mai mare
+de stocare a respectivelor categorii de date.
+(2) Prin excepție de la prevederile art. 49 alin. (4), datele
+cuprinse în semnalările de interes național ori de interes
+Schengen pot fi păstrate în bazele de date ale autorității
+naționale competente care a introdus respectiva semnalare în
+SINS sau a transmis-o în SIS.
+Art. 51. — (1) Autoritatea națională competentă care
+introduce o semnalare în SINS sau transmite o semnalare în
+SIS se asigură că datele din cuprinsul acesteia sunt exacte și
+actuale, precum și că introducerea sau transmiterea respectivei
+semnalări se face în baza dispozițiilor legale în vigoare.
+(2) Numai autoritatea națională competentă care a introdus
+o semnalare în SINS sau a transmis o semnalare în SIS are
+dreptul să modifice, să suplimenteze, să corecteze ori să
+șteargă datele pe care le-a introdus până la expirarea duratei
+de valabilitate a semnalării.
+(3) Autoritățile române care au drept de acces comunică
+autorității naționale competente sau autorității dintr-un alt stat
+membru care a introdus o semnalare, de îndată, dar nu mai
+
+târziu de 10 zile de la data la care a luat cunoștință de acestea,
+dovezile din care rezultă faptul că cel puțin una dintre datele
+cuprinse în semnalarea în cauză este incorectă sau a fost
+introdusă ilegal.
+(4) Comunicarea dovezilor prevăzute la alin. (3) către
+autoritățile altor state membre se face prin intermediul
+schimbului de informații suplimentare. În cazul comunicărilor
+adresate autorităților naționale competente se informează și
+Biroul SIRENE național.
+(5) Autoritățile naționale competente informate cu privire la
+faptul că cel puțin una dintre datele cuprinse într-o semnalare
+introdusă de aceasta în SINS sau transmisă în SIS este
+incorectă ori a fost introdusă ilegal cercetează dovezile
+prezentate în acest sens în termen de 5 zile lucrătoare și, în
+cazul în care constată că informarea este corectă, modifică sau
+șterge de îndată datele respective ori, în situația constatării că
+aceasta nu este corectă, comunică acest lucru autorității care a
+transmis informarea.
+(6) În cazul în care autoritățile române care au efectuat o
+comunicare potrivit alin. (3) și autoritățile din celelalte state
+membre informate în acest fel nu ajung la un acord cu privire la
+situația datelor în cauză în termen de două luni de la
+transmiterea informării, Biroul SIRENE național informează
+despre acest fapt Autoritatea Europeană pentru Protecția
+Datelor.
+(7) În cazul în care o autoritate națională competentă
+primește o solicitare din partea unei persoane care susține că
+poate fi confundată cu persoana care face în realitate obiectul
+unei semnalări existente în N.SIS, aceasta informează persoana
+respectivă cu privire la procedura prevăzută la art. 53.
+(8) În cazul în care o autoritate națională competentă
+intenționează să introducă o semnalare cu privire la o persoană
+care face deja obiectul unei semnalări existente în N.SIS,
+aceasta se pune de acord cu autoritatea care a introdus
+semnalarea anterioară în baza regulilor privind compatibilitatea
+semnalărilor și ordinea de prioritate stabilite în cuprinsul
+Manualului SIRENE.
+(9) În cazul în care autoritatea care a introdus semnalarea
+anterioară este dintr-un alt stat membru, se utilizează schimbul
+de informații suplimentare pentru a se ajunge la un acord.
+Art. 52. — (1) În cazul în care se constată, în momentul
+introducerii unei noi semnalări în SINS sau transmiterii unei
+semnalări în SIS, că în sistemul respectiv există o semnalare cu
+privire la o persoană ale cărei date de identificare sunt similare,
+Biroul SIRENE național întreprinde măsurile specifice pentru a
+clarifica dacă aceasta se referă sau nu la aceeași persoană.
+(2) În cazul în care verificarea coroborată arată că persoana
+care face obiectul noii semnalări și persoana cu privire la care
+există deja o semnalare în sistemul respectiv sunt identice, se
+aplică procedura prevăzută la art. 51 alin. (8).
+(3) În cazul în care rezultatul verificării arată că în cauză sunt
+două persoane diferite, Biroul SIRENE național aprobă cererea
+de introducere a semnalării, adăugând elementele necesare
+pentru a evita orice identificare eronată.
+Art. 53. — (1) În cazul în care se constată că persoana care
+face obiectul unei semnalări din SINS sau din SIS nu este
+aceeași cu persoana care este localizată în urma realizării unui
+rezultat pozitiv, autoritatea națională competentă care a introdus
+semnalarea adaugă în sistemul respectiv date privitoare la cea
+de a doua persoană, pentru a evita consecințele negative ale
+identificării eronate.
+(2) Datele introduse potrivit alin. (1) sunt folosite doar în
+următoarele scopuri:
+a) pentru a permite autorităților române sau autorităților altui
+stat membru, după caz, să facă distincție între persoana care
+face obiectul semnalării și persoana care este localizată în urma
+realizării unui rezultat pozitiv;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 498/19.VII.2010
+b) pentru a permite persoanei localizate în urma realizării
+unui rezultat pozitiv să dovedească faptul că nu este una și
+aceeași cu persoana care face obiectul semnalării.
+(3) Pot fi adăugate și prelucrate, în temeiul alin. (1), numai cu
+acordul persoanei în cauză, următoarele date cu caracter
+personal:
+a) numele și prenumele, numele dat la naștere și numele
+folosit anterior și orice alte pseudonime care pot fi introduse
+separat;
+b) semnele fizice particulare, obiective și inalterabile;
+c) data și locul nașterii;
+d) sexul;
+e) fotografiile;
+f) amprentele digitale;
+g) cetățenia;
+h) numărul documentelor de identitate și data emiterii
+acestora.
+(4) Adăugarea și prelucrarea datelor prevăzute la alin. (3) se
+fac potrivit normelor tehnice stabilite în baza prevederilor
+Deciziei 2007/533/JAI a Consiliului.
+(5) Datele prevăzute la alin. (3) se șterg odată cu semnalarea
+la care au fost atașate sau, anterior ștergerii semnalării, dacă
+persoana în cauză solicită acest lucru.
+(6) Datele prevăzute la alin. (3) sunt consultate numai de
+autoritățile care au drept de acces la semnalarea la care au fost
+adăugate.
+Art. 54. — (1) Autoritățile naționale competente, atunci când
+este necesar, din motive operative, creează conexiuni între
+semnalările proprii ori între semnalările proprii și semnalările altor
+autorități naționale competente, în scopul evidențierii legăturii
+dintre două sau mai multe semnalări de interes național ori dintre
+două sau mai multe semnalări de interes Schengen. Conexiunea
+se introduce în SINS sau se transmite în SIS, după caz.
+(2) Crearea unei conexiuni între semnalări nu afectează
+măsurile necesare a fi întreprinse în baza semnalărilor
+respective, nici perioada de valabilitate a acestora.
+(3) Crearea unei conexiuni între semnalări nu afectează
+dreptul de acces al autorităților naționale competente. Acestea
+nu au acces la conexiunile create cu o semnalare la care nu au
+drept de acces.
+(4) Autoritățile naționale competente care au drept de acces
+la conexiunile create în SIS, atunci când consideră că una dintre
+acestea nu este compatibilă cu legislația națională sau cu
+obligațiile asumate de România prin documente juridice de
+cooperare internațională, solicită Biroului SIRENE național
+întreprinderea demersurilor necesare pentru ca respectiva
+conexiune să nu fie accesibilă pentru autoritățile române.
+(5) Biroul SIRENE național solicită Centrului Național SIS
+luarea măsurilor tehnice pentru limitarea accesului autorităților
+române la conexiunea în cauză.
+(6) Conexiunile între semnalările din SINS sau între
+semnalările transmise la SIS se realizează potrivit procedurilor
+tehnice stabilite în baza prevederilor Deciziei 2007/533/JAI a
+Consiliului.
+Art. 55. — (1) Biroul SIRENE național, în cooperare cu
+autoritățile naționale competente, constituie o evidență ce
+cuprinde mențiuni referitoare la deciziile de transmitere a
+semnalărilor în SIS pentru sprijinirea schimbului de informații
+suplimentare.
+(2) Datele cu caracter personal comunicate prin intermediul
+Biroului SIRENE național în urma unui schimb de informații
+suplimentare se șterg imediat ce nu mai sunt necesare pentru
+realizarea scopului în care au fost furnizate, dar nu mai târziu de
+un an de la data ștergerii din SIS a semnalării în legătură cu
+care au fost furnizate.
+(3) Prin excepție de la prevederile alin. (2), pot fi păstrate la
+nivel național datele cu caracter personal furnizate în cadrul
+
+11
+
+schimbului de informații suplimentare în legătură cu semnalările
+transmise în SIS de autoritățile naționale competente sau cu
+semnalările din SIS în baza cărora au fost luate măsuri de către
+autoritățile române. Aceste date sunt păstrate pentru o perioadă
+de cel mult 3 ani de la data ștergerii din SIS a semnalării în
+legătură cu care au fost furnizate sau pentru perioada prevăzută
+în dispozițiile legale ce stabilesc o perioadă mai mare de stocare
+a respectivelor categorii de date.
+Art. 56. — Este interzisă transmiterea de către autoritățile
+naționale competente a datelor cu caracter personal utilizate în
+legătură cu semnalările din N.SIS către autoritățile statelor care
+nu participă la SIS sau către organizațiile internaționale.
+§ 2. Efectuarea de tranzacții asupra semnalărilor de interes național sau de
+interes Schengen care fac parte din categoria prevăzută la art. 6 lit. f)
+
+Art. 57. — Efectuarea de tranzacții asupra semnalărilor de
+interes național sau de interes Schengen care fac parte din
+categoria prevăzută la art. 6 lit. f) se face potrivit prevederilor
+cuprinse în Regulamentul (CE) nr. 1.987/2006 al Parlamentului
+European și al Consiliului și în Manualul SIRENE.
+SECȚIUNEA a 3-a
+Securitatea datelor
+
+Art. 58. — (1) Ministerul Administrației și Internelor, prin
+Centrul Național SIS, împreună cu autoritățile naționale
+competente sunt obligate să elaboreze un plan de securitate și
+să adopte măsurile de securitate necesare în legătură cu
+gestionarea și utilizarea N.SIS în ceea ce privește:
+a) protecția fizică a datelor, inclusiv prin întocmirea unui plan
+de rezervă pentru protecția infrastructurii critice;
+b) controlul accesului la echipamente, pentru a împiedica
+accesul persoanelor neautorizate la echipamentele de
+prelucrare a datelor cu caracter personal;
+c) controlul suportului de date, pentru a împiedica citirea,
+copierea, modificarea sau ștergerea suportului de date în mod
+neautorizat;
+d) controlul stocării, pentru a împiedica introducerea
+neautorizată de date și inspectarea, modificarea sau ștergerea
+neautorizată a datelor cu caracter personal;
+e) controlul utilizării, pentru a împiedica utilizarea sistemelor
+de prelucrare automată a datelor de către persoane
+neautorizate cu ajutorul echipamentelor de transmitere a
+datelor;
+f) controlul accesului la date, pentru a limita accesul
+persoanelor autorizate să utilizeze un sistem de prelucrare
+automată a datelor, în baza unei identități unice și individuale
+de utilizator și a unui mod de acces confidențial, numai la datele
+pentru care au fost autorizate;
+g) asigurarea faptului că toate autoritățile care au acces la
+N.SIS sau la echipamentele de prelucrare a datelor din acest
+sistem își creează profiluri care descriu competențele și
+responsabilitățile specifice ale persoanelor cu autorizație de
+acces, introducere, actualizare, ștergere și căutare a datelor și
+pun fără întârziere aceste profiluri la dispoziția A.N.S.P.D.C.P.;
+h) controlul comunicațiilor aferente N.SIS, astfel încât să se
+poată asigura verificarea și stabilirea organismelor cărora le pot
+fi transmise datele cu caracter personal, folosind echipamentele
+de comunicații;
+i) controlul introducerii de date pentru a se asigura că este
+posibil ulterior să se verifice și să se stabilească ce date cu
+caracter personal au fost introduse în sistemele de prelucrare
+automată a datelor, când și în ce scop au fost introduse datele;
+j) controlul transportului de date pentru a împiedica citirea,
+copierea, modificarea ori ștergerea neautorizată a datelor cu
+caracter personal în timpul transmiterii acestora ori în timpul
+transportului de suporturi de date prin intermediul măsurilor
+tehnice de securizare.
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 498/19.VII.2010
+
+(2) Măsurile de securitate prevăzute la alin. (1) se aplică în
+mod corespunzător și schimbului de informații suplimentare.
+(3) Fiecare autoritate română care are drept de acces la
+datele din N.SIS asigură aplicarea măsurilor de securitate
+prevăzute la alin. (1) și cooperează cu A.N.S.P.D.C.P.
+(4) Ministerul Administrației și Internelor, prin Centrul Național
+SIS, monitorizează aplicarea măsurilor de securitate prevăzute
+la alin. (1).
+Art. 59. — (1) Măsurile de securitate prevăzute la art. 58
+alin. (1) se stabilesc și se aplică potrivit următoarelor principii:
+a) confidențialității — asigurarea accesului la date numai
+pentru persoanele autorizate potrivit atribuțiilor de serviciu;
+b) integrității — asigurarea exactității și caracterului complet
+al informațiilor, precum și a metodelor de prelucrare;
+c) disponibilității — asigurarea accesului la informații în
+termenul solicitat;
+d) identificării și autentificării — asigurarea identificării și
+autentificării tuturor utilizatorilor în mod corespunzător, în funcție
+de competențe, înainte de efectuarea oricărei tranzacții;
+e) autorizării — autorizarea participanților la efectuarea unei
+tranzacții, în vederea accesării datelor din N.SIS, în funcție de
+competențe;
+f) nonrepudierii — asigurarea înregistrării în sistem a
+tranzacțiilor efectuate asupra datelor din N.SIS și atribuirea
+acestora utilizatorilor participanți la efectuarea lor.
+(2) Ministerul Administrației și Internelor, prin Centrul Național
+SIS, și autoritățile române care au drept de acces la N.SIS iau
+măsuri pentru prevenirea pierderii informațiilor existente în
+sistem în cazul producerii unor dezastre naturale, precum și
+pentru asigurarea recuperării acestora.
+Art. 60. — (1) Toate tranzacțiile efectuate asupra datelor din
+N.SIS de către autoritățile naționale competente sunt
+înregistrate în sistem în scopul monitorizării legalității efectuării
+tranzacțiilor asupra acestor date, asigurării funcționării tehnice
+corespunzătoare a N.SIS, precum și a integrității și securității
+datelor. Utilizarea înregistrărilor în alte scopuri este interzisă.
+(2) Înregistrările prevăzute la alin. (1) conțin datele din
+cuprinsul semnalării, istoricul semnalării, data și ora transmiterii
+de date în legătură cu semnalarea respectivă, datele folosite
+pentru efectuarea unei căutări, mențiuni cu privire la datele
+transmise, denumirea autorității și numele persoanei care a
+efectuat tranzacții asupra datelor.
+(3) Istoricul semnalărilor cuprinde toate acțiunile realizate
+asupra semnalărilor din N.SIS de la momentul introducerii până
+la ștergerea lor.
+(4) Înregistrările prevăzute la alin. (1) se păstrează pentru o
+perioadă de cel puțin un an, dar nu mai mult de 3 ani de la
+creare. Pentru înregistrările care cuprind istoricul semnalărilor,
+perioada de păstrare se calculează de la data ștergerii
+semnalărilor.
+(5) Prin excepție de la prevederile alin. (4), înregistrările pot
+fi păstrate pentru o perioadă mai mare, dacă sunt necesare
+pentru procedurile de monitorizare aflate în curs de desfășurare.
+(6) Ministerul Administrației și Internelor, prin Centrul Național
+SIS, pune la dispoziția A.N.S.P.D.C.P., la solicitarea acestei
+instituții, înregistrările prevăzute la alin. (1).
+SECȚIUNEA a 4-a
+Protecția persoanelor cu privire la prelucrarea datelor
+cu caracter personal
+
+Art. 61. — (1) Accesarea și exploatarea datelor cu caracter
+personal conținute în N.SIS se fac potrivit dispozițiilor legale în
+materia protecției persoanelor cu privire la prelucrarea datelor cu
+caracter personal și cu respectarea Convenției pentru protejarea
+persoanelor față de prelucrarea automatizată a datelor cu
+caracter personal, adoptată la Strasbourg la 28 ianuarie 1981,
+ratificată prin Legea nr. 682/2001, cu modificările ulterioare,
+
+exclusiv de către autoritățile naționale competente și numai în
+scopul îndeplinirii atribuțiilor stabilite prin lege și în condițiile
+prevăzute de aceasta.
+(2) Efectuarea de tranzacții în SIS cu datele prevăzute în
+prima teză a art. 6 din Convenția pentru protejarea persoanelor
+față de prelucrarea automatizată a datelor cu caracter personal,
+adoptată la Strasbourg la 28 ianuarie 1981, ratificată de
+România prin Legea nr. 682/2001, cu modificările ulterioare,
+este interzisă.
+Art. 62. — (1) Drepturile persoanei vizate în contextul
+prelucrării datelor cu caracter personal în SINS sau în SIS se
+exercită potrivit prevederilor Legii nr. 677/2001 pentru protecția
+persoanelor cu privire la prelucrarea datelor cu caracter
+personal și libera circulație a acestor date, cu modificările și
+completările ulterioare, cu derogările prevăzute de prezenta
+lege.
+(2) Cererile persoanelor vizate în contextul prelucrării datelor
+cu caracter personal în SINS sau în SIS se adresează numai
+Biroului SIRENE național, care răspunde solicitantului cât mai
+curând posibil, dar nu mai târziu de 60 de zile de la data primirii
+cererii, în cazul exercitării dreptului de acces la datele personale,
+și cât mai curând posibil, dar nu mai târziu de 90 de zile de la
+data primirii cererii, în cazul exercitării dreptului de rectificare și
+ștergere a datelor personale, prin derogare de la prevederile
+Legii nr. 677/2001, cu modificările și completările ulterioare.
+(3) Cererile se pot depune la Biroul SIRENE național sau la
+orice operator din cadrul Ministerului Administrației și Internelor
+ori al unei structuri teritoriale a acestuia, care transmite cererea
+Biroului SIRENE național, în termen de 5 zile de la data primirii
+acesteia.
+(4) Pentru a comunica solicitantului informații cu privire la
+datele cu caracter personal prelucrate în SINS sau în SIS, Biroul
+SIRENE național solicită acordul autorităților naționale
+competente care au introdus semnalările în cauză. Acordul se
+comunică în termen de 20 de zile de la data primirii solicitării din
+partea Biroului SIRENE național.
+(5) În cazul semnalărilor introduse în SIS de alt stat membru,
+cererile persoanelor vizate se soluționează de către Biroul
+SIRENE național numai după solicitarea poziției statului membru
+care a introdus semnalarea. Biroul SIRENE național solicită
+poziția prin schimbul de informații suplimentare.
+(6) Biroul SIRENE național comunică, în termen de 40 de zile
+de la primirea solicitării, acordul cu privire la transmiterea de
+către un alt stat membru a datelor cu caracter personal cuprinse
+sau în legătură cu semnalările transmise de autoritățile naționale
+competente în SIS, numai cu acordul acestora. Acordul se
+comunică în termen de 20 de zile de la data primirii solicitării din
+partea Biroului SIRENE național.
+(7) Persoanei vizate nu îi sunt comunicate informațiile privind
+prelucrarea datelor cu caracter personal în SINS sau în SIS atât
+timp cât acest lucru este indispensabil pentru realizarea
+acțiunilor în baza semnalării ori a obiectivului semnalării sau
+pentru apărarea drepturilor și libertăților altor persoane.
+Art. 63. — Atunci când instanța de judecată examinează
+corecta aplicare a prevederilor art. 16 din Legea nr. 677/2001, cu
+modificările și completările ulterioare, administrarea probelor se
+face în camera de consiliu.
+Art. 64. — (1) Legalitatea prelucrării datelor cu caracter
+personal în N.SIS pe teritoriul României și transmiterea acestor
+date în străinătate, precum și schimbul și procesarea ulterioară
+a informațiilor suplimentare sunt monitorizate și se supun
+controlului A.N.S.P.D.C.P.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 498/19.VII.2010
+(2) Auditarea operațiunilor de prelucrare a datelor cu caracter
+personal în N.SIS se efectuează de către A.N.S.P.D.C.P., în
+conformitate cu standardele internaționale de audit, cel puțin o
+dată la 4 ani.
+(3) Sumele necesare pentru realizarea atribuțiilor prevăzute
+la alin. (1) se suportă de la bugetul de stat și sunt prevăzute
+anual în bugetul A.N.S.P.D.C.P.
+CAPITOLUL V
+Dispoziții tranzitorii și finale
+Art. 65. — (1) Sursele de finanțare pentru înființarea și
+operaționalizarea componentelor N.SIS sunt asigurate din
+fonduri de la bugetul de stat, din fonduri PHARE și din fonduri
+alocate prin Facilitatea Schengen.
+(2) Finanțarea cheltuielilor curente și de capital aferente
+întreținerii și desfășurării activității N.SIS se asigură de la
+bugetul de stat, prin bugetul aprobat Ministerului Administrației
+și Internelor, în condițiile legii.
+Art. 66. — (1) În termen de 30 de zile de la data intrării în
+vigoare a hotărârii Guvernului prevăzute la art. 5 alin. (1),
+autoritățile naționale competente adoptă reglementări interne
+prin care stabilesc procedurile de lucru pentru activitățile proprii
+aferente semnalărilor din SINS sau SIS.
+(2) Procedurile de lucru pentru activitățile autorităților
+naționale competente din cadrul Ministerului Administrației și
+Internelor se aprobă prin ordin al ministrului.
+
+13
+
+Art. 67. — (1) Prevederile prezentei legi referitoare la
+participarea României la SIS întră în vigoare la data aplicării în
+totalitate de către România a dispozițiilor acquis-ului Schengen
+în temeiul deciziei Consiliului emise în acest sens,
+corespunzător reglementărilor aplicabile la nivelul SIS central.
+(2) Până la data operaționalizării SIS de generația a doua la
+nivel central, Ministerul Administrației și Internelor, prin Centrul
+Național SIS, asigură tranzacționarea datelor dintre N.SIS și SIS
+central conform reglementărilor aplicabile la nivelul SIS central,
+în funcție de etapele de dezvoltare ale SIS.
+(3) La data intrării în vigoare a prezentei legi se abrogă
+Ordonanța de urgență a Guvernului nr. 128/2005 privind
+înființarea, organizarea și funcționarea Sistemului Informatic
+Național de Semnalări, publicată în Monitorul Oficial al
+României, Partea I, nr. 866 din 26 septembrie 2005, aprobată cu
+modificări și completări prin Legea nr. 345/2005, Hotărârea
+Guvernului nr. 1.411/2006 pentru aprobarea Normelor de
+aplicare a Ordonanței de urgență a Guvernului nr. 128/2005
+privind înființarea, organizarea și funcționarea Sistemului
+Informatic Național de Semnalări, publicată în Monitorul Oficial
+al României, Partea I, nr. 856 din 19 octombrie 2006, precum și
+Hotărârea Guvernului nr. 769/2006 privind aprobarea Planului
+de implementare a Sistemului Informatic Național de Semnalări,
+publicată în Monitorul Oficial al României, Partea I, nr. 536 din
+21 iunie 2006.
+
+Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 și ale art. 76 alin. (2) din
+Constituția României, republicată.
+PREȘEDINTELE CAMEREI DEPUTAȚILOR
+
+PREȘEDINTELE SENATULUI
+
+ROBERTA ALMA ANASTASE
+
+MIRCEA-DAN GEOANĂ
+
+București, 12 iulie 2010.
+Nr. 141.
+
+PREȘEDINTELE ROMÂNIEI
+
+DECRET
+pentru promulgarea Legii privind înființarea, organizarea
+și funcționarea Sistemului Informatic Național de Semnalări
+și participarea României la Sistemul de Informații Schengen
+În temeiul prevederilor art. 77 alin. (1) și ale art. 100 alin. (1) din Constituția
+României, republicată,
+Președintele României d e c r e t e a z ă:
+Articol unic. — Se promulgă Legea privind înființarea, organizarea și
+funcționarea Sistemului Informatic Național de Semnalări și participarea României
+la Sistemul de Informații Schengen și se dispune publicarea acestei legi în
+Monitorul Oficial al României, Partea I.
+PREȘEDINTELE ROMÂNIEI
+
+TRAIAN BĂSESCU
+București, 9 iulie 2010.
+Nr. 781.
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 498/19.VII.2010
+PARLAMENTUL ROMÂNIEI
+C A M E R A D E P U TA Ț I L O R
+
+S E N AT U L
+
+LEGE
+pentru acceptarea de către Guvernul României
+a amendamentelor, adoptate la 30 iunie 2007 la Bruxelles,
+la Convenția pentru înființarea unui consiliu de cooperare
+vamală, încheiată la 15 decembrie 1950 la Bruxelles
+Parlamentul României adoptă prezenta lege.
+Articol unic. — Guvernul României acceptă amendamentele, adoptate la
+30 iunie 2007 de Consiliul de cooperare vamală, la art. VIII și XVIII din Convenția
+pentru înființarea unui consiliu de cooperare vamală, încheiată la 15 decembrie
+1950 la Bruxelles, la care România a aderat prin Decretul nr. 980/1968, publicat
+în Buletinul Oficial nr. 138 din 31 octombrie 1968.
+Această lege a fost adoptată de Parlamentul României, cu respectarea
+prevederilor art. 75 și ale art. 76 alin. (2) din Constituția României, republicată.
+PREȘEDINTELE CAMEREI DEPUTAȚILOR
+
+PREȘEDINTELE SENATULUI
+
+ROBERTA ALMA ANASTASE
+
+MIRCEA-DAN GEOANĂ
+
+București, 12 iulie 2010.
+Nr. 163.
+
+Amendarea*) Convenției pentru înființarea
+unui consiliu de cooperare vamală
+1. Articolul VIII litera a) se amendează după cum urmează:
+ăa) cu excepția uniunilor vamale sau economice membre pentru care
+consiliul a adoptat dispoziții specifice, fiecare membru al consiliului dispune de un
+vot; totuși, niciun membru nu poate participa la vot în ceea ce privește problemele
+relative la interpretarea sau aplicarea convențiilor în vigoare menționate la art. III
+lit. d) care nu îi sunt aplicabile și nici în ceea ce privește amendamentele relative
+la aceste convenții.”
+2. După articolul XVIII litera c) se introduce o nouă literă, litera d), după
+cum urmează:
+ăd) orice uniune vamală sau economică poate, în conformitate cu dispozițiile
+lit. a), b) și c), să devină parte contractantă la prezenta convenție. Orice cerere
+formulată de o uniune vamală sau economică pentru a deveni parte contractantă
+trebuie mai întâi supusă consiliului pentru aprobare. În sensul prezentei convenții,
+prin uniune vamală sau economică se înțelege o uniune formată și compusă din
+state, care are competență pentru adoptarea propriilor reglementări, care au
+caracter obligatoriu pentru aceste state în domeniile acoperite de prezenta
+convenție, și pentru a decide, în conformitate cu procedurile interne, să adere la
+prezenta convenție.”
+*) Traducere.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 498/19.VII.2010
+PREȘEDINTELE ROMÂNIEI
+
+DECRET
+privind promulgarea Legii pentru acceptarea
+de către Guvernul României a amendamentelor,
+adoptate la 30 iunie 2007 la Bruxelles, la Convenția
+pentru înființarea unui consiliu de cooperare vamală,
+încheiată la 15 decembrie 1950 la Bruxelles
+În temeiul prevederilor art. 77 alin. (1) și ale art. 100 alin. (1) din Constituția
+României, republicată,
+Președintele României d e c r e t e a z ă:
+Articol unic. — Se promulgă Legea pentru acceptarea de către Guvernul
+României a amendamentelor, adoptate la 30 iunie 2007 la Bruxelles, la Convenția
+pentru înființarea unui consiliu de cooperare vamală, încheiată la 15 decembrie
+1950 la Bruxelles, și se dispune publicarea acestei legi în Monitorul Oficial al
+României, Partea I.
+PREȘEDINTELE ROMÂNIEI
+
+TRAIAN BĂSESCU
+București, 9 iulie 2010.
+Nr. 803.
+
+DECIZII
+PARLAMENTUL ROMÂNIEI
+S E N AT U L
+
+DECIZIE
+privind asigurarea conducerii Senatului
+în perioada 19 iulie—7 august 2010
+În conformitate cu art. 40 alin. (2) din Regulamentul Senatului, aprobat prin
+Hotărârea Senatului nr. 28/2005, cu modificările ulterioare,
+Președintele Senatului d e c i d e:
+Articol unic. — În perioada 19 iulie—7 august 2010, conducerea Senatului va
+fi asigurată de domnul senator Dan Voiculescu, vicepreședinte al Senatului.
+PREȘEDINTELE SENATULUI
+
+MIRCEA-DAN GEOANĂ
+București, 19 iulie 2010.
+Nr. 13.
+
+ACTE ALE CONSI LI ULUI SUPERI O R
+AL MAG I STRATURI I
+CONSILIUL SUPERIOR AL MAGISTRATURII
+PLENUL
+
+HOTĂRÂRE
+pentru completarea Regulamentului privind concediile
+judecătorilor și procurorilor, aprobat prin Hotărârea Plenului
+Consiliului Superior al Magistraturii nr. 325/2005
+Având în vedere dispozițiile art. 106 lit. i) din Legea nr. 303/2004 privind
+statutul judecătorilor și procurorilor, republicată, cu modificările și completările
+ulterioare,
+în temeiul prevederilor art. 133 alin. (5) și (7) din Constituția României,
+republicată, și ale art. 38 alin. (1) din Legea nr. 317/2004 privind Consiliul Superior
+al Magistraturii, republicată, cu modificările și completările ulterioare,
+
+15
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 498/19.VII.2010
+Plenul Consiliului Superior al Magistraturii h o t ă r ă ș t e:
+Art. I. — Regulamentul privind concediile judecătorilor și procurorilor, aprobat
+prin Hotărârea Plenului Consiliului Superior al Magistraturii nr. 325/2005, publicată
+în Monitorul Oficial al României, Partea I, nr. 815 din 8 septembrie 2005, cu
+modificările și completările ulterioare, se completează după cum urmează:
+— La articolul 13, după litera g) se introduce o nouă literă, litera h), cu
+următorul cuprins:
+ăh) pensionare.”
+Art. II. — Prezenta hotărâre se publică în Monitorul Oficial al României,
+Partea I.
+Președintele Consiliului Superior al Magistraturii,
+judecător Florica Bejinaru
+București, 1 iulie 2010.
+Nr. 596.
+
+ACTE ALE BĂNCII NAȚIONALE A ROMÂNIEI
+BANCA NAȚIONALĂ A ROMÂNIEI
+
+CIRCULARĂ
+privind ratele dobânzilor plătite la rezervele minime obligatorii
+începând cu perioada de aplicare 24 iunie—23 iulie 2010
+În baza dispozițiilor art. 5 și art. 8 alin. (3) din Legea nr. 312/2004 privind
+Statutul Băncii Naționale a României,
+în aplicarea prevederilor art. 15, 16 și 17 din Regulamentul Băncii Naționale
+a României nr. 6/2002 privind regimul rezervelor minime obligatorii, cu modificările
+și completările ulterioare,
+în temeiul art. 48 din Legea nr. 312/2004,
+Consiliul de administrație al Băncii Naționale a României h o t ă r ă ș t e:
+Începând cu perioada de aplicare 24 iunie—23 iulie 2010, ratele dobânzilor
+plătite la rezervele minime obligatorii sunt următoarele:
+— 1,84% pe an pentru rezervele minime obligatorii constituite în lei;
+— 1,08% pe an pentru rezervele minime obligatorii constituite în euro;
+— 1,06% pe an pentru rezervele minime obligatorii constituite în dolari SUA.
+Președintele Consiliului de administrație
+al Băncii Naționale a României,
+Mugur Constantin Isărescu
+București, 8 iulie 2010.
+Nr. 23.
+
+Georgeta N. Stoica
+
+Motivul: Format electronic AUTENTIC, conform Legii nr. 202/1998, republicata.
+Locatia:Bucuresti
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+ăMonitorul Oficial” R.A., Str. Parcului nr. 65, sectorul 1, București; C.I.F. RO427282,
+IBAN: RO55RNCB0082006711100001 Banca Comercială Română — S.A. — Sucursala ăUnirea” București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 021.318.51.29/150, fax 021.318.51.15, e-mail: marketing@ramo.ro, internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 021.401.00.70, fax 021.401.00.71 și 021.401.00.72
+Tiparul: ăMonitorul Oficial” R.A.
+Monitorul Oficial al României, Partea I, nr. 498/19.VII.2010 conține 16 pagini.
+
+Prețul: 3,20 lei
+
+&JUYDGY|444843]
+ISSN 1453—4495
+
+

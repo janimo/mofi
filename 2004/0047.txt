@@ -1,0 +1,1756 @@
+PARTEA
+
+Anul 172 (XVI) Ñ Nr. 47
+
+I
+
+Marți, 20 ianuarie 2004
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE BÃNCII NAÞIONALE A ROMÂNIEI
+
+17/2003. Ñ Norme privind organizarea și controlul intern
+al activitãții instituțiilor de credit și administrarea
+riscurilor semnificative, precum și organizarea și
+desfãșurarea activitãții de audit intern a instituțiilor
+de credit.....................................................................
+
+ACTE
+
+ALE
+
+BÃNCII
+
+NAÞIONALE
+
+1Ð16
+
+A
+
+ROMÂNIEI
+
+BANCA NAÞIONALÃ A ROMÂNIEI
+
+NORME
+privind organizarea și controlul intern al activitãții instituțiilor de credit și administrarea
+riscurilor semnificative, precum și organizarea și desfãșurarea activitãții de audit intern
+a instituțiilor de credit
+Având în vedere prevederile art. 26 alin. (2) lit. a) din Legea nr. 101/1998 privind Statutul Bãncii Naționale a
+României, cu modificãrile și completãrile ulterioare, ale art. 24 alin. 1 lit. d) și f), art. 38 alin. 1 și 2, art. 45 alin. 1 lit. g),
+art. 66, art. 833 alin. 3 și ale art. 836 din Legea nr. 58/1998 privind activitatea bancarã, cu modificãrile și completãrile ulterioare, ale art. 4 alin. (2) și ale art. 19 din Legea nr. 541/2002 privind economisirea și creditarea în sistem colectiv pentru
+domeniul locativ, modificatã și completatã prin Ordonanța de urgențã a Guvernului nr. 99/2003, precum și cele ale art. 3
+alin. 2 și ale art. 284 alin. 2 din Ordonanța de urgențã a Guvernului nr. 97/2000 privind organizațiile cooperatiste de credit,
+aprobatã și modificatã prin Legea nr. 200/2002,
+în temeiul dispozițiilor art. 50 alin. (1) din Legea nr. 101/1998, cu modificãrile și completãrile ulterioare, și ale art. 93
+din Legea nr. 58/1998, cu modificãrile și completãrile ulterioare,
+Banca Naționalã a României emite prezentele norme.
+CAPITOLUL I
+Dispoziții generale
+Art. 1. Ñ Prezentele norme se aplicã instituțiilor de credit,
+persoane juridice române, și reglementeazã cadrul general
+pentru:
+a) organizarea și controlul intern al activitãții instituțiilor de
+credit;
+b) administrarea riscurilor semnificative de cãtre instituțiile
+de credit;
+c) organizarea și desfãșurarea activitãții de audit intern.
+Art. 2. Ñ (1) Instituțiile de credit sunt responsabile pentru
+organizarea și controlul intern al activitãții lor, pentru
+
+administrarea riscurilor semnificative, precum și pentru organizarea și desfãșurarea activitãții de audit intern a acestora.
+(2) Casele centrale ale cooperativelor de credit sunt responsabile și pentru organizarea și controlul intern al activitãții,
+pentru administrarea riscurilor semnificative, precum și pentru
+organizarea și desfãșurarea activitãții de audit intern la nivelul rețelelor cooperatiste de credit.
+(3) Instituțiile de credit trebuie sã asigure aplicarea în
+mod corespunzãtor a prevederilor prezentelor norme de cãtre
+entitãțile cuprinse în perimetrul de consolidare al acestora,
+astfel încât sã fie create condițiile pentru efectuarea supravegherii pe bazã consolidatã.
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 47/20.I.2004
+
+(4) Instituțiile de credit trebuie sã asigure aplicarea în
+mod corespunzãtor a prevederilor prezentelor norme de cãtre
+societãțile prestatoare de servicii auxiliare sau conexe, care
+nu intrã în categoria entitãților prevãzute la alin. (3), prin
+adaptare la specificul acestora.
+Art. 3. Ñ În sensul prezentelor norme, termenii și expresiile de mai jos au urmãtoarele semnificații:
+a) instituții de credit Ñ bãnci, instituții emitente de monedã
+electronicã, case de economii pentru domeniul locativ și case
+centrale ale cooperativelor de credit, persoane juridice
+române, autorizate sã funcționeze în conformitate cu prevederile Legii nr. 58/1998 privind activitatea bancarã, cu modificãrile și completãrile ulterioare, Legii nr. 541/2002 privind
+economisirea și creditarea în sistem colectiv pentru domeniul
+locativ, modificatã și completatã prin Ordonanța de urgențã a
+Guvernului nr. 99/2003, respectiv ale Ordonanței de urgențã
+a Guvernului nr. 97/2000 privind organizațiile cooperatiste de
+credit, aprobatã și modificatã prin Legea nr. 200/2002;
+b) control intern Ñ proces continuu la care participã consiliul de administrație, conducãtorii, precum și personalul
+instituțiilor de credit, prin care se furnizeazã o asigurare
+rezonabilã asupra atingerii obiectivelor prevãzute la art. 4
+alin. (1) din prezentele norme;
+c) conducere operativã Ñ persoanele care asigurã conducerea nemijlocitã a compartimentelor din cadrul instituției de
+credit, al sucursalelor și al altor sedii secundare;
+d) sistem informațional Ñ ansamblul de fluxuri
+informaționale organizate într-o concepție unitarã, care
+asigurã legãtura dintre nivelul de conducere (decizional) și
+nivelul de execuție (operațional);
+e) administrarea riscurilor semnificative Ñ proces focalizat
+pe analiza profilului de risc, în vederea maximizãrii raportului
+dintre risc și profit în diferite domenii de activitate ale unei
+instituții de credit;
+f) riscuri semnificative Ñ riscuri cu impact însemnat asupra situației patrimoniale și/sau reputaționale a instituțiilor de
+credit;
+g) risc de credit Ñ riscul înregistrãrii de pierderi sau al
+nerealizãrii profiturilor estimate, ca urmare a neîndeplinirii de
+cãtre contrapartidã a obligațiilor contractuale;
+h) risc de țarã Ñ risc asociat riscului de credit, care este
+determinat de condițiile economice, sociale și politice ale țãrii
+de origine a împrumutatului;
+i) risc de transfer Ñ componentã a riscului de țarã, care
+apare atunci când obligația împrumutatului nu este exprimatã
+în moneda localã a acestuia;
+j) risc de piațã Ñ riscul înregistrãrii de pierderi sau al
+nerealizãrii profiturilor estimate, care apare din fluctuațiile pe
+piațã ale prețurilor, ratei dobânzii și cursului valutar;
+k) risc de preț Ñ componentã a riscului de piațã, care
+apare din fluctuațiile pe piațã ale prețurilor valorilor mobiliare,
+mãrfurilor și instrumentelor financiare derivate;
+l) risc valutar Ñ componentã a riscului de piațã, care
+apare din fluctuațiile pe piațã ale cursului valutar;
+m) risc al ratei dobânzii Ñ componentã a riscului de piațã,
+care apare din fluctuațiile pe piațã ale ratei dobânzii;
+n) risc de lichiditate Ñ riscul înregistrãrii de pierderi sau
+al nerealizãrii profiturilor estimate, ce rezultã din imposibilitatea instituțiilor de credit de a onora în orice moment
+obligațiile de platã pe termen scurt, fãrã ca aceasta sã
+implice costuri sau pierderi ce nu pot fi suportate de
+instituțiile de credit;
+o) risc operațional Ñ riscul înregistrãrii de pierderi sau al
+nerealizãrii profiturilor estimate, care este determinat de factori interni (derularea neadecvatã a unor activitãți interne,
+existența unui personal sau unor sisteme necorespunzãtoare
+etc.) sau de factori externi (condiții economice, schimbãri în
+mediul bancar, progrese tehnologice etc.);
+p) risc juridic Ñ componentã a riscului operațional, apãrut
+ca urmare a neaplicãrii sau a aplicãrii defectuoase a
+
+dispozițiilor legale ori contractuale, care afecteazã negativ
+operațiunile sau situația instituțiilor de credit;
+q) risc reputațional Ñ riscul înregistrãrii de pierderi sau al
+nerealizãrii profiturilor estimate, ca urmare a lipsei de încredere a publicului în integritatea instituțiilor de credit;
+r) audit intern Ñ activitate independentã, destinatã
+îmbunãtãțirii activitãții instituțiilor de credit, fie prin îndeplinirea
+unor angajamente de audit, fie prin acordarea unor servicii
+de consultanțã structurilor/entitãților auditate;
+s) angajament de audit Ñ activitate constând într-o examinare obiectivã a modului de realizare a administrãrii riscurilor,
+sistemului de control intern și proceselor de conducere ale
+instituțiilor de credit, în scopul furnizãrii unei asigurãri rezonabile cã acestea funcționeazã corespunzãtor și vor permite
+atingerea obiectivelor instituțiilor de credit, precum și în
+scopul formulãrii unor recomandãri de îmbunãtãțire a
+activitãții acestora;
+t) serviciu de consultanțã Ñ activitãți de consiliere ale
+cãror obiective și întindere se vor stabili cu conducerea
+structurii beneficiare a unui astfel de serviciu sau, dupã caz,
+cu conducerea instituției de credit, în funcție de necesitãțile
+acestora și de statutul auditului intern;
+u) structurã organizatoricã Ñ ansamblu format din compartimente și sedii secundare ale instituțiilor de credit, cãrora,
+pentru funcționarea eficientã a acestora, le-au fost precizate
+atribuții și între care s-au stabilit relațiile de raportare;
+v) coordonatorul activitãții de audit intern Ñ responsabilul
+pentru organizarea și desfãșurarea activitãții de audit intern a
+instituțiilor de credit, ale cãrui atribuții sunt prevãzute la cap. IV
+din prezentele norme. În cazul în care activitatea de audit
+intern nu este externalizatã, acesta este conducãtorul compartimentului de audit intern.
+CAPITOLUL II
+Organizarea și controlul intern al activitãții
+instituțiilor de credit
+Art. 4. Ñ (1) Obiectivele controlului intern constau în:
+a) desfãșurarea activitãților în condiții de eficiențã și
+eficacitate;
+b) furnizarea unor informații credibile, relevante, complete
+și oportune structurilor implicate în luarea deciziilor în cadrul
+instituției de credit și utilizatorilor externi ai informațiilor;
+c) asigurarea conformitãții activitãților instituțiilor de credit
+cu cadrul legal și cu politicile și procedurile proprii.
+(2) În vederea îndeplinirii obiectivelor de control intern,
+instituțiile de credit trebuie sã își organizeze un sistem de
+control intern care se compune din urmãtoarele elemente
+aflate în strânsã corelare:
+a) rolul și responsabilitãțile consiliului de administrație și
+ale conducãtorilor instituțiilor de credit;
+b) identificarea și evaluarea riscurilor semnificative;
+c) activitãțile de control și separarea responsabilitãților;
+d) informarea și comunicarea;
+e) activitãțile de monitorizare și corectare a deficiențelor.
+SECÞIUNEA 1
+Rolul și responsabilitãțile consiliului de administrație
+și ale conducãtorilor instituțiilor de credit
+
+Art. 5. Ñ (1) Consiliul de administrație al instituțiilor de
+credit este responsabil pentru stabilirea și menținerea unui
+sistem de control intern adecvat și eficient.
+(2) În contextul prevederilor alin. (1), consiliul de administrație al instituțiilor de credit are cel puțin urmãtoarele
+atribuții:
+a) sã aprobe și sã revizuiascã periodic, cel puțin anual,
+strategiile generale și politicile privitoare la activitatea
+instituției de credit;
+b) sã stabileascã niveluri acceptabile pentru riscurile semnificative și sã asigure luarea mãsurilor necesare de cãtre
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 47/20.I.2004
+conducãtori pentru identificarea, evaluarea, monitorizarea și
+controlul riscurilor respective;
+c) sã supravegheze conducãtorii în legãturã cu modul în
+care aceștia monitorizeazã funcționarea adecvatã și eficientã
+a sistemului de control intern;
+d) sã aprobe structura organizatoricã.
+(3) Pentru îndeplinirea atribuțiilor ce îi revin, consiliul de
+administrație trebuie sã întreprindã cel puțin urmãtoarele
+mãsuri:
+a) discuții periodice (de regulã trimestrial) cu conducerea
+operativã privind eficiența sistemului de control intern;
+b) analiza periodicã (de regulã trimestrial) a evaluãrilor
+sistemului de control intern efectuate de conducerea operativã, de auditul intern și, dupã caz, de auditorul financiar al
+instituțiilor de credit și de Banca Naționalã a României;
+c) asigurarea implementãrii de cãtre conducerea operativã
+a recomandãrilor formulate de auditul intern, de auditorul
+financiar și de Banca Naționalã a României cu privire la deficiențele sistemului de control intern și examinarea efectului
+mãsurilor implementate.
+Art. 6. Ñ Instituțiile de credit trebuie sã constituie un
+comitet de audit, potrivit prevederilor secțiunii a 6-a a cap. IV
+din prezentele norme, care sã asiste consilul de administrație
+în îndeplinirea atribuțiilor ce îi revin.
+Art. 7. Ñ (1) Conducãtorii instituțiilor de credit au responsabilitãți pe linia monitorizãrii funcționãrii adecvate și eficiente
+a sistemului de control intern.
+(2) În contextul prevederilor alin. (1), conducãtorii
+instituțiilor de credit au cel puțin urmãtoarele atribuții:
+a) sã implementeze strategiile generale și politicile privitoare la activitatea instituțiilor de credit, aprobate de consiliul
+de administrație;
+b) sã coordoneze procesul de elaborare a procedurilor de
+identificare, evaluare, monitorizare și control pentru riscurile
+semnificative și sã ia mãsurile necesare pentru identificarea,
+evaluarea, monitorizarea și controlul acestor riscuri;
+c) sã se asigure cã responsabilitãțile delegate conducerii
+operative, cu privire la stabilirea politicilor și procedurilor de
+control intern, sunt îndeplinite în mod corespunzãtor;
+d) sã menținã o structurã organizatoricã adecvatã;
+e) sã stabileascã fluxul informațional necesar;
+f) sã se asigure cã toate activitãțile instituțiilor de credit
+sunt realizate de personal calificat, având experiențã și
+cunoștințe necesare;
+g) sã asigure instruirea corespunzãtoare a personalului
+propriu.
+Art. 8. Ñ În cazul externalizãrii unor activitãți, consiliul de
+administrație și conducãtorii instituțiilor de credit rãspund pentru atingerea obiectivelor controlului intern aferente respectivelor activitãți.
+Art. 9. Ñ (1) Consiliul de administrație și conducãtorii
+unei case centrale a cooperativelor de credit sunt responsabili pentru îndeplinirea obiectivelor controlului intern la nivelul
+rețelei cooperatiste de credit, inclusiv în condițiile art. 8.
+(2) Consiliul de administrație al unei case centrale a
+cooperativelor de credit va îndeplini atribuțiile prevãzute la
+art. 5 alin. (2) lit. a)Ñc) și la nivelul rețelei cooperatiste de credit.
+(3) Conducãtorii unei case centrale a cooperativelor de
+credit vor îndeplini atribuțiile prevãzute la art. 7 alin. (2)
+lit. a) și b) și la nivelul rețelei cooperatiste de credit.
+Art. 10. Ñ (1) Consiliul de administrație și conducãtorii
+instituțiilor de credit sunt responsabili pentru promovarea unor
+standarde de eticã și integritate pentru personalul instituțiilor
+de credit în ceea ce privește controlul intern, care sã evidențieze și sã asigure conștientizarea importanței acestuia la
+toate nivelurile organizatorice.
+(2) Consiliul de administrație și conducãtorii unei case
+centrale a cooperativelor de credit sunt responsabili pentru
+promovarea unor standarde de eticã și integritate pentru personalul rețelei cooperatiste de credit în ceea ce privește
+
+3
+
+controlul intern, care sã evidențieze și sã asigure conștientizarea importanței acestuia.
+SECÞIUNEA a 2-a
+Identificarea și evaluarea riscurilor semnificative
+
+Art. 11. Ñ (1) Pentru a avea un sistem de control intern
+eficient instituțiile de credit trebuie sã identifice și sã evalueze permanent riscurile semnificative care pot periclita atingerea obiectivelor controlului intern.
+(2) Identificarea și evaluarea riscurilor semnificative trebuie
+sã se facã atât la nivel de ansamblu al unei instituții de credit, cât și la toate nivelurile organizatorice ale acesteia, trebuie sã acopere toate activitãțile și sã ținã cont de apariția
+unor noi activitãți.
+Art. 12. Ñ (1) Identificarea și evaluarea riscurilor semnificative trebuie sã se realizeze cu luarea în considerare a factorilor interni (de exemplu: complexitatea structurii
+organizatorice, natura activitãților desfãșurate, calitatea personalului și fluctuația acestuia) și a factorilor externi (de exemplu: condiții economice, schimbãri legislative sau legate de
+mediul concurențial în sectorul bancar, progrese tehnologice).
+(2) Procesul de evaluare a riscurilor trebuie sã includã
+identificarea atât a riscurilor care sunt controlabile de cãtre
+instituțiile de credit, cât și a celor necontrolabile. În cazul riscurilor controlabile, instituțiile de credit trebuie sã stabileascã
+dacã își asumã integral aceste riscuri sau mãsura în care
+doresc sã le reducã prin proceduri de control. În cazul riscurilor necontrolabile, instituțiile de credit trebuie sã decidã
+dacã le acceptã sau dacã eliminã ori reduc nivelul
+activitãților afectate de riscurile respective.
+(3) Evaluarea riscurilor semnificative trebuie efectuatã și
+în condițiile unor scenarii alternative, inclusiv în condiții de
+crizã.
+Art. 13. Ñ Evaluarea riscurilor se va realiza de cãtre
+specialiști din cadrul instituțiilor de credit care nu au responsabilitãți în realizarea performanței comerciale și financiare.
+Art. 14. Ñ Instituțiile de credit trebuie sã revizuiascã activitãțile de control pentru a identifica și evalua în mod corespunzãtor orice riscuri noi sau care au atins pragul de la care
+acestea le considerã riscuri semnificative.
+Art. 15. Ñ În vederea atingerii obiectivelor de control
+intern, casa centralã a cooperativelor de credit trebuie sã
+identifice și sã evalueze permanent riscurile semnificative la
+nivelul rețelei cooperatiste de credit, cu aplicarea corespunzãtoare a prevederilor prezentei secțiuni.
+SECÞIUNEA a 3-a
+Activitãțile de control și separarea responsabilitãților
+
+3.1. Ñ Activitãțile de control
+Art. 16. Ñ (1) Activitãțile de control trebuie sã se constituie ca parte integrantã a activitãților zilnice ale instituțiilor de
+credit.
+(2) Activitãțile de control trebuie sã aibã în vedere riscurile identificate de instituțiile de credit în cadrul procesului de
+identificare și evaluare a riscurilor.
+Art. 17. Ñ Activitãțile de control trebuie definite pentru
+fiecare nivel organizatoric al instituțiilor de credit și implicã
+douã etape:
+a) stabilirea politicilor și procedurilor de control;
+b) verificarea respectãrii politicilor și procedurilor de control stabilite.
+Art. 18. Ñ Activitãțile de control includ cel puțin urmãtoarele:
+a) analize la nivelul consiliului de administrație și al conducãtorilor;
+b) analize operative la nivelul compartimentelor și sediilor
+secundare ale instituțiilor de credit;
+c) controale faptice care au în vedere restricționarea
+accesului la active, cum ar fi titluri sau numerar, restricționarea accesului la conturile clienților etc.;
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 47/20.I.2004
+
+d) analiza încadrãrii în limitele impuse expunerilor la risc
+și urmãrirea modului în care sunt soluționate situațiile de
+neconformitate;
+e) aprobãri și autorizãri, în cazul operațiunilor ce
+depãșesc anumite limite de sume, asigurându-se astfel controlul asupra realizãrii operațiunilor respective de cãtre nivelul
+de conducere competent și stabilirea responsabilitãților;
+f) verificãri ale tranzacțiilor efectuate de instituțiile de credit și reconcilieri, în special acolo unde existã diferențe între
+metodologiile sau sistemele de evaluare utilizate în compartimentele însãrcinate cu inițierea tranzacțiilor (front office) și
+compartimentele însãrcinate cu înregistrarea și monitorizarea
+tranzacțiilor inițiate (back office). Rezultatele verificãrilor vor fi
+comunicate nivelului de conducere competent.
+Art. 19. Ñ Activitãțile de control desfãșurate de o casã
+centralã a cooperativelor de credit la nivelul rețelei cooperatiste de credit vor include cel puțin urmãtoarele:
+a) analize la nivelul consiliului de administrație și al conducãtorilor casei centrale a cooperativelor de credit;
+b) analiza încadrãrii în limitele impuse expunerilor la risc
+la nivelul rețelei cooperatiste de credit și urmãrirea modului
+în care sunt soluționate situațiile de neconformitate.
+3.2. Ñ Separarea responsabilitãților
+Art. 20. Ñ Instituțiile de credit trebuie sã realizeze o
+repartizare corespunzãtoare a atribuțiilor la toate nivelurile
+organizatorice și sã se asigure cã personalului nu îi sunt alocate responsabilitãți care sã conducã la conflicte de interese
+(de exemplu: responsabilitãți duale ale unei persoane în
+domenii cum ar fi: acționarea în front-office și back-office,
+aprobarea tragerii fondurilor și tragerea efectivã, evaluarea
+documentației de credit și monitorizarea clientului dupã contractarea creditului etc.).
+Art. 21. Ñ Domeniile care pot fi afectate de potențiale
+conflicte de interese trebuie sã fie identificate și supuse unei
+monitorizãri independente exercitate de persoane neimplicate
+direct în activitãțile respective, a cãror informare este efectuatã pe baza unor linii de raportare stabilite în mod
+corespunzãtor.
+SECÞIUNEA a 4-a
+Informare și comunicare
+
+Art. 22. Ñ Casa centralã a cooperativelor de credit este
+responsabilã pentru respectarea principiilor de informare și
+comunicare la nivelul rețelei cooperatiste de credit afiliate.
+4.1. Ñ Informare
+Art. 23. Ñ (1) Instituțiile de credit trebuie sã asigure existența datelor financiare, operaționale și de conformitate,
+adecvate și complete, pentru desfãșurarea activitãții lor.
+(2) Instituțiile de credit trebuie sã dispunã de informații
+despre piațã referitoare la evenimente și condiții care sunt
+relevante pentru luarea deciziilor.
+(3) Informațiile trebuie sã fie credibile, relevante, complete, oportune, accesibile și furnizate într-un format
+consecvent.
+Art. 24. Ñ Instituțiile de credit trebuie sã dispunã de sisteme informaționale adecvate, care sã acopere toate activitãțile acestora.
+Art. 25. Ñ Instituțiile de credit trebuie sã dispunã de proceduri pentru a preveni utilizarea necorespunzãtoare a
+informației, prin care sã se evite:
+a) prejudicierea, directã sau indirectã, a reputației
+acestora;
+b) dezvãluirea informațiilor secrete sau confidențiale;
+c) utilizarea informațiilor de cãtre personalul instituției de
+credit pentru obținerea unor beneficii personale.
+Art. 26. Ñ (1) În cadrul sistemului informațional instituțiile
+de credit trebuie sã dispunã de sisteme informatice.
+
+Arhitectura acestor sisteme trebuie sã asigure un grad adecvat de securitate a informației. Monitorizarea sistemelor informatice va fi asiguratã de o structurã de personal
+independentã de cea care le utilizeazã.
+(2) Instituțiile de credit trebuie sã dispunã de prevederi
+referitoare la organizarea și controlul intern al procesãrii
+informațiilor în formã electronicã, astfel încât sã fie posibilã
+obținerea de probe de audit.
+Art. 27. Ñ (1) În vederea evitãrii apariției disfuncționalitãților în cadrul activitãții și a eventualelor pierderi generate
+de acestea, instituțiile de credit trebuie sã controleze eficient
+riscurile implicate de utilizarea sistemelor informatice. În acest
+scop, se vor efectua atât controale generale la nivelul întregului sistem informatic, cât și controale la nivelul fiecãrei
+aplicații informatice din componența acestuia.
+(2) Controalele generale se efectueazã asupra infrastructurii hardware și de comunicații a sistemelor informatice (sisteme mainframe, sisteme client/server, routere, echipamente
+de rețea, stații de lucru ale utilizatorilor finali), precum și
+asupra sistemelor de operare care asigurã funcționarea acestora. Controalele au drept scop verificarea funcționãrii continue și corespunzãtoare a acestora.
+(3) Controalele generale includ și verificarea existenței și
+aplicãrii unei strategii de informatizare, a procedurilor interne
+de salvare și restaurare a datelor, a politicilor de efectuare a
+achizițiilor, a procedurilor de dezvoltare a aplicațiilor informatice, a procedurilor de administrare și întreținere, precum și a
+politicilor de securitate vizând accesul fizic și logic la resursele sistemului informatic.
+(4) Controalele efectuate la nivelul aplicațiilor informatice
+reprezintã proceduri de validare și control incluse în codul
+aplicațiilor informatice utilizate, precum și proceduri manuale
+de verificare a modului de procesare a tranzacțiilor și
+efectuãrii operațiunilor.
+Art. 28. Ñ (1) În vederea evitãrii pierderilor generate de
+întreruperea activitãții datoritã unor factori externi ce nu pot fi
+controlați de cãtre instituțiile de credit, acestea, trebuie sã
+elaboreze planuri alternative (de rezervã), care sã le permitã
+reluarea activitãții în cazul apariției unor situații neprevãzute.
+Replicarea sistemelor critice trebuie asiguratã fie prin existența unor sisteme de rezervã situate într-o altã locație
+aparținând instituției de credit (centru de back-up), fie prin
+intermediul unui furnizor extern de servicii.
+(2) Funcționarea planurilor alternative trebuie testatã periodic prin simularea operațiunilor pe sistemele de rezervã, în
+scopul verificãrii disponibilitãții acestora.
+4.2. Ñ Comunicare
+Art. 29. Ñ În vederea organizãrii unui sistem de control
+intern eficient, instituțiile de credit trebuie sã dispunã de
+canale de comunicare care sã asigure cã personalul
+instituțiilor de credit cunoaște politicile și procedurile cu
+implicații asupra atribuțiilor și responsabilitãților sale și cã
+orice alte informații relevante ajung în timp util la acesta.
+Art. 30. Ñ Structura organizatoricã a instituțiilor de credit
+trebuie sã asigure un flux corespunzãtor de informații, pe
+verticalã (în ambele sensuri) și pe orizontalã, care sã
+permitã urmãtoarele:
+a) informarea consiliului de administrație și a conducãtorilor asupra riscurilor aferente activitãții și funcționãrii instituțiilor
+de credit;
+b) informarea nivelurilor inferioare de conducere operativã
+și a personalului atât asupra strategiilor instituțiilor de credit,
+cât și asupra politicilor și procedurilor stabilite;
+c) difuzarea informațiilor între compartimentele și sediile
+secundare ale instituțiilor de credit pentru care respectivele
+informații au relevanțã.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 47/20.I.2004
+SECÞIUNEA a 5-a
+Activitãțile de monitorizare și corectare a deficiențelor
+
+Art. 31. Ñ (1) Instituțiile de credit trebuie sã monitorizeze
+permanent eficacitatea sistemului de control intern, cu luarea
+în considerare a modificãrilor intervenite în condițiile interne
+și externe de desfãșurare a activitãții.
+(2) Instituțiile de credit trebuie sã asigure un rol important
+auditului intern în procesul de monitorizare a sistemului de
+control intern.
+(3) Monitorizarea eficacitãții sistemului de control intern va
+fi efectuatã atât de personalul responsabil pentru fiecare
+compartiment și sediu secundar al instituției de credit, cât și
+de auditul intern.
+(4) Monitorizarea eficacitãții sistemului de control intern
+trebuie sã facã parte din activitãțile zilnice ale instituțiilor de
+credit și trebuie sã includã și evaluãri separate ale sistemului
+de control intern în general.
+(5) Evaluãrile separate, periodice, ale sistemului de control intern vor fi efectuate atât de personalul responsabil pentru fiecare compartiment și sediu secundar (autoevaluare),
+cât și de auditul intern.
+(6) Frecvența cu care trebuie monitorizate diferitele activitãți ale instituțiilor de credit depinde de riscurile implicate
+de activitãțile respective, precum și de natura și frecvența
+schimbãrilor din activitatea respectivã.
+Art. 32. Ñ (1) Deficiențele identificate în legãturã cu sistemul de control intern trebuie sã fie raportate imediat nivelului de conducere competent care trebuie sã ia mãsuri
+pentru remedierea cu promptitudine a acestora.
+(2) Deficiențele majore ale sistemului de control intern trebuie sã fie raportate conducãtorilor instituțiilor de credit și
+consiliului de administrație al acestora.
+(3) Conducãtorii instituțiilor de credit au responsabilitatea
+de a stabili un sistem de detectare a deficiențelor sistemului
+de control intern și de a întreprinde mãsuri pentru soluționarea respectivelor deficiențe.
+Art. 33. Ñ Casa centralã a cooperativelor de credit va
+monitoriza permanent atingerea obiectivelor de control intern
+la nivelul rețelei cooperatiste de credit, cu aplicarea corespunzãtoare a prevederilor prezentei secțiuni.
+CAPITOLUL III
+Administrarea riscurilor semnificative
+SECÞIUNEA 1
+Cadrul general
+
+Art. 34. Ñ Instituțiile de credit trebuie sã ia mãsuri pe
+linia administrãrii urmãtoarelor riscuri semnificative: riscul de
+credit, riscul de piațã, riscul de lichiditate, riscul operațional și
+riscul reputațional.
+Art. 35. Ñ În domeniul administrãrii riscurilor semnificative, consiliul de administrație al instituțiilor de credit are cel
+puțin urmãtoarele atribuții:
+a) sã aprobe și sã reconsidere profilul de risc al acestora;
+b) sã aprobe politicile privind administrarea riscurilor respective, sã le analizeze periodic, cel puțin anual, și sã dispunã revizuirea acestora, dupã caz;
+c) sã asigure luarea de cãtre conducãtorii instituției de
+credit a mãsurilor necesare pentru identificarea, evaluarea,
+monitorizarea și controlul riscurilor, inclusiv pentru activitãțile
+externalizate;
+d) sã aprobe procedurile de stabilire a competențelor și a
+responsabilitãților în domeniul administrãrii riscurilor;
+e) sã aprobe externalizarea unor activitãți;
+f) sã aprobe politica de instruire a personalului;
+
+5
+
+Art. 36. Ñ În domeniul administrãrii riscurilor semnificative, conducãtorii instituțiilor de credit sunt responsabili cel
+puțin pentru urmãtoarele:
+a) implementarea strategiilor aprobate de consiliul de
+administrație și asigurarea comunicãrii acestora personalului
+implicat în punerea lor în aplicare;
+b) asigurarea comunicãrii politicilor și procedurilor pentru
+identificarea, evaluarea, monitorizarea și controlul riscurilor
+personalului implicat în punerea lor în aplicare;
+c) menținerea unor sisteme de raportare corespunzãtoare
+a expunerilor la riscuri, precum și a altor aspecte legate de
+riscuri;
+d) menținerea limitelor corespunzãtoare privind expunerea
+la riscuri, inclusiv pentru condiții de crizã, în conformitate cu
+mãrimea, complexitatea și situația financiarã a instituției de
+credit;
+e) menținerea eficienței și eficacitãții sistemului de control
+intern;
+f) analizarea oportunitãții externalizãrii unor activitãți prin
+prisma riscurilor implicate de externalizare;
+g) supravegherea și monitorizarea contractului de externalizare;
+h) asigurarea unui personal calificat, având experiența și
+cunoștințele necesare;
+i) asigurarea instruirii corespunzãtoare a personalului;
+j) asigurarea concordanței politicilor de remunerare a personalului cu strategia instituției de credit privind riscurile.
+Art. 37. Ñ În procesul de administrare a riscurilor,
+instituțiile de credit trebuie sã constituie un comitet de administrare a riscurilor, potrivit prevederilor secțiunii a 5-a din
+prezentul capitol.
+Art. 38. Ñ (1) Instituțiile de credit trebuie sã opteze pentru un profil de risc, stabilind obiectivul și strategia pentru fiecare risc semnificativ, inclusiv în ceea ce privește activitãțile
+externalizate.
+(2) Instituțiile de credit vor stabili tipurile de riscuri pe
+care sunt pregãtite sã le asume, precum și pragul de la care
+un risc este considerat semnificativ. La stabilirea acestora se
+vor avea în vedere natura, dimensiunea și complexitatea
+activitãții.
+(3) Strategia instituțiilor de credit privind administrarea riscurilor semnificative trebuie sã determine raportul dintre risc
+și profit pe care instituția de credit îl considerã acceptabil în
+condițiile asigurãrii continuitãții activitãții acesteia pe baze
+sãnãtoase și prudente.
+Art. 39. Ñ Instituțiile de credit trebuie sã adopte politici
+pentru administrarea riscurilor semnificative, în vederea implementãrii profilului de risc ales. Politicile respective trebuie sã
+corespundã strategiilor generale, sã fie corelate cu nivelul
+fondurilor proprii ale instituțiilor de credit și cu experiența
+acestora în administrarea riscurilor, precum și cu disponibilitatea de expunere la risc stabilitã de consiliul de administrație.
+Art. 40. Ñ (1) Politicile privind administrarea riscurilor
+semnificative, corespunzãtoare naturii, dimensiunii și complexitãții activitãților instituțiilor de credit, trebuie sã fie transpuse
+în mod clar și transparent în norme interne, proceduri, inclusiv în manuale și coduri de conduitã, fãcându-se distincție
+între standardele generale aplicabile întregului personal și
+regulile specifice aplicabile anumitor categorii de personal.
+(2) Pentru activitatea de tipul ”electronic banking,,, inclusiv
+cea de emisiune și administrare de monedã electronicã,
+instituțiile de credit trebuie sã dezvolte politici și proceduri
+care sã asigure integritatea, autenticitatea și confidențialitatea
+datelor, precum și securitatea proceselor de operare.
+Art. 41. Ñ (1) Politicile de administrare a riscurilor semnificative trebuie sã asigure, dupã caz, stabilirea cel puțin a:
+a) unui sistem de proceduri de autorizare a operațiunilor
+afectate de riscurile respective;
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 47/20.I.2004
+
+b) unui sistem de stabilire a limitelor expunerii la risc și
+de monitorizare a acestora, care sã reflecte profilul de risc
+ales și care sã fie în conformitate cu legislația și cu reglementãrile în vigoare; limitele stabilite la nivelul activitãților
+și/sau compartimentelor/sediilor secundare trebuie corelate cu
+cele stabilite la nivel de ansamblu al instituțiilor de credit;
+c) unui sistem de raportare a expunerilor la riscuri,
+precum și altor aspecte legate de riscuri cãtre nivelurile de
+conducere corespunzãtoare;
+d) unui sistem de proceduri pentru situații neprevãzute;
+e) unor criterii de recrutare și remunerare a personalului,
+care sã stabileascã standarde ridicate pentru pregãtirea,
+experiența și integritatea acestuia;
+f) unui program de instruire a personalului;
+(2) Politicile de securitate ale instituțiilor de credit aferente
+activitãții de tipul ”electronic banking,,, inclusiv a celei de
+emisiune și administrare de monedã electronicã, trebuie sã
+cuprindã cel puțin: definirea responsabilitãților pentru dezvoltarea și implementarea unor proceduri de securitate a
+informațiilor, stabilirea unor proceduri pentru evaluarea conformitãții cu politica, punerea în aplicare a unor mãsuri de
+remediere și raportarea situațiilor de nerespectare a mãsurilor
+de securitate.
+(3) Procedurile de securitate ale instituțiilor de credit, aferente activitãții de tipul ”electronic banking,,, inclusiv a celei
+de emisiune și administrare de monedã electronicã, trebuie
+sã cuprindã o combinare de elemente de hardware și software, cum ar fi: codificare, parole, firewalls, controale ale
+virușilor și monitorizarea angajaților.
+(4) Pentru activitãțile cu instrumente financiare derivate,
+bãncile trebuie sã stabileascã politici și proceduri de evaluare
+a pozițiilor și sã verifice respectarea acestora, a frecvenței
+de evaluare, precum și a independenței și calitãții surselor
+de stabilire a prețurilor de evaluare, în special pentru instrumentele emise și tranzacționate pe piețe cu lichiditate scãzutã.
+(5) Prevederile alin. (4) se vor aplica în mod corespunzãtor și în cazul pozițiilor pe care bãncile le dețin în
+valori mobiliare necotate pe piețe organizate.
+Art. 42. Ñ (1) Înainte de angajarea în activitãți cu instrumente financiare derivate, conducãtorii bãncilor trebuie sã se
+asigure cã sunt obținute toate aprobãrile prevãzute de cadrul
+legal și de reglementare și cã existã proceduri de administrare și sisteme de control al riscurilor adecvate.
+(2) Decizia privind angajarea bãncilor în activitãți cu
+instrumente financiare derivate va fi de competența consiliului
+de administrație și se va baza cel puțin pe urmãtoarele:
+a) descrierea instrumentelor financiare derivate relevante,
+precum și a piețelor și strategiilor propuse;
+b) resursele necesare pentru stabilirea de sisteme eficiente de administrare a riscurilor, precum și pentru atragerea
+de personal cu experiențã în tranzacționarea instrumentelor
+financiare derivate;
+c) analiza activitãților propuse în funcție de situația financiarã generalã a bãncii și de fondurile proprii ale acesteia;
+d) analiza riscurilor cu care bãncile se pot confrunta ca
+urmare a desfãșurãrii activitãților respective;
+e) procedurile pe care bãncile le vor utiliza pentru a evalua, monitoriza și controla riscurile;
+f) tratamentul contabil relevant;
+g) tratamentul fiscal relevant;
+h) analiza oricãrei restricții legale privind desfãșurarea
+respectivelor activitãți.
+Art. 43. Ñ (1) Instituțiile de credit trebuie sã efectueze
+sistematic o evaluare a riscurilor semnificative.
+(2) Evaluarea riscurilor trebuie sã ținã cont și de:
+a) implicațiile corelãrii fiecãrui risc semnificativ cu celelalte
+riscuri semnificative la care se expune instituția de credit;
+b) previzionãrile profitului și fondurilor proprii pe baza diferitelor scenarii în condiții de crizã, inclusiv o cuantificare a
+pierderilor maxime în condiții extreme.
+
+(3) Scenariile în condiții de crizã trebuie sã aibã în
+vedere identificarea evenimentelor posibile sau a modificãrilor
+viitoare ale condițiilor economice care ar putea avea efecte
+nefavorabile asupra expunerilor instituției de credit la riscurile
+semnificative, precum și evaluarea capacitãții instituției de
+credit de a face fațã acestora.
+Art. 44. Ñ Instituțiile de credit trebuie sã dispunã de un
+sistem de informare adecvat pentru identificarea, evaluarea,
+monitorizarea și documentarea sistematicã a riscurilor semnificative atât la nivelul instituțiilor de credit, cât și la nivelul
+compartimentelor și sediilor secundare ale acestora.
+Art. 45. Ñ Instituțiile de credit trebuie sã asigure cã
+existã o separare corespunzãtoare a atribuțiilor în cadrul procesului de administrare a riscurilor, pentru evitarea potențialelor conflicte de interese.
+Art. 46. Ñ Instituțiile de credit trebuie sã asigure o monitorizare sistematicã a conformitãții cu procedurile stabilite
+pentru riscurile semnificative și sã soluționeze deficiențele
+constatate.
+Art. 47. Ñ Instituțiile de credit trebuie sã dispunã de un
+sistem adecvat de control intern asupra procesului de administrare a riscurilor semnificative, care implicã analize independente și regulate și evaluãri ale eficacitãții sistemului și,
+acolo unde se impune, asigurarea remedierii deficiențelor
+constatate. Rezultatele unor astfel de analize trebuie sã fie
+comunicate în mod direct consiliului de administrație, comitetului de administrare a riscurilor și comitetului de audit.
+Art. 48. Ñ Casa centralã a cooperativelor de credit trebuie sã ia mãsuri pe linia administrãrii riscurilor semnificative
+și a respectãrii principiilor de administrare a acestor riscuri la
+nivelul rețelei cooperatiste de credit, cu aplicarea corespunzãtoare a prevederilor prezentului capitol.
+SECÞIUNEA a 2-a
+Administrarea riscului de credit și a riscului de țarã
+
+Art. 49. Ñ Strategia instituțiilor de credit privind riscul de
+credit trebuie sã includã cel puțin urmãtoarele:
+a) categoriile de credit pe care dorește sã le promoveze,
+tipul expunerii, sectorul economic, forma de proprietate, categoria contrapartidei, rezidența, aria geograficã, moneda,
+durata inițialã și profitabilitatea estimatã;
+b) identificarea piețelor pe care doresc sã acționeze și
+determinarea caracteristicilor portofoliului de credite (inclusiv
+gradul de diversificare și gradul de concentrare).
+Art. 50. Ñ (1) Politicile și procedurile instituțiilor de credit
+privind riscul de credit trebuie sã se refere la toate activitãțile
+acestora și trebuie sã aibã în vedere atât creditele la nivel
+individual, cât și întregul portofoliu.
+(2) Politicile și procedurile vor trebui stabilite și implementate de cãtre instituțiile de credit astfel încât sã se asigure
+urmãtoarele:
+a) menținerea unor standarde sãnãtoase de creditare;
+b) monitorizarea și controlul riscului de credit;
+c) evaluarea corespunzãtoare a noilor oportunitãți de
+afaceri;
+d) identificarea și administrarea creditelor neperformante.
+(3) Politicile instituțiilor de credit vor stabili cadrul de
+desfãșurare a activitãții de creditare și se vor referi inclusiv
+la urmãtoarele:
+a) contrapartidele eligibile și condițiile ce trebuie îndeplinite de cãtre acestea pentru a putea intra în relație de afaceri cu instituția de credit;
+b) garanțiile acceptabile de cãtre instituția de credit.
+(4) În vederea prevenirii intrãrii în relații de afaceri cu
+persoane implicate în activitãți frauduloase și alte activitãți de
+naturã infracționalã, instituțiile de credit trebuie sã aibã în
+funcțiune politici stricte care sã includã cel puțin:
+a) solicitarea de referințe și informații de la persoane
+autorizate;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 47/20.I.2004
+b) consultarea informațiilor puse la dispoziție instituțiilor de
+credit de structuri, constituite sub forma Centralei Riscurilor
+Bancare sau sub forma unor entitãți cu activitate similarã,
+organizate în condițiile legii, având drept scop colectarea și
+furnizarea de informații privind situația contrapartidei în calitatea sa de beneficiar de credite ori alte informații de naturã
+financiarã;
+c) cunoașterea structurii participanților la capitalul
+societãții, precum și a persoanelor responsabile de
+administrarea acesteia, în cazul clienților persoane juridice,
+verificarea referințelor și a situației financiare personale a
+administratorilor și asociaților.
+Art. 51. Ñ Instituțiile de credit trebuie sã evalueze riscul
+de credit aferent tuturor activitãților ce sunt afectate de acest
+risc, indiferent dacã rezultatele respectivelor activitãții sunt
+reflectate în bilanț sau în afara bilanțului.
+Art. 52. Ñ (1) La evaluarea riscului de credit instituțiile
+de credit trebuie sã ia în considerare cel puțin:
+a) performanța financiarã curentã și previzionatã a contrapartidelor;
+b) concentrarea expunerilor fațã de contrapartide, piețele
+în care acestea opereazã, sectoarele economice și țãrile
+unde sunt stabilite;
+c) capacitatea de punere în aplicare, din punct de vedere
+legal, a angajamentelor contractuale;
+d) capacitatea și posibilitatea de a executa garanțiile, în
+condițiile pieței;
+e) angajamentele contractuale cu persoanele aflate în
+relații speciale cu instituțiile de credit, personalul propriu, precum și familia acestuia.
+(2) În ceea ce privește cadrul contractual, instituțiile de
+credit trebuie sã aibã în vedere cel puțin urmãtoarele:
+a) natura specificã a creditului;
+b) clauzele contractuale aferente creditului;
+c) profilul expunerii pânã la scadențã prin prisma
+evoluțiilor potențiale ale pieței;
+d) existența garanțiilor reale sau personale;
+e) probabilitatea nerespectãrii obligațiilor contractuale, stabilitã pe baza unui sistem intern de rating.
+Art. 53. Ñ (1) Instituțiile de credit trebuie sã desfãșoare
+activitatea de creditare în baza unor criterii sãnãtoase și bine
+definite de acordare a creditelor.
+(2) În activitatea de creditare, instituțiile de credit trebuie
+sã aibã în vedere cel puțin urmãtoarele:
+a) destinația creditului și sursa de rambursare a acestuia;
+b) profilul de risc curent al contrapartidei și garanțiile prezentate, precum și senzitivitatea garanțiilor la evoluțiile economice și cele ale pieței;
+c) istoricul serviciului datoriei aferent contrapartidei și
+capacitatea curentã și viitoare de rambursare a acesteia,
+bazatã de evoluțiile financiare istorice și proiecțiile viitoarelor
+fluxuri de numerar;
+d) experiența în activitate a contrapartidei și sectorul economic în care aceasta își desfãșoarã activitatea, precum și
+poziția sa în cadrul acestui sector, în cazul creditelor comerciale;
+e) termenii și condițiile propuse în contractul de creditare,
+inclusiv clauzele destinate sã limiteze modificãrile în profilul
+de risc viitor al contrapartidei;
+f) capacitatea instituțiilor de credit de executare și valorificare a garanțiilor, dacã este cazul, într-un termen cât mai scurt.
+(3) Creditele care depãșesc un anumit procent din fondurile proprii ale instituțiilor de credit și/sau care presupun un
+risc de credit ridicat ori cele care nu se înscriu în politica în
+domeniul creditãrii trebuie sã fie aprobate la nivelul consiliului
+de administrație.
+Art. 54. Ñ Instituțiile de credit trebuie sã dispunã de proceduri de identificare și înregistrare a expunerilor mari și a
+modificãrilor care pot interveni asupra lor, precum și de
+
+7
+
+mecanisme de monitorizare a acestor expuneri în funcție de
+politica în materie de expuneri.
+Art. 55. Ñ (1) La aprobarea pentru prima datã a contrapartidelor, instituțiile de credit trebuie sã ia în considerare
+integritatea și reputația acestora, precum și capacitatea lor
+juridicã de a-și asuma obligații.
+(2) Instituțiile de credit trebuie sã se asigure cã
+informațiile pe care le primesc sunt suficiente pentru luarea
+unei decizii de creditare corecte.
+Art. 56. Ñ (1) Instituțiile de credit trebuie sã dispunã de
+proceduri pentru aprobarea noilor credite, precum și pentru
+restructurarea celor existente (de exemplu: reeșalonare, refinanțare).
+(2) Refinanțarea creditelor nu va conduce la încadrarea
+acestora într-o categorie de clasificare superioarã.
+(3) Instituțiile de credit vor clasifica creditele reeșalonate
+în condiții mai stricte decât cele asociate situației inițiale a
+respectivelor credite.
+(4) Procedurile prevãzute la alin. (1) trebuie sã stabileascã competențele și responsabilitãțile în legãturã cu deciziile prezentate la alineatul respectiv.
+Art. 57. Ñ (1) Instituțiile de credit trebuie sã dispunã de
+proceduri pentru evaluarea continuã a garanțiilor reale.
+(2) În legãturã cu garanțiile personale, instituțiile de credit
+trebuie sã evalueze capacitatea garanților de a-și asuma
+obligații.
+Art. 58. Ñ Instituțiile de credit trebuie sã aibã proceduri
+de stabilire, într-o manierã consecventã, de la o perioadã la
+alta, a provizioanelor specifice și a provizioanelor generale
+pentru riscul de credit (provizioane constituite pentru pierderi
+potențiale, neidentificate în mod specific, dar pe care experiența le precizeazã ca fiind prezente în portofoliul de credite) și trebuie sã dispunã de suficiente fonduri proprii pentru
+a înregistra un nivel de solvabilitate corespunzãtor.
+Art. 59. Ñ (1) Instituțiile de credit trebuie sã stabileascã
+limite privind expunerile la riscul de credit și sã monitorizeze
+respectarea acestora.
+(2) Limitele de expunere trebuie stabilite în legãturã cu
+orice activitate a instituției de credit care implicã risc de credit.
+(3) Limitele trebuie stabilite la nivel de ansamblu al
+instituției de credit, iar limitele stabilite la nivelul compartimentelor și sediilor secundare ale instituției de credit trebuie
+sã fie corelate cu acestea.
+(4) Instituțiile de credit trebuie sã stabileascã limite și
+pentru diverse sectoare economice, regiuni geografice și produse bancare specifice.
+Art. 60. Ñ Personalul instituției de credit implicat în activitatea de creditare trebuie sã aibã o experiențã corespunzãtoare dimensiunii și complexitãții operațiunilor în
+legãturã cu care are competențe.
+Art. 61. Ñ (1) Instituțiile de credit trebuie sã dispunã de
+sisteme de informare în baza cãrora aspectele legate de riscul de credit sã fie raportate la timp, cu accent pe înregistrarea de credite neperformante și/sau identificarea
+neconformãrii cu limitele de expunere stabilite.
+(2) Sistemele de informare trebuie sã permitã evaluarea
+de cãtre instituția de credit a riscului de credit aferent elementelor din bilanț și din afara bilanțului.
+(3) Sistemele de informare trebuie sã furnizeze informații
+adecvate privind componența portofoliului de credite, precum
+și informații care sã permitã identificarea oricãror concentrãri
+de risc.
+Art. 62. Ñ Sistemul de monitorizare a riscului de credit
+va cuprinde cel puțin urmãtoarele:
+a) înțelegerea situației financiare curente a contrapartidei;
+b) urmãrirea conformitãții cu clauzele contractuale;
+c) evaluarea gradului de acoperire cu garanții a expunerii
+în raport cu situația curentã a contrapartidei;
+d) actualizarea dosarului de credit, obținerea de informații
+financiare curente.
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 47/20.I.2004
+
+Art. 63. Ñ În cadrul activitãților de control intern,
+instituțiile de credit trebuie sã dispunã de un sistem pentru
+remedierea la timp a situației creditelor a cãror calitate se
+deterioreazã și pentru administrarea creditelor neperformante.
+Art. 64. Ñ (1) Instituțiile de credit trebuie sã dispunã de
+politici și de proceduri corespunzãtoare pentru identificarea,
+evaluarea, monitorizarea și controlul riscului de țarã și riscului de transfer.
+(2) La monitorizarea riscului de țarã, instituțiile de credit
+trebuie sã aibã în vedere cel puțin urmãtoarele:
+a) incapacitatea potențialã de onorare a obligațiilor de
+cãtre contrapartidele din cadrul unui sector privat strãin, ce
+poate fi cauzatã de factori economici specifici țãrii respective;
+b) imposibilitatea de punere în aplicare a contractelor de
+creditare, precum și incapacitatea și imposibilitatea de a executa la timp garanțiile în baza cadrului legal național al
+împrumutatului.
+(3) Instituțiile de credit trebuie sã stabileascã și sã monitorizeze expunerile pe fiecare țarã și sã ia mãsuri corespunzãtoare
+în
+cazul
+înregistrãrii
+unor
+evoluții
+necorespunzãtoare.
+SECÞIUNEA a 3-a
+Administrarea altor riscuri semnificative
+
+3.1. Ñ Riscul de piațã
+Art. 65. Ñ (1) Politicile instituțiilor de credit privind administrarea riscului de piațã trebuie sã se refere cel puțin la
+riscurile pe care acestea intenționeazã sã și le asume, precum și la modul în care respectivele riscuri sunt controlate.
+(2) Politicile prevãzute la alin. (1) trebuie sã defineascã
+instrumentele financiare autorizate a fi utilizate, strategiile de
+acoperire împotriva riscurilor, oportunitãțile legate de asumarea de poziții, precum și parametrii cantitativi care definesc
+nivelul riscului de piațã acceptabil pentru instituțiile de credit.
+Art. 66. Ñ (1) Instituțiile de credit trebuie sã dispunã de
+proceduri de autorizare pentru pozițiile asumate.
+(2) Instituțiile de credit trebuie sã stabileascã limite în
+legãturã cu expunerile la riscurile asumate și sã monitorizeze
+respectarea acestora. Limitele trebuie sã specifice pozițiile
+permise a fi asumate.
+(3) Instituțiile de credit pot stabili limite la nivelul unitãților
+funcționale, portofoliilor, tipurilor de instrumente financiare sau
+instrumente financiare specifice.
+(4) Instituțiile de credit trebuie sã stabileascã dacã limitele
+nu pot fi în nici o situație depãșite sau dacã, în condiții clar
+specificate, depãșirea acestora poate fi toleratã pentru o perioadã scurtã.
+Art. 67. Ñ Instituțiile de credit trebuie sã dispunã de
+planuri alternative care sã cuprindã procedurile ce trebuie
+aplicate în cazuri de crizã. Procedurile respective trebuie sã
+se refere inclusiv la punerea în evidențã a pozițiilor deschise
+ce pot fi afectate de riscul de piațã, precum și la variante de
+închidere a acestor poziții în astfel de situații.
+Art. 68. Ñ Instituțiile de credit trebuie sã efectueze evaluarea riscului de piațã, avându-se în vedere cel puțin
+urmãtoarele:
+a) toate activitãțile ale cãror rezultate sunt sensibile la
+fluctuațiile înregistrate de prețuri, rata dobânzii și/sau cursul
+valutar pe piațã, indiferent dacã rezultatele respectivelor activitãți sunt reflectate în bilanț sau în afara bilanțului;
+b) evoluțiile înregistrate în legãturã cu lichiditatea diferitelor piețe financiare;
+c) pozițiile deschise înregistrate în legãturã cu toate activitãțile;
+d) concentrãrile de risc în cadrul pozițiilor din portofoliul
+pentru tranzacții (trading book);
+e) impactul corelãrii dintre diferitele activitãți ale instituțiilor
+de credit în care sunt utilizate instrumente financiare;
+
+f) instrumentele financiare complexe, cum ar fi instrumentele financiare derivate.
+Art. 69. Ñ Instituțiile de credit trebuie sã dezvolte sisteme
+de evaluare a riscului de piațã, pe baza cãrora sã poatã fi
+evaluate riscurile asociate activelor, pasivelor și elementelor
+în afara bilanțului și care sã utilizeze tehnici de evaluare
+adecvate.
+Art. 70. Ñ (1) Instituțiile de credit vor dispune de proceduri de administrare a riscurilor de piațã pentru toate activitãțile care implicã astfel de riscuri, cum ar fi:
+a) proceduri pentru desfãșurarea activitãților care, prin
+specificul lor, afecteazã dimensiunile riscului de piațã la care
+instituțiile de credit sunt expuse, inclusiv proceduri pentru
+asumarea de poziții;
+b) proceduri pentru utilizarea instrumentelor financiare.
+(2) În legãturã cu pozițiile din portofoliul pentru tranzacții,
+instituțiile de credit trebuie sã dispunã de proceduri care
+implicã cel puțin urmãtoarele:
+a) evaluarea respectivelor poziții la valoarea de piațã, precum și calcularea expunerilor cel puțin zilnic;
+b) identificarea imediatã a depãșirilor de limite, precum și
+raportarea și evaluarea acestora cel puțin zilnic;
+c) monitorizarea continuã a lichiditãții portofoliului pentru
+tranzacții;
+d) evaluarea și monitorizarea permanentã a pozițiilor deschise, cu luarea în considerare a dimensiunii, scadenței și
+complexitãții acestora.
+Art. 71. Ñ (1) Instituțiile de credit trebuie sã dispunã de
+un sistem de informare adecvat pentru evaluarea, monitorizarea, controlul și raportarea expunerilor afectate de riscul de
+piațã.
+(2) Raportãrile trebuie sã includã cel puțin urmãtoarele:
+a) expunerile agregate la nivel de instituție de credit;
+b) gradul de conformitate cu politicile și limitele stabilite;
+c) rezultatul testelor efectuate pentru condiții de crizã;
+d) sinteze ale constatãrilor rezultate ca urmare a analizei
+politicilor, procedurilor și adecvãrii sistemului de administrare
+a riscurilor, inclusiv ale constatãrilor auditului intern și auditorului financiar al instituțiilor de credit.
+(3) Raportãrile trebuie transmise conducãtorilor și, într-o
+formã sinteticã, consiliului de administrație.
+3.2. Ñ Riscul de lichiditate
+Art. 72. Ñ Instituțiile de credit trebuie sã își dezvolte strategia în domeniul administrãrii lichiditãții, care trebuie sã
+includã și o componentã a administrãrii zilnice a acesteia.
+Art. 73. Ñ Politicile instituțiilor de credit privind administrarea lichiditãții trebuie sã se refere cel puțin la urmãtoarele:
+a) componența activelor, prin prisma lichiditãții și a capacitãții acestora de a fi tranzacționate pe piațã, a pasivelor,
+precum și a elementelor din afara bilanțului;
+b) modul de administrare a lichiditãții pe principalele
+valute cu care opereazã atât la nivel individual, cât și la
+nivel agregat;
+c) utilizarea anumitor instrumente financiare, cum ar fi
+instrumentele financiare derivate.
+Art. 74. Ñ (1) Instituțiile de credit trebuie sã aibã proceduri de evaluare și monitorizare a poziției lichiditãții, stabilite
+pe baza analizei fluxurilor de numerar viitoare, determinate în
+funcție de evoluțiile viitoare ale elementelor de activ, de
+pasiv și din afara bilanțului. Fluxurile de numerar viitoare vor
+fi distribuite pe benzi de scadențe.
+(2) Instituțiile de credit vor calcula indicatori de lichiditate,
+pentru care vor stabili limite.
+(3) Instituțiile de credit vor stabili perioada în raport cu
+care se determinã poziția lichiditãții, precum și frecvența de
+determinare a acesteia, în funcție de natura activitãții lor.
+(4) Instituțiile de credit trebuie sã determine poziția lichiditãții pe baza unor scenarii care sã ținã cont atât de factori
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 47/20.I.2004
+interni (specifici instituțiilor de credit), cât și de factori externi
+(legați de evoluțiile pieței).
+(5) Instituțiile de credit trebuie sã revizuiascã periodic scenariile utilizate în administrarea lichiditãții, pentru a determina
+dacã acestea continuã sã fie valabile. În acest scop,
+instituțiile de credit vor lua urmãtoarele mãsuri:
+a) determinarea nivelului activelor potențiale (de exemplu:
+active ajunse la scadențã ce ar putea fi reînnoite, cereri
+de noi credite ce ar putea fi aprobate, trageri din angajamente de finanțare date de instituții de credit, ce ar putea fi
+efectuate);
+b) determinarea capacitãții de tranzacționare pe piațã a
+activelor;
+c) determinarea evoluției elementelor de pasiv bilanțiere în
+condiții normale de desfãșurare a activitãții (de exemplu:
+nivelul reînnoirii depozitelor și a altor elemente de pasiv, scadența efectivã a depozitelor la vedere sau a conturilor de
+economii, creșterea înregistratã în legãturã cu noile depozite,
+monedã electronicã emisã și vândutã), precum și în condiții
+de crizã (de exemplu, probabilitatea de rãmânere la dispoziția instituției de credit a surselor de finanțare);
+d) determinarea evoluției elementelor din afara bilanțului,
+inclusiv a pozițiilor rezultate din operațiuni cu instrumente
+financiare derivate.
+Art. 75. Ñ Instituțiile de credit trebuie sã menținã relații
+stabile cu furnizorii surselor de finanțare, sã asigure o diversificare corespunzãtoare a acestor surse prin evitarea concentrãrilor în domeniul finanțãrii.
+Art. 76. Ñ (1) În vederea implementãrii strategiei instituției
+de credit privind administrarea lichiditãții în condiții de crizã,
+instituțiile de credit trebuie sã dispunã de planuri alternative
+și de proceduri de remediere.
+(2) Un plan alternativ în condiții de crizã presupune cel
+puțin:
+a) existența unor fluxuri de informații oportune și neîntrerupte care sã permitã conducerii luarea unor decizii rapide;
+b) luarea de mãsuri pentru modificarea evoluției elementelor de activ și de pasiv;
+c) menținerea relațiilor cu furnizorii surselor de finanțare;
+d) orientarea cãtre piețe alternative;
+e) apelarea la facilitãțile de credit avute la dispoziție și
+neutilizate.
+3.3. Ñ Riscul operațional și alte riscuri semnificative
+Art. 77. Ñ Instituțiile de credit trebuie sã defineascã riscul
+operațional pentru necesitãți interne.
+Art. 78. Ñ Instituțiile de credit trebuie sã aibã politici privind administrarea riscului operațional, care vor lua în considerare cel puțin urmãtoarele tipuri de evenimente
+generatoare ale unui astfel de risc:
+a) frauda internã (de exemplu: raportarea cu rea-credințã
+a pozițiilor, furtul, încheierea de cãtre salariați de tranzacții
+în cont propriu);
+b) frauda externã (de exemplu: tâlhãria, falsificarea, spargerea unor coduri aferente sistemelor informatice);
+c) condițiile aferente efectuãrii angajãrilor de personal și
+siguranța locului de muncã (de exemplu: cererile compensatorii ale personalului, nerespectarea normelor de protecție a
+muncii, promovarea unor practici discriminatorii);
+d) practici defectuoase legate de clientelã, produse și
+activitãți (de exemplu: utilizarea necorespunzãtoare a
+informațiilor confidențiale deținute în legãturã cu clientela,
+spãlarea banilor, vânzarea unor produse neautorizate, folosirea greșitã de cãtre clienți a produselor și serviciilor aferente
+sistemului ”electronic banking,,);
+e) punerea în pericol a activelor corporale (de exemplu:
+acte de terorism sau vandalism, incendii, cutremure);
+f) întreruperea activitãții și funcționarea defectuoasã a sistemelor (de exemplu: defecțiuni ale componentelor hardware
+și software, probleme legate de telecomunicații, proiectarea,
+
+9
+
+implementarea și întreținerea defectuoasã a sistemului
+”electronic banking,,);
+g) tratamentul aplicat clienților și contrapartidelor comerciale, precum și procesarea defectuoasã a datelor legate de
+aceștia (de exemplu: înregistrarea eronatã a datelor de
+intrare, administrarea defectuoasã a garanțiilor reale, documentația legalã incompletã, accesul neautorizat la conturile
+clienților, litigii);
+h) securitatea sistemului ”electronic banking,, (de exemplu:
+angajamente ale instituției de credit rezultate în mod fraudulos prin contrafacerea monedei electronice sau înregistrarea
+unor pierderi ori a unor angajamente suplimentare de cãtre
+clienți în cazul unui acces defectuos în cadrul sistemului).
+Art. 79. Ñ În scopul identificãrii și evaluãrii riscului
+operațional, instituțiile de credit trebuie sã ia cel puțin
+urmãtoarele mãsuri:
+a) evaluarea operațiunilor și activitãților în vederea determinãrii celor vulnerabile la riscul operațional;
+b) stabilirea unor indicatori cu ajutorul cãrora sã poatã fi
+determinatã poziția instituției de credit afectate de riscul
+operațional (de exemplu, numãr de tranzacții nefinalizate,
+frecvența și/sau gravitatea erorilor și omisiunilor, rata de fluctuație a personalului, creșterea rapidã a activitãții), precum și
+a unor limite aferente acestora;
+c) evaluarea permanentã a expunerilor la riscul operațional
+(de exemplu, pe baza datelor istorice legate de înregistrarea
+de pierderi, analizãrii unor scenarii diferite).
+Art. 80. Ñ Bãncile trebuie sã aibã sisteme și capacitate
+operaționalã adecvate activitãților cu instrumente financiare
+derivate pe care acestea le desfãșoarã.
+Art. 81. Ñ Instituțiile de credit vor dispune de urmãtoarele
+proceduri pentru administrarea riscului operațional:
+a) proceduri de evaluare;
+b) proceduri de monitorizare;
+c) proceduri de reducere a riscului fie pe plan intern, prin
+corectarea la timp a erorilor constatate și prin introducerea
+unor tehnologii adecvate de procesare și asigurare a securitãții informațiilor, fie prin transferul riscului cãtre alte domenii
+de activitate (de exemplu, asigurãri împotriva unor evenimente).
+Art. 82. Ñ Instituțiile de credit trebuie sã stabileascã planuri de reîncepere a activitãții și pentru situații neprevãzute,
+care sã ia în considerare diferite tipuri de scenarii, inclusiv în
+condiții de crizã.
+Art. 83. Ñ (1) La evaluarea riscului juridic și a celui
+reputațional instituțiile de credit trebuie sã ia în considerare
+cadrul legal și de reglementare, inclusiv în domeniul social,
+precum și orice alte elemente care le pot afecta activitatea
+(de exemplu: publicitatea negativã, conformã sau nu cu realitatea, fãcutã practicilor de afaceri și/sau persoanelor legate
+de acestea, pierderea încrederii în soliditatea unei instituții de
+credit, datoratã încãlcãrii grave a securitãții acesteia în urma
+unor atacuri interne sau externe asupra sistemului
+informațional, întâmpinarea de cãtre clienți a unor probleme
+în utilizarea anumitor produse, fãrã a avea suficiente
+informații despre acestea și fãrã a cunoaște procedurile de
+remediere a problemelor respective, necunoașterea clarã a
+drepturilor și obligațiilor pãrților unei tranzacții de tip
+”electronic banking,,, inclusiv cu monedã electronicã).
+(2) În vederea reducerii riscului juridic și reputațional,
+instituțiile de credit pot dezvolta programe de educare a
+clienților pentru utilizarea noilor produse și servicii, pentru
+cunoașterea comisioanelor aferente acestora, pentru semnalarea problemelor ce pot apãrea și a modalitãților de
+soluționare a acestora.
+Art. 84. Ñ (1) Înainte de a se angaja în tranzacții cu
+instrumente financiare derivate, bãncile trebuie sã se asigure
+cã, potrivit cadrului legal și de reglementare, contrapartidele
+au capacitatea de a se angaja în astfel de tranzacții.
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 47/20.I.2004
+
+(2) Bãncile trebuie sã se asigure cã obligațiile contrapartidei care apar din tranzacții cu instrumente financiare derivate
+și drepturile lor asupra oricãror garanții reale primite de la o
+contrapartidã pot fi îndeplinite.
+(3) Bãncile trebuie sã se asigure de întocmirea în mod
+corespunzãtor și posibil de pus în aplicare din punct de
+vedere legal a contractelor de compensare a creanțelor și
+obligațiilor reciproce decurgând din operațiuni cu instrumente
+având la bazã cursul de schimb și rata dobânzii.
+SECÞIUNEA a 4-a
+Administrarea riscurilor asociate activitãților externalizate
+
+Art. 85. Ñ (1) Instituțiile de credit trebuie sã dispunã de
+politici privind externalizarea activitãților auxiliare sau conexe
+în raport cu activitãțile principale.
+(2) Instituțiile de credit trebuie sã dispunã de proceduri de
+administrare a riscurilor asociate activitãților externalizate, respectiv a riscului juridic, a riscului reputațional și a riscului
+operațional.
+(3) Procedurile de administrare a riscurilor asociate activitãților externalizate se vor referi cel puțin la urmãtoarele:
+a) luarea deciziilor privind externalizarea unor noi activitãți
+sau modificarea celor existente;
+b) selectarea și evaluarea societãților prestatoare de servicii auxiliare sau conexe în legãturã cu aspecte cum ar fi:
+solvabilitatea, reputația, familiarizarea cu specificul sectorului
+instituțiilor de credit, calitatea serviciilor prestate, organizarea
+activitãții și controlul intern, existența unui personal competent, existența unui plan alternativ de redresare a activitãții,
+asigurarea confidențialitãții informației, în special în cazul
+celei legate de instrumentele de platã electronicã;
+c) monitorizarea modului în care societãțile prestatoare de
+servicii auxiliare sau conexe desfãșoarã activitãțile externalizate;
+d) elaborarea de planuri alternative și stabilirea costurilor
+și resurselor necesare pentru schimbarea societãților prestatoare de servicii auxiliare sau conexe.
+Art. 86. Ñ (1) Instituțiile de credit pot externaliza activitãți
+doar în condițiile încheierii de contracte cu societãți prestatoare de servicii auxiliare sau conexe.
+(2) Contractele încheiate cu societãți prestatoare de servicii auxiliare sau conexe în legãturã cu activitãțile externalizate trebuie sã fie în formã scrisã și sã asigure o alocare
+clarã a responsabilitãților fiecãrei pãrți.
+(3) Instituțiile de credit vor putea încheia contracte cu
+societãți prestatoare de servicii auxiliare sau conexe, în
+legãturã cu activitãțile externalizate, în urmãtoarele condiții:
+a) asigurarea existenței unor date actualizate și a altor
+informații la nivelul instituției de credit;
+b) asigurarea accesului unor entitãți din România (Banca
+Naționalã a României, autoritãți sau instituții publice, casa
+centralã a cooperativelor de credit) la datele și informațiile
+aferente operațiunilor din România, în cazul externalizãrii
+unor activitãți în afara granițelor țãrii;
+c) asigurarea securitãții/confidențialitãții datelor, cel puțin
+prin urmãtoarele mãsuri: angajamentul societãții prestatoare
+de servicii auxiliare sau conexe și al personalului acesteia de
+a se supune regulilor de confidențialitate, drepturile contractuale ale instituției de credit de a lua mãsuri împotriva
+societãții prestatoare de servicii auxiliare sau conexe în cazul
+încãlcãrii confidențialitãții, separarea datelor instituției de credit de cele ale societãții prestatoare de servicii auxiliare sau
+conexe și de cele ale altor clienți ai acesteia.
+Art. 87. Ñ Instituțiile de credit nu pot externaliza urmãtoarele activitãți:
+a) activitãțile principale prevãzute la art. 8 și 153 din
+Legea nr. 58/1998 privind activitatea bancarã, cu modificãrile
+și completãrile ulterioare, la art. 7 din Legea nr. 541/2002
+privind economisirea și creditarea în sistem colectiv pentru
+
+domeniul locativ, modificatã și completatã prin Ordonanța de
+urgențã a Guvernului nr. 99/2003, și la art. 104 din
+Ordonanța de urgențã a Guvernului nr. 97/2000 privind organizațiile cooperatiste de credit, aprobatã și modificatã prin
+Legea nr. 200/2002;
+b) activitatea de audit intern, în condițiile în care furnizorul extern de servicii în domeniul auditului intern are și calitatea de auditor financiar al instituției de credit în cauzã;
+c) organizarea și ținerea contabilitãții, în condițiile în care
+între persoanele cãrora le-ar fi externalizatã activitatea de
+ținere a contabilitãții și auditorul financiar existã legãturi ce
+afecteazã independența acestuia în exercitarea mandatului;
+d) organizarea și desfãșurarea activitãții juridice curente,
+în conformitate cu dispozițiile Legii nr. 514/2003 privind organizarea și exercitarea profesiei de consilier juridic;
+e) orice alte activitãți care în urma externalizãrii nu mai
+pot fi controlate și desfãșurate în conformitate cu regulile
+unei practici bancare prudente și sãnãtoase.
+SECÞIUNEA a 5-a
+Comitetul de administrare a riscurilor
+
+Art. 88. Ñ (1) Instituțiile de credit trebuie sã dispunã de
+un comitet de administrare a riscurilor. Comitetul de administrare a riscurilor este un comitet permanent, ale cãrui
+funcționare și atribuții sunt reglementate de prezentele norme
+și de regulamentele interne ale fiecãrei instituții de credit.
+(2) Comitetul de administrare a riscurilor își poate
+desfãșura lucrãrile în subcomitete, în funcție de mãrimea și
+complexitatea instituțiilor de credit.
+(3) Comitetul de administrare a riscurilor se constituie prin
+decizie a consiliului de administrație.
+Art. 89. Ñ Instituțiile de credit trebuie sã dispunã de un
+regulament al comitetului de administrare a riscurilor, aprobat
+la nivelul consiliului de administrație și revizuit periodic, dupã
+caz, care sã indice componența, autoritatea și responsabilitãțile acestuia și modul de raportare cãtre consiliul de administrație.
+Art. 90. Ñ (1) Membrii comitetului de administrare a riscurilor trebuie sã aibã o experiențã compatibilã cu responsabilitãțile lor în cadrul acestuia.
+(2) Comitetul de administrare a riscurilor este format din
+conducãtori ai instituției de credit și ai compartimentelor a
+cãror activitate este afectatã de riscurile semnificative și,
+dacã se considerã necesar, din acest comitet pot face parte
+și alți conducãtori de compartimente.
+Art. 91. Ñ Comitetul de administrare a riscurilor va avea
+cel puțin urmãtoarele atribuții:
+a) sã asigure informarea consiliului de administrație asupra problemelor și evoluțiilor semnificative care ar putea
+influența profilul de risc al instituției de credit;
+b) sã dezvolte politici și proceduri adecvate pentru identificarea, evaluarea, monitorizarea și controlul riscurilor semnificative;
+c) sã aprobe metodologii și modele adecvate pentru evaluarea riscurilor și limitarea expunerilor;
+d) sã stabileascã limite corespunzãtoare privind expunerea la riscuri, inclusiv pentru condiții de crizã, în conformitate
+cu mãrimea, complexitatea și situația financiarã a instituției
+de credit, precum și proceduri necesare pentru aprobarea
+excepțiilor de la respectivele limite;
+e) sã aprobe angajarea instituțiilor de credit în noi activitãți, pe baza analizei riscurilor semnificative aferente
+acestora;
+f) sã analizeze mãsura în care planurile alternative de
+care dispune banca corespund situațiilor neprevãzute cu care
+aceasta s-ar putea confrunta;
+g) sã prezinte consiliului de administrație informãri
+suficient de detaliate și oportune, care sã permitã acestuia
+sã cunoascã și sã evalueze performanța conducerii în
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 47/20.I.2004
+monitorizarea și controlul riscurilor semnificative, potrivit politicilor aprobate, precum și performanța de ansamblu a
+instituției de credit;
+h) sã informeze regulat consiliul de administrație asupra
+situației expunerilor instituției de credit la riscuri și imediat, în
+cazul în care intervin schimbãri semnificative în expunerea
+curentã sau viitoare a instituției de credit la riscurile respective;
+i) sã stabileascã sisteme de raportare corespunzãtoare a
+aspectelor legate de riscuri;
+j) sã stabileascã competențele și responsabilitãțile pentru
+administrarea și controlul expunerilor la riscuri.
+CAPITOLUL IV
+Organizarea și desfãșurarea activitãții de audit intern
+a instituțiilor de credit
+SECÞIUNEA 1
+Obiectivul auditului intern
+
+Art. 92. Ñ (1) Instituțiile de credit trebuie sã organizeze
+auditul intern ca o componentã a activitãții de monitorizare a
+sistemului de control intern și a evaluãrii gradului de adecvare a nivelului fondurilor proprii în funcție de riscurile la
+care instituțiile de credit sunt expuse, în vederea asigurãrii
+unei evaluãri independente a adecvãrii politicilor și procedurilor stabilite și a modului în care acestea sunt respectate.
+(2) Casele centrale ale cooperativelor de credit trebuie sã
+organizeze auditul intern și ca o componentã a activitãții de
+monitorizare a atingerii obiectivelor de control intern la nivelul
+rețelei cooperatiste de credit și a evaluãrii gradului de adecvare a nivelului fondurilor proprii ale rețelei cooperatiste de
+credit în funcție de riscurile la care aceasta este expusã, în
+vederea asigurãrii unei evaluãri independente a adecvãrii
+politicilor stabilite și a modului în care acestea sunt respectate și, dupã caz, ca o componentã a activitãții de monitorizare a sistemului de control intern al cooperativelor de credit
+afiliate și a evaluãrii gradului de adecvare a nivelului fondurilor proprii ale acestora în funcție de riscurile la care sunt
+expuse, în vederea asigurãrii unei evaluãri independente a
+adecvãrii politicilor și procedurilor stabilite și a modului în
+care acestea sunt respectate.
+Art. 93. Ñ (1) Obiectivul auditului intern îl reprezintã
+îmbunãtãțirea activitãții instituțiilor de credit.
+(2) Obiectivul auditului intern al casei centrale a cooperativelor de credit îl reprezintã și îmbunãtãțirea activitãții rețelei
+cooperatiste de credit.
+Art. 94. Ñ (1) Auditul intern trebuie sã acopere toate
+activitãțile instituțiilor de credit, inclusiv activitãțile sediilor
+secundare din țarã și din strãinãtate.
+(2) Auditul intern al casei centrale a cooperativelor de
+credit este responsabil și pentru modul în care este organizat și se desfãșoarã auditul intern la nivelul cooperativelor
+de credit afiliate. Auditul intern al casei centrale a cooperativelor de credit se poate implica în mod direct în activitatea
+de audit intern la nivelul cooperativelor de credit afiliate.
+Art. 95. Ñ (1) Instituțiile de credit își vor organiza activitatea de audit intern astfel încât aceasta sã contribuie la
+îndeplinirea obiectivelor lor, prin prezentarea unei abordãri
+sistematice și disciplinate de evaluare și îmbunãtãțire a
+eficienței sistemului de control intern, procesului de administrare a riscurilor și proceselor de conducere din cadrul
+instituțiilor de credit, în cadrul unor angajamente de audit
+sau, dupã caz, prin furnizarea unor servicii de consultanțã,
+potrivit statutului auditului intern.
+(2) În vederea îndeplinirii obiectivului prevãzut la art. 93
+alin. (1), auditul intern al instituțiilor de credit va include, în
+principal, în cadrul unui angajament de audit, urmãtoarele
+activitãți:
+a) evaluarea eficienței și a gradului de adecvare a sistemului de control intern;
+
+11
+
+b) evaluarea modului de aplicare și a eficacitãții procedurilor de administrare a riscurilor și a metodologiilor de evaluare a riscurilor semnificative;
+c) analizarea relevanței și integritãții datelor furnizate de
+sistemele informaționale financiare și de gestiune, inclusiv de
+sistemul informatic;
+d) evaluarea acurateței și credibilitãții înregistrãrilor contabile și situațiilor financiare;
+e) evaluarea modului în care se asigurã protejarea elementelor patrimoniale bilanțiere și extrabilanțiere și identificarea metodelor de prevenire a fraudelor și pierderilor de
+orice fel;
+f) evaluarea gradului de adecvare a nivelului fondurilor
+proprii ale instituțiilor de credit în funcție de riscurile la care
+acestea sunt expuse;
+g) testarea atât a operațiunilor, cât și a funcționãrii procedurilor specifice de control;
+h) evaluarea eficienței operațiunilor instituțiilor de credit;
+i) evaluarea modului în care sunt respectate dispozițiile
+cadrului legal, cerințele codurilor de conduitã, precum și evaluarea modului în care sunt implementate politicile și procedurile instituției de credit;
+j) testarea integritãții, credibilitãții și, dupã caz, a oportunitãții raportãrilor, inclusiv a celor destinate utilizatorilor
+externi.
+(3) În cadrul unui angajament de consultanțã al instituției
+de credit, auditul intern va avea în vedere și eficacitatea procesului de administrare a riscurilor și a sistemului de control
+intern.
+(4) Casele centrale ale cooperativelor de credit își vor
+organiza activitatea de audit intern astfel încât aceasta sã
+contribuie și la îndeplinirea obiectivelor rețelei cooperatiste de
+credit, prin prezentarea unei abordãri sistematice și disciplinate de evaluare a activitãții de control intern, a procesului
+de administrare a riscurilor și a proceselor de conducere.
+(5) În vederea îndeplinirii obiectivului prevãzut la art. 93
+alin. (2), auditului intern al casei centrale a cooperativelor de
+credit i se aplicã în mod corespunzãtor prevederile alin. (2)
+lit. b)Ñe), h) și j) și trebuie sã desfãșoare urmãtoarele activitãți:
+a) evaluarea realizãrii obiectivelor de control intern ale
+rețelei cooperatiste de credit;
+b) evaluarea gradului de adecvare a nivelului fondurilor
+proprii ale rețelei cooperatiste de credit în funcție de riscurile
+la care aceasta este expusã, precum și, dupã caz, a nivelului fondurilor proprii ale cooperativelor de credit afiliate în
+funcție de riscurile la care acestea sunt expuse;
+c) testarea atât a operațiunilor, cât și a funcționãrii procedurilor specifice de control ale cooperativelor de credit afiliate, dupã caz;
+d) evaluarea modului în care sunt respectate cerințele
+codurilor de conduitã și a modului în care sunt implementate
+politicile la nivelul rețelei;
+e) evaluarea modului în care sunt respectate dispozițiile
+cadrului legal, cerințele codurilor de conduitã, precum și evaluarea modului în care sunt implementate politicile și procedurile cooperativelor de credit.
+SECÞIUNEA a 2-a
+Externalizarea activitãții de audit intern
+
+Art. 96. Ñ (1) Consiliul de administrație al instituțiilor de
+credit, cu avizul comitetului de audit, poate lua decizia externalizãrii totale sau parțiale a activitãții de audit intern. La luarea deciziei se vor aplica în mod corespunzãtor prevederile
+secțiunii a 4-a a cap. III din prezentele norme.
+(2) Instituțiile de credit pot externaliza activitatea de audit
+intern numai unui auditor financiar specializat în auditarea
+respectivei categorii de instituții de credit.
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 47/20.I.2004
+
+(3) Principiile fundamentale ale auditului intern rãmân aplicabile și în cazul externalizãrii acestei activitãți.
+(4) Coordonatorul activitãții de audit intern trebuie sã fie
+angajat al instituției de credit.
+Art. 97. Ñ Coordonatorul activitãții de audit intern are cel
+puțin urmãtoarele atribuții pe linia externalizãrii activitãții de
+audit intern:
+a) elaborarea fundamentãrii necesitãții externalizãrii activitãții de audit intern;
+b) evaluarea furnizorului/furnizorilor extern/externi de servicii în domeniul auditului intern, în vederea creãrii condițiilor
+necesare pentru desfãșurarea corespunzãtoare a activitãții de
+audit intern și respectãrii principiilor fundamentale ale auditului intern pe tot parcursul activitãții;
+c) prezentarea propunerilor cuprinse la lit. a) și b) spre
+aprobarea consiliului de administrație, cu avizul comitetului de
+audit.
+SECÞIUNEA a 3-a
+Principii fundamentale ale auditului intern
+
+3.1. Ñ Permanența auditului intern
+Art. 98. Ñ (1) Auditul intern reprezintã o activitate cu
+caracter permanent.
+(2) Conducãtorii instituțiilor de credit sunt responsabili
+pentru asigurarea unei activitãți de audit intern adecvate,
+corespunzãtoare dimensiunii și naturii operațiunilor lor.
+3.2. Ñ Independența auditului intern
+Art. 99. Ñ (1) Instituțiile de credit trebuie sã asigure independența activitãții de audit intern de activitãțile auditate și
+de activitãțile zilnice pe care le implicã controlul intern.
+(2) Activitatea de audit intern va fi subordonatã consiliului
+de administrație din punct de vedere funcțional.
+(3) Coordonatorul activitãții de audit intern trebuie sã aibã
+competența de a comunica, direct și din proprie inițiativã,
+cele constatate în cadrul activitãții desfãșurate consiliului de
+administrație, comitetului de audit, precum și auditorilor financiari ai instituțiilor de credit, dupã caz, potrivit prevederilor
+stabilite de fiecare instituție de credit în cadrul statutului auditului intern.
+3.3. Ñ Obiectivitatea și imparțialitatea auditului intern
+Art. 100. Ñ Auditorii interni trebuie sã fie obiectivi și
+imparțiali, astfel încât sã fie evitat orice conflict de interese.
+Art. 101. Ñ (1) Orice situație de conflict de interese va fi
+adusã la cunoștințã pãrților interesate.
+(2) Orice situație de limitare a sferei de cuprindere a
+auditului intern va fi adusã la cunoștințã consiliului de administrație și comitetului de audit.
+(3) Orice situație prin care se prejudiciazã obiectivitatea și
+imparțialitatea auditului intern, înaintea începerii sau în timpul
+desfãșurãrii unui angajament de consultanțã, trebuie adusã
+imediat la cunoștințã conducerii instituției de credit.
+(4) Persoanele care sunt soți, rude sau afini pânã la gradul al patrulea inclusiv cu conducãtorii unei instituții de credit
+nu pot fi auditori interni ai instituției de credit.
+(5) Persoanele care sunt soți, rude sau afini pânã la gradul al patrulea inclusiv cu conducãtorii unei cooperative de
+credit nu pot fi auditori interni ai casei centrale a cooperativelor de credit.
+Art. 102. Ñ (1) În vederea evitãrii oricãrui conflict de interese, auditorii interni nu vor putea audita activitãți sau funcții
+desfãșurate și, respectiv, deținute decât dupã trecerea unei
+perioade de cel puțin un an și nu vor putea fi angrenați în
+operațiuni ale instituțiilor de credit ori în proiectarea sau
+implementarea oricãror proceduri de control.
+(2) În vederea evitãrii oricãrui conflict de interese, auditorii interni ai unei case centrale a cooperativelor de credit nu
+vor putea fi angrenați nici în operațiuni ale cooperativelor de
+
+credit ori în proiectarea sau implementarea oricãror proceduri
+de control ale acestora.
+(3) Auditorii interni pot formula recomandãri cu privire la
+procedurile de control.
+(4) Fãrã a prejudicia obiectivitatea și imparțialitatea auditului intern, la cererea conducãtorilor instituției de credit,
+acesta poate sã exprime opinii legate de modul în care principiile de control intern sunt respectate în unele situații specifice, cum ar fi: reorganizãri de amploare, demararea unor
+noi activitãți importante sau riscante, constituirea sau reorganizarea sistemelor de control al administrãrii riscurilor, sistemelor informaționale ori informatice.
+(5) Casele centrale ale cooperativelor de credit vor aplica
+în mod corespunzãtor prevederile alin. (4) la nivelul rețelei
+cooperatiste de credit.
+Art. 103. Ñ Fãrã a prejudicia obiectivitatea și imparțialitatea auditului intern, auditorii interni vor putea acorda consultanțã asupra unor operațiuni pentru care au avut anterior
+responsabilitãți sau asupra cãrora au exercitat angajamente
+de audit, în conformitate cu statutul auditului intern, cu
+condiția de a nu efectua un angajament de audit în anul
+urmãtor.
+3.4. Ñ Integritatea și competența profesionalã
+Art. 104. Ñ Auditorii interni trebuie sã fie corecți, onești
+și incoruptibili, sã respecte prevederile legale și ale Codului
+privind conduita eticã în activitatea de audit intern și sã
+comunice informații potrivit cerințelor legale și ale profesiei.
+Art. 105. Ñ (1) Instituțiile de credit trebuie sã se asigure
+cã auditorii interni sunt competenți din punct de vedere profesional privind îndeplinirea responsabilitãților individuale.
+(2) La evaluarea competenței profesionale a auditorilor
+interni trebuie sã fie avute în vedere complexitatea
+activitãților instituției de credit ce fac obiectul auditului intern,
+natura activitãții ce urmeazã a fi desfãșuratã, respectiv capacitatea acestora de a solicita și obține informații, de a le sintetiza, evalua și raporta.
+(3) La evaluarea competenței profesionale a auditorilor
+interni ai casei centrale a cooperativelor de credit trebuie sã
+fie avutã în vedere și complexitatea activitãților desfãșurate
+la nivelul rețelei cooperatiste de credit.
+Art. 106. Ñ Pentru a nu fi afectatã capacitatea de evaluare criticã a auditorilor interni, ca urmare a rutinei și executãrii permanente a acelorași sarcini, instituțiile de credit
+trebuie sã asigure, în mãsura posibilitãților, rotirea acestora,
+cu condiția respectãrii principiului obiectivitãții și imparțialitãții.
+Art. 107. Ñ Instituțiile de credit trebuie sã se asigure cã,
+pe ansamblu, auditorii interni rãspund din punct de vedere
+profesional obiectivelor prevãzute de statutul auditului intern.
+3.5. Ñ Confidențialitatea
+Art. 108. Ñ (1) Auditorii interni trebuie sã fie prudenți în
+utilizarea informațiilor colectate în exercitarea activitãții și sã
+asigure protejarea acestor informații.
+(2) Auditorii interni nu vor utiliza informațiile colectate pentru obținerea unor avantaje personale sau în orice mod care
+ar fi contrar prevederilor legale ori în detrimentul obiectivelor
+instituției de credit.
+(3) Auditorii interni ai casei centrale a cooperativelor de credit
+nu vor utiliza informațiile colectate în detrimentul obiectivelor
+stabilite la nivelul unei rețele cooperatiste de credit.
+SECÞIUNEA a 4-a
+Statutul auditului intern
+
+Art. 109. Ñ (1) Instituțiile de credit trebuie sã elaboreze
+statutul auditului intern, care va stabili cel puțin urmãtoarele:
+a) obiectivele și sfera de cuprindere ale auditului intern;
+b) poziția auditului intern în cadrul instituției de credit,
+competențele și responsabilitãțile acestuia;
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 47/20.I.2004
+c) responsabilitãțile coordonatorului activitãții de audit
+intern;
+d) termenii și condițiile în care auditorii interni pot furniza
+servicii de consultanțã sau pot îndeplini alte sarcini speciale.
+(2) Statutul auditului intern al unei case centrale a cooperativelor de credit va cuprinde cel puțin elementele
+menționate la alin. (1) lit. a)Ñc) la nivelul unei rețele cooperatiste de credit.
+Art. 110. Ñ (1) Statutul auditului intern trebuie sã fie revizuit periodic și comunicat întregului personal al instituției de
+credit. El trebuie aprobat de consiliul de administrație și de
+conducãtorii instituțiilor de credit, în cazul în care aceștia nu
+sunt membri ai consiliului de administrație, dupã caz, cu avizul comitetului de audit.
+(2) Statutul auditului intern al unei case centrale a cooperativelor de credit trebuie sã fie revizuit periodic și comunicat
+întregului personal al rețelei cooperatiste de credit. El trebuie
+aprobat de consiliul de administrație al casei centrale a cooperativelor de credit.
+Art. 111. Ñ (1) Statutul auditului intern trebuie sã prevadã dreptul de inițiativã al auditorului intern și autoritatea
+acestuia de a comunica cu orice membru din cadrul personalului instituției de credit, de a examina orice activitate,
+compartiment sau sediu secundar al instituției de credit, precum și accesul acestuia la orice înregistrãri, fișiere și
+informații interne, inclusiv la informații destinate conducerii,
+precum și la procese-verbale și alte materiale cu caracter
+similar ale tuturor organelor de decizie și consultative, care
+prezintã relevanțã în îndeplinirea atribuțiilor sale.
+(2) Statutul auditului intern al unei case centrale a cooperativelor de credit trebuie sã prevadã și autoritatea auditorului
+intern de a comunica cu orice membru din cadrul personalului cooperativelor de credit afiliate, de a examina orice activitate, compartiment sau sediu secundar al acestora, precum
+și accesul auditorului la orice înregistrãri, fișiere și informații
+interne, inclusiv la informații destinate conducerii, precum și
+la procese-verbale și alte materiale cu caracter similar ale
+tuturor organelor de decizie, care prezintã relevanțã în îndeplinirea atribuțiilor sale.
+SECÞIUNEA a 5-a
+Desfãșurarea activitãții de audit intern
+
+Art. 112. Ñ (1) Activitatea de audit intern presupune, în
+vederea desfãșurãrii de angajamente de audit, parcurgerea a
+cel puțin urmãtoarelor etape:
+a) planificarea activitãții de audit intern;
+b) examinarea și evaluarea informațiilor avute la
+dispoziție;
+c) comunicarea rezultatelor;
+d) monitorizarea implementãrii recomandãrilor date.
+(2) Prevederile alin. (1) se vor aplica în mod corespunzãtor și pentru auditul intern al cooperativelor de credit
+afiliate unei case centrale a cooperativelor de credit.
+(3) Activitatea de audit intern poate presupune, în vederea
+desfãșurãrii unui angajament de consultanțã, parcurgerea
+urmãtoarelor etape:
+a) planificarea unor întâlniri cu beneficiarul serviciului de
+consultanțã Ñ reprezentantul compartimentului/sediului secundar al instituției de credit Ñ pentru evaluarea naturii și întinderii serviciului ce va fi furnizat;
+b) confirmarea faptului cã beneficiarul serviciului înțelege
+și este de acord cu tipul de consultanțã prevãzut de statutul
+auditului intern;
+c) evaluarea angajamentului de consultanțã sub raportul
+compatibilitãții cu planul de audit;
+d) stabilirea printr-un acord a condițiilor și cerințelor generale, precum și a altor factori importanți ai unui angajament
+oficial de consultanțã;
+e) comunicarea rezultatelor;
+f) monitorizarea implementãrii recomandãrilor date.
+
+13
+
+Art. 113. Ñ (1) Coordonatorul activitãții de audit intern
+rãspunde de dezvoltarea și menținerea unui program de asigurare a calitãții și îmbunãtãțire a activitãții de audit intern,
+prin care sã se asigure cã activitatea de audit intern se
+desfãșoarã pe baza unor norme solide de audit intern, transpuse în proceduri, precum și în conformitate cu Codul privind conduita eticã în activitatea de audit intern.
+(2) Coordonatorul activitãții de audit intern rãspunde de
+monitorizarea și evaluarea eficienței programului de asigurare
+a calitãții acestei activitãți. Evaluarea poate fi internã sau
+externã și va urmãri cel puțin:
+a) conformitatea cu normele de audit intern și Codul privind conduita eticã în activitatea de audit intern;
+b) adecvarea activitãții de audit intern la statutul auditului
+intern, obiectivele, politicile și procedurile aferente;
+c) contribuția activitãții de audit intern la îmbunãtãțirea
+procesului de administrare a riscurilor, de conducere și la
+sistemul de control intern;
+d) modul în care activitatea de audit intern a contribuit la
+îmbunãtãțirea activitãții instituției de credit.
+(3) Coordonatorul activitãții de audit intern al unei case
+centrale a cooperativelor de credit rãspunde de monitorizarea și evaluarea eficienței programului de asigurare a calitãții
+acestei activitãți și la nivelul rețelei cooperatiste de credit. În
+acest sens, prevederile alin. (2) referitoare la evaluarea eficienței programului de asigurare a calitãții se vor aplica în
+mod corespunzãtor.
+(4) Coordonatorul activitãții de audit intern este responsabil pentru asigurarea competenței profesionale a auditorilor
+interni, pentru pregãtirea profesionalã a acestora și pentru
+existența unor resurse necesare, adecvate desfãșurãrii activitãții.
+(5) Coordonatorul activitãții de audit intern este responsabil pentru stabilirea politicilor și procedurilor aferente activitãții
+de audit intern. Acestea pot fi concretizate în manuale privind tehnica auditului intern.
+(6) Coordonatorul activitãții de audit intern este responsabil de coordonarea activitãților desfãșurate de auditorii interni
+din cadrul instituției de credit cu cele ale altor furnizori
+externi de servicii în domeniul auditului intern, pentru a minimiza eforturile necesare atingerii obiectivelor auditului intern.
+(7) Coordonatorul activitãții de audit intern este responsabil pentru informarea, cel puțin anual, a consiliului de administrație al instituției de credit și a comitetului de audit
+asupra activitãții desfãșurate în raport cu planul auditului
+intern (angajamente efectuate, abateri semnificative de la
+plan și motivele aferente) și a principalelor recomandãri aferente angajamentelor desfãșurate.
+(8) Coordonatorul activitãții de audit intern al unei case
+centrale a cooperativelor de credit este responsabil, dupã
+caz, și pentru informarea, cel puțin anual, a consiliului de
+administrație al cooperativelor de credit asupra activitãții
+desfãșurate în raport cu planul auditului intern (angajamente
+efectuate, abateri semnificative de la plan și motivele aferente) și a principalelor recomandãri aferente angajamentelor
+desfãșurate.
+Art. 114. Ñ (1) Auditul intern poate utiliza, în funcție de
+obiectivul urmãrit, una dintre urmãtoarele forme de audit,
+specifice unui angajament de audit:
+a) audit financiar, ce are ca obiectiv verificarea credibilitãții sistemului contabil și informatic și a situațiilor financiare
+anuale;
+b) audit de conformitate, ce are ca obiectiv verificarea
+conformitãții cu legile, reglementãrile, politicile și procedurile;
+c) audit operațional, ce are ca obiectiv verificarea calitãții
+și adecvãrii sistemelor și procedurilor, analiza criticã a structurii organizatorice, evaluarea adecvãrii metodelor și resurselor în raport cu obiectivele stabilite;
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 47/20.I.2004
+
+d) audit al conducerii, ce are ca obiectiv evaluarea din
+punct de vedere calitativ a modului în care este exercitatã
+funcția de conducere pentru îndeplinirea obiectivelor instituției
+de credit.
+(2) Auditul intern poate oferi, în limita statutului auditului
+intern, urmãtoarele tipuri de servicii de consultanțã:
+a) angajamente oficiale de consultanțã Ñ planificate și
+concretizate într-un document scris;
+b) angajamente neoficiale de consultanțã Ñ activitãți de
+rutinã, cum ar fi: participarea la comitete permanente, proiecte pe duratã limitatã, întruniri ad-hoc și schimb de
+informații;
+c) angajamente speciale de consultanțã Ñ participãri la
+fuziuni și achiziții;
+d) angajamente de consultanțã pentru cazuri deosebite Ñ
+participarea într-o echipã stabilitã pentru redresarea sau
+menținerea activitãților dupã un dezastru sau alt eveniment
+extraordinar ori într-o echipã desemnatã sã acorde sprijin
+temporar pentru îndeplinirea unei cerințe speciale.
+(3) Auditul intern nu va putea agrea desfãșurarea unui
+angajament de consultanțã care determinã sustragerea de la
+cerințele normale aferente unui angajament de audit, dacã
+serviciul respectiv este mai bine desfãșurat ca angajament
+de audit.
+Art. 115. Ñ (1) Coordonatorul activitãții de audit intern va
+elabora un plan de audit care va include termenele și frecvența angajamentelor de audit planificate. Planul de audit trebuie sã cuprindã o situație referitoare la resursele necesare,
+inclusiv cele de personal.
+(2) Planul de audit va avea la bazã metodologia de evaluare a riscurilor, ale cãrei principii vor fi stabilite de coordonatorul activitãții de audit intern și vor trebui actualizate cu
+regularitate. Analiza riscurilor se va referi la toate activitãțile
+instituțiilor de credit și la sistemul de control intern.
+(3) La nivelul unei rețele cooperatiste de credit analiza
+riscurilor se va referi și la obiectivele controlului intern la
+nivelul rețelei, precum și la toate activitãțile cooperativelor de
+credit afiliate și la sistemul de control intern al acestora.
+(4) Planul de audit urmeazã a se derula pe un anumit
+numãr de ani și se va stabili pe baza rezultatelor analizei
+riscurilor aferente tuturor activitãților desfãșurate. Planul de
+audit va avea în vedere și evoluțiile prognozate, gradul de
+risc, în general mai ridicat, aferent noilor activitãți, necesitatea de a audita într-o perioadã stabilitã prin statutul auditului
+intern toate activitãțile semnificative, precum și angajamentele
+de consultanțã propuse și acceptate, dupã caz.
+(5) Planul de audit trebuie aprobat de cãtre consiliul de
+administrație și de conducãtorii instituției de credit, în cazul
+în care aceștia nu sunt membri ai consiliului de administrație,
+cu avizul comitetului de audit.
+(6) Planul de audit la nivelul unei rețele cooperatiste de
+credit trebuie aprobat de cãtre consiliul de administrație al
+casei centrale a cooperativelor de credit afiliate, cu avizul
+comitetului de audit.
+Art. 116. Ñ (1) Pentru fiecare angajament de audit din
+planul de audit trebuie elaborat un program care sã descrie
+obiectivele și etapele acestuia.
+(2) Programul inițial și orice modificãri ale acestuia trebuie
+sã fie aprobate de cãtre coordonatorul activitãții de audit
+intern.
+(3) Procedurile de audit aferente angajamentului de audit
+trebuie documentate în fișe de lucru care, întocmite pe baza
+unei metode determinate, trebuie sã reflecte informațiile
+colectate, precum și examinãrile efectuate și sã evidențieze
+evaluãrile formulate în raport. Fișele de lucru trebuie aprobate de cãtre coordonatorul activitãții de audit intern, înaintea
+începerii unui angajament.
+(4) Coordonatorul activitãții de audit intern trebuie sã stabileascã politici privind pãstrarea datelor aferente fiecãrui
+angajament, precum și furnizarea acestora unor terțe
+
+persoane. Datele aferente fiecãrui angajament nu vor putea fi
+furnizate terților fãrã aprobarea conducãtorilor instituțiilor de
+credit.
+(5) Instituțiile de credit vor lua în considerare tipul serviciilor de consultanțã care pot fi oferite potrivit statutului auditului intern, dupã caz, și vor determina dacã trebuie stabilite
+politici și proceduri specifice pentru fiecare serviciu de acest
+gen.
+(6) Natura, întinderea și rezultatele generale ale unui
+angajament de consultanțã trebuie comunicate conducãtorilor
+instituției de credit și comitetului de audit.
+Art. 117. Ñ (1) Pentru fiecare angajament de audit din
+planul de audit trebuie întocmit un raport de audit în cât mai
+scurt timp posibil. Raportul de audit trebuie transmis conducerii structurii auditate și, într-o formã sumarã, conducãtorilor
+instituției de credit.
+(2) Raportul de audit într-un angajament de audit trebuie
+sã prezinte scopul și întinderea angajamentului respectiv,
+inclusiv perioada auditatã, și sã cuprindã constatãrile și recomandãrile auditului intern, un plan de acțiuni pentru punerea
+în practicã a acestora, în vederea îmbunãtãțirii activitãții
+instituției de credit, precum și rãspunsurile structurii auditate
+pe marginea acestora. Raportul poate include și stadiul îndeplinirii recomandãrilor aferente angajamentelor anterioare.
+(3) În cazul în care anumite informații conținute în raportul de audit (informații privilegiate, legate de acțiuni ilegale
+sau necorespunzãtoare) nu este oportun sã fie cunoscute de
+toți beneficiarii unui astfel de raport, ele vor fi dezvãluite
+într-un raport separat, care va fi transmis consiliului de
+administrație al instituției de credit.
+(4) În cazul în care se dorește comunicarea unor
+informații ce necesitã atenție imediatã, a modificãrii întinderii
+angajamentului sau informarea continuã a conducãtorilor
+structurii auditate asupra progreselor unui angajament ce se
+întinde pe o perioadã mai mare, se pot întocmi rapoarte
+interimare.
+(5) Prevederile alin. (1), (2) și (4) se vor aplica în mod
+corespunzãtor pentru fiecare angajament ce face obiectul
+auditului intern la nivelul unei rețele cooperatiste de credit.
+Art. 118. Ñ (1) În urma analizãrii recomandãrilor auditului
+intern, conducãtorul/conducãtorii responsabil/responsabili de
+coordonarea structurii auditate va/vor dispune asupra implementãrii recomandãrilor respective.
+(2) La implementarea recomandãrilor vor fi avute în
+vedere cel puțin: importanța recomandãrii fãcute de auditul
+intern, responsabilitãțile persoanelor implicate în remedierea
+deficiențelor raportate, termenul în care trebuie remediatã
+deficiența, complexitatea mãsurii de corectare și implicațiile
+asupra instituției de credit în cazul în care mãsura de corectare eșueazã.
+Art. 119. Ñ (1) Auditul intern va urmãri modul de implementare a recomandãrilor sale și va raporta în acest sens,
+cel puțin semestrial, conducãtorilor, consiliului de administrație
+și comitetului de audit.
+(2) Auditul intern al casei centrale a cooperativelor de
+credit va urmãri modul de implementare a recomandãrilor
+sale și la nivelul rețelei cooperatiste de credit și va raporta
+în acest sens, cel puțin semestrial, consiliului de
+administrație și comitetului de audit.
+(3) Auditul intern va monitoriza rezultatele unui acord de
+consultanțã în limitele convenite cu beneficiarul acestuia.
+SECÞIUNEA a 6-a
+Comitetul de audit
+
+Art. 120. Ñ (1) Instituțiile de credit trebuie sã dispunã de
+un comitet de audit.
+(2) Comitetul de audit este un comitet permanent, independent de conducãtorii instituțiilor de credit, subordonat
+direct consiliului de administrație, având funcție consultativã.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 47/20.I.2004
+(3) Funcționarea și atribuțiile comitetului de audit sunt
+reglementate de prezentele norme și de statutul fiecãrei
+instituții de credit.
+(4) Comitetul de audit al casei centrale a cooperativelor
+de credit va avea responsabilitãți și la nivelul rețelei cooperatiste de credit.
+Art. 121. Ñ Instituțiile de credit trebuie sã dispunã de un
+regulament al comitetului de audit, aprobat la nivelul consiliului de administrație și revizuit periodic, dacã este cazul, care
+sã indice componența, competențele și atribuțiile acestuia,
+modul de raportare cãtre consiliul de administrație, precum și
+periodicitatea întrunirilor comitetului de audit.
+Art. 122. Ñ (1) Comitetul de audit este format din membri ai consiliului de administrație al instituției de credit, care
+nu au și nu au avut calitatea de conducãtor.
+(2) Membrii comitetului de audit trebuie sã aibã o experiențã corespunzãtoare atribuțiilor ce le revin în cadrul respectivului comitet. Cel puțin un membru trebuie sã aibã
+experiențã în domeniul contabilitãții sau auditului.
+(3) Comitetul de audit al casei centrale a cooperativelor
+de credit poate include și membri ai consiliului de administrație al cooperativelor de credit afiliate, care nu sunt conducãtori.
+Art. 123. Ñ Instituțiile de credit trebuie sã asigure accesul
+comitetului de audit la orice date sau înregistrãri necesare
+îndeplinirii atribuțiilor ce îi revin.
+Art. 124. Ñ (1) Comitetul de audit va avea cel puțin
+urmãtoarele atribuții:
+a) încurajarea comunicãrii dintre membrii consiliului de
+administrație, conducãtorii instituției de credit, auditul intern,
+auditorul financiar al instituției de credit și Banca Naționalã a
+României;
+b) avizarea statutului auditului intern, planului de audit și
+necesarului de resurse aferente acestei activitãți;
+c) asigurarea relației cu auditorul financiar al instituției de
+credit, în sensul primirii planului de audit și analizãrii constatãrilor și recomandãrilor acestuia, precum și ale altor
+organe de supraveghere și control din afara instituției de credit;
+d) analiza constatãrilor și recomandãrilor auditului intern și
+a planurilor conducerii instituției de credit pentru implementarea acestora.
+(2) Prevederile alin. (1) se vor aplica în mod corespunzãtor de cãtre comitetul de audit al casei centrale a cooperativelor de credit, la nivelul rețelei cooperatiste de credit.
+Art. 125. Ñ (1) În cadrul ședințelor comitetului de audit
+se va pune accentul cel puțin pe urmãtoarele aspecte:
+a) funcționarea sistemului de control intern și a activitãții
+de audit intern;
+b) activitãțile afectate de riscuri ce urmeazã a fi analizate
+în anul respectiv în cadrul angajamentelor de audit și ale
+auditorului financiar al instituției de credit;
+c) corectitudinea și credibilitatea informațiilor financiare furnizate conducerii și utilizatorilor externi;
+d) conformarea instituției de credit cu prevederile cadrului
+legal, cu actul constitutiv și cu normele stabilite de consiliul
+de administrație.
+(2) Prevederile alin. (1) se vor aplica în mod corespunzãtor și la nivelul rețelei cooperatiste de credit.
+Art. 126. Ñ (1) Comitetul de audit poate formula recomandãri adresate consiliului de administrație privind strategia
+și politica bãncii în domeniul controlului intern, auditului intern
+și auditului financiar, precum și pentru numirea auditorului
+financiar al instituției de credit.
+(2) Comitetul de audit al casei centrale a cooperativelor
+de credit poate formula recomandãri adresate consiliului de
+administrație al cooperativelor de credit pentru numirea auditorului financiar al acestora.
+
+15
+
+CAPITOLUL V
+Dispoziții tranzitorii și finale
+Art. 127. Ñ (1) Instituțiile de credit trebuie sã întocmeascã anual un raport asupra condițiilor în care este
+desfãșurat controlul intern. Acest raport trebuie sã cuprindã
+cel puțin:
+a) o inventariere a principalelor deficiențe identificate în
+cadrul sistemului de control intern și mãsurile întreprinse
+pentru corectarea acestora;
+b) o descriere a modificãrilor semnificative intervenite în
+sistemul de control intern în perioada respectivã, în special
+axate pe evoluția activitãții și a riscurilor;
+c) o descriere a condițiilor de aplicare a procedurilor de
+control aferente noilor activitãți;
+d) desfãșurarea controlului intern în cadrul sediilor secundare ale instituțiilor de credit din strãinãtate.
+(2) Raportul întocmit de cãtre instituțiile de credit trebuie
+sã includã și condițiile în care se desfãșoarã controlul intern
+la nivelul entitãților cuprinse în perimetrul lor de consolidare
+și al societãților prestatoare de servicii auxiliare sau conexe.
+(3) Raportul întocmit de cãtre casele centrale ale cooperativelor de credit se va referi și la condițiile în care se va
+desfãșura controlul intern la nivelul rețelei cooperatiste de
+credit.
+Art. 128. Ñ (1) Instituțiile de credit trebuie sã întocmeascã anual un raport privind mãsurile luate pe linia administrãrii riscurilor semnificative la care sunt expuse acestea
+și, dupã caz, mãsurile luate de entitãțile cuprinse în perimetrul lor de consolidare și societãțile prestatoare de servicii
+auxiliare sau conexe.
+(2) Raportul întocmit de cãtre casele centrale ale cooperativelor de credit trebuie sã cuprindã și mãsurile luate pe
+linia administrãrii riscurilor semnificative la nivelul rețelei cooperatiste de credit.
+Art. 129. Ñ (1) Instituțiile de credit trebuie sã întocmeascã anual un raport privind angajamentele de audit
+desfãșurate în perioada respectivã, din care sã reiasã constatãrile și recomandãrile auditului intern și modul de implementare a recomandãrilor respective de cãtre conducerea
+structurii auditate.
+(2) Raportul întocmit de cãtre casele centrale ale cooperativelor de credit se va referi și la desfãșurarea activitãții de
+audit intern la nivelul rețelei cooperatiste de credit.
+Art. 130. Ñ Rapoartele menționate la art. 127Ñ129 trebuie sã fie transmise Bãncii Naționale a României Ñ Direcția
+supraveghere în termen de 6 luni de la încheierea
+exercițiului financiar.
+Art. 131. Ñ Pentru controlul intern al activitãții, administrarea riscurilor semnificative și desfãșurarea activitãții de
+audit intern, instituțiile de credit vor avea în vedere și prevederile legislației naționale și standardele internaționale în
+materie.
+Art. 132. Ñ Nerespectarea prevederilor prezentelor norme
+atrage aplicarea sancțiunilor prevãzute la art. 69 și/sau a
+mãsurilor/mãsurilor de remediere prevãzute la art. 70, respectiv la art. 701 din Legea nr. 58/1998, cu modificãrile și
+completãrile ulterioare, a sancțiunilor prevãzute la art. 34
+alin. (2) din Legea nr. 541/2002, modificatã și completatã
+prin Ordonanța de urgențã a Guvernului nr. 99/2003, precum
+și a sancțiunilor prevãzute la art. 189 alin. 2 și a mãsurilor
+prevãzute la art. 191 din Ordonanța de urgențã a Guvernului
+nr. 97/2000, aprobatã și modificatã prin Legea nr. 200/2002.
+Art. 133. Ñ (1) Casele centrale ale cooperativelor de credit sunt responsabile pentru reglementarea cadrului general
+aferent organizãrii și controlului intern al activitãții cooperativelor de credit afiliate, administrãrii riscurilor semnificative și
+organizãrii și desfãșurãrii activitãții de audit intern la nivelul
+acestora.
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 47/20.I.2004
+
+(2) Cadrul general reglementat de casa centralã a cooperativelor de credit va avea în vedere prevederile prezentelor
+norme și nu va putea stabili cerințe mai puțin restrictive
+decât cele prevãzute de acestea.
+Art. 134. Ñ În cazul în care instituțiile de credit nu apeleazã la un furnizor extern de servicii pentru sistemele informatice, acestea vor trebui sã dispunã de sistemele de
+rezervã prevãzute la art. 28 alin. (1), în termen de 9 luni de
+la intrarea în vigoare a prezentelor norme.
+Art. 135. Ñ În termen de 3 luni de la data intrãrii în
+vigoare a prezentelor norme, instituțiile de credit trebuie sã
+transmitã Bãncii Naționale a României Ñ Direcția supraveghere normele interne privind organizarea și controlul intern
+al activitãții, precum și administrarea riscurilor semnificative,
+
+regulamentul comitetului de administrare a riscurilor, statutul
+auditului intern și regulamentul comitetului de audit.
+Art. 136. Ñ (1) Prezentele norme intrã în vigoare în termen de 6 luni de la data publicãrii lor în Monitorul Oficial al
+României, Partea I, pentru instituțiile de credit în funcțiune la
+data publicãrii.
+(2) Casele centrale ale cooperativelor de credit se vor
+conforma pe deplin prevederilor prezentelor norme, în termen
+de 6 luni de la data intrãrii în vigoare a acestora, pentru
+atribuțiile ce le revin la nivelul rețelei cooperatiste de credit.
+(3) În cazul cererilor de autorizare nesoluționate de la
+data publicãrii prezentelor norme în Monitorul Oficial al
+României, Partea I, și pânã la termenul prevãzut la alin. (1),
+data intrãrii în vigoare a prezentelor norme este data
+publicãrii lor în Monitorul Oficial al României, Partea I.
+
+Președintele Consiliului de administrație al Bãncii Naționale a României,
+Mugur Isãrescu
+București, 18 decembrie 2003.
+Nr. 17.
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 5069427282 Direcția de Trezorerie și Contabilitate Publicã a Municipiului București
+(alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 411.97.54, tel./fax 410.77.36.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 47/20.I.2004 conține 16 pagini.
+
+Prețul de vânzare 14.000 lei
+
+ISSN 1453Ñ4495
+
+

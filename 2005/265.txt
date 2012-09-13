@@ -1,0 +1,1714 @@
+PARTEA
+
+Anul 173 (XVII) — Nr. 265
+
+I
+
+Joi, 31 martie 2005
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE BĂNCII NAȚIONALE A ROMÂNIEI
+1. — Regulament privind sistemele de plăți care
+asigură compensarea fondurilor ...............................
+
+1–8
+
+2. — Regulament privind ordinul de plată utilizat în
+operațiuni de transfer-credit......................................
+
+9–15
+
+ACTE ALE COMITETULUI INTERMINISTERIAL
+DE GARANȚII ȘI CREDITE DE COMERȚ EXTERIOR
+14.924. — Hotărâre privind aprobarea Normei pentru
+modificarea și completarea Normelor privind
+operațiunile de emitere a garanțiilor de export de
+către EXIMBANK, în numele și contul statului, în
+scopul stimulării realizării de obiective complexe și
+a producției cu ciclu lung de fabricație, destinate
+exportului (cod ISO: NI-GAR-02-II/1) .......................
+
+ACTE
+
+ALE
+
+BĂNCII
+
+NAȚIONALE
+
+15–16
+
+A
+
+ROMÂNIEI
+
+BANCA NAȚIONALĂ A ROMÂNIEI
+
+REGULAMENT
+privind sistemele de plăți care asigură compensarea fondurilor
+Având în vedere prevederile art. 22 și 23 din Legea nr. 312/2004 privind Statutul Băncii Naționale a României,
+ale art. 63 și 64 din Legea nr. 58/1998 privind activitatea bancară, cu modificările și completările ulterioare,
+în temeiul dispozițiilor art. 48 din Legea nr. 312/2004,
+Banca Națională a României emite prezentul regulament.
+CAPITOLUL I
+Dispoziții generale
+Art. 1. — Prezentul regulament are ca obiect:
+a) autorizarea de către Banca Națională a României a
+sistemelor de plăți care asigură compensarea fondurilor;
+b) procedura de administrare a riscului de decontare
+impusă de Banca Națională a României pentru sistemele
+de plăți care asigură compensarea fondurilor, în condițiile
+în care acestea nu au prevăzute proceduri proprii de
+administrare a riscului de decontare, impuse de
+administratorul de sistem și aprobate de Banca Națională a
+României.
+
+Art. 2. — În sensul prezentului regulament, termenii și
+expresiile de mai jos au următoarele semnificații:
+1. administrator de sistem — persoana juridică ce
+stabilește regulile sistemului de plăți care asigură
+compensarea fondurilor și răspunde de operarea acestuia;
+2. instrumente financiare eligibile — titluri de stat și
+certificate de depozit emise de Banca Națională a
+României, acceptate de banca centrală pentru garantare în
+sistemele de plăți care asigură compensarea fondurilor;
+3. participant compensator — entitățile care participă la
+un sistem și ale căror poziții nete rezultate în urma
+compensării sunt decontate prin conturi de decontare
+deschise în sistemul ReGIS;
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 265/31.III.2005
+
+4. perioadă de observare — intervalul de 20 de zile
+bancare anterioare ultimei zile bancare a săptămânii
+curente;
+5. perioadă de aplicare — zilele bancare aferente
+săptămânii următoare perioadei de observare;
+6. plafon tehnic de garantare unilaterală — nivelul minim
+al garanțiilor unilaterale pe care participații compensatori au
+obligația să le constituie la dispoziția Băncii Naționale a
+României în perioada de aplicare pentru decontarea
+pozițiilor nete calculate de sistemele la care aceștia
+participă;
+7. sistem — un sistem de plăți care asigură
+compensarea fondurilor, inclusiv un sistem care asigură și
+decontarea operațiunilor cu instrumente financiare.
+
+TITLUL I
+Procedura de autorizare
+Art. 3. — Sistemele de plăți care asigură compensarea
+fondurilor pot opera pe teritoriul României numai pe baza
+autorizației acordate de Banca Națională a României în
+temeiul art. 22 din Legea nr. 312/2004 privind Statutul
+Băncii Naționale a României.
+Art. 4. — (1) Procesul de autorizare de către Banca
+Națională a României cuprinde următoarele etape:
+a) autorizarea prealabilă;
+b) autorizarea de funcționare.
+(2) Autorizarea prealabilă nu garantează obținerea
+autorizației de funcționare a sistemului.
+(3) Apariția oricăror modificări față de condițiile în care
+a fost acordată autorizația prealabilă va determina o nouă
+evaluare din partea Băncii Naționale a României în cea
+de-a doua etapă a procesului de autorizare.
+Art. 5. — (1) În vederea autorizării prealabile a unui
+sistem, administratorul de sistem va adresa Direcției
+reglementare și autorizare din cadrul Băncii Naționale a României
+o cerere de autorizare, însoțită de următoarele documente:
+a) copie conformă de pe documentele constitutive ale
+administratorului de sistem;
+b) un studiu de fezabilitate conținând cel puțin informații
+privind necesitatea punerii în funcțiune a sistemului,
+estimarea volumului operațiunilor pentru cel puțin un an de
+activitate și caracteristicile sistemului proiectat/existent;
+c) regulile de sistem și procedurile de operare;
+d) procedurile de administrare a riscurilor asociate
+sistemului, inclusiv procedura de administrare a riscului de
+decontare, după caz;
+e) procedurile pentru asigurarea continuității operaționale
+în situații neprevăzute;
+f) o prezentare a infrastructurii care urmează a fi
+utilizată de sistem.
+(2) În cazul în care consideră necesar, Banca Națională
+a României poate solicita informații sau documente
+suplimentare față de cele prevăzute la alin. (1).
+(3) În cazul sistemelor care asigură și decontarea
+operațiunilor cu instrumente financiare, documentația
+
+prezentată va fi avizată în prealabil de Comisia Națională a
+Valorilor Mobiliare.
+Art. 6. — Banca Națională a României va răspunde
+solicitării de autorizare prealabilă în termen de 90 de zile
+de la data depunerii documentației complete.
+Art. 7. — (1) Direcția reglementare și autorizare din
+cadrul Băncii Naționale a României va evalua solicitările de
+autorizare în funcție de obiectivele de politică și de
+standardele stabilite de Banca Națională a României în
+domeniul plăților, precum și de standardele și practicile
+existente la nivel internațional, referitoare la criterii de
+siguranță, eficiență și accesibilitate aplicabile diferitelor tipuri
+de sisteme.
+(2) Standardele avute în vedere de Banca Națională a
+României sunt specifice tipului de sistem pentru care se
+solicită autorizarea, iar procesul de evaluare și
+caracteristicile recomandate au în vedere importanța
+sistemică a sistemului respectiv în contextul general al
+stabilității sistemului financiar național.
+Art. 8. — Autorizația prealabilă are o valabilitate de
+90 de zile de la data emiterii, perioadă în care solicitantul
+are următoarele obligații:
+a) să încheie cu Banca Națională a României contractul
+de participare în sistemul ReGIS, care să prevadă și
+procedura de administrare a riscului de decontare;
+b) să încheie contracte cu participanții compensatori,
+conforme cu regulile sistemului stabilite de administratorul
+de sistem;
+c) să se asigure că participanții compensatori au
+încheiat contracte de participare la sistemul ReGIS cu
+Banca Națională a României, care să prevadă și aplicarea
+procedurii de administrare a riscului de decontare;
+d) să asigure infrastructura necesară funcționării
+sistemului.
+Art. 9. — În vederea autorizării funcționării unui sistem,
+administratorul de sistem va adresa Direcției reglementare
+și autorizare din cadrul Băncii Naționale a României o
+cerere de autorizare, însoțită de următoarele documente:
+a) lista participanților compensatori;
+b) un raport de audit realizat de un auditor certificat de
+securitate a datelor (CISA — Certified Information Security
+Auditor), independent față de sistemul auditat, care să
+certifice gradul de siguranță al sistemului pentru care se
+solicită autorizarea;
+c) declarație pe propria răspundere a reprezentantului
+legal al administratorului de sistem, referitoare la existența
+și funcționalitatea infrastructurii prevăzute în documentația
+de autorizare.
+Art. 10. — (1) Banca Națională a României va
+răspunde solicitării de autorizare de funcționare în termen
+de 30 de zile de la data depunerii documentației complete.
+(2) Orice modificare adusă unui sistem care
+funcționează în conformitate cu prevederile prezentului
+regulament este supusă aprobării prealabile a Băncii
+Naționale a României.
+(3) În vederea analizării cererilor depuse potrivit
+alin. (2), Banca Națională a României poate solicita orice
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 265/31.III.2005
+informație și/sau documente considerate necesare de către
+aceasta.
+(4) Banca Națională a României va decide asupra
+cererilor depuse de administratorul de sistem în condițiile
+alin. (2) în termen de 30 de zile de la data primirii cererii
+sau a informațiilor și documentației prevăzute la alin. (3),
+după caz.
+(5) În cazul în care Banca Națională a României
+consideră că modificările aduse sistemului sunt importante
+în raport cu obiectivele sale în domeniul plăților, Banca
+Națională a României va putea stabili termenele în care
+modificările respective vor putea deveni efective.
+
+TITLUL II
+Procedura de administrare a riscului
+de decontare
+CAPITOLUL I
+Aspecte generale
+Art. 11. — Procedura de administrare a riscului de
+decontare, reglementată prin prezentul regulament, va fi
+finanțată integral din resursele participanților compensatori,
+cu excepția sistemului de plăți care asigură compensarea
+fondurilor, administrat de Banca Națională a României
+(respectiv sistemul care asigură compensarea multilaterală
+interbancară și compensarea bilaterală a plăților de mică
+valoare în relația cu contul curent general al Trezoreriei
+Statului).
+Art. 12. — Decontarea finală a pozițiilor nete calculate
+de administratorii de sisteme se efectuează de către Banca
+Națională a României prin transferul irevocabil și
+necondiționat al fondurilor bănești între conturile de
+decontare ale participanților compensatori deschise în
+sistemul ReGIS, în conformitate cu regulile de sistem ale
+ReGIS și contractele de participare aferente.
+Art. 13. — Procedura de administrare a riscului de
+decontare cuprinde două categorii de proceduri, care se
+vor aplica în ordine, mai întâi procedura de garantare
+unilaterală urmată, în cazul sistemelor care asigură
+compensarea fondurilor aferente operațiunilor cu carduri
+bancare, de procedura de garantare multilaterală.
+CAPITOLUL II
+Procedura de garantare unilaterală
+SECȚIUNEA 1
+Plafonul tehnic de garantare unilaterală
+
+Art. 14. — (1) Banca Națională a României calculează
+săptămânal, la nivelul fiecărui sistem, pentru fiecare
+participant compensator, un plafon tehnic de garantare
+unilaterală.
+(2) Plafonul tehnic de garantare unilaterală se
+calculează ca fiind cea mai mare dintre pozițiile nete
+debitoare înregistrate zilnic de un participant compensator,
+
+3
+
+la nivelul unui sistem, în cursul perioadei de observare,
+multiplicată cu indicele 1,2.
+(3) În cazul sistemelor care asigură și decontarea
+operațiunilor cu instrumente financiare, plafonul tehnic de
+garantare unilaterală se calculează ca fiind cea mai mare
+dintre pozițiile nete debitoare înregistrate zilnic de un
+participant compensator la calculul prealabil al pozițiilor
+nete realizat de administratorul de sistem, în cursul
+perioadei de observare. În vederea realizării acestui calcul,
+administratorii de sisteme vor transmite zilnic Băncii
+Naționale a României, prin e-mail securizat transmis prin
+rețeaua proprietară a TransFonD — S.A., semnat electronic
+sau pe suport hârtie, pozițiile nete prealabile ale
+participanților compensatori prevăzute la art. 26 pct. 1.
+(4) Plafonul tehnic de garantare unilaterală se comunică
+de către Banca Națională a României participantului
+compensator, prin e-mail securizat transmis prin rețeaua
+proprietară a TransFonD — S.A., semnat electronic sau pe
+suport hârtie, în prima zi bancară după perioada de
+observare și este valabil pe toată durata perioadei de
+aplicare, dacă Banca Națională a României nu hotărăște
+altfel.
+(5) În situația creșterii sau diminuării rapide a valorii
+pozițiilor nete aferente unui participant compensator,
+precum și în orice alte cazuri, Banca Națională a României
+poate decide majorarea sau diminuarea plafonului tehnic de
+garantare unilaterală al acestuia la un nivel pe care îl
+consideră corespunzător pentru evitarea riscului de
+nedecontare.
+Art. 15. — (1) În cazul în care un participant
+compensator constată că există diferențe între plafonul
+tehnic de garantare unilaterală comunicat și cel rezultat din
+propriile calcule, poate comunica prin e-mail securizat
+semnat electronic, transmis prin rețeaua proprietară a
+TransFonD — S.A. sau pe suport hârtie, respectiva
+neconcordanță Băncii Naționale a României.
+(2) Banca Națională a României are obligația să
+comunice prin e-mail securizat semnat electronic, transmis
+prin rețeaua proprietară a TransFonD — S.A. sau pe
+suport hârtie, cel mai târziu în ziua bancară următoare,
+valoarea corectă a plafonului tehnic de garantare
+unilaterală sau valoarea pozițiilor nete care au stat la baza
+calculului acestuia.
+Art. 16. — Banca Națională a României calculează și
+comunică plafonul tehnic de garantare unilaterală:
+a) pentru participanții compensatori rezultați în urma
+divizării, prin împărțirea plafonului de garantare unilaterală
+existent înainte de divizare, în mod egal între participanții
+compensatori rezultați din divizare;
+b) pentru participanții compensatori rezultați în urma
+fuziunii, prin însumarea plafoanelor tehnice de garantare
+unilaterală ale participanților compensatori care au fuzionat.
+Art. 17. — Pentru prima săptămână sau fracțiune de
+săptămână de funcționare, plafonul tehnic de garantare
+unilaterală pentru un nou participant compensator la unul
+sau mai multe sisteme va fi stabilit de acesta, pe propria
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 265/31.III.2005
+
+răspundere, în funcție de valoarea estimată a plăților
+proprii, și va fi comunicat în prealabil Băncii Naționale a
+României.
+SECȚIUNEA a 2-a
+Constituirea și eliberarea garanțiilor unilaterale
+
+Art. 18. — Participantul compensator este obligat să
+constituie garanții unilaterale, în lei, la dispoziția Băncii
+Naționale a României, cel puțin la nivelul plafonului tehnic
+de garantare unilaterală calculat și comunicat de Banca
+Națională a României pentru fiecare sistem la care
+participă.
+Art. 19. — Garanțiile unilaterale, în lei, constituite de
+participanții compensatori pentru asigurarea decontării finale
+a propriilor poziții nete, pot fi sub formă de:
+a) fonduri evidențiate în rezervele din conturile de
+decontare ale participanților compensatori deschise în
+evidențele sistemului ReGIS;
+b) instrumente financiare eligibile, înregistrate în sistemul
+de înregistrare și decontare a titlurilor de stat.
+Art. 20. — Constituirea garanțiilor unilaterale, în lei, se
+face astfel:
+a) pentru garanțiile unilaterale sub formă de fonduri, în
+conturile de decontare ale participanților compensatori
+deschise în evidențele sistemului ReGIS, constituirea se
+face zilnic, până la orele stabilite prin contractul de
+participare în ReGIS încheiat de Banca Națională a
+României cu participanții compensatori, în conformitate și
+cu regulile de sistem ale ReGIS și regulile administratorului
+de sistem;
+b) pentru garanțiile unilaterale sub formă de instrumente
+financiare eligibile, constituirea garanțiilor se face
+săptămânal, cel mai târziu în prima zi bancară a perioadei
+de aplicare sau ori de câte ori este necesar în cursul
+acestei perioade, până la orele stabilite prin contractul de
+participare în ReGIS încheiat de Banca Națională a
+României cu participanții compensatori și prin regulile
+administratorului de sistem.
+Art. 21. — (1) Până la intrarea în funcțiune a sistemului
+electronic de înregistrare și decontare a titlurilor de stat, în
+cazul constituirii garanțiilor unilaterale sub formă de
+instrumente financiare eligibile, participanții compensatori au
+obligația să remită Băncii Naționale a României, prin e-mail
+securizat transmis prin rețeaua proprietară a TransFonD — S.A.,
+semnat electronic sau pe suport hârtie, documentul
+îBorderou pentru constituirea garanțiilor unilaterale sub
+formă de instrumente financiare eligibile“, prevăzut în anexa
+nr. 1.
+(2) Se acceptă drept garanții unilaterale instrumente
+financiare eligibile aflate în proprietatea participantului
+compensator și care nu sunt grevate de alte garanții reale
+mobiliare.
+(3) După decontarea pozițiilor nete ale participanților
+compensatori, eliberarea garanțiilor unilaterale în fonduri și
+instrumente financiare eligibile se realizează de către
+
+sistemele ReGIS și, respectiv, sistemul de înregistrare și
+decontare a titlurilor de stat, în conformitate cu regulile de
+sistem ale acestora.
+(4) Până la intrarea în funcțiune a sistemului electronic
+de înregistrare și decontare a titlurilor de stat, participanții
+compensatori pot solicita Băncii Naționale a României, prin
+e-mail securizat semnat electronic, transmis prin rețeaua
+proprietară a TransFonD — S.A. sau pe suport hârtie,
+restituirea instrumentelor financiare constituite ca garanții, în
+baza documentului îBorderou pentru restituirea garanțiilor
+unilaterale sub formă de instrumente financiare eligibile“
+(prevăzut în anexa nr. 2), în cazul în care plafonul tehnic
+de garantare unilaterală s-a diminuat de la o perioadă la
+alta, în cazul în care, pe parcursul perioadei de aplicare,
+participantul hotărăște să constituie garanții sub forma
+rezervelor în sistemul ReGIS sau dorește să înlocuiască
+instrumentele financiare eligibile constituite ca garanții cu
+altele.
+Art. 22. — Garanțiile unilaterale sub forma
+instrumentelor financiare eligibile vor fi evaluate conform
+valorii comunicate periodic de Direcția operațiuni de piață
+din cadrul Băncii Naționale a României.
+Art. 23. — Participanții compensatori sunt obligați să
+completeze, până cel târziu a doua zi bancară la ora
+stabilită prin contractul încheiat cu Banca Națională a
+României, garanțiile unilaterale până la nivelul plafonului de
+garantare unilaterală ori de câte ori garanțiile au fost
+executate parțial sau în totalitate, ca urmare a aplicării
+procedurilor de garantare unilaterală.
+
+CAPITOLUL III
+Procedura de garantare multilaterală
+Art. 24. — (1) În cazul în care fondurile disponibile din
+contul de decontare și garanția unilaterală a unui
+participant compensator dintr-un sistem nu acoperă poziția
+sa netă debitoare și nici nu pot fi mobilizate fonduri
+suplimentare pentru acoperirea acestei poziții de către
+participantul respectiv sau de către administratorul de
+sistem, Banca Națională a României va refuza decontarea
+pozițiilor nete transmise de sistemul respectiv în ReGIS și
+va solicita administratorului de sistem aplicarea procedurii
+de garantare multilaterală, care constă în recalcularea
+pozițiilor nete prin excluderea tranzacțiilor care au
+determinat poziția netă debitoare neacoperită de către
+participantul compensator în cauză.
+(2) Transmiterea pozițiilor nete recalculate conform
+prevederilor alin. (1) se va face conform contractului de
+participare în ReGIS încheiat de Banca Națională a
+României și administratorul sistemului respectiv.
+(3) Banca Națională a României nu are nici o
+responsabilitate privind refacerea compensării interbancare.
+(4) În cazul în care pozițiile nete nu sunt prezentate în
+intervalul de timp stabilit prin regulile de sistem ale ReGIS
+și prin contractul de participare în ReGIS încheiat de
+Banca Națională a României și administratorul sistemului
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 265/31.III.2005
+respectiv, Banca Națională a României nu va efectua
+decontarea operațiunilor sistemului de compensare pentru
+ziua de decontare respectivă.
+CAPITOLUL IV
+Aplicarea procedurii de administrare
+a riscului de decontare
+Art. 25. — Administratorul de sistem aplică procedura
+de administrare a riscului de decontare, convenită pe bază
+contractuală cu Banca Națională a României, având în
+vedere următoarele principii, ținând cont de tipul de sistem:
+a) pentru sistemele care asigură și decontarea
+operațiunilor cu instrumente financiare, precum și pentru
+sistemul de plăți care asigură compensarea fondurilor,
+administrat de Banca Națională a României, sunt necesare
+eliminarea riscului de decontare și decontarea în aceeași
+zi în care instrucțiunea de plată pentru decontarea pozițiilor
+nete a fost introdusă în sistemul ReGIS, în acest sens
+nefiind aplicabilă procedura de garantare multilaterală;
+b) pentru sistemele de plăți care asigură compensarea
+fondurilor aferente operațiunilor cu carduri bancare este
+posibilă aplicarea procedurii de garantare multilaterală, iar
+decontarea pozițiilor nete se poate realiza și ulterior zilei în
+care instrucțiunea de plată pentru decontarea pozițiilor nete
+a fost introdusă în sistemul ReGIS.
+SECȚIUNEA 1
+Sistemele care asigură și decontarea operațiunilor
+cu instrumente financiare
+
+Art. 26. — În cazul sistemelor care asigură și
+decontarea operațiunilor cu instrumente financiare,
+procedura de administrare a riscului de decontare se va
+aplica în următoarele etape, în conformitate cu prevederile
+regulilor de sistem ale sistemului ReGIS și sistemului de
+înregistrare și decontare a titlurilor de stat și ale
+contractului de participare în ReGIS încheiat de Banca
+Națională a României și administratorul de sistem:
+1. Sistemul va realiza un calcul prealabil al pozițiilor
+nete ale participanților compensatori.
+2. Administratorul de sistem va solicita sistemului ReGIS
+și, după caz, sistemului electronic de înregistrare și
+decontare a titlurilor de stat sau Băncii Naționale a
+României, la ora prevăzută în contractul de participare în
+ReGIS încheiat cu Banca Națională a României,
+comunicarea valorii garanțiilor constituite sub formă de
+fonduri și, respectiv, instrumente financiare eligibile de către
+participanții compensatori pentru sistemul respectiv.
+3. În cazul în care poziția netă debitoare a unui
+participant compensator nu este acoperită de valoarea
+totală a garanțiilor constituite de acesta pentru sistem,
+administratorul de sistem va comunica participantului
+compensator în cauză valoarea cu care trebuie
+suplimentate garanțiile unilaterale aferente sistemului,
+participanții având la dispoziție un interval de timp pentru
+această operațiune. Intervalul de timp menționat va fi
+
+5
+
+corelat cu prevederile contractului de participare în ReGIS
+încheiat de administratorul de sistem cu Banca Națională a
+României și cu cele ale regulilor de sistem pentru sistemul
+ReGIS și pentru sistemul de înregistrare și decontare a
+titlurilor de stat.
+4. La expirarea intervalului de timp menționat la pct. 3,
+administratorul de sistem va solicita sistemului ReGIS și,
+după caz, sistemului electronic de înregistrare și decontare
+a titlurilor de stat sau Băncii Naționale a României
+comunicarea noilor valori ale garanțiilor constituite sub
+formă de fonduri și, respectiv, instrumente financiare
+eligibile de către participanții compensatori pentru sistem.
+5. În cazul în care poziția netă debitoare a fiecărui
+participant compensator este acoperită de valoarea totală a
+garanțiilor constituite de acesta pentru sistem în sistemul
+ReGIS și în sistemul de înregistrare și decontare a titlurilor
+de stat, administratorul de sistem va transmite o
+instrucțiune de plată pentru decontarea pozițiilor nete în
+sistemul ReGIS.
+6. În cazul în care poziția netă debitoare a unui
+participant compensator nu este acoperită nici la acest
+moment de valoarea totală a garanțiilor constituite de
+respectivul participant pentru sistem în sistemul ReGIS și
+în sistemul de înregistrare și decontare a titlurilor de stat,
+administratorul de sistem va recalcula pozițiile nete prin
+excluderea tranzacțiilor care au determinat poziția debitoare
+neacoperită, astfel încât pozițiile nete debitoare rezultate să
+fie acoperite de garanțiile constituite de participanți, și va
+transmite instrucțiunea de plată pentru decontarea pozițiilor
+nete în sistemul ReGIS în conformitate cu noile poziții nete
+calculate. Pentru tranzacțiile excluse din calculul pozițiilor
+nete, administratorul de sistem poate transmite instrucțiuni
+de plată în sistemul ReGIS în vederea decontării pe bază
+brută.
+SECȚIUNEA a 2-a
+Sistemele de plăți care asigură compensarea fondurilor
+aferente operațiunilor cu carduri bancare
+
+Art. 27. — În cazul sistemelor de plăți care asigură
+compensarea fondurilor aferente operațiunilor cu carduri
+bancare, se va aplica procedura de garantare unilaterală,
+urmată de procedura de garantare multilaterală, dacă este
+cazul.
+SECȚIUNEA a 3-a
+Sistemul de plăți care asigură compensarea fondurilor
+și care este administrat de Banca Națională a României
+
+Art. 28. — (1) Sistemul de plăți care asigură
+compensarea fondurilor, administrat de Banca Națională a
+României, va utiliza procedura de administrare a riscului de
+decontare, reglementată de cap. II.
+(2) În cazul în care un participant compensator nu își
+poate acoperi poziția netă debitoare în urma aplicării
+procedurii de garantare unilaterală și nici nu își poate
+procura fondurile necesare pentru decontarea propriei poziții
+nete debitoare până la sfârșitul zilei de decontare, orice
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 265/31.III.2005
+
+instituție de credit și/sau Trezoreria Statului pot să
+furnizeze participantului respectiv fondurile necesare
+decontării, prin constituirea unor depozite interbancare în lei
+în favoarea participantului debitor, în condiții stabilite de
+părți, cu titlu de depozite de garantare excepționale.
+
+TITLUL III
+Sancțiuni
+Art. 29. — (1) Constituie încălcări ale prevederilor
+prezentului regulament:
+a) aplicarea procedurilor de garantare multilaterală ca
+urmare a imposibilității de decontare a unuia dintre
+participanții compensatori;
+b) acoperirea poziției nete debitoare dintr-un credit
+acordat de o instituție de credit și/sau Trezoreria Statului,
+în conformitate cu prevederile art. 28 alin. (2);
+c) neconstituirea sau nerefacerea de către un participant
+compensator a garanțiilor unilaterale până cel puțin la
+nivelul plafonului tehnic de garantare unilaterală, în
+conformitate cu prevederile prezentului regulament, ale
+contractului de participare în ReGIS încheiat cu Banca
+Națională a României și cu cele ale regulilor sistemului
+ReGIS;
+d) orice altă nerespectare a prevederilor prezentului
+regulament și a măsurilor de remediere dispuse de Banca
+Națională a României în aplicarea acestuia.
+(2) În cazul nerespectării prevederilor prezentului
+regulament, Banca Națională a României poate aplica
+administratorilor de sisteme și/sau participanților
+compensatori măsuri de remediere și/sau sancțiuni
+prevăzute în legislația bancară.
+Art. 30. — În cazul în care, într-o anumită zi bancară,
+un participant compensator nu constituie sau nu își reface
+garanțiile unilaterale în lei până cel puțin la nivelul
+plafonului tehnic de garantare unilaterală, Banca Națională
+a României poate proceda la excluderea participantului atât
+din sistemul respectiv, cât și din toate celelalte sisteme în
+care acesta este participant, pe baza propriei analize
+privind bonitatea participantului respectiv.
+Art. 31. — (1) În cazul în care Banca Națională a
+României constată apariția unor deficiențe în cadrul unui
+sistem, datorate unui participant compensator, Banca
+Națională a României poate proceda la suspendarea
+acestuia atât din sistemul respectiv, cât și din toate
+celelalte sisteme în care acesta este participant, pe baza
+propriei analize privind bonitatea participantului respectiv.
+(2) Încetarea suspendării își produce efectele în ziua
+bancară imediat următoare zilei bancare în care Banca
+Națională a României constată remedierea deficiențelor
+
+menționate la alin. (1),
+administratorului de sistem.
+
+cu
+
+regulilor
+
+Art. 32. — În cazul deciziei de suspendare sau de
+excludere din unul dintre sisteme a unui participant, Banca
+Națională a României va consulta administratorul sistemului
+respectiv asupra momentului suspendării sau excluderii din
+sistem a participantului și va notifica administratorii
+celorlalte sisteme asupra acestei decizii.
+
+TITLUL IV
+Dispoziții tranzitorii și finale
+Art. 33. — Pentru decontarea finală a operațiunilor
+aferente unei anumite zile de decontare, Banca Națională a
+României nu efectuează corecții prin conturile de decontare
+din sistemul ReGIS ale participanților compensatori în zile
+de decontare ulterioare.
+Art. 34. — (1) Sistemele care sunt în funcțiune la data
+intrării în vigoare a prezentului regulament și care intră sub
+incidența acestuia se consideră autorizate și își vor
+desfășura activitatea cu respectarea prevederilor prezentului
+regulament.
+(2) Sistemele menționate la alin. (1) vor transmite Băncii
+Naționale a României, în termen de 4 luni de la intrarea în
+vigoare a prezentului regulament, documentația actualizată
+aferentă regulilor de sistem și procedurilor de operare,
+procedura de administrare a riscului de decontare și a
+celorlalte riscuri asociate sistemului, procedurile pentru
+asigurarea continuității operaționale în situații neprevăzute,
+o prezentare a infrastructurii care este utilizată de sistem,
+precum și un raport de audit realizat de un auditor
+certificat de securitate a datelor (CISA — Certified
+Information Security Auditor) independent, care să certifice
+gradul de siguranță al sistemului respectiv.
+Art. 35. — Anexele nr. 1 și 2 fac parte integrantă din
+prezentul regulament.
+Art. 36. — La data intrării în vigoare a prezentului
+regulament se abrogă Regulamentul Băncii Naționale a
+României nr. 8/1996 privind regimul de decontare specială
+și autorizare a caselor de compensații interbancare,
+republicat în Monitorul Oficial al României, Partea I,
+nr. 127 din 20 iunie 1997, cu modificările și completările
+ulterioare, Norma Băncii Naționale a României nr. 3/1998
+privind plafoanele tehnice de garantare unilaterală, publicată
+în Monitorul Oficial al României, Partea I, nr. 242 din
+3 iulie 1998, cu modificările și completările ulterioare,
+precum și orice alte dispoziții contrare.
+Art. 37. — Prezentul regulament intră în vigoare la data
+de 8 aprilie 2005.
+
+Președintele Consiliului de administrație al Băncii Naționale a României,
+Mugur Constantin Isărescu
+București, 23 februarie 2005.
+Nr. 1.
+
+respectarea
+
+7
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 265/31.III.2005
+
+ANEXA Nr. 1
+la regulament
+
+Sigla și denumirea participantului ..............................................................
+Cod BIC .........................................
+
+B O R D E R O U Nr. .......
+
+din data de ..............
+pentru constituirea garanțiilor unilaterale sub formă de instrumente financiare eligibile
+— lei —
+Nr.
+crt.
+
+Denumirea
+sistemului1)
+
+Tipul
+garanției2)
+
+Cod
+ISIN
+
+Data
+scadenței
+
+x
+
+x
+
+Nr. de bucăți
+gajate
+
+Valoarea nominală
+totală
+
+Valoarea la zi
+totală
+
+x
+
+1.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+n.
+TOTAL GENERAL:
+
+Se confirmă primirea prezentului portofoliu.
+
+Persoanele autorizate:
+Banca Națională
+a României
+...............................................
+(numele și prenumele)
+
+...............................................
+
+TransFonD — S.A.
+
+Persoanele autorizate:
+Participant
+
+Participant
+
+...............................................
+
+...............................................
+
+...............................................
+
+(numele și prenumele)
+
+(numele și prenumele)
+
+(numele și prenumele)
+
+...............................................
+
+..............................................
+
+...............................................
+
+(funcția)
+
+(funcția)
+
+(funcția)
+
+(funcția)
+
+(S.S./L.S.)
+
+(S.S./L.S.)
+
+(S.S./L.S.)
+
+(S.S./L.S.)
+
+Data ..............
+
+Data ............
+
+Data .............
+
+Data ............
+
+1)
+2)
+
+Se va completa denumirea sistemului pentru care se constituie garanții unilaterale (SNCDD, BVB, VISA, MasterCard, CCI).
+Se va completa cu TS (în cazul titlurilor de stat) sau cu CD (în cazul certificatelor de depozit).
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 265/31.III.2005
+ANEXA Nr. 2
+la regulament
+
+Sigla și denumirea participantului ..............................................................
+Cod BIC ..............................................
+
+B O R D E R O U Nr. .......
+
+din data de ..............
+pentru restituirea garanțiilor unilaterale sub formă de instrumente financiare eligibile
+— lei —
+Nr.
+crt.
+
+Denumirea
+sistemului1)
+
+Tipul
+garanției2)
+
+Cod
+ISIN
+
+Data
+scadenței
+
+x
+
+x
+
+Nr. de bucăți
+gajate
+
+Valoarea nominală
+totală
+
+Valoarea la zi
+totală
+
+x
+
+1.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+n.
+TOTAL GENERAL:
+
+Se confirmă restituirea prezentului portofoliu.
+Persoanele autorizate:
+Banca Națională
+a României
+...............................................
+
+TransFonD — S.A.
+
+Persoanele autorizate:
+Participant
+
+Participant
+
+...............................................
+
+...............................................
+
+...............................................
+
+(numele și prenumele)
+
+(numele și prenumele)
+
+(numele și prenumele)
+
+(numele și prenumele)
+
+...............................................
+
+...............................................
+
+..............................................
+
+...............................................
+
+(funcția)
+
+(funcția)
+
+(funcția)
+
+(funcția)
+
+(S.S./L.S.)
+
+(S.S./L.S.)
+
+(S.S./L.S.)
+
+(S.S./L.S.)
+
+Data ..............
+
+Data ............
+
+Data .............
+
+Data ............
+
+1)
+2)
+
+Se va completa denumirea sistemului pentru care se constituie garanții unilaterale (SNCDD, BVB, VISA, MasterCard, CCI).
+Se va completa cu TS (în cazul titlurilor de stat) sau cu CD (în cazul certificatelor de depozit).
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 265/31.III.2005
+
+9
+
+BANCA NAȚIONALĂ A ROMÂNIEI
+
+REGULAMENT
+privind ordinul de plată utilizat în operațiuni de transfer-credit
+Având în vedere prevederile art. 22 alin. (1) și (2) din Legea nr. 312/2004 privind Statutul Băncii Naționale a
+României, ale art. 56 alin. 1 din Legea nr. 58/1998 privind activitatea bancară, republicată, ale art. 164 și 285 din
+Ordonanța de urgență a Guvernului nr. 97/2000 privind organizațiile cooperatiste de credit, aprobată cu modificări și
+completări prin Legea nr. 200/2002, cu modificările ulterioare, și ale art. 4 alin. (2) din Legea nr. 541/2002 privind
+economisirea și creditarea în sistem colectiv pentru domeniul locativ, cu modificările și completările ulterioare,
+în temeiul art. 48 din Legea nr. 312/2004,
+Banca Națională a României emite prezentul regulament.
+CAPITOLUL I
+Dispoziții generale
+Art. 1. — Prezentul regulament se aplică ordinelor de
+plată pentru plățile efectuate în monedă națională pe
+teritoriul României, cu excepția ordinelor de plată pentru
+plățile efectuate în baza instrucțiunilor de transfer-credit între
+diferite unități ale Trezoreriei Statului, celor procesate în
+conformitate cu Regulamentul Băncii Naționale a României
+nr. 10/1994 privind compensarea multilaterală a plăților
+interbancare fără numerar pe suport hârtie, republicat în
+Monitorul Oficial al României, Partea I, nr. 64 bis din
+29 martie 1996, cu modificările și completările ulterioare, și
+ordinelor de plată procesate în conformitate cu prevederile
+Regulamentului Băncii Naționale a României nr. 1/2003
+privind decontarea plăților de mică valoare în relația cu
+Trezoreria Statului, publicat în Monitorul Oficial al României,
+Partea I, nr. 506 din 14 iulie 2003.
+Art. 2. — În înțelesul prezentului regulament, termenii și
+expresiile de mai jos au următoarele semnificații:
+1. ordin de plată — o instrucțiune necondiționată, dată în
+orice formă de emitent instituției receptoare, în mod direct
+sau prin intermediul unui sistem de plăți, în scopul punerii
+la dispoziția unui beneficiar a sumei de plată indicate în
+ordinul de plată, prin creditarea unui cont al acestuia
+deschis la instituția destinatară sau, după caz, prin
+eliberarea sumei respective în numerar, în condițiile în care:
+a) instituția receptoare dispune de fondurile
+corespunzătoare sumei de bani prevăzute în ordinul de
+plată fie prin debitarea unui cont al emitentului, fie prin
+încasarea în numerar a sumei respective de la emitent;
+b) instrucțiunea nu prevede că plata trebuie să fie
+efectuată la cererea beneficiarului;
+2. transfer-credit — o serie de operațiuni care începe
+prin emiterea de către plătitor a unui ordin de plată dat
+unei instituții de a pune la dispoziția unui beneficiar o
+anumită sumă de bani și care se finalizează prin
+acceptarea respectivului ordin de plată de către instituția
+destinatară;
+
+3. emitent — persoana care emite un ordin de plată pe
+cont propriu; poate fi plătitorul sau orice instituție emitentă,
+inclusiv instituția inițiatoare;
+4. plătitor — prima persoană care emite, în nume și pe
+cont propriu, ordinul de plată în cadrul unui transfer-credit;
+plătitorul poate fi un client al instituției inițiatoare sau
+instituția inițiatoare;
+5. beneficiar — persoana desemnată prin ordinul de
+plată de către plătitor să primească o anumită sumă de
+bani; beneficiarul poate fi un client al instituției destinatare
+sau instituția destinatară;
+6. instituție inițiatoare — prima instituție care emite un
+ordin de plată pe cont propriu în cadrul unui transfer-credit;
+7. instituție destinatară — instituția care recepționează și
+acceptă un ordin de plată fie în nume propriu, fie pentru a
+pune la dispoziția beneficiarului o anumită sumă de bani,
+prin creditarea contului beneficiarului sau prin eliberarea
+sumei respective în numerar, în cadrul unui transfer-credit;
+8. instituție emitentă — orice instituție, cu excepția
+instituției destinatare, care emite un ordin de plată, inclusiv
+instituția inițiatoare;
+9. instituție receptoare — instituția care recepționează un
+ordin de plată în vederea executării acestuia, inclusiv
+instituțiile inițiatoare și destinatară;
+10. instituție intermediară — orice instituție emitentă sau
+receptoare, alta decât cea a emitentului sau a
+beneficiarului, care participă la executarea unui transfercredit;
+11. instituție — oricare dintre următoarele entități:
+a) o instituție de credit, în accepțiunea legislației
+bancare în vigoare;
+b) Trezoreria Statului;
+c) Banca Națională a României;
+12. recepție — procedura prin care o instituție
+recunoaște că a primit un ordin de plată în vederea
+verificării autenticității acestuia printr-o procedură de
+securitate, a acceptării și executării ordinului de plată;
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 265/31.III.2005
+
+13. acceptare — procedura prin care o instituție
+recunoaște ca valabil un ordin de plată recepționat, în
+vederea executării, obligându-se să execute serviciul de a
+transfera fondurile corespunzătoare sumei prevăzute în
+ordinul de plată, la termenele și în condițiile dispuse de
+emitent prin ordinul de plată respectiv;
+14. procedură de securitate — o procedură stabilită prin
+convenție între emitent și instituția receptoare, în scopul:
+a) de a determina dacă un ordin de plată, o modificare
+sau o revocare a unui ordin de plată provine de la
+persoana indicată ca fiind emitent;
+b) de a detecta erorile în transmiterea sau în conținutul
+ordinului de plată ori a comunicării de modificare sau
+revocare a acestuia;
+15. executare — procedura de emitere a unui ordin de
+plată de către o instituție emitentă cu scopul de a pune în
+aplicare un ordin de plată acceptat anterior sau, în cazul
+instituției destinatare, punerea la dispoziția beneficiarului a
+sumei indicate în ordinul de plată;
+16. perioadă de executare — o perioadă de o zi sau
+două zile bancare consecutive în care un ordin de plată
+poate fi executat, în conformitate cu prevederile prezentului
+regulament, care începe cu ziua bancară în care ordinul
+de plată a fost acceptat;
+17. zi bancară — acea parte a unei zile pe parcursul
+căreia o instituție recepționează, acceptă sau refuză
+executarea ordinelor de plată, a modificărilor și revocărilor
+acestora;
+18. procesare directă (în engl. straight-throughprocessing sau STP ) — procesare automată a ordinelor de
+plată de către instituții, inclusiv în ceea ce privește
+acceptarea și executarea acestora, fără nici o intervenție
+umană;
+19. revocarea unui ordin de plată — anularea unui ordin
+de plată dat de un emitent unei instituții receptoare, la
+solicitarea emitentului, până cel mai târziu în momentul
+acceptării acestuia de către instituția receptoare.
+
+CAPITOLUL II
+Conținutul ordinului de plată
+Art. 3. — (1) Fără a restricționa instituția inițiatoare și
+plătitorul să convină și includerea altor mențiuni sau
+utilizarea unui anumit format, ordinul de plată trebuie să
+includă următoarele elemente obligatorii:
+a) identificarea ca ordin de plată;
+b) identificarea plătitorului, prin nume/denumire și cont
+(codul IBAN al contului acestuia deschis la instituția
+inițiatoare, codul IBAN atribuit centralei ori unității teritoriale
+a instituției inițiatoare sau, după caz, codul BIC) ori doar
+prin nume/denumire, în cazul în care plătitorul nu are cont
+deschis la instituția inițiatoare;
+
+c) identificarea beneficiarului, prin nume/denumire și cont
+(codul IBAN al contului acestuia deschis la instituția
+destinatară, codul IBAN atribuit centralei ori unității
+teritoriale a instituției destinatare sau, după caz, codul BIC)
+ori prin nume/denumire și adresă, în cazul în care
+beneficiarul nu are cont deschis la instituția destinatară;
+d) identificarea instituției inițiatoare, prin denumirea
+centralei sau, după caz, a unității teritoriale și/sau codul BIC,
+în cazul în care plătitorul diferă de instituția inițiatoare;
+e) identificarea instituției receptoare, prin denumirea
+centralei sau, după caz, a unității teritoriale și/sau codul BIC,
+în cazul în care beneficiarul diferă de instituția receptoare;
+f) suma și denominarea sumei;
+g) data emiterii ordinului de plată, care trebuie să fie
+unică, posibilă și certă;
+h) elementul sau elementele care să permită verificarea
+autenticității ordinului de plată de către instituția inițiatoare.
+(2) În cazul plăților efectuate în relația cu Trezoreria
+Statului, ordinul de plată va conține în plus următoarele
+elemente obligatorii:
+a) codul de identificare fiscală al plătitorului;
+b) codul de identificare fiscală al beneficiarului;
+c) numărul de evidență a plății, alocat de Agenția
+Națională de Administrare Fiscală;
+d) numărul ordinului de plată dat de plătitor;
+e) referințe privind conținutul economic al operațiunii;
+f) data debitării contului plătitorului de către instituția
+inițiatoare (care se va completa de către instituția
+inițiatoare).
+(3) În plus față de mențiunile prevăzute la alin. (1) și
+(2), instituția inițiatoare va putea conveni cu plătitorul ca
+acesta să furnizeze, după caz, și elemente suplimentare,
+cum ar fi, spre exemplu:
+a) exprimarea în litere a sumei prevăzute în ordinul de
+plată;
+b) data plății, care reprezintă ziua bancară în care
+plătitorul dorește ca fondurile să fie puse la dispoziția
+beneficiarului de către instituția destinatară, în cazul în care
+această dată este prevăzută de plătitor;
+c) referințe privind conținutul economic al operațiunii
+care a generat ordinul de plată, în cazul plăților
+interbancare;
+d) ordinul expres al plătitorului ca instituția inițiatoare să
+execute ordinul de plată printr-un anumit sistem de plăți
+sau printr-o anumită instituție intermediară;
+e) codul de identificare fiscală al plătitorului, în cazul
+plăților interbancare.
+(4) Ordinele de plată introduse de instituții în sistemele
+de plăți vor satisface și cerințele prevăzute în regulile
+sistemelor respective.
+(5) În cazul în care în ordinele de plată sunt prevăzute
+informații în formă codificată sau trunchiată conform
+înțelegerii instituțiilor receptoare cu emitenții (inclusiv
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 265/31.III.2005
+instituții emitente), instituțiile receptoare vor dezvolta în
+operațiunile lor metode de decodificare (relevare) cu
+performanțe minime acceptate de comun acord, care să
+permită evitarea riscului de a opera cu mențiuni obligatorii
+insuficient definite și nesatisfăcătoare pentru cel care se
+constituie obligat printr-un ordin de plată.
+(6) În cazul ordinelor de plată care iau forma unor
+mesaje electronice de plată transmise prin sisteme de plăți,
+datorită restricțiilor impuse de utilizarea unor mesaje
+electronice standard, numele/denumirile titularilor de conturi
+și, după caz, adresele acestora pot fi trunchiate de instituții
+în momentul completării mesajelor electronice aferente.
+Trunchierea se va realiza prin metode stabilite prin
+convenție încheiată între instituții. Metodele de trunchiere
+trebuie să asigure un grad adecvat de siguranță în
+interpretarea informațiilor trunchiate și vor fi aduse de
+instituții la cunoștință clienților, în scris.
+
+CAPITOLUL III
+Obligațiile părților și principii de procedură
+SECȚIUNEA 1
+Obligațiile emitentului
+
+Art. 4. — (1) Ordinele de plată vor fi completate în
+conformitate cu cerințele prevăzute la art. 3.
+(2) Un emitent este obligat printr-un ordin de plată
+numai dacă acesta a fost emis de el sau de o persoană
+mandatată de acesta.
+(3) În cazul în care un ordin de plată a fost supus
+aplicării unei proceduri de securitate, alta decât simpla
+comparare a semnăturilor, un prezumat emitent, care nu
+este obligat conform prevederilor alin. (2), va fi ținut
+răspunzător dacă:
+a) instituția receptoare a acceptat ordinul de plată
+recepționat, în urma verificării autenticității acestuia prin
+aplicarea procedurii de securitate;
+b) procedura de securitate aplicată de instituția
+receptoare reprezintă o metodă rezonabilă pentru
+asigurarea protecției împotriva plăților neautorizate,
+acceptată și utilizată de instituțiile de credit.
+Art. 5. — (1) Un prezumat emitent nu este totuși ținut
+răspunzător conform art. 4 alin. (3) dacă dovedește că
+ordinul de plată acceptat de instituția receptoare, în forma
+recepționată, a rezultat din acțiunea unei persoane, alta
+decât:
+
+11
+
+(2) Prevederile alin. (1) nu se aplică în situația în care
+instituția receptoare dovedește că ordinul de plată a
+rezultat din acțiunea unei persoane care a avut acces la
+procedura de securitate din vina prezumatului emitent.
+Art. 6. — (1) Un emitent este obligat printr-un ordin de
+plată în termenii prevăzuți în ordinul de plată recepționat
+de instituția receptoare.
+(2) Emitentul nu este ținut răspunzător de un duplicat
+eronat al unui ordin de plată, de o eroare sau de o
+neconcordanță dintr-un ordin de plată, dacă:
+a) emitentul și instituția receptoare au convenit o
+procedură de detectare a duplicatelor eronate, a erorilor
+sau neconcordanțelor din ordinele de plată; și
+b) utilizarea procedurii de la lit. a) de către instituția
+receptoare a evidențiat ori ar fi putut evidenția duplicatul
+eronat, eroarea sau neconcordanța.
+Art. 7. — Obligația emitentului de a plăti instituției
+receptoare pentru un ordin de plată emis se naște la
+momentul când instituția receptoare acceptă respectivul
+ordin de plată, dar această plată nu este obligatoriu a fi
+efectuată înainte de începutul perioadei de executare a
+respectivului ordin de plată. În cazul în care plata se face
+totuși înaintea începutului perioadei de executare a
+ordinului de plată, aceasta se consideră efectuată pe riscul
+emitentului.
+Art. 8. — Prevederile art. 4—7 se aplică în mod
+corespunzător și în cazul modificării și revocării unui ordin
+de plată.
+Art. 9. — Plata obligației emitentului față de instituția
+receptoare, conform art. 7, se consideră a fi efectuată:
+a) în momentul în care s-a făcut debitarea contului
+emitentului, în cazul în care acesta are un cont deschis la
+instituția receptoare, sau în momentul punerii la dispoziție
+instituției receptoare a fondurilor aferente ordinului de plată,
+în numerar, în cazul în care emitentul nu deține un cont la
+instituția receptoare; sau
+b) în momentul în care instituția emitentă creditează un
+cont al instituției receptoare deschis la aceasta; sau
+c) în momentul în care instituția emitentă creditează un
+cont al instituției receptoare deschis la o altă instituție; sau
+d) în momentul în care decontarea finală este făcută în
+contul instituției receptoare în conformitate cu regulile unui
+sistem de plăți sau cu un acord de compensare bilaterală
+existent între instituția emitentă și cea receptoare; sau
+e) la un alt moment prevăzut de legislație, dacă
+prevederile lit. a), b), c) și d) nu sunt aplicabile.
+SECȚIUNEA a 2-a
+
+a) un actual sau un fost angajat al prezumatului
+emitent; sau
+
+Acceptarea sau refuzul unui ordin de plată
+de către o instituție receptoare,
+alta decât instituția destinatară
+
+b) o persoană a cărei relație cu prezumatul emitent i-a
+permis acesteia accesul la procedura de securitate.
+
+Art. 10. — O instituție receptoare poate accepta sau
+poate refuza un ordin de plată recepționat de la emitent.
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 265/31.III.2005
+
+Art. 11. — Un ordin de plată se consideră acceptat de
+către instituția receptoare în oricare dintre următoarele
+situații:
+a) la recepția sa de la emitent, în cazul în care între
+emitent și instituția receptoare există un acord în acest
+sens, în vigoare la începutul perioadei de executare a
+ordinului de plată, inclusiv cu privire la procedura de
+înregistrare a momentului recepției;
+b) în momentul în care instituția receptoare l-a înștiințat
+pe emitent privind acceptarea; sau
+c) în momentul în care instituția receptoare procedează
+la executare;
+d) în momentul în care instituția receptoare a debitat un
+cont al emitentului deschis la aceasta, ca plată pentru
+ordinul de plată respectiv;
+e) în momentul încasării în numerar de la emitent a
+sumei prevăzute în ordinul de plată, în cazul în care
+emitentul nu are cont deschis la instituția receptoare.
+Art. 12. — O instituție receptoare care nu acceptă un
+ordin de plată este obligată să transmită emitentului, în
+forma convenită între aceștia, o comunicare de refuz a
+executării ordinului de plată, inclusiv motivul refuzului, până
+cel târziu la sfârșitul ultimei zile a perioadei de executare.
+Fac excepție de la această regulă situațiile în care:
+a) instituția receptoare nu îl poate identifica pe emitent
+din lipsă de informații;
+b) plata urmează să se realizeze prin debitarea contului
+emitentului deschis la instituția receptoare și nu există
+suficiente fonduri pentru aceasta;
+c) plata urmează să se realizeze în alte moduri și
+aceasta nu a fost efectuată.
+Art. 13. — Un ordin de plată recepționat își încetează
+efectele dacă nu este nici acceptat nici refuzat, conform
+art. 10—12, până la sfârșitul celei de-a doua zile bancare
+următoare momentului recepției inclusiv.
+SECȚIUNEA a 3-a
+Obligațiile instituției receptoare,
+alta decât instituția destinatară
+
+Art. 14. — (1) O instituție receptoare care acceptă un
+ordin de plată are obligația să execute respectivul ordin de
+plată până cel târziu în ziua bancară următoare datei
+acceptării.
+(2) Dacă în ordinul de plată este indicată o anumită
+dată a plății mai îndepărtată, instituția receptoare va
+executa ordinul de plată acceptat, astfel încât data
+respectivă să fie respectată.
+Art. 15. — O instituție receptoare care recepționează un
+ordin de plată după încheierea zilei bancare are dreptul să
+considere că ordinul de plată respectiv a fost recepționat
+în ziua bancară următoare acestei date.
+Art. 16. — (1) Dacă o instituție receptoare consideră că
+nu este posibil să execute un ordin de plată primit de la
+
+un emitent în condițiile cerute de acesta sau că executarea
+respectivului ordin de plată ar determina costuri excesive
+ori întârzieri în finalizarea transferului-credit, respectiva
+instituție trebuie să aducă de îndată acest fapt la
+cunoștință emitentului, printr-o comunicare în scris, înainte
+de încheierea perioadei de executare a ordinului de plată
+și să îi solicite instrucțiuni suplimentare.
+(2) Dacă un ordin de plată nu poate fi executat
+deoarece nu conține poate mențiunile obligatorii sau
+datorită insuficienței ori inconsecvenței datelor pe care le
+conține, instituția receptoare îl va înștiința pe emitent, dacă
+acesta poate fi identificat, prin mijloacele convenite de
+părți, cel mai târziu în ziua bancară următoare ultimei zile
+a perioadei de executare.
+(3) Dacă termenul prevăzut la alin. (1) și (2) nu a fost
+respectat, instituția receptoare poate datora emitentului
+dobânzi de întârziere pentru orice sumă primită de la
+emitent pentru perioada în care a reținut suma respectivă
+peste termenele prevăzute la alin. (1) și (2). Această
+dobândă va fi dedusă din dobânda de întârziere plătibilă
+beneficiarului conform art. 30 alin. (1).
+SECȚIUNEA a 4-a
+Acceptarea sau refuzul unui ordin de plată
+de către instituția destinatară
+
+Art. 17. — Instituția destinatară poate accepta sau
+poate refuza un ordin de plată primit de la un emitent.
+Art. 18. — (1) În cazul în care ordinul de plată primit
+de la instituția destinatară identifică beneficiarul atât prin
+nume/denumire, cât și printr-un cod IBAN/BIC, iar aceste
+două informații identifică persoane diferite, în vederea
+acceptării, instituția beneficiarului poate proceda după cum
+urmează:
+a) în cazul în care instituția destinatară procesează
+ordinele de plată în mod direct, aceasta va lua în
+considerare doar codul IBAN/BIC ca element unic de
+identificare a beneficiarului în vederea creditării contului
+acestuia;
+b) în celelalte cazuri, instituția destinatară va verifica
+dacă numele/denumirea beneficiarului și codul IBAN/BIC
+identifică același beneficiar, în caz contrar acceptarea
+ordinului de plată neputându-se realiza.
+(2) În cazul prevăzut la alin. (1) lit. a), instituția
+destinatară nu este ținută răspunzătoare pentru ordinele de
+plată în care numele/denumirea beneficiarului și codul
+IBAN/BIC nu identifică același beneficiar.
+(3) În cazul prevăzut la alin. (1) lit. a), la solicitarea
+emitentului, instituția destinatară va depune diligențele
+necesare pentru recuperarea fondurilor bănești direcționate
+în mod necuvenit în contul beneficiarului identificat doar
+după codul IBAN/BIC și pentru returnarea acestora
+emitentului, cu deducerea corespunzătoare a tuturor
+cheltuielilor legate de returnare.
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 265/31.III.2005
+(4) În cazul prevăzut la alin. (1) lit. b), pentru creditarea
+eronată a unui cont, altul decât cel al beneficiarului
+identificat și prin nume/denumire, instituția destinatară este
+ținută răspunzătoare de consecințele ce decurg din această
+acțiune.
+(5) În cazul în care ordinul de plată primit de Trezoreria
+Statului în calitate de instituție destinatară identifică
+beneficiarul atât prin nume/denumire, cât și printr-un cod
+de identificare fiscală, iar aceste două informații identifică
+persoane diferite, aceasta va lua în considerare doar codul
+de identificare fiscală ca element unic de identificare a
+beneficiarului în vederea creditării contului acestuia.
+(6) În cazul în care ordinul de plată primit de Trezoreria
+Statului în calitate de instituție destinatară identifică
+conținutul economic al operațiunii atât prin explicații, cât și
+printr-un cod IBAN, iar aceste două informații reprezintă
+informații diferite, aceasta va lua în considerare doar codul
+IBAN ca element unic de identificare a conținutului
+economic al operațiunii în vederea creditării contului
+beneficiarului.
+(7) În cazurile prevăzute la alin. (5) și (6), Trezoreria
+Statului nu este ținută răspunzătoare pentru ordinele de
+plată în care numele/denumirea beneficiarului și codul de
+identificare fiscală nu identifică același beneficiar sau
+pentru ordinele de plată în care referințele privind conținutul
+economic al operațiunii și codul IBAN nu exprimă același
+lucru.
+(8) Restituirea, la solicitarea emitentului, a sumelor
+înregistrate în conturi bugetare de către Trezoreria Statului
+potrivit prevederilor alin. (5) și (6) se efectuează potrivit
+reglementărilor legale în vigoare în domeniul fiscal.
+Art. 19. — Un ordin de plată se consideră acceptat de
+către instituția destinatară în oricare dintre următoarele
+situații:
+a) la recepția sa de la emitent, în cazul în care între
+emitent și instituția destinatară există un acord în acest
+sens în vigoare la momentul recepției, inclusiv cu privire la
+procedura de înregistrare a momentului recepției;
+b) în momentul în care instituția destinatară l-a înștiințat
+pe emitent privind acceptarea;
+c) în momentul în care instituția destinatară a debitat un
+cont al emitentului deschis la aceasta ca plată pentru
+ordinul de plată respectiv;
+d) în momentul în care a creditat contul beneficiarului
+sau a pus, în alt mod, fondurile bănești la dispoziția
+acestuia;
+e) în momentul în care a comunicat beneficiarului că
+are dreptul să retragă sau să utilizeze fondurile provenite
+în urma acceptării ordinului de plată respectiv;
+f) în momentul în care instituția destinatară a utilizat
+fondurile pentru acoperirea unei datorii a beneficiarului față
+de aceasta sau le-a folosit în conformitate cu hotărârea
+
+13
+
+unei instanțe judecătorești ori a unei alte autorități
+competente.
+Art. 20. — Instituția destinatară care nu acceptă un
+ordin de plată recepționat este obligată să transmită
+emitentului, în forma convenită între aceștia, o comunicare
+de refuz a executării ordinului de plată, inclusiv motivul
+refuzului, până cel târziu la sfârșitul zilei bancare următoare
+ultimei zile din perioada de executare. Fac excepție de la
+această regulă situațiile în care:
+a) instituția destinatară nu poate identifica emitentul din
+lipsă de informații;
+b) plata obligației emitentului față de instituția
+destinatară, respectiv a sumei prevăzute în ordinul de
+plată, nu se poate realiza;
+c) executarea ordinului de plată a fost refuzată de un
+sistem de plăți, caz în care comunicarea de refuz se
+realizează în conformitate cu regulile sistemului respectiv.
+Art. 21. — Un ordin de plată își încetează efectele
+dacă nu este nici acceptat nici refuzat, conform art. 19 și
+20, până la sfârșitul celei de-a doua zile bancare
+următoare ultimei zile a perioadei de executare.
+
+SECȚIUNEA a 5-a
+Obligațiile instituției destinatare
+
+Art. 22. — În urma acceptării unui ordin de plată,
+instituția destinatară are obligația să pună fondurile la
+dispoziția beneficiarului în ziua acceptării sau cel mai târziu
+în ziua bancară următoare ori să le folosească în
+concordanță cu mențiunile conținute de ordinul de plată și
+cu relațiile contractuale existente între ea și beneficiar.
+Art. 23. — Dacă un ordin de plată nu poate fi executat
+deoarece nu conține toate mențiunile obligatorii sau datorită
+insuficienței ori inconsecvenței datelor pe care le conține,
+instituția destinatară îl va înștiința pe emitent, dacă acesta
+poate fi identificat, prin mijloacele convenite de părți, cel
+mai târziu în ziua bancară următoare ultimei zile a
+perioadei de executare.
+Art. 24. — (1) În cazul în care beneficiarul, altul decât
+o instituție, nu are cont deschis la instituția destinatară, iar
+fondurile prevăzute în ordinul de plată urmează să fie puse
+la dispoziția beneficiarului în numerar, instituția destinatară
+are obligația înștiințării beneficiarului identificabil, cel mai
+târziu în ziua bancară următoare finalizării transferuluicredit.
+(2) În situațiile prevăzute la alin. (1), instituția
+destinatară va păstra la dispoziția beneficiarului suma
+aferentă ordinului de plată pentru o perioadă de maximum
+10 zile bancare de la data finalizării transferului-credit,
+după care va returna instituției inițiatoare suma respectivă
+în ziua bancară următoare expirării acestui termen, mai
+puțin costurile aferente returnării.
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 265/31.III.2005
+CAPITOLUL IV
+Soluționarea transferurilor-credit nefinalizate,
+eronate sau întârziate
+
+drepturile și obligațiile instituției respective decurgând
+dintr-un acord sau din regulile unui sistem de plăți, în
+vigoare, și la care ea participă.
+SECȚIUNEA a 2-a
+
+SECȚIUNEA 1
+Returnarea fondurilor bănești
+în cazul transferurilor-credit nefinalizate
+
+Art. 25. — (1) În cazul în care un transfer-credit nu
+este finalizat, instituția inițiatoare este obligată să returneze
+plătitorului suma primită de la acesta în baza odinului de
+plată.
+(2) Dacă la restituirea sumei rezultând din ordinul de
+plată neexecutat apar din partea plătitorului pretenții de
+dobânzi de întârziere, acestea vor fi achitate plătitorului de
+către instituția inițiatoare, pentru intervalul de timp cuprins
+între începutul perioadei de executare și data returnării
+sumei.
+(3) Instituția inițiatoare și fiecare instituție emitentă
+ulterioară au dreptul la recuperarea oricăror fonduri bănești
+plătite instituției receptoare către care au emis ordinul de
+plată, împreună cu dobânda de întârziere calculată pentru
+intervalul de timp cuprins între începutul perioadei de
+executare și data returnării sumei.
+(4) Prevederile alin. (1)—(3) nu pot fi schimbate printr-un
+acord intervenit între părți.
+(5) Dacă ordinul de plată nu s-a executat din cauza
+unor motive care nu țin de plătitor, achitarea dobânzilor de
+întârziere datorate conform alin. (2) și (3) se va face la
+cererea plătitorului sau a oricărei instituții emitente.
+(6) O instituție receptoare nu este obligată conform
+alin. (1) să returneze fondurile bănești care au făcut
+obiectul unui ordin de plată recepționat dacă, la rândul
+său, instituția nu poate obține returnarea respectivelor
+fonduri deoarece instituția intermediară care a primit ordin
+expres să execute transferul-credit a suspendat executarea
+respectivei plăți sau este oprită de lege să efectueze
+returnarea respectivei sume.
+Art. 26. — O instituție receptoare obligată să returneze
+o sumă pentru un transfer-credit nefinalizat este descărcată
+de această obligație față de emitentul ordinului de plată
+respectiv atunci când face returnarea direct plătitorului. În
+aceste condiții, instituția inițiatoare, precum și orice altă
+instituție obligată să returneze suma sunt descărcate de
+respectiva obligație de plată.
+Art. 27. — Un plătitor care, conform prevederilor
+prezentei secțiuni, are dreptul să recupereze o sumă
+prevăzută într-un ordin de plată poate recupera fondurile
+respective de la orice instituție obligată să returneze suma,
+în cazul în care acea instituție nu a făcut anterior acest
+lucru.
+Art. 28. — Prevederile art. 26—27 nu se aplică unei
+instituții dacă prin aplicarea acestora ar fi afectate
+
+Soluționarea transferurilor-credit eronate
+
+Art. 29 — (1) În cazul în care suma prevăzută într-un
+ordin de plată emis de către o instituție receptoare este
+mai mică decât suma prevăzută în ordinul de plată pe
+care l-a acceptat anterior în vederea executării și aceasta
+nu se datorează deducerii costurilor aferente transferului,
+respectiva instituție este obligată să emită un ordin de
+plată pentru diferență.
+(2) În cazul în care transferul-credit a fost finalizat, dar
+suma prevăzută într-un ordin de plată emis de către
+instituția emitentă este mai mare decât cea prevăzută în
+ordinul de plată pe care l-a acceptat anterior în vederea
+executării, respectiva instituție are dreptul să recupereze
+diferența de la beneficiar, respectiv beneficiarul este obligat
+să restituie în această circumstanță diferența respectivă
+către instituția emitentă la prima cerere a acesteia.
+SECȚIUNEA a 3-a
+Soluționarea transferurilor-credit finalizate
+cu întârziere
+
+Art. 30. — (1) În cazul în care un transfer-credit este
+finalizat cu întârziere datorită faptului că o instituție
+receptoare nu și-a respectat obligațiile conform art. 16 alin. (1)
+și (2), beneficiarul poate solicita plata unei dobânzi de
+întârziere, calculată la suma prevăzută în ordinul de plată
+pentru perioada de întârziere cauzată, pentru această
+obligație fiind emise instrumente de plată distincte.
+(2) Obligația unei instituții receptoare conform alin. (1)
+poate fi stinsă prin efectuarea plății către instituția
+receptoare următoare sau direct către beneficiarul ordinului
+de plată. În cazul în care o instituție receptoare, alta decât
+instituția destinatară, primește o astfel de sumă, aceasta
+are obligația să transmită respectiva sumă următoarei
+instituții receptoare. În cazul în care instituția receptoare
+este instituția destinatară, aceasta va transmite respectiva
+sumă beneficiarului.
+Art. 31. — Instituția inițiatoare și orice instituție
+receptoare ulterioară care nu este instituție obligată
+conform art. 30 alin. (1) are dreptul să-și recupereze
+dobânda de întârziere plătită emitentului de la care a
+recepționat un ordin de plată, fie de la instituția receptoare
+căreia i-a transmis această sumă, fie de la instituția
+obligată conform aceluiași articol.
+Art. 32. — (1) O instituție receptoare care nu face o
+comunicare conform art. 16 alin. (1) și (2) este obligată să
+plătească dobândă de întârziere emitentului ordinului de
+plată pentru orice sumă pe care a primit-o de la acesta
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 265/31.III.2005
+conform art. 7 pentru perioada în care a reținut suma
+respectivă peste perioada prevăzută la art. 16 alin. (1)
+și (2).
+(2) O instituție destinatară care nu face o comunicare
+conform art. 23—24 este obligată să plătească dobândă de
+întârziere emitentului ordinului de plată pentru orice sumă
+pe care a primit-o de la acesta conform art. 7, calculată
+pentru perioada în care a reținut suma respectivă.
+(3) În cazul în care instituția destinatară nu își
+îndeplinește una dintre obligațiile prevăzute la art. 22—24,
+aceasta este obligată față de beneficiar, în termenii
+înțelegerilor dintre cele două părți.
+Art. 33. — (1) Dobânzile de întârziere datorate conform
+art. 30—32 se achită la cererea celor îndreptățiți.
+(2) Dobânda de întârziere se va calcula prin aplicarea
+unei rate a dobânzii convenite, care nu poate fi mai mică
+decât rata dobânzii de referință stabilită de Banca
+Națională a României.
+
+CAPITOLUL V
+
+15
+
+(2) Un transfer-credit este finalizat atunci când are loc
+acceptarea prevăzută la alin. (1).
+(3) În momentul în care transferul-credit este finalizat,
+instituția destinatară devine obligată față de beneficiar
+pentru suma înscrisă pe ordinul de plată acceptat.
+Art. 35. — (1) Un transfer-credit este finalizat indiferent
+dacă suma prevăzută în ordinul de plată acceptat de
+instituția destinatară este mai mică decât suma prevăzută
+inițial de către plătitor în ordinul de plată datorită faptului
+că una sau mai multe instituții receptoare au dedus
+valoarea costurilor aferente.
+(2) Finalizarea transferului-credit nu împiedică
+exercitarea dreptului beneficiarului de a recupera ulterior
+totalul acestor costuri aferente de la plătitor.
+Art. 36. — Până la finalizarea unui transfer-credit fiecare
+instituție implicată în acesta are obligația de a sprijini
+plătitorul sau oricare instituție emitentă anterioară. De
+asemenea, fiecare instituție implicată are dreptul de a
+solicita sprijinul oricărei instituții receptoare ulterioare, în
+vederea finalizării în condiții corespunzătoare a transferuluicredit.
+
+Finalizarea transferului-credit
+Art. 34. — (1) În cazul în care un ordin de plată a fost
+emis în scopul stingerii unei obligații a plătitorului față de
+beneficiar, această obligație este stinsă în momentul în
+care instituția destinatară acceptă ordinul de plată în
+favoarea beneficiarului.
+
+CAPITOLUL VI
+Dispoziții finale
+Art. 37. — Prezentul regulament intră în vigoare la data
+de 8 aprilie 2005.
+
+Președintele Consiliului de administrație al Băncii Naționale a României,
+Mugur Constantin Isărescu
+
+București, 23 februarie 2005.
+Nr. 2.
+
+ACTE ALE COMITETULUI INTERMINISTERIAL
+DE GARANȚII ȘI CREDITE DE COMERȚ EXTERIOR
+COMITETUL INTERMINISTERIAL DE GARANȚII ȘI CREDITE DE COMERȚ EXTERIOR
+
+HOTĂRÂRE
+privind aprobarea Normei pentru modificarea și completarea Normelor
+privind operațiunile de emitere a garanțiilor de export de către EXIMBANK,
+în numele și contul statului, în scopul stimulării realizării de obiective complexe
+și a producției cu ciclu lung de fabricație, destinate exportului (cod ISO: NI-GAR-02-II/1)
+Comitetul Interministerial de Garanții și Credite de Comerț Exterior, întrunit în plenul ședinței din ziua de 14 martie 2005,
+în baza Hotărârii Guvernului nr. 844/1991 privind înființarea Comitetului Interministerial de Garanții și Credite de Comerț
+Exterior, cu modificările și completările ulterioare, și a Hotărârii Guvernului nr. 293/1992 pentru aprobarea atribuțiilor,
+competențelor și modului de funcționare ale Comitetului Interministerial de Garanții și Credite de Comerț Exterior, precum
+și a convențiilor-cadru pentru derularea activității de finanțare și asigurare a creditelor de comerț exterior în numele și
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 265/31.III.2005
+
+contul statului, cu modificările și completările ulterioare, luând în analiză prezentarea spre aprobare a Normei pentru
+modificarea și completarea Normelor privind operațiunile de emitere a garanțiilor de export de către EXIMBANK, în
+numele și contul statului, în scopul stimulării realizării de obiective complexe și a producției cu ciclu lung de fabricație,
+destinate exportului (cod ISO: NI-GAR-02-II/1), și ținând seama de:
+— Legea nr. 96/2000 privind organizarea și funcționarea Băncii de Export-Import a României EXIMBANK — S.A.
+și instrumentele specifice de susținere a comerțului exterior, cu modificările și completările ulterioare;
+— Nota nr. 195 din 7 martie 2005, întocmită de Banca de Export-Import a României EXIMBANK — S.A.;
+— avizul favorabil acordat de Comisia pregătitoare în ședința din data de 9 martie 2005 și propunerile formulate
+în ședința din data de 14 martie 2005 de către membrii Comitetului Interministerial de Garanții și Credite de Comerț
+Exterior,
+H O T Ă R Ă Ș T E:
+
+Se aprobă Norma pentru modificarea și completarea
+Normelor privind operațiunile de emitere a garanțiilor de
+export de către EXIMBANK, în numele și contul statului, în
+scopul stimulării realizării de obiective complexe și a
+
+producției cu ciclu lung de fabricație, destinate exportului
+(cod ISO: NI-GAR-02-II/1), conform anexei care face parte
+integrantă din prezenta hotărâre.
+
+Președintele Consiliului Interministerial de Garanții și Credite de Comerț Exterior,
+Dragoș Neacșu
+București, 14 martie 2005.
+Nr. 14.924.
+ANEXĂ
+
+NORMĂ
+pentru modificarea și completarea Normelor privind operațiunile de emitere a garanțiilor de export de către EXIMBANK,
+în numele și contul statului, în scopul stimulării realizării de obiective complexe și a producției cu ciclu lung de fabricație,
+destinate exportului (cod ISO: NI-GAR-02-II/1)
+Art. I. — Normele privind operațiunile de emitere a
+garanțiilor de export de către EXIMBANK, în numele și
+contul statului, în scopul stimulării realizării de obiective
+complexe și a producției cu ciclu lung de fabricație,
+destinate exportului (NI-GAR-02-II/0), reconfirmate prin
+Hotărârea Consiliului Interministerial de Garanții și Credite
+de Comerț Exterior nr. 14.700/2004, publicată în Monitorul
+Oficial al României, Partea I, nr. 64 și nr. 64 bis din
+19 ianuarie 2005, se modifică și se completează după cum
+urmează:
+— Litera c) a alineatului (1) al articolului 18 va avea
+următorul conținut:
+îc) Comision de garantare, care se va plăti de către
+Garantat/Ordonator la data semnării Convenției de
+contragarantare, în valuta scrisorii de garanție emise de
+
+EXIMBANK, această obligație de plată constituind condiție
+de intrare în vigoare a Convenției.
+Comisionul se va plăti pe baza notificărilor prealabile
+emise de EXIMBANK, cu 5 zile înainte de termenul de
+plată convenit. După încasarea comisionului, EXIMBANK va
+realiza plata acestui comision în contul de corespondent al
+statului.
+Pentru alimentarea fondurilor statului, sumele încasate
+vor fi convertite în lei de către EXIMBANK la cursul de
+schimb comunicat de B.N.R., valabil la data plății
+comisionului de garanție.“
+Art. II. — Prezenta normă intră în vigoare la data
+aprobării de către Consiliul Interministerial de Garanții și
+Credite de Comerț Exterior și va fi publicată în Monitorul
+Oficial al României, Partea I.
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+Regia Autonomă îMonitorul Oficial“, Str. Parcului nr. 65, sectorul 1, București,
+IBAN: RO75RNCB5101000000120001 Banca Comercială Română — S.A. — Sucursala îUnirea“ București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 224.09.71/150, fax 225.00.43, E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 410.47.30, tel./fax 410.77.36 și 410.47.23
+Tiparul: Regia Autonomă îMonitorul Oficial“
+Monitorul Oficial al României, Partea I, nr. 265/31.III.2005 conține 16 pagini.
+
+Prețul: 10.500 lei vechi/1,05 lei noi
+
+&JUYDGY|015180]
+ISSN 1453—4495
+
+

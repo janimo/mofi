@@ -1,0 +1,899 @@
+PARTEA
+
+Anul XIII Ñ Nr. 429
+
+I
+
+Marți, 31 iulie 2001
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+LEGI ȘI DECRETE
+
+455.
+
+Ñ Lege privind semnãtura electronicã ..................
+
+1Ð8
+
+608.
+
+Ñ Decret pentru promulgarea Legii privind
+semnãtura electronicã .............................................
+
+8
+
+LEGI
+
+ȘI
+
+DECRETE
+
+PARLAMENTUL ROMÂNIEI
+CAMERA DEPUTAÞILOR
+
+SENATUL
+
+LEGE
+privind semnãtura electronicã
+Parlamentul României adoptã prezenta lege.
+CAPITOLUL I
+Dispoziții generale
+SECÞIUNEA 1
+
+Principii generale
+
+Art. 1. Ñ Prezenta lege stabilește regimul juridic al
+semnãturii electronice și al înscrisurilor în formã electronicã,
+precum și condițiile furnizãrii de servicii de certificare a
+semnãturilor electronice.
+Art. 2. Ñ Prezenta lege se completeazã cu dispozițiile
+legale privind încheierea, validitatea și efectele actelor juridice.
+Art. 3. Ñ Nici o dispoziție a prezentei legi nu poate fi
+interpretatã în sensul limitãrii autonomiei de voințã și a
+libertãții contractuale a pãrților.
+
+SECÞIUNEA a 2-a
+
+Definiții
+
+Art. 4. Ñ În înțelesul prezentei legi:
+1. date în formã electronicã sunt reprezentãri ale
+informației într-o formã convenționalã adecvatã creãrii, prelucrãrii, trimiterii, primirii sau stocãrii acesteia prin mijloace
+electronice;
+2. înscris în formã electronicã reprezintã o colecție de
+date în formã electronicã între care existã relații logice și
+funcționale și care redau litere, cifre sau orice alte caractere cu semnificație inteligibilã, destinate a fi citite prin
+intermediul unui program informatic sau al altui procedeu
+similar;
+3. semnãturã electronicã reprezintã date în formã electronicã, care sunt atașate sau logic asociate cu alte date în
+formã electronicã și care servesc ca metodã de identificare;
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 429/31.VII.2001
+
+4. semnãturã electronicã extinsã reprezintã acea
+semnãturã electronicã care îndeplinește cumulativ urmãtoarele condiții:
+a) este legatã în mod unic de semnatar;
+b) asigurã identificarea semnatarului;
+c) este creatã prin mijloace controlate exclusiv de
+semnatar;
+d) este legatã de datele în formã electronicã, la care se
+raporteazã în așa fel încât orice modificare ulterioarã a
+acestora este identificabilã;
+5. semnatar reprezintã o persoanã care deține un dispozitiv de creare a semnãturii electronice și care acționeazã fie în nume propriu, fie ca reprezentant al unui terț;
+6. date de creare a semnãturii electronice reprezintã orice
+date în formã electronicã cu caracter de unicitate, cum ar
+fi coduri sau chei criptografice private, care sunt folosite de
+semnatar pentru crearea unei semnãturi electronice;
+7. dispozitiv de creare a semnãturii electronice reprezintã
+software și/sau hardware configurate, utilizat pentru a
+implementa datele de creare a semnãturii electronice;
+8. dispozitiv securizat de creare a semnãturii electronice
+reprezintã acel dispozitiv de creare a semnãturii electronice
+care îndeplinește cumulativ urmãtoarele condiții:
+a) datele de creare a semnãturii, utilizate pentru generarea acesteia, sã poatã apãrea numai o singurã datã și
+confidențialitatea acestora sã poatã fi asiguratã;
+b) datele de creare a semnãturii, utilizate pentru generarea acesteia, sã nu poatã fi deduse;
+c) semnãtura sã fie protejatã împotriva falsificãrii prin
+mijloacele tehnice disponibile la momentul generãrii acesteia;
+d) datele de creare a semnãturii sã poatã fi protejate în
+mod efectiv de cãtre semnatar împotriva utilizãrii acestora
+de cãtre persoane neautorizate;
+e) sã nu modifice datele în formã electronicã, care trebuie sã fie semnate, și nici sã nu împiedice ca acestea sã
+fie prezentate semnatarului înainte de finalizarea procesului
+de semnare;
+9. date de verificare a semnãturii electronice reprezintã
+date în formã electronicã, cum ar fi coduri sau chei criptografice publice, care sunt utilizate în scopul verificãrii unei
+semnãturi electronice;
+10. dispozitiv de verificare a semnãturii electronice reprezintã software și/sau hardware configurate, utilizat pentru a
+implementa datele de verificare a semnãturii electronice;
+11. certificat reprezintã o colecție de date în formã electronicã ce atestã legãtura dintre datele de verificare a
+semnãturii electronice și o persoanã, confirmând identitatea
+acelei persoane;
+12. certificat calificat reprezintã un certificat care satisface condițiile prevãzute la art. 18 și care este eliberat de
+un furnizor de servicii de certificare ce satisface condițiile
+prevãzute la art. 20;
+13. furnizor de servicii de certificare reprezintã orice persoanã, românã sau strãinã, care elibereazã certificate sau
+care presteazã alte servicii legate de semnãtura electronicã;
+14. furnizor de servicii de certificare calificatã este acel
+furnizor de servicii de certificare care elibereazã certificate
+calificate;
+15. produs asociat semnãturii electronice reprezintã
+software sau hardware, destinat a fi utilizat de un furnizor
+de servicii de certificare pentru prestarea serviciilor legate
+de semnãtura electronicã sau destinat a fi utilizat pentru
+crearea ori verificarea semnãturii electronice.
+CAPITOLUL II
+Regimul juridic al înscrisurilor în formã electronicã
+Art. 5. Ñ Înscrisul în formã electronicã, cãruia i s-a
+încorporat, atașat sau i s-a asociat logic o semnãturã electronicã extinsã, bazatã pe un certificat calificat nesuspendat sau nerevocat la momentul respectiv și generatã cu
+ajutorul unui dispozitiv securizat de creare a semnãturii
+
+electronice, este asimilat, în ceea ce privește condițiile și
+efectele sale, cu înscrisul sub semnãturã privatã.
+Art. 6. Ñ Înscrisul în formã electronicã, cãruia i s-a
+încorporat, atașat sau i s-a asociat logic o semnãturã electronicã, recunoscut de cãtre cel cãruia i se opune, are
+același efect ca actul autentic între cei care l-au subscris
+și între cei care le reprezintã drepturile.
+Art. 7. Ñ În cazurile în care, potrivit legii, forma scrisã
+este cerutã ca o condiție de probã sau de validitate a unui
+act juridic, un înscris în formã electronicã îndeplinește
+aceastã cerințã dacã i s-a încorporat, atașat sau i s-a asociat logic o semnãturã electronicã extinsã, bazatã pe un
+certificat calificat și generatã prin intermediul unui dispozitiv
+securizat de creare a semnãturii.
+Art. 8. Ñ (1) În cazul în care una dintre pãrți nu recunoaște înscrisul sau semnãtura, instanța va dispune întotdeauna ca verificarea sã se facã prin expertizã tehnicã de
+specialitate.
+(2) În acest scop, expertul sau specialistul este dator sã
+solicite certificate calificate, precum și orice alte documente
+necesare, potrivit legii, pentru identificarea autorului înscrisului, a semnatarului ori a titularului de certificat.
+Art. 9. Ñ (1) Partea care invocã înaintea instanței o
+semnãturã electronicã extinsã trebuie sã probeze cã
+aceasta îndeplinește condițiile prevãzute la art. 4 pct. 4.
+(2) Semnãtura electronicã extinsã, bazatã pe un certificat calificat eliberat de un furnizor de servicii de certificare
+acreditat, este prezumatã a îndeplini condițiile prevãzute la
+art. 4 pct. 4.
+Art. 10. Ñ (1) Partea care invocã înaintea instanței un
+certificat calificat trebuie sã probeze cã furnizorul de servicii
+de certificare care a eliberat respectivul certificat îndeplinește condițiile prevãzute la art. 20.
+(2) Furnizorul de servicii de certificare acreditat este
+prezumat a îndeplini condițiile prevãzute la art. 20.
+Art. 11. Ñ (1) Partea care invocã înaintea instanței un
+mecanism securizat de creare a semnãturii trebuie sã probeze cã acesta îndeplinește condițiile prevãzute la art. 4
+pct. 8.
+(2) Dispozitivul securizat de generare a semnãturii, omologat în sensul prezentei legi, este prezumat a îndeplini
+condițiile prevãzute la art. 4 pct. 8.
+CAPITOLUL III
+Furnizarea serviciilor de certificare
+SECÞIUNEA 1
+
+Dispoziții comune
+
+Art. 12. Ñ (1) Furnizarea serviciilor de certificare nu
+este supusã nici unei autorizãri prealabile și se desfãșoarã
+în concordanțã cu principiile concurenței libere și loiale, cu
+respectarea actelor normative în vigoare.
+(2) Furnizarea serviciilor de certificare de cãtre furnizorii
+stabiliți în statele membre ale Uniunii Europene se face în
+condițiile prevãzute în Acordul european instituind o asociere
+între România, pe de o parte, Comunitãțile Europene și
+statele membre ale acestora, pe de altã parte.
+Art. 13. Ñ (1) Cu 30 de zile înainte de începerea activitãților legate de certificarea semnãturilor electronice persoanele care intenționeazã sã furnizeze servicii de
+certificare au obligația de a notifica autoritatea de reglementare și supraveghere specializatã în domeniu cu privire
+la data începerii acestor activitãți.
+(2) O datã cu efectuarea notificãrii prevãzute la alin. (1)
+furnizorii de servicii de certificare au obligația de a comunica autoritãții de reglementare și supraveghere specializate
+în domeniu toate informațiile referitoare la procedurile de
+securitate și de certificare utilizate, precum și orice alte
+informații cerute de autoritatea de reglementare și supraveghere specializatã în domeniu.
+(3) Furnizorii de servicii de certificare au obligația de
+a comunica autoritãții de reglementare și supraveghere
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 429/31.VII.2001
+specializate în domeniu, cu cel puțin 10 zile înainte, orice
+intenție de modificare a procedurilor de securitate și de
+certificare, cu precizarea datei și orei la care modificarea
+intrã în vigoare, precum și obligația de a confirma în termen de 24 de ore modificarea efectuatã.
+(4) În cazurile de urgențã, în care securitatea serviciilor
+de certificare este afectatã, furnizorii pot efectua modificãri
+ale procedurilor de securitate și de certificare, urmând sã
+comunice, în termen de 24 de ore, autoritãții de reglementare și supraveghere specializate în domeniu modificãrile
+efectuate și justificarea deciziei luate.
+(5) Furnizorii de servicii de certificare sunt obligați sã respecte, pe parcursul desfãșurãrii activitãții, procedurile de securitate și de certificare declarate, potrivit alin. (2), (3) și (4).
+Art. 14. Ñ (1) Furnizorul de servicii de certificare va
+asigura accesul la toate informațiile necesare utilizãrii
+corecte și în condiții de siguranțã a serviciilor sale.
+Informațiile respective vor fi furnizate anterior nașterii
+oricãrui raport contractual cu persoana care solicitã un certificat sau, dupã caz, la cererea unui terț care se prevaleazã de un asemenea certificat.
+(2) Informațiile prevãzute la alin. (1) vor fi formulate în
+scris, într-un limbaj accesibil, și vor fi transmise prin mijloace electronice, în condiții care sã permitã stocarea și
+reproducerea lor.
+(3) Informațiile prevãzute la alin. (1) vor face referire cel
+puțin la:
+a) procedura ce trebuie urmatã în scopul creãrii și verificãrii semnãturii electronice;
+b) tarifele percepute;
+c) modalitãțile și condițiile concrete de utilizare a certificatelor, inclusiv limitele impuse utilizãrii acestora, cu
+condiția ca aceste limite sã poatã fi cunoscute de terți;
+d) obligațiile care incumbã, potrivit prezentei legi, titularului certificatului și furnizorului de servicii de certificare;
+e) existența unei acreditãri, dacã este cazul;
+f) condițiile contractuale de eliberare a certificatului,
+inclusiv eventualele limitãri ale rãspunderii furnizorului de
+servicii de certificare;
+g) cãile de soluționare a litigiilor;
+h) orice alte informații stabilite de autoritatea de reglementare și supraveghere specializatã în domeniu.
+(4) Furnizorul de servicii de certificare va transmite solicitantului un exemplar al certificatului.
+(5) Din momentul acceptãrii certificatului de cãtre solicitant, furnizorul de servicii de certificare va înscrie certificatul în registrul prevãzut la art. 17.
+Art. 15. Ñ (1) Persoanele fizice care presteazã, conform legii, în nume propriu servicii de certificare, precum și
+personalul angajat al furnizorului de servicii de certificare,
+persoanã fizicã sau juridicã, sunt obligate sã pãstreze
+secretul informațiilor încredințate în cadrul activitãții lor profesionale, cu excepția celor în legãturã cu care titularul certificatului acceptã sã fie publicate sau comunicate terților.
+(2) Încãlcarea obligației prevãzute la alin. (1) constituie
+infracțiune de divulgare a secretului profesional, prevãzutã
+și sancționatã de art. 196 din Codul penal.
+(3) Nu constituie divulgare a secretului profesional
+comunicarea de informații cãtre o autoritate publicã, atunci
+când aceasta acționeazã în exercitarea și în limitele competențelor sale legale.
+(4) Obligația prevãzutã la alin. (1) incumbã și personalului autoritãții de reglementare și supraveghere specializate
+în domeniu, precum și persoanelor împuternicite de
+aceasta.
+Art. 16. Ñ (1) Autoritatea de reglementare și supraveghere specializatã în domeniu și furnizorii de servicii de
+certificare au obligația sã respecte dispozițiile legale privitoare la prelucrarea datelor cu caracter personal.
+(2) Furnizorii de servicii de certificare nu pot colecta
+date cu caracter personal decât de la persoana care solicitã un certificat sau, cu consimțãmântul expres al acesteia,
+de la terți. Colectarea se face doar în mãsura în care
+aceste informații sunt necesare în vederea eliberãrii și conservãrii certificatului. Datele pot fi colectate și utilizate în
+
+3
+
+alte scopuri doar cu consimțãmântul expres al persoanei
+care solicitã certificatul.
+(3) Atunci când se utilizeazã un pseudonim, identitatea
+realã a titularului nu poate fi divulgatã de cãtre furnizorul
+de servicii de certificare decât cu consimțãmântul titularului
+sau în cazurile prevãzute la art. 15 alin. (3).
+Art. 17. Ñ (1) Furnizorii de servicii de certificare au
+obligația de a crea și de a menține un registru electronic
+de evidențã a certificatelor eliberate.
+(2) Registrul electronic de evidențã a certificatelor eliberate trebuie sã facã mențiune despre:
+a) data și ora exactã la care certificatul a fost eliberat;
+b) data și ora exactã la care expirã certificatul;
+c) dacã este cazul, data și ora exactã la care certificatul a fost suspendat sau revocat, inclusiv cauzele care au
+condus la suspendare sau la revocare.
+(3) Registrul electronic de evidențã a certificatelor eliberate trebuie sã fie disponibil permanent pentru consultare,
+inclusiv în regim on-line.
+SECÞIUNEA a 2-a
+
+Furnizarea serviciilor de certificare calificatã
+
+Art. 18. Ñ (1) Certificatul calificat va cuprinde urmãtoarele mențiuni:
+a) indicarea faptului cã certificatul a fost eliberat cu titlu
+de certificat calificat;
+b) datele de identificare a furnizorului de servicii de certificare, precum și cetãțenia acestuia, în cazul persoanelor
+fizice, respectiv naționalitatea acestuia, în cazul persoanelor
+juridice;
+c) numele semnatarului sau pseudonimul acestuia, identificat ca atare, precum și alte atribute specifice ale semnatarului, dacã sunt relevante, în funcție de scopul pentru
+care este eliberat certificatul calificat;
+d) codul personal de identificare a semnatarului;
+e) datele de verificare a semnãturii, care corespund
+datelor de creare a semnãturii aflate sub controlul exclusiv
+al semnatarului;
+f) indicarea începutului și sfârșitului perioadei de valabilitate a certificatului calificat;
+g) codul de identificare a certificatului calificat;
+h) semnãtura electronicã extinsã a furnizorului de servicii de certificare care elibereazã certificatul calificat;
+i) dacã este cazul, limitele utilizãrii certificatului calificat
+sau limitele valorice ale operațiunilor pentru care acesta
+poate fi utilizat;
+j) orice alte informații stabilite de autoritatea de reglementare și supraveghere specializatã în domeniu.
+(2) Fiecãrui semnatar i se va atribui de cãtre furnizorul
+de servicii de certificare un cod personal care sã asigure
+identificarea unicã a semnatarului.
+(3) Generarea codului personal de identificare și a
+codului de identificare a certificatului calificat se va face pe
+baza reglementãrilor stabilite de autoritatea de reglementare
+și supraveghere specializatã în domeniu.
+(4) La solicitarea titularului furnizorul de servicii de certificare va putea înscrie în certificatul calificat și alte
+informații decât cele menționate la alin. (1), cu condiția ca
+acestea sã nu fie contrare legii, bunelor moravuri sau ordinii publice, și numai dupã o prealabilã verificare a exactitãții acestor informații.
+(5) Certificatul calificat va indica în mod expres faptul
+cã este utilizat un pseudonim, atunci când titularul se identificã printr-un pseudonim.
+Art. 19. Ñ (1) La eliberarea certificatelor calificate furnizorii de servicii de certificare au obligația de a verifica
+identitatea solicitanților exclusiv pe baza actelor de identitate.
+(2) La eliberarea fiecãrui certificat calificat furnizorii au
+obligația sã emitã douã copii de pe acesta, pe suport de
+hârtie, dintre care un exemplar este pus la dispoziție titularului, iar celãlalt este pãstrat de cãtre furnizori o perioadã
+de 10 ani.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 429/31.VII.2001
+
+Art. 20. Ñ În vederea emiterii certificatelor calificate furnizorii de servicii de certificare trebuie sã îndeplineascã
+urmãtoarele condiții:
+a) sã dispunã de mijloace financiare și de resurse
+materiale, tehnice și umane corespunzãtoare pentru garantarea securitãții, fiabilitãții și continuitãții serviciilor de certificare oferite;
+b) sã asigure operarea rapidã și sigurã a înregistrãrii
+informațiilor prevãzute la art. 17, în special operarea rapidã
+și sigurã a unui serviciu de suspendare și revocare a certificatelor calificate;
+c) sã asigure posibilitatea de a se determina cu precizie
+data și ora exactã a eliberãrii, a suspendãrii sau a
+revocãrii unui certificat calificat;
+d) sã verifice, cu mijloace corespunzãtoare și conforme
+dispozițiilor legale, identitatea și, dacã este cazul, atributele
+specifice ale persoanei cãreia îi este eliberat certificatul
+calificat;
+e) sã foloseascã personal cu cunoștințe de specialitate,
+experiențã și calificare, necesare pentru furnizarea serviciilor respective, și, în special, competențã în domeniul gestiunii, cunoștințe de specialitate în domeniul tehnologiei
+semnãturii electronice și o practicã suficientã în ceea ce
+privește procedurile de securitate corespunzãtoare; de asemenea, sã aplice procedurile administrative și de gestiune
+adecvate și care corespund standardelor recunoscute;
+f) sã utilizeze produse asociate semnãturii electronice,
+cu un înalt grad de fiabilitate, care sunt protejate împotriva
+modificãrilor și care asigurã securitatea tehnicã și criptograficã a desfãșurãrii activitãților de certificare a semnãturii
+electronice;
+g) sã adopte mãsuri împotriva falsificãrii certificatelor și
+sã garanteze confidențialitatea în cursul procesului de
+generare a datelor de creare a semnãturilor, în cazul în
+care furnizorii de servicii de certificare genereazã astfel de
+date;
+h) sã pãstreze toate informațiile cu privire la un certificat calificat pentru o perioadã de minimum 10 ani de la
+data încetãrii valabilitãții certificatului, în special pentru a
+putea face dovada certificãrii în cadrul unui eventual litigiu;
+i) sã nu stocheze, sã nu reproducã și sã nu dezvãluie
+terților datele de creare a semnãturii, cu excepția cazului
+în care semnatarul solicitã aceasta;
+j) sã utilizeze sisteme fiabile pentru stocarea certificatelor calificate, astfel încât: numai persoanele autorizate sã
+poatã introduce și modifica informațiile din certificate; exactitatea informației sã poatã fi verificatã; certificatele sã
+poatã fi consultate de terți doar în cazul în care existã
+acordul titularului acestora; orice modificare tehnicã, care ar
+putea pune în pericol aceste condiții de securitate, sã
+poatã fi identificatã de persoanele autorizate;
+k) orice alte condiții stabilite de autoritatea de reglementare și supraveghere specializatã în domeniu.
+Art. 21. Ñ Furnizorii de servicii de certificare calificatã
+sunt obligați sã foloseascã numai dispozitive securizate de
+creare a semnãturii electronice.
+Art. 22. Ñ (1) Furnizorul de servicii de certificare calificatã trebuie sã dispunã de resurse financiare pentru acoperirea prejudiciilor pe care le-ar putea cauza cu prilejul
+desfãșurãrii activitãților legate de certificarea semnãturilor
+electronice.
+(2) Asigurarea se realizeazã fie prin subscrierea unei
+polițe de asigurare la o societate de asigurãri, fie prin
+intermediul unei scrisori de garanție din partea unei instituții
+financiare de specialitate, fie printr-o altã modalitate stabilitã
+prin decizie a autoritãții de reglementare și supraveghere
+specializate în domeniu.
+(3) Suma asiguratã și suma acoperitã prin scrisoarea de
+garanție sunt stabilite de autoritatea de reglementare și
+supraveghere specializatã în domeniu.
+
+SECÞIUNEA a 3-a
+
+Suspendarea și încetarea valabilitãții certificatelor
+
+Art. 23. Ñ (1) Orice furnizor de servicii de certificare
+are obligația de a suspenda certificatul în termen de 24 de
+ore din momentul în care a luat cunoștințã sau trebuia și
+putea sã ia cunoștințã despre apariția oricãruia dintre
+urmãtoarele cazuri:
+a) la cererea semnatarului, dupã o prealabilã verificare
+a identitãții acestuia;
+b) în cazul în care o hotãrâre judecãtoreascã dispune
+suspendarea;
+c) în cazul în care informațiile conținute în certificat nu
+mai corespund realitãții, dacã nu se impune revocarea certificatului;
+d) în orice alte situații care constituie cazuri de suspendare a certificatelor eliberate, potrivit procedurilor de securitate și de certificare declarate de furnizor în baza art. 13.
+(2) Orice furnizor de servicii de certificare are obligația
+de a revoca certificatul în termen de 24 de ore din
+momentul în care a luat cunoștințã sau trebuia și putea sã
+ia cunoștințã despre apariția oricãruia dintre urmãtoarele
+cazuri:
+a) la cererea semnatarului, dupã o prealabilã verificare
+a identitãții acestuia;
+b) la decesul sau punerea sub interdicție a semnatarului;
+c) în cazul în care o hotãrâre judecãtoreascã irevocabilã dispune revocarea;
+d) dacã se dovedește în mod neîndoielnic cã certificatul
+a fost emis în baza unor informații eronate sau false;
+e) în cazul în care informațiile esențiale conținute în
+certificat nu mai corespund realitãții;
+f) atunci când confidențialitatea datelor de creare a
+semnãturii a fost încãlcatã;
+g) în cazul în care certificatul a fost utilizat în mod fraudulos;
+h) în orice alte situații care constituie cazuri de revocare
+a certificatelor eliberate, potrivit procedurilor de securitate și
+de certificare declarate de furnizor în baza art. 13.
+(3) Furnizorul de servicii de certificare îl va informa de
+urgențã pe titular despre suspendarea sau revocarea certificatului, împreunã cu motivele care au stat la baza deciziei
+sale.
+(4) Furnizorul de servicii de certificare va înscrie
+mențiunea de suspendare sau de revocare a certificatului
+în registrul electronic de evidențã a certificatelor eliberate
+prevãzut la art. 17, în termen de 24 de ore din momentul
+în care a luat cunoștințã sau trebuia și putea sã ia
+cunoștințã despre adoptarea deciziei respective.
+(5) Suspendarea sau revocarea va deveni opozabilã
+terților de la data înscrierii sale în registrul electronic de
+evidențã a certificatelor.
+Art. 24. Ñ (1) În cazul în care furnizorul de servicii de
+certificare intenționeazã sã înceteze activitãțile legate de
+certificarea semnãturilor electronice sau aflã cã va fi în
+imposibilitate de a continua aceste activitãți, el va informa,
+cu cel puțin 30 de zile înainte de încetare, autoritatea de
+reglementare și supraveghere specializatã în domeniu despre intenția sa, respectiv despre existența și natura împrejurãrii care justificã imposibilitatea de continuare a
+activitãților.
+(2) Furnizorului de servicii de certificare îi revine
+obligația ca, în situația în care se aflã în imposibilitate de
+a continua activitãțile legate de certificarea semnãturilor
+electronice și nu a putut prevedea aceastã situație cu cel
+puțin 30 de zile înainte ca încetarea activitãților sã se producã, sã informeze autoritatea de reglementare și supraveghere specializatã în domeniu, în termen de 24 de ore din
+momentul în care a luat cunoștințã sau trebuia și putea sã
+ia cunoștințã despre imposibilitatea continuãrii activitãților.
+Informarea trebuie sã se refere la existența și natura
+împrejurãrii care justificã imposibilitatea de continuare a
+activitãților.
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 429/31.VII.2001
+(3) Furnizorul de servicii de certificare poate transfera,
+în tot sau în parte, activitãțile sale unui alt furnizor de servicii de certificare. Transferul va opera potrivit urmãtoarelor
+condiții:
+a) furnizorul de servicii de certificare va înștiința fiecare
+titular de certificate neexpirate, cu cel puțin 30 de zile
+înainte, despre intenția sa de transferare a activitãților
+legate de certificarea semnãturilor electronice cãtre un alt
+furnizor de servicii de certificare;
+b) furnizorul de servicii de certificare va menționa identitatea furnizorului de servicii de certificare cãruia
+intenționeazã sã îi transfere activitãțile sale;
+c) furnizorul de servicii de certificare va face cunoscute
+fiecãrui titular de certificat posibilitatea de a refuza acest
+transfer, precum și termenul și condițiile în care refuzul
+poate fi exercitat; în lipsa unei acceptãri exprese a titularului, în termenul precizat de furnizorul de servicii de certificare, certificatul va fi revocat de cãtre acesta din urmã.
+(4) Furnizorul de servicii de certificare, aflat în unul dintre cazurile prevãzute la alin. (1) și (2), ale cãrui activitãți
+nu sunt preluate de un alt furnizor de servicii de certificare,
+va revoca certificatele în termen de 30 de zile de la data
+înștiințãrii titularilor de certificate și va lua mãsurile necesare pentru asigurarea conservãrii arhivelor sale, precum și
+pentru asigurarea prelucrãrii datelor personale, în condițiile
+legii.
+(5) Sunt considerate cazuri de imposibilitate de continuare
+a activitãților legate de certificarea semnãturilor electronice, în
+înțelesul prezentului articol, dizolvarea sau lichidarea, voluntarã ori judiciarã, falimentul, precum și orice altã cauzã de
+încetare a activitãții, cu excepția aplicãrii sancțiunilor
+prevãzute la art. 33 alin. (2) și (3).
+CAPITOLUL IV
+Monitorizare și control
+SECÞIUNEA 1
+
+Autoritatea de reglementare și supraveghere
+
+Art. 25. Ñ Responsabilitatea aplicãrii dispozițiilor prezentei legi și a reglementãrilor legate de aceasta revine
+autoritãții de reglementare și supraveghere specializate în
+domeniu.
+Art. 26. Ñ (1) În termen de cel mult 18 luni de la data
+publicãrii legii în Monitorul Oficial al României, Partea I, se
+va înființa autoritatea publicã specializatã, cu atribuții de
+reglementare și de supraveghere în domeniu, în sensul
+prezentei legi.
+(2) Pânã la înființarea autoritãții menționate la alin. (1)
+atribuțiile acesteia, în sensul prezentei legi, revin
+Ministerului Comunicațiilor și Tehnologiei Informației.
+Art. 27. Ñ Ministerul Comunicațiilor și Tehnologiei
+Informației poate delega, în tot sau în parte, atribuțiile sale
+de supraveghere, în sensul prezentei legi, unei alte autoritãți publice aflate în coordonare.
+Art. 28. Ñ (1) La data intrãrii în vigoare a prezentei
+legi se înființeazã Registrul furnizorilor de servicii de certificare, denumit în continuare Registru, care se constituie și
+se actualizeazã de cãtre autoritatea de reglementare și
+supraveghere specializatã în domeniu. De la data înființãrii
+autoritãții publice specializate prevãzute la art. 26 Registrul
+va fi preluat și actualizat de aceastã autoritate.
+(2) Registrul constituie evidența oficialã:
+a) a furnizorilor de servicii de certificare care au sediul
+în România;
+b) a furnizorilor de servicii de certificare cu sediul sau
+domiciliul în alt stat, ale cãror certificate calificate sunt
+recunoscute conform art. 40.
+(3) Registrul are rolul de a asigura, prin efectuarea înregistrãrilor prevãzute de prezenta lege, stocarea datelor de
+identificare și a unor informații legate de activitatea furnizorilor de servicii de certificare, precum și informarea publicului cu privire la datele și informațiile stocate.
+
+5
+
+(4) Conținutul și structura Registrului se stabilesc, prin
+reglementãri, de cãtre autoritatea de reglementare și supraveghere specializatã în domeniu.
+Art. 29. Ñ (1) Înregistrarea în Registrul prevãzut la
+art. 28 a datelor de identificare și a informațiilor necesare
+cu privire la activitatea furnizorilor de servicii de certificare
+menționați la art. 28 alin. (2) se efectueazã pe bazã de
+cerere individualã, care trebuie introdusã la autoritatea de
+reglementare și supraveghere specializatã în domeniu, cel
+mai târziu la data începerii activitãții furnizorului.
+(2) Conținutul obligatoriu al cererii prevãzute la alin. (1)
+și documentația necesarã se stabilesc prin reglementãri de
+cãtre autoritatea de reglementare și supraveghere specializatã în domeniu.
+Art. 30. Ñ (1) Registrul este public și se actualizeazã
+permanent.
+(2) Condițiile ținerii Registrului, accesul efectiv la
+informațiile pe care le conține, informațiile care pot fi oferite
+solicitanților și modul de actualizare a acestuia se stabilesc
+prin normele tehnice și metodologice emise de autoritatea
+de reglementare și supraveghere specializatã în domeniu.
+SECÞIUNEA a 2-a
+
+Supravegherea activitãții furnizorilor de servicii de certificare
+
+Art. 31. Ñ (1) Autoritatea de reglementare și supraveghere specializatã în domeniu va putea, din oficiu sau la
+solicitarea oricãrei persoane interesate, sã verifice sau sã
+dispunã verificarea conformitãții activitãților unui furnizor de
+servicii de certificare cu dispozițiile prezentei legi sau cu
+reglementãri emise de cãtre autoritatea de reglementare și
+supraveghere specializatã în domeniu.
+(2) Atribuțiile de control ce revin autoritãții de reglementare și supraveghere specializate în domeniu, potrivit
+alin. (1), sunt exercitate de personalul anume împuternicit
+în acest sens.
+(3) În vederea exercitãrii controlului, personalul cu
+atribuții de control este autorizat:
+a) sã aibã acces liber, permanent, în orice loc în care
+se aflã echipamentele necesare furnizãrii de servicii de certificare, în condițiile legii;
+b) sã solicite orice document sau informație necesarã în
+vederea realizãrii controlului;
+c) sã verifice punerea în aplicare a oricãror proceduri
+de securitate sau de certificare utilizate de furnizorul de
+servicii de certificare supus controlului;
+d) sã sigileze orice echipamente necesare furnizãrii de
+servicii de certificare sau sã reținã orice document ce are
+legãturã cu aceastã activitate, pe o perioadã care nu poate
+depãși 15 zile, dacã aceastã mãsurã se impune;
+e) sã ia orice alte asemenea mãsuri, în limitele legii.
+(4) Personalul cu atribuții de control este obligat:
+a) sã nu dezvãluie datele de care a luat cunoștințã cu
+ocazia exercitãrii atribuțiilor sale;
+b) sã pãstreze confidențialitatea surselor de informații în
+legãturã cu sesizãrile sau plângerile primite.
+Art. 32. Ñ (1) Furnizorii de servicii de certificare au
+obligația de a facilita exercitarea atribuțiilor de control de
+cãtre personalul anume împuternicit în acest sens.
+(2) În cazul neîndeplinirii obligației prevãzute la alin. (1),
+în afarã de aplicarea sancțiunii prevãzute la art. 44 lit. c),
+autoritatea de reglementare și supraveghere specializatã în
+domeniu va putea sã suspende activitatea furnizorului pânã
+la data la care acesta va coopera cu personalul de control.
+Art. 33. Ñ (1) Dacã în urma controlului efectuat se
+constatã nerespectarea dispozițiilor prezentei legi și a
+reglementãrilor emise de autoritatea de reglementare
+și supraveghere specializatã în domeniu, aceasta va solicita furnizorului de servicii de certificare sã se conformeze,
+în termenul pe care îl va stabili, dispozițiilor legale. În
+acest caz, autoritatea de reglementare și supraveghere
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 429/31.VII.2001
+
+specializatã în domeniu poate dispune suspendarea activitãții furnizorului.
+(2) Neîndeplinirea în termenul stabilit a obligației de
+conformare prevãzute la alin. (1) constituie motiv pentru
+autoritatea de reglementare și supraveghere specializatã în
+domeniu de a dispune încetarea activitãții furnizorului de
+servicii de certificare și radierea acestuia din Registru.
+(3) În cazul în care se constatã o încãlcare gravã a
+dispozițiilor legale, autoritatea de reglementare și supraveghere specializatã în domeniu poate dispune direct și imediat încetarea activitãții furnizorului de servicii de certificare
+și radierea acestuia din Registru.
+Art. 34. Ñ (1) În cazul în care dispune încetarea activitãții unui furnizor de servicii de certificare, autoritatea de
+reglementare și supraveghere specializatã în domeniu va
+asigura fie revocarea certificatelor furnizorului de servicii de
+certificare și ale semnatarilor, fie preluarea activitãții sau
+cel puțin a registrului electronic de evidențã a certificatelor
+eliberate și a serviciului de revocare a acestora de cãtre
+un alt furnizor de servicii de certificare, cu acordul acestuia.
+(2) Semnatarii vor fi informați imediat de autoritatea de
+reglementare și supraveghere specializatã în domeniu
+despre încetarea activitãții furnizorului, precum și despre
+revocarea certificatelor sau preluarea acestora de cãtre un
+alt furnizor.
+(3) Dacã activitatea furnizorului de servicii de certificare
+nu este preluatã de cãtre un alt furnizor, furnizorul de servicii de certificare este obligat sã asigure revocarea tuturor
+certificatelor eliberate de el. Autoritatea de reglementare și
+supraveghere specializatã în domeniu va revoca certificatele, pe cheltuiala furnizorului, dacã acesta nu își îndeplinește obligația.
+(4) Autoritatea de reglementare și supraveghere specializatã în domeniu va prelua și va menține arhivele și registrul electronic de evidențã a certificatelor eliberate de
+furnizorul de servicii de certificare a cãrui activitate nu a
+fost preluatã de cãtre un alt furnizor.
+Art. 35. Ñ (1) Radierea furnizorilor de servicii de certificare din Registru se efectueazã pe baza comunicãrii fãcute
+de cãtre furnizor autoritãții de reglementare și supraveghere
+specializate în domeniu cu cel puțin 30 de zile înainte de
+data încetãrii activitãții sale.
+(2) Radierea se poate efectua și din oficiu de cãtre
+autoritatea de reglementare și supraveghere specializatã în
+domeniu, în situația în care aceasta constatã pe orice altã
+cale cã furnizorul și-a încetat activitatea.
+SECÞIUNEA a 3-a
+
+Acreditarea voluntarã
+
+Art. 36. Ñ (1) În scopul asigurãrii unui grad sporit de
+securitate a operațiunilor și al protejãrii corespunzãtoare a
+drepturilor și intereselor legitime ale beneficiarilor de servicii
+de certificare, furnizorii de servicii de certificare care doresc
+sã își desfãșoare activitatea ca furnizori acreditați pot solicita obținerea unei acreditãri din partea autoritãții de reglementare și supraveghere specializate în domeniu.
+(2) Condițiile și procedura acordãrii, suspendãrii și retragerii deciziei de acreditare, conținutul acestei decizii, durata
+ei de valabilitate, precum și efectele suspendãrii și ale
+retragerii deciziei se stabilesc de autoritatea de reglementare și supraveghere specializatã în domeniu, prin reglementãri, cu respectarea principiilor obiectivitãții,
+transparenței, proporționalitãții și tratamentului nediscriminatoriu.
+Art. 37. Ñ (1) Furnizorii de servicii de certificare acreditați în condițiile prezentei legi au dreptul de a folosi o
+mențiune distinctivã care sã se refere la aceastã calitate în
+toate activitãțile pe care le desfãșoarã, legate de certificarea
+semnãturilor.
+(2) Furnizorii de servicii de certificare acreditați în
+condițiile prezentei legi sunt obligați sã solicite efectuarea
+unei mențiuni în acest sens în Registru.
+
+SECÞIUNEA a 4-a
+
+Omologarea
+
+Art. 38. Ñ (1) Conformitatea dispozitivelor securizate de
+creare a semnãturii electronice cu prevederile prezentei legi
+se verificã de cãtre agenții de omologare, persoane juridice
+de drept public sau de drept privat, agreate de autoritatea
+de reglementare și supraveghere specializatã în domeniu,
+în condițiile stabilite prin reglementãri emise de aceasta.
+(2) În urma îndeplinirii procedurii de verificare se emite
+certificatul de omologare a dispozitivului securizat de creare
+a semnãturii electronice. Certificatul poate fi retras în cazul
+în care agenția de omologare constatã cã dispozitivul securizat de creare a semnãturii electronice nu mai îndeplinește
+una dintre condițiile prevãzute în prezenta lege.
+(3) Condițiile și procedura de agreare a agențiilor de
+omologare se stabilesc prin reglementãri de cãtre autoritatea de reglementare și supraveghere specializatã în domeniu.
+(4) Decizia de agreare se emite de cãtre autoritatea de
+reglementare și supraveghere specializatã în domeniu.
+Art. 39. Ñ (1) Autoritatea de reglementare și supraveghere specializatã în domeniu vegheazã la respectarea, de
+cãtre agențiile de omologare, a prevederilor prezentei legi,
+a reglementãrilor emise, precum și a dispozițiilor cuprinse
+în decizia de agreare.
+(2) Prevederile art. 31Ð32 se aplicã în mod corespunzãtor controlului exercitat de autoritatea de reglementare
+și supraveghere specializatã în domeniu asupra activitãții
+agențiilor de omologare.
+CAPITOLUL V
+Recunoașterea certificatelor eliberate de furnizorii
+de servicii de certificare strãini
+Art. 40. Ñ Certificatul calificat eliberat de cãtre un furnizor de servicii de certificare cu domiciliul sau cu sediul
+într-un alt stat este recunoscut ca fiind echivalent din punct
+de vedere al efectelor juridice cu certificatul calificat eliberat
+de un furnizor de servicii de certificare cu domiciliul sau cu
+sediul în România, dacã:
+a) furnizorul de servicii de certificare cu domiciliul sau
+sediul în alt stat a fost acreditat în cadrul regimului de
+acreditare, în condițiile prevãzute de prezenta lege;
+b) un furnizor de servicii de certificare acreditat, cu
+domiciliul sau cu sediul în România, garanteazã certificatul;
+c) certificatul sau furnizorul de servicii de certificare care
+l-a eliberat este recunoscut prin aplicarea unui acord bilateral sau multilateral între România și alte state sau organizații internaționale, pe bazã de reciprocitate.
+CAPITOLUL VI
+Rãspunderea furnizorilor de servicii de certificare
+Art. 41. Ñ Furnizorul de servicii de certificare, care elibereazã certificate prezentate ca fiind calificate sau care
+garanteazã asemenea certificate, este rãspunzãtor pentru
+prejudiciul adus oricãrei persoane care își întemeiazã conduita pe efectele juridice ale respectivelor certificate:
+a) în ceea ce privește exactitatea, în momentul eliberãrii
+certificatului, a tuturor informațiilor pe care le conține;
+b) în ceea ce privește asigurarea cã, în momentul eliberãrii certificatului, semnatarul identificat în cuprinsul
+acestuia deținea datele de generare a semnãturii corespunzãtoare datelor de verificare a semnãturii menționate în
+respectivul certificat;
+c) în ceea ce privește asigurarea cã datele de generare
+a semnãturii corespund datelor de verificare a semnãturii,
+în cazul în care furnizorul de servicii de certificare le genereazã pe amândouã;
+d) în ceea ce privește suspendarea sau revocarea certificatului, în cazurile și cu respectarea condițiilor prevãzute
+la art. 24 alin. (1) și (2);
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 429/31.VII.2001
+e) în privința îndeplinirii tuturor obligațiilor prevãzute la
+art. 13Ð17 și la art. 19Ð22, cu excepția cazurilor în care
+furnizorul de servicii de certificare probeazã cã, deși a
+depus diligența necesarã, nu a putut împiedica producerea
+prejudiciului.
+Art. 42. Ñ (1) Furnizorul de servicii de certificare poate
+sã indice în cuprinsul unui certificat calificat restricții ale utilizãrii acestuia, precum și limite ale valorii operațiunilor pentru care acesta poate fi utilizat, cu condiția ca respectivele
+restricții sã poatã fi cunoscute de terți.
+(2) Furnizorul de servicii de certificare nu va fi
+rãspunzãtor pentru prejudiciile rezultând din utilizarea unui
+certificat calificat cu încãlcarea restricțiilor prevãzute în
+cuprinsul acestuia.
+CAPITOLUL VII
+Obligațiile titularilor de certificate
+Art. 43. Ñ Titularii de certificate sunt obligați sã solicite,
+de îndatã, revocarea certificatelor, în cazul în care:
+a) au pierdut datele de creare a semnãturii electronice;
+b) au motive sã creadã cã datele de creare a
+semnãturii electronice au ajuns la cunoștința unui terț
+neautorizat;
+c) informațiile esențiale cuprinse în certificat nu mai
+corespund realitãții.
+CAPITOLUL VIII
+Contravenții și sancțiuni
+Art. 44. Ñ Constituie contravenție, dacã, potrivit legii, nu
+constituie infracțiune, și se sancționeazã cu amendã de la
+5.000.000 lei la 100.000.000 lei fapta furnizorului de servicii de certificare care:
+a) omite sã efectueze notificarea prevãzutã la art. 13
+alin. (1);
+b) omite sã informeze autoritatea de reglementare și
+supraveghere specializatã în domeniu asupra procedurilor
+de securitate și de certificare utilizate, în condițiile și cu
+respectarea termenelor prevãzute la art. 13;
+c) nu își îndeplinește obligația de a facilita exercitarea
+atribuțiilor de control de cãtre personalul autoritãții de reglementare și supraveghere specializate în domeniu, anume
+împuternicit în acest sens;
+d) realizeazã transferul activitãților legate de certificarea
+semnãturilor electronice cu nerespectarea prevederilor
+art. 24 alin. (3).
+Art. 45. Ñ Constituie contravenție, dacã, potrivit legii, nu
+constituie infracțiune, și se sancționeazã cu amendã de la
+10.000.000 lei la 250.000.000 lei fapta furnizorului de servicii de certificare care:
+a) nu furnizeazã persoanelor menționate la art. 14
+alin. (1), în condițiile prevãzute la art. 14 alin. (1) și (2),
+informațiile obligatorii prevãzute la art. 14 alin. (3) ori nu
+furnizeazã toate aceste informații sau furnizeazã informații
+inexacte;
+b) încalcã obligațiile privitoare la prelucrarea datelor cu
+caracter personal prevãzute la art. 16;
+c) omite sã efectueze înregistrãrile obligatorii, potrivit
+legii, în registrul electronic de evidențã a certificatelor eliberate, prevãzut la art. 17, sau le efectueazã cu nerespectarea termenului prevãzut la art. 14 alin. (5), art. 23
+alin. (1) sau (2) ori înregistreazã mențiuni inexacte;
+d) elibereazã certificate prezentate titularilor ca fiind calificate, care nu conțin toate mențiunile obligatorii prevãzute
+la art. 18;
+e) elibereazã certificate calificate care conțin informații
+inexacte, informații care sunt contrare legii, bunelor moravuri sau ordinii publice, ori informații a cãror exactitate nu
+a fost verificatã în condițiile prevãzute la art. 18 alin. (4);
+f) elibereazã certificate calificate fãrã a verifica identitatea solicitantului, în condițiile prevãzute la art. 19;
+g) omite sã ia mãsuri de naturã sã garanteze confidențialitatea în cursul procesului de generare a datelor de
+
+7
+
+creare a semnãturilor, în cazul în care furnizorul de servicii
+de certificare genereazã astfel de date;
+h) nu pãstreazã toate informațiile cu privire la un certificat calificat o perioadã de minimum 5 ani de la data
+încetãrii valabilitãții certificatului;
+i) stocheazã, reproduce sau dezvãluie terților datele de
+creare a semnãturii electronice, cu excepția cazului în care
+semnatarul solicitã aceasta, în cazul în care furnizorul elibereazã certificate calificate;
+j) stocheazã certificatele calificate într-o formã care nu
+respectã condițiile prevãzute la art. 20 lit. j);
+k) utilizeazã dispozitive de creare a semnãturii electronice, care nu îndeplinesc condițiile prevãzute la art. 4
+pct. 8, în cazul în care furnizorul de servicii de certificare
+elibereazã certificate calificate;
+l) în cazul în care intenționeazã sã înceteze activitãțile
+legate de certificarea semnãturilor electronice sau în oricare
+dintre situațiile prevãzute la art. 24 alin. (5), când aflã cã
+va fi în imposibilitate de a continua aceste activitãți, nu
+informeazã cu cel puțin 30 de zile înainte de încetarea
+activitãților autoritatea de reglementare și supraveghere
+specializatã în domeniu despre intenția sa, respectiv despre
+existența și natura împrejurãrii care justificã imposibilitatea
+de continuare a activitãților;
+m) în oricare dintre situațiile prevãzute la art. 24
+alin. (5), când se aflã în imposibilitate de a continua activitãțile legate de certificarea semnãturilor electronice și nu
+a putut prevedea aceastã situație cu cel puțin 30 de zile
+înainte ca încetarea activitãților sã se producã, nu a informat autoritatea de reglementare și supraveghere specializatã în domeniu în termenul prevãzut la art. 24 alin. (2)
+despre existența și natura împrejurãrii care justificã imposibilitatea de continuare a activitãților;
+n) aflându-se în unul dintre cazurile prevãzute la art. 24
+alin. (1) și (2), omite sã ia mãsurile necesare pentru asigurarea conservãrii arhivelor sale sau pentru asigurarea
+prelucrãrii datelor cu caracter personal în condițiile legii;
+o) nu suspendã sau nu revocã certificatele eliberate, în
+cazurile în care suspendarea sau revocarea este obligatorie, sau le revocã cu nerespectarea termenului legal;
+p) continuã sã desfãșoare activitãți legate de certificarea semnãturilor electronice în situația în care autoritatea
+de reglementare și supraveghere specializatã în domeniu a
+dispus suspendarea sau încetarea activitãții furnizorului de
+servicii de certificare;
+q) elibereazã certificate sau desfãșoarã alte activitãți
+legate de certificarea semnãturilor electronice, folosindu-se
+fãrã a avea dreptul de calitatea de furnizor de servicii de
+certificare acreditat, prin prezentarea unei mențiuni distinctive care sã se refere la aceastã calitate sau prin orice
+alte mijloace;
+r) omite sã solicite, în termenul prevãzut la art. 29
+alin. (1), înregistrarea în Registru a datelor și informațiilor
+menționate la art. 29.
+Art. 46. Ñ Încãlcarea de cãtre agenția de omologare a
+obligației de a facilita exercitarea atribuțiilor de control de
+cãtre personalul autoritãții de reglementare și supraveghere
+specializate în domeniu, anume împuternicit în acest sens,
+constituie contravenție și se sancționazã cu amendã de la
+15.000.000 lei la 250.000.000 lei.
+Art. 47. Ñ Constatarea contravențiilor și aplicarea
+sancțiunilor prevãzute în cadrul prezentului capitol sunt de
+competența personalului cu atribuții de control din cadrul
+autoritãții de reglementare și supraveghere specializate în
+domeniu.
+Art. 48. Ñ Contravențiilor prevãzute în prezentul capitol
+le sunt aplicabile prevederile Legii nr. 32/1968 privind stabilirea și sancționarea contravențiilor.
+CAPITOLUL IX
+Dispoziții finale
+Art. 49. Ñ (1) Nivelul tarifelor percepute de agențiile
+de omologare pentru prestarea serviciilor de omologare a
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 429/31.VII.2001
+
+dispozitivelor securizate de creare a semnãturii electronice,
+precum și pentru serviciile accesorii se stabilește în mod
+liber, cu respectarea prevederilor Legii concurenței
+nr. 21/1996.
+(2) Agențiile menționate la alin. (1) pot percepe tarife cu
+niveluri diferite pentru zone geografice diferite sau pentru
+serviciile prestate în regim de urgențã, pentru înscrierile online, potrivit propriilor strategii comerciale, cu respectarea
+dispozițiilor legale.
+(3) Sunt interzise agențiilor de omologare și împuterniciților acestora publicarea de tabele comparative privind
+nivelul tarifelor și adoptarea oricãror mãsuri al cãror scop
+este sã limiteze reclama privind nivelul tarifelor încasate de
+alte agenții pentru serviciile prestate.
+Art. 50. Ñ (1) Agențiile de omologare sunt supuse prevederilor Legii concurenței nr. 21/1996 în ceea ce privește
+stabilirea tarifelor percepute pentru serviciile prestate, precum și în privința actelor sau faptelor care au sau pot
+
+avea ca efect restrângerea concurenței pe piața serviciilor
+respective.
+(2) Agențiile de omologare sunt, de asemenea, supuse
+prevederilor Legii nr. 11/1991 privind combaterea concurenței neloiale, cu modificãrile ulterioare.
+Art. 51. Ñ Cuantumul amenzilor prevãzute de prezenta
+lege va fi actualizat prin hotãrâre a Guvernului, în funcție
+de evoluția indicelui de inflație.
+Art. 52. Ñ În termen de 3 luni de la data publicãrii prezentei legi în Monitorul Oficial al României, Partea I, autoritatea de reglementare și supraveghere specializatã în
+domeniu va elabora norme tehnice și metodologice de aplicare a acesteia.
+Art. 53. Ñ Prezenta lege va intra în vigoare la data
+publicãrii ei în Monitorul Oficial al României, Partea I, și se
+pune în aplicare la 3 luni de la data intrãrii în vigoare.
+
+Aceastã lege a fost adoptatã de Senat în ședința din 26 iunie 2001, cu respectarea prevederilor art. 74 alin. (1) din
+Constituția României.
+p. PREȘEDINTELE SENATULUI,
+
+DORU IOAN TÃRÃCILÃ
+Aceastã lege a fost adoptatã de Camera Deputaților în ședința din 28 iunie 2001, cu respectarea prevederilor art. 74
+alin. (1) din Constituția României.
+PREȘEDINTELE CAMEREI DEPUTAÞILOR
+
+VALER DORNEANU
+București, 18 iulie 2001.
+Nr. 455.
+PREȘEDINTELE ROMÂNIEI
+
+DECRET
+pentru promulgarea Legii privind semnãtura electronicã
+În temeiul prevederilor art. 77 alin. (1) și ale art. 99 alin. (1) din
+Constituția României,
+Președintele României
+
+d e c r e t e a z ã:
+
+Articol unic. Ñ Se promulgã Legea privind semnãtura electronicã și se
+dispune publicarea acestei legi în Monitorul Oficial al României, Partea I.
+PREȘEDINTELE ROMÂNIEI
+
+ION ILIESCU
+București, 17 iulie 2001.
+Nr. 608.
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 5069427282 Trezoreria sector 5, București (alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 411.97.54, tel./fax 410.77.36.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: ramomrk@bx.logicnet.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 429/31.VII.2001 conține 8 pagini.
+
+Prețul 3.352 lei
+
+ISSN 1453Ñ4495
+
+Compression by CVISION Technologies’ PdfCompressor. For Evaluation Purposes Only
+
+

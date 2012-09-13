@@ -1,0 +1,1119 @@
+Anul 173 (XVII) — Nr. 383
+
+PARTEA
+
+I
+
+Vineri, 6 mai 2005
+
+LEGI, DECRETE, HOTĂRÂRI ȘI ALTE ACTE
+SUMAR
+
+Nr.
+
+Pagina
+
+Nr.
+pentru aprobarea Metodologiei privind elaborarea
+Planului pentru continuarea activității în situații de
+urgență pentru sisteme informatice și de comunicații
+(SIC) care vehiculează informații clasificate — DS 7
+
+HOTĂRÂRI ALE GUVERNULUI ROMÂNIEI
+316.
+
+— Hotărâre privind aprobarea Programului
+cercetărilor statistice în anul 2005 al Institutului
+Național de Statistică ................................................
+
+1
+607.
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+149.
+
+— Ordin al directorului general al Oficiului
+Registrului Național al Informațiilor Secrete de Stat
+
+HOTĂRÂRI
+
+ALE
+
+Pagina
+
+2
+
+— Ordin al ministrului administrației și internelor
+pentru aprobarea Metodologiei de control privind
+supravegherea pieței produselor pentru construcții
+cu rol în satisfacerea cerinței de securitate la
+incendiu ......................................................................
+
+2–16
+
+GUVERNULUI
+
+ROMÂNIEI
+
+GUVERNUL ROMÂNIEI
+
+HOTĂRÂRE
+privind aprobarea Programului cercetărilor statistice în anul 2005
+al Institutului Național de Statistică
+În temeiul art. 108 din Constituția României, republicată, și al art. 9 alin. (1) din Ordonanța Guvernului nr. 9/1992
+privind organizarea statisticii oficiale, republicată, cu modificările și completările ulterioare,
+Guvernul României adoptă prezenta hotărâre.
+Art. 1. — Se aprobă Programul cercetărilor statistice
+în anul 2005 al Institutului Național de Statistică, prevăzut
+în anexa*) care face parte integrantă din prezenta
+hotărâre.
+
+Art. 2. — Realizarea Programului cercetărilor statistice în
+anul 2005 al Institutului Național de Statistică se finanțează
+din bugetul Institutului Național de Statistică și din bugetele
+ministerelor implicate, aprobate pe anul 2005, precum și
+din alte surse interne și externe.
+
+PRIM-MINISTRU
+
+CĂLIN POPESCU-TĂRICEANU
+
+București, 14 aprilie 2005.
+Nr. 316.
+
+Contrasemnează:
+Ministrul delegat pentru coordonarea
+Secretariatului General al Guvernului,
+Mihai Alexandru Voicu
+Președintele Institutului Național de Statistică,
+Clementina Ivan-Ungureanu
+p. Ministrul finanțelor publice,
+Sebastian Bodu,
+secretar de stat
+
+*) Anexa se publică ulterior în Monitorul Oficial al României, Partea I, nr. 383 bis abonament, care se poate achiziționa și de la Centrul
+pentru relații cu publicul al Regiei Autonome îMonitorul Oficial“, București, șos. Panduri nr. 1.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 383/6.V.2005
+
+ACTE ALE ORGANELOR DE SPECIALITATE
+ALE ADMINISTRAȚIEI PUBLICE CENTRALE
+GUVERNUL ROMÂNIEI
+OFICIUL REGISTRULUI NAȚIONAL AL INFORMAȚIILOR SECRETE DE STAT
+
+ORDIN
+pentru aprobarea Metodologiei privind elaborarea Planului pentru continuarea activității
+în situații de urgență pentru sisteme informatice și de comunicații (SIC)
+care vehiculează informații clasificate — DS 7
+În temeiul prevederilor art. 1 alin. (4) lit. b) și ale art. 3 alin. (6) din Ordonanța de urgență a Guvernului
+nr. 153/2002 privind organizarea și funcționarea Oficiului Registrului Național al Informațiilor Secrete de Stat, aprobată prin
+Legea nr. 101/2003,
+directorul general al Oficiului Registrului Național al Informațiilor Secrete de Stat emite prezentul ordin.
+Art. 1. — Se aprobă Metodologia privind elaborarea
+Planului pentru continuarea activității în situații de urgență
+pentru sisteme informatice și de comunicații (SIC) care
+vehiculează informații clasificate — DS 7, prevăzută în
+anexa*) care face parte integrantă din prezentul ordin.
+Art. 2. — Metodologia prevăzută la art. 1 este elaborată
+în concordanță cu cerințele politicii naționale de securitate
+și cu directivele Oficiului Registrului Național al Informațiilor
+Secrete de Stat (ORNISS) privind domeniul INFOSEC și
+poate fi folosită de persoanele juridice de drept public și
+privat care au în administrare SIC, care stochează,
+procesează sau transmit informații clasificate, de
+structurile/funcționarii de securitate, managerii de proiect,
+
+autoritățile operaționale ale SIC (AOSIC), autoritățile de
+evaluare și certificare autorizate de către ORNISS, Agenția
+de Acreditare de Securitate (AAS), precum și de către
+coordonatorul responsabil cu elaborarea și aplicarea
+Planului pentru continuarea activității în situații de urgență.
+Art. 3. — Conținutul metodologiei prevăzute la art. 1 va
+fi revizuit periodic în vederea armonizării normelor naționale
+cu reglementările NATO, ale Uniunii Europene și ale
+statelor cu care România are acorduri sau aranjamente de
+securitate referitoare la domeniul INFOSEC.
+Art. 4. — Oficiul Registrului Național al Informațiilor
+Secrete de Stat urmărește ducerea la îndeplinire a
+prevederilor prezentului ordin.
+
+Directorul general al Oficiului Registrului Național al Informațiilor Secrete de Stat,
+Marius Petrescu
+București, 18 aprilie 2005.
+Nr. 149.
+*) Anexa se comunică persoanelor juridice de drept public și privat îndreptățite.
+
+MINISTERUL ADMINISTRAȚIEI ȘI INTERNELOR
+
+ORDIN
+pentru aprobarea Metodologiei de control privind supravegherea pieței produselor
+pentru construcții cu rol în satisfacerea cerinței de securitate la incendiu
+Având în vedere prevederile art. 30 alin. (1) lit. b) din Hotărârea Guvernului nr. 622/2004 privind stabilirea
+condițiilor de introducere pe piață a produselor pentru construcții, ale art. 3 alin. (1) și (2) și ale art. 11 lit. x) din
+Regulamentul de organizare și funcționare al Inspectoratului General pentru Situații de Urgență, aprobat prin Hotărârea
+Guvernului nr. 1.490/2004,
+în temeiul prevederilor art. 9 alin. (4) din Ordonanța de urgență a Guvernului nr. 63/2003 privind organizarea și
+funcționarea Ministerului Administrației și Internelor, aprobată cu modificări și completări prin Legea nr. 604/2003, cu
+modificările ulterioare,
+ministrul administrației și internelor emite următorul ordin:
+Art. 1. — Se aprobă Metodologia de control privind
+supravegherea pieței produselor pentru construcții cu rol în
+satisfacerea cerinței de securitate la incendiu, prevăzută în
+
+anexa care face parte integrantă din prezentul ordin.
+Art. 2. — Prezentul ordin se publică în Monitorul Oficial
+al României, Partea I.
+
+Ministrul administrației și internelor,
+Vasile Blaga
+București, 19 aprilie 2005.
+Nr. 607.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+3
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 383/6.V.2005
+
+ANEXĂ
+
+METODOLOGIE DE CONTROL
+privind supravegherea pieței produselor pentru construcții cu rol în satisfacerea cerinței de securitate la incendiu
+CAPITOLUL I
+
+Art. 5. — (1) În cadrul activității de supraveghere a
+pieței, Serviciul pentru supravegherea pieței parcurge
+
+Dispoziții generale
+
+următoarele etape:
+Art. 1. — Prezenta metodologie stabilește modul de
+
+a) monitorizează produsele introduse pe piață;
+
+desfășurare a controlului condițiilor de introducere pe piață
+
+b) stabilește măsurile ce trebuie luate de către
+
+a produselor/familiilor de produse pentru construcții cu rol
+
+producător, de reprezentantul autorizat al acestuia sau de
+
+în satisfacerea cerinței de securitate la incendiu, denumite
+
+către importator pentru îndeplinirea conformității, după caz.
+
+în continuare produse.
+
+(2) Monitorizarea produselor introduse pe piață se
+
+Art. 2. — Inspectoratul General pentru Situații de
+Urgență își exercită atribuțiile de organ de control, stabilite
+
+realizează prin:
+a)
+
+controlul
+
+produselor
+
+în
+
+locurile
+
+unde
+
+se
+
+prin Hotărârea Guvernului nr. 891/2004 privind stabilirea
+
+comercializează și se depozitează de către producător,
+
+unor măsuri de supraveghere a pieței produselor din
+
+reprezentantul autorizat al acestuia, importator sau, după
+
+domeniile reglementate, prevăzute în Legea nr. 608/2001
+
+caz, de către distribuitor;
+
+privind evaluarea conformității produselor, cu modificările și
+completările ulterioare, prin Serviciul pentru supravegherea
+pieței din cadrul Inspecției de prevenire — Direcția
+pompieri.
+Art. 3. — Prin activitatea de supraveghere a pieței se
+controlează dacă:
+
+b) controale inopinate și verificări punctuale;
+c) prelevarea de mostre de produse și verificarea prin
+examinare și încercare a acestora;
+d) verificarea produselor expuse la târguri, expoziții,
+prezentări demonstrative privind conformitatea cu modul de
+inscripționare prevăzut de lege.
+Art. 6. — (1) Inspectoratele județene pentru situații de
+
+a) produsele enumerate în anexa nr. 1 îndeplinesc
+
+urgență și al municipiului București întocmesc evidențe și
+
+cerințele Hotărârii Guvernului nr. 622/2004 privind stabilirea
+
+comunică imediat Inspectoratului General pentru Situații de
+
+condițiilor de introducere pe piață a produselor pentru
+
+Urgență orice investiție sau modernizare pusă în funcțiune
+
+construcții, denumită în continuare reglementare;
+
+după data de 27 februarie 2005, în care se utilizează
+
+b) cei responsabili de introducerea pe piață a produselor
+
+produse, precizând datele menționate în anexa nr. 2.
+
+acționează pentru ca produsele neconforme să fie aduse în
+
+(2) Inspectoratele județene pentru situații de urgență și
+
+conformitate cu cerințele reglementării și pun în aplicare
+
+al municipiului București înaintează la Inspectoratul General
+
+măsurile dispuse.
+
+pentru Situații de Urgență, până la data de 31 ianuarie a
+anului în curs, planificarea târgurilor și expozițiilor de
+
+CAPITOLUL II
+
+prezentare a produselor și, imediat, îi comunică acestuia
+
+Organizarea și desfășurarea activității de supraveghere
+a pieței
+
+în acest domeniu.
+
+Art. 4. — Serviciul pentru supravegherea pieței are
+a) întocmește semestrial programe de supraveghere a
+pieței pentru produse;
+urmărește
+
+Art. 7. — (1) În cazul în care în timpul activităților
+specifice au fost identificate neconformități, pentru a stabili
+
+următoarele atribuții:
+
+b)
+
+orice altă activitate ce se va desfășura pe parcursul anului
+
+și
+
+dacă erorile apar în mod repetat, Serviciul pentru
+supravegherea pieței verifică produsele în conformitate cu
+modulele utilizate de către producător pentru atestarea
+
+acționează
+
+pentru
+
+actualizarea
+
+cunoștințelor științifice și tehnice ale personalului, prin
+instruiri, participări la seminarii, conferințe, schimburi de
+informații cu alte organe de control;
+
+conformității produselor cu cerințele esențiale prevăzute în
+reglementare.
+(2) În situația în care apar îndoieli în ceea ce privește
+conformitatea unui produs cu cerințele esențiale prevăzute
+
+c) propune revizuirea periodică și ori de câte ori este
+
+în reglementare, Serviciul pentru supravegherea pieței
+
+necesar a procedurilor și a modului de organizare și
+
+prelevează eșantioane de produse conform procedurii
+
+funcționare, în scopul desfășurării unei activități de control
+
+aprobate de inspectorul general al Inspectoratului General
+
+eficiente.
+
+pentru Situații de Urgență și asigură transmiterea acestora
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 383/6.V.2005
+
+pentru verificare la Centrul Național pentru Securitate la
+
+gestionează baza de date privind produsele introduse pe
+
+Incendiu și Protecție Civilă sau la alte laboratoare
+
+piață după data de 27 februarie 2005.
+
+acreditate/autorizate.
+
+Art. 12. — Producătorul, reprezentantul autorizat al
+
+(3) Costurile încercărilor și, după caz, produsele
+
+acestuia sau importatorul este obligat să pună la dispoziție
+
+prelevate se achită de către Inspectoratul General pentru
+
+Serviciului pentru supravegherea pieței certificatul de
+
+Situații de Urgență în conformitate cu prevederile legale în
+
+conformitate EC și documentația tehnică în limba română.
+
+vigoare; dacă se constată că produsele sunt neconforme,
+
+Art. 13. — (1) În cadrul acțiunilor de supraveghere a
+
+Inspectoratul
+
+Urgență
+
+pieței, Serviciul pentru supravegherea pieței analizează și
+
+recuperează cheltuielile de la responsabilul cu introducerea
+
+decide, de la caz la caz, dacă neconformitățile constatate
+
+pe
+
+sunt nesubstanțiale sau substanțiale.
+
+piață
+
+a
+
+General
+
+pentru
+
+produsului
+
+Situații
+
+respectiv
+
+de
+
+—
+
+producător,
+
+reprezentantul autorizat al acestuia, importator.
+
+(2) Sunt considerate neconformități nesubstanțiale:
+
+(4) Produsele prelevate sunt sigilate de către Serviciul
+
+a) folosirea și aplicarea incorectă a marcajului CE în
+
+pentru supravegherea pieței și de către o persoană
+
+ceea ce privește forma, mărimea, vizibilitatea, lizibilitatea,
+
+desemnată de producător, reprezentantul autorizat al
+
+caracteristica de a nu putea fi șters;
+
+acestuia sau de importator.
+Art. 8. — (1) Serviciul pentru supravegherea pieței
+efectuează controale de verificare, în baza programelor
+semestriale de supraveghere a pieței, în echipe de
+minimum două persoane.
+(2) Programele de supraveghere sunt aprobate de
+inspectorul general al Inspectoratului General pentru Situații
+de Urgență.
+(3) Verificările realizate de către Serviciul pentru
+supravegherea pieței sunt:
+a) verificări formale;
+b) verificări de fond.
+(4) Verificările formale privesc prezența și modul de
+
+b) aplicarea incorectă a altor marcări de conformitate și
+mărci suplimentare;
+c) neprezentarea certificatului de conformitate EC sau
+neînsoțirea produsului de acest document;
+d) neînsoțirea sau însoțirea incompletă a produsului de
+alte informații prevăzute în standardele aplicabile precizate
+în anexa nr. 4;
+e) neînscrierea numărului de identificare al organismului
+notificat alături de marcajul CE.
+(3) Sunt considerate neconformități substanțiale
+neconformitățile produselor cu cerința de securitate la
+incendiu.
+(4) În legătură cu neconformitățile constatate, înaintea
+
+aplicare a marcajului CE, disponibilitatea certificatului de
+
+oricărei
+
+conformitate EC, informațiile ce însoțesc produsul și/sau
+
+anunță în termen de maximum 48 de ore partea implicată.
+
+corecta alegere a procedurilor de atestare a conformității.
+
+(5) Dacă problema ce se impune a fi rezolvată este
+
+(5) Verificările de fond privesc verificarea conformității
+
+urgentă, dat fiind pericolul grav și iminent, sau în cazul
+
+produsului cu cerințele esențiale, a conținutului certificatului
+
+lipsei unei reacții din partea părții implicate în cel mult
+
+de conformitate EC și corecta aplicare a procedurilor de
+
+14 zile, Serviciul pentru supravegherea pieței, fără a
+
+evaluare a conformității; de regulă, verificările se referă
+
+consulta partea implicată, propune măsurile necesare
+
+numai la aspecte privind performanțele produsului, cum
+
+inspectorului general al Inspectoratului General pentru
+
+sunt: caracteristici de detectare, stingere, alarmare,
+
+Situații de Urgență, care dispune.
+
+semnalizare.
+Art. 9. — Controlul se finalizează printr-un raport de
+control, al cărui model este prevăzut în anexa nr. 3.
+
+decizii, Serviciul pentru supravegherea pieței
+
+(6) Orice decizie luată privind restricționarea, interzicerea
+introducerii pe piață sau retragerea de pe piață a unor
+produse
+
+se
+
+motivează
+
+în
+
+scris
+
+către
+
+producător,
+
+Art. 10. — După fiecare control, echipa de control
+
+reprezentantul autorizat al acestuia sau importator, după
+
+întocmește o notă de informare care se prezintă spre
+
+caz. Această comunicare conține și informații în legătură
+
+avizare adjunctului inspectorului general și spre aprobare
+
+cu dreptul celui în cauză de a contesta decizia, precum și
+
+inspectorului general al Inspectoratului General pentru
+
+cu termenul în care contestația poate fi făcută, conform
+
+Situații de Urgență.
+
+prevederilor legislației în vigoare.
+
+Art. 11. — Inspectoratul General pentru Situații de
+
+(7) Decizia privind restricționarea, interzicerea introducerii
+
+Urgență, prin Serviciul pentru supravegherea pieței,
+
+pe piață sau retragerea de pe piață a unor produse trebuie
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+5
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 383/6.V.2005
+să se bazeze pe dovezi obiective: rapoarte de încercări,
+
+normative în domeniu, aplică sancțiunile contravenționale
+
+rapoarte de inspecție de la organisme acreditate/autorizate.
+
+prevăzute în legislația specifică.
+
+(8) Decizia privind restricționarea, interzicerea introducerii
+pe piață sau retragerea de pe piață a unor produse se ia
+
+(2)
+
+Modelul
+
+procesului-verbal
+
+de
+
+constatare
+
+și
+
+sancționare a contravențiilor este prezentat în anexa nr. 5.
+
+de către inspectorul general al Inspectoratului General
+CAPITOLUL VI
+
+pentru Situații de Urgență, pe baza unui raport elaborat de
+Serviciul pentru supravegherea pieței și vizat de către
+
+Dispoziții finale
+
+adjunctul inspectorului general.
+pentru
+
+Art. 22. — Inspectoratul General pentru Situații de
+
+supravegherea pieței întâmpină dificultăți în îndeplinirea
+
+Urgență emite declarații publice în care sunt specificate:
+
+atribuțiilor, solicită sprijinul organelor de poliție în
+
+produsele care sunt sau pot fi nesigure, producătorii și
+
+conformitate cu prevederile legale.
+
+distribuitorii de astfel de produse, precum și orice alte
+
+Art.
+
+14.
+
+—
+
+În
+
+cazul
+
+în
+
+care
+
+Serviciul
+
+CAPITOLUL III
+
+probleme care pot afecta negativ securitatea utilizatorilor.
+Art. 23. — Inspectoratul General pentru Situații de
+
+Schimbul de informații
+
+Urgență poate solicita Ministerului Administrației și
+Art. 15. — Schimbul de informații se realizează conform
+prevederilor legale.
+
+Internelor sau Ministerului Economiei și Comerțului, în
+calitatea sa de integrator în domeniul supravegherii pieței,
+
+Art. 16. — Semestrial, Inspectoratul General pentru
+Situații de Urgență întocmește rapoarte ale activității
+desfășurate pentru supravegherea pieței, care sunt înaintate
+Ministerului Administrației și Internelor — Direcția generală
+integrare europeană și relații internaționale și, după caz,
+Ministerului Transporturilor, Construcțiilor și Turismului.
+Art. 17. — Pentru respectarea condițiilor de introducere
+
+pentru personalul de specialitate al Serviciului pentru
+supravegherea pieței, participarea la programe de pregătire
+și
+
+organizarea
+
+de
+
+seminarii,
+
+conferințe,
+
+vizite
+
+de
+
+documentare în statele membre ale Uniunii Europene și
+aplicații cu experți în domeniu din aceste state.
+Art. 24. — Pentru desfășurarea activității de control,
+
+pe piață a produselor, a condițiilor de securitate generală a
+
+Inspectoratul General pentru Situații de Urgență și, după
+
+produselor și de protecție a consumatorilor/utilizatorilor se
+
+caz, inspectoratele județene pentru situații de urgență și al
+
+încheie
+
+municipiului
+
+protocoale de colaborare cu alte organe de
+
+București
+
+asigură
+
+Serviciului
+
+pentru
+
+supravegherea pieței, în condițiile legii, mijloace de
+
+control.
+Art. 18. — Pentru prevenirea introducerii pe piață și a
+punerii în funcțiune a produselor neconforme, Serviciul
+
+transport, decontarea cheltuielilor de transport, cazare,
+diurnă și alte materiale necesare.
+
+pentru supravegherea pieței colaborează cu producătorii,
+
+Art. 25. — (1) Personalul cu atribuții de control în
+
+reprezentanții autorizați, importatorii și asociațiile acestora.
+
+domeniul supravegherii pieței produselor este numit prin
+
+CAPITOLUL IV
+Reclamații
+
+ordin de zi pe unitate al inspectorului general al
+Inspectoratului General pentru Situații de Urgență.
+(2) Personalul desemnat se legitimează cu legitimația de
+
+Art. 19. — În activitatea specifică, Inspectoratul General
+pentru Situații de Urgență primește, analizează și
+soluționează reclamațiile referitoare la concurența neloială
+sau la introducerea pe piață a unor produse neconforme.
+Art. 20. — Înregistrarea și gestionarea acestora se fac
+în mod separat într-un registru gestionat de Serviciul
+pentru supravegherea pieței.
+
+control semnată de inspectorul general al Inspectoratului
+General pentru Situații de Urgență.
+(3) Modelul legitimației de control este prezentat în
+anexa nr. 6.
+Art. 26. — În perioada de tranziție stabilită în
+conformitate
+
+cu
+
+prevederile
+
+cap.
+
+V1
+
+din
+
+Legea
+
+nr. 608/2001, cu modificările și completările ulterioare,
+CAPITOLUL V
+Sancțiuni
+Art. 21. — (1) În cazul în care Serviciul pentru
+supravegherea pieței constată nerespectarea actelor
+
+prevederile prezentei metodologii se aplică și produselor cu
+marcaj CS.
+Art. 27. — Anexele nr. 1—6 fac parte integrantă din
+prezenta metodologie.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 383/6.V.2005
+ANEXA Nr. 1
+la metodologie
+LISTA
+
+produselor pentru construcții cu rol în satisfacerea cerinței de securitate la incendiu
+Familia de produse — Mijloace fixe pentru
+alarmă/detectarea incendiului, pentru stingerea
+incendiului, pentru controlul focului și fumului și pentru
+prevenirea exploziilor
+
+— dispozitive de alarmă;
+— surse de energie;
+— dispozitive de pornire/oprire;
+
+1. Seturi pentru instalare:
+
+— butoane manuale de semnalizare.
+
+Detectarea incendiului/alarme de incendiu:
+
+Prevenirea și stingerea incendiilor:
+
+— seturi de sisteme combinate de detectare a
+
+— hidranții de incendiu;
+
+incendiului și alarmare a incendiului;
+
+— indicatoare/comutatoare pentru debitul de apă;
+
+— seturi de sisteme de detectare a incendiului;
+
+— indicatoare/comutatoare pentru presiune;
+
+— seturi de sisteme de alarmare la incendiu;
+
+— tubulatură de admisie;
+
+— seturi de sisteme de comunicații de alertare în caz
+de incendiu.
+
+— pompe și seturi de pompare pentru combaterea
+focului;
+
+Prevenirea și stingerea incendiilor:
+
+— seturi de supape de alarmă în circuit umed;
+
+— seturi de sisteme de hidranți interiori;
+
+— seturi de supape de alarmă uscate;
+
+— seturi de sisteme de hidranți exteriori cu coloană
+
+— seturi de supape de alarmă inundate;
+
+uscată și umedă;
+
+— dispozitive de control multiple;
+
+— seturi de sisteme cu sprinklere și apă pulverizată;
+
+— seturi de supape pentru containere sub presiune
+
+— seturi de sisteme de stingere cu pulbere uscată;
+— seturi de sisteme de stingere cu gaz (inclusiv CO2).
+
+ridicate și dispozitivele lor de acționare;
+
+2. Componente:
+
+— supape de distribuție și dispozitivele lor de acționare;
+
+Detectarea incendiului/alarme de incendiu:
+
+— dispozitive neelectrice de dezactivare;
+
+— detectoare de fum, de căldură și de flacără;
+
+— racorduri flexibile;
+
+— dispozitive de control și indicatoare;
+
+— manometre și presostate;
+
+— dispozitive de transmitere alarme la distanță;
+
+— dispozitive mecanice de măsurare;
+
+— izolatori pentru scurtcircuit;
+
+— supape de închidere și supape de control.
+
+ANEXA Nr. 2
+la metodologie
+DATE
+
+ce se raportează de inspectoratele pentru situații de urgență județene și al municipiului București
+privind obiectivele de investiții
+Date privind investiții/modernizări:
+
+• capete sprinkler;
+
+— tipul instalației;
+
+• supapă de control și semnalizare pentru instalații tip
+
+— modelul;
+— producătorul/reprezentantul autorizat/importatorul;
+— data introducerii pe piață,
+pentru următoarele categorii de produse:
+• sisteme de detectare și alarmare la incendiu;
+
+apă/apă;
+• dispozitive de alarmă cu motor hidraulic;
+• detectoare de curgere a apei;
+• instalații cu apă pulverizată;
+
+• detectoare de fum;
+
+• instalație de stingere cu CO2;
+
+• hidranți interiori;
+
+• instalație de stingere cu pulbere;
+
+• instalații de sprinkler;
+
+• ventilatoare de evacuare a căldurii și fumului.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 383/6.V.2005
+
+7
+ANEXA Nr. 3*)
+la metodologie
+
+MINISTERUL ADMINISTRAȚIEI ȘI INTERNELOR
+Inspectoratul General pentru Situații de Urgență
+Serviciul pentru supravegherea pieței
+RAPORT DE CONTROL nr. ............ din ...........................
+pentru produsul supus supravegherii pieței în baza Hotărârii Guvernului nr. 622/2004
+privind stabilirea condițiilor de introducere pe piață a produselor pentru construcții,
+care are rol în satisfacerea cerințelor de securitate la incendiu
+
+*) Anexa nr. 3 la metodologie este reprodusă în facsimil.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 383/6.V.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 383/6.V.2005
+
+9
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 383/6.V.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 383/6.V.2005
+
+11
+ANEXA Nr. 4*)
+la metodologie
+
+*) Anexa nr. 4 la metodologie este reprodusă în facsimil.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 383/6.V.2005
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 383/6.V.2005
+
+13
+ANEXA Nr. 5*)
+la metodologie
+
+*) Anexa nr. 5 la metodologie este reprodusă în facsimil.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 383/6.V.2005
+ANEXA Nr. 5a)
+la metodologie
+MINISTERUL ............................
+Unitatea ................................
+...............................................
+...............................................
+
+Proces-verbal de constatare
+și sancționare a contravențiilor
+seria .................. nr. ..............,
+din .............................................
+
+(adresa)
+COMUNICARE
+PROCES-VERBAL DE CONTRAVENȚIE
+ÎNȘTIINȚARE DE PLATĂ
+
+Nr. ........ din data de ................
+Către
+Numele și prenumele
+
+.................................................................................................................,
+(denumirea)
+
+str. .................................................. nr. ............, bl. ........, sc. ...., ap. ....., sectorul ............,
+localitatea .........................., județul/sectorul ............, vă comunicăm alăturat exemplarul nr. 2 al
+procesului-verbal de constatare și sancționare a contravențiilor.
+Totodată, vă înștiințăm că aveți obligația să achitați suma de ................ lei, la C.E.C. sau la
+Direcția trezorerie și contabilitate publică în contul ................., în termen de 15 zile de la data
+primirii comunicării/înștiințării, urmând să predați copia chitanței în același termen unității
+....................., situat/situată în .................... str. ................. nr. .........., județul/sectorul ................ .
+Contravenientul poate achita în termen de cel mult 48 de ore de la data
+înștiințării/comunicării procesului-verbal jumătate din minimul amenzii reprezentând .............. lei, iar
+dacă nu achită amenda în termen de 15 zile de la data înmânării comunicării, se va proceda la
+executarea silită.
+Comandantul unității,
+..............................
+..................................................................................................................................................................
+Proces-verbal de constatare
+și sancționare a contravențiilor
+seria .................. nr. ...............,
+din .............................................
+DOVADA
+
+de îndeplinire a procedurii de comunicare a procesului-verbal de constatare și sancționare
+a contravențiilor
+PROCES-VERBAL
+
+Astăzi ....... luna ................ 200 ....
+Subsemnatul ......................, agent procedural, având de înmânat procesul-verbal de
+constatare și sancționare a contravențiilor și înștiințarea de plată cu nr. de mai sus, emise de
+........................., m-am deplasat în ..................., str. .................. nr. ......., bl. ......, sc. ....., et. .....,
+ap. ....., județul/sectorul ............, la adresa numitului ................................, sancționat contravențional.
+1. Găsind pe ..................., destinatar, soț, rudă cu destinatarul, persoană care locuiește cu
+destinatarul, portar, administrator, serviciul de registratură sau funcționarul însărcinat cu primirea
+corespondenței, serviciul personal, administrația spitalului, comandantul unității militare, administrația
+locului de deținere*):
+a) acesta a primit, semnând în fața noastră; b) refuzând primirea, am afișat actul; c) primind
+actul, a refuzat să semneze de primire; d) primind actul, nu a putut să semneze deoarece
+............................................................................................................................................................... .
+2. Am afișat actul pe ușa principală a locuinței destinatarului; pe ușa principală a clădirii*), a
+hotelului*):
+a) persoana prevăzută la pct. 1 a refuzat primirea; b) nici o persoană prevăzută la pct. 1 nu
+a fost găsită; c) în lipsa persoanelor prevăzute la pct. 1, nu s-a putut afla data când cel citat
+poate fi găsit; d) persoanei citate, schimbându-și adresa, nu i s-a putut afla noua adresă (noua
+adresă este .................................................................................................................................................;
+................................................................); e) persoana citată fiind o societate, s-a refuzat primirea.
+Semnătura agentului,
+..................................
+Semnătura primitorului actului ............................
+Calitatea în care a primit actul ..........................
+Actul de identitate al primitorului .......................
+*) Se vor sublinia cuvintele care corespund modului de îndeplinire.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+15
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 383/6.V.2005
+ANEXA Nr. 5b)
+la metodologie
+MINISTERUL ............................
+Unitatea ................................
+Județului ...............................
+...............................................
+
+Proces-verbal de constatare
+și sancționare a contravențiilor
+seria .................. nr. ..............,
+din .............................................
+
+(adresa)
+
+COMUNICARE
+
+Către
+Numele și prenumele ...................................................................................................................,
+(denumirea)
+
+cu domiciliul sau reședința (sediul) în str. ................................................ nr. ......., bl. ......., sc. ......,
+et. ......, ap. ...... .
+Recomandată
+Nr. ................
+
+Localitatea ................................
+Județul (sectorul) .....................
+Codul poștal ............................
+Oficiul poștal ............................
+
+Ștampila
+cu data sosirii
+
+.................................................................................................................................................................
+
+Proces-verbal de constatare
+și sancționare a contravențiilor
+seria .................. nr. ...............,
+din .............................................
+Ștampila cu
+data prezentării
+
+DOVADĂ
+
+Către
+...............................................................
+Localitatea ......................... str. ........... nr. .......,
+sectorul/județul ...........
+
+UNITATEA
+
+Localitatea ................................
+Codul poștal ............................
+Oficiul poștal nr. ......................
+Recomandata nr. ......................................
+Ștampila cu
+data înapoierii
+
+Ștampila cu
+data sosirii
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 383/6.V.2005
+ANEXA Nr. 6*)
+la metodologie
+MODELUL LEGITIMAȚIEI DE CONTROL
+
+*) Anexa nr. 6 la metodologie este reprodusă în facsimil.
+
+EDITOR: PARLAMENTUL ROMÂNIEI — CAMERA DEPUTAȚILOR
+Regia Autonomă îMonitorul Oficial“, Str. Parcului nr. 65, sectorul 1, București,
+IBAN: RO75RNCB5101000000120001 Banca Comercială Română — S.A. — Sucursala îUnirea“ București
+și IBAN: RO12TREZ7005069XXX000531 Direcția de Trezorerie și Contabilitate Publică a Municipiului București
+(alocat numai persoanelor juridice bugetare)
+Tel. 224.09.71/150, fax 225.00.43, E-mail: marketing@ramo.ro, Internet: www.monitoruloficial.ro
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 410.47.30, tel./fax 410.77.36 și 410.47.23
+Tiparul: Regia Autonomă îMonitorul Oficial“
+Monitorul Oficial al României, Partea I, nr. 383/6.V.2005 conține 16 pagini.
+
+Prețul: 10.500 lei vechi/1,05 lei noi
+
+&JUYDGY|016361]
+ISSN 1453—4495
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+

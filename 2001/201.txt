@@ -1,0 +1,564 @@
+PARTEA
+
+Anul XIII Ñ Nr. 201
+
+I
+
+Vineri, 20 aprilie 2001
+
+LEGI, DECRETE, HOTÃRÂRI ȘI ALTE ACTE
+SUMAR
+Nr.
+
+Pagina
+ACTE ALE BÃNCII NAÞIONALE A ROMÂNIEI
+
+1.
+
+ACTE
+
+ALE
+
+Ñ Norme privind lichiditatea bãncilor......................
+
+BÃNCII
+
+NAÞIONALE
+
+1Ð16
+
+A
+
+ROMÂNIEI
+
+BANCA NAÞIONALÃ A ROMÂNIEI
+
+NORME
+privind lichiditatea bãncilor
+În temeiul prevederilor art. 26 alin. (2) lit. a) și ale art. 50 din Legea nr. 101/1998 privind Statutul Bãncii Naționale a României, cu
+modificãrile și completãrile ulterioare, precum și ale art. 38 alin. (1) și (2) și ale art. 45 lit. d) din Legea bancarã nr. 58/1998, cu modificãrile
+și completãrile ulterioare,
+Banca Naționalã a României emite prezentele norme.
+CAPITOLUL I
+Dispoziții generale
+Art. 1. Ñ Prezentele norme reglementeazã nivelul minim de lichiditate și se aplicã bãncilor persoane juridice române, precum și
+sucursalelor din România ale bãncilor persoane juridice strãine,
+denumite în continuare bãnci.
+Art. 2. Ñ (1) Termenii credite și plasamente utilizați în prezentele
+norme au semnificația prevãzutã la art. 1 lit. e) alin. 2 și, respectiv, la
+art. 1 lit. f) din Normele metodologice pentru aplicarea Regulamentului
+Bãncii Naționale a României nr. 2/2000 privind clasificarea creditelor
+și plasamentelor, precum și constituirea, regularizarea și utilizarea
+provizioanelor specifice de risc de credit.
+(2) În înțelesul prezentelor norme, termenii și expresiile de mai jos
+au urmãtoarele semnificații:
+a) risc de lichiditate fațã de o singurã persoanã Ñ obligația bãncii
+fațã de orice persoanã sau grup de persoane fizice ori juridice care
+sunt legate economic între ele în sensul cã:
+Ñ una dintre persoane exercitã asupra celorlalte, direct sau indirect, putere de control;
+Ñ nivelul cumulat al obligației bãncii reprezintã un singur risc de
+lichiditate pentru bancã în sensul cã retragerea de cãtre una dintre
+persoane a unui depozit, închiderea unui cont curent și/sau utilizarea
+unui angajament de finanțare primit de la bancã poate atrage din
+
+partea celorlalte persoane retragerea depozitelor, închiderea conturilor
+curente și/sau utilizarea angajamentelor de finanțare primite de la
+bancã;
+b) risc mare de lichiditate fațã de o singurã persoanã Ñ riscul de
+lichiditate fațã de o singurã persoanã, a cãrei valoare reprezintã cel
+puțin 10% din valoarea obligațiilor bilanțiere, altele decât împrumuturile, și a angajamentelor de finanțare date de bancã evidențiate în
+afara bilanțului;
+c) durata rãmasã de scurs Ñ durata de viațã rezidualã a activelor
+bilanțiere, obligațiilor bilanțiere și a angajamentelor primite/date de
+bancã evidențiate în afara bilanțului, stabilitã în funcție de scadențele
+acestora;
+d) țãrile din categoria A Ñ țãrile membre ale Organizației pentru
+Cooperare Economicã și Dezvoltare;
+e) excedent/deficit de lichiditate Ñ diferența pozitivã/negativã dintre
+lichiditatea efectivã și lichiditatea necesarã;
+f) norme de clasificare Ñ Regulamentul Bãncii Naționale a
+României nr. 2/2000 privind clasificarea creditelor și plasamentelor,
+precum și constituirea, regularizarea și utilizarea provizioanelor specifice de risc de credit;
+g) termen de valabilitate Ñ termenul pânã la care garanțiile de
+export, cum sunt: garanția pentru participarea la licitație, garanția pentru restituirea avansului sau garanția de bunã execuție, pot fi executate;
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+2
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 201/20.IV.2001
+
+h) perioada de observare Ñ intervalul de timp pentru care se
+determinã baza de calcul a rezervelor minime obligatorii, stabilitã conform prevederilor Regulamentului Bãncii Naționale a României
+nr. 4/1998 privind regimul rezervelor minime obligatorii;
+i) deficit de rezerve Ñ deficitul determinat în conformitate cu reglementãrile Bãncii Naționale a României privind regimul rezervelor
+minime obligatorii;
+(3) Pentru determinarea grupurilor de persoane legate economic
+între ele vor fi luate în considerare, alternativ sau cumulativ, urmãtoarele situații:
+a) sunt afiliate;
+b) au aceeași conducere;
+c) interdependențã comercialã directã, care nu poate fi substituitã
+într-un termen scurt;
+d) sunt membrii aceleiași familii.
+Art. 3. Ñ În scopul prezentelor norme, pasivele interbancare,
+altele decât împrumuturile, și angajamentele de finanțare date de
+bancã evidențiate în afara bilanțului reprezintã risc de lichiditate fațã
+de o singurã persoanã.
+Art. 4. Ñ Pentru operațiunile de primire în pensiune, de dare cu
+împrumut și de vânzare cu posibilitatea de rãscumpãrare durata
+rãmasã de scurs se stabilește în funcție de durata rãmasã pânã la
+scadența operațiunii de finanțare, de dare cu împrumut, respectiv de
+vânzare cu posibilitatea de rãscumpãrare, independent de durata de
+viațã rezidualã a titlurilor care stau la baza operațiunilor respective.
+CAPITOLUL II
+Supravegherea riscului de lichiditate
+SECÞIUNEA 1
+Supravegherea indicatorului de lichiditate
+
+Art. 5. Ñ Supravegherea riscului de lichiditate se realizeazã:
+a) de bãnci, potrivit prevederilor art. 27Ñ29;
+b) de Banca Naționalã a României, pe baza indicatorului de lichiditate raportat de bãnci, în conformitate cu prezentele norme.
+Art. 6. Ñ (1) Limita minimã a indicatorului de lichiditate este 1 și
+se calculeazã ca raport între lichiditatea efectivã și lichiditatea necesarã, pe fiecare bandã de scadențã specificatã în anexa nr. 2.
+(2) Lichiditatea efectivã se determinã prin însumarea, pe fiecare
+bandã de scadențã, a activelor bilanțiere și a angajamentelor primite
+evidențiate în afara bilanțului.
+(3) Lichiditatea necesarã se determinã prin însumarea, pe fiecare
+bandã de scadențã, a obligațiilor bilanțiere și a angajamentelor date
+evidențiate în afara bilanțului.
+(4) În cazul înregistrãrii unui excedent de lichiditate în oricare
+dintre benzile de scadențã, cu excepția ultimei benzi, acesta se va
+adãuga la nivelul lichiditãții efective, aferent benzii de scadențã
+urmãtoare.
+Art. 7. Ñ Bãncile trebuie sã menținã în permanențã indicatorul de
+lichiditate cel puțin la nivelul stabilit la art. 6 alin. (1).
+Art. 8. Ñ (1) Bãncile vor calcula indicatorul de lichiditate prin
+completarea corespunzãtoare a formularelor prevãzute în anexele
+nr. 1a)Ñ1d) și, respectiv, în anexa nr. 2.
+(2) Formularele vor fi completate avându-se în vedere urmãtoarele:
+a) vor cuprinde toate sucursalele și alte sedii secundare ale
+bãncii, deschise pe teritoriul României sau în strãinãtate;
+b) vor cuprinde toate operațiunile, indiferent de moneda în care
+sunt denominate acestea; operațiunile în monedã strãinã vor fi evaluate în echivalent în lei la cursul de schimb în vigoare comunicat de
+Banca Naționalã a României în ultima zi bancarã lucrãtoare a perioadei pentru care se întocmește raportarea;
+c) la înregistrarea activelor bilanțiere, a obligațiilor bilanțiere și a
+angajamentelor primite/date evidențiate în afara bilanțului se vor respecta prevederile anexei la Ordinul ministrului finanțelor și al guvernatorului Bãncii Naționale a României nr. 1.524/362/1998 privind
+aprobarea modelelor situațiilor financiar-contabile pentru bãnci și a
+normelor metodologice privind întocmirea și utilizarea acestora, cu
+modificãrile și completãrile ulterioare, referitoare la întocmirea situației
+mod.4028 ”Repartizarea plasamentelor, resurselor și angajamentelor
+
+din afara bilanțului în funcție de durata rãmasã de scurs,,, dacã prezentele norme nu prevãd altfel.
+Art. 9. Ñ (1) Bãncile vor transmite lunar Bãncii Naționale a
+României Ñ Direcția supraveghere formularele prevãzute la art. 8
+alin. (1) atât letric, cât și prin rețeaua de comunicații interbancare
+(directorul BCÑSYS\APP\SUP).
+(2) Raportarea se va transmite prin rețeaua de comunicații interbancare în termen de 10 zile de la sfârșitul lunii pentru care aceasta
+se întocmește și în formã letricã în termen de 15 zile de la sfârșitul
+lunii pentru care aceasta se întocmește.
+(3) În cazul în care ultima zi a termenului pânã la care se poate
+transmite raportarea este o zi nelucrãtoare, raportarea se va transmite pânã cel târziu în prima zi lucrãtoare ulterioarã acesteia.
+SUBSECÞIUNEA 1
+Lichiditatea efectivã
+
+Art. 10. Ñ În scopul determinãrii lichiditãții efective, activele
+bilanțiere și angajamentele primite de bancã evidențiate în afara
+bilanțului se repartizeazã pe benzile de scadențã, cu respectarea dispozițiilor care urmeazã.
+Art. 11. Ñ (1) Activele bilanțiere cu scadențã la vedere, cum
+sunt: casa și alte valori, contul curent la bãnci centrale, depozitele la
+vedere la bãnci centrale, conturile de corespondent la bãnci, depozitele
+la vedere la bãnci, vor fi înscrise pe prima bandã de scadențã la
+valoarea contabilã diminuatã, dupã caz, cu provizioanele constituite.
+(2) Alte active cu scadențã la vedere, cum sunt conturile curente
+debitoare și creanțele atașate aferente, vor fi înscrise pe prima bandã
+de scadențã la o valoare ajustatã determinatã prin aplicarea la valoarea contabilã diminuatã cu provizioanele constituite a coeficientului de
+ajustare (lÑk) prevãzut la art. 13 alin. (1).
+(3) Creanțele atașate aferente activelor cu scadențã la vedere
+menționate la alin. (1) vor fi înscrise pe prima bandã de scadențã la
+valoarea contabilã diminuatã, dupã caz, cu provizioanele constituite.
+Art. 12. Ñ (1) Titlurile cu venit variabil înscrise la cota unei burse
+de valori din țãri din categoria A sau din România, înregistrate la
+titluri de tranzacție sau la titluri de plasament, vor fi înscrise pe prima
+bandã de scadențã la o valoare ajustatã reprezentând 50% din valoarea contabilã diminuatã, dupã caz, cu provizioanele constituite.
+(2) Titlurile cu venit fix cu scadențã de pânã la un an inclusiv,
+emise sau garantate de organele administrației centrale din țãri din
+categoria A, înscrise la cota unei burse de valori din țãri din categoria A sau din România, și titlurile cu venit fix cu scadențã de pânã la
+un an inclusiv, negociabile, emise sau garantate de organele administrației centrale din România, înregistrate la titluri de tranzacție, titluri
+de plasament sau titluri de investiție, vor fi înscrise pe prima bandã
+de scadențã la o valoare ajustatã reprezentând 90% din valoarea
+contabilã diminuatã, dupã caz, cu provizioanele constituite.
+(3) Titlurile cu venit fix cu scadențã mai mare de un an, emise
+sau garantate de organele administrației centrale din țãri din categoria A,
+înscrise la cota unei burse de valori din țãri din categoria A sau din
+România, și titlurile cu venit fix cu scadențã mai mare de un an,
+negociabile, emise sau garantate de organele administrației centrale
+din România, înregistrate la titluri de tranzacție, titluri de plasament
+sau titluri de investiție, vor fi înscrise pe prima bandã de scadențã la
+o valoare ajustatã reprezentând 70% din valoarea contabilã diminuatã,
+dupã caz, cu provizioanele constituite.
+(4) Titlurile cu venit fix, altele decât cele menționate la alin. (2) și
+(3), înscrise la cota unei burse de valori din țãri din categoria A sau
+din România, înregistrate la titluri de tranzacție, titluri de plasament
+sau titluri de investiție, vor fi înscrise pe prima bandã de scadențã la
+o valoare ajustatã reprezentând 60% din valoarea contabilã diminuatã,
+dupã caz, cu provizioanele constituite.
+(5) Creanțele atașate aferente titlurilor cu venit fix menționate la
+alin. (2), (3) și (4) vor fi înscrise pe prima bandã de scadențã la o
+valoare ajustatã obținutã prin aplicarea la valoarea contabilã diminuatã, dupã caz, cu provizioanele constituite a coeficienților prevãzuți
+la alineatele respective.
+(6) Titlurile cu venit fix menționate la alin. (1)Ñ(4) vor fi luate în
+calcul în condițiile în care acestea nu sunt afectate garantãrii unor
+împrumuturi primite de bancã, în cadrul unor operațiuni de pensiune
+sau de creditare.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 201/20.IV.2001
+Art. 13. Ñ (1) Creditele restante aferente clientelei nebancare,
+clasificate în categoriile ”standard,, și ”în observație,, în conformitate
+cu normele de clasificare, vor fi înscrise pe prima bandã de scadențã
+la o valoare ajustatã obținutã prin aplicarea la valoarea contabilã
+diminuatã cu provizioanele constituite a coeficientului de ajustare
+(lÑk).
+(2) Coeficientul k se va determina prin raportarea soldului creditelor restante aferente clientelei nebancare, încadrate în categoriile
+”îndoielnic,, și ”pierdere,,, la total credite acordate clientelei nebancare,
+existente în sold la sfârșitul lunii pentru care se întocmește
+raportarea.
+(3) Dobânzile restante aferente creditelor menționate la alin. (1) și
+creanțele atașate aferente acestora, vor fi înscrise pe prima bandã
+de scadențã la o valoare ajustatã obținutã prin aplicarea la valoarea
+contabilã diminuatã, dupã caz, cu provizioanele constituite a coeficientului de ajustare (lÑk) prevãzut la alin. (1).
+Art. 14. Ñ (1) Creditele și plasamentele restante aferente clientelei bancare, clasificate în categoriile ”standard,, și ”substandard,,, vor fi
+înscrise pe prima bandã de scadențã la o valoare ajustatã obținutã
+prin aplicarea la valoarea contabilã diminuatã cu provizioanele constituite a coeficientului de ajustare (lÑk).
+(2) Coeficientul k se va determina prin raportarea soldului creditelor și al plasamentelor restante, aferente clientelei bancare, încadrate
+în categoriile ”îndoielnic,, și ”pierdere,,, la total credite și plasamente
+aferente clientelei bancare, existente în sold la sfârșitul lunii pentru
+care se întocmește raportarea.
+(3) Dobânzile restante aferente creditelor și plasamentelor
+menționate la alin. (1) și creanțele atașate aferente acestora vor fi
+înscrise pe prima bandã de scadențã la o valoare ajustatã, obținutã
+prin aplicarea la valoarea contabilã diminuatã, dupã caz, cu provizioanele constituite a coeficientului de ajustare (lÑk) prevãzut la
+alin. (1).
+Art. 15. Ñ (1) Categoriile de active specificate în anexa nr. 1a),
+altele decât cele menționate anterior, vor fi repartizate pe benzile de
+scadențã în funcție de durata rãmasã de scurs, la valoarea contabilã
+diminuatã, dupã caz, cu provizioanele constituite, dacã prezentele
+norme nu specificã altfel.
+(2) Titlurile cu venit fix sau variabil care fac obiectul operațiunilor
+de dare cu împrumut vor fi luate în calcul dacã îndeplinesc una
+dintre urmãtoarele condiții:
+a) sunt înscrise la cota unei burse de valori din țãri cuprinse în
+categoria A sau din România;
+b) sunt emise sau garantate de organele administrației centrale
+din România.
+(3) Creditele acordate rezultate din operațiunile de primire în
+pensiune livratã, existente în sold la finele lunii pentru care se
+întocmește raportarea, vor fi luate în calcul dacã titlurile cu venit fix
+sau variabil aferente acestor operațiuni îndeplinesc una dintre
+condițiile menționate la alin. (2) și dacã nu fac obiectul unor
+operațiuni de redare în pensiune.
+Art. 16. Ñ Creditele curente și creanțele atașate aferente clientelei nebancare vor fi evidențiate la o valoare ajustatã determinatã prin
+aplicarea la valoarea contabilã aferentã fiecãrei benzi de scadențã,
+diminuatã cu provizioanele constituite, a coeficientului de ajustare
+(lÑk) prevãzut la art. 13 alin. (1).
+Art. 17. Ñ (1) La determinarea lichiditãții efective angajamentele
+de garanție de natura cauțiunilor, avalurilor și a altor garanții primite
+de la bãnci vor fi luate în calcul numai dacã sunt irevocabile și
+necondiționate.
+(2) Angajamentele de garanție menționate la alin. (1), executabile
+la vedere sau pentru care se prevede un termen de valabilitate, vor
+fi înscrise pe prima bandã de scadențã la o valoare ajustatã obținutã
+prin aplicarea la valoarea contabilã a coeficientului k.
+(3) Coeficientul k se determinã prin raportarea soldului mediu al
+angajamentelor de garanție irevocabile și necondiționate primite, a
+cãror executare a fost solicitatã de bancã în perioada de 6 luni anterioare lunii pentru care se întocmește raportarea și încasate în termen de 30 de zile de la data la care executarea a fost solicitatã, la
+soldul mediu al angajamentelor de garanție irevocabile și
+necondiționate primite, calculat pentru o perioadã de 6 luni anterioare
+lunii pentru care se întocmește raportarea.
+
+3
+
+(4) Soldul mediu al angajamentelor de garanție irevocabile și
+necondiționate primite, a cãror executare a fost solicitatã de bancã în
+perioada de 6 luni anterioare lunii pentru care se întocmește raportarea, și încasate în termen de 30 de zile de la data la care executarea a fost solicitatã, se determinã pe baza mediei aritmetice simple a
+soldurilor lunare.
+(5) Soldul mediu al angajamentelor de garanție irevocabile și
+necondiționate primite, calculat pentru o perioadã de 6 luni anterioare
+lunii pentru care se întocmește raportarea, se determinã pe baza
+mediei aritmetice simple a soldurilor medii lunare. Soldul mediu lunar
+se calculeazã pe baza mediei aritmetice simple a soldurilor angajamentelor de garanție irevocabile și necondiționate, înregistrate la
+datele de 1, 7, 15, 23 și, respectiv, în ultima zi a lunii.
+Art. 18. Ñ (1) Angajamentele primite, evidențiate în afara
+bilanțului, specificate în anexa nr. 1c), altele decât cele menționate la
+art. 17, vor fi repartizate pe benzile de scadențã în funcție de durata
+rãmasã de scurs și vor fi evidențiate astfel:
+a) angajamentele de finanțare primite și angajamentele privind
+titlurile de livrat, la valoarea contabilã;
+b) angajamentele de garanție irevocabile și necondiționate, de
+natura cauțiunilor, avalurilor și a altor garanții primite de la bãnci,
+pentru care sunt stabilite scadențe certe, la o valoare ajustatã
+obținutã prin aplicarea la valoarea contabilã aferentã fiecãrei benzi de
+scadențã a coeficientului k calculat la art. 17.
+(2) Titlurile de livrat vor fi luate în calcul dacã îndeplinesc una
+dintre urmãtoarele condiții:
+a) sunt înscrise la cota unei burse de valori din țãri cuprinse în
+categoria A sau din România;
+b) sunt emise sau garantate de organele administrației centrale
+din România.
+SUBSECÞIUNEA a 2-a
+Lichiditatea necesarã
+
+Art. 19. Ñ În scopul determinãrii lichiditãții necesare obligațiile
+bilanțiere și angajamentele date de bancã evidențiate în afara
+bilanțului se repartizeazã pe benzile de scadențã, cu respectarea dispozițiilor care urmeazã.
+Art. 20. Ñ (1) Obligațiile bilanțiere cu scadențã la vedere, cum
+sunt: conturile de corespondent ale bãncilor, depozitele la vedere ale
+bãncilor, conturile curente creditoare, depozitele la vedere ale clientelei, vor fi înscrise pe prima bandã de scadențã la o valoare ajustatã,
+determinatã potrivit prevederilor alin. (2), numai dacã valoarea
+obținutã din calcul este pozitivã.
+(2) Valoarea ajustatã se determinã prin deducerea din soldul
+curent aferent fiecãrei categorii de obligații bilanțiere, existent la finele
+lunii pentru care se întocmește raportarea, a soldului mediu aferent
+acestor categorii, calculat pentru o perioadã de 6 luni anterioare lunii
+pentru care se întocmește raportarea.
+(3) Soldul mediu menționat la alin. (2) va fi calculat pe baza
+mediei aritmetice simple a soldurilor medii lunare aferente fiecãrei
+categorii de obligații bilanțiere. Soldul mediu lunar se va calcula pe
+baza mediei aritmetice simple a soldurilor aferente fiecãrei categorii
+de obligații bilanțiere înregistrate la datele de 1, 7, 15, 23 și, respectiv, în ultima zi a lunii.
+(4) În cazul în care valoarea ajustatã obținutã din calcul este nulã
+sau negativã, obligațiile bilanțiere cu scadența la vedere nu vor fi
+luate în calcul la determinarea lichiditãții necesare.
+(5) Datoriile atașate aferente obligațiilor bilanțiere menționate la
+alin. (1) vor fi înscrise pe prima bandã de scadențã, la valoarea
+contabilã.
+Art. 21. Ñ Bãncile care în perioada de observare anterioarã datei
+de raportare a indicatorului de lichiditate înregistreazã deficit de
+rezerve sau care în luna anterioarã datei pentru care se întocmește
+raportarea înregistreazã niveluri ale indicatorilor de solvabilitate sub
+limitele minime prevãzute de reglementãrile Bãncii Naționale a
+României vor înregistra categoriile de obligații bilanțiere specificate la
+art. 20 alin. (1) la valoarea contabilã.
+Art. 22. Ñ Categoriile de obligații bilanțiere prevãzute în
+anexa 1b), altele decât cele menționate la art. 20, vor fi repartizate
+pe scadențe în funcție de durata rãmasã de scurs, la valoarea
+contabilã.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+4
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 201/20.IV.2001
+
+Art. 23. Ñ (1) La determinarea lichiditãții necesare angajamentele
+de garanție de natura cauțiunilor, avalurilor și a altor garanții date
+altor bãnci, precum și a garanțiilor date pentru clientelã, altele decât
+cele garantate cu depozite colaterale, vor fi luate în calcul numai
+dacã sunt irevocabile și necondiționate.
+(2) Angajamentele de garanție prevãzute la alin. (1), executabile
+la vedere sau pentru care se prevede un termen limitã de valabilitate,
+vor fi înscrise în prima bandã de scadențã, la o valoare ajustatã
+obținutã prin aplicarea la valoarea contabilã a coeficientului k.
+(3) Coeficientul k se va determina prin raportarea soldului mediu
+al angajamentelor de garanție irevocabile și necondiționate date, a
+cãror executare a fost solicitatã bãncii în perioada de 6 luni anterioare lunii pentru care se întocmește raportarea, la soldul mediu al
+angajamentelor de garanție irevocabile și necondiționate date, calculat
+pentru o perioadã de 6 luni anterioare lunii pentru care se întocmește
+raportarea.
+(4) Soldul mediu al angajamentelor de garanție irevocabile și
+necondiționate date, a cãror executare a fost solicitatã bãncii în perioada de 6 luni anterioare lunii pentru care se întocmește raportarea,
+se determinã pe baza mediei aritmetice simple a soldurilor lunare.
+(5) Soldul mediu al angajamentelor de garanție irevocabile și
+necondiționate date, calculat pentru o perioadã de 6 luni anterioare
+lunii pentru care se întocmește raportarea, se determinã pe baza
+mediei aritmetice simple a soldurilor medii lunare. Soldul mediu lunar
+se calculeazã pe baza mediei aritmetice simple a soldurilor angajamentelor de garanție irevocabile și necondiționate date, înregistrate la
+datele de 1, 7, 15, 23 și, respectiv, în ultima zi a lunii.
+Art. 24. Ñ Angajamentele date, evidențiate în afara bilanțului,
+specificate în anexa nr. 1d), altele decât cele menționate la art. 23
+alin. (2), vor fi repartizate pe scadențe în funcție de durata rãmasã
+de scurs și vor fi evidențiate astfel:
+a) angajamentele de finanțare date și angajamentele privind titlurile de primit, la valoarea contabilã;
+b) angajamentele de garanție irevocabile și necondiționate, de
+natura cauțiunilor, avalurilor și a altor garanții date altor bãnci, precum și a garanțiilor date clientelei, pentru care sunt prevãzute scadențe certe, la o valoare ajustatã obținutã prin aplicarea la valoarea
+contabilã aferentã fiecãrei benzi de scadențã a coeficientului k calculat la art. 23.
+SECÞIUNEA a 2-a
+Supravegherea riscului mare de lichiditate fațã de o singurã persoanã
+
+Art. 25. Ñ (1) Bãncile vor raporta Bãncii Naționale a României Ñ
+Direcția supraveghere nivelul riscurilor mari de lichiditate fațã de o
+singurã persoanã prin intermediul formularelor prevãzute în anexele
+nr. 3a) și 3b).
+(2) Formularele vor fi transmise lunar atât letric, cât și prin
+rețeaua de comunicații interbancare (directorul BCÑSYS\APP\SUP).
+(3) Raportarea se va transmite prin rețeaua de comunicații interbancare în termen de 10 zile de la sfârșitul lunii pentru care aceasta
+se întocmește și în formã letricã în termen de 15 zile de la sfârșitul
+lunii pentru care aceasta se întocmește.
+(4) În cazul în care ultima zi a termenului pânã la care se poate
+transmite raportarea este o zi nelucrãtoare, raportarea se va transmite cel târziu pânã în prima zi lucrãtoare ulterioarã acesteia.
+Art. 26. Ñ În cazul în care nivelul unui risc mare de lichiditate
+fațã de o singurã persoanã depãșește 15% din totalul obligațiilor
+bilanțiere, altele decât împrumuturile, și al angajamentelor de finanțare
+date de bancã evidențiate în afara bilanțului, bãncile vor calcula lichiditatea necesarã prin înregistrarea la valoarea contabilã a obligațiilor
+bilanțiere cu scadența la vedere pe care le au fațã de persoana respectivã.
+
+SECÞIUNEA a 3-a
+Cerințe de management și control intern
+
+Art. 27. Ñ (1) În vederea limitãrii riscului de lichiditate, precum și
+încadrãrii în condițiile stabilite de prezentele norme bãncile sunt obligate sã își stabileascã pentru fiecare exercițiu financiar:
+a) strategia în domeniul managementului lichiditãții, care va fi
+reanalizatã ori de câte ori modificarea condițiilor mediului de afaceri o
+impune;
+b) strategia managementului lichiditãții în cazuri de crizã, materializatã într-un plan alternativ care sã prevadã soluții pentru depãșirea
+în condiții optime a perioadei de crizã.
+(2) În cazul bãncilor persoane juridice române strategiile în
+domeniul managementului lichiditãții trebuie aprobate de consiliul de
+administrație.
+Art. 28. Ñ (1) În vederea realizãrii obiectivelor stabilite prin strategiile în domeniul managementului lichiditãții bãncile sunt obligate sã
+dispunã de proceduri de urmãrire și limitare a riscului de lichiditate,
+care sã respecte cerințele prezentelor norme.
+(2) În cazul bãncilor persoane juridice române procedurile de
+urmãrire și limitare a riscului de lichiditate trebuie sã fie aprobate cel
+puțin la nivelul comitetului de risc.
+(3) Bãncile sunt obligate sã dispunã de proceduri administrative și
+de control intern adecvate care sã permitã supravegherea riscului de
+lichiditate.
+Art. 29. Ñ (1) Bãncile sunt obligate sã desemneze un conducãtor
+care sã asigure coordonarea permanentã a activitãții în domeniul
+managementului lichiditãții.
+(2) În termen de 15 zile de la data intrãrii în vigoare a prezentelor norme bãncile vor comunica Bãncii Naționale a României Ñ
+Direcția supraveghere identitatea persoanei din conducerea bãncii
+care asigurã coordonarea acestei activitãți.
+(3) În cazul desemnãrii unui nou conducãtor în calitate de coordonator al acestei activitãți bãncile vor comunica Bãncii Naționale a
+României Ñ Direcția supraveghere identitatea noii persoane în termen
+de 5 zile de la data desemnãrii acesteia.
+CAPITOLUL III
+Dispoziții tranzitorii și finale
+Art. 30. Ñ (1) În termen de 6 luni de la data intrãrii în vigoare a
+prezentelor norme bãncile se vor încadra în limitele de prudențã bancarã prevãzute de acestea.
+(2) În perioada prevãzutã la alin. (1) bãncile nu vor încheia
+tranzacții care sã conducã la deteriorarea, pe oricare dintre benzile
+de scadențã, a nivelului indicatorului de lichiditate înregistrat în prima
+lunã de raportare care, ca urmare a aplicãrii metodologiei de determinare a acestuia stabilite prin prezentele norme, nu se încadreazã
+în limitele prevãzute la art. 6 alin. (1).
+Art. 31. Ñ În vederea limitãrii riscului de lichiditate bãncile sunt
+obligate sã asigure o evidențã extracontabilã corespunzãtoare, care
+sã stea la baza întocmirii raportãrilor de prudențã bancarã prevãzute
+de prezentele norme.
+Art. 32. Ñ Formularele de raportare prevãzute la art. 8 și la art. 25
+se întocmesc pe baza datelor din evidența contabilã și din evidențele
+extracontabile și se semneazã de conducãtorul bãncii menționat la
+art. 29 și de conducãtorul compartimentului financiar-contabil.
+Art. 33. Ñ Nerespectarea prezentelor norme atrage aplicarea
+sancțiunilor și/sau a mãsurilor prevãzute la art. 69 și, respectiv, la
+art. 70 din Legea bancarã nr. 58/1998.
+Art. 34. Ñ (1) Prezentele norme intrã în vigoare în termen de
+3 luni de la data publicãrii lor în Monitorul Oficial al României, Partea I.
+(2) Anexele nr. 1Ñ3*) fac parte integrantã din prezentele norme.
+
+p. GUVERNATORUL BÃNCII NAÞIONALE A ROMÂNIEI,
+
+CRISTIAN POPA
+București, 9 aprilie 2001.
+Nr. 1.
+*) Anexele nr. 1Ð3 sunt reproduse în facsimil.
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 201/20.IV.2001
+
+5
+ANEXA Nr. 1a)
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+6
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 201/20.IV.2001
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 201/20.IV.2001
+
+7
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+8
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 201/20.IV.2001
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 201/20.IV.2001
+
+9
+ANEXA Nr. 1b)
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+10
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 201/20.IV.2001
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 201/20.IV.2001
+
+11
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+12
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 201/20.IV.2001
+ANEXA Nr. 1c)
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 201/20.IV.2001
+
+13
+
+ANEXA Nr. 1d)
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+14
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 201/20.IV.2001
+ANEXA Nr. 2
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 201/20.IV.2001
+
+15
+ANEXA Nr. 3a)
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+16
+
+MONITORUL OFICIAL AL ROMÂNIEI, PARTEA I, Nr. 201/20.IV.2001
+ANEXA Nr. 3b)
+
+EDITOR: PARLAMENTUL ROMÂNIEI Ñ CAMERA DEPUTAÞILOR
+Regia Autonomã ”Monitorul Oficial,,, str. Izvor nr. 2Ð4, Palatul Parlamentului, sectorul 5, București,
+cont nr. 2511.1Ñ12.1/ROL Banca Comercialã Românã Ñ S.A. Ñ Sucursala ”Unirea,, București
+și nr. 5069427282 Trezoreria sector 5, București (alocat numai persoanelor juridice bugetare).
+Adresa pentru publicitate: Centrul pentru relații cu publicul, București, șos. Panduri nr. 1,
+bloc P33, parter, sectorul 5, tel. 411.58.33 și 411.97.54, tel./fax 410.77.36.
+Tiparul : Regia Autonomã ”Monitorul Oficial,,, tel. 490.65.52, 335.01.11/2178 și 402.21.78,
+E-mail: ramomrk@bx.logicnet.ro, Internet: www.monitoruloficial.ro
+Monitorul Oficial al României, Partea I, nr. 201/20.IV.2001 conține 16 pagini.
+
+Prețul 6.096 lei
+
+ISSN 1453Ñ4495
+
+PDF compression, OCR, web-optimization with CVISION's PdfCompressor
+
+
